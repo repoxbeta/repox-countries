@@ -7,7 +7,6 @@ on:
 env:
   GITHUB_REPOSITORY: ${{ github.repository }}
   GITHUB_OWNER: ${{ github.repository_owner }}
-  NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
 
 jobs:
   validate-release-version:
@@ -119,5 +118,5 @@ jobs:
       - name: Publish to npm registry
         run: yarn publish --provenance --access public
         env:
-          NODE_AUTH_TOKEN: ${{ env.NPM_TOKEN }}
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
           NPM_CONFIG_PROVENANCE: true
