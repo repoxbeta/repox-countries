@@ -1,6 +1,6 @@
 {
   "name": "repox-countries",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "scripts": {
     "build": "node build.js",
@@ -50,6 +50,14 @@
   "type": "module",
   "license": "MIT",
   "description": "Provides up-to-date country, state, city, language, currency, phone code, and postal code data, sourced daily from the GeoNames API. Integrate easily into forms or use for data verification. Updated versions are released when changes occur.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/repoxbeta/repox-countries.git"
+  },
+  "bugs": {
+    "url": "https://github.com/repoxbeta/repox-countries/issues"
+  },
+  "homepage": "https://github.com/repoxbeta/repox-countries#repox-countries",
   "devDependencies": {
     "@types/axios": "^0.14.4",
     "@types/node": "^22.13.10",
