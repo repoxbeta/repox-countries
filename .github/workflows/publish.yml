@@ -115,6 +115,22 @@ jobs:
       - name: Install dependencies
         run: CI=true yarn install
 
+      - name: Debug NPM_TOKEN
+        run: |
+          if [[ -z "${NODE_AUTH_TOKEN}" ]]; then
+            echo "❌ NODE_AUTH_TOKEN is empty!"
+            exit 1
+          else
+            echo "✅ NODE_AUTH_TOKEN is set."
+          fi
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+
+      - name: Check NPM Token Auth
+        run: npm whoami
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+
       - name: Publish to npm registry
         run: yarn publish --provenance --access public
         env:
