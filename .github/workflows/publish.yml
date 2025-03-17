@@ -115,6 +115,9 @@ jobs:
       - name: Install dependencies
         run: CI=true yarn install
 
+      - name: Build package
+        run: yarn build
+
       - name: Publish to npm registry
         run: yarn publish --provenance --access public
         env:
