@@ -1,4 +1,4 @@
-import Metadata from './../metadata';
+import { getCountriesAdditional } from './../metadata';
 import { get } from './../libs/axios';
 import { savingFile } from './../libs/store';
 import { CountryGeoname, StateGeoname, CityGeoname, CountryAdditional } from './types';
@@ -28,7 +28,7 @@ export const crawlCountries = async (): Promise<Country[]> => {
   const countries = response.geonames;
   console.log('Countries crawled: ', countries.length);
 
-  const countriesAdditional = await Metadata.getCountriesAdditional() as CountryAdditional[];
+  const countriesAdditional = await getCountriesAdditional() as CountryAdditional[];
   const phoneCodes: PhoneCode[] = [];
   const currencies: Currency[] = [];
   const list = countries.map((country) => {
