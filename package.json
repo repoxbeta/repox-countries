@@ -1,8 +1,13 @@
 {
   "name": "repox-countries",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "module": "dist/index.js",
+  "exports": {
+    "require": "./dist/index.cjs",
+    "import": "./dist/index.mjs"
+  },
   "scripts": {
     "build": "node build.js",
     "start": "node dist/index.js",

@@ -28,9 +28,21 @@ async function minifyJSON(dir = './dist/metadata') {
   }
 }
 
+async function fixMetadataImport() {
+  const filePath = './dist/index.js';
+  try {
+    let content = await fs.readFile(filePath, 'utf8');
+    content = content.replace(/["']\.\.\/src\/metadata["']/g, '\'./metadata\'');
+    await fs.writeFile(filePath, content, 'utf8');
+    console.log('✅ Fixed metadata import in dist/index.js');
+  } catch (err) {
+    console.error(`❌ Failed to fix metadata import: ${err.message}`);
+  }
+}
+
 async function buildProject() {
   try {
-    // 1️⃣ Run `esbuild`
+    // 1️⃣ Build ES Modules (`.js`)
     await build({
       entryPoints: ['./src/index.ts'],
       bundle: true,
@@ -38,6 +50,7 @@ async function buildProject() {
       platform: 'node',
       target: 'esnext',
       format: 'esm',
+      external: ['./src/metadata'],
       sourcemap: false,
       resolveExtensions: ['.ts', '.tsx', '.js', '.json'],
       plugins: [
@@ -47,8 +60,26 @@ async function buildProject() {
         }),
       ],
     });
-
     console.log('✅ esbuild completed.');
+
+    // 1️⃣ Build CommonJS (`.cjs`)
+    await build({
+      entryPoints: ['./src/index.ts'],
+      outfile: './dist/index.cjs',
+      platform: 'node',
+      target: 'esnext',
+      format: 'cjs',
+      sourcemap: false,
+      plugins: [
+        copyStaticFiles({
+          src: './src/metadata',
+          dest: './dist/metadata',
+        }),
+      ],
+    });
+    console.log('✅ commonjs build completed.');
+
+    await fixMetadataImport();
 
     // 2️⃣ Run `tsc` to generate `.d.ts` files
     execSync('tsc', { stdio: 'inherit' });

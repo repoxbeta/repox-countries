@@ -1,43 +1,35 @@
 import { Country, CountryState, Currency, Language, PhoneCode, StateCity } from '../types';
 import { CountryAdditional } from '../crawl/types';
-import fs from 'fs/promises';
-import path from 'path';
-import { fileURLToPath } from 'url';
-
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
 
 async function readFile<T = unknown>(name: string): Promise<T> {
-  const resolvedPath = path.resolve(__dirname, `./../metadata/${name}.json`);
-  const data = await fs.readFile(resolvedPath, 'utf8');
-  return JSON.parse(data) as T;
+  return (await import(`./${name}.json`, { assert: { type: 'json' } })).default as T;
 }
 
-async function getCountries(): Promise<Country[]> {
+export async function getCountries(): Promise<Country[]> {
   return readFile<Country[]>('countries');
 }
 
-async function getCountriesAdditional(): Promise<CountryAdditional[]> {
+export async function getCountriesAdditional(): Promise<CountryAdditional[]> {
   return readFile<CountryAdditional[]>('countries.additional');
 }
 
-async function getStates(): Promise<CountryState[]> {
+export async function getStates(): Promise<CountryState[]> {
   return readFile<CountryState[]>('states');
 }
 
-async function getCities(): Promise<StateCity[]> {
+export async function getCities(): Promise<StateCity[]> {
   return readFile<StateCity[]>('cities');
 }
 
-async function getPhoneCodes(): Promise<PhoneCode[]> {
+export async function getPhoneCodes(): Promise<PhoneCode[]> {
   return readFile<PhoneCode[]>('phone.codes');
 }
 
-async function getLanguages(): Promise<Language[]> {
+export async function getLanguages(): Promise<Language[]> {
   return readFile<Language[]>('languages');
 }
 
-async function getCurrencies(): Promise<Currency[]> {
+export async function getCurrencies(): Promise<Currency[]> {
   return readFile<Currency[]>('currencies');
 }
 
