@@ -2,6 +2,10 @@ import { Country, CountryState, Currency, Language, PhoneCode, StateCity } from 
 import { CountryAdditional } from '../crawl/types';
 import fs from 'fs/promises';
 import path from 'path';
+import { fileURLToPath } from 'url';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 async function readFile<T = unknown>(name: string): Promise<T> {
   const resolvedPath = path.resolve(__dirname, `./../metadata/${name}.json`);

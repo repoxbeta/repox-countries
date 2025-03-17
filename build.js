@@ -37,6 +37,7 @@ async function buildProject() {
       outfile: './dist/index.js',
       platform: 'node',
       target: 'esnext',
+      format: 'esm',
       sourcemap: false,
       resolveExtensions: ['.ts', '.tsx', '.js', '.json'],
       plugins: [
