@@ -28,7 +28,7 @@ export const crawlCountries = async (): Promise<Country[]> => {
   const countries = response.geonames;
   console.log('Countries crawled: ', countries.length);
 
-  const countriesAdditional = Metadata.CountriesAdditional as CountryAdditional[];
+  const countriesAdditional = await Metadata.getCountriesAdditional() as CountryAdditional[];
   const phoneCodes: PhoneCode[] = [];
   const currencies: Currency[] = [];
   const list = countries.map((country) => {
@@ -115,8 +115,8 @@ export const crawlStates = async (countries: Country[]): Promise<CountryState[]>
             internalCode: state.adminCodes1?.ISO3166_2 ?? '',
             countryId: country.id,
             countryCode: country.code,
-            latitude: state.latitude,
-            longitude: state.longitude,
+            latitude: parseFloat(state.latitude.toString()) as number,
+            longitude: parseFloat(state.longitude.toString()) as number,
           })),
         } as CountryState;
       } catch (error) {
@@ -176,8 +176,8 @@ export const crawlCities = async (countryStates: CountryState[]): Promise<StateC
             countryId: state.countryId,
             countryCode: state.countryCode,
             stateCode: state.code,
-            latitude: city.lat,
-            longitude: city.lng,
+            latitude: parseFloat(city.lat.toString()) as number,
+            longitude: parseFloat(city.lng.toString()) as number,
           })),
         } as StateCity;
       } catch (error) {

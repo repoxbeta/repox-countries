@@ -1,7 +1,8 @@
 {
   "name": "repox-countries",
   "version": "0.0.1",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "build": "node build.js",
     "start": "node dist/index.js",
@@ -17,6 +18,12 @@
     "format": "prettier --write .",
     "format:check": "prettier --check ."
   },
+  "files": [
+    "dist",
+    "LICENSE",
+    "package.json",
+    "README.md"
+  ],
   "keywords": [
     "repox",
     "geonames",
@@ -64,6 +71,7 @@
     "@typescript-eslint/eslint-plugin": "^6.0.0",
     "@typescript-eslint/parser": "^6.0.0",
     "esbuild": "^0.24.0",
+    "esbuild-copy-static-files": "^0.1.0",
     "eslint": "^8.0.0",
     "prettier": "^3.5.3",
     "ts-node-dev": "^2.0.0",

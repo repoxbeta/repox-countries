@@ -10,6 +10,7 @@
     "outDir": "./dist", // Output directory for compiled files.
     "rootDir": "./src", // Root directory for source files.
     "declaration": true, // Emit type declaration files.
+    "emitDeclarationOnly": true,
     "resolveJsonModule": true, // Support importing JSON modules.
     "allowSyntheticDefaultImports": true, // Support default imports in modules.
     "isolatedModules": true // Ensure compatibility with ESM.

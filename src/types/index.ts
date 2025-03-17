@@ -94,11 +94,7 @@ export interface StateCity {
 export interface CountryStateCity {
   countryId: number;
   countryCode: string;
-  states: {
-    stateId: number;
-    stateCode: string;
-    cities: City[];
-  }[];
+  states: StateCity[];
 }
 
 /**

@@ -34,14 +34,15 @@ The metadata can be accessed through the `src/utils/index.ts` file, which provid
 ### Example
 
 ```typescript
-import { CountryById, Countries } from './utils/index';
+import { getCountries, CountryById, CountryByCode } from 'repox-countries';
 
-// Get a specific country by ID
-const country = CountryById(1);
+// Get a specific country by ID or code
+const country = CountryById(6252001);
+// const country = CountryByCode("US");
 console.log(country);
 
 // List all countries
-console.log(Countries);
+console.log(getCountries());
 ```
 
 ## Data Maintenance
