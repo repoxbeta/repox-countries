@@ -1,0 +1,62 @@
+{
+  "stateId": 8469239,
+  "stateCode": "TZ-27",
+  "countryCode": "TZ",
+  "cities": [
+    {
+      "id": 8299600,
+      "name": "Bukombe District",
+      "nativeName": "Bukombe District",
+      "code": "TZ-27-8299600",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-27",
+      "latitude": -3.573,
+      "longitude": 31.686
+    },
+    {
+      "id": 9072755,
+      "name": "Chato District",
+      "nativeName": "Chato District",
+      "code": "TZ-27-9072755",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-27",
+      "latitude": -2.63333,
+      "longitude": 31.76667
+    },
+    {
+      "id": 159907,
+      "name": "Geita District Council",
+      "nativeName": "Geita",
+      "code": "TZ-27-159907",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-27",
+      "latitude": -2.80952,
+      "longitude": 32.20976
+    },
+    {
+      "id": 9998062,
+      "name": "Mbogwe District Council",
+      "nativeName": "Mbogwe",
+      "code": "TZ-27-9998062",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-27",
+      "latitude": -3.45926,
+      "longitude": 32.22535
+    },
+    {
+      "id": 9998063,
+      "name": "Nyang’hwale District Council",
+      "nativeName": "Nyang’hwale",
+      "code": "TZ-27-9998063",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-27",
+      "latitude": -3.13751,
+      "longitude": 32.63251
+    }
+  ]
+}

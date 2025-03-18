@@ -1,0 +1,106 @@
+{
+  "stateId": 7303492,
+  "stateCode": "MH-ALL",
+  "countryCode": "MH",
+  "cities": [
+    {
+      "id": 7306515,
+      "name": "Airok",
+      "nativeName": "Airuk",
+      "code": "MH-ALL-7306515",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-ALL",
+      "latitude": 7.27717,
+      "longitude": 168.8203
+    },
+    {
+      "id": 4038866,
+      "name": "Airok",
+      "nativeName": "Airok",
+      "code": "MH-ALL-4038866",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-ALL",
+      "latitude": 7.27861,
+      "longitude": 168.82167
+    },
+    {
+      "id": 4039438,
+      "name": "Buoj",
+      "nativeName": "Buoj",
+      "code": "MH-ALL-4039438",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-ALL",
+      "latitude": 7.28333,
+      "longitude": 168.75
+    },
+    {
+      "id": 2080498,
+      "name": "Enuebing",
+      "nativeName": "Enuebing",
+      "code": "MH-ALL-2080498",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-ALL",
+      "latitude": 7.27912,
+      "longitude": 168.76966
+    },
+    {
+      "id": 2080402,
+      "name": "Jabwan",
+      "nativeName": "Jabwan",
+      "code": "MH-ALL-2080402",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-ALL",
+      "latitude": 7.27785,
+      "longitude": 168.79789
+    },
+    {
+      "id": 2080636,
+      "name": "Jeh",
+      "nativeName": "Jeh",
+      "code": "MH-ALL-2080636",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-ALL",
+      "latitude": 7.48784,
+      "longitude": 168.939
+    },
+    {
+      "id": 7304029,
+      "name": "Jih",
+      "nativeName": "Jih",
+      "code": "MH-ALL-7304029",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-ALL",
+      "latitude": 7.59386,
+      "longitude": 168.96166
+    },
+    {
+      "id": 2080758,
+      "name": "Medyil",
+      "nativeName": "Medyil",
+      "code": "MH-ALL-2080758",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-ALL",
+      "latitude": 7.52749,
+      "longitude": 168.94046
+    },
+    {
+      "id": 2080486,
+      "name": "Woja",
+      "nativeName": "Woja",
+      "code": "MH-ALL-2080486",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-ALL",
+      "latitude": 7.43896,
+      "longitude": 168.54954
+    }
+  ]
+}

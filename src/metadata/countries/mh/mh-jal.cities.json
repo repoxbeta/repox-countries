@@ -1,0 +1,117 @@
+{
+  "stateId": 7303501,
+  "stateCode": "MH-JAL",
+  "countryCode": "MH",
+  "cities": [
+    {
+      "id": 2080422,
+      "name": "Jabor",
+      "nativeName": "Jabor",
+      "code": "MH-JAL-2080422",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-JAL",
+      "latitude": 5.92098,
+      "longitude": 169.64335
+    },
+    {
+      "id": 7304120,
+      "name": "Ajejen",
+      "nativeName": "Ajejen",
+      "code": "MH-JAL-7304120",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-JAL",
+      "latitude": 6.0564,
+      "longitude": 169.67131
+    },
+    {
+      "id": 7304124,
+      "name": "Ewo",
+      "nativeName": "Ewo",
+      "code": "MH-JAL-7304124",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-JAL",
+      "latitude": 5.83086,
+      "longitude": 169.54574
+    },
+    {
+      "id": 7304121,
+      "name": "Imiej",
+      "nativeName": "Imiej",
+      "code": "MH-JAL-7304121",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-JAL",
+      "latitude": 6.01236,
+      "longitude": 169.72057
+    },
+    {
+      "id": 7304119,
+      "name": "Inroj",
+      "nativeName": "Inroj",
+      "code": "MH-JAL-7304119",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-JAL",
+      "latitude": 6.0716,
+      "longitude": 169.60934
+    },
+    {
+      "id": 7304123,
+      "name": "Jaluit",
+      "nativeName": "Jaluit",
+      "code": "MH-JAL-7304123",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-JAL",
+      "latitude": 5.79431,
+      "longitude": 169.59174
+    },
+    {
+      "id": 4040744,
+      "name": "Mejatto",
+      "nativeName": "Mejatto",
+      "code": "MH-JAL-4040744",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-JAL",
+      "latitude": 6.11177,
+      "longitude": 169.58416
+    },
+    {
+      "id": 7304126,
+      "name": "Mejrirok",
+      "nativeName": "Mejrirok",
+      "code": "MH-JAL-7304126",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-JAL",
+      "latitude": 5.86348,
+      "longitude": 169.52402
+    },
+    {
+      "id": 7304125,
+      "name": "Menge",
+      "nativeName": "Menge",
+      "code": "MH-JAL-7304125",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-JAL",
+      "latitude": 5.84751,
+      "longitude": 169.52797
+    },
+    {
+      "id": 7304127,
+      "name": "Pinglep",
+      "nativeName": "Pinglep",
+      "code": "MH-JAL-7304127",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-JAL",
+      "latitude": 5.95073,
+      "longitude": 169.43167
+    }
+  ]
+}

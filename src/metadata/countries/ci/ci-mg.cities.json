@@ -1,0 +1,40 @@
+{
+  "stateId": 11153058,
+  "stateCode": "CI-MG",
+  "countryCode": "CI",
+  "cities": [
+    {
+      "id": 11153163,
+      "name": "Cavally",
+      "nativeName": "Cavally",
+      "code": "CI-MG-11153163",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "stateCode": "CI-MG",
+      "latitude": 6.56343,
+      "longitude": -7.92526
+    },
+    {
+      "id": 11153165,
+      "name": "Tonkpi",
+      "nativeName": "Tonkpi",
+      "code": "CI-MG-11153165",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "stateCode": "CI-MG",
+      "latitude": 7.56785,
+      "longitude": -7.60941
+    },
+    {
+      "id": 11153164,
+      "name": "Yémahin Region",
+      "nativeName": "Guémon",
+      "code": "CI-MG-11153164",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "stateCode": "CI-MG",
+      "latitude": 7.093,
+      "longitude": -7.17785
+    }
+  ]
+}

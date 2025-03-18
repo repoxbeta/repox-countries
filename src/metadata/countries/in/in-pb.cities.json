@@ -1,0 +1,260 @@
+{
+  "stateId": 1259223,
+  "stateCode": "IN-PB",
+  "countryCode": "IN",
+  "cities": [
+    {
+      "id": 1278711,
+      "name": "Amritsar",
+      "nativeName": "Amritsar",
+      "code": "IN-PB-1278711",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-PB",
+      "latitude": 31.67,
+      "longitude": 74.84
+    },
+    {
+      "id": 8407165,
+      "name": "Barnala",
+      "nativeName": "Barnala",
+      "code": "IN-PB-8407165",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-PB",
+      "latitude": 30.38,
+      "longitude": 75.5
+    },
+    {
+      "id": 1276071,
+      "name": "Bathinda",
+      "nativeName": "Bathinda",
+      "code": "IN-PB-1276071",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-PB",
+      "latitude": 30.21,
+      "longitude": 75.03
+    },
+    {
+      "id": 1271950,
+      "name": "Faridkot",
+      "nativeName": "Faridkot",
+      "code": "IN-PB-1271950",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-PB",
+      "latitude": 30.65,
+      "longitude": 74.75
+    },
+    {
+      "id": 7909874,
+      "name": "Fatehgarh Sahib",
+      "nativeName": "Fatehgarh Sahib",
+      "code": "IN-PB-7909874",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-PB",
+      "latitude": 30.64379,
+      "longitude": 76.34787
+    },
+    {
+      "id": 8407166,
+      "name": "Fazilka",
+      "nativeName": "Fazilka",
+      "code": "IN-PB-8407166",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-PB",
+      "latitude": 30.37585,
+      "longitude": 74.11693
+    },
+    {
+      "id": 1271884,
+      "name": "Firozpur",
+      "nativeName": "Firozpur",
+      "code": "IN-PB-1271884",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-PB",
+      "latitude": 30.89,
+      "longitude": 74.56
+    },
+    {
+      "id": 1270648,
+      "name": "Gurdaspur",
+      "nativeName": "Gurdaspur",
+      "code": "IN-PB-1270648",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-PB",
+      "latitude": 31.92,
+      "longitude": 75.27
+    },
+    {
+      "id": 1269938,
+      "name": "Hoshiarpur district",
+      "nativeName": "Hoshiarpur",
+      "code": "IN-PB-1269938",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-PB",
+      "latitude": 31.66,
+      "longitude": 75.85
+    },
+    {
+      "id": 1268783,
+      "name": "Jalandhar",
+      "nativeName": "Jalandhar",
+      "code": "IN-PB-1268783",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-PB",
+      "latitude": 31.41667,
+      "longitude": 75.61667
+    },
+    {
+      "id": 1267912,
+      "name": "Kapurthala district",
+      "nativeName": "Kapurthala",
+      "code": "IN-PB-1267912",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-PB",
+      "latitude": 31.4,
+      "longitude": 75.31
+    },
+    {
+      "id": 1264729,
+      "name": "Ludhiana district",
+      "nativeName": "Ludhiana",
+      "code": "IN-PB-1264729",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-PB",
+      "latitude": 30.84,
+      "longitude": 75.82
+    },
+    {
+      "id": 12680250,
+      "name": "Malerkotla",
+      "nativeName": "Malerkotla",
+      "code": "IN-PB-12680250",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-PB",
+      "latitude": 30.53376,
+      "longitude": 75.90824
+    },
+    {
+      "id": 8407027,
+      "name": "Mansa",
+      "nativeName": "Mansa",
+      "code": "IN-PB-8407027",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-PB",
+      "latitude": 29.94,
+      "longitude": 75.43
+    },
+    {
+      "id": 8407028,
+      "name": "Moga",
+      "nativeName": "Moga",
+      "code": "IN-PB-8407028",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-PB",
+      "latitude": 30.80376,
+      "longitude": 75.14938
+    },
+    {
+      "id": 8408318,
+      "name": "Pathankot District",
+      "nativeName": "Pathankot",
+      "code": "IN-PB-8408318",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-PB",
+      "latitude": 32.33,
+      "longitude": 75.64
+    },
+    {
+      "id": 1260108,
+      "name": "Patiala district",
+      "nativeName": "Patiala",
+      "code": "IN-PB-1260108",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-PB",
+      "latitude": 30.35,
+      "longitude": 76.4
+    },
+    {
+      "id": 1257953,
+      "name": "Rupnagar",
+      "nativeName": "Rupnagar",
+      "code": "IN-PB-1257953",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-PB",
+      "latitude": 31.04,
+      "longitude": 76.52
+    },
+    {
+      "id": 8407426,
+      "name": "S.A.S Nagar",
+      "nativeName": "Ajitgarh",
+      "code": "IN-PB-8407426",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-PB",
+      "latitude": 30.65,
+      "longitude": 76.7
+    },
+    {
+      "id": 1257403,
+      "name": "Sangrur",
+      "nativeName": "Sangrur",
+      "code": "IN-PB-1257403",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-PB",
+      "latitude": 30.25,
+      "longitude": 75.85
+    },
+    {
+      "id": 8407479,
+      "name": "Shahid Bhagat Singh Nagar",
+      "nativeName": "Shahid Bhagat Singh Nagar",
+      "code": "IN-PB-8407479",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-PB",
+      "latitude": 31.13183,
+      "longitude": 76.13328
+    },
+    {
+      "id": 7909875,
+      "name": "Sri Muktsar Sahib",
+      "nativeName": "Muktsar",
+      "code": "IN-PB-7909875",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-PB",
+      "latitude": 30.28735,
+      "longitude": 74.53489
+    },
+    {
+      "id": 8408319,
+      "name": "Tarn Taran",
+      "nativeName": "Tarn Taran",
+      "code": "IN-PB-8408319",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-PB",
+      "latitude": 31.32692,
+      "longitude": 74.81643
+    }
+  ]
+}

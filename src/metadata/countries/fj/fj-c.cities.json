@@ -1,0 +1,62 @@
+{
+  "stateId": 2205272,
+  "stateCode": "FJ-C",
+  "countryCode": "FJ",
+  "cities": [
+    {
+      "id": 2203150,
+      "name": "Naitasiri Province",
+      "nativeName": "Naitasiri Province",
+      "code": "FJ-C-2203150",
+      "countryId": 2205218,
+      "countryCode": "FJ",
+      "stateCode": "FJ-C",
+      "latitude": -17.83333,
+      "longitude": 178.25
+    },
+    {
+      "id": 2202182,
+      "name": "Namosi Province",
+      "nativeName": "Namosi Province",
+      "code": "FJ-C-2202182",
+      "countryId": 2205218,
+      "countryCode": "FJ",
+      "stateCode": "FJ-C",
+      "latitude": -18.05,
+      "longitude": 178.13333
+    },
+    {
+      "id": 2198876,
+      "name": "Rewa Province",
+      "nativeName": "Rewa Province",
+      "code": "FJ-C-2198876",
+      "countryId": 2205218,
+      "countryCode": "FJ",
+      "stateCode": "FJ-C",
+      "latitude": -18.08333,
+      "longitude": 178.33333
+    },
+    {
+      "id": 2198411,
+      "name": "Serua Province",
+      "nativeName": "Serua Province",
+      "code": "FJ-C-2198411",
+      "countryId": 2205218,
+      "countryCode": "FJ",
+      "stateCode": "FJ-C",
+      "latitude": -18.16667,
+      "longitude": 178
+    },
+    {
+      "id": 2198131,
+      "name": "Tailevu Province",
+      "nativeName": "Tailevu Province",
+      "code": "FJ-C-2198131",
+      "countryId": 2205218,
+      "countryCode": "FJ",
+      "stateCode": "FJ-C",
+      "latitude": -17.83333,
+      "longitude": 178.5
+    }
+  ]
+}

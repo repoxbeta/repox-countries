@@ -1,0 +1,117 @@
+{
+  "stateId": 3344893,
+  "stateCode": "SI-192",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3203479,
+      "name": "Breg",
+      "nativeName": "Breg",
+      "code": "SI-192-3203479",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-192",
+      "latitude": 46.4,
+      "longitude": 14.13333
+    },
+    {
+      "id": 3203377,
+      "name": "Breznica",
+      "nativeName": "Breznica",
+      "code": "SI-192-3203377",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-192",
+      "latitude": 46.39385,
+      "longitude": 14.15409
+    },
+    {
+      "id": 8987610,
+      "name": "Doslovče",
+      "nativeName": "Doslovče",
+      "code": "SI-192-8987610",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-192",
+      "latitude": 46.41746,
+      "longitude": 14.19396
+    },
+    {
+      "id": 3194824,
+      "name": "Moste",
+      "nativeName": "Moste",
+      "code": "SI-192-3194824",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-192",
+      "latitude": 46.41667,
+      "longitude": 14.13333
+    },
+    {
+      "id": 3192644,
+      "name": "Potoki",
+      "nativeName": "Potoki",
+      "code": "SI-192-3192644",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-192",
+      "latitude": 46.43174,
+      "longitude": 14.12959
+    },
+    {
+      "id": 8987041,
+      "name": "Selo pri Žirovnici",
+      "nativeName": "Selo pri Žirovnici",
+      "code": "SI-192-8987041",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-192",
+      "latitude": 46.39725,
+      "longitude": 14.14155
+    },
+    {
+      "id": 8986909,
+      "name": "Smokuč",
+      "nativeName": "Smokuč",
+      "code": "SI-192-8986909",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-192",
+      "latitude": 46.38555,
+      "longitude": 14.16466
+    },
+    {
+      "id": 3187306,
+      "name": "Vrba",
+      "nativeName": "Vrba",
+      "code": "SI-192-3187306",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-192",
+      "latitude": 46.38333,
+      "longitude": 14.15
+    },
+    {
+      "id": 3186962,
+      "name": "Zabreznica",
+      "nativeName": "Zabreznica",
+      "code": "SI-192-3186962",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-192",
+      "latitude": 46.4,
+      "longitude": 14.15
+    },
+    {
+      "id": 3186442,
+      "name": "Žirovnica",
+      "nativeName": "Žirovnica",
+      "code": "SI-192-3186442",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-192",
+      "latitude": 46.40472,
+      "longitude": 14.14
+    }
+  ]
+}

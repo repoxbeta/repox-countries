@@ -1,0 +1,29 @@
+{
+  "stateId": 12096464,
+  "stateCode": "IN-LA",
+  "countryCode": "IN",
+  "cities": [
+    {
+      "id": 9748001,
+      "name": "Kargil district",
+      "nativeName": "Kargil",
+      "code": "IN-LA-9748001",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-LA",
+      "latitude": 33.9666,
+      "longitude": 76.48445
+    },
+    {
+      "id": 1265343,
+      "name": "Leh district",
+      "nativeName": "Leh",
+      "code": "IN-LA-1265343",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-LA",
+      "latitude": 34.33333,
+      "longitude": 77.41667
+    }
+  ]
+}

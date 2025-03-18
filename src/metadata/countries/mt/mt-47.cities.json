@@ -1,0 +1,40 @@
+{
+  "stateId": 8299746,
+  "stateCode": "MT-47",
+  "countryCode": "MT",
+  "cities": [
+    {
+      "id": 2562598,
+      "name": "Safi",
+      "nativeName": "Safi",
+      "code": "MT-47-2562598",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-47",
+      "latitude": 35.83306,
+      "longitude": 14.48472
+    },
+    {
+      "id": 2562717,
+      "name": "Misraħ Ħlantun",
+      "nativeName": "Misraħ Ħlantun",
+      "code": "MT-47-2562717",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-47",
+      "latitude": 35.82806,
+      "longitude": 14.49083
+    },
+    {
+      "id": 2562388,
+      "name": "Tal-Liebru",
+      "nativeName": "Tal-Liebru",
+      "code": "MT-47-2562388",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-47",
+      "latitude": 35.83472,
+      "longitude": 14.49444
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "stateId": 6930705,
+  "stateCode": "BF-04",
+  "countryCode": "BF",
+  "cities": [
+    {
+      "id": 2362006,
+      "name": "Boulgou",
+      "nativeName": "Province du Boulgou",
+      "code": "BF-04-2362006",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "stateCode": "BF-04",
+      "latitude": 11.5,
+      "longitude": -0.41667
+    },
+    {
+      "id": 2597261,
+      "name": "Koulpélogo Province",
+      "nativeName": "Province du Koulpélogo",
+      "code": "BF-04-2597261",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "stateCode": "BF-04",
+      "latitude": 11.41667,
+      "longitude": 0.16667
+    },
+    {
+      "id": 2358700,
+      "name": "Kouritenga Province",
+      "nativeName": "Kouritenga Province",
+      "code": "BF-04-2358700",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "stateCode": "BF-04",
+      "latitude": 12.2,
+      "longitude": -0.3
+    }
+  ]
+}

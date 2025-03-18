@@ -1,0 +1,62 @@
+{
+  "stateId": 6930709,
+  "stateCode": "BF-08",
+  "countryCode": "BF",
+  "cities": [
+    {
+      "id": 2360516,
+      "name": "Gnagna Province",
+      "nativeName": "Gnagna Province",
+      "code": "BF-08-2360516",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "stateCode": "BF-08",
+      "latitude": 12.9188,
+      "longitude": 0.0392
+    },
+    {
+      "id": 2597259,
+      "name": "Komondjari Province",
+      "nativeName": "Province de la Komandjoari",
+      "code": "BF-08-2597259",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "stateCode": "BF-08",
+      "latitude": 12.66667,
+      "longitude": 0.66667
+    },
+    {
+      "id": 2597260,
+      "name": "Kompienga Province",
+      "nativeName": "Province de la Kompienga",
+      "code": "BF-08-2597260",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "stateCode": "BF-08",
+      "latitude": 11.41667,
+      "longitude": 0.91667
+    },
+    {
+      "id": 2360223,
+      "name": "Province du Gourma",
+      "nativeName": "Province du Gourma",
+      "code": "BF-08-2360223",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "stateCode": "BF-08",
+      "latitude": 12.08333,
+      "longitude": 0.5
+    },
+    {
+      "id": 2354771,
+      "name": "Tapoa Province",
+      "nativeName": "Province de la Tapoa",
+      "code": "BF-08-2354771",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "stateCode": "BF-08",
+      "latitude": 12,
+      "longitude": 1.75
+    }
+  ]
+}

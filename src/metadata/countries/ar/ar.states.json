@@ -1,0 +1,270 @@
+{
+  "countryId": 3865483,
+  "countryCode": "AR",
+  "states": [
+    {
+      "id": 3435907,
+      "name": "Buenos Aires",
+      "nativeName": "Buenos Aires",
+      "code": "AR-B",
+      "internalCode": "B",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "latitude": -36,
+      "longitude": -60
+    },
+    {
+      "id": 3433955,
+      "name": "Buenos Aires F.D.",
+      "nativeName": "Ciudad Autónoma de Buenos Aires",
+      "code": "AR-C",
+      "internalCode": "C",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "latitude": -34.6,
+      "longitude": -58.45
+    },
+    {
+      "id": 3862286,
+      "name": "Catamarca",
+      "nativeName": "Catamarca Province",
+      "code": "AR-K",
+      "internalCode": "K",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "latitude": -27,
+      "longitude": -67
+    },
+    {
+      "id": 3861887,
+      "name": "Chaco",
+      "nativeName": "Chaco Province",
+      "code": "AR-H",
+      "internalCode": "H",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "latitude": -26.33333,
+      "longitude": -60.5
+    },
+    {
+      "id": 3861244,
+      "name": "Chubut",
+      "nativeName": "Chubut Province",
+      "code": "AR-U",
+      "internalCode": "U",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "latitude": -44,
+      "longitude": -69
+    },
+    {
+      "id": 3860255,
+      "name": "Cordoba",
+      "nativeName": "Córdoba Province",
+      "code": "AR-X",
+      "internalCode": "X",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "latitude": -32,
+      "longitude": -64
+    },
+    {
+      "id": 3435214,
+      "name": "Corrientes",
+      "nativeName": "Corrientes Province",
+      "code": "AR-W",
+      "internalCode": "W",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "latitude": -29,
+      "longitude": -58
+    },
+    {
+      "id": 3434137,
+      "name": "Entre Rios",
+      "nativeName": "Entre Ríos Province",
+      "code": "AR-E",
+      "internalCode": "E",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "latitude": -32,
+      "longitude": -59
+    },
+    {
+      "id": 3433896,
+      "name": "Formosa",
+      "nativeName": "Formosa Province",
+      "code": "AR-P",
+      "internalCode": "P",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "latitude": -25,
+      "longitude": -60
+    },
+    {
+      "id": 3853404,
+      "name": "Jujuy",
+      "nativeName": "Jujuy Province",
+      "code": "AR-Y",
+      "internalCode": "Y",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "latitude": -23,
+      "longitude": -66
+    },
+    {
+      "id": 3849574,
+      "name": "La Pampa",
+      "nativeName": "La Pampa Province",
+      "code": "AR-L",
+      "internalCode": "L",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "latitude": -37,
+      "longitude": -66
+    },
+    {
+      "id": 3848949,
+      "name": "La Rioja",
+      "nativeName": "La Rioja Province",
+      "code": "AR-F",
+      "internalCode": "F",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "latitude": -29.58333,
+      "longitude": -67
+    },
+    {
+      "id": 3844419,
+      "name": "Mendoza",
+      "nativeName": "Mendoza Province",
+      "code": "AR-M",
+      "internalCode": "M",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "latitude": -34.5,
+      "longitude": -68.5
+    },
+    {
+      "id": 3430657,
+      "name": "Misiones",
+      "nativeName": "Misiones Province",
+      "code": "AR-N",
+      "internalCode": "N",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "latitude": -26.81427,
+      "longitude": -54.34387
+    },
+    {
+      "id": 3843122,
+      "name": "Neuquen",
+      "nativeName": "Neuquén Province",
+      "code": "AR-Q",
+      "internalCode": "Q",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "latitude": -39,
+      "longitude": -70
+    },
+    {
+      "id": 3838830,
+      "name": "Rio Negro",
+      "nativeName": "Río Negro Province",
+      "code": "AR-R",
+      "internalCode": "R",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "latitude": -40,
+      "longitude": -67
+    },
+    {
+      "id": 3838231,
+      "name": "Salta",
+      "nativeName": "Salta Province",
+      "code": "AR-A",
+      "internalCode": "A",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "latitude": -24.75806,
+      "longitude": -65.43457
+    },
+    {
+      "id": 3837152,
+      "name": "San Juan",
+      "nativeName": "San Juan Province",
+      "code": "AR-J",
+      "internalCode": "J",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "latitude": -31,
+      "longitude": -69
+    },
+    {
+      "id": 3837029,
+      "name": "San Luis",
+      "nativeName": "San Luis Province",
+      "code": "AR-D",
+      "internalCode": "D",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "latitude": -34,
+      "longitude": -66
+    },
+    {
+      "id": 3836350,
+      "name": "Santa Cruz",
+      "nativeName": "Santa Cruz Province",
+      "code": "AR-Z",
+      "internalCode": "Z",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "latitude": -49,
+      "longitude": -70
+    },
+    {
+      "id": 3836276,
+      "name": "Santa Fe",
+      "nativeName": "Santa Fe Province",
+      "code": "AR-S",
+      "internalCode": "S",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "latitude": -31,
+      "longitude": -61
+    },
+    {
+      "id": 3835868,
+      "name": "Santiago del Estero",
+      "nativeName": "Santiago del Estero Province",
+      "code": "AR-G",
+      "internalCode": "G",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "latitude": -28,
+      "longitude": -63.5
+    },
+    {
+      "id": 3834450,
+      "name": "Tierra del Fuego",
+      "nativeName": "Tierra del Fuego Province",
+      "code": "AR-V",
+      "internalCode": "V",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "latitude": -54.5,
+      "longitude": -67
+    },
+    {
+      "id": 3833578,
+      "name": "Tucuman",
+      "nativeName": "Tucumán Province",
+      "code": "AR-T",
+      "internalCode": "T",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "latitude": -27,
+      "longitude": -65.5
+    }
+  ]
+}

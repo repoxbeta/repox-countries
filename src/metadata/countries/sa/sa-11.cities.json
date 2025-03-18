@@ -1,0 +1,84 @@
+{
+  "stateId": 109954,
+  "stateCode": "SA-11",
+  "countryCode": "SA",
+  "cities": [
+    {
+      "id": 10972272,
+      "name": "Al Bāḩah",
+      "nativeName": "Al Bāḩah",
+      "code": "SA-11-10972272",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-11",
+      "latitude": 20.01667,
+      "longitude": 41.43333
+    },
+    {
+      "id": 10972273,
+      "name": "Al Mandaq",
+      "nativeName": "Al Mandaq",
+      "code": "SA-11-10972273",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-11",
+      "latitude": 20.18333,
+      "longitude": 41.23333
+    },
+    {
+      "id": 10972274,
+      "name": "Al Mikhwāh",
+      "nativeName": "Al Mikhwāh",
+      "code": "SA-11-10972274",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-11",
+      "latitude": 19.7,
+      "longitude": 41.36667
+    },
+    {
+      "id": 10972283,
+      "name": "Al Qurá",
+      "nativeName": "Al Qurá",
+      "code": "SA-11-10972283",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-11",
+      "latitude": 20.45,
+      "longitude": 41.3
+    },
+    {
+      "id": 10972271,
+      "name": "Al ‘Aqīq",
+      "nativeName": "Al ‘Aqīq",
+      "code": "SA-11-10972271",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-11",
+      "latitude": 20.4,
+      "longitude": 41.66667
+    },
+    {
+      "id": 10972284,
+      "name": "Baljurashī",
+      "nativeName": "Baljurashī",
+      "code": "SA-11-10972284",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-11",
+      "latitude": 19.98333,
+      "longitude": 41.7
+    },
+    {
+      "id": 10972285,
+      "name": "Qilwah",
+      "nativeName": "Qilwah",
+      "code": "SA-11-10972285",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-11",
+      "latitude": 20,
+      "longitude": 41.08333
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "stateId": 2178730,
+  "stateCode": "SB-MK",
+  "countryCode": "SB",
+  "cities": [
+    {
+      "id": 12041892,
+      "name": "Arosi East",
+      "nativeName": "Arosi East",
+      "code": "SB-MK-12041892",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-MK",
+      "latitude": -10.28054,
+      "longitude": 161.49127
+    },
+    {
+      "id": 12041891,
+      "name": "Arosi North",
+      "nativeName": "Arosi North",
+      "code": "SB-MK-12041891",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-MK",
+      "latitude": -10.24367,
+      "longitude": 161.3929
+    },
+    {
+      "id": 12041825,
+      "name": "Arosi South",
+      "nativeName": "Arosi South",
+      "code": "SB-MK-12041825",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-MK",
+      "latitude": -10.31791,
+      "longitude": 161.37588
+    },
+    {
+      "id": 12041890,
+      "name": "Arosi West",
+      "nativeName": "Arosi West",
+      "code": "SB-MK-12041890",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-MK",
+      "latitude": -10.25169,
+      "longitude": 161.30493
+    },
+    {
+      "id": 12041827,
+      "name": "Bauro Central",
+      "nativeName": "Bauro Central",
+      "code": "SB-MK-12041827",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-MK",
+      "latitude": -10.54273,
+      "longitude": 161.89979
+    },
+    {
+      "id": 12041894,
+      "name": "Bauro East",
+      "nativeName": "Bauro East",
+      "code": "SB-MK-12041894",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-MK",
+      "latitude": -10.56048,
+      "longitude": 161.98071
+    },
+    {
+      "id": 12041826,
+      "name": "Bauro West",
+      "nativeName": "Bauro West",
+      "code": "SB-MK-12041826",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-MK",
+      "latitude": -10.46818,
+      "longitude": 161.75452
+    },
+    {
+      "id": 12041854,
+      "name": "Haununu",
+      "nativeName": "Haununu",
+      "code": "SB-MK-12041854",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-MK",
+      "latitude": -10.50314,
+      "longitude": 161.59455
+    },
+    {
+      "id": 12041822,
+      "name": "North Ulawa",
+      "nativeName": "North Ulawa",
+      "code": "SB-MK-12041822",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-MK",
+      "latitude": -9.74556,
+      "longitude": 161.96828
+    },
+    {
+      "id": 12041830,
+      "name": "Rawo",
+      "nativeName": "Rawo",
+      "code": "SB-MK-12041830",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-MK",
+      "latitude": -10.69153,
+      "longitude": 161.97086
+    },
+    {
+      "id": 12041893,
+      "name": "Santa Ana",
+      "nativeName": "Santa Ana",
+      "code": "SB-MK-12041893",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-MK",
+      "latitude": -10.83137,
+      "longitude": 162.47004
+    },
+    {
+      "id": 12041853,
+      "name": "Santa Catalina",
+      "nativeName": "Santa Catalina",
+      "code": "SB-MK-12041853",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-MK",
+      "latitude": -10.89119,
+      "longitude": 162.44619
+    },
+    {
+      "id": 12041823,
+      "name": "South Ulawa",
+      "nativeName": "South Ulawa",
+      "code": "SB-MK-12041823",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-MK",
+      "latitude": -9.82091,
+      "longitude": 161.97462
+    },
+    {
+      "id": 12041832,
+      "name": "Star Harbour North",
+      "nativeName": "Star Harbour North",
+      "code": "SB-MK-12041832",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-MK",
+      "latitude": -10.71928,
+      "longitude": 162.20147
+    },
+    {
+      "id": 12041829,
+      "name": "Star Harbour South",
+      "nativeName": "Star Harbour South",
+      "code": "SB-MK-12041829",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-MK",
+      "latitude": -10.74266,
+      "longitude": 162.10186
+    },
+    {
+      "id": 12041824,
+      "name": "Ugi And Pio",
+      "nativeName": "Ugi And Pio",
+      "code": "SB-MK-12041824",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-MK",
+      "latitude": -10.25612,
+      "longitude": 161.74272
+    },
+    {
+      "id": 12041896,
+      "name": "Wainoni East",
+      "nativeName": "Wainoni East",
+      "code": "SB-MK-12041896",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-MK",
+      "latitude": -10.59236,
+      "longitude": 162.12676
+    },
+    {
+      "id": 12041885,
+      "name": "Wainoni West",
+      "nativeName": "Wainoni West",
+      "code": "SB-MK-12041885",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-MK",
+      "latitude": -10.58147,
+      "longitude": 162.06989
+    },
+    {
+      "id": 12041831,
+      "name": "Weather Coast",
+      "nativeName": "Weather Coast",
+      "code": "SB-MK-12041831",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-MK",
+      "latitude": -10.66731,
+      "longitude": 161.80192
+    },
+    {
+      "id": 12041860,
+      "name": "West Ulawa",
+      "nativeName": "West Ulawa",
+      "code": "SB-MK-12041860",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-MK",
+      "latitude": -9.77791,
+      "longitude": 161.96208
+    }
+  ]
+}

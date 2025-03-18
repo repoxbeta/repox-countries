@@ -1,0 +1,238 @@
+{
+  "stateId": 3239066,
+  "stateCode": "SI-123",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3190712,
+      "name": "Škofljica",
+      "nativeName": "Škofljica",
+      "code": "SI-123-3190712",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-123",
+      "latitude": 45.98333,
+      "longitude": 14.57667
+    },
+    {
+      "id": 3202212,
+      "name": "Daljna Vas",
+      "nativeName": "Daljna Vas",
+      "code": "SI-123-3202212",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-123",
+      "latitude": 46.00639,
+      "longitude": 14.55083
+    },
+    {
+      "id": 8989867,
+      "name": "Dole pri Škofljici",
+      "nativeName": "Dole pri Škofljici",
+      "code": "SI-123-8989867",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-123",
+      "latitude": 45.99871,
+      "longitude": 14.59582
+    },
+    {
+      "id": 8988225,
+      "name": "Drenik",
+      "nativeName": "Drenik",
+      "code": "SI-123-8988225",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-123",
+      "latitude": 45.94814,
+      "longitude": 14.58985
+    },
+    {
+      "id": 8987468,
+      "name": "Glinek",
+      "nativeName": "Glinek",
+      "code": "SI-123-8987468",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-123",
+      "latitude": 45.96929,
+      "longitude": 14.58308
+    },
+    {
+      "id": 8987181,
+      "name": "Gorenje Blato",
+      "nativeName": "Gorenje Blato",
+      "code": "SI-123-8987181",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-123",
+      "latitude": 45.9586,
+      "longitude": 14.58843
+    },
+    {
+      "id": 8986874,
+      "name": "Gradišče",
+      "nativeName": "Gradišče",
+      "code": "SI-123-8986874",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-123",
+      "latitude": 45.92215,
+      "longitude": 14.5874
+    },
+    {
+      "id": 3199477,
+      "name": "Gumnišče",
+      "nativeName": "Gumnišče",
+      "code": "SI-123-3199477",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-123",
+      "latitude": 45.96694,
+      "longitude": 14.57694
+    },
+    {
+      "id": 8988373,
+      "name": "Klada",
+      "nativeName": "Klada",
+      "code": "SI-123-8988373",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-123",
+      "latitude": 45.92163,
+      "longitude": 14.55585
+    },
+    {
+      "id": 3196776,
+      "name": "Lanišče",
+      "nativeName": "Lanišče",
+      "code": "SI-123-3196776",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-123",
+      "latitude": 45.99028,
+      "longitude": 14.57972
+    },
+    {
+      "id": 8986857,
+      "name": "Lavrica",
+      "nativeName": "Lavrica",
+      "code": "SI-123-8986857",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-123",
+      "latitude": 46.00002,
+      "longitude": 14.5573
+    },
+    {
+      "id": 3194002,
+      "name": "Orle",
+      "nativeName": "Orle",
+      "code": "SI-123-3194002",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-123",
+      "latitude": 46.0125,
+      "longitude": 14.57611
+    },
+    {
+      "id": 3193371,
+      "name": "Pijava Gorica",
+      "nativeName": "Pijava Gorica",
+      "code": "SI-123-3193371",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-123",
+      "latitude": 45.95111,
+      "longitude": 14.57194
+    },
+    {
+      "id": 8988478,
+      "name": "Pleše",
+      "nativeName": "Pleše",
+      "code": "SI-123-8988478",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-123",
+      "latitude": 45.99699,
+      "longitude": 14.60762
+    },
+    {
+      "id": 8989793,
+      "name": "Reber pri Škofljici",
+      "nativeName": "Reber pri Škofljici",
+      "code": "SI-123-8989793",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-123",
+      "latitude": 45.98998,
+      "longitude": 14.5935
+    },
+    {
+      "id": 3191267,
+      "name": "Sarsko",
+      "nativeName": "Sarsko",
+      "code": "SI-123-3191267",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-123",
+      "latitude": 45.93813,
+      "longitude": 14.55638
+    },
+    {
+      "id": 3191139,
+      "name": "Sela",
+      "nativeName": "Sela",
+      "code": "SI-123-3191139",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-123",
+      "latitude": 46.00139,
+      "longitude": 14.58556
+    },
+    {
+      "id": 3190433,
+      "name": "Smrjene",
+      "nativeName": "Smrjene",
+      "code": "SI-123-3190433",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-123",
+      "latitude": 45.9375,
+      "longitude": 14.59194
+    },
+    {
+      "id": 3218729,
+      "name": "Vrh nad Želimljami",
+      "nativeName": "Vrh nad Želimljami",
+      "code": "SI-123-3218729",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-123",
+      "latitude": 45.91056,
+      "longitude": 14.59028
+    },
+    {
+      "id": 8987519,
+      "name": "Zalog pri Škofljici",
+      "nativeName": "Zalog pri Škofljici",
+      "code": "SI-123-8987519",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-123",
+      "latitude": 45.97565,
+      "longitude": 14.58362
+    },
+    {
+      "id": 3186605,
+      "name": "Želimlje",
+      "nativeName": "Želimlje",
+      "code": "SI-123-3186605",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-123",
+      "latitude": 45.91556,
+      "longitude": 14.57139
+    }
+  ]
+}

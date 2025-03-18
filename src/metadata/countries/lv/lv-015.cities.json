@@ -1,0 +1,238 @@
+{
+  "stateId": 461160,
+  "stateCode": "LV-015",
+  "countryCode": "LV",
+  "cities": [
+    {
+      "id": 11352485,
+      "name": "Baltinavas novads",
+      "nativeName": "Baltinavas novads",
+      "code": "LV-015-11352485",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-015",
+      "latitude": 56.91683,
+      "longitude": 27.61032
+    },
+    {
+      "id": 11352983,
+      "name": "Balvi",
+      "nativeName": "Balvi",
+      "code": "LV-015-11352983",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-015",
+      "latitude": 57.13149,
+      "longitude": 27.26041
+    },
+    {
+      "id": 11352486,
+      "name": "Balvu pagasts",
+      "nativeName": "Balvu pagasts",
+      "code": "LV-015-11352486",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-015",
+      "latitude": 57.09249,
+      "longitude": 27.23802
+    },
+    {
+      "id": 11352489,
+      "name": "Briežuciema pagasts",
+      "nativeName": "Briežuciema pagasts",
+      "code": "LV-015-11352489",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-015",
+      "latitude": 56.97226,
+      "longitude": 27.55232
+    },
+    {
+      "id": 11352487,
+      "name": "Bērzkalnes pagasts",
+      "nativeName": "Bērzkalnes pagasts",
+      "code": "LV-015-11352487",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-015",
+      "latitude": 57.11217,
+      "longitude": 27.38571
+    },
+    {
+      "id": 11352488,
+      "name": "Bērzpils pagasts",
+      "nativeName": "Bērzpils pagasts",
+      "code": "LV-015-11352488",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-015",
+      "latitude": 56.84321,
+      "longitude": 27.11083
+    },
+    {
+      "id": 11352490,
+      "name": "Krišjāņu pagasts",
+      "nativeName": "Krišjāņu pagasts",
+      "code": "LV-015-11352490",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-015",
+      "latitude": 56.81983,
+      "longitude": 27.29767
+    },
+    {
+      "id": 11352491,
+      "name": "Kubulu pagasts",
+      "nativeName": "Kubulu pagasts",
+      "code": "LV-015-11352491",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-015",
+      "latitude": 57.16594,
+      "longitude": 27.18295
+    },
+    {
+      "id": 11352992,
+      "name": "Kupravas pagasts",
+      "nativeName": "Kupravas pagasts",
+      "code": "LV-015-11352992",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-015",
+      "latitude": 57.22986,
+      "longitude": 27.48839
+    },
+    {
+      "id": 11352875,
+      "name": "Lazdukalna pagasts",
+      "nativeName": "Lazdukalna pagasts",
+      "code": "LV-015-11352875",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-015",
+      "latitude": 56.92422,
+      "longitude": 27.09918
+    },
+    {
+      "id": 11352492,
+      "name": "Lazdulejas pagasts",
+      "nativeName": "Lazdulejas pagasts",
+      "code": "LV-015-11352492",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-015",
+      "latitude": 57.03044,
+      "longitude": 27.47516
+    },
+    {
+      "id": 11353006,
+      "name": "Medņevas pagasts",
+      "nativeName": "Medņevas pagasts",
+      "code": "LV-015-11353006",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-015",
+      "latitude": 57.12081,
+      "longitude": 27.62285
+    },
+    {
+      "id": 11352876,
+      "name": "Rugāju pagasts",
+      "nativeName": "Rugāju pagasts",
+      "code": "LV-015-11352876",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-015",
+      "latitude": 57.01835,
+      "longitude": 27.09705
+    },
+    {
+      "id": 11353008,
+      "name": "Susāju pagasts",
+      "nativeName": "Susāju pagasts",
+      "code": "LV-015-11353008",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-015",
+      "latitude": 57.19097,
+      "longitude": 27.56913
+    },
+    {
+      "id": 11352493,
+      "name": "Tilžas pagasts",
+      "nativeName": "Tilžas pagasts",
+      "code": "LV-015-11352493",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-015",
+      "latitude": 56.89748,
+      "longitude": 27.3675
+    },
+    {
+      "id": 11352494,
+      "name": "Vectilžas pagasts",
+      "nativeName": "Vectilžas pagasts",
+      "code": "LV-015-11352494",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-015",
+      "latitude": 56.98468,
+      "longitude": 27.35838
+    },
+    {
+      "id": 11353009,
+      "name": "Vecumu pagasts",
+      "nativeName": "Vecumu pagasts",
+      "code": "LV-015-11353009",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-015",
+      "latitude": 57.2121,
+      "longitude": 27.7848
+    },
+    {
+      "id": 11352993,
+      "name": "Viļaka",
+      "nativeName": "Viļaka",
+      "code": "LV-015-11352993",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-015",
+      "latitude": 57.18706,
+      "longitude": 27.68202
+    },
+    {
+      "id": 11352495,
+      "name": "Vīksnas pagasts",
+      "nativeName": "Vīksnas pagasts",
+      "code": "LV-015-11352495",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-015",
+      "latitude": 57.22927,
+      "longitude": 27.38095
+    },
+    {
+      "id": 11353007,
+      "name": "Šķilbēnu pagasts",
+      "nativeName": "Šķilbēnu pagasts",
+      "code": "LV-015-11353007",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-015",
+      "latitude": 57.05292,
+      "longitude": 27.65129
+    },
+    {
+      "id": 11353010,
+      "name": "Žīguru pagasts",
+      "nativeName": "Žīguru pagasts",
+      "code": "LV-015-11353010",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-015",
+      "latitude": 57.29905,
+      "longitude": 27.69592
+    }
+  ]
+}

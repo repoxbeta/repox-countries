@@ -1,0 +1,106 @@
+{
+  "stateId": 1608231,
+  "stateCode": "TH-43",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 7510802,
+      "name": "Fao Rai",
+      "nativeName": "Amphoe Fao Rai",
+      "code": "TH-43-7510802",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-43",
+      "latitude": 18.00275,
+      "longitude": 103.2964
+    },
+    {
+      "id": 1608641,
+      "name": "Mueang Nong Khai",
+      "nativeName": "Amphoe Mueang Nong Khai",
+      "code": "TH-43-1608641",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-43",
+      "latitude": 17.84661,
+      "longitude": 102.78911
+    },
+    {
+      "id": 7510752,
+      "name": "Pho Tak",
+      "nativeName": "Amphoe Pho Tak",
+      "code": "TH-43-7510752",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-43",
+      "latitude": 17.88819,
+      "longitude": 102.43023
+    },
+    {
+      "id": 1607605,
+      "name": "Phon Phisai",
+      "nativeName": "Amphoe Phonphisai",
+      "code": "TH-43-1607605",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-43",
+      "latitude": 17.95443,
+      "longitude": 103.12279
+    },
+    {
+      "id": 7510803,
+      "name": "Rattanawapi",
+      "nativeName": "Amphoe Rattanawapi",
+      "code": "TH-43-7510803",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-43",
+      "latitude": 18.19255,
+      "longitude": 103.2376
+    },
+    {
+      "id": 7510780,
+      "name": "Sakhrai",
+      "nativeName": "Amphoe Sa Khrai",
+      "code": "TH-43-7510780",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-43",
+      "latitude": 17.65985,
+      "longitude": 102.70847
+    },
+    {
+      "id": 1606535,
+      "name": "Sangkhom",
+      "nativeName": "Amphoe Sangkhom",
+      "code": "TH-43-1606535",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-43",
+      "latitude": 18.05392,
+      "longitude": 102.22677
+    },
+    {
+      "id": 1606315,
+      "name": "Si Chiang Mai",
+      "nativeName": "Amphoe Si Chiang Mai",
+      "code": "TH-43-1606315",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-43",
+      "latitude": 17.93574,
+      "longitude": 102.50306
+    },
+    {
+      "id": 1605676,
+      "name": "Tha Bo",
+      "nativeName": "Amphoe Tha Bo",
+      "code": "TH-43-1605676",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-43",
+      "latitude": 17.79499,
+      "longitude": 102.56608
+    }
+  ]
+}

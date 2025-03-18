@@ -1,0 +1,84 @@
+{
+  "stateId": 431747,
+  "stateCode": "BI-MY",
+  "countryCode": "BI",
+  "cities": [
+    {
+      "id": 9171832,
+      "name": "Buhinyuza",
+      "nativeName": "Buhinyuza",
+      "code": "BI-MY-9171832",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-MY",
+      "latitude": -2.97978,
+      "longitude": 30.37831
+    },
+    {
+      "id": 9171829,
+      "name": "Butihinda",
+      "nativeName": "Butihinda",
+      "code": "BI-MY-9171829",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-MY",
+      "latitude": -2.71095,
+      "longitude": 30.32232
+    },
+    {
+      "id": 7670595,
+      "name": "Gashoho",
+      "nativeName": "Gashoho",
+      "code": "BI-MY-7670595",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-MY",
+      "latitude": -2.76124,
+      "longitude": 30.17289
+    },
+    {
+      "id": 9171884,
+      "name": "Gasorwe",
+      "nativeName": "Gasorwe",
+      "code": "BI-MY-9171884",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-MY",
+      "latitude": -2.85116,
+      "longitude": 30.23576
+    },
+    {
+      "id": 7670598,
+      "name": "Giteranyi",
+      "nativeName": "Giteranyi",
+      "code": "BI-MY-7670598",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-MY",
+      "latitude": -2.46164,
+      "longitude": 30.44627
+    },
+    {
+      "id": 7670609,
+      "name": "Muyinga",
+      "nativeName": "Muyinga",
+      "code": "BI-MY-7670609",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-MY",
+      "latitude": -2.80948,
+      "longitude": 30.38518
+    },
+    {
+      "id": 9171882,
+      "name": "Mwakiro",
+      "nativeName": "Mwakiro",
+      "code": "BI-MY-9171882",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-MY",
+      "latitude": -3.09587,
+      "longitude": 30.31165
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "stateId": 3536725,
+  "stateCode": "CU-13",
+  "countryCode": "CU",
+  "cities": [
+    {
+      "id": 11288243,
+      "name": "Contramaestre",
+      "nativeName": "Contramaestre",
+      "code": "CU-13-11288243",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "stateCode": "CU-13",
+      "latitude": 20.29157,
+      "longitude": -76.23881
+    },
+    {
+      "id": 11288244,
+      "name": "Guama",
+      "nativeName": "Guama",
+      "code": "CU-13-11288244",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "stateCode": "CU-13",
+      "latitude": 19.96958,
+      "longitude": -76.43828
+    },
+    {
+      "id": 11288245,
+      "name": "Mella",
+      "nativeName": "Mella",
+      "code": "CU-13-11288245",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "stateCode": "CU-13",
+      "latitude": 20.3636,
+      "longitude": -75.906
+    },
+    {
+      "id": 3545062,
+      "name": "Municipio de Palma Soriano",
+      "nativeName": "Municipio de Palma Soriano",
+      "code": "CU-13-3545062",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "stateCode": "CU-13",
+      "latitude": 20.20897,
+      "longitude": -76.05776
+    },
+    {
+      "id": 3539073,
+      "name": "Municipio de San Luis",
+      "nativeName": "Municipio de San Luis",
+      "code": "CU-13-3539073",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "stateCode": "CU-13",
+      "latitude": 20.26856,
+      "longitude": -75.82735
+    },
+    {
+      "id": 3536726,
+      "name": "Municipio de Santiago de Cuba",
+      "nativeName": "Municipio de Santiago de Cuba",
+      "code": "CU-13-3536726",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "stateCode": "CU-13",
+      "latitude": 20.00617,
+      "longitude": -75.70816
+    },
+    {
+      "id": 11288246,
+      "name": "Segundo Frente",
+      "nativeName": "Segundo Frente",
+      "code": "CU-13-11288246",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "stateCode": "CU-13",
+      "latitude": 20.41284,
+      "longitude": -75.49646
+    },
+    {
+      "id": 11288254,
+      "name": "Songo - La Maya",
+      "nativeName": "Songo - La Maya",
+      "code": "CU-13-11288254",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "stateCode": "CU-13",
+      "latitude": 20.16392,
+      "longitude": -75.69769
+    },
+    {
+      "id": 11288247,
+      "name": "Tercer Frente",
+      "nativeName": "Tercer Frente",
+      "code": "CU-13-11288247",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "stateCode": "CU-13",
+      "latitude": 20.159,
+      "longitude": -76.30975
+    }
+  ]
+}

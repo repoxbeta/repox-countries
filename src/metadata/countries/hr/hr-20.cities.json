@@ -1,0 +1,282 @@
+{
+  "stateId": 3337521,
+  "stateCode": "HR-20",
+  "countryCode": "HR",
+  "cities": [
+    {
+      "id": 3202887,
+      "name": "City of Čakovec",
+      "nativeName": "Grad Čakovec",
+      "code": "HR-20-3202887",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-20",
+      "latitude": 46.38583,
+      "longitude": 16.43333
+    },
+    {
+      "id": 11054830,
+      "name": "Municipality of Belica",
+      "nativeName": "Općina Belica",
+      "code": "HR-20-11054830",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-20",
+      "latitude": 46.40735,
+      "longitude": 16.52061
+    },
+    {
+      "id": 11054832,
+      "name": "Municipality of Dekanovec",
+      "nativeName": "Općina Dekanovec",
+      "code": "HR-20-11054832",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-20",
+      "latitude": 46.44808,
+      "longitude": 16.58193
+    },
+    {
+      "id": 11054834,
+      "name": "Municipality of Domašinec",
+      "nativeName": "Općina Domašinec",
+      "code": "HR-20-11054834",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-20",
+      "latitude": 46.43622,
+      "longitude": 16.59729
+    },
+    {
+      "id": 11054835,
+      "name": "Municipality of Donja Dubrava",
+      "nativeName": "Donja Dubrava",
+      "code": "HR-20-11054835",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-20",
+      "latitude": 46.31524,
+      "longitude": 16.80531
+    },
+    {
+      "id": 11054836,
+      "name": "Municipality of Donji Kraljevec",
+      "nativeName": "Općina Donji Kraljevec",
+      "code": "HR-20-11054836",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-20",
+      "latitude": 46.36581,
+      "longitude": 16.65004
+    },
+    {
+      "id": 11054837,
+      "name": "Municipality of Donji Vidovec",
+      "nativeName": "Općina Donji Vidovec",
+      "code": "HR-20-11054837",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-20",
+      "latitude": 46.32789,
+      "longitude": 16.78213
+    },
+    {
+      "id": 11054838,
+      "name": "Municipality of Goričan",
+      "nativeName": "Općina Goričan",
+      "code": "HR-20-11054838",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-20",
+      "latitude": 46.38364,
+      "longitude": 16.67862
+    },
+    {
+      "id": 11054839,
+      "name": "Municipality of Gornji Mihaljevec",
+      "nativeName": "Općina Gornji Mihaljevec",
+      "code": "HR-20-11054839",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-20",
+      "latitude": 46.42951,
+      "longitude": 16.32401
+    },
+    {
+      "id": 11054840,
+      "name": "Municipality of Kotoriba",
+      "nativeName": "Općina Kotoriba",
+      "code": "HR-20-11054840",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-20",
+      "latitude": 46.35613,
+      "longitude": 16.81543
+    },
+    {
+      "id": 11054845,
+      "name": "Municipality of Mala Subotica",
+      "nativeName": "Općina Mala Subotica",
+      "code": "HR-20-11054845",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-20",
+      "latitude": 46.37556,
+      "longitude": 16.52696
+    },
+    {
+      "id": 11054847,
+      "name": "Municipality of Nedelišće",
+      "nativeName": "Općina Nedelišće",
+      "code": "HR-20-11054847",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-20",
+      "latitude": 46.3763,
+      "longitude": 16.38486
+    },
+    {
+      "id": 11054848,
+      "name": "Municipality of Orehovica",
+      "nativeName": "Općina Orehovica",
+      "code": "HR-20-11054848",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-20",
+      "latitude": 46.33071,
+      "longitude": 16.50837
+    },
+    {
+      "id": 11054849,
+      "name": "Municipality of Podturen",
+      "nativeName": "Općina Podturen",
+      "code": "HR-20-11054849",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-20",
+      "latitude": 46.467,
+      "longitude": 16.54524
+    },
+    {
+      "id": 11054852,
+      "name": "Municipality of Pribislavec",
+      "nativeName": "Općina Pribislavec",
+      "code": "HR-20-11054852",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-20",
+      "latitude": 46.3937,
+      "longitude": 16.47786
+    },
+    {
+      "id": 11054853,
+      "name": "Municipality of Selnica",
+      "nativeName": "Općina Selnica",
+      "code": "HR-20-11054853",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-20",
+      "latitude": 46.49416,
+      "longitude": 16.39027
+    },
+    {
+      "id": 11054879,
+      "name": "Municipality of Strahoninec",
+      "nativeName": "Općina Strahoninec",
+      "code": "HR-20-11054879",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-20",
+      "latitude": 46.37162,
+      "longitude": 16.41396
+    },
+    {
+      "id": 11054880,
+      "name": "Municipality of Sveta Marija",
+      "nativeName": "Općina Sveta Marija",
+      "code": "HR-20-11054880",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-20",
+      "latitude": 46.33279,
+      "longitude": 16.74128
+    },
+    {
+      "id": 11054883,
+      "name": "Municipality of Sveti Juraj na Bregu",
+      "nativeName": "Sveti Juraj na Bregu",
+      "code": "HR-20-11054883",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-20",
+      "latitude": 46.42853,
+      "longitude": 16.38525
+    },
+    {
+      "id": 11054884,
+      "name": "Municipality of Sveti Martin",
+      "nativeName": "Općina Sveti Martin na Muri",
+      "code": "HR-20-11054884",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-20",
+      "latitude": 46.52541,
+      "longitude": 16.36233
+    },
+    {
+      "id": 11054887,
+      "name": "Municipality of Vratišinec",
+      "nativeName": "Općina Vratišinec",
+      "code": "HR-20-11054887",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-20",
+      "latitude": 46.48104,
+      "longitude": 16.45756
+    },
+    {
+      "id": 11054885,
+      "name": "Municipality of Šenkovec",
+      "nativeName": "Općina Šenkovec",
+      "code": "HR-20-11054885",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-20",
+      "latitude": 46.40702,
+      "longitude": 16.41847
+    },
+    {
+      "id": 11054886,
+      "name": "Municipality of Štrigova",
+      "nativeName": "Općina Štrigova",
+      "code": "HR-20-11054886",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-20",
+      "latitude": 46.50054,
+      "longitude": 16.28646
+    },
+    {
+      "id": 11054846,
+      "name": "Town of Mursko Središće",
+      "nativeName": "Grad Mursko Središće",
+      "code": "HR-20-11054846",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-20",
+      "latitude": 46.51321,
+      "longitude": 16.43838
+    },
+    {
+      "id": 11054850,
+      "name": "Town of Prelog",
+      "nativeName": "Grad Prelog",
+      "code": "HR-20-11054850",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-20",
+      "latitude": 46.33387,
+      "longitude": 16.61785
+    }
+  ]
+}

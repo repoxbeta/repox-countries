@@ -1,0 +1,117 @@
+{
+  "stateId": 5090174,
+  "stateCode": "US-NH",
+  "countryCode": "US",
+  "cities": [
+    {
+      "id": 5083273,
+      "name": "Belknap",
+      "nativeName": "Belknap County",
+      "code": "US-NH-5083273",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NH",
+      "latitude": 43.51869,
+      "longitude": -71.42336
+    },
+    {
+      "id": 5084247,
+      "name": "Carroll",
+      "nativeName": "Carroll County",
+      "code": "US-NH-5084247",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NH",
+      "latitude": 43.87391,
+      "longitude": -71.20277
+    },
+    {
+      "id": 5084505,
+      "name": "Cheshire",
+      "nativeName": "Cheshire County",
+      "code": "US-NH-5084505",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NH",
+      "latitude": 42.91932,
+      "longitude": -72.25118
+    },
+    {
+      "id": 5084973,
+      "name": "Coos",
+      "nativeName": "Coos County",
+      "code": "US-NH-5084973",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NH",
+      "latitude": 44.6896,
+      "longitude": -71.30542
+    },
+    {
+      "id": 5086767,
+      "name": "Grafton",
+      "nativeName": "Grafton County",
+      "code": "US-NH-5086767",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NH",
+      "latitude": 43.94074,
+      "longitude": -71.82055
+    },
+    {
+      "id": 5087463,
+      "name": "Hillsborough",
+      "nativeName": "Hillsborough County",
+      "code": "US-NH-5087463",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NH",
+      "latitude": 42.91531,
+      "longitude": -71.71601
+    },
+    {
+      "id": 5089480,
+      "name": "Merrimack",
+      "nativeName": "Merrimack County",
+      "code": "US-NH-5089480",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NH",
+      "latitude": 43.29765,
+      "longitude": -71.68019
+    },
+    {
+      "id": 5091860,
+      "name": "Rockingham",
+      "nativeName": "Rockingham County",
+      "code": "US-NH-5091860",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NH",
+      "latitude": 42.98454,
+      "longitude": -71.08897
+    },
+    {
+      "id": 5093237,
+      "name": "Strafford",
+      "nativeName": "Strafford County",
+      "code": "US-NH-5093237",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NH",
+      "latitude": 43.29743,
+      "longitude": -71.0294
+    },
+    {
+      "id": 5093334,
+      "name": "Sullivan",
+      "nativeName": "Sullivan County",
+      "code": "US-NH-5093334",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NH",
+      "latitude": 43.36122,
+      "longitude": -72.2224
+    }
+  ]
+}

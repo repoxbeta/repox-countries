@@ -1,0 +1,62 @@
+{
+  "stateId": 6697807,
+  "stateCode": "GR-J",
+  "countryCode": "GR",
+  "cities": [
+    {
+      "id": 264644,
+      "name": "Arcadia",
+      "nativeName": "Nomós Arkadías",
+      "code": "GR-J-264644",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-J",
+      "latitude": 37.58333,
+      "longitude": 22.25
+    },
+    {
+      "id": 264673,
+      "name": "Argolida",
+      "nativeName": "Argolida",
+      "code": "GR-J-264673",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-J",
+      "latitude": 37.66667,
+      "longitude": 22.83333
+    },
+    {
+      "id": 259290,
+      "name": "Corinthia",
+      "nativeName": "Nomós Korinthías",
+      "code": "GR-J-259290",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-J",
+      "latitude": 37.91667,
+      "longitude": 22.66667
+    },
+    {
+      "id": 258657,
+      "name": "Laconia",
+      "nativeName": "Nomós Lakonías",
+      "code": "GR-J-258657",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-J",
+      "latitude": 37,
+      "longitude": 22.58333
+    },
+    {
+      "id": 257149,
+      "name": "Messenia",
+      "nativeName": "Nomós Messinías",
+      "code": "GR-J-257149",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-J",
+      "latitude": 37.25,
+      "longitude": 21.83333
+    }
+  ]
+}

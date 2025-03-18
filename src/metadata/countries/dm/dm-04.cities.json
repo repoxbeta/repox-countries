@@ -1,0 +1,194 @@
+{
+  "stateId": 3575628,
+  "stateCode": "DM-04",
+  "countryCode": "DM",
+  "cities": [
+    {
+      "id": 3575635,
+      "name": "Roseau",
+      "nativeName": "Roseau",
+      "code": "DM-04-3575635",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-04",
+      "latitude": 15.30174,
+      "longitude": -61.38808
+    },
+    {
+      "id": 3575907,
+      "name": "Bellevue Chopin",
+      "nativeName": "Bellevue Chopin",
+      "code": "DM-04-3575907",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-04",
+      "latitude": 15.26448,
+      "longitude": -61.34504
+    },
+    {
+      "id": 10793753,
+      "name": "Castle Comfort",
+      "nativeName": "Castle Comfort",
+      "code": "DM-04-10793753",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-04",
+      "latitude": 15.28439,
+      "longitude": -61.37049
+    },
+    {
+      "id": 12160987,
+      "name": "Citronnière",
+      "nativeName": "Citronnière",
+      "code": "DM-04-12160987",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-04",
+      "latitude": 15.28919,
+      "longitude": -61.37698
+    },
+    {
+      "id": 12151286,
+      "name": "Copt Hall Estate",
+      "nativeName": "Copt Hall Estate",
+      "code": "DM-04-12151286",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-04",
+      "latitude": 15.31299,
+      "longitude": -61.35756
+    },
+    {
+      "id": 11897803,
+      "name": "Eggleston",
+      "nativeName": "Eggleston",
+      "code": "DM-04-11897803",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-04",
+      "latitude": 15.29785,
+      "longitude": -61.35688
+    },
+    {
+      "id": 3575816,
+      "name": "Fond Cani",
+      "nativeName": "Fond Cani",
+      "code": "DM-04-3575816",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-04",
+      "latitude": 15.31875,
+      "longitude": -61.35401
+    },
+    {
+      "id": 3575798,
+      "name": "Giraudet",
+      "nativeName": "Giraudet",
+      "code": "DM-04-3575798",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-04",
+      "latitude": 15.2918,
+      "longitude": -61.34869
+    },
+    {
+      "id": 3575747,
+      "name": "Laudat",
+      "nativeName": "Laudat",
+      "code": "DM-04-3575747",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-04",
+      "latitude": 15.3372,
+      "longitude": -61.33211
+    },
+    {
+      "id": 3575737,
+      "name": "Loubiere",
+      "nativeName": "Loubiere",
+      "code": "DM-04-3575737",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-04",
+      "latitude": 15.27893,
+      "longitude": -61.3722
+    },
+    {
+      "id": 3575699,
+      "name": "Morne Prosper",
+      "nativeName": "Morne Prosper",
+      "code": "DM-04-3575699",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-04",
+      "latitude": 15.29698,
+      "longitude": -61.36002
+    },
+    {
+      "id": 3575867,
+      "name": "Newtown",
+      "nativeName": "Newtown",
+      "code": "DM-04-3575867",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-04",
+      "latitude": 15.29437,
+      "longitude": -61.38173
+    },
+    {
+      "id": 3575578,
+      "name": "Trafalgar",
+      "nativeName": "Trafalgar",
+      "code": "DM-04-3575578",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-04",
+      "latitude": 15.32728,
+      "longitude": -61.3456
+    },
+    {
+      "id": 11002642,
+      "name": "Upper King's Hill",
+      "nativeName": "Upper King's Hill",
+      "code": "DM-04-11002642",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-04",
+      "latitude": 15.299,
+      "longitude": -61.37521
+    },
+    {
+      "id": 3575570,
+      "name": "Wall House",
+      "nativeName": "Wall House",
+      "code": "DM-04-3575570",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-04",
+      "latitude": 15.27822,
+      "longitude": -61.37139
+    },
+    {
+      "id": 10793754,
+      "name": "Wotten Waven",
+      "nativeName": "Wotten Waven",
+      "code": "DM-04-10793754",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-04",
+      "latitude": 15.31813,
+      "longitude": -61.33839
+    },
+    {
+      "id": 12160993,
+      "name": "Mount Saint Mary’s",
+      "nativeName": "Mount Saint Mary’s",
+      "code": "DM-04-12160993",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-04",
+      "latitude": 15.29063,
+      "longitude": -61.3729
+    }
+  ]
+}

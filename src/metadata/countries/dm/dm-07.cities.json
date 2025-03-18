@@ -1,0 +1,29 @@
+{
+  "stateId": 3575622,
+  "stateCode": "DM-07",
+  "countryCode": "DM",
+  "cities": [
+    {
+      "id": 3575660,
+      "name": "Pointe Michel",
+      "nativeName": "Pointe Michel",
+      "code": "DM-07-3575660",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-07",
+      "latitude": 15.25976,
+      "longitude": -61.37452
+    },
+    {
+      "id": 3575605,
+      "name": "Sibouli",
+      "nativeName": "Sibouli",
+      "code": "DM-07-3575605",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-07",
+      "latitude": 15.25795,
+      "longitude": -61.37702
+    }
+  ]
+}

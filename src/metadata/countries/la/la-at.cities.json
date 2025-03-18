@@ -1,0 +1,62 @@
+{
+  "stateId": 1665045,
+  "stateCode": "LA-AT",
+  "countryCode": "LA",
+  "cities": [
+    {
+      "id": 1904772,
+      "name": "Muang Phouvong",
+      "nativeName": "Muang Phouvong",
+      "code": "LA-AT-1904772",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-AT",
+      "latitude": 14.56821,
+      "longitude": 107.01087
+    },
+    {
+      "id": 1904770,
+      "name": "Muang Samakhixai",
+      "nativeName": "Muang Samakhixai",
+      "code": "LA-AT-1904770",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-AT",
+      "latitude": 14.80539,
+      "longitude": 106.78164
+    },
+    {
+      "id": 1904771,
+      "name": "Muang Sanamxai",
+      "nativeName": "Muang Sanamxai",
+      "code": "LA-AT-1904771",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-AT",
+      "latitude": 14.73807,
+      "longitude": 106.41328
+    },
+    {
+      "id": 1904773,
+      "name": "Muang Sanxai",
+      "nativeName": "Muang Sanxai",
+      "code": "LA-AT-1904773",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-AT",
+      "latitude": 15.02944,
+      "longitude": 107.23158
+    },
+    {
+      "id": 1904769,
+      "name": "Muang Xaiséttha",
+      "nativeName": "Muang Xaiséttha",
+      "code": "LA-AT-1904769",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-AT",
+      "latitude": 14.90594,
+      "longitude": 106.97894
+    }
+  ]
+}

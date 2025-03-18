@@ -1,0 +1,62 @@
+{
+  "stateId": 3834450,
+  "stateCode": "AR-V",
+  "countryCode": "AR",
+  "cities": [
+    {
+      "id": 11524834,
+      "name": "Argentine Antarctica",
+      "nativeName": "Argentine Antarctica",
+      "code": "AR-V-11524834",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-V",
+      "latitude": -82.78066,
+      "longitude": -50.6785
+    },
+    {
+      "id": 3836551,
+      "name": "Departamento de Río Grande",
+      "nativeName": "Departamento de Río Grande",
+      "code": "AR-V-3836551",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-V",
+      "latitude": -53.5,
+      "longitude": -68.33333
+    },
+    {
+      "id": 3833365,
+      "name": "Departamento de Ushuaia",
+      "nativeName": "Departamento de Ushuaia",
+      "code": "AR-V-3833365",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-V",
+      "latitude": -54.62912,
+      "longitude": -67.8962
+    },
+    {
+      "id": 11524835,
+      "name": "Islas del Atlántico Sur",
+      "nativeName": "Islas del Atlántico Sur",
+      "code": "AR-V-11524835",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-V",
+      "latitude": -51.94426,
+      "longitude": -59.21631
+    },
+    {
+      "id": 11994812,
+      "name": "Tolhuin",
+      "nativeName": "Tolhuin",
+      "code": "AR-V-11994812",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-V",
+      "latitude": -54.50967,
+      "longitude": -67.18109
+    }
+  ]
+}

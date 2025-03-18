@@ -1,0 +1,40 @@
+{
+  "stateId": 3042031,
+  "stateCode": "LI-11",
+  "countryCode": "LI",
+  "cities": [
+    {
+      "id": 3042030,
+      "name": "Vaduz",
+      "nativeName": "Vaduz",
+      "code": "LI-11-3042030",
+      "countryId": 3042058,
+      "countryCode": "LI",
+      "stateCode": "LI-11",
+      "latitude": 47.14151,
+      "longitude": 9.52154
+    },
+    {
+      "id": 3315358,
+      "name": "Möliholz",
+      "nativeName": "Möliholz",
+      "code": "LI-11-3315358",
+      "countryId": 3042058,
+      "countryCode": "LI",
+      "stateCode": "LI-11",
+      "latitude": 47.15569,
+      "longitude": 9.51111
+    },
+    {
+      "id": 10352870,
+      "name": "Bi den undera Hötta",
+      "nativeName": "Bi den undera Hötta",
+      "code": "LI-11-10352870",
+      "countryId": 3042058,
+      "countryCode": "LI",
+      "stateCode": "LI-11",
+      "latitude": 47.10769,
+      "longitude": 9.59886
+    }
+  ]
+}

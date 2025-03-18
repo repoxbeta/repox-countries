@@ -1,0 +1,29 @@
+{
+  "stateId": 241331,
+  "stateCode": "SC-14",
+  "countryCode": "SC",
+  "cities": [
+    {
+      "id": 6691844,
+      "name": "Anse Kerlan",
+      "nativeName": "Anse Kerlan",
+      "code": "SC-14-6691844",
+      "countryId": 241170,
+      "countryCode": "SC",
+      "stateCode": "SC-14",
+      "latitude": -4.30524,
+      "longitude": 55.6845
+    },
+    {
+      "id": 8629285,
+      "name": "Grand Anse",
+      "nativeName": "Grand Anse",
+      "code": "SC-14-8629285",
+      "countryId": 241170,
+      "countryCode": "SC",
+      "stateCode": "SC-14",
+      "latitude": -4.33109,
+      "longitude": 55.72206
+    }
+  ]
+}

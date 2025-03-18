@@ -1,0 +1,106 @@
+{
+  "stateId": 2260487,
+  "stateCode": "CG-8",
+  "countryCode": "CG",
+  "cities": [
+    {
+      "id": 7870297,
+      "name": "Boundji",
+      "nativeName": "Boundji",
+      "code": "CG-8-7870297",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-8",
+      "latitude": -0.781,
+      "longitude": 15.298
+    },
+    {
+      "id": 7870298,
+      "name": "Loukolela",
+      "nativeName": "Loukolela",
+      "code": "CG-8-7870298",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-8",
+      "latitude": -0.86336,
+      "longitude": 17.13024
+    },
+    {
+      "id": 7870306,
+      "name": "Makoua",
+      "nativeName": "Makoua",
+      "code": "CG-8-7870306",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-8",
+      "latitude": -0.00449,
+      "longitude": 15.61193
+    },
+    {
+      "id": 7731907,
+      "name": "Mossaka",
+      "nativeName": "Mossaka",
+      "code": "CG-8-7731907",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-8",
+      "latitude": -0.72757,
+      "longitude": 16.58471
+    },
+    {
+      "id": 11996212,
+      "name": "Ngoko",
+      "nativeName": "Ngoko",
+      "code": "CG-8-11996212",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-8",
+      "latitude": -0.60119,
+      "longitude": 15.26868
+    },
+    {
+      "id": 11996205,
+      "name": "Ntokou",
+      "nativeName": "Ntokou",
+      "code": "CG-8-11996205",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-8",
+      "latitude": 0.04823,
+      "longitude": 16.17877
+    },
+    {
+      "id": 7870312,
+      "name": "Owando",
+      "nativeName": "Owando",
+      "code": "CG-8-7870312",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-8",
+      "latitude": -0.665,
+      "longitude": 15.974
+    },
+    {
+      "id": 11996202,
+      "name": "Oyo",
+      "nativeName": "Oyo",
+      "code": "CG-8-11996202",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-8",
+      "latitude": -1.0012,
+      "longitude": 15.89586
+    },
+    {
+      "id": 11996237,
+      "name": "Tchikapika",
+      "nativeName": "Tchikapika",
+      "code": "CG-8-11996237",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-8",
+      "latitude": -1.18292,
+      "longitude": 16.3291
+    }
+  ]
+}

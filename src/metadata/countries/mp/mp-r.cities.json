@@ -1,0 +1,40 @@
+{
+  "stateId": 4041530,
+  "stateCode": "MP-R",
+  "countryCode": "MP",
+  "cities": [
+    {
+      "id": 4041534,
+      "name": "Dugi Village",
+      "nativeName": "Dugi Village",
+      "code": "MP-R-4041534",
+      "countryId": 4041468,
+      "countryCode": "MP",
+      "stateCode": "MP-R",
+      "latitude": 14.18851,
+      "longitude": 145.27874
+    },
+    {
+      "id": 4041576,
+      "name": "Sinapalo Village",
+      "nativeName": "Sinapalo Village",
+      "code": "MP-R-4041576",
+      "countryId": 4041468,
+      "countryCode": "MP",
+      "stateCode": "MP-R",
+      "latitude": 14.16608,
+      "longitude": 145.2317
+    },
+    {
+      "id": 4041579,
+      "name": "Songsong",
+      "nativeName": "Songsong",
+      "code": "MP-R-4041579",
+      "countryId": 4041468,
+      "countryCode": "MP",
+      "stateCode": "MP-R",
+      "latitude": 14.13972,
+      "longitude": 145.14111
+    }
+  ]
+}

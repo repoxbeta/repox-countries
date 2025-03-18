@@ -1,0 +1,40 @@
+{
+  "stateId": 3344947,
+  "stateCode": "AL-02",
+  "countryCode": "AL",
+  "cities": [
+    {
+      "id": 10944377,
+      "name": "Bashkia Durrës",
+      "nativeName": "Bashkia Durrës",
+      "code": "AL-02-10944377",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-02",
+      "latitude": 41.42743,
+      "longitude": 19.4869
+    },
+    {
+      "id": 10944378,
+      "name": "Bashkia Krujë",
+      "nativeName": "Bashkia Krujë",
+      "code": "AL-02-10944378",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-02",
+      "latitude": 41.50091,
+      "longitude": 19.72571
+    },
+    {
+      "id": 10944379,
+      "name": "Bashkia Shijak",
+      "nativeName": "Bashkia Shijak",
+      "code": "AL-02-10944379",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-02",
+      "latitude": 41.33558,
+      "longitude": 19.58977
+    }
+  ]
+}

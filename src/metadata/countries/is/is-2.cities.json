@@ -1,0 +1,51 @@
+{
+  "stateId": 3426183,
+  "stateCode": "IS-2",
+  "countryCode": "IS",
+  "cities": [
+    {
+      "id": 9192633,
+      "name": "Grindavíkurbær",
+      "nativeName": "Grindavíkurbær",
+      "code": "IS-2-9192633",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-2",
+      "latitude": 63.88425,
+      "longitude": -22.21786
+    },
+    {
+      "id": 3426211,
+      "name": "Reykjanesbær",
+      "nativeName": "Reykjanesbær",
+      "code": "IS-2-3426211",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-2",
+      "latitude": 63.92397,
+      "longitude": -22.59951
+    },
+    {
+      "id": 12200082,
+      "name": "Suðurnesjabær",
+      "nativeName": "Suðurnesjabær",
+      "code": "IS-2-12200082",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-2",
+      "latitude": 64.0166,
+      "longitude": -22.65656
+    },
+    {
+      "id": 9192632,
+      "name": "Sveitarfélagið Vogar",
+      "nativeName": "Sveitarfélagið Vogar",
+      "code": "IS-2-9192632",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-2",
+      "latitude": 63.97228,
+      "longitude": -22.23826
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "stateId": 7670851,
+  "stateCode": "MG-33",
+  "countryCode": "MG",
+  "cities": [
+    {
+      "id": 7670893,
+      "name": "Ambatondrazaka District",
+      "nativeName": "Ambatondrazaka District",
+      "code": "MG-33-7670893",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-33",
+      "latitude": -17.89086,
+      "longitude": 48.44397
+    },
+    {
+      "id": 7670894,
+      "name": "Amparafaravola District",
+      "nativeName": "Amparafaravola District",
+      "code": "MG-33-7670894",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-33",
+      "latitude": -17.37922,
+      "longitude": 48.36441
+    },
+    {
+      "id": 8335145,
+      "name": "Andilamena District",
+      "nativeName": "Andilamena District",
+      "code": "MG-33-8335145",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-33",
+      "latitude": -16.95057,
+      "longitude": 48.54738
+    },
+    {
+      "id": 8335146,
+      "name": "Anosibe An'ala District",
+      "nativeName": "Anosibe An'ala District",
+      "code": "MG-33-8335146",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-33",
+      "latitude": -19.47177,
+      "longitude": 48.19996
+    },
+    {
+      "id": 7670900,
+      "name": "Moramanga District",
+      "nativeName": "Moramanga District",
+      "code": "MG-33-7670900",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-33",
+      "latitude": -18.80198,
+      "longitude": 48.25968
+    }
+  ]
+}

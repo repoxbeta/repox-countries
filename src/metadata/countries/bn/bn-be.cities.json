@@ -1,0 +1,117 @@
+{
+  "stateId": 1820869,
+  "stateCode": "BN-BE",
+  "countryCode": "BN",
+  "cities": [
+    {
+      "id": 1820491,
+      "name": "Kuala Belait",
+      "nativeName": "Kuala Belait",
+      "code": "BN-BE-1820491",
+      "countryId": 1820814,
+      "countryCode": "BN",
+      "stateCode": "BN-BE",
+      "latitude": 4.58361,
+      "longitude": 114.2312
+    },
+    {
+      "id": 1820804,
+      "name": "Bukit Puan",
+      "nativeName": "Bukit Puan",
+      "code": "BN-BE-1820804",
+      "countryId": 1820814,
+      "countryCode": "BN",
+      "stateCode": "BN-BE",
+      "latitude": 4.53333,
+      "longitude": 114.45
+    },
+    {
+      "id": 12547936,
+      "name": "Kampung Lubok Palam",
+      "nativeName": "Kampung Lubok Palam",
+      "code": "BN-BE-12547936",
+      "countryId": 1820814,
+      "countryCode": "BN",
+      "stateCode": "BN-BE",
+      "latitude": 4.5782,
+      "longitude": 114.19675
+    },
+    {
+      "id": 12547935,
+      "name": "Kampung Sungai Teraban",
+      "nativeName": "Kampung Sungai Teraban",
+      "code": "BN-BE-12547935",
+      "countryId": 1820814,
+      "countryCode": "BN",
+      "stateCode": "BN-BE",
+      "latitude": 4.58445,
+      "longitude": 114.18117
+    },
+    {
+      "id": 1820492,
+      "name": "Kuala Balai",
+      "nativeName": "Kuala Balai",
+      "code": "BN-BE-1820492",
+      "countryId": 1820814,
+      "countryCode": "BN",
+      "stateCode": "BN-BE",
+      "latitude": 4.45,
+      "longitude": 114.31667
+    },
+    {
+      "id": 1820474,
+      "name": "Labi",
+      "nativeName": "Labi",
+      "code": "BN-BE-1820474",
+      "countryId": 1820814,
+      "countryCode": "BN",
+      "stateCode": "BN-BE",
+      "latitude": 4.38333,
+      "longitude": 114.43333
+    },
+    {
+      "id": 1820557,
+      "name": "Liang",
+      "nativeName": "Liang",
+      "code": "BN-BE-1820557",
+      "countryId": 1820814,
+      "countryCode": "BN",
+      "stateCode": "BN-BE",
+      "latitude": 4.67747,
+      "longitude": 114.49587
+    },
+    {
+      "id": 1820386,
+      "name": "Melilas",
+      "nativeName": "Melilas",
+      "code": "BN-BE-1820386",
+      "countryId": 1820814,
+      "countryCode": "BN",
+      "stateCode": "BN-BE",
+      "latitude": 4.23333,
+      "longitude": 114.66667
+    },
+    {
+      "id": 1820187,
+      "name": "Seria",
+      "nativeName": "Seria",
+      "code": "BN-BE-1820187",
+      "countryId": 1820814,
+      "countryCode": "BN",
+      "stateCode": "BN-BE",
+      "latitude": 4.60637,
+      "longitude": 114.32476
+    },
+    {
+      "id": 1820159,
+      "name": "Sukang",
+      "nativeName": "Sukang",
+      "code": "BN-BE-1820159",
+      "countryId": 1820814,
+      "countryCode": "BN",
+      "stateCode": "BN-BE",
+      "latitude": 4.31667,
+      "longitude": 114.61667
+    }
+  ]
+}

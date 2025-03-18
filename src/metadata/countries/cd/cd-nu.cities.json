@@ -1,0 +1,62 @@
+{
+  "stateId": 11288215,
+  "stateCode": "CD-NU",
+  "countryCode": "CD",
+  "cities": [
+    {
+      "id": 12278044,
+      "name": "Bosobolo",
+      "nativeName": "Bosobolo",
+      "code": "CD-NU-12278044",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-NU",
+      "latitude": 4.54933,
+      "longitude": 19.79066
+    },
+    {
+      "id": 12278018,
+      "name": "Businga",
+      "nativeName": "Businga",
+      "code": "CD-NU-12278018",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-NU",
+      "latitude": 3.39307,
+      "longitude": 20.93042
+    },
+    {
+      "id": 12278154,
+      "name": "Gbadolite",
+      "nativeName": "Gbadolite",
+      "code": "CD-NU-12278154",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-NU",
+      "latitude": 4.2826,
+      "longitude": 20.87605
+    },
+    {
+      "id": 12278114,
+      "name": "Mobayi-Mbongo",
+      "nativeName": "Mobayi-Mbongo",
+      "code": "CD-NU-12278114",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-NU",
+      "latitude": 4.07912,
+      "longitude": 21.0314
+    },
+    {
+      "id": 12278078,
+      "name": "Yakoma",
+      "nativeName": "Yakoma",
+      "code": "CD-NU-12278078",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-NU",
+      "latitude": 3.643,
+      "longitude": 22.22948
+    }
+  ]
+}

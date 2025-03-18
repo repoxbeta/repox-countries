@@ -1,0 +1,227 @@
+{
+  "stateId": 458459,
+  "stateCode": "LV-050",
+  "countryCode": "LV",
+  "cities": [
+    {
+      "id": 11352448,
+      "name": "Alsungas novads",
+      "nativeName": "Alsungas novads",
+      "code": "LV-050-11352448",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-050",
+      "latitude": 56.97503,
+      "longitude": 21.55536
+    },
+    {
+      "id": 11352714,
+      "name": "Gudenieku pagasts",
+      "nativeName": "Gudenieku pagasts",
+      "code": "LV-050-11352714",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-050",
+      "latitude": 56.8867,
+      "longitude": 21.62013
+    },
+    {
+      "id": 11352716,
+      "name": "Kabiles pagasts",
+      "nativeName": "Kabiles pagasts",
+      "code": "LV-050-11352716",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-050",
+      "latitude": 56.9602,
+      "longitude": 22.35337
+    },
+    {
+      "id": 11352717,
+      "name": "Kuldīga",
+      "nativeName": "Kuldīga",
+      "code": "LV-050-11352717",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-050",
+      "latitude": 56.96786,
+      "longitude": 21.96885
+    },
+    {
+      "id": 11352718,
+      "name": "Kurmāles pagasts",
+      "nativeName": "Kurmāles pagasts",
+      "code": "LV-050-11352718",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-050",
+      "latitude": 56.90973,
+      "longitude": 21.85427
+    },
+    {
+      "id": 11352719,
+      "name": "Laidu pagasts",
+      "nativeName": "Laidu pagasts",
+      "code": "LV-050-11352719",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-050",
+      "latitude": 56.75167,
+      "longitude": 21.84073
+    },
+    {
+      "id": 11352914,
+      "name": "Nīkrāces pagasts",
+      "nativeName": "Nīkrāces pagasts",
+      "code": "LV-050-11352914",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-050",
+      "latitude": 56.56099,
+      "longitude": 21.92835
+    },
+    {
+      "id": 11352720,
+      "name": "Padures pagasts",
+      "nativeName": "Padures pagasts",
+      "code": "LV-050-11352720",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-050",
+      "latitude": 57.0364,
+      "longitude": 21.86275
+    },
+    {
+      "id": 11352715,
+      "name": "Pelču pagasts",
+      "nativeName": "Pelču pagasts",
+      "code": "LV-050-11352715",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-050",
+      "latitude": 56.90594,
+      "longitude": 22.00047
+    },
+    {
+      "id": 11352915,
+      "name": "Raņķu pagasts",
+      "nativeName": "Raņķu pagasts",
+      "code": "LV-050-11352915",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-050",
+      "latitude": 56.78118,
+      "longitude": 21.99326
+    },
+    {
+      "id": 11352721,
+      "name": "Rendas pagasts",
+      "nativeName": "Rendas pagasts",
+      "code": "LV-050-11352721",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-050",
+      "latitude": 57.05939,
+      "longitude": 22.21713
+    },
+    {
+      "id": 11352885,
+      "name": "Rudbāržu pagasts",
+      "nativeName": "Rudbāržu pagasts",
+      "code": "LV-050-11352885",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-050",
+      "latitude": 56.65376,
+      "longitude": 21.87861
+    },
+    {
+      "id": 11352722,
+      "name": "Rumbas pagasts",
+      "nativeName": "Rumbas pagasts",
+      "code": "LV-050-11352722",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-050",
+      "latitude": 56.99617,
+      "longitude": 22.05533
+    },
+    {
+      "id": 11352464,
+      "name": "Skrunda",
+      "nativeName": "Skrunda",
+      "code": "LV-050-11352464",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-050",
+      "latitude": 56.67158,
+      "longitude": 22.00927
+    },
+    {
+      "id": 11352917,
+      "name": "Skrundas pagasts",
+      "nativeName": "Skrundas pagasts",
+      "code": "LV-050-11352917",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-050",
+      "latitude": 56.69699,
+      "longitude": 22.06831
+    },
+    {
+      "id": 11352702,
+      "name": "Snēpeles pagasts",
+      "nativeName": "Snēpeles pagasts",
+      "code": "LV-050-11352702",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-050",
+      "latitude": 56.84335,
+      "longitude": 21.94691
+    },
+    {
+      "id": 11352723,
+      "name": "Turlavas pagasts",
+      "nativeName": "Turlavas pagasts",
+      "code": "LV-050-11352723",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-050",
+      "latitude": 56.82761,
+      "longitude": 21.74377
+    },
+    {
+      "id": 11352724,
+      "name": "Vārmes pagasts",
+      "nativeName": "Vārmes pagasts",
+      "code": "LV-050-11352724",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-050",
+      "latitude": 56.8563,
+      "longitude": 22.18922
+    },
+    {
+      "id": 11352712,
+      "name": "Ēdoles pagasts",
+      "nativeName": "Ēdoles pagasts",
+      "code": "LV-050-11352712",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-050",
+      "latitude": 57.05136,
+      "longitude": 21.68317
+    },
+    {
+      "id": 11352709,
+      "name": "Īvandes pagasts",
+      "nativeName": "Īvandes pagasts",
+      "code": "LV-050-11352709",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-050",
+      "latitude": 56.97006,
+      "longitude": 21.78364
+    }
+  ]
+}

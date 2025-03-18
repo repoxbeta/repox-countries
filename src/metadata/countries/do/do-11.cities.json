@@ -1,0 +1,29 @@
+{
+  "stateId": 3503706,
+  "stateCode": "DO-11",
+  "countryCode": "DO",
+  "cities": [
+    {
+      "id": 3504569,
+      "name": "Higüey",
+      "nativeName": "Higüey",
+      "code": "DO-11-3504569",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-11",
+      "latitude": 18.7,
+      "longitude": -68.66667
+    },
+    {
+      "id": 3493023,
+      "name": "San Rafael del Yuma",
+      "nativeName": "San Rafael del Yuma",
+      "code": "DO-11-3493023",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-11",
+      "latitude": 18.38333,
+      "longitude": -68.66667
+    }
+  ]
+}

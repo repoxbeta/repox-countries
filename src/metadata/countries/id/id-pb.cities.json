@@ -1,0 +1,84 @@
+{
+  "stateId": 1996549,
+  "stateCode": "ID-PB",
+  "countryCode": "ID",
+  "cities": [
+    {
+      "id": 9828026,
+      "name": "Arfak Mountains Regency",
+      "nativeName": "Kabupaten Pegunungan Arfak",
+      "code": "ID-PB-9828026",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-PB",
+      "latitude": -1.20256,
+      "longitude": 133.70651
+    },
+    {
+      "id": 6619356,
+      "name": "Fakfak Regency",
+      "nativeName": "Kabupaten Fakfak",
+      "code": "ID-PB-6619356",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-PB",
+      "latitude": -2.92641,
+      "longitude": 132.29608
+    },
+    {
+      "id": 7910905,
+      "name": "Kaimana Regency",
+      "nativeName": "Kabupaten Kaimana",
+      "code": "ID-PB-7910905",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-PB",
+      "latitude": -3.66093,
+      "longitude": 133.77451
+    },
+    {
+      "id": 1636306,
+      "name": "Manokwari Regency",
+      "nativeName": "Kabupaten Manokwari",
+      "code": "ID-PB-1636306",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-PB",
+      "latitude": -0.9,
+      "longitude": 133.73333
+    },
+    {
+      "id": 9827967,
+      "name": "South Manokwari Regency",
+      "nativeName": "Kabupaten Manokwari Selatan",
+      "code": "ID-PB-9827967",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-PB",
+      "latitude": -1.60532,
+      "longitude": 134.00313
+    },
+    {
+      "id": 9166002,
+      "name": "Teluk Bintuni Regency",
+      "nativeName": "Kabupaten Teluk Bintuni",
+      "code": "ID-PB-9166002",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-PB",
+      "latitude": -1.88037,
+      "longitude": 133.33105
+    },
+    {
+      "id": 7910908,
+      "name": "Wondama Bay Regency",
+      "nativeName": "Kabupaten Teluk Wondama",
+      "code": "ID-PB-7910908",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-PB",
+      "latitude": -2.7,
+      "longitude": 134.5
+    }
+  ]
+}

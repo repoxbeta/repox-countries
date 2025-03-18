@@ -1,0 +1,40 @@
+{
+  "stateId": 9782176,
+  "stateCode": "IM-9782176",
+  "countryCode": "IM",
+  "cities": [
+    {
+      "id": 3042213,
+      "name": "Lezayre",
+      "nativeName": "Lezayre",
+      "code": "IM-9782176-3042213",
+      "countryId": 3042225,
+      "countryCode": "IM",
+      "stateCode": "IM-9782176",
+      "latitude": 54.31667,
+      "longitude": -4.41667
+    },
+    {
+      "id": 3042238,
+      "name": "Dog Mills",
+      "nativeName": "Dog Mills",
+      "code": "IM-9782176-3042238",
+      "countryId": 3042225,
+      "countryCode": "IM",
+      "stateCode": "IM-9782176",
+      "latitude": 54.35,
+      "longitude": -4.38333
+    },
+    {
+      "id": 3042174,
+      "name": "Sulby",
+      "nativeName": "Sulby",
+      "code": "IM-9782176-3042174",
+      "countryId": 3042225,
+      "countryCode": "IM",
+      "stateCode": "IM-9782176",
+      "latitude": 54.32283,
+      "longitude": -4.47968
+    }
+  ]
+}

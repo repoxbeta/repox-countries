@@ -1,0 +1,117 @@
+{
+  "stateId": 1337210,
+  "stateCode": "BD-D",
+  "countryCode": "BD",
+  "cities": [
+    {
+      "id": 1337209,
+      "name": "Bagerhat",
+      "nativeName": "Bagerhat",
+      "code": "BD-D-1337209",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-D",
+      "latitude": 22.4,
+      "longitude": 89.75
+    },
+    {
+      "id": 1337205,
+      "name": "Chuadanga",
+      "nativeName": "Chuadanga",
+      "code": "BD-D-1337205",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-D",
+      "latitude": 23.63333,
+      "longitude": 88.85
+    },
+    {
+      "id": 1337207,
+      "name": "Jessore",
+      "nativeName": "Jessore",
+      "code": "BD-D-1337207",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-D",
+      "latitude": 23.08333,
+      "longitude": 89.16667
+    },
+    {
+      "id": 1337204,
+      "name": "Jhenaidah",
+      "nativeName": "Jhenaidah",
+      "code": "BD-D-1337204",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-D",
+      "latitude": 23.5,
+      "longitude": 89.16667
+    },
+    {
+      "id": 1337211,
+      "name": "Khulna",
+      "nativeName": "Khulna",
+      "code": "BD-D-1337211",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-D",
+      "latitude": 22.5,
+      "longitude": 89.33333
+    },
+    {
+      "id": 1185185,
+      "name": "Kushtia",
+      "nativeName": "Kushtia",
+      "code": "BD-D-1185185",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-D",
+      "latitude": 23.83333,
+      "longitude": 88.91667
+    },
+    {
+      "id": 1337206,
+      "name": "Magura",
+      "nativeName": "Magura",
+      "code": "BD-D-1337206",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-D",
+      "latitude": 23.43333,
+      "longitude": 89.43333
+    },
+    {
+      "id": 1337203,
+      "name": "Meherpur",
+      "nativeName": "Meherpur",
+      "code": "BD-D-1337203",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-D",
+      "latitude": 23.75,
+      "longitude": 88.7
+    },
+    {
+      "id": 1337208,
+      "name": "Narail",
+      "nativeName": "Narail",
+      "code": "BD-D-1337208",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-D",
+      "latitude": 23.13333,
+      "longitude": 89.6
+    },
+    {
+      "id": 1337212,
+      "name": "Satkhira",
+      "nativeName": "Satkhira",
+      "code": "BD-D-1337212",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-D",
+      "latitude": 22.35,
+      "longitude": 89.15
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "stateId": 3572807,
+  "stateCode": "BS-BI",
+  "countryCode": "BS",
+  "cities": [
+    {
+      "id": 3572924,
+      "name": "Alice Town",
+      "nativeName": "Alice Town",
+      "code": "BS-BI-3572924",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-BI",
+      "latitude": 25.728,
+      "longitude": -79.29721
+    },
+    {
+      "id": 3572884,
+      "name": "Bailey Town",
+      "nativeName": "Bailey Town",
+      "code": "BS-BI-3572884",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-BI",
+      "latitude": 25.7437,
+      "longitude": -79.2861
+    },
+    {
+      "id": 3572772,
+      "name": "Bluff",
+      "nativeName": "Bluff",
+      "code": "BS-BI-3572772",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-BI",
+      "latitude": 25.78333,
+      "longitude": -79.31667
+    },
+    {
+      "id": 3571995,
+      "name": "Louis Town",
+      "nativeName": "Louis Town",
+      "code": "BS-BI-3571995",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-BI",
+      "latitude": 25.55253,
+      "longitude": -79.27854
+    },
+    {
+      "id": 10626569,
+      "name": "Port Royal",
+      "nativeName": "Port Royal",
+      "code": "BS-BI-10626569",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-BI",
+      "latitude": 25.70078,
+      "longitude": -79.30254
+    }
+  ]
+}

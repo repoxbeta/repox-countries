@@ -1,0 +1,227 @@
+{
+  "stateId": 6201196,
+  "stateCode": "YE-IB",
+  "countryCode": "YE",
+  "cities": [
+    {
+      "id": 6940639,
+      "name": "Al Dhihar District",
+      "nativeName": "Al Dhihar",
+      "code": "YE-IB-6940639",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-IB",
+      "latitude": 13.979,
+      "longitude": 44.1526
+    },
+    {
+      "id": 73172,
+      "name": "Al Makhadir District",
+      "nativeName": "Al Makhādir",
+      "code": "YE-IB-73172",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-IB",
+      "latitude": 14.13965,
+      "longitude": 44.2033
+    },
+    {
+      "id": 6940641,
+      "name": "Al Mashannah District",
+      "nativeName": "Al Mashannah",
+      "code": "YE-IB-6940641",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-IB",
+      "latitude": 13.9573,
+      "longitude": 44.17
+    },
+    {
+      "id": 6940593,
+      "name": "Al Qafr District",
+      "nativeName": "Al Qafr",
+      "code": "YE-IB-6940593",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-IB",
+      "latitude": 14.3129,
+      "longitude": 44.03
+    },
+    {
+      "id": 69921,
+      "name": "Al Udayn District",
+      "nativeName": "Al ‘Udayn",
+      "code": "YE-IB-69921",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-IB",
+      "latitude": 13.96112,
+      "longitude": 43.96608
+    },
+    {
+      "id": 72370,
+      "name": "An Nadirah District",
+      "nativeName": "An Nādirah",
+      "code": "YE-IB-72370",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-IB",
+      "latitude": 14.07398,
+      "longitude": 44.49925
+    },
+    {
+      "id": 6940629,
+      "name": "Ar Radmah District",
+      "nativeName": "Ar Radmah",
+      "code": "YE-IB-6940629",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-IB",
+      "latitude": 14.212,
+      "longitude": 44.5642
+    },
+    {
+      "id": 6940642,
+      "name": "As Sabrah District",
+      "nativeName": "As Sabrah",
+      "code": "YE-IB-6940642",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-IB",
+      "latitude": 13.8427,
+      "longitude": 44.3386
+    },
+    {
+      "id": 6940630,
+      "name": "As Saddah District",
+      "nativeName": "As Saddah",
+      "code": "YE-IB-6940630",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-IB",
+      "latitude": 14.1661,
+      "longitude": 44.3751
+    },
+    {
+      "id": 6940640,
+      "name": "As Sayyani District",
+      "nativeName": "As Sayyani",
+      "code": "YE-IB-6940640",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-IB",
+      "latitude": 13.8224,
+      "longitude": 44.2118
+    },
+    {
+      "id": 6940628,
+      "name": "Ash Sha'ar District",
+      "nativeName": "Ash Sha'ir",
+      "code": "YE-IB-6940628",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-IB",
+      "latitude": 14.0318,
+      "longitude": 44.3619
+    },
+    {
+      "id": 6940645,
+      "name": "Ba'dan District",
+      "nativeName": "Ba'dan",
+      "code": "YE-IB-6940645",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-IB",
+      "latitude": 13.9887,
+      "longitude": 44.3236
+    },
+    {
+      "id": 76153,
+      "name": "Dhi As Sufal District",
+      "nativeName": "Dhī as Sufāl",
+      "code": "YE-IB-76153",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-IB",
+      "latitude": 13.82137,
+      "longitude": 44.07775
+    },
+    {
+      "id": 6940632,
+      "name": "Far Al Udayn District",
+      "nativeName": "Far Al Udayn",
+      "code": "YE-IB-6940632",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-IB",
+      "latitude": 13.9578,
+      "longitude": 43.7827
+    },
+    {
+      "id": 6940592,
+      "name": "Hazm Al Udayn",
+      "nativeName": "Hazm Al Udayn",
+      "code": "YE-IB-6940592",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-IB",
+      "latitude": 14.16984,
+      "longitude": 43.93814
+    },
+    {
+      "id": 6940643,
+      "name": "Hubaysh",
+      "nativeName": "Hubaysh",
+      "code": "YE-IB-6940643",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-IB",
+      "latitude": 14.116,
+      "longitude": 44.0824
+    },
+    {
+      "id": 74475,
+      "name": "Ibb District",
+      "nativeName": "Ibb",
+      "code": "YE-IB-74475",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-IB",
+      "latitude": 14.03356,
+      "longitude": 44.15508
+    },
+    {
+      "id": 6940644,
+      "name": "Jiblah District",
+      "nativeName": "Jiblah",
+      "code": "YE-IB-6940644",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-IB",
+      "latitude": 13.9148,
+      "longitude": 44.1213
+    },
+    {
+      "id": 6940631,
+      "name": "Mudhaykhirah District",
+      "nativeName": "Mudhaykhirah",
+      "code": "YE-IB-6940631",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-IB",
+      "latitude": 13.86608,
+      "longitude": 43.96866
+    },
+    {
+      "id": 69558,
+      "name": "Yarim District",
+      "nativeName": "Yarīm",
+      "code": "YE-IB-69558",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-IB",
+      "latitude": 14.25388,
+      "longitude": 44.31176
+    }
+  ]
+}

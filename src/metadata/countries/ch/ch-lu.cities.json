@@ -1,0 +1,73 @@
+{
+  "stateId": 2659810,
+  "stateCode": "CH-LU",
+  "countryCode": "CH",
+  "cities": [
+    {
+      "id": 8740968,
+      "name": "Entlebuch District",
+      "nativeName": "Entlebuch District",
+      "code": "CH-LU-8740968",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-LU",
+      "latitude": 46.9259,
+      "longitude": 8.01427
+    },
+    {
+      "id": 8740969,
+      "name": "Hochdorf District",
+      "nativeName": "Hochdorf District",
+      "code": "CH-LU-8740969",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-LU",
+      "latitude": 47.17062,
+      "longitude": 8.28702
+    },
+    {
+      "id": 8718162,
+      "name": "Lucerne-Land District",
+      "nativeName": "Lucerne-Land District",
+      "code": "CH-LU-8718162",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-LU",
+      "latitude": 47.04046,
+      "longitude": 8.29271
+    },
+    {
+      "id": 8718163,
+      "name": "Lucerne-Stadt District",
+      "nativeName": "Lucerne-Stadt District",
+      "code": "CH-LU-8718163",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-LU",
+      "latitude": 47.05334,
+      "longitude": 8.31063
+    },
+    {
+      "id": 8740970,
+      "name": "Sursee District",
+      "nativeName": "Sursee District",
+      "code": "CH-LU-8740970",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-LU",
+      "latitude": 47.15591,
+      "longitude": 8.13704
+    },
+    {
+      "id": 8740971,
+      "name": "Willisau District",
+      "nativeName": "Willisau District",
+      "code": "CH-LU-8740971",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-LU",
+      "latitude": 47.14097,
+      "longitude": 7.95933
+    }
+  ]
+}

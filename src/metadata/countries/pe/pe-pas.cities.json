@@ -1,0 +1,40 @@
+{
+  "stateId": 3932834,
+  "stateCode": "PE-PAS",
+  "countryCode": "PE",
+  "cities": [
+    {
+      "id": 3941507,
+      "name": "Daniel Alcides Carrión Province",
+      "nativeName": "Daniel Alcides Carrión",
+      "code": "PE-PAS-3941507",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-PAS",
+      "latitude": -10.5,
+      "longitude": -76.47448
+    },
+    {
+      "id": 3933873,
+      "name": "Oxapampa Province",
+      "nativeName": "Provincia de Oxapampa",
+      "code": "PE-PAS-3933873",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-PAS",
+      "latitude": -10.29505,
+      "longitude": -74.94933
+    },
+    {
+      "id": 3932833,
+      "name": "Pasco Province",
+      "nativeName": "Provincia de Pasco",
+      "code": "PE-PAS-3932833",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-PAS",
+      "latitude": -10.7225,
+      "longitude": -76.11364
+    }
+  ]
+}

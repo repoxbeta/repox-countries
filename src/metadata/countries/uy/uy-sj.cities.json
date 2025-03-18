@@ -1,0 +1,51 @@
+{
+  "stateId": 3440645,
+  "stateCode": "UY-SJ",
+  "countryCode": "UY",
+  "cities": [
+    {
+      "id": 11820770,
+      "name": "Ciudad Del Plata",
+      "nativeName": "Ciudad Del Plata",
+      "code": "UY-SJ-11820770",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-SJ",
+      "latitude": -34.72811,
+      "longitude": -56.44058
+    },
+    {
+      "id": 11820797,
+      "name": "Ecilda Paullier",
+      "nativeName": "Ecilda Paullier",
+      "code": "UY-SJ-11820797",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-SJ",
+      "latitude": -34.3839,
+      "longitude": -56.9921
+    },
+    {
+      "id": 11820826,
+      "name": "Libertad",
+      "nativeName": "Libertad",
+      "code": "UY-SJ-11820826",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-SJ",
+      "latitude": -34.64977,
+      "longitude": -56.63898
+    },
+    {
+      "id": 11820813,
+      "name": "Rodriguez",
+      "nativeName": "Rodriguez",
+      "code": "UY-SJ-11820813",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-SJ",
+      "latitude": -34.20067,
+      "longitude": -56.53003
+    }
+  ]
+}

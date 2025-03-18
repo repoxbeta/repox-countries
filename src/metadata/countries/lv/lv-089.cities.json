@@ -1,0 +1,40 @@
+{
+  "stateId": 7628366,
+  "stateCode": "LV-089",
+  "countryCode": "LV",
+  "cities": [
+    {
+      "id": 11352908,
+      "name": "Saulkrasti",
+      "nativeName": "Saulkrasti",
+      "code": "LV-089-11352908",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-089",
+      "latitude": 57.25844,
+      "longitude": 24.41122
+    },
+    {
+      "id": 11352909,
+      "name": "Saulkrastu pagasts",
+      "nativeName": "Saulkrastu pagasts",
+      "code": "LV-089-11352909",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-089",
+      "latitude": 57.25208,
+      "longitude": 24.42103
+    },
+    {
+      "id": 11352910,
+      "name": "Sējas novads",
+      "nativeName": "Sējas novads",
+      "code": "LV-089-11352910",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-089",
+      "latitude": 57.21209,
+      "longitude": 24.54713
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "stateId": 3573095,
+  "stateCode": "BM-PB",
+  "countryCode": "BM",
+  "cities": [
+    {
+      "id": 11054833,
+      "name": "Stovel Bay",
+      "nativeName": "Stovel Bay",
+      "code": "BM-PB-11054833",
+      "countryId": 3573345,
+      "countryCode": "BM",
+      "stateCode": "BM-PB",
+      "latitude": 32.30587,
+      "longitude": -64.81429
+    },
+    {
+      "id": 8533871,
+      "name": "Pembroke Parish",
+      "nativeName": "Pembroke Parish",
+      "code": "BM-PB-8533871",
+      "countryId": 3573345,
+      "countryCode": "BM",
+      "stateCode": "BM-PB",
+      "latitude": 32.30019,
+      "longitude": -64.79204
+    }
+  ]
+}

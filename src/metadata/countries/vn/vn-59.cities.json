@@ -1,0 +1,106 @@
+{
+  "stateId": 1905678,
+  "stateCode": "VN-59",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 1905683,
+      "name": "Cái Nước District",
+      "nativeName": "Huyện Cái Nước",
+      "code": "VN-59-1905683",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-59",
+      "latitude": 9.00094,
+      "longitude": 105.04201
+    },
+    {
+      "id": 1905685,
+      "name": "Huyện Ngọc Hiển",
+      "nativeName": "Huyện Ngọc Hiển",
+      "code": "VN-59-1905685",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-59",
+      "latitude": 8.66223,
+      "longitude": 104.99692
+    },
+    {
+      "id": 1905681,
+      "name": "Huyện U Minh",
+      "nativeName": "Huyện U Minh",
+      "code": "VN-59-1905681",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-59",
+      "latitude": 9.3677,
+      "longitude": 104.94119
+    },
+    {
+      "id": 8728393,
+      "name": "Năm Căn District",
+      "nativeName": "Huyen Nam Can",
+      "code": "VN-59-8728393",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-59",
+      "latitude": 8.81531,
+      "longitude": 105.05574
+    },
+    {
+      "id": 9643191,
+      "name": "Phú Tân District",
+      "nativeName": "Huyện Phú Tân",
+      "code": "VN-59-9643191",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-59",
+      "latitude": 8.89338,
+      "longitude": 104.88718
+    },
+    {
+      "id": 1905679,
+      "name": "Thành Phố Cà Mau",
+      "nativeName": "Thành Phố Cà Mau",
+      "code": "VN-59-1905679",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-59",
+      "latitude": 9.1641,
+      "longitude": 105.18804
+    },
+    {
+      "id": 1905680,
+      "name": "Thới Bình District",
+      "nativeName": "Huyện Thới Bình",
+      "code": "VN-59-1905680",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-59",
+      "latitude": 9.3579,
+      "longitude": 105.16023
+    },
+    {
+      "id": 1905682,
+      "name": "Trần Văn Thời District",
+      "nativeName": "Huyện Trần Văn Thời",
+      "code": "VN-59-1905682",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-59",
+      "latitude": 9.12661,
+      "longitude": 104.92326
+    },
+    {
+      "id": 1905684,
+      "name": "Đầm Dơi District",
+      "nativeName": "Huyện Đầm Dơi",
+      "code": "VN-59-1905684",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-59",
+      "latitude": 8.96029,
+      "longitude": 105.24107
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "stateId": 3493282,
+  "stateCode": "DO-19",
+  "countryCode": "DO",
+  "cities": [
+    {
+      "id": 3493284,
+      "name": "Salcedo",
+      "nativeName": "Salcedo",
+      "code": "DO-19-3493284",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-19",
+      "latitude": 19.41667,
+      "longitude": -70.38333
+    },
+    {
+      "id": 3492478,
+      "name": "Tenares",
+      "nativeName": "Tenares",
+      "code": "DO-19-3492478",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-19",
+      "latitude": 19.38333,
+      "longitude": -70.33333
+    },
+    {
+      "id": 3491909,
+      "name": "Villa Tapia",
+      "nativeName": "Villa Tapia",
+      "code": "DO-19-3491909",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-19",
+      "latitude": 19.3,
+      "longitude": -70.4
+    }
+  ]
+}

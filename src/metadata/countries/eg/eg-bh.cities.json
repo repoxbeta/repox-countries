@@ -1,0 +1,128 @@
+{
+  "stateId": 361370,
+  "stateCode": "EG-BH",
+  "countryCode": "EG",
+  "cities": [
+    {
+      "id": 362880,
+      "name": "Markaz Abū al Maţāmīr",
+      "nativeName": "Markaz Abū al Maţāmīr",
+      "code": "EG-BH-362880",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-BH",
+      "latitude": 30.78102,
+      "longitude": 30.11441
+    },
+    {
+      "id": 362550,
+      "name": "Markaz Abū Ḩummuş",
+      "nativeName": "Markaz Abū Ḩummuş",
+      "code": "EG-BH-362550",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-BH",
+      "latitude": 31.11099,
+      "longitude": 30.32886
+    },
+    {
+      "id": 358446,
+      "name": "Markaz Damanhūr",
+      "nativeName": "Markaz Damanhūr",
+      "code": "EG-BH-358446",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-BH",
+      "latitude": 31.00131,
+      "longitude": 30.45678
+    },
+    {
+      "id": 10430542,
+      "name": "Markaz Idkū",
+      "nativeName": "Markaz Idkū",
+      "code": "EG-BH-10430542",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-BH",
+      "latitude": 31.30661,
+      "longitude": 30.29742
+    },
+    {
+      "id": 354773,
+      "name": "Markaz Kafr ad Dawwār",
+      "nativeName": "Markaz Kafr ad Dawwār",
+      "code": "EG-BH-354773",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-BH",
+      "latitude": 31.11593,
+      "longitude": 30.08917
+    },
+    {
+      "id": 350200,
+      "name": "Markaz Rashīd",
+      "nativeName": "Markaz Rashīd",
+      "code": "EG-BH-350200",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-BH",
+      "latitude": 31.34674,
+      "longitude": 30.4225
+    },
+    {
+      "id": 361828,
+      "name": "Markaz ad Dilinjāt",
+      "nativeName": "Markaz ad Dilinjāt",
+      "code": "EG-BH-361828",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-BH",
+      "latitude": 30.83123,
+      "longitude": 30.50237
+    },
+    {
+      "id": 360821,
+      "name": "Markaz al Maḩmūdīyah",
+      "nativeName": "Markaz al Maḩmūdīyah",
+      "code": "EG-BH-360821",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-BH",
+      "latitude": 31.17876,
+      "longitude": 30.50867
+    },
+    {
+      "id": 10645705,
+      "name": "Markaz ar Raḩmānīyah",
+      "nativeName": "Markaz ar Raḩmānīyah",
+      "code": "EG-BH-10645705",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-BH",
+      "latitude": 31.09676,
+      "longitude": 30.60554
+    },
+    {
+      "id": 355416,
+      "name": "Markaz Ītāy al Bārūd",
+      "nativeName": "Markaz Ītāy al Bārūd",
+      "code": "EG-BH-355416",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-BH",
+      "latitude": 30.86667,
+      "longitude": 30.66667
+    },
+    {
+      "id": 355999,
+      "name": "Markaz Ḩawsh ‘Īsá",
+      "nativeName": "Markaz Ḩawsh ‘Īsá",
+      "code": "EG-BH-355999",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-BH",
+      "latitude": 30.87303,
+      "longitude": 30.32419
+    }
+  ]
+}

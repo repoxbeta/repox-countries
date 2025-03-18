@@ -1,0 +1,40 @@
+{
+  "stateId": 3492912,
+  "stateCode": "DO-26",
+  "countryCode": "DO",
+  "cities": [
+    {
+      "id": 3496285,
+      "name": "Monción",
+      "nativeName": "Monción",
+      "code": "DO-26-3496285",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-26",
+      "latitude": 19.46667,
+      "longitude": -71.16667
+    },
+    {
+      "id": 3493405,
+      "name": "San Ignacio de Sabaneta",
+      "nativeName": "San Ignacio de Sabaneta",
+      "code": "DO-26-3493405",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-26",
+      "latitude": 19.38333,
+      "longitude": -71.35
+    },
+    {
+      "id": 11154567,
+      "name": "Villa Los Almácigos",
+      "nativeName": "Villa Los Almácigos",
+      "code": "DO-26-11154567",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-26",
+      "latitude": 19.32289,
+      "longitude": -71.44224
+    }
+  ]
+}

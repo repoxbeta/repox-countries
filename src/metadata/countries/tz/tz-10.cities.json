@@ -1,0 +1,29 @@
+{
+  "stateId": 150732,
+  "stateCode": "TZ-10",
+  "countryCode": "TZ",
+  "cities": [
+    {
+      "id": 160675,
+      "name": "Chake Chake District",
+      "nativeName": "Chake Chake District",
+      "code": "TZ-10-160675",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-10",
+      "latitude": -5.24734,
+      "longitude": 39.7739
+    },
+    {
+      "id": 153597,
+      "name": "Mkoani District",
+      "nativeName": "Mkoani District",
+      "code": "TZ-10-153597",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-10",
+      "latitude": -5.373,
+      "longitude": 39.718
+    }
+  ]
+}

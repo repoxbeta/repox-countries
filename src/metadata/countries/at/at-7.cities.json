@@ -1,0 +1,106 @@
+{
+  "stateId": 2763586,
+  "stateCode": "AT-7",
+  "countryCode": "AT",
+  "cities": [
+    {
+      "id": 2775216,
+      "name": "Innsbruck Stadt",
+      "nativeName": "Innsbruck Stadt",
+      "code": "AT-7-2775216",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-7",
+      "latitude": 47.28433,
+      "longitude": 11.37706
+    },
+    {
+      "id": 2773069,
+      "name": "Landeck",
+      "nativeName": "Politischer Bezirk Landeck",
+      "code": "AT-7-2773069",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-7",
+      "latitude": 47.12575,
+      "longitude": 10.56679
+    },
+    {
+      "id": 2775306,
+      "name": "Politischer Bezirk Imst",
+      "nativeName": "Politischer Bezirk Imst",
+      "code": "AT-7-2775306",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-7",
+      "latitude": 47.08333,
+      "longitude": 10.86667
+    },
+    {
+      "id": 2775219,
+      "name": "Politischer Bezirk Innsbruck Land",
+      "nativeName": "Politischer Bezirk Innsbruck Land",
+      "code": "AT-7-2775219",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-7",
+      "latitude": 47.2,
+      "longitude": 11.33333
+    },
+    {
+      "id": 2774346,
+      "name": "Politischer Bezirk Kitzbühel",
+      "nativeName": "Politischer Bezirk Kitzbühel",
+      "code": "AT-7-2774346",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-7",
+      "latitude": 47.43333,
+      "longitude": 12.38333
+    },
+    {
+      "id": 2773299,
+      "name": "Politischer Bezirk Kufstein",
+      "nativeName": "Politischer Bezirk Kufstein",
+      "code": "AT-7-2773299",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-7",
+      "latitude": 47.5,
+      "longitude": 12.03333
+    },
+    {
+      "id": 2772504,
+      "name": "Politischer Bezirk Lienz",
+      "nativeName": "Politischer Bezirk Lienz",
+      "code": "AT-7-2772504",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-7",
+      "latitude": 46.9,
+      "longitude": 12.5
+    },
+    {
+      "id": 2767510,
+      "name": "Politischer Bezirk Reutte",
+      "nativeName": "Politischer Bezirk Reutte",
+      "code": "AT-7-2767510",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-7",
+      "latitude": 47.41667,
+      "longitude": 10.55
+    },
+    {
+      "id": 2765389,
+      "name": "Politischer Bezirk Schwaz",
+      "nativeName": "Politischer Bezirk Schwaz",
+      "code": "AT-7-2765389",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-7",
+      "latitude": 47.26667,
+      "longitude": 11.76667
+    }
+  ]
+}

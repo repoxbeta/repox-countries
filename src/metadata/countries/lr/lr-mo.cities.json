@@ -1,0 +1,117 @@
+{
+  "stateId": 2274890,
+  "stateCode": "LR-MO",
+  "countryCode": "LR",
+  "cities": [
+    {
+      "id": 2278073,
+      "name": "Careysburg",
+      "nativeName": "Careysburg",
+      "code": "LR-MO-2278073",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-MO",
+      "latitude": 6.43496,
+      "longitude": -10.59056
+    },
+    {
+      "id": 9645120,
+      "name": "Commonwealth District",
+      "nativeName": "Commonwealth District",
+      "code": "LR-MO-9645120",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-MO",
+      "latitude": 6.3901,
+      "longitude": -10.66741
+    },
+    {
+      "id": 2277769,
+      "name": "Ding",
+      "nativeName": "Ding",
+      "code": "LR-MO-2277769",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-MO",
+      "latitude": 6.66667,
+      "longitude": -10.53333
+    },
+    {
+      "id": 7669298,
+      "name": "Greater Monrovia",
+      "nativeName": "Greater Monrovia",
+      "code": "LR-MO-7669298",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-MO",
+      "latitude": 6.31418,
+      "longitude": -10.73356
+    },
+    {
+      "id": 2276087,
+      "name": "Kakata",
+      "nativeName": "Kakata",
+      "code": "LR-MO-2276087",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-MO",
+      "latitude": 6.62195,
+      "longitude": -10.19761
+    },
+    {
+      "id": 7669297,
+      "name": "Mambah-Kaba",
+      "nativeName": "Mambah-Kaba",
+      "code": "LR-MO-7669297",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-MO",
+      "latitude": 6.25422,
+      "longitude": -10.51896
+    },
+    {
+      "id": 9645118,
+      "name": "Saint Paul River District",
+      "nativeName": "Saint Paul River District",
+      "code": "LR-MO-9645118",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-MO",
+      "latitude": 6.50524,
+      "longitude": -10.7347
+    },
+    {
+      "id": 7669300,
+      "name": "St. Paul River",
+      "nativeName": "St. Paul River",
+      "code": "LR-MO-7669300",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-MO",
+      "latitude": 6.43287,
+      "longitude": -10.72113
+    },
+    {
+      "id": 2273549,
+      "name": "Todee",
+      "nativeName": "Todee",
+      "code": "LR-MO-2273549",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-MO",
+      "latitude": 6.63925,
+      "longitude": -10.4959
+    },
+    {
+      "id": 7669292,
+      "name": "Topee",
+      "nativeName": "Topee",
+      "code": "LR-MO-7669292",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-MO",
+      "latitude": 6.61867,
+      "longitude": -10.47732
+    }
+  ]
+}

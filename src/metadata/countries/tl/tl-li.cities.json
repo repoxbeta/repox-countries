@@ -1,0 +1,40 @@
+{
+  "stateId": 1637729,
+  "stateCode": "TL-LI",
+  "countryCode": "TL",
+  "cities": [
+    {
+      "id": 8617925,
+      "name": "Bazartete",
+      "nativeName": "Bazartete",
+      "code": "TL-LI-8617925",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-LI",
+      "latitude": -8.62464,
+      "longitude": 125.38168
+    },
+    {
+      "id": 8617827,
+      "name": "Liquiçá",
+      "nativeName": "Liquiçá",
+      "code": "TL-LI-8617827",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-LI",
+      "latitude": -8.59036,
+      "longitude": 125.33246
+    },
+    {
+      "id": 8617828,
+      "name": "Maubara",
+      "nativeName": "Maubara",
+      "code": "TL-LI-8617828",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-LI",
+      "latitude": -8.61667,
+      "longitude": 125.2
+    }
+  ]
+}

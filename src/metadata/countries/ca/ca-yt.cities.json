@@ -1,0 +1,106 @@
+{
+  "stateId": 6185811,
+  "stateCode": "CA-YT",
+  "countryCode": "CA",
+  "cities": [
+    {
+      "id": 12871951,
+      "name": "Carmacks",
+      "nativeName": "Carmacks",
+      "code": "CA-YT-12871951",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-YT",
+      "latitude": 62.10014,
+      "longitude": -136.25677
+    },
+    {
+      "id": 12871958,
+      "name": "Dawson",
+      "nativeName": "Dawson",
+      "code": "CA-YT-12871958",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-YT",
+      "latitude": 64.04628,
+      "longitude": -139.38887
+    },
+    {
+      "id": 12871931,
+      "name": "Faro",
+      "nativeName": "Faro",
+      "code": "CA-YT-12871931",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-YT",
+      "latitude": 62.21418,
+      "longitude": -133.35555
+    },
+    {
+      "id": 12871947,
+      "name": "Haines Junction",
+      "nativeName": "Haines Junction",
+      "code": "CA-YT-12871947",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-YT",
+      "latitude": 60.77108,
+      "longitude": -137.50931
+    },
+    {
+      "id": 12871954,
+      "name": "Mayo",
+      "nativeName": "Mayo",
+      "code": "CA-YT-12871954",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-YT",
+      "latitude": 63.59654,
+      "longitude": -135.89609
+    },
+    {
+      "id": 12871928,
+      "name": "Teslin",
+      "nativeName": "Teslin",
+      "code": "CA-YT-12871928",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-YT",
+      "latitude": 60.2244,
+      "longitude": -132.7668
+    },
+    {
+      "id": 12871936,
+      "name": "Village of Teslin",
+      "nativeName": "Village of Teslin",
+      "code": "CA-YT-12871936",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-YT",
+      "latitude": 60.1738,
+      "longitude": -132.71763
+    },
+    {
+      "id": 12871940,
+      "name": "Watson Lake",
+      "nativeName": "Watson Lake",
+      "code": "CA-YT-12871940",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-YT",
+      "latitude": 60.07412,
+      "longitude": -128.75251
+    },
+    {
+      "id": 12871943,
+      "name": "Whitehorse",
+      "nativeName": "Whitehorse",
+      "code": "CA-YT-12871943",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-YT",
+      "latitude": 60.70282,
+      "longitude": -135.06893
+    }
+  ]
+}

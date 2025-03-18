@@ -1,0 +1,194 @@
+{
+  "stateId": 3608833,
+  "stateCode": "HN-IN",
+  "countryCode": "HN",
+  "cities": [
+    {
+      "id": 3614329,
+      "name": "Camasca",
+      "nativeName": "Camasca",
+      "code": "HN-IN-3614329",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-IN",
+      "latitude": 13.99855,
+      "longitude": -88.38609
+    },
+    {
+      "id": 3613362,
+      "name": "Colomoncagua",
+      "nativeName": "Colomoncagua",
+      "code": "HN-IN-3613362",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-IN",
+      "latitude": 13.97245,
+      "longitude": -88.27673
+    },
+    {
+      "id": 3613301,
+      "name": "Concepción",
+      "nativeName": "Concepción",
+      "code": "HN-IN-3613301",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-IN",
+      "latitude": 14.04725,
+      "longitude": -88.31942
+    },
+    {
+      "id": 3612845,
+      "name": "Dolores",
+      "nativeName": "Dolores",
+      "code": "HN-IN-3612845",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-IN",
+      "latitude": 14.26188,
+      "longitude": -88.35787
+    },
+    {
+      "id": 3608835,
+      "name": "Intibucá Department",
+      "nativeName": "Intibucá",
+      "code": "HN-IN-3608835",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-IN",
+      "latitude": 14.43,
+      "longitude": -88.17
+    },
+    {
+      "id": 3608716,
+      "name": "Jesús de Otoro",
+      "nativeName": "Jesús de Otoro",
+      "code": "HN-IN-3608716",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-IN",
+      "latitude": 14.52696,
+      "longitude": -88.01115
+    },
+    {
+      "id": 3607973,
+      "name": "La Esperanza",
+      "nativeName": "La Esperanza",
+      "code": "HN-IN-3607973",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-IN",
+      "latitude": 14.25172,
+      "longitude": -88.12187
+    },
+    {
+      "id": 3605180,
+      "name": "Magdalena",
+      "nativeName": "Magdalena",
+      "code": "HN-IN-3605180",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-IN",
+      "latitude": 13.92452,
+      "longitude": -88.36675
+    },
+    {
+      "id": 3604977,
+      "name": "Masaguara",
+      "nativeName": "Masaguara",
+      "code": "HN-IN-3604977",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-IN",
+      "latitude": 14.40428,
+      "longitude": -87.98247
+    },
+    {
+      "id": 3602523,
+      "name": "San Antonio",
+      "nativeName": "San Antonio",
+      "code": "HN-IN-3602523",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-IN",
+      "latitude": 13.95043,
+      "longitude": -88.46493
+    },
+    {
+      "id": 8062432,
+      "name": "San Francisco de Opalaca",
+      "nativeName": "San Francisco de Opalaca",
+      "code": "HN-IN-8062432",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-IN",
+      "latitude": 14.58441,
+      "longitude": -88.30253
+    },
+    {
+      "id": 3602249,
+      "name": "San Isidro",
+      "nativeName": "San Isidro",
+      "code": "HN-IN-3602249",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-IN",
+      "latitude": 14.56763,
+      "longitude": -88.11743
+    },
+    {
+      "id": 3602062,
+      "name": "San Juan",
+      "nativeName": "San Juan",
+      "code": "HN-IN-3602062",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-IN",
+      "latitude": 14.42127,
+      "longitude": -88.41953
+    },
+    {
+      "id": 3601886,
+      "name": "San Marcos de la Sierra",
+      "nativeName": "San Marcos de la Sierra",
+      "code": "HN-IN-3601886",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-IN",
+      "latitude": 14.13236,
+      "longitude": -88.2469
+    },
+    {
+      "id": 3601857,
+      "name": "San Miguelito",
+      "nativeName": "San Miguelito",
+      "code": "HN-IN-3601857",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-IN",
+      "latitude": 14.34875,
+      "longitude": -88.33983
+    },
+    {
+      "id": 3601572,
+      "name": "Santa Lucía",
+      "nativeName": "Santa Lucía",
+      "code": "HN-IN-3601572",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-IN",
+      "latitude": 13.90812,
+      "longitude": -88.41566
+    },
+    {
+      "id": 3600255,
+      "name": "Yamaranguila",
+      "nativeName": "Yamaranguila",
+      "code": "HN-IN-3600255",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-IN",
+      "latitude": 14.26826,
+      "longitude": -88.24652
+    }
+  ]
+}

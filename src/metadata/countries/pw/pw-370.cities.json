@@ -1,0 +1,29 @@
+{
+  "stateId": 1559630,
+  "stateCode": "PW-370",
+  "countryCode": "PW",
+  "cities": [
+    {
+      "id": 7670816,
+      "name": "Sonsorol Village",
+      "nativeName": "Sonsorol Village",
+      "code": "PW-370-7670816",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-370",
+      "latitude": 5.32608,
+      "longitude": 132.21943
+    },
+    {
+      "id": 7670861,
+      "name": "Pulo Anna Village",
+      "nativeName": "Pulo Anna Village",
+      "code": "PW-370-7670861",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-370",
+      "latitude": 4.65404,
+      "longitude": 131.94901
+    }
+  ]
+}

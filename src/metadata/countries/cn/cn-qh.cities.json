@@ -1,0 +1,95 @@
+{
+  "stateId": 1280239,
+  "stateCode": "CN-QH",
+  "countryCode": "CN",
+  "cities": [
+    {
+      "id": 1281178,
+      "name": "Golog Tibetan Autonomous Prefecture",
+      "nativeName": "Golog Tibetan Autonomous Prefecture",
+      "code": "CN-QH-1281178",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-QH",
+      "latitude": 34.08595,
+      "longitude": 99.55181
+    },
+    {
+      "id": 1809111,
+      "name": "Haibei",
+      "nativeName": "Haibei Tibetan Autonomous Prefecture",
+      "code": "CN-QH-1809111",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-QH",
+      "latitude": 37.71919,
+      "longitude": 100.45656
+    },
+    {
+      "id": 1809101,
+      "name": "Haidong Diqu",
+      "nativeName": "Haidong Diqu",
+      "code": "CN-QH-1809101",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-QH",
+      "latitude": 36.31582,
+      "longitude": 102.37155
+    },
+    {
+      "id": 1809051,
+      "name": "Hainan Tibetan Autonomous Prefecture",
+      "nativeName": "Hainan Zangzu Zizhizhou",
+      "code": "CN-QH-1809051",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-QH",
+      "latitude": 35.81725,
+      "longitude": 100.34053
+    },
+    {
+      "id": 1281075,
+      "name": "Haixi",
+      "nativeName": "Haixi Mengguzu Zangzu Zizhizhou",
+      "code": "CN-QH-1281075",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-QH",
+      "latitude": 37.08248,
+      "longitude": 95.45972
+    },
+    {
+      "id": 1807329,
+      "name": "Huangnan Zangzu Zizhizhou",
+      "nativeName": "Huangnan Zangzu Zizhizhou",
+      "code": "CN-QH-1807329",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-QH",
+      "latitude": 35.06316,
+      "longitude": 101.65149
+    },
+    {
+      "id": 1788850,
+      "name": "Xining Shi",
+      "nativeName": "Xining Shi",
+      "code": "CN-QH-1788850",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-QH",
+      "latitude": 36.82446,
+      "longitude": 101.44081
+    },
+    {
+      "id": 1279540,
+      "name": "Yushu Tibetan Autonomous Prefecture",
+      "nativeName": "Yushu Zangzu Zizhizhou",
+      "code": "CN-QH-1279540",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-QH",
+      "latitude": 34.39802,
+      "longitude": 94.19021
+    }
+  ]
+}

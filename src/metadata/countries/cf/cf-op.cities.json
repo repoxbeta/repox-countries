@@ -1,0 +1,51 @@
+{
+  "stateId": 2383650,
+  "stateCode": "CF-OP",
+  "countryCode": "CF",
+  "cities": [
+    {
+      "id": 9143491,
+      "name": "Bocaranga",
+      "nativeName": "Bocaranga",
+      "code": "CF-OP-9143491",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-OP",
+      "latitude": 6.76546,
+      "longitude": 15.77873
+    },
+    {
+      "id": 9143483,
+      "name": "Bossemtélé",
+      "nativeName": "Bossemtélé",
+      "code": "CF-OP-9143483",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-OP",
+      "latitude": 5.94846,
+      "longitude": 16.54168
+    },
+    {
+      "id": 8299286,
+      "name": "Bozoum Sub-Prefecture",
+      "nativeName": "Bozoum Sub-Prefecture",
+      "code": "CF-OP-8299286",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-OP",
+      "latitude": 6.2304,
+      "longitude": 16.00187
+    },
+    {
+      "id": 9143492,
+      "name": "Koui",
+      "nativeName": "Koui",
+      "code": "CF-OP-9143492",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-OP",
+      "latitude": 6.71414,
+      "longitude": 15.35143
+    }
+  ]
+}

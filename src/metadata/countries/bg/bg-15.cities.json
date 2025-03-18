@@ -1,0 +1,128 @@
+{
+  "stateId": 728204,
+  "stateCode": "BG-15",
+  "countryCode": "BG",
+  "cities": [
+    {
+      "id": 733358,
+      "name": "Belene",
+      "nativeName": "Obshtina Belene",
+      "code": "BG-15-733358",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-15",
+      "latitude": 43.63333,
+      "longitude": 25.13333
+    },
+    {
+      "id": 732490,
+      "name": "Cherven Bryag",
+      "nativeName": "Obshtina Cherven Bryag",
+      "code": "BG-15-732490",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-15",
+      "latitude": 43.33333,
+      "longitude": 24.13333
+    },
+    {
+      "id": 732121,
+      "name": "Dolna Mitropolia",
+      "nativeName": "Obshtina Dolna Mitropolia",
+      "code": "BG-15-732121",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-15",
+      "latitude": 43.58333,
+      "longitude": 24.41667
+    },
+    {
+      "id": 732098,
+      "name": "Dolni Dabnik",
+      "nativeName": "Obshtina Dolni Dabnik",
+      "code": "BG-15-732098",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-15",
+      "latitude": 43.36667,
+      "longitude": 24.41667
+    },
+    {
+      "id": 730981,
+      "name": "Gulyantsi",
+      "nativeName": "Obshtina Gulyantsi",
+      "code": "BG-15-730981",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-15",
+      "latitude": 43.68333,
+      "longitude": 24.65
+    },
+    {
+      "id": 728347,
+      "name": "Iskar",
+      "nativeName": "Obshtina Iskar",
+      "code": "BG-15-728347",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-15",
+      "latitude": 43.5,
+      "longitude": 24.28333
+    },
+    {
+      "id": 730286,
+      "name": "Knezha",
+      "nativeName": "Obshtina Knezha",
+      "code": "BG-15-730286",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-15",
+      "latitude": 43.5,
+      "longitude": 24.11667
+    },
+    {
+      "id": 729635,
+      "name": "Levski",
+      "nativeName": "Obshtina Levski",
+      "code": "BG-15-729635",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-15",
+      "latitude": 43.43333,
+      "longitude": 25.1
+    },
+    {
+      "id": 728781,
+      "name": "Nikopol",
+      "nativeName": "Obshtina Nikopol",
+      "code": "BG-15-728781",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-15",
+      "latitude": 43.6,
+      "longitude": 24.93333
+    },
+    {
+      "id": 728202,
+      "name": "Pleven",
+      "nativeName": "Obshtina Pleven",
+      "code": "BG-15-728202",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-15",
+      "latitude": 43.4,
+      "longitude": 24.7
+    },
+    {
+      "id": 728055,
+      "name": "Pordim",
+      "nativeName": "Obshtina Pordim",
+      "code": "BG-15-728055",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-15",
+      "latitude": 43.38333,
+      "longitude": 24.9
+    }
+  ]
+}

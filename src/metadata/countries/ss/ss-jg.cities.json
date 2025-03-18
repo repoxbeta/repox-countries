@@ -1,0 +1,40 @@
+{
+  "stateId": 408662,
+  "stateCode": "SS-JG",
+  "countryCode": "SS",
+  "cities": [
+    {
+      "id": 373249,
+      "name": "Junqal",
+      "nativeName": "Junqal",
+      "code": "SS-JG-373249",
+      "countryId": 7909807,
+      "countryCode": "SS",
+      "stateCode": "SS-JG",
+      "latitude": 7.5,
+      "longitude": 32
+    },
+    {
+      "id": 10400458,
+      "name": "Pochalla County",
+      "nativeName": "Pochalla County",
+      "code": "SS-JG-10400458",
+      "countryId": 7909807,
+      "countryCode": "SS",
+      "stateCode": "SS-JG",
+      "latitude": 7.16465,
+      "longitude": 33.92583
+    },
+    {
+      "id": 11592489,
+      "name": "Uror County",
+      "nativeName": "Uror County",
+      "code": "SS-JG-11592489",
+      "countryId": 7909807,
+      "countryCode": "SS",
+      "stateCode": "SS-JG",
+      "latitude": 7.501,
+      "longitude": 31.999
+    }
+  ]
+}

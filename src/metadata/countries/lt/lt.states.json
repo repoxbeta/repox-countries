@@ -1,0 +1,116 @@
+{
+  "countryId": 597427,
+  "countryCode": "LT",
+  "states": [
+    {
+      "id": 864389,
+      "name": "Alytus",
+      "nativeName": "Alytus County",
+      "code": "LT-AL",
+      "internalCode": "AL",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "latitude": 54.16667,
+      "longitude": 24.16667
+    },
+    {
+      "id": 864477,
+      "name": "Kaunas",
+      "nativeName": "Kaunas County",
+      "code": "LT-KU",
+      "internalCode": "KU",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "latitude": 55.16667,
+      "longitude": 24
+    },
+    {
+      "id": 864478,
+      "name": "Klaipėda County",
+      "nativeName": "Klaipėda County",
+      "code": "LT-KL",
+      "internalCode": "KL",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "latitude": 55.66667,
+      "longitude": 21.33333
+    },
+    {
+      "id": 864479,
+      "name": "Marijampolė County",
+      "nativeName": "Marijampolė County",
+      "code": "LT-MR",
+      "internalCode": "MR",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "latitude": 54.75,
+      "longitude": 23.25
+    },
+    {
+      "id": 864480,
+      "name": "Panevėžys",
+      "nativeName": "Panevėžys",
+      "code": "LT-PN",
+      "internalCode": "PN",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "latitude": 55.91667,
+      "longitude": 24.83333
+    },
+    {
+      "id": 864481,
+      "name": "Siauliai",
+      "nativeName": "Šiauliai County",
+      "code": "LT-SA",
+      "internalCode": "SA",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "latitude": 56,
+      "longitude": 23.33333
+    },
+    {
+      "id": 864482,
+      "name": "Tauragė County",
+      "nativeName": "Tauragė County",
+      "code": "LT-TA",
+      "internalCode": "TA",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "latitude": 55.33333,
+      "longitude": 22.5
+    },
+    {
+      "id": 864483,
+      "name": "Telsiai",
+      "nativeName": "Telšių apskritis",
+      "code": "LT-TE",
+      "internalCode": "TE",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "latitude": 56.08333,
+      "longitude": 22.16667
+    },
+    {
+      "id": 864484,
+      "name": "Utena",
+      "nativeName": "Utena County",
+      "code": "LT-UT",
+      "internalCode": "UT",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "latitude": 55.5,
+      "longitude": 25.75
+    },
+    {
+      "id": 864485,
+      "name": "Vilnius",
+      "nativeName": "Vilnius County",
+      "code": "LT-VL",
+      "internalCode": "VL",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "latitude": 54.83333,
+      "longitude": 25.33333
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "stateId": 11071623,
+  "stateCode": "FR-OCC",
+  "countryCode": "FR",
+  "cities": [
+    {
+      "id": 3036965,
+      "name": "Ariège",
+      "nativeName": "Ariège",
+      "code": "FR-OCC-3036965",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-OCC",
+      "latitude": 43,
+      "longitude": 1.5
+    },
+    {
+      "id": 3036264,
+      "name": "Aude",
+      "nativeName": "Aude",
+      "code": "FR-OCC-3036264",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-OCC",
+      "latitude": 43.08333,
+      "longitude": 2.5
+    },
+    {
+      "id": 3035691,
+      "name": "Aveyron",
+      "nativeName": "Aveyron",
+      "code": "FR-OCC-3035691",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-OCC",
+      "latitude": 44.25,
+      "longitude": 2.5
+    },
+    {
+      "id": 3016670,
+      "name": "Gard",
+      "nativeName": "Gard",
+      "code": "FR-OCC-3016670",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-OCC",
+      "latitude": 44.0179,
+      "longitude": 4.28751
+    },
+    {
+      "id": 3016194,
+      "name": "Gers",
+      "nativeName": "Gers",
+      "code": "FR-OCC-3016194",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-OCC",
+      "latitude": 43.71731,
+      "longitude": 0.45422
+    },
+    {
+      "id": 3013726,
+      "name": "Hautes-Pyrénées",
+      "nativeName": "Hautes-Pyrénées",
+      "code": "FR-OCC-3013726",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-OCC",
+      "latitude": 43.03686,
+      "longitude": 0.18632
+    },
+    {
+      "id": 3013500,
+      "name": "Hérault",
+      "nativeName": "Hérault",
+      "code": "FR-OCC-3013500",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-OCC",
+      "latitude": 43.66667,
+      "longitude": 3.5
+    },
+    {
+      "id": 2997524,
+      "name": "Lot",
+      "nativeName": "Lot",
+      "code": "FR-OCC-2997524",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-OCC",
+      "latitude": 44.62703,
+      "longitude": 1.63461
+    },
+    {
+      "id": 2997288,
+      "name": "Lozère",
+      "nativeName": "Lozère",
+      "code": "FR-OCC-2997288",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-OCC",
+      "latitude": 44.5,
+      "longitude": 3.5
+    },
+    {
+      "id": 2984885,
+      "name": "Pyrénées-Orientales",
+      "nativeName": "Pyrénées-Orientales",
+      "code": "FR-OCC-2984885",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-OCC",
+      "latitude": 42.60075,
+      "longitude": 2.58889
+    },
+    {
+      "id": 2973362,
+      "name": "Tarn",
+      "nativeName": "Tarn",
+      "code": "FR-OCC-2973362",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-OCC",
+      "latitude": 43.7817,
+      "longitude": 2.16317
+    },
+    {
+      "id": 2973357,
+      "name": "Tarn-et-Garonne",
+      "nativeName": "Tarn-et-Garonne",
+      "code": "FR-OCC-2973357",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-OCC",
+      "latitude": 44,
+      "longitude": 1.16667
+    },
+    {
+      "id": 3013767,
+      "name": "Upper Garonne",
+      "nativeName": "Upper Garonne",
+      "code": "FR-OCC-3013767",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-OCC",
+      "latitude": 43.38724,
+      "longitude": 1.22191
+    }
+  ]
+}

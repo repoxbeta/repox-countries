@@ -1,0 +1,84 @@
+{
+  "stateId": 830667,
+  "stateCode": "FI-14",
+  "countryCode": "FI",
+  "cities": [
+    {
+      "id": 9610699,
+      "name": "Haapavesi-Siikalatva",
+      "nativeName": "Haapavesi-Siikalatva",
+      "code": "FI-14-9610699",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-14",
+      "latitude": 64.23414,
+      "longitude": 25.84848
+    },
+    {
+      "id": 9610702,
+      "name": "Koillismaa",
+      "nativeName": "Koillismaa",
+      "code": "FI-14-9610702",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-14",
+      "latitude": 65.84283,
+      "longitude": 29.04743
+    },
+    {
+      "id": 9610700,
+      "name": "Nivala-Haapajärvi",
+      "nativeName": "Nivala-Haapajärvi",
+      "code": "FI-14-9610700",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-14",
+      "latitude": 63.76603,
+      "longitude": 25.51841
+    },
+    {
+      "id": 9610672,
+      "name": "Oulu",
+      "nativeName": "Oulu",
+      "code": "FI-14-9610672",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-14",
+      "latitude": 64.99609,
+      "longitude": 25.81125
+    },
+    {
+      "id": 9610673,
+      "name": "Oulunkaari",
+      "nativeName": "Oulunkaari",
+      "code": "FI-14-9610673",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-14",
+      "latitude": 65.34738,
+      "longitude": 26.75272
+    },
+    {
+      "id": 9610698,
+      "name": "Raahe",
+      "nativeName": "Raahe",
+      "code": "FI-14-9610698",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-14",
+      "latitude": 64.54628,
+      "longitude": 24.82097
+    },
+    {
+      "id": 9610701,
+      "name": "Ylivieska",
+      "nativeName": "Ylivieska",
+      "code": "FI-14-9610701",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-14",
+      "latitude": 64.12059,
+      "longitude": 24.39304
+    }
+  ]
+}

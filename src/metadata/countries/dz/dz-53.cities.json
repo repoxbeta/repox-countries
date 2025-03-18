@@ -1,0 +1,29 @@
+{
+  "stateId": 12226387,
+  "stateCode": "DZ-53",
+  "countryCode": "DZ",
+  "cities": [
+    {
+      "id": 12952495,
+      "name": "In Ghar",
+      "nativeName": "In Ghar",
+      "code": "DZ-53-12952495",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-53",
+      "latitude": 26.38187,
+      "longitude": 1.82337
+    },
+    {
+      "id": 2493220,
+      "name": "In Salah",
+      "nativeName": "In Salah District",
+      "code": "DZ-53-2493220",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-53",
+      "latitude": 27.5,
+      "longitude": 3
+    }
+  ]
+}

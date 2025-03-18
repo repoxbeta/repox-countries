@@ -1,0 +1,84 @@
+{
+  "stateId": 2314300,
+  "stateCode": "CD-KN",
+  "countryCode": "CD",
+  "cities": [
+    {
+      "id": 10400552,
+      "name": "Funa",
+      "nativeName": "Funa",
+      "code": "CD-KN-10400552",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-KN",
+      "latitude": -4.3575,
+      "longitude": 15.2971
+    },
+    {
+      "id": 12278081,
+      "name": "Kinshasa",
+      "nativeName": "Kinshasa",
+      "code": "CD-KN-12278081",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-KN",
+      "latitude": -4.43981,
+      "longitude": 15.91173
+    },
+    {
+      "id": 8260568,
+      "name": "Kinshasa Urban",
+      "nativeName": "Kinshasa Urban",
+      "code": "CD-KN-8260568",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-KN",
+      "latitude": -4.44028,
+      "longitude": 15.41344
+    },
+    {
+      "id": 8260567,
+      "name": "Kinshasa rural",
+      "nativeName": "Kinshasa rural",
+      "code": "CD-KN-8260567",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-KN",
+      "latitude": -4.38396,
+      "longitude": 15.59516
+    },
+    {
+      "id": 9166122,
+      "name": "Lukunga District",
+      "nativeName": "Lukunga District",
+      "code": "CD-KN-9166122",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-KN",
+      "latitude": -4.3054,
+      "longitude": 15.3032
+    },
+    {
+      "id": 10861174,
+      "name": "Mont Amba District",
+      "nativeName": "Mont Amba District",
+      "code": "CD-KN-10861174",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-KN",
+      "latitude": -4.36276,
+      "longitude": 15.33674
+    },
+    {
+      "id": 9166123,
+      "name": "Tshangu District",
+      "nativeName": "Tshangu District",
+      "code": "CD-KN-9166123",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-KN",
+      "latitude": -4.42035,
+      "longitude": 15.38549
+    }
+  ]
+}

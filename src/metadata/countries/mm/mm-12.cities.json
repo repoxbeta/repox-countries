@@ -1,0 +1,29 @@
+{
+  "stateId": 1319539,
+  "stateCode": "MM-12",
+  "countryCode": "MM",
+  "cities": [
+    {
+      "id": 8238712,
+      "name": "Bawlakhe District",
+      "nativeName": "Bawlakhe District",
+      "code": "MM-12-8238712",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-12",
+      "latitude": 18.92128,
+      "longitude": 97.42915
+    },
+    {
+      "id": 8238713,
+      "name": "Loikaw District",
+      "nativeName": "Loikaw District",
+      "code": "MM-12-8238713",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-12",
+      "latitude": 19.49125,
+      "longitude": 97.34175
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "stateId": 8030540,
+  "stateCode": "QA-ZA",
+  "countryCode": "QA",
+  "cities": [
+    {
+      "id": 289847,
+      "name": "Az̧ Z̧a‘āyin",
+      "nativeName": "Az̧ Z̧a‘āyin",
+      "code": "QA-ZA-289847",
+      "countryId": 289688,
+      "countryCode": "QA",
+      "stateCode": "QA-ZA",
+      "latitude": 25.57744,
+      "longitude": 51.48306
+    },
+    {
+      "id": 442540,
+      "name": "Al Ghāf",
+      "nativeName": "Al Ghāf",
+      "code": "QA-ZA-442540",
+      "countryId": 289688,
+      "countryCode": "QA",
+      "stateCode": "QA-ZA",
+      "latitude": 25.62731,
+      "longitude": 51.45508
+    },
+    {
+      "id": 289959,
+      "name": "Al Khīsah",
+      "nativeName": "Al Khīsah",
+      "code": "QA-ZA-289959",
+      "countryId": 289688,
+      "countryCode": "QA",
+      "stateCode": "QA-ZA",
+      "latitude": 25.41644,
+      "longitude": 51.45905
+    },
+    {
+      "id": 11207529,
+      "name": "Al Ḩammāmah",
+      "nativeName": "Al Ḩammāmah",
+      "code": "QA-ZA-11207529",
+      "countryId": 289688,
+      "countryCode": "QA",
+      "stateCode": "QA-ZA",
+      "latitude": 25.44623,
+      "longitude": 51.47328
+    },
+    {
+      "id": 11207267,
+      "name": "Ar Ruḩayyah",
+      "nativeName": "Ar Ruḩayyah",
+      "code": "QA-ZA-11207267",
+      "countryId": 289688,
+      "countryCode": "QA",
+      "stateCode": "QA-ZA",
+      "latitude": 25.64063,
+      "longitude": 51.46313
+    },
+    {
+      "id": 289625,
+      "name": "Sumaysimah",
+      "nativeName": "Sumaysimah",
+      "code": "QA-ZA-289625",
+      "countryId": 289688,
+      "countryCode": "QA",
+      "stateCode": "QA-ZA",
+      "latitude": 25.57823,
+      "longitude": 51.48319
+    },
+    {
+      "id": 442541,
+      "name": "Tinbak ash Sharqīyah al Qadīmah",
+      "nativeName": "Tinbak ash Sharqīyah al Qadīmah",
+      "code": "QA-ZA-442541",
+      "countryId": 289688,
+      "countryCode": "QA",
+      "stateCode": "QA-ZA",
+      "latitude": 25.61119,
+      "longitude": 51.47233
+    },
+    {
+      "id": 289532,
+      "name": "Umm Qarn",
+      "nativeName": "Umm Qarn",
+      "code": "QA-ZA-289532",
+      "countryId": 289688,
+      "countryCode": "QA",
+      "stateCode": "QA-ZA",
+      "latitude": 25.55267,
+      "longitude": 51.431
+    },
+    {
+      "id": 289558,
+      "name": "Umm Suwayyah",
+      "nativeName": "Umm Suwayyah",
+      "code": "QA-ZA-289558",
+      "countryId": 289688,
+      "countryCode": "QA",
+      "stateCode": "QA-ZA",
+      "latitude": 25.64803,
+      "longitude": 51.44936
+    }
+  ]
+}

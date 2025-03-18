@@ -1,0 +1,84 @@
+{
+  "stateId": 1279685,
+  "stateCode": "CN-XZ",
+  "countryCode": "CN",
+  "cities": [
+    {
+      "id": 1280280,
+      "name": "Chamdo City",
+      "nativeName": "Qamdo Shi",
+      "code": "CN-XZ-1280280",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-XZ",
+      "latitude": 31.5837,
+      "longitude": 97.22304
+    },
+    {
+      "id": 1280735,
+      "name": "Lhasa Shi",
+      "nativeName": "Lhasa Shi",
+      "code": "CN-XZ-1280735",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-XZ",
+      "latitude": 30.31159,
+      "longitude": 91.31109
+    },
+    {
+      "id": 1280515,
+      "name": "Nagqu Shi",
+      "nativeName": "Nagqu Shi",
+      "code": "CN-XZ-1280515",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-XZ",
+      "latitude": 32.66357,
+      "longitude": 88.93146
+    },
+    {
+      "id": 1280456,
+      "name": "Ngari Prefecture",
+      "nativeName": "Ngari Diqu",
+      "code": "CN-XZ-1280456",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-XZ",
+      "latitude": 33.21836,
+      "longitude": 82.57507
+    },
+    {
+      "id": 1280390,
+      "name": "Nyingchi Prefecture",
+      "nativeName": "Nyingchi Prefecture",
+      "code": "CN-XZ-1280390",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-XZ",
+      "latitude": 29.60092,
+      "longitude": 94.42406
+    },
+    {
+      "id": 1279714,
+      "name": "Rikaze Diqu",
+      "nativeName": "Rikaze Diqu",
+      "code": "CN-XZ-1279714",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-XZ",
+      "latitude": 29.10584,
+      "longitude": 86.8754
+    },
+    {
+      "id": 1280019,
+      "name": "Shannan Diqu",
+      "nativeName": "Shannan Diqu",
+      "code": "CN-XZ-1280019",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-XZ",
+      "latitude": 28.5563,
+      "longitude": 92.55684
+    }
+  ]
+}

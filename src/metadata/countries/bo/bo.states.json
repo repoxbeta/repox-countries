@@ -1,0 +1,105 @@
+{
+  "countryId": 3923057,
+  "countryCode": "BO",
+  "states": [
+    {
+      "id": 3923172,
+      "name": "Beni Department",
+      "nativeName": "El Beni",
+      "code": "BO-B",
+      "internalCode": "B",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "latitude": -14,
+      "longitude": -65.5
+    },
+    {
+      "id": 3920177,
+      "name": "Chuquisaca Department",
+      "nativeName": "Departamento de Chuquisaca",
+      "code": "BO-H",
+      "internalCode": "H",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "latitude": -20,
+      "longitude": -64.33333
+    },
+    {
+      "id": 3919966,
+      "name": "Departamento de Cochabamba",
+      "nativeName": "Departamento de Cochabamba",
+      "code": "BO-C",
+      "internalCode": "C",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "latitude": -17.5,
+      "longitude": -65.66667
+    },
+    {
+      "id": 3908600,
+      "name": "Departamento de Pando",
+      "nativeName": "Departamento de Pando",
+      "code": "BO-N",
+      "internalCode": "N",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "latitude": -11.33333,
+      "longitude": -67.66667
+    },
+    {
+      "id": 3911924,
+      "name": "La Paz Department",
+      "nativeName": "Departamento de La Paz",
+      "code": "BO-L",
+      "internalCode": "L",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "latitude": -15.5,
+      "longitude": -68
+    },
+    {
+      "id": 3909233,
+      "name": "Oruro",
+      "nativeName": "Departamento de Oruro",
+      "code": "BO-O",
+      "internalCode": "O",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "latitude": -18.66667,
+      "longitude": -67.5
+    },
+    {
+      "id": 3907580,
+      "name": "Potosí Department",
+      "nativeName": "Departamento de Potosí",
+      "code": "BO-P",
+      "internalCode": "P",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "latitude": -20.66667,
+      "longitude": -67
+    },
+    {
+      "id": 3904907,
+      "name": "Santa Cruz Department",
+      "nativeName": "Departamento de Santa Cruz",
+      "code": "BO-S",
+      "internalCode": "S",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "latitude": -17.5,
+      "longitude": -61.5
+    },
+    {
+      "id": 3903319,
+      "name": "Tarija Department",
+      "nativeName": "Departamento de Tarija",
+      "code": "BO-T",
+      "internalCode": "T",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "latitude": -21.5,
+      "longitude": -64
+    }
+  ]
+}

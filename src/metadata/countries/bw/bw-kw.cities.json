@@ -1,0 +1,29 @@
+{
+  "stateId": 933562,
+  "stateCode": "BW-KW",
+  "countryCode": "BW",
+  "cities": [
+    {
+      "id": 11819293,
+      "name": "Kweneng North",
+      "nativeName": "Kweneng North",
+      "code": "BW-KW-11819293",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "stateCode": "BW-KW",
+      "latitude": -23.79092,
+      "longitude": 25.6081
+    },
+    {
+      "id": 11819298,
+      "name": "Kweneng South",
+      "nativeName": "Kweneng South",
+      "code": "BW-KW-11819298",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "stateCode": "BW-KW",
+      "latitude": -23.88875,
+      "longitude": 24.35331
+    }
+  ]
+}

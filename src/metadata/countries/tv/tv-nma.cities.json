@@ -1,0 +1,29 @@
+{
+  "stateId": 2110345,
+  "stateCode": "TV-NMA",
+  "countryCode": "TV",
+  "cities": [
+    {
+      "id": 7602179,
+      "name": "Hauma Village",
+      "nativeName": "Hauma Village",
+      "code": "TV-NMA-7602179",
+      "countryId": 2110297,
+      "countryCode": "TV",
+      "stateCode": "TV-NMA",
+      "latitude": -5.67586,
+      "longitude": 176.11693
+    },
+    {
+      "id": 7602166,
+      "name": "Lolua Village",
+      "nativeName": "Lolua Village",
+      "code": "TV-NMA-7602166",
+      "countryId": 2110297,
+      "countryCode": "TV",
+      "stateCode": "TV-NMA",
+      "latitude": -5.67398,
+      "longitude": 176.11515
+    }
+  ]
+}

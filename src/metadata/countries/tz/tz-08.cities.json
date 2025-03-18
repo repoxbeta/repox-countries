@@ -1,0 +1,95 @@
+{
+  "stateId": 157732,
+  "stateCode": "TZ-08",
+  "countryCode": "TZ",
+  "cities": [
+    {
+      "id": 9998113,
+      "name": "Buhigwe District Council",
+      "nativeName": "Buhigwe",
+      "code": "TZ-08-9998113",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-08",
+      "latitude": -4.45088,
+      "longitude": 29.91369
+    },
+    {
+      "id": 9258493,
+      "name": "Kakonko District",
+      "nativeName": "Kakonko District",
+      "code": "TZ-08-9258493",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-08",
+      "latitude": -3.27694,
+      "longitude": 30.949
+    },
+    {
+      "id": 158213,
+      "name": "Kasulu District Council",
+      "nativeName": "Kasulu",
+      "code": "TZ-08-158213",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-08",
+      "latitude": -4.43917,
+      "longitude": 30.43798
+    },
+    {
+      "id": 9998114,
+      "name": "Kasulu Town",
+      "nativeName": "Kasulu Town",
+      "code": "TZ-08-9998114",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-08",
+      "latitude": -4.55979,
+      "longitude": 30.09646
+    },
+    {
+      "id": 157958,
+      "name": "Kibondo District",
+      "nativeName": "Kibondo",
+      "code": "TZ-08-157958",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-08",
+      "latitude": -4.07833,
+      "longitude": 31.0089
+    },
+    {
+      "id": 7646313,
+      "name": "Kigoma Rural",
+      "nativeName": "Kigoma Rural",
+      "code": "TZ-08-7646313",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-08",
+      "latitude": -4.75299,
+      "longitude": 29.68918
+    },
+    {
+      "id": 9998117,
+      "name": "Kigoma Ujiji Municipal",
+      "nativeName": "Kigoma Ujiji Municipal",
+      "code": "TZ-08-9998117",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-08",
+      "latitude": -4.88905,
+      "longitude": 29.6623
+    },
+    {
+      "id": 9258474,
+      "name": "Uvinza District",
+      "nativeName": "Uvinza District",
+      "code": "TZ-08-9258474",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-08",
+      "latitude": -5.09795,
+      "longitude": 30.37548
+    }
+  ]
+}

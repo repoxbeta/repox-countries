@@ -1,0 +1,117 @@
+{
+  "stateId": 3564175,
+  "stateCode": "CU-08",
+  "countryCode": "CU",
+  "cities": [
+    {
+      "id": 11288185,
+      "name": "Bolivia",
+      "nativeName": "Bolivia",
+      "code": "CU-08-11288185",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "stateCode": "CU-08",
+      "latitude": 22.07755,
+      "longitude": -78.34419
+    },
+    {
+      "id": 11288186,
+      "name": "Florencia",
+      "nativeName": "Florencia",
+      "code": "CU-08-11288186",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "stateCode": "CU-08",
+      "latitude": 22.14518,
+      "longitude": -78.97325
+    },
+    {
+      "id": 11288187,
+      "name": "Majagua",
+      "nativeName": "Majagua",
+      "code": "CU-08-11288187",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "stateCode": "CU-08",
+      "latitude": 21.87853,
+      "longitude": -78.97814
+    },
+    {
+      "id": 11287707,
+      "name": "Municipio de Baraguá",
+      "nativeName": "Municipio de Baraguá",
+      "code": "CU-08-11287707",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "stateCode": "CU-08",
+      "latitude": 21.68194,
+      "longitude": -78.62444
+    },
+    {
+      "id": 11287709,
+      "name": "Municipio de Chambas",
+      "nativeName": "Municipio de Chambas",
+      "code": "CU-08-11287709",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "stateCode": "CU-08",
+      "latitude": 22.19667,
+      "longitude": -78.91333
+    },
+    {
+      "id": 3564176,
+      "name": "Municipio de Ciego de Ávila",
+      "nativeName": "Municipio de Ciego de Ávila",
+      "code": "CU-08-3564176",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "stateCode": "CU-08",
+      "latitude": 21.85,
+      "longitude": -78.76667
+    },
+    {
+      "id": 11287708,
+      "name": "Municipio de Ciro Redondo",
+      "nativeName": "Municipio de Ciro Redondo",
+      "code": "CU-08-11287708",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "stateCode": "CU-08",
+      "latitude": 22.01889,
+      "longitude": -78.70306
+    },
+    {
+      "id": 3546433,
+      "name": "Municipio de Morón",
+      "nativeName": "Municipio de Morón",
+      "code": "CU-08-3546433",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "stateCode": "CU-08",
+      "latitude": 22.2998,
+      "longitude": -78.56875
+    },
+    {
+      "id": 11288188,
+      "name": "Primero De Enero",
+      "nativeName": "Primero De Enero",
+      "code": "CU-08-11288188",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "stateCode": "CU-08",
+      "latitude": 21.94502,
+      "longitude": -78.43307
+    },
+    {
+      "id": 11288190,
+      "name": "Venezuela",
+      "nativeName": "Venezuela",
+      "code": "CU-08-11288190",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "stateCode": "CU-08",
+      "latitude": 21.70814,
+      "longitude": -78.80328
+    }
+  ]
+}

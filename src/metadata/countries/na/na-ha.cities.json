@@ -1,0 +1,40 @@
+{
+  "stateId": 3371200,
+  "stateCode": "NA-HA",
+  "countryCode": "NA",
+  "cities": [
+    {
+      "id": 7931910,
+      "name": "Gibeon Constituency",
+      "nativeName": "Gibeon Constituency",
+      "code": "NA-HA-7931910",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "stateCode": "NA-HA",
+      "latitude": -25.1285,
+      "longitude": 17.76442
+    },
+    {
+      "id": 11427240,
+      "name": "Mariental Rural",
+      "nativeName": "Mariental Rural",
+      "code": "NA-HA-11427240",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "stateCode": "NA-HA",
+      "latitude": -24.6333,
+      "longitude": 17.9667
+    },
+    {
+      "id": 11257257,
+      "name": "Rehoboth Rural",
+      "nativeName": "Rehoboth Rural",
+      "code": "NA-HA-11257257",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "stateCode": "NA-HA",
+      "latitude": -23.31667,
+      "longitude": 17.08333
+    }
+  ]
+}

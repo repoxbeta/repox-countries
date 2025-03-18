@@ -1,0 +1,62 @@
+{
+  "stateId": 2086331,
+  "stateCode": "PG-SHM",
+  "countryCode": "PG",
+  "cities": [
+    {
+      "id": 2095923,
+      "name": "Ialibu-Pangia District",
+      "nativeName": "Ialibu Pangia",
+      "code": "PG-SHM-2095923",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-SHM",
+      "latitude": -6.16667,
+      "longitude": 144
+    },
+    {
+      "id": 8657218,
+      "name": "Imbonggu District",
+      "nativeName": "Imbonggu",
+      "code": "PG-SHM-8657218",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-SHM",
+      "latitude": -6.16667,
+      "longitude": 144
+    },
+    {
+      "id": 8657202,
+      "name": "Kagua Erave District",
+      "nativeName": "Kagua Erave",
+      "code": "PG-SHM-8657202",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-SHM",
+      "latitude": -6.66667,
+      "longitude": 144
+    },
+    {
+      "id": 2090988,
+      "name": "Mendi-Munihu District",
+      "nativeName": "Mendi",
+      "code": "PG-SHM-2090988",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-SHM",
+      "latitude": -6.11667,
+      "longitude": 143.66667
+    },
+    {
+      "id": 2089577,
+      "name": "Nipa Kutubu District",
+      "nativeName": "Nipa Kutubu",
+      "code": "PG-SHM-2089577",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-SHM",
+      "latitude": -6.33333,
+      "longitude": 143.33333
+    }
+  ]
+}

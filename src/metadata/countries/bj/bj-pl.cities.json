@@ -1,0 +1,62 @@
+{
+  "stateId": 2597277,
+  "stateCode": "BJ-PL",
+  "countryCode": "BJ",
+  "cities": [
+    {
+      "id": 8335162,
+      "name": "Adja-Ouere",
+      "nativeName": "Adjaouere",
+      "code": "BJ-PL-8335162",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-PL",
+      "latitude": 6.968,
+      "longitude": 2.587
+    },
+    {
+      "id": 9063970,
+      "name": "Ifangni",
+      "nativeName": "Ifangni",
+      "code": "BJ-PL-9063970",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-PL",
+      "latitude": 6.66667,
+      "longitude": 2.71667
+    },
+    {
+      "id": 7670840,
+      "name": "Ketou",
+      "nativeName": "Commune of Ketou",
+      "code": "BJ-PL-7670840",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-PL",
+      "latitude": 7.45,
+      "longitude": 2.626
+    },
+    {
+      "id": 7670841,
+      "name": "Pobe",
+      "nativeName": "Commune of Pobe",
+      "code": "BJ-PL-7670841",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-PL",
+      "latitude": 7.097,
+      "longitude": 2.698
+    },
+    {
+      "id": 8334580,
+      "name": "Sakete",
+      "nativeName": "Commune of Sakete",
+      "code": "BJ-PL-8334580",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-PL",
+      "latitude": 6.766,
+      "longitude": 2.661
+    }
+  ]
+}

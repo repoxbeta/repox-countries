@@ -1,0 +1,84 @@
+{
+  "stateId": 1346798,
+  "stateCode": "KG-O",
+  "countryCode": "KG",
+  "cities": [
+    {
+      "id": 8739771,
+      "name": "Alay District",
+      "nativeName": "Alay District",
+      "code": "KG-O-8739771",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-O",
+      "latitude": 39.85863,
+      "longitude": 73.55941
+    },
+    {
+      "id": 7910403,
+      "name": "Aravan",
+      "nativeName": "Aravan",
+      "code": "KG-O-7910403",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-O",
+      "latitude": 40.459,
+      "longitude": 72.52
+    },
+    {
+      "id": 9192641,
+      "name": "Chong-Alay",
+      "nativeName": "Chong-Alay District",
+      "code": "KG-O-9192641",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-O",
+      "latitude": 39.47614,
+      "longitude": 72.33017
+    },
+    {
+      "id": 9165129,
+      "name": "Kara Kulja",
+      "nativeName": "Kara Kulja",
+      "code": "KG-O-9165129",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-O",
+      "latitude": 40.64095,
+      "longitude": 73.49411
+    },
+    {
+      "id": 7910404,
+      "name": "Kara-Suu",
+      "nativeName": "Kara-Suu",
+      "code": "KG-O-7910404",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-O",
+      "latitude": 40.37,
+      "longitude": 73.08
+    },
+    {
+      "id": 7910405,
+      "name": "Nookat",
+      "nativeName": "Nookat",
+      "code": "KG-O-7910405",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-O",
+      "latitude": 40.07,
+      "longitude": 72.68
+    },
+    {
+      "id": 7667445,
+      "name": "Uzgen District",
+      "nativeName": "Uzgen District",
+      "code": "KG-O-7667445",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-O",
+      "latitude": 40.55,
+      "longitude": 73.3
+    }
+  ]
+}

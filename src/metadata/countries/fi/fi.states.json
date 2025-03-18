@@ -1,0 +1,204 @@
+{
+  "countryId": 660013,
+  "countryCode": "FI",
+  "states": [
+    {
+      "id": 830685,
+      "name": "Central Finland",
+      "nativeName": "Central Finland",
+      "code": "FI-08",
+      "internalCode": "08",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "latitude": 62.5,
+      "longitude": 25.5
+    },
+    {
+      "id": 830675,
+      "name": "Central Ostrobothnia Region",
+      "nativeName": "Keski-Pohjanmaa",
+      "code": "FI-07",
+      "internalCode": "07",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "latitude": 63.58333,
+      "longitude": 24.08333
+    },
+    {
+      "id": 830664,
+      "name": "Kainuu",
+      "nativeName": "Kainuu",
+      "code": "FI-05",
+      "internalCode": "05",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "latitude": 64.5,
+      "longitude": 28.5
+    },
+    {
+      "id": 830705,
+      "name": "Kanta-Häme",
+      "nativeName": "Kanta-Häme",
+      "code": "FI-06",
+      "internalCode": "06",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "latitude": 60.91667,
+      "longitude": 24.33333
+    },
+    {
+      "id": 830703,
+      "name": "Kymenlaakso",
+      "nativeName": "Kymenlaakso",
+      "code": "FI-09",
+      "internalCode": "09",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "latitude": 60.83333,
+      "longitude": 26.91667
+    },
+    {
+      "id": 830603,
+      "name": "Lapland",
+      "nativeName": "Lapland",
+      "code": "FI-10",
+      "internalCode": "10",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "latitude": 67.75,
+      "longitude": 26.5
+    },
+    {
+      "id": 830686,
+      "name": "North Karelia Region",
+      "nativeName": "Pohjois-Karjala",
+      "code": "FI-13",
+      "internalCode": "13",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "latitude": 62.83333,
+      "longitude": 29.91667
+    },
+    {
+      "id": 830667,
+      "name": "North Ostrobothnia",
+      "nativeName": "Pohjois-Pohjanmaa",
+      "code": "FI-14",
+      "internalCode": "14",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "latitude": 65,
+      "longitude": 26.41667
+    },
+    {
+      "id": 830690,
+      "name": "North Savo",
+      "nativeName": "Pohjois-Savo",
+      "code": "FI-15",
+      "internalCode": "15",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "latitude": 63.16667,
+      "longitude": 27.5
+    },
+    {
+      "id": 830676,
+      "name": "Ostrobothnia Region",
+      "nativeName": "Pohjanmaa",
+      "code": "FI-12",
+      "internalCode": "12",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "latitude": 63.08333,
+      "longitude": 22.16667
+    },
+    {
+      "id": 830704,
+      "name": "Pirkanmaa",
+      "nativeName": "Pirkanmaa",
+      "code": "FI-11",
+      "internalCode": "11",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "latitude": 61.7,
+      "longitude": 23.71667
+    },
+    {
+      "id": 831040,
+      "name": "Päijänne Tavastia",
+      "nativeName": "Paijat-Hame Region",
+      "code": "FI-16",
+      "internalCode": "16",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "latitude": 61.25,
+      "longitude": 25.83333
+    },
+    {
+      "id": 831041,
+      "name": "Satakunta",
+      "nativeName": "Satakunta",
+      "code": "FI-17",
+      "internalCode": "17",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "latitude": 61.5,
+      "longitude": 22.16667
+    },
+    {
+      "id": 830699,
+      "name": "South Karelia Region",
+      "nativeName": "South Karelia Region",
+      "code": "FI-02",
+      "internalCode": "02",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "latitude": 60.96667,
+      "longitude": 28.16667
+    },
+    {
+      "id": 830682,
+      "name": "South Ostrobothnia",
+      "nativeName": "South Ostrobothnia",
+      "code": "FI-03",
+      "internalCode": "03",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "latitude": 62.75,
+      "longitude": 23
+    },
+    {
+      "id": 830695,
+      "name": "South Savo",
+      "nativeName": "Southern Savonia",
+      "code": "FI-04",
+      "internalCode": "04",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "latitude": 61.75,
+      "longitude": 27.83333
+    },
+    {
+      "id": 830708,
+      "name": "Southwest Finland",
+      "nativeName": "Varsinais-Suomi",
+      "code": "FI-19",
+      "internalCode": "19",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "latitude": 60.5,
+      "longitude": 22.25
+    },
+    {
+      "id": 830709,
+      "name": "Uusimaa",
+      "nativeName": "Uusimaa",
+      "code": "FI-18",
+      "internalCode": "18",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "latitude": 60.41667,
+      "longitude": 24.75
+    }
+  ]
+}

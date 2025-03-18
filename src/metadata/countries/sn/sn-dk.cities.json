@@ -1,0 +1,51 @@
+{
+  "stateId": 2253350,
+  "stateCode": "SN-DK",
+  "countryCode": "SN",
+  "cities": [
+    {
+      "id": 7732977,
+      "name": "Dakar Department",
+      "nativeName": "Dakar Department",
+      "code": "SN-DK-7732977",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "stateCode": "SN-DK",
+      "latitude": 14.71403,
+      "longitude": -17.45534
+    },
+    {
+      "id": 9180011,
+      "name": "Guediawaye",
+      "nativeName": "Guédiawaye Department",
+      "code": "SN-DK-9180011",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "stateCode": "SN-DK",
+      "latitude": 14.7761,
+      "longitude": -17.3956
+    },
+    {
+      "id": 7732979,
+      "name": "Pikine Department",
+      "nativeName": "Pikine Department",
+      "code": "SN-DK-7732979",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "stateCode": "SN-DK",
+      "latitude": 14.76515,
+      "longitude": -17.35198
+    },
+    {
+      "id": 7733009,
+      "name": "Rufisque Department",
+      "nativeName": "Rufisque Department",
+      "code": "SN-DK-7733009",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "stateCode": "SN-DK",
+      "latitude": 14.74339,
+      "longitude": -17.19841
+    }
+  ]
+}

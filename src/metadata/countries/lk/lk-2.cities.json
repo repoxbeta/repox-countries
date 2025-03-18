@@ -1,0 +1,40 @@
+{
+  "stateId": 1249296,
+  "stateCode": "LK-2",
+  "countryCode": "LK",
+  "cities": [
+    {
+      "id": 1241621,
+      "name": "Kandy District",
+      "nativeName": "Kandy District",
+      "code": "LK-2-1241621",
+      "countryId": 1227603,
+      "countryCode": "LK",
+      "stateCode": "LK-2",
+      "latitude": 7.3044,
+      "longitude": 80.7073
+    },
+    {
+      "id": 1235854,
+      "name": "Matale District",
+      "nativeName": "Matale District",
+      "code": "LK-2-1235854",
+      "countryId": 1227603,
+      "countryCode": "LK",
+      "stateCode": "LK-2",
+      "latitude": 7.6598,
+      "longitude": 80.7073
+    },
+    {
+      "id": 1232781,
+      "name": "Nuwara Eliya District",
+      "nativeName": "Nuwara Eliya District",
+      "code": "LK-2-1232781",
+      "countryId": 1227603,
+      "countryCode": "LK",
+      "stateCode": "LK-2",
+      "latitude": 6.9785,
+      "longitude": 80.7133
+    }
+  ]
+}

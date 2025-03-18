@@ -1,0 +1,150 @@
+{
+  "stateId": 1580700,
+  "stateCode": "VN-23",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 1905593,
+      "name": "Can Lộc District",
+      "nativeName": "Huyện Can Lộc",
+      "code": "VN-23-1905593",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-23",
+      "latitude": 18.44414,
+      "longitude": 105.7635
+    },
+    {
+      "id": 1905589,
+      "name": "Cẩm Xuyên District",
+      "nativeName": "Huyện Cẩm Xuyên",
+      "code": "VN-23-1905589",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-23",
+      "latitude": 18.19059,
+      "longitude": 106.00186
+    },
+    {
+      "id": 1905591,
+      "name": "Huyện Hương Khê",
+      "nativeName": "Huyện Hương Khê",
+      "code": "VN-23-1905591",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-23",
+      "latitude": 18.17005,
+      "longitude": 105.69848
+    },
+    {
+      "id": 11497309,
+      "name": "Huyện Lộc Hà",
+      "nativeName": "Huyện Lộc Hà",
+      "code": "VN-23-11497309",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-23",
+      "latitude": 18.46455,
+      "longitude": 105.87117
+    },
+    {
+      "id": 1905597,
+      "name": "Hương Sơn District",
+      "nativeName": "Huyện Hương Sơn",
+      "code": "VN-23-1905597",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-23",
+      "latitude": 18.47577,
+      "longitude": 105.3285
+    },
+    {
+      "id": 1905590,
+      "name": "Kỳ Anh District",
+      "nativeName": "Huyện Kỳ Anh",
+      "code": "VN-23-1905590",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-23",
+      "latitude": 18.06707,
+      "longitude": 106.17088
+    },
+    {
+      "id": 1905594,
+      "name": "Nghi Xuân District",
+      "nativeName": "Huyện Nghi Xuân",
+      "code": "VN-23-1905594",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-23",
+      "latitude": 18.62419,
+      "longitude": 105.76829
+    },
+    {
+      "id": 1905588,
+      "name": "Thành Phố Hà Tĩnh",
+      "nativeName": "Thành Phố Hà Tĩnh",
+      "code": "VN-23-1905588",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-23",
+      "latitude": 18.36277,
+      "longitude": 105.89533
+    },
+    {
+      "id": 1905592,
+      "name": "Thạch Hà District",
+      "nativeName": "Huyện Thạch Hà",
+      "code": "VN-23-1905592",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-23",
+      "latitude": 18.35091,
+      "longitude": 105.81123
+    },
+    {
+      "id": 1905595,
+      "name": "Thị Xã Hồng Lĩnh",
+      "nativeName": "Thị Xã Hồng Lĩnh",
+      "code": "VN-23-1905595",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-23",
+      "latitude": 18.5293,
+      "longitude": 105.70998
+    },
+    {
+      "id": 11497321,
+      "name": "Thị xã Kỳ Anh",
+      "nativeName": "Thị xã Kỳ Anh",
+      "code": "VN-23-11497321",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-23",
+      "latitude": 18.12352,
+      "longitude": 106.2635
+    },
+    {
+      "id": 8637597,
+      "name": "Vũ Quang Distrct",
+      "nativeName": "Huyện Vũ Quang",
+      "code": "VN-23-8637597",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-23",
+      "latitude": 18.33907,
+      "longitude": 105.44901
+    },
+    {
+      "id": 1905596,
+      "name": "Đức Thọ District",
+      "nativeName": "Huyện Ðức Thọ",
+      "code": "VN-23-1905596",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-23",
+      "latitude": 18.49699,
+      "longitude": 105.61016
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "stateId": 408660,
+  "stateCode": "SD-DS",
+  "countryCode": "SD",
+  "cities": [
+    {
+      "id": 10344732,
+      "name": "Kas District",
+      "nativeName": "Kas District",
+      "code": "SD-DS-10344732",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-DS",
+      "latitude": 12.45752,
+      "longitude": 24.01199
+    },
+    {
+      "id": 376730,
+      "name": "Mudīrīyat Dārfūr al Janūbīyah",
+      "nativeName": "Mudīrīyat Dārfūr al Janūbīyah",
+      "code": "SD-DS-376730",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-DS",
+      "latitude": 11.5,
+      "longitude": 25
+    },
+    {
+      "id": 10400488,
+      "name": "Nyala District",
+      "nativeName": "Nyala District",
+      "code": "SD-DS-10400488",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-DS",
+      "latitude": 12.04503,
+      "longitude": 24.89021
+    }
+  ]
+}

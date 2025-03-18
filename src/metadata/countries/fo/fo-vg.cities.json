@@ -1,0 +1,29 @@
+{
+  "stateId": 2610816,
+  "stateCode": "FO-VG",
+  "countryCode": "FO",
+  "cities": [
+    {
+      "id": 2612891,
+      "name": "Sørvágur",
+      "nativeName": "Sørvágur",
+      "code": "FO-VG-2612891",
+      "countryId": 2622320,
+      "countryCode": "FO",
+      "stateCode": "FO-VG",
+      "latitude": 62.06917,
+      "longitude": -7.30247
+    },
+    {
+      "id": 7798680,
+      "name": "Vága Municipality",
+      "nativeName": "Vága Municipality",
+      "code": "FO-VG-7798680",
+      "countryId": 2622320,
+      "countryCode": "FO",
+      "stateCode": "FO-VG",
+      "latitude": 62.08267,
+      "longitude": -7.16171
+    }
+  ]
+}

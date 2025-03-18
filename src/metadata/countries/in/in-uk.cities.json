@@ -1,0 +1,150 @@
+{
+  "stateId": 1444366,
+  "stateCode": "IN-UK",
+  "countryCode": "IN",
+  "cities": [
+    {
+      "id": 1278975,
+      "name": "Almora district",
+      "nativeName": "Almora",
+      "code": "IN-UK-1278975",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-UK",
+      "latitude": 29.69223,
+      "longitude": 79.49789
+    },
+    {
+      "id": 7701513,
+      "name": "Bageshwar",
+      "nativeName": "Bageshwar",
+      "code": "IN-UK-7701513",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-UK",
+      "latitude": 29.97315,
+      "longitude": 79.83224
+    },
+    {
+      "id": 1274839,
+      "name": "Chamoli",
+      "nativeName": "Chamoli",
+      "code": "IN-UK-1274839",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-UK",
+      "latitude": 30.5,
+      "longitude": 79.5
+    },
+    {
+      "id": 7701515,
+      "name": "Champawat",
+      "nativeName": "Champawat",
+      "code": "IN-UK-7701515",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-UK",
+      "latitude": 29.28756,
+      "longitude": 80.03737
+    },
+    {
+      "id": 9072830,
+      "name": "Dehradun",
+      "nativeName": "Dehradun",
+      "code": "IN-UK-9072830",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-UK",
+      "latitude": 30.33,
+      "longitude": 78.06
+    },
+    {
+      "id": 1271535,
+      "name": "Garhwāl District",
+      "nativeName": "Garhwāl",
+      "code": "IN-UK-1271535",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-UK",
+      "latitude": 29.96366,
+      "longitude": 78.92853
+    },
+    {
+      "id": 8740057,
+      "name": "Haridwar",
+      "nativeName": "Haridwar",
+      "code": "IN-UK-8740057",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-UK",
+      "latitude": 29.96967,
+      "longitude": 78.07459
+    },
+    {
+      "id": 1262118,
+      "name": "Nainital",
+      "nativeName": "Naini Tāl",
+      "code": "IN-UK-1262118",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-UK",
+      "latitude": 29.2,
+      "longitude": 79.41667
+    },
+    {
+      "id": 1259504,
+      "name": "Pithoragarh",
+      "nativeName": "Pithorāgarh",
+      "code": "IN-UK-1259504",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-UK",
+      "latitude": 30,
+      "longitude": 80.25
+    },
+    {
+      "id": 8739870,
+      "name": "Rudra Prayag",
+      "nativeName": "Rudraprayag",
+      "code": "IN-UK-8739870",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-UK",
+      "latitude": 30.60872,
+      "longitude": 79.06517
+    },
+    {
+      "id": 1254807,
+      "name": "Tehri Garhwal",
+      "nativeName": "Tehri-Garhwāl",
+      "code": "IN-UK-1254807",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-UK",
+      "latitude": 30.5,
+      "longitude": 78.66667
+    },
+    {
+      "id": 7701516,
+      "name": "Udam Singh Nagar",
+      "nativeName": "Udham Singh Nagar",
+      "code": "IN-UK-7701516",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-UK",
+      "latitude": 29.02746,
+      "longitude": 79.52347
+    },
+    {
+      "id": 1253629,
+      "name": "Uttar Kashi",
+      "nativeName": "Uttarkāshi",
+      "code": "IN-UK-1253629",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-UK",
+      "latitude": 31,
+      "longitude": 78.5
+    }
+  ]
+}

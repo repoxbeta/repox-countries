@@ -1,0 +1,62 @@
+{
+  "stateId": 281132,
+  "stateCode": "PS-GZ",
+  "countryCode": "PS",
+  "cities": [
+    {
+      "id": 7870268,
+      "name": "Deir al-Balah Governorate",
+      "nativeName": "Deir Al Balah",
+      "code": "PS-GZ-7870268",
+      "countryId": 6254930,
+      "countryCode": "PS",
+      "stateCode": "PS-GZ",
+      "latitude": 31.40765,
+      "longitude": 34.36736
+    },
+    {
+      "id": 11184609,
+      "name": "Gaza Governorate",
+      "nativeName": "Gaza",
+      "code": "PS-GZ-11184609",
+      "countryId": 6254930,
+      "countryCode": "PS",
+      "stateCode": "PS-GZ",
+      "latitude": 31.51065,
+      "longitude": 34.46411
+    },
+    {
+      "id": 7871092,
+      "name": "Khan Yunis Governorate",
+      "nativeName": "Khan Yunis Governorate",
+      "code": "PS-GZ-7871092",
+      "countryId": 6254930,
+      "countryCode": "PS",
+      "stateCode": "PS-GZ",
+      "latitude": 31.35,
+      "longitude": 34.3
+    },
+    {
+      "id": 7870263,
+      "name": "North Gaza Governorate",
+      "nativeName": "North Gaza",
+      "code": "PS-GZ-7870263",
+      "countryId": 6254930,
+      "countryCode": "PS",
+      "stateCode": "PS-GZ",
+      "latitude": 31.52467,
+      "longitude": 34.53581
+    },
+    {
+      "id": 7870260,
+      "name": "Rafah Governorate",
+      "nativeName": "Rafah",
+      "code": "PS-GZ-7870260",
+      "countryId": 6254930,
+      "countryCode": "PS",
+      "stateCode": "PS-GZ",
+      "latitude": 31.27326,
+      "longitude": 34.26063
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "stateId": 3573050,
+  "stateCode": "BM-SA",
+  "countryCode": "BM",
+  "cities": [
+    {
+      "id": 3573181,
+      "name": "Hog Bay",
+      "nativeName": "Hog Bay",
+      "code": "BM-SA-3573181",
+      "countryId": 3573345,
+      "countryCode": "BM",
+      "stateCode": "BM-SA",
+      "latitude": 32.27111,
+      "longitude": -64.88
+    },
+    {
+      "id": 3573046,
+      "name": "Scotts Hill",
+      "nativeName": "Scotts Hill",
+      "code": "BM-SA-3573046",
+      "countryId": 3573345,
+      "countryCode": "BM",
+      "stateCode": "BM-SA",
+      "latitude": 32.29722,
+      "longitude": -64.86556
+    },
+    {
+      "id": 3573029,
+      "name": "Somerset",
+      "nativeName": "Somerset",
+      "code": "BM-SA-3573029",
+      "countryId": 3573345,
+      "countryCode": "BM",
+      "stateCode": "BM-SA",
+      "latitude": 32.29833,
+      "longitude": -64.86833
+    }
+  ]
+}

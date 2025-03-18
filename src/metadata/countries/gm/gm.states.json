@@ -1,0 +1,72 @@
+{
+  "countryId": 2413451,
+  "countryCode": "GM",
+  "states": [
+    {
+      "id": 2413875,
+      "name": "Banjul",
+      "nativeName": "Banjul",
+      "code": "GM-B",
+      "internalCode": "B",
+      "countryId": 2413451,
+      "countryCode": "GM",
+      "latitude": 13.45,
+      "longitude": -16.58333
+    },
+    {
+      "id": 2412707,
+      "name": "Central River",
+      "nativeName": "Central River",
+      "code": "GM-M",
+      "internalCode": "M",
+      "countryId": 2413451,
+      "countryCode": "GM",
+      "latitude": 13.58333,
+      "longitude": -14.91667
+    },
+    {
+      "id": 2412716,
+      "name": "Lower River",
+      "nativeName": "Lower River Division",
+      "code": "GM-L",
+      "internalCode": "L",
+      "countryId": 2413451,
+      "countryCode": "GM",
+      "latitude": 13.4,
+      "longitude": -15.66
+    },
+    {
+      "id": 2412353,
+      "name": "North Bank",
+      "nativeName": "North Bank",
+      "code": "GM-N",
+      "internalCode": "N",
+      "countryId": 2413451,
+      "countryCode": "GM",
+      "latitude": 13.5,
+      "longitude": -16
+    },
+    {
+      "id": 2411711,
+      "name": "Upper River",
+      "nativeName": "Upper River",
+      "code": "GM-U",
+      "internalCode": "U",
+      "countryId": 2413451,
+      "countryCode": "GM",
+      "latitude": 13.36667,
+      "longitude": -14.16667
+    },
+    {
+      "id": 2411683,
+      "name": "West Coast",
+      "nativeName": "West Coast",
+      "code": "GM-W",
+      "internalCode": "W",
+      "countryId": 2413451,
+      "countryCode": "GM",
+      "latitude": 13.23333,
+      "longitude": -16.35
+    }
+  ]
+}

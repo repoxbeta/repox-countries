@@ -1,0 +1,73 @@
+{
+  "stateId": 2708794,
+  "stateCode": "SE-N",
+  "countryCode": "SE",
+  "cities": [
+    {
+      "id": 2715572,
+      "name": "Falkenbergs Kommun",
+      "nativeName": "Falkenbergs Kommun",
+      "code": "SE-N-2715572",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-N",
+      "latitude": 57.04317,
+      "longitude": 12.72989
+    },
+    {
+      "id": 2708363,
+      "name": "Halmstad Municipality",
+      "nativeName": "Halmstads Kommun",
+      "code": "SE-N-2708363",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-N",
+      "latitude": 56.7392,
+      "longitude": 12.97338
+    },
+    {
+      "id": 2704007,
+      "name": "Hylte Municipality",
+      "nativeName": "Hylte Kommun",
+      "code": "SE-N-2704007",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-N",
+      "latitude": 56.97394,
+      "longitude": 13.26541
+    },
+    {
+      "id": 2698726,
+      "name": "Kungsbacka Municipality",
+      "nativeName": "Kungsbacka Kommun",
+      "code": "SE-N-2698726",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-N",
+      "latitude": 57.45058,
+      "longitude": 12.15061
+    },
+    {
+      "id": 2697859,
+      "name": "Laholm Municipality",
+      "nativeName": "Laholms Kommun",
+      "code": "SE-N-2697859",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-N",
+      "latitude": 56.49174,
+      "longitude": 13.19141
+    },
+    {
+      "id": 2664994,
+      "name": "Varberg Municipality",
+      "nativeName": "Varbergs Kommun",
+      "code": "SE-N-2664994",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-N",
+      "latitude": 57.17208,
+      "longitude": 12.41797
+    }
+  ]
+}

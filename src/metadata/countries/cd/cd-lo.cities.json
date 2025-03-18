@@ -1,0 +1,73 @@
+{
+  "stateId": 11288214,
+  "stateCode": "CD-LO",
+  "countryCode": "CD",
+  "cities": [
+    {
+      "id": 215523,
+      "name": "Kabinda",
+      "nativeName": "Kabinda",
+      "code": "CD-LO-215523",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-LO",
+      "latitude": -6.13333,
+      "longitude": 24.48333
+    },
+    {
+      "id": 12278164,
+      "name": "Kamiji",
+      "nativeName": "Kamiji",
+      "code": "CD-LO-12278164",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-LO",
+      "latitude": -6.7026,
+      "longitude": 23.22703
+    },
+    {
+      "id": 12278101,
+      "name": "Lubao",
+      "nativeName": "Lubao",
+      "code": "CD-LO-12278101",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-LO",
+      "latitude": -5.55868,
+      "longitude": 25.4333
+    },
+    {
+      "id": 12278052,
+      "name": "Luilu",
+      "nativeName": "Luilu",
+      "code": "CD-LO-12278052",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-LO",
+      "latitude": -7.34409,
+      "longitude": 23.60274
+    },
+    {
+      "id": 12278151,
+      "name": "Mwene-Ditu",
+      "nativeName": "Mwene-Ditu",
+      "code": "CD-LO-12278151",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-LO",
+      "latitude": -6.98663,
+      "longitude": 23.47658
+    },
+    {
+      "id": 12278080,
+      "name": "Ngandajika",
+      "nativeName": "Ngandajika",
+      "code": "CD-LO-12278080",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-LO",
+      "latitude": -6.72119,
+      "longitude": 24.25955
+    }
+  ]
+}

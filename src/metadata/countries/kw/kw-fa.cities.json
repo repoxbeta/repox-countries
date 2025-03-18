@@ -1,0 +1,194 @@
+{
+  "stateId": 285816,
+  "stateCode": "KW-FA",
+  "countryCode": "KW",
+  "cities": [
+    {
+      "id": 12216392,
+      "name": "Abraq Khayţān",
+      "nativeName": "Abraq Khayţān",
+      "code": "KW-FA-12216392",
+      "countryId": 285570,
+      "countryCode": "KW",
+      "stateCode": "KW-FA",
+      "latitude": 29.29053,
+      "longitude": 47.97268
+    },
+    {
+      "id": 12216391,
+      "name": "Al Andalus",
+      "nativeName": "Al Andalus",
+      "code": "KW-FA-12216391",
+      "countryId": 285570,
+      "countryCode": "KW",
+      "stateCode": "KW-FA",
+      "latitude": 29.30302,
+      "longitude": 47.8732
+    },
+    {
+      "id": 12216399,
+      "name": "Al Farwānīyah",
+      "nativeName": "Al Farwānīyah",
+      "code": "KW-FA-12216399",
+      "countryId": 285570,
+      "countryCode": "KW",
+      "stateCode": "KW-FA",
+      "latitude": 29.28023,
+      "longitude": 47.95745
+    },
+    {
+      "id": 12216395,
+      "name": "Al Firdaws",
+      "nativeName": "Al Firdaws",
+      "code": "KW-FA-12216395",
+      "countryId": 285570,
+      "countryCode": "KW",
+      "stateCode": "KW-FA",
+      "latitude": 29.2833,
+      "longitude": 47.87481
+    },
+    {
+      "id": 12216347,
+      "name": "Al Maţār",
+      "nativeName": "Al Maţār",
+      "code": "KW-FA-12216347",
+      "countryId": 285570,
+      "countryCode": "KW",
+      "stateCode": "KW-FA",
+      "latitude": 29.23818,
+      "longitude": 47.97349
+    },
+    {
+      "id": 12216393,
+      "name": "Al ‘Umarīyah",
+      "nativeName": "Al ‘Umarīyah",
+      "code": "KW-FA-12216393",
+      "countryId": 285570,
+      "countryCode": "KW",
+      "stateCode": "KW-FA",
+      "latitude": 29.29734,
+      "longitude": 47.95335
+    },
+    {
+      "id": 12216346,
+      "name": "Al ‘Āriḑīyah",
+      "nativeName": "Al ‘Āriḑīyah",
+      "code": "KW-FA-12216346",
+      "countryId": 285570,
+      "countryCode": "KW",
+      "stateCode": "KW-FA",
+      "latitude": 29.28285,
+      "longitude": 47.89428
+    },
+    {
+      "id": 12216345,
+      "name": "Al ‘Āriḑīyah Takhzīn wa Isti‘mālāt al Ḩukūmīyah",
+      "nativeName": "Al ‘Āriḑīyah Takhzīn wa Isti‘mālāt al Ḩukūmīyah",
+      "code": "KW-FA-12216345",
+      "countryId": 285570,
+      "countryCode": "KW",
+      "stateCode": "KW-FA",
+      "latitude": 29.2791,
+      "longitude": 47.91486
+    },
+    {
+      "id": 12216390,
+      "name": "Ar Raq‘ī",
+      "nativeName": "Ar Raq‘ī",
+      "code": "KW-FA-12216390",
+      "countryId": 285570,
+      "countryCode": "KW",
+      "stateCode": "KW-FA",
+      "latitude": 29.3052,
+      "longitude": 47.91495
+    },
+    {
+      "id": 12216389,
+      "name": "Ar Rayy",
+      "nativeName": "Ar Rayy",
+      "code": "KW-FA-12216389",
+      "countryId": 285570,
+      "countryCode": "KW",
+      "stateCode": "KW-FA",
+      "latitude": 29.30902,
+      "longitude": 47.94357
+    },
+    {
+      "id": 12216397,
+      "name": "Ar Riḩāb",
+      "nativeName": "Ar Riḩāb",
+      "code": "KW-FA-12216397",
+      "countryId": 285570,
+      "countryCode": "KW",
+      "stateCode": "KW-FA",
+      "latitude": 29.28485,
+      "longitude": 47.9383
+    },
+    {
+      "id": 12216394,
+      "name": "Ar Rābiyah",
+      "nativeName": "Ar Rābiyah",
+      "code": "KW-FA-12216394",
+      "countryId": 285570,
+      "countryCode": "KW",
+      "stateCode": "KW-FA",
+      "latitude": 29.29715,
+      "longitude": 47.93885
+    },
+    {
+      "id": 12216400,
+      "name": "Aḑ Ḑajīj",
+      "nativeName": "Aḑ Ḑajīj",
+      "code": "KW-FA-12216400",
+      "countryId": 285570,
+      "countryCode": "KW",
+      "stateCode": "KW-FA",
+      "latitude": 29.26313,
+      "longitude": 47.96305
+    },
+    {
+      "id": 12216398,
+      "name": "Ishbīliyah",
+      "nativeName": "Ishbīliyah",
+      "code": "KW-FA-12216398",
+      "countryId": 285570,
+      "countryCode": "KW",
+      "stateCode": "KW-FA",
+      "latitude": 29.27402,
+      "longitude": 47.93925
+    },
+    {
+      "id": 12216401,
+      "name": "Jalīb ash Shuyūkh",
+      "nativeName": "Jalīb ash Shuyūkh",
+      "code": "KW-FA-12216401",
+      "countryId": 285570,
+      "countryCode": "KW",
+      "stateCode": "KW-FA",
+      "latitude": 29.25962,
+      "longitude": 47.93363
+    },
+    {
+      "id": 12216402,
+      "name": "Khayţān al Janūbī",
+      "nativeName": "Khayţān al Janūbī",
+      "code": "KW-FA-12216402",
+      "countryId": 285570,
+      "countryCode": "KW",
+      "stateCode": "KW-FA",
+      "latitude": 29.27685,
+      "longitude": 47.97786
+    },
+    {
+      "id": 12216396,
+      "name": "Şabāḩ an Nāşir",
+      "nativeName": "Şabāḩ an Nāşir",
+      "code": "KW-FA-12216396",
+      "countryId": 285570,
+      "countryCode": "KW",
+      "stateCode": "KW-FA",
+      "latitude": 29.27081,
+      "longitude": 47.88296
+    }
+  ]
+}

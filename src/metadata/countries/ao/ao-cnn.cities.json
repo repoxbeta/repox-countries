@@ -1,0 +1,73 @@
+{
+  "stateId": 3349096,
+  "stateCode": "AO-CNN",
+  "countryCode": "AO",
+  "cities": [
+    {
+      "id": 3351306,
+      "name": "Cahama",
+      "nativeName": "Cahama",
+      "code": "AO-CNN-3351306",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-CNN",
+      "latitude": -16.39988,
+      "longitude": 14.23636
+    },
+    {
+      "id": 3349237,
+      "name": "Cuanhama",
+      "nativeName": "Cuanhama",
+      "code": "AO-CNN-3349237",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-CNN",
+      "latitude": -16.5,
+      "longitude": 16.33333
+    },
+    {
+      "id": 3349045,
+      "name": "Curoca",
+      "nativeName": "Curoca",
+      "code": "AO-CNN-3349045",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-CNN",
+      "latitude": -17,
+      "longitude": 13.66667
+    },
+    {
+      "id": 3348986,
+      "name": "Cuvelai",
+      "nativeName": "Cuvelai",
+      "code": "AO-CNN-3348986",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-CNN",
+      "latitude": -15.67592,
+      "longitude": 16.13257
+    },
+    {
+      "id": 3347028,
+      "name": "Namacunde",
+      "nativeName": "Namacunde",
+      "code": "AO-CNN-3347028",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-CNN",
+      "latitude": -17.08764,
+      "longitude": 16.54745
+    },
+    {
+      "id": 3346850,
+      "name": "Ombadja",
+      "nativeName": "Ombadja",
+      "code": "AO-CNN-3346850",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-CNN",
+      "latitude": -16.7006,
+      "longitude": 14.88792
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "stateId": 3617707,
+  "stateCode": "NI-MT",
+  "countryCode": "NI",
+  "cities": [
+    {
+      "id": 3620349,
+      "name": "Municipio de Ciudad Darío",
+      "nativeName": "Municipio de Ciudad Darío",
+      "code": "NI-MT-3620349",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-MT",
+      "latitude": 12.69451,
+      "longitude": -86.13873
+    },
+    {
+      "id": 3619201,
+      "name": "Municipio de Esquipulas",
+      "nativeName": "Municipio de Esquipulas",
+      "code": "NI-MT-3619201",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-MT",
+      "latitude": 12.69345,
+      "longitude": -85.75952
+    },
+    {
+      "id": 3617706,
+      "name": "Municipio de Matagalpa",
+      "nativeName": "Municipio de Matagalpa",
+      "code": "NI-MT-3617706",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-MT",
+      "latitude": 12.89675,
+      "longitude": -85.93551
+    },
+    {
+      "id": 3617693,
+      "name": "Municipio de Matiguás",
+      "nativeName": "Municipio de Matiguás",
+      "code": "NI-MT-3617693",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-MT",
+      "latitude": 12.87084,
+      "longitude": -85.38672
+    },
+    {
+      "id": 3617531,
+      "name": "Municipio de Muy Muy",
+      "nativeName": "Municipio de Muy Muy",
+      "code": "NI-MT-3617531",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-MT",
+      "latitude": 12.76182,
+      "longitude": -85.58933
+    },
+    {
+      "id": 8335431,
+      "name": "Municipio de Rancho Grande",
+      "nativeName": "Municipio de Rancho Grande",
+      "code": "NI-MT-8335431",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-MT",
+      "latitude": 13.26044,
+      "longitude": -85.57295
+    },
+    {
+      "id": 3617068,
+      "name": "Municipio de Río Blanco",
+      "nativeName": "Municipio de Río Blanco",
+      "code": "NI-MT-3617068",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-MT",
+      "latitude": 13.03452,
+      "longitude": -85.21575
+    },
+    {
+      "id": 3616887,
+      "name": "Municipio de San Dionisio",
+      "nativeName": "Municipio de San Dionisio",
+      "code": "NI-MT-3616887",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-MT",
+      "latitude": 12.76309,
+      "longitude": -85.85146
+    },
+    {
+      "id": 3616814,
+      "name": "Municipio de San Isidro",
+      "nativeName": "Municipio de San Isidro",
+      "code": "NI-MT-3616814",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-MT",
+      "latitude": 12.87839,
+      "longitude": -86.21552
+    },
+    {
+      "id": 3616581,
+      "name": "Municipio de San Ramón",
+      "nativeName": "Municipio de San Ramón",
+      "code": "NI-MT-3616581",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-MT",
+      "latitude": 12.9294,
+      "longitude": -85.7266
+    },
+    {
+      "id": 3616310,
+      "name": "Municipio de Sébaco",
+      "nativeName": "Municipio de Sébaco",
+      "code": "NI-MT-3616310",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-MT",
+      "latitude": 12.9006,
+      "longitude": -86.09029
+    },
+    {
+      "id": 3616075,
+      "name": "Municipio de Terrabona",
+      "nativeName": "Municipio de Terrabona",
+      "code": "NI-MT-3616075",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-MT",
+      "latitude": 12.70659,
+      "longitude": -85.96089
+    },
+    {
+      "id": 8335432,
+      "name": "Municipio del Tuma-La Dalia",
+      "nativeName": "Municipio del Tuma-La Dalia",
+      "code": "NI-MT-8335432",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-MT",
+      "latitude": 13.04415,
+      "longitude": -85.74872
+    }
+  ]
+}

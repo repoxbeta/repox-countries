@@ -1,0 +1,95 @@
+{
+  "stateId": 933851,
+  "stateCode": "BW-CE",
+  "countryCode": "BW",
+  "cities": [
+    {
+      "id": 11819291,
+      "name": "Bobonong",
+      "nativeName": "Bobonong",
+      "code": "BW-CE-11819291",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "stateCode": "BW-CE",
+      "latitude": -21.98275,
+      "longitude": 28.1297
+    },
+    {
+      "id": 11819295,
+      "name": "Lethlakane",
+      "nativeName": "Lethlakane",
+      "code": "BW-CE-11819295",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "stateCode": "BW-CE",
+      "latitude": -21.31603,
+      "longitude": 24.95201
+    },
+    {
+      "id": 7670708,
+      "name": "Machaneng",
+      "nativeName": "Machaneng",
+      "code": "BW-CE-7670708",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "stateCode": "BW-CE",
+      "latitude": -23.13619,
+      "longitude": 27.1433
+    },
+    {
+      "id": 7670706,
+      "name": "Mahalapye",
+      "nativeName": "Mahalapye",
+      "code": "BW-CE-7670706",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "stateCode": "BW-CE",
+      "latitude": -23.21687,
+      "longitude": 26.32535
+    },
+    {
+      "id": 7670710,
+      "name": "Palapye",
+      "nativeName": "Palapye",
+      "code": "BW-CE-7670710",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "stateCode": "BW-CE",
+      "latitude": -22.51957,
+      "longitude": 27.47254
+    },
+    {
+      "id": 7670709,
+      "name": "Serowe",
+      "nativeName": "Serowe",
+      "code": "BW-CE-7670709",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "stateCode": "BW-CE",
+      "latitude": -22.00053,
+      "longitude": 26.55478
+    },
+    {
+      "id": 11819294,
+      "name": "Tuli",
+      "nativeName": "Tuli",
+      "code": "BW-CE-11819294",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "stateCode": "BW-CE",
+      "latitude": -22.78323,
+      "longitude": 28.11201
+    },
+    {
+      "id": 11819282,
+      "name": "Tutume",
+      "nativeName": "Tutume",
+      "code": "BW-CE-11819282",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "stateCode": "BW-CE",
+      "latitude": -20.2182,
+      "longitude": 25.93982
+    }
+  ]
+}

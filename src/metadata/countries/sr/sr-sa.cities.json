@@ -1,0 +1,84 @@
+{
+  "stateId": 3383110,
+  "stateCode": "SR-SA",
+  "countryCode": "SR",
+  "cities": [
+    {
+      "id": 12088725,
+      "name": "Calcutta",
+      "nativeName": "Calcutta",
+      "code": "SR-SA-12088725",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-SA",
+      "latitude": 5.84499,
+      "longitude": -55.67359
+    },
+    {
+      "id": 12088727,
+      "name": "Groningen",
+      "nativeName": "Groningen",
+      "code": "SR-SA-12088727",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-SA",
+      "latitude": 5.79439,
+      "longitude": -55.47735
+    },
+    {
+      "id": 12088730,
+      "name": "Jarikaba",
+      "nativeName": "Jarikaba",
+      "code": "SR-SA-12088730",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-SA",
+      "latitude": 5.82561,
+      "longitude": -55.33188
+    },
+    {
+      "id": 12088728,
+      "name": "Kampong Baroe",
+      "nativeName": "Kampong Baroe",
+      "code": "SR-SA-12088728",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-SA",
+      "latitude": 5.74955,
+      "longitude": -55.40536
+    },
+    {
+      "id": 12088745,
+      "name": "Kwatta",
+      "nativeName": "Kwatta",
+      "code": "SR-SA-12088745",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-SA",
+      "latitude": 5.86869,
+      "longitude": -55.27342
+    },
+    {
+      "id": 12088726,
+      "name": "Tijgerkreek",
+      "nativeName": "Tijgerkreek",
+      "code": "SR-SA-12088726",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-SA",
+      "latitude": 5.78988,
+      "longitude": -55.51993
+    },
+    {
+      "id": 12088729,
+      "name": "Wayambo",
+      "nativeName": "Wayambo",
+      "code": "SR-SA-12088729",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-SA",
+      "latitude": 5.84286,
+      "longitude": -55.46761
+    }
+  ]
+}

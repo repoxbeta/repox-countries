@@ -1,0 +1,40 @@
+{
+  "stateId": 3344921,
+  "stateCode": "SI-169",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3195162,
+      "name": "Miklavž na Dravskem Polju",
+      "nativeName": "Miklavž na Dravskem Polju",
+      "code": "SI-169-3195162",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-169",
+      "latitude": 46.50583,
+      "longitude": 15.69722
+    },
+    {
+      "id": 3201899,
+      "name": "Dobrovce",
+      "nativeName": "Dobrovce",
+      "code": "SI-169-3201899",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-169",
+      "latitude": 46.48028,
+      "longitude": 15.70278
+    },
+    {
+      "id": 3216870,
+      "name": "Dravski Dvor",
+      "nativeName": "Dravski Dvor",
+      "code": "SI-169-3216870",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-169",
+      "latitude": 46.46722,
+      "longitude": 15.71639
+    }
+  ]
+}

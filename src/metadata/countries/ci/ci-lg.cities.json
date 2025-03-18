@@ -1,0 +1,40 @@
+{
+  "stateId": 11153057,
+  "stateCode": "CI-LG",
+  "countryCode": "CI",
+  "cities": [
+    {
+      "id": 11153160,
+      "name": "Agnéby-Tiassa",
+      "nativeName": "Agnéby-Tiassa",
+      "code": "CI-LG-11153160",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "stateCode": "CI-LG",
+      "latitude": 5.79488,
+      "longitude": -4.37187
+    },
+    {
+      "id": 11153161,
+      "name": "Grands-Ponts",
+      "nativeName": "Grands-Ponts",
+      "code": "CI-LG-11153161",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "stateCode": "CI-LG",
+      "latitude": 5.30487,
+      "longitude": -4.39247
+    },
+    {
+      "id": 11362033,
+      "name": "La Mé",
+      "nativeName": "Région de La Mé",
+      "code": "CI-LG-11362033",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "stateCode": "CI-LG",
+      "latitude": 6,
+      "longitude": -3.70833
+    }
+  ]
+}

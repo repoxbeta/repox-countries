@@ -1,0 +1,40 @@
+{
+  "stateId": 3575621,
+  "stateCode": "DM-08",
+  "countryCode": "DM",
+  "cities": [
+    {
+      "id": 3575602,
+      "name": "Soufrière",
+      "nativeName": "Soufrière",
+      "code": "DM-08-3575602",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-08",
+      "latitude": 15.23374,
+      "longitude": -61.35881
+    },
+    {
+      "id": 3575805,
+      "name": "Galion",
+      "nativeName": "Galion",
+      "code": "DM-08-3575805",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-08",
+      "latitude": 15.22258,
+      "longitude": -61.35736
+    },
+    {
+      "id": 3575606,
+      "name": "Scotts Head Village",
+      "nativeName": "Scotts Head Village",
+      "code": "DM-08-3575606",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-08",
+      "latitude": 15.21222,
+      "longitude": -61.36482
+    }
+  ]
+}

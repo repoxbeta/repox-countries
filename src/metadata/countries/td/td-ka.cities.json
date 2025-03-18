@@ -1,0 +1,40 @@
+{
+  "stateId": 2430873,
+  "stateCode": "TD-KA",
+  "countryCode": "TD",
+  "cities": [
+    {
+      "id": 12186903,
+      "name": "Nord-Kanem",
+      "nativeName": "Nord-Kanem",
+      "code": "TD-KA-12186903",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-KA",
+      "latitude": 15.40132,
+      "longitude": 15.25958
+    },
+    {
+      "id": 8693073,
+      "name": "Rig-Rig",
+      "nativeName": "Rig-Rig",
+      "code": "TD-KA-8693073",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-KA",
+      "latitude": 14.26471,
+      "longitude": 14.35216
+    },
+    {
+      "id": 12186904,
+      "name": "Sud-Kanem",
+      "nativeName": "Sud-Kanem",
+      "code": "TD-KA-12186904",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-KA",
+      "latitude": 13.50096,
+      "longitude": 15.68887
+    }
+  ]
+}

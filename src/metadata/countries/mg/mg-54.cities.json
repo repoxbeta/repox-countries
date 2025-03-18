@@ -1,0 +1,62 @@
+{
+  "stateId": 7670902,
+  "stateCode": "MG-54",
+  "countryCode": "MG",
+  "cities": [
+    {
+      "id": 11926401,
+      "name": "Belo Sur Tsiribihina",
+      "nativeName": "Belo Sur Tsiribihina",
+      "code": "MG-54-11926401",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-54",
+      "latitude": -19.63718,
+      "longitude": 44.84212
+    },
+    {
+      "id": 8335340,
+      "name": "Mahabo District",
+      "nativeName": "Mahabo District",
+      "code": "MG-54-8335340",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-54",
+      "latitude": -20.636,
+      "longitude": 45.165
+    },
+    {
+      "id": 8335351,
+      "name": "Manja District",
+      "nativeName": "Manja District",
+      "code": "MG-54-8335351",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-54",
+      "latitude": -21.436,
+      "longitude": 44.182
+    },
+    {
+      "id": 8299297,
+      "name": "Miandrivazo District",
+      "nativeName": "Miandrivazo District",
+      "code": "MG-54-8299297",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-54",
+      "latitude": -19.1789,
+      "longitude": 45.38727
+    },
+    {
+      "id": 8335339,
+      "name": "Morondava District",
+      "nativeName": "Morondava District",
+      "code": "MG-54-8335339",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-54",
+      "latitude": -20.527,
+      "longitude": 44.368
+    }
+  ]
+}

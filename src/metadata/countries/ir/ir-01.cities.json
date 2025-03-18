@@ -1,0 +1,183 @@
+{
+  "stateId": 133349,
+  "stateCode": "IR-01",
+  "countryCode": "IR",
+  "cities": [
+    {
+      "id": 449651,
+      "name": "Amlash",
+      "nativeName": "Amlash",
+      "code": "IR-01-449651",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-01",
+      "latitude": 36.96667,
+      "longitude": 50.15
+    },
+    {
+      "id": 449652,
+      "name": "Bandar-e Anzali County",
+      "nativeName": "Shahrestān-e Bandar-e Anzalī",
+      "code": "IR-01-449652",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-01",
+      "latitude": 37.45,
+      "longitude": 49.41333
+    },
+    {
+      "id": 449653,
+      "name": "Rasht",
+      "nativeName": "Rasht",
+      "code": "IR-01-449653",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-01",
+      "latitude": 37.26667,
+      "longitude": 49.63333
+    },
+    {
+      "id": 449658,
+      "name": "Shaft",
+      "nativeName": "Shaft",
+      "code": "IR-01-449658",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-01",
+      "latitude": 37.08333,
+      "longitude": 49.38333
+    },
+    {
+      "id": 449661,
+      "name": "Shahrestān-e Fūman",
+      "nativeName": "Shahrestān-e Fūman",
+      "code": "IR-01-449661",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-01",
+      "latitude": 37.16337,
+      "longitude": 49.1713
+    },
+    {
+      "id": 449663,
+      "name": "Shahrestān-e Langarūd",
+      "nativeName": "Shahrestān-e Langarūd",
+      "code": "IR-01-449663",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-01",
+      "latitude": 37.1,
+      "longitude": 50.125
+    },
+    {
+      "id": 449662,
+      "name": "Shahrestān-e Lāhījān",
+      "nativeName": "Shahrestān-e Lāhījān",
+      "code": "IR-01-449662",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-01",
+      "latitude": 37.167,
+      "longitude": 50
+    },
+    {
+      "id": 449664,
+      "name": "Shahrestān-e Māsāl",
+      "nativeName": "Shahrestān-e Māsāl",
+      "code": "IR-01-449664",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-01",
+      "latitude": 37.3,
+      "longitude": 49
+    },
+    {
+      "id": 449654,
+      "name": "Shahrestān-e Reẕvānshahr",
+      "nativeName": "Shahrestān-e Reẕvānshahr",
+      "code": "IR-01-449654",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-01",
+      "latitude": 37.53333,
+      "longitude": 48.95
+    },
+    {
+      "id": 449655,
+      "name": "Shahrestān-e Rūdbār",
+      "nativeName": "Shahrestān-e Rūdbār",
+      "code": "IR-01-449655",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-01",
+      "latitude": 36.785,
+      "longitude": 49.6
+    },
+    {
+      "id": 449656,
+      "name": "Shahrestān-e Rūdsar",
+      "nativeName": "Shahrestān-e Rūdsar",
+      "code": "IR-01-449656",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-01",
+      "latitude": 36.86667,
+      "longitude": 50.3
+    },
+    {
+      "id": 449657,
+      "name": "Shahrestān-e Sīāhkal",
+      "nativeName": "Shahrestān-e Sīāhkal",
+      "code": "IR-01-449657",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-01",
+      "latitude": 36.93333,
+      "longitude": 49.85
+    },
+    {
+      "id": 449650,
+      "name": "Shahrestān-e Āstāneh-ye Ashrafīyeh",
+      "nativeName": "Shahrestān-e Āstāneh-ye Ashrafīyeh",
+      "code": "IR-01-449650",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-01",
+      "latitude": 37.33333,
+      "longitude": 50
+    },
+    {
+      "id": 449649,
+      "name": "Shahrestān-e Āstārā",
+      "nativeName": "Shahrestān-e Āstārā",
+      "code": "IR-01-449649",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-01",
+      "latitude": 38.33333,
+      "longitude": 48.75
+    },
+    {
+      "id": 449659,
+      "name": "Shahrestān-e Şowme‘eh Sarā",
+      "nativeName": "Shahrestān-e Şowme‘eh Sarā",
+      "code": "IR-01-449659",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-01",
+      "latitude": 37.355,
+      "longitude": 49.2975
+    },
+    {
+      "id": 8620884,
+      "name": "Shahrestān-e Ţavālesh",
+      "nativeName": "Shahrestān-e Ţavālesh",
+      "code": "IR-01-8620884",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-01",
+      "latitude": 37.9,
+      "longitude": 48.78333
+    }
+  ]
+}

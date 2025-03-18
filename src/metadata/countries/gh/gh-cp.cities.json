@@ -1,0 +1,227 @@
+{
+  "stateId": 2302353,
+  "stateCode": "GH-CP",
+  "countryCode": "GH",
+  "cities": [
+    {
+      "id": 7648921,
+      "name": "Abura/Asebu/Kwamankese",
+      "nativeName": "Abura/Asebu/Kwamankese",
+      "code": "GH-CP-7648921",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-CP",
+      "latitude": 5.33333,
+      "longitude": -1.16667
+    },
+    {
+      "id": 7648928,
+      "name": "Agona East",
+      "nativeName": "Agona East",
+      "code": "GH-CP-7648928",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-CP",
+      "latitude": 5.65,
+      "longitude": -0.75
+    },
+    {
+      "id": 7648929,
+      "name": "Agona West",
+      "nativeName": "Agona West",
+      "code": "GH-CP-7648929",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-CP",
+      "latitude": 5.53333,
+      "longitude": -0.7
+    },
+    {
+      "id": 7648933,
+      "name": "Ajumako/Enyan/Essiam",
+      "nativeName": "Ajumako/Enyan/Essiam",
+      "code": "GH-CP-7648933",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-CP",
+      "latitude": 5.41667,
+      "longitude": -0.95
+    },
+    {
+      "id": 7648945,
+      "name": "Asikuma/Odoben/Brakwa",
+      "nativeName": "Asikuma/Odoben/Brakwa",
+      "code": "GH-CP-7648945",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-CP",
+      "latitude": 5.58333,
+      "longitude": -1
+    },
+    {
+      "id": 7648946,
+      "name": "Assin North",
+      "nativeName": "Assin North",
+      "code": "GH-CP-7648946",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-CP",
+      "latitude": 5.7,
+      "longitude": -1.28333
+    },
+    {
+      "id": 7647504,
+      "name": "Assin South",
+      "nativeName": "Assin South",
+      "code": "GH-CP-7647504",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-CP",
+      "latitude": 5.4764,
+      "longitude": -1.2891
+    },
+    {
+      "id": 7648955,
+      "name": "Awutu Senya",
+      "nativeName": "Awutu Senya",
+      "code": "GH-CP-7648955",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-CP",
+      "latitude": 5.5514,
+      "longitude": -0.51523
+    },
+    {
+      "id": 12105111,
+      "name": "Awutu Senya East Municipal",
+      "nativeName": "Awutu Senya East Municipal",
+      "code": "GH-CP-12105111",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-CP",
+      "latitude": 5.5719,
+      "longitude": -0.44497
+    },
+    {
+      "id": 7648969,
+      "name": "Cape Coast",
+      "nativeName": "Cape Coast",
+      "code": "GH-CP-7648969",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-CP",
+      "latitude": 5.10535,
+      "longitude": -1.2466
+    },
+    {
+      "id": 7648976,
+      "name": "Effutu",
+      "nativeName": "Effutu",
+      "code": "GH-CP-7648976",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-CP",
+      "latitude": 5.35113,
+      "longitude": -0.62313
+    },
+    {
+      "id": 12105092,
+      "name": "Ekumfi",
+      "nativeName": "Ekumfi",
+      "code": "GH-CP-12105092",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-CP",
+      "latitude": 5.2617,
+      "longitude": -0.90869
+    },
+    {
+      "id": 7648982,
+      "name": "Gomoa East",
+      "nativeName": "Gomoa East",
+      "code": "GH-CP-7648982",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-CP",
+      "latitude": 5.51667,
+      "longitude": -0.75
+    },
+    {
+      "id": 7648983,
+      "name": "Gomoa West",
+      "nativeName": "Gomoa West",
+      "code": "GH-CP-7648983",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-CP",
+      "latitude": 5.28333,
+      "longitude": -0.73333
+    },
+    {
+      "id": 7648998,
+      "name": "Komenda/Edina/Eguafo/Abirem",
+      "nativeName": "Komenda/Edina/Eguafo/Abirem",
+      "code": "GH-CP-7648998",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-CP",
+      "latitude": 5.08333,
+      "longitude": -1.35
+    },
+    {
+      "id": 7649013,
+      "name": "Mfantsiman Municipal District",
+      "nativeName": "Mfatseman",
+      "code": "GH-CP-7649013",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-CP",
+      "latitude": 5.2,
+      "longitude": -1.06667
+    },
+    {
+      "id": 12105091,
+      "name": "Twifo Ati-Morkwa",
+      "nativeName": "Twifo Ati-Morkwa",
+      "code": "GH-CP-12105091",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-CP",
+      "latitude": 5.67532,
+      "longitude": -1.59847
+    },
+    {
+      "id": 7647505,
+      "name": "Twifo Hemang Lower Denkyira",
+      "nativeName": "Twifo Hemang Lower Denkyira",
+      "code": "GH-CP-7647505",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-CP",
+      "latitude": 5.42081,
+      "longitude": -1.43459
+    },
+    {
+      "id": 7649059,
+      "name": "Upper Denkyira East",
+      "nativeName": "Upper Denkyira East",
+      "code": "GH-CP-7649059",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-CP",
+      "latitude": 5.96981,
+      "longitude": -1.7831
+    },
+    {
+      "id": 7649060,
+      "name": "Upper Denkyira West",
+      "nativeName": "Upper Denkyira West",
+      "code": "GH-CP-7649060",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-CP",
+      "latitude": 6.15,
+      "longitude": -2.15
+    }
+  ]
+}

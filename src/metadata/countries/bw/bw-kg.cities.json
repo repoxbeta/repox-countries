@@ -1,0 +1,40 @@
+{
+  "stateId": 933657,
+  "stateCode": "BW-KG",
+  "countryCode": "BW",
+  "cities": [
+    {
+      "id": 11819286,
+      "name": "Gemsbok",
+      "nativeName": "Gemsbok",
+      "code": "BW-KG-11819286",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "stateCode": "BW-KG",
+      "latitude": -25.19901,
+      "longitude": 21.04376
+    },
+    {
+      "id": 11819290,
+      "name": "Hukunsti",
+      "nativeName": "Hukunsti",
+      "code": "BW-KG-11819290",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "stateCode": "BW-KG",
+      "latitude": -24.00643,
+      "longitude": 21.67406
+    },
+    {
+      "id": 11819283,
+      "name": "Tshabong",
+      "nativeName": "Tshabong",
+      "code": "BW-KG-11819283",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "stateCode": "BW-KG",
+      "latitude": -25.75396,
+      "longitude": 22.41838
+    }
+  ]
+}

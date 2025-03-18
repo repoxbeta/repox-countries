@@ -1,0 +1,73 @@
+{
+  "stateId": 2501147,
+  "stateCode": "DZ-25",
+  "countryCode": "DZ",
+  "cities": [
+    {
+      "id": 12952660,
+      "name": "Ain Abid",
+      "nativeName": "Ain Abid",
+      "code": "DZ-25-12952660",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-25",
+      "latitude": 36.29751,
+      "longitude": 6.89449
+    },
+    {
+      "id": 2501150,
+      "name": "Daïra de Constantine",
+      "nativeName": "Daïra de Constantine",
+      "code": "DZ-25-2501150",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-25",
+      "latitude": 36.35629,
+      "longitude": 6.61033
+    },
+    {
+      "id": 12952662,
+      "name": "El Khroub",
+      "nativeName": "El Khroub",
+      "code": "DZ-25-12952662",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-25",
+      "latitude": 36.24197,
+      "longitude": 6.64292
+    },
+    {
+      "id": 12952483,
+      "name": "Hamma Bouziane",
+      "nativeName": "Hamma Bouziane",
+      "code": "DZ-25-12952483",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-25",
+      "latitude": 36.45058,
+      "longitude": 6.62452
+    },
+    {
+      "id": 12952651,
+      "name": "Ibn Ziad",
+      "nativeName": "Ibn Ziad",
+      "code": "DZ-25-12952651",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-25",
+      "latitude": 36.40819,
+      "longitude": 6.42834
+    },
+    {
+      "id": 12952663,
+      "name": "Zighoud Youcef",
+      "nativeName": "Zighoud Youcef",
+      "code": "DZ-25-12952663",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-25",
+      "latitude": 36.5278,
+      "longitude": 6.66446
+    }
+  ]
+}

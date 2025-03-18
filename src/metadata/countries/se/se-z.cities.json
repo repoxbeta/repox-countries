@@ -1,0 +1,95 @@
+{
+  "stateId": 2703330,
+  "stateCode": "SE-Z",
+  "countryCode": "SE",
+  "cities": [
+    {
+      "id": 2722709,
+      "name": "Bergs Kommun",
+      "nativeName": "Bergs Kommun",
+      "code": "SE-Z-2722709",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-Z",
+      "latitude": 62.86106,
+      "longitude": 13.71181
+    },
+    {
+      "id": 2720000,
+      "name": "Bräcke Municipality",
+      "nativeName": "Bräcke Kommun",
+      "code": "SE-Z-2720000",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-Z",
+      "latitude": 62.85469,
+      "longitude": 15.66609
+    },
+    {
+      "id": 2707737,
+      "name": "Härjedalen Municipality",
+      "nativeName": "Härjedalens kommun",
+      "code": "SE-Z-2707737",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-Z",
+      "latitude": 62.20539,
+      "longitude": 13.80729
+    },
+    {
+      "id": 2699175,
+      "name": "Krokoms Kommun",
+      "nativeName": "Krokoms Kommun",
+      "code": "SE-Z-2699175",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-Z",
+      "latitude": 63.73333,
+      "longitude": 14.2
+    },
+    {
+      "id": 2683605,
+      "name": "Ragunda Kommun",
+      "nativeName": "Ragunda Kommun",
+      "code": "SE-Z-2683605",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-Z",
+      "latitude": 63.19208,
+      "longitude": 16.14989
+    },
+    {
+      "id": 2671219,
+      "name": "Strömsund Municipality",
+      "nativeName": "Strömsunds kommun",
+      "code": "SE-Z-2671219",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-Z",
+      "latitude": 64.24879,
+      "longitude": 15.29369
+    },
+    {
+      "id": 2725422,
+      "name": "Åre Municipality",
+      "nativeName": "Åre kommun",
+      "code": "SE-Z-2725422",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-Z",
+      "latitude": 63.38305,
+      "longitude": 13.12616
+    },
+    {
+      "id": 2685747,
+      "name": "Östersund municipality",
+      "nativeName": "Östersunds Kommun",
+      "code": "SE-Z-2685747",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-Z",
+      "latitude": 63.22072,
+      "longitude": 14.90857
+    }
+  ]
+}

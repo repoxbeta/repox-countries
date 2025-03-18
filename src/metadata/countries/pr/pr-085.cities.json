@@ -1,0 +1,95 @@
+{
+  "stateId": 4565981,
+  "stateCode": "PR-085",
+  "countryCode": "PR",
+  "cities": [
+    {
+      "id": 7268261,
+      "name": "Boquerón Barrio",
+      "nativeName": "Boquerón Barrio",
+      "code": "PR-085-7268261",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-085",
+      "latitude": 18.20657,
+      "longitude": -65.84153
+    },
+    {
+      "id": 7268052,
+      "name": "Ceiba Barrio",
+      "nativeName": "Ceiba Barrio",
+      "code": "PR-085-7268052",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-085",
+      "latitude": 18.18844,
+      "longitude": -65.89547
+    },
+    {
+      "id": 7268097,
+      "name": "Collores Barrio",
+      "nativeName": "Collores Barrio",
+      "code": "PR-085-7268097",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-085",
+      "latitude": 18.18623,
+      "longitude": -65.85013
+    },
+    {
+      "id": 7268367,
+      "name": "El Río Barrio",
+      "nativeName": "El Río Barrio",
+      "code": "PR-085-7268367",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-085",
+      "latitude": 18.23881,
+      "longitude": -65.84327
+    },
+    {
+      "id": 7268555,
+      "name": "Las Piedras Barrio-Pueblo",
+      "nativeName": "Las Piedras Barrio-Pueblo",
+      "code": "PR-085-7268555",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-085",
+      "latitude": 18.18271,
+      "longitude": -65.86603
+    },
+    {
+      "id": 7268677,
+      "name": "Montones Barrio",
+      "nativeName": "Montones Barrio",
+      "code": "PR-085-7268677",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-085",
+      "latitude": 18.15491,
+      "longitude": -65.90143
+    },
+    {
+      "id": 7268840,
+      "name": "Quebrada Arenas Barrio",
+      "nativeName": "Quebrada Arenas Barrio",
+      "code": "PR-085-7268840",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-085",
+      "latitude": 18.19864,
+      "longitude": -65.87498
+    },
+    {
+      "id": 7269030,
+      "name": "Tejas Barrio",
+      "nativeName": "Tejas Barrio",
+      "code": "PR-085-7269030",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-085",
+      "latitude": 18.14722,
+      "longitude": -65.87757
+    }
+  ]
+}

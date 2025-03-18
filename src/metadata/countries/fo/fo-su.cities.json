@@ -1,0 +1,84 @@
+{
+  "stateId": 2612137,
+  "stateCode": "FO-SU",
+  "countryCode": "FO",
+  "cities": [
+    {
+      "id": 2622349,
+      "name": "Fámjin",
+      "nativeName": "Fámjin",
+      "code": "FO-SU-2622349",
+      "countryId": 2622320,
+      "countryCode": "FO",
+      "stateCode": "FO-SU",
+      "latitude": 61.52106,
+      "longitude": -6.86852
+    },
+    {
+      "id": 2619738,
+      "name": "Hov",
+      "nativeName": "Hov",
+      "code": "FO-SU-2619738",
+      "countryId": 2622320,
+      "countryCode": "FO",
+      "stateCode": "FO-SU",
+      "latitude": 61.51582,
+      "longitude": -6.76895
+    },
+    {
+      "id": 2619592,
+      "name": "Hvalbøur",
+      "nativeName": "Hvalbøur",
+      "code": "FO-SU-2619592",
+      "countryId": 2622320,
+      "countryCode": "FO",
+      "stateCode": "FO-SU",
+      "latitude": 61.59987,
+      "longitude": -6.96739
+    },
+    {
+      "id": 2615133,
+      "name": "Porkeri",
+      "nativeName": "Porkeri",
+      "code": "FO-SU-2615133",
+      "countryId": 2622320,
+      "countryCode": "FO",
+      "stateCode": "FO-SU",
+      "latitude": 61.49158,
+      "longitude": -6.7717
+    },
+    {
+      "id": 2612088,
+      "name": "Sunnbøur",
+      "nativeName": "Sunnbøur",
+      "code": "FO-SU-2612088",
+      "countryId": 2622320,
+      "countryCode": "FO",
+      "stateCode": "FO-SU",
+      "latitude": 61.42498,
+      "longitude": -6.71883
+    },
+    {
+      "id": 7798684,
+      "name": "Tvøroyri",
+      "nativeName": "Tvøroyri",
+      "code": "FO-SU-7798684",
+      "countryId": 2622320,
+      "countryCode": "FO",
+      "stateCode": "FO-SU",
+      "latitude": 61.56457,
+      "longitude": -6.78543
+    },
+    {
+      "id": 2610808,
+      "name": "Vágur",
+      "nativeName": "Vágur",
+      "code": "FO-SU-2610808",
+      "countryId": 2622320,
+      "countryCode": "FO",
+      "stateCode": "FO-SU",
+      "latitude": 61.46764,
+      "longitude": -6.80878
+    }
+  ]
+}

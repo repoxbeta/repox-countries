@@ -1,0 +1,84 @@
+{
+  "stateId": 3441242,
+  "stateCode": "UY-PA",
+  "countryCode": "UY",
+  "cities": [
+    {
+      "id": 11820865,
+      "name": "Chapicuy",
+      "nativeName": "Chapicuy",
+      "code": "UY-PA-11820865",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-PA",
+      "latitude": -31.65212,
+      "longitude": -57.86263
+    },
+    {
+      "id": 11820801,
+      "name": "Guichon",
+      "nativeName": "Guichon",
+      "code": "UY-PA-11820801",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-PA",
+      "latitude": -32.30177,
+      "longitude": -56.89259
+    },
+    {
+      "id": 11820788,
+      "name": "Lorenzo Geyres",
+      "nativeName": "Lorenzo Geyres",
+      "code": "UY-PA-11820788",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-PA",
+      "latitude": -32.15569,
+      "longitude": -57.92295
+    },
+    {
+      "id": 11820836,
+      "name": "Piedras Coloradas",
+      "nativeName": "Piedras Coloradas",
+      "code": "UY-PA-11820836",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-PA",
+      "latitude": -32.31086,
+      "longitude": -57.53827
+    },
+    {
+      "id": 11820835,
+      "name": "Porvenir",
+      "nativeName": "Porvenir",
+      "code": "UY-PA-11820835",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-PA",
+      "latitude": -32.43598,
+      "longitude": -57.85035
+    },
+    {
+      "id": 11820802,
+      "name": "Quebracho",
+      "nativeName": "Quebracho",
+      "code": "UY-PA-11820802",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-PA",
+      "latitude": -31.92635,
+      "longitude": -57.93636
+    },
+    {
+      "id": 11820789,
+      "name": "Tambores",
+      "nativeName": "Tambores",
+      "code": "UY-PA-11820789",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-PA",
+      "latitude": -31.98982,
+      "longitude": -56.6076
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "stateId": 3023519,
+  "stateCode": "FR-20R",
+  "countryCode": "FR",
+  "cities": [
+    {
+      "id": 3023514,
+      "name": "South Corsica",
+      "nativeName": "South Corsica",
+      "code": "FR-20R-3023514",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-20R",
+      "latitude": 41.91667,
+      "longitude": 9.16667
+    },
+    {
+      "id": 3013793,
+      "name": "Upper Corsica",
+      "nativeName": "Upper Corsica",
+      "code": "FR-20R-3013793",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-20R",
+      "latitude": 42.41667,
+      "longitude": 9.16667
+    }
+  ]
+}

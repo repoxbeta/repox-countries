@@ -1,0 +1,73 @@
+{
+  "stateId": 3873544,
+  "stateCode": "CL-RM",
+  "countryCode": "CL",
+  "cities": [
+    {
+      "id": 8181717,
+      "name": "Provincia de Chacabuco",
+      "nativeName": "Provincia de Chacabuco",
+      "code": "CL-RM-8181717",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-RM",
+      "latitude": -33.1594,
+      "longitude": -70.8165
+    },
+    {
+      "id": 8181716,
+      "name": "Provincia de Cordillera",
+      "nativeName": "Provincia de Cordillera",
+      "code": "CL-RM-8181716",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-RM",
+      "latitude": -33.67921,
+      "longitude": -70.54665
+    },
+    {
+      "id": 3880987,
+      "name": "Provincia de Maipo",
+      "nativeName": "Provincia de Maipo",
+      "code": "CL-RM-3880987",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-RM",
+      "latitude": -33.83333,
+      "longitude": -70.75
+    },
+    {
+      "id": 3880106,
+      "name": "Provincia de Melipilla",
+      "nativeName": "Provincia de Melipilla",
+      "code": "CL-RM-3880106",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-RM",
+      "latitude": -33.75,
+      "longitude": -71.16667
+    },
+    {
+      "id": 3871332,
+      "name": "Provincia de Santiago",
+      "nativeName": "Provincia de Santiago",
+      "code": "CL-RM-3871332",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-RM",
+      "latitude": -33.33333,
+      "longitude": -70.66667
+    },
+    {
+      "id": 3870304,
+      "name": "Provincia de Talagante",
+      "nativeName": "Provincia de Talagante",
+      "code": "CL-RM-3870304",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-RM",
+      "latitude": -33.66667,
+      "longitude": -70.91667
+    }
+  ]
+}

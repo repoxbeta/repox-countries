@@ -1,0 +1,138 @@
+{
+  "countryId": 934292,
+  "countryCode": "MU",
+  "states": [
+    {
+      "id": 448254,
+      "name": "Agalega Islands",
+      "nativeName": "Agalega Islands",
+      "code": "MU-AG",
+      "internalCode": "AG",
+      "countryId": 934292,
+      "countryCode": "MU",
+      "latitude": -10.4,
+      "longitude": 56.61667
+    },
+    {
+      "id": 934718,
+      "name": "Black River District",
+      "nativeName": "Black River District",
+      "code": "MU-BL",
+      "internalCode": "BL",
+      "countryId": 934292,
+      "countryCode": "MU",
+      "latitude": -20.33333,
+      "longitude": 57.41667
+    },
+    {
+      "id": 1106583,
+      "name": "Cargados Carajos",
+      "nativeName": "Cargados Carajos",
+      "code": "MU-CC",
+      "internalCode": "CC",
+      "countryId": 934292,
+      "countryCode": "MU",
+      "latitude": -16.57386,
+      "longitude": 59.70252
+    },
+    {
+      "id": 934522,
+      "name": "Flacq District",
+      "nativeName": "Flacq District",
+      "code": "MU-FL",
+      "internalCode": "FL",
+      "countryId": 934292,
+      "countryCode": "MU",
+      "latitude": -20.23333,
+      "longitude": 57.71667
+    },
+    {
+      "id": 934466,
+      "name": "Grand Port District",
+      "nativeName": "Grand Port District",
+      "code": "MU-GP",
+      "internalCode": "GP",
+      "countryId": 934292,
+      "countryCode": "MU",
+      "latitude": -20.41667,
+      "longitude": 57.63333
+    },
+    {
+      "id": 934275,
+      "name": "Moka District",
+      "nativeName": "Moka District",
+      "code": "MU-MO",
+      "internalCode": "MO",
+      "countryId": 934292,
+      "countryCode": "MU",
+      "latitude": -20.25,
+      "longitude": 57.56667
+    },
+    {
+      "id": 934212,
+      "name": "Pamplemousses District",
+      "nativeName": "Pamplemousses District",
+      "code": "MU-PA",
+      "internalCode": "PA",
+      "countryId": 934292,
+      "countryCode": "MU",
+      "latitude": -20.09583,
+      "longitude": 57.55972
+    },
+    {
+      "id": 934166,
+      "name": "Plaines Wilhems District",
+      "nativeName": "Plaines Wilhems District",
+      "code": "MU-PW",
+      "internalCode": "PW",
+      "countryId": 934292,
+      "countryCode": "MU",
+      "latitude": -20.3,
+      "longitude": 57.48333
+    },
+    {
+      "id": 934153,
+      "name": "Port Louis District",
+      "nativeName": "Port Louis District",
+      "code": "MU-PL",
+      "internalCode": "PL",
+      "countryId": 934292,
+      "countryCode": "MU",
+      "latitude": -20.16667,
+      "longitude": 57.525
+    },
+    {
+      "id": 934090,
+      "name": "Rivière du Rempart District",
+      "nativeName": "Rivière du Rempart District",
+      "code": "MU-RR",
+      "internalCode": "RR",
+      "countryId": 934292,
+      "countryCode": "MU",
+      "latitude": -20.05833,
+      "longitude": 57.64167
+    },
+    {
+      "id": 1547449,
+      "name": "Rodrigues",
+      "nativeName": "Rodrigues",
+      "code": "MU-RO",
+      "internalCode": "RO",
+      "countryId": 934292,
+      "countryCode": "MU",
+      "latitude": -19.701,
+      "longitude": 63.416
+    },
+    {
+      "id": 934017,
+      "name": "Savanne District",
+      "nativeName": "Savanne District",
+      "code": "MU-SA",
+      "internalCode": "SA",
+      "countryId": 934292,
+      "countryCode": "MU",
+      "latitude": -20.46667,
+      "longitude": 57.5
+    }
+  ]
+}

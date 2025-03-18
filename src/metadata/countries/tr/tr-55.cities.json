@@ -1,0 +1,205 @@
+{
+  "stateId": 740263,
+  "stateCode": "TR-55",
+  "countryCode": "TR",
+  "cities": [
+    {
+      "id": 8631691,
+      "name": "Alaçam İlçesi",
+      "nativeName": "Alaçam İlçesi",
+      "code": "TR-55-8631691",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-55",
+      "latitude": 41.61563,
+      "longitude": 35.60632
+    },
+    {
+      "id": 8631690,
+      "name": "Asarcık İlçesi",
+      "nativeName": "Asarcık İlçesi",
+      "code": "TR-55-8631690",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-55",
+      "latitude": 41.04687,
+      "longitude": 36.20732
+    },
+    {
+      "id": 9549747,
+      "name": "Atakum",
+      "nativeName": "Atakum",
+      "code": "TR-55-9549747",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-55",
+      "latitude": 41.3473,
+      "longitude": 36.23051
+    },
+    {
+      "id": 8631696,
+      "name": "Ayvacık İlçesi",
+      "nativeName": "Ayvacık İlçesi",
+      "code": "TR-55-8631696",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-55",
+      "latitude": 41.00237,
+      "longitude": 36.63706
+    },
+    {
+      "id": 7732956,
+      "name": "Bafra",
+      "nativeName": "Bafra",
+      "code": "TR-55-7732956",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-55",
+      "latitude": 41.46082,
+      "longitude": 35.84435
+    },
+    {
+      "id": 9549574,
+      "name": "Canik",
+      "nativeName": "Canik",
+      "code": "TR-55-9549574",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-55",
+      "latitude": 41.23858,
+      "longitude": 36.33694
+    },
+    {
+      "id": 8631686,
+      "name": "Havza İlçesi",
+      "nativeName": "Havza İlçesi",
+      "code": "TR-55-8631686",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-55",
+      "latitude": 40.97972,
+      "longitude": 35.67107
+    },
+    {
+      "id": 8631689,
+      "name": "Kavak İlçesi",
+      "nativeName": "Kavak İlçesi",
+      "code": "TR-55-8631689",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-55",
+      "latitude": 41.08777,
+      "longitude": 36.05183
+    },
+    {
+      "id": 8631687,
+      "name": "Ladik İlçesi",
+      "nativeName": "Ladik İlçesi",
+      "code": "TR-55-8631687",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-55",
+      "latitude": 40.92025,
+      "longitude": 35.90095
+    },
+    {
+      "id": 7732982,
+      "name": "Merkez",
+      "nativeName": "Merkez",
+      "code": "TR-55-7732982",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-55",
+      "latitude": 41.2571,
+      "longitude": 36.2117
+    },
+    {
+      "id": 8631699,
+      "name": "Ondokuzmayıs İlçesi",
+      "nativeName": "Ondokuzmayıs İlçesi",
+      "code": "TR-55-8631699",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-55",
+      "latitude": 41.51188,
+      "longitude": 36.07298
+    },
+    {
+      "id": 8631695,
+      "name": "Salıpazarı İlçesi",
+      "nativeName": "Salıpazarı İlçesi",
+      "code": "TR-55-8631695",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-55",
+      "latitude": 41.09352,
+      "longitude": 36.81718
+    },
+    {
+      "id": 7733243,
+      "name": "Tekkeköy",
+      "nativeName": "Tekkeköy",
+      "code": "TR-55-7733243",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-55",
+      "latitude": 41.14493,
+      "longitude": 36.46205
+    },
+    {
+      "id": 8631693,
+      "name": "Terme İlçesi",
+      "nativeName": "Terme İlçesi",
+      "code": "TR-55-8631693",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-55",
+      "latitude": 41.21876,
+      "longitude": 36.98263
+    },
+    {
+      "id": 8631685,
+      "name": "Vezirköprü İlçesi",
+      "nativeName": "Vezirköprü İlçesi",
+      "code": "TR-55-8631685",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-55",
+      "latitude": 41.15193,
+      "longitude": 35.4623
+    },
+    {
+      "id": 8631692,
+      "name": "Yakakent İlçesi",
+      "nativeName": "Yakakent İlçesi",
+      "code": "TR-55-8631692",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-55",
+      "latitude": 41.61824,
+      "longitude": 35.52014
+    },
+    {
+      "id": 8631698,
+      "name": "Çarşamba İlçesi",
+      "nativeName": "Çarşamba İlçesi",
+      "code": "TR-55-8631698",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-55",
+      "latitude": 41.2105,
+      "longitude": 36.73204
+    },
+    {
+      "id": 9549630,
+      "name": "İlkadım",
+      "nativeName": "İlkadım",
+      "code": "TR-55-9549630",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-55",
+      "latitude": 41.29161,
+      "longitude": 36.30106
+    }
+  ]
+}

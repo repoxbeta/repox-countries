@@ -1,0 +1,94 @@
+{
+  "countryId": 2110297,
+  "countryCode": "TV",
+  "states": [
+    {
+      "id": 2110384,
+      "name": "Funafuti",
+      "nativeName": "Funafuti",
+      "code": "TV-FUN",
+      "internalCode": "FUN",
+      "countryId": 2110297,
+      "countryCode": "TV",
+      "latitude": -8.51719,
+      "longitude": 179.13054
+    },
+    {
+      "id": 7601980,
+      "name": "Nanumanga",
+      "nativeName": "Nanumanga",
+      "code": "TV-NMG",
+      "internalCode": "NMG",
+      "countryId": 2110297,
+      "countryCode": "TV",
+      "latitude": -6.2897,
+      "longitude": 176.31958
+    },
+    {
+      "id": 2110345,
+      "name": "Nanumea",
+      "nativeName": "Nanumea",
+      "code": "TV-NMA",
+      "internalCode": "NMA",
+      "countryId": 2110297,
+      "countryCode": "TV",
+      "latitude": -5.65545,
+      "longitude": 176.08818
+    },
+    {
+      "id": 7601979,
+      "name": "Niutao",
+      "nativeName": "Niutao",
+      "code": "TV-NIT",
+      "internalCode": "NIT",
+      "countryId": 2110297,
+      "countryCode": "TV",
+      "latitude": -6.10717,
+      "longitude": 177.34215
+    },
+    {
+      "id": 2110341,
+      "name": "Nui",
+      "nativeName": "Nui",
+      "code": "TV-NUI",
+      "internalCode": "NUI",
+      "countryId": 2110297,
+      "countryCode": "TV",
+      "latitude": -7.23247,
+      "longitude": 177.15205
+    },
+    {
+      "id": 7601982,
+      "name": "Nukufetau",
+      "nativeName": "Nukufetau",
+      "code": "TV-NKF",
+      "internalCode": "NKF",
+      "countryId": 2110297,
+      "countryCode": "TV",
+      "latitude": -8.00025,
+      "longitude": 178.37111
+    },
+    {
+      "id": 7601983,
+      "name": "Nukulaelae",
+      "nativeName": "Nukulaelae",
+      "code": "TV-NKL",
+      "internalCode": "NKL",
+      "countryId": 2110297,
+      "countryCode": "TV",
+      "latitude": -9.38412,
+      "longitude": 179.84559
+    },
+    {
+      "id": 7601981,
+      "name": "Vaitupu",
+      "nativeName": "Vaitupu",
+      "code": "TV-VAI",
+      "internalCode": "VAI",
+      "countryId": 2110297,
+      "countryCode": "TV",
+      "latitude": -7.4742,
+      "longitude": 178.67456
+    }
+  ]
+}

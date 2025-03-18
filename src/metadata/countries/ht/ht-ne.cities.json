@@ -1,0 +1,51 @@
+{
+  "stateId": 3719540,
+  "stateCode": "HT-NE",
+  "countryCode": "HT",
+  "cities": [
+    {
+      "id": 3716114,
+      "name": "Arrondissement de Vallières",
+      "nativeName": "Arrondissement de Vallières",
+      "code": "HT-NE-3716114",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "stateCode": "HT-NE",
+      "latitude": 19.37895,
+      "longitude": -71.90871
+    },
+    {
+      "id": 3716223,
+      "name": "Arrondissement du Trou du Nord",
+      "nativeName": "Arrondissement du Trou du Nord",
+      "code": "HT-NE-3716223",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "stateCode": "HT-NE",
+      "latitude": 19.60134,
+      "longitude": -72.00112
+    },
+    {
+      "id": 3725169,
+      "name": "Fòlibète",
+      "nativeName": "Fòlibète",
+      "code": "HT-NE-3725169",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "stateCode": "HT-NE",
+      "latitude": 19.57973,
+      "longitude": -71.84987
+    },
+    {
+      "id": 3719435,
+      "name": "Wanament",
+      "nativeName": "Wanament",
+      "code": "HT-NE-3719435",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "stateCode": "HT-NE",
+      "latitude": 19.47058,
+      "longitude": -71.76516
+    }
+  ]
+}

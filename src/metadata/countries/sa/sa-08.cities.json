@@ -1,0 +1,40 @@
+{
+  "stateId": 109579,
+  "stateCode": "SA-08",
+  "countryCode": "SA",
+  "cities": [
+    {
+      "id": 10972287,
+      "name": "Rafha",
+      "nativeName": "Rafha",
+      "code": "SA-08-10972287",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-08",
+      "latitude": 29.16667,
+      "longitude": 43.58333
+    },
+    {
+      "id": 10972288,
+      "name": "Ţurayf",
+      "nativeName": "Ţurayf",
+      "code": "SA-08-10972288",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-08",
+      "latitude": 31.5,
+      "longitude": 39
+    },
+    {
+      "id": 10972286,
+      "name": "‘Ar‘ar",
+      "nativeName": "‘Ar‘ar",
+      "code": "SA-08-10972286",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-08",
+      "latitude": 30.91667,
+      "longitude": 41.5
+    }
+  ]
+}

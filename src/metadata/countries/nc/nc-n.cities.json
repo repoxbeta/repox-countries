@@ -1,0 +1,194 @@
+{
+  "stateId": 2140685,
+  "stateCode": "NC-N",
+  "countryCode": "NC",
+  "cities": [
+    {
+      "id": 2140958,
+      "name": "Bélep",
+      "nativeName": "Bélep",
+      "code": "NC-N-2140958",
+      "countryId": 2139685,
+      "countryCode": "NC",
+      "stateCode": "NC-N",
+      "latitude": -19.73333,
+      "longitude": 163.66667
+    },
+    {
+      "id": 2141656,
+      "name": "Canala",
+      "nativeName": "Canala",
+      "code": "NC-N-2141656",
+      "countryId": 2139685,
+      "countryCode": "NC",
+      "stateCode": "NC-N",
+      "latitude": -21.51696,
+      "longitude": 165.96291
+    },
+    {
+      "id": 2141047,
+      "name": "Hienghéne",
+      "nativeName": "Hienghéne",
+      "code": "NC-N-2141047",
+      "countryId": 2139685,
+      "countryCode": "NC",
+      "stateCode": "NC-N",
+      "latitude": -20.6874,
+      "longitude": 164.93774
+    },
+    {
+      "id": 2141004,
+      "name": "Houaïlou",
+      "nativeName": "Houaïlou",
+      "code": "NC-N-2141004",
+      "countryId": 2139685,
+      "countryCode": "NC",
+      "stateCode": "NC-N",
+      "latitude": -21.2865,
+      "longitude": 165.63435
+    },
+    {
+      "id": 2140914,
+      "name": "Kaala-Gomén",
+      "nativeName": "Kaala-Gomén",
+      "code": "NC-N-2140914",
+      "countryId": 2139685,
+      "countryCode": "NC",
+      "stateCode": "NC-N",
+      "latitude": -20.66941,
+      "longitude": 164.3977
+    },
+    {
+      "id": 7521417,
+      "name": "Koné",
+      "nativeName": "Koné",
+      "code": "NC-N-7521417",
+      "countryId": 2139685,
+      "countryCode": "NC",
+      "stateCode": "NC-N",
+      "latitude": -21.05695,
+      "longitude": 164.86633
+    },
+    {
+      "id": 7521419,
+      "name": "Kouaoua",
+      "nativeName": "Kouaoua",
+      "code": "NC-N-7521419",
+      "countryId": 2139685,
+      "countryCode": "NC",
+      "stateCode": "NC-N",
+      "latitude": -21.3957,
+      "longitude": 165.82832
+    },
+    {
+      "id": 2140556,
+      "name": "Koumac",
+      "nativeName": "Koumac",
+      "code": "NC-N-2140556",
+      "countryId": 2139685,
+      "countryCode": "NC",
+      "stateCode": "NC-N",
+      "latitude": -20.55501,
+      "longitude": 164.2717
+    },
+    {
+      "id": 2139258,
+      "name": "Ouégoa",
+      "nativeName": "Ouégoa",
+      "code": "NC-N-2139258",
+      "countryId": 2139685,
+      "countryCode": "NC",
+      "stateCode": "NC-N",
+      "latitude": -20.34849,
+      "longitude": 164.42619
+    },
+    {
+      "id": 2138715,
+      "name": "Poindimié",
+      "nativeName": "Poindimié",
+      "code": "NC-N-2138715",
+      "countryId": 2139685,
+      "countryCode": "NC",
+      "stateCode": "NC-N",
+      "latitude": -20.95054,
+      "longitude": 165.34149
+    },
+    {
+      "id": 2138685,
+      "name": "Ponérihouen",
+      "nativeName": "Ponérihouen",
+      "code": "NC-N-2138685",
+      "countryId": 2139685,
+      "countryCode": "NC",
+      "stateCode": "NC-N",
+      "latitude": -21.07649,
+      "longitude": 165.40054
+    },
+    {
+      "id": 2138590,
+      "name": "Pouembout",
+      "nativeName": "Pouembout",
+      "code": "NC-N-2138590",
+      "countryId": 2139685,
+      "countryCode": "NC",
+      "stateCode": "NC-N",
+      "latitude": -21.10756,
+      "longitude": 164.98341
+    },
+    {
+      "id": 7521420,
+      "name": "Poum",
+      "nativeName": "Poum",
+      "code": "NC-N-7521420",
+      "countryId": 2139685,
+      "countryCode": "NC",
+      "stateCode": "NC-N",
+      "latitude": -20.23683,
+      "longitude": 164.02923
+    },
+    {
+      "id": 2138606,
+      "name": "Pouébo",
+      "nativeName": "Pouébo",
+      "code": "NC-N-2138606",
+      "countryId": 2139685,
+      "countryCode": "NC",
+      "stateCode": "NC-N",
+      "latitude": -20.39291,
+      "longitude": 164.58275
+    },
+    {
+      "id": 2138519,
+      "name": "Poya",
+      "nativeName": "Poya",
+      "code": "NC-N-2138519",
+      "countryId": 2139685,
+      "countryCode": "NC",
+      "stateCode": "NC-N",
+      "latitude": -21.34487,
+      "longitude": 165.16399
+    },
+    {
+      "id": 2137869,
+      "name": "Touho",
+      "nativeName": "Touho",
+      "code": "NC-N-2137869",
+      "countryId": 2139685,
+      "countryCode": "NC",
+      "stateCode": "NC-N",
+      "latitude": -20.78597,
+      "longitude": 165.24227
+    },
+    {
+      "id": 2137746,
+      "name": "Voh",
+      "nativeName": "Voh",
+      "code": "NC-N-2137746",
+      "countryId": 2139685,
+      "countryCode": "NC",
+      "stateCode": "NC-N",
+      "latitude": -20.94669,
+      "longitude": 164.6854
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "stateId": 157449,
+  "stateCode": "TZ-09",
+  "countryCode": "TZ",
+  "cities": [
+    {
+      "id": 159711,
+      "name": "Hai District Council",
+      "nativeName": "Hai",
+      "code": "TZ-09-159711",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-09",
+      "latitude": -3.2543,
+      "longitude": 37.19123
+    },
+    {
+      "id": 7840035,
+      "name": "Moshi Rural District",
+      "nativeName": "Moshi Rural District",
+      "code": "TZ-09-7840035",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-09",
+      "latitude": -3.362,
+      "longitude": 37.459
+    },
+    {
+      "id": 8299555,
+      "name": "Moshi Urban District",
+      "nativeName": "Moshi Urban District",
+      "code": "TZ-09-8299555",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-09",
+      "latitude": -3.352,
+      "longitude": 37.341
+    },
+    {
+      "id": 152262,
+      "name": "Mwanga District Council",
+      "nativeName": "Mwanga",
+      "code": "TZ-09-152262",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-09",
+      "latitude": -3.7035,
+      "longitude": 37.62296
+    },
+    {
+      "id": 150555,
+      "name": "Rombo District",
+      "nativeName": "Rombo District",
+      "code": "TZ-09-150555",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-09",
+      "latitude": -3.105,
+      "longitude": 37.544
+    },
+    {
+      "id": 150275,
+      "name": "Same District Council",
+      "nativeName": "Same",
+      "code": "TZ-09-150275",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-09",
+      "latitude": -4.22199,
+      "longitude": 37.88278
+    },
+    {
+      "id": 9998121,
+      "name": "Siha District Council",
+      "nativeName": "Siha",
+      "code": "TZ-09-9998121",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-09",
+      "latitude": -3.07066,
+      "longitude": 37.06193
+    }
+  ]
+}

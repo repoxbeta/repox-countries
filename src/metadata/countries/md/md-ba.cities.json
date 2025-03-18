@@ -1,0 +1,51 @@
+{
+  "stateId": 873909,
+  "stateCode": "MD-BA",
+  "countryCode": "MD",
+  "cities": [
+    {
+      "id": 618605,
+      "name": "Bălţi",
+      "nativeName": "Bălţi",
+      "code": "MD-BA-618605",
+      "countryId": 617790,
+      "countryCode": "MD",
+      "stateCode": "MD-BA",
+      "latitude": 47.76314,
+      "longitude": 27.92932
+    },
+    {
+      "id": 617069,
+      "name": "Elizaveta",
+      "nativeName": "Elizaveta",
+      "code": "MD-BA-617069",
+      "countryId": 617790,
+      "countryCode": "MD",
+      "stateCode": "MD-BA",
+      "latitude": 47.78177,
+      "longitude": 28.01738
+    },
+    {
+      "id": 617828,
+      "name": "Mîndreştii Noi",
+      "nativeName": "Mîndreştii Noi",
+      "code": "MD-BA-617828",
+      "countryId": 617790,
+      "countryCode": "MD",
+      "stateCode": "MD-BA",
+      "latitude": 47.71899,
+      "longitude": 28.02712
+    },
+    {
+      "id": 829860,
+      "name": "Pămînteni",
+      "nativeName": "Pămînteni",
+      "code": "MD-BA-829860",
+      "countryId": 617790,
+      "countryCode": "MD",
+      "stateCode": "MD-BA",
+      "latitude": 47.76021,
+      "longitude": 27.89594
+    }
+  ]
+}

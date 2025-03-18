@@ -1,0 +1,62 @@
+{
+  "stateId": 864389,
+  "stateCode": "LT-AL",
+  "countryCode": "LT",
+  "cities": [
+    {
+      "id": 601086,
+      "name": "Alytus City Municipality",
+      "nativeName": "Alytus",
+      "code": "LT-AL-601086",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-AL",
+      "latitude": 54.4,
+      "longitude": 24.05
+    },
+    {
+      "id": 601087,
+      "name": "Alytus District Municipality",
+      "nativeName": "Alytaus rajonas",
+      "code": "LT-AL-601087",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-AL",
+      "latitude": 54.3996,
+      "longitude": 24.1252
+    },
+    {
+      "id": 599759,
+      "name": "Druskininkai Municipality",
+      "nativeName": "Druskininkai",
+      "code": "LT-AL-599759",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-AL",
+      "latitude": 54.01667,
+      "longitude": 23.96667
+    },
+    {
+      "id": 864486,
+      "name": "Lazdijai District Municipality",
+      "nativeName": "Lazdijai",
+      "code": "LT-AL-864486",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-AL",
+      "latitude": 54.23333,
+      "longitude": 23.51667
+    },
+    {
+      "id": 864487,
+      "name": "Varėna District Municipality",
+      "nativeName": "Varėna",
+      "code": "LT-AL-864487",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-AL",
+      "latitude": 54.21667,
+      "longitude": 24.56667
+    }
+  ]
+}

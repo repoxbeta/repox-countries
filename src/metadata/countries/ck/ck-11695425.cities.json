@@ -1,0 +1,51 @@
+{
+  "stateId": 11695425,
+  "stateCode": "CK-11695425",
+  "countryCode": "CK",
+  "cities": [
+    {
+      "id": 4035715,
+      "name": "Avarua",
+      "nativeName": "Avarua",
+      "code": "CK-11695425-4035715",
+      "countryId": 1899402,
+      "countryCode": "CK",
+      "stateCode": "CK-11695425",
+      "latitude": -21.2075,
+      "longitude": -159.77546
+    },
+    {
+      "id": 4036498,
+      "name": "Matavera",
+      "nativeName": "Matavera",
+      "code": "CK-11695425-4036498",
+      "countryId": 1899402,
+      "countryCode": "CK",
+      "stateCode": "CK-11695425",
+      "latitude": -21.22444,
+      "longitude": -159.73333
+    },
+    {
+      "id": 4035637,
+      "name": "Muri",
+      "nativeName": "Muri",
+      "code": "CK-11695425-4035637",
+      "countryId": 1899402,
+      "countryCode": "CK",
+      "stateCode": "CK-11695425",
+      "latitude": -21.2565,
+      "longitude": -159.73205
+    },
+    {
+      "id": 8556382,
+      "name": "Vaimaanga Tapere",
+      "nativeName": "Vaimaanga Tapere",
+      "code": "CK-11695425-8556382",
+      "countryId": 1899402,
+      "countryCode": "CK",
+      "stateCode": "CK-11695425",
+      "latitude": -21.2571,
+      "longitude": -159.79168
+    }
+  ]
+}

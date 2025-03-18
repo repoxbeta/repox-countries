@@ -1,0 +1,216 @@
+{
+  "stateId": 1141268,
+  "stateCode": "AF-GHA",
+  "countryCode": "AF",
+  "cities": [
+    {
+      "id": 7052950,
+      "name": "Ab Band District",
+      "nativeName": "Āb Band",
+      "code": "AF-GHA-7052950",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-GHA",
+      "latitude": 32.88363,
+      "longitude": 68.06357
+    },
+    {
+      "id": 7052952,
+      "name": "Ajristan District",
+      "nativeName": "Ajristān",
+      "code": "AF-GHA-7052952",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-GHA",
+      "latitude": 33.51573,
+      "longitude": 67.10886
+    },
+    {
+      "id": 7052953,
+      "name": "Andar District",
+      "nativeName": "Andaṟ",
+      "code": "AF-GHA-7052953",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-GHA",
+      "latitude": 33.30584,
+      "longitude": 68.44696
+    },
+    {
+      "id": 7052955,
+      "name": "Dih Yak District",
+      "nativeName": "Deh Yak",
+      "code": "AF-GHA-7052955",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-GHA",
+      "latitude": 33.47493,
+      "longitude": 68.65277
+    },
+    {
+      "id": 1140918,
+      "name": "Gelan District",
+      "nativeName": "Gēlān",
+      "code": "AF-GHA-1140918",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-GHA",
+      "latitude": 32.71338,
+      "longitude": 67.65455
+    },
+    {
+      "id": 7052956,
+      "name": "Ghazni District",
+      "nativeName": "Ghaznī",
+      "code": "AF-GHA-7052956",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-GHA",
+      "latitude": 33.53423,
+      "longitude": 68.43667
+    },
+    {
+      "id": 7052957,
+      "name": "Giro District",
+      "nativeName": "Gīrō",
+      "code": "AF-GHA-7052957",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-GHA",
+      "latitude": 33.0631,
+      "longitude": 68.34589
+    },
+    {
+      "id": 7052954,
+      "name": "Jaghatu District",
+      "nativeName": "Bahrām-e Shahīd",
+      "code": "AF-GHA-7052954",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-GHA",
+      "latitude": 33.52822,
+      "longitude": 68.06852
+    },
+    {
+      "id": 7052958,
+      "name": "Jaghori District",
+      "nativeName": "Jāghūrī",
+      "code": "AF-GHA-7052958",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-GHA",
+      "latitude": 33.14341,
+      "longitude": 67.46384
+    },
+    {
+      "id": 7052961,
+      "name": "Khwaja Umari District",
+      "nativeName": "Khwājah ‘Omarī",
+      "code": "AF-GHA-7052961",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-GHA",
+      "latitude": 33.67547,
+      "longitude": 68.42172
+    },
+    {
+      "id": 7052962,
+      "name": "Malistan District",
+      "nativeName": "Mālistān",
+      "code": "AF-GHA-7052962",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-GHA",
+      "latitude": 33.29836,
+      "longitude": 67.24322
+    },
+    {
+      "id": 7052984,
+      "name": "Muqur District",
+      "nativeName": "Muqêr",
+      "code": "AF-GHA-7052984",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-GHA",
+      "latitude": 32.94035,
+      "longitude": 67.7818
+    },
+    {
+      "id": 7052985,
+      "name": "Nawa District",
+      "nativeName": "Nāwah",
+      "code": "AF-GHA-7052985",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-GHA",
+      "latitude": 32.32691,
+      "longitude": 67.89754
+    },
+    {
+      "id": 7052986,
+      "name": "Nawur District",
+      "nativeName": "Nāwur",
+      "code": "AF-GHA-7052986",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-GHA",
+      "latitude": 33.84577,
+      "longitude": 67.73986
+    },
+    {
+      "id": 7052988,
+      "name": "Qarabagh District",
+      "nativeName": "Qarah Bāgh",
+      "code": "AF-GHA-7052988",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-GHA",
+      "latitude": 33.22098,
+      "longitude": 67.9874
+    },
+    {
+      "id": 7052990,
+      "name": "Rashidan District",
+      "nativeName": "Rashīdān",
+      "code": "AF-GHA-7052990",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-GHA",
+      "latitude": 33.69758,
+      "longitude": 68.14759
+    },
+    {
+      "id": 7052992,
+      "name": "Waghaz District",
+      "nativeName": "Wāghaz̧",
+      "code": "AF-GHA-7052992",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-GHA",
+      "latitude": 33.40913,
+      "longitude": 68.21195
+    },
+    {
+      "id": 7052994,
+      "name": "Walī Muḩammad Shahīd Khūgyāṉī District",
+      "nativeName": "Walī Muḩammad Shahīd Khūgyāṉī",
+      "code": "AF-GHA-7052994",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-GHA",
+      "latitude": 33.55905,
+      "longitude": 68.29894
+    },
+    {
+      "id": 7052996,
+      "name": "Zana Khan District",
+      "nativeName": "Zanakhān",
+      "code": "AF-GHA-7052996",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-GHA",
+      "latitude": 33.67916,
+      "longitude": 68.6659
+    }
+  ]
+}

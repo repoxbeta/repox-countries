@@ -1,0 +1,95 @@
+{
+  "stateId": 3596416,
+  "stateCode": "GT-PR",
+  "countryCode": "GT",
+  "cities": [
+    {
+      "id": 3596938,
+      "name": "Municipio de El Jícaro",
+      "nativeName": "Municipio de El Jícaro",
+      "code": "GT-PR-3596938",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-PR",
+      "latitude": 14.88752,
+      "longitude": -89.91598
+    },
+    {
+      "id": 9253768,
+      "name": "Municipio de Guastatoya",
+      "nativeName": "Municipio de Guastatoya",
+      "code": "GT-PR-9253768",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-PR",
+      "latitude": 14.85043,
+      "longitude": -90.06359
+    },
+    {
+      "id": 3592348,
+      "name": "Municipio de Morazán",
+      "nativeName": "Municipio de Morazán",
+      "code": "GT-PR-3592348",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-PR",
+      "latitude": 14.96626,
+      "longitude": -90.15693
+    },
+    {
+      "id": 3590546,
+      "name": "Municipio de San Agustín Acasaguastlán",
+      "nativeName": "Municipio de San Agustín Acasaguastlán",
+      "code": "GT-PR-3590546",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-PR",
+      "latitude": 15.01498,
+      "longitude": -89.98934
+    },
+    {
+      "id": 3590447,
+      "name": "Municipio de San Antonio La Paz",
+      "nativeName": "Municipio de San Antonio La Paz",
+      "code": "GT-PR-3590447",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-PR",
+      "latitude": 14.7449,
+      "longitude": -90.2709
+    },
+    {
+      "id": 3590324,
+      "name": "Municipio de San Cristóbal Acasaguastlán",
+      "nativeName": "Municipio de San Cristóbal Acasaguastlán",
+      "code": "GT-PR-3590324",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-PR",
+      "latitude": 14.9961,
+      "longitude": -89.8862
+    },
+    {
+      "id": 3590405,
+      "name": "Municipio de Sanarate",
+      "nativeName": "Municipio de Sanarate",
+      "code": "GT-PR-3590405",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-PR",
+      "latitude": 14.82141,
+      "longitude": -90.21269
+    },
+    {
+      "id": 3589553,
+      "name": "Municipio de Sansare",
+      "nativeName": "Municipio de Sansare",
+      "code": "GT-PR-3589553",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-PR",
+      "latitude": 14.75307,
+      "longitude": -90.09824
+    }
+  ]
+}

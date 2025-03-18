@@ -1,0 +1,106 @@
+{
+  "stateId": 1298480,
+  "stateCode": "MM-01",
+  "countryCode": "MM",
+  "cities": [
+    {
+      "id": 1307521,
+      "name": "Hkamti District",
+      "nativeName": "Hkamti District",
+      "code": "MM-01-1307521",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-01",
+      "latitude": 25.42555,
+      "longitude": 95.52721
+    },
+    {
+      "id": 8238743,
+      "name": "Kale District",
+      "nativeName": "Kale District",
+      "code": "MM-01-8238743",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-01",
+      "latitude": 23.05571,
+      "longitude": 94.41054
+    },
+    {
+      "id": 1320151,
+      "name": "Katha District",
+      "nativeName": "Katha District",
+      "code": "MM-01-1320151",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-01",
+      "latitude": 24.11362,
+      "longitude": 95.84976
+    },
+    {
+      "id": 1290189,
+      "name": "Mawlaik District",
+      "nativeName": "Mawlaik District",
+      "code": "MM-01-1290189",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-01",
+      "latitude": 23.92764,
+      "longitude": 94.71738
+    },
+    {
+      "id": 11154020,
+      "name": "Monywa",
+      "nativeName": "Monywa",
+      "code": "MM-01-11154020",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-01",
+      "latitude": 22.2573,
+      "longitude": 95.26376
+    },
+    {
+      "id": 1298481,
+      "name": "Sagaing District",
+      "nativeName": "Sagaing District",
+      "code": "MM-01-1298481",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-01",
+      "latitude": 21.99422,
+      "longitude": 95.61831
+    },
+    {
+      "id": 1296732,
+      "name": "Shwebo District",
+      "nativeName": "Shwebo District",
+      "code": "MM-01-1296732",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-01",
+      "latitude": 23.00712,
+      "longitude": 95.44818
+    },
+    {
+      "id": 8238747,
+      "name": "Tamu District",
+      "nativeName": "Tamu District",
+      "code": "MM-01-8238747",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-01",
+      "latitude": 24.21907,
+      "longitude": 94.40602
+    },
+    {
+      "id": 11154024,
+      "name": "Yinmabin",
+      "nativeName": "Yinmabin",
+      "code": "MM-01-11154024",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-01",
+      "latitude": 22.24864,
+      "longitude": 94.71565
+    }
+  ]
+}

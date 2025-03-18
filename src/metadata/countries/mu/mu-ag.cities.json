@@ -1,0 +1,29 @@
+{
+  "stateId": 448254,
+  "stateCode": "MU-AG",
+  "countryCode": "MU",
+  "cities": [
+    {
+      "id": 12022106,
+      "name": "Vingt Cinq",
+      "nativeName": "Vingt Cinq",
+      "code": "MU-AG-12022106",
+      "countryId": 934292,
+      "countryCode": "MU",
+      "stateCode": "MU-AG",
+      "latitude": -10.38803,
+      "longitude": 56.61795
+    },
+    {
+      "id": 934152,
+      "name": "Port Sainte Rita",
+      "nativeName": "Port Sainte Rita",
+      "code": "MU-AG-934152",
+      "countryId": 934292,
+      "countryCode": "MU",
+      "stateCode": "MU-AG",
+      "latitude": -10.48333,
+      "longitude": 56.7
+    }
+  ]
+}

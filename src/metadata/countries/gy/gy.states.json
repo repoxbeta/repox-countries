@@ -1,0 +1,116 @@
+{
+  "countryId": 3378535,
+  "countryCode": "GY",
+  "states": [
+    {
+      "id": 3379515,
+      "name": "Barima-Waini",
+      "nativeName": "Barima-Waini Region",
+      "code": "GY-BA",
+      "internalCode": "BA",
+      "countryId": 3378535,
+      "countryCode": "GY",
+      "latitude": 7.66667,
+      "longitude": -59.75
+    },
+    {
+      "id": 3379023,
+      "name": "Cuyuni-Mazaruni",
+      "nativeName": "Cuyuni-Mazaruni Region",
+      "code": "GY-CU",
+      "internalCode": "CU",
+      "countryId": 3378535,
+      "countryCode": "GY",
+      "latitude": 6,
+      "longitude": -60
+    },
+    {
+      "id": 3378950,
+      "name": "Demerara-Mahaica",
+      "nativeName": "Demerara-Mahaica Region",
+      "code": "GY-DE",
+      "internalCode": "DE",
+      "countryId": 3378535,
+      "countryCode": "GY",
+      "latitude": 6.5,
+      "longitude": -58.08333
+    },
+    {
+      "id": 3378840,
+      "name": "East Berbice-Corentyne Region",
+      "nativeName": "East Berbice-Corentyne Region",
+      "code": "GY-EB",
+      "internalCode": "EB",
+      "countryId": 3378535,
+      "countryCode": "GY",
+      "latitude": 4,
+      "longitude": -58.16667
+    },
+    {
+      "id": 3378741,
+      "name": "Essequibo Islands-West Demerara",
+      "nativeName": "Essequibo Islands-West Demerara Region",
+      "code": "GY-ES",
+      "internalCode": "ES",
+      "countryId": 3378535,
+      "countryCode": "GY",
+      "latitude": 6.66667,
+      "longitude": -58.5
+    },
+    {
+      "id": 3377274,
+      "name": "Mahaica-Berbice",
+      "nativeName": "Mahaica-Berbice Region",
+      "code": "GY-MA",
+      "internalCode": "MA",
+      "countryId": 3378535,
+      "countryCode": "GY",
+      "latitude": 6.25,
+      "longitude": -57.83333
+    },
+    {
+      "id": 3376407,
+      "name": "Pomeroon-Supenaam",
+      "nativeName": "Pomeroon-Supenaam Region",
+      "code": "GY-PM",
+      "internalCode": "PM",
+      "countryId": 3378535,
+      "countryCode": "GY",
+      "latitude": 7.08333,
+      "longitude": -58.83333
+    },
+    {
+      "id": 3376386,
+      "name": "Potaro-Siparuni",
+      "nativeName": "Potaro-Siparuni Region",
+      "code": "GY-PT",
+      "internalCode": "PT",
+      "countryId": 3378535,
+      "countryCode": "GY",
+      "latitude": 4.9,
+      "longitude": -59.3
+    },
+    {
+      "id": 3375469,
+      "name": "Upper Demerara-Berbice",
+      "nativeName": "Upper Demerara-Berbice Region",
+      "code": "GY-UD",
+      "internalCode": "UD",
+      "countryId": 3378535,
+      "countryCode": "GY",
+      "latitude": 5.5,
+      "longitude": -58.33333
+    },
+    {
+      "id": 3375463,
+      "name": "Upper Takutu-Upper Essequibo",
+      "nativeName": "Upper Takutu-Upper Essequibo Region",
+      "code": "GY-UT",
+      "internalCode": "UT",
+      "countryId": 3378535,
+      "countryCode": "GY",
+      "latitude": 2.91667,
+      "longitude": -59
+    }
+  ]
+}

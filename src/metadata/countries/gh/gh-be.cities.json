@@ -1,0 +1,117 @@
+{
+  "stateId": 12105073,
+  "stateCode": "GH-BE",
+  "countryCode": "GH",
+  "cities": [
+    {
+      "id": 9781875,
+      "name": "Atebubu-Amantin District",
+      "nativeName": "Atebubu-Amantin District",
+      "code": "GH-BE-9781875",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-BE",
+      "latitude": 7.633,
+      "longitude": -1.067
+    },
+    {
+      "id": 7648996,
+      "name": "Kintampo North Municipal District",
+      "nativeName": "Kintampo North Municipal District",
+      "code": "GH-BE-7648996",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-BE",
+      "latitude": 8.303,
+      "longitude": -1.567
+    },
+    {
+      "id": 7648997,
+      "name": "Kintampo South District",
+      "nativeName": "Kintampo South District",
+      "code": "GH-BE-7648997",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-BE",
+      "latitude": 7.9,
+      "longitude": -1.76667
+    },
+    {
+      "id": 7647503,
+      "name": "Nkoranza North District",
+      "nativeName": "Nkoranza North District",
+      "code": "GH-BE-7647503",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-BE",
+      "latitude": 7.685,
+      "longitude": -1.6618
+    },
+    {
+      "id": 7649018,
+      "name": "Nkoranza South",
+      "nativeName": "Nkoranza South",
+      "code": "GH-BE-7649018",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-BE",
+      "latitude": 7.56667,
+      "longitude": -1.7
+    },
+    {
+      "id": 7647499,
+      "name": "Pru",
+      "nativeName": "Pru",
+      "code": "GH-BE-7647499",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-BE",
+      "latitude": 8.04451,
+      "longitude": -1.2891
+    },
+    {
+      "id": 7647500,
+      "name": "Sene",
+      "nativeName": "Sene",
+      "code": "GH-BE-7647500",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-BE",
+      "latitude": 7.61119,
+      "longitude": -0.45024
+    },
+    {
+      "id": 12105106,
+      "name": "Sene East",
+      "nativeName": "Sene East",
+      "code": "GH-BE-12105106",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-BE",
+      "latitude": 7.58976,
+      "longitude": -0.17857
+    },
+    {
+      "id": 12105080,
+      "name": "Techiman Municipal",
+      "nativeName": "Techiman Municipal",
+      "code": "GH-BE-12105080",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-BE",
+      "latitude": 7.53416,
+      "longitude": -1.96387
+    },
+    {
+      "id": 7649056,
+      "name": "Techiman Municipal District",
+      "nativeName": "Techiman Municipal District",
+      "code": "GH-BE-7649056",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-BE",
+      "latitude": 7.612,
+      "longitude": -1.955
+    }
+  ]
+}

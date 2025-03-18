@@ -1,0 +1,94 @@
+{
+  "countryId": 289688,
+  "countryCode": "QA",
+  "states": [
+    {
+      "id": 8030540,
+      "name": "Al Daayen",
+      "nativeName": "Baladīyat az̧ Z̧a‘āyin",
+      "code": "QA-ZA",
+      "internalCode": "ZA",
+      "countryId": 289688,
+      "countryCode": "QA",
+      "latitude": 25.51667,
+      "longitude": 51.45
+    },
+    {
+      "id": 389465,
+      "name": "Al Khor",
+      "nativeName": "Baladīyat al Khawr wa adh Dhakhīrah",
+      "code": "QA-KH",
+      "internalCode": "KH",
+      "countryId": 289688,
+      "countryCode": "QA",
+      "latitude": 25.76667,
+      "longitude": 51.31667
+    },
+    {
+      "id": 389472,
+      "name": "Al Wakrah",
+      "nativeName": "Al Wakrah",
+      "code": "QA-WA",
+      "internalCode": "WA",
+      "countryId": 289688,
+      "countryCode": "QA",
+      "latitude": 24.85,
+      "longitude": 51.33333
+    },
+    {
+      "id": 11777514,
+      "name": "Al-Shahaniya",
+      "nativeName": "Al-Shahaniya",
+      "code": "QA-SH",
+      "internalCode": "SH",
+      "countryId": 289688,
+      "countryCode": "QA",
+      "latitude": 25.37381,
+      "longitude": 50.98755
+    },
+    {
+      "id": 389470,
+      "name": "Baladīyat ad Dawḩah",
+      "nativeName": "Baladīyat ad Dawḩah",
+      "code": "QA-DA",
+      "internalCode": "DA",
+      "countryId": 289688,
+      "countryCode": "QA",
+      "latitude": 25.3,
+      "longitude": 51.5
+    },
+    {
+      "id": 389469,
+      "name": "Baladīyat ar Rayyān",
+      "nativeName": "Baladīyat ar Rayyān",
+      "code": "QA-RA",
+      "internalCode": "RA",
+      "countryId": 289688,
+      "countryCode": "QA",
+      "latitude": 24.91667,
+      "longitude": 51
+    },
+    {
+      "id": 389462,
+      "name": "Baladīyat ash Shamāl",
+      "nativeName": "Baladīyat ash Shamāl",
+      "code": "QA-MS",
+      "internalCode": "MS",
+      "countryId": 289688,
+      "countryCode": "QA",
+      "latitude": 25.98333,
+      "longitude": 51.2
+    },
+    {
+      "id": 389467,
+      "name": "Umm Salal",
+      "nativeName": "Baladīyat Umm Şalāl",
+      "code": "QA-US",
+      "internalCode": "US",
+      "countryId": 289688,
+      "countryCode": "QA",
+      "latitude": 25.46667,
+      "longitude": 51.33333
+    }
+  ]
+}

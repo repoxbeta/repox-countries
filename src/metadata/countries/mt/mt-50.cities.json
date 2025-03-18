@@ -1,0 +1,95 @@
+{
+  "stateId": 8299749,
+  "stateCode": "MT-50",
+  "countryCode": "MT",
+  "cities": [
+    {
+      "id": 2562552,
+      "name": "Saint Lawrence",
+      "nativeName": "San Lawrenz",
+      "code": "MT-50-2562552",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-50",
+      "latitude": 36.05556,
+      "longitude": 14.20361
+    },
+    {
+      "id": 11856604,
+      "name": "Debba",
+      "nativeName": "Debba",
+      "code": "MT-50-11856604",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-50",
+      "latitude": 36.05058,
+      "longitude": 14.20057
+    },
+    {
+      "id": 11856601,
+      "name": "Dwejra",
+      "nativeName": "Dwejra",
+      "code": "MT-50-11856601",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-50",
+      "latitude": 36.05207,
+      "longitude": 14.1909
+    },
+    {
+      "id": 11856605,
+      "name": "Gebla",
+      "nativeName": "Gebla",
+      "code": "MT-50-11856605",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-50",
+      "latitude": 36.0533,
+      "longitude": 14.20215
+    },
+    {
+      "id": 11856608,
+      "name": "Ghonoq",
+      "nativeName": "Ghonoq",
+      "code": "MT-50-11856608",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-50",
+      "latitude": 36.05767,
+      "longitude": 14.20089
+    },
+    {
+      "id": 11856611,
+      "name": "Pawluzzu",
+      "nativeName": "Pawluzzu",
+      "code": "MT-50-11856611",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-50",
+      "latitude": 36.05509,
+      "longitude": 14.20658
+    },
+    {
+      "id": 11856610,
+      "name": "Rosa",
+      "nativeName": "Rosa",
+      "code": "MT-50-11856610",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-50",
+      "latitude": 36.05937,
+      "longitude": 14.19829
+    },
+    {
+      "id": 11856607,
+      "name": "Wileg",
+      "nativeName": "Wileg",
+      "code": "MT-50-11856607",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-50",
+      "latitude": 36.05639,
+      "longitude": 14.2023
+    }
+  ]
+}

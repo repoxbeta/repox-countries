@@ -1,0 +1,117 @@
+{
+  "stateId": 3577818,
+  "stateCode": "VC-05",
+  "countryCode": "VC",
+  "cities": [
+    {
+      "id": 3577962,
+      "name": "Barrouallie",
+      "nativeName": "Barrouallie",
+      "code": "VC-05-3577962",
+      "countryId": 3577815,
+      "countryCode": "VC",
+      "stateCode": "VC-05",
+      "latitude": 13.23676,
+      "longitude": -61.27275
+    },
+    {
+      "id": 12535722,
+      "name": "Coco",
+      "nativeName": "Coco",
+      "code": "VC-05-12535722",
+      "countryId": 3577815,
+      "countryCode": "VC",
+      "stateCode": "VC-05",
+      "latitude": 13.25651,
+      "longitude": -61.24605
+    },
+    {
+      "id": 12535743,
+      "name": "Gordon Village",
+      "nativeName": "Gordon Village",
+      "code": "VC-05-12535743",
+      "countryId": 3577815,
+      "countryCode": "VC",
+      "stateCode": "VC-05",
+      "latitude": 13.2557,
+      "longitude": -61.24118
+    },
+    {
+      "id": 12535766,
+      "name": "Gordon Yard",
+      "nativeName": "Gordon Yard",
+      "code": "VC-05-12535766",
+      "countryId": 3577815,
+      "countryCode": "VC",
+      "stateCode": "VC-05",
+      "latitude": 13.25241,
+      "longitude": -61.24613
+    },
+    {
+      "id": 3577890,
+      "name": "Hermitage",
+      "nativeName": "Hermitage",
+      "code": "VC-05-3577890",
+      "countryId": 3577815,
+      "countryCode": "VC",
+      "stateCode": "VC-05",
+      "latitude": 13.24955,
+      "longitude": -61.21685
+    },
+    {
+      "id": 12535751,
+      "name": "L'anse Mahaut",
+      "nativeName": "L'anse Mahaut",
+      "code": "VC-05-12535751",
+      "countryId": 3577815,
+      "countryCode": "VC",
+      "stateCode": "VC-05",
+      "latitude": 13.2594,
+      "longitude": -61.25922
+    },
+    {
+      "id": 12535770,
+      "name": "Mangaroo",
+      "nativeName": "Mangaroo",
+      "code": "VC-05-12535770",
+      "countryId": 3577815,
+      "countryCode": "VC",
+      "stateCode": "VC-05",
+      "latitude": 13.25896,
+      "longitude": -61.24976
+    },
+    {
+      "id": 12535757,
+      "name": "New Works",
+      "nativeName": "New Works",
+      "code": "VC-05-12535757",
+      "countryId": 3577815,
+      "countryCode": "VC",
+      "stateCode": "VC-05",
+      "latitude": 13.24653,
+      "longitude": -61.24841
+    },
+    {
+      "id": 3577825,
+      "name": "Rutland Vale",
+      "nativeName": "Rutland Vale",
+      "code": "VC-05-3577825",
+      "countryId": 3577815,
+      "countryCode": "VC",
+      "stateCode": "VC-05",
+      "latitude": 13.20993,
+      "longitude": -61.26283
+    },
+    {
+      "id": 3577803,
+      "name": "Spring Village",
+      "nativeName": "Spring Village",
+      "code": "VC-05-3577803",
+      "countryId": 3577815,
+      "countryCode": "VC",
+      "stateCode": "VC-05",
+      "latitude": 13.26212,
+      "longitude": -61.25068
+    }
+  ]
+}

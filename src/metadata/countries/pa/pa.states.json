@@ -1,0 +1,160 @@
+{
+  "countryId": 3703430,
+  "countryCode": "PA",
+  "states": [
+    {
+      "id": 3713954,
+      "name": "Bocas del Toro Province",
+      "nativeName": "Provincia de Bocas del Toro",
+      "code": "PA-1",
+      "internalCode": "1",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "latitude": 9.2,
+      "longitude": -82.46667
+    },
+    {
+      "id": 3712410,
+      "name": "Chiriquí Province",
+      "nativeName": "Provincia de Chiriquí",
+      "code": "PA-4",
+      "internalCode": "4",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "latitude": 8.5,
+      "longitude": -82.41667
+    },
+    {
+      "id": 7303686,
+      "name": "Emberá-Wounaan",
+      "nativeName": "Emberá-Wounaan",
+      "code": "PA-EM",
+      "internalCode": "EM",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "latitude": 8.15236,
+      "longitude": -77.52502
+    },
+    {
+      "id": 3701537,
+      "name": "Guna Yala",
+      "nativeName": "Guna Yala",
+      "code": "PA-KY",
+      "internalCode": "KY",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "latitude": 9.25,
+      "longitude": -78.25
+    },
+    {
+      "id": 3708710,
+      "name": "Herrera Province",
+      "nativeName": "Provincia de Herrera",
+      "code": "PA-6",
+      "internalCode": "6",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "latitude": 7.83333,
+      "longitude": -80.75
+    },
+    {
+      "id": 3704961,
+      "name": "Los Santos Province",
+      "nativeName": "Provincia de Los Santos",
+      "code": "PA-7",
+      "internalCode": "7",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "latitude": 7.58333,
+      "longitude": -80.33333
+    },
+    {
+      "id": 12508964,
+      "name": "Naso Tjër Di",
+      "nativeName": "Naso Tjër Di",
+      "code": "PA-NT",
+      "internalCode": "NT",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "latitude": 9.30882,
+      "longitude": -82.752
+    },
+    {
+      "id": 7303688,
+      "name": "Ngöbe-Buglé Comarca",
+      "nativeName": "Ngöbe-Buglé",
+      "code": "PA-NB",
+      "internalCode": "NB",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "latitude": 8.48621,
+      "longitude": -81.73081
+    },
+    {
+      "id": 11353126,
+      "name": "Panamá Oeste Province",
+      "nativeName": "Panamá Oeste",
+      "code": "PA-10",
+      "internalCode": "10",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "latitude": 8.8,
+      "longitude": -79.9
+    },
+    {
+      "id": 3712162,
+      "name": "Provincia de Coclé",
+      "nativeName": "Provincia de Coclé",
+      "code": "PA-2",
+      "internalCode": "2",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "latitude": 8.56667,
+      "longitude": -80.41667
+    },
+    {
+      "id": 3712073,
+      "name": "Provincia de Colón",
+      "nativeName": "Provincia de Colón",
+      "code": "PA-3",
+      "internalCode": "3",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "latitude": 9.16667,
+      "longitude": -80
+    },
+    {
+      "id": 3703433,
+      "name": "Provincia de Panamá",
+      "nativeName": "Provincia de Panamá",
+      "code": "PA-8",
+      "internalCode": "8",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "latitude": 9.08333,
+      "longitude": -78.9
+    },
+    {
+      "id": 3711671,
+      "name": "Provincia del Darién",
+      "nativeName": "Provincia del Darién",
+      "code": "PA-5",
+      "internalCode": "5",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "latitude": 8.08333,
+      "longitude": -77.88333
+    },
+    {
+      "id": 3700159,
+      "name": "Veraguas Province",
+      "nativeName": "Provincia de Veraguas",
+      "code": "PA-9",
+      "internalCode": "9",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "latitude": 8.25,
+      "longitude": -81.13333
+    }
+  ]
+}

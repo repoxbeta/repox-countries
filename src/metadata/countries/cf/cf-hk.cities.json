@@ -1,0 +1,40 @@
+{
+  "stateId": 238640,
+  "stateCode": "CF-HK",
+  "countryCode": "CF",
+  "cities": [
+    {
+      "id": 9143465,
+      "name": "Bria",
+      "nativeName": "Bria",
+      "code": "CF-HK-9143465",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-HK",
+      "latitude": 6.75391,
+      "longitude": 22.00395
+    },
+    {
+      "id": 9143466,
+      "name": "Ouadda",
+      "nativeName": "Ouadda",
+      "code": "CF-HK-9143466",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-HK",
+      "latitude": 8.00853,
+      "longitude": 22.48456
+    },
+    {
+      "id": 9143475,
+      "name": "Yalinga",
+      "nativeName": "Yalinga",
+      "code": "CF-HK-9143475",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-HK",
+      "latitude": 7.37284,
+      "longitude": 23.58519
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "stateId": 4567734,
+  "stateCode": "PR-115",
+  "countryCode": "PR",
+  "cities": [
+    {
+      "id": 7268283,
+      "name": "Cacao Barrio",
+      "nativeName": "Cacao Barrio",
+      "code": "PR-115-7268283",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-115",
+      "latitude": 18.45424,
+      "longitude": -66.94519
+    },
+    {
+      "id": 7268070,
+      "name": "Charcas Barrio",
+      "nativeName": "Charcas Barrio",
+      "code": "PR-115-7268070",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-115",
+      "latitude": 18.40851,
+      "longitude": -66.93261
+    },
+    {
+      "id": 7268093,
+      "name": "Cocos Barrio",
+      "nativeName": "Cocos Barrio",
+      "code": "PR-115-7268093",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-115",
+      "latitude": 18.45658,
+      "longitude": -66.91258
+    },
+    {
+      "id": 7268414,
+      "name": "Guajataca Barrio",
+      "nativeName": "Guajataca Barrio",
+      "code": "PR-115-7268414",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-115",
+      "latitude": 18.38897,
+      "longitude": -66.91017
+    },
+    {
+      "id": 7268868,
+      "name": "Quebradillas Barrio-Pueblo",
+      "nativeName": "Quebradillas Barrio-Pueblo",
+      "code": "PR-115-7268868",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-115",
+      "latitude": 18.47277,
+      "longitude": -66.938
+    },
+    {
+      "id": 7268964,
+      "name": "San Antonio Barrio",
+      "nativeName": "San Antonio Barrio",
+      "code": "PR-115-7268964",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-115",
+      "latitude": 18.42755,
+      "longitude": -66.91944
+    },
+    {
+      "id": 7268973,
+      "name": "San José Barrio",
+      "nativeName": "San José Barrio",
+      "code": "PR-115-7268973",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-115",
+      "latitude": 18.47697,
+      "longitude": -66.9156
+    },
+    {
+      "id": 7269033,
+      "name": "Terranova Barrio",
+      "nativeName": "Terranova Barrio",
+      "code": "PR-115-7269033",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-115",
+      "latitude": 18.48011,
+      "longitude": -66.93167
+    }
+  ]
+}

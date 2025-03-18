@@ -1,0 +1,62 @@
+{
+  "stateId": 7521297,
+  "stateCode": "PH-02",
+  "countryCode": "PH",
+  "cities": [
+    {
+      "id": 1726302,
+      "name": "Province of Batanes",
+      "nativeName": "Province of Batanes",
+      "code": "PH-02-1726302",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-02",
+      "latitude": 20.45798,
+      "longitude": 121.9941
+    },
+    {
+      "id": 1721086,
+      "name": "Province of Cagayan",
+      "nativeName": "Province of Cagayan",
+      "code": "PH-02-1721086",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-02",
+      "latitude": 18,
+      "longitude": 121.83333
+    },
+    {
+      "id": 1710515,
+      "name": "Province of Isabela",
+      "nativeName": "Province of Isabela",
+      "code": "PH-02-1710515",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-02",
+      "latitude": 17,
+      "longitude": 122
+    },
+    {
+      "id": 1697456,
+      "name": "Province of Nueva Vizcaya",
+      "nativeName": "Province of Nueva Vizcaya",
+      "code": "PH-02-1697456",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-02",
+      "latitude": 16.33333,
+      "longitude": 121.33333
+    },
+    {
+      "id": 1691975,
+      "name": "Province of Quirino",
+      "nativeName": "Province of Quirino",
+      "code": "PH-02-1691975",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-02",
+      "latitude": 16.28333,
+      "longitude": 121.58333
+    }
+  ]
+}

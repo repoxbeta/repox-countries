@@ -1,0 +1,40 @@
+{
+  "stateId": 6113358,
+  "stateCode": "CA-PE",
+  "countryCode": "CA",
+  "cities": [
+    {
+      "id": 5992375,
+      "name": "Kings County",
+      "nativeName": "Kings County",
+      "code": "CA-PE-5992375",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-PE",
+      "latitude": 46.2501,
+      "longitude": -62.49864
+    },
+    {
+      "id": 6113329,
+      "name": "Prince County",
+      "nativeName": "Prince County",
+      "code": "CA-PE-6113329",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-PE",
+      "latitude": 46.75015,
+      "longitude": -64.08203
+    },
+    {
+      "id": 6115098,
+      "name": "Queens County",
+      "nativeName": "Queens County",
+      "code": "CA-PE-6115098",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-PE",
+      "latitude": 46.28342,
+      "longitude": -63.24869
+    }
+  ]
+}

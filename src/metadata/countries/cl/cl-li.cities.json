@@ -1,0 +1,40 @@
+{
+  "stateId": 3883281,
+  "stateCode": "CL-LI",
+  "countryCode": "CL",
+  "cities": [
+    {
+      "id": 3897525,
+      "name": "Provincia de Cachapoal",
+      "nativeName": "Provincia de Cachapoal",
+      "code": "CL-LI-3897525",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-LI",
+      "latitude": -34.29987,
+      "longitude": -70.72061
+    },
+    {
+      "id": 8181712,
+      "name": "Provincia de Cardenal Caro",
+      "nativeName": "Provincia de Cardenal Caro",
+      "code": "CL-LI-8181712",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-LI",
+      "latitude": -34.38651,
+      "longitude": -71.945
+    },
+    {
+      "id": 3894310,
+      "name": "Provincia de Colchagua",
+      "nativeName": "Provincia de Colchagua",
+      "code": "CL-LI-3894310",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-LI",
+      "latitude": -34.69485,
+      "longitude": -71.07606
+    }
+  ]
+}

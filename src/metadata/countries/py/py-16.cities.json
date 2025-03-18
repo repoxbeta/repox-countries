@@ -1,0 +1,51 @@
+{
+  "stateId": 3439441,
+  "stateCode": "PY-16",
+  "countryCode": "PY",
+  "cities": [
+    {
+      "id": 11840080,
+      "name": "Bahia Negra",
+      "nativeName": "Bahia Negra",
+      "code": "PY-16-11840080",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-16",
+      "latitude": -19.89315,
+      "longitude": -59.96512
+    },
+    {
+      "id": 11840019,
+      "name": "Carmelo Peralta",
+      "nativeName": "Carmelo Peralta",
+      "code": "PY-16-11840019",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-16",
+      "latitude": -21.64999,
+      "longitude": -58.28077
+    },
+    {
+      "id": 11840156,
+      "name": "Fuerte Olimpo",
+      "nativeName": "Fuerte Olimpo",
+      "code": "PY-16-11840156",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-16",
+      "latitude": -20.70205,
+      "longitude": -58.96212
+    },
+    {
+      "id": 11840136,
+      "name": "Puerto Casado",
+      "nativeName": "Puerto Casado",
+      "code": "PY-16-11840136",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-16",
+      "latitude": -21.66691,
+      "longitude": -58.97986
+    }
+  ]
+}

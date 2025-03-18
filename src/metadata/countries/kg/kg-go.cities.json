@@ -1,0 +1,62 @@
+{
+  "stateId": 10300944,
+  "stateCode": "KG-GO",
+  "countryCode": "KG",
+  "cities": [
+    {
+      "id": 1538117,
+      "name": "Dyykan-Kyshtak",
+      "nativeName": "Dyykan-Kyshtak",
+      "code": "KG-GO-1538117",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-GO",
+      "latitude": 40.51598,
+      "longitude": 72.78687
+    },
+    {
+      "id": 8139814,
+      "name": "Furkat",
+      "nativeName": "Furkat",
+      "code": "KG-GO-8139814",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-GO",
+      "latitude": 40.53696,
+      "longitude": 72.84455
+    },
+    {
+      "id": 1527725,
+      "name": "Kyzyl-Kyshtak",
+      "nativeName": "Kyzyl-Kyshtak",
+      "code": "KG-GO-1527725",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-GO",
+      "latitude": 40.53815,
+      "longitude": 72.77684
+    },
+    {
+      "id": 1527593,
+      "name": "Nariman",
+      "nativeName": "Dzhiydalik",
+      "code": "KG-GO-1527593",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-GO",
+      "latitude": 40.55392,
+      "longitude": 72.7906
+    },
+    {
+      "id": 11134208,
+      "name": "Yuqori Uvam",
+      "nativeName": "Yuqori Uvam",
+      "code": "KG-GO-11134208",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-GO",
+      "latitude": 40.54102,
+      "longitude": 72.82298
+    }
+  ]
+}

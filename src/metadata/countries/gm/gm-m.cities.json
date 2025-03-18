@@ -1,0 +1,117 @@
+{
+  "stateId": 2412707,
+  "stateCode": "GM-M",
+  "countryCode": "GM",
+  "cities": [
+    {
+      "id": 2413461,
+      "name": "Fulladu West",
+      "nativeName": "Fulladu West",
+      "code": "GM-M-2413461",
+      "countryId": 2413451,
+      "countryCode": "GM",
+      "stateCode": "GM-M",
+      "latitude": 13.5,
+      "longitude": -14.75
+    },
+    {
+      "id": 10299957,
+      "name": "Janjanbureh",
+      "nativeName": "Janjanbureh",
+      "code": "GM-M-10299957",
+      "countryId": 2413451,
+      "countryCode": "GM",
+      "stateCode": "GM-M",
+      "latitude": 13.53564,
+      "longitude": -14.76515
+    },
+    {
+      "id": 2412715,
+      "name": "Lower Saloum",
+      "nativeName": "Lower Saloum",
+      "code": "GM-M-2412715",
+      "countryId": 2413451,
+      "countryCode": "GM",
+      "stateCode": "GM-M",
+      "latitude": 13.71667,
+      "longitude": -15.36667
+    },
+    {
+      "id": 2412424,
+      "name": "Niamina Dankunku District",
+      "nativeName": "Niamina Dankunku District",
+      "code": "GM-M-2412424",
+      "countryId": 2413451,
+      "countryCode": "GM",
+      "stateCode": "GM-M",
+      "latitude": 13.58333,
+      "longitude": -15.33333
+    },
+    {
+      "id": 2412423,
+      "name": "Niamina East District",
+      "nativeName": "Niamina East District",
+      "code": "GM-M-2412423",
+      "countryId": 2413451,
+      "countryCode": "GM",
+      "stateCode": "GM-M",
+      "latitude": 13.63333,
+      "longitude": -15.08333
+    },
+    {
+      "id": 2412422,
+      "name": "Niamina West District",
+      "nativeName": "Niamina West District",
+      "code": "GM-M-2412422",
+      "countryId": 2413451,
+      "countryCode": "GM",
+      "stateCode": "GM-M",
+      "latitude": 13.58333,
+      "longitude": -15.25
+    },
+    {
+      "id": 2412421,
+      "name": "Niani",
+      "nativeName": "Niani",
+      "code": "GM-M-2412421",
+      "countryId": 2413451,
+      "countryCode": "GM",
+      "stateCode": "GM-M",
+      "latitude": 13.66667,
+      "longitude": -14.91667
+    },
+    {
+      "id": 2412420,
+      "name": "Nianija District",
+      "nativeName": "Nianija District",
+      "code": "GM-M-2412420",
+      "countryId": 2413451,
+      "countryCode": "GM",
+      "stateCode": "GM-M",
+      "latitude": 13.729,
+      "longitude": -15.091
+    },
+    {
+      "id": 2412201,
+      "name": "Sami District",
+      "nativeName": "Sami District",
+      "code": "GM-M-2412201",
+      "countryId": 2413451,
+      "countryCode": "GM",
+      "stateCode": "GM-M",
+      "latitude": 13.58333,
+      "longitude": -14.58333
+    },
+    {
+      "id": 2411710,
+      "name": "Upper Saloum",
+      "nativeName": "Upper Saloum",
+      "code": "GM-M-2411710",
+      "countryId": 2413451,
+      "countryCode": "GM",
+      "stateCode": "GM-M",
+      "latitude": 13.75,
+      "longitude": -15.2
+    }
+  ]
+}

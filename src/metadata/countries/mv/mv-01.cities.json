@@ -1,0 +1,62 @@
+{
+  "stateId": 1281893,
+  "stateCode": "MV-01",
+  "countryCode": "MV",
+  "cities": [
+    {
+      "id": 1282256,
+      "name": "Hithadhoo",
+      "nativeName": "Hithadhoo",
+      "code": "MV-01-1282256",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-01",
+      "latitude": -0.6,
+      "longitude": 73.08333
+    },
+    {
+      "id": 1282315,
+      "name": "Gan",
+      "nativeName": "Gan",
+      "code": "MV-01-1282315",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-01",
+      "latitude": -0.7,
+      "longitude": 73.15
+    },
+    {
+      "id": 7909870,
+      "name": "Hulhudhoo",
+      "nativeName": "Hulhudhoo",
+      "code": "MV-01-7909870",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-01",
+      "latitude": -0.59278,
+      "longitude": 73.22787
+    },
+    {
+      "id": 8516199,
+      "name": "Hulumido",
+      "nativeName": "Hulumido",
+      "code": "MV-01-8516199",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-01",
+      "latitude": -0.59474,
+      "longitude": 73.2274
+    },
+    {
+      "id": 1281980,
+      "name": "Meedhoo",
+      "nativeName": "Meedhoo",
+      "code": "MV-01-1281980",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-01",
+      "latitude": -0.58333,
+      "longitude": 73.23333
+    }
+  ]
+}

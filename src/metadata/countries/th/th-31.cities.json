@@ -1,0 +1,260 @@
+{
+  "stateId": 1611452,
+  "stateCode": "TH-31",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 7510783,
+      "name": "Ban Dan",
+      "nativeName": "Amphoe Ban Dan",
+      "code": "TH-31-7510783",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-31",
+      "latitude": 15.12363,
+      "longitude": 103.18937
+    },
+    {
+      "id": 1617329,
+      "name": "Ban Kruat",
+      "nativeName": "Amphoe Ban Kruat",
+      "code": "TH-31-1617329",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-31",
+      "latitude": 14.39205,
+      "longitude": 103.11494
+    },
+    {
+      "id": 7510767,
+      "name": "Ban Mai Chaiyaphot",
+      "nativeName": "Amphoe Ban Mai Chaiyaphot",
+      "code": "TH-31-7510767",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-31",
+      "latitude": 15.57857,
+      "longitude": 102.84394
+    },
+    {
+      "id": 7510759,
+      "name": "Chaloem Phra Kiat",
+      "nativeName": "Amphoe Chaloem Phra Kiat",
+      "code": "TH-31-7510759",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-31",
+      "latitude": 14.55725,
+      "longitude": 102.89878
+    },
+    {
+      "id": 7510758,
+      "name": "Chamni",
+      "nativeName": "Amphoe Chamni",
+      "code": "TH-31-7510758",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-31",
+      "latitude": 14.78636,
+      "longitude": 102.85386
+    },
+    {
+      "id": 7510782,
+      "name": "Huai Rat",
+      "nativeName": "Amphoe Huai Rat",
+      "code": "TH-31-7510782",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-31",
+      "latitude": 15.00896,
+      "longitude": 103.23499
+    },
+    {
+      "id": 7511040,
+      "name": "Khaen Dong",
+      "nativeName": "Amphoe Khaen Dong",
+      "code": "TH-31-7511040",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-31",
+      "latitude": 15.3062,
+      "longitude": 103.13286
+    },
+    {
+      "id": 7510784,
+      "name": "Khu Mueang",
+      "nativeName": "Amphoe Khu Mueang",
+      "code": "TH-31-7510784",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-31",
+      "latitude": 15.26844,
+      "longitude": 103.02717
+    },
+    {
+      "id": 1609420,
+      "name": "Krasang",
+      "nativeName": "Amphoe Krasang",
+      "code": "TH-31-1609420",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-31",
+      "latitude": 14.94167,
+      "longitude": 103.31898
+    },
+    {
+      "id": 1609257,
+      "name": "Lahan Sai",
+      "nativeName": "Amphoe Lahan Sai",
+      "code": "TH-31-1609257",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-31",
+      "latitude": 14.32194,
+      "longitude": 102.87994
+    },
+    {
+      "id": 1609203,
+      "name": "Lam Plai Mat",
+      "nativeName": "Amphoe Lam Plai Mat",
+      "code": "TH-31-1609203",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-31",
+      "latitude": 15.01688,
+      "longitude": 102.87479
+    },
+    {
+      "id": 1608664,
+      "name": "Mueang Buri Ram",
+      "nativeName": "Amphoe Mueang Buriram",
+      "code": "TH-31-1608664",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-31",
+      "latitude": 14.94078,
+      "longitude": 103.06244
+    },
+    {
+      "id": 7510766,
+      "name": "Na Pho",
+      "nativeName": "Amphoe Na Pho",
+      "code": "TH-31-7510766",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-31",
+      "latitude": 15.69565,
+      "longitude": 102.93857
+    },
+    {
+      "id": 1608423,
+      "name": "Nang Rong",
+      "nativeName": "Amphoe Nang Rong",
+      "code": "TH-31-1608423",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-31",
+      "latitude": 14.63333,
+      "longitude": 102.76667
+    },
+    {
+      "id": 7510756,
+      "name": "Non Din Daeng",
+      "nativeName": "Amphoe Non Din Daeng",
+      "code": "TH-31-7510756",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-31",
+      "latitude": 14.2201,
+      "longitude": 102.68233
+    },
+    {
+      "id": 7510761,
+      "name": "Non Suwan",
+      "nativeName": "Amphoe Non Suwan",
+      "code": "TH-31-7510761",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-31",
+      "latitude": 14.55511,
+      "longitude": 102.58339
+    },
+    {
+      "id": 7510762,
+      "name": "Nong Hong",
+      "nativeName": "Amphoe Nong Hong",
+      "code": "TH-31-7510762",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-31",
+      "latitude": 14.86149,
+      "longitude": 102.6708
+    },
+    {
+      "id": 7510760,
+      "name": "Nong Ki",
+      "nativeName": "Amphoe Nong Ki",
+      "code": "TH-31-7510760",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-31",
+      "latitude": 14.72696,
+      "longitude": 102.55798
+    },
+    {
+      "id": 7510757,
+      "name": "Pakham",
+      "nativeName": "Amphoe Pa Kham",
+      "code": "TH-31-7510757",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-31",
+      "latitude": 14.4,
+      "longitude": 102.66667
+    },
+    {
+      "id": 7510781,
+      "name": "Phlapphla Chai",
+      "nativeName": "Amphoe Phlapphla Chai",
+      "code": "TH-31-7510781",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-31",
+      "latitude": 14.73299,
+      "longitude": 103.17015
+    },
+    {
+      "id": 1607420,
+      "name": "Phutthaisong",
+      "nativeName": "Amphoe Phutthaisong",
+      "code": "TH-31-1607420",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-31",
+      "latitude": 15.53249,
+      "longitude": 102.98701
+    },
+    {
+      "id": 1607256,
+      "name": "Prakhon Chai",
+      "nativeName": "Amphoe Prakhon Chai",
+      "code": "TH-31-1607256",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-31",
+      "latitude": 14.61041,
+      "longitude": 103.06054
+    },
+    {
+      "id": 1606377,
+      "name": "Satuek",
+      "nativeName": "Amphoe Satuek",
+      "code": "TH-31-1606377",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-31",
+      "latitude": 15.22699,
+      "longitude": 103.33006
+    }
+  ]
+}

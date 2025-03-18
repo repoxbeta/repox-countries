@@ -1,0 +1,194 @@
+{
+  "stateId": 1854484,
+  "stateCode": "JP-44",
+  "countryCode": "JP",
+  "cities": [
+    {
+      "id": 7414050,
+      "name": "Beppu Shi",
+      "nativeName": "Beppu Shi",
+      "code": "JP-44-7414050",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-44",
+      "latitude": 33.28573,
+      "longitude": 131.4528
+    },
+    {
+      "id": 1864667,
+      "name": "Bungo-takada Shi",
+      "nativeName": "Bungo-takada Shi",
+      "code": "JP-44-1864667",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-44",
+      "latitude": 33.57571,
+      "longitude": 131.50693
+    },
+    {
+      "id": 7414051,
+      "name": "Bungo-ōno Shi",
+      "nativeName": "Bungo-ōno Shi",
+      "code": "JP-44-7414051",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-44",
+      "latitude": 32.97249,
+      "longitude": 131.5121
+    },
+    {
+      "id": 7414041,
+      "name": "Hayami-gun",
+      "nativeName": "Hayami-gun",
+      "code": "JP-44-7414041",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-44",
+      "latitude": 33.37632,
+      "longitude": 131.52747
+    },
+    {
+      "id": 7414042,
+      "name": "Higashikunisaki-gun",
+      "nativeName": "Higashikunisaki-gun",
+      "code": "JP-44-7414042",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-44",
+      "latitude": 33.72805,
+      "longitude": 131.66
+    },
+    {
+      "id": 1862367,
+      "name": "Hita Shi",
+      "nativeName": "Hita Shi",
+      "code": "JP-44-1862367",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-44",
+      "latitude": 33.24452,
+      "longitude": 130.95063
+    },
+    {
+      "id": 1859233,
+      "name": "Kitsuki Shi",
+      "nativeName": "Kitsuki Shi",
+      "code": "JP-44-1859233",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-44",
+      "latitude": 33.44729,
+      "longitude": 131.5367
+    },
+    {
+      "id": 7279571,
+      "name": "Kunisaki-shi",
+      "nativeName": "Kunisaki-shi",
+      "code": "JP-44-7279571",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-44",
+      "latitude": 33.56543,
+      "longitude": 131.73157
+    },
+    {
+      "id": 1858008,
+      "name": "Kusu-gun",
+      "nativeName": "Kusu-gun",
+      "code": "JP-44-1858008",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-44",
+      "latitude": 33.25079,
+      "longitude": 131.18488
+    },
+    {
+      "id": 1855742,
+      "name": "Nakatsu Shi",
+      "nativeName": "Nakatsu Shi",
+      "code": "JP-44-1855742",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-44",
+      "latitude": 33.46458,
+      "longitude": 131.12642
+    },
+    {
+      "id": 1853234,
+      "name": "Saiki Shi",
+      "nativeName": "Saiki Shi",
+      "code": "JP-44-1853234",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-44",
+      "latitude": 32.88598,
+      "longitude": 131.776
+    },
+    {
+      "id": 1850823,
+      "name": "Taketa Shi",
+      "nativeName": "Taketa Shi",
+      "code": "JP-44-1850823",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-44",
+      "latitude": 32.99774,
+      "longitude": 131.32724
+    },
+    {
+      "id": 1849659,
+      "name": "Tsukumi-shi",
+      "nativeName": "Tsukumi-shi",
+      "code": "JP-44-1849659",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-44",
+      "latitude": 33.06667,
+      "longitude": 131.86667
+    },
+    {
+      "id": 1849160,
+      "name": "Usa Shi",
+      "nativeName": "Usa Shi",
+      "code": "JP-44-1849160",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-44",
+      "latitude": 33.44996,
+      "longitude": 131.33662
+    },
+    {
+      "id": 1849092,
+      "name": "Usuki Shi",
+      "nativeName": "Usuki Shi",
+      "code": "JP-44-1849092",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-44",
+      "latitude": 33.07223,
+      "longitude": 131.74457
+    },
+    {
+      "id": 8739980,
+      "name": "Yufu-shi",
+      "nativeName": "Yufu-shi",
+      "code": "JP-44-8739980",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-44",
+      "latitude": 33.17923,
+      "longitude": 131.43219
+    },
+    {
+      "id": 1854480,
+      "name": "Ōita City",
+      "nativeName": "Ōita-shi",
+      "code": "JP-44-1854480",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-44",
+      "latitude": 33.1798,
+      "longitude": 131.64085
+    }
+  ]
+}

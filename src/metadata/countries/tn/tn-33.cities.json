@@ -1,0 +1,128 @@
+{
+  "stateId": 2473637,
+  "stateCode": "TN-33",
+  "countryCode": "TN",
+  "cities": [
+    {
+      "id": 11107060,
+      "name": "Dahmani",
+      "nativeName": "Dahmani",
+      "code": "TN-33-11107060",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-33",
+      "latitude": 35.96751,
+      "longitude": 8.79912
+    },
+    {
+      "id": 11107061,
+      "name": "Djerissa",
+      "nativeName": "Jerissa",
+      "code": "TN-33-11107061",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-33",
+      "latitude": 35.83376,
+      "longitude": 8.65462
+    },
+    {
+      "id": 2474123,
+      "name": "El Ksour",
+      "nativeName": "El Ksour",
+      "code": "TN-33-2474123",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-33",
+      "latitude": 35.82628,
+      "longitude": 8.95111
+    },
+    {
+      "id": 7870616,
+      "name": "Es-Sers",
+      "nativeName": "Es Sers",
+      "code": "TN-33-7870616",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-33",
+      "latitude": 36.05817,
+      "longitude": 9.02712
+    },
+    {
+      "id": 11107062,
+      "name": "Kalâat Khasbah",
+      "nativeName": "Kalaa Khasba",
+      "code": "TN-33-11107062",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-33",
+      "latitude": 35.72526,
+      "longitude": 8.53536
+    },
+    {
+      "id": 11107173,
+      "name": "Kalâat Snan",
+      "nativeName": "Kalaat Senan",
+      "code": "TN-33-11107173",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-33",
+      "latitude": 35.8188,
+      "longitude": 8.35765
+    },
+    {
+      "id": 2473636,
+      "name": "Kef Est",
+      "nativeName": "Kef Est",
+      "code": "TN-33-2473636",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-33",
+      "latitude": 36.18732,
+      "longitude": 8.87003
+    },
+    {
+      "id": 7870612,
+      "name": "Kef Ouest",
+      "nativeName": "Kef Quest",
+      "code": "TN-33-7870612",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-33",
+      "latitude": 36.14907,
+      "longitude": 8.65903
+    },
+    {
+      "id": 7870617,
+      "name": "Nebeur",
+      "nativeName": "Nebeur",
+      "code": "TN-33-7870617",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-33",
+      "latitude": 36.3182,
+      "longitude": 8.77277
+    },
+    {
+      "id": 2467238,
+      "name": "Sakiet Sidi Youssef",
+      "nativeName": "Sakiet Sidi Youssef",
+      "code": "TN-33-2467238",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-33",
+      "latitude": 36.18158,
+      "longitude": 8.43406
+    },
+    {
+      "id": 2464807,
+      "name": "Tajerouine",
+      "nativeName": "Tajerouine",
+      "code": "TN-33-2464807",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-33",
+      "latitude": 35.97545,
+      "longitude": 8.5505
+    }
+  ]
+}

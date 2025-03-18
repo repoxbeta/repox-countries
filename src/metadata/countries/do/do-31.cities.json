@@ -1,0 +1,40 @@
+{
+  "stateId": 6201372,
+  "stateCode": "DO-31",
+  "countryCode": "DO",
+  "cities": [
+    {
+      "id": 11154581,
+      "name": "Rancho Arriba",
+      "nativeName": "Rancho Arriba",
+      "code": "DO-31-11154581",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-31",
+      "latitude": 18.71542,
+      "longitude": -70.44823
+    },
+    {
+      "id": 11154580,
+      "name": "Sabana Larga",
+      "nativeName": "Sabana Larga",
+      "code": "DO-31-11154580",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-31",
+      "latitude": 18.64138,
+      "longitude": -70.54513
+    },
+    {
+      "id": 3493101,
+      "name": "San José de Ocoa",
+      "nativeName": "San José de Ocoa",
+      "code": "DO-31-3493101",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-31",
+      "latitude": 18.63333,
+      "longitude": -70.5
+    }
+  ]
+}

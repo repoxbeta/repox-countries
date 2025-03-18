@@ -1,0 +1,106 @@
+{
+  "stateId": 3617796,
+  "stateCode": "NI-MD",
+  "countryCode": "NI",
+  "cities": [
+    {
+      "id": 3618123,
+      "name": "Municipio de Las Sabanas",
+      "nativeName": "Municipio de Las Sabanas",
+      "code": "NI-MD-3618123",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-MD",
+      "latitude": 13.34152,
+      "longitude": -86.62007
+    },
+    {
+      "id": 3617387,
+      "name": "Municipio de Palacagüina",
+      "nativeName": "Municipio de Palacagüina",
+      "code": "NI-MD-3617387",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-MD",
+      "latitude": 13.4615,
+      "longitude": -86.39344
+    },
+    {
+      "id": 3616756,
+      "name": "Municipio de San José de Cusmapa",
+      "nativeName": "Municipio de San José de Cusmapa",
+      "code": "NI-MD-3616756",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-MD",
+      "latitude": 13.26531,
+      "longitude": -86.67998
+    },
+    {
+      "id": 3616727,
+      "name": "Municipio de San Juan de Río Coco",
+      "nativeName": "Municipio de San Juan de Río Coco",
+      "code": "NI-MD-3616727",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-MD",
+      "latitude": 13.52646,
+      "longitude": -86.13856
+    },
+    {
+      "id": 3616697,
+      "name": "Municipio de San Lucas",
+      "nativeName": "Municipio de San Lucas",
+      "code": "NI-MD-3616697",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-MD",
+      "latitude": 13.4077,
+      "longitude": -86.64583
+    },
+    {
+      "id": 3616231,
+      "name": "Municipio de Somoto",
+      "nativeName": "Municipio de Somoto",
+      "code": "NI-MD-3616231",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-MD",
+      "latitude": 13.52959,
+      "longitude": -86.63776
+    },
+    {
+      "id": 3616087,
+      "name": "Municipio de Telpaneca",
+      "nativeName": "Municipio de Telpaneca",
+      "code": "NI-MD-3616087",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-MD",
+      "latitude": 13.51509,
+      "longitude": -86.27197
+    },
+    {
+      "id": 3615997,
+      "name": "Municipio de Totogalpa",
+      "nativeName": "Municipio de Totogalpa",
+      "code": "NI-MD-3615997",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-MD",
+      "latitude": 13.56092,
+      "longitude": -86.49283
+    },
+    {
+      "id": 3615668,
+      "name": "Municipio de Yalagüina",
+      "nativeName": "Municipio de Yalagüina",
+      "code": "NI-MD-3615668",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-MD",
+      "latitude": 13.47967,
+      "longitude": -86.49075
+    }
+  ]
+}

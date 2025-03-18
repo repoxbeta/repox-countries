@@ -1,0 +1,106 @@
+{
+  "stateId": 1121863,
+  "stateCode": "AF-WAR",
+  "countryCode": "AF",
+  "cities": [
+    {
+      "id": 7053335,
+      "name": "Chaki Wardak",
+      "nativeName": "Chak-e Wardak",
+      "code": "AF-WAR-7053335",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-WAR",
+      "latitude": 34.10822,
+      "longitude": 68.49056
+    },
+    {
+      "id": 7732571,
+      "name": "Day Mirdad District",
+      "nativeName": "Day Mirdad",
+      "code": "AF-WAR-7732571",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-WAR",
+      "latitude": 34.27127,
+      "longitude": 68.28745
+    },
+    {
+      "id": 7053338,
+      "name": "Jaghatū District",
+      "nativeName": "Jaghatū",
+      "code": "AF-WAR-7053338",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-WAR",
+      "latitude": 33.83747,
+      "longitude": 68.35569
+    },
+    {
+      "id": 7053339,
+      "name": "Jalrayz District",
+      "nativeName": "Jalrayz",
+      "code": "AF-WAR-7053339",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-WAR",
+      "latitude": 34.52502,
+      "longitude": 68.58235
+    },
+    {
+      "id": 7053340,
+      "name": "Maidan Shar District",
+      "nativeName": "Maīdān Shahr",
+      "code": "AF-WAR-7053340",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-WAR",
+      "latitude": 34.44394,
+      "longitude": 68.82468
+    },
+    {
+      "id": 7732663,
+      "name": "Markazi Bihsud District",
+      "nativeName": "Markazi Bihsud",
+      "code": "AF-WAR-7732663",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-WAR",
+      "latitude": 34.40391,
+      "longitude": 67.79737
+    },
+    {
+      "id": 7732666,
+      "name": "Nirkh District",
+      "nativeName": "Nirkh",
+      "code": "AF-WAR-7732666",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-WAR",
+      "latitude": 34.35647,
+      "longitude": 68.73963
+    },
+    {
+      "id": 7053343,
+      "name": "Saydabad District",
+      "nativeName": "Sayyidābād",
+      "code": "AF-WAR-7053343",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-WAR",
+      "latitude": 33.92485,
+      "longitude": 68.65731
+    },
+    {
+      "id": 7053337,
+      "name": "Ḩişah-ye Awal-e Bihsūd District",
+      "nativeName": "Ḩişah-ye Awal-e Bihsūd",
+      "code": "AF-WAR-7053337",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-WAR",
+      "latitude": 34.53122,
+      "longitude": 68.19187
+    }
+  ]
+}

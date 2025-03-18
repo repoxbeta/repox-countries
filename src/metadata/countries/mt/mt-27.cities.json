@@ -1,0 +1,40 @@
+{
+  "stateId": 8299731,
+  "stateCode": "MT-27",
+  "countryCode": "MT",
+  "cities": [
+    {
+      "id": 2562750,
+      "name": "Marsaskala",
+      "nativeName": "Marsaskala",
+      "code": "MT-27-2562750",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-27",
+      "latitude": 35.8622,
+      "longitude": 14.56701
+    },
+    {
+      "id": 2562378,
+      "name": "Tal-Munxar",
+      "nativeName": "Tal-Munxar",
+      "code": "MT-27-2562378",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-27",
+      "latitude": 35.84944,
+      "longitude": 14.56222
+    },
+    {
+      "id": 2562254,
+      "name": "Żonqor",
+      "nativeName": "Żonqor",
+      "code": "MT-27-2562254",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-27",
+      "latitude": 35.87083,
+      "longitude": 14.565
+    }
+  ]
+}

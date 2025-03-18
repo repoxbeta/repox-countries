@@ -1,0 +1,84 @@
+{
+  "stateId": 3830305,
+  "stateCode": "EC-U",
+  "countryCode": "EC",
+  "cities": [
+    {
+      "id": 3650954,
+      "name": "Cantón Sucumbíos",
+      "nativeName": "Cantón Sucumbíos",
+      "code": "EC-U-3650954",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-U",
+      "latitude": 0.36941,
+      "longitude": -77.64313
+    },
+    {
+      "id": 10792472,
+      "name": "Cascales",
+      "nativeName": "Cascales",
+      "code": "EC-U-10792472",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-U",
+      "latitude": 0.15075,
+      "longitude": -77.23538
+    },
+    {
+      "id": 10792473,
+      "name": "Cuyabeno",
+      "nativeName": "Cuyabeno",
+      "code": "EC-U-10792473",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-U",
+      "latitude": -0.26948,
+      "longitude": -75.88444
+    },
+    {
+      "id": 10792494,
+      "name": "Gonzalo Pizarro",
+      "nativeName": "Gonzalo Pizarro",
+      "code": "EC-U-10792494",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-U",
+      "latitude": 0.08459,
+      "longitude": -77.58758
+    },
+    {
+      "id": 3655184,
+      "name": "Lago Agrio",
+      "nativeName": "Lago Agrio",
+      "code": "EC-U-3655184",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-U",
+      "latitude": 0.08604,
+      "longitude": -76.78849
+    },
+    {
+      "id": 3652592,
+      "name": "Putumayo",
+      "nativeName": "Putumayo",
+      "code": "EC-U-3652592",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-U",
+      "latitude": 0.07197,
+      "longitude": -76.06492
+    },
+    {
+      "id": 10792512,
+      "name": "Shushufindi",
+      "nativeName": "Shushufindi",
+      "code": "EC-U-10792512",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-U",
+      "latitude": -0.31063,
+      "longitude": -76.41662
+    }
+  ]
+}

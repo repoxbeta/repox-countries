@@ -1,0 +1,282 @@
+{
+  "stateId": 2328925,
+  "stateCode": "NG-NI",
+  "countryCode": "NG",
+  "cities": [
+    {
+      "id": 7729982,
+      "name": "Agaie",
+      "nativeName": "Agaie",
+      "code": "NG-NI-7729982",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-NI",
+      "latitude": 8.93056,
+      "longitude": 6.40817
+    },
+    {
+      "id": 7729983,
+      "name": "Agwara",
+      "nativeName": "Agwara",
+      "code": "NG-NI-7729983",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-NI",
+      "latitude": 10.77476,
+      "longitude": 4.53977
+    },
+    {
+      "id": 7729985,
+      "name": "Bida",
+      "nativeName": "Bida",
+      "code": "NG-NI-7729985",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-NI",
+      "latitude": 9.08269,
+      "longitude": 5.98473
+    },
+    {
+      "id": 7729987,
+      "name": "Borgu",
+      "nativeName": "Borgu",
+      "code": "NG-NI-7729987",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-NI",
+      "latitude": 10.37844,
+      "longitude": 4.1626
+    },
+    {
+      "id": 8634919,
+      "name": "Bosso",
+      "nativeName": "Bosso",
+      "code": "NG-NI-8634919",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-NI",
+      "latitude": 9.61463,
+      "longitude": 6.36587
+    },
+    {
+      "id": 7729989,
+      "name": "Chanchaga",
+      "nativeName": "Chanchaga",
+      "code": "NG-NI-7729989",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-NI",
+      "latitude": 9.60547,
+      "longitude": 6.51419
+    },
+    {
+      "id": 7729991,
+      "name": "Edati",
+      "nativeName": "Edati",
+      "code": "NG-NI-7729991",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-NI",
+      "latitude": 9.0275,
+      "longitude": 5.61823
+    },
+    {
+      "id": 7730015,
+      "name": "Gbako",
+      "nativeName": "Gbako",
+      "code": "NG-NI-7730015",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-NI",
+      "latitude": 9.28456,
+      "longitude": 5.98614
+    },
+    {
+      "id": 7730017,
+      "name": "Gurara",
+      "nativeName": "Gurara",
+      "code": "NG-NI-7730017",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-NI",
+      "latitude": 9.32203,
+      "longitude": 7.02318
+    },
+    {
+      "id": 7701432,
+      "name": "Katcha",
+      "nativeName": "Katcha",
+      "code": "NG-NI-7701432",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-NI",
+      "latitude": 9.15,
+      "longitude": 6.23333
+    },
+    {
+      "id": 8634913,
+      "name": "Kontagora",
+      "nativeName": "Kontagora",
+      "code": "NG-NI-8634913",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-NI",
+      "latitude": 10.45225,
+      "longitude": 5.4795
+    },
+    {
+      "id": 8634957,
+      "name": "Lapai",
+      "nativeName": "Lapai",
+      "code": "NG-NI-8634957",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-NI",
+      "latitude": 8.79818,
+      "longitude": 6.67551
+    },
+    {
+      "id": 7730021,
+      "name": "Lavun",
+      "nativeName": "Lavun",
+      "code": "NG-NI-7730021",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-NI",
+      "latitude": 9.27348,
+      "longitude": 5.6833
+    },
+    {
+      "id": 7701433,
+      "name": "Magama",
+      "nativeName": "Magama",
+      "code": "NG-NI-7701433",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-NI",
+      "latitude": 10.46667,
+      "longitude": 5.05
+    },
+    {
+      "id": 8634912,
+      "name": "Mariga",
+      "nativeName": "Mariga",
+      "code": "NG-NI-8634912",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-NI",
+      "latitude": 10.69917,
+      "longitude": 5.84038
+    },
+    {
+      "id": 8634916,
+      "name": "Mashegu",
+      "nativeName": "Mashegu",
+      "code": "NG-NI-8634916",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-NI",
+      "latitude": 9.92993,
+      "longitude": 5.23385
+    },
+    {
+      "id": 7701434,
+      "name": "Mokwa",
+      "nativeName": "Mokwa",
+      "code": "NG-NI-7701434",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-NI",
+      "latitude": 9.2,
+      "longitude": 5.33333
+    },
+    {
+      "id": 7730026,
+      "name": "Muya",
+      "nativeName": "Muya",
+      "code": "NG-NI-7730026",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-NI",
+      "latitude": 9.80982,
+      "longitude": 7.01732
+    },
+    {
+      "id": 7730027,
+      "name": "Paikoro",
+      "nativeName": "Paikoro",
+      "code": "NG-NI-7730027",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-NI",
+      "latitude": 9.4681,
+      "longitude": 6.85565
+    },
+    {
+      "id": 7701464,
+      "name": "Rafi",
+      "nativeName": "Rafi",
+      "code": "NG-NI-7701464",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-NI",
+      "latitude": 10.18444,
+      "longitude": 6.25333
+    },
+    {
+      "id": 8634809,
+      "name": "Rijau",
+      "nativeName": "Rijau",
+      "code": "NG-NI-8634809",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-NI",
+      "latitude": 11.0993,
+      "longitude": 5.18826
+    },
+    {
+      "id": 8634914,
+      "name": "Shiroro",
+      "nativeName": "Shiroro",
+      "code": "NG-NI-8634914",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-NI",
+      "latitude": 10.11543,
+      "longitude": 6.68307
+    },
+    {
+      "id": 8634915,
+      "name": "Suleja",
+      "nativeName": "Suleja",
+      "code": "NG-NI-8634915",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-NI",
+      "latitude": 9.21446,
+      "longitude": 7.18864
+    },
+    {
+      "id": 7871248,
+      "name": "Tafa",
+      "nativeName": "Tafa",
+      "code": "NG-NI-7871248",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-NI",
+      "latitude": 9.232,
+      "longitude": 7.23
+    },
+    {
+      "id": 8634918,
+      "name": "Wushishi",
+      "nativeName": "Wushishi",
+      "code": "NG-NI-8634918",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-NI",
+      "latitude": 9.702,
+      "longitude": 5.93662
+    }
+  ]
+}

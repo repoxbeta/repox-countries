@@ -1,0 +1,62 @@
+{
+  "stateId": 12226385,
+  "stateCode": "DZ-52",
+  "countryCode": "DZ",
+  "cities": [
+    {
+      "id": 2504753,
+      "name": "Daïra de Beni Abbes",
+      "nativeName": "Daïra de Beni Abbes",
+      "code": "DZ-52-2504753",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-52",
+      "latitude": 30,
+      "longitude": -3
+    },
+    {
+      "id": 12952442,
+      "name": "El Ouata",
+      "nativeName": "El Ouata",
+      "code": "DZ-52-12952442",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-52",
+      "latitude": 30.30168,
+      "longitude": -1.20458
+    },
+    {
+      "id": 12952443,
+      "name": "Igli",
+      "nativeName": "Igli",
+      "code": "DZ-52-12952443",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-52",
+      "latitude": 30.43987,
+      "longitude": -2.6072
+    },
+    {
+      "id": 12952573,
+      "name": "Kerzaz",
+      "nativeName": "Kerzaz",
+      "code": "DZ-52-12952573",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-52",
+      "latitude": 29.75311,
+      "longitude": -1.16911
+    },
+    {
+      "id": 12952523,
+      "name": "Ouled Khodeir",
+      "nativeName": "Ouled Khodeir",
+      "code": "DZ-52-12952523",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-52",
+      "latitude": 29.15939,
+      "longitude": -1.17004
+    }
+  ]
+}

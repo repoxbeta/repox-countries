@@ -1,0 +1,73 @@
+{
+  "stateId": 3339573,
+  "stateCode": "CZ-80",
+  "countryCode": "CZ",
+  "cities": [
+    {
+      "id": 3078544,
+      "name": "Bruntál District",
+      "nativeName": "Okres Bruntál",
+      "code": "CZ-80-3078544",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-80",
+      "latitude": 50,
+      "longitude": 17.41667
+    },
+    {
+      "id": 3069304,
+      "name": "Nový Jičín District",
+      "nativeName": "Okres Nový Jičín",
+      "code": "CZ-80-3069304",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-80",
+      "latitude": 49.66667,
+      "longitude": 18
+    },
+    {
+      "id": 3076125,
+      "name": "Okres Frýdek-Místek",
+      "nativeName": "Okres Frýdek-Místek",
+      "code": "CZ-80-3076125",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-80",
+      "latitude": 49.58333,
+      "longitude": 18.5
+    },
+    {
+      "id": 3073790,
+      "name": "Okres Karviná",
+      "nativeName": "Okres Karviná",
+      "code": "CZ-80-3073790",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-80",
+      "latitude": 49.83333,
+      "longitude": 18.5
+    },
+    {
+      "id": 3068798,
+      "name": "Okres Ostrava-město",
+      "nativeName": "Okres Ostrava-město",
+      "code": "CZ-80-3068798",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-80",
+      "latitude": 49.83333,
+      "longitude": 18.25
+    },
+    {
+      "id": 3068925,
+      "name": "Opava District",
+      "nativeName": "Okres Opava",
+      "code": "CZ-80-3068925",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-80",
+      "latitude": 49.83333,
+      "longitude": 17.91667
+    }
+  ]
+}

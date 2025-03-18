@@ -1,0 +1,51 @@
+{
+  "stateId": 7628359,
+  "stateCode": "LV-080",
+  "countryCode": "LV",
+  "cities": [
+    {
+      "id": 11352594,
+      "name": "Garkalnes novads",
+      "nativeName": "Garkalnes novads",
+      "code": "LV-080-11352594",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-080",
+      "latitude": 57.03066,
+      "longitude": 24.38152
+    },
+    {
+      "id": 11352871,
+      "name": "Ropažu novads",
+      "nativeName": "Ropažu novads",
+      "code": "LV-080-11352871",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-080",
+      "latitude": 56.96631,
+      "longitude": 24.59688
+    },
+    {
+      "id": 11352923,
+      "name": "Stopiņu novads",
+      "nativeName": "Stopiņu novads",
+      "code": "LV-080-11352923",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-080",
+      "latitude": 56.93014,
+      "longitude": 24.3177
+    },
+    {
+      "id": 11352533,
+      "name": "Vangaži",
+      "nativeName": "Vangaži",
+      "code": "LV-080-11352533",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-080",
+      "latitude": 57.09091,
+      "longitude": 24.5282
+    }
+  ]
+}

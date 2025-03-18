@@ -1,0 +1,39 @@
+{
+  "countryId": 927384,
+  "countryCode": "MW",
+  "states": [
+    {
+      "id": 931597,
+      "name": "Central Region",
+      "nativeName": "Central Region",
+      "code": "MW-C",
+      "internalCode": "C",
+      "countryId": 927384,
+      "countryCode": "MW",
+      "latitude": -13.5,
+      "longitude": 34
+    },
+    {
+      "id": 924591,
+      "name": "Northern Region",
+      "nativeName": "Northern Region",
+      "code": "MW-N",
+      "internalCode": "N",
+      "countryId": 927384,
+      "countryCode": "MW",
+      "latitude": -11,
+      "longitude": 34
+    },
+    {
+      "id": 923817,
+      "name": "Southern Region",
+      "nativeName": "Southern Region",
+      "code": "MW-S",
+      "internalCode": "S",
+      "countryId": 927384,
+      "countryCode": "MW",
+      "latitude": -15.5,
+      "longitude": 35
+    }
+  ]
+}

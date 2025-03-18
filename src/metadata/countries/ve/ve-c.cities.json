@@ -1,0 +1,84 @@
+{
+  "stateId": 3649151,
+  "stateCode": "VE-C",
+  "countryCode": "VE",
+  "cities": [
+    {
+      "id": 3649809,
+      "name": "Achaguas Municipality",
+      "nativeName": "Municipio Achaguas",
+      "code": "VE-C-3649809",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-C",
+      "latitude": 7.25,
+      "longitude": -68.41667
+    },
+    {
+      "id": 8129211,
+      "name": "Biruaca Municipality",
+      "nativeName": "Municipio Biruaca",
+      "code": "VE-C-8129211",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-C",
+      "latitude": 7.84483,
+      "longitude": -67.51679
+    },
+    {
+      "id": 3628397,
+      "name": "Municipio San Fernando",
+      "nativeName": "Municipio San Fernando",
+      "code": "VE-C-3628397",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-C",
+      "latitude": 7.58333,
+      "longitude": -67.16667
+    },
+    {
+      "id": 3631656,
+      "name": "Muñoz Municipality",
+      "nativeName": "Municipio Muñoz",
+      "code": "VE-C-3631656",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-C",
+      "latitude": 7.58333,
+      "longitude": -69.41667
+    },
+    {
+      "id": 3630456,
+      "name": "Pedro Camejo Municipality",
+      "nativeName": "Municipio Pedro Camejo",
+      "code": "VE-C-3630456",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-C",
+      "latitude": 6.5,
+      "longitude": -67.91667
+    },
+    {
+      "id": 3631171,
+      "name": "Páez Municipality",
+      "nativeName": "Municipio Páez",
+      "code": "VE-C-3631171",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-C",
+      "latitude": 7.25,
+      "longitude": -71
+    },
+    {
+      "id": 3628986,
+      "name": "Rómulo Gallegos Municipality",
+      "nativeName": "Municipio Rómulo Gallegos",
+      "code": "VE-C-3628986",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-C",
+      "latitude": 6.75,
+      "longitude": -69.41667
+    }
+  ]
+}

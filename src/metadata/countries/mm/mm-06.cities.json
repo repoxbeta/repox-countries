@@ -1,0 +1,51 @@
+{
+  "stateId": 1298822,
+  "stateCode": "MM-06",
+  "countryCode": "MM",
+  "cities": [
+    {
+      "id": 11154021,
+      "name": "East Yangon",
+      "nativeName": "East Yangon District",
+      "code": "MM-06-11154021",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-06",
+      "latitude": 16.89793,
+      "longitude": 96.24799
+    },
+    {
+      "id": 11154022,
+      "name": "North Yangon District",
+      "nativeName": "Yangon (North)",
+      "code": "MM-06-11154022",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-06",
+      "latitude": 17.26922,
+      "longitude": 96.03035
+    },
+    {
+      "id": 8239357,
+      "name": "West Yangon District",
+      "nativeName": "West Yangon District",
+      "code": "MM-06-8239357",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-06",
+      "latitude": 16.87171,
+      "longitude": 96.12894
+    },
+    {
+      "id": 8239356,
+      "name": "Yangon South District",
+      "nativeName": "Yangon South District",
+      "code": "MM-06-8239356",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-06",
+      "latitude": 16.74051,
+      "longitude": 96.49989
+    }
+  ]
+}

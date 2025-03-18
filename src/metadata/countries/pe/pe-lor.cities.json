@@ -1,0 +1,95 @@
+{
+  "stateId": 3695238,
+  "stateCode": "PE-LOR",
+  "countryCode": "PE",
+  "cities": [
+    {
+      "id": 3699735,
+      "name": "Alto Amazonas Province",
+      "nativeName": "Provincia de Alto Amazonas",
+      "code": "PE-LOR-3699735",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-LOR",
+      "latitude": -5.81276,
+      "longitude": -76.10229
+    },
+    {
+      "id": 8349568,
+      "name": "Datem del Marañón Province",
+      "nativeName": "Datem del Marañón",
+      "code": "PE-LOR-8349568",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-LOR",
+      "latitude": -4.13614,
+      "longitude": -76.97788
+    },
+    {
+      "id": 3695237,
+      "name": "Loreto Province",
+      "nativeName": "Provincia de Loreto",
+      "code": "PE-LOR-3695237",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-LOR",
+      "latitude": -4.05956,
+      "longitude": -75.14965
+    },
+    {
+      "id": 8349567,
+      "name": "Mariscal Ramón Castilla Province",
+      "nativeName": "Mariscal Ramon Castilla",
+      "code": "PE-LOR-8349567",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-LOR",
+      "latitude": -3.92682,
+      "longitude": -71.70057
+    },
+    {
+      "id": 3694873,
+      "name": "Maynas Province",
+      "nativeName": "Provincia de Maynas",
+      "code": "PE-LOR-3694873",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-LOR",
+      "latitude": -2.87238,
+      "longitude": -73.97295
+    },
+    {
+      "id": 12077056,
+      "name": "Putumayo Province",
+      "nativeName": "Putumayo",
+      "code": "PE-LOR-12077056",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-LOR",
+      "latitude": -2.45046,
+      "longitude": -72.66729
+    },
+    {
+      "id": 3692894,
+      "name": "Requena Province",
+      "nativeName": "Provincia de Requena",
+      "code": "PE-LOR-3692894",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-LOR",
+      "latitude": -5.96597,
+      "longitude": -73.94121
+    },
+    {
+      "id": 3691097,
+      "name": "Ucayali Province",
+      "nativeName": "Provincia de Ucayali",
+      "code": "PE-LOR-3691097",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-LOR",
+      "latitude": -7.30705,
+      "longitude": -75.37762
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "stateId": 1733043,
+  "stateCode": "MY-05",
+  "countryCode": "MY",
+  "cities": [
+    {
+      "id": 12231210,
+      "name": "Jelebu",
+      "nativeName": "Jelebu",
+      "code": "MY-05-12231210",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-05",
+      "latitude": 3.04023,
+      "longitude": 102.11391
+    },
+    {
+      "id": 12231212,
+      "name": "Jempol",
+      "nativeName": "Jempol",
+      "code": "MY-05-12231212",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-05",
+      "latitude": 2.84695,
+      "longitude": 102.46726
+    },
+    {
+      "id": 12231337,
+      "name": "Kuala Pilah",
+      "nativeName": "Kuala Pilah",
+      "code": "MY-05-12231337",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-05",
+      "latitude": 2.73025,
+      "longitude": 102.21243
+    },
+    {
+      "id": 12231367,
+      "name": "Port Dickson",
+      "nativeName": "Port Dickson",
+      "code": "MY-05-12231367",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-05",
+      "latitude": 2.53433,
+      "longitude": 101.8922
+    },
+    {
+      "id": 12231294,
+      "name": "Rembau",
+      "nativeName": "Rembau",
+      "code": "MY-05-12231294",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-05",
+      "latitude": 2.56144,
+      "longitude": 102.10003
+    },
+    {
+      "id": 12231312,
+      "name": "Seremban",
+      "nativeName": "Seremban",
+      "code": "MY-05-12231312",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-05",
+      "latitude": 2.75181,
+      "longitude": 101.91826
+    },
+    {
+      "id": 12231290,
+      "name": "Tampin",
+      "nativeName": "Tampin",
+      "code": "MY-05-12231290",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-05",
+      "latitude": 2.55071,
+      "longitude": 102.4599
+    }
+  ]
+}

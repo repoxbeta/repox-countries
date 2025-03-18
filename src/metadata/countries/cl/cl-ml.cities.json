@@ -1,0 +1,51 @@
+{
+  "stateId": 3880306,
+  "stateCode": "CL-ML",
+  "countryCode": "CL",
+  "cities": [
+    {
+      "id": 8181713,
+      "name": "Provincia de Cauquenes",
+      "nativeName": "Provincia de Cauquenes",
+      "code": "CL-ML-8181713",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-ML",
+      "latitude": -35.96828,
+      "longitude": -72.32918
+    },
+    {
+      "id": 3892868,
+      "name": "Provincia de Curicó",
+      "nativeName": "Provincia de Curicó",
+      "code": "CL-ML-3892868",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-ML",
+      "latitude": -35.04932,
+      "longitude": -71.09148
+    },
+    {
+      "id": 3883166,
+      "name": "Provincia de Linares",
+      "nativeName": "Provincia de Linares",
+      "code": "CL-ML-3883166",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-ML",
+      "latitude": -36.02955,
+      "longitude": -71.43099
+    },
+    {
+      "id": 3870289,
+      "name": "Provincia de Talca",
+      "nativeName": "Provincia de Talca",
+      "code": "CL-ML-3870289",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-ML",
+      "latitude": -35.4378,
+      "longitude": -71.35326
+    }
+  ]
+}

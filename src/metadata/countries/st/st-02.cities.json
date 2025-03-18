@@ -1,0 +1,73 @@
+{
+  "stateId": 2410764,
+  "stateCode": "ST-02",
+  "countryCode": "ST",
+  "cities": [
+    {
+      "id": 11203920,
+      "name": "Agua Grande",
+      "nativeName": "Água Grande District",
+      "code": "ST-02-11203920",
+      "countryId": 2410758,
+      "countryCode": "ST",
+      "stateCode": "ST-02",
+      "latitude": 0.33333,
+      "longitude": 6.73333
+    },
+    {
+      "id": 11204213,
+      "name": "Cantagalo",
+      "nativeName": "Cantagalo District",
+      "code": "ST-02-11204213",
+      "countryId": 2410758,
+      "countryCode": "ST",
+      "stateCode": "ST-02",
+      "latitude": 0.21667,
+      "longitude": 6.7
+    },
+    {
+      "id": 11994811,
+      "name": "Caue",
+      "nativeName": "Caué District",
+      "code": "ST-02-11994811",
+      "countryId": 2410758,
+      "countryCode": "ST",
+      "stateCode": "ST-02",
+      "latitude": 0.13415,
+      "longitude": 6.63825
+    },
+    {
+      "id": 8299560,
+      "name": "Lemba",
+      "nativeName": "Lemba District",
+      "code": "ST-02-8299560",
+      "countryId": 2410758,
+      "countryCode": "ST",
+      "stateCode": "ST-02",
+      "latitude": 0.28118,
+      "longitude": 6.49944
+    },
+    {
+      "id": 8299561,
+      "name": "Lobata",
+      "nativeName": "Lobata District",
+      "code": "ST-02-8299561",
+      "countryId": 2410758,
+      "countryCode": "ST",
+      "stateCode": "ST-02",
+      "latitude": 0.36873,
+      "longitude": 6.6384
+    },
+    {
+      "id": 11203894,
+      "name": "Me Zochi",
+      "nativeName": "Mé-Zóchi District",
+      "code": "ST-02-11203894",
+      "countryId": 2410758,
+      "countryCode": "ST",
+      "stateCode": "ST-02",
+      "latitude": 0.25,
+      "longitude": 6.66667
+    }
+  ]
+}

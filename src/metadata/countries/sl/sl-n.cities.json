@@ -1,0 +1,51 @@
+{
+  "stateId": 2404798,
+  "stateCode": "SL-N",
+  "countryCode": "SL",
+  "cities": [
+    {
+      "id": 2409983,
+      "name": "Bombali District",
+      "nativeName": "Bombali District",
+      "code": "SL-N-2409983",
+      "countryId": 2403846,
+      "countryCode": "SL",
+      "stateCode": "SL-N",
+      "latitude": 9.28444,
+      "longitude": -12.16449
+    },
+    {
+      "id": 11876020,
+      "name": "Falaba District",
+      "nativeName": "Falaba District",
+      "code": "SL-N-11876020",
+      "countryId": 2403846,
+      "countryCode": "SL",
+      "stateCode": "SL-N",
+      "latitude": 9.62602,
+      "longitude": -11.13418
+    },
+    {
+      "id": 2407650,
+      "name": "Koinadugu District",
+      "nativeName": "Koinadugu District",
+      "code": "SL-N-2407650",
+      "countryId": 2403846,
+      "countryCode": "SL",
+      "stateCode": "SL-N",
+      "latitude": 9.50991,
+      "longitude": -11.34601
+    },
+    {
+      "id": 2403287,
+      "name": "Tonkolili District",
+      "nativeName": "Tonkolili District",
+      "code": "SL-N-2403287",
+      "countryId": 2403846,
+      "countryCode": "SL",
+      "stateCode": "SL-N",
+      "latitude": 8.61885,
+      "longitude": -11.84173
+    }
+  ]
+}

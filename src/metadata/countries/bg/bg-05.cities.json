@@ -1,0 +1,128 @@
+{
+  "stateId": 864562,
+  "stateCode": "BG-05",
+  "countryCode": "BG",
+  "cities": [
+    {
+      "id": 733308,
+      "name": "Belogradchik",
+      "nativeName": "Obshtina Belogradchik",
+      "code": "BG-05-733308",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-05",
+      "latitude": 43.65,
+      "longitude": 22.6
+    },
+    {
+      "id": 732972,
+      "name": "Boynitsa",
+      "nativeName": "Obshtina Boynitsa",
+      "code": "BG-05-732972",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-05",
+      "latitude": 44,
+      "longitude": 22.55
+    },
+    {
+      "id": 732914,
+      "name": "Bregovo",
+      "nativeName": "Obshtina Bregovo",
+      "code": "BG-05-732914",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-05",
+      "latitude": 44.11667,
+      "longitude": 22.7
+    },
+    {
+      "id": 732399,
+      "name": "Chuprene",
+      "nativeName": "Obshtina Chuprene",
+      "code": "BG-05-732399",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-05",
+      "latitude": 43.5,
+      "longitude": 22.71667
+    },
+    {
+      "id": 732252,
+      "name": "Dimovo",
+      "nativeName": "Obshtina Dimovo",
+      "code": "BG-05-732252",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-05",
+      "latitude": 43.75,
+      "longitude": 22.81667
+    },
+    {
+      "id": 731054,
+      "name": "Gramada",
+      "nativeName": "Obshtina Gramada",
+      "code": "BG-05-731054",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-05",
+      "latitude": 43.83333,
+      "longitude": 22.65
+    },
+    {
+      "id": 729824,
+      "name": "Kula",
+      "nativeName": "Obshtina Kula",
+      "code": "BG-05-729824",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-05",
+      "latitude": 43.9,
+      "longitude": 22.56667
+    },
+    {
+      "id": 729400,
+      "name": "Makresh",
+      "nativeName": "Obshtina Makresh",
+      "code": "BG-05-729400",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-05",
+      "latitude": 43.78333,
+      "longitude": 22.56667
+    },
+    {
+      "id": 728704,
+      "name": "Novo Selo",
+      "nativeName": "Obshtina Novo Selo",
+      "code": "BG-05-728704",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-05",
+      "latitude": 44.11667,
+      "longitude": 22.83333
+    },
+    {
+      "id": 727494,
+      "name": "Ruzhintsi",
+      "nativeName": "Obshtina Ruzhintsi",
+      "code": "BG-05-727494",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-05",
+      "latitude": 43.65,
+      "longitude": 22.9
+    },
+    {
+      "id": 725904,
+      "name": "Vidin",
+      "nativeName": "Obshtina Vidin",
+      "code": "BG-05-725904",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-05",
+      "latitude": 44,
+      "longitude": 22.83333
+    }
+  ]
+}

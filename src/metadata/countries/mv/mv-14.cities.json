@@ -1,0 +1,73 @@
+{
+  "stateId": 1282393,
+  "stateCode": "MV-14",
+  "countryCode": "MV",
+  "cities": [
+    {
+      "id": 12494177,
+      "name": "Nilandhoo",
+      "nativeName": "Nilandhoo",
+      "code": "MV-14-12494177",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-14",
+      "latitude": 3.05667,
+      "longitude": 72.89
+    },
+    {
+      "id": 11694901,
+      "name": "Bileiydhoo",
+      "nativeName": "Bileiydhoo",
+      "code": "MV-14-11694901",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-14",
+      "latitude": 3.11682,
+      "longitude": 72.98518
+    },
+    {
+      "id": 11694904,
+      "name": "Dharanboodhoo",
+      "nativeName": "Dharanboodhoo",
+      "code": "MV-14-11694904",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-14",
+      "latitude": 3.0615,
+      "longitude": 72.92544
+    },
+    {
+      "id": 11694902,
+      "name": "Feeali",
+      "nativeName": "Feeali",
+      "code": "MV-14-11694902",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-14",
+      "latitude": 3.26949,
+      "longitude": 73.00295
+    },
+    {
+      "id": 6692727,
+      "name": "Filitheyo Island",
+      "nativeName": "Filitheyo Island",
+      "code": "MV-14-6692727",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-14",
+      "latitude": 3.21375,
+      "longitude": 73.03662
+    },
+    {
+      "id": 1337608,
+      "name": "Magoodhoo",
+      "nativeName": "Magoodhoo",
+      "code": "MV-14-1337608",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-14",
+      "latitude": 3.07922,
+      "longitude": 72.96488
+    }
+  ]
+}

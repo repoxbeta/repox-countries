@@ -1,0 +1,51 @@
+{
+  "stateId": 444183,
+  "stateCode": "ET-GA",
+  "countryCode": "ET",
+  "cities": [
+    {
+      "id": 7732967,
+      "name": "Administrative Zone 1",
+      "nativeName": "Administrative Zone 1",
+      "code": "ET-GA-7732967",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-GA",
+      "latitude": 8.14699,
+      "longitude": 33.97335
+    },
+    {
+      "id": 11750818,
+      "name": "Anywaa Zone",
+      "nativeName": "Anywaa Zone",
+      "code": "ET-GA-11750818",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-GA",
+      "latitude": 7.6529,
+      "longitude": 34.44645
+    },
+    {
+      "id": 11750819,
+      "name": "Majang Zone",
+      "nativeName": "Majang Zone",
+      "code": "ET-GA-11750819",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-GA",
+      "latitude": 7.34579,
+      "longitude": 35.12785
+    },
+    {
+      "id": 11750817,
+      "name": "Nuer Zone",
+      "nativeName": "Nuer Zone",
+      "code": "ET-GA-11750817",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-GA",
+      "latitude": 8.3343,
+      "longitude": 33.44354
+    }
+  ]
+}

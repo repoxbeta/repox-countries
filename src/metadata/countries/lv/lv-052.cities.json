@@ -1,0 +1,62 @@
+{
+  "stateId": 7628322,
+  "stateCode": "LV-052",
+  "countryCode": "LV",
+  "cities": [
+    {
+      "id": 11352984,
+      "name": "Baldone",
+      "nativeName": "Baldone",
+      "code": "LV-052-11352984",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-052",
+      "latitude": 56.74526,
+      "longitude": 24.40524
+    },
+    {
+      "id": 11352484,
+      "name": "Baldones pagasts",
+      "nativeName": "Baldones pagasts",
+      "code": "LV-052-11352484",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-052",
+      "latitude": 56.73084,
+      "longitude": 24.37127
+    },
+    {
+      "id": 11352674,
+      "name": "Baloži",
+      "nativeName": "Baloži",
+      "code": "LV-052-11352674",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-052",
+      "latitude": 56.8715,
+      "longitude": 24.12797
+    },
+    {
+      "id": 11352675,
+      "name": "Daugmales pagasts",
+      "nativeName": "Daugmales pagasts",
+      "code": "LV-052-11352675",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-052",
+      "latitude": 56.80368,
+      "longitude": 24.44429
+    },
+    {
+      "id": 11352678,
+      "name": "Ķekavas pagasts",
+      "nativeName": "Ķekavas pagasts",
+      "code": "LV-052-11352678",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-052",
+      "latitude": 56.79392,
+      "longitude": 24.17881
+    }
+  ]
+}

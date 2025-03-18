@@ -1,0 +1,29 @@
+{
+  "stateId": 3237716,
+  "stateCode": "JE-3237716",
+  "countryCode": "JE",
+  "cities": [
+    {
+      "id": 8181789,
+      "name": "Fliquet",
+      "nativeName": "Fliquet",
+      "code": "JE-3237716-8181789",
+      "countryId": 3042142,
+      "countryCode": "JE",
+      "stateCode": "JE-3237716",
+      "latitude": 49.2278,
+      "longitude": -2.02869
+    },
+    {
+      "id": 8199130,
+      "name": "St Martin",
+      "nativeName": "St Martin",
+      "code": "JE-3237716-8199130",
+      "countryId": 3042142,
+      "countryCode": "JE",
+      "stateCode": "JE-3237716",
+      "latitude": 49.22006,
+      "longitude": -2.05127
+    }
+  ]
+}

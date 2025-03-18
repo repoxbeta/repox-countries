@@ -1,0 +1,260 @@
+{
+  "stateId": 1215638,
+  "stateCode": "ID-AC",
+  "countryCode": "ID",
+  "cities": [
+    {
+      "id": 6705241,
+      "name": "Aceh Jaya Regency",
+      "nativeName": "Kabupaten Aceh Jaya",
+      "code": "ID-AC-6705241",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-AC",
+      "latitude": 4.86,
+      "longitude": 95.64
+    },
+    {
+      "id": 6713333,
+      "name": "Aceh Singkil Regency",
+      "nativeName": "Kabupaten Aceh Singkil",
+      "code": "ID-AC-6713333",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-AC",
+      "latitude": 2.38333,
+      "longitude": 97.96667
+    },
+    {
+      "id": 6701575,
+      "name": "Aceh Tamiang Regency",
+      "nativeName": "Kabupaten Aceh Tamiang",
+      "code": "ID-AC-6701575",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-AC",
+      "latitude": 4.23333,
+      "longitude": 97.93333
+    },
+    {
+      "id": 6712486,
+      "name": "Bener Meriah Regency",
+      "nativeName": "Kabupaten Bener Meriah",
+      "code": "ID-AC-6712486",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-AC",
+      "latitude": 4.73015,
+      "longitude": 96.86156
+    },
+    {
+      "id": 6729814,
+      "name": "Bireuën Regency",
+      "nativeName": "Kabupaten Bireuen",
+      "code": "ID-AC-6729814",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-AC",
+      "latitude": 5.11667,
+      "longitude": 96.6
+    },
+    {
+      "id": 1215633,
+      "name": "Central Aceh Regency",
+      "nativeName": "Kabupaten Aceh Tengah",
+      "code": "ID-AC-1215633",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-AC",
+      "latitude": 4.51,
+      "longitude": 96.855
+    },
+    {
+      "id": 1215631,
+      "name": "East Aceh Regency",
+      "nativeName": "Kabupaten Aceh Timur",
+      "code": "ID-AC-1215631",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-AC",
+      "latitude": 4.61667,
+      "longitude": 97.71667
+    },
+    {
+      "id": 8224054,
+      "name": "Gayo Lues Regency",
+      "nativeName": "Kabupaten Gayo Lues",
+      "code": "ID-AC-8224054",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-AC",
+      "latitude": 3.95,
+      "longitude": 97.39
+    },
+    {
+      "id": 1215635,
+      "name": "Great Aceh Regency",
+      "nativeName": "Kabupaten Aceh Besar",
+      "code": "ID-AC-1215635",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-AC",
+      "latitude": 5.4,
+      "longitude": 95.5
+    },
+    {
+      "id": 1215501,
+      "name": "Kota Banda Aceh",
+      "nativeName": "Kota Banda Aceh",
+      "code": "ID-AC-1215501",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-AC",
+      "latitude": 5.55556,
+      "longitude": 95.32639
+    },
+    {
+      "id": 8224053,
+      "name": "Kota Langsa",
+      "nativeName": "Kota Langsa",
+      "code": "ID-AC-8224053",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-AC",
+      "latitude": 4.47,
+      "longitude": 97.93
+    },
+    {
+      "id": 6719204,
+      "name": "Kota Lhokseumawe",
+      "nativeName": "Kota Lhokseumawe",
+      "code": "ID-AC-6719204",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-AC",
+      "latitude": 5.18271,
+      "longitude": 97.12774
+    },
+    {
+      "id": 1214025,
+      "name": "Kota Sabang",
+      "nativeName": "Kota Sabang",
+      "code": "ID-AC-1214025",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-AC",
+      "latitude": 5.87944,
+      "longitude": 95.33223
+    },
+    {
+      "id": 8571638,
+      "name": "Kota Subulussalam",
+      "nativeName": "Kota Subulussalam",
+      "code": "ID-AC-8571638",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-AC",
+      "latitude": 2.73333,
+      "longitude": 97.93333
+    },
+    {
+      "id": 6703019,
+      "name": "Nagan Raya Regency",
+      "nativeName": "Kabupaten Nagan Raya",
+      "code": "ID-AC-6703019",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-AC",
+      "latitude": 4.15,
+      "longitude": 96.5
+    },
+    {
+      "id": 1215630,
+      "name": "North Aceh Regency",
+      "nativeName": "Kabupaten Aceh Utara",
+      "code": "ID-AC-1215630",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-AC",
+      "latitude": 4.97,
+      "longitude": 97.14
+    },
+    {
+      "id": 8571637,
+      "name": "Pidie Jaya Regency",
+      "nativeName": "Kabupaten Pidie Jaya",
+      "code": "ID-AC-8571637",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-AC",
+      "latitude": 5.15,
+      "longitude": 96.21667
+    },
+    {
+      "id": 8224055,
+      "name": "Pidie Regency",
+      "nativeName": "Kabupaten Pidie",
+      "code": "ID-AC-8224055",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-AC",
+      "latitude": 5.08,
+      "longitude": 96.11
+    },
+    {
+      "id": 6704825,
+      "name": "Simeulue Regency",
+      "nativeName": "Kabupaten Simeulue",
+      "code": "ID-AC-6704825",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-AC",
+      "latitude": 2.61972,
+      "longitude": 96.07667
+    },
+    {
+      "id": 1215634,
+      "name": "South Aceh Regency",
+      "nativeName": "Kabupaten Aceh Selatan",
+      "code": "ID-AC-1215634",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-AC",
+      "latitude": 3.16667,
+      "longitude": 97.4
+    },
+    {
+      "id": 1215632,
+      "name": "Southeast Aceh Regency",
+      "nativeName": "Kabupaten Aceh Tenggara",
+      "code": "ID-AC-1215632",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-AC",
+      "latitude": 3.33333,
+      "longitude": 97.7
+    },
+    {
+      "id": 6701674,
+      "name": "Southwest Aceh Regency",
+      "nativeName": "Kabupaten Aceh Barat Daya",
+      "code": "ID-AC-6701674",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-AC",
+      "latitude": 3.81667,
+      "longitude": 96.88333
+    },
+    {
+      "id": 1215636,
+      "name": "West Aceh Regency",
+      "nativeName": "Kabupaten Aceh Barat",
+      "code": "ID-AC-1215636",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-AC",
+      "latitude": 4.43333,
+      "longitude": 96.16667
+    }
+  ]
+}

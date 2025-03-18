@@ -1,0 +1,29 @@
+{
+  "stateId": 3344940,
+  "stateCode": "SI-161",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3199361,
+      "name": "Hodoš",
+      "nativeName": "Hodoš",
+      "code": "SI-161-3199361",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-161",
+      "latitude": 46.82333,
+      "longitude": 16.33417
+    },
+    {
+      "id": 3197161,
+      "name": "Krplivnik",
+      "nativeName": "Krplivnik",
+      "code": "SI-161-3197161",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-161",
+      "latitude": 46.81194,
+      "longitude": 16.31972
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "stateId": 7602869,
+  "stateCode": "CV-RB",
+  "countryCode": "CV",
+  "cities": [
+    {
+      "id": 11996035,
+      "name": "Nossa Senhora da Lapa",
+      "nativeName": "Nossa Senhora da Lapa",
+      "code": "CV-RB-11996035",
+      "countryId": 3374766,
+      "countryCode": "CV",
+      "stateCode": "CV-RB",
+      "latitude": 16.65639,
+      "longitude": -24.32906
+    },
+    {
+      "id": 11996039,
+      "name": "Nossa Senhora do Rosario",
+      "nativeName": "Nossa Senhora do Rosario",
+      "code": "CV-RB-11996039",
+      "countryId": 3374766,
+      "countryCode": "CV",
+      "stateCode": "CV-RB",
+      "latitude": 16.59538,
+      "longitude": -24.1919
+    }
+  ]
+}

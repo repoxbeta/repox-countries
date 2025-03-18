@@ -1,0 +1,95 @@
+{
+  "stateId": 2498541,
+  "stateCode": "DZ-32",
+  "countryCode": "DZ",
+  "cities": [
+    {
+      "id": 12952671,
+      "name": "Boualem",
+      "nativeName": "Boualem",
+      "code": "DZ-32-12952671",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-32",
+      "latitude": 33.65454,
+      "longitude": 1.49642
+    },
+    {
+      "id": 12952674,
+      "name": "Bougtoub",
+      "nativeName": "Bougtoub",
+      "code": "DZ-32-12952674",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-32",
+      "latitude": 33.98686,
+      "longitude": 0.25833
+    },
+    {
+      "id": 12952425,
+      "name": "Boussemghoun",
+      "nativeName": "Boussemghoun",
+      "code": "DZ-32-12952425",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-32",
+      "latitude": 32.82596,
+      "longitude": 0.04917
+    },
+    {
+      "id": 12952676,
+      "name": "Brezina",
+      "nativeName": "Brezina",
+      "code": "DZ-32-12952676",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-32",
+      "latitude": 32.74105,
+      "longitude": 1.66165
+    },
+    {
+      "id": 12952677,
+      "name": "Chellala",
+      "nativeName": "Chellala",
+      "code": "DZ-32-12952677",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-32",
+      "latitude": 33.3025,
+      "longitude": 0.31983
+    },
+    {
+      "id": 12952429,
+      "name": "El Bayadh",
+      "nativeName": "El Bayadh",
+      "code": "DZ-32-12952429",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-32",
+      "latitude": 33.65033,
+      "longitude": 1.01312
+    },
+    {
+      "id": 12952678,
+      "name": "Labiodh Sidi Cheikh",
+      "nativeName": "Labiodh Sidi Cheikh",
+      "code": "DZ-32-12952678",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-32",
+      "latitude": 31.94412,
+      "longitude": 0.63243
+    },
+    {
+      "id": 12952679,
+      "name": "Rogassa",
+      "nativeName": "Rogassa",
+      "code": "DZ-32-12952679",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-32",
+      "latitude": 34.01751,
+      "longitude": 0.80839
+    }
+  ]
+}

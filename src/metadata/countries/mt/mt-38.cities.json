@@ -1,0 +1,40 @@
+{
+  "stateId": 8299737,
+  "stateCode": "MT-38",
+  "countryCode": "MT",
+  "cities": [
+    {
+      "id": 2562683,
+      "name": "Naxxar",
+      "nativeName": "Naxxar",
+      "code": "MT-38-2562683",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-38",
+      "latitude": 35.91361,
+      "longitude": 14.44361
+    },
+    {
+      "id": 2563230,
+      "name": "Baħar iċ-Ċagħaq",
+      "nativeName": "Baħar iċ-Ċagħaq",
+      "code": "MT-38-2563230",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-38",
+      "latitude": 35.93861,
+      "longitude": 14.45417
+    },
+    {
+      "id": 2562774,
+      "name": "Magħtab",
+      "nativeName": "Magħtab",
+      "code": "MT-38-2562774",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-38",
+      "latitude": 35.93639,
+      "longitude": 14.44778
+    }
+  ]
+}

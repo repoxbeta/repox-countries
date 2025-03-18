@@ -1,0 +1,62 @@
+{
+  "stateId": 3344950,
+  "stateCode": "AL-10",
+  "countryCode": "AL",
+  "cities": [
+    {
+      "id": 10944412,
+      "name": "Bashkia Fushë Arrës",
+      "nativeName": "Bashkia Fushë Arrës",
+      "code": "AL-10-10944412",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-10",
+      "latitude": 42.14753,
+      "longitude": 20.04168
+    },
+    {
+      "id": 10944413,
+      "name": "Bashkia Malësi e Madhe",
+      "nativeName": "Bashkia Malësi e Madhe",
+      "code": "AL-10-10944413",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-10",
+      "latitude": 42.36798,
+      "longitude": 19.58977
+    },
+    {
+      "id": 10944414,
+      "name": "Bashkia Pukë",
+      "nativeName": "Bashkia Pukë",
+      "code": "AL-10-10944414",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-10",
+      "latitude": 42.02997,
+      "longitude": 19.92778
+    },
+    {
+      "id": 10944415,
+      "name": "Bashkia Shkodër",
+      "nativeName": "Bashkia Shkodër",
+      "code": "AL-10-10944415",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-10",
+      "latitude": 42.14386,
+      "longitude": 19.63386
+    },
+    {
+      "id": 10944416,
+      "name": "Bashkia Vau i Dejës",
+      "nativeName": "Bashkia Vau i Dejës",
+      "code": "AL-10-10944416",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-10",
+      "latitude": 42.04834,
+      "longitude": 19.69999
+    }
+  ]
+}

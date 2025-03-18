@@ -1,0 +1,95 @@
+{
+  "stateId": 1151462,
+  "stateCode": "TH-82",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 1153058,
+      "name": "Kapong",
+      "nativeName": "Amphoe Kapong",
+      "code": "TH-82-1153058",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-82",
+      "latitude": 8.74139,
+      "longitude": 98.47542
+    },
+    {
+      "id": 11496465,
+      "name": "Khura Buri",
+      "nativeName": "Amphoe Khura Buri",
+      "code": "TH-82-11496465",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-82",
+      "latitude": 9.18972,
+      "longitude": 98.40806
+    },
+    {
+      "id": 1152639,
+      "name": "Ko Yao",
+      "nativeName": "Amphoe Ko Yao",
+      "code": "TH-82-1152639",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-82",
+      "latitude": 8.06549,
+      "longitude": 98.57851
+    },
+    {
+      "id": 1151986,
+      "name": "Mueang Phang Nga",
+      "nativeName": "Amphoe Mueang Phangnga",
+      "code": "TH-82-1151986",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-82",
+      "latitude": 8.4935,
+      "longitude": 98.50775
+    },
+    {
+      "id": 11496464,
+      "name": "Takua Pa",
+      "nativeName": "Amphoe Takua Pa",
+      "code": "TH-82-11496464",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-82",
+      "latitude": 8.86883,
+      "longitude": 98.33892
+    },
+    {
+      "id": 1150446,
+      "name": "Takua Thung",
+      "nativeName": "Amphoe Takua Thung",
+      "code": "TH-82-1150446",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-82",
+      "latitude": 8.28433,
+      "longitude": 98.3895
+    },
+    {
+      "id": 1150316,
+      "name": "Thai Mueang",
+      "nativeName": "Amphoe Thai Mueang",
+      "code": "TH-82-1150316",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-82",
+      "latitude": 8.48995,
+      "longitude": 98.31292
+    },
+    {
+      "id": 1150220,
+      "name": "Thap Put",
+      "nativeName": "Amphoe Thap Put",
+      "code": "TH-82-1150220",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-82",
+      "latitude": 8.53768,
+      "longitude": 98.63208
+    }
+  ]
+}

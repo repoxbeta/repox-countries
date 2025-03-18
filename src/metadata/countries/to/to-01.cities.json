@@ -1,0 +1,29 @@
+{
+  "stateId": 7668021,
+  "stateCode": "TO-01",
+  "countryCode": "TO",
+  "cities": [
+    {
+      "id": 12041926,
+      "name": "'Eua Prope",
+      "nativeName": "'Eua Prope",
+      "code": "TO-01-12041926",
+      "countryId": 4032283,
+      "countryCode": "TO",
+      "stateCode": "TO-01",
+      "latitude": -21.36958,
+      "longitude": -174.92157
+    },
+    {
+      "id": 12041925,
+      "name": "'Eua fo'ou",
+      "nativeName": "'Eua fo'ou",
+      "code": "TO-01-12041925",
+      "countryId": 4032283,
+      "countryCode": "TO",
+      "stateCode": "TO-01",
+      "latitude": -21.3733,
+      "longitude": -174.95384
+    }
+  ]
+}

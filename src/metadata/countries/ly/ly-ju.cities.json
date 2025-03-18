@@ -1,0 +1,73 @@
+{
+  "stateId": 2219944,
+  "stateCode": "LY-JU",
+  "countryCode": "LY",
+  "cities": [
+    {
+      "id": 2216645,
+      "name": "Hūn",
+      "nativeName": "Hūn",
+      "code": "LY-JU-2216645",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-JU",
+      "latitude": 29.12684,
+      "longitude": 15.94772
+    },
+    {
+      "id": 2220083,
+      "name": "Al Fuqahā’",
+      "nativeName": "Al Fuqahā’",
+      "code": "LY-JU-2220083",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-JU",
+      "latitude": 27.81099,
+      "longitude": 16.38953
+    },
+    {
+      "id": 2213834,
+      "name": "Qaryat Şawwān",
+      "nativeName": "Qaryat Şawwān",
+      "code": "LY-JU-2213834",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-JU",
+      "latitude": 29.1739,
+      "longitude": 16.15598
+    },
+    {
+      "id": 2210627,
+      "name": "Sūknah",
+      "nativeName": "Sūknah",
+      "code": "LY-JU-2210627",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-JU",
+      "latitude": 29.06941,
+      "longitude": 15.78266
+    },
+    {
+      "id": 2209055,
+      "name": "Waddān",
+      "nativeName": "Waddān",
+      "code": "LY-JU-2209055",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-JU",
+      "latitude": 29.1614,
+      "longitude": 16.13904
+    },
+    {
+      "id": 2208518,
+      "name": "Zella",
+      "nativeName": "Zillah",
+      "code": "LY-JU-2208518",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-JU",
+      "latitude": 28.55099,
+      "longitude": 17.54358
+    }
+  ]
+}

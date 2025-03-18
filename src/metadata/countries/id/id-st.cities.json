@@ -1,0 +1,150 @@
+{
+  "stateId": 1626231,
+  "stateCode": "ID-ST",
+  "countryCode": "ID",
+  "cities": [
+    {
+      "id": 9846665,
+      "name": "Banggai Laut Regency",
+      "nativeName": "Kabupaten Banggai Laut",
+      "code": "ID-ST-9846665",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-ST",
+      "latitude": -1.61841,
+      "longitude": 123.49388
+    },
+    {
+      "id": 6983688,
+      "name": "Banggai Regency",
+      "nativeName": "Kabupaten Banggai",
+      "code": "ID-ST-6983688",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-ST",
+      "latitude": -0.91141,
+      "longitude": 122.71836
+    },
+    {
+      "id": 1647571,
+      "name": "Buol Regency",
+      "nativeName": "Kabupaten Buol",
+      "code": "ID-ST-1647571",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-ST",
+      "latitude": 1.04656,
+      "longitude": 121.36867
+    },
+    {
+      "id": 9165691,
+      "name": "Kabupaten Banggai Kepulauan",
+      "nativeName": "Kabupaten Banggai Kepulauan",
+      "code": "ID-ST-9165691",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-ST",
+      "latitude": -1.30236,
+      "longitude": 123.03726
+    },
+    {
+      "id": 1645322,
+      "name": "Kabupaten Donggala",
+      "nativeName": "Kabupaten Donggala",
+      "code": "ID-ST-1645322",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-ST",
+      "latitude": -0.33333,
+      "longitude": 119.85
+    },
+    {
+      "id": 1630720,
+      "name": "Kabupaten Poso",
+      "nativeName": "Kabupaten Poso",
+      "code": "ID-ST-1630720",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-ST",
+      "latitude": -1.68333,
+      "longitude": 120.51667
+    },
+    {
+      "id": 1633033,
+      "name": "Kota Palu",
+      "nativeName": "Kota Palu",
+      "code": "ID-ST-1633033",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-ST",
+      "latitude": -0.86972,
+      "longitude": 119.9
+    },
+    {
+      "id": 9165694,
+      "name": "Morowali Regency",
+      "nativeName": "Morowali Regency",
+      "code": "ID-ST-9165694",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-ST",
+      "latitude": -2.76062,
+      "longitude": 121.95267
+    },
+    {
+      "id": 9827971,
+      "name": "North Morowali Regency",
+      "nativeName": "Kabupaten Morowali Utara",
+      "code": "ID-ST-9827971",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-ST",
+      "latitude": -1.7207,
+      "longitude": 121.24649
+    },
+    {
+      "id": 9165690,
+      "name": "Parigi Moutong Regency",
+      "nativeName": "Kabupaten Parigi Moutong",
+      "code": "ID-ST-9165690",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-ST",
+      "latitude": 0.3368,
+      "longitude": 120.17841
+    },
+    {
+      "id": 9781856,
+      "name": "Sigi Regency",
+      "nativeName": "Kabupaten Sigi",
+      "code": "ID-ST-9781856",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-ST",
+      "latitude": -1.385,
+      "longitude": 119.96694
+    },
+    {
+      "id": 9165688,
+      "name": "Tojo Una-Una Regency",
+      "nativeName": "Tojo Una-Una Regency",
+      "code": "ID-ST-9165688",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-ST",
+      "latitude": -1.2036,
+      "longitude": 121.48201
+    },
+    {
+      "id": 9846654,
+      "name": "Tolitoli Regency",
+      "nativeName": "Kabupaten Toli-Toli",
+      "code": "ID-ST-9846654",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-ST",
+      "latitude": 1.30862,
+      "longitude": 120.88643
+    }
+  ]
+}

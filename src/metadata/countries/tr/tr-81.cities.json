@@ -1,0 +1,84 @@
+{
+  "stateId": 865521,
+  "stateCode": "TR-81",
+  "countryCode": "TR",
+  "cities": [
+    {
+      "id": 8632517,
+      "name": "Akçakoca District",
+      "nativeName": "Akçakoca İlçesi",
+      "code": "TR-81-8632517",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-81",
+      "latitude": 41.08053,
+      "longitude": 31.12966
+    },
+    {
+      "id": 8632518,
+      "name": "Cumayeri District",
+      "nativeName": "Cumayeri İlçesi",
+      "code": "TR-81-8632518",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-81",
+      "latitude": 40.88176,
+      "longitude": 30.94094
+    },
+    {
+      "id": 8632516,
+      "name": "Gölyaka District",
+      "nativeName": "Gölyaka İlçesi",
+      "code": "TR-81-8632516",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-81",
+      "latitude": 40.78644,
+      "longitude": 31.00276
+    },
+    {
+      "id": 8632519,
+      "name": "Gümüşova İlçesi",
+      "nativeName": "Gümüşova İlçesi",
+      "code": "TR-81-8632519",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-81",
+      "latitude": 40.8564,
+      "longitude": 30.94935
+    },
+    {
+      "id": 8632514,
+      "name": "Kaynaşlı District",
+      "nativeName": "Kaynaşlı İlçesi",
+      "code": "TR-81-8632514",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-81",
+      "latitude": 40.77908,
+      "longitude": 31.31135
+    },
+    {
+      "id": 8632513,
+      "name": "Yığılca İlçesi",
+      "nativeName": "Yığılca İlçesi",
+      "code": "TR-81-8632513",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-81",
+      "latitude": 40.96497,
+      "longitude": 31.45672
+    },
+    {
+      "id": 8632515,
+      "name": "Çilimli District",
+      "nativeName": "Çilimli İlçesi",
+      "code": "TR-81-8632515",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-81",
+      "latitude": 40.90267,
+      "longitude": 31.05913
+    }
+  ]
+}

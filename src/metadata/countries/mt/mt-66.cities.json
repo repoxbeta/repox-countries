@@ -1,0 +1,51 @@
+{
+  "stateId": 8299763,
+  "stateCode": "MT-66",
+  "countryCode": "MT",
+  "cities": [
+    {
+      "id": 2562261,
+      "name": "Haz-Zebbug",
+      "nativeName": "Haz-Zebbug",
+      "code": "MT-66-2562261",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-66",
+      "latitude": 35.87194,
+      "longitude": 14.44111
+    },
+    {
+      "id": 2563055,
+      "name": "Għar Ram",
+      "nativeName": "Għar Ram",
+      "code": "MT-66-2563055",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-66",
+      "latitude": 35.87222,
+      "longitude": 14.45833
+    },
+    {
+      "id": 2562404,
+      "name": "Tal-Ħlas",
+      "nativeName": "Tal-Ħlas",
+      "code": "MT-66-2562404",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-66",
+      "latitude": 35.87306,
+      "longitude": 14.45167
+    },
+    {
+      "id": 2563004,
+      "name": "Ħalq Dieri",
+      "nativeName": "Ħalq Dieri",
+      "code": "MT-66-2563004",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-66",
+      "latitude": 35.86861,
+      "longitude": 14.42361
+    }
+  ]
+}

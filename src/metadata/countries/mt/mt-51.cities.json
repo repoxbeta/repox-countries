@@ -1,0 +1,84 @@
+{
+  "stateId": 8299751,
+  "stateCode": "MT-51",
+  "countryCode": "MT",
+  "cities": [
+    {
+      "id": 2562541,
+      "name": "San Pawl il-Baħar",
+      "nativeName": "San Pawl il-Baħar",
+      "code": "MT-51-2562541",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-51",
+      "latitude": 35.95064,
+      "longitude": 14.41561
+    },
+    {
+      "id": 2563172,
+      "name": "Bur Marrad",
+      "nativeName": "Bur Marrad",
+      "code": "MT-51-2563172",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-51",
+      "latitude": 35.93583,
+      "longitude": 14.41389
+    },
+    {
+      "id": 2563178,
+      "name": "Buġibba",
+      "nativeName": "Buġibba",
+      "code": "MT-51-2563178",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-51",
+      "latitude": 35.95139,
+      "longitude": 14.41056
+    },
+    {
+      "id": 2562798,
+      "name": "L-Imbordin",
+      "nativeName": "L-Imbordin",
+      "code": "MT-51-2562798",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-51",
+      "latitude": 35.94333,
+      "longitude": 14.37167
+    },
+    {
+      "id": 2562290,
+      "name": "Wardija Crossroads",
+      "nativeName": "Wardija Crossroads",
+      "code": "MT-51-2562290",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-51",
+      "latitude": 35.93806,
+      "longitude": 14.41111
+    },
+    {
+      "id": 11152670,
+      "name": "Xemxija",
+      "nativeName": "Xemxija",
+      "code": "MT-51-11152670",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-51",
+      "latitude": 35.94959,
+      "longitude": 14.38033
+    },
+    {
+      "id": 2562641,
+      "name": "Qawra",
+      "nativeName": "Qawra",
+      "code": "MT-51-2562641",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-51",
+      "latitude": 35.95694,
+      "longitude": 14.42306
+    }
+  ]
+}

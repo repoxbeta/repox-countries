@@ -1,0 +1,73 @@
+{
+  "stateId": 298298,
+  "stateCode": "TR-64",
+  "countryCode": "TR",
+  "cities": [
+    {
+      "id": 8632461,
+      "name": "Banaz İlçesi",
+      "nativeName": "Banaz İlçesi",
+      "code": "TR-64-8632461",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-64",
+      "latitude": 38.74669,
+      "longitude": 29.75798
+    },
+    {
+      "id": 8632462,
+      "name": "Eşme İlçesi",
+      "nativeName": "Eşme İlçesi",
+      "code": "TR-64-8632462",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-64",
+      "latitude": 38.4093,
+      "longitude": 28.97578
+    },
+    {
+      "id": 8632458,
+      "name": "Karahallı İlçesi",
+      "nativeName": "Karahallı İlçesi",
+      "code": "TR-64-8632458",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-64",
+      "latitude": 38.3309,
+      "longitude": 29.53923
+    },
+    {
+      "id": 7732999,
+      "name": "Merkez",
+      "nativeName": "Merkez",
+      "code": "TR-64-7732999",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-64",
+      "latitude": 38.68463,
+      "longitude": 29.29455
+    },
+    {
+      "id": 8632460,
+      "name": "Sivaslı İlçesi",
+      "nativeName": "Sivaslı İlçesi",
+      "code": "TR-64-8632460",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-64",
+      "latitude": 38.50848,
+      "longitude": 29.69016
+    },
+    {
+      "id": 8632459,
+      "name": "Ulubey",
+      "nativeName": "Ulubey",
+      "code": "TR-64-8632459",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-64",
+      "latitude": 38.4296,
+      "longitude": 29.2964
+    }
+  ]
+}

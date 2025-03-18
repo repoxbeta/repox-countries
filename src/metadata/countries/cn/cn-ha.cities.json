@@ -1,0 +1,205 @@
+{
+  "stateId": 1808520,
+  "stateCode": "CN-HA",
+  "countryCode": "CN",
+  "cities": [
+    {
+      "id": 1817942,
+      "name": "Anyang Shi",
+      "nativeName": "Anyang Shi",
+      "code": "CN-HA-1817942",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-HA",
+      "latitude": 36.13639,
+      "longitude": 114.33667
+    },
+    {
+      "id": 1808765,
+      "name": "Hebi Shi",
+      "nativeName": "Hebi Shi",
+      "code": "CN-HA-1808765",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-HA",
+      "latitude": 35.69472,
+      "longitude": 114.35167
+    },
+    {
+      "id": 1805986,
+      "name": "Jiaozuo Shi",
+      "nativeName": "Jiaozuo Shi",
+      "code": "CN-HA-1805986",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-HA",
+      "latitude": 35.1375,
+      "longitude": 113.14389
+    },
+    {
+      "id": 12324210,
+      "name": "Jiyuan",
+      "nativeName": "Jiyuan",
+      "code": "CN-HA-12324210",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-HA",
+      "latitude": 35.09169,
+      "longitude": 112.3717
+    },
+    {
+      "id": 1804878,
+      "name": "Kaifeng Shi",
+      "nativeName": "Kaifeng Shi",
+      "code": "CN-HA-1804878",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-HA",
+      "latitude": 34.60417,
+      "longitude": 114.49722
+    },
+    {
+      "id": 1801785,
+      "name": "Luoyang Shi",
+      "nativeName": "Luoyang Shi",
+      "code": "CN-HA-1801785",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-HA",
+      "latitude": 34.28333,
+      "longitude": 112.03333
+    },
+    {
+      "id": 1799614,
+      "name": "Nanyang Shi",
+      "nativeName": "Nanyang Shi",
+      "code": "CN-HA-1799614",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-HA",
+      "latitude": 33.15778,
+      "longitude": 112.27444
+    },
+    {
+      "id": 1798826,
+      "name": "Pingdingshan Shi",
+      "nativeName": "Pingdingshan Shi",
+      "code": "CN-HA-1798826",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-HA",
+      "latitude": 33.975,
+      "longitude": 112.95333
+    },
+    {
+      "id": 1941243,
+      "name": "Puyang Shi",
+      "nativeName": "Puyang Shi",
+      "code": "CN-HA-1941243",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-HA",
+      "latitude": 35.75,
+      "longitude": 115.33333
+    },
+    {
+      "id": 1796667,
+      "name": "Sanmenxia Shi",
+      "nativeName": "Sanmenxia Shi",
+      "code": "CN-HA-1796667",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-HA",
+      "latitude": 34.36292,
+      "longitude": 111.10668
+    },
+    {
+      "id": 1796132,
+      "name": "Shangqiu shi",
+      "nativeName": "Shangqiu Shi",
+      "code": "CN-HA-1796132",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-HA",
+      "latitude": 34.32639,
+      "longitude": 115.69722
+    },
+    {
+      "id": 1788571,
+      "name": "Xinxiang Shi",
+      "nativeName": "Xinxiang Shi",
+      "code": "CN-HA-1788571",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-HA",
+      "latitude": 35.30861,
+      "longitude": 114.05111
+    },
+    {
+      "id": 1788527,
+      "name": "Xinyang Shi",
+      "nativeName": "Xinyang Shi",
+      "code": "CN-HA-1788527",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-HA",
+      "latitude": 32.075,
+      "longitude": 114.85333
+    },
+    {
+      "id": 1788045,
+      "name": "Xuchang Shi",
+      "nativeName": "Xuchang Shi",
+      "code": "CN-HA-1788045",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-HA",
+      "latitude": 34.14778,
+      "longitude": 113.71472
+    },
+    {
+      "id": 1784657,
+      "name": "Zhengzhou",
+      "nativeName": "Zhengzhou Shi",
+      "code": "CN-HA-1784657",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-HA",
+      "latitude": 34.68833,
+      "longitude": 113.55417
+    },
+    {
+      "id": 1784128,
+      "name": "Zhoukou Shi",
+      "nativeName": "Zhoukou Shi",
+      "code": "CN-HA-1784128",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-HA",
+      "latitude": 33.80833,
+      "longitude": 114.91194
+    },
+    {
+      "id": 1783872,
+      "name": "Zhumadian Shi",
+      "nativeName": "Zhumadian Shi",
+      "code": "CN-HA-1783872",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-HA",
+      "latitude": 32.99417,
+      "longitude": 114.06167
+    },
+    {
+      "id": 1801930,
+      "name": "luohe shi",
+      "nativeName": "Luohe Shi",
+      "code": "CN-HA-1801930",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-HA",
+      "latitude": 33.68806,
+      "longitude": 113.91306
+    }
+  ]
+}

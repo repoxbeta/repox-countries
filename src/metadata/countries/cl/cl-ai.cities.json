@@ -1,0 +1,51 @@
+{
+  "stateId": 3900333,
+  "stateCode": "CL-AI",
+  "countryCode": "CL",
+  "cities": [
+    {
+      "id": 3896832,
+      "name": "Provincia Capitán Prat",
+      "nativeName": "Provincia Capitán Prat",
+      "code": "CL-AI-3896832",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-AI",
+      "latitude": -47.9755,
+      "longitude": -73.54155
+    },
+    {
+      "id": 3889024,
+      "name": "Provincia General Carrera",
+      "nativeName": "Provincia General Carrera",
+      "code": "CL-AI-3889024",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-AI",
+      "latitude": -46.63435,
+      "longitude": -72.31476
+    },
+    {
+      "id": 3900336,
+      "name": "Provincia de Aisén",
+      "nativeName": "Provincia de Aisén",
+      "code": "CL-AI-3900336",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-AI",
+      "latitude": -45.35626,
+      "longitude": -72.57322
+    },
+    {
+      "id": 8181715,
+      "name": "Provincia de Coyhaique",
+      "nativeName": "Provincia de Coyhaique",
+      "code": "CL-AI-8181715",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-AI",
+      "latitude": -45.63037,
+      "longitude": -72.32025
+    }
+  ]
+}

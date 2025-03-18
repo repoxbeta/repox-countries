@@ -1,0 +1,40 @@
+{
+  "stateId": 1281985,
+  "stateCode": "MV-12",
+  "countryCode": "MV",
+  "cities": [
+    {
+      "id": 1337617,
+      "name": "Muli",
+      "nativeName": "Muli",
+      "code": "MV-12-1337617",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-12",
+      "latitude": 2.92167,
+      "longitude": 73.58111
+    },
+    {
+      "id": 6692728,
+      "name": "Hakuraa Huraa",
+      "nativeName": "Hakuraa Huraa",
+      "code": "MV-12-6692728",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-12",
+      "latitude": 2.85383,
+      "longitude": 73.53889
+    },
+    {
+      "id": 6692729,
+      "name": "Medhufushi",
+      "nativeName": "Medhufushi",
+      "code": "MV-12-6692729",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-12",
+      "latitude": 2.88434,
+      "longitude": 73.57532
+    }
+  ]
+}

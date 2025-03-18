@@ -1,0 +1,183 @@
+{
+  "stateId": 2300569,
+  "stateCode": "GH-AA",
+  "countryCode": "GH",
+  "cities": [
+    {
+      "id": 7648922,
+      "name": "Accra",
+      "nativeName": "Accra",
+      "code": "GH-AA-7648922",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-AA",
+      "latitude": 5.586,
+      "longitude": -0.186
+    },
+    {
+      "id": 12105085,
+      "name": "Ada East",
+      "nativeName": "Ada East",
+      "code": "GH-AA-12105085",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-AA",
+      "latitude": 5.84916,
+      "longitude": 0.55671
+    },
+    {
+      "id": 12105118,
+      "name": "Ada West",
+      "nativeName": "Ada West",
+      "code": "GH-AA-12105118",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-AA",
+      "latitude": 5.8891,
+      "longitude": 0.42096
+    },
+    {
+      "id": 7648926,
+      "name": "Adenta",
+      "nativeName": "Adenta",
+      "code": "GH-AA-7648926",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-AA",
+      "latitude": 5.71417,
+      "longitude": -0.15418
+    },
+    {
+      "id": 7648944,
+      "name": "Ashaiman",
+      "nativeName": "Ashaiman",
+      "code": "GH-AA-7648944",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-AA",
+      "latitude": 5.7,
+      "longitude": -0.03333
+    },
+    {
+      "id": 10375753,
+      "name": "Ga Central Municipal Assembly",
+      "nativeName": "Ga Central Municipal Assembly",
+      "code": "GH-AA-10375753",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-AA",
+      "latitude": 5.62518,
+      "longitude": -0.28475
+    },
+    {
+      "id": 7648980,
+      "name": "Ga East",
+      "nativeName": "Ga East",
+      "code": "GH-AA-7648980",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-AA",
+      "latitude": 5.73333,
+      "longitude": -0.2
+    },
+    {
+      "id": 10375752,
+      "name": "Ga South",
+      "nativeName": "Ga South",
+      "code": "GH-AA-10375752",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-AA",
+      "latitude": 5.55774,
+      "longitude": -0.30343
+    },
+    {
+      "id": 7648981,
+      "name": "Ga West",
+      "nativeName": "Ga West",
+      "code": "GH-AA-7648981",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-AA",
+      "latitude": 5.67252,
+      "longitude": -0.31516
+    },
+    {
+      "id": 12105090,
+      "name": "Kpone Katamanso",
+      "nativeName": "Kpone Katamanso",
+      "code": "GH-AA-12105090",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-AA",
+      "latitude": 5.7568,
+      "longitude": -0.05937
+    },
+    {
+      "id": 12105087,
+      "name": "La Dade Kotopon",
+      "nativeName": "La Dade Kotopon",
+      "code": "GH-AA-12105087",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-AA",
+      "latitude": 5.58682,
+      "longitude": -0.15916
+    },
+    {
+      "id": 12105089,
+      "name": "La Nkwantanang Madina",
+      "nativeName": "La Nkwantanang Madina",
+      "code": "GH-AA-12105089",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-AA",
+      "latitude": 5.74508,
+      "longitude": -0.16625
+    },
+    {
+      "id": 7649010,
+      "name": "Ledzekuku-Krowor",
+      "nativeName": "Ledzekuku-Krowor",
+      "code": "GH-AA-7649010",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-AA",
+      "latitude": 5.6,
+      "longitude": -0.06667
+    },
+    {
+      "id": 12105097,
+      "name": "Ningo Prampram",
+      "nativeName": "Ningo Prampram",
+      "code": "GH-AA-12105097",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-AA",
+      "latitude": 5.81262,
+      "longitude": 0.17136
+    },
+    {
+      "id": 7648971,
+      "name": "Shai Osudoku District",
+      "nativeName": "Shai Osudoku District",
+      "code": "GH-AA-7648971",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-AA",
+      "latitude": 5.895,
+      "longitude": 0.155
+    },
+    {
+      "id": 7649057,
+      "name": "Tema Metropolitan District",
+      "nativeName": "Tema Metropolitan District",
+      "code": "GH-AA-7649057",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-AA",
+      "latitude": 5.6424,
+      "longitude": -0.03477
+    }
+  ]
+}

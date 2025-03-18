@@ -1,0 +1,84 @@
+{
+  "stateId": 1606375,
+  "stateCode": "TH-91",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 7466921,
+      "name": "Khuan Don",
+      "nativeName": "Amphoe Khuan Don",
+      "code": "TH-91-7466921",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-91",
+      "latitude": 6.76978,
+      "longitude": 100.12216
+    },
+    {
+      "id": 7466923,
+      "name": "Khuan Kalong",
+      "nativeName": "Amphoe Khuan Kalong",
+      "code": "TH-91-7466923",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-91",
+      "latitude": 6.90593,
+      "longitude": 100.04178
+    },
+    {
+      "id": 1152425,
+      "name": "La-ngu",
+      "nativeName": "Amphoe La-Ngu",
+      "code": "TH-91-1152425",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-91",
+      "latitude": 6.90392,
+      "longitude": 99.79836
+    },
+    {
+      "id": 7510639,
+      "name": "Manang",
+      "nativeName": "Amphoe Manang",
+      "code": "TH-91-7510639",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-91",
+      "latitude": 7.01822,
+      "longitude": 99.95399
+    },
+    {
+      "id": 6965199,
+      "name": "Mueang Satun",
+      "nativeName": "Amphoe Mueang Satun",
+      "code": "TH-91-6965199",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-91",
+      "latitude": 6.62314,
+      "longitude": 100.06681
+    },
+    {
+      "id": 7510638,
+      "name": "Tha Phae",
+      "nativeName": "Amphoe Tha Phae",
+      "code": "TH-91-7510638",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-91",
+      "latitude": 6.79542,
+      "longitude": 99.91985
+    },
+    {
+      "id": 1150079,
+      "name": "Thung Wa",
+      "nativeName": "Amphoe Thung Wa",
+      "code": "TH-91-1150079",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-91",
+      "latitude": 7.04915,
+      "longitude": 99.76587
+    }
+  ]
+}

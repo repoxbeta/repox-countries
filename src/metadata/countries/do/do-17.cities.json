@@ -1,0 +1,29 @@
+{
+  "stateId": 3495015,
+  "stateCode": "DO-17",
+  "countryCode": "DO",
+  "cities": [
+    {
+      "id": 3512069,
+      "name": "Baní",
+      "nativeName": "Baní",
+      "code": "DO-17-3512069",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-17",
+      "latitude": 18.33333,
+      "longitude": -70.38333
+    },
+    {
+      "id": 3495812,
+      "name": "Nizao",
+      "nativeName": "Nizao",
+      "code": "DO-17-3495812",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-17",
+      "latitude": 18.25,
+      "longitude": -70.21667
+    }
+  ]
+}

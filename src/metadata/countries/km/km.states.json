@@ -1,0 +1,39 @@
+{
+  "countryId": 921929,
+  "countryCode": "KM",
+  "states": [
+    {
+      "id": 921882,
+      "name": "Grande Comore",
+      "nativeName": "Grande Comore",
+      "code": "KM-G",
+      "internalCode": "G",
+      "countryId": 921929,
+      "countryCode": "KM",
+      "latitude": -11.58333,
+      "longitude": 43.33333
+    },
+    {
+      "id": 921780,
+      "name": "Mohéli",
+      "nativeName": "Mohéli",
+      "code": "KM-M",
+      "internalCode": "M",
+      "countryId": 921929,
+      "countryCode": "KM",
+      "latitude": -12.34268,
+      "longitude": 43.73623
+    },
+    {
+      "id": 922001,
+      "name": "Ndzuwani",
+      "nativeName": "Ndzuwani",
+      "code": "KM-A",
+      "internalCode": "A",
+      "countryId": 921929,
+      "countryCode": "KM",
+      "latitude": -12.25,
+      "longitude": 44.41667
+    }
+  ]
+}

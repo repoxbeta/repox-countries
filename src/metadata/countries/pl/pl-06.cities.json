@@ -1,0 +1,271 @@
+{
+  "stateId": 858785,
+  "stateCode": "PL-06",
+  "countryCode": "PL",
+  "cities": [
+    {
+      "id": 7530726,
+      "name": "Biała County",
+      "nativeName": "Biała Podlaska",
+      "code": "PL-06-7530726",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-06",
+      "latitude": 52.028,
+      "longitude": 23.137
+    },
+    {
+      "id": 7530736,
+      "name": "Biłgoraj County",
+      "nativeName": "Powiat biłgorajski",
+      "code": "PL-06-7530736",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-06",
+      "latitude": 50.58582,
+      "longitude": 22.79513
+    },
+    {
+      "id": 7530729,
+      "name": "Chełm",
+      "nativeName": "Chełm",
+      "code": "PL-06-7530729",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-06",
+      "latitude": 51.13558,
+      "longitude": 23.48971
+    },
+    {
+      "id": 7530737,
+      "name": "Chełm County",
+      "nativeName": "Powiat chełmski",
+      "code": "PL-06-7530737",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-06",
+      "latitude": 51.15092,
+      "longitude": 23.38165
+    },
+    {
+      "id": 7530738,
+      "name": "Hrubieszów County",
+      "nativeName": "Powiat hrubieszowski",
+      "code": "PL-06-7530738",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-06",
+      "latitude": 50.70776,
+      "longitude": 23.86307
+    },
+    {
+      "id": 7530739,
+      "name": "Janów County",
+      "nativeName": "Powiat janowski",
+      "code": "PL-06-7530739",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-06",
+      "latitude": 50.74558,
+      "longitude": 22.41147
+    },
+    {
+      "id": 7530740,
+      "name": "Krasnystaw County",
+      "nativeName": "Powiat krasnostawski",
+      "code": "PL-06-7530740",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-06",
+      "latitude": 50.98486,
+      "longitude": 23.17514
+    },
+    {
+      "id": 7530741,
+      "name": "Kraśnik County",
+      "nativeName": "Powiat kraśnicki",
+      "code": "PL-06-7530741",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-06",
+      "latitude": 50.91535,
+      "longitude": 22.14576
+    },
+    {
+      "id": 7530742,
+      "name": "Lubartów County",
+      "nativeName": "Powiat lubartowski",
+      "code": "PL-06-7530742",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-06",
+      "latitude": 51.53497,
+      "longitude": 22.60585
+    },
+    {
+      "id": 7530970,
+      "name": "Lublin",
+      "nativeName": "Lublin",
+      "code": "PL-06-7530970",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-06",
+      "latitude": 51.21819,
+      "longitude": 22.56391
+    },
+    {
+      "id": 7530743,
+      "name": "Lublin County",
+      "nativeName": "Powiat lubelski",
+      "code": "PL-06-7530743",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-06",
+      "latitude": 51.13419,
+      "longitude": 22.46654
+    },
+    {
+      "id": 7530866,
+      "name": "Opole County",
+      "nativeName": "Powiat opolski",
+      "code": "PL-06-7530866",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-06",
+      "latitude": 51.12904,
+      "longitude": 22.00944
+    },
+    {
+      "id": 7530867,
+      "name": "Parczew County",
+      "nativeName": "Powiat parczewski",
+      "code": "PL-06-7530867",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-06",
+      "latitude": 51.59982,
+      "longitude": 22.99629
+    },
+    {
+      "id": 7530949,
+      "name": "Powiat bialski",
+      "nativeName": "Powiat bialski",
+      "code": "PL-06-7530949",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-06",
+      "latitude": 51.97222,
+      "longitude": 23.15328
+    },
+    {
+      "id": 7530874,
+      "name": "Powiat zamojski",
+      "nativeName": "Powiat zamojski",
+      "code": "PL-06-7530874",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-06",
+      "latitude": 50.6916,
+      "longitude": 23.21261
+    },
+    {
+      "id": 7530868,
+      "name": "Puławy County",
+      "nativeName": "Powiat puławski",
+      "code": "PL-06-7530868",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-06",
+      "latitude": 51.41853,
+      "longitude": 22.03752
+    },
+    {
+      "id": 7530869,
+      "name": "Radzyń County",
+      "nativeName": "Powiat radzyński",
+      "code": "PL-06-7530869",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-06",
+      "latitude": 51.78255,
+      "longitude": 22.70758
+    },
+    {
+      "id": 7530870,
+      "name": "Ryki County",
+      "nativeName": "Powiat rycki",
+      "code": "PL-06-7530870",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-06",
+      "latitude": 51.66219,
+      "longitude": 21.92929
+    },
+    {
+      "id": 7530872,
+      "name": "Tomaszów County",
+      "nativeName": "Powiat tomaszowski",
+      "code": "PL-06-7530872",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-06",
+      "latitude": 50.47825,
+      "longitude": 23.52083
+    },
+    {
+      "id": 7530873,
+      "name": "Włodawa County",
+      "nativeName": "Powiat włodawski",
+      "code": "PL-06-7530873",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-06",
+      "latitude": 51.52267,
+      "longitude": 23.38279
+    },
+    {
+      "id": 7530730,
+      "name": "Zamość County",
+      "nativeName": "Zamość",
+      "code": "PL-06-7530730",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-06",
+      "latitude": 50.7214,
+      "longitude": 23.24852
+    },
+    {
+      "id": 7530865,
+      "name": "Łuków County",
+      "nativeName": "Powiat łukowski",
+      "code": "PL-06-7530865",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-06",
+      "latitude": 51.85365,
+      "longitude": 22.24035
+    },
+    {
+      "id": 7530864,
+      "name": "Łęczna County",
+      "nativeName": "Powiat łęczyński",
+      "code": "PL-06-7530864",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-06",
+      "latitude": 51.30429,
+      "longitude": 22.96701
+    },
+    {
+      "id": 7530871,
+      "name": "Świdnik County",
+      "nativeName": "Powiat świdnicki",
+      "code": "PL-06-7530871",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-06",
+      "latitude": 51.1247,
+      "longitude": 22.85397
+    }
+  ]
+}

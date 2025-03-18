@@ -1,0 +1,62 @@
+{
+  "stateId": 2313860,
+  "stateCode": "CD-KG",
+  "countryCode": "CD",
+  "cities": [
+    {
+      "id": 12278090,
+      "name": "Feshi",
+      "nativeName": "Feshi",
+      "code": "CD-KG-12278090",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-KG",
+      "latitude": -6.29713,
+      "longitude": 18.31992
+    },
+    {
+      "id": 12278139,
+      "name": "Kahemba",
+      "nativeName": "Kahemba",
+      "code": "CD-KG-12278139",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-KG",
+      "latitude": -7.30386,
+      "longitude": 19.00485
+    },
+    {
+      "id": 12278070,
+      "name": "Kasongo-Lunda",
+      "nativeName": "Kasongo-Lunda",
+      "code": "CD-KG-12278070",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-KG",
+      "latitude": -7.04828,
+      "longitude": 17.58902
+    },
+    {
+      "id": 12278017,
+      "name": "Kenge",
+      "nativeName": "Kenge",
+      "code": "CD-KG-12278017",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-KG",
+      "latitude": -5.02334,
+      "longitude": 17.0216
+    },
+    {
+      "id": 12278021,
+      "name": "Popokabaka",
+      "nativeName": "Popokabaka",
+      "code": "CD-KG-12278021",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-KG",
+      "latitude": -5.64729,
+      "longitude": 16.57929
+    }
+  ]
+}

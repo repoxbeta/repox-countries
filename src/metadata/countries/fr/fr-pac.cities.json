@@ -1,0 +1,73 @@
+{
+  "stateId": 2985244,
+  "stateCode": "FR-PAC",
+  "countryCode": "FR",
+  "cities": [
+    {
+      "id": 3038049,
+      "name": "Alpes-Maritimes",
+      "nativeName": "Alpes-Maritimes",
+      "code": "FR-PAC-3038049",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-PAC",
+      "latitude": 43.91307,
+      "longitude": 7.20436
+    },
+    {
+      "id": 3038050,
+      "name": "Alpes-de-Haute-Provence",
+      "nativeName": "Alpes-de-Haute-Provence",
+      "code": "FR-PAC-3038050",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-PAC",
+      "latitude": 44.09829,
+      "longitude": 6.26537
+    },
+    {
+      "id": 3031359,
+      "name": "Bouches-du-Rhône",
+      "nativeName": "Bouches-du-Rhône",
+      "code": "FR-PAC-3031359",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-PAC",
+      "latitude": 43.52366,
+      "longitude": 5.4245
+    },
+    {
+      "id": 3013738,
+      "name": "Hautes-Alpes",
+      "nativeName": "Hautes-Alpes",
+      "code": "FR-PAC-3013738",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-PAC",
+      "latitude": 44.68055,
+      "longitude": 6.28969
+    },
+    {
+      "id": 2970749,
+      "name": "Var",
+      "nativeName": "Var",
+      "code": "FR-PAC-2970749",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-PAC",
+      "latitude": 43.4586,
+      "longitude": 6.29145
+    },
+    {
+      "id": 2970554,
+      "name": "Vaucluse",
+      "nativeName": "Département du Vaucluse",
+      "code": "FR-PAC-2970554",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-PAC",
+      "latitude": 44,
+      "longitude": 5.16667
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "stateId": 2497322,
+  "stateCode": "DZ-36",
+  "countryCode": "DZ",
+  "cities": [
+    {
+      "id": 12952683,
+      "name": "Ben M'hidi",
+      "nativeName": "Ben M'hidi",
+      "code": "DZ-36-12952683",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-36",
+      "latitude": 36.81291,
+      "longitude": 8.0137
+    },
+    {
+      "id": 12952684,
+      "name": "Besbes",
+      "nativeName": "Besbes",
+      "code": "DZ-36-12952684",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-36",
+      "latitude": 36.69915,
+      "longitude": 7.8998
+    },
+    {
+      "id": 12952685,
+      "name": "Bouhadjar",
+      "nativeName": "Bouhadjar",
+      "code": "DZ-36-12952685",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-36",
+      "latitude": 36.53233,
+      "longitude": 8.07437
+    },
+    {
+      "id": 12952492,
+      "name": "Bouteldja",
+      "nativeName": "Bouteldja",
+      "code": "DZ-36-12952492",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-36",
+      "latitude": 36.72613,
+      "longitude": 8.14449
+    },
+    {
+      "id": 11204517,
+      "name": "Dréan District",
+      "nativeName": "Dréan District",
+      "code": "DZ-36-11204517",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-36",
+      "latitude": 36.6833,
+      "longitude": 7.75
+    },
+    {
+      "id": 2497985,
+      "name": "El Kala District",
+      "nativeName": "Daïra d’El Kala",
+      "code": "DZ-36-2497985",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-36",
+      "latitude": 36.87923,
+      "longitude": 8.44406
+    },
+    {
+      "id": 12952686,
+      "name": "El Tarf",
+      "nativeName": "El Tarf",
+      "code": "DZ-36-12952686",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-36",
+      "latitude": 36.69817,
+      "longitude": 8.34515
+    }
+  ]
+}

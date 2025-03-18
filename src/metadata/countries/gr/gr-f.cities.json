@@ -1,0 +1,51 @@
+{
+  "stateId": 6697805,
+  "stateCode": "GR-F",
+  "countryCode": "GR",
+  "cities": [
+    {
+      "id": 260310,
+      "name": "Kefallonia Regional Unit",
+      "nativeName": "Kefallonia Regional Unit",
+      "code": "GR-F-260310",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-F",
+      "latitude": 38.25,
+      "longitude": 20.5
+    },
+    {
+      "id": 258445,
+      "name": "Lefkada",
+      "nativeName": "Lefkada",
+      "code": "GR-F-258445",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-F",
+      "latitude": 38.75,
+      "longitude": 20.66667
+    },
+    {
+      "id": 2463676,
+      "name": "Nomós Kerkýras",
+      "nativeName": "Nomós Kerkýras",
+      "code": "GR-F-2463676",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-F",
+      "latitude": 39.66667,
+      "longitude": 19.75
+    },
+    {
+      "id": 251276,
+      "name": "Nomós Zakýnthou",
+      "nativeName": "Nomós Zakýnthou",
+      "code": "GR-F-251276",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-F",
+      "latitude": 37.75,
+      "longitude": 20.75
+    }
+  ]
+}

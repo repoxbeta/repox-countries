@@ -1,0 +1,73 @@
+{
+  "stateId": 7521313,
+  "stateCode": "IE-C",
+  "countryCode": "IE",
+  "cities": [
+    {
+      "id": 2962975,
+      "name": "County Leitrim",
+      "nativeName": "County Leitrim",
+      "code": "IE-C-2962975",
+      "countryId": 2963597,
+      "countryCode": "IE",
+      "stateCode": "IE-C",
+      "latitude": 54.11667,
+      "longitude": -8
+    },
+    {
+      "id": 2962666,
+      "name": "County Mayo",
+      "nativeName": "Mayo County",
+      "code": "IE-C-2962666",
+      "countryId": 2963597,
+      "countryCode": "IE",
+      "stateCode": "IE-C",
+      "latitude": 53.9,
+      "longitude": -9.25
+    },
+    {
+      "id": 2961731,
+      "name": "County Roscommon",
+      "nativeName": "Roscommon",
+      "code": "IE-C-2961731",
+      "countryId": 2963597,
+      "countryCode": "IE",
+      "stateCode": "IE-C",
+      "latitude": 53.75,
+      "longitude": -8.25
+    },
+    {
+      "id": 2961422,
+      "name": "County Sligo",
+      "nativeName": "Sligo",
+      "code": "IE-C-2961422",
+      "countryId": 2963597,
+      "countryCode": "IE",
+      "stateCode": "IE-C",
+      "latitude": 54.25,
+      "longitude": -8.66667
+    },
+    {
+      "id": 2964179,
+      "name": "Galway",
+      "nativeName": "County Galway",
+      "code": "IE-C-2964179",
+      "countryId": 2963597,
+      "countryCode": "IE",
+      "stateCode": "IE-C",
+      "latitude": 53.33333,
+      "longitude": -9
+    },
+    {
+      "id": 7778676,
+      "name": "Galway City",
+      "nativeName": "Galway City",
+      "code": "IE-C-7778676",
+      "countryId": 2963597,
+      "countryCode": "IE",
+      "stateCode": "IE-C",
+      "latitude": 53.2877,
+      "longitude": -9.05004
+    }
+  ]
+}

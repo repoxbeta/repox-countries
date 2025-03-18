@@ -1,0 +1,84 @@
+{
+  "stateId": 3051977,
+  "stateCode": "HU-GS",
+  "countryCode": "HU",
+  "cities": [
+    {
+      "id": 9644149,
+      "name": "Csornai Járás",
+      "nativeName": "Csornai Járás",
+      "code": "HU-GS-9644149",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-GS",
+      "latitude": 47.58403,
+      "longitude": 17.26041
+    },
+    {
+      "id": 9644151,
+      "name": "Győri Járás",
+      "nativeName": "Győri Járás",
+      "code": "HU-GS-9644151",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-GS",
+      "latitude": 47.67273,
+      "longitude": 17.67936
+    },
+    {
+      "id": 9644148,
+      "name": "Kapuvári Járás",
+      "nativeName": "Kapuvári Járás",
+      "code": "HU-GS-9644148",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-GS",
+      "latitude": 47.56705,
+      "longitude": 17.04056
+    },
+    {
+      "id": 9644150,
+      "name": "Mosonmagyaróvár District",
+      "nativeName": "Mosonmagyaróvári járás",
+      "code": "HU-GS-9644150",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-GS",
+      "latitude": 47.85767,
+      "longitude": 17.28212
+    },
+    {
+      "id": 9644153,
+      "name": "Pannonhalmi Járás",
+      "nativeName": "Pannonhalmi Járás",
+      "code": "HU-GS-9644153",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-GS",
+      "latitude": 47.45571,
+      "longitude": 17.81335
+    },
+    {
+      "id": 9644140,
+      "name": "Soproni Járás",
+      "nativeName": "Soproni Járás",
+      "code": "HU-GS-9644140",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-GS",
+      "latitude": 47.60385,
+      "longitude": 16.75654
+    },
+    {
+      "id": 9644152,
+      "name": "Téti Járás",
+      "nativeName": "Téti Járás",
+      "code": "HU-GS-9644152",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-GS",
+      "latitude": 47.51515,
+      "longitude": 17.51612
+    }
+  ]
+}

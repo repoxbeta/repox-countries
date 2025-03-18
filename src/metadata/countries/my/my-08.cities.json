@@ -1,0 +1,117 @@
+{
+  "stateId": 1733041,
+  "stateCode": "MY-08",
+  "countryCode": "MY",
+  "cities": [
+    {
+      "id": 12231165,
+      "name": "Batang Padang",
+      "nativeName": "Batang Padang",
+      "code": "MY-08-12231165",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-08",
+      "latitude": 4.03163,
+      "longitude": 101.37164
+    },
+    {
+      "id": 1734640,
+      "name": "Daerah Kinta",
+      "nativeName": "Daerah Kinta",
+      "code": "MY-08-1734640",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-08",
+      "latitude": 4.5,
+      "longitude": 101.2
+    },
+    {
+      "id": 1734598,
+      "name": "Daerah Kuala Kangsar",
+      "nativeName": "Daerah Kuala Kangsar",
+      "code": "MY-08-1734598",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-08",
+      "latitude": 4.63333,
+      "longitude": 100.9
+    },
+    {
+      "id": 12231350,
+      "name": "Hilir Perak",
+      "nativeName": "Hilir Perak",
+      "code": "MY-08-12231350",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-08",
+      "latitude": 3.93365,
+      "longitude": 101.02522
+    },
+    {
+      "id": 12231222,
+      "name": "Kampar",
+      "nativeName": "Kampar",
+      "code": "MY-08-12231222",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-08",
+      "latitude": 5.22242,
+      "longitude": 100.81814
+    },
+    {
+      "id": 12231324,
+      "name": "Kerian",
+      "nativeName": "Kerian",
+      "code": "MY-08-12231324",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-08",
+      "latitude": 5.01021,
+      "longitude": 100.56226
+    },
+    {
+      "id": 1734400,
+      "name": "Larut Matang & Selama",
+      "nativeName": "Larut Matang & Selama",
+      "code": "MY-08-1734400",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-08",
+      "latitude": 5.06059,
+      "longitude": 100.80217
+    },
+    {
+      "id": 12231352,
+      "name": "Manjung (Dinding)",
+      "nativeName": "Manjung (Dinding)",
+      "code": "MY-08-12231352",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-08",
+      "latitude": 4.32595,
+      "longitude": 100.70581
+    },
+    {
+      "id": 12231240,
+      "name": "Perak Tengah",
+      "nativeName": "Perak Tengah",
+      "code": "MY-08-12231240",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-08",
+      "latitude": 4.2643,
+      "longitude": 100.90971
+    },
+    {
+      "id": 12231280,
+      "name": "Ulu Perak",
+      "nativeName": "Ulu Perak",
+      "code": "MY-08-12231280",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-08",
+      "latitude": 5.4339,
+      "longitude": 101.29601
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "stateId": 6957555,
+  "stateCode": "AF-PAN",
+  "countryCode": "AF",
+  "cities": [
+    {
+      "id": 7054336,
+      "name": "Anaba District",
+      "nativeName": "‘Unābah",
+      "code": "AF-PAN-7054336",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-PAN",
+      "latitude": 35.22401,
+      "longitude": 69.40529
+    },
+    {
+      "id": 7054337,
+      "name": "Bazarak District",
+      "nativeName": "Bāzārak",
+      "code": "AF-PAN-7054337",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-PAN",
+      "latitude": 35.37499,
+      "longitude": 69.51063
+    },
+    {
+      "id": 7054338,
+      "name": "Darah District",
+      "nativeName": "Darah",
+      "code": "AF-PAN-7054338",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-PAN",
+      "latitude": 35.23559,
+      "longitude": 69.77
+    },
+    {
+      "id": 7054339,
+      "name": "Khenj District",
+      "nativeName": "Khinj",
+      "code": "AF-PAN-7054339",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-PAN",
+      "latitude": 35.42963,
+      "longitude": 69.78431
+    },
+    {
+      "id": 7054340,
+      "name": "Paryan District",
+      "nativeName": "Parīān",
+      "code": "AF-PAN-7054340",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-PAN",
+      "latitude": 35.6475,
+      "longitude": 70.04327
+    },
+    {
+      "id": 7054341,
+      "name": "Rokha District",
+      "nativeName": "Rukhah",
+      "code": "AF-PAN-7054341",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-PAN",
+      "latitude": 35.264,
+      "longitude": 69.456
+    },
+    {
+      "id": 7054342,
+      "name": "Shotul District",
+      "nativeName": "Shutul",
+      "code": "AF-PAN-7054342",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-PAN",
+      "latitude": 35.29402,
+      "longitude": 69.30271
+    }
+  ]
+}

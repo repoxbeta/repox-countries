@@ -1,0 +1,183 @@
+{
+  "stateId": 3862286,
+  "stateCode": "AR-K",
+  "countryCode": "AR",
+  "cities": [
+    {
+      "id": 3865661,
+      "name": "Antofagasta de la Sierra Department",
+      "nativeName": "Departamento de Antofagasta de la Sierra",
+      "code": "AR-K-3865661",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-K",
+      "latitude": -26,
+      "longitude": -67.58333
+    },
+    {
+      "id": 3865906,
+      "name": "Departamento de Ambato",
+      "nativeName": "Departamento de Ambato",
+      "code": "AR-K-3865906",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-K",
+      "latitude": -28,
+      "longitude": -65.91667
+    },
+    {
+      "id": 3865829,
+      "name": "Departamento de Ancasti",
+      "nativeName": "Departamento de Ancasti",
+      "code": "AR-K-3865829",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-K",
+      "latitude": -29,
+      "longitude": -65.5
+    },
+    {
+      "id": 3865801,
+      "name": "Departamento de Andalgalá",
+      "nativeName": "Departamento de Andalgalá",
+      "code": "AR-K-3865801",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-K",
+      "latitude": -27.58333,
+      "longitude": -66.46667
+    },
+    {
+      "id": 3864427,
+      "name": "Departamento de Belén",
+      "nativeName": "Departamento de Belén",
+      "code": "AR-K-3864427",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-K",
+      "latitude": -27.08333,
+      "longitude": -66.91667
+    },
+    {
+      "id": 3862771,
+      "name": "Departamento de Capayán",
+      "nativeName": "Departamento de Capayán",
+      "code": "AR-K-3862771",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-K",
+      "latitude": -28.83333,
+      "longitude": -66
+    },
+    {
+      "id": 3862746,
+      "name": "Departamento de Capital",
+      "nativeName": "Departamento de Capital",
+      "code": "AR-K-3862746",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-K",
+      "latitude": -28.41667,
+      "longitude": -65.8
+    },
+    {
+      "id": 3858933,
+      "name": "Departamento de El Alto",
+      "nativeName": "Departamento de El Alto",
+      "code": "AR-K-3858933",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-K",
+      "latitude": -28.41667,
+      "longitude": -65.41667
+    },
+    {
+      "id": 3855367,
+      "name": "Departamento de Fray Mamerto Esquiú",
+      "nativeName": "Departamento de Fray Mamerto Esquiú",
+      "code": "AR-K-3855367",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-K",
+      "latitude": -28.3,
+      "longitude": -65.75
+    },
+    {
+      "id": 3842418,
+      "name": "Departamento de Paclín",
+      "nativeName": "Departamento de Paclín",
+      "code": "AR-K-3842418",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-K",
+      "latitude": -28.08333,
+      "longitude": -65.66667
+    },
+    {
+      "id": 3840808,
+      "name": "Departamento de Pomán",
+      "nativeName": "Departamento de Pomán",
+      "code": "AR-K-3840808",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-K",
+      "latitude": -28.25,
+      "longitude": -66.41667
+    },
+    {
+      "id": 3836129,
+      "name": "Departamento de Santa María",
+      "nativeName": "Departamento de Santa María",
+      "code": "AR-K-3836129",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-K",
+      "latitude": -26.66667,
+      "longitude": -66.41667
+    },
+    {
+      "id": 3835985,
+      "name": "Departamento de Santa Rosa",
+      "nativeName": "Departamento de Santa Rosa",
+      "code": "AR-K-3835985",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-K",
+      "latitude": -28.08333,
+      "longitude": -65.25
+    },
+    {
+      "id": 3833198,
+      "name": "Departamento de Valle Viejo",
+      "nativeName": "Departamento de Valle Viejo",
+      "code": "AR-K-3833198",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-K",
+      "latitude": -28.58333,
+      "longitude": -65.75
+    },
+    {
+      "id": 3849514,
+      "name": "La Paz Department",
+      "nativeName": "Departamento de La Paz",
+      "code": "AR-K-3849514",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-K",
+      "latitude": -29.25,
+      "longitude": -65.25
+    },
+    {
+      "id": 3834360,
+      "name": "Tinogasta Department",
+      "nativeName": "Departamento de Tinogasta",
+      "code": "AR-K-3834360",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-K",
+      "latitude": -27.5,
+      "longitude": -68
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "stateId": 11778173,
+  "stateCode": "BW-ST",
+  "countryCode": "BW",
+  "cities": [
+    {
+      "id": 11593974,
+      "name": "Sowa",
+      "nativeName": "Sowa",
+      "code": "BW-ST-11593974",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "stateCode": "BW-ST",
+      "latitude": -20.564,
+      "longitude": 26.224
+    },
+    {
+      "id": 7761258,
+      "name": "Rantalapye",
+      "nativeName": "Rantalapye",
+      "code": "BW-ST-7761258",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "stateCode": "BW-ST",
+      "latitude": -21.79899,
+      "longitude": 26.63365
+    },
+    {
+      "id": 7761259,
+      "name": "Sowa",
+      "nativeName": "Sowa",
+      "code": "BW-ST-7761259",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "stateCode": "BW-ST",
+      "latitude": -21.82983,
+      "longitude": 26.58695
+    }
+  ]
+}

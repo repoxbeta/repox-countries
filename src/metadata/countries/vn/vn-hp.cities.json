@@ -1,0 +1,172 @@
+{
+  "stateId": 1581297,
+  "stateCode": "VN-HP",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 1905090,
+      "name": "Huyện An Dương",
+      "nativeName": "Huyện An Dương",
+      "code": "VN-HP-1905090",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-HP",
+      "latitude": 20.87465,
+      "longitude": 106.58928
+    },
+    {
+      "id": 1905092,
+      "name": "Huyện An Lão",
+      "nativeName": "Huyện An Lão",
+      "code": "VN-HP-1905092",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-HP",
+      "latitude": 20.80363,
+      "longitude": 106.55785
+    },
+    {
+      "id": 1905097,
+      "name": "Huyện Bạch Long Vỹ",
+      "nativeName": "Huyện Bạch Long Vỹ",
+      "code": "VN-HP-1905097",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-HP",
+      "latitude": 20.13434,
+      "longitude": 107.73279
+    },
+    {
+      "id": 1905096,
+      "name": "Huyện Cát Hải",
+      "nativeName": "Huyện Cát Hải",
+      "code": "VN-HP-1905096",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-HP",
+      "latitude": 20.79124,
+      "longitude": 107.00508
+    },
+    {
+      "id": 1905093,
+      "name": "Huyện Kiến Thụy",
+      "nativeName": "Huyện Kiến Thụy",
+      "code": "VN-HP-1905093",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-HP",
+      "latitude": 20.73166,
+      "longitude": 106.66951
+    },
+    {
+      "id": 1905091,
+      "name": "Huyện Thủy Nguyên",
+      "nativeName": "Huyện Thủy Nguyên",
+      "code": "VN-HP-1905091",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-HP",
+      "latitude": 20.93617,
+      "longitude": 106.67924
+    },
+    {
+      "id": 1905094,
+      "name": "Huyện Tiên Lãng",
+      "nativeName": "Huyện Tiên Lãng",
+      "code": "VN-HP-1905094",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-HP",
+      "latitude": 20.69236,
+      "longitude": 106.59152
+    },
+    {
+      "id": 1905095,
+      "name": "Huyện Vĩnh Bảo",
+      "nativeName": "Huyện Vĩnh Bảo",
+      "code": "VN-HP-1905095",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-HP",
+      "latitude": 20.65951,
+      "longitude": 106.49295
+    },
+    {
+      "id": 1905086,
+      "name": "Lê Chân District",
+      "nativeName": "Quận Lê Chân",
+      "code": "VN-HP-1905086",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-HP",
+      "latitude": 20.84648,
+      "longitude": 106.67364
+    },
+    {
+      "id": 1905087,
+      "name": "Ngô Quyền District",
+      "nativeName": "Quận Ngô Quyền",
+      "code": "VN-HP-1905087",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-HP",
+      "latitude": 20.85279,
+      "longitude": 106.70259
+    },
+    {
+      "id": 8594850,
+      "name": "Quận Dương Kinh",
+      "nativeName": "Quận Dương Kinh",
+      "code": "VN-HP-8594850",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-HP",
+      "latitude": 20.78276,
+      "longitude": 106.71073
+    },
+    {
+      "id": 11497304,
+      "name": "Quận Hải An",
+      "nativeName": "Quận Hải An",
+      "code": "VN-HP-11497304",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-HP",
+      "latitude": 20.84332,
+      "longitude": 106.73561
+    },
+    {
+      "id": 1905858,
+      "name": "Quận Hồng Bàng",
+      "nativeName": "Quận Hồng Bàng",
+      "code": "VN-HP-1905858",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-HP",
+      "latitude": 20.86838,
+      "longitude": 106.65041
+    },
+    {
+      "id": 1905088,
+      "name": "Quận Kiến An",
+      "nativeName": "Quận Kiến An",
+      "code": "VN-HP-1905088",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-HP",
+      "latitude": 20.80555,
+      "longitude": 106.63865
+    },
+    {
+      "id": 1905089,
+      "name": "Quận Đồ Sơn",
+      "nativeName": "Quận Đồ Sơn",
+      "code": "VN-HP-1905089",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-HP",
+      "latitude": 20.71922,
+      "longitude": 106.77054
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "stateId": 8030555,
+  "stateCode": "BS-SO",
+  "countryCode": "BS",
+  "cities": [
+    {
+      "id": 3572556,
+      "name": "Crossing Rocks",
+      "nativeName": "Crossing Rocks",
+      "code": "BS-SO-3572556",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SO",
+      "latitude": 26.13333,
+      "longitude": -77.18333
+    },
+    {
+      "id": 3572072,
+      "name": "Little Bay",
+      "nativeName": "Little Bay",
+      "code": "BS-SO-3572072",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SO",
+      "latitude": 25.83333,
+      "longitude": -77.16667
+    },
+    {
+      "id": 3571500,
+      "name": "Sandy Point",
+      "nativeName": "Sandy Point",
+      "code": "BS-SO-3571500",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SO",
+      "latitude": 26.02052,
+      "longitude": -77.39
+    }
+  ]
+}

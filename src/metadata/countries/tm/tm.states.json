@@ -1,0 +1,72 @@
+{
+  "countryId": 1218197,
+  "countryCode": "TM",
+  "states": [
+    {
+      "id": 162181,
+      "name": "Ahal",
+      "nativeName": "Ahal",
+      "code": "TM-A",
+      "internalCode": "A",
+      "countryId": 1218197,
+      "countryCode": "TM",
+      "latitude": 38.25,
+      "longitude": 59.75
+    },
+    {
+      "id": 162182,
+      "name": "Ashgabat",
+      "nativeName": "Ashgabat",
+      "code": "TM-S",
+      "internalCode": "S",
+      "countryId": 1218197,
+      "countryCode": "TM",
+      "latitude": 37.95,
+      "longitude": 58.38333
+    },
+    {
+      "id": 162152,
+      "name": "Balkan",
+      "nativeName": "Balkan",
+      "code": "TM-B",
+      "internalCode": "B",
+      "countryId": 1218197,
+      "countryCode": "TM",
+      "latitude": 40,
+      "longitude": 54.5
+    },
+    {
+      "id": 601465,
+      "name": "Daşoguz Welaýaty",
+      "nativeName": "Daşoguz Welaýaty",
+      "code": "TM-D",
+      "internalCode": "D",
+      "countryId": 1218197,
+      "countryCode": "TM",
+      "latitude": 41,
+      "longitude": 58.5
+    },
+    {
+      "id": 1219651,
+      "name": "Lebap",
+      "nativeName": "Lebap",
+      "code": "TM-L",
+      "internalCode": "L",
+      "countryId": 1218197,
+      "countryCode": "TM",
+      "latitude": 39,
+      "longitude": 63
+    },
+    {
+      "id": 1218666,
+      "name": "Mary",
+      "nativeName": "Mary",
+      "code": "TM-M",
+      "internalCode": "M",
+      "countryId": 1218197,
+      "countryCode": "TM",
+      "latitude": 37,
+      "longitude": 62.5
+    }
+  ]
+}

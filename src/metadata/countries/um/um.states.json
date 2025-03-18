@@ -1,0 +1,105 @@
+{
+  "countryId": 5854968,
+  "countryCode": "UM",
+  "states": [
+    {
+      "id": 5854907,
+      "name": "Baker Island",
+      "nativeName": "Baker Island",
+      "code": "UM-81",
+      "internalCode": "81",
+      "countryId": 5854968,
+      "countryCode": "UM",
+      "latitude": 0.19472,
+      "longitude": -176.47944
+    },
+    {
+      "id": 5854922,
+      "name": "Howland Island",
+      "nativeName": "Howland Island",
+      "code": "UM-84",
+      "internalCode": "84",
+      "countryId": 5854968,
+      "countryCode": "UM",
+      "latitude": 0.81021,
+      "longitude": -176.61733
+    },
+    {
+      "id": 5854926,
+      "name": "Jarvis Island",
+      "nativeName": "Jarvis Island",
+      "code": "UM-86",
+      "internalCode": "86",
+      "countryId": 5854968,
+      "countryCode": "UM",
+      "latitude": -0.37215,
+      "longitude": -159.99702
+    },
+    {
+      "id": 5854929,
+      "name": "Johnston Atoll",
+      "nativeName": "Johnston Atoll",
+      "code": "UM-67",
+      "internalCode": "67",
+      "countryId": 5854968,
+      "countryCode": "UM",
+      "latitude": 16.73385,
+      "longitude": -169.52754
+    },
+    {
+      "id": 5854936,
+      "name": "Kingman Reef",
+      "nativeName": "Kingman Reef",
+      "code": "UM-89",
+      "internalCode": "89",
+      "countryId": 5854968,
+      "countryCode": "UM",
+      "latitude": 6.38354,
+      "longitude": -162.37537
+    },
+    {
+      "id": 5854943,
+      "name": "Midway Islands",
+      "nativeName": "Midway Atoll",
+      "code": "UM-71",
+      "internalCode": "71",
+      "countryId": 5854968,
+      "countryCode": "UM",
+      "latitude": 28.20935,
+      "longitude": -177.37813
+    },
+    {
+      "id": 4743755,
+      "name": "Navassa Island",
+      "nativeName": "Navassa Island",
+      "code": "UM-76",
+      "internalCode": "76",
+      "countryId": 5854968,
+      "countryCode": "UM",
+      "latitude": 18.403,
+      "longitude": -75.012
+    },
+    {
+      "id": 5854952,
+      "name": "Palmyra Atoll",
+      "nativeName": "Palmyra Atoll",
+      "code": "UM-95",
+      "internalCode": "95",
+      "countryId": 5854968,
+      "countryCode": "UM",
+      "latitude": 5.87727,
+      "longitude": -162.07425
+    },
+    {
+      "id": 4041685,
+      "name": "Wake Island",
+      "nativeName": "Wake Atoll",
+      "code": "UM-79",
+      "internalCode": "79",
+      "countryId": 5854968,
+      "countryCode": "UM",
+      "latitude": 19.28012,
+      "longitude": 166.64828
+    }
+  ]
+}

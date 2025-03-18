@@ -1,0 +1,127 @@
+{
+  "countryId": 4034894,
+  "countryCode": "WS",
+  "states": [
+    {
+      "id": 4035434,
+      "name": "A'ana",
+      "nativeName": "A'ana",
+      "code": "WS-AA",
+      "internalCode": "AA",
+      "countryId": 4034894,
+      "countryCode": "WS",
+      "latitude": -13.88333,
+      "longitude": -171.96667
+    },
+    {
+      "id": 4035425,
+      "name": "Aiga-i-le-Tai",
+      "nativeName": "Aiga-i-le-Tai",
+      "code": "WS-AL",
+      "internalCode": "AL",
+      "countryId": 4034894,
+      "countryCode": "WS",
+      "latitude": -13.85,
+      "longitude": -172.25
+    },
+    {
+      "id": 4035402,
+      "name": "Atua",
+      "nativeName": "Atua",
+      "code": "WS-AT",
+      "internalCode": "AT",
+      "countryId": 4034894,
+      "countryCode": "WS",
+      "latitude": -13.95,
+      "longitude": -171.63333
+    },
+    {
+      "id": 4035383,
+      "name": "Fa'asaleleaga",
+      "nativeName": "Fa‘asaleleaga",
+      "code": "WS-FA",
+      "internalCode": "FA",
+      "countryId": 4034894,
+      "countryCode": "WS",
+      "latitude": -13.66667,
+      "longitude": -172.25
+    },
+    {
+      "id": 4035314,
+      "name": "Gaga'emauga",
+      "nativeName": "Gaga‘emauga",
+      "code": "WS-GE",
+      "internalCode": "GE",
+      "countryId": 4034894,
+      "countryCode": "WS",
+      "latitude": -13.5,
+      "longitude": -172.25
+    },
+    {
+      "id": 4035313,
+      "name": "Gaga'ifomauga",
+      "nativeName": "Gagaifomauga",
+      "code": "WS-GI",
+      "internalCode": "GI",
+      "countryId": 4034894,
+      "countryCode": "WS",
+      "latitude": -13.5,
+      "longitude": -172.5
+    },
+    {
+      "id": 4035154,
+      "name": "Palauli",
+      "nativeName": "Palauli",
+      "code": "WS-PA",
+      "internalCode": "PA",
+      "countryId": 4034894,
+      "countryCode": "WS",
+      "latitude": -13.7,
+      "longitude": -172.46667
+    },
+    {
+      "id": 4035046,
+      "name": "Satupa'itea",
+      "nativeName": "Satupa‘itea",
+      "code": "WS-SA",
+      "internalCode": "SA",
+      "countryId": 4034894,
+      "countryCode": "WS",
+      "latitude": -13.63333,
+      "longitude": -172.63333
+    },
+    {
+      "id": 4034977,
+      "name": "Tuamasaga",
+      "nativeName": "Tuamasaga",
+      "code": "WS-TU",
+      "internalCode": "TU",
+      "countryId": 4034894,
+      "countryCode": "WS",
+      "latitude": -13.91667,
+      "longitude": -171.8
+    },
+    {
+      "id": 4034943,
+      "name": "Va'a-o-Fonoti",
+      "nativeName": "Va‘a-o-Fonoti",
+      "code": "WS-VF",
+      "internalCode": "VF",
+      "countryId": 4034894,
+      "countryCode": "WS",
+      "latitude": -13.95,
+      "longitude": -171.53333
+    },
+    {
+      "id": 4034910,
+      "name": "Vaisigano",
+      "nativeName": "Vaisigano",
+      "code": "WS-VS",
+      "internalCode": "VS",
+      "countryId": 4034894,
+      "countryCode": "WS",
+      "latitude": -13.53333,
+      "longitude": -172.73333
+    }
+  ]
+}

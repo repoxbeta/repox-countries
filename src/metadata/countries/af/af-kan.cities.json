@@ -1,0 +1,183 @@
+{
+  "stateId": 1138335,
+  "stateCode": "AF-KAN",
+  "countryCode": "AF",
+  "cities": [
+    {
+      "id": 7053298,
+      "name": "Arghandab District",
+      "nativeName": "Arghandāb",
+      "code": "AF-KAN-7053298",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-KAN",
+      "latitude": 31.75863,
+      "longitude": 65.64414
+    },
+    {
+      "id": 7053299,
+      "name": "Arghistān",
+      "nativeName": "Arghistān",
+      "code": "AF-KAN-7053299",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-KAN",
+      "latitude": 31.52091,
+      "longitude": 66.55427
+    },
+    {
+      "id": 7053300,
+      "name": "Dāmān",
+      "nativeName": "Dāmān",
+      "code": "AF-KAN-7053300",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-KAN",
+      "latitude": 31.22067,
+      "longitude": 65.74979
+    },
+    {
+      "id": 7053301,
+      "name": "Ghorak District",
+      "nativeName": "Ghōrak",
+      "code": "AF-KAN-7053301",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-KAN",
+      "latitude": 32.0439,
+      "longitude": 65.19566
+    },
+    {
+      "id": 9653599,
+      "name": "Kandahar District",
+      "nativeName": "Kandahar District",
+      "code": "AF-KAN-9653599",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-KAN",
+      "latitude": 31.59205,
+      "longitude": 65.68614
+    },
+    {
+      "id": 7053302,
+      "name": "Khakrez District",
+      "nativeName": "Khākrēz",
+      "code": "AF-KAN-7053302",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-KAN",
+      "latitude": 32.01075,
+      "longitude": 65.50335
+    },
+    {
+      "id": 7053303,
+      "name": "Maruf District",
+      "nativeName": "Ma‘rūf",
+      "code": "AF-KAN-7053303",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-KAN",
+      "latitude": 31.4463,
+      "longitude": 67.25274
+    },
+    {
+      "id": 7053304,
+      "name": "Maywand District",
+      "nativeName": "Maywand",
+      "code": "AF-KAN-7053304",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-KAN",
+      "latitude": 31.58363,
+      "longitude": 64.99332
+    },
+    {
+      "id": 7053305,
+      "name": "Myā Neshīn District",
+      "nativeName": "Myā Neshīn",
+      "code": "AF-KAN-7053305",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-KAN",
+      "latitude": 32.38103,
+      "longitude": 66.33645
+    },
+    {
+      "id": 7053306,
+      "name": "Nesh District",
+      "nativeName": "Nēsh",
+      "code": "AF-KAN-7053306",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-KAN",
+      "latitude": 32.38857,
+      "longitude": 65.70507
+    },
+    {
+      "id": 7053307,
+      "name": "Panjwayi District",
+      "nativeName": "Panjwā’ī",
+      "code": "AF-KAN-7053307",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-KAN",
+      "latitude": 31.0731,
+      "longitude": 65.15899
+    },
+    {
+      "id": 7053308,
+      "name": "Reg District",
+      "nativeName": "Rēgistān",
+      "code": "AF-KAN-7053308",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-KAN",
+      "latitude": 30.12264,
+      "longitude": 65.17349
+    },
+    {
+      "id": 7053179,
+      "name": "Shah Wali Kot District",
+      "nativeName": "Shāh Walī Kōṯ",
+      "code": "AF-KAN-7053179",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-KAN",
+      "latitude": 32.07954,
+      "longitude": 66.00573
+    },
+    {
+      "id": 7053309,
+      "name": "Shorabak District",
+      "nativeName": "Shōrābak",
+      "code": "AF-KAN-7053309",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-KAN",
+      "latitude": 30.16842,
+      "longitude": 66.04062
+    },
+    {
+      "id": 7053310,
+      "name": "Spīn Bōldak",
+      "nativeName": "Spīn Bōldak",
+      "code": "AF-KAN-7053310",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-KAN",
+      "latitude": 30.98792,
+      "longitude": 66.16975
+    },
+    {
+      "id": 7053311,
+      "name": "Zhari District",
+      "nativeName": "Zhaṟêy",
+      "code": "AF-KAN-7053311",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-KAN",
+      "latitude": 31.6418,
+      "longitude": 65.39856
+    }
+  ]
+}

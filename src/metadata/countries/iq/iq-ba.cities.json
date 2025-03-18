@@ -1,0 +1,73 @@
+{
+  "stateId": 89341,
+  "stateCode": "IQ-BA",
+  "countryCode": "IQ",
+  "cities": [
+    {
+      "id": 100049,
+      "name": "Abu Al-Khaseeb District",
+      "nativeName": "Abu Al-Khaseeb District",
+      "code": "IQ-BA-100049",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-BA",
+      "latitude": 30.25,
+      "longitude": 48.1
+    },
+    {
+      "id": 9166549,
+      "name": "Al-Faw District",
+      "nativeName": "Al-Faw District",
+      "code": "IQ-BA-9166549",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-BA",
+      "latitude": 30.09346,
+      "longitude": 48.21259
+    },
+    {
+      "id": 9166563,
+      "name": "Al-Midaina District",
+      "nativeName": "Al-Midaina District",
+      "code": "IQ-BA-9166563",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-BA",
+      "latitude": 30.94095,
+      "longitude": 47.26437
+    },
+    {
+      "id": 98994,
+      "name": "Al-Qurna District",
+      "nativeName": "Al-Qurna District",
+      "code": "IQ-BA-98994",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-BA",
+      "latitude": 31,
+      "longitude": 47.5
+    },
+    {
+      "id": 98247,
+      "name": "Al-Zubair District",
+      "nativeName": "Al-Zubair District",
+      "code": "IQ-BA-98247",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-BA",
+      "latitude": 30.14032,
+      "longitude": 47.05165
+    },
+    {
+      "id": 99534,
+      "name": "Basrah District",
+      "nativeName": "Basrah District",
+      "code": "IQ-BA-99534",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-BA",
+      "latitude": 30.5,
+      "longitude": 47.78333
+    }
+  ]
+}

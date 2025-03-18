@@ -1,0 +1,29 @@
+{
+  "stateId": 7628327,
+  "stateCode": "LV-011",
+  "countryCode": "LV",
+  "cities": [
+    {
+      "id": 11352521,
+      "name": "Carnikavas novads",
+      "nativeName": "Carnikavas novads",
+      "code": "LV-011-11352521",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-011",
+      "latitude": 57.1176,
+      "longitude": 24.24694
+    },
+    {
+      "id": 11352979,
+      "name": "Ādažu novads",
+      "nativeName": "Ādažu novads",
+      "code": "LV-011-11352979",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-011",
+      "latitude": 57.10939,
+      "longitude": 24.38033
+    }
+  ]
+}

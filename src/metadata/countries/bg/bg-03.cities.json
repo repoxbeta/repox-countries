@@ -1,0 +1,139 @@
+{
+  "stateId": 726051,
+  "stateCode": "BG-03",
+  "countryCode": "BG",
+  "cities": [
+    {
+      "id": 733715,
+      "name": "Aksakovo",
+      "nativeName": "Obshtina Aksakovo",
+      "code": "BG-03-733715",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-03",
+      "latitude": 43.31667,
+      "longitude": 27.85
+    },
+    {
+      "id": 733585,
+      "name": "Avren",
+      "nativeName": "Obshtina Avren",
+      "code": "BG-03-733585",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-03",
+      "latitude": 43.1,
+      "longitude": 27.71667
+    },
+    {
+      "id": 733292,
+      "name": "Beloslav",
+      "nativeName": "Obshtina Beloslav",
+      "code": "BG-03-733292",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-03",
+      "latitude": 43.2,
+      "longitude": 27.73333
+    },
+    {
+      "id": 732718,
+      "name": "Byala",
+      "nativeName": "Obshtina Byala",
+      "code": "BG-03-732718",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-03",
+      "latitude": 42.88333,
+      "longitude": 27.81667
+    },
+    {
+      "id": 731821,
+      "name": "Dalgopol",
+      "nativeName": "Obshtina Dalgopol",
+      "code": "BG-03-731821",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-03",
+      "latitude": 43.05,
+      "longitude": 27.35
+    },
+    {
+      "id": 732277,
+      "name": "Devnya",
+      "nativeName": "Obshtina Devnya",
+      "code": "BG-03-732277",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-03",
+      "latitude": 43.22056,
+      "longitude": 27.60052
+    },
+    {
+      "id": 731452,
+      "name": "Dolni Chiflik",
+      "nativeName": "Obshtina Dolni Chiflik",
+      "code": "BG-03-731452",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-03",
+      "latitude": 42.96667,
+      "longitude": 27.68333
+    },
+    {
+      "id": 727919,
+      "name": "Provadia",
+      "nativeName": "Obshtina Provadia",
+      "code": "BG-03-727919",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-03",
+      "latitude": 43.18333,
+      "longitude": 27.4
+    },
+    {
+      "id": 726590,
+      "name": "Suvorovo",
+      "nativeName": "Obshtina Suvorovo",
+      "code": "BG-03-726590",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-03",
+      "latitude": 43.33333,
+      "longitude": 27.65
+    },
+    {
+      "id": 725677,
+      "name": "Valchi Dol",
+      "nativeName": "Obshtina Valchidol",
+      "code": "BG-03-725677",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-03",
+      "latitude": 43.45,
+      "longitude": 27.5
+    },
+    {
+      "id": 726048,
+      "name": "Varna",
+      "nativeName": "Obshtina Varna",
+      "code": "BG-03-726048",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-03",
+      "latitude": 43.21667,
+      "longitude": 27.91667
+    },
+    {
+      "id": 725923,
+      "name": "Vetrino",
+      "nativeName": "Obshtina Vetrino",
+      "code": "BG-03-725923",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-03",
+      "latitude": 43.31667,
+      "longitude": 27.43333
+    }
+  ]
+}

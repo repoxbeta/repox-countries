@@ -1,0 +1,260 @@
+{
+  "stateId": 460569,
+  "stateCode": "LV-022",
+  "countryCode": "LV",
+  "cities": [
+    {
+      "id": 11352465,
+      "name": "Amatas pagasts",
+      "nativeName": "Amatas pagasts",
+      "code": "LV-022-11352465",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-022",
+      "latitude": 57.16658,
+      "longitude": 25.31968
+    },
+    {
+      "id": 11352519,
+      "name": "Cēsis",
+      "nativeName": "Cēsis",
+      "code": "LV-022-11352519",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-022",
+      "latitude": 57.31236,
+      "longitude": 25.26407
+    },
+    {
+      "id": 11352466,
+      "name": "Drabešu pagasts",
+      "nativeName": "Drabešu pagasts",
+      "code": "LV-022-11352466",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-022",
+      "latitude": 57.24321,
+      "longitude": 25.2263
+    },
+    {
+      "id": 11352941,
+      "name": "Dzērbenes pagasts",
+      "nativeName": "Dzērbenes pagasts",
+      "code": "LV-022-11352941",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-022",
+      "latitude": 57.21977,
+      "longitude": 25.66419
+    },
+    {
+      "id": 11352973,
+      "name": "Inešu pagasts",
+      "nativeName": "Inešu pagasts",
+      "code": "LV-022-11352973",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-022",
+      "latitude": 57.00876,
+      "longitude": 25.82731
+    },
+    {
+      "id": 11352629,
+      "name": "Jaunpiebalgas pagasts",
+      "nativeName": "Jaunpiebalgas pagasts",
+      "code": "LV-022-11352629",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-022",
+      "latitude": 57.14488,
+      "longitude": 26.02361
+    },
+    {
+      "id": 11352974,
+      "name": "Kaives pagasts",
+      "nativeName": "Kaives pagasts",
+      "code": "LV-022-11352974",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-022",
+      "latitude": 57.02525,
+      "longitude": 25.61162
+    },
+    {
+      "id": 11352825,
+      "name": "Liepas pagasts",
+      "nativeName": "Liepas pagasts",
+      "code": "LV-022-11352825",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-022",
+      "latitude": 57.39083,
+      "longitude": 25.44362
+    },
+    {
+      "id": 11352681,
+      "name": "Līgatne",
+      "nativeName": "Līgatne",
+      "code": "LV-022-11352681",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-022",
+      "latitude": 57.23844,
+      "longitude": 25.04075
+    },
+    {
+      "id": 11352726,
+      "name": "Līgatnes pagasts",
+      "nativeName": "Līgatnes pagasts",
+      "code": "LV-022-11352726",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-022",
+      "latitude": 57.18722,
+      "longitude": 25.05967
+    },
+    {
+      "id": 11352826,
+      "name": "Mārsnēnu pagasts",
+      "nativeName": "Mārsnēnu pagasts",
+      "code": "LV-022-11352826",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-022",
+      "latitude": 57.42413,
+      "longitude": 25.57452
+    },
+    {
+      "id": 11352467,
+      "name": "Nītaures pagasts",
+      "nativeName": "Nītaures pagasts",
+      "code": "LV-022-11352467",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-022",
+      "latitude": 57.08187,
+      "longitude": 25.22294
+    },
+    {
+      "id": 11352827,
+      "name": "Priekuļu pagasts",
+      "nativeName": "Priekuļu pagasts",
+      "code": "LV-022-11352827",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-022",
+      "latitude": 57.33123,
+      "longitude": 25.39194
+    },
+    {
+      "id": 11352804,
+      "name": "Raiskuma pagasts",
+      "nativeName": "Raiskuma pagasts",
+      "code": "LV-022-11352804",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-022",
+      "latitude": 57.35669,
+      "longitude": 25.18405
+    },
+    {
+      "id": 11352468,
+      "name": "Skujenes pagasts",
+      "nativeName": "Skujenes pagasts",
+      "code": "LV-022-11352468",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-022",
+      "latitude": 57.08699,
+      "longitude": 25.47468
+    },
+    {
+      "id": 11352807,
+      "name": "Stalbes pagasts",
+      "nativeName": "Stalbes pagasts",
+      "code": "LV-022-11352807",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-022",
+      "latitude": 57.42134,
+      "longitude": 25.03658
+    },
+    {
+      "id": 11352808,
+      "name": "Straupes pagasts",
+      "nativeName": "Straupes pagasts",
+      "code": "LV-022-11352808",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-022",
+      "latitude": 57.32696,
+      "longitude": 24.9626
+    },
+    {
+      "id": 11352975,
+      "name": "Taurenes pagasts",
+      "nativeName": "Taurenes pagasts",
+      "code": "LV-022-11352975",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-022",
+      "latitude": 57.13781,
+      "longitude": 25.66747
+    },
+    {
+      "id": 11352522,
+      "name": "Vaives pagasts",
+      "nativeName": "Vaives pagasts",
+      "code": "LV-022-11352522",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-022",
+      "latitude": 57.23351,
+      "longitude": 25.43029
+    },
+    {
+      "id": 11352976,
+      "name": "Vecpiebalgas pagasts",
+      "nativeName": "Vecpiebalgas pagasts",
+      "code": "LV-022-11352976",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-022",
+      "latitude": 57.07734,
+      "longitude": 25.78564
+    },
+    {
+      "id": 11352828,
+      "name": "Veselavas pagasts",
+      "nativeName": "Veselavas pagasts",
+      "code": "LV-022-11352828",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-022",
+      "latitude": 57.26744,
+      "longitude": 25.53359
+    },
+    {
+      "id": 11352469,
+      "name": "Zaubes pagasts",
+      "nativeName": "Zaubes pagasts",
+      "code": "LV-022-11352469",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-022",
+      "latitude": 56.99192,
+      "longitude": 25.30425
+    },
+    {
+      "id": 11352619,
+      "name": "Zosēnu pagasts",
+      "nativeName": "Zosēnu pagasts",
+      "code": "LV-022-11352619",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-022",
+      "latitude": 57.16399,
+      "longitude": 25.84082
+    }
+  ]
+}

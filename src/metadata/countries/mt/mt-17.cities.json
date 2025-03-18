@@ -1,0 +1,29 @@
+{
+  "stateId": 8299714,
+  "stateCode": "MT-17",
+  "countryCode": "MT",
+  "cities": [
+    {
+      "id": 2563046,
+      "name": "Għaxaq",
+      "nativeName": "Għaxaq",
+      "code": "MT-17-2563046",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-17",
+      "latitude": 35.84889,
+      "longitude": 14.51667
+    },
+    {
+      "id": 2563173,
+      "name": "Bur Magħtab",
+      "nativeName": "Bur Magħtab",
+      "code": "MT-17-2563173",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-17",
+      "latitude": 35.84278,
+      "longitude": 14.51361
+    }
+  ]
+}

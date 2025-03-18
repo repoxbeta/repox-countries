@@ -1,0 +1,62 @@
+{
+  "stateId": 425550,
+  "stateCode": "BI-MU",
+  "countryCode": "BI",
+  "cities": [
+    {
+      "id": 9171818,
+      "name": "Bukeye",
+      "nativeName": "Bukeye",
+      "code": "BI-MU-9171818",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-MU",
+      "latitude": -3.19305,
+      "longitude": 29.60453
+    },
+    {
+      "id": 7670602,
+      "name": "Kiganda",
+      "nativeName": "Kiganda",
+      "code": "BI-MU-7670602",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-MU",
+      "latitude": -3.33792,
+      "longitude": 29.67481
+    },
+    {
+      "id": 9171826,
+      "name": "Mbuye",
+      "nativeName": "Mbuye",
+      "code": "BI-MU-9171826",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-MU",
+      "latitude": -3.24013,
+      "longitude": 29.74711
+    },
+    {
+      "id": 9179822,
+      "name": "Muramvya",
+      "nativeName": "Muramvya",
+      "code": "BI-MU-9179822",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-MU",
+      "latitude": -3.26815,
+      "longitude": 29.61815
+    },
+    {
+      "id": 7670615,
+      "name": "Rutegama",
+      "nativeName": "Rutegama",
+      "code": "BI-MU-7670615",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-MU",
+      "latitude": -3.30779,
+      "longitude": 29.74785
+    }
+  ]
+}

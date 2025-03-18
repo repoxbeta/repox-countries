@@ -1,0 +1,282 @@
+{
+  "stateId": 3861887,
+  "stateCode": "AR-H",
+  "countryCode": "AR",
+  "cities": [
+    {
+      "id": 3866226,
+      "name": "Almirante Brown Department",
+      "nativeName": "Departamento de Almirante Brown",
+      "code": "AR-H-3866226",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-H",
+      "latitude": -25.81662,
+      "longitude": -61.45576
+    },
+    {
+      "id": 3861945,
+      "name": "Chacabuco",
+      "nativeName": "Chacabuco",
+      "code": "AR-H-3861945",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-H",
+      "latitude": -27.14102,
+      "longitude": -61.31382
+    },
+    {
+      "id": 3436037,
+      "name": "Departamento de Bermejo",
+      "nativeName": "Departamento de Bermejo",
+      "code": "AR-H-3436037",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-H",
+      "latitude": -27,
+      "longitude": -58.66667
+    },
+    {
+      "id": 3860469,
+      "name": "Departamento de Comandante Fernández",
+      "nativeName": "Departamento de Comandante Fernández",
+      "code": "AR-H-3860469",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-H",
+      "latitude": -26.83333,
+      "longitude": -60.5
+    },
+    {
+      "id": 3859289,
+      "name": "Departamento de Doce de Octubre",
+      "nativeName": "Departamento de Doce de Octubre",
+      "code": "AR-H-3859289",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-H",
+      "latitude": -27.41667,
+      "longitude": -61.33333
+    },
+    {
+      "id": 8715307,
+      "name": "Departamento de Dos de Abril",
+      "nativeName": "Departamento de Dos de Abril",
+      "code": "AR-H-8715307",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-H",
+      "latitude": -27.60932,
+      "longitude": -61.34473
+    },
+    {
+      "id": 3855125,
+      "name": "Departamento de General Belgrano",
+      "nativeName": "Departamento de General Belgrano",
+      "code": "AR-H-3855125",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-H",
+      "latitude": -26.91667,
+      "longitude": -61
+    },
+    {
+      "id": 3433811,
+      "name": "Departamento de General Donovan",
+      "nativeName": "Departamento de General Donovan",
+      "code": "AR-H-3433811",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-H",
+      "latitude": -27.16667,
+      "longitude": -59.33333
+    },
+    {
+      "id": 3853853,
+      "name": "Departamento de Independencia",
+      "nativeName": "Departamento de Independencia",
+      "code": "AR-H-3853853",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-H",
+      "latitude": -26.66667,
+      "longitude": -60.66667
+    },
+    {
+      "id": 3431359,
+      "name": "Departamento de Libertad",
+      "nativeName": "Departamento de Libertad",
+      "code": "AR-H-3431359",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-H",
+      "latitude": -27.33333,
+      "longitude": -59.33333
+    },
+    {
+      "id": 3431356,
+      "name": "Departamento de Libertador General San Martín",
+      "nativeName": "Departamento de Libertador General San Martín",
+      "code": "AR-H-3431356",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-H",
+      "latitude": -26.33333,
+      "longitude": -59.41667
+    },
+    {
+      "id": 3845238,
+      "name": "Departamento de Maipú",
+      "nativeName": "Departamento de Maipú",
+      "code": "AR-H-3845238",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-H",
+      "latitude": -26.33333,
+      "longitude": -60.41667
+    },
+    {
+      "id": 3844638,
+      "name": "Departamento de Mayor Luis J. Fontana",
+      "nativeName": "Departamento de Mayor Luis J. Fontana",
+      "code": "AR-H-3844638",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-H",
+      "latitude": -27.75,
+      "longitude": -60.66667
+    },
+    {
+      "id": 3842872,
+      "name": "Departamento de Nueve de Julio",
+      "nativeName": "Departamento de Nueve de Julio",
+      "code": "AR-H-3842872",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-H",
+      "latitude": -26.95331,
+      "longitude": -61.27627
+    },
+    {
+      "id": 3842751,
+      "name": "Departamento de O’Higgins",
+      "nativeName": "Departamento de O’Higgins",
+      "code": "AR-H-3842751",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-H",
+      "latitude": -27.25,
+      "longitude": -60.66667
+    },
+    {
+      "id": 3429865,
+      "name": "Departamento de Presidencia de la Plaza",
+      "nativeName": "Departamento de Presidencia de la Plaza",
+      "code": "AR-H-3429865",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-H",
+      "latitude": -27,
+      "longitude": -59.75
+    },
+    {
+      "id": 3839489,
+      "name": "Departamento de Quitilipi",
+      "nativeName": "Departamento de Quitilipi",
+      "code": "AR-H-3839489",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-H",
+      "latitude": -26.66667,
+      "longitude": -60.16667
+    },
+    {
+      "id": 3429089,
+      "name": "Departamento de San Fernando",
+      "nativeName": "Departamento de San Fernando",
+      "code": "AR-H-3429089",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-H",
+      "latitude": -27.66667,
+      "longitude": -59.16667
+    },
+    {
+      "id": 3837081,
+      "name": "Departamento de San Lorenzo",
+      "nativeName": "Departamento de San Lorenzo",
+      "code": "AR-H-3837081",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-H",
+      "latitude": -27.33333,
+      "longitude": -60.41667
+    },
+    {
+      "id": 3428032,
+      "name": "Departamento de Sargento Cabral",
+      "nativeName": "Departamento de Sargento Cabral",
+      "code": "AR-H-3428032",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-H",
+      "latitude": -26.83333,
+      "longitude": -59.5
+    },
+    {
+      "id": 3427822,
+      "name": "Departamento de Tapenagá",
+      "nativeName": "Departamento de Tapenagá",
+      "code": "AR-H-3427822",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-H",
+      "latitude": -27.5,
+      "longitude": -59.75
+    },
+    {
+      "id": 3429850,
+      "name": "Departamento del Primero de Mayo",
+      "nativeName": "Departamento del Primero de Mayo",
+      "code": "AR-H-3429850",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-H",
+      "latitude": -27.25,
+      "longitude": -58.91667
+    },
+    {
+      "id": 3855371,
+      "name": "Fray Justo Santa María de Oro",
+      "nativeName": "Fray Justo Santa María de Oro",
+      "code": "AR-H-3855371",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-H",
+      "latitude": -27.83333,
+      "longitude": -61.25
+    },
+    {
+      "id": 3855108,
+      "name": "General Güemes Department",
+      "nativeName": "Departamento de General Güemes",
+      "code": "AR-H-3855108",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-H",
+      "latitude": -25.16667,
+      "longitude": -61.41667
+    },
+    {
+      "id": 3427532,
+      "name": "Veinticinco de Mayo",
+      "nativeName": "Veinticinco de Mayo",
+      "code": "AR-H-3427532",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-H",
+      "latitude": -26.78646,
+      "longitude": -59.97482
+    }
+  ]
+}

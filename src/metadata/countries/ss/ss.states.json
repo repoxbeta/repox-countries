@@ -1,0 +1,116 @@
+{
+  "countryId": 7909807,
+  "countryCode": "SS",
+  "states": [
+    {
+      "id": 408655,
+      "name": "Central Equatoria",
+      "nativeName": "Central Equatoria State",
+      "code": "SS-EC",
+      "internalCode": "EC",
+      "countryId": 7909807,
+      "countryCode": "SS",
+      "latitude": 4.75,
+      "longitude": 31
+    },
+    {
+      "id": 408668,
+      "name": "Eastern Equatoria State",
+      "nativeName": "Eastern Equatoria",
+      "code": "SS-EE",
+      "internalCode": "EE",
+      "countryId": 7909807,
+      "countryCode": "SS",
+      "latitude": 4.9,
+      "longitude": 33.8
+    },
+    {
+      "id": 408662,
+      "name": "Jonglei",
+      "nativeName": "Jonglei",
+      "code": "SS-JG",
+      "internalCode": "JG",
+      "countryId": 7909807,
+      "countryCode": "SS",
+      "latitude": 7.4,
+      "longitude": 32.4
+    },
+    {
+      "id": 408647,
+      "name": "Lakes",
+      "nativeName": "Lakes",
+      "code": "SS-LK",
+      "internalCode": "LK",
+      "countryId": 7909807,
+      "countryCode": "SS",
+      "latitude": 6.75,
+      "longitude": 30
+    },
+    {
+      "id": 408665,
+      "name": "Northern Bahr al Ghazal",
+      "nativeName": "Northern Bahr el Ghazal",
+      "code": "SS-BN",
+      "internalCode": "BN",
+      "countryId": 7909807,
+      "countryCode": "SS",
+      "latitude": 8.85,
+      "longitude": 27
+    },
+    {
+      "id": 408650,
+      "name": "Unity State",
+      "nativeName": "Unity",
+      "code": "SS-UY",
+      "internalCode": "UY",
+      "countryId": 7909807,
+      "countryCode": "SS",
+      "latitude": 8.65,
+      "longitude": 29.85
+    },
+    {
+      "id": 381229,
+      "name": "Upper Nile",
+      "nativeName": "Upper Nile",
+      "code": "SS-NU",
+      "internalCode": "NU",
+      "countryId": 7909807,
+      "countryCode": "SS",
+      "latitude": 10,
+      "longitude": 32.7
+    },
+    {
+      "id": 408670,
+      "name": "Warrap",
+      "nativeName": "Warrap State",
+      "code": "SS-WR",
+      "internalCode": "WR",
+      "countryId": 7909807,
+      "countryCode": "SS",
+      "latitude": 8,
+      "longitude": 28.85
+    },
+    {
+      "id": 408657,
+      "name": "Western Bahr el Ghazal State",
+      "nativeName": "Western Bahr el Ghazal State",
+      "code": "SS-BW",
+      "internalCode": "BW",
+      "countryId": 7909807,
+      "countryCode": "SS",
+      "latitude": 8.15,
+      "longitude": 26
+    },
+    {
+      "id": 408656,
+      "name": "Western Equatoria",
+      "nativeName": "Western Equatoria",
+      "code": "SS-EW",
+      "internalCode": "EW",
+      "countryId": 7909807,
+      "countryCode": "SS",
+      "latitude": 5.4,
+      "longitude": 28.4
+    }
+  ]
+}

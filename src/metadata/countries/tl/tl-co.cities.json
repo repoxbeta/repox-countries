@@ -1,0 +1,84 @@
+{
+  "stateId": 1639462,
+  "stateCode": "TL-CO",
+  "countryCode": "TL",
+  "cities": [
+    {
+      "id": 1944042,
+      "name": "Fatululik",
+      "nativeName": "Fatululik",
+      "code": "TL-CO-1944042",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-CO",
+      "latitude": -9.19083,
+      "longitude": 125.13194
+    },
+    {
+      "id": 8628962,
+      "name": "Fatumean",
+      "nativeName": "Fatumean",
+      "code": "TL-CO-8628962",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-CO",
+      "latitude": -9.22917,
+      "longitude": 125.03583
+    },
+    {
+      "id": 8630092,
+      "name": "Fohorem",
+      "nativeName": "Fohorem",
+      "code": "TL-CO-8630092",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-CO",
+      "latitude": -9.28361,
+      "longitude": 125.08944
+    },
+    {
+      "id": 8629258,
+      "name": "Maucatar",
+      "nativeName": "Maucatar",
+      "code": "TL-CO-8629258",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-CO",
+      "latitude": -9.21772,
+      "longitude": 125.22981
+    },
+    {
+      "id": 8628955,
+      "name": "Suai",
+      "nativeName": "Suai",
+      "code": "TL-CO-8628955",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-CO",
+      "latitude": -9.3,
+      "longitude": 125.25
+    },
+    {
+      "id": 8629259,
+      "name": "Tilomar",
+      "nativeName": "Tilomar",
+      "code": "TL-CO-8629259",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-CO",
+      "latitude": -9.34182,
+      "longitude": 125.10887
+    },
+    {
+      "id": 8617824,
+      "name": "Zumalai",
+      "nativeName": "Zumalai",
+      "code": "TL-CO-8617824",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-CO",
+      "latitude": -9.1575,
+      "longitude": 125.45056
+    }
+  ]
+}

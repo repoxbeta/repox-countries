@@ -1,0 +1,106 @@
+{
+  "stateId": 1150489,
+  "stateCode": "TH-63",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 1154675,
+      "name": "Ban Tak",
+      "nativeName": "Amphoe Ban Tak",
+      "code": "TH-63-1154675",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-63",
+      "latitude": 17.09163,
+      "longitude": 99.06648
+    },
+    {
+      "id": 1152200,
+      "name": "Mae Ramat",
+      "nativeName": "Amphoe Mae Ramat",
+      "code": "TH-63-1152200",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-63",
+      "latitude": 17.1118,
+      "longitude": 98.58635
+    },
+    {
+      "id": 1152187,
+      "name": "Mae Sot",
+      "nativeName": "Amphoe Mae Sot",
+      "code": "TH-63-1152187",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-63",
+      "latitude": 16.72154,
+      "longitude": 98.71074
+    },
+    {
+      "id": 1151976,
+      "name": "Mueang Tak",
+      "nativeName": "Amphoe Mueang Tak",
+      "code": "TH-63-1151976",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-63",
+      "latitude": 16.8765,
+      "longitude": 99.16617
+    },
+    {
+      "id": 7510614,
+      "name": "Phop Phra",
+      "nativeName": "Amphoe Phop Phra",
+      "code": "TH-63-7510614",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-63",
+      "latitude": 16.47215,
+      "longitude": 98.83501
+    },
+    {
+      "id": 1150785,
+      "name": "Sam Ngao",
+      "nativeName": "Amphoe Sam Ngao",
+      "code": "TH-63-1150785",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-63",
+      "latitude": 17.31322,
+      "longitude": 98.87561
+    },
+    {
+      "id": 1150195,
+      "name": "Tha Song Yang",
+      "nativeName": "Amphoe Tha Song Yang",
+      "code": "TH-63-1150195",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-63",
+      "latitude": 17.47481,
+      "longitude": 98.12079
+    },
+    {
+      "id": 1149974,
+      "name": "Umphang",
+      "nativeName": "Amphoe Umphang",
+      "code": "TH-63-1149974",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-63",
+      "latitude": 15.79496,
+      "longitude": 98.87787
+    },
+    {
+      "id": 7510633,
+      "name": "Wang Chao",
+      "nativeName": "Amphoe Wang Chao",
+      "code": "TH-63-7510633",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-63",
+      "latitude": 16.63311,
+      "longitude": 99.14826
+    }
+  ]
+}

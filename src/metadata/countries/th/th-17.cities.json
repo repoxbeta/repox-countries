@@ -1,0 +1,73 @@
+{
+  "stateId": 1606269,
+  "stateCode": "TH-17",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 1619280,
+      "name": "Bang Rachan",
+      "nativeName": "Amphoe Bang Rachan",
+      "code": "TH-17-1619280",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-17",
+      "latitude": 14.89959,
+      "longitude": 100.27795
+    },
+    {
+      "id": 1610570,
+      "name": "In Buri",
+      "nativeName": "Amphoe In Buri",
+      "code": "TH-17-1610570",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-17",
+      "latitude": 15.02057,
+      "longitude": 100.34865
+    },
+    {
+      "id": 11496462,
+      "name": "Khai Bang Rachan",
+      "nativeName": "Amphoe Khai Bang Rachan",
+      "code": "TH-17-11496462",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-17",
+      "latitude": 14.81438,
+      "longitude": 100.31389
+    },
+    {
+      "id": 1608617,
+      "name": "Mueang Sing Buri",
+      "nativeName": "Amphoe Mueang Sing Buri",
+      "code": "TH-17-1608617",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-17",
+      "latitude": 14.90239,
+      "longitude": 100.39731
+    },
+    {
+      "id": 1607472,
+      "name": "Phrom Buri",
+      "nativeName": "Amphoe Phrom Buri",
+      "code": "TH-17-1607472",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-17",
+      "latitude": 14.78333,
+      "longitude": 100.45
+    },
+    {
+      "id": 1605670,
+      "name": "Tha Chang",
+      "nativeName": "Amphoe Tha Chang",
+      "code": "TH-17-1605670",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-17",
+      "latitude": 14.77941,
+      "longitude": 100.39349
+    }
+  ]
+}

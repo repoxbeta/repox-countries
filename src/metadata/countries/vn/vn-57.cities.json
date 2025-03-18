@@ -1,0 +1,106 @@
+{
+  "stateId": 1905475,
+  "stateCode": "VN-57",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 9091202,
+      "name": "Huyện Bàu Bàng",
+      "nativeName": "Huyện Bàu Bàng",
+      "code": "VN-57-9091202",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-57",
+      "latitude": 11.26308,
+      "longitude": 106.61396
+    },
+    {
+      "id": 9091482,
+      "name": "Huyện Dầu Tiêng",
+      "nativeName": "Huyện Dầu Tiêng",
+      "code": "VN-57-9091482",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-57",
+      "latitude": 11.31358,
+      "longitude": 106.44291
+    },
+    {
+      "id": 8556376,
+      "name": "Phu Giao District",
+      "nativeName": "Phu Giao District",
+      "code": "VN-57-8556376",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-57",
+      "latitude": 11.26461,
+      "longitude": 106.76582
+    },
+    {
+      "id": 9091481,
+      "name": "Thành Phố Dĩ An",
+      "nativeName": "Thành Phố Dĩ An",
+      "code": "VN-57-9091481",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-57",
+      "latitude": 10.90693,
+      "longitude": 106.77819
+    },
+    {
+      "id": 1905477,
+      "name": "Thành Phố Thuận An",
+      "nativeName": "Thành Phố Thuận An",
+      "code": "VN-57-1905477",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-57",
+      "latitude": 10.93976,
+      "longitude": 106.71124
+    },
+    {
+      "id": 1905476,
+      "name": "Thành Phố Thủ Dầu Một",
+      "nativeName": "Thành Phố Thủ Dầu Một",
+      "code": "VN-57-1905476",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-57",
+      "latitude": 11.02959,
+      "longitude": 106.66847
+    },
+    {
+      "id": 1905479,
+      "name": "Thị Xã Bến Cát",
+      "nativeName": "Thị Xã Bến Cát",
+      "code": "VN-57-1905479",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-57",
+      "latitude": 11.10532,
+      "longitude": 106.61538
+    },
+    {
+      "id": 1905478,
+      "name": "Thị Xã Tân Uyên",
+      "nativeName": "Thị Xã Tân Uyên",
+      "code": "VN-57-1905478",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-57",
+      "latitude": 11.14866,
+      "longitude": 106.86554
+    },
+    {
+      "id": 1566754,
+      "name": "Tân Uyên",
+      "nativeName": "Tân Uyên",
+      "code": "VN-57-1566754",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-57",
+      "latitude": 11.06667,
+      "longitude": 106.8
+    }
+  ]
+}

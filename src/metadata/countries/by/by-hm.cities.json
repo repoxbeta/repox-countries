@@ -1,0 +1,106 @@
+{
+  "stateId": 625143,
+  "stateCode": "BY-HM",
+  "countryCode": "BY",
+  "cities": [
+    {
+      "id": 628577,
+      "name": "Frunzyenski District",
+      "nativeName": "Frunzyenski Rayon",
+      "code": "BY-HM-628577",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-HM",
+      "latitude": 53.90056,
+      "longitude": 27.495
+    },
+    {
+      "id": 624196,
+      "name": "Kastrychnitski District",
+      "nativeName": "Kastrychnitski Rayon",
+      "code": "BY-HM-624196",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-HM",
+      "latitude": 53.85667,
+      "longitude": 27.54139
+    },
+    {
+      "id": 626161,
+      "name": "Leninsky District",
+      "nativeName": "Lyeninski Rayon",
+      "code": "BY-HM-626161",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-HM",
+      "latitude": 53.85944,
+      "longitude": 27.58778
+    },
+    {
+      "id": 624936,
+      "name": "Maskowski District",
+      "nativeName": "Maskowski Rayon",
+      "code": "BY-HM-624936",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-HM",
+      "latitude": 53.87417,
+      "longitude": 27.50278
+    },
+    {
+      "id": 623778,
+      "name": "Partyzanski District",
+      "nativeName": "Partyzanski Rayon",
+      "code": "BY-HM-623778",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-HM",
+      "latitude": 53.88028,
+      "longitude": 27.67
+    },
+    {
+      "id": 623628,
+      "name": "Pyershamayski District",
+      "nativeName": "Pyershamayski Rayon",
+      "code": "BY-HM-623628",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-HM",
+      "latitude": 53.91944,
+      "longitude": 27.62222
+    },
+    {
+      "id": 621599,
+      "name": "Savyetski District",
+      "nativeName": "Savyetski Rayon",
+      "code": "BY-HM-621599",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-HM",
+      "latitude": 53.91778,
+      "longitude": 27.59417
+    },
+    {
+      "id": 620745,
+      "name": "Tsentralny District",
+      "nativeName": "Tsentral’ny Rayon",
+      "code": "BY-HM-620745",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-HM",
+      "latitude": 53.91778,
+      "longitude": 27.56333
+    },
+    {
+      "id": 619008,
+      "name": "Zavodski District",
+      "nativeName": "Zavodski Rayon",
+      "code": "BY-HM-619008",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-HM",
+      "latitude": 53.86194,
+      "longitude": 27.66222
+    }
+  ]
+}

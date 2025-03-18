@@ -1,0 +1,29 @@
+{
+  "stateId": 1337281,
+  "stateCode": "BT-21",
+  "countryCode": "BT",
+  "cities": [
+    {
+      "id": 7647805,
+      "name": "Beteni",
+      "nativeName": "Beteni",
+      "code": "BT-21-7647805",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-21",
+      "latitude": 26.89656,
+      "longitude": 90.11259
+    },
+    {
+      "id": 7647804,
+      "name": "Kikhorthang",
+      "nativeName": "Kikhorthang",
+      "code": "BT-21-7647804",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-21",
+      "latitude": 26.99869,
+      "longitude": 90.14044
+    }
+  ]
+}

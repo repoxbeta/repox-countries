@@ -1,0 +1,40 @@
+{
+  "stateId": 3500955,
+  "stateCode": "DO-12",
+  "countryCode": "DO",
+  "cities": [
+    {
+      "id": 3504952,
+      "name": "Guaymate",
+      "nativeName": "Guaymate",
+      "code": "DO-12-3504952",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-12",
+      "latitude": 18.58333,
+      "longitude": -68.95
+    },
+    {
+      "id": 3500959,
+      "name": "La Romana",
+      "nativeName": "La Romana",
+      "code": "DO-12-3500959",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-12",
+      "latitude": 18.15621,
+      "longitude": -68.67902
+    },
+    {
+      "id": 11154553,
+      "name": "Villa Hermosa",
+      "nativeName": "Villa Hermosa",
+      "code": "DO-12-11154553",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-12",
+      "latitude": 18.45136,
+      "longitude": -69.04332
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "stateId": 10097361,
+  "stateCode": "XK-10097361",
+  "countryCode": "XK",
+  "cities": [
+    {
+      "id": 791121,
+      "name": "Komuna e Dragashit",
+      "nativeName": "Komuna e Dragashit",
+      "code": "XK-10097361-791121",
+      "countryId": 831053,
+      "countryCode": "XK",
+      "stateCode": "XK-10097361",
+      "latitude": 42,
+      "longitude": 20.65
+    },
+    {
+      "id": 831104,
+      "name": "Komuna e Malisheves",
+      "nativeName": "Komuna e Malisheves",
+      "code": "XK-10097361-831104",
+      "countryId": 831053,
+      "countryCode": "XK",
+      "stateCode": "XK-10097361",
+      "latitude": 42.48861,
+      "longitude": 20.74667
+    },
+    {
+      "id": 8299772,
+      "name": "Komuna e Mamushës",
+      "nativeName": "Komuna e Mamushës",
+      "code": "XK-10097361-8299772",
+      "countryId": 831053,
+      "countryCode": "XK",
+      "stateCode": "XK-10097361",
+      "latitude": 42.32611,
+      "longitude": 20.72742
+    },
+    {
+      "id": 785234,
+      "name": "Komuna e Thërandës",
+      "nativeName": "Komuna e Thërandës",
+      "code": "XK-10097361-785234",
+      "countryId": 831053,
+      "countryCode": "XK",
+      "stateCode": "XK-10097361",
+      "latitude": 42.35,
+      "longitude": 20.85
+    },
+    {
+      "id": 786711,
+      "name": "Prizren",
+      "nativeName": "Prizren",
+      "code": "XK-10097361-786711",
+      "countryId": 831053,
+      "countryCode": "XK",
+      "stateCode": "XK-10097361",
+      "latitude": 42.23333,
+      "longitude": 20.73333
+    }
+  ]
+}

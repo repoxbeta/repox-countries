@@ -1,0 +1,84 @@
+{
+  "stateId": 3344918,
+  "stateCode": "SI-167",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3196165,
+      "name": "Lovrenc na Pohorju",
+      "nativeName": "Lovrenc na Pohorju",
+      "code": "SI-167-3196165",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-167",
+      "latitude": 46.54056,
+      "longitude": 15.39306
+    },
+    {
+      "id": 8987000,
+      "name": "Kumen",
+      "nativeName": "Kumen",
+      "code": "SI-167-8987000",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-167",
+      "latitude": 46.50644,
+      "longitude": 15.38302
+    },
+    {
+      "id": 3218240,
+      "name": "Kurja Vas",
+      "nativeName": "Kurja Vas",
+      "code": "SI-167-3218240",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-167",
+      "latitude": 46.55194,
+      "longitude": 15.40778
+    },
+    {
+      "id": 3192200,
+      "name": "Puščava",
+      "nativeName": "Puščava",
+      "code": "SI-167-3192200",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-167",
+      "latitude": 46.55,
+      "longitude": 15.41667
+    },
+    {
+      "id": 3191760,
+      "name": "Recenjak",
+      "nativeName": "Recenjak",
+      "code": "SI-167-3191760",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-167",
+      "latitude": 46.53333,
+      "longitude": 15.35
+    },
+    {
+      "id": 8987853,
+      "name": "Ruta",
+      "nativeName": "Ruta",
+      "code": "SI-167-8987853",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-167",
+      "latitude": 46.56115,
+      "longitude": 15.44158
+    },
+    {
+      "id": 3202583,
+      "name": "Činžat",
+      "nativeName": "Činžat",
+      "code": "SI-167-3202583",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-167",
+      "latitude": 46.53333,
+      "longitude": 15.43333
+    }
+  ]
+}

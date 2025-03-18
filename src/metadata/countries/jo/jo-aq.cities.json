@@ -1,0 +1,29 @@
+{
+  "stateId": 443122,
+  "stateCode": "JO-AQ",
+  "countryCode": "JO",
+  "cities": [
+    {
+      "id": 8621738,
+      "name": "Liwā’ Qaşabat al ‘Aqabah",
+      "nativeName": "Liwā’ Qaşabat al ‘Aqabah",
+      "code": "JO-AQ-8621738",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "stateCode": "JO-AQ",
+      "latitude": 29.98236,
+      "longitude": 35.22858
+    },
+    {
+      "id": 8621729,
+      "name": "Liwā’ al Quwayrah",
+      "nativeName": "Liwā’ al Quwayrah",
+      "code": "JO-AQ-8621729",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "stateCode": "JO-AQ",
+      "latitude": 29.59174,
+      "longitude": 35.51562
+    }
+  ]
+}

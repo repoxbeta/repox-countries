@@ -1,0 +1,116 @@
+{
+  "countryId": 895949,
+  "countryCode": "ZM",
+  "states": [
+    {
+      "id": 921064,
+      "name": "Central Province",
+      "nativeName": "Central Province",
+      "code": "ZM-02",
+      "internalCode": "02",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "latitude": -14,
+      "longitude": 29
+    },
+    {
+      "id": 917524,
+      "name": "Copperbelt",
+      "nativeName": "Copperbelt Province",
+      "code": "ZM-08",
+      "internalCode": "08",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "latitude": -13,
+      "longitude": 28
+    },
+    {
+      "id": 917388,
+      "name": "Eastern Province",
+      "nativeName": "Eastern Province",
+      "code": "ZM-03",
+      "internalCode": "03",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "latitude": -13.66667,
+      "longitude": 32
+    },
+    {
+      "id": 909845,
+      "name": "Luapula Province",
+      "nativeName": "Luapula Province",
+      "code": "ZM-04",
+      "internalCode": "04",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "latitude": -11,
+      "longitude": 29
+    },
+    {
+      "id": 909129,
+      "name": "Lusaka Province",
+      "nativeName": "Lusaka Province",
+      "code": "ZM-09",
+      "internalCode": "09",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "latitude": -15.41667,
+      "longitude": 29
+    },
+    {
+      "id": 11154503,
+      "name": "Muchinga",
+      "nativeName": "Muchinga Province",
+      "code": "ZM-10",
+      "internalCode": "10",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "latitude": -10.54393,
+      "longitude": 32.07725
+    },
+    {
+      "id": 900594,
+      "name": "North-Western Province",
+      "nativeName": "North-Western Province",
+      "code": "ZM-06",
+      "internalCode": "06",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "latitude": -13,
+      "longitude": 25
+    },
+    {
+      "id": 900601,
+      "name": "Northern Province",
+      "nativeName": "Northern Province",
+      "code": "ZM-05",
+      "internalCode": "05",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "latitude": -9.75,
+      "longitude": 30.75
+    },
+    {
+      "id": 896972,
+      "name": "Southern Province",
+      "nativeName": "Southern Province",
+      "code": "ZM-07",
+      "internalCode": "07",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "latitude": -16.5,
+      "longitude": 27
+    },
+    {
+      "id": 896140,
+      "name": "Western Province",
+      "nativeName": "Western Province",
+      "code": "ZM-01",
+      "internalCode": "01",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "latitude": -15,
+      "longitude": 24
+    }
+  ]
+}

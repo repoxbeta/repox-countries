@@ -1,0 +1,160 @@
+{
+  "countryId": 2245662,
+  "countryCode": "SN",
+  "states": [
+    {
+      "id": 2253350,
+      "name": "Dakar",
+      "nativeName": "Dakar",
+      "code": "SN-DK",
+      "internalCode": "DK",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "latitude": 14.76667,
+      "longitude": -17.28333
+    },
+    {
+      "id": 2252308,
+      "name": "Diourbel Region",
+      "nativeName": "Diourbel",
+      "code": "SN-DB",
+      "internalCode": "DB",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "latitude": 14.76667,
+      "longitude": -16.1
+    },
+    {
+      "id": 2251910,
+      "name": "Fatick",
+      "nativeName": "Fatick",
+      "code": "SN-FK",
+      "internalCode": "FK",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "latitude": 14.28333,
+      "longitude": -16.5
+    },
+    {
+      "id": 7303935,
+      "name": "Kaffrine",
+      "nativeName": "Région de Kaffrine",
+      "code": "SN-KA",
+      "internalCode": "KA",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "latitude": 14.10528,
+      "longitude": -15.54565
+    },
+    {
+      "id": 2250804,
+      "name": "Kaolack",
+      "nativeName": "Kaolack",
+      "code": "SN-KL",
+      "internalCode": "KL",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "latitude": 14,
+      "longitude": -16
+    },
+    {
+      "id": 2249781,
+      "name": "Kolda",
+      "nativeName": "Kolda",
+      "code": "SN-KD",
+      "internalCode": "KD",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "latitude": 13,
+      "longitude": -14.41667
+    },
+    {
+      "id": 2249221,
+      "name": "Louga",
+      "nativeName": "Louga",
+      "code": "SN-LG",
+      "internalCode": "LG",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "latitude": 15.41667,
+      "longitude": -15.5
+    },
+    {
+      "id": 2248753,
+      "name": "Matam",
+      "nativeName": "Matam",
+      "code": "SN-MT",
+      "internalCode": "MT",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "latitude": 15.16667,
+      "longitude": -13.66667
+    },
+    {
+      "id": 7303936,
+      "name": "Région de Kédougou",
+      "nativeName": "Région de Kédougou",
+      "code": "SN-KE",
+      "internalCode": "KE",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "latitude": 12.55146,
+      "longitude": -12.17586
+    },
+    {
+      "id": 2244800,
+      "name": "Région de Thiès",
+      "nativeName": "Région de Thiès",
+      "code": "SN-TH",
+      "internalCode": "TH",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "latitude": 14.86667,
+      "longitude": -16.86667
+    },
+    {
+      "id": 2246451,
+      "name": "Saint-Louis",
+      "nativeName": "Saint-Louis",
+      "code": "SN-SL",
+      "internalCode": "SL",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "latitude": 16.33333,
+      "longitude": -15
+    },
+    {
+      "id": 7303937,
+      "name": "Sédhiou",
+      "nativeName": "Région de Sédhiou",
+      "code": "SN-SE",
+      "internalCode": "SE",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "latitude": 12.70683,
+      "longitude": -15.55801
+    },
+    {
+      "id": 2244990,
+      "name": "Tambacounda",
+      "nativeName": "Tambacounda",
+      "code": "SN-TC",
+      "internalCode": "TC",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "latitude": 13.91667,
+      "longitude": -13.25
+    },
+    {
+      "id": 2243939,
+      "name": "Ziguinchor",
+      "nativeName": "Ziguinchor",
+      "code": "SN-ZG",
+      "internalCode": "ZG",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "latitude": 12.8,
+      "longitude": -16.36667
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "stateId": 444185,
+  "stateCode": "ET-OR",
+  "countryCode": "ET",
+  "cities": [
+    {
+      "id": 343450,
+      "name": "Arsi Zone",
+      "nativeName": "Arsi Zone",
+      "code": "ET-OR-343450",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-OR",
+      "latitude": 7.5,
+      "longitude": 39.5
+    },
+    {
+      "id": 7839144,
+      "name": "Bale",
+      "nativeName": "Bale",
+      "code": "ET-OR-7839144",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-OR",
+      "latitude": 6.92193,
+      "longitude": 40.45258
+    },
+    {
+      "id": 7732039,
+      "name": "Borena Zone",
+      "nativeName": "Borena Zone",
+      "code": "ET-OR-7732039",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-OR",
+      "latitude": 4.94952,
+      "longitude": 38.20915
+    },
+    {
+      "id": 7732970,
+      "name": "East Harerghe Zone",
+      "nativeName": "East Harerghe Zone",
+      "code": "ET-OR-7732970",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-OR",
+      "latitude": 8.70114,
+      "longitude": 42.00241
+    },
+    {
+      "id": 7670720,
+      "name": "East Shewa Zone",
+      "nativeName": "East Shewa Zone",
+      "code": "ET-OR-7670720",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-OR",
+      "latitude": 8.21353,
+      "longitude": 38.84809
+    },
+    {
+      "id": 7670721,
+      "name": "East Wellega Zone",
+      "nativeName": "East Wellega Zone",
+      "code": "ET-OR-7670721",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-OR",
+      "latitude": 9.51928,
+      "longitude": 36.75762
+    },
+    {
+      "id": 8606578,
+      "name": "Gimbichu",
+      "nativeName": "Gimbichu",
+      "code": "ET-OR-8606578",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-OR",
+      "latitude": 9.0679,
+      "longitude": 39.25945
+    },
+    {
+      "id": 8299785,
+      "name": "Guji Zone",
+      "nativeName": "Guji Zone",
+      "code": "ET-OR-8299785",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-OR",
+      "latitude": 5.588,
+      "longitude": 39.067
+    },
+    {
+      "id": 11750829,
+      "name": "Horo Guduru",
+      "nativeName": "Horo Guduru",
+      "code": "ET-OR-11750829",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-OR",
+      "latitude": 9.71226,
+      "longitude": 37.24486
+    },
+    {
+      "id": 7732965,
+      "name": "Illubabor Zone",
+      "nativeName": "Illubabor Zone",
+      "code": "ET-OR-7732965",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-OR",
+      "latitude": 8.27526,
+      "longitude": 35.75596
+    },
+    {
+      "id": 11750828,
+      "name": "Ilubabor",
+      "nativeName": "Ilubabor",
+      "code": "ET-OR-11750828",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-OR",
+      "latitude": 8.35905,
+      "longitude": 35.74769
+    },
+    {
+      "id": 333766,
+      "name": "Jimma Zone",
+      "nativeName": "Jimma Zone",
+      "code": "ET-OR-333766",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-OR",
+      "latitude": 7.66667,
+      "longitude": 37
+    },
+    {
+      "id": 11750827,
+      "name": "Kellem Wellega",
+      "nativeName": "Kellem Wellega",
+      "code": "ET-OR-11750827",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-OR",
+      "latitude": 8.78133,
+      "longitude": 34.76878
+    },
+    {
+      "id": 7648477,
+      "name": "Misraq Shewa",
+      "nativeName": "Misraq Shewa",
+      "code": "ET-OR-7648477",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-OR",
+      "latitude": 8,
+      "longitude": 38.66667
+    },
+    {
+      "id": 7670714,
+      "name": "North Shewa Zone",
+      "nativeName": "North Shewa Zone",
+      "code": "ET-OR-7670714",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-OR",
+      "latitude": 9.66915,
+      "longitude": 38.8124
+    },
+    {
+      "id": 7670717,
+      "name": "South West Shewa",
+      "nativeName": "South West Shewa",
+      "code": "ET-OR-7670717",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-OR",
+      "latitude": 8.60917,
+      "longitude": 38.23534
+    },
+    {
+      "id": 11750850,
+      "name": "West Arsi",
+      "nativeName": "West Arsi",
+      "code": "ET-OR-11750850",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-OR",
+      "latitude": 7.08686,
+      "longitude": 38.91134
+    },
+    {
+      "id": 7732969,
+      "name": "West Harerghe Zone",
+      "nativeName": "West Harerghe Zone",
+      "code": "ET-OR-7732969",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-OR",
+      "latitude": 8.67245,
+      "longitude": 40.84885
+    },
+    {
+      "id": 7670715,
+      "name": "West Shewa Zone",
+      "nativeName": "West Shewa Zone",
+      "code": "ET-OR-7670715",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-OR",
+      "latitude": 9.13948,
+      "longitude": 37.85016
+    },
+    {
+      "id": 7732966,
+      "name": "West Wellaga Zone",
+      "nativeName": "West Wellega Zone",
+      "code": "ET-OR-7732966",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-OR",
+      "latitude": 9.17283,
+      "longitude": 35.05279
+    }
+  ]
+}

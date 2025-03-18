@@ -1,0 +1,51 @@
+{
+  "stateId": 2190146,
+  "stateCode": "NZ-HKB",
+  "countryCode": "NZ",
+  "cities": [
+    {
+      "id": 7910034,
+      "name": "Central Hawke's Bay District",
+      "nativeName": "Central Hawke's Bay District",
+      "code": "NZ-HKB-7910034",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-HKB",
+      "latitude": -40.05568,
+      "longitude": 176.53059
+    },
+    {
+      "id": 2190223,
+      "name": "Hastings District",
+      "nativeName": "Hastings District",
+      "code": "NZ-HKB-2190223",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-HKB",
+      "latitude": -39.63333,
+      "longitude": 176.85
+    },
+    {
+      "id": 7910054,
+      "name": "Napier City",
+      "nativeName": "Napier City",
+      "code": "NZ-HKB-7910054",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-HKB",
+      "latitude": -39.47933,
+      "longitude": 176.86887
+    },
+    {
+      "id": 2179921,
+      "name": "Wairoa District",
+      "nativeName": "Wairoa District",
+      "code": "NZ-HKB-2179921",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-HKB",
+      "latitude": -39.03333,
+      "longitude": 177.43333
+    }
+  ]
+}

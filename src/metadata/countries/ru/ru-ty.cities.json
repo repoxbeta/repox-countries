@@ -1,0 +1,216 @@
+{
+  "stateId": 1488873,
+  "stateCode": "RU-TY",
+  "countryCode": "RU",
+  "cities": [
+    {
+      "id": 12640297,
+      "name": "Ak-Dovurak Urban District",
+      "nativeName": "Ak-Dovurak Urban District",
+      "code": "RU-TY-12640297",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-TY",
+      "latitude": 51.18315,
+      "longitude": 90.59485
+    },
+    {
+      "id": 12640293,
+      "name": "Barun-Khemchiksky District",
+      "nativeName": "Barun-Khemchiksky District",
+      "code": "RU-TY-12640293",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-TY",
+      "latitude": 51.14483,
+      "longitude": 90.57633
+    },
+    {
+      "id": 12640313,
+      "name": "Bay-Tayginsky District",
+      "nativeName": "Bay-Tayginsky District",
+      "code": "RU-TY-12640313",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-TY",
+      "latitude": 51.01276,
+      "longitude": 90.20252
+    },
+    {
+      "id": 12640350,
+      "name": "Chaa-Kholsky District",
+      "nativeName": "Chaa-Kholsky District",
+      "code": "RU-TY-12640350",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-TY",
+      "latitude": 51.51622,
+      "longitude": 92.33664
+    },
+    {
+      "id": 12640311,
+      "name": "Chedi-Kholsky District",
+      "nativeName": "Chedi-Kholsky District",
+      "code": "RU-TY-12640311",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-TY",
+      "latitude": 51.13239,
+      "longitude": 93.71698
+    },
+    {
+      "id": 12640312,
+      "name": "Dzun-Khemchiksky District",
+      "nativeName": "Dzun-Khemchiksky District",
+      "code": "RU-TY-12640312",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-TY",
+      "latitude": 51.28368,
+      "longitude": 91.5781
+    },
+    {
+      "id": 12640309,
+      "name": "Erzinsky District",
+      "nativeName": "Erzinsky District",
+      "code": "RU-TY-12640309",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-TY",
+      "latitude": 50.25937,
+      "longitude": 95.16168
+    },
+    {
+      "id": 12640294,
+      "name": "Kaa-Khemsky District",
+      "nativeName": "Kaa-Khemsky District",
+      "code": "RU-TY-12640294",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-TY",
+      "latitude": 51.49006,
+      "longitude": 95.56004
+    },
+    {
+      "id": 12640303,
+      "name": "Kyzyl Urban District",
+      "nativeName": "Kyzyl Urban District",
+      "code": "RU-TY-12640303",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-TY",
+      "latitude": 51.71243,
+      "longitude": 94.43244
+    },
+    {
+      "id": 12640315,
+      "name": "Mongun-Tayginsky District",
+      "nativeName": "Mongun-Tayginsky District",
+      "code": "RU-TY-12640315",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-TY",
+      "latitude": 50.37898,
+      "longitude": 90.43602
+    },
+    {
+      "id": 1495790,
+      "name": "Ovyurskiy Rayon",
+      "nativeName": "Ovyurskiy Rayon",
+      "code": "RU-TY-1495790",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-TY",
+      "latitude": 50.83333,
+      "longitude": 92
+    },
+    {
+      "id": 12640307,
+      "name": "Ovyursky District",
+      "nativeName": "Ovyursky District",
+      "code": "RU-TY-12640307",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-TY",
+      "latitude": 50.73465,
+      "longitude": 92.06412
+    },
+    {
+      "id": 12640346,
+      "name": "Piy-Khemsky District",
+      "nativeName": "Piy-Khemsky District",
+      "code": "RU-TY-12640346",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-TY",
+      "latitude": 52.14403,
+      "longitude": 93.91346
+    },
+    {
+      "id": 12640301,
+      "name": "Sut-Kholsky District",
+      "nativeName": "Sut-Kholsky District",
+      "code": "RU-TY-12640301",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-TY",
+      "latitude": 51.40622,
+      "longitude": 91.28639
+    },
+    {
+      "id": 12640348,
+      "name": "Tandinsky District",
+      "nativeName": "Tandinsky District",
+      "code": "RU-TY-12640348",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-TY",
+      "latitude": 51.16063,
+      "longitude": 94.46659
+    },
+    {
+      "id": 12640299,
+      "name": "Tere-Kholsky District",
+      "nativeName": "Tere-Kholsky District",
+      "code": "RU-TY-12640299",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-TY",
+      "latitude": 50.59701,
+      "longitude": 97.52488
+    },
+    {
+      "id": 12640345,
+      "name": "Tes-Khemsky District",
+      "nativeName": "Tes-Khemsky District",
+      "code": "RU-TY-12640345",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-TY",
+      "latitude": 50.60142,
+      "longitude": 95.00088
+    },
+    {
+      "id": 12640310,
+      "name": "Todzhinsky District",
+      "nativeName": "Todzhinsky District",
+      "code": "RU-TY-12640310",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-TY",
+      "latitude": 52.46729,
+      "longitude": 96.11886
+    },
+    {
+      "id": 12640349,
+      "name": "Ulug-Khemsky District",
+      "nativeName": "Ulug-Khemsky District",
+      "code": "RU-TY-12640349",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-TY",
+      "latitude": 51.5336,
+      "longitude": 92.92469
+    }
+  ]
+}

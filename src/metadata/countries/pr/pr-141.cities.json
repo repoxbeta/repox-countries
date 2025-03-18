@@ -1,0 +1,271 @@
+{
+  "stateId": 4568491,
+  "stateCode": "PR-141",
+  "countryCode": "PR",
+  "cities": [
+    {
+      "id": 7268199,
+      "name": "Angeles Barrio",
+      "nativeName": "Angeles Barrio",
+      "code": "PR-141-7268199",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-141",
+      "latitude": 18.29168,
+      "longitude": -66.80214
+    },
+    {
+      "id": 7268212,
+      "name": "Arenas Barrio",
+      "nativeName": "Arenas Barrio",
+      "code": "PR-141-7268212",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-141",
+      "latitude": 18.24104,
+      "longitude": -66.70793
+    },
+    {
+      "id": 7268286,
+      "name": "Caguana Barrio",
+      "nativeName": "Caguana Barrio",
+      "code": "PR-141-7268286",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-141",
+      "latitude": 18.29111,
+      "longitude": -66.75081
+    },
+    {
+      "id": 7268324,
+      "name": "Caníaco Barrio",
+      "nativeName": "Caníaco Barrio",
+      "code": "PR-141-7268324",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-141",
+      "latitude": 18.3115,
+      "longitude": -66.67023
+    },
+    {
+      "id": 7268330,
+      "name": "Caonillas Abajo Barrio",
+      "nativeName": "Caonillas Abajo Barrio",
+      "code": "PR-141-7268330",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-141",
+      "latitude": 18.27377,
+      "longitude": -66.64683
+    },
+    {
+      "id": 7268332,
+      "name": "Caonillas Arriba Barrio",
+      "nativeName": "Caonillas Arriba Barrio",
+      "code": "PR-141-7268332",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-141",
+      "latitude": 18.24837,
+      "longitude": -66.63854
+    },
+    {
+      "id": 7268104,
+      "name": "Consejo Barrio",
+      "nativeName": "Consejo Barrio",
+      "code": "PR-141-7268104",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-141",
+      "latitude": 18.17741,
+      "longitude": -66.66628
+    },
+    {
+      "id": 7268152,
+      "name": "Don Alonso Barrio",
+      "nativeName": "Don Alonso Barrio",
+      "code": "PR-141-7268152",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-141",
+      "latitude": 18.3061,
+      "longitude": -66.63756
+    },
+    {
+      "id": 7268424,
+      "name": "Guaonico Barrio",
+      "nativeName": "Guaonico Barrio",
+      "code": "PR-141-7268424",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-141",
+      "latitude": 18.23742,
+      "longitude": -66.74016
+    },
+    {
+      "id": 7268553,
+      "name": "Las Palmas Barrio",
+      "nativeName": "Las Palmas Barrio",
+      "code": "PR-141-7268553",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-141",
+      "latitude": 18.23616,
+      "longitude": -66.65739
+    },
+    {
+      "id": 7268560,
+      "name": "Limón Barrio",
+      "nativeName": "Limón Barrio",
+      "code": "PR-141-7268560",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-141",
+      "latitude": 18.32511,
+      "longitude": -66.63119
+    },
+    {
+      "id": 7268606,
+      "name": "Mameyes Abajo Barrio",
+      "nativeName": "Mameyes Abajo Barrio",
+      "code": "PR-141-7268606",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-141",
+      "latitude": 18.30284,
+      "longitude": -66.59347
+    },
+    {
+      "id": 7268734,
+      "name": "Paso Palma Barrio",
+      "nativeName": "Paso Palma Barrio",
+      "code": "PR-141-7268734",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-141",
+      "latitude": 18.20932,
+      "longitude": -66.64543
+    },
+    {
+      "id": 7268923,
+      "name": "Roncador Barrio",
+      "nativeName": "Roncador Barrio",
+      "code": "PR-141-7268923",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-141",
+      "latitude": 18.26024,
+      "longitude": -66.74871
+    },
+    {
+      "id": 7268887,
+      "name": "Río Abajo Barrio",
+      "nativeName": "Río Abajo Barrio",
+      "code": "PR-141-7268887",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-141",
+      "latitude": 18.31098,
+      "longitude": -66.69749
+    },
+    {
+      "id": 7268940,
+      "name": "Sabana Grande Barrio",
+      "nativeName": "Sabana Grande Barrio",
+      "code": "PR-141-7268940",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-141",
+      "latitude": 18.29286,
+      "longitude": -66.68068
+    },
+    {
+      "id": 7268955,
+      "name": "Salto Abajo Barrio",
+      "nativeName": "Salto Abajo Barrio",
+      "code": "PR-141-7268955",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-141",
+      "latitude": 18.28083,
+      "longitude": -66.70938
+    },
+    {
+      "id": 7268956,
+      "name": "Salto Arriba Barrio",
+      "nativeName": "Salto Arriba Barrio",
+      "code": "PR-141-7268956",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-141",
+      "latitude": 18.26838,
+      "longitude": -66.72926
+    },
+    {
+      "id": 7268988,
+      "name": "Santa Isabel Barrio",
+      "nativeName": "Santa Isabel Barrio",
+      "code": "PR-141-7268988",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-141",
+      "latitude": 18.25119,
+      "longitude": -66.80966
+    },
+    {
+      "id": 7268994,
+      "name": "Santa Rosa Barrio",
+      "nativeName": "Santa Rosa Barrio",
+      "code": "PR-141-7268994",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-141",
+      "latitude": 18.32907,
+      "longitude": -66.74999
+    },
+    {
+      "id": 7269034,
+      "name": "Tetuán Barrio",
+      "nativeName": "Tetuán Barrio",
+      "code": "PR-141-7269034",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-141",
+      "latitude": 18.26793,
+      "longitude": -66.61262
+    },
+    {
+      "id": 7269060,
+      "name": "Utuado Barrio-Pueblo",
+      "nativeName": "Utuado Barrio-Pueblo",
+      "code": "PR-141-7269060",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-141",
+      "latitude": 18.26626,
+      "longitude": -66.70567
+    },
+    {
+      "id": 7269082,
+      "name": "Viví Abajo Barrio",
+      "nativeName": "Viví Abajo Barrio",
+      "code": "PR-141-7269082",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-141",
+      "latitude": 18.26025,
+      "longitude": -66.68237
+    },
+    {
+      "id": 7269083,
+      "name": "Viví Arriba Barrio",
+      "nativeName": "Viví Arriba Barrio",
+      "code": "PR-141-7269083",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-141",
+      "latitude": 18.21913,
+      "longitude": -66.67552
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "stateId": 2960656,
+  "stateCode": "LU-DI",
+  "countryCode": "LU",
+  "cities": [
+    {
+      "id": 6693304,
+      "name": "Bettendorf",
+      "nativeName": "Bettendorf",
+      "code": "LU-DI-6693304",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-DI",
+      "latitude": 49.87667,
+      "longitude": 6.21806
+    },
+    {
+      "id": 6693305,
+      "name": "Bourscheid",
+      "nativeName": "Bourscheid",
+      "code": "LU-DI-6693305",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-DI",
+      "latitude": 49.91,
+      "longitude": 6.06722
+    },
+    {
+      "id": 2960658,
+      "name": "Diekirch",
+      "nativeName": "Diekirch",
+      "code": "LU-DI-2960658",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-DI",
+      "latitude": 49.87279,
+      "longitude": 6.14921
+    },
+    {
+      "id": 6693307,
+      "name": "Erpeldange",
+      "nativeName": "Erpeldange",
+      "code": "LU-DI-6693307",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-DI",
+      "latitude": 49.86472,
+      "longitude": 6.11472
+    },
+    {
+      "id": 2960590,
+      "name": "Ettelbruck",
+      "nativeName": "Ettelbruck",
+      "code": "LU-DI-2960590",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-DI",
+      "latitude": 49.84565,
+      "longitude": 6.08137
+    },
+    {
+      "id": 3285197,
+      "name": "Feulen",
+      "nativeName": "Feulen",
+      "code": "LU-DI-3285197",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-DI",
+      "latitude": 49.85,
+      "longitude": 6.01667
+    },
+    {
+      "id": 6693310,
+      "name": "Mertzig",
+      "nativeName": "Mertzig",
+      "code": "LU-DI-6693310",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-DI",
+      "latitude": 49.83389,
+      "longitude": 6.0075
+    },
+    {
+      "id": 6693311,
+      "name": "Reisdorf",
+      "nativeName": "Reisdorf",
+      "code": "LU-DI-6693311",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-DI",
+      "latitude": 49.86861,
+      "longitude": 6.26778
+    },
+    {
+      "id": 6693312,
+      "name": "Schieren",
+      "nativeName": "Schieren",
+      "code": "LU-DI-6693312",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-DI",
+      "latitude": 49.83056,
+      "longitude": 6.09861
+    },
+    {
+      "id": 8641526,
+      "name": "Vallée de l'Ernz",
+      "nativeName": "Commune de la Vallée de l'Ernz",
+      "code": "LU-DI-8641526",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-DI",
+      "latitude": 49.82149,
+      "longitude": 6.21746
+    }
+  ]
+}

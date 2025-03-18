@@ -1,0 +1,51 @@
+{
+  "stateId": 360483,
+  "stateCode": "EG-WAD",
+  "countryCode": "EG",
+  "cities": [
+    {
+      "id": 12060333,
+      "name": "Baris Shurtah",
+      "nativeName": "Baris Shurtah",
+      "code": "EG-WAD-12060333",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-WAD",
+      "latitude": 22.79038,
+      "longitude": 29.6342
+    },
+    {
+      "id": 360480,
+      "name": "Markaz al Wāḩāt ad Dākhilah",
+      "nativeName": "Markaz al Wāḩāt ad Dākhilah",
+      "code": "EG-WAD-360480",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-WAD",
+      "latitude": 24.12496,
+      "longitude": 27.48838
+    },
+    {
+      "id": 360478,
+      "name": "Markaz al Wāḩāt al Khārijah",
+      "nativeName": "Markaz al Wāḩāt al Khārijah",
+      "code": "EG-WAD-360478",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-WAD",
+      "latitude": 24.62157,
+      "longitude": 31.45494
+    },
+    {
+      "id": 12060332,
+      "name": "Shurtah al-Farafirah",
+      "nativeName": "Shurtah al-Farafirah",
+      "code": "EG-WAD-12060332",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-WAD",
+      "latitude": 27.25855,
+      "longitude": 27.18974
+    }
+  ]
+}

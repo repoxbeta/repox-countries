@@ -1,0 +1,40 @@
+{
+  "stateId": 208741,
+  "stateCode": "CD-MO",
+  "countryCode": "CD",
+  "cities": [
+    {
+      "id": 12278043,
+      "name": "Bongandanga",
+      "nativeName": "Bongandanga",
+      "code": "CD-MO-12278043",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-MO",
+      "latitude": 1.57792,
+      "longitude": 21.19659
+    },
+    {
+      "id": 12278048,
+      "name": "Bumba",
+      "nativeName": "Bumba",
+      "code": "CD-MO-12278048",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-MO",
+      "latitude": 2.54923,
+      "longitude": 22.53122
+    },
+    {
+      "id": 12278097,
+      "name": "Lisala",
+      "nativeName": "Lisala",
+      "code": "CD-MO-12278097",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-MO",
+      "latitude": 2.43334,
+      "longitude": 20.98218
+    }
+  ]
+}

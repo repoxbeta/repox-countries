@@ -1,0 +1,51 @@
+{
+  "stateId": 696634,
+  "stateCode": "UA-53",
+  "countryCode": "UA",
+  "cities": [
+    {
+      "id": 704149,
+      "name": "Kremenchuk Raion",
+      "nativeName": "Kremenchuk Raion",
+      "code": "UA-53-704149",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-53",
+      "latitude": 49.06523,
+      "longitude": 33.40936
+    },
+    {
+      "id": 702724,
+      "name": "Lubny Raion",
+      "nativeName": "Lubny Raion",
+      "code": "UA-53-702724",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-53",
+      "latitude": 50.00379,
+      "longitude": 32.99909
+    },
+    {
+      "id": 701072,
+      "name": "Myrhorod Raion",
+      "nativeName": "Myrhorod Raion",
+      "code": "UA-53-701072",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-53",
+      "latitude": 49.96865,
+      "longitude": 33.60824
+    },
+    {
+      "id": 696629,
+      "name": "Poltava Raion",
+      "nativeName": "Poltava Raion",
+      "code": "UA-53-696629",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-53",
+      "latitude": 49.57938,
+      "longitude": 34.55903
+    }
+  ]
+}

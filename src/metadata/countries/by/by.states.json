@@ -1,0 +1,83 @@
+{
+  "countryId": 630336,
+  "countryCode": "BY",
+  "states": [
+    {
+      "id": 629631,
+      "name": "Brest",
+      "nativeName": "Brest Oblast",
+      "code": "BY-BR",
+      "internalCode": "BR",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "latitude": 52.09976,
+      "longitude": 23.7854
+    },
+    {
+      "id": 628035,
+      "name": "Grodnenskaya",
+      "nativeName": "Grodno Oblast",
+      "code": "BY-HR",
+      "internalCode": "HR",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "latitude": 53.5,
+      "longitude": 24.5
+    },
+    {
+      "id": 628281,
+      "name": "Homyel’ Voblasc’",
+      "nativeName": "Homyel’ Voblasc’",
+      "code": "BY-HO",
+      "internalCode": "HO",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "latitude": 52,
+      "longitude": 30
+    },
+    {
+      "id": 625142,
+      "name": "Minsk",
+      "nativeName": "Minsk Oblast",
+      "code": "BY-MI",
+      "internalCode": "MI",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "latitude": 54,
+      "longitude": 28
+    },
+    {
+      "id": 625143,
+      "name": "Minsk City",
+      "nativeName": "Horad Minsk",
+      "code": "BY-HM",
+      "internalCode": "HM",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "latitude": 53.9,
+      "longitude": 27.56667
+    },
+    {
+      "id": 625073,
+      "name": "Mogilev",
+      "nativeName": "Mogilyov Oblast",
+      "code": "BY-MA",
+      "internalCode": "MA",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "latitude": 54,
+      "longitude": 30.75
+    },
+    {
+      "id": 620134,
+      "name": "Vitebsk",
+      "nativeName": "Vitebsk Oblast",
+      "code": "BY-VI",
+      "internalCode": "VI",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "latitude": 55,
+      "longitude": 29.5
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "stateId": 359781,
+  "stateCode": "EG-AST",
+  "countryCode": "EG",
+  "cities": [
+    {
+      "id": 362003,
+      "name": "Markaz Abū Tīj",
+      "nativeName": "Markaz Abū Tīj",
+      "code": "EG-AST-362003",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-AST",
+      "latitude": 27.0255,
+      "longitude": 31.2795
+    },
+    {
+      "id": 359782,
+      "name": "Markaz Asyūţ",
+      "nativeName": "Markaz Asyūţ",
+      "code": "EG-AST-359782",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-AST",
+      "latitude": 27.16166,
+      "longitude": 31.13141
+    },
+    {
+      "id": 358267,
+      "name": "Markaz Dayrūţ",
+      "nativeName": "Markaz Dayrūţ",
+      "code": "EG-AST-358267",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-AST",
+      "latitude": 27.52813,
+      "longitude": 30.7837
+    },
+    {
+      "id": 361479,
+      "name": "Markaz al Badārī",
+      "nativeName": "Markaz al Badārī",
+      "code": "EG-AST-361479",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-AST",
+      "latitude": 26.93623,
+      "longitude": 31.45189
+    },
+    {
+      "id": 10371124,
+      "name": "Markaz al Fatḩ",
+      "nativeName": "Markaz al Fatḩ",
+      "code": "EG-AST-10371124",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-AST",
+      "latitude": 27.1968,
+      "longitude": 31.20437
+    },
+    {
+      "id": 10371125,
+      "name": "Markaz al Ghanāyim",
+      "nativeName": "Markaz al Ghanāyim",
+      "code": "EG-AST-10371125",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-AST",
+      "latitude": 26.90331,
+      "longitude": 31.31788
+    },
+    {
+      "id": 360527,
+      "name": "Markaz al Qūşīyah",
+      "nativeName": "Markaz al Qūşīyah",
+      "code": "EG-AST-360527",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-AST",
+      "latitude": 27.38969,
+      "longitude": 30.81525
+    },
+    {
+      "id": 10371126,
+      "name": "Markaz as Sāḩil",
+      "nativeName": "Markaz as Sāḩil",
+      "code": "EG-AST-10371126",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-AST",
+      "latitude": 27.06924,
+      "longitude": 31.33517
+    }
+  ]
+}

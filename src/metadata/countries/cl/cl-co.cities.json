@@ -1,0 +1,40 @@
+{
+  "stateId": 3893623,
+  "stateCode": "CL-CO",
+  "countryCode": "CL",
+  "cities": [
+    {
+      "id": 3894914,
+      "name": "Provincia de Choapa",
+      "nativeName": "Provincia de Choapa",
+      "code": "CL-CO-3894914",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-CO",
+      "latitude": -31.7109,
+      "longitude": -70.99263
+    },
+    {
+      "id": 3890620,
+      "name": "Provincia de Elqui",
+      "nativeName": "Provincia de Elqui",
+      "code": "CL-CO-3890620",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-CO",
+      "latitude": -29.73588,
+      "longitude": -70.64455
+    },
+    {
+      "id": 3883200,
+      "name": "Provincia de Limarí",
+      "nativeName": "Provincia de Limarí",
+      "code": "CL-CO-3883200",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-CO",
+      "latitude": -30.75,
+      "longitude": -71
+    }
+  ]
+}

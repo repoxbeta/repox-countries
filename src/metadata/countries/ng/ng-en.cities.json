@@ -1,0 +1,194 @@
+{
+  "stateId": 2565344,
+  "stateCode": "NG-EN",
+  "countryCode": "NG",
+  "cities": [
+    {
+      "id": 8659742,
+      "name": "Aninri",
+      "nativeName": "Aninri",
+      "code": "NG-EN-8659742",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-EN",
+      "latitude": 6.06155,
+      "longitude": 7.59137
+    },
+    {
+      "id": 7873937,
+      "name": "Awgu",
+      "nativeName": "Awgu",
+      "code": "NG-EN-7873937",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-EN",
+      "latitude": 6.14311,
+      "longitude": 7.43658
+    },
+    {
+      "id": 7730007,
+      "name": "Enugu East",
+      "nativeName": "Enugu East",
+      "code": "NG-EN-7730007",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-EN",
+      "latitude": 6.53333,
+      "longitude": 7.53333
+    },
+    {
+      "id": 8659740,
+      "name": "Enugu North",
+      "nativeName": "Enugu North",
+      "code": "NG-EN-8659740",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-EN",
+      "latitude": 6.44476,
+      "longitude": 7.53521
+    },
+    {
+      "id": 7873926,
+      "name": "Enugu South",
+      "nativeName": "Enugu South",
+      "code": "NG-EN-7873926",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-EN",
+      "latitude": 6.39173,
+      "longitude": 7.51096
+    },
+    {
+      "id": 8659741,
+      "name": "Ezeagu",
+      "nativeName": "Ezeagu",
+      "code": "NG-EN-8659741",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-EN",
+      "latitude": 6.41062,
+      "longitude": 7.21477
+    },
+    {
+      "id": 8659739,
+      "name": "Igbo-Etiti",
+      "nativeName": "Igbo-Etiti",
+      "code": "NG-EN-8659739",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-EN",
+      "latitude": 6.68151,
+      "longitude": 7.41959
+    },
+    {
+      "id": 7730008,
+      "name": "Igbo-Eze-North",
+      "nativeName": "Igbo-Eze-North",
+      "code": "NG-EN-7730008",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-EN",
+      "latitude": 6.98333,
+      "longitude": 7.45
+    },
+    {
+      "id": 8659737,
+      "name": "Igbo-Eze-South",
+      "nativeName": "Igbo-Eze-South",
+      "code": "NG-EN-8659737",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-EN",
+      "latitude": 6.93368,
+      "longitude": 7.36673
+    },
+    {
+      "id": 7932063,
+      "name": "Isi-Uzo",
+      "nativeName": "Isi-Uzo",
+      "code": "NG-EN-7932063",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-EN",
+      "latitude": 6.73066,
+      "longitude": 7.69294
+    },
+    {
+      "id": 7873938,
+      "name": "Nkanu East",
+      "nativeName": "Nkanu East",
+      "code": "NG-EN-7873938",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-EN",
+      "latitude": 6.31519,
+      "longitude": 7.62422
+    },
+    {
+      "id": 7932082,
+      "name": "Nkanu West",
+      "nativeName": "Nkanu West",
+      "code": "NG-EN-7932082",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-EN",
+      "latitude": 6.31098,
+      "longitude": 7.50902
+    },
+    {
+      "id": 8659738,
+      "name": "Nsukka",
+      "nativeName": "Nsukka",
+      "code": "NG-EN-8659738",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-EN",
+      "latitude": 6.85329,
+      "longitude": 7.34801
+    },
+    {
+      "id": 7873925,
+      "name": "Oji-River",
+      "nativeName": "Oji-River",
+      "code": "NG-EN-7873925",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-EN",
+      "latitude": 6.17032,
+      "longitude": 7.27723
+    },
+    {
+      "id": 8659719,
+      "name": "Udenu",
+      "nativeName": "Udenu",
+      "code": "NG-EN-8659719",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-EN",
+      "latitude": 6.87201,
+      "longitude": 7.56714
+    },
+    {
+      "id": 7730010,
+      "name": "Udi",
+      "nativeName": "Udi",
+      "code": "NG-EN-7730010",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-EN",
+      "latitude": 6.51181,
+      "longitude": 7.35535
+    },
+    {
+      "id": 7932491,
+      "name": "Uzo-Uwani",
+      "nativeName": "Uzo-Uwani",
+      "code": "NG-EN-7932491",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-EN",
+      "latitude": 6.74135,
+      "longitude": 7.13794
+    }
+  ]
+}

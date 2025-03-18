@@ -1,0 +1,39 @@
+{
+  "countryId": 4030945,
+  "countryCode": "KI",
+  "states": [
+    {
+      "id": 2110215,
+      "name": "Gilbert Islands",
+      "nativeName": "Gilbert Islands",
+      "code": "KI-G",
+      "internalCode": "G",
+      "countryId": 4030945,
+      "countryCode": "KI",
+      "latitude": 1.42,
+      "longitude": 172.984
+    },
+    {
+      "id": 4030940,
+      "name": "Line Islands",
+      "nativeName": "Line Islands",
+      "code": "KI-L",
+      "internalCode": "L",
+      "countryId": 4030945,
+      "countryCode": "KI",
+      "latitude": 1.942,
+      "longitude": -157.475
+    },
+    {
+      "id": 7521379,
+      "name": "Phoenix Islands",
+      "nativeName": "Phoenix Islands",
+      "code": "KI-P",
+      "internalCode": "P",
+      "countryId": 4030945,
+      "countryCode": "KI",
+      "latitude": -2.808,
+      "longitude": -171.678
+    }
+  ]
+}

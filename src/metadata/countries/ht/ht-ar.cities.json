@@ -1,0 +1,62 @@
+{
+  "stateId": 3731053,
+  "stateCode": "HT-AR",
+  "countryCode": "HT",
+  "cities": [
+    {
+      "id": 3726539,
+      "name": "Arrondissement de Dessalines",
+      "nativeName": "Arrondissement de Dessalines",
+      "code": "HT-AR-3726539",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "stateCode": "HT-AR",
+      "latitude": 19.17855,
+      "longitude": -72.45836
+    },
+    {
+      "id": 3724144,
+      "name": "Arrondissement de Gros Morne",
+      "nativeName": "Arrondissement de Gros Morne",
+      "code": "HT-AR-3724144",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "stateCode": "HT-AR",
+      "latitude": 19.65,
+      "longitude": -72.85
+    },
+    {
+      "id": 3717563,
+      "name": "Arrondissement de Marmelade",
+      "nativeName": "Arrondissement de Marmelade",
+      "code": "HT-AR-3717563",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "stateCode": "HT-AR",
+      "latitude": 19.33333,
+      "longitude": -72.36667
+    },
+    {
+      "id": 3717587,
+      "name": "Arrondissement de Saint-Marc",
+      "nativeName": "Arrondissement de Saint-Marc",
+      "code": "HT-AR-3717587",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "stateCode": "HT-AR",
+      "latitude": 19.04719,
+      "longitude": -72.56229
+    },
+    {
+      "id": 3724695,
+      "name": "Gonayiv",
+      "nativeName": "Gonayiv",
+      "code": "HT-AR-3724695",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "stateCode": "HT-AR",
+      "latitude": 19.46809,
+      "longitude": -72.59232
+    }
+  ]
+}

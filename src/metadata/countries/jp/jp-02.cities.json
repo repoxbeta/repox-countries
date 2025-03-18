@@ -1,0 +1,205 @@
+{
+  "stateId": 2130656,
+  "stateCode": "JP-02",
+  "countryCode": "JP",
+  "cities": [
+    {
+      "id": 2130654,
+      "name": "Aomori Shi",
+      "nativeName": "Aomori Shi",
+      "code": "JP-02-2130654",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-02",
+      "latitude": 40.77001,
+      "longitude": 140.75423
+    },
+    {
+      "id": 2130225,
+      "name": "Goshogawara Shi",
+      "nativeName": "Goshogawara Shi",
+      "code": "JP-02-2130225",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-02",
+      "latitude": 40.91657,
+      "longitude": 140.46998
+    },
+    {
+      "id": 2130200,
+      "name": "Hachinohe Shi",
+      "nativeName": "Hachinohe Shi",
+      "code": "JP-02-2130200",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-02",
+      "latitude": 40.47389,
+      "longitude": 141.48125
+    },
+    {
+      "id": 2130088,
+      "name": "Higashitsugaru-gun",
+      "nativeName": "Higashitsugaru-gun",
+      "code": "JP-02-2130088",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-02",
+      "latitude": 40.90874,
+      "longitude": 140.96413
+    },
+    {
+      "id": 7439934,
+      "name": "Hirakawa Shi",
+      "nativeName": "Hirakawa Shi",
+      "code": "JP-02-7439934",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-02",
+      "latitude": 40.51832,
+      "longitude": 140.70048
+    },
+    {
+      "id": 2130056,
+      "name": "Hirosaki Shi",
+      "nativeName": "Hirosaki Shi",
+      "code": "JP-02-2130056",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-02",
+      "latitude": 40.60512,
+      "longitude": 140.3846
+    },
+    {
+      "id": 2129754,
+      "name": "Kamikita-gun",
+      "nativeName": "Kamikita-gun",
+      "code": "JP-02-2129754",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-02",
+      "latitude": 40.8226,
+      "longitude": 141.22597
+    },
+    {
+      "id": 2129525,
+      "name": "Kitatsugaru Gun",
+      "nativeName": "Kitatsugaru Gun",
+      "code": "JP-02-2129525",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-02",
+      "latitude": 40.96002,
+      "longitude": 140.42703
+    },
+    {
+      "id": 2129393,
+      "name": "Kuroishi Shi",
+      "nativeName": "Kuroishi Shi",
+      "code": "JP-02-2129393",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-02",
+      "latitude": 40.61709,
+      "longitude": 140.70467
+    },
+    {
+      "id": 2129224,
+      "name": "Minamitsugaru Gun",
+      "nativeName": "Minamitsugaru Gun",
+      "code": "JP-02-2129224",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-02",
+      "latitude": 40.53377,
+      "longitude": 140.54116
+    },
+    {
+      "id": 7439937,
+      "name": "Misawa Shi",
+      "nativeName": "Misawa Shi",
+      "code": "JP-02-7439937",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-02",
+      "latitude": 40.74647,
+      "longitude": 141.38124
+    },
+    {
+      "id": 2129089,
+      "name": "Mutsu Shi",
+      "nativeName": "Mutsu Shi",
+      "code": "JP-02-2129089",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-02",
+      "latitude": 41.2909,
+      "longitude": 141.03327
+    },
+    {
+      "id": 7439929,
+      "name": "Nakatsugaru Gun",
+      "nativeName": "Nakatsugaru Gun",
+      "code": "JP-02-7439929",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-02",
+      "latitude": 40.5128,
+      "longitude": 140.2337
+    },
+    {
+      "id": 8534376,
+      "name": "Nishitsugaru-gun",
+      "nativeName": "Nishitsugaru-gun",
+      "code": "JP-02-8534376",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-02",
+      "latitude": 40.62927,
+      "longitude": 140.08695
+    },
+    {
+      "id": 2128302,
+      "name": "Sannohe Gun",
+      "nativeName": "Sannohe Gun",
+      "code": "JP-02-2128302",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-02",
+      "latitude": 40.40566,
+      "longitude": 141.22131
+    },
+    {
+      "id": 2128134,
+      "name": "Shimokita-gun",
+      "nativeName": "Shimokita-gun",
+      "code": "JP-02-2128134",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-02",
+      "latitude": 41.27478,
+      "longitude": 141.33357
+    },
+    {
+      "id": 2127674,
+      "name": "Towada Shi",
+      "nativeName": "Towada Shi",
+      "code": "JP-02-2127674",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-02",
+      "latitude": 40.56736,
+      "longitude": 141.05794
+    },
+    {
+      "id": 7439944,
+      "name": "Tsugaru Shi",
+      "nativeName": "Tsugaru Shi",
+      "code": "JP-02-7439944",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-02",
+      "latitude": 40.86988,
+      "longitude": 140.34963
+    }
+  ]
+}

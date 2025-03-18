@@ -1,0 +1,106 @@
+{
+  "stateId": 2392325,
+  "stateCode": "BJ-OU",
+  "countryCode": "BJ",
+  "cities": [
+    {
+      "id": 8693304,
+      "name": "Adjarra",
+      "nativeName": "Adjara",
+      "code": "BJ-OU-8693304",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-OU",
+      "latitude": 6.49135,
+      "longitude": 2.68101
+    },
+    {
+      "id": 7668892,
+      "name": "Adjohoun",
+      "nativeName": "Commune of Adjohoun",
+      "code": "BJ-OU-7668892",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-OU",
+      "latitude": 6.71182,
+      "longitude": 2.49399
+    },
+    {
+      "id": 7668940,
+      "name": "Aguegues",
+      "nativeName": "Aguégués",
+      "code": "BJ-OU-7668940",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-OU",
+      "latitude": 6.462,
+      "longitude": 2.51945
+    },
+    {
+      "id": 9063965,
+      "name": "Akpro-Misserete",
+      "nativeName": "Akpro-Misserete",
+      "code": "BJ-OU-9063965",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-OU",
+      "latitude": 6.5625,
+      "longitude": 2.58528
+    },
+    {
+      "id": 9063966,
+      "name": "Avrankou",
+      "nativeName": "Avrankou",
+      "code": "BJ-OU-9063966",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-OU",
+      "latitude": 6.55,
+      "longitude": 2.66667
+    },
+    {
+      "id": 7668898,
+      "name": "Bonou",
+      "nativeName": "Bonou",
+      "code": "BJ-OU-7668898",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-OU",
+      "latitude": 6.86938,
+      "longitude": 2.47934
+    },
+    {
+      "id": 7668900,
+      "name": "Dangbo",
+      "nativeName": "Dangbo",
+      "code": "BJ-OU-7668900",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-OU",
+      "latitude": 6.58039,
+      "longitude": 2.49927
+    },
+    {
+      "id": 7668939,
+      "name": "Porto-Novo",
+      "nativeName": "Porto-Novo",
+      "code": "BJ-OU-7668939",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-OU",
+      "latitude": 6.48047,
+      "longitude": 2.62129
+    },
+    {
+      "id": 7668941,
+      "name": "Seme-Kpodji",
+      "nativeName": "Seme-Kpodji",
+      "code": "BJ-OU-7668941",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-OU",
+      "latitude": 6.39468,
+      "longitude": 2.58172
+    }
+  ]
+}

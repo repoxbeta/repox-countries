@@ -1,0 +1,128 @@
+{
+  "stateId": 3040131,
+  "stateCode": "AD-04",
+  "countryCode": "AD",
+  "cities": [
+    {
+      "id": 3040132,
+      "name": "La Massana",
+      "nativeName": "la Massana",
+      "code": "AD-04-3040132",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-04",
+      "latitude": 42.54499,
+      "longitude": 1.51483
+    },
+    {
+      "id": 3041543,
+      "name": "Anyós",
+      "nativeName": "Anyós",
+      "code": "AD-04-3041543",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-04",
+      "latitude": 42.53465,
+      "longitude": 1.5251
+    },
+    {
+      "id": 3041519,
+      "name": "Arinsal",
+      "nativeName": "Arinsal",
+      "code": "AD-04-3041519",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-04",
+      "latitude": 42.57205,
+      "longitude": 1.48453
+    },
+    {
+      "id": 3040609,
+      "name": "Erts",
+      "nativeName": "Erts",
+      "code": "AD-04-3040609",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-04",
+      "latitude": 42.56218,
+      "longitude": 1.4968
+    },
+    {
+      "id": 3040601,
+      "name": "Escàs",
+      "nativeName": "Escàs",
+      "code": "AD-04-3040601",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-04",
+      "latitude": 42.54643,
+      "longitude": 1.50895
+    },
+    {
+      "id": 3039896,
+      "name": "Mas de Ribafeta",
+      "nativeName": "Mas de Ribafeta",
+      "code": "AD-04-3039896",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-04",
+      "latitude": 42.56932,
+      "longitude": 1.48858
+    },
+    {
+      "id": 3039634,
+      "name": "Pal",
+      "nativeName": "Pal",
+      "code": "AD-04-3039634",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-04",
+      "latitude": 42.54592,
+      "longitude": 1.47524
+    },
+    {
+      "id": 10630523,
+      "name": "Puiol del Piu",
+      "nativeName": "Puiol del Piu",
+      "code": "AD-04-10630523",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-04",
+      "latitude": 42.5652,
+      "longitude": 1.49159
+    },
+    {
+      "id": 3039077,
+      "name": "Sispony",
+      "nativeName": "Sispony",
+      "code": "AD-04-3039077",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-04",
+      "latitude": 42.53368,
+      "longitude": 1.51613
+    },
+    {
+      "id": 3038816,
+      "name": "Xixerella",
+      "nativeName": "Xixerella",
+      "code": "AD-04-3038816",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-04",
+      "latitude": 42.55327,
+      "longitude": 1.48736
+    },
+    {
+      "id": 3040141,
+      "name": "l'Aldosa",
+      "nativeName": "l'Aldosa",
+      "code": "AD-04-3040141",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-04",
+      "latitude": 42.54391,
+      "longitude": 1.52289
+    }
+  ]
+}

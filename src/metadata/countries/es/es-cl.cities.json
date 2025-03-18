@@ -1,0 +1,106 @@
+{
+  "stateId": 3336900,
+  "stateCode": "ES-CL",
+  "countryCode": "ES",
+  "cities": [
+    {
+      "id": 3129138,
+      "name": "Avila",
+      "nativeName": "Provincia de Ávila",
+      "code": "ES-CL-3129138",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "stateCode": "ES-CL",
+      "latitude": 40.58333,
+      "longitude": -5
+    },
+    {
+      "id": 3127460,
+      "name": "Burgos",
+      "nativeName": "Provincia de Burgos",
+      "code": "ES-CL-3127460",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "stateCode": "ES-CL",
+      "latitude": 42.33939,
+      "longitude": -3.70789
+    },
+    {
+      "id": 3118528,
+      "name": "Leon",
+      "nativeName": "Provincia de León",
+      "code": "ES-CL-3118528",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "stateCode": "ES-CL",
+      "latitude": 42.66667,
+      "longitude": -6
+    },
+    {
+      "id": 3114530,
+      "name": "Palencia",
+      "nativeName": "Provincia de Palencia",
+      "code": "ES-CL-3114530",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "stateCode": "ES-CL",
+      "latitude": 42.41667,
+      "longitude": -4.5
+    },
+    {
+      "id": 3111107,
+      "name": "Salamanca",
+      "nativeName": "Provincia de Salamanca",
+      "code": "ES-CL-3111107",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "stateCode": "ES-CL",
+      "latitude": 40.83333,
+      "longitude": -6
+    },
+    {
+      "id": 3109254,
+      "name": "Segovia",
+      "nativeName": "Provincia de Segovia",
+      "code": "ES-CL-3109254",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "stateCode": "ES-CL",
+      "latitude": 41.16667,
+      "longitude": -4
+    },
+    {
+      "id": 3108680,
+      "name": "Soria",
+      "nativeName": "Provincia de Soria",
+      "code": "ES-CL-3108680",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "stateCode": "ES-CL",
+      "latitude": 41.66667,
+      "longitude": -2.66667
+    },
+    {
+      "id": 3106671,
+      "name": "Valladolid",
+      "nativeName": "Provincia de Valladolid",
+      "code": "ES-CL-3106671",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "stateCode": "ES-CL",
+      "latitude": 41.58333,
+      "longitude": -4.66667
+    },
+    {
+      "id": 3104341,
+      "name": "Zamora",
+      "nativeName": "Provincia de Zamora",
+      "code": "ES-CL-3104341",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "stateCode": "ES-CL",
+      "latitude": 41.75,
+      "longitude": -6
+    }
+  ]
+}

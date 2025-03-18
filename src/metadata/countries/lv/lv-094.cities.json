@@ -1,0 +1,183 @@
+{
+  "stateId": 7628380,
+  "stateCode": "LV-094",
+  "countryCode": "LV",
+  "cities": [
+    {
+      "id": 11352471,
+      "name": "Ape",
+      "nativeName": "Ape",
+      "code": "LV-094-11352471",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-094",
+      "latitude": 57.53949,
+      "longitude": 26.70201
+    },
+    {
+      "id": 11352473,
+      "name": "Apes pagasts",
+      "nativeName": "Apes pagasts",
+      "code": "LV-094-11352473",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-094",
+      "latitude": 57.52316,
+      "longitude": 26.72352
+    },
+    {
+      "id": 11352918,
+      "name": "Bilskas pagasts",
+      "nativeName": "Bilskas pagasts",
+      "code": "LV-094-11352918",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-094",
+      "latitude": 57.48592,
+      "longitude": 26.05945
+    },
+    {
+      "id": 11352919,
+      "name": "Blomes pagasts",
+      "nativeName": "Blomes pagasts",
+      "code": "LV-094-11352919",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-094",
+      "latitude": 57.44691,
+      "longitude": 25.74018
+    },
+    {
+      "id": 11352920,
+      "name": "Brantu pagasts",
+      "nativeName": "Brantu pagasts",
+      "code": "LV-094-11352920",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-094",
+      "latitude": 57.37648,
+      "longitude": 25.79825
+    },
+    {
+      "id": 11352829,
+      "name": "Drustu pagasts",
+      "nativeName": "Drustu pagasts",
+      "code": "LV-094-11352829",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-094",
+      "latitude": 57.24312,
+      "longitude": 25.8922
+    },
+    {
+      "id": 11352474,
+      "name": "Gaujienas pagasts",
+      "nativeName": "Gaujienas pagasts",
+      "code": "LV-094-11352474",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-094",
+      "latitude": 57.51358,
+      "longitude": 26.4223
+    },
+    {
+      "id": 11352921,
+      "name": "Grundzāles pagasts",
+      "nativeName": "Grundzāles pagasts",
+      "code": "LV-094-11352921",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-094",
+      "latitude": 57.47222,
+      "longitude": 26.23241
+    },
+    {
+      "id": 11352922,
+      "name": "Launkalnes pagasts",
+      "nativeName": "Launkalnes pagasts",
+      "code": "LV-094-11352922",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-094",
+      "latitude": 57.34426,
+      "longitude": 25.93173
+    },
+    {
+      "id": 11352863,
+      "name": "Palsmanes pagasts",
+      "nativeName": "Palsmanes pagasts",
+      "code": "LV-094-11352863",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-094",
+      "latitude": 57.38254,
+      "longitude": 26.16683
+    },
+    {
+      "id": 11352830,
+      "name": "Raunas pagasts",
+      "nativeName": "Raunas pagasts",
+      "code": "LV-094-11352830",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-094",
+      "latitude": 57.34204,
+      "longitude": 25.6411
+    },
+    {
+      "id": 11352892,
+      "name": "Smiltene",
+      "nativeName": "Smiltene",
+      "code": "LV-094-11352892",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-094",
+      "latitude": 57.42073,
+      "longitude": 25.90397
+    },
+    {
+      "id": 11352901,
+      "name": "Smiltenes pagasts",
+      "nativeName": "Smiltenes pagasts",
+      "code": "LV-094-11352901",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-094",
+      "latitude": 57.45787,
+      "longitude": 25.87614
+    },
+    {
+      "id": 11352475,
+      "name": "Trapenes pagasts",
+      "nativeName": "Trapenes pagasts",
+      "code": "LV-094-11352475",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-094",
+      "latitude": 57.45086,
+      "longitude": 26.59088
+    },
+    {
+      "id": 11352916,
+      "name": "Variņu pagasts",
+      "nativeName": "Variņu pagasts",
+      "code": "LV-094-11352916",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-094",
+      "latitude": 57.31623,
+      "longitude": 26.15574
+    },
+    {
+      "id": 11352476,
+      "name": "Virešu pagasts",
+      "nativeName": "Virešu pagasts",
+      "code": "LV-094-11352476",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-094",
+      "latitude": 57.39652,
+      "longitude": 26.37516
+    }
+  ]
+}

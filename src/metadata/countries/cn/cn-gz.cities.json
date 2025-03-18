@@ -1,0 +1,106 @@
+{
+  "stateId": 1809445,
+  "stateCode": "CN-GZ",
+  "countryCode": "CN",
+  "cities": [
+    {
+      "id": 1817965,
+      "name": "Anshun Shi",
+      "nativeName": "Anshun Shi",
+      "code": "CN-GZ-1817965",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-GZ",
+      "latitude": 26.08029,
+      "longitude": 105.9091
+    },
+    {
+      "id": 1816372,
+      "name": "Bijie Diqu",
+      "nativeName": "Bijie Diqu",
+      "code": "CN-GZ-1816372",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-GZ",
+      "latitude": 27.29033,
+      "longitude": 105.30087
+    },
+    {
+      "id": 1809458,
+      "name": "Guiyang Shi",
+      "nativeName": "Guiyang Shi",
+      "code": "CN-GZ-1809458",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-GZ",
+      "latitude": 26.58,
+      "longitude": 106.71
+    },
+    {
+      "id": 1801764,
+      "name": "Liupanshui",
+      "nativeName": "Lupanshui Shi",
+      "code": "CN-GZ-1801764",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-GZ",
+      "latitude": 26.24015,
+      "longitude": 104.75182
+    },
+    {
+      "id": 1798360,
+      "name": "Qiandongnan Miao and Dong Autonomous Prefecture",
+      "nativeName": "Qiandongnan Miao and Dong Autonomous Prefecture",
+      "code": "CN-GZ-1798360",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-GZ",
+      "latitude": 26.5738,
+      "longitude": 108.59914
+    },
+    {
+      "id": 1798280,
+      "name": "Qiannan Buyei and Miao Autonomous Prefecture",
+      "nativeName": "Qiannan Bouyeizu Miaozu Zizhizhou",
+      "code": "CN-GZ-1798280",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-GZ",
+      "latitude": 26.06596,
+      "longitude": 107.11856
+    },
+    {
+      "id": 1798226,
+      "name": "Qianxinan Buyei and Miao Autonomous Prefecture",
+      "nativeName": "Qianxinan Buyei and Miao Autonomous Prefecture",
+      "code": "CN-GZ-1798226",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-GZ",
+      "latitude": 25.38808,
+      "longitude": 105.3874
+    },
+    {
+      "id": 1792591,
+      "name": "Tongren Diqu",
+      "nativeName": "Tongren Diqu",
+      "code": "CN-GZ-1792591",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-GZ",
+      "latitude": 27.74188,
+      "longitude": 109.19312
+    },
+    {
+      "id": 1783620,
+      "name": "Zunyi Shi",
+      "nativeName": "Zunyi Shi",
+      "code": "CN-GZ-1783620",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-GZ",
+      "latitude": 28.15469,
+      "longitude": 107.07481
+    }
+  ]
+}

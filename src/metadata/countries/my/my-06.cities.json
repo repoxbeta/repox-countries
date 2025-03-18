@@ -1,0 +1,128 @@
+{
+  "stateId": 1733042,
+  "stateCode": "MY-06",
+  "countryCode": "MY",
+  "cities": [
+    {
+      "id": 12231194,
+      "name": "Bentong",
+      "nativeName": "Bentong",
+      "code": "MY-06-12231194",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-06",
+      "latitude": 3.3806,
+      "longitude": 102.01247
+    },
+    {
+      "id": 1734988,
+      "name": "Bera",
+      "nativeName": "Bera",
+      "code": "MY-06-1734988",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-06",
+      "latitude": 3.33333,
+      "longitude": 102.5
+    },
+    {
+      "id": 1735261,
+      "name": "Cameron Highlands",
+      "nativeName": "Cameron Highlands",
+      "code": "MY-06-1735261",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-06",
+      "latitude": 4.4709,
+      "longitude": 101.3764
+    },
+    {
+      "id": 1735203,
+      "name": "Daerah Jerantut",
+      "nativeName": "Daerah Jerantut",
+      "code": "MY-06-1735203",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-06",
+      "latitude": 4.25,
+      "longitude": 102.66667
+    },
+    {
+      "id": 1734905,
+      "name": "Daerha Rompin",
+      "nativeName": "Daerha Rompin",
+      "code": "MY-06-1734905",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-06",
+      "latitude": 2.83568,
+      "longitude": 103.12969
+    },
+    {
+      "id": 12231198,
+      "name": "Kuantan",
+      "nativeName": "Kuantan",
+      "code": "MY-06-12231198",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-06",
+      "latitude": 3.85556,
+      "longitude": 103.09123
+    },
+    {
+      "id": 12231274,
+      "name": "Lipis",
+      "nativeName": "Lipis",
+      "code": "MY-06-12231274",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-06",
+      "latitude": 4.34482,
+      "longitude": 101.91593
+    },
+    {
+      "id": 12231302,
+      "name": "Maran",
+      "nativeName": "Maran",
+      "code": "MY-06-12231302",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-06",
+      "latitude": 3.6157,
+      "longitude": 102.6661
+    },
+    {
+      "id": 12231237,
+      "name": "Pekan",
+      "nativeName": "Pekan",
+      "code": "MY-06-12231237",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-06",
+      "latitude": 3.33322,
+      "longitude": 103.18392
+    },
+    {
+      "id": 12231217,
+      "name": "Raub",
+      "nativeName": "Raub",
+      "code": "MY-06-12231217",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-06",
+      "latitude": 3.85496,
+      "longitude": 101.83485
+    },
+    {
+      "id": 1732585,
+      "name": "Temerluh",
+      "nativeName": "Temerluh",
+      "code": "MY-06-1732585",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-06",
+      "latitude": 3.66667,
+      "longitude": 102.25
+    }
+  ]
+}

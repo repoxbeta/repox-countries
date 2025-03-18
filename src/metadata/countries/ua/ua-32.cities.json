@@ -1,0 +1,84 @@
+{
+  "stateId": 703446,
+  "stateCode": "UA-32",
+  "countryCode": "UA",
+  "cities": [
+    {
+      "id": 9644965,
+      "name": "Bila Tserkva Raion",
+      "nativeName": "Bilotserkivska Miskrada",
+      "code": "UA-32-9644965",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-32",
+      "latitude": 49.80421,
+      "longitude": 30.11988
+    },
+    {
+      "id": 711658,
+      "name": "Boryspil Raion",
+      "nativeName": "Borispol’skiy Rayon",
+      "code": "UA-32-711658",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-32",
+      "latitude": 50.3345,
+      "longitude": 31.0247
+    },
+    {
+      "id": 711392,
+      "name": "Brovary Raion",
+      "nativeName": "Brovary Raion",
+      "code": "UA-32-711392",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-32",
+      "latitude": 50.58333,
+      "longitude": 31
+    },
+    {
+      "id": 12189517,
+      "name": "Bucha Raion",
+      "nativeName": "Buchanskyi Raion",
+      "code": "UA-32-12189517",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-32",
+      "latitude": 50.54,
+      "longitude": 29.9
+    },
+    {
+      "id": 709244,
+      "name": "Fastiv Raion",
+      "nativeName": "Fastiv Raion",
+      "code": "UA-32-709244",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-32",
+      "latitude": 50.08333,
+      "longitude": 30
+    },
+    {
+      "id": 698777,
+      "name": "Obukhiv Raion",
+      "nativeName": "Obukhiv Raion",
+      "code": "UA-32-698777",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-32",
+      "latitude": 50.16667,
+      "longitude": 30.66667
+    },
+    {
+      "id": 688721,
+      "name": "Vyshhorod Raion",
+      "nativeName": "Vyshgorodskiy Rayon",
+      "code": "UA-32-688721",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-32",
+      "latitude": 50.81435,
+      "longitude": 30.40544
+    }
+  ]
+}

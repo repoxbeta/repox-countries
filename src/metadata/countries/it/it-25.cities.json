@@ -1,0 +1,139 @@
+{
+  "stateId": 3174618,
+  "stateCode": "IT-25",
+  "countryCode": "IT",
+  "cities": [
+    {
+      "id": 3173434,
+      "name": "Milan",
+      "nativeName": "Città metropolitana di Milano",
+      "code": "IT-25-3173434",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-25",
+      "latitude": 45.45186,
+      "longitude": 9.14586
+    },
+    {
+      "id": 6955700,
+      "name": "Monza Brianza",
+      "nativeName": "Provincia di Monza e della Brianza",
+      "code": "IT-25-6955700",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-25",
+      "latitude": 45.59674,
+      "longitude": 9.21616
+    },
+    {
+      "id": 3182163,
+      "name": "Province of Bergamo",
+      "nativeName": "Provincia di Bergamo",
+      "code": "IT-25-3182163",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-25",
+      "latitude": 45.83333,
+      "longitude": 9.8
+    },
+    {
+      "id": 3181553,
+      "name": "Province of Brescia",
+      "nativeName": "Provincia di Brescia",
+      "code": "IT-25-3181553",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-25",
+      "latitude": 45.70648,
+      "longitude": 10.33562
+    },
+    {
+      "id": 3178227,
+      "name": "Province of Como",
+      "nativeName": "Provincia di Como",
+      "code": "IT-25-3178227",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-25",
+      "latitude": 45.91249,
+      "longitude": 9.15744
+    },
+    {
+      "id": 3177837,
+      "name": "Province of Cremona",
+      "nativeName": "Provincia di Cremona",
+      "code": "IT-25-3177837",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-25",
+      "latitude": 45.23333,
+      "longitude": 9.93333
+    },
+    {
+      "id": 6458616,
+      "name": "Province of Lecco",
+      "nativeName": "Provincia di Lecco",
+      "code": "IT-25-6458616",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-25",
+      "latitude": 45.85397,
+      "longitude": 9.39001
+    },
+    {
+      "id": 6458617,
+      "name": "Province of Lodi",
+      "nativeName": "Provincia di Lodi",
+      "code": "IT-25-6458617",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-25",
+      "latitude": 45.29638,
+      "longitude": 9.52858
+    },
+    {
+      "id": 3174050,
+      "name": "Province of Mantua",
+      "nativeName": "Provincia di Mantova",
+      "code": "IT-25-3174050",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-25",
+      "latitude": 45.16667,
+      "longitude": 10.78333
+    },
+    {
+      "id": 3171364,
+      "name": "Province of Pavia",
+      "nativeName": "Provincia di Pavia",
+      "code": "IT-25-3171364",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-25",
+      "latitude": 45.11667,
+      "longitude": 9.13333
+    },
+    {
+      "id": 3166396,
+      "name": "Province of Sondrio",
+      "nativeName": "Provincia di Sondrio",
+      "code": "IT-25-3166396",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-25",
+      "latitude": 46.21108,
+      "longitude": 9.94907
+    },
+    {
+      "id": 3164697,
+      "name": "Province of Varese",
+      "nativeName": "Provincia di Varese",
+      "code": "IT-25-3164697",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-25",
+      "latitude": 45.8,
+      "longitude": 8.8
+    }
+  ]
+}

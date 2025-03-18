@@ -1,0 +1,161 @@
+{
+  "stateId": 1262271,
+  "stateCode": "IN-NL",
+  "countryCode": "IN",
+  "cities": [
+    {
+      "id": 12680244,
+      "name": "Chumoukedima",
+      "nativeName": "Chumoukedima",
+      "code": "IN-NL-12680244",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-NL",
+      "latitude": 25.80944,
+      "longitude": 93.71466
+    },
+    {
+      "id": 9747972,
+      "name": "Dimapur",
+      "nativeName": "Dimapur",
+      "code": "IN-NL-9747972",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-NL",
+      "latitude": 25.90166,
+      "longitude": 93.7175
+    },
+    {
+      "id": 9748005,
+      "name": "Kiphire District",
+      "nativeName": "Kiphire",
+      "code": "IN-NL-9748005",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-NL",
+      "latitude": 25.84486,
+      "longitude": 94.82514
+    },
+    {
+      "id": 1266367,
+      "name": "Kohima",
+      "nativeName": "Kohīma",
+      "code": "IN-NL-1266367",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-NL",
+      "latitude": 25.75,
+      "longitude": 94.16667
+    },
+    {
+      "id": 9747979,
+      "name": "Longleng",
+      "nativeName": "Longleng",
+      "code": "IN-NL-9747979",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-NL",
+      "latitude": 26.5554,
+      "longitude": 94.80031
+    },
+    {
+      "id": 1262844,
+      "name": "Mokokchung District",
+      "nativeName": "Mokokchūng",
+      "code": "IN-NL-1262844",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-NL",
+      "latitude": 26.31393,
+      "longitude": 94.51675
+    },
+    {
+      "id": 1262825,
+      "name": "Mon",
+      "nativeName": "Mon",
+      "code": "IN-NL-1262825",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-NL",
+      "latitude": 26.75,
+      "longitude": 94.83333
+    },
+    {
+      "id": 12680254,
+      "name": "Noklak",
+      "nativeName": "Noklak",
+      "code": "IN-NL-12680254",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-NL",
+      "latitude": 26.10046,
+      "longitude": 95.01936
+    },
+    {
+      "id": 8335032,
+      "name": "Peren District",
+      "nativeName": "Peren",
+      "code": "IN-NL-8335032",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-NL",
+      "latitude": 25.51276,
+      "longitude": 93.73716
+    },
+    {
+      "id": 1259785,
+      "name": "Phek",
+      "nativeName": "Phek",
+      "code": "IN-NL-1259785",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-NL",
+      "latitude": 25.75,
+      "longitude": 94.5
+    },
+    {
+      "id": 12680265,
+      "name": "Tseminyu",
+      "nativeName": "Tseminyu",
+      "code": "IN-NL-12680265",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-NL",
+      "latitude": 25.94162,
+      "longitude": 94.16007
+    },
+    {
+      "id": 1254132,
+      "name": "Tuensang",
+      "nativeName": "Tuensang District",
+      "code": "IN-NL-1254132",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-NL",
+      "latitude": 26.25,
+      "longitude": 94.75
+    },
+    {
+      "id": 1252841,
+      "name": "Wokha",
+      "nativeName": "Wokha",
+      "code": "IN-NL-1252841",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-NL",
+      "latitude": 26.16667,
+      "longitude": 94.25
+    },
+    {
+      "id": 1252654,
+      "name": "Zunheboto",
+      "nativeName": "Zunheboto",
+      "code": "IN-NL-1252654",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-NL",
+      "latitude": 26,
+      "longitude": 94.5
+    }
+  ]
+}

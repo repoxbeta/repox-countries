@@ -1,0 +1,40 @@
+{
+  "stateId": 6697806,
+  "stateCode": "GR-K",
+  "countryCode": "GR",
+  "cities": [
+    {
+      "id": 259970,
+      "name": "Chios",
+      "nativeName": "Chios",
+      "code": "GR-K-259970",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-K",
+      "latitude": 38.41667,
+      "longitude": 26
+    },
+    {
+      "id": 258465,
+      "name": "Lesbos",
+      "nativeName": "Lesbos",
+      "code": "GR-K-258465",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-K",
+      "latitude": 39.16667,
+      "longitude": 26.33333
+    },
+    {
+      "id": 254112,
+      "name": "Samos",
+      "nativeName": "Nomós Sámou",
+      "code": "GR-K-254112",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-K",
+      "latitude": 37.75,
+      "longitude": 26.75
+    }
+  ]
+}

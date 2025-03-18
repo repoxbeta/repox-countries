@@ -1,0 +1,62 @@
+{
+  "stateId": 56083,
+  "stateCode": "SO-JH",
+  "countryCode": "SO",
+  "cities": [
+    {
+      "id": 9179681,
+      "name": "Afmadow District",
+      "nativeName": "Afmadow",
+      "code": "SO-JH-9179681",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-JH",
+      "latitude": 0.5909,
+      "longitude": 41.78618
+    },
+    {
+      "id": 65061,
+      "name": "Degmada Badhaadhe",
+      "nativeName": "Degmada Badhaadhe",
+      "code": "SO-JH-65061",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-JH",
+      "latitude": -1.00207,
+      "longitude": 41.66144
+    },
+    {
+      "id": 9179985,
+      "name": "Jamame",
+      "nativeName": "Jamame",
+      "code": "SO-JH-9179985",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-JH",
+      "latitude": 0.06686,
+      "longitude": 42.74957
+    },
+    {
+      "id": 9179682,
+      "name": "Jamame District",
+      "nativeName": "Jamaame",
+      "code": "SO-JH-9179682",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-JH",
+      "latitude": 0.12306,
+      "longitude": 42.80327
+    },
+    {
+      "id": 9179683,
+      "name": "Kismayo District",
+      "nativeName": "Kismaayo",
+      "code": "SO-JH-9179683",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-JH",
+      "latitude": -0.37668,
+      "longitude": 42.00935
+    }
+  ]
+}

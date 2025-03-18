@@ -1,0 +1,227 @@
+{
+  "stateId": 3911924,
+  "stateCode": "BO-L",
+  "countryCode": "BO",
+  "cities": [
+    {
+      "id": 3913873,
+      "name": "Abel Iturralde",
+      "nativeName": "Provincia Abel Iturralde",
+      "code": "BO-L-3913873",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-L",
+      "latitude": -13.17991,
+      "longitude": -68.01499
+    },
+    {
+      "id": 3923690,
+      "name": "Aroma",
+      "nativeName": "Provincia Aroma",
+      "code": "BO-L-3923690",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-L",
+      "latitude": -17.18703,
+      "longitude": -67.95877
+    },
+    {
+      "id": 3923271,
+      "name": "Bautista Saavedra",
+      "nativeName": "Provincia Bautista Saavedra",
+      "code": "BO-L-3923271",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-L",
+      "latitude": -15.08995,
+      "longitude": -68.83421
+    },
+    {
+      "id": 3922460,
+      "name": "Camacho",
+      "nativeName": "Provincia Camacho",
+      "code": "BO-L-3922460",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-L",
+      "latitude": -15.51687,
+      "longitude": -69.1012
+    },
+    {
+      "id": 11184247,
+      "name": "Caranavi",
+      "nativeName": "Caranavi",
+      "code": "BO-L-11184247",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-L",
+      "latitude": -15.83652,
+      "longitude": -67.56901
+    },
+    {
+      "id": 3915684,
+      "name": "Franz Tamayo",
+      "nativeName": "Provincia Franz Tamayo",
+      "code": "BO-L-3915684",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-L",
+      "latitude": -14.60495,
+      "longitude": -68.30335
+    },
+    {
+      "id": 3915457,
+      "name": "Gualberto Villarroel",
+      "nativeName": "Provincia Gualberto Villarroel",
+      "code": "BO-L-3915457",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-L",
+      "latitude": -17.63581,
+      "longitude": -67.94565
+    },
+    {
+      "id": 3914178,
+      "name": "Ingavi",
+      "nativeName": "Provincia Ingavi",
+      "code": "BO-L-3914178",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-L",
+      "latitude": -16.70964,
+      "longitude": -68.75568
+    },
+    {
+      "id": 3914147,
+      "name": "Inquisivi",
+      "nativeName": "Provincia Inquisivi",
+      "code": "BO-L-3914147",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-L",
+      "latitude": -16.95792,
+      "longitude": -67.15652
+    },
+    {
+      "id": 11184248,
+      "name": "José Manuel Pando",
+      "nativeName": "José Manuel Pando",
+      "code": "BO-L-11184248",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-L",
+      "latitude": -16.1897,
+      "longitude": -67.72664
+    },
+    {
+      "id": 3911853,
+      "name": "Larecaja",
+      "nativeName": "Provincia Larecaja",
+      "code": "BO-L-3911853",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-L",
+      "latitude": -15.62931,
+      "longitude": -68.18903
+    },
+    {
+      "id": 3911271,
+      "name": "Loayza",
+      "nativeName": "Provincia Loayza",
+      "code": "BO-L-3911271",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-L",
+      "latitude": -16.99719,
+      "longitude": -67.54673
+    },
+    {
+      "id": 3911185,
+      "name": "Los Andes",
+      "nativeName": "Provincia Los Andes",
+      "code": "BO-L-3911185",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-L",
+      "latitude": -16.35395,
+      "longitude": -68.41567
+    },
+    {
+      "id": 3910806,
+      "name": "Manco Kapac",
+      "nativeName": "Provincia Manco Kapac",
+      "code": "BO-L-3910806",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-L",
+      "latitude": -16.16679,
+      "longitude": -69.00081
+    },
+    {
+      "id": 3909793,
+      "name": "Murillo",
+      "nativeName": "Provincia Murillo",
+      "code": "BO-L-3909793",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-L",
+      "latitude": -16.36519,
+      "longitude": -68.05247
+    },
+    {
+      "id": 3909808,
+      "name": "Muñecas",
+      "nativeName": "Provincia Muñecas",
+      "code": "BO-L-3909808",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-L",
+      "latitude": -15.44578,
+      "longitude": -68.7941
+    },
+    {
+      "id": 3909486,
+      "name": "Nor Yungas",
+      "nativeName": "Provincia Nor Yungas",
+      "code": "BO-L-3909486",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-L",
+      "latitude": -16.1949,
+      "longitude": -67.70708
+    },
+    {
+      "id": 3909341,
+      "name": "Omasuyos",
+      "nativeName": "Provincia Omasuyos",
+      "code": "BO-L-3909341",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-L",
+      "latitude": -16.00086,
+      "longitude": -68.64377
+    },
+    {
+      "id": 3909144,
+      "name": "Pacajes",
+      "nativeName": "Provincia Pacajes",
+      "code": "BO-L-3909144",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-L",
+      "latitude": -17.47751,
+      "longitude": -68.92879
+    },
+    {
+      "id": 3903975,
+      "name": "Sud Yungas",
+      "nativeName": "Provincia Sud Yungas",
+      "code": "BO-L-3903975",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-L",
+      "latitude": -16.16214,
+      "longitude": -67.14685
+    }
+  ]
+}

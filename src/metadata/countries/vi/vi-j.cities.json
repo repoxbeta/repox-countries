@@ -1,0 +1,51 @@
+{
+  "stateId": 7267903,
+  "stateCode": "VI-J",
+  "countryCode": "VI",
+  "cities": [
+    {
+      "id": 9252024,
+      "name": "Central",
+      "nativeName": "Central",
+      "code": "VI-J-9252024",
+      "countryId": 4796775,
+      "countryCode": "VI",
+      "stateCode": "VI-J",
+      "latitude": 18.3415,
+      "longitude": -64.7389
+    },
+    {
+      "id": 9252025,
+      "name": "Coral Bay",
+      "nativeName": "Coral Bay",
+      "code": "VI-J-9252025",
+      "countryId": 4796775,
+      "countryCode": "VI",
+      "stateCode": "VI-J",
+      "latitude": 18.33694,
+      "longitude": -64.71267
+    },
+    {
+      "id": 9252026,
+      "name": "Cruz Bay",
+      "nativeName": "Cruz Bay",
+      "code": "VI-J-9252026",
+      "countryId": 4796775,
+      "countryCode": "VI",
+      "stateCode": "VI-J",
+      "latitude": 18.32647,
+      "longitude": -64.77867
+    },
+    {
+      "id": 9252027,
+      "name": "East End",
+      "nativeName": "East End",
+      "code": "VI-J-9252027",
+      "countryId": 4796775,
+      "countryCode": "VI",
+      "stateCode": "VI-J",
+      "latitude": 18.33993,
+      "longitude": -64.6698
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "stateId": 2383204,
+  "stateCode": "CF-SE",
+  "countryCode": "CF",
+  "cities": [
+    {
+      "id": 9143473,
+      "name": "Bambio",
+      "nativeName": "Bambio",
+      "code": "CF-SE-9143473",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-SE",
+      "latitude": 3.80619,
+      "longitude": 16.78669
+    },
+    {
+      "id": 7731905,
+      "name": "Bayanga",
+      "nativeName": "Bayanga",
+      "code": "CF-SE-7731905",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-SE",
+      "latitude": 2.78864,
+      "longitude": 16.22608
+    },
+    {
+      "id": 7731904,
+      "name": "Nola",
+      "nativeName": "Nola",
+      "code": "CF-SE-7731904",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-SE",
+      "latitude": 3.56484,
+      "longitude": 16.02795
+    }
+  ]
+}

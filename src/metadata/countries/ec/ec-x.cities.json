@@ -1,0 +1,84 @@
+{
+  "stateId": 3658766,
+  "stateCode": "EC-X",
+  "countryCode": "EC",
+  "cities": [
+    {
+      "id": 3653474,
+      "name": "Cantón Pangua",
+      "nativeName": "Cantón Pangua",
+      "code": "EC-X-3653474",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-X",
+      "latitude": -1.08209,
+      "longitude": -79.15924
+    },
+    {
+      "id": 3652683,
+      "name": "Cantón Pujilí",
+      "nativeName": "Cantón Pujilí",
+      "code": "EC-X-3652683",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-X",
+      "latitude": -0.98422,
+      "longitude": -78.88679
+    },
+    {
+      "id": 10792507,
+      "name": "La Maná",
+      "nativeName": "La Maná",
+      "code": "EC-X-10792507",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-X",
+      "latitude": -0.7908,
+      "longitude": -79.1342
+    },
+    {
+      "id": 3654869,
+      "name": "Latacunga",
+      "nativeName": "Latacunga",
+      "code": "EC-X-3654869",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-X",
+      "latitude": -0.80785,
+      "longitude": -78.53681
+    },
+    {
+      "id": 3652108,
+      "name": "Salcedo",
+      "nativeName": "Salcedo",
+      "code": "EC-X-3652108",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-X",
+      "latitude": -1.06185,
+      "longitude": -78.60285
+    },
+    {
+      "id": 10792508,
+      "name": "Saquisilí",
+      "nativeName": "Saquisilí",
+      "code": "EC-X-10792508",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-X",
+      "latitude": -0.82866,
+      "longitude": -78.72559
+    },
+    {
+      "id": 8522615,
+      "name": "Sigchos",
+      "nativeName": "Sigchos",
+      "code": "EC-X-8522615",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-X",
+      "latitude": -0.64694,
+      "longitude": -78.91799
+    }
+  ]
+}

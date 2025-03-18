@@ -1,0 +1,40 @@
+{
+  "stateId": 2055111,
+  "stateCode": "MN-037",
+  "countryCode": "MN",
+  "cities": [
+    {
+      "id": 6618854,
+      "name": "Khongor District",
+      "nativeName": "Hongor",
+      "code": "MN-037-6618854",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-037",
+      "latitude": 49.42616,
+      "longitude": 105.96039
+    },
+    {
+      "id": 6618855,
+      "name": "Orkhon District",
+      "nativeName": "Orhon",
+      "code": "MN-037-6618855",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-037",
+      "latitude": 49.83472,
+      "longitude": 106.15952
+    },
+    {
+      "id": 6618853,
+      "name": "Sharyngol District",
+      "nativeName": "Sharïngol",
+      "code": "MN-037-6618853",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-037",
+      "latitude": 49.22275,
+      "longitude": 106.4304
+    }
+  ]
+}

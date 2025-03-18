@@ -1,0 +1,40 @@
+{
+  "stateId": 7062138,
+  "stateCode": "EC-SE",
+  "countryCode": "EC",
+  "cities": [
+    {
+      "id": 10792549,
+      "name": "La Libertad",
+      "nativeName": "La Libertad",
+      "code": "EC-SE-10792549",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-SE",
+      "latitude": -2.23149,
+      "longitude": -80.8998
+    },
+    {
+      "id": 3652097,
+      "name": "Salinas",
+      "nativeName": "Salinas",
+      "code": "EC-SE-3652097",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-SE",
+      "latitude": -2.26594,
+      "longitude": -80.91582
+    },
+    {
+      "id": 3651436,
+      "name": "Santa Elena",
+      "nativeName": "Santa Elena",
+      "code": "EC-SE-3651436",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-SE",
+      "latitude": -2.16797,
+      "longitude": -80.53961
+    }
+  ]
+}

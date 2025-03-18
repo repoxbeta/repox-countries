@@ -1,0 +1,194 @@
+{
+  "stateId": 6418541,
+  "stateCode": "DK-85",
+  "countryCode": "DK",
+  "cities": [
+    {
+      "id": 6543931,
+      "name": "Faxe Kommune",
+      "nativeName": "Faxe Kommune",
+      "code": "DK-85-6543931",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-85",
+      "latitude": 55.29444,
+      "longitude": 12.06111
+    },
+    {
+      "id": 2621218,
+      "name": "Greve Kommune",
+      "nativeName": "Greve Kommune",
+      "code": "DK-85-2621218",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-85",
+      "latitude": 55.5877,
+      "longitude": 12.2506
+    },
+    {
+      "id": 6543949,
+      "name": "Guldborgsund Kommune",
+      "nativeName": "Guldborgsund Kommune",
+      "code": "DK-85-6543949",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-85",
+      "latitude": 54.76944,
+      "longitude": 11.83611
+    },
+    {
+      "id": 2620141,
+      "name": "Holbæk Kommune",
+      "nativeName": "Holbæk Kommune",
+      "code": "DK-85-2620141",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-85",
+      "latitude": 55.65919,
+      "longitude": 11.62049
+    },
+    {
+      "id": 2619152,
+      "name": "Kalundborg Kommune",
+      "nativeName": "Kalundborg Kommune",
+      "code": "DK-85-2619152",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-85",
+      "latitude": 55.63545,
+      "longitude": 11.19993
+    },
+    {
+      "id": 2618557,
+      "name": "Køge Kommune",
+      "nativeName": "Køge Kommune",
+      "code": "DK-85-2618557",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-85",
+      "latitude": 55.45668,
+      "longitude": 12.07332
+    },
+    {
+      "id": 2617831,
+      "name": "Lejre Kommune",
+      "nativeName": "Lejre Kommune",
+      "code": "DK-85-2617831",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-85",
+      "latitude": 55.63375,
+      "longitude": 11.92234
+    },
+    {
+      "id": 6543950,
+      "name": "Lolland Kommune",
+      "nativeName": "Lolland Kommune",
+      "code": "DK-85-6543950",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-85",
+      "latitude": 54.80238,
+      "longitude": 11.29524
+    },
+    {
+      "id": 2616037,
+      "name": "Næstved Kommune",
+      "nativeName": "Næstved Kommune",
+      "code": "DK-85-2616037",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-85",
+      "latitude": 55.25855,
+      "longitude": 11.74615
+    },
+    {
+      "id": 6543928,
+      "name": "Odsherred Kommune",
+      "nativeName": "Odsherred Kommune",
+      "code": "DK-85-6543928",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-85",
+      "latitude": 55.88333,
+      "longitude": 11.59444
+    },
+    {
+      "id": 2614761,
+      "name": "Ringsted Kommune",
+      "nativeName": "Ringsted Kommune",
+      "code": "DK-85-2614761",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-85",
+      "latitude": 55.44721,
+      "longitude": 11.8172
+    },
+    {
+      "id": 2614478,
+      "name": "Roskilde Kommune",
+      "nativeName": "Roskilde Kommune",
+      "code": "DK-85-2614478",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-85",
+      "latitude": 55.65,
+      "longitude": 12.1
+    },
+    {
+      "id": 2613459,
+      "name": "Slagelse Kommune",
+      "nativeName": "Slagelse Kommune",
+      "code": "DK-85-2613459",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-85",
+      "latitude": 55.34546,
+      "longitude": 11.3339
+    },
+    {
+      "id": 2613235,
+      "name": "Solrød Kommune",
+      "nativeName": "Solrød Kommune",
+      "code": "DK-85-2613235",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-85",
+      "latitude": 55.53553,
+      "longitude": 12.17337
+    },
+    {
+      "id": 2612863,
+      "name": "Sorø Kommune",
+      "nativeName": "Sorø Kommune",
+      "code": "DK-85-2612863",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-85",
+      "latitude": 55.48268,
+      "longitude": 11.55693
+    },
+    {
+      "id": 2612565,
+      "name": "Stevns Kommune",
+      "nativeName": "Stevns Kommune",
+      "code": "DK-85-2612565",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-85",
+      "latitude": 55.33373,
+      "longitude": 12.30692
+    },
+    {
+      "id": 2610019,
+      "name": "Vordingborg Kommune",
+      "nativeName": "Vordingborg Kommune",
+      "code": "DK-85-2610019",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-85",
+      "latitude": 55.01383,
+      "longitude": 12.10008
+    }
+  ]
+}

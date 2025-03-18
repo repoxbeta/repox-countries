@@ -1,0 +1,51 @@
+{
+  "stateId": 2386161,
+  "stateCode": "CF-HS",
+  "countryCode": "CF",
+  "cities": [
+    {
+      "id": 7732685,
+      "name": "Berberati",
+      "nativeName": "Berberati",
+      "code": "CF-HS-7732685",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-HS",
+      "latitude": 4.31211,
+      "longitude": 15.88948
+    },
+    {
+      "id": 9143488,
+      "name": "Dédé-Mokouba",
+      "nativeName": "Dédé-Mokouba",
+      "code": "CF-HS-9143488",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-HS",
+      "latitude": 3.88173,
+      "longitude": 15.28814
+    },
+    {
+      "id": 7732916,
+      "name": "Gamboula",
+      "nativeName": "Gamboula",
+      "code": "CF-HS-7732916",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-HS",
+      "latitude": 4.37859,
+      "longitude": 15.10519
+    },
+    {
+      "id": 9143489,
+      "name": "Sosso-Nakombo",
+      "nativeName": "Sosso-Nakombo",
+      "code": "CF-HS-9143489",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-HS",
+      "latitude": 3.89541,
+      "longitude": 15.56761
+    }
+  ]
+}

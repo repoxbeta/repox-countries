@@ -1,0 +1,106 @@
+{
+  "stateId": 2313847,
+  "stateCode": "CD-KL",
+  "countryCode": "CD",
+  "cities": [
+    {
+      "id": 2317497,
+      "name": "Bagata",
+      "nativeName": "Bagata",
+      "code": "CD-KL-2317497",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-KL",
+      "latitude": -3.73333,
+      "longitude": 17.95
+    },
+    {
+      "id": 12278099,
+      "name": "Bandundu",
+      "nativeName": "Bandundu",
+      "code": "CD-KL-12278099",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-KL",
+      "latitude": -3.31634,
+      "longitude": 17.44519
+    },
+    {
+      "id": 12278047,
+      "name": "Bulungu",
+      "nativeName": "Bulungu",
+      "code": "CD-KL-12278047",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-KL",
+      "latitude": -4.65916,
+      "longitude": 18.69124
+    },
+    {
+      "id": 12278039,
+      "name": "Dibaya-Lubwe",
+      "nativeName": "Dibaya-Lubwe",
+      "code": "CD-KL-12278039",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-KL",
+      "latitude": -4.1553,
+      "longitude": 19.86196
+    },
+    {
+      "id": 12278050,
+      "name": "Gungu",
+      "nativeName": "Gungu",
+      "code": "CD-KL-12278050",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-KL",
+      "latitude": -5.7703,
+      "longitude": 19.27522
+    },
+    {
+      "id": 12278051,
+      "name": "Idiofa",
+      "nativeName": "Idiofa",
+      "code": "CD-KL-12278051",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-KL",
+      "latitude": -4.67522,
+      "longitude": 19.52724
+    },
+    {
+      "id": 12278158,
+      "name": "Kikwit",
+      "nativeName": "Kikwit",
+      "code": "CD-KL-12278158",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-KL",
+      "latitude": -5.05785,
+      "longitude": 18.80286
+    },
+    {
+      "id": 12278127,
+      "name": "Mangai",
+      "nativeName": "Mangai",
+      "code": "CD-KL-12278127",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-KL",
+      "latitude": -4.0594,
+      "longitude": 19.53196
+    },
+    {
+      "id": 12278128,
+      "name": "Masi-Manimba",
+      "nativeName": "Masi-Manimba",
+      "code": "CD-KL-12278128",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-KL",
+      "latitude": -5.10707,
+      "longitude": 17.98007
+    }
+  ]
+}

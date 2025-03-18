@@ -1,0 +1,205 @@
+{
+  "stateId": 3649110,
+  "stateCode": "VE-D",
+  "countryCode": "VE",
+  "cities": [
+    {
+      "id": 8129206,
+      "name": "Bolívar Municipality",
+      "nativeName": "Municipio Bolívar",
+      "code": "VE-D-8129206",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-D",
+      "latitude": 10.21302,
+      "longitude": -67.42365
+    },
+    {
+      "id": 8129250,
+      "name": "Camatagua Municipality",
+      "nativeName": "Municipio Camatagua",
+      "code": "VE-D-8129250",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-D",
+      "latitude": 9.78762,
+      "longitude": -66.90619
+    },
+    {
+      "id": 8131395,
+      "name": "Francisco Linares Alcántara Municipality",
+      "nativeName": "Municipio Francisco Linares Alcántara",
+      "code": "VE-D-8131395",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-D",
+      "latitude": 10.20598,
+      "longitude": -67.53275
+    },
+    {
+      "id": 3640595,
+      "name": "Girardot Municipality",
+      "nativeName": "Municipio Girardot",
+      "code": "VE-D-3640595",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-D",
+      "latitude": 10.33908,
+      "longitude": -67.5774
+    },
+    {
+      "id": 8129226,
+      "name": "José Angel Lamas Municipality",
+      "nativeName": "Municipio José Angel Lamas",
+      "code": "VE-D-8129226",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-D",
+      "latitude": 10.18,
+      "longitude": -67.51184
+    },
+    {
+      "id": 8129176,
+      "name": "José Rafael Revenga Municipality",
+      "nativeName": "Municipio José Rafael Revenga",
+      "code": "VE-D-8129176",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-D",
+      "latitude": 10.23717,
+      "longitude": -67.27141
+    },
+    {
+      "id": 8129237,
+      "name": "Libertador Municipality",
+      "nativeName": "Municipio Libertador",
+      "code": "VE-D-8129237",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-D",
+      "latitude": 10.17389,
+      "longitude": -67.54194
+    },
+    {
+      "id": 8131393,
+      "name": "Mario Briceño Iragorry Municipality",
+      "nativeName": "Municipio Mario Briceño Iragorry",
+      "code": "VE-D-8131393",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-D",
+      "latitude": 10.30314,
+      "longitude": -67.6172
+    },
+    {
+      "id": 8129235,
+      "name": "Mun. Costa de Oro",
+      "nativeName": "Municipio Ocumare de La Costa de Oro",
+      "code": "VE-D-8129235",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-D",
+      "latitude": 10.46127,
+      "longitude": -67.76872
+    },
+    {
+      "id": 8129202,
+      "name": "Municipio José Félix Ribas",
+      "nativeName": "Municipio José Félix Ribas",
+      "code": "VE-D-8129202",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-D",
+      "latitude": 10.21844,
+      "longitude": -67.33017
+    },
+    {
+      "id": 3628486,
+      "name": "San Casimiro",
+      "nativeName": "Municipio San Casimiro",
+      "code": "VE-D-3628486",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-D",
+      "latitude": 10,
+      "longitude": -66.91667
+    },
+    {
+      "id": 3627638,
+      "name": "San Sebastián Municipality",
+      "nativeName": "Municipio San Sebastián",
+      "code": "VE-D-3627638",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-D",
+      "latitude": 10,
+      "longitude": -67.16667
+    },
+    {
+      "id": 8129205,
+      "name": "Santiago Mariño",
+      "nativeName": "Municipio Santiago Mariño",
+      "code": "VE-D-8129205",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-D",
+      "latitude": 10.22388,
+      "longitude": -67.47288
+    },
+    {
+      "id": 8129149,
+      "name": "Santos Michelena Municipality",
+      "nativeName": "Municipio Santos Michelena",
+      "code": "VE-D-8129149",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-D",
+      "latitude": 10.25237,
+      "longitude": -67.18472
+    },
+    {
+      "id": 3626659,
+      "name": "Sucre Municipality",
+      "nativeName": "Municipio Sucre",
+      "code": "VE-D-3626659",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-D",
+      "latitude": 10.16667,
+      "longitude": -67.45
+    },
+    {
+      "id": 8131394,
+      "name": "Tovar Municipality",
+      "nativeName": "Municipio Tovar",
+      "code": "VE-D-8131394",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-D",
+      "latitude": 10.40353,
+      "longitude": -67.2916
+    },
+    {
+      "id": 3625660,
+      "name": "Urdaneta Municipality",
+      "nativeName": "Municipio Urdaneta",
+      "code": "VE-D-3625660",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-D",
+      "latitude": 9.71667,
+      "longitude": -66.8
+    },
+    {
+      "id": 3625123,
+      "name": "Zamora Municipality",
+      "nativeName": "Municipio Zamora",
+      "code": "VE-D-3625123",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-D",
+      "latitude": 10.06667,
+      "longitude": -67.5
+    }
+  ]
+}

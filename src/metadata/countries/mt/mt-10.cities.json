@@ -1,0 +1,29 @@
+{
+  "stateId": 8299709,
+  "stateCode": "MT-10",
+  "countryCode": "MT",
+  "cities": [
+    {
+      "id": 8337342,
+      "name": "Fontana",
+      "nativeName": "Fontana",
+      "code": "MT-10-8337342",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-10",
+      "latitude": 36.0375,
+      "longitude": 14.23611
+    },
+    {
+      "id": 9653601,
+      "name": "Manresa",
+      "nativeName": "Manresa",
+      "code": "MT-10-9653601",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-10",
+      "latitude": 36.03806,
+      "longitude": 14.23913
+    }
+  ]
+}

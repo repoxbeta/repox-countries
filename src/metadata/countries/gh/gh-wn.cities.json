@@ -1,0 +1,106 @@
+{
+  "stateId": 12105075,
+  "stateCode": "GH-WN",
+  "countryCode": "GH",
+  "cities": [
+    {
+      "id": 7648941,
+      "name": "Aowin/Suaman",
+      "nativeName": "Aowin/Suaman",
+      "code": "GH-WN-7648941",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-WN",
+      "latitude": 5.81667,
+      "longitude": -2.81667
+    },
+    {
+      "id": 7648959,
+      "name": "Bia",
+      "nativeName": "Bia",
+      "code": "GH-WN-7648959",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-WN",
+      "latitude": 6.73664,
+      "longitude": -3.04404
+    },
+    {
+      "id": 12105102,
+      "name": "Bia East",
+      "nativeName": "Bia East",
+      "code": "GH-WN-12105102",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-WN",
+      "latitude": 6.83537,
+      "longitude": -3.00772
+    },
+    {
+      "id": 7648962,
+      "name": "Bibiani/Ahwiaso/Bekwai",
+      "nativeName": "Bibiani/Ahwiaso/Bekwai",
+      "code": "GH-WN-7648962",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-WN",
+      "latitude": 6.46667,
+      "longitude": -2.33333
+    },
+    {
+      "id": 12105101,
+      "name": "Bodi",
+      "nativeName": "Bodi",
+      "code": "GH-WN-12105101",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-WN",
+      "latitude": 6.25109,
+      "longitude": -2.82035
+    },
+    {
+      "id": 7648990,
+      "name": "Juaboso",
+      "nativeName": "Juaboso",
+      "code": "GH-WN-7648990",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-WN",
+      "latitude": 6.33333,
+      "longitude": -2.83333
+    },
+    {
+      "id": 7649031,
+      "name": "Sefwi Akontobra",
+      "nativeName": "Sefwi Akontobra",
+      "code": "GH-WN-7649031",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-WN",
+      "latitude": 6.04183,
+      "longitude": -2.87517
+    },
+    {
+      "id": 7649032,
+      "name": "Sefwi-Wiawso",
+      "nativeName": "Sefwi-Wiawso",
+      "code": "GH-WN-7649032",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-WN",
+      "latitude": 6.2,
+      "longitude": -2.48333
+    },
+    {
+      "id": 12105100,
+      "name": "Suaman",
+      "nativeName": "Suaman",
+      "code": "GH-WN-12105100",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-WN",
+      "latitude": 6.1157,
+      "longitude": -3.02484
+    }
+  ]
+}

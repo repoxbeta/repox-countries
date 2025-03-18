@@ -1,0 +1,172 @@
+{
+  "stateId": 1579008,
+  "stateCode": "VN-47",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 1904954,
+      "name": "An Biên District",
+      "nativeName": "Huyện An Biên",
+      "code": "VN-47-1904954",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-47",
+      "latitude": 9.81291,
+      "longitude": 105.0523
+    },
+    {
+      "id": 1904955,
+      "name": "An Minh District",
+      "nativeName": "Huyện An Minh",
+      "code": "VN-47-1904955",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-47",
+      "latitude": 9.66704,
+      "longitude": 104.94848
+    },
+    {
+      "id": 1904950,
+      "name": "Châu Thành District",
+      "nativeName": "Huyện Châu Thành",
+      "code": "VN-47-1904950",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-47",
+      "latitude": 9.94372,
+      "longitude": 105.16868
+    },
+    {
+      "id": 1904953,
+      "name": "Gò Quao District",
+      "nativeName": "Huyện Gò Quao",
+      "code": "VN-47-1904953",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-47",
+      "latitude": 9.74027,
+      "longitude": 105.29766
+    },
+    {
+      "id": 11497306,
+      "name": "Huyện Giang Thành",
+      "nativeName": "Huyện Giang Thành",
+      "code": "VN-47-11497306",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-47",
+      "latitude": 10.46314,
+      "longitude": 104.67889
+    },
+    {
+      "id": 1904951,
+      "name": "Huyện Giồng Riềng",
+      "nativeName": "Huyện Giồng Riềng",
+      "code": "VN-47-1904951",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-47",
+      "latitude": 9.9042,
+      "longitude": 105.353
+    },
+    {
+      "id": 1904957,
+      "name": "Hòn Đất District",
+      "nativeName": "Huyện Hòn Đất",
+      "code": "VN-47-1904957",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-47",
+      "latitude": 10.22908,
+      "longitude": 104.9528
+    },
+    {
+      "id": 1904959,
+      "name": "Kiên Hải District",
+      "nativeName": "Huyện Kiên Hải",
+      "code": "VN-47-1904959",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-47",
+      "latitude": 9.80496,
+      "longitude": 104.63672
+    },
+    {
+      "id": 8727784,
+      "name": "Kiên Lương District",
+      "nativeName": "Kien Luong Town",
+      "code": "VN-47-8727784",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-47",
+      "latitude": 10.24892,
+      "longitude": 104.59
+    },
+    {
+      "id": 1904960,
+      "name": "Phú Quốc District",
+      "nativeName": "Thành Phố Phú Quốc",
+      "code": "VN-47-1904960",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-47",
+      "latitude": 10.25516,
+      "longitude": 104.01455
+    },
+    {
+      "id": 1904958,
+      "name": "Thành Phố Hà Tiên",
+      "nativeName": "Thành Phố Hà Tiên",
+      "code": "VN-47-1904958",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-47",
+      "latitude": 10.386,
+      "longitude": 104.5029
+    },
+    {
+      "id": 1904949,
+      "name": "Thành Phố Rạch Giá",
+      "nativeName": "Thành Phố Rạch Giá",
+      "code": "VN-47-1904949",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-47",
+      "latitude": 10.01711,
+      "longitude": 105.09739
+    },
+    {
+      "id": 1904952,
+      "name": "Tân Hiệp District",
+      "nativeName": "Huyện Tân Hiệp",
+      "code": "VN-47-1904952",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-47",
+      "latitude": 10.0954,
+      "longitude": 105.25936
+    },
+    {
+      "id": 9280591,
+      "name": "U Minh Thượng District",
+      "nativeName": "Huyện U Minh Thượng",
+      "code": "VN-47-9280591",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-47",
+      "latitude": 9.6419,
+      "longitude": 105.11914
+    },
+    {
+      "id": 1904956,
+      "name": "Vĩnh Thuận District",
+      "nativeName": "Huyện Vĩnh Thuận",
+      "code": "VN-47-1904956",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-47",
+      "latitude": 9.53306,
+      "longitude": 105.2449
+    }
+  ]
+}

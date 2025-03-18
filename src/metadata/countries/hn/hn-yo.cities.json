@@ -1,0 +1,128 @@
+{
+  "stateId": 3600193,
+  "stateCode": "HN-YO",
+  "countryCode": "HN",
+  "cities": [
+    {
+      "id": 3615092,
+      "name": "Arenal",
+      "nativeName": "Arenal",
+      "code": "HN-YO-3615092",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-YO",
+      "latitude": 15.35529,
+      "longitude": -86.81575
+    },
+    {
+      "id": 3611153,
+      "name": "El Negrito",
+      "nativeName": "El Negrito",
+      "code": "HN-YO-3611153",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-YO",
+      "latitude": 15.42,
+      "longitude": -87.68
+    },
+    {
+      "id": 3610615,
+      "name": "El Progreso",
+      "nativeName": "El Progreso",
+      "code": "HN-YO-3610615",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-YO",
+      "latitude": 15.42762,
+      "longitude": -87.77396
+    },
+    {
+      "id": 3608636,
+      "name": "Jocón",
+      "nativeName": "Jocón",
+      "code": "HN-YO-3608636",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-YO",
+      "latitude": 15.29895,
+      "longitude": -86.95354
+    },
+    {
+      "id": 3604586,
+      "name": "Morazán",
+      "nativeName": "Morazán",
+      "code": "HN-YO-3604586",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-YO",
+      "latitude": 15.33087,
+      "longitude": -87.55177
+    },
+    {
+      "id": 3604253,
+      "name": "Olanchito",
+      "nativeName": "Olanchito",
+      "code": "HN-YO-3604253",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-YO",
+      "latitude": 15.47368,
+      "longitude": -86.62377
+    },
+    {
+      "id": 3601530,
+      "name": "Santa Rita",
+      "nativeName": "Santa Rita",
+      "code": "HN-YO-3601530",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-YO",
+      "latitude": 15.18,
+      "longitude": -87.81
+    },
+    {
+      "id": 3601160,
+      "name": "Sulaco",
+      "nativeName": "Sulaco",
+      "code": "HN-YO-3601160",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-YO",
+      "latitude": 14.95,
+      "longitude": -87.3
+    },
+    {
+      "id": 3600360,
+      "name": "Victoria",
+      "nativeName": "Victoria",
+      "code": "HN-YO-3600360",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-YO",
+      "latitude": 15.10012,
+      "longitude": -87.5302
+    },
+    {
+      "id": 3600200,
+      "name": "Yorito",
+      "nativeName": "Yorito",
+      "code": "HN-YO-3600200",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-YO",
+      "latitude": 15.06,
+      "longitude": -87.33
+    },
+    {
+      "id": 3600197,
+      "name": "Yoro",
+      "nativeName": "Yoro",
+      "code": "HN-YO-3600197",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-YO",
+      "latitude": 15.23,
+      "longitude": -87.23
+    }
+  ]
+}

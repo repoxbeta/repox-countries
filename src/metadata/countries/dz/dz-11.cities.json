@@ -1,0 +1,40 @@
+{
+  "stateId": 2478217,
+  "stateCode": "DZ-11",
+  "countryCode": "DZ",
+  "cities": [
+    {
+      "id": 2478218,
+      "name": "Daïra de Tamanrasset",
+      "nativeName": "Daïra de Tamanrasset",
+      "code": "DZ-11-2478218",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-11",
+      "latitude": 23,
+      "longitude": 5.5
+    },
+    {
+      "id": 12952465,
+      "name": "Silet",
+      "nativeName": "Silet",
+      "code": "DZ-11-12952465",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-11",
+      "latitude": 22.37458,
+      "longitude": 3.37885
+    },
+    {
+      "id": 12952466,
+      "name": "Tazrouk",
+      "nativeName": "Tazrouk",
+      "code": "DZ-11-12952466",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-11",
+      "latitude": 23.68277,
+      "longitude": 7.15735
+    }
+  ]
+}

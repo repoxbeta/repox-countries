@@ -1,0 +1,128 @@
+{
+  "stateId": 285153,
+  "stateCode": "PS-WE",
+  "countryCode": "PS",
+  "cities": [
+    {
+      "id": 7870463,
+      "name": "Bethlehem Governorate",
+      "nativeName": "Bethlehem",
+      "code": "PS-WE-7870463",
+      "countryId": 6254930,
+      "countryCode": "PS",
+      "stateCode": "PS-WE",
+      "latitude": 31.65,
+      "longitude": 35.3
+    },
+    {
+      "id": 7870658,
+      "name": "Hebron Governorate",
+      "nativeName": "Al Khalil",
+      "code": "PS-WE-7870658",
+      "countryId": 6254930,
+      "countryCode": "PS",
+      "stateCode": "PS-WE",
+      "latitude": 31.5,
+      "longitude": 35.1
+    },
+    {
+      "id": 7828733,
+      "name": "Jenin Governorate",
+      "nativeName": "Jenin",
+      "code": "PS-WE-7828733",
+      "countryId": 6254930,
+      "countryCode": "PS",
+      "stateCode": "PS-WE",
+      "latitude": 32.46,
+      "longitude": 35.3
+    },
+    {
+      "id": 7870653,
+      "name": "Jericho Governorate",
+      "nativeName": "Jericho",
+      "code": "PS-WE-7870653",
+      "countryId": 6254930,
+      "countryCode": "PS",
+      "stateCode": "PS-WE",
+      "latitude": 32.02492,
+      "longitude": 35.44548
+    },
+    {
+      "id": 7870555,
+      "name": "Nablus Governorate",
+      "nativeName": "Nablus",
+      "code": "PS-WE-7870555",
+      "countryId": 6254930,
+      "countryCode": "PS",
+      "stateCode": "PS-WE",
+      "latitude": 32.24056,
+      "longitude": 35.28708
+    },
+    {
+      "id": 7870649,
+      "name": "Qalqilya Governorate",
+      "nativeName": "Qalqilya",
+      "code": "PS-WE-7870649",
+      "countryId": 6254930,
+      "countryCode": "PS",
+      "stateCode": "PS-WE",
+      "latitude": 32.18583,
+      "longitude": 35.06583
+    },
+    {
+      "id": 7870654,
+      "name": "Quds Governorate",
+      "nativeName": "Al Quds",
+      "code": "PS-WE-7870654",
+      "countryId": 6254930,
+      "countryCode": "PS",
+      "stateCode": "PS-WE",
+      "latitude": 31.8,
+      "longitude": 35.3
+    },
+    {
+      "id": 7870657,
+      "name": "Ramallah and al-Bireh Governorate",
+      "nativeName": "Ramallah",
+      "code": "PS-WE-7870657",
+      "countryId": 6254930,
+      "countryCode": "PS",
+      "stateCode": "PS-WE",
+      "latitude": 31.90512,
+      "longitude": 35.20588
+    },
+    {
+      "id": 7870652,
+      "name": "Salfit Governorate",
+      "nativeName": "Salfit",
+      "code": "PS-WE-7870652",
+      "countryId": 6254930,
+      "countryCode": "PS",
+      "stateCode": "PS-WE",
+      "latitude": 32.11819,
+      "longitude": 35.09028
+    },
+    {
+      "id": 7870648,
+      "name": "Tubas Governorate",
+      "nativeName": "Tubas",
+      "code": "PS-WE-7870648",
+      "countryId": 6254930,
+      "countryCode": "PS",
+      "stateCode": "PS-WE",
+      "latitude": 32.32389,
+      "longitude": 35.48653
+    },
+    {
+      "id": 7870644,
+      "name": "Tulkarm Governorate",
+      "nativeName": "Tulkarm",
+      "code": "PS-WE-7870644",
+      "countryId": 6254930,
+      "countryCode": "PS",
+      "stateCode": "PS-WE",
+      "latitude": 32.31986,
+      "longitude": 35.09403
+    }
+  ]
+}

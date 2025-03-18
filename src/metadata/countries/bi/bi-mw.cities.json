@@ -1,0 +1,73 @@
+{
+  "stateId": 434386,
+  "stateCode": "BI-MW",
+  "countryCode": "BI",
+  "cities": [
+    {
+      "id": 9171814,
+      "name": "Bisoro",
+      "nativeName": "Bisoro",
+      "code": "BI-MW-9171814",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-MW",
+      "latitude": -3.62688,
+      "longitude": 29.71166
+    },
+    {
+      "id": 7670596,
+      "name": "Gisozi",
+      "nativeName": "Gisozi",
+      "code": "BI-MW-7670596",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-MW",
+      "latitude": -3.54562,
+      "longitude": 29.63166
+    },
+    {
+      "id": 7670601,
+      "name": "Kayokwe",
+      "nativeName": "Kayokwe",
+      "code": "BI-MW-7670601",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-MW",
+      "latitude": -3.5152,
+      "longitude": 29.74666
+    },
+    {
+      "id": 9171802,
+      "name": "Ndava",
+      "nativeName": "Ndava",
+      "code": "BI-MW-9171802",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-MW",
+      "latitude": -3.39156,
+      "longitude": 29.75343
+    },
+    {
+      "id": 7670610,
+      "name": "Nyabihanga",
+      "nativeName": "Nyabihanga",
+      "code": "BI-MW-7670610",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-MW",
+      "latitude": -3.44949,
+      "longitude": 29.81096
+    },
+    {
+      "id": 9171813,
+      "name": "Rusaka",
+      "nativeName": "Rusaka",
+      "code": "BI-MW-9171813",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-MW",
+      "latitude": -3.45402,
+      "longitude": 29.6352
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "stateId": 1282328,
+  "stateCode": "MV-28",
+  "countryCode": "MV",
+  "cities": [
+    {
+      "id": 1337610,
+      "name": "Thinadhoo",
+      "nativeName": "Thinadhoo",
+      "code": "MV-28-1337610",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-28",
+      "latitude": 0.5306,
+      "longitude": 72.99969
+    },
+    {
+      "id": 12196228,
+      "name": "Vaadhoo",
+      "nativeName": "Vaadhoo",
+      "code": "MV-28-12196228",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-28",
+      "latitude": 0.22668,
+      "longitude": 73.27262
+    },
+    {
+      "id": 12128611,
+      "name": "Gadhdhoo",
+      "nativeName": "Gadhdhoo",
+      "code": "MV-28-12128611",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-28",
+      "latitude": 0.29015,
+      "longitude": 73.45655
+    }
+  ]
+}

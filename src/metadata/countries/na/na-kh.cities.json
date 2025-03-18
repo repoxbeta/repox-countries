@@ -1,0 +1,51 @@
+{
+  "stateId": 3352137,
+  "stateCode": "NA-KH",
+  "countryCode": "NA",
+  "cities": [
+    {
+      "id": 11125897,
+      "name": "Moses Garoeb",
+      "nativeName": "Moses Garoeb",
+      "code": "NA-KH-11125897",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "stateCode": "NA-KH",
+      "latitude": -22.5074,
+      "longitude": 17.039
+    },
+    {
+      "id": 11257205,
+      "name": "Samora Machel",
+      "nativeName": "Samora Machel",
+      "code": "NA-KH-11257205",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "stateCode": "NA-KH",
+      "latitude": -22.51861,
+      "longitude": 17.03694
+    },
+    {
+      "id": 11609877,
+      "name": "Windhoek East",
+      "nativeName": "Windhoek East",
+      "code": "NA-KH-11609877",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "stateCode": "NA-KH",
+      "latitude": -22.56667,
+      "longitude": 17.1
+    },
+    {
+      "id": 11287032,
+      "name": "Windhoek Rural",
+      "nativeName": "Windhoek Rural",
+      "code": "NA-KH-11287032",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "stateCode": "NA-KH",
+      "latitude": -22.56583,
+      "longitude": 17.10297
+    }
+  ]
+}

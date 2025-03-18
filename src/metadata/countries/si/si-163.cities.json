@@ -1,0 +1,51 @@
+{
+  "stateId": 3344894,
+  "stateCode": "SI-163",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3186509,
+      "name": "Zgornje Jezersko",
+      "nativeName": "Zgornje Jezersko",
+      "code": "SI-163-3186509",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-163",
+      "latitude": 46.3941,
+      "longitude": 14.50659
+    },
+    {
+      "id": 3217692,
+      "name": "Podlog",
+      "nativeName": "Podlog",
+      "code": "SI-163-3217692",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-163",
+      "latitude": 46.38417,
+      "longitude": 14.47
+    },
+    {
+      "id": 3217524,
+      "name": "Sink",
+      "nativeName": "Sink",
+      "code": "SI-163-3217524",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-163",
+      "latitude": 46.40944,
+      "longitude": 14.51889
+    },
+    {
+      "id": 3190216,
+      "name": "Spodnje Jezersko",
+      "nativeName": "Spodnje Jezersko",
+      "code": "SI-163-3190216",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-163",
+      "latitude": 46.38333,
+      "longitude": 14.46667
+    }
+  ]
+}

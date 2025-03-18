@@ -1,0 +1,51 @@
+{
+  "stateId": 7670904,
+  "stateCode": "MG-22",
+  "countryCode": "MG",
+  "cities": [
+    {
+      "id": 8335147,
+      "name": "Ambatofinandrahana District",
+      "nativeName": "Ambatofinandrahana District",
+      "code": "MG-22-8335147",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-22",
+      "latitude": -20.45661,
+      "longitude": 46.78665
+    },
+    {
+      "id": 7670914,
+      "name": "Ambositra District",
+      "nativeName": "Ambositra District",
+      "code": "MG-22-7670914",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-22",
+      "latitude": -20.54945,
+      "longitude": 47.25589
+    },
+    {
+      "id": 8335148,
+      "name": "Fandriana District",
+      "nativeName": "Fandriana District",
+      "code": "MG-22-8335148",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-22",
+      "latitude": -20.2171,
+      "longitude": 47.48428
+    },
+    {
+      "id": 8335150,
+      "name": "Manandriana District",
+      "nativeName": "Manandriana District",
+      "code": "MG-22-8335150",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-22",
+      "latitude": -20.69472,
+      "longitude": 47.01083
+    }
+  ]
+}

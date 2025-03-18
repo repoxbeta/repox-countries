@@ -1,0 +1,128 @@
+{
+  "stateId": 1153089,
+  "stateCode": "TH-62",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 7510665,
+      "name": "Bueng Samakkhi",
+      "nativeName": "Amphoe Bueng Samakkhi",
+      "code": "TH-62-7510665",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-62",
+      "latitude": 16.21262,
+      "longitude": 99.9672
+    },
+    {
+      "id": 1152952,
+      "name": "Khanu Woralaksaburi",
+      "nativeName": "Amphoe Khanu Woralaksaburi",
+      "code": "TH-62-1152952",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-62",
+      "latitude": 16.00233,
+      "longitude": 99.67618
+    },
+    {
+      "id": 1152853,
+      "name": "Khlong Khlung",
+      "nativeName": "Amphoe Khlong Khlung",
+      "code": "TH-62-1152853",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-62",
+      "latitude": 16.22191,
+      "longitude": 99.67654
+    },
+    {
+      "id": 7510630,
+      "name": "Khlong Lan",
+      "nativeName": "Amphoe Khlong Lan",
+      "code": "TH-62-7510630",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-62",
+      "latitude": 16.25992,
+      "longitude": 99.21806
+    },
+    {
+      "id": 7510632,
+      "name": "Kosamphi Nakhon",
+      "nativeName": "Amphoe Kosamphi Nakhon",
+      "code": "TH-62-7510632",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-62",
+      "latitude": 16.60702,
+      "longitude": 99.34795
+    },
+    {
+      "id": 7510666,
+      "name": "Lan Krabue",
+      "nativeName": "Amphoe Lan Krabue",
+      "code": "TH-62-7510666",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-62",
+      "latitude": 16.60348,
+      "longitude": 99.86521
+    },
+    {
+      "id": 1151997,
+      "name": "Mueang Kamphaeng Phet",
+      "nativeName": "Amphoe Mueang Kamphaeng Phet",
+      "code": "TH-62-1151997",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-62",
+      "latitude": 16.43254,
+      "longitude": 99.48831
+    },
+    {
+      "id": 7510631,
+      "name": "Pang Sila Thong",
+      "nativeName": "Amphoe Pang Sila Thong",
+      "code": "TH-62-7510631",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-62",
+      "latitude": 16.02525,
+      "longitude": 99.35593
+    },
+    {
+      "id": 1151307,
+      "name": "Phran Kratai",
+      "nativeName": "Amphoe Phran Kratai",
+      "code": "TH-62-1151307",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-62",
+      "latitude": 16.70541,
+      "longitude": 99.53704
+    },
+    {
+      "id": 8534567,
+      "name": "Sai Ngam",
+      "nativeName": "Amphoe Sai Ngam",
+      "code": "TH-62-8534567",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-62",
+      "latitude": 16.43956,
+      "longitude": 99.87457
+    },
+    {
+      "id": 7510664,
+      "name": "Sai Thong Watthana",
+      "nativeName": "Amphoe Sai Thong Watthana",
+      "code": "TH-62-7510664",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-62",
+      "latitude": 16.30859,
+      "longitude": 99.87854
+    }
+  ]
+}

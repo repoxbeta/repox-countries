@@ -1,0 +1,40 @@
+{
+  "stateId": 2185978,
+  "stateCode": "NZ-NTL",
+  "countryCode": "NZ",
+  "cities": [
+    {
+      "id": 7910039,
+      "name": "Far North District",
+      "nativeName": "Far North District",
+      "code": "NZ-NTL-7910039",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-NTL",
+      "latitude": -35.03359,
+      "longitude": 173.48841
+    },
+    {
+      "id": 7910047,
+      "name": "Kaipara District",
+      "nativeName": "Kaipara District",
+      "code": "NZ-NTL-7910047",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-NTL",
+      "latitude": -35.99546,
+      "longitude": 174.04688
+    },
+    {
+      "id": 2179291,
+      "name": "Whangarei",
+      "nativeName": "Whangarei",
+      "code": "NZ-NTL-2179291",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-NTL",
+      "latitude": -35.73333,
+      "longitude": 174.33333
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "stateId": 3617056,
+  "stateCode": "NI-SJ",
+  "countryCode": "NI",
+  "cities": [
+    {
+      "id": 9166157,
+      "name": "El Almendro",
+      "nativeName": "El Almendro",
+      "code": "NI-SJ-9166157",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-SJ",
+      "latitude": 11.67838,
+      "longitude": -84.7018
+    },
+    {
+      "id": 9166159,
+      "name": "El Castillo",
+      "nativeName": "El Castillo",
+      "code": "NI-SJ-9166159",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-SJ",
+      "latitude": 11.01787,
+      "longitude": -84.39693
+    },
+    {
+      "id": 3617574,
+      "name": "Municipio de Morrito",
+      "nativeName": "Municipio de Morrito",
+      "code": "NI-SJ-3617574",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-SJ",
+      "latitude": 11.63735,
+      "longitude": -84.94042
+    },
+    {
+      "id": 3616908,
+      "name": "Municipio de San Carlos",
+      "nativeName": "Municipio de San Carlos",
+      "code": "NI-SJ-3616908",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-SJ",
+      "latitude": 11.16736,
+      "longitude": -84.66638
+    },
+    {
+      "id": 3616653,
+      "name": "Municipio de San Miguelito",
+      "nativeName": "Municipio de San Miguelito",
+      "code": "NI-SJ-3616653",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-SJ",
+      "latitude": 11.46179,
+      "longitude": -84.69369
+    },
+    {
+      "id": 11002676,
+      "name": "San Juan del Nicaragua",
+      "nativeName": "San Juan del Nicaragua",
+      "code": "NI-SJ-11002676",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-SJ",
+      "latitude": 10.94673,
+      "longitude": -83.73539
+    }
+  ]
+}

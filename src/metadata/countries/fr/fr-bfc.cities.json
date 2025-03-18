@@ -1,0 +1,95 @@
+{
+  "stateId": 11071619,
+  "stateCode": "FR-BFC",
+  "countryCode": "FR",
+  "cities": [
+    {
+      "id": 3023423,
+      "name": "Cote d'Or",
+      "nativeName": "Cote d'Or",
+      "code": "FR-BFC-3023423",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-BFC",
+      "latitude": 47.5,
+      "longitude": 4.83333
+    },
+    {
+      "id": 3020989,
+      "name": "Doubs",
+      "nativeName": "Doubs",
+      "code": "FR-BFC-3020989",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-BFC",
+      "latitude": 47.19967,
+      "longitude": 6.43487
+    },
+    {
+      "id": 3013737,
+      "name": "Haute-Saône",
+      "nativeName": "Haute-Saône",
+      "code": "FR-BFC-3013737",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-BFC",
+      "latitude": 47.67625,
+      "longitude": 6.10066
+    },
+    {
+      "id": 3012051,
+      "name": "Jura",
+      "nativeName": "Jura",
+      "code": "FR-BFC-3012051",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-BFC",
+      "latitude": 46.73431,
+      "longitude": 5.72349
+    },
+    {
+      "id": 2990371,
+      "name": "Nièvre",
+      "nativeName": "Nièvre",
+      "code": "FR-BFC-2990371",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-BFC",
+      "latitude": 47.11695,
+      "longitude": 3.49192
+    },
+    {
+      "id": 2976082,
+      "name": "Saône-et-Loire",
+      "nativeName": "Saône-et-Loire",
+      "code": "FR-BFC-2976082",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-BFC",
+      "latitude": 46.63646,
+      "longitude": 4.58819
+    },
+    {
+      "id": 3033789,
+      "name": "Territoire de Belfort",
+      "nativeName": "Territoire de Belfort",
+      "code": "FR-BFC-3033789",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-BFC",
+      "latitude": 47.63578,
+      "longitude": 6.88843
+    },
+    {
+      "id": 2967222,
+      "name": "Yonne",
+      "nativeName": "Yonne",
+      "code": "FR-BFC-2967222",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-BFC",
+      "latitude": 47.91667,
+      "longitude": 3.75
+    }
+  ]
+}

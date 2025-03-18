@@ -1,0 +1,260 @@
+{
+  "stateId": 1521671,
+  "stateCode": "KZ-39",
+  "countryCode": "KZ",
+  "cities": [
+    {
+      "id": 1537245,
+      "name": "Altynsarin District",
+      "nativeName": "Altynsarinskiy Rayon",
+      "code": "KZ-39-1537245",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-39",
+      "latitude": 53.16667,
+      "longitude": 64.5
+    },
+    {
+      "id": 1526340,
+      "name": "Amangeldi District",
+      "nativeName": "Amangeldi Aūdany",
+      "code": "KZ-39-1526340",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-39",
+      "latitude": 50.16194,
+      "longitude": 65.21622
+    },
+    {
+      "id": 1526321,
+      "name": "Amantoghay Aūdany",
+      "nativeName": "Amantoghay Aūdany",
+      "code": "KZ-39-1526321",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-39",
+      "latitude": 50.5,
+      "longitude": 65.5
+    },
+    {
+      "id": 1526209,
+      "name": "Arqalyq Qalalyq Äkimshiligi",
+      "nativeName": "Arqalyq Qalalyq Äkimshiligi",
+      "code": "KZ-39-1526209",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-39",
+      "latitude": 50.16667,
+      "longitude": 66.66667
+    },
+    {
+      "id": 12526813,
+      "name": "Auliekol District",
+      "nativeName": "Auliyekol'skiy Rayon",
+      "code": "KZ-39-12526813",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-39",
+      "latitude": 52.16747,
+      "longitude": 63.95089
+    },
+    {
+      "id": 1520378,
+      "name": "Denisov District",
+      "nativeName": "Denisovskiy Rayon",
+      "code": "KZ-39-1520378",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-39",
+      "latitude": 52.45361,
+      "longitude": 61.71871
+    },
+    {
+      "id": 1524278,
+      "name": "Fyodorov District",
+      "nativeName": "Fëdorovskiy Rayon",
+      "code": "KZ-39-1524278",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-39",
+      "latitude": 53.58333,
+      "longitude": 62.83333
+    },
+    {
+      "id": 1523544,
+      "name": "Kamysty District",
+      "nativeName": "Kamystinskiy Rayon",
+      "code": "KZ-39-1523544",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-39",
+      "latitude": 51.66667,
+      "longitude": 62.5
+    },
+    {
+      "id": 1522333,
+      "name": "Karabalykskiy Rayon",
+      "nativeName": "Karabalykskiy Rayon",
+      "code": "KZ-39-1522333",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-39",
+      "latitude": 53.58333,
+      "longitude": 61.75
+    },
+    {
+      "id": 1523115,
+      "name": "Karasu District",
+      "nativeName": "Qarasū Aūdany",
+      "code": "KZ-39-1523115",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-39",
+      "latitude": 52.66667,
+      "longitude": 65.5
+    },
+    {
+      "id": 1537246,
+      "name": "Kostanay District",
+      "nativeName": "Kostanay Gorodskaya Administratsiya",
+      "code": "KZ-39-1537246",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-39",
+      "latitude": 53.18928,
+      "longitude": 63.57634
+    },
+    {
+      "id": 1521667,
+      "name": "Kostanayskiy Rayon",
+      "nativeName": "Kostanayskiy Rayon",
+      "code": "KZ-39-1521667",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-39",
+      "latitude": 53.33333,
+      "longitude": 63.41667
+    },
+    {
+      "id": 1537248,
+      "name": "Lisakovsk Gorodskaya Administratsiya",
+      "nativeName": "Lisakovsk Gorodskaya Administratsiya",
+      "code": "KZ-39-1537248",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-39",
+      "latitude": 52.53063,
+      "longitude": 62.51015
+    },
+    {
+      "id": 1525120,
+      "name": "Mendykara District",
+      "nativeName": "Mendykarinskiy Rayon",
+      "code": "KZ-39-1525120",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-39",
+      "latitude": 54,
+      "longitude": 64.16667
+    },
+    {
+      "id": 1520735,
+      "name": "Naurzumskiy Rayon",
+      "nativeName": "Naurzumskiy Rayon",
+      "code": "KZ-39-1520735",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-39",
+      "latitude": 51.41667,
+      "longitude": 64
+    },
+    {
+      "id": 1537251,
+      "name": "Oktyabr’ Aūdany",
+      "nativeName": "Oktyabr’ Aūdany",
+      "code": "KZ-39-1537251",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-39",
+      "latitude": 52,
+      "longitude": 65.33333
+    },
+    {
+      "id": 1537249,
+      "name": "Rudniy Gorodskaya Administratsiya",
+      "nativeName": "Rudniy Gorodskaya Administratsiya",
+      "code": "KZ-39-1537249",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-39",
+      "latitude": 53.00876,
+      "longitude": 63.13136
+    },
+    {
+      "id": 1517715,
+      "name": "Sarykol District",
+      "nativeName": "Sarykol'skiy Rayon",
+      "code": "KZ-39-1517715",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-39",
+      "latitude": 53.41667,
+      "longitude": 65.5
+    },
+    {
+      "id": 1519416,
+      "name": "Semiozërnyy Rayon",
+      "nativeName": "Semiozërnyy Rayon",
+      "code": "KZ-39-1519416",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-39",
+      "latitude": 52.33333,
+      "longitude": 64
+    },
+    {
+      "id": 1518463,
+      "name": "Taran District",
+      "nativeName": "Rayon Beimbeta Maylina",
+      "code": "KZ-39-1518463",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-39",
+      "latitude": 52.5,
+      "longitude": 62.75
+    },
+    {
+      "id": 1521358,
+      "name": "Uzunkol District",
+      "nativeName": "Uzunkol'skiy Rayon",
+      "code": "KZ-39-1521358",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-39",
+      "latitude": 54.15347,
+      "longitude": 65.49301
+    },
+    {
+      "id": 1524425,
+      "name": "Zhangeldi District",
+      "nativeName": "Zhangeldīn Aūdany",
+      "code": "KZ-39-1524425",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-39",
+      "latitude": 49.66667,
+      "longitude": 63.5
+    },
+    {
+      "id": 1537247,
+      "name": "Zhitiqara Qalalyq Äkimdigi",
+      "nativeName": "Zhitiqara Qalalyq Äkimdigi",
+      "code": "KZ-39-1537247",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-39",
+      "latitude": 52.18333,
+      "longitude": 61.2
+    }
+  ]
+}

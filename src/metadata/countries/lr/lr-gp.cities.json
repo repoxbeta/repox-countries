@@ -1,0 +1,84 @@
+{
+  "stateId": 2593119,
+  "stateCode": "LR-GP",
+  "countryCode": "LR",
+  "cities": [
+    {
+      "id": 2278733,
+      "name": "Belleh",
+      "nativeName": "Belleh",
+      "code": "LR-GP-2278733",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-GP",
+      "latitude": 7.54596,
+      "longitude": -9.98924
+    },
+    {
+      "id": 2278379,
+      "name": "Bokomu",
+      "nativeName": "Bokomu",
+      "code": "LR-GP-2278379",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-GP",
+      "latitude": 7.24136,
+      "longitude": -10.17378
+    },
+    {
+      "id": 2278250,
+      "name": "Bopolu",
+      "nativeName": "Bopolu",
+      "code": "LR-GP-2278250",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-GP",
+      "latitude": 7.14631,
+      "longitude": -10.42113
+    },
+    {
+      "id": 9645008,
+      "name": "Gbarma District",
+      "nativeName": "Gbarma District",
+      "code": "LR-GP-9645008",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-GP",
+      "latitude": 7.17688,
+      "longitude": -10.64681
+    },
+    {
+      "id": 2276743,
+      "name": "Goije",
+      "nativeName": "Goije",
+      "code": "LR-GP-2276743",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-GP",
+      "latitude": 7.14685,
+      "longitude": -10.86242
+    },
+    {
+      "id": 9645007,
+      "name": "Gounwolaila District",
+      "nativeName": "Gounwolaila District",
+      "code": "LR-GP-9645007",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-GP",
+      "latitude": 7.22691,
+      "longitude": -9.95311
+    },
+    {
+      "id": 2275770,
+      "name": "Kongba District",
+      "nativeName": "Kongba District",
+      "code": "LR-GP-2275770",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-GP",
+      "latitude": 7.67325,
+      "longitude": -10.51118
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "stateId": 4562997,
+  "stateCode": "PR-023",
+  "countryCode": "PR",
+  "cities": [
+    {
+      "id": 7268226,
+      "name": "Bajura Barrio",
+      "nativeName": "Bajura Barrio",
+      "code": "PR-023-7268226",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-023",
+      "latitude": 18.1019,
+      "longitude": -67.12892
+    },
+    {
+      "id": 7268260,
+      "name": "Boquerón Barrio",
+      "nativeName": "Boquerón Barrio",
+      "code": "PR-023-7268260",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-023",
+      "latitude": 17.99903,
+      "longitude": -67.18156
+    },
+    {
+      "id": 7268279,
+      "name": "Cabo Rojo Barrio-Pueblo",
+      "nativeName": "Cabo Rojo Barrio-Pueblo",
+      "code": "PR-023-7268279",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-023",
+      "latitude": 18.08721,
+      "longitude": -67.14666
+    },
+    {
+      "id": 7268419,
+      "name": "Guanajibo Barrio",
+      "nativeName": "Guanajibo Barrio",
+      "code": "PR-023-7268419",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-023",
+      "latitude": 18.13514,
+      "longitude": -67.16604
+    },
+    {
+      "id": 7268568,
+      "name": "Llanos Costa Barrio",
+      "nativeName": "Llanos Costa Barrio",
+      "code": "PR-023-7268568",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-023",
+      "latitude": 17.9788,
+      "longitude": -67.14432
+    },
+    {
+      "id": 7268569,
+      "name": "Llanos Tuna Barrio",
+      "nativeName": "Llanos Tuna Barrio",
+      "code": "PR-023-7268569",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-023",
+      "latitude": 18.05164,
+      "longitude": -67.12753
+    },
+    {
+      "id": 7268657,
+      "name": "Miradero Barrio",
+      "nativeName": "Miradero Barrio",
+      "code": "PR-023-7268657",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-023",
+      "latitude": 18.09072,
+      "longitude": -67.17824
+    },
+    {
+      "id": 7268670,
+      "name": "Monte Grande Barrio",
+      "nativeName": "Monte Grande Barrio",
+      "code": "PR-023-7268670",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-023",
+      "latitude": 18.07771,
+      "longitude": -67.12824
+    },
+    {
+      "id": 7268741,
+      "name": "Pedernales Barrio",
+      "nativeName": "Pedernales Barrio",
+      "code": "PR-023-7268741",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-023",
+      "latitude": 18.05062,
+      "longitude": -67.18102
+    }
+  ]
+}

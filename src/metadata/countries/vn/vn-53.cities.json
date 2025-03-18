@@ -1,0 +1,95 @@
+{
+  "stateId": 1905669,
+  "stateCode": "VN-53",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 1905672,
+      "name": "Ba Bể District",
+      "nativeName": "Huyện Ba Bể",
+      "code": "VN-53-1905672",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-53",
+      "latitude": 22.41667,
+      "longitude": 105.75
+    },
+    {
+      "id": 1905670,
+      "name": "Bạch Thông District",
+      "nativeName": "Huyện Bạch Thông",
+      "code": "VN-53-1905670",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-53",
+      "latitude": 22.24506,
+      "longitude": 105.81919
+    },
+    {
+      "id": 1905671,
+      "name": "Chợ Đồn District",
+      "nativeName": "Huyện Chợ Đồn",
+      "code": "VN-53-1905671",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-53",
+      "latitude": 22.18681,
+      "longitude": 105.5728
+    },
+    {
+      "id": 8381797,
+      "name": "Huyện Chợ Mới",
+      "nativeName": "Huyện Chợ Mới",
+      "code": "VN-53-8381797",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-53",
+      "latitude": 21.96866,
+      "longitude": 105.86414
+    },
+    {
+      "id": 8381796,
+      "name": "Huyện Pác Nặm",
+      "nativeName": "Huyện Pác Nặm",
+      "code": "VN-53-8381796",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-53",
+      "latitude": 22.60651,
+      "longitude": 105.66589
+    },
+    {
+      "id": 1905674,
+      "name": "Na Rì District",
+      "nativeName": "Huyện Na Rì",
+      "code": "VN-53-1905674",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-53",
+      "latitude": 22.15724,
+      "longitude": 106.09371
+    },
+    {
+      "id": 1905673,
+      "name": "Ngân Sơn District",
+      "nativeName": "Huyện Ngân Sơn",
+      "code": "VN-53-1905673",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-53",
+      "latitude": 22.42962,
+      "longitude": 106.0103
+    },
+    {
+      "id": 1905866,
+      "name": "Thành Phố Bắc Kạn",
+      "nativeName": "Thành Phố Bắc Kạn",
+      "code": "VN-53-1905866",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-53",
+      "latitude": 22.14085,
+      "longitude": 105.84704
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "stateId": 3344917,
+  "stateCode": "SI-177",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3191678,
+      "name": "Ribnica na Pohorju",
+      "nativeName": "Ribnica na Pohorju",
+      "code": "SI-177-3191678",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-177",
+      "latitude": 46.535,
+      "longitude": 15.27278
+    },
+    {
+      "id": 3218239,
+      "name": "Hajnš",
+      "nativeName": "Hajnš",
+      "code": "SI-177-3218239",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-177",
+      "latitude": 46.54778,
+      "longitude": 15.30056
+    },
+    {
+      "id": 3199221,
+      "name": "Hudi Kot",
+      "nativeName": "Hudi Kot",
+      "code": "SI-177-3199221",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-177",
+      "latitude": 46.51667,
+      "longitude": 15.26667
+    },
+    {
+      "id": 3218227,
+      "name": "Samec",
+      "nativeName": "Samec",
+      "code": "SI-177-3218227",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-177",
+      "latitude": 46.52722,
+      "longitude": 15.29028
+    },
+    {
+      "id": 3193996,
+      "name": "Spodnja Orlica",
+      "nativeName": "Spodnja Orlica",
+      "code": "SI-177-3193996",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-177",
+      "latitude": 46.57535,
+      "longitude": 15.25368
+    },
+    {
+      "id": 8989811,
+      "name": "Zgornja Orlica",
+      "nativeName": "Zgornja Orlica",
+      "code": "SI-177-8989811",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-177",
+      "latitude": 46.55381,
+      "longitude": 15.2593
+    },
+    {
+      "id": 8989886,
+      "name": "Zgornji Janževski Vrh",
+      "nativeName": "Zgornji Janževski Vrh",
+      "code": "SI-177-8989886",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-177",
+      "latitude": 46.55365,
+      "longitude": 15.2816
+    },
+    {
+      "id": 8989797,
+      "name": "Zgornji Lehen na Pohorju",
+      "nativeName": "Zgornji Lehen na Pohorju",
+      "code": "SI-177-8989797",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-177",
+      "latitude": 46.52656,
+      "longitude": 15.30571
+    },
+    {
+      "id": 3198577,
+      "name": "Josipdol",
+      "nativeName": "Josipdol",
+      "code": "SI-177-3198577",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-177",
+      "latitude": 46.51611,
+      "longitude": 15.2825
+    }
+  ]
+}

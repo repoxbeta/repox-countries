@@ -1,0 +1,73 @@
+{
+  "stateId": 93540,
+  "stateCode": "IQ-MA",
+  "countryCode": "IQ",
+  "cities": [
+    {
+      "id": 9166557,
+      "name": "Al Kahla District",
+      "nativeName": "Al Kahla District",
+      "code": "IQ-MA-9166557",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-MA",
+      "latitude": 31.64835,
+      "longitude": 47.55507
+    },
+    {
+      "id": 9166562,
+      "name": "Al-Maimouna District",
+      "nativeName": "Al-Maimouna District",
+      "code": "IQ-MA-9166562",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-MA",
+      "latitude": 31.4,
+      "longitude": 46.73333
+    },
+    {
+      "id": 99097,
+      "name": "Al-Mejar Al-Kabi District",
+      "nativeName": "Al-Mejar Al-Kabi District",
+      "code": "IQ-MA-99097",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-MA",
+      "latitude": 31.4294,
+      "longitude": 47.20355
+    },
+    {
+      "id": 99305,
+      "name": "Ali Al-Gharbi District",
+      "nativeName": "Ali Al-Gharbi District",
+      "code": "IQ-MA-99305",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-MA",
+      "latitude": 32.39609,
+      "longitude": 46.72321
+    },
+    {
+      "id": 99610,
+      "name": "Amara District",
+      "nativeName": "Amara District",
+      "code": "IQ-MA-99610",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-MA",
+      "latitude": 31.99406,
+      "longitude": 47.15745
+    },
+    {
+      "id": 92536,
+      "name": "Qaḑā’ Qal‘at Şāliḩ",
+      "nativeName": "Qaḑā’ Qal‘at Şāliḩ",
+      "code": "IQ-MA-92536",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-MA",
+      "latitude": 31.42851,
+      "longitude": 47.51245
+    }
+  ]
+}

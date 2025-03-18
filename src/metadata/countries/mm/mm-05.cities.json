@@ -1,0 +1,40 @@
+{
+  "stateId": 1293118,
+  "stateCode": "MM-05",
+  "countryCode": "MM",
+  "cities": [
+    {
+      "id": 1293624,
+      "name": "Dawei District",
+      "nativeName": "Dawei District",
+      "code": "MM-05-1293624",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-05",
+      "latitude": 14.09106,
+      "longitude": 98.47457
+    },
+    {
+      "id": 8238821,
+      "name": "Kawthaung District",
+      "nativeName": "Kawthaung District",
+      "code": "MM-05-8238821",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-05",
+      "latitude": 11.04972,
+      "longitude": 98.84735
+    },
+    {
+      "id": 1309609,
+      "name": "Myeik District",
+      "nativeName": "Myeik District",
+      "code": "MM-05-1309609",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-05",
+      "latitude": 12.42405,
+      "longitude": 99.05346
+    }
+  ]
+}

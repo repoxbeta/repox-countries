@@ -1,0 +1,84 @@
+{
+  "stateId": 1653893,
+  "stateCode": "LA-PH",
+  "countryCode": "LA",
+  "cities": [
+    {
+      "id": 1657870,
+      "name": "Muang Boun Tai",
+      "nativeName": "Muang Boun Tai",
+      "code": "LA-PH-1657870",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-PH",
+      "latitude": 21.33209,
+      "longitude": 101.99845
+    },
+    {
+      "id": 1904829,
+      "name": "Muang Boun-Nua",
+      "nativeName": "Muang Boun-Nua",
+      "code": "LA-PH-1904829",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-PH",
+      "latitude": 21.66787,
+      "longitude": 101.89396
+    },
+    {
+      "id": 1904830,
+      "name": "Muang Gnot-Ou",
+      "nativeName": "Muang Gnot-Ou",
+      "code": "LA-PH-1904830",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-PH",
+      "latitude": 22.19586,
+      "longitude": 101.874
+    },
+    {
+      "id": 1656290,
+      "name": "Muang Khoa",
+      "nativeName": "Muang Khoa",
+      "code": "LA-PH-1656290",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-PH",
+      "latitude": 21.06711,
+      "longitude": 102.37624
+    },
+    {
+      "id": 1904828,
+      "name": "Muang Mai",
+      "nativeName": "Muang Mai",
+      "code": "LA-PH-1904828",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-PH",
+      "latitude": 21.38471,
+      "longitude": 102.72594
+    },
+    {
+      "id": 1653892,
+      "name": "Muang Phôngsali",
+      "nativeName": "Muang Phôngsali",
+      "code": "LA-PH-1653892",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-PH",
+      "latitude": 21.86402,
+      "longitude": 102.20075
+    },
+    {
+      "id": 7647987,
+      "name": "Samphanh",
+      "nativeName": "Samphanh",
+      "code": "LA-PH-7647987",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-PH",
+      "latitude": 21.57,
+      "longitude": 102.41
+    }
+  ]
+}

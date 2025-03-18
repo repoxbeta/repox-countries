@@ -1,0 +1,29 @@
+{
+  "stateId": 6697808,
+  "stateCode": "GR-L",
+  "countryCode": "GR",
+  "cities": [
+    {
+      "id": 263021,
+      "name": "Dodecanese",
+      "nativeName": "Dodecanese",
+      "code": "GR-L-263021",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-L",
+      "latitude": 36.84331,
+      "longitude": 27.14809
+    },
+    {
+      "id": 259819,
+      "name": "Nomós Kykládon",
+      "nativeName": "Nomós Kykládon",
+      "code": "GR-L-259819",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-L",
+      "latitude": 37.41667,
+      "longitude": 24.91667
+    }
+  ]
+}

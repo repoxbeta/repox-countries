@@ -1,0 +1,51 @@
+{
+  "stateId": 1477362,
+  "stateCode": "BD-G",
+  "countryCode": "BD",
+  "cities": [
+    {
+      "id": 1337191,
+      "name": "Habiganj",
+      "nativeName": "Habiganj",
+      "code": "BD-G-1337191",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-G",
+      "latitude": 24.43333,
+      "longitude": 91.41667
+    },
+    {
+      "id": 1337190,
+      "name": "Maulvibazar District",
+      "nativeName": "Maulvibazar",
+      "code": "BD-G-1337190",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-G",
+      "latitude": 24.5,
+      "longitude": 91.83333
+    },
+    {
+      "id": 1337188,
+      "name": "Sunamganj",
+      "nativeName": "Sunamganj",
+      "code": "BD-G-1337188",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-G",
+      "latitude": 24.86667,
+      "longitude": 91.41667
+    },
+    {
+      "id": 1337189,
+      "name": "Sylhet",
+      "nativeName": "Sylhet",
+      "code": "BD-G-1337189",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-G",
+      "latitude": 24.91667,
+      "longitude": 91.76667
+    }
+  ]
+}

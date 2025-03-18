@@ -1,0 +1,84 @@
+{
+  "stateId": 4566180,
+  "stateCode": "PR-093",
+  "countryCode": "PR",
+  "cities": [
+    {
+      "id": 7268268,
+      "name": "Bucarabones Barrio",
+      "nativeName": "Bucarabones Barrio",
+      "code": "PR-093-7268268",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-093",
+      "latitude": 18.18599,
+      "longitude": -66.93776
+    },
+    {
+      "id": 7268490,
+      "name": "Indiera Alta Barrio",
+      "nativeName": "Indiera Alta Barrio",
+      "code": "PR-093-7268490",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-093",
+      "latitude": 18.16466,
+      "longitude": -66.87223
+    },
+    {
+      "id": 7268491,
+      "name": "Indiera Baja Barrio",
+      "nativeName": "Indiera Baja Barrio",
+      "code": "PR-093-7268491",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-093",
+      "latitude": 18.1671,
+      "longitude": -66.90557
+    },
+    {
+      "id": 7268492,
+      "name": "Indiera Fría Barrio",
+      "nativeName": "Indiera Fría Barrio",
+      "code": "PR-093-7268492",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-093",
+      "latitude": 18.16103,
+      "longitude": -66.94742
+    },
+    {
+      "id": 7268623,
+      "name": "Maricao Afuera Barrio",
+      "nativeName": "Maricao Afuera Barrio",
+      "code": "PR-093-7268623",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-093",
+      "latitude": 18.178,
+      "longitude": -66.98274
+    },
+    {
+      "id": 7268625,
+      "name": "Maricao Barrio-Pueblo",
+      "nativeName": "Maricao Barrio-Pueblo",
+      "code": "PR-093-7268625",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-093",
+      "latitude": 18.18209,
+      "longitude": -66.97974
+    },
+    {
+      "id": 7268678,
+      "name": "Montoso Barrio",
+      "nativeName": "Montoso Barrio",
+      "code": "PR-093-7268678",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-093",
+      "latitude": 18.17568,
+      "longitude": -67.01869
+    }
+  ]
+}

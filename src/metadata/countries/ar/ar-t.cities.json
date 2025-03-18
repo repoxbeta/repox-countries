@@ -1,0 +1,194 @@
+{
+  "stateId": 3833578,
+  "stateCode": "AR-T",
+  "countryCode": "AR",
+  "cities": [
+    {
+      "id": 3863700,
+      "name": "Departamento de Burruyacú",
+      "nativeName": "Departamento de Burruyacú",
+      "code": "AR-T-3863700",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-T",
+      "latitude": -26.5,
+      "longitude": -64.91667
+    },
+    {
+      "id": 3862748,
+      "name": "Departamento de Capital",
+      "nativeName": "Departamento de Capital",
+      "code": "AR-T-3862748",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-T",
+      "latitude": -26.82825,
+      "longitude": -65.21126
+    },
+    {
+      "id": 3861525,
+      "name": "Departamento de Chicligasta",
+      "nativeName": "Departamento de Chicligasta",
+      "code": "AR-T-3861525",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-T",
+      "latitude": -27.33333,
+      "longitude": -65.58333
+    },
+    {
+      "id": 3859838,
+      "name": "Departamento de Cruz Alta",
+      "nativeName": "Departamento de Cruz Alta",
+      "code": "AR-T-3859838",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-T",
+      "latitude": -26.91667,
+      "longitude": -64.91667
+    },
+    {
+      "id": 3855665,
+      "name": "Departamento de Famaillá",
+      "nativeName": "Departamento de Famaillá",
+      "code": "AR-T-3855665",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-T",
+      "latitude": -26.91667,
+      "longitude": -65.5
+    },
+    {
+      "id": 3854723,
+      "name": "Departamento de Graneros",
+      "nativeName": "Departamento de Graneros",
+      "code": "AR-T-3854723",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-T",
+      "latitude": -27.75,
+      "longitude": -65.33333
+    },
+    {
+      "id": 8715331,
+      "name": "Departamento de Juan B. Alberdi",
+      "nativeName": "Departamento de Juan B. Alberdi",
+      "code": "AR-T-8715331",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-T",
+      "latitude": -27.59476,
+      "longitude": -65.8278
+    },
+    {
+      "id": 8715302,
+      "name": "Departamento de La Cocha",
+      "nativeName": "Departamento de La Cocha",
+      "code": "AR-T-8715302",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-T",
+      "latitude": -27.77784,
+      "longitude": -65.57109
+    },
+    {
+      "id": 3847102,
+      "name": "Departamento de Leales",
+      "nativeName": "Departamento de Leales",
+      "code": "AR-T-3847102",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-T",
+      "latitude": -27.2,
+      "longitude": -65.08333
+    },
+    {
+      "id": 8715306,
+      "name": "Departamento de Lules",
+      "nativeName": "Departamento de Lules",
+      "code": "AR-T-8715306",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-T",
+      "latitude": -26.92886,
+      "longitude": -65.33848
+    },
+    {
+      "id": 3843802,
+      "name": "Departamento de Monteros",
+      "nativeName": "Departamento de Monteros",
+      "code": "AR-T-3843802",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-T",
+      "latitude": -27.16667,
+      "longitude": -65.58333
+    },
+    {
+      "id": 3838893,
+      "name": "Departamento de Río Chico",
+      "nativeName": "Departamento de Río Chico",
+      "code": "AR-T-3838893",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-T",
+      "latitude": -27.43368,
+      "longitude": -65.76671
+    },
+    {
+      "id": 8715303,
+      "name": "Departamento de Simoca",
+      "nativeName": "Departamento de Simoca",
+      "code": "AR-T-8715303",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-T",
+      "latitude": -27.2636,
+      "longitude": -65.35612
+    },
+    {
+      "id": 8715304,
+      "name": "Departamento de Tafí Viejo",
+      "nativeName": "Departamento de Tafí Viejo",
+      "code": "AR-T-8715304",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-T",
+      "latitude": -26.73241,
+      "longitude": -65.25836
+    },
+    {
+      "id": 8715301,
+      "name": "Departamento de Tafí del Valle",
+      "nativeName": "Departamento de Tafí del Valle",
+      "code": "AR-T-8715301",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-T",
+      "latitude": -26.85288,
+      "longitude": -65.70951
+    },
+    {
+      "id": 3833945,
+      "name": "Departamento de Trancas",
+      "nativeName": "Departamento de Trancas",
+      "code": "AR-T-3833945",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-T",
+      "latitude": -26.41667,
+      "longitude": -65.5
+    },
+    {
+      "id": 8715305,
+      "name": "Departamento de Yerba Buena",
+      "nativeName": "Departamento de Yerba Buena",
+      "code": "AR-T-8715305",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-T",
+      "latitude": -26.81826,
+      "longitude": -65.31733
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "stateId": 1904617,
+  "stateCode": "LA-BL",
+  "countryCode": "LA",
+  "cities": [
+    {
+      "id": 1657896,
+      "name": "Muang Bolikhan",
+      "nativeName": "Muang Bolikhan",
+      "code": "LA-BL-1657896",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-BL",
+      "latitude": 18.71397,
+      "longitude": 103.71158
+    },
+    {
+      "id": 1656546,
+      "name": "Muang Khamkeut",
+      "nativeName": "Muang Khamkeut",
+      "code": "LA-BL-1656546",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-BL",
+      "latitude": 18.35234,
+      "longitude": 104.92141
+    },
+    {
+      "id": 1654415,
+      "name": "Muang Pakkading",
+      "nativeName": "Muang Pakkading",
+      "code": "LA-BL-1654415",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-BL",
+      "latitude": 18.28749,
+      "longitude": 104.1846
+    },
+    {
+      "id": 1904795,
+      "name": "Muang Thaphabat",
+      "nativeName": "Muang Thaphabat",
+      "code": "LA-BL-1904795",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-BL",
+      "latitude": 18.3994,
+      "longitude": 103.14065
+    },
+    {
+      "id": 1904819,
+      "name": "Muang Viangthong",
+      "nativeName": "Muang Viangthong",
+      "code": "LA-BL-1904819",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-BL",
+      "latitude": 18.493,
+      "longitude": 104.46
+    },
+    {
+      "id": 9170485,
+      "name": "Paksane",
+      "nativeName": "Paksane",
+      "code": "LA-BL-9170485",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-BL",
+      "latitude": 18.39553,
+      "longitude": 103.66043
+    },
+    {
+      "id": 11550493,
+      "name": "Xaychamphone",
+      "nativeName": "Xaychamphone",
+      "code": "LA-BL-11550493",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-BL",
+      "latitude": 18.561,
+      "longitude": 104.888
+    }
+  ]
+}

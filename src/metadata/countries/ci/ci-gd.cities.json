@@ -1,0 +1,29 @@
+{
+  "stateId": 11153055,
+  "stateCode": "CI-GD",
+  "countryCode": "CI",
+  "cities": [
+    {
+      "id": 11153083,
+      "name": "Gôh",
+      "nativeName": "Gôh",
+      "code": "CI-GD-11153083",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "stateCode": "CI-GD",
+      "latitude": 6.14459,
+      "longitude": -5.92644
+    },
+    {
+      "id": 11153153,
+      "name": "Lôh-Djiboua",
+      "nativeName": "Lôh-Djiboua",
+      "code": "CI-GD-11153153",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "stateCode": "CI-GD",
+      "latitude": 5.82483,
+      "longitude": -5.47668
+    }
+  ]
+}

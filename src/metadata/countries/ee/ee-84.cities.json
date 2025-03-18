@@ -1,0 +1,51 @@
+{
+  "stateId": 587590,
+  "stateCode": "EE-84",
+  "countryCode": "EE",
+  "cities": [
+    {
+      "id": 11776869,
+      "name": "Mulgi vald",
+      "nativeName": "Mulgi vald",
+      "code": "EE-84-11776869",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-84",
+      "latitude": 58.12823,
+      "longitude": 25.42437
+    },
+    {
+      "id": 11776882,
+      "name": "Põhja-Sakala vald",
+      "nativeName": "Põhja-Sakala vald",
+      "code": "EE-84-11776882",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-84",
+      "latitude": 58.48547,
+      "longitude": 25.38037
+    },
+    {
+      "id": 7522477,
+      "name": "Viljandi linn",
+      "nativeName": "Viljandi linn",
+      "code": "EE-84-7522477",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-84",
+      "latitude": 58.35631,
+      "longitude": 25.59368
+    },
+    {
+      "id": 11054708,
+      "name": "Viljandi vald",
+      "nativeName": "Viljandi vald",
+      "code": "EE-84-11054708",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-84",
+      "latitude": 58.36392,
+      "longitude": 25.49103
+    }
+  ]
+}

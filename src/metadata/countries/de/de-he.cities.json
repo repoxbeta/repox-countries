@@ -1,0 +1,40 @@
+{
+  "stateId": 2905330,
+  "stateCode": "DE-HE",
+  "countryCode": "DE",
+  "cities": [
+    {
+      "id": 2938912,
+      "name": "Regierungsbezirk Darmstadt",
+      "nativeName": "Regierungsbezirk Darmstadt",
+      "code": "DE-HE-2938912",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-HE",
+      "latitude": 50,
+      "longitude": 8.75
+    },
+    {
+      "id": 3220941,
+      "name": "Regierungsbezirk Gießen",
+      "nativeName": "Regierungsbezirk Gießen",
+      "code": "DE-HE-3220941",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-HE",
+      "latitude": 50.69806,
+      "longitude": 8.76861
+    },
+    {
+      "id": 2892513,
+      "name": "Regierungsbezirk Kassel",
+      "nativeName": "Regierungsbezirk Kassel",
+      "code": "DE-HE-2892513",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-HE",
+      "latitude": 51.08333,
+      "longitude": 9.4
+    }
+  ]
+}

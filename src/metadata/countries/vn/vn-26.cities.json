@@ -1,0 +1,106 @@
+{
+  "stateId": 1565033,
+  "stateCode": "VN-26",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 1905650,
+      "name": "A Lưới District",
+      "nativeName": "Huyện A Lưới",
+      "code": "VN-26-1905650",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-26",
+      "latitude": 16.23422,
+      "longitude": 107.3065
+    },
+    {
+      "id": 1905651,
+      "name": "Nam Đông District",
+      "nativeName": "Huyện Nam Đông",
+      "code": "VN-26-1905651",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-26",
+      "latitude": 16.12396,
+      "longitude": 107.6927
+    },
+    {
+      "id": 1905648,
+      "name": "Phong Điền District",
+      "nativeName": "Huyện Phong Điền",
+      "code": "VN-26-1905648",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-26",
+      "latitude": 16.50859,
+      "longitude": 107.28439
+    },
+    {
+      "id": 1905652,
+      "name": "Phú Lộc District",
+      "nativeName": "Huyện Phú Lộc",
+      "code": "VN-26-1905652",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-26",
+      "latitude": 16.27066,
+      "longitude": 107.88545
+    },
+    {
+      "id": 1905646,
+      "name": "Phú Vang District",
+      "nativeName": "Huyện Phú Vang",
+      "code": "VN-26-1905646",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-26",
+      "latitude": 16.47007,
+      "longitude": 107.71458
+    },
+    {
+      "id": 1905647,
+      "name": "Quảng Điền District",
+      "nativeName": "Huyện Quảng Ðiền",
+      "code": "VN-26-1905647",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-26",
+      "latitude": 16.57941,
+      "longitude": 107.4937
+    },
+    {
+      "id": 1905644,
+      "name": "Thành Phố Huế",
+      "nativeName": "Thành Phố Huế",
+      "code": "VN-26-1905644",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-26",
+      "latitude": 16.45618,
+      "longitude": 107.57633
+    },
+    {
+      "id": 1905645,
+      "name": "Thị Xã Hương Thủy",
+      "nativeName": "Thị Xã Hương Thủy",
+      "code": "VN-26-1905645",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-26",
+      "latitude": 16.31472,
+      "longitude": 107.62439
+    },
+    {
+      "id": 1905649,
+      "name": "Thị Xã Hương Trà",
+      "nativeName": "Thị Xã Hương Trà",
+      "code": "VN-26-1905649",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-26",
+      "latitude": 16.4358,
+      "longitude": 107.4836
+    }
+  ]
+}

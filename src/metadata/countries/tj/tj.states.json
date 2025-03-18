@@ -1,0 +1,61 @@
+{
+  "countryId": 1220409,
+  "countryCode": "TJ",
+  "states": [
+    {
+      "id": 7280679,
+      "name": "Dushanbe",
+      "nativeName": "Dushanbe",
+      "code": "TJ-DU",
+      "internalCode": "DU",
+      "countryId": 1220409,
+      "countryCode": "TJ",
+      "latitude": 38.5577,
+      "longitude": 68.77974
+    },
+    {
+      "id": 1221692,
+      "name": "Gorno-Badakhshan",
+      "nativeName": "Gorno-Badakhshan",
+      "code": "TJ-GB",
+      "internalCode": "GB",
+      "countryId": 1220409,
+      "countryCode": "TJ",
+      "latitude": 38,
+      "longitude": 73
+    },
+    {
+      "id": 1347488,
+      "name": "Khatlon Province",
+      "nativeName": "Viloyati Khatlon",
+      "code": "TJ-KT",
+      "internalCode": "KT",
+      "countryId": 1220409,
+      "countryCode": "TJ",
+      "latitude": 37.83333,
+      "longitude": 69
+    },
+    {
+      "id": 6452615,
+      "name": "Republican Subordination",
+      "nativeName": "Districts of Republican Subordination",
+      "code": "TJ-RA",
+      "internalCode": "RA",
+      "countryId": 1220409,
+      "countryCode": "TJ",
+      "latitude": 38.86537,
+      "longitude": 70.18066
+    },
+    {
+      "id": 1221092,
+      "name": "Viloyati Sughd",
+      "nativeName": "Viloyati Sughd",
+      "code": "TJ-SU",
+      "internalCode": "SU",
+      "countryId": 1220409,
+      "countryCode": "TJ",
+      "latitude": 40,
+      "longitude": 69
+    }
+  ]
+}

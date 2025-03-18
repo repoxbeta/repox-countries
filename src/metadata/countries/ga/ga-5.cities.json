@@ -1,0 +1,73 @@
+{
+  "stateId": 2397141,
+  "stateCode": "GA-5",
+  "countryCode": "GA",
+  "cities": [
+    {
+      "id": 7870325,
+      "name": "Basse-Banio Department",
+      "nativeName": "Basse-Banio Department",
+      "code": "GA-5-7870325",
+      "countryId": 2400553,
+      "countryCode": "GA",
+      "stateCode": "GA-5",
+      "latitude": -3.17,
+      "longitude": 10.679
+    },
+    {
+      "id": 11996061,
+      "name": "Douigni",
+      "nativeName": "Douigni",
+      "code": "GA-5-11996061",
+      "countryId": 2400553,
+      "countryCode": "GA",
+      "stateCode": "GA-5",
+      "latitude": -2.43053,
+      "longitude": 10.83845
+    },
+    {
+      "id": 11996077,
+      "name": "Doutsila",
+      "nativeName": "Doutsila",
+      "code": "GA-5-11996077",
+      "countryId": 2400553,
+      "countryCode": "GA",
+      "stateCode": "GA-5",
+      "latitude": -2.85301,
+      "longitude": 11.54032
+    },
+    {
+      "id": 7870411,
+      "name": "Haute-Banio Department",
+      "nativeName": "Haute-Banio Department",
+      "code": "GA-5-7870411",
+      "countryId": 2400553,
+      "countryCode": "GA",
+      "stateCode": "GA-5",
+      "latitude": -3.805,
+      "longitude": 11.104
+    },
+    {
+      "id": 11996074,
+      "name": "Mongo",
+      "nativeName": "Mongo",
+      "code": "GA-5-11996074",
+      "countryId": 2400553,
+      "countryCode": "GA",
+      "stateCode": "GA-5",
+      "latitude": -3.37751,
+      "longitude": 11.67583
+    },
+    {
+      "id": 7870326,
+      "name": "Mougoutsi Department",
+      "nativeName": "Mougoutsi Department",
+      "code": "GA-5-7870326",
+      "countryId": 2400553,
+      "countryCode": "GA",
+      "stateCode": "GA-5",
+      "latitude": -2.974,
+      "longitude": 11.237
+    }
+  ]
+}

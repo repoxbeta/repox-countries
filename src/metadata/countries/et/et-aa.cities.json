@@ -1,0 +1,172 @@
+{
+  "stateId": 444178,
+  "stateCode": "ET-AA",
+  "countryCode": "ET",
+  "cities": [
+    {
+      "id": 7733020,
+      "name": "Addis Ababa Zone 1",
+      "nativeName": "Addis Ababa Zone 1",
+      "code": "ET-AA-7733020",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-AA",
+      "latitude": 9.02047,
+      "longitude": 38.74457
+    },
+    {
+      "id": 7733021,
+      "name": "Addis Ababa Zone 2",
+      "nativeName": "Addis Ababa Zone 2",
+      "code": "ET-AA-7733021",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-AA",
+      "latitude": 8.99496,
+      "longitude": 38.74844
+    },
+    {
+      "id": 7733022,
+      "name": "Addis Ababa Zone 3",
+      "nativeName": "Addis Ababa Zone 3",
+      "code": "ET-AA-7733022",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-AA",
+      "latitude": 8.9797,
+      "longitude": 38.77058
+    },
+    {
+      "id": 8051210,
+      "name": "Addis Ababa Zone 5",
+      "nativeName": "Addis Ababa Zone 5",
+      "code": "ET-AA-8051210",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-AA",
+      "latitude": 9.059,
+      "longitude": 38.718
+    },
+    {
+      "id": 7733023,
+      "name": "Addis Ababa Zone 6",
+      "nativeName": "Addis Ababa Zone 6",
+      "code": "ET-AA-7733023",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-AA",
+      "latitude": 8.89338,
+      "longitude": 38.78157
+    },
+    {
+      "id": 11750848,
+      "name": "Addis Ketema",
+      "nativeName": "Addis Ketema",
+      "code": "ET-AA-11750848",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-AA",
+      "latitude": 9.03458,
+      "longitude": 38.72539
+    },
+    {
+      "id": 11750841,
+      "name": "Akaki Kaliti",
+      "nativeName": "Akaki Kaliti",
+      "code": "ET-AA-11750841",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-AA",
+      "latitude": 8.89855,
+      "longitude": 38.80448
+    },
+    {
+      "id": 11750847,
+      "name": "Arada",
+      "nativeName": "Arada",
+      "code": "ET-AA-11750847",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-AA",
+      "latitude": 9.03458,
+      "longitude": 38.75562
+    },
+    {
+      "id": 11750843,
+      "name": "Bole",
+      "nativeName": "Bole",
+      "code": "ET-AA-11750843",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-AA",
+      "latitude": 8.97799,
+      "longitude": 38.83401
+    },
+    {
+      "id": 11750846,
+      "name": "Gulele",
+      "nativeName": "Gulele",
+      "code": "ET-AA-11750846",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-AA",
+      "latitude": 9.07026,
+      "longitude": 38.74472
+    },
+    {
+      "id": 11750845,
+      "name": "Kirkos",
+      "nativeName": "Kirkos",
+      "code": "ET-AA-11750845",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-AA",
+      "latitude": 9.00031,
+      "longitude": 38.75914
+    },
+    {
+      "id": 11750840,
+      "name": "Kolfe Keranyo",
+      "nativeName": "Kolfe Keranyo",
+      "code": "ET-AA-11750840",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-AA",
+      "latitude": 9.01103,
+      "longitude": 38.68989
+    },
+    {
+      "id": 11750849,
+      "name": "Lideta",
+      "nativeName": "Lideta",
+      "code": "ET-AA-11750849",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-AA",
+      "latitude": 9.01138,
+      "longitude": 38.73471
+    },
+    {
+      "id": 11750842,
+      "name": "Nefas Silk Lafto",
+      "nativeName": "Nefas Silk Lafto",
+      "code": "ET-AA-11750842",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-AA",
+      "latitude": 8.94846,
+      "longitude": 38.72926
+    },
+    {
+      "id": 11750844,
+      "name": "Yeka",
+      "nativeName": "Yeka",
+      "code": "ET-AA-11750844",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-AA",
+      "latitude": 9.04899,
+      "longitude": 38.82399
+    }
+  ]
+}

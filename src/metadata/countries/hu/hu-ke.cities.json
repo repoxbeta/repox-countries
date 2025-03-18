@@ -1,0 +1,73 @@
+{
+  "stateId": 3049518,
+  "stateCode": "HU-KE",
+  "countryCode": "HU",
+  "cities": [
+    {
+      "id": 9644744,
+      "name": "Esztergomi Járás",
+      "nativeName": "Esztergomi Járás",
+      "code": "HU-KE-9644744",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-KE",
+      "latitude": 47.70535,
+      "longitude": 18.70334
+    },
+    {
+      "id": 9644748,
+      "name": "Kisbéri Járás",
+      "nativeName": "Kisbéri Járás",
+      "code": "HU-KE-9644748",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-KE",
+      "latitude": 47.4872,
+      "longitude": 18.02142
+    },
+    {
+      "id": 9644747,
+      "name": "Komáromi Járás",
+      "nativeName": "Komáromi Járás",
+      "code": "HU-KE-9644747",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-KE",
+      "latitude": 47.68552,
+      "longitude": 18.06413
+    },
+    {
+      "id": 9644749,
+      "name": "Oroszlányi Járás",
+      "nativeName": "Oroszlányi Járás",
+      "code": "HU-KE-9644749",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-KE",
+      "latitude": 47.50245,
+      "longitude": 18.25635
+    },
+    {
+      "id": 9644745,
+      "name": "Tatabányai Járás",
+      "nativeName": "Tatabányai Járás",
+      "code": "HU-KE-9644745",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-KE",
+      "latitude": 47.57568,
+      "longitude": 18.47451
+    },
+    {
+      "id": 9644746,
+      "name": "Tatai Járás",
+      "nativeName": "Tatai Járás",
+      "code": "HU-KE-9644746",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-KE",
+      "latitude": 47.66874,
+      "longitude": 18.33721
+    }
+  ]
+}

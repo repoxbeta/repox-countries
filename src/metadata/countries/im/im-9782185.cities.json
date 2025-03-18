@@ -1,0 +1,73 @@
+{
+  "stateId": 9782185,
+  "stateCode": "IM-9782185",
+  "countryCode": "IM",
+  "cities": [
+    {
+      "id": 3042220,
+      "name": "Kirkmichael",
+      "nativeName": "Kirkmichael",
+      "code": "IM-9782185-3042220",
+      "countryId": 3042225,
+      "countryCode": "IM",
+      "stateCode": "IM-9782185",
+      "latitude": 54.28562,
+      "longitude": -4.58748
+    },
+    {
+      "id": 11550888,
+      "name": "Ballacarnane Beg",
+      "nativeName": "Ballacarnane Beg",
+      "code": "IM-9782185-11550888",
+      "countryId": 3042225,
+      "countryCode": "IM",
+      "stateCode": "IM-9782185",
+      "latitude": 54.26227,
+      "longitude": -4.61512
+    },
+    {
+      "id": 11550882,
+      "name": "Barregarrow",
+      "nativeName": "Barregarrow",
+      "code": "IM-9782185-11550882",
+      "countryId": 3042225,
+      "countryCode": "IM",
+      "stateCode": "IM-9782185",
+      "latitude": 54.26252,
+      "longitude": -4.58272
+    },
+    {
+      "id": 11550883,
+      "name": "Little London",
+      "nativeName": "Little London",
+      "code": "IM-9782185-11550883",
+      "countryId": 3042225,
+      "countryCode": "IM",
+      "stateCode": "IM-9782185",
+      "latitude": 54.24406,
+      "longitude": -4.57984
+    },
+    {
+      "id": 11550885,
+      "name": "Orrisdale",
+      "nativeName": "Orrisdale",
+      "code": "IM-9782185-11550885",
+      "countryId": 3042225,
+      "countryCode": "IM",
+      "stateCode": "IM-9782185",
+      "latitude": 54.30481,
+      "longitude": -4.5752
+    },
+    {
+      "id": 11550884,
+      "name": "Shoughlaige-e-Caine",
+      "nativeName": "Shoughlaige-e-Caine",
+      "code": "IM-9782185-11550884",
+      "countryId": 3042225,
+      "countryCode": "IM",
+      "stateCode": "IM-9782185",
+      "latitude": 54.25309,
+      "longitude": -4.58662
+    }
+  ]
+}

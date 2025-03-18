@@ -1,0 +1,117 @@
+{
+  "stateId": 11398357,
+  "stateCode": "MK-F6",
+  "countryCode": "MK",
+  "cities": [
+    {
+      "id": 7056266,
+      "name": "Aerodrom",
+      "nativeName": "Aerodrom",
+      "code": "MK-F6-7056266",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-F6",
+      "latitude": 41.98806,
+      "longitude": 21.45944
+    },
+    {
+      "id": 7056269,
+      "name": "Butel",
+      "nativeName": "Butel",
+      "code": "MK-F6-7056269",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-F6",
+      "latitude": 42.08194,
+      "longitude": 21.46889
+    },
+    {
+      "id": 863853,
+      "name": "Gazi Baba",
+      "nativeName": "Gazi Baba",
+      "code": "MK-F6-863853",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-F6",
+      "latitude": 42.05,
+      "longitude": 21.51667
+    },
+    {
+      "id": 863850,
+      "name": "Gjorche Petrov",
+      "nativeName": "Opstina Gjorce Petrov",
+      "code": "MK-F6-863850",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-F6",
+      "latitude": 42.06086,
+      "longitude": 21.31927
+    },
+    {
+      "id": 863860,
+      "name": "Karposh",
+      "nativeName": "Opština Karpoš",
+      "code": "MK-F6-863860",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-F6",
+      "latitude": 42,
+      "longitude": 21.38333
+    },
+    {
+      "id": 863863,
+      "name": "Kisela Voda",
+      "nativeName": "Kisela Voda",
+      "code": "MK-F6-863863",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-F6",
+      "latitude": 41.95,
+      "longitude": 21.51667
+    },
+    {
+      "id": 863840,
+      "name": "Opština Centar",
+      "nativeName": "Opština Centar",
+      "code": "MK-F6-863840",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-F6",
+      "latitude": 42.005,
+      "longitude": 21.42889
+    },
+    {
+      "id": 863894,
+      "name": "Saraj",
+      "nativeName": "Saraj",
+      "code": "MK-F6-863894",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-F6",
+      "latitude": 41.98333,
+      "longitude": 21.26667
+    },
+    {
+      "id": 863836,
+      "name": "Čair",
+      "nativeName": "Čair",
+      "code": "MK-F6-863836",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-F6",
+      "latitude": 42.01059,
+      "longitude": 21.44009
+    },
+    {
+      "id": 863904,
+      "name": "Šuto Orizari",
+      "nativeName": "Šuto Orizari",
+      "code": "MK-F6-863904",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-F6",
+      "latitude": 42.05,
+      "longitude": 21.41667
+    }
+  ]
+}

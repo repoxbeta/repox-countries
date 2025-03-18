@@ -1,0 +1,29 @@
+{
+  "stateId": 8693189,
+  "stateCode": "NA-KW",
+  "countryCode": "NA",
+  "cities": [
+    {
+      "id": 11256866,
+      "name": "Kapako Constituency",
+      "nativeName": "Kapako Constituency",
+      "code": "NA-KW-11256866",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "stateCode": "NA-KW",
+      "latitude": -17.9,
+      "longitude": 19.56667
+    },
+    {
+      "id": 11429079,
+      "name": "Mpungu",
+      "nativeName": "Mpungu",
+      "code": "NA-KW-11429079",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "stateCode": "NA-KW",
+      "latitude": -17.66667,
+      "longitude": 18.23333
+    }
+  ]
+}

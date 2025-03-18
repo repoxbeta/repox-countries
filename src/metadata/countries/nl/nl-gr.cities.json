@@ -1,0 +1,117 @@
+{
+  "stateId": 2755249,
+  "stateCode": "NL-GR",
+  "countryCode": "NL",
+  "cities": [
+    {
+      "id": 12253550,
+      "name": "Eemsdelta Municipality",
+      "nativeName": "Eemsdelta",
+      "code": "NL-GR-12253550",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-GR",
+      "latitude": 53.3307,
+      "longitude": 6.8697
+    },
+    {
+      "id": 6544234,
+      "name": "Gemeente Pekela",
+      "nativeName": "Gemeente Pekela",
+      "code": "NL-GR-6544234",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-GR",
+      "latitude": 53.05969,
+      "longitude": 6.9651
+    },
+    {
+      "id": 2755250,
+      "name": "Groningen. Municipality",
+      "nativeName": "Gemeente Groningen",
+      "code": "NL-GR-2755250",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-GR",
+      "latitude": 53.22369,
+      "longitude": 6.56479
+    },
+    {
+      "id": 12022126,
+      "name": "Het Hogeland",
+      "nativeName": "Het Hogeland",
+      "code": "NL-GR-12022126",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-GR",
+      "latitude": 53.37587,
+      "longitude": 6.52876
+    },
+    {
+      "id": 12022125,
+      "name": "Midden-Groningen Municipality",
+      "nativeName": "Midden-Groningen",
+      "code": "NL-GR-12022125",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-GR",
+      "latitude": 53.15113,
+      "longitude": 6.83313
+    },
+    {
+      "id": 7535498,
+      "name": "Oldambt Municipality",
+      "nativeName": "Gemeente Oldambt",
+      "code": "NL-GR-7535498",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-GR",
+      "latitude": 53.16859,
+      "longitude": 7.04224
+    },
+    {
+      "id": 2746859,
+      "name": "Stadskanaal Municipality",
+      "nativeName": "Gemeente Stadskanaal",
+      "code": "NL-GR-2746859",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-GR",
+      "latitude": 53.00005,
+      "longitude": 6.98906
+    },
+    {
+      "id": 2745782,
+      "name": "Veendam Municipality",
+      "nativeName": "Gemeente Veendam",
+      "code": "NL-GR-2745782",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-GR",
+      "latitude": 53.08951,
+      "longitude": 6.87923
+    },
+    {
+      "id": 2744721,
+      "name": "Westerkwartier",
+      "nativeName": "Westerkwartier",
+      "code": "NL-GR-2744721",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-GR",
+      "latitude": 53.2,
+      "longitude": 6.3
+    },
+    {
+      "id": 12022124,
+      "name": "Westerwolde Municipality",
+      "nativeName": "Westerwolde",
+      "code": "NL-GR-12022124",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-GR",
+      "latitude": 53.028,
+      "longitude": 7.15671
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "stateId": 8299721,
+  "stateCode": "MT-33",
+  "countryCode": "MT",
+  "cities": [
+    {
+      "id": 2562701,
+      "name": "Mqabba",
+      "nativeName": "Mqabba",
+      "code": "MT-33-2562701",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-33",
+      "latitude": 35.84763,
+      "longitude": 14.46824
+    },
+    {
+      "id": 2562463,
+      "name": "Tad-Dawl",
+      "nativeName": "Tad-Dawl",
+      "code": "MT-33-2562463",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-33",
+      "latitude": 35.85083,
+      "longitude": 14.47222
+    }
+  ]
+}

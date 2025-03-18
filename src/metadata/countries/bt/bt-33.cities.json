@@ -1,0 +1,73 @@
+{
+  "stateId": 1337278,
+  "stateCode": "BT-33",
+  "countryCode": "BT",
+  "cities": [
+    {
+      "id": 1337301,
+      "name": "Jakar",
+      "nativeName": "Jakar",
+      "code": "BT-33-1337301",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-33",
+      "latitude": 27.54918,
+      "longitude": 90.7525
+    },
+    {
+      "id": 1252622,
+      "name": "Byakar Dzong",
+      "nativeName": "Byakar Dzong",
+      "code": "BT-33-1252622",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-33",
+      "latitude": 27.55,
+      "longitude": 90.71667
+    },
+    {
+      "id": 1337302,
+      "name": "Kurjey",
+      "nativeName": "Kurjey",
+      "code": "BT-33-1337302",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-33",
+      "latitude": 27.61667,
+      "longitude": 90.7
+    },
+    {
+      "id": 1252528,
+      "name": "Lhedang",
+      "nativeName": "Lhedang",
+      "code": "BT-33-1252528",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-33",
+      "latitude": 27.95001,
+      "longitude": 90.69214
+    },
+    {
+      "id": 1337303,
+      "name": "Nangnang",
+      "nativeName": "Nangnang",
+      "code": "BT-33-1337303",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-33",
+      "latitude": 27.6,
+      "longitude": 90.88333
+    },
+    {
+      "id": 1252401,
+      "name": "Ura",
+      "nativeName": "Ura",
+      "code": "BT-33-1252401",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-33",
+      "latitude": 27.41667,
+      "longitude": 90.91667
+    }
+  ]
+}

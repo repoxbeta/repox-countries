@@ -1,0 +1,51 @@
+{
+  "stateId": 2132895,
+  "stateCode": "PG-MBA",
+  "countryCode": "PG",
+  "cities": [
+    {
+      "id": 8657203,
+      "name": "Alotau District",
+      "nativeName": "Alotau",
+      "code": "PG-MBA-8657203",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-MBA",
+      "latitude": -10.25,
+      "longitude": 150.08333
+    },
+    {
+      "id": 2097572,
+      "name": "Esa’ala District",
+      "nativeName": "Esa’ala",
+      "code": "PG-MBA-2097572",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-MBA",
+      "latitude": -9.58333,
+      "longitude": 150.75
+    },
+    {
+      "id": 8657199,
+      "name": "Kiriwina Goodenough District",
+      "nativeName": "Kiriwina Goodenough",
+      "code": "PG-MBA-8657199",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-MBA",
+      "latitude": -8.48333,
+      "longitude": 151.06667
+    },
+    {
+      "id": 9855462,
+      "name": "Samarai-Murua District",
+      "nativeName": "Samarai Murua",
+      "code": "PG-MBA-9855462",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-MBA",
+      "latitude": -10.49636,
+      "longitude": 150.54703
+    }
+  ]
+}

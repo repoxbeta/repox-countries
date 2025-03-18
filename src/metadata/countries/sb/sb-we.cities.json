@@ -1,0 +1,293 @@
+{
+  "stateId": 2101556,
+  "stateCode": "SB-WE",
+  "countryCode": "SB",
+  "cities": [
+    {
+      "id": 12041764,
+      "name": "Bilua",
+      "nativeName": "Bilua",
+      "code": "SB-WE-12041764",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-WE",
+      "latitude": -7.79319,
+      "longitude": 156.68667
+    },
+    {
+      "id": 12041771,
+      "name": "Buini Tusu",
+      "nativeName": "Buini Tusu",
+      "code": "SB-WE-12041771",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-WE",
+      "latitude": -8.40426,
+      "longitude": 157.75654
+    },
+    {
+      "id": 12041761,
+      "name": "Central Ranongga",
+      "nativeName": "Central Ranongga",
+      "code": "SB-WE-12041761",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-WE",
+      "latitude": -7.9946,
+      "longitude": 156.56233
+    },
+    {
+      "id": 12041834,
+      "name": "Dovele",
+      "nativeName": "Dovele",
+      "code": "SB-WE-12041834",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-WE",
+      "latitude": -7.68822,
+      "longitude": 156.63936
+    },
+    {
+      "id": 12041836,
+      "name": "Gizo",
+      "nativeName": "Gizo",
+      "code": "SB-WE-12041836",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-WE",
+      "latitude": -8.07497,
+      "longitude": 156.78768
+    },
+    {
+      "id": 12041759,
+      "name": "Inner Shortlands",
+      "nativeName": "Inner Shortlands",
+      "code": "SB-WE-12041759",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-WE",
+      "latitude": -7.03585,
+      "longitude": 155.77229
+    },
+    {
+      "id": 12041835,
+      "name": "Iringgila",
+      "nativeName": "Iringgila",
+      "code": "SB-WE-12041835",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-WE",
+      "latitude": -7.67653,
+      "longitude": 156.54316
+    },
+    {
+      "id": 12041770,
+      "name": "Kolombaghea",
+      "nativeName": "Kolombaghea",
+      "code": "SB-WE-12041770",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-WE",
+      "latitude": -8.12925,
+      "longitude": 157.57541
+    },
+    {
+      "id": 12041839,
+      "name": "Kusaghe",
+      "nativeName": "Kusaghe",
+      "code": "SB-WE-12041839",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-WE",
+      "latitude": -8.04409,
+      "longitude": 157.43918
+    },
+    {
+      "id": 8987088,
+      "name": "Munda",
+      "nativeName": "Munda",
+      "code": "SB-WE-8987088",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-WE",
+      "latitude": -8.32798,
+      "longitude": 157.26843
+    },
+    {
+      "id": 12041773,
+      "name": "Nggatokae",
+      "nativeName": "Nggatokae",
+      "code": "SB-WE-12041773",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-WE",
+      "latitude": -8.75316,
+      "longitude": 158.17752
+    },
+    {
+      "id": 12041772,
+      "name": "Nono",
+      "nativeName": "Nono",
+      "code": "SB-WE-12041772",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-WE",
+      "latitude": -8.68568,
+      "longitude": 157.93256
+    },
+    {
+      "id": 9035073,
+      "name": "Noro",
+      "nativeName": "Noro",
+      "code": "SB-WE-9035073",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-WE",
+      "latitude": -8.22274,
+      "longitude": 157.19978
+    },
+    {
+      "id": 12041765,
+      "name": "North Kolombangara",
+      "nativeName": "North Kolombangara",
+      "code": "SB-WE-12041765",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-WE",
+      "latitude": -7.95548,
+      "longitude": 157.00704
+    },
+    {
+      "id": 12041874,
+      "name": "North Ranongga",
+      "nativeName": "North Ranongga",
+      "code": "SB-WE-12041874",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-WE",
+      "latitude": -8.01246,
+      "longitude": 156.5425
+    },
+    {
+      "id": 12041769,
+      "name": "North Rendova",
+      "nativeName": "North Rendova",
+      "code": "SB-WE-12041769",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-WE",
+      "latitude": -8.52487,
+      "longitude": 157.25937
+    },
+    {
+      "id": 12041774,
+      "name": "North Vangunu",
+      "nativeName": "North Vangunu",
+      "code": "SB-WE-12041774",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-WE",
+      "latitude": -8.56912,
+      "longitude": 158.04499
+    },
+    {
+      "id": 12041840,
+      "name": "Nusa Roviana",
+      "nativeName": "Nusa Roviana",
+      "code": "SB-WE-12041840",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-WE",
+      "latitude": -8.31924,
+      "longitude": 157.28524
+    },
+    {
+      "id": 12041758,
+      "name": "Outer Shortlands",
+      "nativeName": "Outer Shortlands",
+      "code": "SB-WE-12041758",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-WE",
+      "latitude": -7.36478,
+      "longitude": 155.56375
+    },
+    {
+      "id": 12041767,
+      "name": "Roviana Lagoon",
+      "nativeName": "Roviana Lagoon",
+      "code": "SB-WE-12041767",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-WE",
+      "latitude": -8.32063,
+      "longitude": 157.59276
+    },
+    {
+      "id": 12041760,
+      "name": "Simbo",
+      "nativeName": "Simbo",
+      "code": "SB-WE-12041760",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-WE",
+      "latitude": -8.27687,
+      "longitude": 156.53815
+    },
+    {
+      "id": 12041837,
+      "name": "South Kolombangara",
+      "nativeName": "South Kolombangara",
+      "code": "SB-WE-12041837",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-WE",
+      "latitude": -8.00463,
+      "longitude": 157.1079
+    },
+    {
+      "id": 12041762,
+      "name": "South Ranongga",
+      "nativeName": "South Ranongga",
+      "code": "SB-WE-12041762",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-WE",
+      "latitude": -8.10755,
+      "longitude": 156.5767
+    },
+    {
+      "id": 12041768,
+      "name": "South Rendova",
+      "nativeName": "South Rendova",
+      "code": "SB-WE-12041768",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-WE",
+      "latitude": -8.74758,
+      "longitude": 157.56274
+    },
+    {
+      "id": 12041838,
+      "name": "Vonavona",
+      "nativeName": "Vonavona",
+      "code": "SB-WE-12041838",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-WE",
+      "latitude": -8.2183,
+      "longitude": 157.15096
+    },
+    {
+      "id": 12041763,
+      "name": "Vonunu",
+      "nativeName": "Vonunu",
+      "code": "SB-WE-12041763",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-WE",
+      "latitude": -7.87575,
+      "longitude": 156.66383
+    }
+  ]
+}

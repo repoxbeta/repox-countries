@@ -1,0 +1,95 @@
+{
+  "stateId": 80412,
+  "stateCode": "YE-AD",
+  "countryCode": "YE",
+  "cities": [
+    {
+      "id": 6940815,
+      "name": "Al Buraiqeh District",
+      "nativeName": "Al Buraiqeh",
+      "code": "YE-AD-6940815",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-AD",
+      "latitude": 12.80377,
+      "longitude": 44.77615
+    },
+    {
+      "id": 6940818,
+      "name": "Al Mansura",
+      "nativeName": "Al Mansura",
+      "code": "YE-AD-6940818",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-AD",
+      "latitude": 12.8532,
+      "longitude": 44.9724
+    },
+    {
+      "id": 6940819,
+      "name": "Ash Shaikh Outhman District",
+      "nativeName": "Ash Shaikh Outhman",
+      "code": "YE-AD-6940819",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-AD",
+      "latitude": 12.8864,
+      "longitude": 45.0156
+    },
+    {
+      "id": 6940813,
+      "name": "Attawahi",
+      "nativeName": "Attawahi",
+      "code": "YE-AD-6940813",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-AD",
+      "latitude": 12.7741,
+      "longitude": 44.9941
+    },
+    {
+      "id": 6940814,
+      "name": "Crater District",
+      "nativeName": "Craiter",
+      "code": "YE-AD-6940814",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-AD",
+      "latitude": 12.7731,
+      "longitude": 45.0381
+    },
+    {
+      "id": 6940817,
+      "name": "Dar Sad District",
+      "nativeName": "Dar Sad",
+      "code": "YE-AD-6940817",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-AD",
+      "latitude": 12.907,
+      "longitude": 44.9784
+    },
+    {
+      "id": 6940816,
+      "name": "Khur Maksar District",
+      "nativeName": "Khur Maksar",
+      "code": "YE-AD-6940816",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-AD",
+      "latitude": 12.8658,
+      "longitude": 45.0552
+    },
+    {
+      "id": 6940820,
+      "name": "Mualla District",
+      "nativeName": "Al Mualla",
+      "code": "YE-AD-6940820",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-AD",
+      "latitude": 12.65843,
+      "longitude": 43.42743
+    }
+  ]
+}

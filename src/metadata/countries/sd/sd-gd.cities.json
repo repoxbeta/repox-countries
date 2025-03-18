@@ -1,0 +1,40 @@
+{
+  "stateId": 408649,
+  "stateCode": "SD-GD",
+  "countryCode": "SD",
+  "cities": [
+    {
+      "id": 8051351,
+      "name": "Al Fushqa",
+      "nativeName": "Al Fushqa",
+      "code": "SD-GD-8051351",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-GD",
+      "latitude": 14.079,
+      "longitude": 36.084
+    },
+    {
+      "id": 375038,
+      "name": "Gedaref North Rural Council",
+      "nativeName": "Gedaref North Rural Council",
+      "code": "SD-GD-375038",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-GD",
+      "latitude": 15,
+      "longitude": 35
+    },
+    {
+      "id": 8051352,
+      "name": "Seteet",
+      "nativeName": "Seteet",
+      "code": "SD-GD-8051352",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-GD",
+      "latitude": 14.666,
+      "longitude": 36.147
+    }
+  ]
+}

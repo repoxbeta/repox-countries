@@ -1,0 +1,271 @@
+{
+  "stateId": 545854,
+  "stateCode": "RU-KO",
+  "countryCode": "RU",
+  "cities": [
+    {
+      "id": 12817015,
+      "name": "Gorodskoy Okrug Inta",
+      "nativeName": "Gorodskoy Okrug Inta",
+      "code": "RU-KO-12817015",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KO",
+      "latitude": 66.05797,
+      "longitude": 60.54111
+    },
+    {
+      "id": 12817017,
+      "name": "Gorodskoy Okrug Syktyvkar",
+      "nativeName": "Gorodskoy Okrug Syktyvkar",
+      "code": "RU-KO-12817017",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KO",
+      "latitude": 61.74483,
+      "longitude": 50.76199
+    },
+    {
+      "id": 12817016,
+      "name": "Gorodskoy Okrug Ukhta",
+      "nativeName": "Gorodskoy Okrug Ukhta",
+      "code": "RU-KO-12817016",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KO",
+      "latitude": 63.63059,
+      "longitude": 53.17094
+    },
+    {
+      "id": 12817014,
+      "name": "Gorodskoy Okrug Vorkuta",
+      "nativeName": "Gorodskoy Okrug Vorkuta",
+      "code": "RU-KO-12817014",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KO",
+      "latitude": 67.28232,
+      "longitude": 64.01958
+    },
+    {
+      "id": 12625207,
+      "name": "Inta Urban Okrug",
+      "nativeName": "Inta Urban Okrug",
+      "code": "RU-KO-12625207",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KO",
+      "latitude": 66.03802,
+      "longitude": 60.1381
+    },
+    {
+      "id": 554843,
+      "name": "Izhemskiy Rayon",
+      "nativeName": "Izhemskiy Rayon",
+      "code": "RU-KO-554843",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KO",
+      "latitude": 65.31889,
+      "longitude": 54.05468
+    },
+    {
+      "id": 547056,
+      "name": "Knyazhpogostskiy Rayon",
+      "nativeName": "Knyazhpogostskiy Rayon",
+      "code": "RU-KO-547056",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KO",
+      "latitude": 63.47669,
+      "longitude": 51.41614
+    },
+    {
+      "id": 544396,
+      "name": "Kortkerosskiy Rayon",
+      "nativeName": "Kortkerosskiy Rayon",
+      "code": "RU-KO-544396",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KO",
+      "latitude": 61.94086,
+      "longitude": 52.18386
+    },
+    {
+      "id": 543395,
+      "name": "Koygorodskiy Rayon",
+      "nativeName": "Koygorodskiy Rayon",
+      "code": "RU-KO-543395",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KO",
+      "latitude": 60.48001,
+      "longitude": 51.25032
+    },
+    {
+      "id": 12625213,
+      "name": "Pechora Municipal District",
+      "nativeName": "Pechora Municipal District",
+      "code": "RU-KO-12625213",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KO",
+      "latitude": 65.14178,
+      "longitude": 57.2167
+    },
+    {
+      "id": 505282,
+      "name": "Priluzskiy Rayon",
+      "nativeName": "Priluzskiy Rayon",
+      "code": "RU-KO-505282",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KO",
+      "latitude": 60.32671,
+      "longitude": 49.33159
+    },
+    {
+      "id": 12625212,
+      "name": "Sosnogorsk Municipal District",
+      "nativeName": "Sosnogorsk Municipal District",
+      "code": "RU-KO-12625212",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KO",
+      "latitude": 63.60163,
+      "longitude": 53.87847
+    },
+    {
+      "id": 485241,
+      "name": "Syktyvdinskiy Rayon",
+      "nativeName": "Syktyvdinskiy Rayon",
+      "code": "RU-KO-485241",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KO",
+      "latitude": 61.66667,
+      "longitude": 50.5
+    },
+    {
+      "id": 12625211,
+      "name": "Syktyvkar Urban Okrug",
+      "nativeName": "Syktyvkar Urban Okrug",
+      "code": "RU-KO-12625211",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KO",
+      "latitude": 61.65057,
+      "longitude": 50.81267
+    },
+    {
+      "id": 485121,
+      "name": "Sysol’skiy Rayon",
+      "nativeName": "Sysol’skiy Rayon",
+      "code": "RU-KO-485121",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KO",
+      "latitude": 61.02647,
+      "longitude": 49.99314
+    },
+    {
+      "id": 481547,
+      "name": "Troitsko-Pechorskiy Rayon",
+      "nativeName": "Troitsko-Pechorskiy Rayon",
+      "code": "RU-KO-481547",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KO",
+      "latitude": 62.45812,
+      "longitude": 57.36762
+    },
+    {
+      "id": 479581,
+      "name": "Udorskiy Rayon",
+      "nativeName": "Udorskiy Rayon",
+      "code": "RU-KO-479581",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KO",
+      "latitude": 63.52846,
+      "longitude": 48.82909
+    },
+    {
+      "id": 12625427,
+      "name": "Ukhta Urban Okrug",
+      "nativeName": "Ukhta Urban Okrug",
+      "code": "RU-KO-12625427",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KO",
+      "latitude": 63.56543,
+      "longitude": 53.6887
+    },
+    {
+      "id": 12625208,
+      "name": "Usinsk Urban Okrug",
+      "nativeName": "Usinsk Urban Okrug",
+      "code": "RU-KO-12625208",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KO",
+      "latitude": 65.99357,
+      "longitude": 57.53787
+    },
+    {
+      "id": 478049,
+      "name": "Ust’-Kulomskiy Rayon",
+      "nativeName": "Ust’-Kulomskiy Rayon",
+      "code": "RU-KO-478049",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KO",
+      "latitude": 61.75603,
+      "longitude": 54.47095
+    },
+    {
+      "id": 477941,
+      "name": "Ust’-Tsilemskiy Rayon",
+      "nativeName": "Ust’-Tsilemskiy Rayon",
+      "code": "RU-KO-477941",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KO",
+      "latitude": 65.80454,
+      "longitude": 51.59057
+    },
+    {
+      "id": 477906,
+      "name": "Ust’-Vymskiy Rayon",
+      "nativeName": "Ust’-Vymskiy Rayon",
+      "code": "RU-KO-477906",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KO",
+      "latitude": 62.25243,
+      "longitude": 49.80995
+    },
+    {
+      "id": 12625426,
+      "name": "Vorkuta Urban Okrug",
+      "nativeName": "Vorkuta Urban Okrug",
+      "code": "RU-KO-12625426",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KO",
+      "latitude": 67.49219,
+      "longitude": 64.03097
+    },
+    {
+      "id": 12625209,
+      "name": "Vuktyl Municipal District",
+      "nativeName": "Vuktyl Municipal District",
+      "code": "RU-KO-12625209",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KO",
+      "latitude": 63.85099,
+      "longitude": 57.30972
+    }
+  ]
+}

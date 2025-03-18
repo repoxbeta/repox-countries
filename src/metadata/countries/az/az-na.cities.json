@@ -1,0 +1,29 @@
+{
+  "stateId": 828300,
+  "stateCode": "AZ-NA",
+  "countryCode": "AZ",
+  "cities": [
+    {
+      "id": 585400,
+      "name": "Naftalan",
+      "nativeName": "Naftalan",
+      "code": "AZ-NA-585400",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-NA",
+      "latitude": 40.50821,
+      "longitude": 46.8203
+    },
+    {
+      "id": 584681,
+      "name": "Yolpaq",
+      "nativeName": "Yolpaq",
+      "code": "AZ-NA-584681",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-NA",
+      "latitude": 40.71433,
+      "longitude": 46.62372
+    }
+  ]
+}

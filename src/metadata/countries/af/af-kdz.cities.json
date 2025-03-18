@@ -1,0 +1,84 @@
+{
+  "stateId": 1135690,
+  "stateCode": "AF-KDZ",
+  "countryCode": "AF",
+  "cities": [
+    {
+      "id": 7053312,
+      "name": "Ali Abad",
+      "nativeName": "‘Alīābād",
+      "code": "AF-KDZ-7053312",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-KDZ",
+      "latitude": 36.53011,
+      "longitude": 68.8778
+    },
+    {
+      "id": 7732594,
+      "name": "Chahar Dara",
+      "nativeName": "Chahar Dara",
+      "code": "AF-KDZ-7732594",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-KDZ",
+      "latitude": 36.64656,
+      "longitude": 68.55959
+    },
+    {
+      "id": 7053313,
+      "name": "Dasht-e Archī",
+      "nativeName": "Dasht-e Archī",
+      "code": "AF-KDZ-7053313",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-KDZ",
+      "latitude": 36.9636,
+      "longitude": 69.15729
+    },
+    {
+      "id": 7053315,
+      "name": "Imam Sahib District",
+      "nativeName": "Imām Şāḩib",
+      "code": "AF-KDZ-7053315",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-KDZ",
+      "latitude": 37.10841,
+      "longitude": 68.85371
+    },
+    {
+      "id": 7053316,
+      "name": "Khan Abad",
+      "nativeName": "Khānābād",
+      "code": "AF-KDZ-7053316",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-KDZ",
+      "latitude": 36.60311,
+      "longitude": 69.10405
+    },
+    {
+      "id": 7729833,
+      "name": "Kunduz",
+      "nativeName": "Kunduz",
+      "code": "AF-KDZ-7729833",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-KDZ",
+      "latitude": 36.79256,
+      "longitude": 68.84385
+    },
+    {
+      "id": 7053317,
+      "name": "Qal‘ah-ye Zāl",
+      "nativeName": "Qal‘ah-ye Zāl",
+      "code": "AF-KDZ-7053317",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-KDZ",
+      "latitude": 36.89746,
+      "longitude": 68.36192
+    }
+  ]
+}

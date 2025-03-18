@@ -1,0 +1,282 @@
+{
+  "stateId": 519324,
+  "stateCode": "RU-NGR",
+  "countryCode": "RU",
+  "cities": [
+    {
+      "id": 578731,
+      "name": "Batetskiy Rayon",
+      "nativeName": "Batetskiy Rayon",
+      "code": "RU-NGR-578731",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-NGR",
+      "latitude": 58.58333,
+      "longitude": 30.5
+    },
+    {
+      "id": 572153,
+      "name": "Borovichsky District",
+      "nativeName": "Borovichskiy Rayon",
+      "code": "RU-NGR-572153",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-NGR",
+      "latitude": 58.50117,
+      "longitude": 34.00117
+    },
+    {
+      "id": 567768,
+      "name": "Chudovsky District",
+      "nativeName": "Chudovskiy Rayon",
+      "code": "RU-NGR-567768",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-NGR",
+      "latitude": 59.16667,
+      "longitude": 31.83333
+    },
+    {
+      "id": 566628,
+      "name": "Demyansky District",
+      "nativeName": "Demyanskiy Rayon",
+      "code": "RU-NGR-566628",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-NGR",
+      "latitude": 57.58333,
+      "longitude": 32.75
+    },
+    {
+      "id": 12571392,
+      "name": "Gorodskoy Okrug Borovichi",
+      "nativeName": "Gorodskoy Okrug Borovichi",
+      "code": "RU-NGR-12571392",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-NGR",
+      "latitude": 58.39756,
+      "longitude": 33.92746
+    },
+    {
+      "id": 12571397,
+      "name": "Gorodskoy Okrug Staraya Russa",
+      "nativeName": "Gorodskoy Okrug Staraya Russa",
+      "code": "RU-NGR-12571397",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-NGR",
+      "latitude": 57.99043,
+      "longitude": 31.36216
+    },
+    {
+      "id": 12571399,
+      "name": "Gorodskoy Okrug Velikiy Novgorod",
+      "nativeName": "Gorodskoy Okrug Velikiy Novgorod",
+      "code": "RU-NGR-12571399",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-NGR",
+      "latitude": 58.55387,
+      "longitude": 31.29377
+    },
+    {
+      "id": 549740,
+      "name": "Kholmsky District",
+      "nativeName": "Kholmskiy Rayon",
+      "code": "RU-NGR-549740",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-NGR",
+      "latitude": 57.08333,
+      "longitude": 31.33333
+    },
+    {
+      "id": 548887,
+      "name": "Khvoyninsky District",
+      "nativeName": "Khvoyninskiy Rayon",
+      "code": "RU-NGR-548887",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-NGR",
+      "latitude": 58.91667,
+      "longitude": 34.5
+    },
+    {
+      "id": 541156,
+      "name": "Krestetsky District",
+      "nativeName": "Krestetskiy Rayon",
+      "code": "RU-NGR-541156",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-NGR",
+      "latitude": 58.31672,
+      "longitude": 32.41167
+    },
+    {
+      "id": 532461,
+      "name": "Lyubytinsky District",
+      "nativeName": "Lyubytinskiy Rayon",
+      "code": "RU-NGR-532461",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-NGR",
+      "latitude": 58.83342,
+      "longitude": 33.49984
+    },
+    {
+      "id": 530859,
+      "name": "Malovishersky District",
+      "nativeName": "Malovisherskiy Rayon",
+      "code": "RU-NGR-530859",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-NGR",
+      "latitude": 58.75,
+      "longitude": 32.5
+    },
+    {
+      "id": 529386,
+      "name": "Maryovsky District",
+      "nativeName": "Marëvskiy Rayon",
+      "code": "RU-NGR-529386",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-NGR",
+      "latitude": 57.33333,
+      "longitude": 32.25
+    },
+    {
+      "id": 525024,
+      "name": "Moshenskoy District",
+      "nativeName": "Moshenskoy Rayon",
+      "code": "RU-NGR-525024",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-NGR",
+      "latitude": 58.5,
+      "longitude": 34.75
+    },
+    {
+      "id": 519322,
+      "name": "Novgorodsky District",
+      "nativeName": "Novgorodskiy Rayon",
+      "code": "RU-NGR-519322",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-NGR",
+      "latitude": 58.75,
+      "longitude": 31.25
+    },
+    {
+      "id": 515748,
+      "name": "Okulovsky District",
+      "nativeName": "Okulovskiy Rayon",
+      "code": "RU-NGR-515748",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-NGR",
+      "latitude": 58.46389,
+      "longitude": 33.17655
+    },
+    {
+      "id": 512568,
+      "name": "Parfinsky District",
+      "nativeName": "Parfinskiy Rayon",
+      "code": "RU-NGR-512568",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-NGR",
+      "latitude": 58.01701,
+      "longitude": 31.85269
+    },
+    {
+      "id": 510351,
+      "name": "Pestovsky District",
+      "nativeName": "Pestovskiy Rayon",
+      "code": "RU-NGR-510351",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-NGR",
+      "latitude": 58.66667,
+      "longitude": 35.66667
+    },
+    {
+      "id": 508442,
+      "name": "Poddorsky District",
+      "nativeName": "Poddorskiy Rayon",
+      "code": "RU-NGR-508442",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-NGR",
+      "latitude": 57.41667,
+      "longitude": 31.25
+    },
+    {
+      "id": 494364,
+      "name": "Shimsky District",
+      "nativeName": "Shimskiy Rayon",
+      "code": "RU-NGR-494364",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-NGR",
+      "latitude": 58.31425,
+      "longitude": 30.57156
+    },
+    {
+      "id": 491033,
+      "name": "Soletskiy Rayon",
+      "nativeName": "Soletskiy Rayon",
+      "code": "RU-NGR-491033",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-NGR",
+      "latitude": 58.08333,
+      "longitude": 30.25
+    },
+    {
+      "id": 488681,
+      "name": "Starorussky District",
+      "nativeName": "Starorusskiy Rayon",
+      "code": "RU-NGR-488681",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-NGR",
+      "latitude": 58,
+      "longitude": 31.41667
+    },
+    {
+      "id": 477295,
+      "name": "Valdaysky District",
+      "nativeName": "Valdayskiy Rayon",
+      "code": "RU-NGR-477295",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-NGR",
+      "latitude": 57.92282,
+      "longitude": 33.24795
+    },
+    {
+      "id": 12625488,
+      "name": "Veliky Novgorod",
+      "nativeName": "Veliky Novgorod",
+      "code": "RU-NGR-12625488",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-NGR",
+      "latitude": 58.53735,
+      "longitude": 31.24811
+    },
+    {
+      "id": 472321,
+      "name": "Volotovsky District",
+      "nativeName": "Volotovskiy Rayon",
+      "code": "RU-NGR-472321",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-NGR",
+      "latitude": 57.83333,
+      "longitude": 30.66667
+    }
+  ]
+}

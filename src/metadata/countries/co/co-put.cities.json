@@ -1,0 +1,150 @@
+{
+  "stateId": 3671178,
+  "stateCode": "CO-PUT",
+  "countryCode": "CO",
+  "cities": [
+    {
+      "id": 9609529,
+      "name": "Colón",
+      "nativeName": "Colón",
+      "code": "CO-PUT-9609529",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-PUT",
+      "latitude": 1.23137,
+      "longitude": -76.96534
+    },
+    {
+      "id": 9609530,
+      "name": "Leguízamo",
+      "nativeName": "Leguízamo",
+      "code": "CO-PUT-9609530",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-PUT",
+      "latitude": 0.05683,
+      "longitude": -75.05832
+    },
+    {
+      "id": 3674655,
+      "name": "Mocoa",
+      "nativeName": "Mocoa",
+      "code": "CO-PUT-3674655",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-PUT",
+      "latitude": 1.2124,
+      "longitude": -76.65437
+    },
+    {
+      "id": 9172321,
+      "name": "Orito",
+      "nativeName": "Orito",
+      "code": "CO-PUT-9172321",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-PUT",
+      "latitude": 0.66822,
+      "longitude": -76.93474
+    },
+    {
+      "id": 9172318,
+      "name": "Puerto Asís",
+      "nativeName": "Puerto Asís",
+      "code": "CO-PUT-9172318",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-PUT",
+      "latitude": 0.46155,
+      "longitude": -76.34227
+    },
+    {
+      "id": 9172316,
+      "name": "Puerto Caicedo",
+      "nativeName": "Puerto Caicedo",
+      "code": "CO-PUT-9172316",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-PUT",
+      "latitude": 0.67635,
+      "longitude": -76.41348
+    },
+    {
+      "id": 6791991,
+      "name": "Puerto Guzmán",
+      "nativeName": "Puerto Guzmán",
+      "code": "CO-PUT-6791991",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-PUT",
+      "latitude": 0.73047,
+      "longitude": -75.90611
+    },
+    {
+      "id": 9172255,
+      "name": "San Francisco",
+      "nativeName": "San Francisco",
+      "code": "CO-PUT-9172255",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-PUT",
+      "latitude": 1.11155,
+      "longitude": -76.83987
+    },
+    {
+      "id": 9179558,
+      "name": "San Miguel",
+      "nativeName": "San Miguel",
+      "code": "CO-PUT-9179558",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-PUT",
+      "latitude": 0.343,
+      "longitude": -76.91
+    },
+    {
+      "id": 9172313,
+      "name": "Santiago",
+      "nativeName": "Santiago",
+      "code": "CO-PUT-9172313",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-PUT",
+      "latitude": 1.05363,
+      "longitude": -77.03893
+    },
+    {
+      "id": 9172310,
+      "name": "Sibundoy",
+      "nativeName": "Sibundoy",
+      "code": "CO-PUT-9172310",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-PUT",
+      "latitude": 1.22956,
+      "longitude": -76.90236
+    },
+    {
+      "id": 9172308,
+      "name": "Valle del Guamuez",
+      "nativeName": "Valle del Guamuez",
+      "code": "CO-PUT-9172308",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-PUT",
+      "latitude": 0.3558,
+      "longitude": -76.86734
+    },
+    {
+      "id": 9172306,
+      "name": "Villagarzón",
+      "nativeName": "Villagarzón",
+      "code": "CO-PUT-9172306",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-PUT",
+      "latitude": 0.89663,
+      "longitude": -76.72794
+    }
+  ]
+}

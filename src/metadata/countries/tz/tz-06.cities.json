@@ -1,0 +1,29 @@
+{
+  "stateId": 150733,
+  "stateCode": "TZ-06",
+  "countryCode": "TZ",
+  "cities": [
+    {
+      "id": 156512,
+      "name": "Micheweni District",
+      "nativeName": "Micheweni",
+      "code": "TZ-06-156512",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-06",
+      "latitude": -4.97135,
+      "longitude": 39.77614
+    },
+    {
+      "id": 148841,
+      "name": "Wete District",
+      "nativeName": "Wete District",
+      "code": "TZ-06-148841",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-06",
+      "latitude": -5.09125,
+      "longitude": 39.76193
+    }
+  ]
+}

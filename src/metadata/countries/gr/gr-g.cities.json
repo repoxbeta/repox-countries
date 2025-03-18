@@ -1,0 +1,40 @@
+{
+  "stateId": 6697810,
+  "stateCode": "GR-G",
+  "countryCode": "GR",
+  "cities": [
+    {
+      "id": 265491,
+      "name": "Achaea",
+      "nativeName": "Nomós Achaḯas",
+      "code": "GR-G-265491",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-G",
+      "latitude": 38,
+      "longitude": 22
+    },
+    {
+      "id": 265508,
+      "name": "Aitoloakarnania",
+      "nativeName": "Nomós Aitolías kai Akarnanías",
+      "code": "GR-G-265508",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-G",
+      "latitude": 38.5,
+      "longitude": 21.5
+    },
+    {
+      "id": 261797,
+      "name": "Ilia Prefecture",
+      "nativeName": "Nomós Ileías",
+      "code": "GR-G-261797",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-G",
+      "latitude": 37.75,
+      "longitude": 21.58333
+    }
+  ]
+}

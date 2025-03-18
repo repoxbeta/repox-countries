@@ -1,0 +1,51 @@
+{
+  "stateId": 3496772,
+  "stateCode": "DO-14",
+  "countryCode": "DO",
+  "cities": [
+    {
+      "id": 3510875,
+      "name": "Cabrera",
+      "nativeName": "Cabrera",
+      "code": "DO-14-3510875",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-14",
+      "latitude": 19.58333,
+      "longitude": -69.96667
+    },
+    {
+      "id": 3507629,
+      "name": "El Factor",
+      "nativeName": "El Factor",
+      "code": "DO-14-3507629",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-14",
+      "latitude": 19.28333,
+      "longitude": -69.91667
+    },
+    {
+      "id": 3496022,
+      "name": "Nagua",
+      "nativeName": "Nagua",
+      "code": "DO-14-3496022",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-14",
+      "latitude": 19.36667,
+      "longitude": -70
+    },
+    {
+      "id": 3493745,
+      "name": "Río San Juan",
+      "nativeName": "Río San Juan",
+      "code": "DO-14-3493745",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-14",
+      "latitude": 19.55022,
+      "longitude": -70.07703
+    }
+  ]
+}

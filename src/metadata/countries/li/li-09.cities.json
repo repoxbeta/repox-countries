@@ -1,0 +1,51 @@
+{
+  "stateId": 3042036,
+  "stateCode": "LI-09",
+  "countryCode": "LI",
+  "cities": [
+    {
+      "id": 3042035,
+      "name": "Triesen",
+      "nativeName": "Triesen",
+      "code": "LI-09-3042035",
+      "countryId": 3042058,
+      "countryCode": "LI",
+      "stateCode": "LI-09",
+      "latitude": 47.10752,
+      "longitude": 9.52815
+    },
+    {
+      "id": 10354590,
+      "name": "Neugrütt",
+      "nativeName": "Neugrütt",
+      "code": "LI-09-10354590",
+      "countryId": 3042058,
+      "countryCode": "LI",
+      "stateCode": "LI-09",
+      "latitude": 47.08782,
+      "longitude": 9.52337
+    },
+    {
+      "id": 10354583,
+      "name": "Welda Bongert",
+      "nativeName": "Welda Bongert",
+      "code": "LI-09-10354583",
+      "countryId": 3042058,
+      "countryCode": "LI",
+      "stateCode": "LI-09",
+      "latitude": 47.08632,
+      "longitude": 9.52791
+    },
+    {
+      "id": 10353911,
+      "name": "Valüna",
+      "nativeName": "Valüna",
+      "code": "LI-09-10353911",
+      "countryId": 3042058,
+      "countryCode": "LI",
+      "stateCode": "LI-09",
+      "latitude": 47.08488,
+      "longitude": 9.58809
+    }
+  ]
+}

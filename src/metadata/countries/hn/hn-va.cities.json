@@ -1,0 +1,106 @@
+{
+  "stateId": 3600456,
+  "stateCode": "HN-VA",
+  "countryCode": "HN",
+  "cities": [
+    {
+      "id": 3615252,
+      "name": "Alianza",
+      "nativeName": "Alianza",
+      "code": "HN-VA-3615252",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-VA",
+      "latitude": 13.44815,
+      "longitude": -87.68643
+    },
+    {
+      "id": 3615214,
+      "name": "Amapala",
+      "nativeName": "Amapala",
+      "code": "HN-VA-3615214",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-VA",
+      "latitude": 13.32513,
+      "longitude": -87.61863
+    },
+    {
+      "id": 3615116,
+      "name": "Aramecina",
+      "nativeName": "Aramecina",
+      "code": "HN-VA-3615116",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-VA",
+      "latitude": 13.73604,
+      "longitude": -87.69302
+    },
+    {
+      "id": 3614096,
+      "name": "Caridad",
+      "nativeName": "Caridad",
+      "code": "HN-VA-3614096",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-VA",
+      "latitude": 13.81562,
+      "longitude": -87.68121
+    },
+    {
+      "id": 3609609,
+      "name": "Goascorán",
+      "nativeName": "Goascorán",
+      "code": "HN-VA-3609609",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-VA",
+      "latitude": 13.59,
+      "longitude": -87.7
+    },
+    {
+      "id": 3607295,
+      "name": "Langue",
+      "nativeName": "Langue",
+      "code": "HN-VA-3607295",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-VA",
+      "latitude": 13.6603,
+      "longitude": -87.63274
+    },
+    {
+      "id": 3604523,
+      "name": "Nacaome",
+      "nativeName": "Nacaome",
+      "code": "HN-VA-3604523",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-VA",
+      "latitude": 13.52209,
+      "longitude": -87.52477
+    },
+    {
+      "id": 3602285,
+      "name": "San Francisco de Coray",
+      "nativeName": "San Francisco de Coray",
+      "code": "HN-VA-3602285",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-VA",
+      "latitude": 13.6612,
+      "longitude": -87.54807
+    },
+    {
+      "id": 3601978,
+      "name": "San Lorenzo",
+      "nativeName": "San Lorenzo",
+      "code": "HN-VA-3601978",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-VA",
+      "latitude": 13.45149,
+      "longitude": -87.40743
+    }
+  ]
+}

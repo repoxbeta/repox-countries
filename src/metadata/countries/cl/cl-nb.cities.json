@@ -1,0 +1,40 @@
+{
+  "stateId": 11979367,
+  "stateCode": "CL-NB",
+  "countryCode": "CL",
+  "cities": [
+    {
+      "id": 11979370,
+      "name": "Diguillín",
+      "nativeName": "Provincia de Diguillín",
+      "code": "CL-NB-11979370",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-NB",
+      "latitude": -36.72204,
+      "longitude": -72.29608
+    },
+    {
+      "id": 11979369,
+      "name": "Itata",
+      "nativeName": "Provincia de Itata",
+      "code": "CL-NB-11979369",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-NB",
+      "latitude": -36.33139,
+      "longitude": -72.50207
+    },
+    {
+      "id": 11979368,
+      "name": "Punilla",
+      "nativeName": "Provincia de Punilla",
+      "code": "CL-NB-11979368",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-NB",
+      "latitude": -36.44636,
+      "longitude": -71.90057
+    }
+  ]
+}

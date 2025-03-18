@@ -1,0 +1,106 @@
+{
+  "stateId": 3177401,
+  "stateCode": "IT-45",
+  "countryCode": "IT",
+  "cities": [
+    {
+      "id": 3181927,
+      "name": "Bologna",
+      "nativeName": "Bologna",
+      "code": "IT-45-3181927",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-45",
+      "latitude": 44.46667,
+      "longitude": 11.43333
+    },
+    {
+      "id": 3177088,
+      "name": "Province of Ferrara",
+      "nativeName": "Provincia di Ferrara",
+      "code": "IT-45-3177088",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-45",
+      "latitude": 44.8,
+      "longitude": 11.83333
+    },
+    {
+      "id": 3176745,
+      "name": "Province of Forlì-Cesena",
+      "nativeName": "Provincia di Forlì-Cesena",
+      "code": "IT-45-3176745",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-45",
+      "latitude": 44.08333,
+      "longitude": 12.03333
+    },
+    {
+      "id": 3173330,
+      "name": "Province of Modena",
+      "nativeName": "Provincia di Modena",
+      "code": "IT-45-3173330",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-45",
+      "latitude": 44.5,
+      "longitude": 10.9
+    },
+    {
+      "id": 3171456,
+      "name": "Province of Parma",
+      "nativeName": "Provincia di Parma",
+      "code": "IT-45-3171456",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-45",
+      "latitude": 44.7,
+      "longitude": 10.08333
+    },
+    {
+      "id": 3171057,
+      "name": "Province of Piacenza",
+      "nativeName": "Provincia di Piacenza",
+      "code": "IT-45-3171057",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-45",
+      "latitude": 44.88333,
+      "longitude": 9.58333
+    },
+    {
+      "id": 3169560,
+      "name": "Province of Ravenna",
+      "nativeName": "Provincia di Ravenna",
+      "code": "IT-45-3169560",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-45",
+      "latitude": 44.41667,
+      "longitude": 11.98333
+    },
+    {
+      "id": 3169524,
+      "name": "Province of Reggio Emilia",
+      "nativeName": "Provincia di Reggio Emilia",
+      "code": "IT-45-3169524",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-45",
+      "latitude": 44.61667,
+      "longitude": 10.61667
+    },
+    {
+      "id": 6457404,
+      "name": "Province of Rimini",
+      "nativeName": "Provincia di Rimini",
+      "code": "IT-45-6457404",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-45",
+      "latitude": 44.02405,
+      "longitude": 12.51858
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "stateId": 4563169,
+  "stateCode": "PR-029",
+  "countryCode": "PR",
+  "cities": [
+    {
+      "id": 7268326,
+      "name": "Canóvanas Barrio",
+      "nativeName": "Canóvanas Barrio",
+      "code": "PR-029-7268326",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-029",
+      "latitude": 18.36048,
+      "longitude": -65.9067
+    },
+    {
+      "id": 7268328,
+      "name": "Canóvanas Barrio-Pueblo",
+      "nativeName": "Canóvanas Barrio-Pueblo",
+      "code": "PR-029-7268328",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-029",
+      "latitude": 18.37934,
+      "longitude": -65.9021
+    },
+    {
+      "id": 7268128,
+      "name": "Cubuy Barrio",
+      "nativeName": "Cubuy Barrio",
+      "code": "PR-029-7268128",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-029",
+      "latitude": 18.27498,
+      "longitude": -65.86048
+    },
+    {
+      "id": 7268462,
+      "name": "Hato Puerco Barrio",
+      "nativeName": "Hato Puerco Barrio",
+      "code": "PR-029-7268462",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-029",
+      "latitude": 18.32272,
+      "longitude": -65.8843
+    },
+    {
+      "id": 7268573,
+      "name": "Lomas Barrio",
+      "nativeName": "Lomas Barrio",
+      "code": "PR-029-7268573",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-029",
+      "latitude": 18.28164,
+      "longitude": -65.8927
+    },
+    {
+      "id": 7269046,
+      "name": "Torrecilla Alta Barrio",
+      "nativeName": "Torrecilla Alta Barrio",
+      "code": "PR-029-7269046",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-029",
+      "latitude": 18.39203,
+      "longitude": -65.91846
+    }
+  ]
+}

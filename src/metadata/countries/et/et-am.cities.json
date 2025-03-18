@@ -1,0 +1,128 @@
+{
+  "stateId": 444180,
+  "stateCode": "ET-AM",
+  "countryCode": "ET",
+  "cities": [
+    {
+      "id": 7670725,
+      "name": "Awi",
+      "nativeName": "Awi",
+      "code": "ET-AM-7670725",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-AM",
+      "latitude": 10.96059,
+      "longitude": 36.69687
+    },
+    {
+      "id": 7670724,
+      "name": "East Gojjam Zone",
+      "nativeName": "East Gojjam Zone",
+      "code": "ET-AM-7670724",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-AM",
+      "latitude": 10.52907,
+      "longitude": 37.85282
+    },
+    {
+      "id": 7670726,
+      "name": "North Gondar Zone",
+      "nativeName": "North Gondar Zone",
+      "code": "ET-AM-7670726",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-AM",
+      "latitude": 12.65807,
+      "longitude": 37.08837
+    },
+    {
+      "id": 8051207,
+      "name": "North Shewa Zone",
+      "nativeName": "North Shewa Zone",
+      "code": "ET-AM-8051207",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-AM",
+      "latitude": 9.769,
+      "longitude": 39.668
+    },
+    {
+      "id": 7869862,
+      "name": "North Wollo Zone",
+      "nativeName": "North Wollo Zone",
+      "code": "ET-AM-7869862",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-AM",
+      "latitude": 11.92,
+      "longitude": 39.1
+    },
+    {
+      "id": 9165721,
+      "name": "Oromia Zone",
+      "nativeName": "Oromia Zone",
+      "code": "ET-AM-9165721",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-AM",
+      "latitude": 10.66667,
+      "longitude": 40
+    },
+    {
+      "id": 11750812,
+      "name": "Oromiya",
+      "nativeName": "Oromiya",
+      "code": "ET-AM-11750812",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-AM",
+      "latitude": 10.70057,
+      "longitude": 40.02405
+    },
+    {
+      "id": 7869861,
+      "name": "South Gondar Zone",
+      "nativeName": "South Gondar Zone",
+      "code": "ET-AM-7869861",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-AM",
+      "latitude": 11.8385,
+      "longitude": 38.09954
+    },
+    {
+      "id": 7732961,
+      "name": "South Wollo Zone",
+      "nativeName": "South Wollo Zone",
+      "code": "ET-AM-7732961",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-AM",
+      "latitude": 11,
+      "longitude": 39.25
+    },
+    {
+      "id": 8051209,
+      "name": "Wag Hemra Zone",
+      "nativeName": "Wag Hemra Zone",
+      "code": "ET-AM-8051209",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-AM",
+      "latitude": 12.765,
+      "longitude": 38.843
+    },
+    {
+      "id": 7670722,
+      "name": "West Gojjam Zone",
+      "nativeName": "West Gojjam Zone",
+      "code": "ET-AM-7670722",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-AM",
+      "latitude": 11.12001,
+      "longitude": 37.17504
+    }
+  ]
+}

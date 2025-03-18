@@ -1,0 +1,73 @@
+{
+  "stateId": 3344939,
+  "stateCode": "SI-158",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3199765,
+      "name": "Grad",
+      "nativeName": "Grad",
+      "code": "SI-158-3199765",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-158",
+      "latitude": 46.8,
+      "longitude": 16.1
+    },
+    {
+      "id": 3201766,
+      "name": "Dolnji Slaveči",
+      "nativeName": "Dolnji Slaveči",
+      "code": "SI-158-3201766",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-158",
+      "latitude": 46.78333,
+      "longitude": 16.06667
+    },
+    {
+      "id": 3197523,
+      "name": "Kovačevci",
+      "nativeName": "Kovačevci",
+      "code": "SI-158-3197523",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-158",
+      "latitude": 46.79667,
+      "longitude": 16.12389
+    },
+    {
+      "id": 8989481,
+      "name": "Kruplivnik",
+      "nativeName": "Kruplivnik",
+      "code": "SI-158-8989481",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-158",
+      "latitude": 46.77375,
+      "longitude": 16.08574
+    },
+    {
+      "id": 3194803,
+      "name": "Motovilci",
+      "nativeName": "Motovilci",
+      "code": "SI-158-3194803",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-158",
+      "latitude": 46.77639,
+      "longitude": 16.06639
+    },
+    {
+      "id": 3192071,
+      "name": "Radovci",
+      "nativeName": "Radovci",
+      "code": "SI-158-3192071",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-158",
+      "latitude": 46.78361,
+      "longitude": 16.09778
+    }
+  ]
+}

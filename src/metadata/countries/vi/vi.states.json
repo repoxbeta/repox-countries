@@ -1,0 +1,39 @@
+{
+  "countryId": 4796775,
+  "countryCode": "VI",
+  "states": [
+    {
+      "id": 7267902,
+      "name": "Saint Croix Island",
+      "nativeName": "Saint Croix Island",
+      "code": "VI-C",
+      "internalCode": "C",
+      "countryId": 4796775,
+      "countryCode": "VI",
+      "latitude": 17.73563,
+      "longitude": -64.74795
+    },
+    {
+      "id": 7267903,
+      "name": "Saint John Island",
+      "nativeName": "Saint John Island",
+      "code": "VI-J",
+      "internalCode": "J",
+      "countryId": 4796775,
+      "countryCode": "VI",
+      "latitude": 18.32758,
+      "longitude": -64.73771
+    },
+    {
+      "id": 7267904,
+      "name": "Saint Thomas Island",
+      "nativeName": "Saint Thomas Island",
+      "code": "VI-T",
+      "internalCode": "T",
+      "countryId": 4796775,
+      "countryCode": "VI",
+      "latitude": 18.34537,
+      "longitude": -64.92755
+    }
+  ]
+}

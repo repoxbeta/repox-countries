@@ -1,0 +1,62 @@
+{
+  "stateId": 1085596,
+  "stateCode": "ZA-NC",
+  "countryCode": "ZA",
+  "cities": [
+    {
+      "id": 8347385,
+      "name": "Frances Baard District Municipality",
+      "nativeName": "Frances Baard District Municipality",
+      "code": "ZA-NC-8347385",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "stateCode": "ZA-NC",
+      "latitude": -28.30003,
+      "longitude": 24.38188
+    },
+    {
+      "id": 8347379,
+      "name": "John Taolo Gaetsewe District Municipality",
+      "nativeName": "John Taolo Gaetsewe District Municipality",
+      "code": "ZA-NC-8347379",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "stateCode": "ZA-NC",
+      "latitude": -27.04549,
+      "longitude": 23.04706
+    },
+    {
+      "id": 8347382,
+      "name": "Namakwa District Municipality",
+      "nativeName": "Namakwa District Municipality",
+      "code": "ZA-NC-8347382",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "stateCode": "ZA-NC",
+      "latitude": -30.53561,
+      "longitude": 19.42892
+    },
+    {
+      "id": 8347383,
+      "name": "Pixley ka Seme District Municipality",
+      "nativeName": "Pixley ka Seme District Municipality",
+      "code": "ZA-NC-8347383",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "stateCode": "ZA-NC",
+      "latitude": -30.2892,
+      "longitude": 23.25818
+    },
+    {
+      "id": 8347384,
+      "name": "Siyanda District Municipality",
+      "nativeName": "Siyanda District Municipality",
+      "code": "ZA-NC-8347384",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "stateCode": "ZA-NC",
+      "latitude": -28.00013,
+      "longitude": 21.18459
+    }
+  ]
+}

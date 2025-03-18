@@ -1,0 +1,73 @@
+{
+  "stateId": 3655635,
+  "stateCode": "EC-I",
+  "countryCode": "EC",
+  "cities": [
+    {
+      "id": 3660592,
+      "name": "Cantón Antonio Ante",
+      "nativeName": "Cantón Antonio Ante",
+      "code": "EC-I-3660592",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-I",
+      "latitude": 0.33989,
+      "longitude": -78.20515
+    },
+    {
+      "id": 3658780,
+      "name": "Cotacachi",
+      "nativeName": "Cotacachi",
+      "code": "EC-I-3658780",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-I",
+      "latitude": 0.35886,
+      "longitude": -78.57759
+    },
+    {
+      "id": 3655672,
+      "name": "Ibarra",
+      "nativeName": "Ibarra",
+      "code": "EC-I-3655672",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-I",
+      "latitude": 0.38173,
+      "longitude": -78.06743
+    },
+    {
+      "id": 3653692,
+      "name": "Otavalo",
+      "nativeName": "Otavalo",
+      "code": "EC-I-3653692",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-I",
+      "latitude": 0.21268,
+      "longitude": -78.27048
+    },
+    {
+      "id": 3653145,
+      "name": "Pimampiro",
+      "nativeName": "Pimampiro",
+      "code": "EC-I-3653145",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-I",
+      "latitude": 0.29535,
+      "longitude": -77.93409
+    },
+    {
+      "id": 9165820,
+      "name": "San Miguel de Urcuqui Canton",
+      "nativeName": "San Miguel de Urcuqui Canton",
+      "code": "EC-I-9165820",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-I",
+      "latitude": 0.4203,
+      "longitude": -78.1972
+    }
+  ]
+}

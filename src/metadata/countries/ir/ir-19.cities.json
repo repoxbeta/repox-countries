@@ -1,0 +1,95 @@
+{
+  "stateId": 111452,
+  "stateCode": "IR-19",
+  "countryCode": "IR",
+  "cities": [
+    {
+      "id": 449562,
+      "name": "Abhar",
+      "nativeName": "Abhar",
+      "code": "IR-19-449562",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-19",
+      "latitude": 36.3,
+      "longitude": 49.05
+    },
+    {
+      "id": 449565,
+      "name": "Khorramdarreh",
+      "nativeName": "Khorramdarreh",
+      "code": "IR-19-449565",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-19",
+      "latitude": 36.23333,
+      "longitude": 49.2
+    },
+    {
+      "id": 449564,
+      "name": "Shahrestān-e Khodābandeh",
+      "nativeName": "Shahrestān-e Khodābandeh",
+      "code": "IR-19-449564",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-19",
+      "latitude": 36,
+      "longitude": 48.5
+    },
+    {
+      "id": 449568,
+      "name": "Shahrestān-e Māhneshān",
+      "nativeName": "Shahrestān-e Māhneshān",
+      "code": "IR-19-449568",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-19",
+      "latitude": 36.64285,
+      "longitude": 47.58775
+    },
+    {
+      "id": 66310,
+      "name": "Shahrestān-e Zanjān",
+      "nativeName": "Shahrestān-e Zanjān",
+      "code": "IR-19-66310",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-19",
+      "latitude": 36.58333,
+      "longitude": 48.25
+    },
+    {
+      "id": 449563,
+      "name": "Shahrestān-e Ījrūd",
+      "nativeName": "Shahrestān-e Ījrūd",
+      "code": "IR-19-449563",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-19",
+      "latitude": 36.31119,
+      "longitude": 48.2035
+    },
+    {
+      "id": 449567,
+      "name": "Shahrestān-e Ţārom",
+      "nativeName": "Shahrestān-e Ţārom",
+      "code": "IR-19-449567",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-19",
+      "latitude": 36.94333,
+      "longitude": 48.895
+    },
+    {
+      "id": 11963463,
+      "name": "Soltaniyeh County",
+      "nativeName": "Soltaniyeh",
+      "code": "IR-19-11963463",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-19",
+      "latitude": 36.43235,
+      "longitude": 48.79393
+    }
+  ]
+}

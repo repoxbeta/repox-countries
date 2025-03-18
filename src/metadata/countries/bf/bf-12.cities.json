@@ -1,0 +1,51 @@
+{
+  "stateId": 6930713,
+  "stateCode": "BF-12",
+  "countryCode": "BF",
+  "cities": [
+    {
+      "id": 2356982,
+      "name": "Oudalan Province",
+      "nativeName": "Oudalan",
+      "code": "BF-12-2356982",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "stateCode": "BF-12",
+      "latitude": 14.66667,
+      "longitude": -0.33333
+    },
+    {
+      "id": 2355248,
+      "name": "Soum Province",
+      "nativeName": "Province du Soum",
+      "code": "BF-12-2355248",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "stateCode": "BF-12",
+      "latitude": 14.33333,
+      "longitude": -1.25
+    },
+    {
+      "id": 2355737,
+      "name": "Séno Province",
+      "nativeName": "Province du Séno",
+      "code": "BF-12-2355737",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "stateCode": "BF-12",
+      "latitude": 13.964,
+      "longitude": 0.012
+    },
+    {
+      "id": 2597268,
+      "name": "Yagha Province",
+      "nativeName": "Province du Yagha",
+      "code": "BF-12-2597268",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "stateCode": "BF-12",
+      "latitude": 13.41667,
+      "longitude": 0.58333
+    }
+  ]
+}

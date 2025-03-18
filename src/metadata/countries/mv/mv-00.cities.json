@@ -1,0 +1,62 @@
+{
+  "stateId": 10346475,
+  "stateCode": "MV-00",
+  "countryCode": "MV",
+  "cities": [
+    {
+      "id": 1337605,
+      "name": "Mahibadhoo",
+      "nativeName": "Mahibadhoo",
+      "code": "MV-00-1337605",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-00",
+      "latitude": 3.75713,
+      "longitude": 72.96893
+    },
+    {
+      "id": 8629835,
+      "name": "Dhangethi",
+      "nativeName": "Dhangethi",
+      "code": "MV-00-8629835",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-00",
+      "latitude": 3.60765,
+      "longitude": 72.9554
+    },
+    {
+      "id": 11694900,
+      "name": "Maamigili",
+      "nativeName": "Maamigili",
+      "code": "MV-00-11694900",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-00",
+      "latitude": 3.6513,
+      "longitude": 72.81961
+    },
+    {
+      "id": 6692723,
+      "name": "Nalaguraidhu",
+      "nativeName": "Nalaguraidhu",
+      "code": "MV-00-6692723",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-00",
+      "latitude": 3.48412,
+      "longitude": 72.79635
+    },
+    {
+      "id": 6692726,
+      "name": "Vilamendhoo",
+      "nativeName": "Vilamendhoo",
+      "code": "MV-00-6692726",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-00",
+      "latitude": 3.84963,
+      "longitude": 72.95404
+    }
+  ]
+}

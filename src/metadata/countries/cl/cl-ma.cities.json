@@ -1,0 +1,51 @@
+{
+  "stateId": 4036650,
+  "stateCode": "CL-MA",
+  "countryCode": "CL",
+  "cities": [
+    {
+      "id": 4036651,
+      "name": "Provincia Antártica Chilena",
+      "nativeName": "Provincia Antártica Chilena",
+      "code": "CL-MA-4036651",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-MA",
+      "latitude": -55.0225,
+      "longitude": -69.22781
+    },
+    {
+      "id": 3881037,
+      "name": "Provincia de Magallanes",
+      "nativeName": "Provincia de Magallanes",
+      "code": "CL-MA-3881037",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-MA",
+      "latitude": -52.91667,
+      "longitude": -71.08333
+    },
+    {
+      "id": 3869875,
+      "name": "Provincia de Tierra del Fuego",
+      "nativeName": "Provincia de Tierra del Fuego",
+      "code": "CL-MA-3869875",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-MA",
+      "latitude": -53.66083,
+      "longitude": -69.45173
+    },
+    {
+      "id": 3868829,
+      "name": "Provincia de Última Esperanza",
+      "nativeName": "Provincia de Última Esperanza",
+      "code": "CL-MA-3868829",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-MA",
+      "latitude": -50.75,
+      "longitude": -74
+    }
+  ]
+}

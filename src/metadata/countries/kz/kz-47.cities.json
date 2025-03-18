@@ -1,0 +1,84 @@
+{
+  "stateId": 608879,
+  "stateCode": "KZ-47",
+  "countryCode": "KZ",
+  "cities": [
+    {
+      "id": 828324,
+      "name": "Aktau Gorodskaya Administratsiya",
+      "nativeName": "Aktau Gorodskaya Administratsiya",
+      "code": "KZ-47-828324",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-47",
+      "latitude": 43.66667,
+      "longitude": 51.25
+    },
+    {
+      "id": 610297,
+      "name": "Beyneu District",
+      "nativeName": "Beyneuskiy Rayon",
+      "code": "KZ-47-610297",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-47",
+      "latitude": 45.5,
+      "longitude": 54.83333
+    },
+    {
+      "id": 607726,
+      "name": "Karakiya District",
+      "nativeName": "Karakiyanskiy Rayon",
+      "code": "KZ-47-607726",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-47",
+      "latitude": 43,
+      "longitude": 54
+    },
+    {
+      "id": 608878,
+      "name": "Mangystau District",
+      "nativeName": "Mangghystaū Aūdany",
+      "code": "KZ-47-608878",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-47",
+      "latitude": 44.5,
+      "longitude": 53.33333
+    },
+    {
+      "id": 11886715,
+      "name": "Munaily District",
+      "nativeName": "Munaily",
+      "code": "KZ-47-11886715",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-47",
+      "latitude": 43.7,
+      "longitude": 51.325
+    },
+    {
+      "id": 828323,
+      "name": "Tupkaragan District",
+      "nativeName": "Tupkaraganskiy Rayon",
+      "code": "KZ-47-828323",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-47",
+      "latitude": 44.33333,
+      "longitude": 50.75
+    },
+    {
+      "id": 828325,
+      "name": "Zhanaozen Gorodskaya Administratsiya",
+      "nativeName": "Zhanaozen Gorodskaya Administratsiya",
+      "code": "KZ-47-828325",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-47",
+      "latitude": 43.3,
+      "longitude": 52.8
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "stateId": 149876,
+  "stateCode": "TZ-23",
+  "countryCode": "TZ",
+  "cities": [
+    {
+      "id": 9998225,
+      "name": "Ikungi District Council",
+      "nativeName": "Ikungi",
+      "code": "TZ-23-9998225",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-23",
+      "latitude": -5.14251,
+      "longitude": 34.57999
+    },
+    {
+      "id": 159085,
+      "name": "Iramba District Council",
+      "nativeName": "Iramba",
+      "code": "TZ-23-159085",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-23",
+      "latitude": -4.42115,
+      "longitude": 34.30268
+    },
+    {
+      "id": 154836,
+      "name": "Manyoni District",
+      "nativeName": "Manyoni",
+      "code": "TZ-23-154836",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-23",
+      "latitude": -6.31077,
+      "longitude": 34.53677
+    },
+    {
+      "id": 9998226,
+      "name": "Mkalama District Council",
+      "nativeName": "Mkalama",
+      "code": "TZ-23-9998226",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-23",
+      "latitude": -4.21368,
+      "longitude": 34.71672
+    },
+    {
+      "id": 149877,
+      "name": "Singida Rural District",
+      "nativeName": "Singida Rural District",
+      "code": "TZ-23-149877",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-23",
+      "latitude": -4.62844,
+      "longitude": 34.9585
+    },
+    {
+      "id": 7731078,
+      "name": "Singida Urban District",
+      "nativeName": "Singida Urban District",
+      "code": "TZ-23-7731078",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-23",
+      "latitude": -4.84,
+      "longitude": 34.71
+    }
+  ]
+}

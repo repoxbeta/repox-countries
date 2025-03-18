@@ -1,0 +1,84 @@
+{
+  "stateId": 3508718,
+  "stateCode": "DO-06",
+  "countryCode": "DO",
+  "cities": [
+    {
+      "id": 11154541,
+      "name": "Arenoso",
+      "nativeName": "Arenoso",
+      "code": "DO-06-11154541",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-06",
+      "latitude": 19.19101,
+      "longitude": -69.76818
+    },
+    {
+      "id": 3510068,
+      "name": "Castillo",
+      "nativeName": "Castillo",
+      "code": "DO-06-3510068",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-06",
+      "latitude": 19.25,
+      "longitude": -70
+    },
+    {
+      "id": 11154543,
+      "name": "Eugenio María De Hostos",
+      "nativeName": "Eugenio María De Hostos",
+      "code": "DO-06-11154543",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-06",
+      "latitude": 19.14028,
+      "longitude": -70.02199
+    },
+    {
+      "id": 11154542,
+      "name": "Las Guáranas",
+      "nativeName": "Las Guáranas",
+      "code": "DO-06-11154542",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-06",
+      "latitude": 19.20098,
+      "longitude": -70.22393
+    },
+    {
+      "id": 3494769,
+      "name": "Pimentel",
+      "nativeName": "Pimentel",
+      "code": "DO-06-3494769",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-06",
+      "latitude": 19.21667,
+      "longitude": -70.16667
+    },
+    {
+      "id": 3493147,
+      "name": "San Francisco de Macorís",
+      "nativeName": "San Francisco de Macorís",
+      "code": "DO-06-3493147",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-06",
+      "latitude": 19.3,
+      "longitude": -70.2
+    },
+    {
+      "id": 3491917,
+      "name": "Villa Riva",
+      "nativeName": "Villa Riva",
+      "code": "DO-06-3491917",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-06",
+      "latitude": 19.15051,
+      "longitude": -69.8837
+    }
+  ]
+}

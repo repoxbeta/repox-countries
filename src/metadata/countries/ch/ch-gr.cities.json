@@ -1,0 +1,128 @@
+{
+  "stateId": 2660522,
+  "stateCode": "CH-GR",
+  "countryCode": "CH",
+  "cities": [
+    {
+      "id": 11611653,
+      "name": "Albula Region",
+      "nativeName": "Region Albula",
+      "code": "CH-GR-11611653",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-GR",
+      "latitude": 46.60255,
+      "longitude": 9.6515
+    },
+    {
+      "id": 11611656,
+      "name": "Region Bernina",
+      "nativeName": "Region Bernina",
+      "code": "CH-GR-11611656",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-GR",
+      "latitude": 46.33488,
+      "longitude": 10.07349
+    },
+    {
+      "id": 11611650,
+      "name": "Region Engiadina Bassa / Val Müstair",
+      "nativeName": "Region Engiadina Bassa / Val Müstair",
+      "code": "CH-GR-11611650",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-GR",
+      "latitude": 46.75212,
+      "longitude": 10.26032
+    },
+    {
+      "id": 11611652,
+      "name": "Region Imboden",
+      "nativeName": "Region Imboden",
+      "code": "CH-GR-11611652",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-GR",
+      "latitude": 46.84876,
+      "longitude": 9.36225
+    },
+    {
+      "id": 11611655,
+      "name": "Region Landquart",
+      "nativeName": "Region Landquart",
+      "code": "CH-GR-11611655",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-GR",
+      "latitude": 46.96403,
+      "longitude": 9.56365
+    },
+    {
+      "id": 11611658,
+      "name": "Region Maloja",
+      "nativeName": "Region Maloja",
+      "code": "CH-GR-11611658",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-GR",
+      "latitude": 46.47448,
+      "longitude": 9.83138
+    },
+    {
+      "id": 11611657,
+      "name": "Region Moesa",
+      "nativeName": "Region Moesa",
+      "code": "CH-GR-11611657",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-GR",
+      "latitude": 46.352,
+      "longitude": 9.1787
+    },
+    {
+      "id": 11611651,
+      "name": "Region Plessur",
+      "nativeName": "Region Plessur",
+      "code": "CH-GR-11611651",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-GR",
+      "latitude": 46.81819,
+      "longitude": 9.62542
+    },
+    {
+      "id": 11611654,
+      "name": "Region Prättigau / Davos",
+      "nativeName": "Region Prättigau / Davos",
+      "code": "CH-GR-11611654",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-GR",
+      "latitude": 46.86727,
+      "longitude": 9.82014
+    },
+    {
+      "id": 11611648,
+      "name": "Region Surselva",
+      "nativeName": "Region Surselva",
+      "code": "CH-GR-11611648",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-GR",
+      "latitude": 46.69564,
+      "longitude": 9.04834
+    },
+    {
+      "id": 11611649,
+      "name": "Region Viamala",
+      "nativeName": "Region Viamala",
+      "code": "CH-GR-11611649",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-GR",
+      "latitude": 46.58762,
+      "longitude": 9.40035
+    }
+  ]
+}

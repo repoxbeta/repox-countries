@@ -1,0 +1,84 @@
+{
+  "stateId": 2379025,
+  "stateCode": "MR-01",
+  "countryCode": "MR",
+  "cities": [
+    {
+      "id": 9212623,
+      "name": "Amourj",
+      "nativeName": "Amourj",
+      "code": "MR-01-9212623",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-01",
+      "latitude": 15.7639,
+      "longitude": -7.00961
+    },
+    {
+      "id": 9222754,
+      "name": "Bassikounou",
+      "nativeName": "Bassiknou",
+      "code": "MR-01-9222754",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-01",
+      "latitude": 15.85,
+      "longitude": -5.93583
+    },
+    {
+      "id": 11996537,
+      "name": "D'har",
+      "nativeName": "D'har",
+      "code": "MR-01-11996537",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-01",
+      "latitude": 17.6529,
+      "longitude": -6.1587
+    },
+    {
+      "id": 9226996,
+      "name": "Djigueni",
+      "nativeName": "Djigueni",
+      "code": "MR-01-9226996",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-01",
+      "latitude": 15.75489,
+      "longitude": -8.66544
+    },
+    {
+      "id": 9212608,
+      "name": "Nema",
+      "nativeName": "Nema",
+      "code": "MR-01-9212608",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-01",
+      "latitude": 16.43284,
+      "longitude": -7.3026
+    },
+    {
+      "id": 9212655,
+      "name": "Oualata",
+      "nativeName": "Oualata",
+      "code": "MR-01-9212655",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-01",
+      "latitude": 17.44628,
+      "longitude": -7.01165
+    },
+    {
+      "id": 9212609,
+      "name": "Timbedra",
+      "nativeName": "Timbedra",
+      "code": "MR-01-9212609",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-01",
+      "latitude": 16.10191,
+      "longitude": -8.18235
+    }
+  ]
+}

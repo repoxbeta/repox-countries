@@ -1,0 +1,73 @@
+{
+  "stateId": 423327,
+  "stateCode": "BI-BR",
+  "countryCode": "BI",
+  "cities": [
+    {
+      "id": 9171804,
+      "name": "Bururi",
+      "nativeName": "Bururi",
+      "code": "BI-BR-9171804",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-BR",
+      "latitude": -3.96327,
+      "longitude": 29.67386
+    },
+    {
+      "id": 9157454,
+      "name": "Commune of Matana",
+      "nativeName": "Commune of Matana",
+      "code": "BI-BR-9157454",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-BR",
+      "latitude": -3.74306,
+      "longitude": 29.67056
+    },
+    {
+      "id": 7670605,
+      "name": "Mugamba",
+      "nativeName": "Mugamba",
+      "code": "BI-BR-7670605",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-BR",
+      "latitude": -3.67227,
+      "longitude": 29.58494
+    },
+    {
+      "id": 9171840,
+      "name": "Rutovu",
+      "nativeName": "Rutovu",
+      "code": "BI-BR-9171840",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-BR",
+      "latitude": -3.87817,
+      "longitude": 29.83199
+    },
+    {
+      "id": 9171812,
+      "name": "Songa",
+      "nativeName": "Songa",
+      "code": "BI-BR-9171812",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-BR",
+      "latitude": -3.85336,
+      "longitude": 29.66759
+    },
+    {
+      "id": 9171811,
+      "name": "Vyanda",
+      "nativeName": "Vyanda",
+      "code": "BI-BR-9171811",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-BR",
+      "latitude": -4.06981,
+      "longitude": 29.59638
+    }
+  ]
+}

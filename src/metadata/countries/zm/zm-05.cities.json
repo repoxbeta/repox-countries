@@ -1,0 +1,106 @@
+{
+  "stateId": 900601,
+  "stateCode": "ZM-05",
+  "countryCode": "ZM",
+  "cities": [
+    {
+      "id": 10800890,
+      "name": "Chilubi",
+      "nativeName": "Chilubi",
+      "code": "ZM-05-10800890",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-05",
+      "latitude": -11.03808,
+      "longitude": 30.26299
+    },
+    {
+      "id": 176756,
+      "name": "Kaputa District",
+      "nativeName": "Kaputa District",
+      "code": "ZM-05-176756",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-05",
+      "latitude": -8.7505,
+      "longitude": 29.43523
+    },
+    {
+      "id": 912763,
+      "name": "Kasama District",
+      "nativeName": "Kasama District",
+      "code": "ZM-05-912763",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-05",
+      "latitude": -10.35783,
+      "longitude": 30.98983
+    },
+    {
+      "id": 908911,
+      "name": "Luwingu District",
+      "nativeName": "Luwingu District",
+      "code": "ZM-05-908911",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-05",
+      "latitude": -10.48829,
+      "longitude": 29.9182
+    },
+    {
+      "id": 176143,
+      "name": "Mbala District",
+      "nativeName": "Mbala District",
+      "code": "ZM-05-176143",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-05",
+      "latitude": -9.195,
+      "longitude": 31.622
+    },
+    {
+      "id": 175966,
+      "name": "Mporokoso District",
+      "nativeName": "Mporokoso District",
+      "code": "ZM-05-175966",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-05",
+      "latitude": -9.6869,
+      "longitude": 30.19776
+    },
+    {
+      "id": 8260556,
+      "name": "Mpulungu District",
+      "nativeName": "Mpulungu District",
+      "code": "ZM-05-8260556",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-05",
+      "latitude": -8.982,
+      "longitude": 30.794
+    },
+    {
+      "id": 8260557,
+      "name": "Mungwi District",
+      "nativeName": "Mungwi District",
+      "code": "ZM-05-8260557",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-05",
+      "latitude": -9.93,
+      "longitude": 31.735
+    },
+    {
+      "id": 10815866,
+      "name": "Nsama District",
+      "nativeName": "Nsama District",
+      "code": "ZM-05-10815866",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-05",
+      "latitude": -8.75612,
+      "longitude": 29.97167
+    }
+  ]
+}

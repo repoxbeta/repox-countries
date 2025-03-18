@@ -1,0 +1,128 @@
+{
+  "stateId": 1282101,
+  "stateCode": "MV-05",
+  "countryCode": "MV",
+  "cities": [
+    {
+      "id": 7874641,
+      "name": "Fonadhoo",
+      "nativeName": "Fonadhoo",
+      "code": "MV-05-7874641",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-05",
+      "latitude": 1.83243,
+      "longitude": 73.50257
+    },
+    {
+      "id": 7874673,
+      "name": "Dhanbidhoo",
+      "nativeName": "Dhanbidhoo",
+      "code": "MV-05-7874673",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-05",
+      "latitude": 2.09586,
+      "longitude": 73.54609
+    },
+    {
+      "id": 7874642,
+      "name": "Gaadhoo",
+      "nativeName": "Gaadhoo",
+      "code": "MV-05-7874642",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-05",
+      "latitude": 1.81879,
+      "longitude": 73.44965
+    },
+    {
+      "id": 7648558,
+      "name": "Gan",
+      "nativeName": "Gan",
+      "code": "MV-05-7648558",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-05",
+      "latitude": 1.92322,
+      "longitude": 73.54468
+    },
+    {
+      "id": 1337615,
+      "name": "Hithadhoo",
+      "nativeName": "Hithadhoo",
+      "code": "MV-05-1337615",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-05",
+      "latitude": 1.79666,
+      "longitude": 73.38824
+    },
+    {
+      "id": 7874672,
+      "name": "Isdhoo",
+      "nativeName": "Isdhoo",
+      "code": "MV-05-7874672",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-05",
+      "latitude": 2.11422,
+      "longitude": 73.56136
+    },
+    {
+      "id": 7874640,
+      "name": "Kalhaidhoo",
+      "nativeName": "Kalhaidhoo",
+      "code": "MV-05-7874640",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-05",
+      "latitude": 1.98731,
+      "longitude": 73.53694
+    },
+    {
+      "id": 7874647,
+      "name": "Kunahandhoo",
+      "nativeName": "Kunahandhoo",
+      "code": "MV-05-7874647",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-05",
+      "latitude": 1.78276,
+      "longitude": 73.36739
+    },
+    {
+      "id": 7874643,
+      "name": "Maamendhoo",
+      "nativeName": "Maamendhoo",
+      "code": "MV-05-7874643",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-05",
+      "latitude": 1.81682,
+      "longitude": 73.38919
+    },
+    {
+      "id": 7874669,
+      "name": "Maavah",
+      "nativeName": "Maavah",
+      "code": "MV-05-7874669",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-05",
+      "latitude": 1.8854,
+      "longitude": 73.24396
+    },
+    {
+      "id": 7874674,
+      "name": "Mundoo",
+      "nativeName": "Mundoo",
+      "code": "MV-05-7874674",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-05",
+      "latitude": 2.0142,
+      "longitude": 73.53441
+    }
+  ]
+}

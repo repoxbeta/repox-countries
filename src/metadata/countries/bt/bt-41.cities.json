@@ -1,0 +1,51 @@
+{
+  "stateId": 1337292,
+  "stateCode": "BT-41",
+  "countryCode": "BT",
+  "cities": [
+    {
+      "id": 7647125,
+      "name": "Lumang",
+      "nativeName": "Lumang",
+      "code": "BT-41-7647125",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-41",
+      "latitude": 27.12827,
+      "longitude": 91.53658
+    },
+    {
+      "id": 7647111,
+      "name": "Radi",
+      "nativeName": "Radi",
+      "code": "BT-41-7647111",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-41",
+      "latitude": 27.34642,
+      "longitude": 91.70927
+    },
+    {
+      "id": 1252424,
+      "name": "Tashigang",
+      "nativeName": "Tashigang",
+      "code": "BT-41-1252424",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-41",
+      "latitude": 27.16667,
+      "longitude": 91.75
+    },
+    {
+      "id": 7647130,
+      "name": "Thrimshing",
+      "nativeName": "Thrimshing",
+      "code": "BT-41-7647130",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-41",
+      "latitude": 27.09496,
+      "longitude": 91.59825
+    }
+  ]
+}

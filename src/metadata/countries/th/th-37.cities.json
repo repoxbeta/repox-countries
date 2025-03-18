@@ -1,0 +1,84 @@
+{
+  "stateId": 1906689,
+  "stateCode": "TH-37",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 1611260,
+      "name": "Chanuman",
+      "nativeName": "Amphoe Chanuman",
+      "code": "TH-37-1611260",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-37",
+      "latitude": 16.12553,
+      "longitude": 104.92279
+    },
+    {
+      "id": 7510834,
+      "name": "Hua Taphan",
+      "nativeName": "Amphoe Hua Taphan",
+      "code": "TH-37-7510834",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-37",
+      "latitude": 15.67594,
+      "longitude": 104.52702
+    },
+    {
+      "id": 7510856,
+      "name": "Lue Amnat",
+      "nativeName": "Amphoe Lue Amnat",
+      "code": "TH-37-7510856",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-37",
+      "latitude": 15.70781,
+      "longitude": 104.71118
+    },
+    {
+      "id": 1621059,
+      "name": "Mueang Amnat Charoen",
+      "nativeName": "Amphoe Mueang Amnat Charoen",
+      "code": "TH-37-1621059",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-37",
+      "latitude": 15.87864,
+      "longitude": 104.64284
+    },
+    {
+      "id": 7510854,
+      "name": "Pathum Ratchawongsa",
+      "nativeName": "Amphoe Pathum Ratchawongsa",
+      "code": "TH-37-7510854",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-37",
+      "latitude": 15.89542,
+      "longitude": 104.89611
+    },
+    {
+      "id": 1607839,
+      "name": "Phana",
+      "nativeName": "Amphoe Phana",
+      "code": "TH-37-1607839",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-37",
+      "latitude": 15.66895,
+      "longitude": 104.85675
+    },
+    {
+      "id": 7510857,
+      "name": "Senangkhanikhom",
+      "nativeName": "Amphoe Senangkhanikhom",
+      "code": "TH-37-7510857",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-37",
+      "latitude": 16.0513,
+      "longitude": 104.68441
+    }
+  ]
+}

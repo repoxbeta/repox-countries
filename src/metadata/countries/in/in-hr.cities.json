@@ -1,0 +1,249 @@
+{
+  "stateId": 1270260,
+  "stateCode": "IN-HR",
+  "countryCode": "IN",
+  "cities": [
+    {
+      "id": 1278861,
+      "name": "Ambala",
+      "nativeName": "Ambāla",
+      "code": "IN-HR-1278861",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-HR",
+      "latitude": 30.32854,
+      "longitude": 76.9422
+    },
+    {
+      "id": 1275900,
+      "name": "Bhiwani",
+      "nativeName": "Bhiwani",
+      "code": "IN-HR-1275900",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-HR",
+      "latitude": 28.75,
+      "longitude": 76.16667
+    },
+    {
+      "id": 11875534,
+      "name": "Charki Dadri",
+      "nativeName": "Charki Dadri",
+      "code": "IN-HR-11875534",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-HR",
+      "latitude": 28.59356,
+      "longitude": 76.26877
+    },
+    {
+      "id": 9148988,
+      "name": "Faridabad",
+      "nativeName": "Faridabad District",
+      "code": "IN-HR-9148988",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-HR",
+      "latitude": 28.46292,
+      "longitude": 77.3716
+    },
+    {
+      "id": 9159091,
+      "name": "Fatehabad",
+      "nativeName": "Fatehabad District",
+      "code": "IN-HR-9159091",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-HR",
+      "latitude": 29.31,
+      "longitude": 75.27
+    },
+    {
+      "id": 1270644,
+      "name": "Gurugram",
+      "nativeName": "Gurugram district",
+      "code": "IN-HR-1270644",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-HR",
+      "latitude": 28.43891,
+      "longitude": 77.00592
+    },
+    {
+      "id": 1270023,
+      "name": "Hissār District",
+      "nativeName": "Hisār",
+      "code": "IN-HR-1270023",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-HR",
+      "latitude": 29.16667,
+      "longitude": 75.75
+    },
+    {
+      "id": 9747981,
+      "name": "Jhajjar",
+      "nativeName": "Jhajjar",
+      "code": "IN-HR-9747981",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-HR",
+      "latitude": 28.60475,
+      "longitude": 76.64941
+    },
+    {
+      "id": 1268908,
+      "name": "Jind",
+      "nativeName": "Jīnd",
+      "code": "IN-HR-1268908",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-HR",
+      "latitude": 29.5,
+      "longitude": 76.25
+    },
+    {
+      "id": 9747983,
+      "name": "Kaithal",
+      "nativeName": "Kaithal",
+      "code": "IN-HR-9747983",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-HR",
+      "latitude": 29.81402,
+      "longitude": 76.41823
+    },
+    {
+      "id": 1267709,
+      "name": "Karnal",
+      "nativeName": "Karnāl",
+      "code": "IN-HR-1267709",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-HR",
+      "latitude": 29.66667,
+      "longitude": 76.83333
+    },
+    {
+      "id": 1265468,
+      "name": "Kurukshetra",
+      "nativeName": "Kurukshetra",
+      "code": "IN-HR-1265468",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-HR",
+      "latitude": 30,
+      "longitude": 76.75
+    },
+    {
+      "id": 1264396,
+      "name": "Mahendragarh",
+      "nativeName": "Mahendragarh",
+      "code": "IN-HR-1264396",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-HR",
+      "latitude": 28.25,
+      "longitude": 76.16667
+    },
+    {
+      "id": 9748016,
+      "name": "Nuh",
+      "nativeName": "Nuh",
+      "code": "IN-HR-9748016",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-HR",
+      "latitude": 27.98166,
+      "longitude": 77.04656
+    },
+    {
+      "id": 9747986,
+      "name": "Palwal District",
+      "nativeName": "Palwal",
+      "code": "IN-HR-9747986",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-HR",
+      "latitude": 28.0475,
+      "longitude": 77.31835
+    },
+    {
+      "id": 8402825,
+      "name": "Panchkula",
+      "nativeName": "Panchkula",
+      "code": "IN-HR-8402825",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-HR",
+      "latitude": 30.72883,
+      "longitude": 76.94716
+    },
+    {
+      "id": 9747999,
+      "name": "Panipat District",
+      "nativeName": "Panipat",
+      "code": "IN-HR-9747999",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-HR",
+      "latitude": 29.33259,
+      "longitude": 76.92634
+    },
+    {
+      "id": 9157653,
+      "name": "Rewari",
+      "nativeName": "Rewari District",
+      "code": "IN-HR-9157653",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-HR",
+      "latitude": 28.19613,
+      "longitude": 76.61607
+    },
+    {
+      "id": 1258077,
+      "name": "Rohtak",
+      "nativeName": "Rohtak",
+      "code": "IN-HR-1258077",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-HR",
+      "latitude": 28.83333,
+      "longitude": 76.66667
+    },
+    {
+      "id": 1256056,
+      "name": "Sirsa",
+      "nativeName": "Sirsa",
+      "code": "IN-HR-1256056",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-HR",
+      "latitude": 29.58333,
+      "longitude": 75.08333
+    },
+    {
+      "id": 1255745,
+      "name": "Sonipat",
+      "nativeName": "Sonīpat",
+      "code": "IN-HR-1255745",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-HR",
+      "latitude": 29,
+      "longitude": 76.91667
+    },
+    {
+      "id": 9748037,
+      "name": "Yamunanagar District",
+      "nativeName": "Yamunanagar",
+      "code": "IN-HR-9748037",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-HR",
+      "latitude": 30.23644,
+      "longitude": 77.30498
+    }
+  ]
+}

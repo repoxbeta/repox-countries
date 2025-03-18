@@ -1,0 +1,106 @@
+{
+  "stateId": 4568404,
+  "stateCode": "PR-135",
+  "countryCode": "PR",
+  "cities": [
+    {
+      "id": 7268105,
+      "name": "Contorno Barrio",
+      "nativeName": "Contorno Barrio",
+      "code": "PR-135-7268105",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-135",
+      "latitude": 18.38119,
+      "longitude": -66.25859
+    },
+    {
+      "id": 7268405,
+      "name": "Galateo Barrio",
+      "nativeName": "Galateo Barrio",
+      "code": "PR-135-7268405",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-135",
+      "latitude": 18.36098,
+      "longitude": -66.25643
+    },
+    {
+      "id": 7268685,
+      "name": "Mucarabones Barrio",
+      "nativeName": "Mucarabones Barrio",
+      "code": "PR-135-7268685",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-135",
+      "latitude": 18.38355,
+      "longitude": -66.22371
+    },
+    {
+      "id": 7268711,
+      "name": "Ortíz Barrio",
+      "nativeName": "Ortíz Barrio",
+      "code": "PR-135-7268711",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-135",
+      "latitude": 18.34851,
+      "longitude": -66.21486
+    },
+    {
+      "id": 7268761,
+      "name": "Piñas Barrio",
+      "nativeName": "Piñas Barrio",
+      "code": "PR-135-7268761",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-135",
+      "latitude": 18.3616,
+      "longitude": -66.23681
+    },
+    {
+      "id": 7268844,
+      "name": "Quebrada Arenas Barrio",
+      "nativeName": "Quebrada Arenas Barrio",
+      "code": "PR-135-7268844",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-135",
+      "latitude": 18.35761,
+      "longitude": -66.27965
+    },
+    {
+      "id": 7268851,
+      "name": "Quebrada Cruz Barrio",
+      "nativeName": "Quebrada Cruz Barrio",
+      "code": "PR-135-7268851",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-135",
+      "latitude": 18.33978,
+      "longitude": -66.25636
+    },
+    {
+      "id": 7268914,
+      "name": "Río Lajas Barrio",
+      "nativeName": "Río Lajas Barrio",
+      "code": "PR-135-7268914",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-135",
+      "latitude": 18.37424,
+      "longitude": -66.29448
+    },
+    {
+      "id": 7269039,
+      "name": "Toa Alta Barrio-Pueblo",
+      "nativeName": "Toa Alta Barrio-Pueblo",
+      "code": "PR-135-7269039",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-135",
+      "latitude": 18.38788,
+      "longitude": -66.24765
+    }
+  ]
+}

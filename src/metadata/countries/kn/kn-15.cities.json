@@ -1,0 +1,51 @@
+{
+  "stateId": 3575114,
+  "stateCode": "KN-15",
+  "countryCode": "KN",
+  "cities": [
+    {
+      "id": 3575115,
+      "name": "Trinity",
+      "nativeName": "Trinity",
+      "code": "KN-15-3575115",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-15",
+      "latitude": 17.30037,
+      "longitude": -62.77584
+    },
+    {
+      "id": 3575531,
+      "name": "Boyd’s",
+      "nativeName": "Boyd’s",
+      "code": "KN-15-3575531",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-15",
+      "latitude": 17.29779,
+      "longitude": -62.77021
+    },
+    {
+      "id": 3575483,
+      "name": "Challengers",
+      "nativeName": "Challengers",
+      "code": "KN-15-3575483",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-15",
+      "latitude": 17.30395,
+      "longitude": -62.78487
+    },
+    {
+      "id": 3575234,
+      "name": "Ottley’s",
+      "nativeName": "Ottley’s",
+      "code": "KN-15-3575234",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-15",
+      "latitude": 17.30503,
+      "longitude": -62.77634
+    }
+  ]
+}

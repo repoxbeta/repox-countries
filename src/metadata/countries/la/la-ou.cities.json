@@ -1,0 +1,84 @@
+{
+  "stateId": 1654491,
+  "stateCode": "LA-OU",
+  "countryCode": "LA",
+  "cities": [
+    {
+      "id": 1657942,
+      "name": "Muang Bèng",
+      "nativeName": "Muang Bèng",
+      "code": "LA-OU-1657942",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-OU",
+      "latitude": 20.35359,
+      "longitude": 101.73128
+    },
+    {
+      "id": 1656964,
+      "name": "Muang Houn",
+      "nativeName": "Muang Houn",
+      "code": "LA-OU-1656964",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-OU",
+      "latitude": 20.07205,
+      "longitude": 101.43223
+    },
+    {
+      "id": 1656000,
+      "name": "Muang La",
+      "nativeName": "Muang La",
+      "code": "LA-OU-1656000",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-OU",
+      "latitude": 20.92056,
+      "longitude": 102.13268
+    },
+    {
+      "id": 1654902,
+      "name": "Muang Namo",
+      "nativeName": "Muang Namo",
+      "code": "LA-OU-1654902",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-OU",
+      "latitude": 20.89077,
+      "longitude": 101.72765
+    },
+    {
+      "id": 1904820,
+      "name": "Muang Nga",
+      "nativeName": "Muang Nga",
+      "code": "LA-OU-1904820",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-OU",
+      "latitude": 20.1739,
+      "longitude": 101.95155
+    },
+    {
+      "id": 1654418,
+      "name": "Muang Pakbèng",
+      "nativeName": "Muang Pakbèng",
+      "code": "LA-OU-1654418",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-OU",
+      "latitude": 19.93573,
+      "longitude": 101.06482
+    },
+    {
+      "id": 1652132,
+      "name": "Muang Xai",
+      "nativeName": "Muang Xai",
+      "code": "LA-OU-1652132",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-OU",
+      "latitude": 20.66447,
+      "longitude": 101.95554
+    }
+  ]
+}

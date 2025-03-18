@@ -1,0 +1,29 @@
+{
+  "stateId": 11153054,
+  "stateCode": "CI-DN",
+  "countryCode": "CI",
+  "cities": [
+    {
+      "id": 11153080,
+      "name": "Folon",
+      "nativeName": "Folon",
+      "code": "CI-DN-11153080",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "stateCode": "CI-DN",
+      "latitude": 9.81241,
+      "longitude": -7.51894
+    },
+    {
+      "id": 11153082,
+      "name": "Kabadougou",
+      "nativeName": "Kabadougou",
+      "code": "CI-DN-11153082",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "stateCode": "CI-DN",
+      "latitude": 9.60571,
+      "longitude": -7.43774
+    }
+  ]
+}

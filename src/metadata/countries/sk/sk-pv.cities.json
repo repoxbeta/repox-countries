@@ -1,0 +1,150 @@
+{
+  "stateId": 865085,
+  "stateCode": "SK-PV",
+  "countryCode": "SK",
+  "cities": [
+    {
+      "id": 725167,
+      "name": "Bardejov District",
+      "nativeName": "Okres Bardejov",
+      "code": "SK-PV-725167",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-PV",
+      "latitude": 49.28333,
+      "longitude": 21.28333
+    },
+    {
+      "id": 724626,
+      "name": "Humenné District",
+      "nativeName": "Okres Humenné",
+      "code": "SK-PV-724626",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-PV",
+      "latitude": 48.93333,
+      "longitude": 21.91667
+    },
+    {
+      "id": 8986288,
+      "name": "Kežmarok District",
+      "nativeName": "Okres Kežmarok",
+      "code": "SK-PV-8986288",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-PV",
+      "latitude": 49.13593,
+      "longitude": 20.42929
+    },
+    {
+      "id": 8989441,
+      "name": "Levoča District",
+      "nativeName": "Okres Levoča",
+      "code": "SK-PV-8989441",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-PV",
+      "latitude": 49.01986,
+      "longitude": 20.57688
+    },
+    {
+      "id": 8986292,
+      "name": "Medzilaborce District",
+      "nativeName": "Okres Medzilaborce",
+      "code": "SK-PV-8986292",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-PV",
+      "latitude": 49.27062,
+      "longitude": 21.902
+    },
+    {
+      "id": 723194,
+      "name": "Okres Vranov nad Topľou",
+      "nativeName": "Okres Vranov nad Topľou",
+      "code": "SK-PV-723194",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-PV",
+      "latitude": 48.9,
+      "longitude": 21.68333
+    },
+    {
+      "id": 723844,
+      "name": "Poprad District",
+      "nativeName": "Okres Poprad",
+      "code": "SK-PV-723844",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-PV",
+      "latitude": 49.05,
+      "longitude": 20.3
+    },
+    {
+      "id": 723818,
+      "name": "Prešov District",
+      "nativeName": "Okres Prešov",
+      "code": "SK-PV-723818",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-PV",
+      "latitude": 49,
+      "longitude": 21.25
+    },
+    {
+      "id": 8986301,
+      "name": "Sabinov District",
+      "nativeName": "Okres Sabinov",
+      "code": "SK-PV-8986301",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-PV",
+      "latitude": 49.10115,
+      "longitude": 21.09844
+    },
+    {
+      "id": 8986303,
+      "name": "Snina District",
+      "nativeName": "Okres Snina",
+      "code": "SK-PV-8986303",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-PV",
+      "latitude": 48.98579,
+      "longitude": 22.15059
+    },
+    {
+      "id": 723504,
+      "name": "Stará Ľubovňa District",
+      "nativeName": "Okres Stará Ĺubovňa",
+      "code": "SK-PV-723504",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-PV",
+      "latitude": 49.3,
+      "longitude": 20.7
+    },
+    {
+      "id": 8986305,
+      "name": "Stropkov District",
+      "nativeName": "Okres Stropkov",
+      "code": "SK-PV-8986305",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-PV",
+      "latitude": 49.20249,
+      "longitude": 21.65025
+    },
+    {
+      "id": 723416,
+      "name": "Svidník District",
+      "nativeName": "Okres Svidník",
+      "code": "SK-PV-723416",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-PV",
+      "latitude": 49.3,
+      "longitude": 21.56667
+    }
+  ]
+}

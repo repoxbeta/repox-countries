@@ -1,0 +1,51 @@
+{
+  "stateId": 250583,
+  "stateCode": "JO-MA",
+  "countryCode": "JO",
+  "cities": [
+    {
+      "id": 8621634,
+      "name": "Liwā’ Qaşabat al Mafraq",
+      "nativeName": "Liwā’ Qaşabat al Mafraq",
+      "code": "JO-MA-8621634",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "stateCode": "JO-MA",
+      "latitude": 32.28525,
+      "longitude": 36.12857
+    },
+    {
+      "id": 8621635,
+      "name": "Liwā’ al Bādiyah ash Shamālīyah",
+      "nativeName": "Liwā’ al Bādiyah ash Shamālīyah",
+      "code": "JO-MA-8621635",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "stateCode": "JO-MA",
+      "latitude": 32.17937,
+      "longitude": 36.77792
+    },
+    {
+      "id": 8621683,
+      "name": "Liwā’ al Bādiyah ash Shamālīyah al Gharbīyah",
+      "nativeName": "Liwā’ al Bādiyah ash Shamālīyah al Gharbīyah",
+      "code": "JO-MA-8621683",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "stateCode": "JO-MA",
+      "latitude": 32.36457,
+      "longitude": 36.28986
+    },
+    {
+      "id": 8621684,
+      "name": "Liwā’ ar Ruwayshid",
+      "nativeName": "Liwā’ ar Ruwayshid",
+      "code": "JO-MA-8621684",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "stateCode": "JO-MA",
+      "latitude": 32.36117,
+      "longitude": 38.17177
+    }
+  ]
+}

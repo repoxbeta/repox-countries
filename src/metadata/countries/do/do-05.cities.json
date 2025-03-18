@@ -1,0 +1,62 @@
+{
+  "stateId": 3508951,
+  "stateCode": "DO-05",
+  "countryCode": "DO",
+  "cities": [
+    {
+      "id": 3508954,
+      "name": "Dajabón",
+      "nativeName": "Dajabón",
+      "code": "DO-05-3508954",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-05",
+      "latitude": 19.58333,
+      "longitude": -71.58333
+    },
+    {
+      "id": 11154540,
+      "name": "El Pino",
+      "nativeName": "El Pino",
+      "code": "DO-05-11154540",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-05",
+      "latitude": 19.40619,
+      "longitude": -71.49764
+    },
+    {
+      "id": 3499604,
+      "name": "Loma de Cabrera",
+      "nativeName": "Loma de Cabrera",
+      "code": "DO-05-3499604",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-05",
+      "latitude": 19.41667,
+      "longitude": -71.58333
+    },
+    {
+      "id": 11154539,
+      "name": "Partido",
+      "nativeName": "Partido",
+      "code": "DO-05-11154539",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-05",
+      "latitude": 19.50119,
+      "longitude": -71.5181
+    },
+    {
+      "id": 3493888,
+      "name": "Restauración",
+      "nativeName": "Restauración",
+      "code": "DO-05-3493888",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-05",
+      "latitude": 19.3,
+      "longitude": -71.58333
+    }
+  ]
+}

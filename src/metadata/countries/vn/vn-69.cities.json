@@ -1,0 +1,106 @@
+{
+  "stateId": 1905497,
+  "stateCode": "VN-69",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 1905499,
+      "name": "Huyện Phú Bình",
+      "nativeName": "Huyện Phú Bình",
+      "code": "VN-69-1905499",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-69",
+      "latitude": 21.49024,
+      "longitude": 105.9634
+    },
+    {
+      "id": 1905503,
+      "name": "Huyện Phú Lương",
+      "nativeName": "Huyện Phú Lương",
+      "code": "VN-69-1905503",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-69",
+      "latitude": 21.7559,
+      "longitude": 105.72349
+    },
+    {
+      "id": 1905500,
+      "name": "Huyện Phổ Yên",
+      "nativeName": "Huyện Phổ Yên",
+      "code": "VN-69-1905500",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-69",
+      "latitude": 21.41206,
+      "longitude": 105.82432
+    },
+    {
+      "id": 1905501,
+      "name": "Huyện Đại Từ",
+      "nativeName": "Huyện Đại Từ",
+      "code": "VN-69-1905501",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-69",
+      "latitude": 21.63434,
+      "longitude": 105.61529
+    },
+    {
+      "id": 1905502,
+      "name": "Huyện Định Hóa",
+      "nativeName": "Huyện Định Hóa",
+      "code": "VN-69-1905502",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-69",
+      "latitude": 21.90527,
+      "longitude": 105.62116
+    },
+    {
+      "id": 1905855,
+      "name": "Thành Phố Thái Nguyên",
+      "nativeName": "Thành Phố Thái Nguyên",
+      "code": "VN-69-1905855",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-69",
+      "latitude": 21.56062,
+      "longitude": 105.80893
+    },
+    {
+      "id": 1905498,
+      "name": "Thị Xã Sông Công",
+      "nativeName": "Thị Xã Sông Công",
+      "code": "VN-69-1905498",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-69",
+      "latitude": 21.4883,
+      "longitude": 105.82298
+    },
+    {
+      "id": 1905505,
+      "name": "Võ Nhai District",
+      "nativeName": "Huyện Võ Nhai",
+      "code": "VN-69-1905505",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-69",
+      "latitude": 21.76846,
+      "longitude": 106.03421
+    },
+    {
+      "id": 1905504,
+      "name": "Đồng Hỷ District",
+      "nativeName": "Huyện Đồng Hỷ",
+      "code": "VN-69-1905504",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-69",
+      "latitude": 21.65361,
+      "longitude": 105.89006
+    }
+  ]
+}

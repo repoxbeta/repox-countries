@@ -1,0 +1,160 @@
+{
+  "countryId": 2287781,
+  "countryCode": "CI",
+  "states": [
+    {
+      "id": 11153151,
+      "name": "Abidjan Autonomous District",
+      "nativeName": "Abidjan",
+      "code": "CI-AB",
+      "internalCode": "AB",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "latitude": 5.36289,
+      "longitude": -3.9992
+    },
+    {
+      "id": 11153052,
+      "name": "Bas-Sassandra District",
+      "nativeName": "Bas-Sassandra",
+      "code": "CI-BS",
+      "internalCode": "BS",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "latitude": 5.49929,
+      "longitude": -6.66085
+    },
+    {
+      "id": 11153053,
+      "name": "Comoé District",
+      "nativeName": "Comoé",
+      "code": "CI-CM",
+      "internalCode": "CM",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "latitude": 5.50386,
+      "longitude": -3.25105
+    },
+    {
+      "id": 11153054,
+      "name": "Denguélé District",
+      "nativeName": "Denguélé",
+      "code": "CI-DN",
+      "internalCode": "DN",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "latitude": 9.49712,
+      "longitude": -7.37629
+    },
+    {
+      "id": 11153055,
+      "name": "Gôh-Djiboua",
+      "nativeName": "Gôh-Djiboua",
+      "code": "CI-GD",
+      "internalCode": "GD",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "latitude": 6.13184,
+      "longitude": -5.94893
+    },
+    {
+      "id": 11153056,
+      "name": "Lacs District",
+      "nativeName": "Lacs",
+      "code": "CI-LC",
+      "internalCode": "LC",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "latitude": 7.03125,
+      "longitude": -4.44848
+    },
+    {
+      "id": 11153057,
+      "name": "Lagunes District",
+      "nativeName": "Lagunes",
+      "code": "CI-LG",
+      "internalCode": "LG",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "latitude": 5.87068,
+      "longitude": -4.29862
+    },
+    {
+      "id": 11153058,
+      "name": "Montagnes",
+      "nativeName": "Montagnes",
+      "code": "CI-MG",
+      "internalCode": "MG",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "latitude": 6.95434,
+      "longitude": -7.62897
+    },
+    {
+      "id": 11153059,
+      "name": "Sassandra-Marahoué",
+      "nativeName": "Sassandra-Marahoué",
+      "code": "CI-SM",
+      "internalCode": "SM",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "latitude": 6.96585,
+      "longitude": -6.50734
+    },
+    {
+      "id": 11153060,
+      "name": "Savanes District",
+      "nativeName": "Savanes",
+      "code": "CI-SV",
+      "internalCode": "SV",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "latitude": 9.48829,
+      "longitude": -5.49419
+    },
+    {
+      "id": 11153061,
+      "name": "Vallée du Bandama District",
+      "nativeName": "Vallée du Bandama",
+      "code": "CI-VB",
+      "internalCode": "VB",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "latitude": 8.25011,
+      "longitude": -4.85458
+    },
+    {
+      "id": 11153062,
+      "name": "Woroba",
+      "nativeName": "Woroba",
+      "code": "CI-WR",
+      "internalCode": "WR",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "latitude": 7.99044,
+      "longitude": -6.62544
+    },
+    {
+      "id": 10629377,
+      "name": "Yamoussoukro Autonomous District",
+      "nativeName": "Yamoussoukro Autonomous District",
+      "code": "CI-YM",
+      "internalCode": "YM",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "latitude": 6.81667,
+      "longitude": -5.28333
+    },
+    {
+      "id": 11153063,
+      "name": "Zanzan District",
+      "nativeName": "Zanzan",
+      "code": "CI-ZZ",
+      "internalCode": "ZZ",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "latitude": 8.50016,
+      "longitude": -3.21384
+    }
+  ]
+}

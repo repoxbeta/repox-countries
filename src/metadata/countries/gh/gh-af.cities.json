@@ -1,0 +1,73 @@
+{
+  "stateId": 12105072,
+  "stateCode": "GH-AF",
+  "countryCode": "GH",
+  "cities": [
+    {
+      "id": 7648947,
+      "name": "Asunafo North",
+      "nativeName": "Asunafo North",
+      "code": "GH-AF-7648947",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-AF",
+      "latitude": 6.81568,
+      "longitude": -2.69478
+    },
+    {
+      "id": 7648948,
+      "name": "Asunafo South",
+      "nativeName": "Asunafo South",
+      "code": "GH-AF-7648948",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-AF",
+      "latitude": 6.68333,
+      "longitude": -2.45
+    },
+    {
+      "id": 7648950,
+      "name": "Asutifi",
+      "nativeName": "Asutifi",
+      "code": "GH-AF-7648950",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-AF",
+      "latitude": 6.96667,
+      "longitude": -2.38333
+    },
+    {
+      "id": 12105103,
+      "name": "Asutifi South",
+      "nativeName": "Asutifi South",
+      "code": "GH-AF-12105103",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-AF",
+      "latitude": 6.87937,
+      "longitude": -2.45963
+    },
+    {
+      "id": 7649052,
+      "name": "Tano North",
+      "nativeName": "Tano North",
+      "code": "GH-AF-7649052",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-AF",
+      "latitude": 7.201,
+      "longitude": -2.18265
+    },
+    {
+      "id": 7649053,
+      "name": "Tano South",
+      "nativeName": "Tano South",
+      "code": "GH-AF-7649053",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-AF",
+      "latitude": 7.08333,
+      "longitude": -2.03333
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "stateId": 2327546,
+  "stateCode": "NG-OG",
+  "countryCode": "NG",
+  "cities": [
+    {
+      "id": 8636329,
+      "name": "Abeokuta North",
+      "nativeName": "Abeokuta North",
+      "code": "NG-OG-8636329",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-OG",
+      "latitude": 7.23079,
+      "longitude": 3.16845
+    },
+    {
+      "id": 8636330,
+      "name": "Abeokuta South",
+      "nativeName": "Abeokuta South",
+      "code": "NG-OG-8636330",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-OG",
+      "latitude": 7.15425,
+      "longitude": 3.35459
+    },
+    {
+      "id": 8636326,
+      "name": "Ado Odo/Ota",
+      "nativeName": "Ado Odo/Ota",
+      "code": "NG-OG-8636326",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-OG",
+      "latitude": 6.62366,
+      "longitude": 3.08626
+    },
+    {
+      "id": 8636323,
+      "name": "Egbado North",
+      "nativeName": "Egbado North",
+      "code": "NG-OG-8636323",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-OG",
+      "latitude": 7.14729,
+      "longitude": 2.91795
+    },
+    {
+      "id": 8636324,
+      "name": "Egbado South",
+      "nativeName": "Egbado South",
+      "code": "NG-OG-8636324",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-OG",
+      "latitude": 6.79763,
+      "longitude": 2.96144
+    },
+    {
+      "id": 8636331,
+      "name": "Ewekoro",
+      "nativeName": "Ewekoro",
+      "code": "NG-OG-8636331",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-OG",
+      "latitude": 6.96115,
+      "longitude": 3.19455
+    },
+    {
+      "id": 8636327,
+      "name": "Ifo",
+      "nativeName": "Ifo",
+      "code": "NG-OG-8636327",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-OG",
+      "latitude": 6.78197,
+      "longitude": 3.25195
+    },
+    {
+      "id": 7873873,
+      "name": "Ijebu East",
+      "nativeName": "Ijebu East",
+      "code": "NG-OG-7873873",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-OG",
+      "latitude": 6.805,
+      "longitude": 4.258
+    },
+    {
+      "id": 8636333,
+      "name": "Ijebu North",
+      "nativeName": "Ijebu North",
+      "code": "NG-OG-8636333",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-OG",
+      "latitude": 6.99551,
+      "longitude": 3.97085
+    },
+    {
+      "id": 8636334,
+      "name": "Ijebu North East",
+      "nativeName": "Ijebu North East",
+      "code": "NG-OG-8636334",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-OG",
+      "latitude": 6.88809,
+      "longitude": 4.0226
+    },
+    {
+      "id": 7871321,
+      "name": "Ijebu Ode",
+      "nativeName": "Ijebu Ode",
+      "code": "NG-OG-7871321",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-OG",
+      "latitude": 6.82065,
+      "longitude": 3.92899
+    },
+    {
+      "id": 7871303,
+      "name": "Ikenne",
+      "nativeName": "Ikenne",
+      "code": "NG-OG-7871303",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-OG",
+      "latitude": 6.919,
+      "longitude": 3.676
+    },
+    {
+      "id": 8636322,
+      "name": "Imeko Afon",
+      "nativeName": "Imeko Afon",
+      "code": "NG-OG-8636322",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-OG",
+      "latitude": 7.66221,
+      "longitude": 2.86402
+    },
+    {
+      "id": 8636325,
+      "name": "Ipokia",
+      "nativeName": "Ipokia",
+      "code": "NG-OG-8636325",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-OG",
+      "latitude": 6.61801,
+      "longitude": 2.81053
+    },
+    {
+      "id": 7873905,
+      "name": "Obafemi Owode",
+      "nativeName": "Obafemi Owode",
+      "code": "NG-OG-7873905",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-OG",
+      "latitude": 6.96907,
+      "longitude": 3.48404
+    },
+    {
+      "id": 8636328,
+      "name": "Odeda",
+      "nativeName": "Odeda",
+      "code": "NG-OG-8636328",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-OG",
+      "latitude": 7.29646,
+      "longitude": 3.52029
+    },
+    {
+      "id": 7871304,
+      "name": "Odogbolu",
+      "nativeName": "Odogbolu",
+      "code": "NG-OG-7871304",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-OG",
+      "latitude": 6.78597,
+      "longitude": 3.80511
+    },
+    {
+      "id": 8636335,
+      "name": "Ogun Waterside",
+      "nativeName": "Ogun Waterside",
+      "code": "NG-OG-8636335",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-OG",
+      "latitude": 6.48449,
+      "longitude": 4.38618
+    },
+    {
+      "id": 8636332,
+      "name": "Remo North",
+      "nativeName": "Remo North",
+      "code": "NG-OG-8636332",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-OG",
+      "latitude": 7.0029,
+      "longitude": 3.72861
+    },
+    {
+      "id": 7871278,
+      "name": "Shagamu",
+      "nativeName": "Shagamu",
+      "code": "NG-OG-7871278",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-OG",
+      "latitude": 6.79905,
+      "longitude": 3.56833
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "stateId": 2960161,
+  "stateCode": "LU-RD",
+  "countryCode": "LU",
+  "cities": [
+    {
+      "id": 6693313,
+      "name": "Beckerich",
+      "nativeName": "Beckerich",
+      "code": "LU-RD-6693313",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-RD",
+      "latitude": 49.73056,
+      "longitude": 5.88722
+    },
+    {
+      "id": 6693314,
+      "name": "Ell",
+      "nativeName": "Ell",
+      "code": "LU-RD-6693314",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-RD",
+      "latitude": 49.76389,
+      "longitude": 5.85722
+    },
+    {
+      "id": 6693316,
+      "name": "Grosbous",
+      "nativeName": "Grosbous",
+      "code": "LU-RD-6693316",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-RD",
+      "latitude": 49.82778,
+      "longitude": 5.96722
+    },
+    {
+      "id": 8641291,
+      "name": "Préizerdaul",
+      "nativeName": "Commune de Préizerdaul",
+      "code": "LU-RD-8641291",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-RD",
+      "latitude": 49.80114,
+      "longitude": 5.93299
+    },
+    {
+      "id": 6693315,
+      "name": "Rambrouch",
+      "nativeName": "Rambrouch",
+      "code": "LU-RD-6693315",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-RD",
+      "latitude": 49.83083,
+      "longitude": 5.845
+    },
+    {
+      "id": 6693317,
+      "name": "Redange-sur-Attert",
+      "nativeName": "Redange-sur-Attert",
+      "code": "LU-RD-6693317",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-RD",
+      "latitude": 49.76556,
+      "longitude": 5.89083
+    },
+    {
+      "id": 6693318,
+      "name": "Saeul",
+      "nativeName": "Saeul",
+      "code": "LU-RD-6693318",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-RD",
+      "latitude": 49.72722,
+      "longitude": 5.98639
+    },
+    {
+      "id": 6693319,
+      "name": "Useldange",
+      "nativeName": "Useldange",
+      "code": "LU-RD-6693319",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-RD",
+      "latitude": 49.76972,
+      "longitude": 5.98222
+    },
+    {
+      "id": 6693320,
+      "name": "Vichten",
+      "nativeName": "Vichten",
+      "code": "LU-RD-6693320",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-RD",
+      "latitude": 49.80306,
+      "longitude": 6
+    },
+    {
+      "id": 6693321,
+      "name": "Wahl",
+      "nativeName": "Wahl",
+      "code": "LU-RD-6693321",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-RD",
+      "latitude": 49.83667,
+      "longitude": 5.90639
+    }
+  ]
+}

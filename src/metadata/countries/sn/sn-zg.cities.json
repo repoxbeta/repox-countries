@@ -1,0 +1,40 @@
+{
+  "stateId": 2243939,
+  "stateCode": "SN-ZG",
+  "countryCode": "SN",
+  "cities": [
+    {
+      "id": 2253903,
+      "name": "Bignona",
+      "nativeName": "Bignona",
+      "code": "SN-ZG-2253903",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "stateCode": "SN-ZG",
+      "latitude": 12.88163,
+      "longitude": -16.36944
+    },
+    {
+      "id": 2246902,
+      "name": "Oussouye",
+      "nativeName": "Oussouye",
+      "code": "SN-ZG-2246902",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "stateCode": "SN-ZG",
+      "latitude": 12.48552,
+      "longitude": -16.61648
+    },
+    {
+      "id": 2243943,
+      "name": "Ziguinchor",
+      "nativeName": "Ziguinchor",
+      "code": "SN-ZG-2243943",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "stateCode": "SN-ZG",
+      "latitude": 12.52201,
+      "longitude": -16.21621
+    }
+  ]
+}

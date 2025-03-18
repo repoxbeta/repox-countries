@@ -1,0 +1,73 @@
+{
+  "stateId": 7670848,
+  "stateCode": "MG-32",
+  "countryCode": "MG",
+  "cities": [
+    {
+      "id": 11926396,
+      "name": "Fenerive Est",
+      "nativeName": "Fenerive Est",
+      "code": "MG-32-11926396",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-32",
+      "latitude": -17.16365,
+      "longitude": 49.203
+    },
+    {
+      "id": 8299288,
+      "name": "Mananara Nord District",
+      "nativeName": "Mananara Nord District",
+      "code": "MG-32-8299288",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-32",
+      "latitude": -16.21599,
+      "longitude": 49.54834
+    },
+    {
+      "id": 8299287,
+      "name": "Maroantsetra District",
+      "nativeName": "Maroantsetra District",
+      "code": "MG-32-8299287",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-32",
+      "latitude": -15.38352,
+      "longitude": 49.56482
+    },
+    {
+      "id": 11072837,
+      "name": "Nosy Boraha",
+      "nativeName": "Nosy Boraha",
+      "code": "MG-32-11072837",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-32",
+      "latitude": -16.90156,
+      "longitude": 49.89775
+    },
+    {
+      "id": 11926397,
+      "name": "Soanierana Ivongo",
+      "nativeName": "Soanierana Ivongo",
+      "code": "MG-32-11926397",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-32",
+      "latitude": -16.7234,
+      "longitude": 49.30983
+    },
+    {
+      "id": 7910443,
+      "name": "Vavatenina District",
+      "nativeName": "Vavatenina District",
+      "code": "MG-32-7910443",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-32",
+      "latitude": -17.51667,
+      "longitude": 48.95
+    }
+  ]
+}

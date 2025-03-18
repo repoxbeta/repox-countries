@@ -1,0 +1,62 @@
+{
+  "stateId": 3938526,
+  "stateCode": "PE-ICA",
+  "countryCode": "PE",
+  "cities": [
+    {
+      "id": 3925316,
+      "name": "Ica Province",
+      "nativeName": "Provincia de Ica",
+      "code": "PE-ICA-3925316",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-ICA",
+      "latitude": -14.27799,
+      "longitude": -75.6579
+    },
+    {
+      "id": 3934353,
+      "name": "Nasca Province",
+      "nativeName": "Nasca",
+      "code": "PE-ICA-3934353",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-ICA",
+      "latitude": -14.95533,
+      "longitude": -75.09131
+    },
+    {
+      "id": 3933344,
+      "name": "Palpa Province",
+      "nativeName": "Provincia de Palpa",
+      "code": "PE-ICA-3933344",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-ICA",
+      "latitude": -14.37519,
+      "longitude": -75.17624
+    },
+    {
+      "id": 3932143,
+      "name": "Pisco Province",
+      "nativeName": "Provincia de Pisco",
+      "code": "PE-ICA-3932143",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-ICA",
+      "latitude": -13.80377,
+      "longitude": -75.94264
+    },
+    {
+      "id": 3943790,
+      "name": "Provincia de Chincha",
+      "nativeName": "Provincia de Chincha",
+      "code": "PE-ICA-3943790",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-ICA",
+      "latitude": -13.31791,
+      "longitude": -75.9393
+    }
+  ]
+}

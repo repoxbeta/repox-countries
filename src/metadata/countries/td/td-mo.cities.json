@@ -1,0 +1,62 @@
+{
+  "stateId": 7603253,
+  "stateCode": "TD-MO",
+  "countryCode": "TD",
+  "cities": [
+    {
+      "id": 12186503,
+      "name": "El Ouaya",
+      "nativeName": "El Ouaya",
+      "code": "TD-MO-12186503",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-MO",
+      "latitude": 9.54314,
+      "longitude": 14.44799
+    },
+    {
+      "id": 12186527,
+      "name": "Gagal",
+      "nativeName": "Gagal",
+      "code": "TD-MO-12186527",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-MO",
+      "latitude": 8.89758,
+      "longitude": 15.19348
+    },
+    {
+      "id": 12186506,
+      "name": "Lac Léré",
+      "nativeName": "Lac Léré",
+      "code": "TD-MO-12186506",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-MO",
+      "latitude": 9.72893,
+      "longitude": 14.16046
+    },
+    {
+      "id": 12186526,
+      "name": "Mayo-Binder",
+      "nativeName": "Mayo-Binder",
+      "code": "TD-MO-12186526",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-MO",
+      "latitude": 9.88567,
+      "longitude": 14.49425
+    },
+    {
+      "id": 12186525,
+      "name": "Mayo-Dallah",
+      "nativeName": "Mayo-Dallah",
+      "code": "TD-MO-12186525",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-MO",
+      "latitude": 9.3425,
+      "longitude": 14.84337
+    }
+  ]
+}

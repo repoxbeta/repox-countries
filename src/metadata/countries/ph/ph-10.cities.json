@@ -1,0 +1,62 @@
+{
+  "stateId": 7521295,
+  "stateCode": "PH-10",
+  "countryCode": "PH",
+  "cities": [
+    {
+      "id": 1723105,
+      "name": "Province of Bukidnon",
+      "nativeName": "Province of Bukidnon",
+      "code": "PH-10-1723105",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-10",
+      "latitude": 8,
+      "longitude": 125
+    },
+    {
+      "id": 1719694,
+      "name": "Province of Camiguin",
+      "nativeName": "Province of Camiguin",
+      "code": "PH-10-1719694",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-10",
+      "latitude": 9.16667,
+      "longitude": 124.75
+    },
+    {
+      "id": 1707668,
+      "name": "Province of Lanao del Norte",
+      "nativeName": "Province of Lanao del Norte",
+      "code": "PH-10-1707668",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-10",
+      "latitude": 8,
+      "longitude": 124
+    },
+    {
+      "id": 1699493,
+      "name": "Province of Misamis Occidental",
+      "nativeName": "Province of Misamis Occidental",
+      "code": "PH-10-1699493",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-10",
+      "latitude": 8.33333,
+      "longitude": 123.7
+    },
+    {
+      "id": 1699492,
+      "name": "Province of Misamis Oriental",
+      "nativeName": "Province of Misamis Oriental",
+      "code": "PH-10-1699492",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-10",
+      "latitude": 8.75,
+      "longitude": 125
+    }
+  ]
+}

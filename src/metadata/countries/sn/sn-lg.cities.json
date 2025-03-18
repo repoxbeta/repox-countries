@@ -1,0 +1,40 @@
+{
+  "stateId": 2249221,
+  "stateCode": "SN-LG",
+  "countryCode": "SN",
+  "cities": [
+    {
+      "id": 2250660,
+      "name": "Kebemer",
+      "nativeName": "Kebemer Department",
+      "code": "SN-LG-2250660",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "stateCode": "SN-LG",
+      "latitude": 15.318,
+      "longitude": -16.221
+    },
+    {
+      "id": 2249283,
+      "name": "Linguere",
+      "nativeName": "Linguere Department",
+      "code": "SN-LG-2249283",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "stateCode": "SN-LG",
+      "latitude": 15.359,
+      "longitude": -15.158
+    },
+    {
+      "id": 2249224,
+      "name": "Louga",
+      "nativeName": "Louga Department",
+      "code": "SN-LG-2249224",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "stateCode": "SN-LG",
+      "latitude": 15.75,
+      "longitude": -16
+    }
+  ]
+}

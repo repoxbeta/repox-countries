@@ -1,0 +1,73 @@
+{
+  "stateId": 2842635,
+  "stateCode": "DE-SL",
+  "countryCode": "DE",
+  "cities": [
+    {
+      "id": 2871673,
+      "name": "Landkreis Merzig-Wadern",
+      "nativeName": "Landkreis Merzig-Wadern",
+      "code": "DE-SL-2871673",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-SL",
+      "latitude": 49.47722,
+      "longitude": 6.67556
+    },
+    {
+      "id": 3249066,
+      "name": "Landkreis Neunkirchen",
+      "nativeName": "Landkreis Neunkirchen",
+      "code": "DE-SL-3249066",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-SL",
+      "latitude": 49.37944,
+      "longitude": 7.13056
+    },
+    {
+      "id": 3249065,
+      "name": "Landkreis Saarlouis",
+      "nativeName": "Landkreis Saarlouis",
+      "code": "DE-SL-3249065",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-SL",
+      "latitude": 49.33861,
+      "longitude": 6.78944
+    },
+    {
+      "id": 2841464,
+      "name": "Landkreis Sankt Wendel",
+      "nativeName": "Landkreis Sankt Wendel",
+      "code": "DE-SL-2841464",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-SL",
+      "latitude": 49.51778,
+      "longitude": 7.11944
+    },
+    {
+      "id": 3249068,
+      "name": "Regionalverband Saarbrücken",
+      "nativeName": "Regionalverband Saarbrücken",
+      "code": "DE-SL-3249068",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-SL",
+      "latitude": 49.27722,
+      "longitude": 6.97028
+    },
+    {
+      "id": 3249067,
+      "name": "Saarpfalz-Kreis",
+      "nativeName": "Saarpfalz-Kreis",
+      "code": "DE-SL-3249067",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-SL",
+      "latitude": 49.27,
+      "longitude": 7.24778
+    }
+  ]
+}

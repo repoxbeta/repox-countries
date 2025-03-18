@@ -1,0 +1,150 @@
+{
+  "stateId": 131222,
+  "stateCode": "IR-22",
+  "countryCode": "IR",
+  "cities": [
+    {
+      "id": 449701,
+      "name": "Bandar Abbas",
+      "nativeName": "Shahrestān-e Bandar ‘Abbās",
+      "code": "IR-22-449701",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-22",
+      "latitude": 27.5372,
+      "longitude": 56.22429
+    },
+    {
+      "id": 449702,
+      "name": "Bandar Lengeh",
+      "nativeName": "Bandar Lengeh",
+      "code": "IR-22-449702",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-22",
+      "latitude": 26.78333,
+      "longitude": 54.65
+    },
+    {
+      "id": 449700,
+      "name": "Bastak",
+      "nativeName": "Bastak",
+      "code": "IR-22-449700",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-22",
+      "latitude": 27.2,
+      "longitude": 54.502
+    },
+    {
+      "id": 8620945,
+      "name": "Khamīr",
+      "nativeName": "Shahrestān-e Khamīr",
+      "code": "IR-22-8620945",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-22",
+      "latitude": 27.27756,
+      "longitude": 55.50915
+    },
+    {
+      "id": 449706,
+      "name": "Qeshm",
+      "nativeName": "Qeshm",
+      "code": "IR-22-449706",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-22",
+      "latitude": 26.78333,
+      "longitude": 55.86667
+    },
+    {
+      "id": 449699,
+      "name": "Shahrestān-e Abū Mūsá",
+      "nativeName": "Shahrestān-e Abū Mūsá",
+      "code": "IR-22-449699",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-22",
+      "latitude": 26.05474,
+      "longitude": 55.16243
+    },
+    {
+      "id": 9523757,
+      "name": "Shahrestān-e Bashāgard",
+      "nativeName": "Shahrestān-e Bashāgard",
+      "code": "IR-22-9523757",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-22",
+      "latitude": 26.44004,
+      "longitude": 58.14973
+    },
+    {
+      "id": 449703,
+      "name": "Shahrestān-e Jāsk",
+      "nativeName": "Shahrestān-e Jāsk",
+      "code": "IR-22-449703",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-22",
+      "latitude": 25.86578,
+      "longitude": 58.29089
+    },
+    {
+      "id": 449707,
+      "name": "Shahrestān-e Mīnāb",
+      "nativeName": "Shahrestān-e Mīnāb",
+      "code": "IR-22-449707",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-22",
+      "latitude": 26.94152,
+      "longitude": 57.32685
+    },
+    {
+      "id": 8620946,
+      "name": "Shahrestān-e Pārsīān",
+      "nativeName": "Shahrestān-e Pārsīān",
+      "code": "IR-22-8620946",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-22",
+      "latitude": 27.14039,
+      "longitude": 53.23222
+    },
+    {
+      "id": 449705,
+      "name": "Shahrestān-e Rūdān",
+      "nativeName": "Shahrestān-e Rūdān",
+      "code": "IR-22-449705",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-22",
+      "latitude": 27.53333,
+      "longitude": 57.11667
+    },
+    {
+      "id": 9523758,
+      "name": "Shahrestān-e Sīrīk",
+      "nativeName": "Shahrestān-e Sīrīk",
+      "code": "IR-22-9523758",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-22",
+      "latitude": 26.48064,
+      "longitude": 57.23738
+    },
+    {
+      "id": 449704,
+      "name": "Shahrestān-e Ḩājjīābād",
+      "nativeName": "Shahrestān-e Ḩājjīābād",
+      "code": "IR-22-449704",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-22",
+      "latitude": 28.06193,
+      "longitude": 56.16021
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "stateId": 248380,
+  "stateCode": "JO-MN",
+  "countryCode": "JO",
+  "cities": [
+    {
+      "id": 8621722,
+      "name": "Liwā’ Qaşabat Ma‘ān",
+      "nativeName": "Liwā’ Qaşabat Ma‘ān",
+      "code": "JO-MN-8621722",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "stateCode": "JO-MN",
+      "latitude": 30.33105,
+      "longitude": 36.63777
+    },
+    {
+      "id": 8621728,
+      "name": "Liwā’ al Batrā’",
+      "nativeName": "Liwā’ al Batrā’",
+      "code": "JO-MN-8621728",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "stateCode": "JO-MN",
+      "latitude": 30.27565,
+      "longitude": 35.46726
+    },
+    {
+      "id": 8621737,
+      "name": "Liwā’ al Ḩusaynīyah",
+      "nativeName": "Liwā’ al Ḩusaynīyah",
+      "code": "JO-MN-8621737",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "stateCode": "JO-MN",
+      "latitude": 30.53357,
+      "longitude": 35.7953
+    },
+    {
+      "id": 8621727,
+      "name": "Liwā’ ash Shawbak",
+      "nativeName": "Liwā’ ash Shawbak",
+      "code": "JO-MN-8621727",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "stateCode": "JO-MN",
+      "latitude": 30.50776,
+      "longitude": 35.55697
+    },
+    {
+      "id": 11189149,
+      "name": "Shoubak",
+      "nativeName": "Shoubak",
+      "code": "JO-MN-11189149",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "stateCode": "JO-MN",
+      "latitude": 30.53139,
+      "longitude": 35.56083
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "stateId": 7521947,
+  "stateCode": "TT-TUP",
+  "countryCode": "TT",
+  "cities": [
+    {
+      "id": 3575050,
+      "name": "Ward of Arima",
+      "nativeName": "Ward of Arima",
+      "code": "TT-TUP-3575050",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-TUP",
+      "latitude": 10.65,
+      "longitude": -61.26667
+    },
+    {
+      "id": 3574971,
+      "name": "Ward of Blanchisseuse",
+      "nativeName": "Ward of Blanchisseuse",
+      "code": "TT-TUP-3574971",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-TUP",
+      "latitude": 10.76665,
+      "longitude": -61.31569
+    },
+    {
+      "id": 3573642,
+      "name": "Ward of Tacarigua",
+      "nativeName": "Ward of Tacarigua",
+      "code": "TT-TUP-3573642",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-TUP",
+      "latitude": 10.66667,
+      "longitude": -61.38333
+    }
+  ]
+}

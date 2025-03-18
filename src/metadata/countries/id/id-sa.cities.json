@@ -1,0 +1,172 @@
+{
+  "stateId": 1626229,
+  "stateCode": "ID-SA",
+  "countryCode": "ID",
+  "cities": [
+    {
+      "id": 1648339,
+      "name": "Bolaang Mongondow Regency",
+      "nativeName": "Kabupaten Bolaang Mongondow",
+      "code": "ID-SA-1648339",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SA",
+      "latitude": 0.71667,
+      "longitude": 124.03333
+    },
+    {
+      "id": 9821950,
+      "name": "East Bolaang Mongondow Regency",
+      "nativeName": "Kabupaten Bolaang Mongondow Timur",
+      "code": "ID-SA-9821950",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SA",
+      "latitude": 0.72073,
+      "longitude": 124.50256
+    },
+    {
+      "id": 1628775,
+      "name": "Kabupaten Kepulauan Sangihe",
+      "nativeName": "Kabupaten Kepulauan Sangihe",
+      "code": "ID-SA-1628775",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SA",
+      "latitude": 3.55,
+      "longitude": 125.55
+    },
+    {
+      "id": 6755517,
+      "name": "Kabupaten Minahasa",
+      "nativeName": "Kabupaten Minahasa",
+      "code": "ID-SA-6755517",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SA",
+      "latitude": 1.2537,
+      "longitude": 124.83
+    },
+    {
+      "id": 6698251,
+      "name": "Kabupaten Minahasa Selatan",
+      "nativeName": "Kabupaten Minahasa Selatan",
+      "code": "ID-SA-6698251",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SA",
+      "latitude": 1.21291,
+      "longitude": 124.59708
+    },
+    {
+      "id": 9165868,
+      "name": "Kabupaten Minahasa Utara",
+      "nativeName": "Kabupaten Minahasa Utara",
+      "code": "ID-SA-9165868",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SA",
+      "latitude": 1.4025,
+      "longitude": 124.96
+    },
+    {
+      "id": 1648633,
+      "name": "Kota Bitung",
+      "nativeName": "Kota Bitung",
+      "code": "ID-SA-1648633",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SA",
+      "latitude": 1.5,
+      "longitude": 125.15
+    },
+    {
+      "id": 9828036,
+      "name": "Kota Kotamobagu",
+      "nativeName": "Kota Kotamobagu",
+      "code": "ID-SA-9828036",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SA",
+      "latitude": 0.68915,
+      "longitude": 124.32678
+    },
+    {
+      "id": 1636543,
+      "name": "Kota Manado",
+      "nativeName": "Kota Manado",
+      "code": "ID-SA-1636543",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SA",
+      "latitude": 1.51389,
+      "longitude": 124.88194
+    },
+    {
+      "id": 9846655,
+      "name": "Kota Tomohon",
+      "nativeName": "Kota Tomohon",
+      "code": "ID-SA-9846655",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SA",
+      "latitude": 1.31307,
+      "longitude": 124.83404
+    },
+    {
+      "id": 9821951,
+      "name": "North Bolaang Mongondow Regency",
+      "nativeName": "Kabupaten Bolaang Mongondow Utara",
+      "code": "ID-SA-9821951",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SA",
+      "latitude": 0.78527,
+      "longitude": 123.41766
+    },
+    {
+      "id": 9846670,
+      "name": "Sitaro Islands Regency",
+      "nativeName": "Kabupaten Siau Tagulandang Biaro",
+      "code": "ID-SA-9846670",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SA",
+      "latitude": 2.11728,
+      "longitude": 125.37512
+    },
+    {
+      "id": 9821949,
+      "name": "South Bolaang Mongondow Regency",
+      "nativeName": "Kabupaten Bolaang Mongondow Selatan",
+      "code": "ID-SA-9821949",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SA",
+      "latitude": 0.40912,
+      "longitude": 123.75961
+    },
+    {
+      "id": 9828962,
+      "name": "Southeast Minahasa Regency",
+      "nativeName": "Kabupaten Minahasa Tenggara",
+      "code": "ID-SA-9828962",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SA",
+      "latitude": 1.05633,
+      "longitude": 124.7925
+    },
+    {
+      "id": 9828034,
+      "name": "Talaud Islands Regency",
+      "nativeName": "Kabupaten Kepulauan Talaud",
+      "code": "ID-SA-9828034",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SA",
+      "latitude": 4.31178,
+      "longitude": 126.78085
+    }
+  ]
+}

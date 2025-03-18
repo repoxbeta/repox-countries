@@ -1,0 +1,94 @@
+{
+  "countryId": 2420477,
+  "countryCode": "GN",
+  "states": [
+    {
+      "id": 8335085,
+      "name": "Boké Region",
+      "nativeName": "Boke Region",
+      "code": "GN-B",
+      "internalCode": "B",
+      "countryId": 2420477,
+      "countryCode": "GN",
+      "latitude": 11.2625,
+      "longitude": -14.32992
+    },
+    {
+      "id": 2422464,
+      "name": "Conakry Region",
+      "nativeName": "Conakry Region",
+      "code": "GN-C",
+      "internalCode": "C",
+      "countryId": 2420477,
+      "countryCode": "GN",
+      "latitude": 9.60703,
+      "longitude": -13.597
+    },
+    {
+      "id": 8335086,
+      "name": "Faranah",
+      "nativeName": "Faranah Region",
+      "code": "GN-F",
+      "internalCode": "F",
+      "countryId": 2420477,
+      "countryCode": "GN",
+      "latitude": 10.3375,
+      "longitude": -10.69583
+    },
+    {
+      "id": 8335087,
+      "name": "Kankan Region",
+      "nativeName": "Kankan Region",
+      "code": "GN-K",
+      "internalCode": "K",
+      "countryId": 2420477,
+      "countryCode": "GN",
+      "latitude": 10.4,
+      "longitude": -9.25
+    },
+    {
+      "id": 8335088,
+      "name": "Kindia",
+      "nativeName": "Kindia Region",
+      "code": "GN-D",
+      "internalCode": "D",
+      "countryId": 2420477,
+      "countryCode": "GN",
+      "latitude": 10.08667,
+      "longitude": -13.21333
+    },
+    {
+      "id": 8335089,
+      "name": "Labé Region",
+      "nativeName": "Labé Region",
+      "code": "GN-L",
+      "internalCode": "L",
+      "countryId": 2420477,
+      "countryCode": "GN",
+      "latitude": 11.61,
+      "longitude": -12.08667
+    },
+    {
+      "id": 8335090,
+      "name": "Mamou Region",
+      "nativeName": "Mamou Region",
+      "code": "GN-M",
+      "internalCode": "M",
+      "countryId": 2420477,
+      "countryCode": "GN",
+      "latitude": 10.69444,
+      "longitude": -12.29444
+    },
+    {
+      "id": 8335091,
+      "name": "Nzérékoré Region",
+      "nativeName": "Nzerekore Region",
+      "code": "GN-N",
+      "internalCode": "N",
+      "countryId": 2420477,
+      "countryCode": "GN",
+      "latitude": 8.20833,
+      "longitude": -9.06944
+    }
+  ]
+}

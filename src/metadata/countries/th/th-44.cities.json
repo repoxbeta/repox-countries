@@ -1,0 +1,150 @@
+{
+  "stateId": 1608899,
+  "stateCode": "TH-44",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 1611579,
+      "name": "Borabue",
+      "nativeName": "Amphoe Borabue",
+      "code": "TH-44-1611579",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-44",
+      "latitude": 15.98881,
+      "longitude": 103.12521
+    },
+    {
+      "id": 1611184,
+      "name": "Chiang Yuen",
+      "nativeName": "Amphoe Chiang Yuen",
+      "code": "TH-44-1611184",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-44",
+      "latitude": 16.40942,
+      "longitude": 103.07005
+    },
+    {
+      "id": 7510793,
+      "name": "Chuen Chom",
+      "nativeName": "Amphoe Chuen Chom",
+      "code": "TH-44-7510793",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-44",
+      "latitude": 16.54801,
+      "longitude": 103.14796
+    },
+    {
+      "id": 7510789,
+      "name": "Kae Dam",
+      "nativeName": "Amphoe Kae Dam",
+      "code": "TH-44-7510789",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-44",
+      "latitude": 16.04961,
+      "longitude": 103.38953
+    },
+    {
+      "id": 1610222,
+      "name": "Kantharawichai",
+      "nativeName": "Amphoe Kantharawichai",
+      "code": "TH-44-1610222",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-44",
+      "latitude": 16.27992,
+      "longitude": 103.25892
+    },
+    {
+      "id": 1609475,
+      "name": "Kosum Phisai",
+      "nativeName": "Amphoe Kosum Phisai",
+      "code": "TH-44-1609475",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-44",
+      "latitude": 16.23882,
+      "longitude": 102.99081
+    },
+    {
+      "id": 7510771,
+      "name": "Kut Rang",
+      "nativeName": "Amphoe Kut Rang",
+      "code": "TH-44-7510771",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-44",
+      "latitude": 16.0297,
+      "longitude": 102.95059
+    },
+    {
+      "id": 1608651,
+      "name": "Mueang Maha Sarakham",
+      "nativeName": "Amphoe Mueang Maha Sarakham",
+      "code": "TH-44-1608651",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-44",
+      "latitude": 16.11882,
+      "longitude": 103.3116
+    },
+    {
+      "id": 1608567,
+      "name": "Na Chueak",
+      "nativeName": "Amphoe Na Chueak",
+      "code": "TH-44-1608567",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-44",
+      "latitude": 15.8018,
+      "longitude": 103.05725
+    },
+    {
+      "id": 7510787,
+      "name": "Na Dun",
+      "nativeName": "Amphoe Na Dun",
+      "code": "TH-44-7510787",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-44",
+      "latitude": 15.71952,
+      "longitude": 103.23004
+    },
+    {
+      "id": 1607762,
+      "name": "Phayakkhaphum Phisai",
+      "nativeName": "Amphoe Phayakkhaphum Phisai",
+      "code": "TH-44-1607762",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-44",
+      "latitude": 15.51963,
+      "longitude": 103.23268
+    },
+    {
+      "id": 1605071,
+      "name": "Wapi Pathum",
+      "nativeName": "Amphoe Wapi Pathum",
+      "code": "TH-44-1605071",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-44",
+      "latitude": 15.85953,
+      "longitude": 103.34091
+    },
+    {
+      "id": 7510786,
+      "name": "Yang Sisurat",
+      "nativeName": "Amphoe Yang Si Surat",
+      "code": "TH-44-7510786",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-44",
+      "latitude": 15.64953,
+      "longitude": 103.08916
+    }
+  ]
+}

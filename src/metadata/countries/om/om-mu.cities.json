@@ -1,0 +1,51 @@
+{
+  "stateId": 411741,
+  "stateCode": "OM-MU",
+  "countryCode": "OM",
+  "cities": [
+    {
+      "id": 12215993,
+      "name": "Bukhā",
+      "nativeName": "Bukhā",
+      "code": "OM-MU-12215993",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-MU",
+      "latitude": 26.107,
+      "longitude": 56.141
+    },
+    {
+      "id": 12215992,
+      "name": "Dibbā",
+      "nativeName": "Dibbā",
+      "code": "OM-MU-12215992",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-MU",
+      "latitude": 25.741,
+      "longitude": 56.224
+    },
+    {
+      "id": 12215991,
+      "name": "Khaşab",
+      "nativeName": "Khaşab",
+      "code": "OM-MU-12215991",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-MU",
+      "latitude": 26.034,
+      "longitude": 56.285
+    },
+    {
+      "id": 11748046,
+      "name": "Madha",
+      "nativeName": "Madha",
+      "code": "OM-MU-11748046",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-MU",
+      "latitude": 25.28164,
+      "longitude": 56.31592
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "stateId": 580491,
+  "stateCode": "RU-AST",
+  "countryCode": "RU",
+  "cities": [
+    {
+      "id": 583796,
+      "name": "Akhtubinskiy Rayon",
+      "nativeName": "Akhtubinskiy Rayon",
+      "code": "RU-AST-583796",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-AST",
+      "latitude": 48.2518,
+      "longitude": 46.43054
+    },
+    {
+      "id": 824964,
+      "name": "Astrakhan",
+      "nativeName": "Gorodskoy Okrug Astrakhan'",
+      "code": "RU-AST-824964",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-AST",
+      "latitude": 46.36431,
+      "longitude": 48.03479
+    },
+    {
+      "id": 568698,
+      "name": "Chernoyarsky District",
+      "nativeName": "Chernoyarskiy Rayon",
+      "code": "RU-AST-568698",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-AST",
+      "latitude": 48.18532,
+      "longitude": 45.67715
+    },
+    {
+      "id": 557391,
+      "name": "Ikryaninsky District",
+      "nativeName": "Ikryaninskiy Rayon",
+      "code": "RU-AST-557391",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-AST",
+      "latitude": 46,
+      "longitude": 47.66667
+    },
+    {
+      "id": 553246,
+      "name": "Kamyzyakskiy Rayon",
+      "nativeName": "Kamyzyakskiy Rayon",
+      "code": "RU-AST-553246",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-AST",
+      "latitude": 45.99429,
+      "longitude": 48.10565
+    },
+    {
+      "id": 550669,
+      "name": "Kharabalinsky District",
+      "nativeName": "Kharabalinskiy Rayon",
+      "code": "RU-AST-550669",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-AST",
+      "latitude": 47.39864,
+      "longitude": 47.67834
+    },
+    {
+      "id": 542131,
+      "name": "Krasnoyarskiy Rayon",
+      "nativeName": "Krasnoyarskiy Rayon",
+      "code": "RU-AST-542131",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-AST",
+      "latitude": 46.85043,
+      "longitude": 48.3152
+    },
+    {
+      "id": 535210,
+      "name": "Limansky District",
+      "nativeName": "Limanskiy Rayon",
+      "code": "RU-AST-535210",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-AST",
+      "latitude": 45.83183,
+      "longitude": 47.31468
+    },
+    {
+      "id": 523439,
+      "name": "Narimanovsky District",
+      "nativeName": "Narimanovskiy Rayon",
+      "code": "RU-AST-523439",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-AST",
+      "latitude": 46.44819,
+      "longitude": 47.39143
+    },
+    {
+      "id": 505051,
+      "name": "Privolzhskiy Rayon",
+      "nativeName": "Privolzhskiy Rayon",
+      "code": "RU-AST-505051",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-AST",
+      "latitude": 46.29427,
+      "longitude": 48.20849
+    },
+    {
+      "id": 472484,
+      "name": "Volodarskiy Rayon",
+      "nativeName": "Volodarskiy Rayon",
+      "code": "RU-AST-472484",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-AST",
+      "latitude": 46.29104,
+      "longitude": 48.6214
+    },
+    {
+      "id": 467477,
+      "name": "Yenotayevsky District",
+      "nativeName": "Yenotayevskiy Rayon",
+      "code": "RU-AST-467477",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-AST",
+      "latitude": 47.27782,
+      "longitude": 46.84716
+    },
+    {
+      "id": 12625339,
+      "name": "Znamensk",
+      "nativeName": "Znamensk",
+      "code": "RU-AST-12625339",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-AST",
+      "latitude": 48.58189,
+      "longitude": 45.73665
+    }
+  ]
+}

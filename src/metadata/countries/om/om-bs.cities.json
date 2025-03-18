@@ -1,0 +1,73 @@
+{
+  "stateId": 8394434,
+  "stateCode": "OM-BS",
+  "countryCode": "OM",
+  "cities": [
+    {
+      "id": 12215957,
+      "name": "Al Khābūrah",
+      "nativeName": "Al Khābūrah",
+      "code": "OM-BS-12215957",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-BS",
+      "latitude": 23.804,
+      "longitude": 57.023
+    },
+    {
+      "id": 12215958,
+      "name": "As Suwayq",
+      "nativeName": "As Suwayq",
+      "code": "OM-BS-12215958",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-BS",
+      "latitude": 23.78,
+      "longitude": 57.25
+    },
+    {
+      "id": 12215955,
+      "name": "Liwá",
+      "nativeName": "Liwá",
+      "code": "OM-BS-12215955",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-BS",
+      "latitude": 24.459,
+      "longitude": 56.403
+    },
+    {
+      "id": 12215954,
+      "name": "Shināş",
+      "nativeName": "Shināş",
+      "code": "OM-BS-12215954",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-BS",
+      "latitude": 24.726,
+      "longitude": 56.352
+    },
+    {
+      "id": 12215956,
+      "name": "Şaḩam",
+      "nativeName": "Şaḩam",
+      "code": "OM-BS-12215956",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-BS",
+      "latitude": 23.846,
+      "longitude": 56.848
+    },
+    {
+      "id": 12215953,
+      "name": "Şuḩār",
+      "nativeName": "Şuḩār",
+      "code": "OM-BS-12215953",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-BS",
+      "latitude": 24.183,
+      "longitude": 56.531
+    }
+  ]
+}

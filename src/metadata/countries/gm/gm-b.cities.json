@@ -1,0 +1,29 @@
+{
+  "stateId": 2413875,
+  "stateCode": "GM-B",
+  "countryCode": "GM",
+  "cities": [
+    {
+      "id": 2413107,
+      "name": "Kanifing",
+      "nativeName": "Kanifing",
+      "code": "GM-B-2413107",
+      "countryId": 2413451,
+      "countryCode": "GM",
+      "stateCode": "GM-B",
+      "latitude": 13.45,
+      "longitude": -16.66667
+    },
+    {
+      "id": 2593772,
+      "name": "Kombo Saint Mary District",
+      "nativeName": "Kombo Saint Mary District",
+      "code": "GM-B-2593772",
+      "countryId": 2413451,
+      "countryCode": "GM",
+      "stateCode": "GM-B",
+      "latitude": 13.44389,
+      "longitude": -16.64583
+    }
+  ]
+}

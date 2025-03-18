@@ -1,0 +1,161 @@
+{
+  "stateId": 2842565,
+  "stateCode": "DE-ST",
+  "countryCode": "DE",
+  "cities": [
+    {
+      "id": 2842111,
+      "name": "Altmarkkreis Salzwedel",
+      "nativeName": "Altmarkkreis Salzwedel",
+      "code": "DE-ST-2842111",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-ST",
+      "latitude": 52.6667,
+      "longitude": 11.2
+    },
+    {
+      "id": 2948163,
+      "name": "Anhalt-Bitterfeld",
+      "nativeName": "Anhalt-Bitterfeld",
+      "code": "DE-ST-2948163",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-ST",
+      "latitude": 51.65639,
+      "longitude": 12.26167
+    },
+    {
+      "id": 3302156,
+      "name": "Burgenlandkreis",
+      "nativeName": "Burgenlandkreis",
+      "code": "DE-ST-3302156",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-ST",
+      "latitude": 51.13989,
+      "longitude": 11.85784
+    },
+    {
+      "id": 3302159,
+      "name": "Börde Rural District",
+      "nativeName": "Börde",
+      "code": "DE-ST-3302159",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-ST",
+      "latitude": 52.07944,
+      "longitude": 11.2675
+    },
+    {
+      "id": 2937956,
+      "name": "Dessau-Roßlau",
+      "nativeName": "Dessau-Roßlau",
+      "code": "DE-ST-2937956",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-ST",
+      "latitude": 51.82389,
+      "longitude": 12.23361
+    },
+    {
+      "id": 3302158,
+      "name": "Jerichower Land",
+      "nativeName": "Jerichower Land",
+      "code": "DE-ST-3302158",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-ST",
+      "latitude": 52.26666,
+      "longitude": 12
+    },
+    {
+      "id": 2911516,
+      "name": "Kreisfreie Stadt Halle",
+      "nativeName": "Kreisfreie Stadt Halle",
+      "code": "DE-ST-2911516",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-ST",
+      "latitude": 51.48139,
+      "longitude": 11.98556
+    },
+    {
+      "id": 2874544,
+      "name": "Landeshauptstadt Magdeburg",
+      "nativeName": "Landeshauptstadt Magdeburg",
+      "code": "DE-ST-2874544",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-ST",
+      "latitude": 52.14167,
+      "longitude": 11.64444
+    },
+    {
+      "id": 2911664,
+      "name": "Landkreis Harz",
+      "nativeName": "Landkreis Harz",
+      "code": "DE-ST-2911664",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-ST",
+      "latitude": 51.94639,
+      "longitude": 10.97361
+    },
+    {
+      "id": 2827478,
+      "name": "Landkreis Stendal",
+      "nativeName": "Landkreis Stendal",
+      "code": "DE-ST-2827478",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-ST",
+      "latitude": 52.7,
+      "longitude": 11.8666
+    },
+    {
+      "id": 2807345,
+      "name": "Landkreis Wittenberg",
+      "nativeName": "Landkreis Wittenberg",
+      "code": "DE-ST-2807345",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-ST",
+      "latitude": 51.81666,
+      "longitude": 12.6666
+    },
+    {
+      "id": 3302155,
+      "name": "Mansfeld-Südharz",
+      "nativeName": "Mansfeld-Südharz",
+      "code": "DE-ST-3302155",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-ST",
+      "latitude": 51.56861,
+      "longitude": 11.53694
+    },
+    {
+      "id": 2842671,
+      "name": "Saalekreis",
+      "nativeName": "Saalekreis",
+      "code": "DE-ST-2842671",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-ST",
+      "latitude": 51.53167,
+      "longitude": 11.93333
+    },
+    {
+      "id": 2950072,
+      "name": "Salzlandkreis",
+      "nativeName": "Salzlandkreis",
+      "code": "DE-ST-2950072",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-ST",
+      "latitude": 51.75806,
+      "longitude": 11.73917
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "stateId": 1642907,
+  "stateCode": "ID-JK",
+  "countryCode": "ID",
+  "cities": [
+    {
+      "id": 1642909,
+      "name": "Kota Administrasi Jakarta Barat",
+      "nativeName": "Kota Administrasi Jakarta Barat",
+      "code": "ID-JK-1642909",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-JK",
+      "latitude": -6.16667,
+      "longitude": 106.75
+    },
+    {
+      "id": 1642908,
+      "name": "Kota Administrasi Jakarta Pusat",
+      "nativeName": "Kota Administrasi Jakarta Pusat",
+      "code": "ID-JK-1642908",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-JK",
+      "latitude": -6.18333,
+      "longitude": 106.83333
+    },
+    {
+      "id": 1642905,
+      "name": "Kota Administrasi Jakarta Selatan",
+      "nativeName": "Kota Administrasi Jakarta Selatan",
+      "code": "ID-JK-1642905",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-JK",
+      "latitude": -6.26667,
+      "longitude": 106.80833
+    },
+    {
+      "id": 1642904,
+      "name": "Kota Administrasi Jakarta Timur",
+      "nativeName": "Kota Administrasi Jakarta Timur",
+      "code": "ID-JK-1642904",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-JK",
+      "latitude": -6.25,
+      "longitude": 106.8875
+    },
+    {
+      "id": 1642903,
+      "name": "Kota Administrasi Jakarta Utara",
+      "nativeName": "Kota Administrasi Jakarta Utara",
+      "code": "ID-JK-1642903",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-JK",
+      "latitude": -6.13611,
+      "longitude": 106.90417
+    },
+    {
+      "id": 9849799,
+      "name": "Thousand Islands",
+      "nativeName": "Kabupaten Administrasi Kepulauan Seribu",
+      "code": "ID-JK-9849799",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-JK",
+      "latitude": -5.80308,
+      "longitude": 106.52257
+    }
+  ]
+}

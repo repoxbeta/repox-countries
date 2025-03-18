@@ -1,0 +1,194 @@
+{
+  "stateId": 932439,
+  "stateCode": "LS-F",
+  "countryCode": "LS",
+  "cities": [
+    {
+      "id": 932438,
+      "name": "Mohale's Hoek",
+      "nativeName": "Mohale's Hoek",
+      "code": "LS-F-932438",
+      "countryId": 932692,
+      "countryCode": "LS",
+      "stateCode": "LS-F",
+      "latitude": -30.15137,
+      "longitude": 27.47691
+    },
+    {
+      "id": 11427369,
+      "name": "Ha Lekhema",
+      "nativeName": "Ha Lekhema",
+      "code": "LS-F-11427369",
+      "countryId": 932692,
+      "countryCode": "LS",
+      "stateCode": "LS-F",
+      "latitude": -30.1282,
+      "longitude": 27.47956
+    },
+    {
+      "id": 11398276,
+      "name": "Ha Mafethe",
+      "nativeName": "Ha Mafethe",
+      "code": "LS-F-11398276",
+      "countryId": 932692,
+      "countryCode": "LS",
+      "stateCode": "LS-F",
+      "latitude": -30.174,
+      "longitude": 27.544
+    },
+    {
+      "id": 11496162,
+      "name": "Ha Malephane",
+      "nativeName": "Ha Malephane",
+      "code": "LS-F-11496162",
+      "countryId": 932692,
+      "countryCode": "LS",
+      "stateCode": "LS-F",
+      "latitude": -30.20785,
+      "longitude": 27.8318
+    },
+    {
+      "id": 11467861,
+      "name": "Ha Nchoba",
+      "nativeName": "Ha Nchoba",
+      "code": "LS-F-11467861",
+      "countryId": 932692,
+      "countryCode": "LS",
+      "stateCode": "LS-F",
+      "latitude": -30.10171,
+      "longitude": 27.44174
+    },
+    {
+      "id": 11467769,
+      "name": "Ha Putsoane",
+      "nativeName": "Ha Putsoane",
+      "code": "LS-F-11467769",
+      "countryId": 932692,
+      "countryCode": "LS",
+      "stateCode": "LS-F",
+      "latitude": -30.2359,
+      "longitude": 27.8
+    },
+    {
+      "id": 11497840,
+      "name": "Ha Qacha",
+      "nativeName": "Ha Qacha",
+      "code": "LS-F-11497840",
+      "countryId": 932692,
+      "countryCode": "LS",
+      "stateCode": "LS-F",
+      "latitude": -30.21869,
+      "longitude": 27.81407
+    },
+    {
+      "id": 11258466,
+      "name": "Ha Sankatana",
+      "nativeName": "Ha Sankatana",
+      "code": "LS-F-11258466",
+      "countryId": 932692,
+      "countryCode": "LS",
+      "stateCode": "LS-F",
+      "latitude": -30.16897,
+      "longitude": 27.40585
+    },
+    {
+      "id": 11239736,
+      "name": "Ha Sekhebetlele",
+      "nativeName": "Ha Sekhebetlele",
+      "code": "LS-F-11239736",
+      "countryId": 932692,
+      "countryCode": "LS",
+      "stateCode": "LS-F",
+      "latitude": -29.9581,
+      "longitude": 28.1068
+    },
+    {
+      "id": 11258822,
+      "name": "Ha Seleitara",
+      "nativeName": "Ha Seleitara",
+      "code": "LS-F-11258822",
+      "countryId": 932692,
+      "countryCode": "LS",
+      "stateCode": "LS-F",
+      "latitude": -30.29298,
+      "longitude": 27.76685
+    },
+    {
+      "id": 11428502,
+      "name": "Ha-Nkhetheleng",
+      "nativeName": "Ha-Nkhetheleng",
+      "code": "LS-F-11428502",
+      "countryId": 932692,
+      "countryCode": "LS",
+      "stateCode": "LS-F",
+      "latitude": -30.29446,
+      "longitude": 27.54197
+    },
+    {
+      "id": 12687287,
+      "name": "Ketane",
+      "nativeName": "Ketane",
+      "code": "LS-F-12687287",
+      "countryId": 932692,
+      "countryCode": "LS",
+      "stateCode": "LS-F",
+      "latitude": -30.07299,
+      "longitude": 27.85875
+    },
+    {
+      "id": 11290011,
+      "name": "Likhutlong",
+      "nativeName": "Likhutlong",
+      "code": "LS-F-11290011",
+      "countryId": 932692,
+      "countryCode": "LS",
+      "stateCode": "LS-F",
+      "latitude": -30.148,
+      "longitude": 27.482
+    },
+    {
+      "id": 7669382,
+      "name": "Mokopung",
+      "nativeName": "Mokopung",
+      "code": "LS-F-7669382",
+      "countryId": 932692,
+      "countryCode": "LS",
+      "stateCode": "LS-F",
+      "latitude": -30.0212,
+      "longitude": 28.1716
+    },
+    {
+      "id": 11103542,
+      "name": "Phahameng",
+      "nativeName": "Phahameng",
+      "code": "LS-F-11103542",
+      "countryId": 932692,
+      "countryCode": "LS",
+      "stateCode": "LS-F",
+      "latitude": -30.22196,
+      "longitude": 27.4153
+    },
+    {
+      "id": 932269,
+      "name": "Phamong",
+      "nativeName": "Phamong",
+      "code": "LS-F-932269",
+      "countryId": 932692,
+      "countryCode": "LS",
+      "stateCode": "LS-F",
+      "latitude": -30.24809,
+      "longitude": 27.8014
+    },
+    {
+      "id": 11103467,
+      "name": "Qalakheng",
+      "nativeName": "Qalakheng",
+      "code": "LS-F-11103467",
+      "countryId": 932692,
+      "countryCode": "LS",
+      "stateCode": "LS-F",
+      "latitude": -30.13472,
+      "longitude": 27.47694
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "stateId": 8299704,
+  "stateCode": "MT-05",
+  "countryCode": "MT",
+  "cities": [
+    {
+      "id": 2563189,
+      "name": "Birżebbuġa",
+      "nativeName": "Birżebbuġa",
+      "code": "MT-05-2563189",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-05",
+      "latitude": 35.82583,
+      "longitude": 14.52694
+    },
+    {
+      "id": 2563182,
+      "name": "Borġ in-Nadur",
+      "nativeName": "Borġ in-Nadur",
+      "code": "MT-05-2563182",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-05",
+      "latitude": 35.83389,
+      "longitude": 14.53028
+    },
+    {
+      "id": 2562961,
+      "name": "Il-Brolli",
+      "nativeName": "Il-Brolli",
+      "code": "MT-05-2562961",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-05",
+      "latitude": 35.83056,
+      "longitude": 14.52139
+    },
+    {
+      "id": 2562897,
+      "name": "Il-Qajjenza",
+      "nativeName": "Il-Qajjenza",
+      "code": "MT-05-2562897",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-05",
+      "latitude": 35.83389,
+      "longitude": 14.535
+    },
+    {
+      "id": 2562831,
+      "name": "Kalafrana",
+      "nativeName": "Kalafrana",
+      "code": "MT-05-2562831",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-05",
+      "latitude": 35.81806,
+      "longitude": 14.53444
+    },
+    {
+      "id": 2562374,
+      "name": "Tal-Papa",
+      "nativeName": "Tal-Papa",
+      "code": "MT-05-2562374",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-05",
+      "latitude": 35.81778,
+      "longitude": 14.52278
+    },
+    {
+      "id": 2567540,
+      "name": "Ħal Far",
+      "nativeName": "Ħal Far",
+      "code": "MT-05-2567540",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-05",
+      "latitude": 35.81667,
+      "longitude": 14.50667
+    }
+  ]
+}

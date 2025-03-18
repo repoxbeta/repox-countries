@@ -1,0 +1,84 @@
+{
+  "stateId": 886748,
+  "stateCode": "ZW-MN",
+  "countryCode": "ZW",
+  "cities": [
+    {
+      "id": 895055,
+      "name": "Binga District",
+      "nativeName": "Binga District",
+      "code": "ZW-MN-895055",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MN",
+      "latitude": -17.8046,
+      "longitude": 27.70088
+    },
+    {
+      "id": 894741,
+      "name": "Bubi District",
+      "nativeName": "Bubi District",
+      "code": "ZW-MN-894741",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MN",
+      "latitude": -19.52508,
+      "longitude": 28.67998
+    },
+    {
+      "id": 889941,
+      "name": "Hwange District",
+      "nativeName": "Hwange District",
+      "code": "ZW-MN-889941",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MN",
+      "latitude": -18.75,
+      "longitude": 26.5
+    },
+    {
+      "id": 888223,
+      "name": "Lupani District",
+      "nativeName": "Lupane District",
+      "code": "ZW-MN-888223",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MN",
+      "latitude": -18.83608,
+      "longitude": 27.99098
+    },
+    {
+      "id": 884216,
+      "name": "Nkayi District",
+      "nativeName": "Nkayi District",
+      "code": "ZW-MN-884216",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MN",
+      "latitude": -18.92472,
+      "longitude": 28.71221
+    },
+    {
+      "id": 883763,
+      "name": "Tsholotsho District",
+      "nativeName": "Tsholotsho District",
+      "code": "ZW-MN-883763",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MN",
+      "latitude": -19.58552,
+      "longitude": 27.46718
+    },
+    {
+      "id": 10800412,
+      "name": "Umguza District",
+      "nativeName": "Umguza District",
+      "code": "ZW-MN-10800412",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MN",
+      "latitude": -19.85324,
+      "longitude": 28.31408
+    }
+  ]
+}

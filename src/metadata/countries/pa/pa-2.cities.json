@@ -1,0 +1,73 @@
+{
+  "stateId": 3712162,
+  "stateCode": "PA-2",
+  "countryCode": "PA",
+  "cities": [
+    {
+      "id": 3715037,
+      "name": "Aguadulce District",
+      "nativeName": "Distrito de Aguadulce",
+      "code": "PA-2-3715037",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-2",
+      "latitude": 8.2127,
+      "longitude": -80.61441
+    },
+    {
+      "id": 3714708,
+      "name": "Antón District",
+      "nativeName": "Distrito de Antón",
+      "code": "PA-2-3714708",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-2",
+      "latitude": 8.46314,
+      "longitude": -80.19544
+    },
+    {
+      "id": 3706929,
+      "name": "La Pintada District",
+      "nativeName": "Distrito de La Pintada",
+      "code": "PA-2-3706929",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-2",
+      "latitude": 8.69436,
+      "longitude": -80.54077
+    },
+    {
+      "id": 3703935,
+      "name": "Natá District",
+      "nativeName": "Distrito de Natá",
+      "code": "PA-2-3703935",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-2",
+      "latitude": 8.35992,
+      "longitude": -80.56468
+    },
+    {
+      "id": 3703743,
+      "name": "Olá District",
+      "nativeName": "Distrito de Olá",
+      "code": "PA-2-3703743",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-2",
+      "latitude": 8.48053,
+      "longitude": -80.65324
+    },
+    {
+      "id": 3703066,
+      "name": "Penonomé District",
+      "nativeName": "Distrito Penonomé",
+      "code": "PA-2-3703066",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-2",
+      "latitude": 8.63,
+      "longitude": -80.28333
+    }
+  ]
+}

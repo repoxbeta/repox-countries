@@ -1,0 +1,62 @@
+{
+  "stateId": 2988289,
+  "stateCode": "FR-PDL",
+  "countryCode": "FR",
+  "cities": [
+    {
+      "id": 2997861,
+      "name": "Loire-Atlantique",
+      "nativeName": "Loire-Atlantique",
+      "code": "FR-PDL-2997861",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-PDL",
+      "latitude": 47.32863,
+      "longitude": -1.65764
+    },
+    {
+      "id": 2996663,
+      "name": "Maine-et-Loire",
+      "nativeName": "Maine-et-Loire",
+      "code": "FR-PDL-2996663",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-PDL",
+      "latitude": 47.38911,
+      "longitude": -0.49984
+    },
+    {
+      "id": 2994932,
+      "name": "Mayenne",
+      "nativeName": "Mayenne",
+      "code": "FR-PDL-2994932",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-PDL",
+      "latitude": 48.13494,
+      "longitude": -0.66667
+    },
+    {
+      "id": 2975926,
+      "name": "Sarthe",
+      "nativeName": "Sarthe",
+      "code": "FR-PDL-2975926",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-PDL",
+      "latitude": 48.00493,
+      "longitude": 0.26516
+    },
+    {
+      "id": 2970140,
+      "name": "Vendée",
+      "nativeName": "Vendée",
+      "code": "FR-PDL-2970140",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-PDL",
+      "latitude": 46.64169,
+      "longitude": -1.30407
+    }
+  ]
+}

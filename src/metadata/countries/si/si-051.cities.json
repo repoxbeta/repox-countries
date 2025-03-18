@@ -1,0 +1,293 @@
+{
+  "stateId": 3239243,
+  "stateCode": "SI-051",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3197442,
+      "name": "Kozje",
+      "nativeName": "Kozje",
+      "code": "SI-051-3197442",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-051",
+      "latitude": 46.075,
+      "longitude": 15.56028
+    },
+    {
+      "id": 8988324,
+      "name": "Bistrica",
+      "nativeName": "Bistrica",
+      "code": "SI-051-8988324",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-051",
+      "latitude": 46.10831,
+      "longitude": 15.47051
+    },
+    {
+      "id": 3203166,
+      "name": "Buče",
+      "nativeName": "Buče",
+      "code": "SI-051-3203166",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-051",
+      "latitude": 46.10795,
+      "longitude": 15.57009
+    },
+    {
+      "id": 8987633,
+      "name": "Dobležiče",
+      "nativeName": "Dobležiče",
+      "code": "SI-051-8987633",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-051",
+      "latitude": 46.12153,
+      "longitude": 15.54109
+    },
+    {
+      "id": 3201200,
+      "name": "Drensko Rebro",
+      "nativeName": "Drensko Rebro",
+      "code": "SI-051-3201200",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-051",
+      "latitude": 46.11149,
+      "longitude": 15.53246
+    },
+    {
+      "id": 8987302,
+      "name": "Gorjane",
+      "nativeName": "Gorjane",
+      "code": "SI-051-8987302",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-051",
+      "latitude": 46.04071,
+      "longitude": 15.56193
+    },
+    {
+      "id": 3216470,
+      "name": "Gorska",
+      "nativeName": "Gorska",
+      "code": "SI-051-3216470",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-051",
+      "latitude": 46.09444,
+      "longitude": 15.56861
+    },
+    {
+      "id": 8988545,
+      "name": "Gradišče",
+      "nativeName": "Gradišče",
+      "code": "SI-051-8988545",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-051",
+      "latitude": 46.05508,
+      "longitude": 15.59468
+    },
+    {
+      "id": 3199490,
+      "name": "Gubno",
+      "nativeName": "Gubno",
+      "code": "SI-051-3199490",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-051",
+      "latitude": 46.11667,
+      "longitude": 15.51667
+    },
+    {
+      "id": 8987509,
+      "name": "Ješovec pri Kozjem",
+      "nativeName": "Ješovec pri Kozjem",
+      "code": "SI-051-8987509",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-051",
+      "latitude": 46.0777,
+      "longitude": 15.57451
+    },
+    {
+      "id": 8988812,
+      "name": "Klake",
+      "nativeName": "Klake",
+      "code": "SI-051-8988812",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-051",
+      "latitude": 46.10303,
+      "longitude": 15.54213
+    },
+    {
+      "id": 3216469,
+      "name": "Korte",
+      "nativeName": "Korte",
+      "code": "SI-051-3216469",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-051",
+      "latitude": 46.08472,
+      "longitude": 15.54306
+    },
+    {
+      "id": 3196647,
+      "name": "Lesično",
+      "nativeName": "Lesično",
+      "code": "SI-051-3196647",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-051",
+      "latitude": 46.1025,
+      "longitude": 15.51417
+    },
+    {
+      "id": 8988785,
+      "name": "Ortnice",
+      "nativeName": "Ortnice",
+      "code": "SI-051-8988785",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-051",
+      "latitude": 46.10908,
+      "longitude": 15.55215
+    },
+    {
+      "id": 3193872,
+      "name": "Osredek pri Podsredi",
+      "nativeName": "Osredek pri Podsredi",
+      "code": "SI-051-3193872",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-051",
+      "latitude": 46.01667,
+      "longitude": 15.61667
+    },
+    {
+      "id": 3193353,
+      "name": "Pilštanj",
+      "nativeName": "Pilštanj",
+      "code": "SI-051-3193353",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-051",
+      "latitude": 46.10056,
+      "longitude": 15.52583
+    },
+    {
+      "id": 3192917,
+      "name": "Podsreda",
+      "nativeName": "Podsreda",
+      "code": "SI-051-3192917",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-051",
+      "latitude": 46.04139,
+      "longitude": 15.59056
+    },
+    {
+      "id": 8987799,
+      "name": "Poklek pri Podsredi",
+      "nativeName": "Poklek pri Podsredi",
+      "code": "SI-051-8987799",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-051",
+      "latitude": 46.02931,
+      "longitude": 15.56604
+    },
+    {
+      "id": 8988524,
+      "name": "Topolovo",
+      "nativeName": "Topolovo",
+      "code": "SI-051-8988524",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-051",
+      "latitude": 46.10485,
+      "longitude": 15.48693
+    },
+    {
+      "id": 3187828,
+      "name": "Vetrnik",
+      "nativeName": "Vetrnik",
+      "code": "SI-051-3187828",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-051",
+      "latitude": 46.06667,
+      "longitude": 15.51667
+    },
+    {
+      "id": 3187689,
+      "name": "Virštanj",
+      "nativeName": "Virštanj",
+      "code": "SI-051-3187689",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-051",
+      "latitude": 46.13252,
+      "longitude": 15.56206
+    },
+    {
+      "id": 8988006,
+      "name": "Vojsko",
+      "nativeName": "Vojsko",
+      "code": "SI-051-8988006",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-051",
+      "latitude": 46.03798,
+      "longitude": 15.5492
+    },
+    {
+      "id": 8987277,
+      "name": "Vrenska Gorca",
+      "nativeName": "Vrenska Gorca",
+      "code": "SI-051-8987277",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-051",
+      "latitude": 46.09672,
+      "longitude": 15.58187
+    },
+    {
+      "id": 3186908,
+      "name": "Zagorje",
+      "nativeName": "Zagorje",
+      "code": "SI-051-3186908",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-051",
+      "latitude": 46.08389,
+      "longitude": 15.48306
+    },
+    {
+      "id": 3186663,
+      "name": "Zdole",
+      "nativeName": "Zdole",
+      "code": "SI-051-3186663",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-051",
+      "latitude": 46.09056,
+      "longitude": 15.55198
+    },
+    {
+      "id": 8988433,
+      "name": "Zeče pri Bučah",
+      "nativeName": "Zeče pri Bučah",
+      "code": "SI-051-8988433",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-051",
+      "latitude": 46.0991,
+      "longitude": 15.55836
+    }
+  ]
+}

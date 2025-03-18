@@ -1,0 +1,238 @@
+{
+  "stateId": 1857907,
+  "stateCode": "JP-26",
+  "countryCode": "JP",
+  "cities": [
+    {
+      "id": 1864872,
+      "name": "Ayabe",
+      "nativeName": "Ayabe Shi",
+      "code": "JP-26-1864872",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-26",
+      "latitude": 35.35263,
+      "longitude": 135.34465
+    },
+    {
+      "id": 1864008,
+      "name": "Fukuchiyama Shi",
+      "nativeName": "Fukuchiyama Shi",
+      "code": "JP-26-1864008",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-26",
+      "latitude": 35.32404,
+      "longitude": 135.11332
+    },
+    {
+      "id": 7412122,
+      "name": "Funai-gun",
+      "nativeName": "Funai-gun",
+      "code": "JP-26-7412122",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-26",
+      "latitude": 35.22272,
+      "longitude": 135.39061
+    },
+    {
+      "id": 1860951,
+      "name": "Jōyō",
+      "nativeName": "Jōyō Shi",
+      "code": "JP-26-1860951",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-26",
+      "latitude": 34.84566,
+      "longitude": 135.7976
+    },
+    {
+      "id": 1860633,
+      "name": "Kameoka",
+      "nativeName": "Kameoka Shi",
+      "code": "JP-26-1860633",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-26",
+      "latitude": 35.01021,
+      "longitude": 135.539
+    },
+    {
+      "id": 1859202,
+      "name": "Kizugawa-shi",
+      "nativeName": "Kizugawa-shi",
+      "code": "JP-26-1859202",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-26",
+      "latitude": 34.73781,
+      "longitude": 135.82128
+    },
+    {
+      "id": 7412123,
+      "name": "Kuse-gun",
+      "nativeName": "Kuse-gun",
+      "code": "JP-26-7412123",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-26",
+      "latitude": 34.89089,
+      "longitude": 135.7493
+    },
+    {
+      "id": 7412210,
+      "name": "Kyōtanabe Shi",
+      "nativeName": "Kyōtanabe Shi",
+      "code": "JP-26-7412210",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-26",
+      "latitude": 34.80779,
+      "longitude": 135.763
+    },
+    {
+      "id": 7412200,
+      "name": "Kyōtango Shi",
+      "nativeName": "Kyōtango Shi",
+      "code": "JP-26-7412200",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-26",
+      "latitude": 35.63089,
+      "longitude": 135.04785
+    },
+    {
+      "id": 1857906,
+      "name": "Kyōto",
+      "nativeName": "Kyōto Shi",
+      "code": "JP-26-1857906",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-26",
+      "latitude": 35.10737,
+      "longitude": 135.72402
+    },
+    {
+      "id": 1857764,
+      "name": "Maizuru Shi",
+      "nativeName": "Maizuru Shi",
+      "code": "JP-26-1857764",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-26",
+      "latitude": 35.47009,
+      "longitude": 135.34003
+    },
+    {
+      "id": 7412197,
+      "name": "Miyazu Shi",
+      "nativeName": "Miyazu Shi",
+      "code": "JP-26-7412197",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-26",
+      "latitude": 35.55596,
+      "longitude": 135.17662
+    },
+    {
+      "id": 7412198,
+      "name": "Mukō Shi",
+      "nativeName": "Mukō Shi",
+      "code": "JP-26-7412198",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-26",
+      "latitude": 34.94975,
+      "longitude": 135.70269
+    },
+    {
+      "id": 1856196,
+      "name": "Nagaokakyō Shi",
+      "nativeName": "Nagaokakyō Shi",
+      "code": "JP-26-1856196",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-26",
+      "latitude": 34.9284,
+      "longitude": 135.67881
+    },
+    {
+      "id": 7412201,
+      "name": "Nantan Shi",
+      "nativeName": "Nantan Shi",
+      "code": "JP-26-7412201",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-26",
+      "latitude": 35.2274,
+      "longitude": 135.55939
+    },
+    {
+      "id": 7412124,
+      "name": "Otokuni-gun",
+      "nativeName": "Otokuni-gun",
+      "code": "JP-26-7412124",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-26",
+      "latitude": 34.90037,
+      "longitude": 135.6861
+    },
+    {
+      "id": 1851574,
+      "name": "Sōraku",
+      "nativeName": "Sōraku-gun",
+      "code": "JP-26-1851574",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-26",
+      "latitude": 34.78344,
+      "longitude": 135.93418
+    },
+    {
+      "id": 7412125,
+      "name": "Tsuzuki-gun",
+      "nativeName": "Tsuzuki-gun",
+      "code": "JP-26-7412125",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-26",
+      "latitude": 34.84665,
+      "longitude": 135.8773
+    },
+    {
+      "id": 1849362,
+      "name": "Uji",
+      "nativeName": "Uji Shi",
+      "code": "JP-26-1849362",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-26",
+      "latitude": 34.90296,
+      "longitude": 135.82039
+    },
+    {
+      "id": 7412199,
+      "name": "Yawata Shi",
+      "nativeName": "Yawata Shi",
+      "code": "JP-26-7412199",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-26",
+      "latitude": 34.86662,
+      "longitude": 135.7147
+    },
+    {
+      "id": 1848224,
+      "name": "Yosa-gun",
+      "nativeName": "Yosa-gun",
+      "code": "JP-26-1848224",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-26",
+      "latitude": 35.52812,
+      "longitude": 135.09889
+    }
+  ]
+}

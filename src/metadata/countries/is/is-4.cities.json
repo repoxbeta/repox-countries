@@ -1,0 +1,106 @@
+{
+  "stateId": 3426185,
+  "stateCode": "IS-4",
+  "countryCode": "IS",
+  "cities": [
+    {
+      "id": 3426188,
+      "name": "Bolungarvíkurkaupstaður",
+      "nativeName": "Bolungarvíkurkaupstaður",
+      "code": "IS-4-3426188",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-4",
+      "latitude": 66.14447,
+      "longitude": -23.33024
+    },
+    {
+      "id": 3415588,
+      "name": "Kaldrananeshreppur",
+      "nativeName": "Kaldrananeshreppur",
+      "code": "IS-4-3415588",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-4",
+      "latitude": 65.78333,
+      "longitude": -21.56667
+    },
+    {
+      "id": 3413878,
+      "name": "Reykhólahreppur",
+      "nativeName": "Reykhólahreppur",
+      "code": "IS-4-3413878",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-4",
+      "latitude": 65.6099,
+      "longitude": -22.33324
+    },
+    {
+      "id": 9192470,
+      "name": "Strandabyggð",
+      "nativeName": "Strandabyggð",
+      "code": "IS-4-9192470",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-4",
+      "latitude": 65.77455,
+      "longitude": -21.95725
+    },
+    {
+      "id": 3412885,
+      "name": "Súðavíkurhreppur",
+      "nativeName": "Súðavíkurhreppur",
+      "code": "IS-4-3412885",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-4",
+      "latitude": 65.87801,
+      "longitude": -22.82642
+    },
+    {
+      "id": 3412697,
+      "name": "Tálknafjarðarhreppur",
+      "nativeName": "Tálknafjarðarhreppur",
+      "code": "IS-4-3412697",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-4",
+      "latitude": 65.61667,
+      "longitude": -23.88333
+    },
+    {
+      "id": 3426215,
+      "name": "Vesturbyggð",
+      "nativeName": "Vesturbyggð",
+      "code": "IS-4-3426215",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-4",
+      "latitude": 65.55404,
+      "longitude": -23.4652
+    },
+    {
+      "id": 3418510,
+      "name": "Árneshreppur",
+      "nativeName": "Árneshreppur",
+      "code": "IS-4-3418510",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-4",
+      "latitude": 66.06667,
+      "longitude": -21.75
+    },
+    {
+      "id": 3415669,
+      "name": "Ísafjarðarbær",
+      "nativeName": "Ísafjarðarbær",
+      "code": "IS-4-3415669",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-4",
+      "latitude": 66.07586,
+      "longitude": -23.12794
+    }
+  ]
+}

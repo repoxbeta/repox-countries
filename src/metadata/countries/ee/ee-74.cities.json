@@ -1,0 +1,40 @@
+{
+  "stateId": 588879,
+  "stateCode": "EE-74",
+  "countryCode": "EE",
+  "cities": [
+    {
+      "id": 7522345,
+      "name": "Muhu vald",
+      "nativeName": "Muhu vald",
+      "code": "EE-74-7522345",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-74",
+      "latitude": 58.58486,
+      "longitude": 23.25609
+    },
+    {
+      "id": 7522405,
+      "name": "Ruhnu vald",
+      "nativeName": "Ruhnu vald",
+      "code": "EE-74-7522405",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-74",
+      "latitude": 57.80309,
+      "longitude": 23.2425
+    },
+    {
+      "id": 11776874,
+      "name": "Saaremaa vald",
+      "nativeName": "Saaremaa vald",
+      "code": "EE-74-11776874",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-74",
+      "latitude": 58.37814,
+      "longitude": 22.49354
+    }
+  ]
+}

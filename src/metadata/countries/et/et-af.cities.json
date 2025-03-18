@@ -1,0 +1,73 @@
+{
+  "stateId": 444179,
+  "stateCode": "ET-AF",
+  "countryCode": "ET",
+  "cities": [
+    {
+      "id": 8643576,
+      "name": "Administrative Zone 1",
+      "nativeName": "Administrative Zone 1",
+      "code": "ET-AF-8643576",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-AF",
+      "latitude": 12,
+      "longitude": 41.16667
+    },
+    {
+      "id": 8643583,
+      "name": "Administrative Zone 2",
+      "nativeName": "Administrative Zone 2",
+      "code": "ET-AF-8643583",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-AF",
+      "latitude": 13.68513,
+      "longitude": 40.05615
+    },
+    {
+      "id": 7732968,
+      "name": "Administrative Zone 3",
+      "nativeName": "Administrative Zone 3",
+      "code": "ET-AF-7732968",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-AF",
+      "latitude": 10.00902,
+      "longitude": 40.47394
+    },
+    {
+      "id": 8643588,
+      "name": "Administrative Zone 4",
+      "nativeName": "Administrative Zone 4",
+      "code": "ET-AF-8643588",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-AF",
+      "latitude": 12.33333,
+      "longitude": 40.16667
+    },
+    {
+      "id": 8643592,
+      "name": "Administrative Zone 5",
+      "nativeName": "Administrative Zone 5",
+      "code": "ET-AF-8643592",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-AF",
+      "latitude": 10.5,
+      "longitude": 40.25
+    },
+    {
+      "id": 7646394,
+      "name": "Pemba District",
+      "nativeName": "Pemba District",
+      "code": "ET-AF-7646394",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-AF",
+      "latitude": 12.57,
+      "longitude": 40.3
+    }
+  ]
+}

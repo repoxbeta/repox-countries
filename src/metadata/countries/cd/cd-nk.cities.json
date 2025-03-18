@@ -1,0 +1,106 @@
+{
+  "stateId": 206938,
+  "stateCode": "CD-NK",
+  "countryCode": "CD",
+  "cities": [
+    {
+      "id": 219056,
+      "name": "Beni",
+      "nativeName": "Beni",
+      "code": "CD-NK-219056",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-NK",
+      "latitude": 0.5,
+      "longitude": 29.46667
+    },
+    {
+      "id": 8260604,
+      "name": "Butembo",
+      "nativeName": "Butembo",
+      "code": "CD-NK-8260604",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-NK",
+      "latitude": 0.14231,
+      "longitude": 29.28185
+    },
+    {
+      "id": 216279,
+      "name": "Goma",
+      "nativeName": "Goma",
+      "code": "CD-NK-216279",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-NK",
+      "latitude": -1.68333,
+      "longitude": 29.23333
+    },
+    {
+      "id": 211067,
+      "name": "Lubero",
+      "nativeName": "Lubero",
+      "code": "CD-NK-211067",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-NK",
+      "latitude": -0.16667,
+      "longitude": 29.23333
+    },
+    {
+      "id": 9179534,
+      "name": "Masisi",
+      "nativeName": "Masisi Territory",
+      "code": "CD-NK-9179534",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-NK",
+      "latitude": -1.4,
+      "longitude": 28.81667
+    },
+    {
+      "id": 8260598,
+      "name": "Nyirangongo",
+      "nativeName": "Nyirangongo",
+      "code": "CD-NK-8260598",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-NK",
+      "latitude": -1.55515,
+      "longitude": 29.286
+    },
+    {
+      "id": 8260605,
+      "name": "Oicha",
+      "nativeName": "Oicha",
+      "code": "CD-NK-8260605",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-NK",
+      "latitude": 0.41849,
+      "longitude": 29.55072
+    },
+    {
+      "id": 9179537,
+      "name": "Rutshuru",
+      "nativeName": "Rutshuru Territory",
+      "code": "CD-NK-9179537",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-NK",
+      "latitude": -1.18727,
+      "longitude": 29.446
+    },
+    {
+      "id": 12278075,
+      "name": "Walikale",
+      "nativeName": "Walikale",
+      "code": "CD-NK-12278075",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-NK",
+      "latitude": -1.11856,
+      "longitude": 28.16357
+    }
+  ]
+}

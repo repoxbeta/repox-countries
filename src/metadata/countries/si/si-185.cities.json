@@ -1,0 +1,95 @@
+{
+  "stateId": 3344927,
+  "stateCode": "SI-185",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3188767,
+      "name": "Trnovska Vas",
+      "nativeName": "Trnovska Vas",
+      "code": "SI-185-3188767",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-185",
+      "latitude": 46.52019,
+      "longitude": 15.88657
+    },
+    {
+      "id": 3204107,
+      "name": "Biš",
+      "nativeName": "Biš",
+      "code": "SI-185-3204107",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-185",
+      "latitude": 46.5275,
+      "longitude": 15.88694
+    },
+    {
+      "id": 3217932,
+      "name": "Bišečki Vrh",
+      "nativeName": "Bišečki Vrh",
+      "code": "SI-185-3217932",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-185",
+      "latitude": 46.51556,
+      "longitude": 15.87361
+    },
+    {
+      "id": 3196297,
+      "name": "Ločič",
+      "nativeName": "Ločič",
+      "code": "SI-185-3196297",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-185",
+      "latitude": 46.51667,
+      "longitude": 15.91667
+    },
+    {
+      "id": 8988020,
+      "name": "Sovjak",
+      "nativeName": "Sovjak",
+      "code": "SI-185-8988020",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-185",
+      "latitude": 46.53039,
+      "longitude": 15.86595
+    },
+    {
+      "id": 3190237,
+      "name": "Spodnja Senarska",
+      "nativeName": "Spodnja Senarska",
+      "code": "SI-185-3190237",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-185",
+      "latitude": 46.55,
+      "longitude": 15.88333
+    },
+    {
+      "id": 8989491,
+      "name": "Trnovski Vrh",
+      "nativeName": "Trnovski Vrh",
+      "code": "SI-185-8989491",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-185",
+      "latitude": 46.50735,
+      "longitude": 15.87195
+    },
+    {
+      "id": 8987889,
+      "name": "Črmlja",
+      "nativeName": "Črmlja",
+      "code": "SI-185-8987889",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-185",
+      "latitude": 46.52228,
+      "longitude": 15.86445
+    }
+  ]
+}

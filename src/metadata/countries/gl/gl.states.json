@@ -1,0 +1,61 @@
+{
+  "countryId": 3425505,
+  "countryCode": "GL",
+  "states": [
+    {
+      "id": 11839537,
+      "name": "Avannaata",
+      "nativeName": "Avannaata",
+      "code": "GL-QA",
+      "internalCode": "QA",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "latitude": 69.21536,
+      "longitude": -51.08301
+    },
+    {
+      "id": 7602005,
+      "name": "Kujalleq",
+      "nativeName": "Kujalleq",
+      "code": "GL-KU",
+      "internalCode": "KU",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "latitude": 60.71905,
+      "longitude": -46.03683
+    },
+    {
+      "id": 11839534,
+      "name": "Qeqertalik",
+      "nativeName": "Qeqertalik",
+      "code": "GL-QT",
+      "internalCode": "QT",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "latitude": 68.70716,
+      "longitude": -52.84289
+    },
+    {
+      "id": 7602006,
+      "name": "Qeqqata",
+      "nativeName": "Qeqqata",
+      "code": "GL-QE",
+      "internalCode": "QE",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "latitude": 66.94142,
+      "longitude": -53.66374
+    },
+    {
+      "id": 7602007,
+      "name": "Sermersooq",
+      "nativeName": "Sermersooq",
+      "code": "GL-SM",
+      "internalCode": "SM",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "latitude": 64.18284,
+      "longitude": -51.71831
+    }
+  ]
+}

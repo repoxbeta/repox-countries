@@ -1,0 +1,238 @@
+{
+  "stateId": 3632191,
+  "stateCode": "VE-M",
+  "countryCode": "VE",
+  "cities": [
+    {
+      "id": 3649812,
+      "name": "Acevedo Municipality",
+      "nativeName": "Municipio Acevedo",
+      "code": "VE-M-3649812",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-M",
+      "latitude": 10.25,
+      "longitude": -66.33333
+    },
+    {
+      "id": 8131441,
+      "name": "Andrés Bello Municipality",
+      "nativeName": "Municipio Andrés Bello",
+      "code": "VE-M-8131441",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-M",
+      "latitude": 10.29735,
+      "longitude": -65.99556
+    },
+    {
+      "id": 8131442,
+      "name": "Baruta Municipality",
+      "nativeName": "Municipio Baruta",
+      "code": "VE-M-8131442",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-M",
+      "latitude": 10.43346,
+      "longitude": -66.87541
+    },
+    {
+      "id": 8129188,
+      "name": "Buroz Municipality",
+      "nativeName": "Municipio Buroz",
+      "code": "VE-M-8129188",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-M",
+      "latitude": 10.36461,
+      "longitude": -66.13044
+    },
+    {
+      "id": 8131443,
+      "name": "Carrizal Municipality",
+      "nativeName": "Municipio Carrizal",
+      "code": "VE-M-8131443",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-M",
+      "latitude": 10.3514,
+      "longitude": -66.9936
+    },
+    {
+      "id": 8129178,
+      "name": "Chacao Municipality",
+      "nativeName": "Municipio Chacao",
+      "code": "VE-M-8129178",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-M",
+      "latitude": 10.49598,
+      "longitude": -66.85347
+    },
+    {
+      "id": 3644938,
+      "name": "Cristóbal Rojas Municipality",
+      "nativeName": "Municipio Cristóbal Rojas",
+      "code": "VE-M-3644938",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-M",
+      "latitude": 10.26294,
+      "longitude": -66.83745
+    },
+    {
+      "id": 8129201,
+      "name": "El Hatillo Municipality",
+      "nativeName": "Municipio El Hatillo",
+      "code": "VE-M-8129201",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-M",
+      "latitude": 10.42994,
+      "longitude": -66.8161
+    },
+    {
+      "id": 3640380,
+      "name": "Guaicaipuro Municipality",
+      "nativeName": "Municipio Guaicaipuro",
+      "code": "VE-M-3640380",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-M",
+      "latitude": 10.25,
+      "longitude": -67
+    },
+    {
+      "id": 3639385,
+      "name": "Independencia Municipality",
+      "nativeName": "Municipio Independencia",
+      "code": "VE-M-3639385",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-M",
+      "latitude": 10.2,
+      "longitude": -66.6
+    },
+    {
+      "id": 3637011,
+      "name": "Lander Municipality",
+      "nativeName": "Municipio Lander",
+      "code": "VE-M-3637011",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-M",
+      "latitude": 10.08333,
+      "longitude": -66.75
+    },
+    {
+      "id": 8129204,
+      "name": "Los Salias Municipality",
+      "nativeName": "Municipio Los Salias",
+      "code": "VE-M-8129204",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-M",
+      "latitude": 10.38853,
+      "longitude": -66.95179
+    },
+    {
+      "id": 3647945,
+      "name": "Municipio Brión",
+      "nativeName": "Municipio Brión",
+      "code": "VE-M-3647945",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-M",
+      "latitude": 10.41667,
+      "longitude": -66.16667
+    },
+    {
+      "id": 8131444,
+      "name": "Municipio Pedro Gual",
+      "nativeName": "Municipio Pedro Gual",
+      "code": "VE-M-8131444",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-M",
+      "latitude": 10.16103,
+      "longitude": -65.7009
+    },
+    {
+      "id": 3631169,
+      "name": "Municipio Páez",
+      "nativeName": "Municipio Páez",
+      "code": "VE-M-3631169",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-M",
+      "latitude": 10.20915,
+      "longitude": -65.94226
+    },
+    {
+      "id": 3625659,
+      "name": "Municipio Urdaneta",
+      "nativeName": "Municipio Urdaneta",
+      "code": "VE-M-3625659",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-M",
+      "latitude": 10.16667,
+      "longitude": -66.91667
+    },
+    {
+      "id": 3630495,
+      "name": "Paz Castillo Municipality",
+      "nativeName": "Municipio Paz Castillo",
+      "code": "VE-M-3630495",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-M",
+      "latitude": 10.33333,
+      "longitude": -66.66667
+    },
+    {
+      "id": 3630003,
+      "name": "Plaza Municipality",
+      "nativeName": "Municipio Plaza",
+      "code": "VE-M-3630003",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-M",
+      "latitude": 10.5,
+      "longitude": -66.66667
+    },
+    {
+      "id": 8129186,
+      "name": "Simón Bolívar Municipality",
+      "nativeName": "Municipio Simón Bolívar",
+      "code": "VE-M-8129186",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-M",
+      "latitude": 10.17793,
+      "longitude": -66.74649
+    },
+    {
+      "id": 8129175,
+      "name": "Sucre Municipality",
+      "nativeName": "Municipio Sucre",
+      "code": "VE-M-8129175",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-M",
+      "latitude": 10.47226,
+      "longitude": -66.80155
+    },
+    {
+      "id": 3625122,
+      "name": "Zamora Municipality",
+      "nativeName": "Municipio Zamora",
+      "code": "VE-M-3625122",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-M",
+      "latitude": 10.5,
+      "longitude": -66.5
+    }
+  ]
+}

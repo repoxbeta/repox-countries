@@ -1,0 +1,62 @@
+{
+  "stateId": 11124984,
+  "stateCode": "TZ-32",
+  "countryCode": "TZ",
+  "cities": [
+    {
+      "id": 159221,
+      "name": "Ileje District Council",
+      "nativeName": "Ileje",
+      "code": "TZ-32-159221",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-32",
+      "latitude": -9.41667,
+      "longitude": 33.33333
+    },
+    {
+      "id": 154331,
+      "name": "Mbozi District Council",
+      "nativeName": "Mbozi",
+      "code": "TZ-32-154331",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-32",
+      "latitude": -8.94565,
+      "longitude": 32.92613
+    },
+    {
+      "id": 9998151,
+      "name": "Momba District Council",
+      "nativeName": "Momba",
+      "code": "TZ-32-9998151",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-32",
+      "latitude": -8.8118,
+      "longitude": 32.36323
+    },
+    {
+      "id": 11951161,
+      "name": "Songwe District",
+      "nativeName": "Songwe District",
+      "code": "TZ-32-11951161",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-32",
+      "latitude": -7.69704,
+      "longitude": 32.68426
+    },
+    {
+      "id": 9998152,
+      "name": "Tunduma Town Council",
+      "nativeName": "Tunduma",
+      "code": "TZ-32-9998152",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-32",
+      "latitude": -9.29887,
+      "longitude": 32.7989
+    }
+  ]
+}

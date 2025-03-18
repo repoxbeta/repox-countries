@@ -1,0 +1,106 @@
+{
+  "stateId": 1581188,
+  "stateCode": "VN-CT",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 9072539,
+      "name": "Cái Răng District",
+      "nativeName": "Cái Răng",
+      "code": "VN-CT-9072539",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-CT",
+      "latitude": 9.99271,
+      "longitude": 105.78548
+    },
+    {
+      "id": 9533388,
+      "name": "Huyện Cờ Đỏ",
+      "nativeName": "Huyện Cờ Đỏ",
+      "code": "VN-CT-9533388",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-CT",
+      "latitude": 10.12956,
+      "longitude": 105.46355
+    },
+    {
+      "id": 9533386,
+      "name": "Huyện Phong Điền",
+      "nativeName": "Huyện Phong Điền",
+      "code": "VN-CT-9533386",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-CT",
+      "latitude": 10.00568,
+      "longitude": 105.67094
+    },
+    {
+      "id": 9533389,
+      "name": "Huyện Vĩnh Thạnh",
+      "nativeName": "Huyện Vĩnh Thạnh",
+      "code": "VN-CT-9533389",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-CT",
+      "latitude": 10.20821,
+      "longitude": 105.37847
+    },
+    {
+      "id": 9533385,
+      "name": "Quận Bình Thủy",
+      "nativeName": "Quận Bình Thủy",
+      "code": "VN-CT-9533385",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-CT",
+      "latitude": 10.06195,
+      "longitude": 105.72206
+    },
+    {
+      "id": 1904928,
+      "name": "Quận Ninh Kiều",
+      "nativeName": "Quận Ninh Kiều",
+      "code": "VN-CT-1904928",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-CT",
+      "latitude": 10.0272,
+      "longitude": 105.75979
+    },
+    {
+      "id": 1904930,
+      "name": "Quận Ô Môn",
+      "nativeName": "Quận Ô Môn",
+      "code": "VN-CT-1904930",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-CT",
+      "latitude": 10.13171,
+      "longitude": 105.63692
+    },
+    {
+      "id": 1904931,
+      "name": "Thốt Nốt District",
+      "nativeName": "Quận Thốt Nốt",
+      "code": "VN-CT-1904931",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-CT",
+      "latitude": 10.23508,
+      "longitude": 105.53173
+    },
+    {
+      "id": 9533387,
+      "name": "Thới Lai District",
+      "nativeName": "Huyện Thới Lai",
+      "code": "VN-CT-9533387",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-CT",
+      "latitude": 10.02997,
+      "longitude": 105.53978
+    }
+  ]
+}

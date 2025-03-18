@@ -1,0 +1,51 @@
+{
+  "stateId": 865538,
+  "stateCode": "GE-GU",
+  "countryCode": "GE",
+  "cities": [
+    {
+      "id": 7668994,
+      "name": "Chokhatauris Raioni",
+      "nativeName": "Chokhatauri",
+      "code": "GE-GU-7668994",
+      "countryId": 614540,
+      "countryCode": "GE",
+      "stateCode": "GE-GU",
+      "latitude": 42.01869,
+      "longitude": 42.2435
+    },
+    {
+      "id": 615117,
+      "name": "Chokhat’auris Munitsip’alit’et’i",
+      "nativeName": "Chokhat’auris Munitsip’alit’et’i",
+      "code": "GE-GU-615117",
+      "countryId": 614540,
+      "countryCode": "GE",
+      "stateCode": "GE-GU",
+      "latitude": 41.93333,
+      "longitude": 42.36667
+    },
+    {
+      "id": 613310,
+      "name": "Lanchkhutis Munitsip’alit’et’i",
+      "nativeName": "Lanchkhutis Munitsip’alit’et’i",
+      "code": "GE-GU-613310",
+      "countryId": 614540,
+      "countryCode": "GE",
+      "stateCode": "GE-GU",
+      "latitude": 42.1,
+      "longitude": 41.95
+    },
+    {
+      "id": 612535,
+      "name": "Ozurgeti",
+      "nativeName": "Ozurget’is Raioni",
+      "code": "GE-GU-612535",
+      "countryId": 614540,
+      "countryCode": "GE",
+      "stateCode": "GE-GU",
+      "latitude": 41.93333,
+      "longitude": 42.05
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "stateId": 3492112,
+  "stateCode": "DO-27",
+  "countryCode": "DO",
+  "cities": [
+    {
+      "id": 3505860,
+      "name": "Esperanza",
+      "nativeName": "Esperanza",
+      "code": "DO-27-3505860",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-27",
+      "latitude": 19.62379,
+      "longitude": -70.97141
+    },
+    {
+      "id": 3502374,
+      "name": "Laguna Salada",
+      "nativeName": "Laguna Salada",
+      "code": "DO-27-3502374",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-27",
+      "latitude": 19.7,
+      "longitude": -71.13333
+    },
+    {
+      "id": 3496832,
+      "name": "Mao",
+      "nativeName": "Mao",
+      "code": "DO-27-3496832",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-27",
+      "latitude": 19.58333,
+      "longitude": -71.08333
+    }
+  ]
+}

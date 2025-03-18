@@ -1,0 +1,161 @@
+{
+  "stateId": 3239073,
+  "stateCode": "SI-005",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3203677,
+      "name": "Borovnica",
+      "nativeName": "Borovnica",
+      "code": "SI-005-3203677",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-005",
+      "latitude": 45.91583,
+      "longitude": 14.36306
+    },
+    {
+      "id": 3203466,
+      "name": "Breg pri Borovnici",
+      "nativeName": "Breg pri Borovnici",
+      "code": "SI-005-3203466",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-005",
+      "latitude": 45.9375,
+      "longitude": 14.36667
+    },
+    {
+      "id": 3203340,
+      "name": "Brezovica pri Borovnici",
+      "nativeName": "Brezovica pri Borovnici",
+      "code": "SI-005-3203340",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-005",
+      "latitude": 45.89889,
+      "longitude": 14.39639
+    },
+    {
+      "id": 3201751,
+      "name": "Dol pri Borovnici",
+      "nativeName": "Dol pri Borovnici",
+      "code": "SI-005-3201751",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-005",
+      "latitude": 45.92944,
+      "longitude": 14.35389
+    },
+    {
+      "id": 3201235,
+      "name": "Dražica",
+      "nativeName": "Dražica",
+      "code": "SI-005-3201235",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-005",
+      "latitude": 45.91111,
+      "longitude": 14.37611
+    },
+    {
+      "id": 3218904,
+      "name": "Galetov Grad",
+      "nativeName": "Galetov Grad",
+      "code": "SI-005-3218904",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-005",
+      "latitude": 45.94,
+      "longitude": 14.34028
+    },
+    {
+      "id": 3200456,
+      "name": "Goli Vrh",
+      "nativeName": "Goli Vrh",
+      "code": "SI-005-3200456",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-005",
+      "latitude": 45.9,
+      "longitude": 14.38333
+    },
+    {
+      "id": 3218905,
+      "name": "Laze pri Borovnici",
+      "nativeName": "Laze pri Borovnici",
+      "code": "SI-005-3218905",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-005",
+      "latitude": 45.92167,
+      "longitude": 14.35111
+    },
+    {
+      "id": 8989408,
+      "name": "Lašče",
+      "nativeName": "Lašče",
+      "code": "SI-005-8989408",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-005",
+      "latitude": 45.898,
+      "longitude": 14.36853
+    },
+    {
+      "id": 3194483,
+      "name": "Niževec",
+      "nativeName": "Niževec",
+      "code": "SI-005-3194483",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-005",
+      "latitude": 45.90417,
+      "longitude": 14.39
+    },
+    {
+      "id": 8988021,
+      "name": "Ohonica",
+      "nativeName": "Ohonica",
+      "code": "SI-005-8988021",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-005",
+      "latitude": 45.90144,
+      "longitude": 14.37411
+    },
+    {
+      "id": 3193711,
+      "name": "Pako",
+      "nativeName": "Pako",
+      "code": "SI-005-3193711",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-005",
+      "latitude": 45.93944,
+      "longitude": 14.36778
+    },
+    {
+      "id": 8989104,
+      "name": "Pristava",
+      "nativeName": "Pristava",
+      "code": "SI-005-8989104",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-005",
+      "latitude": 45.8903,
+      "longitude": 14.366
+    },
+    {
+      "id": 3190408,
+      "name": "Zabočevo",
+      "nativeName": "Zabočevo",
+      "code": "SI-005-3190408",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-005",
+      "latitude": 45.9075,
+      "longitude": 14.39917
+    }
+  ]
+}

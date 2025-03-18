@@ -1,0 +1,106 @@
+{
+  "stateId": 1587974,
+  "stateCode": "VN-50",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 1904850,
+      "name": "Ba Tri District",
+      "nativeName": "Huyện Ba Tri",
+      "code": "VN-50-1904850",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-50",
+      "latitude": 10.06266,
+      "longitude": 106.59112
+    },
+    {
+      "id": 1904849,
+      "name": "Bình Đại District",
+      "nativeName": "Huyện Bình Đại",
+      "code": "VN-50-1904849",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-50",
+      "latitude": 10.19354,
+      "longitude": 106.64455
+    },
+    {
+      "id": 1904847,
+      "name": "Châu Thành District",
+      "nativeName": "Huyện Châu Thành",
+      "code": "VN-50-1904847",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-50",
+      "latitude": 10.29212,
+      "longitude": 106.30827
+    },
+    {
+      "id": 1904846,
+      "name": "Chợ Lách District",
+      "nativeName": "Huyện Chợ Lách",
+      "code": "VN-50-1904846",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-50",
+      "latitude": 10.22674,
+      "longitude": 106.17077
+    },
+    {
+      "id": 1904848,
+      "name": "Giồng Trôm District",
+      "nativeName": "Huyện Giồng Trôm",
+      "code": "VN-50-1904848",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-50",
+      "latitude": 10.15909,
+      "longitude": 106.47004
+    },
+    {
+      "id": 9531822,
+      "name": "Mỏ Cày Bắc District",
+      "nativeName": "Huyện Mỏ Cày Bắc",
+      "code": "VN-50-9531822",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-50",
+      "latitude": 10.17827,
+      "longitude": 106.30358
+    },
+    {
+      "id": 1904845,
+      "name": "Mỏ Cày Nam District",
+      "nativeName": "Huyện Mỏ Cày Nam",
+      "code": "VN-50-1904845",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-50",
+      "latitude": 10.0697,
+      "longitude": 106.36362
+    },
+    {
+      "id": 1904851,
+      "name": "Thành Phố Bến Tre",
+      "nativeName": "Thành Phố Bến Tre",
+      "code": "VN-50-1904851",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-50",
+      "latitude": 10.23561,
+      "longitude": 106.3783
+    },
+    {
+      "id": 1904844,
+      "name": "Thạnh Phú District",
+      "nativeName": "Huyện Thạnh Phú",
+      "code": "VN-50-1904844",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-50",
+      "latitude": 9.92993,
+      "longitude": 106.54316
+    }
+  ]
+}

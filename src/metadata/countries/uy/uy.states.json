@@ -1,0 +1,215 @@
+{
+  "countryId": 3439705,
+  "countryCode": "UY",
+  "states": [
+    {
+      "id": 3443756,
+      "name": "Artigas",
+      "nativeName": "Departamento de Artigas",
+      "code": "UY-AR",
+      "internalCode": "AR",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "latitude": -30.58333,
+      "longitude": -57
+    },
+    {
+      "id": 3443411,
+      "name": "Canelones",
+      "nativeName": "Departamento de Canelones",
+      "code": "UY-CA",
+      "internalCode": "CA",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "latitude": -34.53333,
+      "longitude": -55.91667
+    },
+    {
+      "id": 3443173,
+      "name": "Cerro Largo",
+      "nativeName": "Departamento de Cerro Largo",
+      "code": "UY-CL",
+      "internalCode": "CL",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "latitude": -32.33333,
+      "longitude": -54.33333
+    },
+    {
+      "id": 3443025,
+      "name": "Colonia",
+      "nativeName": "Departamento de Colonia",
+      "code": "UY-CO",
+      "internalCode": "CO",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "latitude": -34.16667,
+      "longitude": -57.66667
+    },
+    {
+      "id": 3442720,
+      "name": "Durazno Department",
+      "nativeName": "Departamento de Durazno",
+      "code": "UY-DU",
+      "internalCode": "DU",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "latitude": -33.08333,
+      "longitude": -56.08333
+    },
+    {
+      "id": 3442587,
+      "name": "Flores Department",
+      "nativeName": "Departamento de Flores",
+      "code": "UY-FS",
+      "internalCode": "FS",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "latitude": -33.58333,
+      "longitude": -56.83333
+    },
+    {
+      "id": 3442584,
+      "name": "Florida",
+      "nativeName": "Departamento de Florida",
+      "code": "UY-FD",
+      "internalCode": "FD",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "latitude": -33.83333,
+      "longitude": -55.91667
+    },
+    {
+      "id": 3442007,
+      "name": "Lavalleja",
+      "nativeName": "Departamento de Lavalleja",
+      "code": "UY-LA",
+      "internalCode": "LA",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "latitude": -34,
+      "longitude": -55
+    },
+    {
+      "id": 3441890,
+      "name": "Maldonado",
+      "nativeName": "Departamento de Maldonado",
+      "code": "UY-MA",
+      "internalCode": "MA",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "latitude": -34.58333,
+      "longitude": -54.83333
+    },
+    {
+      "id": 3441572,
+      "name": "Montevideo Department",
+      "nativeName": "Departamento de Montevideo",
+      "code": "UY-MO",
+      "internalCode": "MO",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "latitude": -34.825,
+      "longitude": -56.2
+    },
+    {
+      "id": 3441242,
+      "name": "Paysandú Department",
+      "nativeName": "Departamento de Paysandú",
+      "code": "UY-PA",
+      "internalCode": "PA",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "latitude": -32.08333,
+      "longitude": -57.25
+    },
+    {
+      "id": 3440780,
+      "name": "Rivera Department",
+      "nativeName": "Departamento de Rivera",
+      "code": "UY-RV",
+      "internalCode": "RV",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "latitude": -31.5,
+      "longitude": -55.25
+    },
+    {
+      "id": 3440771,
+      "name": "Rocha Department",
+      "nativeName": "Departamento de Rocha",
+      "code": "UY-RO",
+      "internalCode": "RO",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "latitude": -34,
+      "longitude": -54
+    },
+    {
+      "id": 3440789,
+      "name": "Río Negro Department",
+      "nativeName": "Departamento de Río Negro",
+      "code": "UY-RN",
+      "internalCode": "RN",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "latitude": -32.75,
+      "longitude": -57.33333
+    },
+    {
+      "id": 3440711,
+      "name": "Salto Department",
+      "nativeName": "Departamento de Salto",
+      "code": "UY-SA",
+      "internalCode": "SA",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "latitude": -31.41667,
+      "longitude": -57
+    },
+    {
+      "id": 3440645,
+      "name": "San José Department",
+      "nativeName": "Departamento de San José",
+      "code": "UY-SJ",
+      "internalCode": "SJ",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "latitude": -34.25,
+      "longitude": -56.75
+    },
+    {
+      "id": 3440054,
+      "name": "Soriano",
+      "nativeName": "Departamento de Soriano",
+      "code": "UY-SO",
+      "internalCode": "SO",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "latitude": -33.5,
+      "longitude": -57.75
+    },
+    {
+      "id": 3440033,
+      "name": "Tacuarembó Department",
+      "nativeName": "Departamento de Tacuarembó",
+      "code": "UY-TA",
+      "internalCode": "TA",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "latitude": -32.08333,
+      "longitude": -55.75
+    },
+    {
+      "id": 3439780,
+      "name": "Treinta y Tres Department",
+      "nativeName": "Departamento de Treinta y Tres",
+      "code": "UY-TT",
+      "internalCode": "TT",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "latitude": -33,
+      "longitude": -54.25
+    }
+  ]
+}

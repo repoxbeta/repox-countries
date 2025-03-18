@@ -1,0 +1,62 @@
+{
+  "stateId": 381229,
+  "stateCode": "SS-NU",
+  "countryCode": "SS",
+  "cities": [
+    {
+      "id": 10375722,
+      "name": "Maban County",
+      "nativeName": "Maban County",
+      "code": "SS-NU-10375722",
+      "countryId": 7909807,
+      "countryCode": "SS",
+      "stateCode": "SS-NU",
+      "latitude": 9.97917,
+      "longitude": 33.75
+    },
+    {
+      "id": 10400482,
+      "name": "Malakal County",
+      "nativeName": "Malakal County",
+      "code": "SS-NU-10400482",
+      "countryId": 7909807,
+      "countryCode": "SS",
+      "stateCode": "SS-NU",
+      "latitude": 9.63371,
+      "longitude": 31.61743
+    },
+    {
+      "id": 10376722,
+      "name": "Melut County",
+      "nativeName": "Melut County",
+      "code": "SS-NU-10376722",
+      "countryId": 7909807,
+      "countryCode": "SS",
+      "stateCode": "SS-NU",
+      "latitude": 10.64274,
+      "longitude": 32.49155
+    },
+    {
+      "id": 381228,
+      "name": "Mudīrīyat A‘ālī an Nīl",
+      "nativeName": "Mudīrīyat A‘ālī an Nīl",
+      "code": "SS-NU-381228",
+      "countryId": 7909807,
+      "countryCode": "SS",
+      "stateCode": "SS-NU",
+      "latitude": 9.5,
+      "longitude": 32
+    },
+    {
+      "id": 10400839,
+      "name": "Renk County",
+      "nativeName": "Renk County",
+      "code": "SS-NU-10400839",
+      "countryId": 7909807,
+      "countryCode": "SS",
+      "stateCode": "SS-NU",
+      "latitude": 11.31408,
+      "longitude": 33.06162
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "stateId": 2593113,
+  "stateCode": "ES-VC",
+  "countryCode": "ES",
+  "cities": [
+    {
+      "id": 2521976,
+      "name": "Alicante",
+      "nativeName": "Provincia de Alicante",
+      "code": "ES-VC-2521976",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "stateCode": "ES-VC",
+      "latitude": 38.5,
+      "longitude": -0.5
+    },
+    {
+      "id": 3125881,
+      "name": "Castellon",
+      "nativeName": "Província de Castelló",
+      "code": "ES-VC-3125881",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "stateCode": "ES-VC",
+      "latitude": 40.16667,
+      "longitude": -0.16667
+    },
+    {
+      "id": 2509951,
+      "name": "Valencia",
+      "nativeName": "Província de València",
+      "code": "ES-VC-2509951",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "stateCode": "ES-VC",
+      "latitude": 39.33333,
+      "longitude": -0.83333
+    }
+  ]
+}

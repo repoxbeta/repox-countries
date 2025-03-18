@@ -1,0 +1,62 @@
+{
+  "stateId": 1131821,
+  "stateCode": "AF-NIM",
+  "countryCode": "AF",
+  "cities": [
+    {
+      "id": 7053294,
+      "name": "Chahar Burjak District",
+      "nativeName": "Chahār Burjak",
+      "code": "AF-NIM-7053294",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-NIM",
+      "latitude": 30.16794,
+      "longitude": 62.07976
+    },
+    {
+      "id": 7729835,
+      "name": "Chakhansur District",
+      "nativeName": "Chakhansur",
+      "code": "AF-NIM-7729835",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-NIM",
+      "latitude": 31.36354,
+      "longitude": 62.46807
+    },
+    {
+      "id": 7053295,
+      "name": "Kang District",
+      "nativeName": "Kang",
+      "code": "AF-NIM-7053295",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-NIM",
+      "latitude": 31.3211,
+      "longitude": 61.83517
+    },
+    {
+      "id": 7053296,
+      "name": "Khash Rod District",
+      "nativeName": "Khāsh Rōd",
+      "code": "AF-NIM-7053296",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-NIM",
+      "latitude": 31.73588,
+      "longitude": 62.91037
+    },
+    {
+      "id": 7053297,
+      "name": "Zaranj District",
+      "nativeName": "Zaranj",
+      "code": "AF-NIM-7053297",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-NIM",
+      "latitude": 30.91103,
+      "longitude": 62.0365
+    }
+  ]
+}

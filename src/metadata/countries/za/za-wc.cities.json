@@ -1,0 +1,73 @@
+{
+  "stateId": 1085599,
+  "stateCode": "ZA-WC",
+  "countryCode": "ZA",
+  "cities": [
+    {
+      "id": 8347344,
+      "name": "Cape Winelands District Municipality",
+      "nativeName": "Cape Winelands District Municipality",
+      "code": "ZA-WC-8347344",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "stateCode": "ZA-WC",
+      "latitude": -33.32249,
+      "longitude": 19.68998
+    },
+    {
+      "id": 8347352,
+      "name": "Central Karoo District Municipality",
+      "nativeName": "Central Karoo District Municipality",
+      "code": "ZA-WC-8347352",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "stateCode": "ZA-WC",
+      "latitude": -32.62812,
+      "longitude": 22.21192
+    },
+    {
+      "id": 8334583,
+      "name": "City of Cape Town",
+      "nativeName": "City of Cape Town",
+      "code": "ZA-WC-8334583",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "stateCode": "ZA-WC",
+      "latitude": -33.91667,
+      "longitude": 18.41667
+    },
+    {
+      "id": 8347349,
+      "name": "Eden District Municipality",
+      "nativeName": "Eden District Municipality",
+      "code": "ZA-WC-8347349",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "stateCode": "ZA-WC",
+      "latitude": -33.82139,
+      "longitude": 22.01263
+    },
+    {
+      "id": 8347370,
+      "name": "Overberg District Municipality",
+      "nativeName": "Overberg District Municipality",
+      "code": "ZA-WC-8347370",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "stateCode": "ZA-WC",
+      "latitude": -34.26131,
+      "longitude": 19.93985
+    },
+    {
+      "id": 8347356,
+      "name": "West Coast District Municipality",
+      "nativeName": "West Coast District Municipality",
+      "code": "ZA-WC-8347356",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "stateCode": "ZA-WC",
+      "latitude": -32.09506,
+      "longitude": 18.62695
+    }
+  ]
+}

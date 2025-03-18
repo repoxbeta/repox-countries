@@ -1,0 +1,51 @@
+{
+  "stateId": 865731,
+  "stateCode": "AL-09",
+  "countryCode": "AL",
+  "cities": [
+    {
+      "id": 10944373,
+      "name": "Bashkia Bulqizë",
+      "nativeName": "Bashkia Bulqizë",
+      "code": "AL-09-10944373",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-09",
+      "latitude": 41.47152,
+      "longitude": 20.33192
+    },
+    {
+      "id": 10944374,
+      "name": "Bashkia Dibër",
+      "nativeName": "Bashkia Dibër",
+      "code": "AL-09-10944374",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-09",
+      "latitude": 41.714,
+      "longitude": 20.36499
+    },
+    {
+      "id": 10944375,
+      "name": "Bashkia Klos",
+      "nativeName": "Bashkia Klos",
+      "code": "AL-09-10944375",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-09",
+      "latitude": 41.50826,
+      "longitude": 20.07107
+    },
+    {
+      "id": 10944376,
+      "name": "Bashkia Mat",
+      "nativeName": "Bashkia Mat",
+      "code": "AL-09-10944376",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-09",
+      "latitude": 41.63317,
+      "longitude": 20.01228
+    }
+  ]
+}

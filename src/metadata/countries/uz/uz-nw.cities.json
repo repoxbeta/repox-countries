@@ -1,0 +1,106 @@
+{
+  "stateId": 1484841,
+  "stateCode": "UZ-NW",
+  "countryCode": "UZ",
+  "cities": [
+    {
+      "id": 1513830,
+      "name": "Konimex Tumani",
+      "nativeName": "Konimex Tumani",
+      "code": "UZ-NW-1513830",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-NW",
+      "latitude": 40.21,
+      "longitude": 64.98
+    },
+    {
+      "id": 1513135,
+      "name": "Navbahor Tumani",
+      "nativeName": "Navbahor Tumani",
+      "code": "UZ-NW-1513135",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-NW",
+      "latitude": 40.24924,
+      "longitude": 65.30487
+    },
+    {
+      "id": 8714365,
+      "name": "Navbakhor Tumani",
+      "nativeName": "Navbakhor Tumani",
+      "code": "UZ-NW-8714365",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-NW",
+      "latitude": 40.22,
+      "longitude": 65.30306
+    },
+    {
+      "id": 1513133,
+      "name": "Navoiy Tumani",
+      "nativeName": "Navoiy Tumani",
+      "code": "UZ-NW-1513133",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-NW",
+      "latitude": 40.02021,
+      "longitude": 65.21556
+    },
+    {
+      "id": 1513082,
+      "name": "Nurota Tumani",
+      "nativeName": "Nurota Tumani",
+      "code": "UZ-NW-1513082",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-NW",
+      "latitude": 40.48287,
+      "longitude": 65.86746
+    },
+    {
+      "id": 1216582,
+      "name": "Qiziltepa Tumani",
+      "nativeName": "Qiziltepa Tumani",
+      "code": "UZ-NW-1216582",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-NW",
+      "latitude": 39.91667,
+      "longitude": 65
+    },
+    {
+      "id": 1512673,
+      "name": "Tomdi Tumani",
+      "nativeName": "Tomdi Tumani",
+      "code": "UZ-NW-1512673",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-NW",
+      "latitude": 42.22496,
+      "longitude": 65.2346
+    },
+    {
+      "id": 1512504,
+      "name": "Uchkuduk District",
+      "nativeName": "Uchkuduk District",
+      "code": "UZ-NW-1512504",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-NW",
+      "latitude": 42.13693,
+      "longitude": 63.56827
+    },
+    {
+      "id": 1513622,
+      "name": "Xatirchi Tumani",
+      "nativeName": "Xatirchi Tumani",
+      "code": "UZ-NW-1513622",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-NW",
+      "latitude": 40.16667,
+      "longitude": 66
+    }
+  ]
+}

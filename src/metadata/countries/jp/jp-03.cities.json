@@ -1,0 +1,271 @@
+{
+  "stateId": 2112518,
+  "stateCode": "JP-03",
+  "countryCode": "JP",
+  "cities": [
+    {
+      "id": 7441808,
+      "name": "Hachimantai Shi",
+      "nativeName": "Hachimantai Shi",
+      "code": "JP-03-7441808",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-03",
+      "latitude": 40.0239,
+      "longitude": 140.99113
+    },
+    {
+      "id": 2112822,
+      "name": "Hanamaki Shi",
+      "nativeName": "Hanamaki Shi",
+      "code": "JP-03-2112822",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-03",
+      "latitude": 39.44187,
+      "longitude": 141.16751
+    },
+    {
+      "id": 2112655,
+      "name": "Ichinoseki-shi",
+      "nativeName": "Ichinoseki-shi",
+      "code": "JP-03-2112655",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-03",
+      "latitude": 38.91667,
+      "longitude": 141.13333
+    },
+    {
+      "id": 11497023,
+      "name": "Isawa District",
+      "nativeName": "Isawa-gun",
+      "code": "JP-03-11497023",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-03",
+      "latitude": 39.20605,
+      "longitude": 141.01553
+    },
+    {
+      "id": 7441804,
+      "name": "Iwate-gun",
+      "nativeName": "Iwate-gun",
+      "code": "JP-03-7441804",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-03",
+      "latitude": 39.97238,
+      "longitude": 141.22719
+    },
+    {
+      "id": 2112441,
+      "name": "Kamaishi Shi",
+      "nativeName": "Kamaishi Shi",
+      "code": "JP-03-2112441",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-03",
+      "latitude": 39.28748,
+      "longitude": 141.79854
+    },
+    {
+      "id": 2112424,
+      "name": "Kamihei-gun",
+      "nativeName": "Kamihei-gun",
+      "code": "JP-03-2112424",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-03",
+      "latitude": 39.423,
+      "longitude": 141.8141
+    },
+    {
+      "id": 2112264,
+      "name": "Kesen-gun",
+      "nativeName": "Kesen-gun",
+      "code": "JP-03-2112264",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-03",
+      "latitude": 39.18011,
+      "longitude": 141.55045
+    },
+    {
+      "id": 2112223,
+      "name": "Kitakami Shi",
+      "nativeName": "Kitakami Shi",
+      "code": "JP-03-2112223",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-03",
+      "latitude": 39.30765,
+      "longitude": 141.00795
+    },
+    {
+      "id": 2129423,
+      "name": "Kuji Shi",
+      "nativeName": "Kuji Shi",
+      "code": "JP-03-2129423",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-03",
+      "latitude": 40.14364,
+      "longitude": 141.65918
+    },
+    {
+      "id": 2129400,
+      "name": "Kunohe-gun",
+      "nativeName": "Kunohe-gun",
+      "code": "JP-03-2129400",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-03",
+      "latitude": 40.2672,
+      "longitude": 141.58281
+    },
+    {
+      "id": 2111883,
+      "name": "Miyako Shi",
+      "nativeName": "Miyako Shi",
+      "code": "JP-03-2111883",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-03",
+      "latitude": 39.59486,
+      "longitude": 141.74592
+    },
+    {
+      "id": 2111833,
+      "name": "Morioka Shi",
+      "nativeName": "Morioka Shi",
+      "code": "JP-03-2111833",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-03",
+      "latitude": 39.74546,
+      "longitude": 141.26915
+    },
+    {
+      "id": 2128940,
+      "name": "Ninohe Shi",
+      "nativeName": "Ninohe Shi",
+      "code": "JP-03-2128940",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-03",
+      "latitude": 40.23798,
+      "longitude": 141.19576
+    },
+    {
+      "id": 2128941,
+      "name": "Ninohe-gun",
+      "nativeName": "Ninohe-gun",
+      "code": "JP-03-2128941",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-03",
+      "latitude": 40.14281,
+      "longitude": 141.27917
+    },
+    {
+      "id": 7441805,
+      "name": "Nishiiwai Gun",
+      "nativeName": "Nishiiwai Gun",
+      "code": "JP-03-7441805",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-03",
+      "latitude": 38.986,
+      "longitude": 141.10401
+    },
+    {
+      "id": 7441817,
+      "name": "Rikuzen-takata Shi",
+      "nativeName": "Rikuzen-takata Shi",
+      "code": "JP-03-7441817",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-03",
+      "latitude": 39.04082,
+      "longitude": 141.57703
+    },
+    {
+      "id": 7441806,
+      "name": "Shimohei-gun",
+      "nativeName": "Shimohei-gun",
+      "code": "JP-03-7441806",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-03",
+      "latitude": 39.84229,
+      "longitude": 141.76208
+    },
+    {
+      "id": 2111005,
+      "name": "Shiwa-gun",
+      "nativeName": "Shiwa-gun",
+      "code": "JP-03-2111005",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-03",
+      "latitude": 39.56368,
+      "longitude": 141.15222
+    },
+    {
+      "id": 2110852,
+      "name": "Takizawa-shi",
+      "nativeName": "Takizawa-shi",
+      "code": "JP-03-2110852",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-03",
+      "latitude": 39.8,
+      "longitude": 141.06667
+    },
+    {
+      "id": 2110732,
+      "name": "Tōno Shi",
+      "nativeName": "Tōno Shi",
+      "code": "JP-03-2110732",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-03",
+      "latitude": 39.36479,
+      "longitude": 141.50922
+    },
+    {
+      "id": 2110604,
+      "name": "Waga-gun",
+      "nativeName": "Waga-gun",
+      "code": "JP-03-2110604",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-03",
+      "latitude": 39.39081,
+      "longitude": 140.79082
+    },
+    {
+      "id": 2111528,
+      "name": "Ōfunato-shi",
+      "nativeName": "Ōfunato-shi",
+      "code": "JP-03-2111528",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-03",
+      "latitude": 39.06667,
+      "longitude": 141.71667
+    },
+    {
+      "id": 7441816,
+      "name": "Ōshū Shi",
+      "nativeName": "Ōshū Shi",
+      "code": "JP-03-7441816",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-03",
+      "latitude": 39.12962,
+      "longitude": 141.09479
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "stateId": 3631462,
+  "stateCode": "VE-O",
+  "countryCode": "VE",
+  "cities": [
+    {
+      "id": 8131448,
+      "name": "Antolín del Campo Municipality",
+      "nativeName": "Municipio Antolín del Campo",
+      "code": "VE-O-8131448",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-O",
+      "latitude": 11.10758,
+      "longitude": -63.8564
+    },
+    {
+      "id": 3648881,
+      "name": "Arismendi Municipality",
+      "nativeName": "Municipio Arismendi",
+      "code": "VE-O-3648881",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-O",
+      "latitude": 11.05291,
+      "longitude": -63.84911
+    },
+    {
+      "id": 3625334,
+      "name": "Coche Island",
+      "nativeName": "Municipio Villalba",
+      "code": "VE-O-3625334",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-O",
+      "latitude": 10.78333,
+      "longitude": -63.95
+    },
+    {
+      "id": 3644510,
+      "name": "Díaz Municipality",
+      "nativeName": "Municipio Díaz",
+      "code": "VE-O-3644510",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-O",
+      "latitude": 10.98012,
+      "longitude": -63.9793
+    },
+    {
+      "id": 8129156,
+      "name": "García Municipality",
+      "nativeName": "Municipio García",
+      "code": "VE-O-8129156",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-O",
+      "latitude": 10.98283,
+      "longitude": -63.8831
+    },
+    {
+      "id": 3640582,
+      "name": "Gómez Municipality",
+      "nativeName": "Municipio Gómez",
+      "code": "VE-O-3640582",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-O",
+      "latitude": 11.08333,
+      "longitude": -63.91667
+    },
+    {
+      "id": 3630389,
+      "name": "Macanao Peninsula Municipality",
+      "nativeName": "Municipio Península de Macanao",
+      "code": "VE-O-3630389",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-O",
+      "latitude": 11.01667,
+      "longitude": -64.28333
+    },
+    {
+      "id": 8131449,
+      "name": "Marcano Municipality",
+      "nativeName": "Municipio Marcano",
+      "code": "VE-O-8131449",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-O",
+      "latitude": 11.08307,
+      "longitude": -63.96412
+    },
+    {
+      "id": 3632894,
+      "name": "Mariño Municipality",
+      "nativeName": "Municipio Mariño",
+      "code": "VE-O-3632894",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-O",
+      "latitude": 10.95,
+      "longitude": -63.88333
+    },
+    {
+      "id": 3633180,
+      "name": "Municipio Maneiro",
+      "nativeName": "Municipio Maneiro",
+      "code": "VE-O-3633180",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-O",
+      "latitude": 11,
+      "longitude": -63.83333
+    },
+    {
+      "id": 3625967,
+      "name": "Tubores Municipality",
+      "nativeName": "Municipio Tubores",
+      "code": "VE-O-3625967",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-O",
+      "latitude": 10.95,
+      "longitude": -64.08333
+    }
+  ]
+}

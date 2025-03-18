@@ -1,0 +1,128 @@
+{
+  "stateId": 6418540,
+  "stateCode": "DK-81",
+  "countryCode": "DK",
+  "cities": [
+    {
+      "id": 2623351,
+      "name": "Brønderslev Kommune",
+      "nativeName": "Brønderslev Kommune",
+      "code": "DK-81-2623351",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-81",
+      "latitude": 57.23506,
+      "longitude": 10.10061
+    },
+    {
+      "id": 2621926,
+      "name": "Frederikshavn Kommune",
+      "nativeName": "Frederikshavn Kommune",
+      "code": "DK-81-2621926",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-81",
+      "latitude": 57.43347,
+      "longitude": 10.42507
+    },
+    {
+      "id": 2620209,
+      "name": "Hjørring Kommune",
+      "nativeName": "Hjørring Kommune",
+      "code": "DK-81-2620209",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-81",
+      "latitude": 57.45682,
+      "longitude": 10.05859
+    },
+    {
+      "id": 6543926,
+      "name": "Jammerbugt Kommune",
+      "nativeName": "Jammerbugt Kommune",
+      "code": "DK-81-6543926",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-81",
+      "latitude": 57.14583,
+      "longitude": 9.5625
+    },
+    {
+      "id": 2617382,
+      "name": "Læso Kommune",
+      "nativeName": "Læso Kommune",
+      "code": "DK-81-2617382",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-81",
+      "latitude": 57.26774,
+      "longitude": 11.02265
+    },
+    {
+      "id": 6543930,
+      "name": "Mariagerfjord Kommune",
+      "nativeName": "Mariagerfjord Kommune",
+      "code": "DK-81-6543930",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-81",
+      "latitude": 56.69722,
+      "longitude": 9.84722
+    },
+    {
+      "id": 2616755,
+      "name": "Morsø Kommune",
+      "nativeName": "Morsø Kommune",
+      "code": "DK-81-2616755",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-81",
+      "latitude": 56.79622,
+      "longitude": 8.73272
+    },
+    {
+      "id": 6543937,
+      "name": "Rebild Kommune",
+      "nativeName": "Rebild Kommune",
+      "code": "DK-81-6543937",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-81",
+      "latitude": 56.80556,
+      "longitude": 9.77778
+    },
+    {
+      "id": 2611753,
+      "name": "Thisted Kommune",
+      "nativeName": "Thisted Kommune",
+      "code": "DK-81-2611753",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-81",
+      "latitude": 57.00397,
+      "longitude": 8.61834
+    },
+    {
+      "id": 6543939,
+      "name": "Vesthimmerland Kommune",
+      "nativeName": "Vesthimmerland Kommune",
+      "code": "DK-81-6543939",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-81",
+      "latitude": 56.8,
+      "longitude": 9.37083
+    },
+    {
+      "id": 6543934,
+      "name": "Ålborg Kommune",
+      "nativeName": "Ålborg Kommune",
+      "code": "DK-81-6543934",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-81",
+      "latitude": 57,
+      "longitude": 9.95
+    }
+  ]
+}

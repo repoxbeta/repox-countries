@@ -1,0 +1,62 @@
+{
+  "stateId": 170015,
+  "stateCode": "SY-HM",
+  "countryCode": "SY",
+  "cities": [
+    {
+      "id": 164946,
+      "name": "Al-Salamiyah District",
+      "nativeName": "Al-Salamiyah District",
+      "code": "SY-HM-164946",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-HM",
+      "latitude": 35.14398,
+      "longitude": 37.59235
+    },
+    {
+      "id": 173885,
+      "name": "Al-Suqaylabiyah District",
+      "nativeName": "Al-Suqaylabiyah District",
+      "code": "SY-HM-173885",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-HM",
+      "latitude": 35.48102,
+      "longitude": 36.32441
+    },
+    {
+      "id": 170016,
+      "name": "Hama District",
+      "nativeName": "Hama District",
+      "code": "SY-HM-170016",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-HM",
+      "latitude": 35.28577,
+      "longitude": 37.12626
+    },
+    {
+      "id": 167044,
+      "name": "Masyaf District",
+      "nativeName": "Masyaf District",
+      "code": "SY-HM-167044",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-HM",
+      "latitude": 35.10335,
+      "longitude": 36.3392
+    },
+    {
+      "id": 8276860,
+      "name": "Mhardeh District",
+      "nativeName": "Mhardeh District",
+      "code": "SY-HM-8276860",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-HM",
+      "latitude": 35.30023,
+      "longitude": 36.54844
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "stateId": 3623582,
+  "stateCode": "CR-G",
+  "countryCode": "CR",
+  "cities": [
+    {
+      "id": 3625024,
+      "name": "Abangares",
+      "nativeName": "Abangares",
+      "code": "CR-G-3625024",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-G",
+      "latitude": 10.24253,
+      "longitude": -84.99081
+    },
+    {
+      "id": 3624821,
+      "name": "Bagaces",
+      "nativeName": "Bagaces",
+      "code": "CR-G-3624821",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-G",
+      "latitude": 10.50808,
+      "longitude": -85.26212
+    },
+    {
+      "id": 3624381,
+      "name": "Carrillo",
+      "nativeName": "Carrillo",
+      "code": "CR-G-3624381",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-G",
+      "latitude": 10.41491,
+      "longitude": -85.58861
+    },
+    {
+      "id": 3624467,
+      "name": "Cañas",
+      "nativeName": "Cañas",
+      "code": "CR-G-3624467",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-G",
+      "latitude": 10.48005,
+      "longitude": -85.11349
+    },
+    {
+      "id": 3623453,
+      "name": "Hojancha",
+      "nativeName": "Hojancha",
+      "code": "CR-G-3623453",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-G",
+      "latitude": 9.97546,
+      "longitude": -85.42018
+    },
+    {
+      "id": 3623257,
+      "name": "La Cruz",
+      "nativeName": "La Cruz",
+      "code": "CR-G-3623257",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-G",
+      "latitude": 10.98418,
+      "longitude": -85.59915
+    },
+    {
+      "id": 3623075,
+      "name": "Liberia",
+      "nativeName": "Liberia",
+      "code": "CR-G-3623075",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-G",
+      "latitude": 10.70152,
+      "longitude": -85.47576
+    },
+    {
+      "id": 3622764,
+      "name": "Nandayure",
+      "nativeName": "Nandayure",
+      "code": "CR-G-3622764",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-G",
+      "latitude": 9.89647,
+      "longitude": -85.31161
+    },
+    {
+      "id": 3622715,
+      "name": "Nicoya",
+      "nativeName": "Nicoya",
+      "code": "CR-G-3622715",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-G",
+      "latitude": 10.11161,
+      "longitude": -85.50808
+    },
+    {
+      "id": 3621604,
+      "name": "Santa Cruz",
+      "nativeName": "Santa Cruz",
+      "code": "CR-G-3621604",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-G",
+      "latitude": 10.2377,
+      "longitude": -85.6737
+    },
+    {
+      "id": 3621277,
+      "name": "Tilarán",
+      "nativeName": "Tilarán",
+      "code": "CR-G-3621277",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-G",
+      "latitude": 10.45878,
+      "longitude": -84.97513
+    }
+  ]
+}

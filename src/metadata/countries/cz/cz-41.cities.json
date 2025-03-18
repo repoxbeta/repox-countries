@@ -1,0 +1,40 @@
+{
+  "stateId": 3339539,
+  "stateCode": "CZ-41",
+  "countryCode": "CZ",
+  "cities": [
+    {
+      "id": 3077834,
+      "name": "Cheb District",
+      "nativeName": "Okres Cheb",
+      "code": "CZ-41-3077834",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-41",
+      "latitude": 50.08333,
+      "longitude": 12.5
+    },
+    {
+      "id": 3073802,
+      "name": "Okres Karlovy Vary",
+      "nativeName": "Okres Karlovy Vary",
+      "code": "CZ-41-3073802",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-41",
+      "latitude": 50.16667,
+      "longitude": 13
+    },
+    {
+      "id": 3065616,
+      "name": "Sokolov District",
+      "nativeName": "Okres Sokolov",
+      "code": "CZ-41-3065616",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-41",
+      "latitude": 50.21667,
+      "longitude": 12.63333
+    }
+  ]
+}

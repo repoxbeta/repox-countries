@@ -1,0 +1,95 @@
+{
+  "stateId": 2491887,
+  "stateCode": "DZ-40",
+  "countryCode": "DZ",
+  "cities": [
+    {
+      "id": 12952700,
+      "name": "Ain Touila",
+      "nativeName": "Ain Touila",
+      "code": "DZ-40-12952700",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-40",
+      "latitude": 35.50036,
+      "longitude": 7.34944
+    },
+    {
+      "id": 12952427,
+      "name": "Babar",
+      "nativeName": "Babar",
+      "code": "DZ-40-12952427",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-40",
+      "latitude": 34.6194,
+      "longitude": 7.04353
+    },
+    {
+      "id": 12952701,
+      "name": "Bouhmama",
+      "nativeName": "Bouhmama",
+      "code": "DZ-40-12952701",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-40",
+      "latitude": 35.22622,
+      "longitude": 6.71884
+    },
+    {
+      "id": 12952702,
+      "name": "Chechar",
+      "nativeName": "Chechar",
+      "code": "DZ-40-12952702",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-40",
+      "latitude": 34.93257,
+      "longitude": 6.91979
+    },
+    {
+      "id": 12952703,
+      "name": "El Hamma",
+      "nativeName": "El Hamma",
+      "code": "DZ-40-12952703",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-40",
+      "latitude": 35.38319,
+      "longitude": 7.03898
+    },
+    {
+      "id": 12952704,
+      "name": "Kais",
+      "nativeName": "Kais",
+      "code": "DZ-40-12952704",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-40",
+      "latitude": 35.52139,
+      "longitude": 6.84529
+    },
+    {
+      "id": 12952428,
+      "name": "Khenchela",
+      "nativeName": "Khenchela",
+      "code": "DZ-40-12952428",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-40",
+      "latitude": 35.43744,
+      "longitude": 7.1378
+    },
+    {
+      "id": 12952705,
+      "name": "Ouled Rechache",
+      "nativeName": "Ouled Rechache",
+      "code": "DZ-40-12952705",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-40",
+      "latitude": 35.24834,
+      "longitude": 7.30518
+    }
+  ]
+}

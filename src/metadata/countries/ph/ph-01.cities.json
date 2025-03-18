@@ -1,0 +1,51 @@
+{
+  "stateId": 7521301,
+  "stateCode": "PH-01",
+  "countryCode": "PH",
+  "cities": [
+    {
+      "id": 1711034,
+      "name": "Province of Ilocos Norte",
+      "nativeName": "Province of Ilocos Norte",
+      "code": "PH-01-1711034",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-01",
+      "latitude": 18.16667,
+      "longitude": 120.75
+    },
+    {
+      "id": 1711032,
+      "name": "Province of Ilocos Sur",
+      "nativeName": "Province of Ilocos Sur",
+      "code": "PH-01-1711032",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-01",
+      "latitude": 17.19852,
+      "longitude": 120.54199
+    },
+    {
+      "id": 1707052,
+      "name": "Province of La Union",
+      "nativeName": "Province of La Union",
+      "code": "PH-01-1707052",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-01",
+      "latitude": 16.5,
+      "longitude": 120.41667
+    },
+    {
+      "id": 1695357,
+      "name": "Province of Pangasinan",
+      "nativeName": "Province of Pangasinan",
+      "code": "PH-01-1695357",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-01",
+      "latitude": 15.91667,
+      "longitude": 120.33333
+    }
+  ]
+}

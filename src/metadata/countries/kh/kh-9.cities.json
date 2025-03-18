@@ -1,0 +1,84 @@
+{
+  "stateId": 1831037,
+  "stateCode": "KH-9",
+  "countryCode": "KH",
+  "cities": [
+    {
+      "id": 1831788,
+      "name": "Botum Sakor",
+      "nativeName": "Srŏk Batum Sakôr",
+      "code": "KH-9-1831788",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-9",
+      "latitude": 11.11465,
+      "longitude": 103.38993
+    },
+    {
+      "id": 9253775,
+      "name": "Kiri Sakor",
+      "nativeName": "Kiri Sakor",
+      "code": "KH-9-9253775",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-9",
+      "latitude": 11.11047,
+      "longitude": 103.17313
+    },
+    {
+      "id": 1831034,
+      "name": "Koh Kong",
+      "nativeName": "Koh Kong",
+      "code": "KH-9-1831034",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-9",
+      "latitude": 11.5,
+      "longitude": 103.16667
+    },
+    {
+      "id": 8405254,
+      "name": "Krong Khemarak Phoumin",
+      "nativeName": "Krŏng Khémârâ Phumĭn",
+      "code": "KH-9-8405254",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-9",
+      "latitude": 11.60356,
+      "longitude": 103.0201
+    },
+    {
+      "id": 8405255,
+      "name": "Mondol Seima",
+      "nativeName": "Srŏk Môndôl Seima",
+      "code": "KH-9-8405255",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-9",
+      "latitude": 11.81292,
+      "longitude": 103.01159
+    },
+    {
+      "id": 8740319,
+      "name": "Srae Ambel",
+      "nativeName": "Srae Ambel",
+      "code": "KH-9-8740319",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-9",
+      "latitude": 11.10968,
+      "longitude": 103.76226
+    },
+    {
+      "id": 9253776,
+      "name": "Thma Bang",
+      "nativeName": "Thma Bang",
+      "code": "KH-9-9253776",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-9",
+      "latitude": 11.75027,
+      "longitude": 103.49605
+    }
+  ]
+}

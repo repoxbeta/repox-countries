@@ -1,0 +1,62 @@
+{
+  "stateId": 862470,
+  "stateCode": "TR-75",
+  "countryCode": "TR",
+  "cities": [
+    {
+      "id": 8631397,
+      "name": "Damal İlçesi",
+      "nativeName": "Damal İlçesi",
+      "code": "TR-75-8631397",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-75",
+      "latitude": 41.3501,
+      "longitude": 42.84582
+    },
+    {
+      "id": 8631396,
+      "name": "Göle İlçesi",
+      "nativeName": "Göle İlçesi",
+      "code": "TR-75-8631396",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-75",
+      "latitude": 40.79404,
+      "longitude": 42.60993
+    },
+    {
+      "id": 8631398,
+      "name": "Hanak İlçesi",
+      "nativeName": "Hanak İlçesi",
+      "code": "TR-75-8631398",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-75",
+      "latitude": 41.24365,
+      "longitude": 42.85189
+    },
+    {
+      "id": 8631399,
+      "name": "Posof İlçesi",
+      "nativeName": "Posof İlçesi",
+      "code": "TR-75-8631399",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-75",
+      "latitude": 41.52131,
+      "longitude": 42.73126
+    },
+    {
+      "id": 8631395,
+      "name": "Çıldır İlçesi",
+      "nativeName": "Çıldır İlçesi",
+      "code": "TR-75-8631395",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-75",
+      "latitude": 41.13783,
+      "longitude": 43.14169
+    }
+  ]
+}

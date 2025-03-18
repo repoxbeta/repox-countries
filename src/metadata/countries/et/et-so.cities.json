@@ -1,0 +1,128 @@
+{
+  "stateId": 444186,
+  "stateCode": "ET-SO",
+  "countryCode": "ET",
+  "cities": [
+    {
+      "id": 9410038,
+      "name": "Afder Zone",
+      "nativeName": "Afder Zone",
+      "code": "ET-SO-9410038",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-SO",
+      "latitude": 5.25,
+      "longitude": 43
+    },
+    {
+      "id": 10399848,
+      "name": "Degehabur Zone",
+      "nativeName": "Degehabur Zone",
+      "code": "ET-SO-10399848",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-SO",
+      "latitude": 8.25,
+      "longitude": 43.75
+    },
+    {
+      "id": 10376670,
+      "name": "Dollo",
+      "nativeName": "Dollo",
+      "code": "ET-SO-10376670",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-SO",
+      "latitude": 7.25,
+      "longitude": 46
+    },
+    {
+      "id": 10400171,
+      "name": "Fafan",
+      "nativeName": "Fafan",
+      "code": "ET-SO-10400171",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-SO",
+      "latitude": 9.25,
+      "longitude": 43
+    },
+    {
+      "id": 10395468,
+      "name": "Gode Zone",
+      "nativeName": "Gode Zone",
+      "code": "ET-SO-10395468",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-SO",
+      "latitude": 6,
+      "longitude": 43.75
+    },
+    {
+      "id": 11750835,
+      "name": "Korahe",
+      "nativeName": "Korahe",
+      "code": "ET-SO-11750835",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-SO",
+      "latitude": 6.66422,
+      "longitude": 44.34131
+    },
+    {
+      "id": 8643822,
+      "name": "Liben zone",
+      "nativeName": "Liben zone",
+      "code": "ET-SO-8643822",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-SO",
+      "latitude": 4.75,
+      "longitude": 40.5
+    },
+    {
+      "id": 11750833,
+      "name": "Nogob",
+      "nativeName": "Nogob",
+      "code": "ET-SO-11750833",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-SO",
+      "latitude": 7.7679,
+      "longitude": 42.39308
+    },
+    {
+      "id": 11750836,
+      "name": "Shabelle",
+      "nativeName": "Shabelle",
+      "code": "ET-SO-11750836",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-SO",
+      "latitude": 6.11718,
+      "longitude": 43.49676
+    },
+    {
+      "id": 7732971,
+      "name": "Shinile Zone",
+      "nativeName": "Shinile Zone",
+      "code": "ET-SO-7732971",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-SO",
+      "latitude": 10.17097,
+      "longitude": 41.83748
+    },
+    {
+      "id": 11750832,
+      "name": "Siti",
+      "nativeName": "Siti",
+      "code": "ET-SO-11750832",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-SO",
+      "latitude": 10.28236,
+      "longitude": 41.85563
+    }
+  ]
+}

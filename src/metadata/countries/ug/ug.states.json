@@ -1,0 +1,50 @@
+{
+  "countryId": 226074,
+  "countryCode": "UG",
+  "states": [
+    {
+      "id": 234594,
+      "name": "Central Region",
+      "nativeName": "Central Region",
+      "code": "UG-C",
+      "internalCode": "C",
+      "countryId": 226074,
+      "countryCode": "UG",
+      "latitude": 0.5,
+      "longitude": 32
+    },
+    {
+      "id": 8260673,
+      "name": "Eastern Region",
+      "nativeName": "Eastern Region",
+      "code": "UG-E",
+      "internalCode": "E",
+      "countryId": 226074,
+      "countryCode": "UG",
+      "latitude": 0.96675,
+      "longitude": 33.82622
+    },
+    {
+      "id": 8260674,
+      "name": "Northern Region",
+      "nativeName": "Northern Region",
+      "code": "UG-N",
+      "internalCode": "N",
+      "countryId": 226074,
+      "countryCode": "UG",
+      "latitude": 2.7373,
+      "longitude": 31.88644
+    },
+    {
+      "id": 8260675,
+      "name": "Western Region",
+      "nativeName": "Western Region",
+      "code": "UG-W",
+      "internalCode": "W",
+      "countryId": 226074,
+      "countryCode": "UG",
+      "latitude": -0.61179,
+      "longitude": 30.55573
+    }
+  ]
+}

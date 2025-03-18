@@ -1,0 +1,62 @@
+{
+  "stateId": 3512050,
+  "stateCode": "DO-03",
+  "countryCode": "DO",
+  "cities": [
+    {
+      "id": 11154535,
+      "name": "Galván",
+      "nativeName": "Galván",
+      "code": "DO-03-11154535",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-03",
+      "latitude": 18.48974,
+      "longitude": -71.32798
+    },
+    {
+      "id": 11154582,
+      "name": "Los Ríos",
+      "nativeName": "Los Ríos",
+      "code": "DO-03-11154582",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-03",
+      "latitude": 18.56388,
+      "longitude": -71.57517
+    },
+    {
+      "id": 3495858,
+      "name": "Neiba",
+      "nativeName": "Neiba",
+      "code": "DO-03-3495858",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-03",
+      "latitude": 18.5,
+      "longitude": -71.41667
+    },
+    {
+      "id": 3492521,
+      "name": "Tamayo",
+      "nativeName": "Tamayo",
+      "code": "DO-03-3492521",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-03",
+      "latitude": 18.5,
+      "longitude": -71.16667
+    },
+    {
+      "id": 3491928,
+      "name": "Villa Jaragua",
+      "nativeName": "Villa Jaragua",
+      "code": "DO-03-3491928",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-03",
+      "latitude": 18.58333,
+      "longitude": -71.53333
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "stateId": 886841,
+  "stateCode": "ZW-MW",
+  "countryCode": "ZW",
+  "cities": [
+    {
+      "id": 894238,
+      "name": "Chegutu District",
+      "nativeName": "Chegutu District",
+      "code": "ZW-MW-894238",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MW",
+      "latitude": -18.13097,
+      "longitude": 30.40046
+    },
+    {
+      "id": 889953,
+      "name": "Hurungwe District",
+      "nativeName": "Hurungwe District",
+      "code": "ZW-MW-889953",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MW",
+      "latitude": -16.41301,
+      "longitude": 29.5858
+    },
+    {
+      "id": 889452,
+      "name": "Kadoma District",
+      "nativeName": "Kadoma District",
+      "code": "ZW-MW-889452",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MW",
+      "latitude": -18.34049,
+      "longitude": 29.82831
+    },
+    {
+      "id": 889214,
+      "name": "Kariba District",
+      "nativeName": "Kariba District",
+      "code": "ZW-MW-889214",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MW",
+      "latitude": -16.91011,
+      "longitude": 28.65983
+    },
+    {
+      "id": 887723,
+      "name": "Makonde District",
+      "nativeName": "Makonde District",
+      "code": "ZW-MW-887723",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MW",
+      "latitude": -17.16667,
+      "longitude": 30.08333
+    },
+    {
+      "id": 10800410,
+      "name": "Zvimba District",
+      "nativeName": "Zvimba District",
+      "code": "ZW-MW-10800410",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MW",
+      "latitude": -17.53984,
+      "longitude": 30.47496
+    }
+  ]
+}

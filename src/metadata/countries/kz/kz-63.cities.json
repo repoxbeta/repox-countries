@@ -1,0 +1,282 @@
+{
+  "stateId": 1517381,
+  "stateCode": "KZ-63",
+  "countryCode": "KZ",
+  "cities": [
+    {
+      "id": 1537309,
+      "name": "Abralinskiy Rayon",
+      "nativeName": "Abralinskiy Rayon",
+      "code": "KZ-63-1537309",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-63",
+      "latitude": 49.33333,
+      "longitude": 78
+    },
+    {
+      "id": 1516437,
+      "name": "Altai District",
+      "nativeName": "Rayon Altay",
+      "code": "KZ-63-1516437",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-63",
+      "latitude": 49.83333,
+      "longitude": 84.5
+    },
+    {
+      "id": 1526637,
+      "name": "Aqsūat Aūdany",
+      "nativeName": "Aqsūat Aūdany",
+      "code": "KZ-63-1526637",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-63",
+      "latitude": 47.83333,
+      "longitude": 82.5
+    },
+    {
+      "id": 1524717,
+      "name": "Chubartauskiy Rayon",
+      "nativeName": "Chubartauskiy Rayon",
+      "code": "KZ-63-1524717",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-63",
+      "latitude": 47.83333,
+      "longitude": 78.25
+    },
+    {
+      "id": 1524226,
+      "name": "Glubokoye District",
+      "nativeName": "Glubokovskiy Rayon",
+      "code": "KZ-63-1524226",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-63",
+      "latitude": 50.33333,
+      "longitude": 83
+    },
+    {
+      "id": 1522926,
+      "name": "Katonkaragay District",
+      "nativeName": "Katon-Karagayskiy Rayon",
+      "code": "KZ-63-1522926",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-63",
+      "latitude": 49.16667,
+      "longitude": 86
+    },
+    {
+      "id": 1521759,
+      "name": "Kurshim District",
+      "nativeName": "Kurchumskiy Rayon",
+      "code": "KZ-63-1521759",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-63",
+      "latitude": 48.66667,
+      "longitude": 84.25
+    },
+    {
+      "id": 1521244,
+      "name": "Maqanshy Aūdany",
+      "nativeName": "Maqanshy Aūdany",
+      "code": "KZ-63-1521244",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-63",
+      "latitude": 46.75,
+      "longitude": 82.25
+    },
+    {
+      "id": 1521109,
+      "name": "Marqaköl Aūdany",
+      "nativeName": "Marqaköl Aūdany",
+      "code": "KZ-63-1521109",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-63",
+      "latitude": 48.5,
+      "longitude": 85.5
+    },
+    {
+      "id": 1520548,
+      "name": "Novoshūl’ba Aūdany",
+      "nativeName": "Novoshūl’ba Aūdany",
+      "code": "KZ-63-1520548",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-63",
+      "latitude": 50.55,
+      "longitude": 81.33333
+    },
+    {
+      "id": 1537288,
+      "name": "Ridder Gorodskaya Administratsiya",
+      "nativeName": "Ridder Gorodskaya Administratsiya",
+      "code": "KZ-63-1537288",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-63",
+      "latitude": 50.36667,
+      "longitude": 83.53333
+    },
+    {
+      "id": 1519757,
+      "name": "Samarskoe Aūdany",
+      "nativeName": "Samarskoe Aūdany",
+      "code": "KZ-63-1519757",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-63",
+      "latitude": 49.16667,
+      "longitude": 83.5
+    },
+    {
+      "id": 1537285,
+      "name": "Semey Qalasy",
+      "nativeName": "Semey Qalasy",
+      "code": "KZ-63-1537285",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-63",
+      "latitude": 50.46667,
+      "longitude": 80.21667
+    },
+    {
+      "id": 1537289,
+      "name": "Serebryansk Qalasy",
+      "nativeName": "Serebryansk Qalasy",
+      "code": "KZ-63-1537289",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-63",
+      "latitude": 49.69472,
+      "longitude": 83.29873
+    },
+    {
+      "id": 1524882,
+      "name": "Shar Aūdany",
+      "nativeName": "Shar Aūdany",
+      "code": "KZ-63-1524882",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-63",
+      "latitude": 49.5,
+      "longitude": 81
+    },
+    {
+      "id": 1519224,
+      "name": "Shemonaikha District",
+      "nativeName": "Shemonaikhinskiy Rayon",
+      "code": "KZ-63-1519224",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-63",
+      "latitude": 50.66667,
+      "longitude": 82.25
+    },
+    {
+      "id": 1518456,
+      "name": "Tarbagatay District",
+      "nativeName": "Tarbagatayskiy Rayon",
+      "code": "KZ-63-1518456",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-63",
+      "latitude": 47.5,
+      "longitude": 83.75
+    },
+    {
+      "id": 1518415,
+      "name": "Taskesken Aūdany",
+      "nativeName": "Taskesken Aūdany",
+      "code": "KZ-63-1518415",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-63",
+      "latitude": 47.16667,
+      "longitude": 80.5
+    },
+    {
+      "id": 1518334,
+      "name": "Tavricheskiy Rayon",
+      "nativeName": "Tavricheskiy Rayon",
+      "code": "KZ-63-1518334",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-63",
+      "latitude": 50,
+      "longitude": 82
+    },
+    {
+      "id": 1517810,
+      "name": "Ulan District",
+      "nativeName": "Ulan Aūdany",
+      "code": "KZ-63-1517810",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-63",
+      "latitude": 49.58333,
+      "longitude": 82.75
+    },
+    {
+      "id": 1517057,
+      "name": "Zaysan District",
+      "nativeName": "Zaysanskiy Rayon",
+      "code": "KZ-63-1517057",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-63",
+      "latitude": 47.5,
+      "longitude": 85
+    },
+    {
+      "id": 12485887,
+      "name": "Zaysanskaya Gorodskaya Administratsiya",
+      "nativeName": "Zaysanskaya Gorodskaya Administratsiya",
+      "code": "KZ-63-12485887",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-63",
+      "latitude": 47.47404,
+      "longitude": 84.85448
+    },
+    {
+      "id": 1516713,
+      "name": "Zharma District",
+      "nativeName": "Zharma Aūdany",
+      "code": "KZ-63-1516713",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-63",
+      "latitude": 48.83333,
+      "longitude": 81.25
+    },
+    {
+      "id": 1537286,
+      "name": "Öskemen Qalalyq Äkimshiligi",
+      "nativeName": "Öskemen Qalalyq Äkimshiligi",
+      "code": "KZ-63-1537286",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-63",
+      "latitude": 49.94858,
+      "longitude": 82.59316
+    },
+    {
+      "id": 1525198,
+      "name": "Ülkennaryn Aūdany",
+      "nativeName": "Ülkennaryn Aūdany",
+      "code": "KZ-63-1525198",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-63",
+      "latitude": 49.25,
+      "longitude": 84.5
+    }
+  ]
+}

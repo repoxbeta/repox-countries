@@ -1,0 +1,128 @@
+{
+  "stateId": 730436,
+  "stateCode": "BG-26",
+  "countryCode": "BG",
+  "cities": [
+    {
+      "id": 732262,
+      "name": "Dimitrovgrad",
+      "nativeName": "Obshtina Dimitrovgrad",
+      "code": "BG-26-732262",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-26",
+      "latitude": 42.05,
+      "longitude": 25.6
+    },
+    {
+      "id": 730441,
+      "name": "Harmanli",
+      "nativeName": "Obshtina Harmanli",
+      "code": "BG-26-730441",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-26",
+      "latitude": 41.93333,
+      "longitude": 25.98333
+    },
+    {
+      "id": 730434,
+      "name": "Haskovo",
+      "nativeName": "Obshtina Haskovo",
+      "code": "BG-26-730434",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-26",
+      "latitude": 41.88333,
+      "longitude": 25.61667
+    },
+    {
+      "id": 730836,
+      "name": "Ivaylovgrad",
+      "nativeName": "Obshtina Ivaylovgrad",
+      "code": "BG-26-730836",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-26",
+      "latitude": 41.48333,
+      "longitude": 26
+    },
+    {
+      "id": 729465,
+      "name": "Lyubimets",
+      "nativeName": "Obshtina Lyubimets",
+      "code": "BG-26-729465",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-26",
+      "latitude": 41.81667,
+      "longitude": 26.05
+    },
+    {
+      "id": 864600,
+      "name": "Madzharovo",
+      "nativeName": "Obshtina Madzharovo",
+      "code": "BG-26-864600",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-26",
+      "latitude": 41.68333,
+      "longitude": 25.9
+    },
+    {
+      "id": 729072,
+      "name": "Mineralni Bani",
+      "nativeName": "Obshtina Mineralni Bani",
+      "code": "BG-26-729072",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-26",
+      "latitude": 41.9,
+      "longitude": 25.33333
+    },
+    {
+      "id": 727216,
+      "name": "Simeonovgrad",
+      "nativeName": "Obshtina Simeonovgrad",
+      "code": "BG-26-727216",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-26",
+      "latitude": 42.05,
+      "longitude": 25.88333
+    },
+    {
+      "id": 726885,
+      "name": "Stambolovo",
+      "nativeName": "Obshtina Stambolovo",
+      "code": "BG-26-726885",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-26",
+      "latitude": 41.73333,
+      "longitude": 25.7
+    },
+    {
+      "id": 726545,
+      "name": "Svilengrad",
+      "nativeName": "Obshtina Svilengrad",
+      "code": "BG-26-726545",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-26",
+      "latitude": 41.86667,
+      "longitude": 26.31667
+    },
+    {
+      "id": 726383,
+      "name": "Topolovgrad",
+      "nativeName": "Obshtina Topolovgrad",
+      "code": "BG-26-726383",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-26",
+      "latitude": 42.08333,
+      "longitude": 26.33333
+    }
+  ]
+}

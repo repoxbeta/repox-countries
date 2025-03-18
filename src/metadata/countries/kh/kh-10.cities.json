@@ -1,0 +1,73 @@
+{
+  "stateId": 1830563,
+  "stateCode": "KH-10",
+  "countryCode": "KH",
+  "cities": [
+    {
+      "id": 9253777,
+      "name": "Chhloung",
+      "nativeName": "Chhloung",
+      "code": "KH-10-9253777",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-10",
+      "latitude": 12.17723,
+      "longitude": 106.11558
+    },
+    {
+      "id": 8405250,
+      "name": "Chitr Borie",
+      "nativeName": "Srŏk Chĕt Bŭri",
+      "code": "KH-10-8405250",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-10",
+      "latitude": 12.56698,
+      "longitude": 106.19426
+    },
+    {
+      "id": 7647220,
+      "name": "Krong Kracheh",
+      "nativeName": "Kracheh",
+      "code": "KH-10-7647220",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-10",
+      "latitude": 12.49962,
+      "longitude": 106.03957
+    },
+    {
+      "id": 9253778,
+      "name": "Preaek Prasab",
+      "nativeName": "Preaek Prasab",
+      "code": "KH-10-9253778",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-10",
+      "latitude": 12.47201,
+      "longitude": 105.87831
+    },
+    {
+      "id": 9253779,
+      "name": "Sambour",
+      "nativeName": "Sambour",
+      "code": "KH-10-9253779",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-10",
+      "latitude": 12.98255,
+      "longitude": 106.09257
+    },
+    {
+      "id": 9253780,
+      "name": "Snuol",
+      "nativeName": "Snuol",
+      "code": "KH-10-9253780",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-10",
+      "latitude": 12.19373,
+      "longitude": 106.47361
+    }
+  ]
+}

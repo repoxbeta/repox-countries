@@ -1,0 +1,62 @@
+{
+  "stateId": 5855797,
+  "stateCode": "US-HI",
+  "countryCode": "US",
+  "cities": [
+    {
+      "id": 5855765,
+      "name": "Hawaii",
+      "nativeName": "Hawaii County",
+      "code": "US-HI-5855765",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-HI",
+      "latitude": 19.6024,
+      "longitude": -155.52289
+    },
+    {
+      "id": 5856194,
+      "name": "Honolulu",
+      "nativeName": "Honolulu County",
+      "code": "US-HI-5856194",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-HI",
+      "latitude": 21.45543,
+      "longitude": -157.96138
+    },
+    {
+      "id": 5847795,
+      "name": "Kalawao",
+      "nativeName": "Kalawao County",
+      "code": "US-HI-5847795",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-HI",
+      "latitude": 21.18569,
+      "longitude": -156.95944
+    },
+    {
+      "id": 5848514,
+      "name": "Kauai",
+      "nativeName": "Kauai County",
+      "code": "US-HI-5848514",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-HI",
+      "latitude": 22.01108,
+      "longitude": -159.70544
+    },
+    {
+      "id": 5850871,
+      "name": "Maui County",
+      "nativeName": "Maui County",
+      "code": "US-HI-5850871",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-HI",
+      "latitude": 20.86774,
+      "longitude": -156.61706
+    }
+  ]
+}

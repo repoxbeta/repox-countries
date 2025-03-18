@@ -1,0 +1,40 @@
+{
+  "stateId": 11496393,
+  "stateCode": "MR-15",
+  "countryCode": "MR",
+  "cities": [
+    {
+      "id": 9212577,
+      "name": "Arafat",
+      "nativeName": "Arafat",
+      "code": "MR-15-9212577",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-15",
+      "latitude": 18.04639,
+      "longitude": -15.97194
+    },
+    {
+      "id": 9222769,
+      "name": "El Mina",
+      "nativeName": "El Mina",
+      "code": "MR-15-9222769",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-15",
+      "latitude": 18.06312,
+      "longitude": -15.97869
+    },
+    {
+      "id": 9212590,
+      "name": "Riad",
+      "nativeName": "Riad",
+      "code": "MR-15-9212590",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-15",
+      "latitude": 18.00862,
+      "longitude": -15.97616
+    }
+  ]
+}

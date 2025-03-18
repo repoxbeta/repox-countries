@@ -1,0 +1,84 @@
+{
+  "stateId": 1608533,
+  "stateCode": "TH-73",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 1619414,
+      "name": "Bang Len",
+      "nativeName": "Amphoe Bang Len",
+      "code": "TH-73-1619414",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-73",
+      "latitude": 14.05,
+      "longitude": 100.18333
+    },
+    {
+      "id": 1610874,
+      "name": "Don Tum",
+      "nativeName": "Amphoe Don Tum",
+      "code": "TH-73-1610874",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-73",
+      "latitude": 13.94499,
+      "longitude": 100.09003
+    },
+    {
+      "id": 1610444,
+      "name": "Kamphaeng Saen",
+      "nativeName": "Kamphaeng Saen District",
+      "code": "TH-73-1610444",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-73",
+      "latitude": 14.02823,
+      "longitude": 99.96152
+    },
+    {
+      "id": 1608648,
+      "name": "Mueang Nakhon Pathom",
+      "nativeName": "Amphoe Mueang Nakhon Pathom",
+      "code": "TH-73-1608648",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-73",
+      "latitude": 13.81944,
+      "longitude": 100.02375
+    },
+    {
+      "id": 1608544,
+      "name": "Nakhon Chai Si",
+      "nativeName": "Amphoe Nakhon Chai Si",
+      "code": "TH-73-1608544",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-73",
+      "latitude": 13.81173,
+      "longitude": 100.18157
+    },
+    {
+      "id": 6865782,
+      "name": "Phutthamonthon",
+      "nativeName": "Amphoe Phutthamonthon",
+      "code": "TH-73-6865782",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-73",
+      "latitude": 13.82559,
+      "longitude": 100.29239
+    },
+    {
+      "id": 1606637,
+      "name": "Sam Phran",
+      "nativeName": "Amphoe Sam Phran",
+      "code": "TH-73-1606637",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-73",
+      "latitude": 13.72035,
+      "longitude": 100.21071
+    }
+  ]
+}

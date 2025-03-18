@@ -1,0 +1,51 @@
+{
+  "stateId": 6417213,
+  "stateCode": "GG-6417213",
+  "countryCode": "GG",
+  "cities": [
+    {
+      "id": 6424176,
+      "name": "Le Pont",
+      "nativeName": "Le Pont",
+      "code": "GG-6417213-6424176",
+      "countryId": 3042362,
+      "countryCode": "GG",
+      "stateCode": "GG-6417213",
+      "latitude": 49.43333,
+      "longitude": -2.62639
+    },
+    {
+      "id": 6424153,
+      "name": "Les Adams",
+      "nativeName": "Les Adams",
+      "code": "GG-6417213-6424153",
+      "countryId": 3042362,
+      "countryCode": "GG",
+      "stateCode": "GG-6417213",
+      "latitude": 49.45361,
+      "longitude": -2.64611
+    },
+    {
+      "id": 6420135,
+      "name": "Les Laurens",
+      "nativeName": "Les Laurens",
+      "code": "GG-6417213-6420135",
+      "countryId": 3042362,
+      "countryCode": "GG",
+      "stateCode": "GG-6417213",
+      "latitude": 49.42528,
+      "longitude": -2.62528
+    },
+    {
+      "id": 6424109,
+      "name": "L’Erée",
+      "nativeName": "L’Erée",
+      "code": "GG-6417213-6424109",
+      "countryId": 3042362,
+      "countryCode": "GG",
+      "stateCode": "GG-6417213",
+      "latitude": 49.45417,
+      "longitude": -2.65167
+    }
+  ]
+}

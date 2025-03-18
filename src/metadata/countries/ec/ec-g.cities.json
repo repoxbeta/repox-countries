@@ -1,0 +1,282 @@
+{
+  "stateId": 3657505,
+  "stateCode": "EC-G",
+  "countryCode": "EC",
+  "cities": [
+    {
+      "id": 10792448,
+      "name": "Alfredo Baquerizo Moreno (Juján)",
+      "nativeName": "Alfredo Baquerizo Moreno (Juján)",
+      "code": "EC-G-10792448",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-G",
+      "latitude": -1.94487,
+      "longitude": -79.54073
+    },
+    {
+      "id": 10792449,
+      "name": "Balao",
+      "nativeName": "Balao",
+      "code": "EC-G-10792449",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-G",
+      "latitude": -2.89411,
+      "longitude": -79.70746
+    },
+    {
+      "id": 3660360,
+      "name": "Balzar",
+      "nativeName": "Balzar",
+      "code": "EC-G-3660360",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-G",
+      "latitude": -1.28493,
+      "longitude": -79.90425
+    },
+    {
+      "id": 9155068,
+      "name": "Canton Colimes",
+      "nativeName": "Canton Colimes",
+      "code": "EC-G-9155068",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-G",
+      "latitude": -1.55,
+      "longitude": -80.01666
+    },
+    {
+      "id": 3650347,
+      "name": "Cantón Salitre",
+      "nativeName": "Cantón Salitre",
+      "code": "EC-G-3650347",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-G",
+      "latitude": -1.83333,
+      "longitude": -79.8
+    },
+    {
+      "id": 3652064,
+      "name": "Cantón Samborondón",
+      "nativeName": "Cantón Samborondón",
+      "code": "EC-G-3652064",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-G",
+      "latitude": -1.98188,
+      "longitude": -79.78444
+    },
+    {
+      "id": 3650124,
+      "name": "Cantón Yaguachi",
+      "nativeName": "Cantón Yaguachi",
+      "code": "EC-G-3650124",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-G",
+      "latitude": -2.11677,
+      "longitude": -79.69897
+    },
+    {
+      "id": 10792456,
+      "name": "Coronel Marcelino Maridueña",
+      "nativeName": "Coronel Marcelino Maridueña",
+      "code": "EC-G-10792456",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-G",
+      "latitude": -2.23589,
+      "longitude": -79.38137
+    },
+    {
+      "id": 3658498,
+      "name": "Daule",
+      "nativeName": "Daule",
+      "code": "EC-G-3658498",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-G",
+      "latitude": -1.89181,
+      "longitude": -79.93339
+    },
+    {
+      "id": 10792451,
+      "name": "Durán",
+      "nativeName": "Durán",
+      "code": "EC-G-10792451",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-G",
+      "latitude": -2.22581,
+      "longitude": -79.77477
+    },
+    {
+      "id": 3658266,
+      "name": "El Empalme",
+      "nativeName": "El Empalme",
+      "code": "EC-G-3658266",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-G",
+      "latitude": -0.98586,
+      "longitude": -79.66334
+    },
+    {
+      "id": 10792452,
+      "name": "El Triunfo",
+      "nativeName": "El Triunfo",
+      "code": "EC-G-10792452",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-G",
+      "latitude": -2.29156,
+      "longitude": -79.3623
+    },
+    {
+      "id": 10792462,
+      "name": "General Antonio Elizalde",
+      "nativeName": "General Antonio Elizalde",
+      "code": "EC-G-10792462",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-G",
+      "latitude": -2.15499,
+      "longitude": -79.19854
+    },
+    {
+      "id": 3657508,
+      "name": "Guayaquil",
+      "nativeName": "Guayaquil",
+      "code": "EC-G-3657508",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-G",
+      "latitude": -2.4352,
+      "longitude": -80.10039
+    },
+    {
+      "id": 10792463,
+      "name": "Isidro Ayora",
+      "nativeName": "Isidro Ayora",
+      "code": "EC-G-10792463",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-G",
+      "latitude": -1.9631,
+      "longitude": -80.15928
+    },
+    {
+      "id": 10792458,
+      "name": "Lomas De Sargentillo",
+      "nativeName": "Lomas De Sargentillo",
+      "code": "EC-G-10792458",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-G",
+      "latitude": -1.84736,
+      "longitude": -80.07871
+    },
+    {
+      "id": 3654213,
+      "name": "Milagro",
+      "nativeName": "Milagro",
+      "code": "EC-G-3654213",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-G",
+      "latitude": -2.11916,
+      "longitude": -79.56007
+    },
+    {
+      "id": 3653880,
+      "name": "Naranjal",
+      "nativeName": "Naranjal",
+      "code": "EC-G-3653880",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-G",
+      "latitude": -2.56367,
+      "longitude": -79.60063
+    },
+    {
+      "id": 3653872,
+      "name": "Naranjito",
+      "nativeName": "Naranjito",
+      "code": "EC-G-3653872",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-G",
+      "latitude": -2.14962,
+      "longitude": -79.39166
+    },
+    {
+      "id": 10792461,
+      "name": "Nobol",
+      "nativeName": "Nobol",
+      "code": "EC-G-10792461",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-G",
+      "latitude": -1.96883,
+      "longitude": -80.05292
+    },
+    {
+      "id": 10792453,
+      "name": "Palestina",
+      "nativeName": "Palestina",
+      "code": "EC-G-10792453",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-G",
+      "latitude": -1.63364,
+      "longitude": -79.91825
+    },
+    {
+      "id": 10792454,
+      "name": "Pedro Carbo",
+      "nativeName": "Pedro Carbo",
+      "code": "EC-G-10792454",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-G",
+      "latitude": -1.8538,
+      "longitude": -80.28787
+    },
+    {
+      "id": 10792459,
+      "name": "Playas",
+      "nativeName": "Playas",
+      "code": "EC-G-10792459",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-G",
+      "latitude": -2.55413,
+      "longitude": -80.43465
+    },
+    {
+      "id": 10792455,
+      "name": "Santa Lucía",
+      "nativeName": "Santa Lucía",
+      "code": "EC-G-10792455",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-G",
+      "latitude": -1.71317,
+      "longitude": -80.03175
+    },
+    {
+      "id": 10792460,
+      "name": "Simón Bolívar",
+      "nativeName": "Simón Bolívar",
+      "code": "EC-G-10792460",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-G",
+      "latitude": -2.03624,
+      "longitude": -79.40141
+    }
+  ]
+}

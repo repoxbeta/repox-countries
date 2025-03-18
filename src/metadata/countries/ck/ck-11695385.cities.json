@@ -1,0 +1,40 @@
+{
+  "stateId": 11695385,
+  "stateCode": "CK-11695385",
+  "countryCode": "CK",
+  "cities": [
+    {
+      "id": 4035730,
+      "name": "Areora",
+      "nativeName": "Areora",
+      "code": "CK-11695385-4035730",
+      "countryId": 1899402,
+      "countryCode": "CK",
+      "stateCode": "CK-11695385",
+      "latitude": -20.16333,
+      "longitude": -157.34444
+    },
+    {
+      "id": 4036467,
+      "name": "Kimiangatau Village",
+      "nativeName": "Kimiangatau Village",
+      "code": "CK-11695385-4036467",
+      "countryId": 1899402,
+      "countryCode": "CK",
+      "stateCode": "CK-11695385",
+      "latitude": -20.14367,
+      "longitude": -157.35648
+    },
+    {
+      "id": 4035623,
+      "name": "Ngatiarua",
+      "nativeName": "Ngatiarua",
+      "code": "CK-11695385-4035623",
+      "countryId": 1899402,
+      "countryCode": "CK",
+      "stateCode": "CK-11695385",
+      "latitude": -20.15278,
+      "longitude": -157.34333
+    }
+  ]
+}

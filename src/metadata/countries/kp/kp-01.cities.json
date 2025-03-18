@@ -1,0 +1,227 @@
+{
+  "stateId": 1871856,
+  "stateCode": "KP-01",
+  "countryCode": "KP",
+  "cities": [
+    {
+      "id": 1877859,
+      "name": "Chung",
+      "nativeName": "Chung",
+      "code": "KP-01-1877859",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-01",
+      "latitude": 39.01963,
+      "longitude": 125.74828
+    },
+    {
+      "id": 1876737,
+      "name": "Hyŏngjesan-guyŏk",
+      "nativeName": "Hyŏngjesan-guyŏk",
+      "code": "KP-01-1876737",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-01",
+      "latitude": 39.1,
+      "longitude": 125.71667
+    },
+    {
+      "id": 1876156,
+      "name": "Kangdong-gun",
+      "nativeName": "Kangdong-gun",
+      "code": "KP-01-1876156",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-01",
+      "latitude": 39.07724,
+      "longitude": 126.15116
+    },
+    {
+      "id": 1876132,
+      "name": "Kangnam-gun",
+      "nativeName": "Kangnam-gun",
+      "code": "KP-01-1876132",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-01",
+      "latitude": 38.8684,
+      "longitude": 125.61851
+    },
+    {
+      "id": 1874534,
+      "name": "Man’gyŏngdae",
+      "nativeName": "Man’gyŏngdae",
+      "code": "KP-01-1874534",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-01",
+      "latitude": 39.03334,
+      "longitude": 125.65008
+    },
+    {
+      "id": 1874339,
+      "name": "Moranbong",
+      "nativeName": "Moranbong",
+      "code": "KP-01-1874339",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-01",
+      "latitude": 39.05168,
+      "longitude": 125.75191
+    },
+    {
+      "id": 1873641,
+      "name": "Nangnang",
+      "nativeName": "Nangnang",
+      "code": "KP-01-1873641",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-01",
+      "latitude": 38.95,
+      "longitude": 125.7
+    },
+    {
+      "id": 1872260,
+      "name": "Pot’onggang-guyŏk",
+      "nativeName": "Pot’onggang-guyŏk",
+      "code": "KP-01-1872260",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-01",
+      "latitude": 39.03124,
+      "longitude": 125.72667
+    },
+    {
+      "id": 1871937,
+      "name": "P’yŏngch’ŏn-guyŏk",
+      "nativeName": "P’yŏngch’ŏn-guyŏk",
+      "code": "KP-01-1871937",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-01",
+      "latitude": 39.00547,
+      "longitude": 125.72029
+    },
+    {
+      "id": 1871810,
+      "name": "Sadong",
+      "nativeName": "Sadong",
+      "code": "KP-01-1871810",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-01",
+      "latitude": 38.98583,
+      "longitude": 125.90194
+    },
+    {
+      "id": 1871416,
+      "name": "Samsŏk-kuyŏk",
+      "nativeName": "Samsŏk-kuyŏk",
+      "code": "KP-01-1871416",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-01",
+      "latitude": 39.09944,
+      "longitude": 125.91139
+    },
+    {
+      "id": 1869019,
+      "name": "Sunan",
+      "nativeName": "Sunan",
+      "code": "KP-01-1869019",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-01",
+      "latitude": 39.20472,
+      "longitude": 125.70972
+    },
+    {
+      "id": 1869345,
+      "name": "Sŏn’gyo-guyŏk",
+      "nativeName": "Sŏn’gyo-guyŏk",
+      "code": "KP-01-1869345",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-01",
+      "latitude": 38.99327,
+      "longitude": 125.77538
+    },
+    {
+      "id": 1869227,
+      "name": "Sŏsŏng-guyŏk",
+      "nativeName": "Sŏsŏng-guyŏk",
+      "code": "KP-01-1869227",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-01",
+      "latitude": 39.06725,
+      "longitude": 125.75387
+    },
+    {
+      "id": 1868813,
+      "name": "Taedonggang",
+      "nativeName": "Taedonggang",
+      "code": "KP-01-1868813",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-01",
+      "latitude": 39.02645,
+      "longitude": 125.79633
+    },
+    {
+      "id": 1868593,
+      "name": "Taesŏng-guyŏk",
+      "nativeName": "Taesŏng-guyŏk",
+      "code": "KP-01-1868593",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-01",
+      "latitude": 39.06306,
+      "longitude": 125.83389
+    },
+    {
+      "id": 1867918,
+      "name": "Tongdaewŏn-guyŏk",
+      "nativeName": "Tongdaewŏn-guyŏk",
+      "code": "KP-01-1867918",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-01",
+      "latitude": 39.01133,
+      "longitude": 125.78258
+    },
+    {
+      "id": 1866090,
+      "name": "Yongsŏng-guyŏk",
+      "nativeName": "Yongsŏng-guyŏk",
+      "code": "KP-01-1866090",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-01",
+      "latitude": 39.15361,
+      "longitude": 125.81083
+    },
+    {
+      "id": 1866614,
+      "name": "Yŏkp’o-guyŏk",
+      "nativeName": "Yŏkp’o-guyŏk",
+      "code": "KP-01-1866614",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-01",
+      "latitude": 38.93556,
+      "longitude": 125.82417
+    },
+    {
+      "id": 11791938,
+      "name": "Ŭnjŏng-guyŏk",
+      "nativeName": "Ŭnjŏng-guyŏk",
+      "code": "KP-01-11791938",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-01",
+      "latitude": 39.21388,
+      "longitude": 125.85966
+    }
+  ]
+}

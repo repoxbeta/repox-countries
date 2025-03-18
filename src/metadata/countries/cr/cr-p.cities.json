@@ -1,0 +1,128 @@
+{
+  "stateId": 3622226,
+  "stateCode": "CR-P",
+  "countryCode": "CR",
+  "cities": [
+    {
+      "id": 3624586,
+      "name": "Buenos Aires",
+      "nativeName": "Buenos Aires",
+      "code": "CR-P-3624586",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-P",
+      "latitude": 9.10261,
+      "longitude": -83.25527
+    },
+    {
+      "id": 3624064,
+      "name": "Corredores",
+      "nativeName": "Corredores",
+      "code": "CR-P-3624064",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-P",
+      "latitude": 8.53238,
+      "longitude": -82.91879
+    },
+    {
+      "id": 3624051,
+      "name": "Coto Brus",
+      "nativeName": "Coto Brus",
+      "code": "CR-P-3624051",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-P",
+      "latitude": 8.88546,
+      "longitude": -82.94119
+    },
+    {
+      "id": 3623780,
+      "name": "Esparza",
+      "nativeName": "Esparza",
+      "code": "CR-P-3623780",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-P",
+      "latitude": 9.98089,
+      "longitude": -84.65817
+    },
+    {
+      "id": 8531802,
+      "name": "Garabito",
+      "nativeName": "Garabito",
+      "code": "CR-P-8531802",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-P",
+      "latitude": 9.61903,
+      "longitude": -84.62013
+    },
+    {
+      "id": 3623655,
+      "name": "Golfito",
+      "nativeName": "Golfito",
+      "code": "CR-P-3623655",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-P",
+      "latitude": 8.6,
+      "longitude": -83.12
+    },
+    {
+      "id": 3622813,
+      "name": "Montes de Oro",
+      "nativeName": "Montes de Oro",
+      "code": "CR-P-3622813",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-P",
+      "latitude": 10.10849,
+      "longitude": -84.74151
+    },
+    {
+      "id": 3622657,
+      "name": "Osa",
+      "nativeName": "Osa",
+      "code": "CR-P-3622657",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-P",
+      "latitude": 8.84183,
+      "longitude": -83.41932
+    },
+    {
+      "id": 3622535,
+      "name": "Parrita",
+      "nativeName": "Parrita",
+      "code": "CR-P-3622535",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-P",
+      "latitude": 9.55,
+      "longitude": -84.31751
+    },
+    {
+      "id": 3622227,
+      "name": "Puntarenas",
+      "nativeName": "Puntarenas",
+      "code": "CR-P-3622227",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-P",
+      "latitude": 9.98102,
+      "longitude": -84.81342
+    },
+    {
+      "id": 3624970,
+      "name": "Quepos",
+      "nativeName": "Quepos",
+      "code": "CR-P-3624970",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-P",
+      "latitude": 9.43187,
+      "longitude": -84.16141
+    }
+  ]
+}

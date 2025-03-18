@@ -1,0 +1,183 @@
+{
+  "stateId": 3919966,
+  "stateCode": "BO-C",
+  "countryCode": "BO",
+  "cities": [
+    {
+      "id": 3923769,
+      "name": "Arani",
+      "nativeName": "Provincia Arani",
+      "code": "BO-C-3923769",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-C",
+      "latitude": -17.59089,
+      "longitude": -65.64055
+    },
+    {
+      "id": 3923681,
+      "name": "Arque",
+      "nativeName": "Provincia Arque",
+      "code": "BO-C-3923681",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-C",
+      "latitude": -17.81747,
+      "longitude": -66.51112
+    },
+    {
+      "id": 3923480,
+      "name": "Ayopaya",
+      "nativeName": "Provincia Ayopaya",
+      "code": "BO-C-3923480",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-C",
+      "latitude": -16.67899,
+      "longitude": -66.5074
+    },
+    {
+      "id": 7576102,
+      "name": "Bolívar",
+      "nativeName": "Bolivar",
+      "code": "BO-C-7576102",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-C",
+      "latitude": -17.96667,
+      "longitude": -66.53333
+    },
+    {
+      "id": 3922371,
+      "name": "Campero",
+      "nativeName": "Provincia Campero",
+      "code": "BO-C-3922371",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-C",
+      "latitude": -18.28836,
+      "longitude": -64.85195
+    },
+    {
+      "id": 3922124,
+      "name": "Capinota",
+      "nativeName": "Provincia Capinota",
+      "code": "BO-C-3922124",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-C",
+      "latitude": -17.74432,
+      "longitude": -66.22945
+    },
+    {
+      "id": 3921892,
+      "name": "Carrasco",
+      "nativeName": "Provincia Carrasco",
+      "code": "BO-C-3921892",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-C",
+      "latitude": -17.38875,
+      "longitude": -64.89288
+    },
+    {
+      "id": 3921630,
+      "name": "Cercado",
+      "nativeName": "Provincia Cercado",
+      "code": "BO-C-3921630",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-C",
+      "latitude": -17.42329,
+      "longitude": -66.16479
+    },
+    {
+      "id": 3921215,
+      "name": "Chapare",
+      "nativeName": "Chapare",
+      "code": "BO-C-3921215",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-C",
+      "latitude": -16.80922,
+      "longitude": -65.71926
+    },
+    {
+      "id": 3915859,
+      "name": "Esteban Arce",
+      "nativeName": "Provincia Esteban Arze",
+      "code": "BO-C-3915859",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-C",
+      "latitude": -17.75568,
+      "longitude": -65.99344
+    },
+    {
+      "id": 3915586,
+      "name": "German Jordán",
+      "nativeName": "Provincia Germán Jordán",
+      "code": "BO-C-3915586",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-C",
+      "latitude": -17.58614,
+      "longitude": -65.92744
+    },
+    {
+      "id": 3910289,
+      "name": "Mizque",
+      "nativeName": "Provincia Mizque",
+      "code": "BO-C-3910289",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-C",
+      "latitude": -17.90655,
+      "longitude": -65.3944
+    },
+    {
+      "id": 3907079,
+      "name": "Punata",
+      "nativeName": "Provincia Punata",
+      "code": "BO-C-3907079",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-C",
+      "latitude": -17.57871,
+      "longitude": -65.84498
+    },
+    {
+      "id": 3906790,
+      "name": "Quillacollo",
+      "nativeName": "Provincia Quillacollo",
+      "code": "BO-C-3906790",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-C",
+      "latitude": -17.37444,
+      "longitude": -66.34352
+    },
+    {
+      "id": 3903462,
+      "name": "Tapacarí",
+      "nativeName": "Provincia Tapacarí",
+      "code": "BO-C-3903462",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-C",
+      "latitude": -17.56581,
+      "longitude": -66.64214
+    },
+    {
+      "id": 8335405,
+      "name": "Tiraque",
+      "nativeName": "Tiraque Province",
+      "code": "BO-C-8335405",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-C",
+      "latitude": -17.33333,
+      "longitude": -65.91667
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "stateId": 862953,
+  "stateCode": "MK-407",
+  "countryCode": "MK",
+  "cities": [
+    {
+      "id": 789342,
+      "name": "Konče",
+      "nativeName": "Konče",
+      "code": "MK-407-789342",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-407",
+      "latitude": 41.49511,
+      "longitude": 22.38359
+    },
+    {
+      "id": 791567,
+      "name": "Dedino",
+      "nativeName": "Dedino",
+      "code": "MK-407-791567",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-407",
+      "latitude": 41.57,
+      "longitude": 22.42472
+    },
+    {
+      "id": 791338,
+      "name": "Dolni Lipoviḱ",
+      "nativeName": "Dolni Lipoviḱ",
+      "code": "MK-407-791338",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-407",
+      "latitude": 41.50417,
+      "longitude": 22.45694
+    },
+    {
+      "id": 790805,
+      "name": "Gabrevci",
+      "nativeName": "Gabrevci",
+      "code": "MK-407-790805",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-407",
+      "latitude": 41.56444,
+      "longitude": 22.37917
+    },
+    {
+      "id": 790761,
+      "name": "Garvan",
+      "nativeName": "Garvan",
+      "code": "MK-407-790761",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-407",
+      "latitude": 41.55896,
+      "longitude": 22.28995
+    },
+    {
+      "id": 790324,
+      "name": "Gorni Lipoviḱ",
+      "nativeName": "Gorni Lipoviḱ",
+      "code": "MK-407-790324",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-407",
+      "latitude": 41.51139,
+      "longitude": 22.49306
+    },
+    {
+      "id": 788458,
+      "name": "Lubnica",
+      "nativeName": "Lubnica",
+      "code": "MK-407-788458",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-407",
+      "latitude": 41.50116,
+      "longitude": 22.36779
+    },
+    {
+      "id": 838448,
+      "name": "Novo Selo",
+      "nativeName": "Novo Selo",
+      "code": "MK-407-838448",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-407",
+      "latitude": 41.4862,
+      "longitude": 22.5084
+    },
+    {
+      "id": 786520,
+      "name": "Rakitec",
+      "nativeName": "Rakitec",
+      "code": "MK-407-786520",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-407",
+      "latitude": 41.54306,
+      "longitude": 22.42583
+    },
+    {
+      "id": 785835,
+      "name": "Skoruša",
+      "nativeName": "Skoruša",
+      "code": "MK-407-785835",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-407",
+      "latitude": 41.54278,
+      "longitude": 22.325
+    },
+    {
+      "id": 784042,
+      "name": "Zagorci",
+      "nativeName": "Zagorci",
+      "code": "MK-407-784042",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-407",
+      "latitude": 41.54778,
+      "longitude": 22.305
+    }
+  ]
+}

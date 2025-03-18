@@ -1,0 +1,117 @@
+{
+  "stateId": 1905626,
+  "stateCode": "VN-67",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 1905634,
+      "name": "Giao Thủy District",
+      "nativeName": "Huyện Giao Thủy",
+      "code": "VN-67-1905634",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-67",
+      "latitude": 20.25706,
+      "longitude": 106.46245
+    },
+    {
+      "id": 1905633,
+      "name": "Huyện Xuân Trường",
+      "nativeName": "Huyện Xuân Trường",
+      "code": "VN-67-1905633",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-67",
+      "latitude": 20.29615,
+      "longitude": 106.35176
+    },
+    {
+      "id": 1905635,
+      "name": "Hải Hậu District",
+      "nativeName": "Huyện Hải Hậu",
+      "code": "VN-67-1905635",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-67",
+      "latitude": 20.15057,
+      "longitude": 106.27161
+    },
+    {
+      "id": 1905628,
+      "name": "Mỹ Lộc District",
+      "nativeName": "Huyện Mỹ Lộc",
+      "code": "VN-67-1905628",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-67",
+      "latitude": 20.46079,
+      "longitude": 106.12319
+    },
+    {
+      "id": 1905631,
+      "name": "Nam Trực District",
+      "nativeName": "Huyện Nam Trực",
+      "code": "VN-67-1905631",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-67",
+      "latitude": 20.34106,
+      "longitude": 106.20821
+    },
+    {
+      "id": 1905636,
+      "name": "Nghĩa Hưng District",
+      "nativeName": "Huyện Nghĩa Hưng",
+      "code": "VN-67-1905636",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-67",
+      "latitude": 20.10598,
+      "longitude": 106.17345
+    },
+    {
+      "id": 1905627,
+      "name": "Thành Phố Nam Định",
+      "nativeName": "Thành Phố Nam Định",
+      "code": "VN-67-1905627",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-67",
+      "latitude": 20.42974,
+      "longitude": 106.17191
+    },
+    {
+      "id": 1905632,
+      "name": "Trực Ninh District",
+      "nativeName": "Huyện Trực Ninh",
+      "code": "VN-67-1905632",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-67",
+      "latitude": 20.2569,
+      "longitude": 106.24582
+    },
+    {
+      "id": 1905629,
+      "name": "Vụ Bản District",
+      "nativeName": "Huyện Vụ Bản",
+      "code": "VN-67-1905629",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-67",
+      "latitude": 20.37705,
+      "longitude": 106.09707
+    },
+    {
+      "id": 1905630,
+      "name": "Ý Yên District",
+      "nativeName": "Huyện Ý Yên",
+      "code": "VN-67-1905630",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-67",
+      "latitude": 20.31669,
+      "longitude": 106.02327
+    }
+  ]
+}

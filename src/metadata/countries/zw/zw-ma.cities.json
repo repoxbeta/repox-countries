@@ -1,0 +1,95 @@
+{
+  "stateId": 887358,
+  "stateCode": "ZW-MA",
+  "countryCode": "ZW",
+  "cities": [
+    {
+      "id": 894711,
+      "name": "Buhera District",
+      "nativeName": "Buhera District",
+      "code": "ZW-MA-894711",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MA",
+      "latitude": -19.45658,
+      "longitude": 31.93156
+    },
+    {
+      "id": 893811,
+      "name": "Chimanimani District",
+      "nativeName": "Chimanimani District",
+      "code": "ZW-MA-893811",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MA",
+      "latitude": -19.78295,
+      "longitude": 32.73338
+    },
+    {
+      "id": 893548,
+      "name": "Chipinge District",
+      "nativeName": "Chipinge District",
+      "code": "ZW-MA-893548",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MA",
+      "latitude": -20.54959,
+      "longitude": 32.4311
+    },
+    {
+      "id": 887718,
+      "name": "Makoni District",
+      "nativeName": "Makoni District",
+      "code": "ZW-MA-887718",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MA",
+      "latitude": -18.3355,
+      "longitude": 32.1465
+    },
+    {
+      "id": 11204515,
+      "name": "Mossurize District",
+      "nativeName": "Mossurize District",
+      "code": "ZW-MA-11204515",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MA",
+      "latitude": -20.45821,
+      "longitude": 32.44589
+    },
+    {
+      "id": 884978,
+      "name": "Mutare District",
+      "nativeName": "Mutare District",
+      "code": "ZW-MA-884978",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MA",
+      "latitude": -19.25512,
+      "longitude": 32.44327
+    },
+    {
+      "id": 884977,
+      "name": "Mutasa District",
+      "nativeName": "Mutasa District",
+      "code": "ZW-MA-884977",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MA",
+      "latitude": -18.66283,
+      "longitude": 32.74547
+    },
+    {
+      "id": 883480,
+      "name": "Nyanga District",
+      "nativeName": "Nyanga District",
+      "code": "ZW-MA-883480",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MA",
+      "latitude": -17.92951,
+      "longitude": 32.76561
+    }
+  ]
+}

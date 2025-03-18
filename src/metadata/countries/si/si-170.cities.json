@@ -1,0 +1,293 @@
+{
+  "stateId": 3344911,
+  "stateCode": "SI-170",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3195036,
+      "name": "Mirna Peč",
+      "nativeName": "Mirna Peč",
+      "code": "SI-170-3195036",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-170",
+      "latitude": 45.86028,
+      "longitude": 15.08333
+    },
+    {
+      "id": 8987647,
+      "name": "Biška Vas",
+      "nativeName": "Biška Vas",
+      "code": "SI-170-8987647",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-170",
+      "latitude": 45.86999,
+      "longitude": 15.07156
+    },
+    {
+      "id": 3201845,
+      "name": "Dolenja Vas pri Mirni Peči",
+      "nativeName": "Dolenja Vas pri Mirni Peči",
+      "code": "SI-170-3201845",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-170",
+      "latitude": 45.87494,
+      "longitude": 15.09447
+    },
+    {
+      "id": 3201825,
+      "name": "Dolenji Globodol",
+      "nativeName": "Dolenji Globodol",
+      "code": "SI-170-3201825",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-170",
+      "latitude": 45.834,
+      "longitude": 15.04746
+    },
+    {
+      "id": 8988743,
+      "name": "Dolenji Podboršt",
+      "nativeName": "Dolenji Podboršt",
+      "code": "SI-170-8988743",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-170",
+      "latitude": 45.84574,
+      "longitude": 15.08204
+    },
+    {
+      "id": 8988722,
+      "name": "Globočdol",
+      "nativeName": "Globočdol",
+      "code": "SI-170-8988722",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-170",
+      "latitude": 45.87296,
+      "longitude": 15.13189
+    },
+    {
+      "id": 8987835,
+      "name": "Golobinjek",
+      "nativeName": "Golobinjek",
+      "code": "SI-170-8987835",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-170",
+      "latitude": 45.85091,
+      "longitude": 15.06201
+    },
+    {
+      "id": 3200354,
+      "name": "Gorenji Globodol",
+      "nativeName": "Gorenji Globodol",
+      "code": "SI-170-3200354",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-170",
+      "latitude": 45.85,
+      "longitude": 15.05
+    },
+    {
+      "id": 8989531,
+      "name": "Gorenji Podboršt",
+      "nativeName": "Gorenji Podboršt",
+      "code": "SI-170-8989531",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-170",
+      "latitude": 45.85363,
+      "longitude": 15.07754
+    },
+    {
+      "id": 3200309,
+      "name": "Goriška Vas",
+      "nativeName": "Goriška Vas",
+      "code": "SI-170-3200309",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-170",
+      "latitude": 45.83333,
+      "longitude": 15.08333
+    },
+    {
+      "id": 8989285,
+      "name": "Grč Vrh",
+      "nativeName": "Grč Vrh",
+      "code": "SI-170-8989285",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-170",
+      "latitude": 45.82734,
+      "longitude": 15.07269
+    },
+    {
+      "id": 8988138,
+      "name": "Hmeljčič",
+      "nativeName": "Hmeljčič",
+      "code": "SI-170-8988138",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-170",
+      "latitude": 45.87243,
+      "longitude": 15.11962
+    },
+    {
+      "id": 8989812,
+      "name": "Hrastje pri Mirni Peči",
+      "nativeName": "Hrastje pri Mirni Peči",
+      "code": "SI-170-8989812",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-170",
+      "latitude": 45.88259,
+      "longitude": 15.09536
+    },
+    {
+      "id": 3199012,
+      "name": "Jablan",
+      "nativeName": "Jablan",
+      "code": "SI-170-3199012",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-170",
+      "latitude": 45.83333,
+      "longitude": 15.1
+    },
+    {
+      "id": 8988800,
+      "name": "Jelše",
+      "nativeName": "Jelše",
+      "code": "SI-170-8988800",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-170",
+      "latitude": 45.87653,
+      "longitude": 15.07507
+    },
+    {
+      "id": 8988744,
+      "name": "Jordankal",
+      "nativeName": "Jordankal",
+      "code": "SI-170-8988744",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-170",
+      "latitude": 45.86648,
+      "longitude": 15.0446
+    },
+    {
+      "id": 3195759,
+      "name": "Malenska Vas",
+      "nativeName": "Malenska Vas",
+      "code": "SI-170-3195759",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-170",
+      "latitude": 45.84874,
+      "longitude": 15.0891
+    },
+    {
+      "id": 8988685,
+      "name": "Mali Vrh",
+      "nativeName": "Mali Vrh",
+      "code": "SI-170-8988685",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-170",
+      "latitude": 45.84276,
+      "longitude": 15.09147
+    },
+    {
+      "id": 8988499,
+      "name": "Orkljevec",
+      "nativeName": "Orkljevec",
+      "code": "SI-170-8988499",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-170",
+      "latitude": 45.86006,
+      "longitude": 15.11726
+    },
+    {
+      "id": 8989543,
+      "name": "Poljane pri Mirni Peči",
+      "nativeName": "Poljane pri Mirni Peči",
+      "code": "SI-170-8989543",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-170",
+      "latitude": 45.89081,
+      "longitude": 15.09137
+    },
+    {
+      "id": 8988776,
+      "name": "Selo pri Zagorici",
+      "nativeName": "Selo pri Zagorici",
+      "code": "SI-170-8988776",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-170",
+      "latitude": 45.8672,
+      "longitude": 15.12862
+    },
+    {
+      "id": 3190115,
+      "name": "Srednji Globodol",
+      "nativeName": "Srednji Globodol",
+      "code": "SI-170-3190115",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-170",
+      "latitude": 45.85,
+      "longitude": 15.05
+    },
+    {
+      "id": 3188065,
+      "name": "Veliki Kal",
+      "nativeName": "Veliki Kal",
+      "code": "SI-170-3188065",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-170",
+      "latitude": 45.86004,
+      "longitude": 15.11165
+    },
+    {
+      "id": 8988163,
+      "name": "Vrhovo pri Mirni Peči",
+      "nativeName": "Vrhovo pri Mirni Peči",
+      "code": "SI-170-8988163",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-170",
+      "latitude": 45.83045,
+      "longitude": 15.08918
+    },
+    {
+      "id": 8988684,
+      "name": "Čemše",
+      "nativeName": "Čemše",
+      "code": "SI-170-8988684",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-170",
+      "latitude": 45.88439,
+      "longitude": 15.10692
+    },
+    {
+      "id": 3191030,
+      "name": "Šentjurij na Dolenjskem",
+      "nativeName": "Šentjurij na Dolenjskem",
+      "code": "SI-170-3191030",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-170",
+      "latitude": 45.87583,
+      "longitude": 15.115
+    }
+  ]
+}

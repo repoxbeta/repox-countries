@@ -1,0 +1,39 @@
+{
+  "countryId": 2802361,
+  "countryCode": "BE",
+  "states": [
+    {
+      "id": 2800867,
+      "name": "Brussels Capital",
+      "nativeName": "Bruxelles-Capitale",
+      "code": "BE-BRU",
+      "internalCode": "BRU",
+      "countryId": 2802361,
+      "countryCode": "BE",
+      "latitude": 50.85332,
+      "longitude": 4.35144
+    },
+    {
+      "id": 3337388,
+      "name": "Flanders",
+      "nativeName": "Flanders",
+      "code": "BE-VLG",
+      "internalCode": "VLG",
+      "countryId": 2802361,
+      "countryCode": "BE",
+      "latitude": 51,
+      "longitude": 4.5
+    },
+    {
+      "id": 3337387,
+      "name": "Wallonia",
+      "nativeName": "Wallonia",
+      "code": "BE-WAL",
+      "internalCode": "WAL",
+      "countryId": 2802361,
+      "countryCode": "BE",
+      "latitude": 50.5,
+      "longitude": 4.75
+    }
+  ]
+}

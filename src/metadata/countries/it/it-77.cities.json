@@ -1,0 +1,29 @@
+{
+  "stateId": 3182306,
+  "stateCode": "IT-77",
+  "countryCode": "IT",
+  "cities": [
+    {
+      "id": 3173718,
+      "name": "Province of Matera",
+      "nativeName": "Provincia di Matera",
+      "code": "IT-77-3173718",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-77",
+      "latitude": 40.5,
+      "longitude": 16.41667
+    },
+    {
+      "id": 3170025,
+      "name": "Province of Potenza",
+      "nativeName": "Provincia di Potenza",
+      "code": "IT-77-3170025",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-77",
+      "latitude": 40.46442,
+      "longitude": 15.89938
+    }
+  ]
+}

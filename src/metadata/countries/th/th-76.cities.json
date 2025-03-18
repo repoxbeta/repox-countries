@@ -1,0 +1,95 @@
+{
+  "stateId": 1151416,
+  "stateCode": "TH-76",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 1617236,
+      "name": "Ban Laem",
+      "nativeName": "Amphoe Ban Laem",
+      "code": "TH-76-1617236",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-76",
+      "latitude": 13.16968,
+      "longitude": 99.98771
+    },
+    {
+      "id": 1156647,
+      "name": "Ban Lat",
+      "nativeName": "Amphoe Ban Lat",
+      "code": "TH-76-1156647",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-76",
+      "latitude": 13.04533,
+      "longitude": 99.83788
+    },
+    {
+      "id": 1153806,
+      "name": "Cha-am",
+      "nativeName": "Amphoe Cha-am",
+      "code": "TH-76-1153806",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-76",
+      "latitude": 12.75374,
+      "longitude": 99.89828
+    },
+    {
+      "id": 7510652,
+      "name": "Kaeng Krachan",
+      "nativeName": "Amphoe Kaeng Krachan",
+      "code": "TH-76-7510652",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-76",
+      "latitude": 12.85919,
+      "longitude": 99.46339
+    },
+    {
+      "id": 1152918,
+      "name": "Khao Yoi",
+      "nativeName": "Amphoe Khao Yoi",
+      "code": "TH-76-1152918",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-76",
+      "latitude": 13.2424,
+      "longitude": 99.80753
+    },
+    {
+      "id": 1151985,
+      "name": "Mueang Phetchaburi",
+      "nativeName": "Amphoe Mueang Phetchaburi",
+      "code": "TH-76-1151985",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-76",
+      "latitude": 13.08173,
+      "longitude": 99.96721
+    },
+    {
+      "id": 7510653,
+      "name": "Nong Ya Plong",
+      "nativeName": "Amphoe Nong Ya Plong",
+      "code": "TH-76-7510653",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-76",
+      "latitude": 13.1259,
+      "longitude": 99.4688
+    },
+    {
+      "id": 1150182,
+      "name": "Tha Yang",
+      "nativeName": "Amphoe Tha Yang",
+      "code": "TH-76-1150182",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-76",
+      "latitude": 12.81743,
+      "longitude": 99.78738
+    }
+  ]
+}

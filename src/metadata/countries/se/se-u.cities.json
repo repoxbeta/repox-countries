@@ -1,0 +1,117 @@
+{
+  "stateId": 2664179,
+  "stateCode": "SE-U",
+  "countryCode": "SE",
+  "cities": [
+    {
+      "id": 2725469,
+      "name": "Arboga Kommun",
+      "nativeName": "Arboga Kommun",
+      "code": "SE-U-2725469",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-U",
+      "latitude": 59.39451,
+      "longitude": 15.79261
+    },
+    {
+      "id": 2715650,
+      "name": "Fagersta Municipality",
+      "nativeName": "Fagersta Kommun",
+      "code": "SE-U-2715650",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-U",
+      "latitude": 59.94834,
+      "longitude": 15.88332
+    },
+    {
+      "id": 2708428,
+      "name": "Hallstahammar Municipality",
+      "nativeName": "Hallstahammars Kommun",
+      "code": "SE-U-2708428",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-U",
+      "latitude": 59.61703,
+      "longitude": 16.22797
+    },
+    {
+      "id": 2698680,
+      "name": "Kungsör Municipality",
+      "nativeName": "Kungsörs kommun",
+      "code": "SE-U-2698680",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-U",
+      "latitude": 59.40247,
+      "longitude": 16.07748
+    },
+    {
+      "id": 2699780,
+      "name": "Köping Municipality",
+      "nativeName": "Köpings Kommun",
+      "code": "SE-U-2699780",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-U",
+      "latitude": 59.56639,
+      "longitude": 15.87218
+    },
+    {
+      "id": 2689450,
+      "name": "Norbergs Kommun",
+      "nativeName": "Norbergs Kommun",
+      "code": "SE-U-2689450",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-U",
+      "latitude": 60.08997,
+      "longitude": 15.95971
+    },
+    {
+      "id": 2680657,
+      "name": "Sala Municipality",
+      "nativeName": "Sala kommun",
+      "code": "SE-U-2680657",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-U",
+      "latitude": 59.97221,
+      "longitude": 16.47374
+    },
+    {
+      "id": 2677592,
+      "name": "Skinnskatteberg Municipality",
+      "nativeName": "Skinnskattebergs Kommun",
+      "code": "SE-U-2677592",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-U",
+      "latitude": 59.79715,
+      "longitude": 15.71463
+    },
+    {
+      "id": 2670612,
+      "name": "Surahammar Municipality",
+      "nativeName": "Surahammars Kommun",
+      "code": "SE-U-2670612",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-U",
+      "latitude": 59.77487,
+      "longitude": 16.11885
+    },
+    {
+      "id": 2664441,
+      "name": "Västerås Municipality",
+      "nativeName": "Västerås",
+      "code": "SE-U-2664441",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-U",
+      "latitude": 59.64914,
+      "longitude": 16.56445
+    }
+  ]
+}

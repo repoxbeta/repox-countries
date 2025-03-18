@@ -1,0 +1,40 @@
+{
+  "stateId": 2376551,
+  "stateCode": "MR-09",
+  "countryCode": "MR",
+  "cities": [
+    {
+      "id": 9212633,
+      "name": "Moudjeria",
+      "nativeName": "Moudjeria",
+      "code": "MR-09-9212633",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-09",
+      "latitude": 17.86771,
+      "longitude": -12.19966
+    },
+    {
+      "id": 9212630,
+      "name": "Tichitt",
+      "nativeName": "Tichitt",
+      "code": "MR-09-9212630",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-09",
+      "latitude": 18.64739,
+      "longitude": -9.79933
+    },
+    {
+      "id": 7910310,
+      "name": "Tidjikja",
+      "nativeName": "Tidjikja",
+      "code": "MR-09-7910310",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-09",
+      "latitude": 18.4375,
+      "longitude": -11.52456
+    }
+  ]
+}

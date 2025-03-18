@@ -1,0 +1,128 @@
+{
+  "stateId": 354500,
+  "stateCode": "EG-KFS",
+  "countryCode": "EG",
+  "cities": [
+    {
+      "id": 7911002,
+      "name": "Kafr El Sheikh",
+      "nativeName": "Kafr El Sheikh",
+      "code": "EG-KFS-7911002",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-KFS",
+      "latitude": 31.11188,
+      "longitude": 30.93612
+    },
+    {
+      "id": 358725,
+      "name": "Markaz Biyalā",
+      "nativeName": "Markaz Biyalā",
+      "code": "EG-KFS-358725",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-KFS",
+      "latitude": 31.32452,
+      "longitude": 31.24037
+    },
+    {
+      "id": 358107,
+      "name": "Markaz Disūq",
+      "nativeName": "Markaz Disūq",
+      "code": "EG-KFS-358107",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-KFS",
+      "latitude": 31.1459,
+      "longitude": 30.71609
+    },
+    {
+      "id": 356805,
+      "name": "Markaz Fuwwah",
+      "nativeName": "Markaz Fuwwah",
+      "code": "EG-KFS-356805",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-KFS",
+      "latitude": 31.22529,
+      "longitude": 30.58234
+    },
+    {
+      "id": 354501,
+      "name": "Markaz Kafr ash Shaykh",
+      "nativeName": "Markaz Kafr ash Shaykh",
+      "code": "EG-KFS-354501",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-KFS",
+      "latitude": 31.13696,
+      "longitude": 30.96719
+    },
+    {
+      "id": 10371123,
+      "name": "Markaz Muţūbas",
+      "nativeName": "Markaz Muţūbas",
+      "code": "EG-KFS-10371123",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-KFS",
+      "latitude": 31.36516,
+      "longitude": 30.50891
+    },
+    {
+      "id": 350795,
+      "name": "Markaz Qallīn",
+      "nativeName": "Markaz Qallīn",
+      "code": "EG-KFS-350795",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-KFS",
+      "latitude": 31.0796,
+      "longitude": 30.83491
+    },
+    {
+      "id": 348095,
+      "name": "Markaz Sīdī Sālim",
+      "nativeName": "Markaz Sīdī Sālim",
+      "code": "EG-KFS-348095",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-KFS",
+      "latitude": 31.30489,
+      "longitude": 30.76898
+    },
+    {
+      "id": 361358,
+      "name": "Markaz al Burullus",
+      "nativeName": "Markaz al Burullus",
+      "code": "EG-KFS-361358",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-KFS",
+      "latitude": 31.59913,
+      "longitude": 31.09169
+    },
+    {
+      "id": 7772238,
+      "name": "Markaz al Ḩāmūl",
+      "nativeName": "Markaz al Ḩāmūl",
+      "code": "EG-KFS-7772238",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-KFS",
+      "latitude": 31.37142,
+      "longitude": 31.11126
+    },
+    {
+      "id": 10371122,
+      "name": "Markaz ar Riyāḑ",
+      "nativeName": "Markaz ar Riyāḑ",
+      "code": "EG-KFS-10371122",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-KFS",
+      "latitude": 31.31481,
+      "longitude": 30.92809
+    }
+  ]
+}

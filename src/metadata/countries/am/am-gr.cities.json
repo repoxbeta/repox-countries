@@ -1,0 +1,62 @@
+{
+  "stateId": 828261,
+  "stateCode": "AM-GR",
+  "countryCode": "AM",
+  "cities": [
+    {
+      "id": 13156121,
+      "name": "Chambarak Municipality",
+      "nativeName": "Chambarak Municipality",
+      "code": "AM-GR-13156121",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-GR",
+      "latitude": 40.61161,
+      "longitude": 45.26727
+    },
+    {
+      "id": 13156120,
+      "name": "Gavar Municipality",
+      "nativeName": "Gavar Municipality",
+      "code": "AM-GR-13156120",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-GR",
+      "latitude": 40.33877,
+      "longitude": 45.06502
+    },
+    {
+      "id": 13156122,
+      "name": "Martuni Municipality",
+      "nativeName": "Martuni Municipality",
+      "code": "AM-GR-13156122",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-GR",
+      "latitude": 40.09252,
+      "longitude": 45.27963
+    },
+    {
+      "id": 13156123,
+      "name": "Sevan Municipality",
+      "nativeName": "Sevan Municipality",
+      "code": "AM-GR-13156123",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-GR",
+      "latitude": 40.57832,
+      "longitude": 44.89466
+    },
+    {
+      "id": 13156124,
+      "name": "Vardenis Municipality",
+      "nativeName": "Vardenis Municipality",
+      "code": "AM-GR-13156124",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-GR",
+      "latitude": 40.20075,
+      "longitude": 45.78453
+    }
+  ]
+}

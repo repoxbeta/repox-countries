@@ -1,0 +1,40 @@
+{
+  "stateId": 11496392,
+  "stateCode": "MR-14",
+  "countryCode": "MR",
+  "cities": [
+    {
+      "id": 9212580,
+      "name": "Dar Naim",
+      "nativeName": "Dar Naim",
+      "code": "MR-14-9212580",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-14",
+      "latitude": 18.11616,
+      "longitude": -15.92571
+    },
+    {
+      "id": 9212594,
+      "name": "Teyarett",
+      "nativeName": "Teyarett",
+      "code": "MR-14-9212594",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-14",
+      "latitude": 18.12778,
+      "longitude": -15.93917
+    },
+    {
+      "id": 9212597,
+      "name": "Toujounine",
+      "nativeName": "Toujounine",
+      "code": "MR-14-9212597",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-14",
+      "latitude": 18.07169,
+      "longitude": -15.90311
+    }
+  ]
+}

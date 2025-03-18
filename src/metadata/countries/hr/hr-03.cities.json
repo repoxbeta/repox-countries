@@ -1,0 +1,216 @@
+{
+  "stateId": 3337526,
+  "stateCode": "HR-03",
+  "countryCode": "HR",
+  "cities": [
+    {
+      "id": 11049225,
+      "name": "Municipality of Donji Kukuruzari",
+      "nativeName": "Općina Donji Kukuruzari",
+      "code": "HR-03-11049225",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-03",
+      "latitude": 45.26514,
+      "longitude": 16.48387
+    },
+    {
+      "id": 3200915,
+      "name": "Municipality of Dvor",
+      "nativeName": "Općina Dvor",
+      "code": "HR-03-3200915",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-03",
+      "latitude": 45.1,
+      "longitude": 16.3
+    },
+    {
+      "id": 3187231,
+      "name": "Municipality of Gvozd",
+      "nativeName": "Općina Gvozd",
+      "code": "HR-03-3187231",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-03",
+      "latitude": 45.34905,
+      "longitude": 15.86516
+    },
+    {
+      "id": 11049226,
+      "name": "Municipality of Hrvatska Dubica",
+      "nativeName": "Hrvatska Dubica",
+      "code": "HR-03-11049226",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-03",
+      "latitude": 45.18938,
+      "longitude": 16.79921
+    },
+    {
+      "id": 11049227,
+      "name": "Municipality of Jasenovac",
+      "nativeName": "Općina Jasenovac",
+      "code": "HR-03-11049227",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-03",
+      "latitude": 45.2708,
+      "longitude": 16.91131
+    },
+    {
+      "id": 11049228,
+      "name": "Municipality of Lekenik",
+      "nativeName": "Općina Lekenik",
+      "code": "HR-03-11049228",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-03",
+      "latitude": 45.58499,
+      "longitude": 16.21003
+    },
+    {
+      "id": 11049229,
+      "name": "Municipality of Lipovljani",
+      "nativeName": "Lipovljani",
+      "code": "HR-03-11049229",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-03",
+      "latitude": 45.39844,
+      "longitude": 16.89444
+    },
+    {
+      "id": 11049230,
+      "name": "Municipality of Majur",
+      "nativeName": "Općina Majur",
+      "code": "HR-03-11049230",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-03",
+      "latitude": 45.25509,
+      "longitude": 16.52945
+    },
+    {
+      "id": 11049231,
+      "name": "Municipality of Martinska Ves",
+      "nativeName": "Općina Martinska Ves",
+      "code": "HR-03-11049231",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-03",
+      "latitude": 45.5867,
+      "longitude": 16.37465
+    },
+    {
+      "id": 11049233,
+      "name": "Municipality of Sunja",
+      "nativeName": "Općina Sunja",
+      "code": "HR-03-11049233",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-03",
+      "latitude": 45.36863,
+      "longitude": 16.5673
+    },
+    {
+      "id": 11049234,
+      "name": "Municipality of Topusko",
+      "nativeName": "Općina Topusko",
+      "code": "HR-03-11049234",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-03",
+      "latitude": 45.29613,
+      "longitude": 15.97481
+    },
+    {
+      "id": 11049235,
+      "name": "Municipality of Velika Ludina",
+      "nativeName": "Općina Velika Ludina",
+      "code": "HR-03-11049235",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-03",
+      "latitude": 45.60748,
+      "longitude": 16.57779
+    },
+    {
+      "id": 3200597,
+      "name": "Town of Glina",
+      "nativeName": "Grad Glina",
+      "code": "HR-03-3200597",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-03",
+      "latitude": 45.33333,
+      "longitude": 16.1
+    },
+    {
+      "id": 3197593,
+      "name": "Town of Hrvatska Kostajnica",
+      "nativeName": "Grad Hrvatska Kostajnica",
+      "code": "HR-03-3197593",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-03",
+      "latitude": 45.25,
+      "longitude": 16.56667
+    },
+    {
+      "id": 3196862,
+      "name": "Town of Kutina",
+      "nativeName": "Grad Kutina",
+      "code": "HR-03-3196862",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-03",
+      "latitude": 45.5,
+      "longitude": 16.75
+    },
+    {
+      "id": 3194318,
+      "name": "Town of Novska",
+      "nativeName": "Grad Novska",
+      "code": "HR-03-3194318",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-03",
+      "latitude": 45.33333,
+      "longitude": 17
+    },
+    {
+      "id": 3193419,
+      "name": "Town of Petrinja",
+      "nativeName": "Grad Petrinja",
+      "code": "HR-03-3193419",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-03",
+      "latitude": 45.43333,
+      "longitude": 16.26667
+    },
+    {
+      "id": 11049232,
+      "name": "Town of Popovača",
+      "nativeName": "Popovača",
+      "code": "HR-03-11049232",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-03",
+      "latitude": 45.57093,
+      "longitude": 16.62781
+    },
+    {
+      "id": 3190812,
+      "name": "Town of Sisak",
+      "nativeName": "Grad Sisak",
+      "code": "HR-03-3190812",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-03",
+      "latitude": 45.5,
+      "longitude": 16.36667
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "stateId": 1506272,
+  "stateCode": "RU-AL",
+  "countryCode": "RU",
+  "cities": [
+    {
+      "id": 1535927,
+      "name": "Chemalsky District",
+      "nativeName": "Chemal’skiy Rayon",
+      "code": "RU-AL-1535927",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-AL",
+      "latitude": 50.33333,
+      "longitude": 86.25
+    },
+    {
+      "id": 1507741,
+      "name": "Choysky District",
+      "nativeName": "Choyskiy Rayon",
+      "code": "RU-AL-1507741",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-AL",
+      "latitude": 51.75,
+      "longitude": 86.66667
+    },
+    {
+      "id": 11205727,
+      "name": "Gorno-Altaysk Urban Okrug",
+      "nativeName": "Gorno-Altaysk Urban Okrug",
+      "code": "RU-AL-11205727",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-AL",
+      "latitude": 51.96,
+      "longitude": 85.96
+    },
+    {
+      "id": 1502421,
+      "name": "Kosh-Agachskiy Rayon",
+      "nativeName": "Kosh-Agachskiy Rayon",
+      "code": "RU-AL-1502421",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-AL",
+      "latitude": 49.66667,
+      "longitude": 88
+    },
+    {
+      "id": 1499159,
+      "name": "Mayminskiy Rayon",
+      "nativeName": "Mayminskiy Rayon",
+      "code": "RU-AL-1499159",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-AL",
+      "latitude": 51.83333,
+      "longitude": 86
+    },
+    {
+      "id": 1496129,
+      "name": "Ongudaysky District",
+      "nativeName": "Ongudayskiy Rayon",
+      "code": "RU-AL-1496129",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-AL",
+      "latitude": 50.66667,
+      "longitude": 86.5
+    },
+    {
+      "id": 1492297,
+      "name": "Shebalinsky District",
+      "nativeName": "Shebalinskiy Rayon",
+      "code": "RU-AL-1492297",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-AL",
+      "latitude": 51.33333,
+      "longitude": 85.5
+    },
+    {
+      "id": 1488919,
+      "name": "Turochaksky District",
+      "nativeName": "Turochakskiy Rayon",
+      "code": "RU-AL-1488919",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-AL",
+      "latitude": 51.91667,
+      "longitude": 87.5
+    },
+    {
+      "id": 1488576,
+      "name": "Ulagansky District",
+      "nativeName": "Ulaganskiy Rayon",
+      "code": "RU-AL-1488576",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-AL",
+      "latitude": 50.83333,
+      "longitude": 88.5
+    },
+    {
+      "id": 1488185,
+      "name": "Ust’-Kanskiy Rayon",
+      "nativeName": "Ust’-Kanskiy Rayon",
+      "code": "RU-AL-1488185",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-AL",
+      "latitude": 50.83333,
+      "longitude": 84.83333
+    },
+    {
+      "id": 1488166,
+      "name": "Ust’-Koksinskiy Rayon",
+      "nativeName": "Ust’-Koksinskiy Rayon",
+      "code": "RU-AL-1488166",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-AL",
+      "latitude": 50.16667,
+      "longitude": 85.58333
+    }
+  ]
+}

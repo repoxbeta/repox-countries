@@ -1,0 +1,84 @@
+{
+  "stateId": 3339577,
+  "stateCode": "CZ-42",
+  "countryCode": "CZ",
+  "cities": [
+    {
+      "id": 3077684,
+      "name": "Chomutov District",
+      "nativeName": "Okres Chomutov",
+      "code": "CZ-42-3077684",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-42",
+      "latitude": 50.41667,
+      "longitude": 13.33333
+    },
+    {
+      "id": 3077243,
+      "name": "Děčín District",
+      "nativeName": "Okres Děčín",
+      "code": "CZ-42-3077243",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-42",
+      "latitude": 50.82905,
+      "longitude": 14.34325
+    },
+    {
+      "id": 3071676,
+      "name": "Litoměřice District",
+      "nativeName": "Okres Litoměřice",
+      "code": "CZ-42-3071676",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-42",
+      "latitude": 50.5,
+      "longitude": 14.16667
+    },
+    {
+      "id": 3071506,
+      "name": "Louny District",
+      "nativeName": "Okres Louny",
+      "code": "CZ-42-3071506",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-42",
+      "latitude": 50.33333,
+      "longitude": 13.66667
+    },
+    {
+      "id": 3070290,
+      "name": "Most District",
+      "nativeName": "Okres Most",
+      "code": "CZ-42-3070290",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-42",
+      "latitude": 50.55,
+      "longitude": 13.63333
+    },
+    {
+      "id": 3063547,
+      "name": "Okres Ústí nad Labem",
+      "nativeName": "Okres Ústí nad Labem",
+      "code": "CZ-42-3063547",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-42",
+      "latitude": 50.66667,
+      "longitude": 14.05
+    },
+    {
+      "id": 3064287,
+      "name": "Teplice District",
+      "nativeName": "Okres Teplice",
+      "code": "CZ-42-3064287",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-42",
+      "latitude": 50.63333,
+      "longitude": 13.83333
+    }
+  ]
+}

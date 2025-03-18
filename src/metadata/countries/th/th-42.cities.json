@@ -1,0 +1,161 @@
+{
+  "stateId": 1609070,
+  "stateCode": "TH-42",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 1611199,
+      "name": "Chiang Khan",
+      "nativeName": "Amphoe Chiang Khan",
+      "code": "TH-42-1611199",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-42",
+      "latitude": 17.82441,
+      "longitude": 101.73424
+    },
+    {
+      "id": 1610957,
+      "name": "Dan Sai",
+      "nativeName": "Amphoe Dan Sai",
+      "code": "TH-42-1610957",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-42",
+      "latitude": 17.22101,
+      "longitude": 101.22373
+    },
+    {
+      "id": 7510750,
+      "name": "Erawan",
+      "nativeName": "Amphoe Erawan",
+      "code": "TH-42-7510750",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-42",
+      "latitude": 17.28823,
+      "longitude": 101.97443
+    },
+    {
+      "id": 1608653,
+      "name": "Mueang Loei",
+      "nativeName": "Amphoe Mueang Loei",
+      "code": "TH-42-1608653",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-42",
+      "latitude": 17.54211,
+      "longitude": 101.71932
+    },
+    {
+      "id": 7510731,
+      "name": "Na Duang",
+      "nativeName": "Amphoe Na Duang",
+      "code": "TH-42-7510731",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-42",
+      "latitude": 17.53833,
+      "longitude": 101.99639
+    },
+    {
+      "id": 7510717,
+      "name": "Na Haeo",
+      "nativeName": "Amphoe Na Haeo",
+      "code": "TH-42-7510717",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-42",
+      "latitude": 17.43942,
+      "longitude": 100.99654
+    },
+    {
+      "id": 7510732,
+      "name": "Nong Hin",
+      "nativeName": "Amphoe Nong Hin",
+      "code": "TH-42-7510732",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-42",
+      "latitude": 17.08087,
+      "longitude": 101.82643
+    },
+    {
+      "id": 8304635,
+      "name": "Pak Chom",
+      "nativeName": "Amphoe Pak Chom",
+      "code": "TH-42-8304635",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-42",
+      "latitude": 17.911,
+      "longitude": 101.95777
+    },
+    {
+      "id": 7510749,
+      "name": "Pha Khao",
+      "nativeName": "Amphoe Pha Khao",
+      "code": "TH-42-7510749",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-42",
+      "latitude": 17.05638,
+      "longitude": 102.01575
+    },
+    {
+      "id": 1607434,
+      "name": "Phu Kradueng",
+      "nativeName": "Amphoe Phu Kradueng",
+      "code": "TH-42-1607434",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-42",
+      "latitude": 16.9019,
+      "longitude": 101.84562
+    },
+    {
+      "id": 7510733,
+      "name": "Phu Luang",
+      "nativeName": "Amphoe Phu Luang",
+      "code": "TH-42-7510733",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-42",
+      "latitude": 17.09782,
+      "longitude": 101.64413
+    },
+    {
+      "id": 8304633,
+      "name": "Phu Ruea",
+      "nativeName": "Amphoe Phu Ruea",
+      "code": "TH-42-8304633",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-42",
+      "latitude": 17.35076,
+      "longitude": 101.41329
+    },
+    {
+      "id": 1605612,
+      "name": "Tha Li",
+      "nativeName": "Amphoe Tha Li",
+      "code": "TH-42-1605612",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-42",
+      "latitude": 17.61279,
+      "longitude": 101.44141
+    },
+    {
+      "id": 1605101,
+      "name": "Wang Saphung",
+      "nativeName": "Amphoe Wang Saphung",
+      "code": "TH-42-1605101",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-42",
+      "latitude": 17.28028,
+      "longitude": 101.73342
+    }
+  ]
+}

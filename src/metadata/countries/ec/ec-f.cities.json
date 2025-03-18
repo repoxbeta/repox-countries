@@ -1,0 +1,84 @@
+{
+  "stateId": 3659849,
+  "stateCode": "EC-F",
+  "countryCode": "EC",
+  "cities": [
+    {
+      "id": 3660433,
+      "name": "Azogues",
+      "nativeName": "Azogues",
+      "code": "EC-F-3660433",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-F",
+      "latitude": -2.64976,
+      "longitude": -78.75677
+    },
+    {
+      "id": 9155281,
+      "name": "Canton El Tambo",
+      "nativeName": "Canton El Tambo",
+      "code": "EC-F-9155281",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-F",
+      "latitude": -2.5081,
+      "longitude": -78.9249
+    },
+    {
+      "id": 3660210,
+      "name": "Cantón Biblián",
+      "nativeName": "Cantón Biblián",
+      "code": "EC-F-3660210",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-F",
+      "latitude": -2.70472,
+      "longitude": -78.90518
+    },
+    {
+      "id": 3659851,
+      "name": "Cantón Cañar",
+      "nativeName": "Cantón Cañar",
+      "code": "EC-F-3659851",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-F",
+      "latitude": -2.5462,
+      "longitude": -79.04172
+    },
+    {
+      "id": 10792504,
+      "name": "Déleg",
+      "nativeName": "Déleg",
+      "code": "EC-F-10792504",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-F",
+      "latitude": -2.77151,
+      "longitude": -78.93276
+    },
+    {
+      "id": 10792503,
+      "name": "La Troncal",
+      "nativeName": "La Troncal",
+      "code": "EC-F-10792503",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-F",
+      "latitude": -2.44396,
+      "longitude": -79.37937
+    },
+    {
+      "id": 10792505,
+      "name": "Suscal",
+      "nativeName": "Suscal",
+      "code": "EC-F-10792505",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-F",
+      "latitude": -2.44012,
+      "longitude": -79.05144
+    }
+  ]
+}

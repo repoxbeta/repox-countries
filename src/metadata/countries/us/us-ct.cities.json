@@ -1,0 +1,106 @@
+{
+  "stateId": 4831725,
+  "stateCode": "US-CT",
+  "countryCode": "US",
+  "cities": [
+    {
+      "id": 12809021,
+      "name": "Capitol Planning Region",
+      "nativeName": "Capitol Planning Region",
+      "code": "US-CT-12809021",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-CT",
+      "latitude": 41.81848,
+      "longitude": -72.57216
+    },
+    {
+      "id": 12809018,
+      "name": "Greater Bridgeport Planning Region",
+      "nativeName": "Greater Bridgeport Planning Region",
+      "code": "US-CT-12809018",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-CT",
+      "latitude": 41.24339,
+      "longitude": -73.23178
+    },
+    {
+      "id": 12809022,
+      "name": "Lower Connecticut River Valley Planning Region",
+      "nativeName": "Lower Connecticut River Valley Planning Region",
+      "code": "US-CT-12809022",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-CT",
+      "latitude": 41.45068,
+      "longitude": -72.50768
+    },
+    {
+      "id": 12809019,
+      "name": "Naugatuck Valley Planning Region",
+      "nativeName": "Naugatuck Valley Planning Region",
+      "code": "US-CT-12809019",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-CT",
+      "latitude": 41.52317,
+      "longitude": -73.08614
+    },
+    {
+      "id": 12809025,
+      "name": "Northeastern Connecticut Planning Region",
+      "nativeName": "Northeastern Connecticut Planning Region",
+      "code": "US-CT-12809025",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-CT",
+      "latitude": 41.82692,
+      "longitude": -71.97696
+    },
+    {
+      "id": 12809026,
+      "name": "Northwest Hills Planning Region",
+      "nativeName": "Northwest Hills Planning Region",
+      "code": "US-CT-12809026",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-CT",
+      "latitude": 41.84689,
+      "longitude": -73.22147
+    },
+    {
+      "id": 12809023,
+      "name": "South Central Connecticut Planning Region",
+      "nativeName": "South Central Connecticut Planning Region",
+      "code": "US-CT-12809023",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-CT",
+      "latitude": 41.362,
+      "longitude": -72.84455
+    },
+    {
+      "id": 12809024,
+      "name": "Southeastern Connecticut Planning Region",
+      "nativeName": "Southeastern Connecticut Planning Region",
+      "code": "US-CT-12809024",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-CT",
+      "latitude": 41.50429,
+      "longitude": -72.10089
+    },
+    {
+      "id": 12809020,
+      "name": "Western Connecticut Planning Region",
+      "nativeName": "Western Connecticut Planning Region",
+      "code": "US-CT-12809020",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-CT",
+      "latitude": 41.32581,
+      "longitude": -73.44705
+    }
+  ]
+}

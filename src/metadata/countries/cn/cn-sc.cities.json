@@ -1,0 +1,238 @@
+{
+  "stateId": 1794299,
+  "stateCode": "CN-SC",
+  "countryCode": "CN",
+  "cities": [
+    {
+      "id": 1818175,
+      "name": "Aba Zangzu Qiangzu Zizhizhou",
+      "nativeName": "Aba Zangzu Qiangzu Zizhizhou",
+      "code": "CN-SC-1818175",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-SC",
+      "latitude": 32.41875,
+      "longitude": 102.63664
+    },
+    {
+      "id": 6643375,
+      "name": "Bazhong",
+      "nativeName": "Bazhong Shi",
+      "code": "CN-SC-6643375",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-SC",
+      "latitude": 32.04025,
+      "longitude": 107.0623
+    },
+    {
+      "id": 1815285,
+      "name": "Chengdu Shi",
+      "nativeName": "Chengdu Shi",
+      "code": "CN-SC-1815285",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-SC",
+      "latitude": 30.75982,
+      "longitude": 103.87055
+    },
+    {
+      "id": 1813324,
+      "name": "Dazhou Shi",
+      "nativeName": "Dazhou Shi",
+      "code": "CN-SC-1813324",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-SC",
+      "latitude": 31.36667,
+      "longitude": 107.65
+    },
+    {
+      "id": 6642946,
+      "name": "Deyang Shi",
+      "nativeName": "Deyang Shi",
+      "code": "CN-SC-6642946",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-SC",
+      "latitude": 31.1366,
+      "longitude": 104.47355
+    },
+    {
+      "id": 1810269,
+      "name": "Garzê",
+      "nativeName": "Garzê Zangzu Zizhizhou",
+      "code": "CN-SC-1810269",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-SC",
+      "latitude": 31.02407,
+      "longitude": 100.40553
+    },
+    {
+      "id": 6643372,
+      "name": "Guangyuan Shi",
+      "nativeName": "Guangyuan Shi",
+      "code": "CN-SC-6643372",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-SC",
+      "latitude": 32.24388,
+      "longitude": 105.8236
+    },
+    {
+      "id": 6643373,
+      "name": "Guang’an Shi",
+      "nativeName": "Guang’an Shi",
+      "code": "CN-SC-6643373",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-SC",
+      "latitude": 30.43333,
+      "longitude": 106.66667
+    },
+    {
+      "id": 1804151,
+      "name": "Leshan Shi",
+      "nativeName": "Leshan Shi",
+      "code": "CN-SC-1804151",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-SC",
+      "latitude": 29.26268,
+      "longitude": 103.56336
+    },
+    {
+      "id": 1803984,
+      "name": "Liangshan Yi Autonomous Prefecture",
+      "nativeName": "Liangshan Yizu Zizhizhou",
+      "code": "CN-SC-1803984",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-SC",
+      "latitude": 27.87644,
+      "longitude": 102.1018
+    },
+    {
+      "id": 1801637,
+      "name": "Luzhou Shi",
+      "nativeName": "Luzhou Shi",
+      "code": "CN-SC-1801637",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-SC",
+      "latitude": 28.56735,
+      "longitude": 105.51898
+    },
+    {
+      "id": 8537504,
+      "name": "Meishan Shi",
+      "nativeName": "Meishan Shi",
+      "code": "CN-SC-8537504",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-SC",
+      "latitude": 30.03,
+      "longitude": 104.04
+    },
+    {
+      "id": 1800626,
+      "name": "Mianyang Shi",
+      "nativeName": "Mianyang Shi",
+      "code": "CN-SC-1800626",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-SC",
+      "latitude": 31.91121,
+      "longitude": 104.75359
+    },
+    {
+      "id": 1800145,
+      "name": "Nanchong Shi",
+      "nativeName": "Nanchong Shi",
+      "code": "CN-SC-1800145",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-SC",
+      "latitude": 31.21022,
+      "longitude": 106.23174
+    },
+    {
+      "id": 1799490,
+      "name": "Neijiang Shi",
+      "nativeName": "Neijiang Shi",
+      "code": "CN-SC-1799490",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-SC",
+      "latitude": 29.65198,
+      "longitude": 104.86532
+    },
+    {
+      "id": 1798997,
+      "name": "Panzhihua Shi",
+      "nativeName": "Panzhihua Shi",
+      "code": "CN-SC-1798997",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-SC",
+      "latitude": 26.85889,
+      "longitude": 101.57971
+    },
+    {
+      "id": 1787815,
+      "name": "Ya'an",
+      "nativeName": "Ya’an Shi",
+      "code": "CN-SC-1787815",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-SC",
+      "latitude": 29.98,
+      "longitude": 103
+    },
+    {
+      "id": 1786769,
+      "name": "Yibin Shi",
+      "nativeName": "Yibin Shi",
+      "code": "CN-SC-1786769",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-SC",
+      "latitude": 28.58689,
+      "longitude": 104.71866
+    },
+    {
+      "id": 1783744,
+      "name": "Zigong Shi",
+      "nativeName": "Zigong Shi",
+      "code": "CN-SC-1783744",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-SC",
+      "latitude": 29.28886,
+      "longitude": 104.69835
+    },
+    {
+      "id": 8594180,
+      "name": "Ziyang Shi",
+      "nativeName": "Ziyang Shi",
+      "code": "CN-SC-8594180",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-SC",
+      "latitude": 30.1,
+      "longitude": 105.17
+    },
+    {
+      "id": 6643374,
+      "name": "suining",
+      "nativeName": "Suining Shi",
+      "code": "CN-SC-6643374",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-SC",
+      "latitude": 30.63895,
+      "longitude": 105.46894
+    }
+  ]
+}

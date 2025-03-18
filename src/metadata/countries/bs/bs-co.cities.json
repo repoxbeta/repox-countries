@@ -1,0 +1,95 @@
+{
+  "stateId": 8030542,
+  "stateCode": "BS-CO",
+  "countryCode": "BS",
+  "cities": [
+    {
+      "id": 3571913,
+      "name": "Marsh Harbour",
+      "nativeName": "Marsh Harbour",
+      "code": "BS-CO-3571913",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-CO",
+      "latitude": 26.54124,
+      "longitude": -77.0636
+    },
+    {
+      "id": 3572658,
+      "name": "Cherokee Sound",
+      "nativeName": "Cherokee Sound",
+      "code": "BS-CO-3572658",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-CO",
+      "latitude": 26.28333,
+      "longitude": -77.03333
+    },
+    {
+      "id": 3572465,
+      "name": "Dundas Town",
+      "nativeName": "Dundas Town",
+      "code": "BS-CO-3572465",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-CO",
+      "latitude": 26.54638,
+      "longitude": -77.07978
+    },
+    {
+      "id": 3571828,
+      "name": "Murphy Town",
+      "nativeName": "Murphy Town",
+      "code": "BS-CO-3571828",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-CO",
+      "latitude": 26.55261,
+      "longitude": -77.09585
+    },
+    {
+      "id": 3571430,
+      "name": "Snake Cay",
+      "nativeName": "Snake Cay",
+      "code": "BS-CO-3571430",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-CO",
+      "latitude": 26.45678,
+      "longitude": -77.0482
+    },
+    {
+      "id": 3571372,
+      "name": "Spring City Settlement",
+      "nativeName": "Spring City Settlement",
+      "code": "BS-CO-3571372",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-CO",
+      "latitude": 26.47465,
+      "longitude": -77.08913
+    },
+    {
+      "id": 3571336,
+      "name": "Sweetings Village",
+      "nativeName": "Sweetings Village",
+      "code": "BS-CO-3571336",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-CO",
+      "latitude": 26.35,
+      "longitude": -77.03333
+    },
+    {
+      "id": 3571186,
+      "name": "Wilson City",
+      "nativeName": "Wilson City",
+      "code": "BS-CO-3571186",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-CO",
+      "latitude": 26.36667,
+      "longitude": -77.03333
+    }
+  ]
+}

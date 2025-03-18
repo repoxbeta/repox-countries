@@ -1,0 +1,73 @@
+{
+  "stateId": 828264,
+  "stateCode": "AM-SH",
+  "countryCode": "AM",
+  "cities": [
+    {
+      "id": 13156476,
+      "name": "Akhuryan Municipality",
+      "nativeName": "Akhuryan Municipality",
+      "code": "AM-SH-13156476",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-SH",
+      "latitude": 40.79587,
+      "longitude": 43.89287
+    },
+    {
+      "id": 13156473,
+      "name": "Amasia Municipality",
+      "nativeName": "Amasia Municipality",
+      "code": "AM-SH-13156473",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-SH",
+      "latitude": 41.04182,
+      "longitude": 43.68597
+    },
+    {
+      "id": 13156478,
+      "name": "Ani Municipality",
+      "nativeName": "Ani Municipality",
+      "code": "AM-SH-13156478",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-SH",
+      "latitude": 40.56084,
+      "longitude": 43.75227
+    },
+    {
+      "id": 13156477,
+      "name": "Artik Municipality",
+      "nativeName": "Artik Municipality",
+      "code": "AM-SH-13156477",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-SH",
+      "latitude": 40.60136,
+      "longitude": 44.00037
+    },
+    {
+      "id": 13156474,
+      "name": "Ashotsk Municipality",
+      "nativeName": "Ashotsk Municipality",
+      "code": "AM-SH-13156474",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-SH",
+      "latitude": 41.04377,
+      "longitude": 43.9463
+    },
+    {
+      "id": 13156475,
+      "name": "Gyumri Municipality",
+      "nativeName": "Gyumri Municipality",
+      "code": "AM-SH-13156475",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-SH",
+      "latitude": 40.7953,
+      "longitude": 43.85894
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "stateId": 3237200,
+  "stateCode": "JE-3237200",
+  "countryCode": "JE",
+  "cities": [
+    {
+      "id": 6641106,
+      "name": "La Moye",
+      "nativeName": "La Moye",
+      "code": "JE-3237200-6641106",
+      "countryId": 3042142,
+      "countryCode": "JE",
+      "stateCode": "JE-3237200",
+      "latitude": 49.1847,
+      "longitude": -2.22031
+    },
+    {
+      "id": 3042096,
+      "name": "Saint Aubin",
+      "nativeName": "Saint Aubin",
+      "code": "JE-3237200-3042096",
+      "countryId": 3042142,
+      "countryCode": "JE",
+      "stateCode": "JE-3237200",
+      "latitude": 49.1875,
+      "longitude": -2.17056
+    },
+    {
+      "id": 3237197,
+      "name": "La Moye",
+      "nativeName": "La Moye",
+      "code": "JE-3237200-3237197",
+      "countryId": 3042142,
+      "countryCode": "JE",
+      "stateCode": "JE-3237200",
+      "latitude": 49.18222,
+      "longitude": -2.22222
+    }
+  ]
+}

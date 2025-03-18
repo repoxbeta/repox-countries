@@ -1,0 +1,260 @@
+{
+  "stateId": 1608525,
+  "stateCode": "TH-80",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 7510619,
+      "name": "Bang Khan",
+      "nativeName": "Amphoe Bang Khan",
+      "code": "TH-80-7510619",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-80",
+      "latitude": 8.01208,
+      "longitude": 99.48449
+    },
+    {
+      "id": 1611230,
+      "name": "Cha-uat",
+      "nativeName": "Amphoe Cha-uat",
+      "code": "TH-80-1611230",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-80",
+      "latitude": 7.95645,
+      "longitude": 99.98929
+    },
+    {
+      "id": 7510676,
+      "name": "Chaloem Phra Kiat",
+      "nativeName": "Amphoe Chaloem Phra Kiat",
+      "code": "TH-80-7510676",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-80",
+      "latitude": 8.18333,
+      "longitude": 100.05
+    },
+    {
+      "id": 7510646,
+      "name": "Chang Klang",
+      "nativeName": "Amphoe Chang Klang",
+      "code": "TH-80-7510646",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-80",
+      "latitude": 8.35697,
+      "longitude": 99.64592
+    },
+    {
+      "id": 1153685,
+      "name": "Chawang",
+      "nativeName": "Amphoe Chawang",
+      "code": "TH-80-1153685",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-80",
+      "latitude": 8.46322,
+      "longitude": 99.51107
+    },
+    {
+      "id": 1611182,
+      "name": "Chian Yai",
+      "nativeName": "Amphoe Chian Yai",
+      "code": "TH-80-1611182",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-80",
+      "latitude": 8.11719,
+      "longitude": 100.15819
+    },
+    {
+      "id": 7510644,
+      "name": "Chulabhorn",
+      "nativeName": "Amphoe Chulabhorn",
+      "code": "TH-80-7510644",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-80",
+      "latitude": 8.07591,
+      "longitude": 99.85365
+    },
+    {
+      "id": 1610621,
+      "name": "Hua Sai",
+      "nativeName": "Amphoe Hua Sai",
+      "code": "TH-80-1610621",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-80",
+      "latitude": 8.01181,
+      "longitude": 100.24614
+    },
+    {
+      "id": 1152964,
+      "name": "Khanom",
+      "nativeName": "Amphoe Khanom",
+      "code": "TH-80-1152964",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-80",
+      "latitude": 9.18317,
+      "longitude": 99.80192
+    },
+    {
+      "id": 1152419,
+      "name": "Lan Saka",
+      "nativeName": "Amphoe Lan Saka",
+      "code": "TH-80-1152419",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-80",
+      "latitude": 8.37799,
+      "longitude": 99.78328
+    },
+    {
+      "id": 1608644,
+      "name": "Mueang Nakhon Si Thammarat",
+      "nativeName": "Amphoe Mueang Nakhon Si Thammarat",
+      "code": "TH-80-1608644",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-80",
+      "latitude": 8.44013,
+      "longitude": 99.98537
+    },
+    {
+      "id": 7510645,
+      "name": "Na Bon",
+      "nativeName": "Amphoe Na Bon",
+      "code": "TH-80-7510645",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-80",
+      "latitude": 8.26976,
+      "longitude": 99.55694
+    },
+    {
+      "id": 7510648,
+      "name": "Nopphitam",
+      "nativeName": "Amphoe Nopphitam",
+      "code": "TH-80-7510648",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-80",
+      "latitude": 8.75166,
+      "longitude": 99.67087
+    },
+    {
+      "id": 1608032,
+      "name": "Pak Phanang",
+      "nativeName": "Amphoe Pak Phanang",
+      "code": "TH-80-1608032",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-80",
+      "latitude": 8.30711,
+      "longitude": 100.17361
+    },
+    {
+      "id": 7510649,
+      "name": "Phipun",
+      "nativeName": "Amphoe Phipun",
+      "code": "TH-80-7510649",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-80",
+      "latitude": 8.60289,
+      "longitude": 99.59528
+    },
+    {
+      "id": 7510643,
+      "name": "Phra Phrom",
+      "nativeName": "Amphoe Phra Phrom",
+      "code": "TH-80-7510643",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-80",
+      "latitude": 8.32652,
+      "longitude": 99.9324
+    },
+    {
+      "id": 7510647,
+      "name": "Phrom Khiri",
+      "nativeName": "Amphoe Phrom Khiri",
+      "code": "TH-80-7510647",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-80",
+      "latitude": 8.54242,
+      "longitude": 99.79229
+    },
+    {
+      "id": 1150919,
+      "name": "Ron Phibun",
+      "nativeName": "Amphoe Ron Phibun",
+      "code": "TH-80-1150919",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-80",
+      "latitude": 8.17997,
+      "longitude": 99.89248
+    },
+    {
+      "id": 1150654,
+      "name": "Sichon",
+      "nativeName": "Amphoe Sichon",
+      "code": "TH-80-1150654",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-80",
+      "latitude": 8.94981,
+      "longitude": 99.81322
+    },
+    {
+      "id": 1150199,
+      "name": "Tha Sala",
+      "nativeName": "Amphoe Tha Sala",
+      "code": "TH-80-1150199",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-80",
+      "latitude": 8.69367,
+      "longitude": 99.88539
+    },
+    {
+      "id": 7510618,
+      "name": "Tham Phannara",
+      "nativeName": "Amphoe Tham Phannara",
+      "code": "TH-80-7510618",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-80",
+      "latitude": 8.45822,
+      "longitude": 99.37718
+    },
+    {
+      "id": 1150084,
+      "name": "Thung Song",
+      "nativeName": "Amphoe Thung Song",
+      "code": "TH-80-1150084",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-80",
+      "latitude": 8.11757,
+      "longitude": 99.66907
+    },
+    {
+      "id": 1150075,
+      "name": "Thung Yai",
+      "nativeName": "Amphoe Thung Yai",
+      "code": "TH-80-1150075",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-80",
+      "latitude": 8.28708,
+      "longitude": 99.37196
+    }
+  ]
+}

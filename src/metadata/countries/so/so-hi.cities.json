@@ -1,0 +1,40 @@
+{
+  "stateId": 57060,
+  "stateCode": "SO-HI",
+  "countryCode": "SO",
+  "cities": [
+    {
+      "id": 9179678,
+      "name": "Beledweyne District",
+      "nativeName": "Belet Weyne",
+      "code": "SO-HI-9179678",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-HI",
+      "latitude": 4.72434,
+      "longitude": 45.37964
+    },
+    {
+      "id": 9179679,
+      "name": "Buloburde District",
+      "nativeName": "Bulo Burto",
+      "code": "SO-HI-9179679",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-HI",
+      "latitude": 3.90006,
+      "longitude": 45.53233
+    },
+    {
+      "id": 9179680,
+      "name": "Jalalaqsi District",
+      "nativeName": "Jalalaqsi",
+      "code": "SO-HI-9179680",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-HI",
+      "latitude": 3.40329,
+      "longitude": 45.61273
+    }
+  ]
+}

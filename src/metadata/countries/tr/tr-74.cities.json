@@ -1,0 +1,40 @@
+{
+  "stateId": 862467,
+  "stateCode": "TR-74",
+  "countryCode": "TR",
+  "cities": [
+    {
+      "id": 8632505,
+      "name": "Amasra İlçesi",
+      "nativeName": "Amasra İlçesi",
+      "code": "TR-74-8632505",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-74",
+      "latitude": 41.73791,
+      "longitude": 32.39455
+    },
+    {
+      "id": 8632507,
+      "name": "Kurucaşile İlçesi",
+      "nativeName": "Kurucaşile İlçesi",
+      "code": "TR-74-8632507",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-74",
+      "latitude": 41.8288,
+      "longitude": 32.71937
+    },
+    {
+      "id": 8632506,
+      "name": "Ulus İlçesi",
+      "nativeName": "Ulus İlçesi",
+      "code": "TR-74-8632506",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-74",
+      "latitude": 41.59373,
+      "longitude": 32.65066
+    }
+  ]
+}

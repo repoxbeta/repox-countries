@@ -1,0 +1,106 @@
+{
+  "stateId": 1538652,
+  "stateCode": "KG-C",
+  "countryCode": "KG",
+  "cities": [
+    {
+      "id": 1528867,
+      "name": "Alamudunskiy Rayon",
+      "nativeName": "Alamudunskiy Rayon",
+      "code": "KG-C-1528867",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-C",
+      "latitude": 42.81985,
+      "longitude": 74.59398
+    },
+    {
+      "id": 1528472,
+      "name": "Chuyskiy Rayon",
+      "nativeName": "Chuyskiy Rayon",
+      "code": "KG-C-1528472",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-C",
+      "latitude": 42.66667,
+      "longitude": 75.33333
+    },
+    {
+      "id": 8739737,
+      "name": "Jaiyl",
+      "nativeName": "Jaiyl",
+      "code": "KG-C-8739737",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-C",
+      "latitude": 42.74613,
+      "longitude": 73.79485
+    },
+    {
+      "id": 1527974,
+      "name": "Keminskiy Rayon",
+      "nativeName": "Keminskiy Rayon",
+      "code": "KG-C-1527974",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-C",
+      "latitude": 42.83349,
+      "longitude": 76.3326
+    },
+    {
+      "id": 7667441,
+      "name": "Moskovsky Raion",
+      "nativeName": "Moskovsky Raion",
+      "code": "KG-C-7667441",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-C",
+      "latitude": 42.74457,
+      "longitude": 74.12591
+    },
+    {
+      "id": 1527509,
+      "name": "Panfilovskiy Rayon",
+      "nativeName": "Panfilovskiy Rayon",
+      "code": "KG-C-1527509",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-C",
+      "latitude": 42.81667,
+      "longitude": 73.68333
+    },
+    {
+      "id": 1527358,
+      "name": "Sokulukskiy Rayon",
+      "nativeName": "Sokulukskiy Rayon",
+      "code": "KG-C-1527358",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-C",
+      "latitude": 42.83333,
+      "longitude": 74.33333
+    },
+    {
+      "id": 10291336,
+      "name": "Tokmok District",
+      "nativeName": "Tokmok District",
+      "code": "KG-C-10291336",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-C",
+      "latitude": 42.84199,
+      "longitude": 75.2978
+    },
+    {
+      "id": 1528261,
+      "name": "Ysyk-Ata",
+      "nativeName": "Ysyk-Ata",
+      "code": "KG-C-1528261",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-C",
+      "latitude": 42.72665,
+      "longitude": 75.07444
+    }
+  ]
+}

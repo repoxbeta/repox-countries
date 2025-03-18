@@ -1,0 +1,194 @@
+{
+  "stateId": 70935,
+  "stateCode": "YE-SH",
+  "countryCode": "YE",
+  "cities": [
+    {
+      "id": 6940790,
+      "name": "Ain District",
+      "nativeName": "Ain",
+      "code": "YE-SH-6940790",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-SH",
+      "latitude": 14.9503,
+      "longitude": 45.6004
+    },
+    {
+      "id": 6940791,
+      "name": "Al Talh District",
+      "nativeName": "Al Talh",
+      "code": "YE-SH-6940791",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-SH",
+      "latitude": 15.0826,
+      "longitude": 47.3514
+    },
+    {
+      "id": 6940792,
+      "name": "Ar Rawdah District",
+      "nativeName": "Ar Rawdah",
+      "code": "YE-SH-6940792",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-SH",
+      "latitude": 14.4956,
+      "longitude": 47.2746
+    },
+    {
+      "id": 6940788,
+      "name": "Arma District",
+      "nativeName": "Arma",
+      "code": "YE-SH-6940788",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-SH",
+      "latitude": 15.4127,
+      "longitude": 47.2345
+    },
+    {
+      "id": 6940786,
+      "name": "As Said District",
+      "nativeName": "As Said",
+      "code": "YE-SH-6940786",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-SH",
+      "latitude": 14.2766,
+      "longitude": 46.8693
+    },
+    {
+      "id": 6940777,
+      "name": "Ataq District",
+      "nativeName": "Ataq",
+      "code": "YE-SH-6940777",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-SH",
+      "latitude": 14.5634,
+      "longitude": 46.8319
+    },
+    {
+      "id": 6940780,
+      "name": "Bayhan District",
+      "nativeName": "Bayhan",
+      "code": "YE-SH-6940780",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-SH",
+      "latitude": 14.7619,
+      "longitude": 45.7482
+    },
+    {
+      "id": 6940787,
+      "name": "Dhar District",
+      "nativeName": "Dhar",
+      "code": "YE-SH-6940787",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-SH",
+      "latitude": 15.5036,
+      "longitude": 47.6058
+    },
+    {
+      "id": 6940781,
+      "name": "Habban District",
+      "nativeName": "Habban",
+      "code": "YE-SH-6940781",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-SH",
+      "latitude": 14.2878,
+      "longitude": 47.1361
+    },
+    {
+      "id": 6940782,
+      "name": "Hatib District",
+      "nativeName": "Hatib",
+      "code": "YE-SH-6940782",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-SH",
+      "latitude": 14.1802,
+      "longitude": 46.4439
+    },
+    {
+      "id": 6940789,
+      "name": "Jardan District",
+      "nativeName": "Jardan",
+      "code": "YE-SH-6940789",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-SH",
+      "latitude": 15.19,
+      "longitude": 46.7338
+    },
+    {
+      "id": 6940783,
+      "name": "Mayfa'a District",
+      "nativeName": "Mayfa'a",
+      "code": "YE-SH-6940783",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-SH",
+      "latitude": 14.3978,
+      "longitude": 47.7404
+    },
+    {
+      "id": 6940784,
+      "name": "Merkhah Al Ulya District",
+      "nativeName": "Merkhah Al Ulya",
+      "code": "YE-SH-6940784",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-SH",
+      "latitude": 14.4847,
+      "longitude": 45.9299
+    },
+    {
+      "id": 6940785,
+      "name": "Merkhah As Sufla District",
+      "nativeName": "Merkhah As Sufla",
+      "code": "YE-SH-6940785",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-SH",
+      "latitude": 14.6999,
+      "longitude": 46.1563
+    },
+    {
+      "id": 6940779,
+      "name": "Nisab District",
+      "nativeName": "Nisab",
+      "code": "YE-SH-6940779",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-SH",
+      "latitude": 14.5257,
+      "longitude": 46.4477
+    },
+    {
+      "id": 6940778,
+      "name": "Rudum District",
+      "nativeName": "Rudum",
+      "code": "YE-SH-6940778",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-SH",
+      "latitude": 14.03759,
+      "longitude": 47.83824
+    },
+    {
+      "id": 6940617,
+      "name": "Usaylan District",
+      "nativeName": "Usaylan",
+      "code": "YE-SH-6940617",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-SH",
+      "latitude": 15.1703,
+      "longitude": 46.0274
+    }
+  ]
+}

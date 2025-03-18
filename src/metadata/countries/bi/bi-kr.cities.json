@@ -1,0 +1,84 @@
+{
+  "stateId": 428218,
+  "stateCode": "BI-KR",
+  "countryCode": "BI",
+  "cities": [
+    {
+      "id": 9171866,
+      "name": "Bugenyuzi",
+      "nativeName": "Bugenyuzi",
+      "code": "BI-KR-9171866",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-KR",
+      "latitude": -3.07874,
+      "longitude": 30.06062
+    },
+    {
+      "id": 9171879,
+      "name": "Buhiga",
+      "nativeName": "Buhiga",
+      "code": "BI-KR-9171879",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-KR",
+      "latitude": -3.08549,
+      "longitude": 30.18761
+    },
+    {
+      "id": 9171872,
+      "name": "Gihogazi",
+      "nativeName": "Gihogazi",
+      "code": "BI-KR-9171872",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-KR",
+      "latitude": -3.14103,
+      "longitude": 29.98018
+    },
+    {
+      "id": 9171861,
+      "name": "Gitaramuka",
+      "nativeName": "Gitaramuka",
+      "code": "BI-KR-9171861",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-KR",
+      "latitude": -2.97503,
+      "longitude": 30.16317
+    },
+    {
+      "id": 9171878,
+      "name": "Mutumba",
+      "nativeName": "Mutumba",
+      "code": "BI-KR-9171878",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-KR",
+      "latitude": -3.2021,
+      "longitude": 30.24248
+    },
+    {
+      "id": 7670611,
+      "name": "Nyabikere",
+      "nativeName": "Nyabikere",
+      "code": "BI-KR-7670611",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-KR",
+      "latitude": -3.26447,
+      "longitude": 30.14118
+    },
+    {
+      "id": 9171852,
+      "name": "Shombo",
+      "nativeName": "Shombo",
+      "code": "BI-KR-9171852",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-KR",
+      "latitude": -3.28524,
+      "longitude": 30.05391
+    }
+  ]
+}

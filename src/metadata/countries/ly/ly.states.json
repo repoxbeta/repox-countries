@@ -1,0 +1,248 @@
+{
+  "countryId": 2215636,
+  "countryCode": "LY",
+  "states": [
+    {
+      "id": 7602688,
+      "name": "Al Buţnān",
+      "nativeName": "Al Buţnān",
+      "code": "LY-BU",
+      "internalCode": "BU",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "latitude": 29.93333,
+      "longitude": 24.03333
+    },
+    {
+      "id": 443289,
+      "name": "Al Jabal al Akhḑar",
+      "nativeName": "Al Jabal al Akhḑar",
+      "code": "LY-JA",
+      "internalCode": "JA",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "latitude": 32.15,
+      "longitude": 21.81667
+    },
+    {
+      "id": 7602690,
+      "name": "Al Jafārah",
+      "nativeName": "Al Jafārah",
+      "code": "LY-JI",
+      "internalCode": "JI",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "latitude": 32.5,
+      "longitude": 12.91667
+    },
+    {
+      "id": 2219944,
+      "name": "Al Jufrah",
+      "nativeName": "Al Jufrah",
+      "code": "LY-JU",
+      "internalCode": "JU",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "latitude": 27.73333,
+      "longitude": 17.05
+    },
+    {
+      "id": 88932,
+      "name": "Al Kufrah",
+      "nativeName": "Al Kufrah",
+      "code": "LY-KF",
+      "internalCode": "KF",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "latitude": 23.76667,
+      "longitude": 22.21667
+    },
+    {
+      "id": 88904,
+      "name": "Al Marj",
+      "nativeName": "Al Marj",
+      "code": "LY-MJ",
+      "internalCode": "MJ",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "latitude": 31.78333,
+      "longitude": 21.2
+    },
+    {
+      "id": 7602691,
+      "name": "Al Marqab",
+      "nativeName": "Al Marqab",
+      "code": "LY-MB",
+      "internalCode": "MB",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "latitude": 32.16667,
+      "longitude": 14.16667
+    },
+    {
+      "id": 7602692,
+      "name": "Al Wāḩāt",
+      "nativeName": "Al Wāḩāt",
+      "code": "LY-WA",
+      "internalCode": "WA",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "latitude": 28.66667,
+      "longitude": 21.38333
+    },
+    {
+      "id": 2593778,
+      "name": "An Nuqāţ al Khams",
+      "nativeName": "An Nuqāţ al Khams",
+      "code": "LY-NQ",
+      "internalCode": "NQ",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "latitude": 32.63333,
+      "longitude": 11.9
+    },
+    {
+      "id": 2218972,
+      "name": "Az Zāwiyah",
+      "nativeName": "Az Zāwiyah",
+      "code": "LY-ZA",
+      "internalCode": "ZA",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "latitude": 32.46667,
+      "longitude": 12.51667
+    },
+    {
+      "id": 87204,
+      "name": "Darnah",
+      "nativeName": "Darnah",
+      "code": "LY-DR",
+      "internalCode": "DR",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "latitude": 31.83333,
+      "longitude": 22.66667
+    },
+    {
+      "id": 2217350,
+      "name": "Ghāt",
+      "nativeName": "Ghāt",
+      "code": "LY-GT",
+      "internalCode": "GT",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "latitude": 25.91667,
+      "longitude": 10.58333
+    },
+    {
+      "id": 7602689,
+      "name": "Jabal al Gharbi",
+      "nativeName": "Jabal al Gharbi District",
+      "code": "LY-JG",
+      "internalCode": "JG",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "latitude": 30.46666,
+      "longitude": 13
+    },
+    {
+      "id": 2214602,
+      "name": "Murzuq District",
+      "nativeName": "Murzuq",
+      "code": "LY-MQ",
+      "internalCode": "MQ",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "latitude": 24.6,
+      "longitude": 15.6
+    },
+    {
+      "id": 2214432,
+      "name": "Nālūt",
+      "nativeName": "Nālūt",
+      "code": "LY-NL",
+      "internalCode": "NL",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "latitude": 30.18333,
+      "longitude": 10.83333
+    },
+    {
+      "id": 2212774,
+      "name": "Sabha District",
+      "nativeName": "Sabhā",
+      "code": "LY-SB",
+      "internalCode": "SB",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "latitude": 26.9,
+      "longitude": 14.96667
+    },
+    {
+      "id": 88318,
+      "name": "Sha‘bīyat Banghāzī",
+      "nativeName": "Sha‘bīyat Banghāzī",
+      "code": "LY-BA",
+      "internalCode": "BA",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "latitude": 32.08723,
+      "longitude": 20.18738
+    },
+    {
+      "id": 2214845,
+      "name": "Sha‘bīyat Mişrātah",
+      "nativeName": "Sha‘bīyat Mişrātah",
+      "code": "LY-MI",
+      "internalCode": "MI",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "latitude": 32.31035,
+      "longitude": 15.07324
+    },
+    {
+      "id": 2210553,
+      "name": "Surt",
+      "nativeName": "Surt",
+      "code": "LY-SR",
+      "internalCode": "SR",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "latitude": 30.03333,
+      "longitude": 16.85
+    },
+    {
+      "id": 2210245,
+      "name": "Tripoli",
+      "nativeName": "Tripoli",
+      "code": "LY-TB",
+      "internalCode": "TB",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "latitude": 32.56667,
+      "longitude": 13.4
+    },
+    {
+      "id": 7602693,
+      "name": "Wādī al Ḩayāt",
+      "nativeName": "Wādī al Ḩayāt",
+      "code": "LY-WD",
+      "internalCode": "WD",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "latitude": 26.31667,
+      "longitude": 12.7
+    },
+    {
+      "id": 2219413,
+      "name": "Wādī ash Shāţi’",
+      "nativeName": "Wādī ash Shāţi’",
+      "code": "LY-WS",
+      "internalCode": "WS",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "latitude": 27.8,
+      "longitude": 12.73333
+    }
+  ]
+}

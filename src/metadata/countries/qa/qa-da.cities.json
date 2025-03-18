@@ -1,0 +1,40 @@
+{
+  "stateId": 389470,
+  "stateCode": "QA-DA",
+  "countryCode": "QA",
+  "cities": [
+    {
+      "id": 290030,
+      "name": "Doha",
+      "nativeName": "Doha",
+      "code": "QA-DA-290030",
+      "countryId": 289688,
+      "countryCode": "QA",
+      "stateCode": "QA-DA",
+      "latitude": 25.28545,
+      "longitude": 51.53096
+    },
+    {
+      "id": 289698,
+      "name": "Nu‘ayjah",
+      "nativeName": "Nu‘ayjah",
+      "code": "QA-DA-289698",
+      "countryId": 289688,
+      "countryCode": "QA",
+      "stateCode": "QA-DA",
+      "latitude": 25.24617,
+      "longitude": 51.53227
+    },
+    {
+      "id": 289682,
+      "name": "Ra’s Abū Finţās",
+      "nativeName": "Ra’s Abū Finţās",
+      "code": "QA-DA-289682",
+      "countryId": 289688,
+      "countryCode": "QA",
+      "stateCode": "QA-DA",
+      "latitude": 25.20401,
+      "longitude": 51.61764
+    }
+  ]
+}

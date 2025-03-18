@@ -1,0 +1,95 @@
+{
+  "stateId": 7303498,
+  "stateCode": "MH-EBO",
+  "countryCode": "MH",
+  "cities": [
+    {
+      "id": 7306512,
+      "name": "Ebon",
+      "nativeName": "Ebon",
+      "code": "MH-EBO-7306512",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-EBO",
+      "latitude": 4.58199,
+      "longitude": 168.69636
+    },
+    {
+      "id": 2080647,
+      "name": "Chittakain",
+      "nativeName": "Chittakain",
+      "code": "MH-EBO-2080647",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-EBO",
+      "latitude": 4.58267,
+      "longitude": 168.73189
+    },
+    {
+      "id": 2080646,
+      "name": "Chittoin",
+      "nativeName": "Chittoin",
+      "code": "MH-EBO-2080646",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-EBO",
+      "latitude": 4.57762,
+      "longitude": 168.70185
+    },
+    {
+      "id": 7303926,
+      "name": "Enekoion",
+      "nativeName": "Enekoion",
+      "code": "MH-EBO-7303926",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-EBO",
+      "latitude": 4.66835,
+      "longitude": 168.66818
+    },
+    {
+      "id": 7304036,
+      "name": "Enilok",
+      "nativeName": "Enilok",
+      "code": "MH-EBO-7304036",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-EBO",
+      "latitude": 4.61069,
+      "longitude": 168.66855
+    },
+    {
+      "id": 2080404,
+      "name": "Japejiroi",
+      "nativeName": "Japejiroi",
+      "code": "MH-EBO-2080404",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-EBO",
+      "latitude": 4.60414,
+      "longitude": 168.76257
+    },
+    {
+      "id": 7304037,
+      "name": "Meidj",
+      "nativeName": "Meidj",
+      "code": "MH-EBO-7304037",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-EBO",
+      "latitude": 4.6059,
+      "longitude": 168.68021
+    },
+    {
+      "id": 7303925,
+      "name": "Toka",
+      "nativeName": "Toka",
+      "code": "MH-EBO-7303925",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-EBO",
+      "latitude": 4.63623,
+      "longitude": 168.65237
+    }
+  ]
+}

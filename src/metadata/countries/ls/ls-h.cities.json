@@ -1,0 +1,40 @@
+{
+  "stateId": 932219,
+  "stateCode": "LS-H",
+  "countryCode": "LS",
+  "cities": [
+    {
+      "id": 11428146,
+      "name": "Ha Apeal Makhoareng",
+      "nativeName": "Ha Apeal Makhoareng",
+      "code": "LS-H-11428146",
+      "countryId": 932692,
+      "countryCode": "LS",
+      "stateCode": "LS-H",
+      "latitude": -30.03169,
+      "longitude": 28.88453
+    },
+    {
+      "id": 11497839,
+      "name": "Ha Fou",
+      "nativeName": "Ha Fou",
+      "code": "LS-H-11497839",
+      "countryId": 932692,
+      "countryCode": "LS",
+      "stateCode": "LS-H",
+      "latitude": -29.94395,
+      "longitude": 28.51178
+    },
+    {
+      "id": 932218,
+      "name": "Qacha's Nek",
+      "nativeName": "Qacha’s Nek",
+      "code": "LS-H-932218",
+      "countryId": 932692,
+      "countryCode": "LS",
+      "stateCode": "LS-H",
+      "latitude": -30.11537,
+      "longitude": 28.68936
+    }
+  ]
+}

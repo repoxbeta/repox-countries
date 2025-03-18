@@ -1,0 +1,95 @@
+{
+  "stateId": 3441572,
+  "stateCode": "UY-MO",
+  "countryCode": "UY",
+  "cities": [
+    {
+      "id": 11820783,
+      "name": "Municipio A",
+      "nativeName": "Municipio A",
+      "code": "UY-MO-11820783",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-MO",
+      "latitude": -34.84311,
+      "longitude": -56.31553
+    },
+    {
+      "id": 11820846,
+      "name": "Municipio B",
+      "nativeName": "Municipio B",
+      "code": "UY-MO-11820846",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-MO",
+      "latitude": -34.90509,
+      "longitude": -56.18389
+    },
+    {
+      "id": 11820869,
+      "name": "Municipio C",
+      "nativeName": "Municipio C",
+      "code": "UY-MO-11820869",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-MO",
+      "latitude": -34.87168,
+      "longitude": -56.18736
+    },
+    {
+      "id": 11820845,
+      "name": "Municipio Ch",
+      "nativeName": "Municipio Ch",
+      "code": "UY-MO-11820845",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-MO",
+      "latitude": -34.90288,
+      "longitude": -56.14853
+    },
+    {
+      "id": 11820780,
+      "name": "Municipio D",
+      "nativeName": "Municipio D",
+      "code": "UY-MO-11820780",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-MO",
+      "latitude": -34.78791,
+      "longitude": -56.14991
+    },
+    {
+      "id": 11820782,
+      "name": "Municipio E",
+      "nativeName": "Municipio E",
+      "code": "UY-MO-11820782",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-MO",
+      "latitude": -34.88324,
+      "longitude": -56.08955
+    },
+    {
+      "id": 11820781,
+      "name": "Municipio F",
+      "nativeName": "Municipio F",
+      "code": "UY-MO-11820781",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-MO",
+      "latitude": -34.82272,
+      "longitude": -56.0909
+    },
+    {
+      "id": 11820779,
+      "name": "Municipio G",
+      "nativeName": "Municipio G",
+      "code": "UY-MO-11820779",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-MO",
+      "latitude": -34.77611,
+      "longitude": -56.25665
+    }
+  ]
+}

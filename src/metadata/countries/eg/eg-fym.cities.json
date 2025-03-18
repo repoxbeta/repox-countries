@@ -1,0 +1,51 @@
+{
+  "stateId": 361323,
+  "stateCode": "EG-FYM",
+  "countryCode": "EG",
+  "cities": [
+    {
+      "id": 355647,
+      "name": "Markaz Ibshawāy",
+      "nativeName": "Markaz Ibshawāy",
+      "code": "EG-FYM-355647",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-FYM",
+      "latitude": 29.35095,
+      "longitude": 30.62282
+    },
+    {
+      "id": 355419,
+      "name": "Markaz Iţsā",
+      "nativeName": "Markaz Iţsā",
+      "code": "EG-FYM-355419",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-FYM",
+      "latitude": 29.18233,
+      "longitude": 30.72844
+    },
+    {
+      "id": 361322,
+      "name": "Markaz al Fayyūm",
+      "nativeName": "Markaz al Fayyūm",
+      "code": "EG-FYM-361322",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-FYM",
+      "latitude": 29.29437,
+      "longitude": 30.90121
+    },
+    {
+      "id": 347541,
+      "name": "Markaz Ţāmiyah",
+      "nativeName": "Markaz Ţāmiyah",
+      "code": "EG-FYM-347541",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-FYM",
+      "latitude": 29.46283,
+      "longitude": 30.97035
+    }
+  ]
+}

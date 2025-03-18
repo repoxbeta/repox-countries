@@ -1,0 +1,73 @@
+{
+  "stateId": 1645456,
+  "stateCode": "TL-DI",
+  "countryCode": "TL",
+  "cities": [
+    {
+      "id": 8629261,
+      "name": "Atauro Island",
+      "nativeName": "Atauro Island",
+      "code": "TL-DI-8629261",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-DI",
+      "latitude": -8.26785,
+      "longitude": 125.59699
+    },
+    {
+      "id": 8617681,
+      "name": "Cristo Rei",
+      "nativeName": "Cristo Rei",
+      "code": "TL-DI-8617681",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-DI",
+      "latitude": -8.52047,
+      "longitude": 125.60837
+    },
+    {
+      "id": 8617769,
+      "name": "Dom Aleixo",
+      "nativeName": "Dom Aleixo",
+      "code": "TL-DI-8617769",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-DI",
+      "latitude": -8.54667,
+      "longitude": 125.52472
+    },
+    {
+      "id": 8629263,
+      "name": "Metinaro",
+      "nativeName": "Metinaro",
+      "code": "TL-DI-8629263",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-DI",
+      "latitude": -8.53315,
+      "longitude": 125.75089
+    },
+    {
+      "id": 8629966,
+      "name": "Nain Feto",
+      "nativeName": "Nain Feto",
+      "code": "TL-DI-8629966",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-DI",
+      "latitude": -8.56,
+      "longitude": 125.58778
+    },
+    {
+      "id": 7910183,
+      "name": "Vera Cruz",
+      "nativeName": "Vera Cruz",
+      "code": "TL-DI-7910183",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-DI",
+      "latitude": -8.59239,
+      "longitude": 125.56299
+    }
+  ]
+}

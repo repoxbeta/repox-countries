@@ -1,0 +1,106 @@
+{
+  "stateId": 1605214,
+  "stateCode": "TH-53",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 7510718,
+      "name": "Ban Khok",
+      "nativeName": "Amphoe Ban Khok",
+      "code": "TH-53-7510718",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-53",
+      "latitude": 18.1468,
+      "longitude": 101.0661
+    },
+    {
+      "id": 1610840,
+      "name": "Fak Tha",
+      "nativeName": "Amphoe Fak Tha",
+      "code": "TH-53-1610840",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-53",
+      "latitude": 18.00078,
+      "longitude": 100.88885
+    },
+    {
+      "id": 1609162,
+      "name": "Laplae",
+      "nativeName": "Amphoe Lap Lae",
+      "code": "TH-53-1609162",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-53",
+      "latitude": 17.65741,
+      "longitude": 100.01484
+    },
+    {
+      "id": 1608606,
+      "name": "Mueang Uttaradit",
+      "nativeName": "Amphoe Mueang Uttaradit",
+      "code": "TH-53-1608606",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-53",
+      "latitude": 17.68138,
+      "longitude": 100.19963
+    },
+    {
+      "id": 1608482,
+      "name": "Nam Pat",
+      "nativeName": "Amphoe Nam Pat",
+      "code": "TH-53-1608482",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-53",
+      "latitude": 17.70025,
+      "longitude": 100.72738
+    },
+    {
+      "id": 1607727,
+      "name": "Phichai",
+      "nativeName": "Amphoe Phichai",
+      "code": "TH-53-1607727",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-53",
+      "latitude": 17.30188,
+      "longitude": 100.11281
+    },
+    {
+      "id": 1605528,
+      "name": "Tha Pla",
+      "nativeName": "Amphoe Tha Pla",
+      "code": "TH-53-1605528",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-53",
+      "latitude": 17.85868,
+      "longitude": 100.47061
+    },
+    {
+      "id": 7510682,
+      "name": "Thong Saen Khan",
+      "nativeName": "Amphoe Thong Saen Khan",
+      "code": "TH-53-7510682",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-53",
+      "latitude": 17.4993,
+      "longitude": 100.39658
+    },
+    {
+      "id": 1605267,
+      "name": "Tron",
+      "nativeName": "Amphoe Tron",
+      "code": "TH-53-1605267",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-53",
+      "latitude": 17.47231,
+      "longitude": 100.13467
+    }
+  ]
+}

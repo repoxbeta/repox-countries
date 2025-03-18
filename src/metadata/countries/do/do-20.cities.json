@@ -1,0 +1,40 @@
+{
+  "stateId": 3493232,
+  "stateCode": "DO-20",
+  "countryCode": "DO",
+  "cities": [
+    {
+      "id": 11154555,
+      "name": "Las Terrenas",
+      "nativeName": "Las Terrenas",
+      "code": "DO-20-11154555",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-20",
+      "latitude": 19.28578,
+      "longitude": -69.55459
+    },
+    {
+      "id": 3493236,
+      "name": "Samaná Municipality",
+      "nativeName": "Samaná Municipality",
+      "code": "DO-20-3493236",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-20",
+      "latitude": 19.23333,
+      "longitude": -69.33333
+    },
+    {
+      "id": 3493201,
+      "name": "Sánchez",
+      "nativeName": "Sánchez",
+      "code": "DO-20-3493201",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-20",
+      "latitude": 19.16953,
+      "longitude": -69.64648
+    }
+  ]
+}

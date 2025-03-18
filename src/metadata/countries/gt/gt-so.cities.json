@@ -1,0 +1,216 @@
+{
+  "stateId": 3588697,
+  "stateCode": "GT-SO",
+  "countryCode": "GT",
+  "cities": [
+    {
+      "id": 3598002,
+      "name": "Municipio de Concepción",
+      "nativeName": "Municipio de Concepción",
+      "code": "GT-SO-3598002",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-SO",
+      "latitude": 14.78232,
+      "longitude": -91.13469
+    },
+    {
+      "id": 3592285,
+      "name": "Municipio de Nahualá",
+      "nativeName": "Municipio de Nahualá",
+      "code": "GT-SO-3592285",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-SO",
+      "latitude": 14.77548,
+      "longitude": -91.41616
+    },
+    {
+      "id": 3591748,
+      "name": "Municipio de Panajachel",
+      "nativeName": "Municipio de Panajachel",
+      "code": "GT-SO-3591748",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-SO",
+      "latitude": 14.74676,
+      "longitude": -91.14935
+    },
+    {
+      "id": 3590523,
+      "name": "Municipio de San Andrés Semetabaj",
+      "nativeName": "Municipio de San Andrés Semetabaj",
+      "code": "GT-SO-3590523",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-SO",
+      "latitude": 14.74386,
+      "longitude": -91.10467
+    },
+    {
+      "id": 3590423,
+      "name": "Municipio de San Antonio Palopó",
+      "nativeName": "Municipio de San Antonio Palopó",
+      "code": "GT-SO-3590423",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-SO",
+      "latitude": 14.6652,
+      "longitude": -91.105
+    },
+    {
+      "id": 3590040,
+      "name": "Municipio de San José Chacayá",
+      "nativeName": "Municipio de San José Chacayá",
+      "code": "GT-SO-3590040",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-SO",
+      "latitude": 14.76871,
+      "longitude": -91.22762
+    },
+    {
+      "id": 3589895,
+      "name": "Municipio de San Juan La Laguna",
+      "nativeName": "Municipio de San Juan La Laguna",
+      "code": "GT-SO-3589895",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-SO",
+      "latitude": 14.66666,
+      "longitude": -91.31468
+    },
+    {
+      "id": 3589849,
+      "name": "Municipio de San Lucas Tolimán",
+      "nativeName": "Municipio de San Lucas Tolimán",
+      "code": "GT-SO-3589849",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-SO",
+      "latitude": 14.59471,
+      "longitude": -91.14659
+    },
+    {
+      "id": 3589794,
+      "name": "Municipio de San Marcos La Laguna",
+      "nativeName": "Municipio de San Marcos La Laguna",
+      "code": "GT-SO-3589794",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-SO",
+      "latitude": 14.73509,
+      "longitude": -91.25984
+    },
+    {
+      "id": 3589668,
+      "name": "Municipio de San Pablo La Laguna",
+      "nativeName": "Municipio de San Pablo La Laguna",
+      "code": "GT-SO-3589668",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-SO",
+      "latitude": 14.72891,
+      "longitude": -91.28066
+    },
+    {
+      "id": 3589457,
+      "name": "Municipio de Santa Catarina Ixtahuacán",
+      "nativeName": "Municipio de Santa Catarina Ixtahuacán",
+      "code": "GT-SO-3589457",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-SO",
+      "latitude": 14.72016,
+      "longitude": -91.37977
+    },
+    {
+      "id": 3589453,
+      "name": "Municipio de Santa Catarina Palopó",
+      "nativeName": "Municipio de Santa Catarina Palopó",
+      "code": "GT-SO-3589453",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-SO",
+      "latitude": 14.71794,
+      "longitude": -91.1306
+    },
+    {
+      "id": 3589432,
+      "name": "Municipio de Santa Clara La Laguna",
+      "nativeName": "Municipio de Santa Clara La Laguna",
+      "code": "GT-SO-3589432",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-SO",
+      "latitude": 14.72445,
+      "longitude": -91.29744
+    },
+    {
+      "id": 3589401,
+      "name": "Municipio de Santa Cruz La Laguna",
+      "nativeName": "Municipio de Santa Cruz La Laguna",
+      "code": "GT-SO-3589401",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-SO",
+      "latitude": 14.74324,
+      "longitude": -91.22178
+    },
+    {
+      "id": 3589281,
+      "name": "Municipio de Santa Lucía Utatlán",
+      "nativeName": "Municipio de Santa Lucía Utatlán",
+      "code": "GT-SO-3589281",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-SO",
+      "latitude": 14.77588,
+      "longitude": -91.27097
+    },
+    {
+      "id": 3589246,
+      "name": "Municipio de Santa María Visitación",
+      "nativeName": "Municipio de Santa María Visitación",
+      "code": "GT-SO-3589246",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-SO",
+      "latitude": 14.7009,
+      "longitude": -91.33212
+    },
+    {
+      "id": 3589104,
+      "name": "Municipio de Santiago Atitlán",
+      "nativeName": "Municipio de Santiago Atitlán",
+      "code": "GT-SO-3589104",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-SO",
+      "latitude": 14.60308,
+      "longitude": -91.22768
+    },
+    {
+      "id": 3588695,
+      "name": "Municipio de Sololá",
+      "nativeName": "Municipio de Sololá",
+      "code": "GT-SO-3588695",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-SO",
+      "latitude": 14.81785,
+      "longitude": -91.18251
+    },
+    {
+      "id": 3589636,
+      "name": "San Pedro",
+      "nativeName": "Municipio de San Pedro La Laguna",
+      "code": "GT-SO-3589636",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-SO",
+      "latitude": 14.64382,
+      "longitude": -91.27608
+    }
+  ]
+}

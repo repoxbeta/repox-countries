@@ -1,0 +1,128 @@
+{
+  "stateId": 2269513,
+  "stateCode": "PT-05",
+  "countryCode": "PT",
+  "cities": [
+    {
+      "id": 8010472,
+      "name": "Belmonte Municipality",
+      "nativeName": "Belmonte",
+      "code": "PT-05-8010472",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "stateCode": "PT-05",
+      "latitude": 40.36181,
+      "longitude": -7.35157
+    },
+    {
+      "id": 8010473,
+      "name": "Castelo Branco Municipality",
+      "nativeName": "Castelo Branco",
+      "code": "PT-05-8010473",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "stateCode": "PT-05",
+      "latitude": 39.88847,
+      "longitude": -7.51313
+    },
+    {
+      "id": 8010474,
+      "name": "Covilhã Municipality",
+      "nativeName": "Covilhã",
+      "code": "PT-05-8010474",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "stateCode": "PT-05",
+      "latitude": 40.29227,
+      "longitude": -7.50366
+    },
+    {
+      "id": 2739186,
+      "name": "Fundão Municipality",
+      "nativeName": "Fundão",
+      "code": "PT-05-2739186",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "stateCode": "PT-05",
+      "latitude": 40.12412,
+      "longitude": -7.49542
+    },
+    {
+      "id": 8010475,
+      "name": "Idanha-a-Nova Municipality",
+      "nativeName": "Idanha-A-Nova",
+      "code": "PT-05-8010475",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "stateCode": "PT-05",
+      "latitude": 39.92957,
+      "longitude": -7.2369
+    },
+    {
+      "id": 8010476,
+      "name": "Oleiros Municipality",
+      "nativeName": "Oleiros",
+      "code": "PT-05-8010476",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "stateCode": "PT-05",
+      "latitude": 39.94948,
+      "longitude": -7.88592
+    },
+    {
+      "id": 8010477,
+      "name": "Penamacor Municipality",
+      "nativeName": "Penamacor",
+      "code": "PT-05-8010477",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "stateCode": "PT-05",
+      "latitude": 40.15495,
+      "longitude": -7.17149
+    },
+    {
+      "id": 8010478,
+      "name": "Proença-a-Nova Municipality",
+      "nativeName": "Proença-A-Nova",
+      "code": "PT-05-8010478",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "stateCode": "PT-05",
+      "latitude": 39.757,
+      "longitude": -7.92595
+    },
+    {
+      "id": 8010479,
+      "name": "Sertã Municipality",
+      "nativeName": "Sertã",
+      "code": "PT-05-8010479",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "stateCode": "PT-05",
+      "latitude": 39.82175,
+      "longitude": -8.09845
+    },
+    {
+      "id": 6930622,
+      "name": "Vila Velha de Ródão Municipality",
+      "nativeName": "Vila Velha de Ródão",
+      "code": "PT-05-6930622",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "stateCode": "PT-05",
+      "latitude": 39.68709,
+      "longitude": -7.65987
+    },
+    {
+      "id": 8010480,
+      "name": "Vila de Rei Municipality",
+      "nativeName": "Vila de Rei",
+      "code": "PT-05-8010480",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "stateCode": "PT-05",
+      "latitude": 39.70685,
+      "longitude": -8.12836
+    }
+  ]
+}

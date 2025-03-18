@@ -1,0 +1,62 @@
+{
+  "stateId": 250751,
+  "stateCode": "JO-BA",
+  "countryCode": "JO",
+  "cities": [
+    {
+      "id": 8621688,
+      "name": "Liwa Mahis wa-al-Fuhays",
+      "nativeName": "Liwa Mahis wa-al-Fuhays",
+      "code": "JO-BA-8621688",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "stateCode": "JO-BA",
+      "latitude": 31.9979,
+      "longitude": 35.77994
+    },
+    {
+      "id": 8621686,
+      "name": "Liwā’ Dayr ‘Allā",
+      "nativeName": "Liwā’ Dayr ‘Allā",
+      "code": "JO-BA-8621686",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "stateCode": "JO-BA",
+      "latitude": 32.10725,
+      "longitude": 35.59696
+    },
+    {
+      "id": 8621685,
+      "name": "Liwā’ ash Shūnah al Janūbīyah",
+      "nativeName": "Liwā’ ash Shūnah al Janūbīyah",
+      "code": "JO-BA-8621685",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "stateCode": "JO-BA",
+      "latitude": 31.8555,
+      "longitude": 35.62074
+    },
+    {
+      "id": 8621687,
+      "name": "Liwā’ ‘Ayn al Bāshā",
+      "nativeName": "Liwā’ ‘Ayn al Bāshā",
+      "code": "JO-BA-8621687",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "stateCode": "JO-BA",
+      "latitude": 32.10604,
+      "longitude": 35.8447
+    },
+    {
+      "id": 7910931,
+      "name": "Qasabat As Salt",
+      "nativeName": "Qasabat As Salt",
+      "code": "JO-BA-7910931",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "stateCode": "JO-BA",
+      "latitude": 32.03917,
+      "longitude": 35.7
+    }
+  ]
+}

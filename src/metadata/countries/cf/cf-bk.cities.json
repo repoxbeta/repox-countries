@@ -1,0 +1,62 @@
+{
+  "stateId": 240396,
+  "stateCode": "CF-BK",
+  "countryCode": "CF",
+  "cities": [
+    {
+      "id": 7732066,
+      "name": "Alindao",
+      "nativeName": "Alindao",
+      "code": "CF-BK-7732066",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-BK",
+      "latitude": 5.20281,
+      "longitude": 21.21222
+    },
+    {
+      "id": 7731890,
+      "name": "Kembe",
+      "nativeName": "Kembe",
+      "code": "CF-BK-7731890",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-BK",
+      "latitude": 4.48243,
+      "longitude": 21.69625
+    },
+    {
+      "id": 7732076,
+      "name": "Mingala",
+      "nativeName": "Mingala",
+      "code": "CF-BK-7732076",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-BK",
+      "latitude": 5.15276,
+      "longitude": 21.63793
+    },
+    {
+      "id": 7731891,
+      "name": "Mobaye",
+      "nativeName": "Mobaye",
+      "code": "CF-BK-7731891",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-BK",
+      "latitude": 4.47869,
+      "longitude": 21.22478
+    },
+    {
+      "id": 7731892,
+      "name": "Zangba",
+      "nativeName": "Zangba",
+      "code": "CF-BK-7731892",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-BK",
+      "latitude": 4.60069,
+      "longitude": 20.82058
+    }
+  ]
+}

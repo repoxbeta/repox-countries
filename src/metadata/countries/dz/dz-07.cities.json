@@ -1,0 +1,117 @@
+{
+  "stateId": 2503822,
+  "stateCode": "DZ-07",
+  "countryCode": "DZ",
+  "cities": [
+    {
+      "id": 2503824,
+      "name": "Biskra District",
+      "nativeName": "Daïra de Biskra",
+      "code": "DZ-07-2503824",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-07",
+      "latitude": 34.83597,
+      "longitude": 5.7298
+    },
+    {
+      "id": 12952604,
+      "name": "Djemorah",
+      "nativeName": "Djemorah",
+      "code": "DZ-07-12952604",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-07",
+      "latitude": 35.02717,
+      "longitude": 5.76377
+    },
+    {
+      "id": 12952605,
+      "name": "El Kantara",
+      "nativeName": "El Kantara",
+      "code": "DZ-07-12952605",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-07",
+      "latitude": 35.19439,
+      "longitude": 5.74315
+    },
+    {
+      "id": 12952606,
+      "name": "El Outaya",
+      "nativeName": "El Outaya",
+      "code": "DZ-07-12952606",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-07",
+      "latitude": 34.96605,
+      "longitude": 5.56644
+    },
+    {
+      "id": 12952580,
+      "name": "Foughala",
+      "nativeName": "Foughala",
+      "code": "DZ-07-12952580",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-07",
+      "latitude": 34.73722,
+      "longitude": 5.24919
+    },
+    {
+      "id": 12952607,
+      "name": "Mechouneche",
+      "nativeName": "Mechouneche",
+      "code": "DZ-07-12952607",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-07",
+      "latitude": 34.91236,
+      "longitude": 6.0401
+    },
+    {
+      "id": 12952444,
+      "name": "Ourlal",
+      "nativeName": "Ourlal",
+      "code": "DZ-07-12952444",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-07",
+      "latitude": 34.57079,
+      "longitude": 5.63305
+    },
+    {
+      "id": 12952608,
+      "name": "Sidi Okba",
+      "nativeName": "Sidi Okba",
+      "code": "DZ-07-12952608",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-07",
+      "latitude": 34.64282,
+      "longitude": 6.03901
+    },
+    {
+      "id": 12952609,
+      "name": "Tolga",
+      "nativeName": "Tolga",
+      "code": "DZ-07-12952609",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-07",
+      "latitude": 34.90274,
+      "longitude": 5.27525
+    },
+    {
+      "id": 12952422,
+      "name": "Zeribet El Oued",
+      "nativeName": "Zeribet El Oued",
+      "code": "DZ-07-12952422",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-07",
+      "latitude": 34.66192,
+      "longitude": 6.44559
+    }
+  ]
+}

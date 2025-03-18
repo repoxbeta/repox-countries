@@ -1,0 +1,128 @@
+{
+  "stateId": 1808773,
+  "stateCode": "CN-HE",
+  "countryCode": "CN",
+  "cities": [
+    {
+      "id": 1816969,
+      "name": "Baoding Shi",
+      "nativeName": "Baoding Shi",
+      "code": "CN-HE-1816969",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-HE",
+      "latitude": 39.0167,
+      "longitude": 115.18333
+    },
+    {
+      "id": 1816078,
+      "name": "Cangzhou Shi",
+      "nativeName": "Cangzhou Shi",
+      "code": "CN-HE-1816078",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-HE",
+      "latitude": 38.26667,
+      "longitude": 116.75
+    },
+    {
+      "id": 2038085,
+      "name": "Chengde Prefecture",
+      "nativeName": "Chengde Prefecture",
+      "code": "CN-HE-2038085",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-HE",
+      "latitude": 40.97,
+      "longitude": 117.93
+    },
+    {
+      "id": 1808961,
+      "name": "Handan Shi",
+      "nativeName": "Handan Shi",
+      "code": "CN-HE-1808961",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-HE",
+      "latitude": 36.56667,
+      "longitude": 114.55
+    },
+    {
+      "id": 1808391,
+      "name": "Hengshui Shi",
+      "nativeName": "Hengshui Shi",
+      "code": "CN-HE-1808391",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-HE",
+      "latitude": 37.76667,
+      "longitude": 115.81667
+    },
+    {
+      "id": 1804539,
+      "name": "Langfang Shi",
+      "nativeName": "Langfang Shi",
+      "code": "CN-HE-1804539",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-HE",
+      "latitude": 39.23333,
+      "longitude": 116.63333
+    },
+    {
+      "id": 1797593,
+      "name": "Qinhuangdao Shi",
+      "nativeName": "Qinhuangdao Shi",
+      "code": "CN-HE-1797593",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-HE",
+      "latitude": 40.0833,
+      "longitude": 119.2
+    },
+    {
+      "id": 1795266,
+      "name": "Shijiazhuang Shi",
+      "nativeName": "Shijiazhuang Shi",
+      "code": "CN-HE-1795266",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-HE",
+      "latitude": 38.08333,
+      "longitude": 114.56667
+    },
+    {
+      "id": 1793343,
+      "name": "Tangshan Shi",
+      "nativeName": "Tangshan Shi",
+      "code": "CN-HE-1793343",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-HE",
+      "latitude": 39.71667,
+      "longitude": 118.35
+    },
+    {
+      "id": 1788925,
+      "name": "Xingtai County",
+      "nativeName": "Xingtai County",
+      "code": "CN-HE-1788925",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-HE",
+      "latitude": 37.06,
+      "longitude": 114.49
+    },
+    {
+      "id": 2033194,
+      "name": "Zhangjiakou Shi",
+      "nativeName": "Zhangjiakou Shi",
+      "code": "CN-HE-2033194",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-HE",
+      "latitude": 40.82069,
+      "longitude": 115.17642
+    }
+  ]
+}

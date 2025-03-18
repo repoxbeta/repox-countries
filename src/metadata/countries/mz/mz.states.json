@@ -1,0 +1,127 @@
+{
+  "countryId": 1036973,
+  "countryCode": "MZ",
+  "states": [
+    {
+      "id": 1051823,
+      "name": "Cabo Delgado Province",
+      "nativeName": "Cabo Delgado Province",
+      "code": "MZ-P",
+      "internalCode": "P",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "latitude": -12.5,
+      "longitude": 39.4
+    },
+    {
+      "id": 1105845,
+      "name": "Cidade de Maputo",
+      "nativeName": "Cidade de Maputo",
+      "code": "MZ-MPM",
+      "internalCode": "MPM",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "latitude": -25.96528,
+      "longitude": 32.58917
+    },
+    {
+      "id": 1046058,
+      "name": "Gaza Province",
+      "nativeName": "Gaza Province",
+      "code": "MZ-G",
+      "internalCode": "G",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "latitude": -23.5,
+      "longitude": 33
+    },
+    {
+      "id": 1045110,
+      "name": "Inhambane Province",
+      "nativeName": "Inhambane Province",
+      "code": "MZ-I",
+      "internalCode": "I",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "latitude": -23,
+      "longitude": 34.5
+    },
+    {
+      "id": 1040947,
+      "name": "Manica Province",
+      "nativeName": "Manica Province",
+      "code": "MZ-B",
+      "internalCode": "B",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "latitude": -19,
+      "longitude": 33.5
+    },
+    {
+      "id": 1040649,
+      "name": "Maputo Province",
+      "nativeName": "Maputo Province",
+      "code": "MZ-L",
+      "internalCode": "L",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "latitude": -25.5,
+      "longitude": 32.33333
+    },
+    {
+      "id": 1033354,
+      "name": "Nampula",
+      "nativeName": "Nampula",
+      "code": "MZ-N",
+      "internalCode": "N",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "latitude": -15,
+      "longitude": 39
+    },
+    {
+      "id": 1030006,
+      "name": "Niassa Province",
+      "nativeName": "Niassa Province",
+      "code": "MZ-A",
+      "internalCode": "A",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "latitude": -13,
+      "longitude": 36.7
+    },
+    {
+      "id": 1026804,
+      "name": "Sofala",
+      "nativeName": "Sofala Province",
+      "code": "MZ-S",
+      "internalCode": "S",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "latitude": -19.2,
+      "longitude": 34.8
+    },
+    {
+      "id": 1026010,
+      "name": "Tete",
+      "nativeName": "Tete",
+      "code": "MZ-T",
+      "internalCode": "T",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "latitude": -15.5,
+      "longitude": 33
+    },
+    {
+      "id": 1024312,
+      "name": "Zambezia Province",
+      "nativeName": "Província de Zambézia",
+      "code": "MZ-Q",
+      "internalCode": "Q",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "latitude": -17,
+      "longitude": 37
+    }
+  ]
+}

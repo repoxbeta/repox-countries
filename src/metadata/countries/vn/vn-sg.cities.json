@@ -1,0 +1,271 @@
+{
+  "stateId": 1580578,
+  "stateCode": "VN-SG",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 1904886,
+      "name": "Binh Tan District",
+      "nativeName": "Quận Tân Bình",
+      "code": "VN-SG-1904886",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-SG",
+      "latitude": 10.80638,
+      "longitude": 106.65501
+    },
+    {
+      "id": 1904893,
+      "name": "Huyện Bình Chánh",
+      "nativeName": "Huyện Bình Chánh",
+      "code": "VN-SG-1904893",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-SG",
+      "latitude": 10.71142,
+      "longitude": 106.55132
+    },
+    {
+      "id": 1904895,
+      "name": "Huyện Cần Giờ",
+      "nativeName": "Huyện Cần Giờ",
+      "code": "VN-SG-1904895",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-SG",
+      "latitude": 10.52289,
+      "longitude": 106.87511
+    },
+    {
+      "id": 1904892,
+      "name": "Huyện Củ Chi",
+      "nativeName": "Huyện Củ Chi",
+      "code": "VN-SG-1904892",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-SG",
+      "latitude": 11.00513,
+      "longitude": 106.50845
+    },
+    {
+      "id": 1904891,
+      "name": "Huyện Hóc Môn",
+      "nativeName": "Huyện Hóc Môn",
+      "code": "VN-SG-1904891",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-SG",
+      "latitude": 10.88667,
+      "longitude": 106.59278
+    },
+    {
+      "id": 1904894,
+      "name": "Huyện Nhà Bè",
+      "nativeName": "Huyện Nhà Bè",
+      "code": "VN-SG-1904894",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-SG",
+      "latitude": 10.6539,
+      "longitude": 106.72524
+    },
+    {
+      "id": 1904885,
+      "name": "Phu Nhuan",
+      "nativeName": "Phu Nhuan",
+      "code": "VN-SG-1904885",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-SG",
+      "latitude": 10.80116,
+      "longitude": 106.67793
+    },
+    {
+      "id": 1904884,
+      "name": "Quận 12",
+      "nativeName": "Quận 12",
+      "code": "VN-SG-1904884",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-SG",
+      "latitude": 10.87138,
+      "longitude": 106.6556
+    },
+    {
+      "id": 1904875,
+      "name": "Quận Ba",
+      "nativeName": "Quận Ba",
+      "code": "VN-SG-1904875",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-SG",
+      "latitude": 10.78345,
+      "longitude": 106.69133
+    },
+    {
+      "id": 1904887,
+      "name": "Quận Bình Thạnh",
+      "nativeName": "Quận Bình Thạnh",
+      "code": "VN-SG-1904887",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-SG",
+      "latitude": 10.80753,
+      "longitude": 106.7129
+    },
+    {
+      "id": 11497486,
+      "name": "Quận Bình Tân",
+      "nativeName": "Quận Bình Tân",
+      "code": "VN-SG-11497486",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-SG",
+      "latitude": 10.7615,
+      "longitude": 106.59711
+    },
+    {
+      "id": 1904879,
+      "name": "Quận Bảy",
+      "nativeName": "Quận Bảy",
+      "code": "VN-SG-1904879",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-SG",
+      "latitude": 10.73653,
+      "longitude": 106.72642
+    },
+    {
+      "id": 1904876,
+      "name": "Quận Bốn",
+      "nativeName": "Quận Bốn",
+      "code": "VN-SG-1904876",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-SG",
+      "latitude": 10.75878,
+      "longitude": 106.70485
+    },
+    {
+      "id": 1904881,
+      "name": "Quận Chín",
+      "nativeName": "Quận Chín",
+      "code": "VN-SG-1904881",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-SG",
+      "latitude": 10.82983,
+      "longitude": 106.81975
+    },
+    {
+      "id": 1904888,
+      "name": "Quận Gò Vấp",
+      "nativeName": "Quận Gò Vấp",
+      "code": "VN-SG-1904888",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-SG",
+      "latitude": 10.84081,
+      "longitude": 106.66848
+    },
+    {
+      "id": 1904874,
+      "name": "Quận Hai",
+      "nativeName": "Quận Hai",
+      "code": "VN-SG-1904874",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-SG",
+      "latitude": 10.78005,
+      "longitude": 106.7538
+    },
+    {
+      "id": 1904882,
+      "name": "Quận Mười",
+      "nativeName": "Quận Mười",
+      "code": "VN-SG-1904882",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-SG",
+      "latitude": 10.7722,
+      "longitude": 106.66872
+    },
+    {
+      "id": 1904883,
+      "name": "Quận Mười Một",
+      "nativeName": "Quận Mười Một",
+      "code": "VN-SG-1904883",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-SG",
+      "latitude": 10.76173,
+      "longitude": 106.64543
+    },
+    {
+      "id": 1904873,
+      "name": "Quận Một",
+      "nativeName": "Quận Một",
+      "code": "VN-SG-1904873",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-SG",
+      "latitude": 10.77355,
+      "longitude": 106.6942
+    },
+    {
+      "id": 1904877,
+      "name": "Quận Năm",
+      "nativeName": "Quận Năm",
+      "code": "VN-SG-1904877",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-SG",
+      "latitude": 10.75589,
+      "longitude": 106.66854
+    },
+    {
+      "id": 1904878,
+      "name": "Quận Sáu",
+      "nativeName": "Quận Sáu",
+      "code": "VN-SG-1904878",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-SG",
+      "latitude": 10.74732,
+      "longitude": 106.63673
+    },
+    {
+      "id": 1904890,
+      "name": "Quận Thủ Đức",
+      "nativeName": "Quận Thủ Đức",
+      "code": "VN-SG-1904890",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-SG",
+      "latitude": 10.85393,
+      "longitude": 106.74269
+    },
+    {
+      "id": 1904880,
+      "name": "Quận Tám",
+      "nativeName": "Quận Tám",
+      "code": "VN-SG-1904880",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-SG",
+      "latitude": 10.7287,
+      "longitude": 106.6401
+    },
+    {
+      "id": 8714530,
+      "name": "Tân Phú District",
+      "nativeName": "Tân Phú District",
+      "code": "VN-SG-8714530",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-SG",
+      "latitude": 10.79883,
+      "longitude": 106.62324
+    }
+  ]
+}

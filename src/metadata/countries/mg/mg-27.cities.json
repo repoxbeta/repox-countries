@@ -1,0 +1,40 @@
+{
+  "stateId": 12494968,
+  "stateCode": "MG-27",
+  "countryCode": "MG",
+  "cities": [
+    {
+      "id": 11926416,
+      "name": "Ifanadiana",
+      "nativeName": "Ifanadiana",
+      "code": "MG-27-11926416",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-27",
+      "latitude": -21.09222,
+      "longitude": 47.63655
+    },
+    {
+      "id": 11926418,
+      "name": "Mananjary",
+      "nativeName": "Mananjary",
+      "code": "MG-27-11926418",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-27",
+      "latitude": -21.19786,
+      "longitude": 48.08659
+    },
+    {
+      "id": 11926417,
+      "name": "Nosy-Varika",
+      "nativeName": "Nosy-Varika",
+      "code": "MG-27-11926417",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-27",
+      "latitude": -20.56533,
+      "longitude": 48.1734
+    }
+  ]
+}

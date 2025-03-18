@@ -1,0 +1,194 @@
+{
+  "stateId": 2022888,
+  "stateCode": "RU-KHA",
+  "countryCode": "RU",
+  "cities": [
+    {
+      "id": 2027744,
+      "name": "Amursky District",
+      "nativeName": "Amurskiy Rayon",
+      "code": "RU-KHA-2027744",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KHA",
+      "latitude": 50.25,
+      "longitude": 136.91667
+    },
+    {
+      "id": 12640015,
+      "name": "Ayano-Maysky District",
+      "nativeName": "Ayano-Maysky District",
+      "code": "RU-KHA-12640015",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KHA",
+      "latitude": 56.46206,
+      "longitude": 138.17412
+    },
+    {
+      "id": 2026693,
+      "name": "Bikinsky District",
+      "nativeName": "Bikinskiy Rayon",
+      "code": "RU-KHA-2026693",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KHA",
+      "latitude": 47,
+      "longitude": 134.25
+    },
+    {
+      "id": 12640016,
+      "name": "Imeni Lazo District",
+      "nativeName": "Imeni Lazo District",
+      "code": "RU-KHA-12640016",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KHA",
+      "latitude": 47.96843,
+      "longitude": 135.05902
+    },
+    {
+      "id": 2022887,
+      "name": "Khabarovsky District",
+      "nativeName": "Khabarovskiy Rayon",
+      "code": "RU-KHA-2022887",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KHA",
+      "latitude": 48.5,
+      "longitude": 135.25
+    },
+    {
+      "id": 12626049,
+      "name": "Komsomolsk-on-Amur",
+      "nativeName": "Komsomolsk-on-Amur",
+      "code": "RU-KHA-12626049",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KHA",
+      "latitude": 50.55776,
+      "longitude": 136.97699
+    },
+    {
+      "id": 12640017,
+      "name": "Komsomolsky",
+      "nativeName": "Komsomolsky",
+      "code": "RU-KHA-12640017",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KHA",
+      "latitude": 50.99918,
+      "longitude": 136.98151
+    },
+    {
+      "id": 12626032,
+      "name": "Okhotsky Rayon",
+      "nativeName": "Okhotsky Rayon",
+      "code": "RU-KHA-12626032",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KHA",
+      "latitude": 59.36043,
+      "longitude": 143.21022
+    },
+    {
+      "id": 12625161,
+      "name": "Solnechny Rayon",
+      "nativeName": "Solnechny Rayon",
+      "code": "RU-KHA-12625161",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KHA",
+      "latitude": 50.58043,
+      "longitude": 137.04923
+    },
+    {
+      "id": 12626033,
+      "name": "Sovetsko-Gavansky Rayon",
+      "nativeName": "Sovetsko-Gavansky Rayon",
+      "code": "RU-KHA-12626033",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KHA",
+      "latitude": 48.97542,
+      "longitude": 140.28163
+    },
+    {
+      "id": 2014966,
+      "name": "Tuguro-Chumikansky District",
+      "nativeName": "Tuguro-Chumikanskiy Rayon",
+      "code": "RU-KHA-2014966",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KHA",
+      "latitude": 54.5,
+      "longitude": 134
+    },
+    {
+      "id": 2014399,
+      "name": "Ulchsky District",
+      "nativeName": "Ul’chskiy Rayon",
+      "code": "RU-KHA-2014399",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KHA",
+      "latitude": 51.83333,
+      "longitude": 139.5
+    },
+    {
+      "id": 2119929,
+      "name": "Vaninsky District",
+      "nativeName": "Vaninskiy Rayon",
+      "code": "RU-KHA-2119929",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KHA",
+      "latitude": 49.08333,
+      "longitude": 140.25
+    },
+    {
+      "id": 2013652,
+      "name": "Verkhnebureinsky District",
+      "nativeName": "Verkhnebureinskiy Rayon",
+      "code": "RU-KHA-2013652",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KHA",
+      "latitude": 50.5,
+      "longitude": 133
+    },
+    {
+      "id": 2013228,
+      "name": "Vyazemsky District",
+      "nativeName": "Vyazemskiy Rayon",
+      "code": "RU-KHA-2013228",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KHA",
+      "latitude": 47.5,
+      "longitude": 135
+    },
+    {
+      "id": 12625242,
+      "name": "ZATO Solnechny",
+      "nativeName": "ZATO Solnechny",
+      "code": "RU-KHA-12625242",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KHA",
+      "latitude": 50.57622,
+      "longitude": 137.05054
+    },
+    {
+      "id": 12626048,
+      "name": "imeni Poliny Osipenko Rayon",
+      "nativeName": "imeni Poliny Osipenko Rayon",
+      "code": "RU-KHA-12626048",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KHA",
+      "latitude": 52.4239,
+      "longitude": 136.48235
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "stateId": 2179671,
+  "stateCode": "NZ-MWT",
+  "countryCode": "NZ",
+  "cities": [
+    {
+      "id": 7910043,
+      "name": "Horowhenua District",
+      "nativeName": "Horowhenua District",
+      "code": "NZ-MWT-7910043",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-MWT",
+      "latitude": -40.57733,
+      "longitude": 175.38071
+    },
+    {
+      "id": 7910051,
+      "name": "Manawatu District",
+      "nativeName": "Manawatu District",
+      "code": "NZ-MWT-7910051",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-MWT",
+      "latitude": -40.11979,
+      "longitude": 175.67426
+    },
+    {
+      "id": 7910056,
+      "name": "Palmerston North City",
+      "nativeName": "Palmerston North City",
+      "code": "NZ-MWT-7910056",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-MWT",
+      "latitude": -40.4019,
+      "longitude": 175.64397
+    },
+    {
+      "id": 2183713,
+      "name": "Rangitikei District",
+      "nativeName": "Rangitikei District",
+      "code": "NZ-MWT-2183713",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-MWT",
+      "latitude": -39.66667,
+      "longitude": 175.75
+    },
+    {
+      "id": 7910059,
+      "name": "Ruapehu District",
+      "nativeName": "Ruapehu District",
+      "code": "NZ-MWT-7910059",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-MWT",
+      "latitude": -39.08854,
+      "longitude": 175.408
+    },
+    {
+      "id": 11694796,
+      "name": "Tararua District",
+      "nativeName": "Tararua District",
+      "code": "NZ-MWT-11694796",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-MWT",
+      "latitude": -40.47777,
+      "longitude": 176.09917
+    },
+    {
+      "id": 7910071,
+      "name": "Whanganui District",
+      "nativeName": "Whanganui District",
+      "code": "NZ-MWT-7910071",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-MWT",
+      "latitude": -39.63554,
+      "longitude": 175.14082
+    }
+  ]
+}

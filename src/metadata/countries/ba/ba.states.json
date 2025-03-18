@@ -1,0 +1,39 @@
+{
+  "countryId": 3277605,
+  "countryCode": "BA",
+  "states": [
+    {
+      "id": 3294903,
+      "name": "Brčko",
+      "nativeName": "Brčko District",
+      "code": "BA-BRC",
+      "internalCode": "BRC",
+      "countryId": 3277605,
+      "countryCode": "BA",
+      "latitude": 44.83333,
+      "longitude": 18.83333
+    },
+    {
+      "id": 3229999,
+      "name": "Federation of B&H",
+      "nativeName": "Federation of Bosnia and Herzegovina",
+      "code": "BA-BIH",
+      "internalCode": "BIH",
+      "countryId": 3277605,
+      "countryCode": "BA",
+      "latitude": 44,
+      "longitude": 17.58333
+    },
+    {
+      "id": 3230000,
+      "name": "Srpska",
+      "nativeName": "Republika Srpska",
+      "code": "BA-SRP",
+      "internalCode": "SRP",
+      "countryId": 3277605,
+      "countryCode": "BA",
+      "latitude": 44.73333,
+      "longitude": 17.4
+    }
+  ]
+}

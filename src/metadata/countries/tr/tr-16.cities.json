@@ -1,0 +1,194 @@
+{
+  "stateId": 750268,
+  "stateCode": "TR-16",
+  "countryCode": "TR",
+  "cities": [
+    {
+      "id": 8632540,
+      "name": "Büyükorhan İlçesi",
+      "nativeName": "Büyükorhan İlçesi",
+      "code": "TR-16-8632540",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-16",
+      "latitude": 39.78223,
+      "longitude": 28.89338
+    },
+    {
+      "id": 7732330,
+      "name": "Gemlik",
+      "nativeName": "Gemlik",
+      "code": "TR-16-7732330",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-16",
+      "latitude": 40.4351,
+      "longitude": 29.14943
+    },
+    {
+      "id": 7732331,
+      "name": "Gürsu",
+      "nativeName": "Gürsu",
+      "code": "TR-16-7732331",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-16",
+      "latitude": 40.25498,
+      "longitude": 29.21183
+    },
+    {
+      "id": 8632541,
+      "name": "Harmancık İlçesi",
+      "nativeName": "Harmancık İlçesi",
+      "code": "TR-16-8632541",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-16",
+      "latitude": 39.67743,
+      "longitude": 29.15523
+    },
+    {
+      "id": 8632537,
+      "name": "Karacabey İlçesi",
+      "nativeName": "Karacabey İlçesi",
+      "code": "TR-16-8632537",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-16",
+      "latitude": 40.22288,
+      "longitude": 28.36656
+    },
+    {
+      "id": 8632538,
+      "name": "Keles İlçesi",
+      "nativeName": "Keles İlçesi",
+      "code": "TR-16-8632538",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-16",
+      "latitude": 39.92363,
+      "longitude": 29.23644
+    },
+    {
+      "id": 7732333,
+      "name": "Kestel İlçesi",
+      "nativeName": "Kestel İlçesi",
+      "code": "TR-16-7732333",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-16",
+      "latitude": 40.18218,
+      "longitude": 29.28916
+    },
+    {
+      "id": 7732334,
+      "name": "Mudanya District",
+      "nativeName": "Mudanya",
+      "code": "TR-16-7732334",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-16",
+      "latitude": 40.33342,
+      "longitude": 28.77218
+    },
+    {
+      "id": 8632536,
+      "name": "Mustafakemalpaşa İlçesi",
+      "nativeName": "Mustafakemalpaşa İlçesi",
+      "code": "TR-16-8632536",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-16",
+      "latitude": 40.04973,
+      "longitude": 28.41833
+    },
+    {
+      "id": 7732336,
+      "name": "Nilüfer",
+      "nativeName": "Nilüfer",
+      "code": "TR-16-7732336",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-16",
+      "latitude": 40.21375,
+      "longitude": 28.98464
+    },
+    {
+      "id": 8632539,
+      "name": "Orhaneli İlçesi",
+      "nativeName": "Orhaneli İlçesi",
+      "code": "TR-16-8632539",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-16",
+      "latitude": 39.91406,
+      "longitude": 28.9979
+    },
+    {
+      "id": 8632532,
+      "name": "Orhangazi İlçesi",
+      "nativeName": "Orhangazi İlçesi",
+      "code": "TR-16-8632532",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-16",
+      "latitude": 40.49979,
+      "longitude": 29.31207
+    },
+    {
+      "id": 7732338,
+      "name": "Osmangazi District",
+      "nativeName": "Osmangazi",
+      "code": "TR-16-7732338",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-16",
+      "latitude": 40.15644,
+      "longitude": 29.08753
+    },
+    {
+      "id": 8632534,
+      "name": "Yenişehir İlçesi",
+      "nativeName": "Yenişehir İlçesi",
+      "code": "TR-16-8632534",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-16",
+      "latitude": 40.27425,
+      "longitude": 29.65764
+    },
+    {
+      "id": 7732341,
+      "name": "Yıldırım İlçesi",
+      "nativeName": "Yıldırım İlçesi",
+      "code": "TR-16-7732341",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-16",
+      "latitude": 40.19567,
+      "longitude": 29.0364
+    },
+    {
+      "id": 7732332,
+      "name": "İnegöl",
+      "nativeName": "İnegöl",
+      "code": "TR-16-7732332",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-16",
+      "latitude": 40.01193,
+      "longitude": 29.53678
+    },
+    {
+      "id": 8632533,
+      "name": "İznik İlçesi",
+      "nativeName": "İznik İlçesi",
+      "code": "TR-16-8632533",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-16",
+      "latitude": 40.4394,
+      "longitude": 29.72644
+    }
+  ]
+}

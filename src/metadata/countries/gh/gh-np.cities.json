@@ -1,0 +1,172 @@
+{
+  "stateId": 2297169,
+  "stateCode": "GH-NP",
+  "countryCode": "GH",
+  "cities": [
+    {
+      "id": 7647396,
+      "name": "Gushiegu",
+      "nativeName": "Gushiegu",
+      "code": "GH-NP-7647396",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-NP",
+      "latitude": 9.97027,
+      "longitude": -0.18772
+    },
+    {
+      "id": 7647394,
+      "name": "Karaga",
+      "nativeName": "Karaga",
+      "code": "GH-NP-7647394",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-NP",
+      "latitude": 9.90568,
+      "longitude": -0.53521
+    },
+    {
+      "id": 7647454,
+      "name": "Kpandai",
+      "nativeName": "Kpandai",
+      "code": "GH-NP-7647454",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-NP",
+      "latitude": 8.46667,
+      "longitude": -0.01667
+    },
+    {
+      "id": 12105082,
+      "name": "Kumbumgu",
+      "nativeName": "Kumbumgu",
+      "code": "GH-NP-12105082",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-NP",
+      "latitude": 9.78997,
+      "longitude": -1.05845
+    },
+    {
+      "id": 12105110,
+      "name": "Mion",
+      "nativeName": "Mion",
+      "code": "GH-NP-12105110",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-NP",
+      "latitude": 9.40345,
+      "longitude": -0.26593
+    },
+    {
+      "id": 7647388,
+      "name": "Nanumba North",
+      "nativeName": "Nanumba North",
+      "code": "GH-NP-7647388",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-NP",
+      "latitude": 8.92453,
+      "longitude": -0.07468
+    },
+    {
+      "id": 7647387,
+      "name": "Nanumba South",
+      "nativeName": "Nanumba South",
+      "code": "GH-NP-7647387",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-NP",
+      "latitude": 8.79217,
+      "longitude": 0.11207
+    },
+    {
+      "id": 7647638,
+      "name": "Saboba",
+      "nativeName": "Saboba",
+      "code": "GH-NP-7647638",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-NP",
+      "latitude": 9.70176,
+      "longitude": 0.32364
+    },
+    {
+      "id": 12105112,
+      "name": "Sagnerigu",
+      "nativeName": "Sagnerigu",
+      "code": "GH-NP-12105112",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-NP",
+      "latitude": 9.46872,
+      "longitude": -0.86544
+    },
+    {
+      "id": 7649029,
+      "name": "Savelugu/Nanton",
+      "nativeName": "Savelugu/Nanton",
+      "code": "GH-NP-7649029",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-NP",
+      "latitude": 9.62472,
+      "longitude": -0.82778
+    },
+    {
+      "id": 7649051,
+      "name": "Tamale",
+      "nativeName": "Tamale",
+      "code": "GH-NP-7649051",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-NP",
+      "latitude": 9.4,
+      "longitude": -0.83333
+    },
+    {
+      "id": 12105113,
+      "name": "Tatale",
+      "nativeName": "Tatale",
+      "code": "GH-NP-12105113",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-NP",
+      "latitude": 9.21697,
+      "longitude": 0.43152
+    },
+    {
+      "id": 7649058,
+      "name": "Tolon/Kumbungu",
+      "nativeName": "Tolon/Kumbungu",
+      "code": "GH-NP-7649058",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-NP",
+      "latitude": 9.43333,
+      "longitude": -1.06667
+    },
+    {
+      "id": 7649072,
+      "name": "Yendi",
+      "nativeName": "Yendi",
+      "code": "GH-NP-7649072",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-NP",
+      "latitude": 9.43333,
+      "longitude": -0.01667
+    },
+    {
+      "id": 7649074,
+      "name": "Zabzugu/Tatale",
+      "nativeName": "Zabzugu/Tatale",
+      "code": "GH-NP-7649074",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-NP",
+      "latitude": 9.28333,
+      "longitude": 0.36667
+    }
+  ]
+}

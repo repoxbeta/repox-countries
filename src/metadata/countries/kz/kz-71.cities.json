@@ -1,0 +1,51 @@
+{
+  "stateId": 1538317,
+  "stateCode": "KZ-71",
+  "countryCode": "KZ",
+  "cities": [
+    {
+      "id": 12482487,
+      "name": "Almatinskiy Rayon",
+      "nativeName": "Almatinskiy Rayon",
+      "code": "KZ-71-12482487",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-71",
+      "latitude": 51.12379,
+      "longitude": 71.58135
+    },
+    {
+      "id": 12482490,
+      "name": "Baykonurskiy Rayon",
+      "nativeName": "Baykonurskiy Rayon",
+      "code": "KZ-71-12482490",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-71",
+      "latitude": 51.22489,
+      "longitude": 71.42699
+    },
+    {
+      "id": 12482488,
+      "name": "Esil Aūdany",
+      "nativeName": "Esil Aūdany",
+      "code": "KZ-71-12482488",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-71",
+      "latitude": 51.0765,
+      "longitude": 71.37209
+    },
+    {
+      "id": 12482489,
+      "name": "Saryarkinskiy Rayon",
+      "nativeName": "Saryarkinskiy Rayon",
+      "code": "KZ-71-12482489",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-71",
+      "latitude": 51.19499,
+      "longitude": 71.30034
+    }
+  ]
+}

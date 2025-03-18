@@ -1,0 +1,106 @@
+{
+  "stateId": 8469236,
+  "stateCode": "SI-210",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3198533,
+      "name": "Jurovski Dol",
+      "nativeName": "Jurovski Dol",
+      "code": "SI-210-3198533",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-210",
+      "latitude": 46.60639,
+      "longitude": 15.78472
+    },
+    {
+      "id": 8987153,
+      "name": "Malna",
+      "nativeName": "Malna",
+      "code": "SI-210-8987153",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-210",
+      "latitude": 46.617,
+      "longitude": 15.78428
+    },
+    {
+      "id": 3218051,
+      "name": "Ritiže",
+      "nativeName": "Ritiže",
+      "code": "SI-210-3218051",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-210",
+      "latitude": 46.61722,
+      "longitude": 15.75833
+    },
+    {
+      "id": 3190197,
+      "name": "Spodnji Gasteraj",
+      "nativeName": "Spodnji Gasteraj",
+      "code": "SI-210-3190197",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-210",
+      "latitude": 46.61333,
+      "longitude": 15.80278
+    },
+    {
+      "id": 3190116,
+      "name": "Srednji Gasteraj",
+      "nativeName": "Srednji Gasteraj",
+      "code": "SI-210-3190116",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-210",
+      "latitude": 46.62416,
+      "longitude": 15.79495
+    },
+    {
+      "id": 3188371,
+      "name": "Varda",
+      "nativeName": "Varda",
+      "code": "SI-210-3188371",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-210",
+      "latitude": 46.59205,
+      "longitude": 15.78621
+    },
+    {
+      "id": 3186492,
+      "name": "Zgornji Gasteraj",
+      "nativeName": "Zgornji Gasteraj",
+      "code": "SI-210-3186492",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-210",
+      "latitude": 46.63609,
+      "longitude": 15.78241
+    },
+    {
+      "id": 3218013,
+      "name": "Žitence",
+      "nativeName": "Žitence",
+      "code": "SI-210-3218013",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-210",
+      "latitude": 46.63306,
+      "longitude": 15.80722
+    },
+    {
+      "id": 3193619,
+      "name": "Zgornje Partinje",
+      "nativeName": "Zgornje Partinje",
+      "code": "SI-210-3193619",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-210",
+      "latitude": 46.59556,
+      "longitude": 15.75861
+    }
+  ]
+}

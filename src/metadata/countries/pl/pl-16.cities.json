@@ -1,0 +1,139 @@
+{
+  "stateId": 3337495,
+  "stateCode": "PL-16",
+  "countryCode": "PL",
+  "cities": [
+    {
+      "id": 7530732,
+      "name": "Brzeg County",
+      "nativeName": "Powiat brzeski",
+      "code": "PL-16-7530732",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-16",
+      "latitude": 50.7893,
+      "longitude": 17.48499
+    },
+    {
+      "id": 7531046,
+      "name": "Głubczyce County",
+      "nativeName": "Powiat głubczycki",
+      "code": "PL-16-7531046",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-16",
+      "latitude": 50.14846,
+      "longitude": 17.83266
+    },
+    {
+      "id": 7530761,
+      "name": "Kluczbork County",
+      "nativeName": "Powiat kluczborski",
+      "code": "PL-16-7530761",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-16",
+      "latitude": 50.98576,
+      "longitude": 18.15258
+    },
+    {
+      "id": 7531051,
+      "name": "Krapkowice County",
+      "nativeName": "Powiat krapkowicki",
+      "code": "PL-16-7531051",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-16",
+      "latitude": 50.45263,
+      "longitude": 17.95768
+    },
+    {
+      "id": 7531048,
+      "name": "Kędzierzyn-Koźle County",
+      "nativeName": "Powiat kędzierzyńsko-kozielski",
+      "code": "PL-16-7531048",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-16",
+      "latitude": 50.29384,
+      "longitude": 18.16961
+    },
+    {
+      "id": 7530733,
+      "name": "Namysłów County",
+      "nativeName": "Powiat namysłowski",
+      "code": "PL-16-7530733",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-16",
+      "latitude": 51.01628,
+      "longitude": 17.76304
+    },
+    {
+      "id": 7530734,
+      "name": "Nysa County",
+      "nativeName": "Powiat nyski",
+      "code": "PL-16-7530734",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-16",
+      "latitude": 50.46054,
+      "longitude": 17.33546
+    },
+    {
+      "id": 7530762,
+      "name": "Olesno County",
+      "nativeName": "Powiat oleski",
+      "code": "PL-16-7530762",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-16",
+      "latitude": 50.87887,
+      "longitude": 18.46037
+    },
+    {
+      "id": 7530818,
+      "name": "Opole",
+      "nativeName": "Opole",
+      "code": "PL-16-7530818",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-16",
+      "latitude": 50.65622,
+      "longitude": 17.93066
+    },
+    {
+      "id": 7531049,
+      "name": "Powiat opolski",
+      "nativeName": "Powiat opolski",
+      "code": "PL-16-7531049",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-16",
+      "latitude": 50.73689,
+      "longitude": 17.98462
+    },
+    {
+      "id": 7531047,
+      "name": "Prudnik County",
+      "nativeName": "Powiat prudnicki",
+      "code": "PL-16-7531047",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-16",
+      "latitude": 50.40981,
+      "longitude": 17.73995
+    },
+    {
+      "id": 7531052,
+      "name": "Strzelce County",
+      "nativeName": "Powiat strzelecki",
+      "code": "PL-16-7531052",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-16",
+      "latitude": 50.53057,
+      "longitude": 18.34597
+    }
+  ]
+}

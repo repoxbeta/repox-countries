@@ -1,0 +1,40 @@
+{
+  "stateId": 8693188,
+  "stateCode": "NA-KE",
+  "countryCode": "NA",
+  "cities": [
+    {
+      "id": 11256901,
+      "name": "Mashare",
+      "nativeName": "Mashare",
+      "code": "NA-KE-11256901",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "stateCode": "NA-KE",
+      "latitude": -17.90226,
+      "longitude": 20.13361
+    },
+    {
+      "id": 11205595,
+      "name": "Rundu Rural West",
+      "nativeName": "Rundu Rural West",
+      "code": "NA-KE-11205595",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "stateCode": "NA-KE",
+      "latitude": -17.93333,
+      "longitude": 19.76667
+    },
+    {
+      "id": 11429192,
+      "name": "Rundu Urban",
+      "nativeName": "Rundu Urban",
+      "code": "NA-KE-11429192",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "stateCode": "NA-KE",
+      "latitude": -17.93333,
+      "longitude": 19.76667
+    }
+  ]
+}

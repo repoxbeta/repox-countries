@@ -1,0 +1,51 @@
+{
+  "stateId": 1527297,
+  "stateCode": "KG-T",
+  "countryCode": "KG",
+  "cities": [
+    {
+      "id": 1527687,
+      "name": "Bakay-Atinskiy Rayon",
+      "nativeName": "Bakay-Atinskiy Rayon",
+      "code": "KG-T-1527687",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-T",
+      "latitude": 42.48333,
+      "longitude": 71.91667
+    },
+    {
+      "id": 1527920,
+      "name": "Kara-Buurinskiy Rayon",
+      "nativeName": "Kara-Buurinskiy Rayon",
+      "code": "KG-T-1527920",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-T",
+      "latitude": 42.5,
+      "longitude": 71.41667
+    },
+    {
+      "id": 9165692,
+      "name": "Manas",
+      "nativeName": "Manas",
+      "code": "KG-T-9165692",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-T",
+      "latitude": 42.72306,
+      "longitude": 71.6
+    },
+    {
+      "id": 1527296,
+      "name": "Talasskiy Rayon",
+      "nativeName": "Talasskiy Rayon",
+      "code": "KG-T-1527296",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-T",
+      "latitude": 42.18647,
+      "longitude": 72.69408
+    }
+  ]
+}

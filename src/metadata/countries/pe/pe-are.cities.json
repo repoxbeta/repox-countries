@@ -1,0 +1,95 @@
+{
+  "stateId": 3947319,
+  "stateCode": "PE-ARE",
+  "countryCode": "PE",
+  "cities": [
+    {
+      "id": 3947318,
+      "name": "Arequipa Province",
+      "nativeName": "Provincia de Arequipa",
+      "code": "PE-ARE-3947318",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-ARE",
+      "latitude": -16.34987,
+      "longitude": -71.50827
+    },
+    {
+      "id": 3945982,
+      "name": "Camaná Province",
+      "nativeName": "Provincia de Camaná",
+      "code": "PE-ARE-3945982",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-ARE",
+      "latitude": -16.4741,
+      "longitude": -72.76633
+    },
+    {
+      "id": 3945539,
+      "name": "Caravelí Province",
+      "nativeName": "Provincia de Caravelí",
+      "code": "PE-ARE-3945539",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-ARE",
+      "latitude": -15.7269,
+      "longitude": -74.12762
+    },
+    {
+      "id": 3945239,
+      "name": "Castilla Province",
+      "nativeName": "Provincia de Castilla",
+      "code": "PE-ARE-3945239",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-ARE",
+      "latitude": -15.62481,
+      "longitude": -72.37998
+    },
+    {
+      "id": 3945135,
+      "name": "Caylloma Province",
+      "nativeName": "Provincia de Caylloma",
+      "code": "PE-ARE-3945135",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-ARE",
+      "latitude": -15.64462,
+      "longitude": -71.55715
+    },
+    {
+      "id": 3942520,
+      "name": "Condesuyos Province",
+      "nativeName": "Provincia de Condesuyos",
+      "code": "PE-ARE-3942520",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-ARE",
+      "latitude": -15.66948,
+      "longitude": -72.85726
+    },
+    {
+      "id": 3938145,
+      "name": "Islay Province",
+      "nativeName": "Provincia de Islay",
+      "code": "PE-ARE-3938145",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-ARE",
+      "latitude": -16.96141,
+      "longitude": -71.72446
+    },
+    {
+      "id": 3936625,
+      "name": "La Unión Province",
+      "nativeName": "Provincia de La Unión",
+      "code": "PE-ARE-3936625",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-ARE",
+      "latitude": -15.05583,
+      "longitude": -72.79345
+    }
+  ]
+}

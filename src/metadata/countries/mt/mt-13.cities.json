@@ -1,0 +1,29 @@
+{
+  "stateId": 8299710,
+  "stateCode": "MT-13",
+  "countryCode": "MT",
+  "cities": [
+    {
+      "id": 2563081,
+      "name": "Għajnsielem",
+      "nativeName": "Għajnsielem",
+      "code": "MT-13-2563081",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-13",
+      "latitude": 36.02639,
+      "longitude": 14.285
+    },
+    {
+      "id": 7522265,
+      "name": "Comino",
+      "nativeName": "Comino",
+      "code": "MT-13-7522265",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-13",
+      "latitude": 36.01465,
+      "longitude": 14.33571
+    }
+  ]
+}

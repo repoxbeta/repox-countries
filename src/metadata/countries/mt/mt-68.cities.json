@@ -1,0 +1,51 @@
+{
+  "stateId": 8299766,
+  "stateCode": "MT-68",
+  "countryCode": "MT",
+  "cities": [
+    {
+      "id": 2562250,
+      "name": "Żurrieq",
+      "nativeName": "Żurrieq",
+      "code": "MT-68-2562250",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-68",
+      "latitude": 35.83111,
+      "longitude": 14.47417
+    },
+    {
+      "id": 2563180,
+      "name": "Bubaqra",
+      "nativeName": "Bubaqra",
+      "code": "MT-68-2563180",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-68",
+      "latitude": 35.82472,
+      "longitude": 14.47806
+    },
+    {
+      "id": 2562906,
+      "name": "Il-Miżieb",
+      "nativeName": "Il-Miżieb",
+      "code": "MT-68-2562906",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-68",
+      "latitude": 35.81722,
+      "longitude": 14.49528
+    },
+    {
+      "id": 2562288,
+      "name": "Wied Fulija",
+      "nativeName": "Wied Fulija",
+      "code": "MT-68-2562288",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-68",
+      "latitude": 35.81833,
+      "longitude": 14.4775
+    }
+  ]
+}

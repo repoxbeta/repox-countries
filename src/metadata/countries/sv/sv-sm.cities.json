@@ -1,0 +1,40 @@
+{
+  "stateId": 3583462,
+  "stateCode": "SV-SM",
+  "countryCode": "SV",
+  "cities": [
+    {
+      "id": 12954158,
+      "name": "Municipio de San Miguel Centro",
+      "nativeName": "Municipio de San Miguel Centro",
+      "code": "SV-SM-12954158",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-SM",
+      "latitude": 13.47083,
+      "longitude": -88.15391
+    },
+    {
+      "id": 12954159,
+      "name": "Municipio de San Miguel Oeste",
+      "nativeName": "Municipio de San Miguel Oeste",
+      "code": "SV-SM-12954159",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-SM",
+      "latitude": 13.46436,
+      "longitude": -88.32449
+    },
+    {
+      "id": 12916956,
+      "name": "San Miguel Norte",
+      "nativeName": "San Miguel Norte",
+      "code": "SV-SM-12916956",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-SM",
+      "latitude": 13.75362,
+      "longitude": -88.34012
+    }
+  ]
+}

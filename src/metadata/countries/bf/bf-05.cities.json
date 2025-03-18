@@ -1,0 +1,40 @@
+{
+  "stateId": 6930706,
+  "stateCode": "BF-05",
+  "countryCode": "BF",
+  "cities": [
+    {
+      "id": 2362973,
+      "name": "Bam Province",
+      "nativeName": "Province du Bam",
+      "code": "BF-05-2362973",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "stateCode": "BF-05",
+      "latitude": 13.46667,
+      "longitude": -1.58333
+    },
+    {
+      "id": 2357611,
+      "name": "Namentenga Province",
+      "nativeName": "Province du Namentenga",
+      "code": "BF-05-2357611",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "stateCode": "BF-05",
+      "latitude": 13.25,
+      "longitude": -0.5
+    },
+    {
+      "id": 2355914,
+      "name": "Sanmatenga Province",
+      "nativeName": "Province du Sanmatenga",
+      "code": "BF-05-2355914",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "stateCode": "BF-05",
+      "latitude": 13.25,
+      "longitude": -1.08333
+    }
+  ]
+}

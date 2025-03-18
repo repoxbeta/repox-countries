@@ -1,0 +1,51 @@
+{
+  "stateId": 2383653,
+  "stateCode": "CF-AC",
+  "countryCode": "CF",
+  "cities": [
+    {
+      "id": 7732115,
+      "name": "Bossangoa",
+      "nativeName": "Bossangoa",
+      "code": "CF-AC-7732115",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-AC",
+      "latitude": 6.4068,
+      "longitude": 17.35189
+    },
+    {
+      "id": 9143479,
+      "name": "Markounda",
+      "nativeName": "Markounda",
+      "code": "CF-AC-9143479",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-AC",
+      "latitude": 7.52906,
+      "longitude": 17.25684
+    },
+    {
+      "id": 9143480,
+      "name": "Nana-Bakassa",
+      "nativeName": "Nana-Bakassa",
+      "code": "CF-AC-9143480",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-AC",
+      "latitude": 6.97234,
+      "longitude": 17.3792
+    },
+    {
+      "id": 9143481,
+      "name": "Nangha Boguila",
+      "nativeName": "Nangha Boguila",
+      "code": "CF-AC-9143481",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-AC",
+      "latitude": 7.06393,
+      "longitude": 16.91968
+    }
+  ]
+}

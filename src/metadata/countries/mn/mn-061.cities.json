@@ -1,0 +1,216 @@
+{
+  "stateId": 2031799,
+  "stateCode": "MN-061",
+  "countryCode": "MN",
+  "cities": [
+    {
+      "id": 6618700,
+      "name": "Bayan-Uul District",
+      "nativeName": "Bayan-Uul",
+      "code": "MN-061-6618700",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-061",
+      "latitude": 49.14556,
+      "longitude": 112.73449
+    },
+    {
+      "id": 6618699,
+      "name": "Bayandun District",
+      "nativeName": "Bayandun",
+      "code": "MN-061-6618699",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-061",
+      "latitude": 49.2408,
+      "longitude": 113.37393
+    },
+    {
+      "id": 6618690,
+      "name": "Bayantümen",
+      "nativeName": "Bayantümen",
+      "code": "MN-061-6618690",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-061",
+      "latitude": 48.04481,
+      "longitude": 114.3663
+    },
+    {
+      "id": 6988033,
+      "name": "Bayantümen Sum",
+      "nativeName": "Bayantümen Sum",
+      "code": "MN-061-6988033",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-061",
+      "latitude": 48.00831,
+      "longitude": 114.91693
+    },
+    {
+      "id": 6618691,
+      "name": "Bulgan District",
+      "nativeName": "Bulgan",
+      "code": "MN-061-6618691",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-061",
+      "latitude": 47.99452,
+      "longitude": 113.93337
+    },
+    {
+      "id": 6618701,
+      "name": "Choibalsan  Disrtrict",
+      "nativeName": "Herlen",
+      "code": "MN-061-6618701",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-061",
+      "latitude": 48.05812,
+      "longitude": 114.49883
+    },
+    {
+      "id": 6618693,
+      "name": "Choibalsan District",
+      "nativeName": "Choybalsan",
+      "code": "MN-061-6618693",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-061",
+      "latitude": 48.42852,
+      "longitude": 114.86687
+    },
+    {
+      "id": 6988038,
+      "name": "Choybalsan District",
+      "nativeName": "Choybalsan Sum",
+      "code": "MN-061-6988038",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-061",
+      "latitude": 48.89034,
+      "longitude": 115.50611
+    },
+    {
+      "id": 6618694,
+      "name": "Chuluunkhoroot District",
+      "nativeName": "Chuluunhoroot",
+      "code": "MN-061-6618694",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-061",
+      "latitude": 49.85304,
+      "longitude": 115.71762
+    },
+    {
+      "id": 6618695,
+      "name": "Dashbalbar District",
+      "nativeName": "Dashbalbar",
+      "code": "MN-061-6618695",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-061",
+      "latitude": 49.53836,
+      "longitude": 114.40287
+    },
+    {
+      "id": 6618696,
+      "name": "Gurvanzagal District",
+      "nativeName": "Gurvandzagal",
+      "code": "MN-061-6618696",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-061",
+      "latitude": 49.12714,
+      "longitude": 114.883
+    },
+    {
+      "id": 6618688,
+      "name": "Khalkhgol District",
+      "nativeName": "Halhgol",
+      "code": "MN-061-6618688",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-061",
+      "latitude": 47.62734,
+      "longitude": 118.61784
+    },
+    {
+      "id": 10375939,
+      "name": "Kherlen",
+      "nativeName": "Kherlen",
+      "code": "MN-061-10375939",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-061",
+      "latitude": 48.1373,
+      "longitude": 114.55294
+    },
+    {
+      "id": 10375940,
+      "name": "Khölönbuir",
+      "nativeName": "Khölönbuir",
+      "code": "MN-061-10375940",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-061",
+      "latitude": 47.92611,
+      "longitude": 112.96167
+    },
+    {
+      "id": 6618692,
+      "name": "Khölönbuir District",
+      "nativeName": "Hölönbuyr",
+      "code": "MN-061-6618692",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-061",
+      "latitude": 47.90852,
+      "longitude": 112.95044
+    },
+    {
+      "id": 6618689,
+      "name": "Matad",
+      "nativeName": "Matad",
+      "code": "MN-061-6618689",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-061",
+      "latitude": 47.14513,
+      "longitude": 115.53326
+    },
+    {
+      "id": 6618697,
+      "name": "Sergelen District",
+      "nativeName": "Sergelen",
+      "code": "MN-061-6618697",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-061",
+      "latitude": 48.55366,
+      "longitude": 114.08478
+    },
+    {
+      "id": 6618698,
+      "name": "Tsagaan-Ovoo District",
+      "nativeName": "Tsagaan-Ovoo",
+      "code": "MN-061-6618698",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-061",
+      "latitude": 48.39502,
+      "longitude": 113.43315
+    },
+    {
+      "id": 6988036,
+      "name": "Tsagaan-Ovoo Sum",
+      "nativeName": "Tsagaan-Ovoo Sum",
+      "code": "MN-061-6988036",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-061",
+      "latitude": 48.44001,
+      "longitude": 113.12521
+    }
+  ]
+}

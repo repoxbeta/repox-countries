@@ -1,0 +1,62 @@
+{
+  "stateId": 6690916,
+  "stateCode": "TF-05",
+  "countryCode": "TF",
+  "cities": [
+    {
+      "id": 936202,
+      "name": "Bassas da India",
+      "nativeName": "Bassas da India",
+      "code": "TF-05-936202",
+      "countryId": 1546748,
+      "countryCode": "TF",
+      "stateCode": "TF-05",
+      "latitude": -21.47543,
+      "longitude": 39.67438
+    },
+    {
+      "id": 933910,
+      "name": "Europa Island",
+      "nativeName": "Europa Island",
+      "code": "TF-05-933910",
+      "countryId": 1546748,
+      "countryCode": "TF",
+      "stateCode": "TF-05",
+      "latitude": -22.33333,
+      "longitude": 40.36667
+    },
+    {
+      "id": 1024037,
+      "name": "Glorioso Islands",
+      "nativeName": "Glorioso Islands",
+      "code": "TF-05-1024037",
+      "countryId": 1546748,
+      "countryCode": "TF",
+      "stateCode": "TF-05",
+      "latitude": -11.5,
+      "longitude": 47.33333
+    },
+    {
+      "id": 1024029,
+      "name": "Juan de Nova Island",
+      "nativeName": "Juan de Nova Island",
+      "code": "TF-05-1024029",
+      "countryId": 1546748,
+      "countryCode": "TF",
+      "stateCode": "TF-05",
+      "latitude": -17.0558,
+      "longitude": 42.72712
+    },
+    {
+      "id": 933908,
+      "name": "Tromelin Island",
+      "nativeName": "Tromelin Island",
+      "code": "TF-05-933908",
+      "countryId": 1546748,
+      "countryCode": "TF",
+      "stateCode": "TF-05",
+      "latitude": -15.89332,
+      "longitude": 54.52377
+    }
+  ]
+}

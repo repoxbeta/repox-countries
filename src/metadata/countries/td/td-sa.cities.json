@@ -1,0 +1,40 @@
+{
+  "stateId": 242048,
+  "stateCode": "TD-SA",
+  "countryCode": "TD",
+  "cities": [
+    {
+      "id": 12186545,
+      "name": "Aboudeia",
+      "nativeName": "Aboudeia",
+      "code": "TD-SA-12186545",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-SA",
+      "latitude": 11.56564,
+      "longitude": 19.59283
+    },
+    {
+      "id": 10399865,
+      "name": "Barh Azoum",
+      "nativeName": "Barh Azoum",
+      "code": "TD-SA-10399865",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-SA",
+      "latitude": 11.05,
+      "longitude": 20.28
+    },
+    {
+      "id": 243701,
+      "name": "Harazé Mangueigne",
+      "nativeName": "Harazé Mangueigne",
+      "code": "TD-SA-243701",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-SA",
+      "latitude": 9.91667,
+      "longitude": 20.8
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "stateId": 8604684,
+  "stateCode": "ID-KU",
+  "countryCode": "ID",
+  "cities": [
+    {
+      "id": 8613240,
+      "name": "Bulungan Regency",
+      "nativeName": "Kabupaten Bulungan",
+      "code": "ID-KU-8613240",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KU",
+      "latitude": 3,
+      "longitude": 117.16667
+    },
+    {
+      "id": 8613353,
+      "name": "Malinau Regency",
+      "nativeName": "Kabupaten Malinau",
+      "code": "ID-KU-8613353",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KU",
+      "latitude": 2.48333,
+      "longitude": 115.71667
+    },
+    {
+      "id": 8613360,
+      "name": "Nunukan Regency",
+      "nativeName": "Kabupaten Nunukan",
+      "code": "ID-KU-8613360",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KU",
+      "latitude": 4.1,
+      "longitude": 116.68333
+    },
+    {
+      "id": 8613361,
+      "name": "Tana Tidung Regency",
+      "nativeName": "Kabupaten Tana Tidung",
+      "code": "ID-KU-8613361",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KU",
+      "latitude": 3.55,
+      "longitude": 116.96667
+    },
+    {
+      "id": 8613334,
+      "name": "Tarakan Regency",
+      "nativeName": "Kabupaten Tarakan",
+      "code": "ID-KU-8613334",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KU",
+      "latitude": 3.35,
+      "longitude": 117.6
+    }
+  ]
+}

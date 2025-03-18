@@ -1,0 +1,73 @@
+{
+  "stateId": 7533607,
+  "stateCode": "HK-HWC",
+  "countryCode": "HK",
+  "cities": [
+    {
+      "id": 1818379,
+      "name": "Wan Chai",
+      "nativeName": "Wan Chai",
+      "code": "HK-HWC-1818379",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-HWC",
+      "latitude": 22.28142,
+      "longitude": 114.17258
+    },
+    {
+      "id": 1819783,
+      "name": "Happy Valley",
+      "nativeName": "Happy Valley",
+      "code": "HK-HWC-1819783",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-HWC",
+      "latitude": 22.26912,
+      "longitude": 114.18619
+    },
+    {
+      "id": 1819706,
+      "name": "Jardine's Lookout",
+      "nativeName": "Jardine's Lookout",
+      "code": "HK-HWC-1819706",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-HWC",
+      "latitude": 22.26857,
+      "longitude": 114.19252
+    },
+    {
+      "id": 1819529,
+      "name": "Leighton Hill",
+      "nativeName": "Leighton Hill",
+      "code": "HK-HWC-1819529",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-HWC",
+      "latitude": 22.2761,
+      "longitude": 114.18398
+    },
+    {
+      "id": 1819346,
+      "name": "Morrison Hill",
+      "nativeName": "Morrison Hill",
+      "code": "HK-HWC-1819346",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-HWC",
+      "latitude": 22.27661,
+      "longitude": 114.17835
+    },
+    {
+      "id": 1818773,
+      "name": "So Kon Po",
+      "nativeName": "So Kon Po",
+      "code": "HK-HWC-1818773",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-HWC",
+      "latitude": 22.27414,
+      "longitude": 114.18829
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "stateId": 7521379,
+  "stateCode": "KI-P",
+  "countryCode": "KI",
+  "cities": [
+    {
+      "id": 7521587,
+      "name": "Birnie",
+      "nativeName": "Birnie",
+      "code": "KI-P-7521587",
+      "countryId": 4030945,
+      "countryCode": "KI",
+      "stateCode": "KI-P",
+      "latitude": -3.58333,
+      "longitude": -171.51667
+    },
+    {
+      "id": 7521590,
+      "name": "Enderbury",
+      "nativeName": "Enderbury",
+      "code": "KI-P-7521590",
+      "countryId": 4030945,
+      "countryCode": "KI",
+      "stateCode": "KI-P",
+      "latitude": -3.13333,
+      "longitude": -171.08333
+    },
+    {
+      "id": 7521592,
+      "name": "Kanton",
+      "nativeName": "Kanton",
+      "code": "KI-P-7521592",
+      "countryId": 4030945,
+      "countryCode": "KI",
+      "stateCode": "KI-P",
+      "latitude": -2.81,
+      "longitude": -171.678
+    },
+    {
+      "id": 7521598,
+      "name": "Manra",
+      "nativeName": "Manra",
+      "code": "KI-P-7521598",
+      "countryId": 4030945,
+      "countryCode": "KI",
+      "stateCode": "KI-P",
+      "latitude": -4.45561,
+      "longitude": -171.24415
+    },
+    {
+      "id": 7521600,
+      "name": "McKean",
+      "nativeName": "McKean",
+      "code": "KI-P-7521600",
+      "countryId": 4030945,
+      "countryCode": "KI",
+      "stateCode": "KI-P",
+      "latitude": -3.59562,
+      "longitude": -174.12292
+    },
+    {
+      "id": 7521601,
+      "name": "Nikumaroro",
+      "nativeName": "Nikumaroro",
+      "code": "KI-P-7521601",
+      "countryId": 4030945,
+      "countryCode": "KI",
+      "stateCode": "KI-P",
+      "latitude": -4.67412,
+      "longitude": -174.52246
+    },
+    {
+      "id": 7521605,
+      "name": "Orona",
+      "nativeName": "Orona",
+      "code": "KI-P-7521605",
+      "countryId": 4030945,
+      "countryCode": "KI",
+      "stateCode": "KI-P",
+      "latitude": -4.51667,
+      "longitude": -172.18333
+    },
+    {
+      "id": 7521606,
+      "name": "Rawaki",
+      "nativeName": "Rawaki",
+      "code": "KI-P-7521606",
+      "countryId": 4030945,
+      "countryCode": "KI",
+      "stateCode": "KI-P",
+      "latitude": -3.71667,
+      "longitude": -170.71667
+    }
+  ]
+}

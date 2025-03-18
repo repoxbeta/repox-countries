@@ -1,0 +1,128 @@
+{
+  "stateId": 2641364,
+  "stateCode": "GB-NIR",
+  "countryCode": "GB",
+  "cities": [
+    {
+      "id": 11353069,
+      "name": "Antrim and Newtownabbey",
+      "nativeName": "Antrim and Newtownabbey",
+      "code": "GB-NIR-11353069",
+      "countryId": 2635167,
+      "countryCode": "GB",
+      "stateCode": "GB-NIR",
+      "latitude": 54.70177,
+      "longitude": -6.1977
+    },
+    {
+      "id": 11353074,
+      "name": "Ards and North Down",
+      "nativeName": "Ards and North Down",
+      "code": "GB-NIR-11353074",
+      "countryId": 2635167,
+      "countryCode": "GB",
+      "stateCode": "GB-NIR",
+      "latitude": 54.53439,
+      "longitude": -5.62947
+    },
+    {
+      "id": 11353076,
+      "name": "Armagh City Banbridge and Craigavon",
+      "nativeName": "Armagh City Banbridge and Craigavon",
+      "code": "GB-NIR-11353076",
+      "countryId": 2635167,
+      "countryCode": "GB",
+      "stateCode": "GB-NIR",
+      "latitude": 54.36922,
+      "longitude": -6.45651
+    },
+    {
+      "id": 3333223,
+      "name": "Belfast",
+      "nativeName": "City of Belfast",
+      "code": "GB-NIR-3333223",
+      "countryId": 2635167,
+      "countryCode": "GB",
+      "stateCode": "GB-NIR",
+      "latitude": 54.58333,
+      "longitude": -5.91667
+    },
+    {
+      "id": 11353070,
+      "name": "Causeway Coast and Glens",
+      "nativeName": "Causeway Coast and Glens",
+      "code": "GB-NIR-11353070",
+      "countryId": 2635167,
+      "countryCode": "GB",
+      "stateCode": "GB-NIR",
+      "latitude": 55.06014,
+      "longitude": -6.59081
+    },
+    {
+      "id": 11353073,
+      "name": "Derry City and Strabane",
+      "nativeName": "Derry City and Strabane",
+      "code": "GB-NIR-11353073",
+      "countryId": 2635167,
+      "countryCode": "GB",
+      "stateCode": "GB-NIR",
+      "latitude": 54.82045,
+      "longitude": -7.35958
+    },
+    {
+      "id": 11353071,
+      "name": "Fermanagh and Omagh",
+      "nativeName": "Fermanagh and Omagh",
+      "code": "GB-NIR-11353071",
+      "countryId": 2635167,
+      "countryCode": "GB",
+      "stateCode": "GB-NIR",
+      "latitude": 54.44257,
+      "longitude": -7.50299
+    },
+    {
+      "id": 11353072,
+      "name": "Lisburn and Castlereagh",
+      "nativeName": "Lisburn and Castlereagh",
+      "code": "GB-NIR-11353072",
+      "countryId": 2635167,
+      "countryCode": "GB",
+      "stateCode": "GB-NIR",
+      "latitude": 54.50824,
+      "longitude": -6.05246
+    },
+    {
+      "id": 11353068,
+      "name": "Mid Ulster",
+      "nativeName": "Mid Ulster",
+      "code": "GB-NIR-11353068",
+      "countryId": 2635167,
+      "countryCode": "GB",
+      "stateCode": "GB-NIR",
+      "latitude": 54.6219,
+      "longitude": -6.79097
+    },
+    {
+      "id": 11353078,
+      "name": "Mid and East Antrim",
+      "nativeName": "Mid and East Antrim",
+      "code": "GB-NIR-11353078",
+      "countryId": 2635167,
+      "countryCode": "GB",
+      "stateCode": "GB-NIR",
+      "latitude": 54.87436,
+      "longitude": -6.10141
+    },
+    {
+      "id": 11353077,
+      "name": "Newry Mourne and Down",
+      "nativeName": "Newry Mourne and Down",
+      "code": "GB-NIR-11353077",
+      "countryId": 2635167,
+      "countryCode": "GB",
+      "stateCode": "GB-NIR",
+      "latitude": 54.23616,
+      "longitude": -6.06687
+    }
+  ]
+}

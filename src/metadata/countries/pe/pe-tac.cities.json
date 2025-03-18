@@ -1,0 +1,51 @@
+{
+  "stateId": 3928127,
+  "stateCode": "PE-TAC",
+  "countryCode": "PE",
+  "cities": [
+    {
+      "id": 8349578,
+      "name": "Candarave",
+      "nativeName": "Candarave",
+      "code": "PE-TAC-8349578",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-TAC",
+      "latitude": -17.11397,
+      "longitude": -70.30211
+    },
+    {
+      "id": 8349579,
+      "name": "Jorge Basadre Province",
+      "nativeName": "Jorge Basadre",
+      "code": "PE-TAC-8349579",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-TAC",
+      "latitude": -17.57919,
+      "longitude": -70.73083
+    },
+    {
+      "id": 3928126,
+      "name": "Provincia de Tacna",
+      "nativeName": "Provincia de Tacna",
+      "code": "PE-TAC-3928126",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-TAC",
+      "latitude": -17.97804,
+      "longitude": -70.25882
+    },
+    {
+      "id": 3927773,
+      "name": "Tarata Province",
+      "nativeName": "Provincia de Tarata",
+      "code": "PE-TAC-3927773",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-TAC",
+      "latitude": -17.40978,
+      "longitude": -69.98273
+    }
+  ]
+}

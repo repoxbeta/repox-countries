@@ -1,0 +1,51 @@
+{
+  "stateId": 1904615,
+  "stateCode": "LA-XE",
+  "countryCode": "LA",
+  "cities": [
+    {
+      "id": 1904713,
+      "name": "Muang Dakchung",
+      "nativeName": "Muang Dakchung",
+      "code": "LA-XE-1904713",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-XE",
+      "latitude": 15.38199,
+      "longitude": 107.31847
+    },
+    {
+      "id": 1904775,
+      "name": "Muang Khaleum",
+      "nativeName": "Muang Khaleum",
+      "code": "LA-XE-1904775",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-XE",
+      "latitude": 15.79886,
+      "longitude": 107.04529
+    },
+    {
+      "id": 1904768,
+      "name": "Muang Laman",
+      "nativeName": "Muang Laman",
+      "code": "LA-XE-1904768",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-XE",
+      "latitude": 15.41273,
+      "longitude": 106.81706
+    },
+    {
+      "id": 1652594,
+      "name": "Muang Thatèng",
+      "nativeName": "Muang Thatèng",
+      "code": "LA-XE-1652594",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-XE",
+      "latitude": 15.42745,
+      "longitude": 106.48149
+    }
+  ]
+}

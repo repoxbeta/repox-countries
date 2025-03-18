@@ -1,0 +1,73 @@
+{
+  "stateId": 8394433,
+  "stateCode": "OM-SS",
+  "countryCode": "OM",
+  "cities": [
+    {
+      "id": 12215971,
+      "name": "Al Muḑaybī",
+      "nativeName": "Al Muḑaybī",
+      "code": "OM-SS-12215971",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-SS",
+      "latitude": 22.118,
+      "longitude": 58.22
+    },
+    {
+      "id": 12215973,
+      "name": "Al Qābil",
+      "nativeName": "Al Qābil",
+      "code": "OM-SS-12215973",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-SS",
+      "latitude": 22.661,
+      "longitude": 58.666
+    },
+    {
+      "id": 12215972,
+      "name": "Bidīyah",
+      "nativeName": "Bidīyah",
+      "code": "OM-SS-12215972",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-SS",
+      "latitude": 22.141,
+      "longitude": 58.825
+    },
+    {
+      "id": 12215975,
+      "name": "Damā’ wa aţ Ţā’īyīn",
+      "nativeName": "Damā’ wa aţ Ţā’īyīn",
+      "code": "OM-SS-12215975",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-SS",
+      "latitude": 23.033,
+      "longitude": 58.689
+    },
+    {
+      "id": 12215970,
+      "name": "Ibrā’",
+      "nativeName": "Ibrā’",
+      "code": "OM-SS-12215970",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-SS",
+      "latitude": 22.785,
+      "longitude": 58.445
+    },
+    {
+      "id": 12215974,
+      "name": "Wādī Banī Khālid",
+      "nativeName": "Wādī Banī Khālid",
+      "code": "OM-SS-12215974",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-SS",
+      "latitude": 22.649,
+      "longitude": 58.972
+    }
+  ]
+}

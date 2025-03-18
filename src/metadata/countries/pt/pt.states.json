@@ -1,0 +1,226 @@
+{
+  "countryId": 2264397,
+  "countryCode": "PT",
+  "states": [
+    {
+      "id": 2742610,
+      "name": "Aveiro",
+      "nativeName": "Distrito de Aveiro",
+      "code": "PT-01",
+      "internalCode": "01",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "latitude": 40.72974,
+      "longitude": -8.4815
+    },
+    {
+      "id": 3411865,
+      "name": "Azores",
+      "nativeName": "Azores",
+      "code": "PT-20",
+      "internalCode": "20",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "latitude": 37.80847,
+      "longitude": -25.47466
+    },
+    {
+      "id": 2270984,
+      "name": "Beja",
+      "nativeName": "Distrito de Beja",
+      "code": "PT-02",
+      "internalCode": "02",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "latitude": 37.84204,
+      "longitude": -7.91855
+    },
+    {
+      "id": 2742031,
+      "name": "Braga",
+      "nativeName": "Distrito de Braga",
+      "code": "PT-03",
+      "internalCode": "03",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "latitude": 41.54821,
+      "longitude": -8.42545
+    },
+    {
+      "id": 2742026,
+      "name": "Bragança",
+      "nativeName": "Distrito de Bragança",
+      "code": "PT-04",
+      "internalCode": "04",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "latitude": 41.83615,
+      "longitude": -6.76346
+    },
+    {
+      "id": 2269513,
+      "name": "Castelo Branco",
+      "nativeName": "Distrito de Castelo Branco",
+      "code": "PT-05",
+      "internalCode": "05",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "latitude": 39.95658,
+      "longitude": -7.52323
+    },
+    {
+      "id": 2740636,
+      "name": "Coimbra",
+      "nativeName": "Distrito de Coimbra",
+      "code": "PT-06",
+      "internalCode": "06",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "latitude": 40.1925,
+      "longitude": -8.32963
+    },
+    {
+      "id": 2268337,
+      "name": "Faro",
+      "nativeName": "Distrito de Faro",
+      "code": "PT-08",
+      "internalCode": "08",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "latitude": 37.2,
+      "longitude": -8.16667
+    },
+    {
+      "id": 2738782,
+      "name": "Guarda",
+      "nativeName": "Distrito da Guarda",
+      "code": "PT-09",
+      "internalCode": "09",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "latitude": 40.64223,
+      "longitude": -7.2185
+    },
+    {
+      "id": 2267094,
+      "name": "Leiria",
+      "nativeName": "Distrito de Leiria",
+      "code": "PT-10",
+      "internalCode": "10",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "latitude": 39.7205,
+      "longitude": -8.81403
+    },
+    {
+      "id": 2267056,
+      "name": "Lisbon",
+      "nativeName": "Distrito de Lisboa",
+      "code": "PT-11",
+      "internalCode": "11",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "latitude": 39,
+      "longitude": -9.13333
+    },
+    {
+      "id": 2593105,
+      "name": "Madeira",
+      "nativeName": "Madeira",
+      "code": "PT-30",
+      "internalCode": "30",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "latitude": 32.76737,
+      "longitude": -16.94699
+    },
+    {
+      "id": 2264507,
+      "name": "Portalegre",
+      "nativeName": "Distrito de Portalegre",
+      "code": "PT-12",
+      "internalCode": "12",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "latitude": 39.25,
+      "longitude": -7.58333
+    },
+    {
+      "id": 2735941,
+      "name": "Porto",
+      "nativeName": "Distrito do Porto",
+      "code": "PT-13",
+      "internalCode": "13",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "latitude": 41.22852,
+      "longitude": -8.32691
+    },
+    {
+      "id": 2263478,
+      "name": "Santarém",
+      "nativeName": "Distrito de Santarém",
+      "code": "PT-14",
+      "internalCode": "14",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "latitude": 39.28881,
+      "longitude": -8.50192
+    },
+    {
+      "id": 2262961,
+      "name": "Setúbal",
+      "nativeName": "Distrito de Setúbal",
+      "code": "PT-15",
+      "internalCode": "15",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "latitude": 38.34957,
+      "longitude": -8.58651
+    },
+    {
+      "id": 2732772,
+      "name": "Viana do Castelo",
+      "nativeName": "Distrito de Viana do Castelo",
+      "code": "PT-16",
+      "internalCode": "16",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "latitude": 41.89649,
+      "longitude": -8.5063
+    },
+    {
+      "id": 2732437,
+      "name": "Vila Real",
+      "nativeName": "Distrito de Vila Real",
+      "code": "PT-17",
+      "internalCode": "17",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "latitude": 41.54355,
+      "longitude": -7.59915
+    },
+    {
+      "id": 2732264,
+      "name": "Viseu",
+      "nativeName": "Distrito de Viseu",
+      "code": "PT-18",
+      "internalCode": "18",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "latitude": 40.82747,
+      "longitude": -7.79816
+    },
+    {
+      "id": 2268404,
+      "name": "Évora",
+      "nativeName": "Distrito de Évora",
+      "code": "PT-07",
+      "internalCode": "07",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "latitude": 38.58333,
+      "longitude": -7.83333
+    }
+  ]
+}

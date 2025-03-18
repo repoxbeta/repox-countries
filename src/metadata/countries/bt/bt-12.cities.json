@@ -1,0 +1,40 @@
+{
+  "stateId": 1337279,
+  "stateCode": "BT-12",
+  "countryCode": "BT",
+  "cities": [
+    {
+      "id": 7647116,
+      "name": "Bongo",
+      "nativeName": "Bongo",
+      "code": "BT-12-7647116",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-12",
+      "latitude": 26.92043,
+      "longitude": 89.62193
+    },
+    {
+      "id": 7647631,
+      "name": "Chabchha",
+      "nativeName": "Chabchha",
+      "code": "BT-12-7647631",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-12",
+      "latitude": 27.17634,
+      "longitude": 89.54901
+    },
+    {
+      "id": 7647113,
+      "name": "Phuentsholing",
+      "nativeName": "Phuentsholing",
+      "code": "BT-12-7647113",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-12",
+      "latitude": 26.91389,
+      "longitude": 89.42317
+    }
+  ]
+}

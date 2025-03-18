@@ -1,0 +1,95 @@
+{
+  "stateId": 2097855,
+  "stateCode": "PG-EHG",
+  "countryCode": "PG",
+  "cities": [
+    {
+      "id": 8657206,
+      "name": "Daulo District",
+      "nativeName": "Daulo",
+      "code": "PG-EHG-8657206",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-EHG",
+      "latitude": -5.98333,
+      "longitude": 145.23333
+    },
+    {
+      "id": 2096740,
+      "name": "Goroka District",
+      "nativeName": "Goroka",
+      "code": "PG-EHG-2096740",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-EHG",
+      "latitude": -6.05,
+      "longitude": 145.38333
+    },
+    {
+      "id": 2096222,
+      "name": "Henganofi District",
+      "nativeName": "Henganofi",
+      "code": "PG-EHG-2096222",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-EHG",
+      "latitude": -6.21667,
+      "longitude": 145.66667
+    },
+    {
+      "id": 2095037,
+      "name": "Kainantu District",
+      "nativeName": "Kainantu",
+      "code": "PG-EHG-2095037",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-EHG",
+      "latitude": -6.41667,
+      "longitude": 145.91667
+    },
+    {
+      "id": 2092104,
+      "name": "Lufa District",
+      "nativeName": "Lufa",
+      "code": "PG-EHG-2092104",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-EHG",
+      "latitude": -6.45,
+      "longitude": 145.25
+    },
+    {
+      "id": 9855501,
+      "name": "Obura-Wonenara District",
+      "nativeName": "Obura Wonenara",
+      "code": "PG-EHG-9855501",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-EHG",
+      "latitude": -6.55434,
+      "longitude": 145.97328
+    },
+    {
+      "id": 2089207,
+      "name": "Okapa District",
+      "nativeName": "Okapa",
+      "code": "PG-EHG-2089207",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-EHG",
+      "latitude": -6.63333,
+      "longitude": 145.5
+    },
+    {
+      "id": 8657205,
+      "name": "Unggai Bena District",
+      "nativeName": "Unggai Bena",
+      "code": "PG-EHG-8657205",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-EHG",
+      "latitude": -6.11667,
+      "longitude": 145.51667
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "stateId": 1140043,
+  "stateCode": "AF-HEL",
+  "countryCode": "AF",
+  "cities": [
+    {
+      "id": 7053015,
+      "name": "Bāghrān",
+      "nativeName": "Bāghrān",
+      "code": "AF-HEL-7053015",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-HEL",
+      "latitude": 33.01406,
+      "longitude": 65.04208
+    },
+    {
+      "id": 7053017,
+      "name": "Dīshū",
+      "nativeName": "Dīshū",
+      "code": "AF-HEL-7053017",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-HEL",
+      "latitude": 29.87917,
+      "longitude": 63.1744
+    },
+    {
+      "id": 7732352,
+      "name": "Garmser District",
+      "nativeName": "Garmsīr",
+      "code": "AF-HEL-7732352",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-HEL",
+      "latitude": 31.02574,
+      "longitude": 64.22386
+    },
+    {
+      "id": 7053030,
+      "name": "Grishk District",
+      "nativeName": "Nahr-e Sarāj",
+      "code": "AF-HEL-7053030",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-HEL",
+      "latitude": 31.83478,
+      "longitude": 64.61239
+    },
+    {
+      "id": 7053026,
+      "name": "Kajakī",
+      "nativeName": "Kajakī",
+      "code": "AF-HEL-7053026",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-HEL",
+      "latitude": 32.48418,
+      "longitude": 65.03871
+    },
+    {
+      "id": 7053027,
+      "name": "Lashkar Gāh",
+      "nativeName": "Lashkar Gāh",
+      "code": "AF-HEL-7053027",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-HEL",
+      "latitude": 31.4562,
+      "longitude": 64.54024
+    },
+    {
+      "id": 7053028,
+      "name": "Musa Qala District",
+      "nativeName": "Mūsá Qal‘ah",
+      "code": "AF-HEL-7053028",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-HEL",
+      "latitude": 32.46905,
+      "longitude": 64.73632
+    },
+    {
+      "id": 9653598,
+      "name": "Naw Zad District",
+      "nativeName": "Naw Zad",
+      "code": "AF-HEL-9653598",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-HEL",
+      "latitude": 32.29483,
+      "longitude": 64.48202
+    },
+    {
+      "id": 7053029,
+      "name": "Nād ‘Alī",
+      "nativeName": "Nād ‘Alī",
+      "code": "AF-HEL-7053029",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-HEL",
+      "latitude": 31.57798,
+      "longitude": 63.79072
+    },
+    {
+      "id": 7053031,
+      "name": "Nāwah-ye Bārakzaī",
+      "nativeName": "Nāwah-ye Bārakzaī",
+      "code": "AF-HEL-7053031",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-HEL",
+      "latitude": 31.33213,
+      "longitude": 64.2149
+    },
+    {
+      "id": 7053033,
+      "name": "Rēg-e Khān Neshīn",
+      "nativeName": "Rēg-e Khān Neshīn",
+      "code": "AF-HEL-7053033",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-HEL",
+      "latitude": 30.83333,
+      "longitude": 63.5
+    },
+    {
+      "id": 7053034,
+      "name": "Sangīn",
+      "nativeName": "Sangīn",
+      "code": "AF-HEL-7053034",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-HEL",
+      "latitude": 32.12361,
+      "longitude": 64.99653
+    },
+    {
+      "id": 7053035,
+      "name": "Wāshēr",
+      "nativeName": "Wāshēr",
+      "code": "AF-HEL-7053035",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-HEL",
+      "latitude": 32.10318,
+      "longitude": 63.94663
+    }
+  ]
+}

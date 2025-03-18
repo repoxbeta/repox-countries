@@ -1,0 +1,73 @@
+{
+  "stateId": 728331,
+  "stateCode": "BG-14",
+  "countryCode": "BG",
+  "cities": [
+    {
+      "id": 732882,
+      "name": "Breznik",
+      "nativeName": "Obshtina Breznik",
+      "code": "BG-14-732882",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-14",
+      "latitude": 42.71667,
+      "longitude": 22.85
+    },
+    {
+      "id": 730049,
+      "name": "Kovachevtsi",
+      "nativeName": "Obshtina Kovachevtsi",
+      "code": "BG-14-730049",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-14",
+      "latitude": 42.55,
+      "longitude": 22.83333
+    },
+    {
+      "id": 728329,
+      "name": "Pernik",
+      "nativeName": "Obshtina Pernik",
+      "code": "BG-14-728329",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-14",
+      "latitude": 42.61667,
+      "longitude": 23.08333
+    },
+    {
+      "id": 727831,
+      "name": "Radomir",
+      "nativeName": "Obshtina Radomir",
+      "code": "BG-14-727831",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-14",
+      "latitude": 42.46667,
+      "longitude": 23.01667
+    },
+    {
+      "id": 726306,
+      "name": "Tran",
+      "nativeName": "Tran",
+      "code": "BG-14-726306",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-14",
+      "latitude": 42.76667,
+      "longitude": 22.63333
+    },
+    {
+      "id": 725401,
+      "name": "Zemen",
+      "nativeName": "Obshtina Zemen",
+      "code": "BG-14-725401",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-14",
+      "latitude": 42.55067,
+      "longitude": 22.7144
+    }
+  ]
+}

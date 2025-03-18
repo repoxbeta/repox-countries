@@ -1,0 +1,29 @@
+{
+  "stateId": 12902747,
+  "stateCode": "CF-21",
+  "countryCode": "CF",
+  "cities": [
+    {
+      "id": 9143493,
+      "name": "Ngaoundaye",
+      "nativeName": "Ngaoundaye",
+      "code": "CF-21-9143493",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-21",
+      "latitude": 7.27649,
+      "longitude": 15.66266
+    },
+    {
+      "id": 9143494,
+      "name": "Paoua",
+      "nativeName": "Paoua",
+      "code": "CF-21-9143494",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-21",
+      "latitude": 7.15641,
+      "longitude": 16.42805
+    }
+  ]
+}

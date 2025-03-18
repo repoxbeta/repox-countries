@@ -1,0 +1,51 @@
+{
+  "stateId": 2403745,
+  "stateCode": "SL-S",
+  "countryCode": "SL",
+  "cities": [
+    {
+      "id": 2410021,
+      "name": "Bo District",
+      "nativeName": "Bo District",
+      "code": "SL-S-2410021",
+      "countryId": 2403846,
+      "countryCode": "SL",
+      "stateCode": "SL-S",
+      "latitude": 7.98877,
+      "longitude": -11.6734
+    },
+    {
+      "id": 2409913,
+      "name": "Bonthe District",
+      "nativeName": "Bonthe District",
+      "code": "SL-S-2409913",
+      "countryId": 2403846,
+      "countryCode": "SL",
+      "stateCode": "SL-S",
+      "latitude": 7.51622,
+      "longitude": -12.33591
+    },
+    {
+      "id": 2405008,
+      "name": "Moyamba District",
+      "nativeName": "Moyamba District",
+      "code": "SL-S-2405008",
+      "countryId": 2403846,
+      "countryCode": "SL",
+      "stateCode": "SL-S",
+      "latitude": 8.0629,
+      "longitude": -12.44401
+    },
+    {
+      "id": 2404399,
+      "name": "Pujehun District",
+      "nativeName": "Pujehun District",
+      "code": "SL-S-2404399",
+      "countryId": 2403846,
+      "countryCode": "SL",
+      "stateCode": "SL-S",
+      "latitude": 7.31855,
+      "longitude": -11.5792
+    }
+  ]
+}

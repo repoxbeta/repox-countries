@@ -1,0 +1,84 @@
+{
+  "stateId": 3573606,
+  "stateCode": "TT-TOB",
+  "countryCode": "TT",
+  "cities": [
+    {
+      "id": 3573805,
+      "name": "Saint Andrew",
+      "nativeName": "Saint Andrew",
+      "code": "TT-TOB-3573805",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-TOB",
+      "latitude": 11.18333,
+      "longitude": -60.75
+    },
+    {
+      "id": 3573793,
+      "name": "Saint David",
+      "nativeName": "Saint David",
+      "code": "TT-TOB-3573793",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-TOB",
+      "latitude": 11.25,
+      "longitude": -60.71667
+    },
+    {
+      "id": 3573784,
+      "name": "Saint George",
+      "nativeName": "Saint George",
+      "code": "TT-TOB-3573784",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-TOB",
+      "latitude": 11.21667,
+      "longitude": -60.7
+    },
+    {
+      "id": 3573778,
+      "name": "Saint John",
+      "nativeName": "Saint John",
+      "code": "TT-TOB-3573778",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-TOB",
+      "latitude": 11.3,
+      "longitude": -60.61667
+    },
+    {
+      "id": 3573766,
+      "name": "Saint Mary",
+      "nativeName": "Saint Mary",
+      "code": "TT-TOB-3573766",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-TOB",
+      "latitude": 11.23333,
+      "longitude": -60.63333
+    },
+    {
+      "id": 3573761,
+      "name": "Saint Patrick",
+      "nativeName": "Saint Patrick",
+      "code": "TT-TOB-3573761",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-TOB",
+      "latitude": 11.16667,
+      "longitude": -60.8
+    },
+    {
+      "id": 3573759,
+      "name": "Saint Paul",
+      "nativeName": "Saint Paul",
+      "code": "TT-TOB-3573759",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-TOB",
+      "latitude": 11.26667,
+      "longitude": -60.56667
+    }
+  ]
+}

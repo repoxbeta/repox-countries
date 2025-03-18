@@ -1,0 +1,105 @@
+{
+  "countryId": 2372248,
+  "countryCode": "GW",
+  "states": [
+    {
+      "id": 2375255,
+      "name": "Bafatá",
+      "nativeName": "Bafatá",
+      "code": "GW-BA",
+      "internalCode": "BA",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "latitude": 12.16667,
+      "longitude": -14.71667
+    },
+    {
+      "id": 2374820,
+      "name": "Biombo",
+      "nativeName": "Biombo",
+      "code": "GW-BM",
+      "internalCode": "BM",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "latitude": 11.88281,
+      "longitude": -15.84332
+    },
+    {
+      "id": 2374776,
+      "name": "Bissau",
+      "nativeName": "Bissau Region",
+      "code": "GW-BS",
+      "internalCode": "BS",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "latitude": 11.85391,
+      "longitude": -15.59097
+    },
+    {
+      "id": 2374689,
+      "name": "Bolama",
+      "nativeName": "Bolama",
+      "code": "GW-BL",
+      "internalCode": "BL",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "latitude": 11.15484,
+      "longitude": -16.00926
+    },
+    {
+      "id": 2374312,
+      "name": "Cacheu Region",
+      "nativeName": "Cacheu Region",
+      "code": "GW-CA",
+      "internalCode": "CA",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "latitude": 12,
+      "longitude": -16.16667
+    },
+    {
+      "id": 2372533,
+      "name": "Gabú",
+      "nativeName": "Gabú",
+      "code": "GW-GA",
+      "internalCode": "GA",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "latitude": 12.16667,
+      "longitude": -14.16667
+    },
+    {
+      "id": 2371071,
+      "name": "Oio Region",
+      "nativeName": "Oio Region",
+      "code": "GW-OI",
+      "internalCode": "OI",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "latitude": 12.25,
+      "longitude": -15.25
+    },
+    {
+      "id": 2370360,
+      "name": "Quinara",
+      "nativeName": "Quinara",
+      "code": "GW-QU",
+      "internalCode": "QU",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "latitude": 11.66667,
+      "longitude": -15.08333
+    },
+    {
+      "id": 2368955,
+      "name": "Tombali",
+      "nativeName": "Tombali",
+      "code": "GW-TO",
+      "internalCode": "TO",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "latitude": 11.3,
+      "longitude": -15
+    }
+  ]
+}

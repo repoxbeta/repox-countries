@@ -1,0 +1,194 @@
+{
+  "stateId": 1221092,
+  "stateCode": "TJ-SU",
+  "countryCode": "TJ",
+  "cities": [
+    {
+      "id": 8216045,
+      "name": "Aini District",
+      "nativeName": "Nohiyai Ayni",
+      "code": "TJ-SU-8216045",
+      "countryId": 1220409,
+      "countryCode": "TJ",
+      "stateCode": "TJ-SU",
+      "latitude": 39.29536,
+      "longitude": 68.78884
+    },
+    {
+      "id": 1222220,
+      "name": "Ayninskiy Rayon",
+      "nativeName": "Ayninskiy Rayon",
+      "code": "TJ-SU-1222220",
+      "countryId": 1220409,
+      "countryCode": "TJ",
+      "stateCode": "TJ-SU",
+      "latitude": 39.18758,
+      "longitude": 68.77032
+    },
+    {
+      "id": 8209860,
+      "name": "Ghafurov District",
+      "nativeName": "Nohiyai Bobojon Ghafurov",
+      "code": "TJ-SU-8209860",
+      "countryId": 1220409,
+      "countryCode": "TJ",
+      "stateCode": "TJ-SU",
+      "latitude": 40.42716,
+      "longitude": 69.74396
+    },
+    {
+      "id": 8216029,
+      "name": "Ghonchi District",
+      "nativeName": "Nohiyai Ghonchí",
+      "code": "TJ-SU-8216029",
+      "countryId": 1220409,
+      "countryCode": "TJ",
+      "stateCode": "TJ-SU",
+      "latitude": 39.83106,
+      "longitude": 69.15645
+    },
+    {
+      "id": 8213700,
+      "name": "Isfara District",
+      "nativeName": "Nohiyai Isfara",
+      "code": "TJ-SU-8213700",
+      "countryId": 1220409,
+      "countryCode": "TJ",
+      "stateCode": "TJ-SU",
+      "latitude": 40.09327,
+      "longitude": 70.58365
+    },
+    {
+      "id": 8216028,
+      "name": "Istaravshan District",
+      "nativeName": "Istaravshan District",
+      "code": "TJ-SU-8216028",
+      "countryId": 1220409,
+      "countryCode": "TJ",
+      "stateCode": "TJ-SU",
+      "latitude": 40.00212,
+      "longitude": 69.01453
+    },
+    {
+      "id": 8213796,
+      "name": "Jabbor Rasulov District",
+      "nativeName": "Nohiyai Jabbor Rasulov",
+      "code": "TJ-SU-8213796",
+      "countryId": 1220409,
+      "countryCode": "TJ",
+      "stateCode": "TJ-SU",
+      "latitude": 40.09876,
+      "longitude": 69.496
+    },
+    {
+      "id": 1514880,
+      "name": "Khodzhentskiy Rayon",
+      "nativeName": "Khodzhentskiy Rayon",
+      "code": "TJ-SU-1514880",
+      "countryId": 1220409,
+      "countryCode": "TJ",
+      "stateCode": "TJ-SU",
+      "latitude": 40.33333,
+      "longitude": 69.91667
+    },
+    {
+      "id": 8213699,
+      "name": "Konibodom District",
+      "nativeName": "Nohiyai Konibodom",
+      "code": "TJ-SU-8213699",
+      "countryId": 1220409,
+      "countryCode": "TJ",
+      "stateCode": "TJ-SU",
+      "latitude": 40.26877,
+      "longitude": 70.33057
+    },
+    {
+      "id": 8209859,
+      "name": "Mastchoh district",
+      "nativeName": "Nohiyai Mastchoh",
+      "code": "TJ-SU-8209859",
+      "countryId": 1220409,
+      "countryCode": "TJ",
+      "stateCode": "TJ-SU",
+      "latitude": 40.67151,
+      "longitude": 69.49214
+    },
+    {
+      "id": 7669228,
+      "name": "Nohiya-i Kuhistoni Mastchoh",
+      "nativeName": "Kuhistoni Mastchohskiy",
+      "code": "TJ-SU-7669228",
+      "countryId": 1220409,
+      "countryCode": "TJ",
+      "stateCode": "TJ-SU",
+      "latitude": 39.4,
+      "longitude": 69.8
+    },
+    {
+      "id": 8213083,
+      "name": "Nohiyai Asht",
+      "nativeName": "Nohiyai Asht",
+      "code": "TJ-SU-8213083",
+      "countryId": 1220409,
+      "countryCode": "TJ",
+      "stateCode": "TJ-SU",
+      "latitude": 40.69364,
+      "longitude": 70.3502
+    },
+    {
+      "id": 8216066,
+      "name": "Panjakent District",
+      "nativeName": "Nohiyai Panjakent",
+      "code": "TJ-SU-8216066",
+      "countryId": 1220409,
+      "countryCode": "TJ",
+      "stateCode": "TJ-SU",
+      "latitude": 39.37452,
+      "longitude": 67.79159
+    },
+    {
+      "id": 1220797,
+      "name": "Pendzhikentskiy Rayon",
+      "nativeName": "Pendzhikentskiy Rayon",
+      "code": "TJ-SU-1220797",
+      "countryId": 1220409,
+      "countryCode": "TJ",
+      "stateCode": "TJ-SU",
+      "latitude": 39.32276,
+      "longitude": 67.83076
+    },
+    {
+      "id": 7670512,
+      "name": "Shahriston District",
+      "nativeName": "Shahriston District",
+      "code": "TJ-SU-7670512",
+      "countryId": 1220409,
+      "countryCode": "TJ",
+      "stateCode": "TJ-SU",
+      "latitude": 39.65,
+      "longitude": 68.78
+    },
+    {
+      "id": 8216026,
+      "name": "Spitamen District",
+      "nativeName": "Nohiyai Spitamen",
+      "code": "TJ-SU-8216026",
+      "countryId": 1220409,
+      "countryCode": "TJ",
+      "stateCode": "TJ-SU",
+      "latitude": 40.10486,
+      "longitude": 69.3311
+    },
+    {
+      "id": 1514816,
+      "name": "Zafarobod District",
+      "nativeName": "Nohiyai Zafarobod",
+      "code": "TJ-SU-1514816",
+      "countryId": 1220409,
+      "countryCode": "TJ",
+      "stateCode": "TJ-SU",
+      "latitude": 40.18194,
+      "longitude": 68.90756
+    }
+  ]
+}

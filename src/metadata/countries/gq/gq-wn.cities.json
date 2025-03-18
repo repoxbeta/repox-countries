@@ -1,0 +1,84 @@
+{
+  "stateId": 2566983,
+  "stateCode": "GQ-WN",
+  "countryCode": "GQ",
+  "cities": [
+    {
+      "id": 11237862,
+      "name": "Aconibe",
+      "nativeName": "Aconibe",
+      "code": "GQ-WN-11237862",
+      "countryId": 2309096,
+      "countryCode": "GQ",
+      "stateCode": "GQ-WN",
+      "latitude": 1.29648,
+      "longitude": 10.94436
+    },
+    {
+      "id": 11237860,
+      "name": "Ayene",
+      "nativeName": "Ayene",
+      "code": "GQ-WN-11237860",
+      "countryId": 2309096,
+      "countryCode": "GQ",
+      "stateCode": "GQ-WN",
+      "latitude": 1.87883,
+      "longitude": 10.70231
+    },
+    {
+      "id": 2306544,
+      "name": "Añisoc",
+      "nativeName": "Añisoc",
+      "code": "GQ-WN-2306544",
+      "countryId": 2309096,
+      "countryCode": "GQ",
+      "stateCode": "GQ-WN",
+      "latitude": 1.75,
+      "longitude": 10.83333
+    },
+    {
+      "id": 11237863,
+      "name": "Ciudad de la Paz",
+      "nativeName": "Ciudad de la Paz",
+      "code": "GQ-WN-11237863",
+      "countryId": 2309096,
+      "countryCode": "GQ",
+      "stateCode": "GQ-WN",
+      "latitude": 1.617,
+      "longitude": 10.82836
+    },
+    {
+      "id": 2307161,
+      "name": "Distrito de Nsork",
+      "nativeName": "Distrito de Nsork",
+      "code": "GQ-WN-2307161",
+      "countryId": 2309096,
+      "countryCode": "GQ",
+      "stateCode": "GQ-WN",
+      "latitude": 1.197,
+      "longitude": 11.2353
+    },
+    {
+      "id": 11237861,
+      "name": "Mengomeyén",
+      "nativeName": "Mengomeyén",
+      "code": "GQ-WN-11237861",
+      "countryId": 2309096,
+      "countryCode": "GQ",
+      "stateCode": "GQ-WN",
+      "latitude": 1.69439,
+      "longitude": 11.03422
+    },
+    {
+      "id": 2307796,
+      "name": "Mongomo",
+      "nativeName": "Mongomo",
+      "code": "GQ-WN-2307796",
+      "countryId": 2309096,
+      "countryCode": "GQ",
+      "stateCode": "GQ-WN",
+      "latitude": 1.6516,
+      "longitude": 11.162
+    }
+  ]
+}

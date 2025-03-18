@@ -1,0 +1,62 @@
+{
+  "stateId": 1638294,
+  "stateCode": "TL-LA",
+  "countryCode": "TL",
+  "cities": [
+    {
+      "id": 8617923,
+      "name": "Iliomar",
+      "nativeName": "Iliomar",
+      "code": "TL-LA-8617923",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-LA",
+      "latitude": -8.70917,
+      "longitude": 126.82833
+    },
+    {
+      "id": 8617922,
+      "name": "Lautem",
+      "nativeName": "Lautem",
+      "code": "TL-LA-8617922",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-LA",
+      "latitude": -8.36514,
+      "longitude": 126.90389
+    },
+    {
+      "id": 8629266,
+      "name": "Lospalos",
+      "nativeName": "Lospalos",
+      "code": "TL-LA-8629266",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-LA",
+      "latitude": -8.51821,
+      "longitude": 126.9956
+    },
+    {
+      "id": 8629267,
+      "name": "Luro",
+      "nativeName": "Luro",
+      "code": "TL-LA-8629267",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-LA",
+      "latitude": -8.54359,
+      "longitude": 126.83003
+    },
+    {
+      "id": 8618007,
+      "name": "Tutuala",
+      "nativeName": "Tutuala",
+      "code": "TL-LA-8618007",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-LA",
+      "latitude": -8.39597,
+      "longitude": 127.25923
+    }
+  ]
+}

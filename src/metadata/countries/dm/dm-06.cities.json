@@ -1,0 +1,117 @@
+{
+  "stateId": 3575625,
+  "stateCode": "DM-06",
+  "countryCode": "DM",
+  "cities": [
+    {
+      "id": 3575624,
+      "name": "Saint Joseph",
+      "nativeName": "Saint Joseph",
+      "code": "DM-06-3575624",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-06",
+      "latitude": 15.4061,
+      "longitude": -61.42374
+    },
+    {
+      "id": 3575916,
+      "name": "Bassinville",
+      "nativeName": "Bassinville",
+      "code": "DM-06-3575916",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-06",
+      "latitude": 15.43333,
+      "longitude": -61.36667
+    },
+    {
+      "id": 3575903,
+      "name": "Bells",
+      "nativeName": "Bells",
+      "code": "DM-06-3575903",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-06",
+      "latitude": 15.42214,
+      "longitude": -61.33933
+    },
+    {
+      "id": 3575852,
+      "name": "Coulibistrie",
+      "nativeName": "Coulibistrie",
+      "code": "DM-06-3575852",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-06",
+      "latitude": 15.46066,
+      "longitude": -61.45089
+    },
+    {
+      "id": 11897807,
+      "name": "Grand Savane",
+      "nativeName": "Grand Savane",
+      "code": "DM-06-11897807",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-06",
+      "latitude": 15.44491,
+      "longitude": -61.43518
+    },
+    {
+      "id": 3575746,
+      "name": "Layou",
+      "nativeName": "Layou",
+      "code": "DM-06-3575746",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-06",
+      "latitude": 15.397,
+      "longitude": -61.42546
+    },
+    {
+      "id": 3575698,
+      "name": "Morne Raquette",
+      "nativeName": "Morne Raquette",
+      "code": "DM-06-3575698",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-06",
+      "latitude": 15.45637,
+      "longitude": -61.44732
+    },
+    {
+      "id": 3575709,
+      "name": "Méro",
+      "nativeName": "Méro",
+      "code": "DM-06-3575709",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-06",
+      "latitude": 15.41866,
+      "longitude": -61.42894
+    },
+    {
+      "id": 3575643,
+      "name": "Riversdale",
+      "nativeName": "Riversdale",
+      "code": "DM-06-3575643",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-06",
+      "latitude": 15.41667,
+      "longitude": -61.36667
+    },
+    {
+      "id": 3575612,
+      "name": "Salisbury",
+      "nativeName": "Salisbury",
+      "code": "DM-06-3575612",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-06",
+      "latitude": 15.43689,
+      "longitude": -61.43637
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "stateId": 687699,
+  "stateCode": "UA-23",
+  "countryCode": "UA",
+  "cities": [
+    {
+      "id": 712446,
+      "name": "Berdiansk Raion",
+      "nativeName": "Berdyansk Raion",
+      "code": "UA-23-712446",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-23",
+      "latitude": 46.7551,
+      "longitude": 36.79104
+    },
+    {
+      "id": 701403,
+      "name": "Melitopol Raion",
+      "nativeName": "Melitopol Raion",
+      "code": "UA-23-701403",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-23",
+      "latitude": 46.836,
+      "longitude": 35.35757
+    },
+    {
+      "id": 696670,
+      "name": "Polohy Raion",
+      "nativeName": "Polohy Raion",
+      "code": "UA-23-696670",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-23",
+      "latitude": 47.47914,
+      "longitude": 36.25155
+    },
+    {
+      "id": 690337,
+      "name": "Vasylivka Raion",
+      "nativeName": "Vasylivka Raion",
+      "code": "UA-23-690337",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-23",
+      "latitude": 47.44234,
+      "longitude": 35.2841
+    },
+    {
+      "id": 687686,
+      "name": "Zaporizhzhia Raion",
+      "nativeName": "Zaporizhzhya Raion",
+      "code": "UA-23-687686",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-23",
+      "latitude": 47.86085,
+      "longitude": 35.01094
+    }
+  ]
+}

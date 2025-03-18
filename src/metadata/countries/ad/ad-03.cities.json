@@ -1,0 +1,51 @@
+{
+  "stateId": 3040684,
+  "stateCode": "AD-03",
+  "countryCode": "AD",
+  "cities": [
+    {
+      "id": 3040686,
+      "name": "Encamp",
+      "nativeName": "Encamp",
+      "code": "AD-03-3040686",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-03",
+      "latitude": 42.53474,
+      "longitude": 1.58014
+    },
+    {
+      "id": 3040067,
+      "name": "Les Bons",
+      "nativeName": "Les Bons",
+      "code": "AD-03-3040067",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-03",
+      "latitude": 42.53873,
+      "longitude": 1.58649
+    },
+    {
+      "id": 3039604,
+      "name": "Pas de la Casa",
+      "nativeName": "Pas de la Casa",
+      "code": "AD-03-3039604",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-03",
+      "latitude": 42.54277,
+      "longitude": 1.73361
+    },
+    {
+      "id": 3038832,
+      "name": "Vila",
+      "nativeName": "Vila",
+      "code": "AD-03-3038832",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-03",
+      "latitude": 42.53176,
+      "longitude": 1.56654
+    }
+  ]
+}

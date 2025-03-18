@@ -1,0 +1,248 @@
+{
+  "countryId": 3595528,
+  "countryCode": "GT",
+  "states": [
+    {
+      "id": 3599773,
+      "name": "Alta Verapaz",
+      "nativeName": "Departamento de Alta Verapaz",
+      "code": "GT-AV",
+      "internalCode": "AV",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "latitude": 15.66667,
+      "longitude": -90
+    },
+    {
+      "id": 3599602,
+      "name": "Baja Verapaz",
+      "nativeName": "Departamento de Baja Verapaz",
+      "code": "GT-BV",
+      "internalCode": "BV",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "latitude": 15.08333,
+      "longitude": -90.33333
+    },
+    {
+      "id": 3598571,
+      "name": "Chimaltenango",
+      "nativeName": "Departamento de Chimaltenango",
+      "code": "GT-CM",
+      "internalCode": "CM",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "latitude": 14.66667,
+      "longitude": -90.91667
+    },
+    {
+      "id": 3598464,
+      "name": "Chiquimula",
+      "nativeName": "Departamento de Chiquimula",
+      "code": "GT-CQ",
+      "internalCode": "CQ",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "latitude": 14.66667,
+      "longitude": -89.41667
+    },
+    {
+      "id": 3595802,
+      "name": "Departamento de Escuintla",
+      "nativeName": "Departamento de Escuintla",
+      "code": "GT-ES",
+      "internalCode": "ES",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "latitude": 14.16667,
+      "longitude": -91
+    },
+    {
+      "id": 3595415,
+      "name": "Departamento de Huehuetenango",
+      "nativeName": "Departamento de Huehuetenango",
+      "code": "GT-HU",
+      "internalCode": "HU",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "latitude": 15.66667,
+      "longitude": -91.58333
+    },
+    {
+      "id": 3595067,
+      "name": "Departamento de Jutiapa",
+      "nativeName": "Departamento de Jutiapa",
+      "code": "GT-JU",
+      "internalCode": "JU",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "latitude": 14.16667,
+      "longitude": -89.83333
+    },
+    {
+      "id": 3590857,
+      "name": "Departamento de Retalhuleu",
+      "nativeName": "Departamento de Retalhuleu",
+      "code": "GT-RE",
+      "internalCode": "RE",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "latitude": 14.33333,
+      "longitude": -91.83333
+    },
+    {
+      "id": 3596416,
+      "name": "El Progreso",
+      "nativeName": "Departamento de El Progreso",
+      "code": "GT-PR",
+      "internalCode": "PR",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "latitude": 14.83333,
+      "longitude": -90
+    },
+    {
+      "id": 3595530,
+      "name": "Guatemala",
+      "nativeName": "Departamento de Guatemala",
+      "code": "GT-GU",
+      "internalCode": "GU",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "latitude": 14.66667,
+      "longitude": -90.5
+    },
+    {
+      "id": 3595259,
+      "name": "Izabal Department",
+      "nativeName": "Departamento de Izabal",
+      "code": "GT-IZ",
+      "internalCode": "IZ",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "latitude": 15.5,
+      "longitude": -89
+    },
+    {
+      "id": 3595236,
+      "name": "Jalapa",
+      "nativeName": "Departamento de Jalapa",
+      "code": "GT-JA",
+      "internalCode": "JA",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "latitude": 14.58333,
+      "longitude": -89.91667
+    },
+    {
+      "id": 3591410,
+      "name": "Petén",
+      "nativeName": "Departamento del Petén",
+      "code": "GT-PE",
+      "internalCode": "PE",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "latitude": 16.83333,
+      "longitude": -90
+    },
+    {
+      "id": 3590978,
+      "name": "Quetzaltenango",
+      "nativeName": "Departamento de Quetzaltenango",
+      "code": "GT-QZ",
+      "internalCode": "QZ",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "latitude": 14.75,
+      "longitude": -91.66667
+    },
+    {
+      "id": 3590964,
+      "name": "Quiché",
+      "nativeName": "Departamento del Quiché",
+      "code": "GT-QC",
+      "internalCode": "QC",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "latitude": 15.5,
+      "longitude": -90.91667
+    },
+    {
+      "id": 3590686,
+      "name": "Sacatepéquez",
+      "nativeName": "Departamento de Sacatepéquez",
+      "code": "GT-SA",
+      "internalCode": "SA",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "latitude": 14.58333,
+      "longitude": -90.75
+    },
+    {
+      "id": 3589801,
+      "name": "San Marcos",
+      "nativeName": "Departamento de San Marcos",
+      "code": "GT-SM",
+      "internalCode": "SM",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "latitude": 15,
+      "longitude": -91.91667
+    },
+    {
+      "id": 3589172,
+      "name": "Santa Rosa Department",
+      "nativeName": "Departamento de Santa Rosa",
+      "code": "GT-SR",
+      "internalCode": "SR",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "latitude": 14.16667,
+      "longitude": -90.3
+    },
+    {
+      "id": 3588697,
+      "name": "Sololá",
+      "nativeName": "Departamento de Sololá",
+      "code": "GT-SO",
+      "internalCode": "SO",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "latitude": 14.66667,
+      "longitude": -91.25
+    },
+    {
+      "id": 3588668,
+      "name": "Suchitepequez Department",
+      "nativeName": "Departamento de Suchitepéquez",
+      "code": "GT-SU",
+      "internalCode": "SU",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "latitude": 14.38084,
+      "longitude": -91.43046
+    },
+    {
+      "id": 3588257,
+      "name": "Totonicapán",
+      "nativeName": "Departamento de Totonicapán",
+      "code": "GT-TO",
+      "internalCode": "TO",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "latitude": 15,
+      "longitude": -91.33333
+    },
+    {
+      "id": 3587586,
+      "name": "Zacapa",
+      "nativeName": "Departamento de Zacapa",
+      "code": "GT-ZA",
+      "internalCode": "ZA",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "latitude": 15,
+      "longitude": -89.5
+    }
+  ]
+}

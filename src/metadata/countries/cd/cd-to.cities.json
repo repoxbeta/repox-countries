@@ -1,0 +1,106 @@
+{
+  "stateId": 204704,
+  "stateCode": "CD-TO",
+  "countryCode": "CD",
+  "cities": [
+    {
+      "id": 12278031,
+      "name": "Bafwasende",
+      "nativeName": "Bafwasende",
+      "code": "CD-TO-12278031",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-TO",
+      "latitude": 0.73551,
+      "longitude": 26.99689
+    },
+    {
+      "id": 12278033,
+      "name": "Banalia",
+      "nativeName": "Banalia",
+      "code": "CD-TO-12278033",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-TO",
+      "latitude": 1.58373,
+      "longitude": 25.45824
+    },
+    {
+      "id": 12278082,
+      "name": "Basoko",
+      "nativeName": "Basoko",
+      "code": "CD-TO-12278082",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-TO",
+      "latitude": 1.74087,
+      "longitude": 23.97175
+    },
+    {
+      "id": 12278163,
+      "name": "Isangi",
+      "nativeName": "Isangi",
+      "code": "CD-TO-12278163",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-TO",
+      "latitude": 0.53005,
+      "longitude": 24.20316
+    },
+    {
+      "id": 12278171,
+      "name": "Opala",
+      "nativeName": "Opala",
+      "code": "CD-TO-12278171",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-TO",
+      "latitude": -0.75776,
+      "longitude": 24.36787
+    },
+    {
+      "id": 12278148,
+      "name": "Ubundu",
+      "nativeName": "Ubundu",
+      "code": "CD-TO-12278148",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-TO",
+      "latitude": -0.54808,
+      "longitude": 25.56973
+    },
+    {
+      "id": 212726,
+      "name": "Ville de Kisangani",
+      "nativeName": "Ville de Kisangani",
+      "code": "CD-TO-212726",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-TO",
+      "latitude": 0.5,
+      "longitude": 25.2
+    },
+    {
+      "id": 12278028,
+      "name": "Yahuma",
+      "nativeName": "Yahuma",
+      "code": "CD-TO-12278028",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-TO",
+      "latitude": 0.84104,
+      "longitude": 23.1432
+    },
+    {
+      "id": 12278079,
+      "name": "Yangambi",
+      "nativeName": "Yangambi",
+      "code": "CD-TO-12278079",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-TO",
+      "latitude": 0.78815,
+      "longitude": 24.48168
+    }
+  ]
+}

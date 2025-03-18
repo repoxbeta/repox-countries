@@ -1,0 +1,84 @@
+{
+  "stateId": 3939467,
+  "stateCode": "PE-HUV",
+  "countryCode": "PE",
+  "cities": [
+    {
+      "id": 3948478,
+      "name": "Acobamba Province",
+      "nativeName": "Provincia de Acobamba",
+      "code": "PE-HUV-3948478",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-HUV",
+      "latitude": -12.80264,
+      "longitude": -74.58371
+    },
+    {
+      "id": 3947704,
+      "name": "Angaraes Province",
+      "nativeName": "Provincia de Angaraes",
+      "code": "PE-HUV-3947704",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-HUV",
+      "latitude": -13.04307,
+      "longitude": -74.62717
+    },
+    {
+      "id": 7778813,
+      "name": "Churcampa Province",
+      "nativeName": "Provincia de Churcampa",
+      "code": "PE-HUV-7778813",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-HUV",
+      "latitude": -12.6,
+      "longitude": -74.52
+    },
+    {
+      "id": 3939465,
+      "name": "Huancavelica Province",
+      "nativeName": "Provincia de Huancavelica",
+      "code": "PE-HUV-3939465",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-HUV",
+      "latitude": -12.72091,
+      "longitude": -75.0841
+    },
+    {
+      "id": 8349554,
+      "name": "Huaytará Province",
+      "nativeName": "Huaytara",
+      "code": "PE-HUV-8349554",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-HUV",
+      "latitude": -13.65616,
+      "longitude": -75.09234
+    },
+    {
+      "id": 3945232,
+      "name": "Provincia de Castrovirreyna",
+      "nativeName": "Provincia de Castrovirreyna",
+      "code": "PE-HUV-3945232",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-HUV",
+      "latitude": -13.14535,
+      "longitude": -75.40598
+    },
+    {
+      "id": 3927670,
+      "name": "Tayacaja Province",
+      "nativeName": "Provincia de Tayacaja",
+      "code": "PE-HUV-3927670",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-HUV",
+      "latitude": -12.24202,
+      "longitude": -74.76755
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "stateId": 6417229,
+  "stateCode": "GG-6417229",
+  "countryCode": "GG",
+  "cities": [
+    {
+      "id": 6692239,
+      "name": "Castel",
+      "nativeName": "Castel",
+      "code": "GG-6417229-6692239",
+      "countryId": 3042362,
+      "countryCode": "GG",
+      "stateCode": "GG-6417229",
+      "latitude": 49.46757,
+      "longitude": -2.60015
+    },
+    {
+      "id": 6422036,
+      "name": "Mont Plaisant",
+      "nativeName": "Mont Plaisant",
+      "code": "GG-6417229-6422036",
+      "countryId": 3042362,
+      "countryCode": "GG",
+      "stateCode": "GG-6417229",
+      "latitude": 49.4675,
+      "longitude": -2.58917
+    },
+    {
+      "id": 6421930,
+      "name": "Saint Germain",
+      "nativeName": "Saint Germain",
+      "code": "GG-6417229-6421930",
+      "countryId": 3042362,
+      "countryCode": "GG",
+      "stateCode": "GG-6417229",
+      "latitude": 49.4675,
+      "longitude": -2.59583
+    },
+    {
+      "id": 3042281,
+      "name": "Saumarez",
+      "nativeName": "Saumarez",
+      "code": "GG-6417229-3042281",
+      "countryId": 3042362,
+      "countryCode": "GG",
+      "stateCode": "GG-6417229",
+      "latitude": 49.46667,
+      "longitude": -2.6
+    }
+  ]
+}

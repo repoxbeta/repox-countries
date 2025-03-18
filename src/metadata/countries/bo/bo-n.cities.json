@@ -1,0 +1,62 @@
+{
+  "stateId": 3908600,
+  "stateCode": "BO-N",
+  "countryCode": "BO",
+  "cities": [
+    {
+      "id": 3924631,
+      "name": "Abuna",
+      "nativeName": "Provincia Abuná",
+      "code": "BO-N-3924631",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-N",
+      "latitude": -10.64618,
+      "longitude": -67.00599
+    },
+    {
+      "id": 3915598,
+      "name": "Federico Román",
+      "nativeName": "Federico Román",
+      "code": "BO-N-3915598",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-N",
+      "latitude": -10.26961,
+      "longitude": -65.88895
+    },
+    {
+      "id": 3910923,
+      "name": "Madre de Dios",
+      "nativeName": "Provincia Madre de Dios",
+      "code": "BO-N-3910923",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-N",
+      "latitude": -11.57584,
+      "longitude": -67.00187
+    },
+    {
+      "id": 3910770,
+      "name": "Manuripi",
+      "nativeName": "Provincia Manuripi",
+      "code": "BO-N-3910770",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-N",
+      "latitude": -11.30335,
+      "longitude": -67.4925
+    },
+    {
+      "id": 3909533,
+      "name": "Nicolás Suárez",
+      "nativeName": "Provincia Nicolás Suárez",
+      "code": "BO-N-3909533",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-N",
+      "latitude": -11.17571,
+      "longitude": -68.59552
+    }
+  ]
+}

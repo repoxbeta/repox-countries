@@ -1,0 +1,40 @@
+{
+  "stateId": 3711671,
+  "stateCode": "PA-5",
+  "countryCode": "PA",
+  "cities": [
+    {
+      "id": 3712512,
+      "name": "Chepigana District",
+      "nativeName": "Distrito de Chepigana",
+      "code": "PA-5-3712512",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-5",
+      "latitude": 7.92393,
+      "longitude": -77.94053
+    },
+    {
+      "id": 3702816,
+      "name": "Pinogana District",
+      "nativeName": "Distrito de Pinogana",
+      "code": "PA-5-3702816",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-5",
+      "latitude": 8.35247,
+      "longitude": -77.83232
+    },
+    {
+      "id": 12510670,
+      "name": "Santa Fe",
+      "nativeName": "Santa Fe",
+      "code": "PA-5-12510670",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-5",
+      "latitude": 8.61047,
+      "longitude": -78.21537
+    }
+  ]
+}

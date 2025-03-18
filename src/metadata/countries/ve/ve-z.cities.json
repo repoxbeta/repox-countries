@@ -1,0 +1,84 @@
+{
+  "stateId": 3649302,
+  "stateCode": "VE-Z",
+  "countryCode": "VE",
+  "cities": [
+    {
+      "id": 8129028,
+      "name": "Alto Orinoco Municipality",
+      "nativeName": "Municipio Autónomo Alto Orinoco",
+      "code": "VE-Z-8129028",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-Z",
+      "latitude": 2.73456,
+      "longitude": -64.83032
+    },
+    {
+      "id": 3648813,
+      "name": "Atabapo Municipality",
+      "nativeName": "Municipio Autónomo Atabapo",
+      "code": "VE-Z-3648813",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-Z",
+      "latitude": 4.09441,
+      "longitude": -66.57715
+    },
+    {
+      "id": 3648789,
+      "name": "Atures Municipality",
+      "nativeName": "Municipio Autónomo Atures",
+      "code": "VE-Z-3648789",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-Z",
+      "latitude": 5.69252,
+      "longitude": -67.34619
+    },
+    {
+      "id": 8129029,
+      "name": "Autana Municipality",
+      "nativeName": "Municipio Autónomo Autana",
+      "code": "VE-Z-8129029",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-Z",
+      "latitude": 5.01434,
+      "longitude": -67.24731
+    },
+    {
+      "id": 8129031,
+      "name": "Autónomo Maroa Municipality",
+      "nativeName": "Municipio Autónomo Maroa",
+      "code": "VE-Z-8129031",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-Z",
+      "latitude": 2.70164,
+      "longitude": -66.78589
+    },
+    {
+      "id": 8129030,
+      "name": "Manapiare Municipality",
+      "nativeName": "Municipio Autónomo Manapiare",
+      "code": "VE-Z-8129030",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-Z",
+      "latitude": 5.07453,
+      "longitude": -65.54443
+    },
+    {
+      "id": 3629068,
+      "name": "Río Negro Municipality",
+      "nativeName": "Municipio Autónomo Río Negro",
+      "code": "VE-Z-3629068",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-Z",
+      "latitude": 1.71361,
+      "longitude": -66.07178
+    }
+  ]
+}

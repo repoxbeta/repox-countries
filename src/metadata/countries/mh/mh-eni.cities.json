@@ -1,0 +1,29 @@
+{
+  "stateId": 7303499,
+  "stateCode": "MH-ENI",
+  "countryCode": "MH",
+  "cities": [
+    {
+      "id": 7306511,
+      "name": "Enewetak",
+      "nativeName": "Enewetak",
+      "code": "MH-ENI-7306511",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-ENI",
+      "latitude": 11.34735,
+      "longitude": 162.33733
+    },
+    {
+      "id": 7304391,
+      "name": "Enewetak",
+      "nativeName": "Enewetak",
+      "code": "MH-ENI-7304391",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-ENI",
+      "latitude": 11.3509,
+      "longitude": 162.34104
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "stateId": 3898380,
+  "stateCode": "CL-BI",
+  "countryCode": "CL",
+  "cities": [
+    {
+      "id": 3899459,
+      "name": "Provincia de Arauco",
+      "nativeName": "Provincia de Arauco",
+      "code": "CL-BI-3899459",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-BI",
+      "latitude": -37.74174,
+      "longitude": -73.35799
+    },
+    {
+      "id": 3898381,
+      "name": "Provincia de Biobío",
+      "nativeName": "Provincia de Biobío",
+      "code": "CL-BI-3898381",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-BI",
+      "latitude": -37.59511,
+      "longitude": -71.89553
+    },
+    {
+      "id": 3893889,
+      "name": "Provincia de Concepción",
+      "nativeName": "Provincia de Concepción",
+      "code": "CL-BI-3893889",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-BI",
+      "latitude": -36.95773,
+      "longitude": -72.89674
+    }
+  ]
+}

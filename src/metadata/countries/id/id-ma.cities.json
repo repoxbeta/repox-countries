@@ -1,0 +1,128 @@
+{
+  "stateId": 1636627,
+  "stateCode": "ID-MA",
+  "countryCode": "ID",
+  "cities": [
+    {
+      "id": 9165994,
+      "name": "Buru Regency",
+      "nativeName": "Kabupaten Buru",
+      "code": "ID-MA-9165994",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-MA",
+      "latitude": -3.32767,
+      "longitude": 126.68413
+    },
+    {
+      "id": 9165706,
+      "name": "Kabupaten Kepulauan Aru",
+      "nativeName": "Kabupaten Kepulauan Aru",
+      "code": "ID-MA-9165706",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-MA",
+      "latitude": -6.17059,
+      "longitude": 134.46991
+    },
+    {
+      "id": 9165982,
+      "name": "Kabupaten Maluku Tengah",
+      "nativeName": "Kabupaten Maluku Tengah",
+      "code": "ID-MA-9165982",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-MA",
+      "latitude": -3.29167,
+      "longitude": 128.9675
+    },
+    {
+      "id": 9165999,
+      "name": "Kabupaten Seram Bagian Timur",
+      "nativeName": "Kabupaten Seram Bagian Timur",
+      "code": "ID-MA-9165999",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-MA",
+      "latitude": -3.39851,
+      "longitude": 130.39167
+    },
+    {
+      "id": 1651530,
+      "name": "Kota Ambon",
+      "nativeName": "Kota Ambon",
+      "code": "ID-MA-1651530",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-MA",
+      "latitude": -3.7,
+      "longitude": 128.18333
+    },
+    {
+      "id": 9846657,
+      "name": "Kota Tual",
+      "nativeName": "Kota Tual",
+      "code": "ID-MA-9846657",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-MA",
+      "latitude": -5.64301,
+      "longitude": 132.74935
+    },
+    {
+      "id": 9821953,
+      "name": "South Buru Regency",
+      "nativeName": "Kabupaten Buru Selatan",
+      "code": "ID-MA-9821953",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-MA",
+      "latitude": -3.52187,
+      "longitude": 126.59271
+    },
+    {
+      "id": 1636625,
+      "name": "Southeast Maluku Regency",
+      "nativeName": "Kabupaten Maluku Tenggara",
+      "code": "ID-MA-1636625",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-MA",
+      "latitude": -5.78333,
+      "longitude": 132.73333
+    },
+    {
+      "id": 9828043,
+      "name": "Southwest Maluku Regency",
+      "nativeName": "Kabupaten Maluku Barat Daya",
+      "code": "ID-MA-9828043",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-MA",
+      "latitude": -7.8296,
+      "longitude": 126.17386
+    },
+    {
+      "id": 9165987,
+      "name": "West Seram Regency",
+      "nativeName": "Kabupaten Seram Bagian Barat",
+      "code": "ID-MA-9165987",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-MA",
+      "latitude": -3.1027,
+      "longitude": 128.42996
+    },
+    {
+      "id": 9828704,
+      "name": "Western Southeast Maluku Regency",
+      "nativeName": "Kabupaten Maluku Tenggara Barat",
+      "code": "ID-MA-9828704",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-MA",
+      "latitude": -7.61186,
+      "longitude": 131.38
+    }
+  ]
+}

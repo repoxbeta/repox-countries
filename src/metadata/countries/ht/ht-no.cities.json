@@ -1,0 +1,40 @@
+{
+  "stateId": 3719536,
+  "stateCode": "HT-NO",
+  "countryCode": "HT",
+  "cities": [
+    {
+      "id": 3718419,
+      "name": "Arrondissement de Port-de-Paix",
+      "nativeName": "Arrondissement de Port-de-Paix",
+      "code": "HT-NO-3718419",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "stateCode": "HT-NO",
+      "latitude": 19.88403,
+      "longitude": -72.88042
+    },
+    {
+      "id": 3717599,
+      "name": "Arrondissement de Saint-Louis du Nord",
+      "nativeName": "Arrondissement de Saint-Louis du Nord",
+      "code": "HT-NO-3717599",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "stateCode": "HT-NO",
+      "latitude": 19.87143,
+      "longitude": -72.67815
+    },
+    {
+      "id": 3720764,
+      "name": "Mòl Sen Nikola",
+      "nativeName": "Mòl Sen Nikola",
+      "code": "HT-NO-3720764",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "stateCode": "HT-NO",
+      "latitude": 19.77161,
+      "longitude": -73.21879
+    }
+  ]
+}

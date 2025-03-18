@@ -1,0 +1,84 @@
+{
+  "stateId": 2435899,
+  "stateCode": "TD-BA",
+  "countryCode": "TD",
+  "cities": [
+    {
+      "id": 12186894,
+      "name": "Assinet",
+      "nativeName": "Assinet",
+      "code": "TD-BA-12186894",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-BA",
+      "latitude": 13.17636,
+      "longitude": 19.20461
+    },
+    {
+      "id": 8659322,
+      "name": "Batha",
+      "nativeName": "Batha",
+      "code": "TD-BA-8659322",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-BA",
+      "latitude": 13.28972,
+      "longitude": 19.69028
+    },
+    {
+      "id": 12186890,
+      "name": "Batha-Est",
+      "nativeName": "Batha-Est",
+      "code": "TD-BA-12186890",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-BA",
+      "latitude": 13.3972,
+      "longitude": 20.01464
+    },
+    {
+      "id": 12186891,
+      "name": "Batha-Ouest",
+      "nativeName": "Batha-Ouest",
+      "code": "TD-BA-12186891",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-BA",
+      "latitude": 12.9889,
+      "longitude": 18.34964
+    },
+    {
+      "id": 9166643,
+      "name": "Fitri",
+      "nativeName": "Fitri",
+      "code": "TD-BA-9166643",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-BA",
+      "latitude": 12.86047,
+      "longitude": 17.53418
+    },
+    {
+      "id": 12186897,
+      "name": "Haraze",
+      "nativeName": "Haraze",
+      "code": "TD-BA-12186897",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-BA",
+      "latitude": 13.94612,
+      "longitude": 19.48059
+    },
+    {
+      "id": 12186892,
+      "name": "Ouadi Rimé",
+      "nativeName": "Ouadi Rimé",
+      "code": "TD-BA-12186892",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-BA",
+      "latitude": 13.55516,
+      "longitude": 19.05309
+    }
+  ]
+}

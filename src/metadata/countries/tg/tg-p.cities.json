@@ -1,0 +1,106 @@
+{
+  "stateId": 2364370,
+  "stateCode": "TG-P",
+  "countryCode": "TG",
+  "cities": [
+    {
+      "id": 2597441,
+      "name": "Agou",
+      "nativeName": "Agou",
+      "code": "TG-P-2597441",
+      "countryId": 2363686,
+      "countryCode": "TG",
+      "stateCode": "TG-P",
+      "latitude": 6.73333,
+      "longitude": 0.76667
+    },
+    {
+      "id": 2368034,
+      "name": "Amou",
+      "nativeName": "Amou",
+      "code": "TG-P-2368034",
+      "countryId": 2363686,
+      "countryCode": "TG",
+      "stateCode": "TG-P",
+      "latitude": 7.5,
+      "longitude": 1.05
+    },
+    {
+      "id": 2597444,
+      "name": "Danyi",
+      "nativeName": "Danyi",
+      "code": "TG-P-2597444",
+      "countryId": 2363686,
+      "countryCode": "TG",
+      "stateCode": "TG-P",
+      "latitude": 7.28333,
+      "longitude": 0.7
+    },
+    {
+      "id": 2597442,
+      "name": "Est-Mono",
+      "nativeName": "Est-Mono",
+      "code": "TG-P-2597442",
+      "countryId": 2363686,
+      "countryCode": "TG",
+      "stateCode": "TG-P",
+      "latitude": 8.08333,
+      "longitude": 1.43333
+    },
+    {
+      "id": 2364751,
+      "name": "Haho",
+      "nativeName": "Haho",
+      "code": "TG-P-2364751",
+      "countryId": 2363686,
+      "countryCode": "TG",
+      "stateCode": "TG-P",
+      "latitude": 7.08333,
+      "longitude": 1.25
+    },
+    {
+      "id": 2365976,
+      "name": "Kloto",
+      "nativeName": "Kloto",
+      "code": "TG-P-2365976",
+      "countryId": 2363686,
+      "countryCode": "TG",
+      "stateCode": "TG-P",
+      "latitude": 7.08333,
+      "longitude": 0.75
+    },
+    {
+      "id": 2597443,
+      "name": "Moyen-Mono",
+      "nativeName": "Moyen-Mono",
+      "code": "TG-P-2597443",
+      "countryId": 2363686,
+      "countryCode": "TG",
+      "stateCode": "TG-P",
+      "latitude": 7.2,
+      "longitude": 1.55
+    },
+    {
+      "id": 2367885,
+      "name": "Ogou",
+      "nativeName": "Ogou",
+      "code": "TG-P-2367885",
+      "countryId": 2363686,
+      "countryCode": "TG",
+      "stateCode": "TG-P",
+      "latitude": 7.5,
+      "longitude": 1.33333
+    },
+    {
+      "id": 2367659,
+      "name": "Wawa",
+      "nativeName": "Wawa",
+      "code": "TG-P-2367659",
+      "countryId": 2363686,
+      "countryCode": "TG",
+      "stateCode": "TG-P",
+      "latitude": 7.75,
+      "longitude": 0.75
+    }
+  ]
+}

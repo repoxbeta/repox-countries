@@ -1,0 +1,40 @@
+{
+  "stateId": 7303937,
+  "stateCode": "SN-SE",
+  "countryCode": "SN",
+  "cities": [
+    {
+      "id": 10779434,
+      "name": "Bounkiling",
+      "nativeName": "Bounkiling",
+      "code": "SN-SE-10779434",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "stateCode": "SN-SE",
+      "latitude": 13.13701,
+      "longitude": -15.61163
+    },
+    {
+      "id": 10402310,
+      "name": "Goudomp",
+      "nativeName": "Goudomp Department",
+      "code": "SN-SE-10402310",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "stateCode": "SN-SE",
+      "latitude": 12.57778,
+      "longitude": -15.87222
+    },
+    {
+      "id": 2245705,
+      "name": "Sedhiou",
+      "nativeName": "Sédhiou",
+      "code": "SN-SE-2245705",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "stateCode": "SN-SE",
+      "latitude": 12.69807,
+      "longitude": -15.58479
+    }
+  ]
+}

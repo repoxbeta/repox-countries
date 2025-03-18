@@ -1,0 +1,29 @@
+{
+  "stateId": 2493455,
+  "stateCode": "DZ-33",
+  "countryCode": "DZ",
+  "cities": [
+    {
+      "id": 12952426,
+      "name": "Illizi",
+      "nativeName": "Illizi",
+      "code": "DZ-33-12952426",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-33",
+      "latitude": 26.39853,
+      "longitude": 8.20893
+    },
+    {
+      "id": 12952691,
+      "name": "In Amenas",
+      "nativeName": "In Amenas",
+      "code": "DZ-33-12952691",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-33",
+      "latitude": 28.70669,
+      "longitude": 7.71127
+    }
+  ]
+}

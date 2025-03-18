@@ -1,0 +1,51 @@
+{
+  "stateId": 3339541,
+  "stateCode": "CZ-51",
+  "countryCode": "CZ",
+  "cities": [
+    {
+      "id": 3074602,
+      "name": "Jablonec nad Nisou District",
+      "nativeName": "Okres Jablonec nad Nisou",
+      "code": "CZ-51-3074602",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-51",
+      "latitude": 50.75,
+      "longitude": 15.25
+    },
+    {
+      "id": 3071960,
+      "name": "Liberec District",
+      "nativeName": "Okres Liberec",
+      "code": "CZ-51-3071960",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-51",
+      "latitude": 50.83333,
+      "longitude": 15.08333
+    },
+    {
+      "id": 3066219,
+      "name": "Semily District",
+      "nativeName": "Okres Semily",
+      "code": "CZ-51-3066219",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-51",
+      "latitude": 50.61667,
+      "longitude": 15.41667
+    },
+    {
+      "id": 3077928,
+      "name": "Česká Lípa District",
+      "nativeName": "Okres Česká Lípa",
+      "code": "CZ-51-3077928",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-51",
+      "latitude": 50.66667,
+      "longitude": 14.66667
+    }
+  ]
+}

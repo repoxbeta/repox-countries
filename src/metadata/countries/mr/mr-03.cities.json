@@ -1,0 +1,62 @@
+{
+  "stateId": 2381344,
+  "stateCode": "MR-03",
+  "countryCode": "MR",
+  "cities": [
+    {
+      "id": 9229053,
+      "name": "Barkeol",
+      "nativeName": "Barkeol",
+      "code": "MR-03-9229053",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-03",
+      "latitude": 16.63333,
+      "longitude": -12.5
+    },
+    {
+      "id": 9212638,
+      "name": "Boumdeid",
+      "nativeName": "Boumdeid",
+      "code": "MR-03-9212638",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-03",
+      "latitude": 17.74736,
+      "longitude": -11.25972
+    },
+    {
+      "id": 9212602,
+      "name": "Guerrou",
+      "nativeName": "Guerou",
+      "code": "MR-03-9212602",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-03",
+      "latitude": 16.86456,
+      "longitude": -11.97782
+    },
+    {
+      "id": 9212624,
+      "name": "Kankossa",
+      "nativeName": "Kankossa",
+      "code": "MR-03-9212624",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-03",
+      "latitude": 15.95629,
+      "longitude": -11.16317
+    },
+    {
+      "id": 9212605,
+      "name": "Kiffa",
+      "nativeName": "Kiffa",
+      "code": "MR-03-9212605",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-03",
+      "latitude": 16.74974,
+      "longitude": -11.3478
+    }
+  ]
+}

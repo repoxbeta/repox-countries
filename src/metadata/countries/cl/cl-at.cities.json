@@ -1,0 +1,40 @@
+{
+  "stateId": 3899191,
+  "stateCode": "CL-AT",
+  "countryCode": "CL",
+  "cities": [
+    {
+      "id": 3895547,
+      "name": "Provincia de Chañaral",
+      "nativeName": "Provincia de Chañaral",
+      "code": "CL-AT-3895547",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-AT",
+      "latitude": -26.32515,
+      "longitude": -69.48751
+    },
+    {
+      "id": 3893653,
+      "name": "Provincia de Copiapó",
+      "nativeName": "Provincia de Copiapó",
+      "code": "CL-AT-3893653",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-AT",
+      "latitude": -27.56347,
+      "longitude": -70.00063
+    },
+    {
+      "id": 3887756,
+      "name": "Provincia de Huasco",
+      "nativeName": "Provincia de Huasco",
+      "code": "CL-AT-3887756",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-AT",
+      "latitude": -28.68428,
+      "longitude": -70.51474
+    }
+  ]
+}

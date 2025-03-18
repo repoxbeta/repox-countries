@@ -1,0 +1,95 @@
+{
+  "stateId": 1905412,
+  "stateCode": "VN-56",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 1905417,
+      "name": "Gia Bình District",
+      "nativeName": "Huyện Gia Bình",
+      "code": "VN-56-1905417",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-56",
+      "latitude": 21.07447,
+      "longitude": 106.21373
+    },
+    {
+      "id": 8372933,
+      "name": "Huyện Lương Tài",
+      "nativeName": "Huyện Lương Tài",
+      "code": "VN-56-8372933",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-56",
+      "latitude": 21.02512,
+      "longitude": 106.22061
+    },
+    {
+      "id": 1905415,
+      "name": "Quế Võ District",
+      "nativeName": "Huyện Quế Võ",
+      "code": "VN-56-1905415",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-56",
+      "latitude": 21.14609,
+      "longitude": 106.17317
+    },
+    {
+      "id": 1905418,
+      "name": "Thuận Thành District",
+      "nativeName": "Huyện Thuận Thành",
+      "code": "VN-56-1905418",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-56",
+      "latitude": 21.03324,
+      "longitude": 106.07747
+    },
+    {
+      "id": 1905413,
+      "name": "Thành Phố Bắc Ninh",
+      "nativeName": "Thành Phố Bắc Ninh",
+      "code": "VN-56-1905413",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-56",
+      "latitude": 21.17119,
+      "longitude": 106.07103
+    },
+    {
+      "id": 8340641,
+      "name": "Thị Xã Từ Sơn",
+      "nativeName": "Thị Xã Từ Sơn",
+      "code": "VN-56-8340641",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-56",
+      "latitude": 21.12319,
+      "longitude": 105.96217
+    },
+    {
+      "id": 1905416,
+      "name": "Tiên Du District",
+      "nativeName": "Huyện Tiên Du",
+      "code": "VN-56-1905416",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-56",
+      "latitude": 21.11417,
+      "longitude": 106.04009
+    },
+    {
+      "id": 1905414,
+      "name": "Yên Phong District",
+      "nativeName": "Huyện Yên Phong",
+      "code": "VN-56-1905414",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-56",
+      "latitude": 21.20398,
+      "longitude": 105.97414
+    }
+  ]
+}

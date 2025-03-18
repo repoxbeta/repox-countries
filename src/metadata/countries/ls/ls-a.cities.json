@@ -1,0 +1,40 @@
+{
+  "stateId": 932506,
+  "stateCode": "LS-A",
+  "countryCode": "LS",
+  "cities": [
+    {
+      "id": 7522489,
+      "name": "Makhaleng Constituency",
+      "nativeName": "Makhaleng Constituency",
+      "code": "LS-A-7522489",
+      "countryId": 932692,
+      "countryCode": "LS",
+      "stateCode": "LS-A",
+      "latitude": -29.69998,
+      "longitude": 27.72572
+    },
+    {
+      "id": 11428652,
+      "name": "Maseru Central",
+      "nativeName": "Maseru Central",
+      "code": "LS-A-11428652",
+      "countryId": 932692,
+      "countryCode": "LS",
+      "stateCode": "LS-A",
+      "latitude": -29.30639,
+      "longitude": 27.475
+    },
+    {
+      "id": 11256888,
+      "name": "Rothe",
+      "nativeName": "Rothe",
+      "code": "LS-A-11256888",
+      "countryId": 932692,
+      "countryCode": "LS",
+      "stateCode": "LS-A",
+      "latitude": -29.51887,
+      "longitude": 27.40119
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "stateId": 2673722,
+  "stateCode": "SE-AB",
+  "countryCode": "SE",
+  "cities": [
+    {
+      "id": 2720114,
+      "name": "Botkyrka Municipality",
+      "nativeName": "Botkyrka Kommun",
+      "code": "SE-AB-2720114",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-AB",
+      "latitude": 59.2,
+      "longitude": 17.81667
+    },
+    {
+      "id": 2717999,
+      "name": "Danderyd Municipality",
+      "nativeName": "Danderyds Kommun",
+      "code": "SE-AB-2717999",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-AB",
+      "latitude": 59.40924,
+      "longitude": 18.04847
+    },
+    {
+      "id": 2716579,
+      "name": "Ekerö Municipality",
+      "nativeName": "Ekerö Kommun",
+      "code": "SE-AB-2716579",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-AB",
+      "latitude": 59.32198,
+      "longitude": 17.6358
+    },
+    {
+      "id": 2707952,
+      "name": "Haninge Municipality",
+      "nativeName": "Haninge Kommun",
+      "code": "SE-AB-2707952",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-AB",
+      "latitude": 59.17382,
+      "longitude": 18.15491
+    },
+    {
+      "id": 2704619,
+      "name": "Huddinge Municipality",
+      "nativeName": "Huddinge Kommun",
+      "code": "SE-AB-2704619",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-AB",
+      "latitude": 59.21428,
+      "longitude": 18.01584
+    },
+    {
+      "id": 2703292,
+      "name": "Järfälla Municipality",
+      "nativeName": "Järfälla kommun",
+      "code": "SE-AB-2703292",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-AB",
+      "latitude": 59.40875,
+      "longitude": 17.86514
+    },
+    {
+      "id": 2696332,
+      "name": "Lidingö Municipality",
+      "nativeName": "Lidingö",
+      "code": "SE-AB-2696332",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-AB",
+      "latitude": 59.36303,
+      "longitude": 18.15096
+    },
+    {
+      "id": 2690578,
+      "name": "Nacka Municipality",
+      "nativeName": "Nacka Kommun",
+      "code": "SE-AB-2690578",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-AB",
+      "latitude": 59.31077,
+      "longitude": 18.17551
+    },
+    {
+      "id": 2688248,
+      "name": "Norrtälje Municipality",
+      "nativeName": "Norrtälje Kommun",
+      "code": "SE-AB-2688248",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-AB",
+      "latitude": 59.8612,
+      "longitude": 18.70573
+    },
+    {
+      "id": 3337442,
+      "name": "Nykvarn Municipality",
+      "nativeName": "Nykvarns Kommun",
+      "code": "SE-AB-3337442",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-AB",
+      "latitude": 59.19479,
+      "longitude": 17.40632
+    },
+    {
+      "id": 2687635,
+      "name": "Nynäshamn Municipality",
+      "nativeName": "Nynäshamns kommun",
+      "code": "SE-AB-2687635",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-AB",
+      "latitude": 58.95607,
+      "longitude": 17.88694
+    },
+    {
+      "id": 2680623,
+      "name": "Salem Municipality",
+      "nativeName": "Salems Kommun",
+      "code": "SE-AB-2680623",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-AB",
+      "latitude": 59.24572,
+      "longitude": 17.69875
+    },
+    {
+      "id": 2679300,
+      "name": "Sigtuna Municipality",
+      "nativeName": "Sigtuna Kommun",
+      "code": "SE-AB-2679300",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-AB",
+      "latitude": 59.6396,
+      "longitude": 17.93946
+    },
+    {
+      "id": 2675406,
+      "name": "Sollentuna Municipality",
+      "nativeName": "Sollentuna Kommun",
+      "code": "SE-AB-2675406",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-AB",
+      "latitude": 59.44499,
+      "longitude": 17.93518
+    },
+    {
+      "id": 2675396,
+      "name": "Solna Municipality",
+      "nativeName": "Solna Kommun",
+      "code": "SE-AB-2675396",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-AB",
+      "latitude": 59.36548,
+      "longitude": 18.00728
+    },
+    {
+      "id": 2673723,
+      "name": "Stockholm Municipality",
+      "nativeName": "Stockholms Kommun",
+      "code": "SE-AB-2673723",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-AB",
+      "latitude": 59.32478,
+      "longitude": 18.06427
+    },
+    {
+      "id": 2670878,
+      "name": "Sundbyberg Municipality",
+      "nativeName": "Sundbybergs Kommun",
+      "code": "SE-AB-2670878",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-AB",
+      "latitude": 59.36669,
+      "longitude": 17.9702
+    },
+    {
+      "id": 2676174,
+      "name": "Södertälje Municipality",
+      "nativeName": "Södertälje Kommun",
+      "code": "SE-AB-2676174",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-AB",
+      "latitude": 59.18121,
+      "longitude": 17.62756
+    },
+    {
+      "id": 2666778,
+      "name": "Tyresö Municipality",
+      "nativeName": "Tyresö Kommun",
+      "code": "SE-AB-2666778",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-AB",
+      "latitude": 59.24148,
+      "longitude": 18.28074
+    },
+    {
+      "id": 2669768,
+      "name": "Täby Municipality",
+      "nativeName": "Täby Kommun",
+      "code": "SE-AB-2669768",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-AB",
+      "latitude": 59.43739,
+      "longitude": 18.0653
+    },
+    {
+      "id": 2666237,
+      "name": "Upplands Väsby Municipality",
+      "nativeName": "Upplands Väsby kommun",
+      "code": "SE-AB-2666237",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-AB",
+      "latitude": 59.52382,
+      "longitude": 17.91001
+    },
+    {
+      "id": 2666240,
+      "name": "Upplands-Bro Municipality",
+      "nativeName": "Upplands-Bro Kommun",
+      "code": "SE-AB-2666240",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-AB",
+      "latitude": 59.49095,
+      "longitude": 17.74979
+    },
+    {
+      "id": 2665451,
+      "name": "Vallentuna Municipality",
+      "nativeName": "Vallentuna Kommun",
+      "code": "SE-AB-2665451",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-AB",
+      "latitude": 59.59146,
+      "longitude": 18.21
+    },
+    {
+      "id": 2663537,
+      "name": "Vaxholm Municipality",
+      "nativeName": "Vaxholms Kommun",
+      "code": "SE-AB-2663537",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-AB",
+      "latitude": 59.40386,
+      "longitude": 18.34167
+    },
+    {
+      "id": 2664880,
+      "name": "Värmdö Municipality",
+      "nativeName": "Värmdö Kommun",
+      "code": "SE-AB-2664880",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-AB",
+      "latitude": 59.31614,
+      "longitude": 18.70414
+    },
+    {
+      "id": 2685981,
+      "name": "Österåker Municipality",
+      "nativeName": "Österåkers Kommun",
+      "code": "SE-AB-2685981",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-AB",
+      "latitude": 59.48345,
+      "longitude": 18.29979
+    }
+  ]
+}

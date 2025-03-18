@@ -1,0 +1,73 @@
+{
+  "stateId": 3047348,
+  "stateCode": "HU-NO",
+  "countryCode": "HU",
+  "cities": [
+    {
+      "id": 9644340,
+      "name": "Balassagyarmati Járás",
+      "nativeName": "Balassagyarmati Járás",
+      "code": "HU-NO-9644340",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-NO",
+      "latitude": 48.01657,
+      "longitude": 19.30594
+    },
+    {
+      "id": 9644341,
+      "name": "Bátonyterenyei Járás",
+      "nativeName": "Bátonyterenyei Járás",
+      "code": "HU-NO-9644341",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-NO",
+      "latitude": 47.97691,
+      "longitude": 19.87345
+    },
+    {
+      "id": 9644343,
+      "name": "Pásztói Járás",
+      "nativeName": "Pásztói Járás",
+      "code": "HU-NO-9644343",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-NO",
+      "latitude": 47.87012,
+      "longitude": 19.60648
+    },
+    {
+      "id": 9644344,
+      "name": "Rétsági Járás",
+      "nativeName": "Rétsági Járás",
+      "code": "HU-NO-9644344",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-NO",
+      "latitude": 47.91741,
+      "longitude": 19.16101
+    },
+    {
+      "id": 9644345,
+      "name": "Salgótarjáni Járás",
+      "nativeName": "Salgótarjáni Járás",
+      "code": "HU-NO-9644345",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-NO",
+      "latitude": 48.10048,
+      "longitude": 19.81548
+    },
+    {
+      "id": 9644346,
+      "name": "Szécsényi Járás",
+      "nativeName": "Szécsényi Járás",
+      "code": "HU-NO-9644346",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-NO",
+      "latitude": 48.07301,
+      "longitude": 19.55156
+    }
+  ]
+}

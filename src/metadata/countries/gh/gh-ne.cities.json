@@ -1,0 +1,62 @@
+{
+  "stateId": 12105071,
+  "stateCode": "GH-NE",
+  "countryCode": "GH",
+  "cities": [
+    {
+      "id": 7647391,
+      "name": "Bunkpurugu-Yunyoo",
+      "nativeName": "Bunkpurugu-Yunyoo",
+      "code": "GH-NE-7647391",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-NE",
+      "latitude": 10.4846,
+      "longitude": -0.11207
+    },
+    {
+      "id": 7647639,
+      "name": "Chereponi",
+      "nativeName": "Chereponi",
+      "code": "GH-NE-7647639",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-NE",
+      "latitude": 10.13417,
+      "longitude": 0.28806
+    },
+    {
+      "id": 7648975,
+      "name": "East Mamprusi",
+      "nativeName": "East Mamprusi",
+      "code": "GH-NE-7648975",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-NE",
+      "latitude": 10.53056,
+      "longitude": -0.44222
+    },
+    {
+      "id": 10303516,
+      "name": "Mamprugo Moaduri District",
+      "nativeName": "Mamprugo Moaduri District",
+      "code": "GH-NE-10303516",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-NE",
+      "latitude": 10.23304,
+      "longitude": -1.28184
+    },
+    {
+      "id": 7649071,
+      "name": "West Mamprusi",
+      "nativeName": "West Mamprusi",
+      "code": "GH-NE-7649071",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-NE",
+      "latitude": 10.35,
+      "longitude": -0.8
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "stateId": 1643012,
+  "stateCode": "ID-PA",
+  "countryCode": "ID",
+  "cities": [
+    {
+      "id": 8530432,
+      "name": "Biak Numfor Regency",
+      "nativeName": "Kabupaten Biak Numfor",
+      "code": "ID-PA-8530432",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-PA",
+      "latitude": -0.98333,
+      "longitude": 136
+    },
+    {
+      "id": 1642655,
+      "name": "Kabupaten Jayapura",
+      "nativeName": "Kabupaten Jayapura",
+      "code": "ID-PA-1642655",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-PA",
+      "latitude": -2.98333,
+      "longitude": 139.98333
+    },
+    {
+      "id": 8531252,
+      "name": "Keerom Regency",
+      "nativeName": "Kabupaten Keerom",
+      "code": "ID-PA-8531252",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-PA",
+      "latitude": -3.33333,
+      "longitude": 140.68333
+    },
+    {
+      "id": 7910936,
+      "name": "Kota Jayapura",
+      "nativeName": "Kota Jayapura",
+      "code": "ID-PA-7910936",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-PA",
+      "latitude": -2.64647,
+      "longitude": 140.77779
+    },
+    {
+      "id": 9828781,
+      "name": "Mamberamo Raya Regency",
+      "nativeName": "Kabupaten Mamberamo Raya",
+      "code": "ID-PA-9828781",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-PA",
+      "latitude": -2.23561,
+      "longitude": 137.78229
+    },
+    {
+      "id": 8531251,
+      "name": "Sarmi Regency",
+      "nativeName": "Kabupaten Sarmi",
+      "code": "ID-PA-8531251",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-PA",
+      "latitude": -2.31667,
+      "longitude": 139.1
+    },
+    {
+      "id": 9172047,
+      "name": "Supiori Regency",
+      "nativeName": "Kabupaten Supiori",
+      "code": "ID-PA-9172047",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-PA",
+      "latitude": -0.73881,
+      "longitude": 135.61111
+    },
+    {
+      "id": 1621238,
+      "name": "Waropen Regency",
+      "nativeName": "Kabupaten Waropen",
+      "code": "ID-PA-1621238",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-PA",
+      "latitude": -2.73008,
+      "longitude": 136.64568
+    },
+    {
+      "id": 9172045,
+      "name": "Yapen Islands Regency",
+      "nativeName": "Kabupaten Kepulauan Yapen",
+      "code": "ID-PA-9172045",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-PA",
+      "latitude": -1.78773,
+      "longitude": 136.27716
+    }
+  ]
+}

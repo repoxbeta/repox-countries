@@ -1,0 +1,84 @@
+{
+  "stateId": 865544,
+  "stateCode": "GE-SJ",
+  "countryCode": "GE",
+  "cities": [
+    {
+      "id": 615972,
+      "name": "Adigeni Municipality",
+      "nativeName": "Adigeni Municipality",
+      "code": "GE-SJ-615972",
+      "countryId": 614540,
+      "countryCode": "GE",
+      "stateCode": "GE-SJ",
+      "latitude": 41.71667,
+      "longitude": 42.73333
+    },
+    {
+      "id": 615891,
+      "name": "Akhalkalakis Munitsip’alit’et’i",
+      "nativeName": "Akhalkalakis Munitsip’alit’et’i",
+      "code": "GE-SJ-615891",
+      "countryId": 614540,
+      "countryCode": "GE",
+      "stateCode": "GE-SJ",
+      "latitude": 41.41665,
+      "longitude": 43.44991
+    },
+    {
+      "id": 615856,
+      "name": "Akhaltsikhis Munitsip’alit’et’i",
+      "nativeName": "Akhaltsikhis Munitsip’alit’et’i",
+      "code": "GE-SJ-615856",
+      "countryId": 614540,
+      "countryCode": "GE",
+      "stateCode": "GE-SJ",
+      "latitude": 41.63333,
+      "longitude": 43
+    },
+    {
+      "id": 615659,
+      "name": "Asp’indzis Munitsip’alit’et’i",
+      "nativeName": "Asp’indzis Munitsip’alit’et’i",
+      "code": "GE-SJ-615659",
+      "countryId": 614540,
+      "countryCode": "GE",
+      "stateCode": "GE-SJ",
+      "latitude": 41.5,
+      "longitude": 43.25
+    },
+    {
+      "id": 615400,
+      "name": "Borjomis Munitsip’alit’et’i",
+      "nativeName": "Borjomis Munitsip’alit’et’i",
+      "code": "GE-SJ-615400",
+      "countryId": 614540,
+      "countryCode": "GE",
+      "stateCode": "GE-SJ",
+      "latitude": 41.78333,
+      "longitude": 43.5
+    },
+    {
+      "id": 7667662,
+      "name": "Ninotsminda",
+      "nativeName": "Ninotsminda",
+      "code": "GE-SJ-7667662",
+      "countryId": 614540,
+      "countryCode": "GE",
+      "stateCode": "GE-SJ",
+      "latitude": 41.26361,
+      "longitude": 43.58877
+    },
+    {
+      "id": 615428,
+      "name": "Ninots’mindis Munitsip’alit’et’i",
+      "nativeName": "Ninots’mindis Munitsip’alit’et’i",
+      "code": "GE-SJ-615428",
+      "countryId": 614540,
+      "countryCode": "GE",
+      "stateCode": "GE-SJ",
+      "latitude": 41.25,
+      "longitude": 43.7
+    }
+  ]
+}

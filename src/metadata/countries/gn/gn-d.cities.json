@@ -1,0 +1,62 @@
+{
+  "stateId": 8335088,
+  "stateCode": "GN-D",
+  "countryCode": "GN",
+  "cities": [
+    {
+      "id": 2595299,
+      "name": "Coyah",
+      "nativeName": "Coyah",
+      "code": "GN-D-2595299",
+      "countryId": 2420477,
+      "countryCode": "GN",
+      "stateCode": "GN-D",
+      "latitude": 9.75,
+      "longitude": -13.41667
+    },
+    {
+      "id": 2421533,
+      "name": "Dubreka",
+      "nativeName": "Préfecture de Dubréka",
+      "code": "GN-D-2421533",
+      "countryId": 2420477,
+      "countryCode": "GN",
+      "stateCode": "GN-D",
+      "latitude": 10.25,
+      "longitude": -13.41667
+    },
+    {
+      "id": 2420983,
+      "name": "Forecariah",
+      "nativeName": "Préfecture de Forécariah",
+      "code": "GN-D-2420983",
+      "countryId": 2420477,
+      "countryCode": "GN",
+      "stateCode": "GN-D",
+      "latitude": 9.43333,
+      "longitude": -13.1
+    },
+    {
+      "id": 2419531,
+      "name": "Kindia",
+      "nativeName": "Kindia",
+      "code": "GN-D-2419531",
+      "countryId": 2420477,
+      "countryCode": "GN",
+      "stateCode": "GN-D",
+      "latitude": 10.08333,
+      "longitude": -12.8
+    },
+    {
+      "id": 2414925,
+      "name": "Telimele",
+      "nativeName": "Telimele Prefecture",
+      "code": "GN-D-2414925",
+      "countryId": 2420477,
+      "countryCode": "GN",
+      "stateCode": "GN-D",
+      "latitude": 10.91667,
+      "longitude": -13.33333
+    }
+  ]
+}

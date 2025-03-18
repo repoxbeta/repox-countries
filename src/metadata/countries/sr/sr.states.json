@@ -1,0 +1,116 @@
+{
+  "countryId": 3382998,
+  "countryCode": "SR",
+  "states": [
+    {
+      "id": 3384481,
+      "name": "Brokopondo District",
+      "nativeName": "Distrikt Brokopondo",
+      "code": "SR-BR",
+      "internalCode": "BR",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "latitude": 4.75,
+      "longitude": -55.16667
+    },
+    {
+      "id": 3384418,
+      "name": "Commewijne District",
+      "nativeName": "Distrikt Commewijne",
+      "code": "SR-CM",
+      "internalCode": "CM",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "latitude": 5.75,
+      "longitude": -54.91667
+    },
+    {
+      "id": 3384397,
+      "name": "Coronie District",
+      "nativeName": "Distrikt Coronie",
+      "code": "SR-CR",
+      "internalCode": "CR",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "latitude": 5.58333,
+      "longitude": -56.25
+    },
+    {
+      "id": 3383560,
+      "name": "Marowijne District",
+      "nativeName": "Distrikt Marowijne",
+      "code": "SR-MA",
+      "internalCode": "MA",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "latitude": 5.58333,
+      "longitude": -54.33333
+    },
+    {
+      "id": 3383438,
+      "name": "Nickerie District",
+      "nativeName": "Distrikt Nickerie",
+      "code": "SR-NI",
+      "internalCode": "NI",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "latitude": 5.66667,
+      "longitude": -56.83333
+    },
+    {
+      "id": 3383337,
+      "name": "Para District",
+      "nativeName": "Distrikt Para",
+      "code": "SR-PR",
+      "internalCode": "PR",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "latitude": 5.41667,
+      "longitude": -55.33333
+    },
+    {
+      "id": 3383329,
+      "name": "Paramaribo District",
+      "nativeName": "Distrikt Paramaribo",
+      "code": "SR-PM",
+      "internalCode": "PM",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "latitude": 5.86667,
+      "longitude": -55.16667
+    },
+    {
+      "id": 3383110,
+      "name": "Saramacca District",
+      "nativeName": "Distrikt Saramacca",
+      "code": "SR-SA",
+      "internalCode": "SA",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "latitude": 5.66667,
+      "longitude": -55.58333
+    },
+    {
+      "id": 3383062,
+      "name": "Sipaliwini District",
+      "nativeName": "Distrikt Sipaliwini",
+      "code": "SR-SI",
+      "internalCode": "SI",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "latitude": 4,
+      "longitude": -56
+    },
+    {
+      "id": 3382761,
+      "name": "Wanica District",
+      "nativeName": "Distrikt Wanica",
+      "code": "SR-WA",
+      "internalCode": "WA",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "latitude": 5.75,
+      "longitude": -55.25
+    }
+  ]
+}

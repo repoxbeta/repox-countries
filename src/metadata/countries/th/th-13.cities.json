@@ -1,0 +1,84 @@
+{
+  "stateId": 1607982,
+  "stateCode": "TH-13",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 1609898,
+      "name": "Khlong Luang",
+      "nativeName": "Amphoe Khlong Luang",
+      "code": "TH-13-1609898",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-13",
+      "latitude": 14.09323,
+      "longitude": 100.68106
+    },
+    {
+      "id": 1609218,
+      "name": "Lam Luk Ka",
+      "nativeName": "Amphoe Lam Luk Ka",
+      "code": "TH-13-1609218",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-13",
+      "latitude": 13.97744,
+      "longitude": 100.79244
+    },
+    {
+      "id": 1609120,
+      "name": "Lat Lum Kaeo",
+      "nativeName": "Amphoe Lat Lum Kaeo",
+      "code": "TH-13-1609120",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-13",
+      "latitude": 14.04459,
+      "longitude": 100.40948
+    },
+    {
+      "id": 1608639,
+      "name": "Mueang Pathum Thani",
+      "nativeName": "Amphoe Mueang Pathum Thani",
+      "code": "TH-13-1608639",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-13",
+      "latitude": 13.99105,
+      "longitude": 100.53554
+    },
+    {
+      "id": 1608162,
+      "name": "Nong Suea",
+      "nativeName": "Amphoe Nong Suea",
+      "code": "TH-13-1608162",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-13",
+      "latitude": 14.1603,
+      "longitude": 100.83929
+    },
+    {
+      "id": 1606686,
+      "name": "Sam Khok",
+      "nativeName": "Amphoe Sam Khok",
+      "code": "TH-13-1606686",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-13",
+      "latitude": 14.07944,
+      "longitude": 100.53336
+    },
+    {
+      "id": 1605548,
+      "name": "Thanyaburi",
+      "nativeName": "Amphoe Thanyaburi",
+      "code": "TH-13-1605548",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-13",
+      "latitude": 14.02852,
+      "longitude": 100.76291
+    }
+  ]
+}

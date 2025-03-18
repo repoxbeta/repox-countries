@@ -1,0 +1,106 @@
+{
+  "stateId": 430951,
+  "stateCode": "BI-KY",
+  "countryCode": "BI",
+  "cities": [
+    {
+      "id": 8692984,
+      "name": "Butaganzwa",
+      "nativeName": "Butaganzwa",
+      "code": "BI-KY-8692984",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-KY",
+      "latitude": -3.10229,
+      "longitude": 29.69479
+    },
+    {
+      "id": 9072885,
+      "name": "Commune of Matongo",
+      "nativeName": "Commune of Matongo",
+      "code": "BI-KY-9072885",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-KY",
+      "latitude": -3.08944,
+      "longitude": 29.61194
+    },
+    {
+      "id": 9171831,
+      "name": "Gahombo",
+      "nativeName": "Gahombo",
+      "code": "BI-KY-9171831",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-KY",
+      "latitude": -2.99278,
+      "longitude": 29.73247
+    },
+    {
+      "id": 9171830,
+      "name": "Gatara",
+      "nativeName": "Gatara",
+      "code": "BI-KY-9171830",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-KY",
+      "latitude": -2.99226,
+      "longitude": 29.67742
+    },
+    {
+      "id": 7670599,
+      "name": "Kabarore",
+      "nativeName": "Kabarore",
+      "code": "BI-KY-7670599",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-KY",
+      "latitude": -2.84457,
+      "longitude": 29.54628
+    },
+    {
+      "id": 7670600,
+      "name": "Kayanza",
+      "nativeName": "Kayanza",
+      "code": "BI-KY-7670600",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-KY",
+      "latitude": -2.92127,
+      "longitude": 29.6444
+    },
+    {
+      "id": 9171868,
+      "name": "Muhanga",
+      "nativeName": "Muhanga",
+      "code": "BI-KY-9171868",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-KY",
+      "latitude": -3.04449,
+      "longitude": 29.80341
+    },
+    {
+      "id": 7732510,
+      "name": "Muruta",
+      "nativeName": "Muruta",
+      "code": "BI-KY-7732510",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-KY",
+      "latitude": -2.96841,
+      "longitude": 29.55803
+    },
+    {
+      "id": 9171817,
+      "name": "Rango",
+      "nativeName": "Rango",
+      "code": "BI-KY-9171817",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-KY",
+      "latitude": -3.15571,
+      "longitude": 29.76212
+    }
+  ]
+}

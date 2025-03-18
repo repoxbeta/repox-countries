@@ -1,0 +1,293 @@
+{
+  "stateId": 472454,
+  "stateCode": "RU-VLG",
+  "countryCode": "RU",
+  "cities": [
+    {
+      "id": 580002,
+      "name": "Babayevsky District",
+      "nativeName": "Babayevskiy Rayon",
+      "code": "RU-VLG-580002",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLG",
+      "latitude": 59.5,
+      "longitude": 36
+    },
+    {
+      "id": 579865,
+      "name": "Babushkinskiy Rayon",
+      "nativeName": "Babushkinskiy Rayon",
+      "code": "RU-VLG-579865",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLG",
+      "latitude": 59.58333,
+      "longitude": 43.5
+    },
+    {
+      "id": 577707,
+      "name": "Belozersky District",
+      "nativeName": "Belozërskiy Rayon",
+      "code": "RU-VLG-577707",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLG",
+      "latitude": 59.91667,
+      "longitude": 37.25
+    },
+    {
+      "id": 570082,
+      "name": "Chagodoshchensky District",
+      "nativeName": "Chagodoshchenskiy Rayon",
+      "code": "RU-VLG-570082",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLG",
+      "latitude": 59,
+      "longitude": 35.41667
+    },
+    {
+      "id": 569222,
+      "name": "Cherepovetsky District",
+      "nativeName": "Cherepovetskiy Rayon",
+      "code": "RU-VLG-569222",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLG",
+      "latitude": 59.33333,
+      "longitude": 37.91667
+    },
+    {
+      "id": 558235,
+      "name": "Gryazinsky District",
+      "nativeName": "Gryazovetskiy Rayon",
+      "code": "RU-VLG-558235",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLG",
+      "latitude": 58.91667,
+      "longitude": 40.75
+    },
+    {
+      "id": 554533,
+      "name": "Kaduysky District",
+      "nativeName": "Kaduyskiy Rayon",
+      "code": "RU-VLG-554533",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLG",
+      "latitude": 59.33333,
+      "longitude": 37
+    },
+    {
+      "id": 550509,
+      "name": "Kharovsky District",
+      "nativeName": "Kharovskiy Rayon",
+      "code": "RU-VLG-550509",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLG",
+      "latitude": 60.08333,
+      "longitude": 40.25
+    },
+    {
+      "id": 548790,
+      "name": "Kichmengsko-Gorodetsky District",
+      "nativeName": "Kichmengsko-Gorodetskiy Rayon",
+      "code": "RU-VLG-548790",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLG",
+      "latitude": 60,
+      "longitude": 46
+    },
+    {
+      "id": 548455,
+      "name": "Kirillovsky District",
+      "nativeName": "Kirillovskiy Rayon",
+      "code": "RU-VLG-548455",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLG",
+      "latitude": 60,
+      "longitude": 38.58333
+    },
+    {
+      "id": 527296,
+      "name": "Mezhdurechensky District",
+      "nativeName": "Mezhdurechenskiy Rayon",
+      "code": "RU-VLG-527296",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLG",
+      "latitude": 59.25,
+      "longitude": 41
+    },
+    {
+      "id": 12640252,
+      "name": "Nikolsky District",
+      "nativeName": "Nikolsky District",
+      "code": "RU-VLG-12640252",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLG",
+      "latitude": 59.53286,
+      "longitude": 45.45786
+    },
+    {
+      "id": 516538,
+      "name": "Nyuksensky District",
+      "nativeName": "Nyuksensky District",
+      "code": "RU-VLG-516538",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLG",
+      "latitude": 60.5,
+      "longitude": 44.75
+    },
+    {
+      "id": 495059,
+      "name": "Sheksninsky District",
+      "nativeName": "Sheksninskiy Rayon",
+      "code": "RU-VLG-495059",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLG",
+      "latitude": 59.25,
+      "longitude": 38.58333
+    },
+    {
+      "id": 491147,
+      "name": "Sokolsky District",
+      "nativeName": "Sokol’skiy Rayon",
+      "code": "RU-VLG-491147",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLG",
+      "latitude": 59.5,
+      "longitude": 40.33333
+    },
+    {
+      "id": 485348,
+      "name": "Syamzhensky District",
+      "nativeName": "Syamzhenskiy Rayon",
+      "code": "RU-VLG-485348",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLG",
+      "latitude": 60,
+      "longitude": 41.25
+    },
+    {
+      "id": 484313,
+      "name": "Tarnogsky District",
+      "nativeName": "Tarnogskiy Rayon",
+      "code": "RU-VLG-484313",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLG",
+      "latitude": 60.5,
+      "longitude": 43.5
+    },
+    {
+      "id": 481962,
+      "name": "Totemsky District",
+      "nativeName": "Totemskiy Rayon",
+      "code": "RU-VLG-481962",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLG",
+      "latitude": 59.75,
+      "longitude": 42.5
+    },
+    {
+      "id": 478053,
+      "name": "Ust-Kubinsky District",
+      "nativeName": "Ust’-Kubinskiy Rayon",
+      "code": "RU-VLG-478053",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLG",
+      "latitude": 59.91667,
+      "longitude": 39.5
+    },
+    {
+      "id": 477796,
+      "name": "Ustyuzhensky District",
+      "nativeName": "Ustyuzhenskiy Rayon",
+      "code": "RU-VLG-477796",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLG",
+      "latitude": 58.83333,
+      "longitude": 36.5
+    },
+    {
+      "id": 476844,
+      "name": "Vashkinsky District",
+      "nativeName": "Vashkinskiy Rayon",
+      "code": "RU-VLG-476844",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLG",
+      "latitude": 60.41667,
+      "longitude": 38
+    },
+    {
+      "id": 476029,
+      "name": "Velikoustyugsky District",
+      "nativeName": "Velikoustyugskiy Rayon",
+      "code": "RU-VLG-476029",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLG",
+      "latitude": 60.75,
+      "longitude": 46
+    },
+    {
+      "id": 474355,
+      "name": "Verkhovazhsky District",
+      "nativeName": "Verkhovazhskiy Rayon",
+      "code": "RU-VLG-474355",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLG",
+      "latitude": 60.58333,
+      "longitude": 42.25
+    },
+    {
+      "id": 472453,
+      "name": "Vologodsky District",
+      "nativeName": "Vologodskiy Rayon",
+      "code": "RU-VLG-472453",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLG",
+      "latitude": 59.16667,
+      "longitude": 39.75
+    },
+    {
+      "id": 471243,
+      "name": "Vozhegodsky District",
+      "nativeName": "Vozhegodskiy Rayon",
+      "code": "RU-VLG-471243",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLG",
+      "latitude": 60.5,
+      "longitude": 40.25
+    },
+    {
+      "id": 469961,
+      "name": "Vytegorsky District",
+      "nativeName": "Vytegorskiy Rayon",
+      "code": "RU-VLG-469961",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLG",
+      "latitude": 61,
+      "longitude": 36.5
+    }
+  ]
+}

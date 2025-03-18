@@ -1,0 +1,62 @@
+{
+  "stateId": 52187,
+  "stateCode": "SO-SA",
+  "countryCode": "SO",
+  "cities": [
+    {
+      "id": 9180002,
+      "name": "Badhan District",
+      "nativeName": "Badhan District",
+      "code": "SO-SA-9180002",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-SA",
+      "latitude": 10.71413,
+      "longitude": 48.33384
+    },
+    {
+      "id": 9179632,
+      "name": "Ceel Afweyn",
+      "nativeName": "Ceel Afweyn",
+      "code": "SO-SA-9179632",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-SA",
+      "latitude": 10.14761,
+      "longitude": 46.68854
+    },
+    {
+      "id": 9179989,
+      "name": "El Afweyn District",
+      "nativeName": "Elafweyn",
+      "code": "SO-SA-9179989",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-SA",
+      "latitude": 9.93128,
+      "longitude": 47.21727
+    },
+    {
+      "id": 9179636,
+      "name": "Erigavo District",
+      "nativeName": "Ceerigaabo",
+      "code": "SO-SA-9179636",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-SA",
+      "latitude": 10.29004,
+      "longitude": 47.8076
+    },
+    {
+      "id": 9179628,
+      "name": "Las Khorey District",
+      "nativeName": "Laasqoray",
+      "code": "SO-SA-9179628",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-SA",
+      "latitude": 10.53683,
+      "longitude": 48.69568
+    }
+  ]
+}

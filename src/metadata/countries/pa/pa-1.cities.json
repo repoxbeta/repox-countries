@@ -1,0 +1,51 @@
+{
+  "stateId": 3713954,
+  "stateCode": "PA-1",
+  "countryCode": "PA",
+  "cities": [
+    {
+      "id": 12510673,
+      "name": "Almirante",
+      "nativeName": "Almirante",
+      "code": "PA-1-12510673",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-1",
+      "latitude": 9.06811,
+      "longitude": -82.55949
+    },
+    {
+      "id": 3713955,
+      "name": "Bocas del Toro District",
+      "nativeName": "Distrito de Bocas del Toro",
+      "code": "PA-1-3713955",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-1",
+      "latitude": 9.36235,
+      "longitude": -82.26288
+    },
+    {
+      "id": 3712558,
+      "name": "Changuinola District",
+      "nativeName": "Distrito de Changuinola",
+      "code": "PA-1-3712558",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-1",
+      "latitude": 9.36667,
+      "longitude": -82.68333
+    },
+    {
+      "id": 3712399,
+      "name": "Chiriquí Grande District",
+      "nativeName": "Distrito Chiriquí Grande",
+      "code": "PA-1-3712399",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-1",
+      "latitude": 8.94748,
+      "longitude": -82.12418
+    }
+  ]
+}

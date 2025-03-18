@@ -1,0 +1,193 @@
+{
+  "countryId": 1835841,
+  "countryCode": "KR",
+  "states": [
+    {
+      "id": 1838519,
+      "name": "Busan",
+      "nativeName": "Busan",
+      "code": "KR-26",
+      "internalCode": "26",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "latitude": 35.13333,
+      "longitude": 129.05
+    },
+    {
+      "id": 1845105,
+      "name": "Chungcheongnam-do",
+      "nativeName": "Chungcheongnam-do",
+      "code": "KR-44",
+      "internalCode": "44",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "latitude": 36.5,
+      "longitude": 127
+    },
+    {
+      "id": 1835327,
+      "name": "Daegu",
+      "nativeName": "Daegu",
+      "code": "KR-27",
+      "internalCode": "27",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "latitude": 35.96667,
+      "longitude": 128.65
+    },
+    {
+      "id": 1835224,
+      "name": "Daejeon",
+      "nativeName": "Daejeon",
+      "code": "KR-30",
+      "internalCode": "30",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "latitude": 36.33333,
+      "longitude": 127.41667
+    },
+    {
+      "id": 1843125,
+      "name": "Gangwon-do",
+      "nativeName": "Gangwon",
+      "code": "KR-42",
+      "internalCode": "42",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "latitude": 37.75,
+      "longitude": 128.25
+    },
+    {
+      "id": 1841808,
+      "name": "Gwangju",
+      "nativeName": "Gwangju",
+      "code": "KR-29",
+      "internalCode": "29",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "latitude": 35.16667,
+      "longitude": 126.91667
+    },
+    {
+      "id": 1841610,
+      "name": "Gyeonggi-do",
+      "nativeName": "Gyeonggi-do",
+      "code": "KR-41",
+      "internalCode": "41",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "latitude": 37.6,
+      "longitude": 127.25
+    },
+    {
+      "id": 1841597,
+      "name": "Gyeongsangbuk-do",
+      "nativeName": "Gyeongsangbuk-do",
+      "code": "KR-47",
+      "internalCode": "47",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "latitude": 36.6,
+      "longitude": 128.86667
+    },
+    {
+      "id": 1902028,
+      "name": "Gyeongsangnam-do",
+      "nativeName": "Gyeongsangnam-do",
+      "code": "KR-48",
+      "internalCode": "48",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "latitude": 35.25,
+      "longitude": 128.25
+    },
+    {
+      "id": 1843561,
+      "name": "Incheon",
+      "nativeName": "Incheon",
+      "code": "KR-28",
+      "internalCode": "28",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "latitude": 37.46178,
+      "longitude": 126.70017
+    },
+    {
+      "id": 1846265,
+      "name": "Jeju-do",
+      "nativeName": "Jeju-do",
+      "code": "KR-49",
+      "internalCode": "49",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "latitude": 33.41667,
+      "longitude": 126.5
+    },
+    {
+      "id": 1845789,
+      "name": "Jeollabuk-do",
+      "nativeName": "Jeonbuk",
+      "code": "KR-45",
+      "internalCode": "45",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "latitude": 35.75,
+      "longitude": 127.25
+    },
+    {
+      "id": 1845788,
+      "name": "Jeollanam-do",
+      "nativeName": "Jeollanam-do",
+      "code": "KR-46",
+      "internalCode": "46",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "latitude": 34.75,
+      "longitude": 127
+    },
+    {
+      "id": 1845106,
+      "name": "North Chungcheong",
+      "nativeName": "Chungcheongbuk-do",
+      "code": "KR-43",
+      "internalCode": "43",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "latitude": 36.82153,
+      "longitude": 127.65685
+    },
+    {
+      "id": 8394437,
+      "name": "Sejong-si",
+      "nativeName": "Sejong-si",
+      "code": "KR-50",
+      "internalCode": "50",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "latitude": 36.59296,
+      "longitude": 127.29239
+    },
+    {
+      "id": 1835847,
+      "name": "Seoul",
+      "nativeName": "Seoul",
+      "code": "KR-11",
+      "internalCode": "11",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "latitude": 37.58333,
+      "longitude": 127
+    },
+    {
+      "id": 1833742,
+      "name": "Ulsan",
+      "nativeName": "Ulsan",
+      "code": "KR-31",
+      "internalCode": "31",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "latitude": 35.56667,
+      "longitude": 129.26667
+    }
+  ]
+}

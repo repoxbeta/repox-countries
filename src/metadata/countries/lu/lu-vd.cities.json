@@ -1,0 +1,40 @@
+{
+  "stateId": 2960020,
+  "stateCode": "LU-VD",
+  "countryCode": "LU",
+  "cities": [
+    {
+      "id": 6693332,
+      "name": "Putscheid",
+      "nativeName": "Putscheid",
+      "code": "LU-VD-6693332",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-VD",
+      "latitude": 49.96083,
+      "longitude": 6.14306
+    },
+    {
+      "id": 6693331,
+      "name": "Tandel",
+      "nativeName": "Tandel",
+      "code": "LU-VD-6693331",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-VD",
+      "latitude": 49.91556,
+      "longitude": 6.19611
+    },
+    {
+      "id": 6693333,
+      "name": "Vianden",
+      "nativeName": "Vianden",
+      "code": "LU-VD-6693333",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-VD",
+      "latitude": 49.935,
+      "longitude": 6.20889
+    }
+  ]
+}

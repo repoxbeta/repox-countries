@@ -1,0 +1,150 @@
+{
+  "stateId": 1608408,
+  "stateCode": "TH-96",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 1621004,
+      "name": "Bacho",
+      "nativeName": "Amphoe Ba Cho",
+      "code": "TH-96-1621004",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-96",
+      "latitude": 6.54591,
+      "longitude": 101.64923
+    },
+    {
+      "id": 7000625,
+      "name": "Chanae",
+      "nativeName": "Amphoe Chanae",
+      "code": "TH-96-7000625",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-96",
+      "latitude": 6.04591,
+      "longitude": 101.61765
+    },
+    {
+      "id": 7001132,
+      "name": "Cho-airong",
+      "nativeName": "Amphoe Cho-airong",
+      "code": "TH-96-7001132",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-96",
+      "latitude": 6.23011,
+      "longitude": 101.84721
+    },
+    {
+      "id": 1608642,
+      "name": "Mueang Narathiwat",
+      "nativeName": "Amphoe Mueang Narathiwat",
+      "code": "TH-96-1608642",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-96",
+      "latitude": 6.39391,
+      "longitude": 101.81316
+    },
+    {
+      "id": 1607082,
+      "name": "Ra-ngae",
+      "nativeName": "Amphoe Ra-ngae",
+      "code": "TH-96-1607082",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-96",
+      "latitude": 6.25504,
+      "longitude": 101.70496
+    },
+    {
+      "id": 1606960,
+      "name": "Rueso",
+      "nativeName": "Amphoe Rueso",
+      "code": "TH-96-1606960",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-96",
+      "latitude": 6.3745,
+      "longitude": 101.51491
+    },
+    {
+      "id": 7001159,
+      "name": "Si Sakhon",
+      "nativeName": "Amphoe Si Sakhon",
+      "code": "TH-96-7001159",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-96",
+      "latitude": 6.1936,
+      "longitude": 101.51257
+    },
+    {
+      "id": 1606049,
+      "name": "Su-ngai Kolok",
+      "nativeName": "Amphoe Su-ngai Kolok",
+      "code": "TH-96-1606049",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-96",
+      "latitude": 6.07674,
+      "longitude": 101.99818
+    },
+    {
+      "id": 1606046,
+      "name": "Su-ngai Padi",
+      "nativeName": "Amphoe Su-ngai Padi",
+      "code": "TH-96-1606046",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-96",
+      "latitude": 6.10425,
+      "longitude": 101.89333
+    },
+    {
+      "id": 6987551,
+      "name": "Sukhirin",
+      "nativeName": "Amphoe Sukhirin",
+      "code": "TH-96-6987551",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-96",
+      "latitude": 5.91513,
+      "longitude": 101.73811
+    },
+    {
+      "id": 1605956,
+      "name": "Tak Bai",
+      "nativeName": "Amphoe Tak Bai",
+      "code": "TH-96-1605956",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-96",
+      "latitude": 6.23748,
+      "longitude": 102.00238
+    },
+    {
+      "id": 1605185,
+      "name": "Waeng",
+      "nativeName": "Amphoe Waeng",
+      "code": "TH-96-1605185",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-96",
+      "latitude": 5.90042,
+      "longitude": 101.86195
+    },
+    {
+      "id": 1604760,
+      "name": "Yi-ngo",
+      "nativeName": "Amphoe Yi-ngo",
+      "code": "TH-96-1604760",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-96",
+      "latitude": 6.41655,
+      "longitude": 101.70035
+    }
+  ]
+}

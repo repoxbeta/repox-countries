@@ -1,0 +1,29 @@
+{
+  "stateId": 6693562,
+  "stateCode": "CL-AP",
+  "countryCode": "CL",
+  "cities": [
+    {
+      "id": 3899358,
+      "name": "Provincia de Arica",
+      "nativeName": "Provincia de Arica",
+      "code": "CL-AP-3899358",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-AP",
+      "latitude": -18.70643,
+      "longitude": -69.85607
+    },
+    {
+      "id": 8181709,
+      "name": "Provincia de Parinacota",
+      "nativeName": "Provincia de Parinacota",
+      "code": "CL-AP-8181709",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-AP",
+      "latitude": -18.19804,
+      "longitude": -69.57161
+    }
+  ]
+}

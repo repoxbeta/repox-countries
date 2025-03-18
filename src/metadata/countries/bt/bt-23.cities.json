@@ -1,0 +1,51 @@
+{
+  "stateId": 1337288,
+  "stateCode": "BT-23",
+  "countryCode": "BT",
+  "cities": [
+    {
+      "id": 1252479,
+      "name": "Punakha",
+      "nativeName": "Punākha",
+      "code": "BT-23-1252479",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-23",
+      "latitude": 27.59137,
+      "longitude": 89.87743
+    },
+    {
+      "id": 1337381,
+      "name": "Dawakha",
+      "nativeName": "Dawakha",
+      "code": "BT-23-1337381",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-23",
+      "latitude": 27.66667,
+      "longitude": 89.91667
+    },
+    {
+      "id": 1337390,
+      "name": "Lunana",
+      "nativeName": "Lunana",
+      "code": "BT-23-1337390",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-23",
+      "latitude": 28.29989,
+      "longitude": 90.23229
+    },
+    {
+      "id": 1252495,
+      "name": "Pajo",
+      "nativeName": "Pajo",
+      "code": "BT-23-1252495",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-23",
+      "latitude": 27.53333,
+      "longitude": 89.88333
+    }
+  ]
+}

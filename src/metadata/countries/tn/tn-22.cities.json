@@ -1,0 +1,73 @@
+{
+  "stateId": 2464038,
+  "stateCode": "TN-22",
+  "countryCode": "TN",
+  "cities": [
+    {
+      "id": 11108352,
+      "name": "Bir Mchergua",
+      "nativeName": "Bir Mcherga",
+      "code": "TN-22-11108352",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-22",
+      "latitude": 36.53186,
+      "longitude": 9.97594
+    },
+    {
+      "id": 2468284,
+      "name": "El Fahs",
+      "nativeName": "El Fahs",
+      "code": "TN-22-2468284",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-22",
+      "latitude": 36.30134,
+      "longitude": 9.83205
+    },
+    {
+      "id": 7870578,
+      "name": "En-Nadhour",
+      "nativeName": "Nadhour",
+      "code": "TN-22-7870578",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-22",
+      "latitude": 36.11185,
+      "longitude": 9.9961
+    },
+    {
+      "id": 11108353,
+      "name": "Ez-Zeriba",
+      "nativeName": "Zriba",
+      "code": "TN-22-11108353",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-22",
+      "latitude": 36.32695,
+      "longitude": 10.21286
+    },
+    {
+      "id": 11108354,
+      "name": "Saouaf",
+      "nativeName": "Saouaf",
+      "code": "TN-22-11108354",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-22",
+      "latitude": 36.20793,
+      "longitude": 10.1413
+    },
+    {
+      "id": 2464039,
+      "name": "Zaghouan",
+      "nativeName": "Zaghouan",
+      "code": "TN-22-2464039",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-22",
+      "latitude": 36.44247,
+      "longitude": 10.17127
+    }
+  ]
+}

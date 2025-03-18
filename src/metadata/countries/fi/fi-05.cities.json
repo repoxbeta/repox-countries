@@ -1,0 +1,29 @@
+{
+  "stateId": 830664,
+  "stateCode": "FI-05",
+  "countryCode": "FI",
+  "cities": [
+    {
+      "id": 9610704,
+      "name": "Kajaani",
+      "nativeName": "Kajaani",
+      "code": "FI-05-9610704",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-05",
+      "latitude": 64.24515,
+      "longitude": 27.9022
+    },
+    {
+      "id": 9610703,
+      "name": "Kehys-Kainuu",
+      "nativeName": "Kehys-Kainuu",
+      "code": "FI-05-9610703",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-05",
+      "latitude": 64.66528,
+      "longitude": 29.10467
+    }
+  ]
+}

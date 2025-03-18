@@ -1,0 +1,51 @@
+{
+  "stateId": 3505867,
+  "stateCode": "DO-09",
+  "countryCode": "DO",
+  "cities": [
+    {
+      "id": 3509990,
+      "name": "Cayetano Germosén",
+      "nativeName": "Cayetano Germosén",
+      "code": "DO-09-3509990",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-09",
+      "latitude": 19.34285,
+      "longitude": -70.47573
+    },
+    {
+      "id": 3505489,
+      "name": "Gaspar Hernández",
+      "nativeName": "Gaspar Hernández",
+      "code": "DO-09-3505489",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-09",
+      "latitude": 19.58333,
+      "longitude": -70.16667
+    },
+    {
+      "id": 11154575,
+      "name": "Jamao Al Norte",
+      "nativeName": "Jamao Al Norte",
+      "code": "DO-09-11154575",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-09",
+      "latitude": 19.60864,
+      "longitude": -70.4503
+    },
+    {
+      "id": 3496332,
+      "name": "Moca",
+      "nativeName": "Moca",
+      "code": "DO-09-3496332",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-09",
+      "latitude": 19.5,
+      "longitude": -70.5
+    }
+  ]
+}

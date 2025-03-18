@@ -1,0 +1,62 @@
+{
+  "stateId": 2385105,
+  "stateCode": "CF-LB",
+  "countryCode": "CF",
+  "cities": [
+    {
+      "id": 9143467,
+      "name": "Boda",
+      "nativeName": "Boda",
+      "code": "CF-LB-9143467",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-LB",
+      "latitude": 4.07284,
+      "longitude": 17.317
+    },
+    {
+      "id": 9143486,
+      "name": "Boganangone",
+      "nativeName": "Boganangone",
+      "code": "CF-LB-9143486",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-LB",
+      "latitude": 4.73558,
+      "longitude": 17.14047
+    },
+    {
+      "id": 9143487,
+      "name": "Boganda",
+      "nativeName": "Boganda",
+      "code": "CF-LB-9143487",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-LB",
+      "latitude": 4.36601,
+      "longitude": 17.15907
+    },
+    {
+      "id": 7732068,
+      "name": "Mbaiki",
+      "nativeName": "Mbaiki",
+      "code": "CF-LB-7732068",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-LB",
+      "latitude": 3.97145,
+      "longitude": 17.93352
+    },
+    {
+      "id": 7731898,
+      "name": "Mongoumba",
+      "nativeName": "Mongoumba",
+      "code": "CF-LB-7731898",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-LB",
+      "latitude": 3.72637,
+      "longitude": 18.47591
+    }
+  ]
+}

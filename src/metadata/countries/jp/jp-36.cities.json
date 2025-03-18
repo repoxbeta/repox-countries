@@ -1,0 +1,183 @@
+{
+  "stateId": 1850157,
+  "stateCode": "JP-36",
+  "countryCode": "JP",
+  "cities": [
+    {
+      "id": 1865306,
+      "name": "Anan Shi",
+      "nativeName": "Anan Shi",
+      "code": "JP-36-1865306",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-36",
+      "latitude": 33.87716,
+      "longitude": 134.60644
+    },
+    {
+      "id": 1864902,
+      "name": "Awa-shi",
+      "nativeName": "Awa-shi",
+      "code": "JP-36-1864902",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-36",
+      "latitude": 34.1,
+      "longitude": 134.25
+    },
+    {
+      "id": 1861303,
+      "name": "Itano-gun",
+      "nativeName": "Itano-gun",
+      "code": "JP-36-1861303",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-36",
+      "latitude": 34.14003,
+      "longitude": 134.46943
+    },
+    {
+      "id": 1860803,
+      "name": "Kaifu Gun",
+      "nativeName": "Kaifu Gun",
+      "code": "JP-36-1860803",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-36",
+      "latitude": 33.68119,
+      "longitude": 134.35312
+    },
+    {
+      "id": 1859771,
+      "name": "Katsuura Gun",
+      "nativeName": "Katsuura Gun",
+      "code": "JP-36-1859771",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-36",
+      "latitude": 33.9138,
+      "longitude": 134.42641
+    },
+    {
+      "id": 1858900,
+      "name": "Komatsushima Shi",
+      "nativeName": "Komatsushima Shi",
+      "code": "JP-36-1858900",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-36",
+      "latitude": 33.98071,
+      "longitude": 134.59529
+    },
+    {
+      "id": 7406321,
+      "name": "Mima Gun",
+      "nativeName": "Mima Gun",
+      "code": "JP-36-7406321",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-36",
+      "latitude": 33.96478,
+      "longitude": 134.05519
+    },
+    {
+      "id": 7406325,
+      "name": "Mima Shi",
+      "nativeName": "Mima Shi",
+      "code": "JP-36-7406325",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-36",
+      "latitude": 34.01889,
+      "longitude": 134.14333
+    },
+    {
+      "id": 7406326,
+      "name": "Miyoshi Shi",
+      "nativeName": "Miyoshi Shi",
+      "code": "JP-36-7406326",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-36",
+      "latitude": 33.93349,
+      "longitude": 133.85184
+    },
+    {
+      "id": 1856695,
+      "name": "Miyoshi-gun",
+      "nativeName": "Miyoshi-gun",
+      "code": "JP-36-1856695",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-36",
+      "latitude": 34.03647,
+      "longitude": 133.91818
+    },
+    {
+      "id": 7406322,
+      "name": "Myōdō Gun",
+      "nativeName": "Myōdō Gun",
+      "code": "JP-36-7406322",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-36",
+      "latitude": 33.9823,
+      "longitude": 134.4519
+    },
+    {
+      "id": 1856299,
+      "name": "Myōzai Gun",
+      "nativeName": "Myōzai Gun",
+      "code": "JP-36-1856299",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-36",
+      "latitude": 33.99186,
+      "longitude": 134.34994
+    },
+    {
+      "id": 7406323,
+      "name": "Naka Gun",
+      "nativeName": "Naka Gun",
+      "code": "JP-36-7406323",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-36",
+      "latitude": 33.80068,
+      "longitude": 134.26072
+    },
+    {
+      "id": 10172903,
+      "name": "Naruto",
+      "nativeName": "Naruto-shi",
+      "code": "JP-36-10172903",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-36",
+      "latitude": 34.17881,
+      "longitude": 134.61357
+    },
+    {
+      "id": 1850156,
+      "name": "Tokushima Shi",
+      "nativeName": "Tokushima Shi",
+      "code": "JP-36-1850156",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-36",
+      "latitude": 34.04922,
+      "longitude": 134.52359
+    },
+    {
+      "id": 7406324,
+      "name": "Yoshinogawa Shi",
+      "nativeName": "Yoshinogawa Shi",
+      "code": "JP-36-7406324",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-36",
+      "latitude": 34.03705,
+      "longitude": 134.28354
+    }
+  ]
+}

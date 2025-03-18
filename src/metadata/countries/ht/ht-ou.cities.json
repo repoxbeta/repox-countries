@@ -1,0 +1,62 @@
+{
+  "stateId": 3719432,
+  "stateCode": "HT-OU",
+  "countryCode": "HT",
+  "cities": [
+    {
+      "id": 3731086,
+      "name": "Arcahaie Arrondissement",
+      "nativeName": "Arcahaie",
+      "code": "HT-OU-3731086",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "stateCode": "HT-OU",
+      "latitude": 18.84059,
+      "longitude": -72.47234
+    },
+    {
+      "id": 3727134,
+      "name": "Arrondissement de Croix des Bouquets",
+      "nativeName": "Arrondissement de Croix des Bouquets",
+      "code": "HT-OU-3727134",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "stateCode": "HT-OU",
+      "latitude": 18.53849,
+      "longitude": -72.06952
+    },
+    {
+      "id": 3718425,
+      "name": "Arrondissement de Port-au-Prince",
+      "nativeName": "Arrondissement de Port-au-Prince",
+      "code": "HT-OU-3718425",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "stateCode": "HT-OU",
+      "latitude": 18.47468,
+      "longitude": -72.3366
+    },
+    {
+      "id": 3723019,
+      "name": "Lagonav",
+      "nativeName": "Lagonav",
+      "code": "HT-OU-3723019",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "stateCode": "HT-OU",
+      "latitude": 18.85,
+      "longitude": -73.05
+    },
+    {
+      "id": 3722285,
+      "name": "Leyogàn",
+      "nativeName": "Leyogàn",
+      "code": "HT-OU-3722285",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "stateCode": "HT-OU",
+      "latitude": 18.37707,
+      "longitude": -72.75479
+    }
+  ]
+}

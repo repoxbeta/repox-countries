@@ -1,0 +1,73 @@
+{
+  "stateId": 2412716,
+  "stateCode": "GM-L",
+  "countryCode": "GM",
+  "cities": [
+    {
+      "id": 2413268,
+      "name": "Jarra Central",
+      "nativeName": "Jarra Central",
+      "code": "GM-L-2413268",
+      "countryId": 2413451,
+      "countryCode": "GM",
+      "stateCode": "GM-L",
+      "latitude": 13.41667,
+      "longitude": -15.41667
+    },
+    {
+      "id": 2413267,
+      "name": "Jarra East",
+      "nativeName": "Jarra East",
+      "code": "GM-L-2413267",
+      "countryId": 2413451,
+      "countryCode": "GM",
+      "stateCode": "GM-L",
+      "latitude": 13.41667,
+      "longitude": -15.25
+    },
+    {
+      "id": 2413266,
+      "name": "Jarra West",
+      "nativeName": "Jarra West",
+      "code": "GM-L-2413266",
+      "countryId": 2413451,
+      "countryCode": "GM",
+      "stateCode": "GM-L",
+      "latitude": 13.41667,
+      "longitude": -15.53333
+    },
+    {
+      "id": 2412887,
+      "name": "Kiang Central",
+      "nativeName": "Kiang Central",
+      "code": "GM-L-2412887",
+      "countryId": 2413451,
+      "countryCode": "GM",
+      "stateCode": "GM-L",
+      "latitude": 13.4,
+      "longitude": -15.75
+    },
+    {
+      "id": 2412886,
+      "name": "Kiang East",
+      "nativeName": "Kiang East",
+      "code": "GM-L-2412886",
+      "countryId": 2413451,
+      "countryCode": "GM",
+      "stateCode": "GM-L",
+      "latitude": 13.41667,
+      "longitude": -15.63333
+    },
+    {
+      "id": 2412885,
+      "name": "Kiang West District",
+      "nativeName": "Kiang West District",
+      "code": "GM-L-2412885",
+      "countryId": 2413451,
+      "countryCode": "GM",
+      "stateCode": "GM-L",
+      "latitude": 13.33333,
+      "longitude": -16
+    }
+  ]
+}

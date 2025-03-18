@@ -1,0 +1,40 @@
+{
+  "stateId": 12902745,
+  "stateCode": "CF-19",
+  "countryCode": "CF",
+  "cities": [
+    {
+      "id": 9143476,
+      "name": "Amada-Gaza",
+      "nativeName": "Amada-Gaza",
+      "code": "CF-19-9143476",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-19",
+      "latitude": 4.82175,
+      "longitude": 15.10406
+    },
+    {
+      "id": 2387494,
+      "name": "Carnot",
+      "nativeName": "Carnot",
+      "code": "CF-19-2387494",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-19",
+      "latitude": 4.78333,
+      "longitude": 15.73333
+    },
+    {
+      "id": 7732917,
+      "name": "Gadzi",
+      "nativeName": "Gadzi",
+      "code": "CF-19-7732917",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-19",
+      "latitude": 4.89014,
+      "longitude": 16.70737
+    }
+  ]
+}

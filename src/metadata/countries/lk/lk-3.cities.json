@@ -1,0 +1,40 @@
+{
+  "stateId": 1227618,
+  "stateCode": "LK-3",
+  "countryCode": "LK",
+  "cities": [
+    {
+      "id": 1246292,
+      "name": "Galle District",
+      "nativeName": "Galle District",
+      "code": "LK-3-1246292",
+      "countryId": 1227603,
+      "countryCode": "LK",
+      "stateCode": "LK-3",
+      "latitude": 6.25,
+      "longitude": 80.25
+    },
+    {
+      "id": 1244925,
+      "name": "Hambantota District",
+      "nativeName": "Hambantota District",
+      "code": "LK-3-1244925",
+      "countryId": 1227603,
+      "countryCode": "LK",
+      "stateCode": "LK-3",
+      "latitude": 6.2544,
+      "longitude": 81.1111
+    },
+    {
+      "id": 1235845,
+      "name": "Matara District",
+      "nativeName": "Matara District",
+      "code": "LK-3-1235845",
+      "countryId": 1227603,
+      "countryCode": "LK",
+      "stateCode": "LK-3",
+      "latitude": 6.1329,
+      "longitude": 80.528
+    }
+  ]
+}

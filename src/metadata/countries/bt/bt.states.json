@@ -1,0 +1,226 @@
+{
+  "countryId": 1252634,
+  "countryCode": "BT",
+  "states": [
+    {
+      "id": 1337278,
+      "name": "Bumthang District",
+      "nativeName": "Bumthang Dzongkhag",
+      "code": "BT-33",
+      "internalCode": "33",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "latitude": 27.7,
+      "longitude": 90.78333
+    },
+    {
+      "id": 1337279,
+      "name": "Chukha",
+      "nativeName": "Chhukha Dzongkhag",
+      "code": "BT-12",
+      "internalCode": "12",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "latitude": 27,
+      "longitude": 89.55
+    },
+    {
+      "id": 1337280,
+      "name": "Dagana",
+      "nativeName": "Dagana Dzongkhag",
+      "code": "BT-22",
+      "internalCode": "22",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "latitude": 27.1,
+      "longitude": 89.86667
+    },
+    {
+      "id": 7303651,
+      "name": "Gasa",
+      "nativeName": "Gasa",
+      "code": "BT-GA",
+      "internalCode": "GA",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "latitude": 27.91313,
+      "longitude": 89.70886
+    },
+    {
+      "id": 1337283,
+      "name": "Haa",
+      "nativeName": "Haa Dzongkhag",
+      "code": "BT-13",
+      "internalCode": "13",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "latitude": 27.33333,
+      "longitude": 89.18333
+    },
+    {
+      "id": 1337284,
+      "name": "Lhuntse",
+      "nativeName": "Lhuentse Dzongkhag",
+      "code": "BT-44",
+      "internalCode": "44",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "latitude": 27.75,
+      "longitude": 91.18333
+    },
+    {
+      "id": 1337285,
+      "name": "Mongar",
+      "nativeName": "Mongar Dzongkhag",
+      "code": "BT-42",
+      "internalCode": "42",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "latitude": 27.25,
+      "longitude": 91.23333
+    },
+    {
+      "id": 1337286,
+      "name": "Paro",
+      "nativeName": "Paro Dzongkhag",
+      "code": "BT-11",
+      "internalCode": "11",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "latitude": 27.51667,
+      "longitude": 89.4
+    },
+    {
+      "id": 1337287,
+      "name": "Pemagatshel",
+      "nativeName": "Pemagatshel Dzongkhag",
+      "code": "BT-43",
+      "internalCode": "43",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "latitude": 27,
+      "longitude": 91.36667
+    },
+    {
+      "id": 1337288,
+      "name": "Punakha Dzongkhag",
+      "nativeName": "Punakha Dzongkhag",
+      "code": "BT-23",
+      "internalCode": "23",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "latitude": 27.7,
+      "longitude": 89.85
+    },
+    {
+      "id": 1337290,
+      "name": "Samdrup Jongkhar",
+      "nativeName": "Samdrup Jongkhar Dzongkhag",
+      "code": "BT-45",
+      "internalCode": "45",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "latitude": 26.91667,
+      "longitude": 91.61667
+    },
+    {
+      "id": 1337289,
+      "name": "Samtse District",
+      "nativeName": "Samtse Dzongkhag",
+      "code": "BT-14",
+      "internalCode": "14",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "latitude": 27.03333,
+      "longitude": 89.08333
+    },
+    {
+      "id": 1337282,
+      "name": "Sarpang District",
+      "nativeName": "Sarpang Dzongkhag",
+      "code": "BT-31",
+      "internalCode": "31",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "latitude": 27.03333,
+      "longitude": 90.41667
+    },
+    {
+      "id": 1337293,
+      "name": "Thimphu District",
+      "nativeName": "Thimphu Dzongkhag",
+      "code": "BT-15",
+      "internalCode": "15",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "latitude": 27.6,
+      "longitude": 89.58333
+    },
+    {
+      "id": 7303653,
+      "name": "Trashi Yangste",
+      "nativeName": "Trashi Yangste",
+      "code": "BT-TY",
+      "internalCode": "TY",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "latitude": 27.58468,
+      "longitude": 91.45466
+    },
+    {
+      "id": 1337292,
+      "name": "Trashigang District",
+      "nativeName": "Trashigang Dzongkhag",
+      "code": "BT-41",
+      "internalCode": "41",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "latitude": 27.25,
+      "longitude": 91.75
+    },
+    {
+      "id": 1337294,
+      "name": "Trongsa Dzongkhag",
+      "nativeName": "Trongsa Dzongkhag",
+      "code": "BT-32",
+      "internalCode": "32",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "latitude": 27.35,
+      "longitude": 90.53333
+    },
+    {
+      "id": 1337281,
+      "name": "Tsirang District",
+      "nativeName": "Tsirang Dzongkhag",
+      "code": "BT-21",
+      "internalCode": "21",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "latitude": 27.03333,
+      "longitude": 90.16667
+    },
+    {
+      "id": 1337295,
+      "name": "Wangdue Phodrang Dzongkhag",
+      "nativeName": "Wangdue Phodrang Dzongkhag",
+      "code": "BT-24",
+      "internalCode": "24",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "latitude": 27.5,
+      "longitude": 90.13333
+    },
+    {
+      "id": 1337291,
+      "name": "Zhemgang District",
+      "nativeName": "Zhemgang Dzongkhag",
+      "code": "BT-34",
+      "internalCode": "34",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "latitude": 27.08333,
+      "longitude": 90.85
+    }
+  ]
+}

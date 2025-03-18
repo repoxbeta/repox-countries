@@ -1,0 +1,40 @@
+{
+  "stateId": 3336899,
+  "stateCode": "ES-AR",
+  "countryCode": "ES",
+  "cities": [
+    {
+      "id": 3120513,
+      "name": "Huesca",
+      "nativeName": "Provincia de Huesca",
+      "code": "ES-AR-3120513",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "stateCode": "ES-AR",
+      "latitude": 42.16667,
+      "longitude": -0.16667
+    },
+    {
+      "id": 3104323,
+      "name": "Saragossa",
+      "nativeName": "Provincia de Zaragoza",
+      "code": "ES-AR-3104323",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "stateCode": "ES-AR",
+      "latitude": 41.58333,
+      "longitude": -1
+    },
+    {
+      "id": 3108125,
+      "name": "Teruel",
+      "nativeName": "Provincia de Teruel",
+      "code": "ES-AR-3108125",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "stateCode": "ES-AR",
+      "latitude": 40.66667,
+      "longitude": -0.66667
+    }
+  ]
+}

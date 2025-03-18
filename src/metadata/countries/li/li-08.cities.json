@@ -1,0 +1,29 @@
+{
+  "stateId": 3042038,
+  "stateCode": "LI-08",
+  "countryCode": "LI",
+  "cities": [
+    {
+      "id": 3042037,
+      "name": "Schellenberg",
+      "nativeName": "Schellenberg",
+      "code": "LI-08-3042037",
+      "countryId": 3042058,
+      "countryCode": "LI",
+      "stateCode": "LI-08",
+      "latitude": 47.23123,
+      "longitude": 9.54678
+    },
+    {
+      "id": 10347562,
+      "name": "Loch",
+      "nativeName": "Loch",
+      "code": "LI-08-10347562",
+      "countryId": 3042058,
+      "countryCode": "LI",
+      "stateCode": "LI-08",
+      "latitude": 47.22853,
+      "longitude": 9.53413
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "stateId": 1899262,
+  "stateCode": "KH-18",
+  "countryCode": "KH",
+  "cities": [
+    {
+      "id": 9253774,
+      "name": "Kampong Seila",
+      "nativeName": "Kampong Seila",
+      "code": "KH-18-9253774",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-18",
+      "latitude": 11.14059,
+      "longitude": 103.9499
+    },
+    {
+      "id": 8740325,
+      "name": "Krong Preah Sihanouk",
+      "nativeName": "Krong Preah Sihanouk",
+      "code": "KH-18-8740325",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-18",
+      "latitude": 10.62483,
+      "longitude": 103.53108
+    },
+    {
+      "id": 9253787,
+      "name": "Prey Nob",
+      "nativeName": "Prey Nob",
+      "code": "KH-18-9253787",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-18",
+      "latitude": 10.68704,
+      "longitude": 103.78853
+    },
+    {
+      "id": 8405256,
+      "name": "Stueng Hav",
+      "nativeName": "Srŏk Stœ̆ng Hav",
+      "code": "KH-18-8405256",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-18",
+      "latitude": 10.85249,
+      "longitude": 103.74016
+    }
+  ]
+}

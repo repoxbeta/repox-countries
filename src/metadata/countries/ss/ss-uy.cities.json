@@ -1,0 +1,29 @@
+{
+  "stateId": 408650,
+  "stateCode": "SS-UY",
+  "countryCode": "SS",
+  "cities": [
+    {
+      "id": 10400485,
+      "name": "Guit County",
+      "nativeName": "Guit County",
+      "code": "SS-UY-10400485",
+      "countryId": 7909807,
+      "countryCode": "SS",
+      "stateCode": "SS-UY",
+      "latitude": 9.24698,
+      "longitude": 30.05653
+    },
+    {
+      "id": 9409706,
+      "name": "Rubkona County",
+      "nativeName": "Rubkona",
+      "code": "SS-UY-9409706",
+      "countryId": 7909807,
+      "countryCode": "SS",
+      "stateCode": "SS-UY",
+      "latitude": 9.29349,
+      "longitude": 29.7892
+    }
+  ]
+}

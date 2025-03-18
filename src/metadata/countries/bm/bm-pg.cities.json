@@ -1,0 +1,40 @@
+{
+  "stateId": 3573103,
+  "stateCode": "BM-PG",
+  "countryCode": "BM",
+  "cities": [
+    {
+      "id": 3573307,
+      "name": "Camden",
+      "nativeName": "Camden",
+      "code": "BM-PG-3573307",
+      "countryId": 3573345,
+      "countryCode": "BM",
+      "stateCode": "BM-PG",
+      "latitude": 32.29417,
+      "longitude": -64.76056
+    },
+    {
+      "id": 3573289,
+      "name": "Chelston",
+      "nativeName": "Chelston",
+      "code": "BM-PG-3573289",
+      "countryId": 3573345,
+      "countryCode": "BM",
+      "stateCode": "BM-PG",
+      "latitude": 32.28361,
+      "longitude": -64.77056
+    },
+    {
+      "id": 3573121,
+      "name": "Mount Pleasant",
+      "nativeName": "Mount Pleasant",
+      "code": "BM-PG-3573121",
+      "countryId": 3573345,
+      "countryCode": "BM",
+      "stateCode": "BM-PG",
+      "latitude": 32.27417,
+      "longitude": -64.78361
+    }
+  ]
+}

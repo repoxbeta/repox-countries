@@ -1,0 +1,106 @@
+{
+  "stateId": 1221692,
+  "stateCode": "TJ-GB",
+  "countryCode": "TJ",
+  "cities": [
+    {
+      "id": 8220895,
+      "name": "Darvoz District",
+      "nativeName": "Nohiyai Darvoz",
+      "code": "TJ-GB-8220895",
+      "countryId": 1220409,
+      "countryCode": "TJ",
+      "stateCode": "TJ-GB",
+      "latitude": 38.5085,
+      "longitude": 70.78165
+    },
+    {
+      "id": 1221558,
+      "name": "Darvozskiy Rayon",
+      "nativeName": "Darvozskiy Rayon",
+      "code": "TJ-GB-1221558",
+      "countryId": 1220409,
+      "countryCode": "TJ",
+      "stateCode": "TJ-GB",
+      "latitude": 38.58333,
+      "longitude": 71
+    },
+    {
+      "id": 8220896,
+      "name": "Ishkoshim District",
+      "nativeName": "Nohiyai Ishqoshim",
+      "code": "TJ-GB-8220896",
+      "countryId": 1220409,
+      "countryCode": "TJ",
+      "stateCode": "TJ-GB",
+      "latitude": 36.99727,
+      "longitude": 72.1091
+    },
+    {
+      "id": 8220897,
+      "name": "Murghob District",
+      "nativeName": "Nohiyai Murghob",
+      "code": "TJ-GB-8220897",
+      "countryId": 1220409,
+      "countryCode": "TJ",
+      "stateCode": "TJ-GB",
+      "latitude": 38.38097,
+      "longitude": 73.71607
+    },
+    {
+      "id": 7670513,
+      "name": "Roshtqal'a District",
+      "nativeName": "Roshtqal'a District",
+      "code": "TJ-GB-7670513",
+      "countryId": 1220409,
+      "countryCode": "TJ",
+      "stateCode": "TJ-GB",
+      "latitude": 37.1,
+      "longitude": 72
+    },
+    {
+      "id": 8220920,
+      "name": "Rushon District",
+      "nativeName": "Nohiyai Rŭshon",
+      "code": "TJ-GB-8220920",
+      "countryId": 1220409,
+      "countryCode": "TJ",
+      "stateCode": "TJ-GB",
+      "latitude": 38.14663,
+      "longitude": 72.05467
+    },
+    {
+      "id": 8220923,
+      "name": "Shughnon District",
+      "nativeName": "Nohiyai Shughnon",
+      "code": "TJ-GB-8220923",
+      "countryId": 1220409,
+      "countryCode": "TJ",
+      "stateCode": "TJ-GB",
+      "latitude": 37.70004,
+      "longitude": 72.16748
+    },
+    {
+      "id": 1220206,
+      "name": "Vanchskiy Rayon",
+      "nativeName": "Vanchskiy Rayon",
+      "code": "TJ-GB-1220206",
+      "countryId": 1220409,
+      "countryCode": "TJ",
+      "stateCode": "TJ-GB",
+      "latitude": 38.41667,
+      "longitude": 71.75
+    },
+    {
+      "id": 8217321,
+      "name": "Vanj District",
+      "nativeName": "Nohiyai Vanj",
+      "code": "TJ-GB-8217321",
+      "countryId": 1220409,
+      "countryCode": "TJ",
+      "stateCode": "TJ-GB",
+      "latitude": 38.41838,
+      "longitude": 71.7627
+    }
+  ]
+}

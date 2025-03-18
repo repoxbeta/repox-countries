@@ -1,0 +1,29 @@
+{
+  "stateId": 12226386,
+  "stateCode": "DZ-54",
+  "countryCode": "DZ",
+  "cities": [
+    {
+      "id": 8693062,
+      "name": "In Guezzam District",
+      "nativeName": "In Guezzam",
+      "code": "DZ-54-8693062",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-54",
+      "latitude": 20.46311,
+      "longitude": 5.72598
+    },
+    {
+      "id": 12952692,
+      "name": "Tin Zouatine",
+      "nativeName": "Tin Zouatine",
+      "code": "DZ-54-12952692",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-54",
+      "latitude": 20.51282,
+      "longitude": 3.18475
+    }
+  ]
+}

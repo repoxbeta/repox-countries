@@ -1,0 +1,51 @@
+{
+  "stateId": 6697811,
+  "stateCode": "GR-C",
+  "countryCode": "GR",
+  "cities": [
+    {
+      "id": 736228,
+      "name": "Florina",
+      "nativeName": "Nomós Florínis",
+      "code": "GR-C-736228",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-C",
+      "latitude": 40.75,
+      "longitude": 21.41667
+    },
+    {
+      "id": 736149,
+      "name": "Grevena",
+      "nativeName": "Nomós Grevenón",
+      "code": "GR-C-736149",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-C",
+      "latitude": 40.08333,
+      "longitude": 21.41667
+    },
+    {
+      "id": 735925,
+      "name": "Kastoria",
+      "nativeName": "Nomós Kastoriás",
+      "code": "GR-C-735925",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-C",
+      "latitude": 40.5,
+      "longitude": 21.16667
+    },
+    {
+      "id": 735562,
+      "name": "Kozani",
+      "nativeName": "Nomós Kozánis",
+      "code": "GR-C-735562",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-C",
+      "latitude": 40.33333,
+      "longitude": 21.71667
+    }
+  ]
+}

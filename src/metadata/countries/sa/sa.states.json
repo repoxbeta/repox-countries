@@ -1,0 +1,149 @@
+{
+  "countryId": 102358,
+  "countryCode": "SA",
+  "states": [
+    {
+      "id": 108179,
+      "name": "'Asir Region",
+      "nativeName": "'Asir Region",
+      "code": "SA-14",
+      "internalCode": "14",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "latitude": 19.15,
+      "longitude": 42.95
+    },
+    {
+      "id": 109954,
+      "name": "Al Bahah Region",
+      "nativeName": "Al Bahah Region",
+      "code": "SA-11",
+      "internalCode": "11",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "latitude": 20.16667,
+      "longitude": 41.43333
+    },
+    {
+      "id": 109470,
+      "name": "Al Jouf",
+      "nativeName": "Al Jawf Region",
+      "code": "SA-12",
+      "internalCode": "12",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "latitude": 30.05,
+      "longitude": 39.6
+    },
+    {
+      "id": 108933,
+      "name": "Al-Qassim Region",
+      "nativeName": "Al-Qassim Region",
+      "code": "SA-05",
+      "internalCode": "05",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "latitude": 27.08333,
+      "longitude": 43.46667
+    },
+    {
+      "id": 108241,
+      "name": "Eastern Province",
+      "nativeName": "Eastern Province",
+      "code": "SA-04",
+      "internalCode": "04",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "latitude": 24,
+      "longitude": 49.75
+    },
+    {
+      "id": 106280,
+      "name": "Ha'il Region",
+      "nativeName": "Ha'il Region",
+      "code": "SA-06",
+      "internalCode": "06",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "latitude": 27.4,
+      "longitude": 41.45
+    },
+    {
+      "id": 105298,
+      "name": "Jazan Region",
+      "nativeName": "Jazan Region",
+      "code": "SA-09",
+      "internalCode": "09",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "latitude": 17.33333,
+      "longitude": 42.66667
+    },
+    {
+      "id": 104514,
+      "name": "Mecca Region",
+      "nativeName": "Mecca Region",
+      "code": "SA-02",
+      "internalCode": "02",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "latitude": 21.62425,
+      "longitude": 41.20422
+    },
+    {
+      "id": 109224,
+      "name": "Medina Region",
+      "nativeName": "Medina Region",
+      "code": "SA-03",
+      "internalCode": "03",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "latitude": 24.9,
+      "longitude": 39.5
+    },
+    {
+      "id": 103628,
+      "name": "Najran Region",
+      "nativeName": "Najran Region",
+      "code": "SA-10",
+      "internalCode": "10",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "latitude": 18.41667,
+      "longitude": 46.91667
+    },
+    {
+      "id": 109579,
+      "name": "Northern Borders Region",
+      "nativeName": "Northern Borders Region",
+      "code": "SA-08",
+      "internalCode": "08",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "latitude": 30.25,
+      "longitude": 42.41667
+    },
+    {
+      "id": 108411,
+      "name": "Riyadh Region",
+      "nativeName": "Riyadh Region",
+      "code": "SA-01",
+      "internalCode": "01",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "latitude": 23.05,
+      "longitude": 45.55
+    },
+    {
+      "id": 101627,
+      "name": "Tabuk Region",
+      "nativeName": "Tabuk Region",
+      "code": "SA-07",
+      "internalCode": "07",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "latitude": 28.25,
+      "longitude": 37.16667
+    }
+  ]
+}

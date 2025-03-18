@@ -1,0 +1,95 @@
+{
+  "stateId": 2276627,
+  "stateCode": "LR-CM",
+  "countryCode": "LR",
+  "cities": [
+    {
+      "id": 9645004,
+      "name": "Commonwealth District",
+      "nativeName": "Commonwealth District",
+      "code": "LR-CM-9645004",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-CM",
+      "latitude": 6.70237,
+      "longitude": -11.32017
+    },
+    {
+      "id": 2277160,
+      "name": "Garwula",
+      "nativeName": "Garwula",
+      "code": "LR-CM-2277160",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-CM",
+      "latitude": 6.81524,
+      "longitude": -11.133
+    },
+    {
+      "id": 2276661,
+      "name": "Gola Konneh",
+      "nativeName": "Gola Konneh",
+      "code": "LR-CM-2276661",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-CM",
+      "latitude": 7.1654,
+      "longitude": -10.90379
+    },
+    {
+      "id": 2275757,
+      "name": "Kone",
+      "nativeName": "Kone",
+      "code": "LR-CM-2275757",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-CM",
+      "latitude": 6.83333,
+      "longitude": -11.16667
+    },
+    {
+      "id": 2274351,
+      "name": "Porkpa District",
+      "nativeName": "Porkpa District",
+      "code": "LR-CM-2274351",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-CM",
+      "latitude": 7.28008,
+      "longitude": -11.06562
+    },
+    {
+      "id": 7911025,
+      "name": "Robertsport District",
+      "nativeName": "Robertsport District",
+      "code": "LR-CM-7911025",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-CM",
+      "latitude": 6.69598,
+      "longitude": -11.2912
+    },
+    {
+      "id": 2273632,
+      "name": "Tewor",
+      "nativeName": "Tewor",
+      "code": "LR-CM-2273632",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-CM",
+      "latitude": 6.97016,
+      "longitude": -11.3242
+    },
+    {
+      "id": 2273511,
+      "name": "Tombe",
+      "nativeName": "Tombe",
+      "code": "LR-CM-2273511",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-CM",
+      "latitude": 6.66667,
+      "longitude": -11.25
+    }
+  ]
+}

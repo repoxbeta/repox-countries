@@ -1,0 +1,40 @@
+{
+  "stateId": 3440033,
+  "stateCode": "UY-TA",
+  "countryCode": "UY",
+  "cities": [
+    {
+      "id": 11820864,
+      "name": "Ansina",
+      "nativeName": "Ansina",
+      "code": "UY-TA-11820864",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-TA",
+      "latitude": -31.96085,
+      "longitude": -55.40577
+    },
+    {
+      "id": 11820787,
+      "name": "Paso De Los Toros",
+      "nativeName": "Paso De Los Toros",
+      "code": "UY-TA-11820787",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-TA",
+      "latitude": -32.71634,
+      "longitude": -56.51185
+    },
+    {
+      "id": 11820800,
+      "name": "San Gregorio De Polanco",
+      "nativeName": "San Gregorio De Polanco",
+      "code": "UY-TA-11820800",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-TA",
+      "latitude": -32.48207,
+      "longitude": -55.83641
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "stateId": 3909233,
+  "stateCode": "BO-O",
+  "countryCode": "BO",
+  "cities": [
+    {
+      "id": 3923523,
+      "name": "Abaroa",
+      "nativeName": "Provincia Abaroa",
+      "code": "BO-O-3923523",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-O",
+      "latitude": -18.89693,
+      "longitude": -66.81284
+    },
+    {
+      "id": 3922026,
+      "name": "Carangas",
+      "nativeName": "Provincia Carangas",
+      "code": "BO-O-3922026",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-O",
+      "latitude": -18.33895,
+      "longitude": -67.8081
+    },
+    {
+      "id": 3921629,
+      "name": "Cercado",
+      "nativeName": "Provincia Cercado",
+      "code": "BO-O-3921629",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-O",
+      "latitude": -17.83717,
+      "longitude": -67.15456
+    },
+    {
+      "id": 3912280,
+      "name": "Ladislao Cabrera",
+      "nativeName": "Provincia Ladislao Cabrera",
+      "code": "BO-O-3912280",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-O",
+      "latitude": -19.35382,
+      "longitude": -67.4474
+    },
+    {
+      "id": 11184250,
+      "name": "Litoral",
+      "nativeName": "Litoral de Atacama",
+      "code": "BO-O-11184250",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-O",
+      "latitude": -18.76071,
+      "longitude": -68.24295
+    },
+    {
+      "id": 11184249,
+      "name": "Mejillones",
+      "nativeName": "Puerto de Mejillones",
+      "code": "BO-O-11184249",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-O",
+      "latitude": -18.99266,
+      "longitude": -68.68446
+    },
+    {
+      "id": 10400355,
+      "name": "Nor Carangas",
+      "nativeName": "Nor Carangas Province",
+      "code": "BO-O-10400355",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-O",
+      "latitude": -17.8375,
+      "longitude": -67.9433
+    },
+    {
+      "id": 3908591,
+      "name": "Pantaleon Dalence",
+      "nativeName": "Provincia Pantaleón Dalence",
+      "code": "BO-O-3908591",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-O",
+      "latitude": -18.22932,
+      "longitude": -66.81734
+    },
+    {
+      "id": 3907682,
+      "name": "Poopo",
+      "nativeName": "Provincia Poopó",
+      "code": "BO-O-3907682",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-O",
+      "latitude": -18.47751,
+      "longitude": -66.89793
+    },
+    {
+      "id": 3923586,
+      "name": "Sabaya",
+      "nativeName": "Provincia Sabaya",
+      "code": "BO-O-3923586",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-O",
+      "latitude": -19,
+      "longitude": -68.58333
+    },
+    {
+      "id": 3906107,
+      "name": "Sajama",
+      "nativeName": "Provincia Sajama",
+      "code": "BO-O-3906107",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-O",
+      "latitude": -18.20937,
+      "longitude": -68.59685
+    },
+    {
+      "id": 3905117,
+      "name": "San Pedro de Totora",
+      "nativeName": "Provincia San Pedro de Totora",
+      "code": "BO-O-3905117",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-O",
+      "latitude": -17.85582,
+      "longitude": -68.16627
+    },
+    {
+      "id": 3904553,
+      "name": "Saucari",
+      "nativeName": "Saucarí",
+      "code": "BO-O-3904553",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-O",
+      "latitude": -18.25,
+      "longitude": -67.41667
+    },
+    {
+      "id": 10400859,
+      "name": "Sebastián Pagador",
+      "nativeName": "Sebastian Pagador Province",
+      "code": "BO-O-10400859",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-O",
+      "latitude": -19.21667,
+      "longitude": -66.21667
+    },
+    {
+      "id": 3911447,
+      "name": "Sur Carangas",
+      "nativeName": "Sud Carangas Province",
+      "code": "BO-O-3911447",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-O",
+      "latitude": -18.5,
+      "longitude": -68.25
+    },
+    {
+      "id": 3902684,
+      "name": "Tomas Barron",
+      "nativeName": "Tomás Barrón",
+      "code": "BO-O-3902684",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-O",
+      "latitude": -17.63843,
+      "longitude": -67.42167
+    }
+  ]
+}

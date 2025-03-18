@@ -1,0 +1,117 @@
+{
+  "stateId": 3039676,
+  "stateCode": "AD-05",
+  "countryCode": "AD",
+  "cities": [
+    {
+      "id": 3039678,
+      "name": "Ordino",
+      "nativeName": "Ordino",
+      "code": "AD-05-3039678",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-05",
+      "latitude": 42.55623,
+      "longitude": 1.53319
+    },
+    {
+      "id": 3041546,
+      "name": "Ansalonga",
+      "nativeName": "Ansalonga",
+      "code": "AD-05-3041546",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-05",
+      "latitude": 42.56881,
+      "longitude": 1.52198
+    },
+    {
+      "id": 3041541,
+      "name": "Arans",
+      "nativeName": "Arans",
+      "code": "AD-05-3041541",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-05",
+      "latitude": 42.58226,
+      "longitude": 1.51844
+    },
+    {
+      "id": 3040737,
+      "name": "El Serrat",
+      "nativeName": "El Serrat",
+      "code": "AD-05-3040737",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-05",
+      "latitude": 42.6183,
+      "longitude": 1.53912
+    },
+    {
+      "id": 3040154,
+      "name": "La Cortinada",
+      "nativeName": "La Cortinada",
+      "code": "AD-05-3040154",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-05",
+      "latitude": 42.57423,
+      "longitude": 1.51845
+    },
+    {
+      "id": 3040027,
+      "name": "Les Salines",
+      "nativeName": "Les Salines",
+      "code": "AD-05-3040027",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-05",
+      "latitude": 42.60952,
+      "longitude": 1.53697
+    },
+    {
+      "id": 3040025,
+      "name": "Les Subiranes",
+      "nativeName": "Les Subiranes",
+      "code": "AD-05-3040025",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-05",
+      "latitude": 42.62055,
+      "longitude": 1.54147
+    },
+    {
+      "id": 3039979,
+      "name": "Llorts",
+      "nativeName": "Llorts",
+      "code": "AD-05-3039979",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-05",
+      "latitude": 42.59625,
+      "longitude": 1.52658
+    },
+    {
+      "id": 3039132,
+      "name": "Segudet",
+      "nativeName": "Segudet",
+      "code": "AD-05-3039132",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-05",
+      "latitude": 42.55713,
+      "longitude": 1.53808
+    },
+    {
+      "id": 3038987,
+      "name": "Sornàs",
+      "nativeName": "Sornàs",
+      "code": "AD-05-3038987",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-05",
+      "latitude": 42.56461,
+      "longitude": 1.52757
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "stateId": 7670852,
+  "stateCode": "MG-44",
+  "countryCode": "MG",
+  "cities": [
+    {
+      "id": 11072836,
+      "name": "Ambatomainty",
+      "nativeName": "Ambatomainty",
+      "code": "MG-44-11072836",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-44",
+      "latitude": -17.74527,
+      "longitude": 45.57054
+    },
+    {
+      "id": 11926429,
+      "name": "Antsalova",
+      "nativeName": "Antsalova",
+      "code": "MG-44-11926429",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-44",
+      "latitude": -18.8307,
+      "longitude": 44.63097
+    },
+    {
+      "id": 11926428,
+      "name": "Besalampy",
+      "nativeName": "Besalampy",
+      "code": "MG-44-11926428",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-44",
+      "latitude": -16.90364,
+      "longitude": 44.91277
+    },
+    {
+      "id": 11072835,
+      "name": "Maintirano",
+      "nativeName": "Maintirano",
+      "code": "MG-44-11072835",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-44",
+      "latitude": -17.88026,
+      "longitude": 44.22864
+    },
+    {
+      "id": 11926430,
+      "name": "Morafenobe",
+      "nativeName": "Morafenobe",
+      "code": "MG-44-11926430",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-44",
+      "latitude": -17.93466,
+      "longitude": 44.95933
+    }
+  ]
+}

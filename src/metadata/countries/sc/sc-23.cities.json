@@ -1,0 +1,29 @@
+{
+  "stateId": 241151,
+  "stateCode": "SC-23",
+  "countryCode": "SC",
+  "cities": [
+    {
+      "id": 241150,
+      "name": "Takamaka",
+      "nativeName": "Takamaka",
+      "code": "SC-23-241150",
+      "countryId": 241170,
+      "countryCode": "SC",
+      "stateCode": "SC-23",
+      "latitude": -4.76667,
+      "longitude": 55.5
+    },
+    {
+      "id": 10860737,
+      "name": "Quatre Bornes",
+      "nativeName": "Quatre Bornes",
+      "code": "SC-23-10860737",
+      "countryId": 241170,
+      "countryCode": "SC",
+      "stateCode": "SC-23",
+      "latitude": -4.77873,
+      "longitude": 55.51012
+    }
+  ]
+}

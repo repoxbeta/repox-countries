@@ -1,0 +1,50 @@
+{
+  "countryId": 2081918,
+  "countryCode": "FM",
+  "states": [
+    {
+      "id": 2082282,
+      "name": "Chuuk",
+      "nativeName": "State of Chuuk",
+      "code": "FM-TRK",
+      "internalCode": "TRK",
+      "countryId": 2081918,
+      "countryCode": "FM",
+      "latitude": 7.44077,
+      "longitude": 151.85431
+    },
+    {
+      "id": 2081550,
+      "name": "Pohnpei State",
+      "nativeName": "State of Pohnpei",
+      "code": "FM-PNI",
+      "internalCode": "PNI",
+      "countryId": 2081918,
+      "countryCode": "FM",
+      "latitude": 6.964,
+      "longitude": 158.2056
+    },
+    {
+      "id": 2082036,
+      "name": "State of Kosrae",
+      "nativeName": "State of Kosrae",
+      "code": "FM-KSA",
+      "internalCode": "KSA",
+      "countryId": 2081918,
+      "countryCode": "FM",
+      "latitude": 5.325,
+      "longitude": 162.981
+    },
+    {
+      "id": 2081175,
+      "name": "Yap State",
+      "nativeName": "State of Yap",
+      "code": "FM-YAP",
+      "internalCode": "YAP",
+      "countryId": 2081918,
+      "countryCode": "FM",
+      "latitude": 9.538,
+      "longitude": 138.097
+    }
+  ]
+}

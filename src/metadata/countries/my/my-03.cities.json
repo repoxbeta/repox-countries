@@ -1,0 +1,117 @@
+{
+  "stateId": 1733044,
+  "stateCode": "MY-03",
+  "countryCode": "MY",
+  "cities": [
+    {
+      "id": 12231163,
+      "name": "Bachok",
+      "nativeName": "Bachok",
+      "code": "MY-03-12231163",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-03",
+      "latitude": 5.99819,
+      "longitude": 102.37893
+    },
+    {
+      "id": 12231348,
+      "name": "Gua Musang",
+      "nativeName": "Gua Musang",
+      "code": "MY-03-12231348",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-03",
+      "latitude": 4.94548,
+      "longitude": 101.96184
+    },
+    {
+      "id": 7067991,
+      "name": "Jeli",
+      "nativeName": "Jeli",
+      "code": "MY-03-7067991",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-03",
+      "latitude": 5.58762,
+      "longitude": 101.81001
+    },
+    {
+      "id": 1736375,
+      "name": "Kota Bharu",
+      "nativeName": "Kota Bharu",
+      "code": "MY-03-1736375",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-03",
+      "latitude": 6.05666,
+      "longitude": 102.26451
+    },
+    {
+      "id": 9781089,
+      "name": "Kuala Krai",
+      "nativeName": "Kuala Krai",
+      "code": "MY-03-9781089",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-03",
+      "latitude": 5.57362,
+      "longitude": 102.21405
+    },
+    {
+      "id": 12231296,
+      "name": "Machang",
+      "nativeName": "Machang",
+      "code": "MY-03-12231296",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-03",
+      "latitude": 5.7465,
+      "longitude": 102.24805
+    },
+    {
+      "id": 7068125,
+      "name": "Pasir Mas",
+      "nativeName": "Pasir Mas",
+      "code": "MY-03-7068125",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-03",
+      "latitude": 6.04804,
+      "longitude": 102.10867
+    },
+    {
+      "id": 12231306,
+      "name": "Pasir Puteh",
+      "nativeName": "Pasir Puteh",
+      "code": "MY-03-12231306",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-03",
+      "latitude": 5.8361,
+      "longitude": 102.38834
+    },
+    {
+      "id": 1734461,
+      "name": "Tanah Merah",
+      "nativeName": "Tanah Merah",
+      "code": "MY-03-1734461",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-03",
+      "latitude": 5.66667,
+      "longitude": 102
+    },
+    {
+      "id": 7068169,
+      "name": "Tumpat",
+      "nativeName": "Tumpat",
+      "code": "MY-03-7068169",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-03",
+      "latitude": 6.20101,
+      "longitude": 102.13521
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "stateId": 5843591,
+  "stateCode": "US-WY",
+  "countryCode": "US",
+  "cities": [
+    {
+      "id": 5816904,
+      "name": "Albany",
+      "nativeName": "Albany County",
+      "code": "US-WY-5816904",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-WY",
+      "latitude": 41.65447,
+      "longitude": -105.72391
+    },
+    {
+      "id": 5818658,
+      "name": "Big Horn",
+      "nativeName": "Big Horn County",
+      "code": "US-WY-5818658",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-WY",
+      "latitude": 44.52682,
+      "longitude": -107.99521
+    },
+    {
+      "id": 5820441,
+      "name": "Campbell",
+      "nativeName": "Campbell County",
+      "code": "US-WY-5820441",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-WY",
+      "latitude": 44.24839,
+      "longitude": -105.54831
+    },
+    {
+      "id": 5820552,
+      "name": "Carbon",
+      "nativeName": "Carbon County",
+      "code": "US-WY-5820552",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-WY",
+      "latitude": 41.69459,
+      "longitude": -106.93061
+    },
+    {
+      "id": 5821791,
+      "name": "Converse",
+      "nativeName": "Converse County",
+      "code": "US-WY-5821791",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-WY",
+      "latitude": 42.97233,
+      "longitude": -105.50706
+    },
+    {
+      "id": 5822351,
+      "name": "Crook",
+      "nativeName": "Crook County",
+      "code": "US-WY-5822351",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-WY",
+      "latitude": 44.5886,
+      "longitude": -104.56994
+    },
+    {
+      "id": 5825643,
+      "name": "Fremont",
+      "nativeName": "Fremont County",
+      "code": "US-WY-5825643",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-WY",
+      "latitude": 43.04053,
+      "longitude": -108.63042
+    },
+    {
+      "id": 5826220,
+      "name": "Goshen",
+      "nativeName": "Goshen County",
+      "code": "US-WY-5826220",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-WY",
+      "latitude": 42.08794,
+      "longitude": -104.35326
+    },
+    {
+      "id": 5828054,
+      "name": "Hot Springs",
+      "nativeName": "Hot Springs County",
+      "code": "US-WY-5828054",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-WY",
+      "latitude": 43.71893,
+      "longitude": -108.4421
+    },
+    {
+      "id": 5828957,
+      "name": "Johnson",
+      "nativeName": "Johnson County",
+      "code": "US-WY-5828957",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-WY",
+      "latitude": 44.03877,
+      "longitude": -106.58463
+    },
+    {
+      "id": 5830051,
+      "name": "Laramie",
+      "nativeName": "Laramie County",
+      "code": "US-WY-5830051",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-WY",
+      "latitude": 41.30707,
+      "longitude": -104.68962
+    },
+    {
+      "id": 5830383,
+      "name": "Lincoln",
+      "nativeName": "Lincoln County",
+      "code": "US-WY-5830383",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-WY",
+      "latitude": 42.26404,
+      "longitude": -110.65597
+    },
+    {
+      "id": 5833224,
+      "name": "Natrona",
+      "nativeName": "Natrona County",
+      "code": "US-WY-5833224",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-WY",
+      "latitude": 42.96224,
+      "longitude": -106.79849
+    },
+    {
+      "id": 5833446,
+      "name": "Niobrara",
+      "nativeName": "Niobrara County",
+      "code": "US-WY-5833446",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-WY",
+      "latitude": 43.0565,
+      "longitude": -104.47538
+    },
+    {
+      "id": 5834587,
+      "name": "Park",
+      "nativeName": "Park County",
+      "code": "US-WY-5834587",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-WY",
+      "latitude": 44.52057,
+      "longitude": -109.58853
+    },
+    {
+      "id": 5835308,
+      "name": "Platte",
+      "nativeName": "Platte County",
+      "code": "US-WY-5835308",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-WY",
+      "latitude": 42.13305,
+      "longitude": -104.96582
+    },
+    {
+      "id": 5838199,
+      "name": "Sheridan",
+      "nativeName": "Sheridan County",
+      "code": "US-WY-5838199",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-WY",
+      "latitude": 44.79004,
+      "longitude": -106.87948
+    },
+    {
+      "id": 5840177,
+      "name": "Sublette",
+      "nativeName": "Sublette County",
+      "code": "US-WY-5840177",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-WY",
+      "latitude": 42.76691,
+      "longitude": -109.91471
+    },
+    {
+      "id": 5840426,
+      "name": "Sweetwater",
+      "nativeName": "Sweetwater County",
+      "code": "US-WY-5840426",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-WY",
+      "latitude": 41.6595,
+      "longitude": -108.87942
+    },
+    {
+      "id": 5840786,
+      "name": "Teton",
+      "nativeName": "Teton County",
+      "code": "US-WY-5840786",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-WY",
+      "latitude": 43.93476,
+      "longitude": -110.58974
+    },
+    {
+      "id": 5841693,
+      "name": "Uinta",
+      "nativeName": "Uinta County",
+      "code": "US-WY-5841693",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-WY",
+      "latitude": 41.28756,
+      "longitude": -110.54759
+    },
+    {
+      "id": 5842257,
+      "name": "Washakie",
+      "nativeName": "Washakie County",
+      "code": "US-WY-5842257",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-WY",
+      "latitude": 43.905,
+      "longitude": -107.68286
+    },
+    {
+      "id": 5842707,
+      "name": "Weston",
+      "nativeName": "Weston County",
+      "code": "US-WY-5842707",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-WY",
+      "latitude": 43.84049,
+      "longitude": -104.56783
+    }
+  ]
+}

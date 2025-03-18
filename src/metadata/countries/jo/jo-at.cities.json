@@ -1,0 +1,40 @@
+{
+  "stateId": 250199,
+  "stateCode": "JO-AT",
+  "countryCode": "JO",
+  "cities": [
+    {
+      "id": 8621741,
+      "name": "Liwā’ Buşayrā",
+      "nativeName": "Liwā’ Buşayrā",
+      "code": "JO-AT-8621741",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "stateCode": "JO-AT",
+      "latitude": 30.67979,
+      "longitude": 35.61525
+    },
+    {
+      "id": 8621739,
+      "name": "Liwā’ Qaşabat aţ Ţafīlah",
+      "nativeName": "Liwā’ Qaşabat aţ Ţafīlah",
+      "code": "JO-AT-8621739",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "stateCode": "JO-AT",
+      "latitude": 30.82788,
+      "longitude": 35.54781
+    },
+    {
+      "id": 8621730,
+      "name": "Liwā’ al Ḩasā",
+      "nativeName": "Liwā’ al Ḩasā",
+      "code": "JO-AT-8621730",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "stateCode": "JO-AT",
+      "latitude": 30.77057,
+      "longitude": 35.87614
+    }
+  ]
+}

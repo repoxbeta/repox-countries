@@ -1,0 +1,183 @@
+{
+  "stateId": 3687479,
+  "stateCode": "CO-CAQ",
+  "countryCode": "CO",
+  "cities": [
+    {
+      "id": 8128836,
+      "name": "Albania",
+      "nativeName": "Albania",
+      "code": "CO-CAQ-8128836",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-CAQ",
+      "latitude": 1.26325,
+      "longitude": -75.95366
+    },
+    {
+      "id": 3688992,
+      "name": "Belén de Los Andaquies",
+      "nativeName": "Belén de Los Andaquies",
+      "code": "CO-CAQ-3688992",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-CAQ",
+      "latitude": 1.41667,
+      "longitude": -75.91667
+    },
+    {
+      "id": 9172287,
+      "name": "Cartagena del Chairá",
+      "nativeName": "Cartagena del Chairá",
+      "code": "CO-CAQ-9172287",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-CAQ",
+      "latitude": 0.85246,
+      "longitude": -74.6059
+    },
+    {
+      "id": 9172289,
+      "name": "Curillo",
+      "nativeName": "Curillo",
+      "code": "CO-CAQ-9172289",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-CAQ",
+      "latitude": 1.09861,
+      "longitude": -76.0304
+    },
+    {
+      "id": 6979260,
+      "name": "El Doncello",
+      "nativeName": "El Doncello",
+      "code": "CO-CAQ-6979260",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-CAQ",
+      "latitude": 1.7086,
+      "longitude": -75.28588
+    },
+    {
+      "id": 6979261,
+      "name": "El Paujil",
+      "nativeName": "El Paujil",
+      "code": "CO-CAQ-6979261",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-CAQ",
+      "latitude": 1.57085,
+      "longitude": -75.31403
+    },
+    {
+      "id": 3682428,
+      "name": "Florencia",
+      "nativeName": "Florencia",
+      "code": "CO-CAQ-3682428",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-CAQ",
+      "latitude": 1.71619,
+      "longitude": -75.59624
+    },
+    {
+      "id": 3674528,
+      "name": "La Montañita",
+      "nativeName": "La Montañita",
+      "code": "CO-CAQ-3674528",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-CAQ",
+      "latitude": 1.46389,
+      "longitude": -75.30363
+    },
+    {
+      "id": 6977691,
+      "name": "Milán",
+      "nativeName": "Milán",
+      "code": "CO-CAQ-6977691",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-CAQ",
+      "latitude": 1.15382,
+      "longitude": -75.54606
+    },
+    {
+      "id": 9172293,
+      "name": "Morelia",
+      "nativeName": "Morelia",
+      "code": "CO-CAQ-9172293",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-CAQ",
+      "latitude": 1.4823,
+      "longitude": -75.72052
+    },
+    {
+      "id": 6979259,
+      "name": "Puerto Rico",
+      "nativeName": "Puerto Rico",
+      "code": "CO-CAQ-6979259",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-CAQ",
+      "latitude": 1.96779,
+      "longitude": -75.03334
+    },
+    {
+      "id": 9172295,
+      "name": "San José del Fragua",
+      "nativeName": "San José del Fragua",
+      "code": "CO-CAQ-9172295",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-CAQ",
+      "latitude": 1.3078,
+      "longitude": -76.16554
+    },
+    {
+      "id": 3668291,
+      "name": "San Vicente del Caguán",
+      "nativeName": "San Vicente del Caguán",
+      "code": "CO-CAQ-3668291",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-CAQ",
+      "latitude": 1.578,
+      "longitude": -74.51784
+    },
+    {
+      "id": 9172297,
+      "name": "Solano",
+      "nativeName": "Solano",
+      "code": "CO-CAQ-9172297",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-CAQ",
+      "latitude": 0.22842,
+      "longitude": -73.27597
+    },
+    {
+      "id": 6792005,
+      "name": "Solita",
+      "nativeName": "Solita",
+      "code": "CO-CAQ-6792005",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-CAQ",
+      "latitude": 0.96979,
+      "longitude": -75.65532
+    },
+    {
+      "id": 9172351,
+      "name": "Valparaíso",
+      "nativeName": "Valparaíso",
+      "code": "CO-CAQ-9172351",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-CAQ",
+      "latitude": 1.05706,
+      "longitude": -75.75969
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "stateId": 3337500,
+  "stateCode": "PL-04",
+  "countryCode": "PL",
+  "cities": [
+    {
+      "id": 7530904,
+      "name": "Aleksandrów County",
+      "nativeName": "Powiat aleksandrowski",
+      "code": "PL-04-7530904",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-04",
+      "latitude": 52.78465,
+      "longitude": 18.7193
+    },
+    {
+      "id": 7530905,
+      "name": "Brodnica County",
+      "nativeName": "Powiat brodnicki",
+      "code": "PL-04-7530905",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-04",
+      "latitude": 53.26982,
+      "longitude": 19.42279
+    },
+    {
+      "id": 7530814,
+      "name": "Bydgoszcz",
+      "nativeName": "Bydgoszcz",
+      "code": "PL-04-7530814",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-04",
+      "latitude": 53.12973,
+      "longitude": 18.0383
+    },
+    {
+      "id": 7530906,
+      "name": "Bydgoszcz County",
+      "nativeName": "Powiat bydgoski",
+      "code": "PL-04-7530906",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-04",
+      "latitude": 53.19029,
+      "longitude": 18.03808
+    },
+    {
+      "id": 7530907,
+      "name": "Chełmno County",
+      "nativeName": "Powiat chełmiński",
+      "code": "PL-04-7530907",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-04",
+      "latitude": 53.30056,
+      "longitude": 18.50396
+    },
+    {
+      "id": 7530908,
+      "name": "Golub-Dobrzyń County",
+      "nativeName": "Powiat golubsko-dobrzyński",
+      "code": "PL-04-7530908",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-04",
+      "latitude": 53.09922,
+      "longitude": 18.99209
+    },
+    {
+      "id": 7530969,
+      "name": "Grudziądz",
+      "nativeName": "Grudziądz",
+      "code": "PL-04-7530969",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-04",
+      "latitude": 53.47246,
+      "longitude": 18.77849
+    },
+    {
+      "id": 7530909,
+      "name": "Grudziądz County",
+      "nativeName": "Powiat grudziądzki",
+      "code": "PL-04-7530909",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-04",
+      "latitude": 53.47146,
+      "longitude": 18.9162
+    },
+    {
+      "id": 7530910,
+      "name": "Inowrocław County",
+      "nativeName": "Powiat inowrocławski",
+      "code": "PL-04-7530910",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-04",
+      "latitude": 52.76463,
+      "longitude": 18.29671
+    },
+    {
+      "id": 7530911,
+      "name": "Lipno County",
+      "nativeName": "Powiat lipnowski",
+      "code": "PL-04-7530911",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-04",
+      "latitude": 52.81573,
+      "longitude": 19.21704
+    },
+    {
+      "id": 7530912,
+      "name": "Mogilno County",
+      "nativeName": "Powiat mogileński",
+      "code": "PL-04-7530912",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-04",
+      "latitude": 52.6616,
+      "longitude": 18.07424
+    },
+    {
+      "id": 7530913,
+      "name": "Nakło County",
+      "nativeName": "Powiat nakielski",
+      "code": "PL-04-7530913",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-04",
+      "latitude": 53.0948,
+      "longitude": 17.58988
+    },
+    {
+      "id": 7530914,
+      "name": "Radziejów County",
+      "nativeName": "Powiat radziejowski",
+      "code": "PL-04-7530914",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-04",
+      "latitude": 52.62358,
+      "longitude": 18.52964
+    },
+    {
+      "id": 7530915,
+      "name": "Rypin County",
+      "nativeName": "Powiat rypiński",
+      "code": "PL-04-7530915",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-04",
+      "latitude": 53.06613,
+      "longitude": 19.40975
+    },
+    {
+      "id": 7530916,
+      "name": "Sępólno County",
+      "nativeName": "Powiat sępoleński",
+      "code": "PL-04-7530916",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-04",
+      "latitude": 53.44263,
+      "longitude": 17.50895
+    },
+    {
+      "id": 7530813,
+      "name": "Toruń",
+      "nativeName": "Toruń",
+      "code": "PL-04-7530813",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-04",
+      "latitude": 53.01449,
+      "longitude": 18.60145
+    },
+    {
+      "id": 7530918,
+      "name": "Toruń County",
+      "nativeName": "Powiat Toruński",
+      "code": "PL-04-7530918",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-04",
+      "latitude": 52.98255,
+      "longitude": 18.83331
+    },
+    {
+      "id": 7530919,
+      "name": "Tuchola County",
+      "nativeName": "Powiat tucholski",
+      "code": "PL-04-7530919",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-04",
+      "latitude": 53.58146,
+      "longitude": 17.93967
+    },
+    {
+      "id": 7530920,
+      "name": "Wąbrzeźno County",
+      "nativeName": "Powiat wąbrzeski",
+      "code": "PL-04-7530920",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-04",
+      "latitude": 53.28267,
+      "longitude": 18.92649
+    },
+    {
+      "id": 7530966,
+      "name": "Włocławek",
+      "nativeName": "Włocławek",
+      "code": "PL-04-7530966",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-04",
+      "latitude": 52.66538,
+      "longitude": 19.06083
+    },
+    {
+      "id": 7530921,
+      "name": "Włocławek County",
+      "nativeName": "Powiat włocławski",
+      "code": "PL-04-7530921",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-04",
+      "latitude": 52.55662,
+      "longitude": 19.05157
+    },
+    {
+      "id": 7530917,
+      "name": "Świecie County",
+      "nativeName": "Powiat świecki",
+      "code": "PL-04-7530917",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-04",
+      "latitude": 53.48128,
+      "longitude": 18.41163
+    },
+    {
+      "id": 7530922,
+      "name": "Żnin County",
+      "nativeName": "Powiat żniński",
+      "code": "PL-04-7530922",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-04",
+      "latitude": 52.82255,
+      "longitude": 17.73743
+    }
+  ]
+}

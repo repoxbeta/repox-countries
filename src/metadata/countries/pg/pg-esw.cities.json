@@ -1,0 +1,73 @@
+{
+  "stateId": 2097846,
+  "stateCode": "PG-ESW",
+  "countryCode": "PG",
+  "cities": [
+    {
+      "id": 2100931,
+      "name": "Ambunti-Dreikikier District",
+      "nativeName": "Ambunti Dreikikir",
+      "code": "PG-ESW-2100931",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-ESW",
+      "latitude": -4.33333,
+      "longitude": 142.33333
+    },
+    {
+      "id": 2100764,
+      "name": "Angoram District",
+      "nativeName": "Angoram",
+      "code": "PG-ESW-2100764",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-ESW",
+      "latitude": -4.5,
+      "longitude": 143.83333
+    },
+    {
+      "id": 2091472,
+      "name": "Maprik District",
+      "nativeName": "Maprik",
+      "code": "PG-ESW-2091472",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-ESW",
+      "latitude": -3.75,
+      "longitude": 143
+    },
+    {
+      "id": 2083536,
+      "name": "Wewak District",
+      "nativeName": "Wewak",
+      "code": "PG-ESW-2083536",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-ESW",
+      "latitude": -3.58333,
+      "longitude": 143.5
+    },
+    {
+      "id": 8657208,
+      "name": "Wosera-Gaui District",
+      "nativeName": "Wosera Gaui",
+      "code": "PG-ESW-8657208",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-ESW",
+      "latitude": -4.55,
+      "longitude": 142.78333
+    },
+    {
+      "id": 8657209,
+      "name": "Yangoru Saussia",
+      "nativeName": "Yangoru Saussia",
+      "code": "PG-ESW-8657209",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-ESW",
+      "latitude": -3.81667,
+      "longitude": 143.46667
+    }
+  ]
+}

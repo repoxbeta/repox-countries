@@ -1,0 +1,73 @@
+{
+  "stateId": 408667,
+  "stateCode": "SD-KN",
+  "countryCode": "SD",
+  "cities": [
+    {
+      "id": 11239073,
+      "name": "Bara",
+      "nativeName": "Bara",
+      "code": "SD-KN-11239073",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-KN",
+      "latitude": 13.70537,
+      "longitude": 30.37565
+    },
+    {
+      "id": 7828737,
+      "name": "En Nuhud",
+      "nativeName": "En Nuhud",
+      "code": "SD-KN-7828737",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-KN",
+      "latitude": 12.8808,
+      "longitude": 29.04599
+    },
+    {
+      "id": 7828736,
+      "name": "Ghebeish",
+      "nativeName": "Ghebeish",
+      "code": "SD-KN-7828736",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-KN",
+      "latitude": 12.53423,
+      "longitude": 27.73734
+    },
+    {
+      "id": 371850,
+      "name": "Mudīrīyat Kurdufān ash Shamālīyah",
+      "nativeName": "Mudīrīyat Kurdufān ash Shamālīyah",
+      "code": "SD-KN-371850",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-KN",
+      "latitude": 14.5,
+      "longitude": 29.5
+    },
+    {
+      "id": 8051146,
+      "name": "Sheikan",
+      "nativeName": "Sheikan",
+      "code": "SD-KN-8051146",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-KN",
+      "latitude": 13.977,
+      "longitude": 29.992
+    },
+    {
+      "id": 8051147,
+      "name": "Um Rawaba",
+      "nativeName": "Um Rawaba",
+      "code": "SD-KN-8051147",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-KN",
+      "latitude": 13.21,
+      "longitude": 31.23
+    }
+  ]
+}

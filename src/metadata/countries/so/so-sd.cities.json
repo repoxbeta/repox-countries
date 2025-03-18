@@ -1,0 +1,51 @@
+{
+  "stateId": 51967,
+  "stateCode": "SO-SD",
+  "countryCode": "SO",
+  "cities": [
+    {
+      "id": 9179654,
+      "name": "Adale District",
+      "nativeName": "Cadale",
+      "code": "SO-SD-9179654",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-SD",
+      "latitude": 3.09074,
+      "longitude": 46.26398
+    },
+    {
+      "id": 9179649,
+      "name": "Adan Yabal District",
+      "nativeName": "Adan Yabaal",
+      "code": "SO-SD-9179649",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-SD",
+      "latitude": 3.5484,
+      "longitude": 46.54585
+    },
+    {
+      "id": 9179651,
+      "name": "Balad District",
+      "nativeName": "Balcad",
+      "code": "SO-SD-9179651",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-SD",
+      "latitude": 2.48779,
+      "longitude": 45.6592
+    },
+    {
+      "id": 9179658,
+      "name": "Jowhar District",
+      "nativeName": "Jowhar",
+      "code": "SO-SD-9179658",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-SD",
+      "latitude": 2.99337,
+      "longitude": 45.56808
+    }
+  ]
+}

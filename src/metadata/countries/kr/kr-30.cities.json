@@ -1,0 +1,62 @@
+{
+  "stateId": 1835224,
+  "stateCode": "KR-30",
+  "countryCode": "KR",
+  "cities": [
+    {
+      "id": 1835409,
+      "name": "Daedeok-gu",
+      "nativeName": "Daedeok-gu",
+      "code": "KR-30-1835409",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-30",
+      "latitude": 36.4059,
+      "longitude": 127.44008
+    },
+    {
+      "id": 8419687,
+      "name": "Dong-gu",
+      "nativeName": "Dong-gu",
+      "code": "KR-30-8419687",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-30",
+      "latitude": 36.32938,
+      "longitude": 127.44313
+    },
+    {
+      "id": 8419686,
+      "name": "Jung-gu",
+      "nativeName": "Jung-gu",
+      "code": "KR-30-8419686",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-30",
+      "latitude": 36.2737,
+      "longitude": 127.41769
+    },
+    {
+      "id": 8419685,
+      "name": "Seo-gu",
+      "nativeName": "Seo-gu",
+      "code": "KR-30-8419685",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-30",
+      "latitude": 36.27211,
+      "longitude": 127.331
+    },
+    {
+      "id": 8419684,
+      "name": "Yuseong-gu",
+      "nativeName": "Yuseong-gu",
+      "code": "KR-30-8419684",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-30",
+      "latitude": 36.36685,
+      "longitude": 127.327
+    }
+  ]
+}

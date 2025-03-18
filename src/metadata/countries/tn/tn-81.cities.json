@@ -1,0 +1,117 @@
+{
+  "stateId": 2468365,
+  "stateCode": "TN-81",
+  "countryCode": "TN",
+  "cities": [
+    {
+      "id": 2470606,
+      "name": "El Hamma",
+      "nativeName": "El Hamma",
+      "code": "TN-81-2470606",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-81",
+      "latitude": 33.89261,
+      "longitude": 9.5943
+    },
+    {
+      "id": 2473532,
+      "name": "El Metouia",
+      "nativeName": "Metouia",
+      "code": "TN-81-2473532",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-81",
+      "latitude": 34.0646,
+      "longitude": 9.95376
+    },
+    {
+      "id": 2468367,
+      "name": "Gabes Medina",
+      "nativeName": "Délégation de Gabès Ville",
+      "code": "TN-81-2468367",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-81",
+      "latitude": 33.89615,
+      "longitude": 10.09673
+    },
+    {
+      "id": 11128523,
+      "name": "Gabes Ouest",
+      "nativeName": "Délégation de Gabès Ouest",
+      "code": "TN-81-11128523",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-81",
+      "latitude": 33.89484,
+      "longitude": 9.9884
+    },
+    {
+      "id": 11128524,
+      "name": "Gabes Sud",
+      "nativeName": "Délégation de Gabès Sud",
+      "code": "TN-81-11128524",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-81",
+      "latitude": 33.79805,
+      "longitude": 10.04938
+    },
+    {
+      "id": 11105083,
+      "name": "Ghanouch",
+      "nativeName": "Ghannouch",
+      "code": "TN-81-11105083",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-81",
+      "latitude": 33.94324,
+      "longitude": 10.0575
+    },
+    {
+      "id": 2469173,
+      "name": "Mareth",
+      "nativeName": "Mareth",
+      "code": "TN-81-2469173",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-81",
+      "latitude": 33.6537,
+      "longitude": 10.24437
+    },
+    {
+      "id": 2469082,
+      "name": "Matmata",
+      "nativeName": "Matmata",
+      "code": "TN-81-2469082",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-81",
+      "latitude": 33.45186,
+      "longitude": 9.80189
+    },
+    {
+      "id": 11101910,
+      "name": "Menzel El Habib",
+      "nativeName": "Menzel Habib",
+      "code": "TN-81-11101910",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-81",
+      "latitude": 34.23032,
+      "longitude": 9.59656
+    },
+    {
+      "id": 11105082,
+      "name": "Nouvelle Matmata",
+      "nativeName": "Nouvelle Matmata",
+      "code": "TN-81-11105082",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-81",
+      "latitude": 33.66601,
+      "longitude": 9.88517
+    }
+  ]
+}

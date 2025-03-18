@@ -1,0 +1,73 @@
+{
+  "stateId": 1606589,
+  "stateCode": "TH-11",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 1619610,
+      "name": "Bang Bo",
+      "nativeName": "Amphoe Bang Bo",
+      "code": "TH-11-1619610",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-11",
+      "latitude": 13.5896,
+      "longitude": 100.86711
+    },
+    {
+      "id": 1619346,
+      "name": "Bang Phli",
+      "nativeName": "Amphoe Bang Phli",
+      "code": "TH-11-1619346",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-11",
+      "latitude": 13.61972,
+      "longitude": 100.72582
+    },
+    {
+      "id": 7099857,
+      "name": "Bang Sao Thong",
+      "nativeName": "Amphoe Bang Sao Thong",
+      "code": "TH-11-7099857",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-11",
+      "latitude": 13.63286,
+      "longitude": 100.81038
+    },
+    {
+      "id": 1608623,
+      "name": "Mueang Samut Prakan",
+      "nativeName": "Amphoe Mueang Samut Prakan",
+      "code": "TH-11-1608623",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-11",
+      "latitude": 13.56855,
+      "longitude": 100.65148
+    },
+    {
+      "id": 1607507,
+      "name": "Phra Pradaeng",
+      "nativeName": "Amphoe Phra Pradaeng",
+      "code": "TH-11-1607507",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-11",
+      "latitude": 13.65246,
+      "longitude": 100.55271
+    },
+    {
+      "id": 6907984,
+      "name": "Phra Samut Chedi",
+      "nativeName": "Amphoe Phra Samut Chedi",
+      "code": "TH-11-6907984",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-11",
+      "latitude": 13.55622,
+      "longitude": 100.51485
+    }
+  ]
+}

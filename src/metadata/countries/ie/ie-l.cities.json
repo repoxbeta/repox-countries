@@ -1,0 +1,172 @@
+{
+  "stateId": 7521314,
+  "stateCode": "IE-L",
+  "countryCode": "IE",
+  "cities": [
+    {
+      "id": 2965767,
+      "name": "Carlow",
+      "nativeName": "County Carlow",
+      "code": "IE-L-2965767",
+      "countryId": 2963597,
+      "countryCode": "IE",
+      "stateCode": "IE-L",
+      "latitude": 52.66667,
+      "longitude": -6.83333
+    },
+    {
+      "id": 2963435,
+      "name": "Co Kildare",
+      "nativeName": "Kildare",
+      "code": "IE-L-2963435",
+      "countryId": 2963597,
+      "countryCode": "IE",
+      "stateCode": "IE-L",
+      "latitude": 53.16667,
+      "longitude": -6.75
+    },
+    {
+      "id": 2962839,
+      "name": "Co Longford",
+      "nativeName": "An Longfort",
+      "code": "IE-L-2962839",
+      "countryId": 2963597,
+      "countryCode": "IE",
+      "stateCode": "IE-L",
+      "latitude": 53.66667,
+      "longitude": -7.75
+    },
+    {
+      "id": 2962793,
+      "name": "Co Louth",
+      "nativeName": "Louth",
+      "code": "IE-L-2962793",
+      "countryId": 2963597,
+      "countryCode": "IE",
+      "stateCode": "IE-L",
+      "latitude": 53.83333,
+      "longitude": -6.5
+    },
+    {
+      "id": 2963397,
+      "name": "County Kilkenny",
+      "nativeName": "Kilkenny",
+      "code": "IE-L-2963397",
+      "countryId": 2963597,
+      "countryCode": "IE",
+      "stateCode": "IE-L",
+      "latitude": 52.58333,
+      "longitude": -7.25
+    },
+    {
+      "id": 2962187,
+      "name": "County Offaly",
+      "nativeName": "Uíbh Fhailí",
+      "code": "IE-L-2962187",
+      "countryId": 2963597,
+      "countryCode": "IE",
+      "stateCode": "IE-L",
+      "latitude": 53.25,
+      "longitude": -7.5
+    },
+    {
+      "id": 2960972,
+      "name": "County Westmeath",
+      "nativeName": "Westmeath",
+      "code": "IE-L-2960972",
+      "countryId": 2963597,
+      "countryCode": "IE",
+      "stateCode": "IE-L",
+      "latitude": 53.5,
+      "longitude": -7.5
+    },
+    {
+      "id": 2960963,
+      "name": "County Wexford",
+      "nativeName": "Wexford",
+      "code": "IE-L-2960963",
+      "countryId": 2963597,
+      "countryCode": "IE",
+      "stateCode": "IE-L",
+      "latitude": 52.5,
+      "longitude": -6.66667
+    },
+    {
+      "id": 2960935,
+      "name": "County Wicklow",
+      "nativeName": "Wicklow",
+      "code": "IE-L-2960935",
+      "countryId": 2963597,
+      "countryCode": "IE",
+      "stateCode": "IE-L",
+      "latitude": 53,
+      "longitude": -6.41667
+    },
+    {
+      "id": 7778677,
+      "name": "Dublin City",
+      "nativeName": "Dublin City",
+      "code": "IE-L-7778677",
+      "countryId": 2963597,
+      "countryCode": "IE",
+      "stateCode": "IE-L",
+      "latitude": 53.35512,
+      "longitude": -6.24922
+    },
+    {
+      "id": 6941716,
+      "name": "Dún Laoghaire-Rathdown",
+      "nativeName": "Dún Laoghaire-Rathdown",
+      "code": "IE-L-6941716",
+      "countryId": 2963597,
+      "countryCode": "IE",
+      "stateCode": "IE-L",
+      "latitude": 53.29436,
+      "longitude": -6.13489
+    },
+    {
+      "id": 6693220,
+      "name": "Fingal",
+      "nativeName": "Fingal County",
+      "code": "IE-L-6693220",
+      "countryId": 2963597,
+      "countryCode": "IE",
+      "stateCode": "IE-L",
+      "latitude": 53.45909,
+      "longitude": -6.21942
+    },
+    {
+      "id": 2963031,
+      "name": "Laois",
+      "nativeName": "Laois",
+      "code": "IE-L-2963031",
+      "countryId": 2963597,
+      "countryCode": "IE",
+      "stateCode": "IE-L",
+      "latitude": 53,
+      "longitude": -7.4
+    },
+    {
+      "id": 2962661,
+      "name": "Meath",
+      "nativeName": "Meath",
+      "code": "IE-L-2962661",
+      "countryId": 2963597,
+      "countryCode": "IE",
+      "stateCode": "IE-L",
+      "latitude": 53.66667,
+      "longitude": -6.66667
+    },
+    {
+      "id": 7288565,
+      "name": "South Dublin",
+      "nativeName": "South Dublin",
+      "code": "IE-L-7288565",
+      "countryId": 2963597,
+      "countryCode": "IE",
+      "stateCode": "IE-L",
+      "latitude": 53.28595,
+      "longitude": -6.37739
+    }
+  ]
+}

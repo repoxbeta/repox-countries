@@ -1,0 +1,73 @@
+{
+  "stateId": 3666254,
+  "stateCode": "CO-VAU",
+  "countryCode": "CO",
+  "cities": [
+    {
+      "id": 9172379,
+      "name": "Caruru",
+      "nativeName": "Caruru",
+      "code": "CO-VAU-9172379",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-VAU",
+      "latitude": 1.02081,
+      "longitude": -71.33788
+    },
+    {
+      "id": 9172385,
+      "name": "Mitú",
+      "nativeName": "Mitú",
+      "code": "CO-VAU-9172385",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-VAU",
+      "latitude": 0.97239,
+      "longitude": -70.40635
+    },
+    {
+      "id": 9172389,
+      "name": "Pacoa",
+      "nativeName": "Pacoa",
+      "code": "CO-VAU-9172389",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-VAU",
+      "latitude": 0.15636,
+      "longitude": -70.89274
+    },
+    {
+      "id": 9172392,
+      "name": "Papunaua",
+      "nativeName": "Papunaua",
+      "code": "CO-VAU-9172392",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-VAU",
+      "latitude": 1.68335,
+      "longitude": -70.70968
+    },
+    {
+      "id": 9172394,
+      "name": "Taraira",
+      "nativeName": "Taraira",
+      "code": "CO-VAU-9172394",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-VAU",
+      "latitude": -0.74835,
+      "longitude": -69.89662
+    },
+    {
+      "id": 9172397,
+      "name": "Yavaraté",
+      "nativeName": "Yavaraté",
+      "code": "CO-VAU-9172397",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-VAU",
+      "latitude": 0.82828,
+      "longitude": -69.62959
+    }
+  ]
+}

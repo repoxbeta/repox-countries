@@ -1,0 +1,62 @@
+{
+  "stateId": 1822210,
+  "stateCode": "KH-22",
+  "countryCode": "KH",
+  "cities": [
+    {
+      "id": 8403981,
+      "name": "Anlong Veaeng",
+      "nativeName": "Srŏk Ânlóng Vêng",
+      "code": "KH-22-8403981",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-22",
+      "latitude": 14.24393,
+      "longitude": 103.98657
+    },
+    {
+      "id": 1831825,
+      "name": "Banteay Ampil",
+      "nativeName": "Srŏk Bântéay Âmpĭl",
+      "code": "KH-22-1831825",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-22",
+      "latitude": 14.1859,
+      "longitude": 103.25925
+    },
+    {
+      "id": 9253786,
+      "name": "Chong Kal",
+      "nativeName": "Chong Kal",
+      "code": "KH-22-9253786",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-22",
+      "latitude": 14.01766,
+      "longitude": 103.58211
+    },
+    {
+      "id": 1822319,
+      "name": "Krong Samraong",
+      "nativeName": "Srŏk Sâmraông",
+      "code": "KH-22-1822319",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-22",
+      "latitude": 14.25039,
+      "longitude": 103.62739
+    },
+    {
+      "id": 8403982,
+      "name": "Trapeang Prasat",
+      "nativeName": "Srŏk Trâpeăng Prasat",
+      "code": "KH-22-8403982",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-22",
+      "latitude": 14.25809,
+      "longitude": 104.30835
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "stateId": 317106,
+  "stateCode": "TR-20",
+  "countryCode": "TR",
+  "cities": [
+    {
+      "id": 8632193,
+      "name": "Acıpayam İlçesi",
+      "nativeName": "Acıpayam İlçesi",
+      "code": "TR-20-8632193",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-20",
+      "latitude": 37.43536,
+      "longitude": 29.36146
+    },
+    {
+      "id": 8632205,
+      "name": "Babadağ İlçesi",
+      "nativeName": "Babadağ İlçesi",
+      "code": "TR-20-8632205",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-20",
+      "latitude": 37.81823,
+      "longitude": 28.8682
+    },
+    {
+      "id": 8632200,
+      "name": "Baklan İlçesi",
+      "nativeName": "Baklan İlçesi",
+      "code": "TR-20-8632200",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-20",
+      "latitude": 37.9876,
+      "longitude": 29.62032
+    },
+    {
+      "id": 8632197,
+      "name": "Bekilli",
+      "nativeName": "Bekilli",
+      "code": "TR-20-8632197",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-20",
+      "latitude": 38.24027,
+      "longitude": 29.42559
+    },
+    {
+      "id": 8632192,
+      "name": "Beyağaç İlçesi",
+      "nativeName": "Beyağaç İlçesi",
+      "code": "TR-20-8632192",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-20",
+      "latitude": 37.24546,
+      "longitude": 28.90041
+    },
+    {
+      "id": 8632201,
+      "name": "Bozkurt",
+      "nativeName": "Bozkurt",
+      "code": "TR-20-8632201",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-20",
+      "latitude": 37.77583,
+      "longitude": 29.60811
+    },
+    {
+      "id": 8632211,
+      "name": "Buldan İlçesi",
+      "nativeName": "Buldan İlçesi",
+      "code": "TR-20-8632211",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-20",
+      "latitude": 38.05536,
+      "longitude": 28.84007
+    },
+    {
+      "id": 8632195,
+      "name": "Güney İlçesi",
+      "nativeName": "Güney İlçesi",
+      "code": "TR-20-8632195",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-20",
+      "latitude": 38.16454,
+      "longitude": 29.07324
+    },
+    {
+      "id": 7732360,
+      "name": "Honaz",
+      "nativeName": "Honaz",
+      "code": "TR-20-7732360",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-20",
+      "latitude": 37.77146,
+      "longitude": 29.34466
+    },
+    {
+      "id": 8632207,
+      "name": "Kale İlçesi",
+      "nativeName": "Kale İlçesi",
+      "code": "TR-20-8632207",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-20",
+      "latitude": 37.44537,
+      "longitude": 28.85582
+    },
+    {
+      "id": 7732364,
+      "name": "Merkez",
+      "nativeName": "Merkez",
+      "code": "TR-20-7732364",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-20",
+      "latitude": 37.82637,
+      "longitude": 29.11677
+    },
+    {
+      "id": 9538816,
+      "name": "Merkezefendi İlçesi",
+      "nativeName": "Merkezefendi İlçesi",
+      "code": "TR-20-9538816",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-20",
+      "latitude": 37.8061,
+      "longitude": 29.01562
+    },
+    {
+      "id": 8632212,
+      "name": "Pamukkale İlçesi",
+      "nativeName": "Pamukkale İlçesi",
+      "code": "TR-20-8632212",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-20",
+      "latitude": 37.96709,
+      "longitude": 29.08635
+    },
+    {
+      "id": 7732660,
+      "name": "Sarayköy",
+      "nativeName": "Sarayköy",
+      "code": "TR-20-7732660",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-20",
+      "latitude": 37.9158,
+      "longitude": 28.87999
+    },
+    {
+      "id": 8632210,
+      "name": "Serinhisar İlçesi",
+      "nativeName": "Serinhisar İlçesi",
+      "code": "TR-20-8632210",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-20",
+      "latitude": 37.59127,
+      "longitude": 29.27246
+    },
+    {
+      "id": 8632208,
+      "name": "Tavas İlçesi",
+      "nativeName": "Tavas İlçesi",
+      "code": "TR-20-8632208",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-20",
+      "latitude": 37.58387,
+      "longitude": 29.0797
+    },
+    {
+      "id": 8632198,
+      "name": "Çal İlçesi",
+      "nativeName": "Çal İlçesi",
+      "code": "TR-20-8632198",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-20",
+      "latitude": 38.09371,
+      "longitude": 29.40467
+    },
+    {
+      "id": 8632194,
+      "name": "Çameli İlçesi",
+      "nativeName": "Çameli İlçesi",
+      "code": "TR-20-8632194",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-20",
+      "latitude": 37.0866,
+      "longitude": 29.35225
+    },
+    {
+      "id": 7732353,
+      "name": "Çardak",
+      "nativeName": "Çardak",
+      "code": "TR-20-7732353",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-20",
+      "latitude": 37.77485,
+      "longitude": 29.70593
+    },
+    {
+      "id": 8632190,
+      "name": "Çivril İlçesi",
+      "nativeName": "Çivril İlçesi",
+      "code": "TR-20-8632190",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-20",
+      "latitude": 38.31191,
+      "longitude": 29.7243
+    }
+  ]
+}

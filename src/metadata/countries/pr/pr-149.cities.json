@@ -1,0 +1,95 @@
+{
+  "stateId": 4568684,
+  "stateCode": "PR-149",
+  "countryCode": "PR",
+  "cities": [
+    {
+      "id": 7268331,
+      "name": "Caonillas Abajo Barrio",
+      "nativeName": "Caonillas Abajo Barrio",
+      "code": "PR-149-7268331",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-149",
+      "latitude": 18.10017,
+      "longitude": -66.44951
+    },
+    {
+      "id": 7268333,
+      "name": "Caonillas Arriba Barrio",
+      "nativeName": "Caonillas Arriba Barrio",
+      "code": "PR-149-7268333",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-149",
+      "latitude": 18.13972,
+      "longitude": -66.44204
+    },
+    {
+      "id": 7268460,
+      "name": "Hato Puerco Abajo Barrio",
+      "nativeName": "Hato Puerco Abajo Barrio",
+      "code": "PR-149-7268460",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-149",
+      "latitude": 18.10246,
+      "longitude": -66.48315
+    },
+    {
+      "id": 7268461,
+      "name": "Hato Puerco Arriba Barrio",
+      "nativeName": "Hato Puerco Arriba Barrio",
+      "code": "PR-149-7268461",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-149",
+      "latitude": 18.12484,
+      "longitude": -66.4905
+    },
+    {
+      "id": 7269061,
+      "name": "Vacas Barrio",
+      "nativeName": "Vacas Barrio",
+      "code": "PR-149-7269061",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-149",
+      "latitude": 18.15335,
+      "longitude": -66.47627
+    },
+    {
+      "id": 7269079,
+      "name": "Villalba Abajo Barrio",
+      "nativeName": "Villalba Abajo Barrio",
+      "code": "PR-149-7269079",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-149",
+      "latitude": 18.09853,
+      "longitude": -66.51444
+    },
+    {
+      "id": 7269080,
+      "name": "Villalba Arriba Barrio",
+      "nativeName": "Villalba Arriba Barrio",
+      "code": "PR-149-7269080",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-149",
+      "latitude": 18.13768,
+      "longitude": -66.5079
+    },
+    {
+      "id": 7269081,
+      "name": "Villalba Barrio-Pueblo",
+      "nativeName": "Villalba Barrio-Pueblo",
+      "code": "PR-149-7269081",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-149",
+      "latitude": 18.12854,
+      "longitude": -66.4924
+    }
+  ]
+}

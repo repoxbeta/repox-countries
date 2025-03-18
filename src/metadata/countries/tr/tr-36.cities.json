@@ -1,0 +1,84 @@
+{
+  "stateId": 743942,
+  "stateCode": "TR-36",
+  "countryCode": "TR",
+  "cities": [
+    {
+      "id": 8631366,
+      "name": "Akyaka İlçesi",
+      "nativeName": "Akyaka İlçesi",
+      "code": "TR-36-8631366",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-36",
+      "latitude": 40.74093,
+      "longitude": 43.61432
+    },
+    {
+      "id": 8631367,
+      "name": "Arpaçay İlçesi",
+      "nativeName": "Arpaçay İlçesi",
+      "code": "TR-36-8631367",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-36",
+      "latitude": 40.84601,
+      "longitude": 43.32878
+    },
+    {
+      "id": 8631364,
+      "name": "Digor İlçesi",
+      "nativeName": "Digor İlçesi",
+      "code": "TR-36-8631364",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-36",
+      "latitude": 40.37515,
+      "longitude": 43.41361
+    },
+    {
+      "id": 8631365,
+      "name": "Kağızman İlçesi",
+      "nativeName": "Kağızman İlçesi",
+      "code": "TR-36-8631365",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-36",
+      "latitude": 40.14026,
+      "longitude": 43.12003
+    },
+    {
+      "id": 8631370,
+      "name": "Sarıkamış İlçesi",
+      "nativeName": "Sarıkamış İlçesi",
+      "code": "TR-36-8631370",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-36",
+      "latitude": 40.33139,
+      "longitude": 42.59014
+    },
+    {
+      "id": 8631369,
+      "name": "Selim İlçesi",
+      "nativeName": "Selim İlçesi",
+      "code": "TR-36-8631369",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-36",
+      "latitude": 40.46439,
+      "longitude": 42.7896
+    },
+    {
+      "id": 8631368,
+      "name": "Susuz İlçesi",
+      "nativeName": "Susuz İlçesi",
+      "code": "TR-36-8631368",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-36",
+      "latitude": 40.77929,
+      "longitude": 43.13089
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "stateId": 3608814,
+  "stateCode": "HN-IB",
+  "countryCode": "HN",
+  "cities": [
+    {
+      "id": 3609294,
+      "name": "Guanaja",
+      "nativeName": "Guanaja",
+      "code": "HN-IB-3609294",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-IB",
+      "latitude": 16.4771,
+      "longitude": -85.87574
+    },
+    {
+      "id": 3608605,
+      "name": "José Santos Guardiola",
+      "nativeName": "José Santos Guardiola",
+      "code": "HN-IB-3608605",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-IB",
+      "latitude": 16.41765,
+      "longitude": -86.30631
+    },
+    {
+      "id": 3602737,
+      "name": "Roatán",
+      "nativeName": "Roatán",
+      "code": "HN-IB-3602737",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-IB",
+      "latitude": 16.34098,
+      "longitude": -86.53763
+    },
+    {
+      "id": 3600485,
+      "name": "Utila",
+      "nativeName": "Utila",
+      "code": "HN-IB-3600485",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-IB",
+      "latitude": 16.10026,
+      "longitude": -86.9307
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "stateId": 6697802,
+  "stateCode": "GR-M",
+  "countryCode": "GR",
+  "cities": [
+    {
+      "id": 260096,
+      "name": "Chania",
+      "nativeName": "Nomós Chaniás",
+      "code": "GR-M-260096",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-M",
+      "latitude": 35.33333,
+      "longitude": 24
+    },
+    {
+      "id": 261741,
+      "name": "Heraklion Regional Unit",
+      "nativeName": "Heraklion Regional Unit",
+      "code": "GR-M-261741",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-M",
+      "latitude": 35.32969,
+      "longitude": 25.12985
+    },
+    {
+      "id": 258569,
+      "name": "Lasithi",
+      "nativeName": "Nomós Lasithíou",
+      "code": "GR-M-258569",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-M",
+      "latitude": 35.08333,
+      "longitude": 25.83333
+    },
+    {
+      "id": 254353,
+      "name": "Rethymno",
+      "nativeName": "Nomós Rethýmnis",
+      "code": "GR-M-254353",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-M",
+      "latitude": 35.25,
+      "longitude": 24.58333
+    }
+  ]
+}

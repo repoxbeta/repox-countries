@@ -1,0 +1,40 @@
+{
+  "stateId": 172410,
+  "stateCode": "SY-SU",
+  "countryCode": "SY",
+  "cities": [
+    {
+      "id": 172409,
+      "name": "As-Suwayda District",
+      "nativeName": "As-Suwayda District",
+      "code": "SY-SU-172409",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-SU",
+      "latitude": 32.78127,
+      "longitude": 36.86502
+    },
+    {
+      "id": 164916,
+      "name": "Salkhad District",
+      "nativeName": "Salkhad District",
+      "code": "SY-SU-164916",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-SU",
+      "latitude": 32.51779,
+      "longitude": 36.91954
+    },
+    {
+      "id": 164625,
+      "name": "Shahba District",
+      "nativeName": "Shahba District",
+      "code": "SY-SU-164625",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-SU",
+      "latitude": 33.04282,
+      "longitude": 36.72034
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "stateId": 12105074,
+  "stateCode": "GH-SV",
+  "countryCode": "GH",
+  "cities": [
+    {
+      "id": 7647453,
+      "name": "Bole",
+      "nativeName": "Bole",
+      "code": "GH-SV-7647453",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-SV",
+      "latitude": 8.5927,
+      "longitude": -2.06783
+    },
+    {
+      "id": 7648970,
+      "name": "Central Gonja",
+      "nativeName": "Central Gonja",
+      "code": "GH-SV-7648970",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-SV",
+      "latitude": 8.9242,
+      "longitude": -1.32349
+    },
+    {
+      "id": 7647456,
+      "name": "East Gonja",
+      "nativeName": "East Gonja",
+      "code": "GH-SV-7647456",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-SV",
+      "latitude": 8.57151,
+      "longitude": -0.67731
+    },
+    {
+      "id": 12105081,
+      "name": "North Gonja",
+      "nativeName": "North Gonja",
+      "code": "GH-SV-12105081",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-SV",
+      "latitude": 9.70555,
+      "longitude": -1.53777
+    },
+    {
+      "id": 7647389,
+      "name": "Sawla-Tuna-Kalba",
+      "nativeName": "Sawla-Tuna-Kalba",
+      "code": "GH-SV-7647389",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-SV",
+      "latitude": 9.27324,
+      "longitude": -2.41346
+    },
+    {
+      "id": 7649070,
+      "name": "West Gonja",
+      "nativeName": "West Gonja",
+      "code": "GH-SV-7649070",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-SV",
+      "latitude": 9.08333,
+      "longitude": -1.81667
+    }
+  ]
+}

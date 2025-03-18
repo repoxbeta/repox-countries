@@ -1,0 +1,62 @@
+{
+  "stateId": 2612225,
+  "stateCode": "FO-ST",
+  "countryCode": "FO",
+  "cities": [
+    {
+      "id": 2621810,
+      "name": "Fuglafjørður",
+      "nativeName": "Fuglafjørður",
+      "code": "FO-ST-2621810",
+      "countryId": 2622320,
+      "countryCode": "FO",
+      "stateCode": "FO-ST",
+      "latitude": 62.25322,
+      "longitude": -6.80054
+    },
+    {
+      "id": 2618086,
+      "name": "Kvívík",
+      "nativeName": "Kvívík",
+      "code": "FO-ST-2618086",
+      "countryId": 2622320,
+      "countryCode": "FO",
+      "stateCode": "FO-ST",
+      "latitude": 62.13005,
+      "longitude": -7.04636
+    },
+    {
+      "id": 7798685,
+      "name": "Sunda",
+      "nativeName": "Sunda",
+      "code": "FO-ST-7798685",
+      "countryId": 2622320,
+      "countryCode": "FO",
+      "stateCode": "FO-ST",
+      "latitude": 62.20523,
+      "longitude": -6.98181
+    },
+    {
+      "id": 2611397,
+      "name": "Tórshavn",
+      "nativeName": "Tórshavn",
+      "code": "FO-ST-2611397",
+      "countryId": 2622320,
+      "countryCode": "FO",
+      "stateCode": "FO-ST",
+      "latitude": 62.01927,
+      "longitude": -6.77444
+    },
+    {
+      "id": 2610344,
+      "name": "Vestmanna",
+      "nativeName": "Vestmanna",
+      "code": "FO-ST-2610344",
+      "countryId": 2622320,
+      "countryCode": "FO",
+      "stateCode": "FO-ST",
+      "latitude": 62.16422,
+      "longitude": -7.16927
+    }
+  ]
+}

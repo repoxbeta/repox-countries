@@ -1,0 +1,51 @@
+{
+  "stateId": 2762300,
+  "stateCode": "AT-8",
+  "countryCode": "AT",
+  "cities": [
+    {
+      "id": 2781679,
+      "name": "Bludenz District",
+      "nativeName": "Politischer Bezirk Bludenz",
+      "code": "AT-8-2781679",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-8",
+      "latitude": 47.15144,
+      "longitude": 9.82452
+    },
+    {
+      "id": 2779673,
+      "name": "Feldkirch District",
+      "nativeName": "Politischer Bezirk Feldkirch",
+      "code": "AT-8-2779673",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-8",
+      "latitude": 47.25535,
+      "longitude": 9.5836
+    },
+    {
+      "id": 2781502,
+      "name": "Politischer Bezirk Bregenz",
+      "nativeName": "Politischer Bezirk Bregenz",
+      "code": "AT-8-2781502",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-8",
+      "latitude": 47.42069,
+      "longitude": 9.91989
+    },
+    {
+      "id": 2780740,
+      "name": "Politischer Bezirk Dornbirn",
+      "nativeName": "Politischer Bezirk Dornbirn",
+      "code": "AT-8-2780740",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-8",
+      "latitude": 47.38349,
+      "longitude": 9.7494
+    }
+  ]
+}

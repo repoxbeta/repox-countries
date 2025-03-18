@@ -1,0 +1,128 @@
+{
+  "stateId": 2400454,
+  "stateCode": "GA-2",
+  "countryCode": "GA",
+  "cities": [
+    {
+      "id": 11996070,
+      "name": "Bayi-Brikolo",
+      "nativeName": "Bayi-Brikolo",
+      "code": "GA-2-11996070",
+      "countryId": 2400553,
+      "countryCode": "GA",
+      "stateCode": "GA-2",
+      "latitude": -0.46351,
+      "longitude": 14.09475
+    },
+    {
+      "id": 11996069,
+      "name": "Djoue",
+      "nativeName": "Djoue",
+      "code": "GA-2-11996069",
+      "countryId": 2400553,
+      "countryCode": "GA",
+      "stateCode": "GA-2",
+      "latitude": -0.80072,
+      "longitude": 14.26669
+    },
+    {
+      "id": 11996063,
+      "name": "Djouori-Agnili",
+      "nativeName": "Djouori-Agnili",
+      "code": "GA-2-11996063",
+      "countryId": 2400553,
+      "countryCode": "GA",
+      "stateCode": "GA-2",
+      "latitude": -1.48717,
+      "longitude": 13.97556
+    },
+    {
+      "id": 8260627,
+      "name": "Leboumbi-Leyou Department",
+      "nativeName": "Leboumbi-Leyou Department",
+      "code": "GA-2-8260627",
+      "countryId": 2400553,
+      "countryCode": "GA",
+      "stateCode": "GA-2",
+      "latitude": -1.481,
+      "longitude": 13.181
+    },
+    {
+      "id": 11996075,
+      "name": "Lekabi-Lewolo",
+      "nativeName": "Lekabi-Lewolo",
+      "code": "GA-2-11996075",
+      "countryId": 2400553,
+      "countryCode": "GA",
+      "stateCode": "GA-2",
+      "latitude": -1.31041,
+      "longitude": 13.70953
+    },
+    {
+      "id": 8260634,
+      "name": "Lekoko Department",
+      "nativeName": "Lekoko Department",
+      "code": "GA-2-8260634",
+      "countryId": 2400553,
+      "countryCode": "GA",
+      "stateCode": "GA-2",
+      "latitude": -1.974,
+      "longitude": 13.097
+    },
+    {
+      "id": 11996067,
+      "name": "Lekoni-Lekori",
+      "nativeName": "Lekoni-Lekori",
+      "code": "GA-2-11996067",
+      "countryId": 2400553,
+      "countryCode": "GA",
+      "stateCode": "GA-2",
+      "latitude": -1.11184,
+      "longitude": 13.90301
+    },
+    {
+      "id": 7870395,
+      "name": "Mpassa Department",
+      "nativeName": "Mpassa Department",
+      "code": "GA-2-7870395",
+      "countryId": 2400553,
+      "countryCode": "GA",
+      "stateCode": "GA-2",
+      "latitude": -1.711,
+      "longitude": 13.61
+    },
+    {
+      "id": 11996062,
+      "name": "Ogooue-Letili",
+      "nativeName": "Ogooue-Letili",
+      "code": "GA-2-11996062",
+      "countryId": 2400553,
+      "countryCode": "GA",
+      "stateCode": "GA-2",
+      "latitude": -2.20937,
+      "longitude": 13.46731
+    },
+    {
+      "id": 7870333,
+      "name": "Plateaux Department",
+      "nativeName": "Plateaux Department",
+      "code": "GA-2-7870333",
+      "countryId": 2400553,
+      "countryCode": "GA",
+      "stateCode": "GA-2",
+      "latitude": -1.608,
+      "longitude": 14.243
+    },
+    {
+      "id": 11996078,
+      "name": "Sebe-Brikolo",
+      "nativeName": "Sebe-Brikolo",
+      "code": "GA-2-11996078",
+      "countryId": 2400553,
+      "countryCode": "GA",
+      "stateCode": "GA-2",
+      "latitude": -0.54263,
+      "longitude": 13.67345
+    }
+  ]
+}

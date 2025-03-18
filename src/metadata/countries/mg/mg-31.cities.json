@@ -1,0 +1,84 @@
+{
+  "stateId": 7670857,
+  "stateCode": "MG-31",
+  "countryCode": "MG",
+  "cities": [
+    {
+      "id": 11926395,
+      "name": "Antanambao Manampontsy",
+      "nativeName": "Antanambao Manampontsy",
+      "code": "MG-31-11926395",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-31",
+      "latitude": -19.55848,
+      "longitude": 48.47019
+    },
+    {
+      "id": 7670896,
+      "name": "Brickaville",
+      "nativeName": "Brickaville",
+      "code": "MG-31-7670896",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-31",
+      "latitude": -18.81991,
+      "longitude": 49.06353
+    },
+    {
+      "id": 11926393,
+      "name": "Mahanoro",
+      "nativeName": "Mahanoro",
+      "code": "MG-31-11926393",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-31",
+      "latitude": -20.03157,
+      "longitude": 48.51769
+    },
+    {
+      "id": 11926394,
+      "name": "Marolambo",
+      "nativeName": "Marolambo",
+      "code": "MG-31-11926394",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-31",
+      "latitude": -20.09207,
+      "longitude": 47.96666
+    },
+    {
+      "id": 7670944,
+      "name": "Toamasina I",
+      "nativeName": "Toamasina I",
+      "code": "MG-31-7670944",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-31",
+      "latitude": -18.13863,
+      "longitude": 49.39203
+    },
+    {
+      "id": 7670945,
+      "name": "Toamasina II",
+      "nativeName": "Toamasina II",
+      "code": "MG-31-7670945",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-31",
+      "latitude": -17.94053,
+      "longitude": 49.14608
+    },
+    {
+      "id": 11926431,
+      "name": "Vatomandry",
+      "nativeName": "Vatomandry",
+      "code": "MG-31-11926431",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-31",
+      "latitude": -19.36085,
+      "longitude": 48.77893
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "stateId": 3411927,
+  "stateCode": "CV-SF",
+  "countryCode": "CV",
+  "cities": [
+    {
+      "id": 11429194,
+      "name": "Nossa Senhora da Conceicao",
+      "nativeName": "Nossa Senhora da Conceicao",
+      "code": "CV-SF-11429194",
+      "countryId": 3374766,
+      "countryCode": "CV",
+      "stateCode": "CV-SF",
+      "latitude": 14.89,
+      "longitude": -24.43
+    },
+    {
+      "id": 11996051,
+      "name": "Sao Lourenco",
+      "nativeName": "Sao Lourenco",
+      "code": "CV-SF-11996051",
+      "countryId": 3374766,
+      "countryCode": "CV",
+      "stateCode": "CV-SF",
+      "latitude": 14.97426,
+      "longitude": -24.43615
+    }
+  ]
+}

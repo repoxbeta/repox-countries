@@ -1,0 +1,84 @@
+{
+  "stateId": 737021,
+  "stateCode": "TR-67",
+  "countryCode": "TR",
+  "cities": [
+    {
+      "id": 8632511,
+      "name": "Alaplı District",
+      "nativeName": "Alaplı İlçesi",
+      "code": "TR-67-8632511",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-67",
+      "latitude": 41.17793,
+      "longitude": 31.38662
+    },
+    {
+      "id": 8632510,
+      "name": "Devrek District",
+      "nativeName": "Devrek İlçesi",
+      "code": "TR-67-8632510",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-67",
+      "latitude": 41.22818,
+      "longitude": 31.96519
+    },
+    {
+      "id": 7733006,
+      "name": "Ereğli",
+      "nativeName": "Ereğli",
+      "code": "TR-67-7733006",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-67",
+      "latitude": 41.23807,
+      "longitude": 31.60581
+    },
+    {
+      "id": 8632509,
+      "name": "Gökçebey District",
+      "nativeName": "Gökçebey İlçesi",
+      "code": "TR-67-8632509",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-67",
+      "latitude": 41.31339,
+      "longitude": 32.14981
+    },
+    {
+      "id": 9553975,
+      "name": "Kilimli",
+      "nativeName": "Kilimli",
+      "code": "TR-67-9553975",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-67",
+      "latitude": 41.48238,
+      "longitude": 31.83392
+    },
+    {
+      "id": 9553115,
+      "name": "Kozlu",
+      "nativeName": "Kozlu",
+      "code": "TR-67-9553115",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-67",
+      "latitude": 41.43243,
+      "longitude": 31.7492
+    },
+    {
+      "id": 8632508,
+      "name": "Çaycuma İlçesi",
+      "nativeName": "Çaycuma İlçesi",
+      "code": "TR-67-8632508",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-67",
+      "latitude": 41.43664,
+      "longitude": 32.08457
+    }
+  ]
+}

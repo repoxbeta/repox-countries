@@ -1,0 +1,51 @@
+{
+  "stateId": 241438,
+  "stateCode": "SC-07",
+  "countryCode": "SC",
+  "cities": [
+    {
+      "id": 11694887,
+      "name": "Anse Lazio",
+      "nativeName": "Anse Lazio",
+      "code": "SC-07-11694887",
+      "countryId": 241170,
+      "countryCode": "SC",
+      "stateCode": "SC-07",
+      "latitude": -4.29583,
+      "longitude": 55.70249
+    },
+    {
+      "id": 241442,
+      "name": "Anse Volbert Village",
+      "nativeName": "Anse Volbert Village",
+      "code": "SC-07-241442",
+      "countryId": 241170,
+      "countryCode": "SC",
+      "stateCode": "SC-07",
+      "latitude": -4.31667,
+      "longitude": 55.73333
+    },
+    {
+      "id": 11694888,
+      "name": "Cap Samy",
+      "nativeName": "Cap Samy",
+      "code": "SC-07-11694888",
+      "countryId": 241170,
+      "countryCode": "SC",
+      "stateCode": "SC-07",
+      "latitude": -4.33036,
+      "longitude": 55.76008
+    },
+    {
+      "id": 6691843,
+      "name": "Cote d'Or",
+      "nativeName": "Cote d'Or",
+      "code": "SC-07-6691843",
+      "countryId": 241170,
+      "countryCode": "SC",
+      "stateCode": "SC-07",
+      "latitude": -4.31997,
+      "longitude": 55.75338
+    }
+  ]
+}

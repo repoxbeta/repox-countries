@@ -1,0 +1,84 @@
+{
+  "stateId": 409417,
+  "stateCode": "AZ-SR",
+  "countryCode": "AZ",
+  "cities": [
+    {
+      "id": 148565,
+      "name": "Şirvan",
+      "nativeName": "Şirvan",
+      "code": "AZ-SR-148565",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-SR",
+      "latitude": 39.93778,
+      "longitude": 48.929
+    },
+    {
+      "id": 148297,
+      "name": "Byandovan",
+      "nativeName": "Byandovan",
+      "code": "AZ-SR-148297",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-SR",
+      "latitude": 39.77889,
+      "longitude": 49.38139
+    },
+    {
+      "id": 389168,
+      "name": "Chalovlu",
+      "nativeName": "Chalovlu",
+      "code": "AZ-SR-389168",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-SR",
+      "latitude": 39.71889,
+      "longitude": 49.09056
+    },
+    {
+      "id": 148284,
+      "name": "Chalovly",
+      "nativeName": "Chalovly",
+      "code": "AZ-SR-148284",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-SR",
+      "latitude": 39.86667,
+      "longitude": 49.3
+    },
+    {
+      "id": 148096,
+      "name": "Hacıqəhrəmanlı",
+      "nativeName": "Gadzhykakhramanly",
+      "code": "AZ-SR-148096",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-SR",
+      "latitude": 39.87987,
+      "longitude": 48.92309
+    },
+    {
+      "id": 147941,
+      "name": "Qaraağac",
+      "nativeName": "Qaraağac",
+      "code": "AZ-SR-147941",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-SR",
+      "latitude": 39.90746,
+      "longitude": 48.87352
+    },
+    {
+      "id": 389182,
+      "name": "Salakhly",
+      "nativeName": "Salakhly",
+      "code": "AZ-SR-389182",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-SR",
+      "latitude": 39.96276,
+      "longitude": 49.32459
+    }
+  ]
+}

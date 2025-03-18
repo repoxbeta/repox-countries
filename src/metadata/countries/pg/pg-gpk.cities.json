@@ -1,0 +1,29 @@
+{
+  "stateId": 2096633,
+  "stateCode": "PG-GPK",
+  "countryCode": "PG",
+  "cities": [
+    {
+      "id": 2094142,
+      "name": "Kerema District",
+      "nativeName": "Kerema",
+      "code": "PG-GPK-2094142",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-GPK",
+      "latitude": -7.796,
+      "longitude": 146.093
+    },
+    {
+      "id": 2094002,
+      "name": "Kikori District",
+      "nativeName": "Kikori",
+      "code": "PG-GPK-2094002",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-GPK",
+      "latitude": -7.25,
+      "longitude": 144.33333
+    }
+  ]
+}

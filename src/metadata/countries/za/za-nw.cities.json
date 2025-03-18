@@ -1,0 +1,51 @@
+{
+  "stateId": 1085598,
+  "stateCode": "ZA-NW",
+  "countryCode": "ZA",
+  "cities": [
+    {
+      "id": 8347347,
+      "name": "Bojanala Platinum",
+      "nativeName": "Bojanala Platinum District Municipality",
+      "code": "ZA-NW-8347347",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "stateCode": "ZA-NW",
+      "latitude": -25.42612,
+      "longitude": 27.2243
+    },
+    {
+      "id": 8347350,
+      "name": "Dr Kenneth Kaunda District Municipality",
+      "nativeName": "Dr Kenneth Kaunda District Municipality",
+      "code": "ZA-NW-8347350",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "stateCode": "ZA-NW",
+      "latitude": -26.80678,
+      "longitude": 26.56926
+    },
+    {
+      "id": 8347348,
+      "name": "Dr Ruth Segomotsi Mompati District Municipality",
+      "nativeName": "Dr Ruth Segomotsi Mompati District Municipality",
+      "code": "ZA-NW-8347348",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "stateCode": "ZA-NW",
+      "latitude": -26.63765,
+      "longitude": 24.27462
+    },
+    {
+      "id": 8347376,
+      "name": "Ngaka Modiri Molema District Municipality",
+      "nativeName": "Ngaka Modiri Molema District Municipality",
+      "code": "ZA-NW-8347376",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "stateCode": "ZA-NW",
+      "latitude": -25.95559,
+      "longitude": 25.80782
+    }
+  ]
+}

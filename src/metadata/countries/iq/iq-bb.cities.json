@@ -1,0 +1,51 @@
+{
+  "stateId": 98227,
+  "stateCode": "IQ-BB",
+  "countryCode": "IQ",
+  "cities": [
+    {
+      "id": 99348,
+      "name": "Al-Hilla District",
+      "nativeName": "Al-Hilla District",
+      "code": "IQ-BB-99348",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-BB",
+      "latitude": 32.3958,
+      "longitude": 44.36279
+    },
+    {
+      "id": 6818313,
+      "name": "Al-Mahawil District",
+      "nativeName": "Al-Mahawil District",
+      "code": "IQ-BB-6818313",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-BB",
+      "latitude": 32.61448,
+      "longitude": 44.61764
+    },
+    {
+      "id": 99040,
+      "name": "Al-Musayab District",
+      "nativeName": "Al-Musayab District",
+      "code": "IQ-BB-99040",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-BB",
+      "latitude": 32.78333,
+      "longitude": 44.31667
+    },
+    {
+      "id": 99358,
+      "name": "Hashimiya District",
+      "nativeName": "Hashimiya District",
+      "code": "IQ-BB-99358",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-BB",
+      "latitude": 32.35,
+      "longitude": 44.75
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "stateId": 2434478,
+  "stateCode": "TD-CB",
+  "countryCode": "TD",
+  "cities": [
+    {
+      "id": 7670580,
+      "name": "Baguirmi",
+      "nativeName": "Baguirmi",
+      "code": "TD-CB-7670580",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-CB",
+      "latitude": 11.42147,
+      "longitude": 16.34638
+    },
+    {
+      "id": 9166667,
+      "name": "Chari",
+      "nativeName": "Chari",
+      "code": "TD-CB-9166667",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-CB",
+      "latitude": 12.05,
+      "longitude": 15.3
+    },
+    {
+      "id": 7670581,
+      "name": "Dababa",
+      "nativeName": "Dababa",
+      "code": "TD-CB-7670581",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-CB",
+      "latitude": 12.81276,
+      "longitude": 16.72346
+    },
+    {
+      "id": 8693069,
+      "name": "Dagana District",
+      "nativeName": "Dagana District",
+      "code": "TD-CB-8693069",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-CB",
+      "latitude": 12.99528,
+      "longitude": 15.7325
+    },
+    {
+      "id": 12186541,
+      "name": "Dourbali",
+      "nativeName": "Dourbali",
+      "code": "TD-CB-12186541",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-CB",
+      "latitude": 11.92867,
+      "longitude": 15.62867
+    },
+    {
+      "id": 9072808,
+      "name": "Loug Chari",
+      "nativeName": "Loug Chari",
+      "code": "TD-CB-9072808",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-CB",
+      "latitude": 10.57861,
+      "longitude": 16.76788
+    },
+    {
+      "id": 8335048,
+      "name": "Mansaba",
+      "nativeName": "Mansaba",
+      "code": "TD-CB-8335048",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-CB",
+      "latitude": 12.29,
+      "longitude": -15.18
+    }
+  ]
+}

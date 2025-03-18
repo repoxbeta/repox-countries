@@ -1,0 +1,303 @@
+{
+  "countryId": 690791,
+  "countryCode": "UA",
+  "states": [
+    {
+      "id": 710802,
+      "name": "Cherkasy",
+      "nativeName": "Cherkasy Oblast",
+      "code": "UA-71",
+      "internalCode": "71",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "latitude": 49.44521,
+      "longitude": 32.06068
+    },
+    {
+      "id": 710734,
+      "name": "Chernihiv",
+      "nativeName": "Chernihivska Oblast",
+      "code": "UA-74",
+      "internalCode": "74",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "latitude": 51.33333,
+      "longitude": 32
+    },
+    {
+      "id": 710720,
+      "name": "Chernivtsi",
+      "nativeName": "Chernivtsi Oblast",
+      "code": "UA-77",
+      "internalCode": "77",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "latitude": 48.29068,
+      "longitude": 25.93263
+    },
+    {
+      "id": 703883,
+      "name": "Crimea",
+      "nativeName": "Autonomous Republic of Crimea",
+      "code": "UA-43",
+      "internalCode": "43",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "latitude": 45,
+      "longitude": 34
+    },
+    {
+      "id": 709929,
+      "name": "Dnipropetrovsk",
+      "nativeName": "Dnipropetrovsk Oblast",
+      "code": "UA-12",
+      "internalCode": "12",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "latitude": 48.46681,
+      "longitude": 35.03052
+    },
+    {
+      "id": 709716,
+      "name": "Donetsk",
+      "nativeName": "Donetska Oblast",
+      "code": "UA-14",
+      "internalCode": "14",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "latitude": 48,
+      "longitude": 37.66667
+    },
+    {
+      "id": 707470,
+      "name": "Ivano-Frankivsk",
+      "nativeName": "Ivano-Frankivsk Oblast",
+      "code": "UA-26",
+      "internalCode": "26",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "latitude": 48.92319,
+      "longitude": 24.71374
+    },
+    {
+      "id": 706482,
+      "name": "Kharkivs’ka Oblast’",
+      "nativeName": "Kharkivska Oblast",
+      "code": "UA-63",
+      "internalCode": "63",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "latitude": 49.5,
+      "longitude": 36.5
+    },
+    {
+      "id": 706442,
+      "name": "Kherson",
+      "nativeName": "Kherson Oblast",
+      "code": "UA-65",
+      "internalCode": "65",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "latitude": 46.6406,
+      "longitude": 32.61589
+    },
+    {
+      "id": 706370,
+      "name": "Khmelnytskyi",
+      "nativeName": "Khmelnytskyi Oblast",
+      "code": "UA-68",
+      "internalCode": "68",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "latitude": 49.41985,
+      "longitude": 26.9784
+    },
+    {
+      "id": 705811,
+      "name": "Kirovohrad",
+      "nativeName": "Kirovohrad Oblast",
+      "code": "UA-35",
+      "internalCode": "35",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "latitude": 48.51052,
+      "longitude": 32.266
+    },
+    {
+      "id": 703446,
+      "name": "Kyiv",
+      "nativeName": "Kyiv Oblast",
+      "code": "UA-32",
+      "internalCode": "32",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "latitude": 50.24018,
+      "longitude": 30.23163
+    },
+    {
+      "id": 703447,
+      "name": "Kyiv City",
+      "nativeName": "Misto Kyiv",
+      "code": "UA-30",
+      "internalCode": "30",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "latitude": 50.4429,
+      "longitude": 30.54896
+    },
+    {
+      "id": 702657,
+      "name": "Luhansk",
+      "nativeName": "Luhanska Oblast",
+      "code": "UA-09",
+      "internalCode": "09",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "latitude": 49,
+      "longitude": 39
+    },
+    {
+      "id": 702549,
+      "name": "Lviv",
+      "nativeName": "Lvivska Oblast",
+      "code": "UA-46",
+      "internalCode": "46",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "latitude": 49.75,
+      "longitude": 23.91667
+    },
+    {
+      "id": 700567,
+      "name": "Mykolaiv",
+      "nativeName": "Mykolayiv Oblast",
+      "code": "UA-48",
+      "internalCode": "48",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "latitude": 46.97464,
+      "longitude": 31.99758
+    },
+    {
+      "id": 698738,
+      "name": "Odessa",
+      "nativeName": "Odeska Oblast",
+      "code": "UA-51",
+      "internalCode": "51",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "latitude": 46.4577,
+      "longitude": 30.7484
+    },
+    {
+      "id": 696634,
+      "name": "Poltava",
+      "nativeName": "Poltava Oblast",
+      "code": "UA-53",
+      "internalCode": "53",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "latitude": 49.59212,
+      "longitude": 34.54301
+    },
+    {
+      "id": 695592,
+      "name": "Rivne",
+      "nativeName": "Rivnenska Oblast",
+      "code": "UA-56",
+      "internalCode": "56",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "latitude": 51,
+      "longitude": 26.5
+    },
+    {
+      "id": 694422,
+      "name": "Sevastopol City",
+      "nativeName": "Sebastopol City",
+      "code": "UA-40",
+      "internalCode": "40",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "latitude": 44.55525,
+      "longitude": 33.53851
+    },
+    {
+      "id": 692196,
+      "name": "Sumy",
+      "nativeName": "Sumska Oblast",
+      "code": "UA-59",
+      "internalCode": "59",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "latitude": 51,
+      "longitude": 34
+    },
+    {
+      "id": 691649,
+      "name": "Ternopil",
+      "nativeName": "Ternopil Oblast",
+      "code": "UA-61",
+      "internalCode": "61",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "latitude": 49.55579,
+      "longitude": 25.59154
+    },
+    {
+      "id": 687869,
+      "name": "Transcarpathia",
+      "nativeName": "Zakarpattia Oblast",
+      "code": "UA-21",
+      "internalCode": "21",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "latitude": 48.62645,
+      "longitude": 22.28871
+    },
+    {
+      "id": 689559,
+      "name": "Vinnytsia",
+      "nativeName": "Vinnytsya Oblast",
+      "code": "UA-05",
+      "internalCode": "05",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "latitude": 49.23385,
+      "longitude": 28.46583
+    },
+    {
+      "id": 689064,
+      "name": "Volyn",
+      "nativeName": "Volynska Oblast",
+      "code": "UA-07",
+      "internalCode": "07",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "latitude": 51.16667,
+      "longitude": 24.86667
+    },
+    {
+      "id": 687699,
+      "name": "Zaporizhzhia",
+      "nativeName": "Zaporizhzhya Oblast",
+      "code": "UA-23",
+      "internalCode": "23",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "latitude": 47.83972,
+      "longitude": 35.14057
+    },
+    {
+      "id": 686966,
+      "name": "Zhytomyr",
+      "nativeName": "Zhytomyrska Oblast",
+      "code": "UA-18",
+      "internalCode": "18",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "latitude": 50.58333,
+      "longitude": 28.5
+    }
+  ]
+}

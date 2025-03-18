@@ -1,0 +1,29 @@
+{
+  "stateId": 187583,
+  "stateCode": "KE-25",
+  "countryCode": "KE",
+  "cities": [
+    {
+      "id": 7733024,
+      "name": "Moyale District",
+      "nativeName": "Moyale District",
+      "code": "KE-25-7733024",
+      "countryId": 192950,
+      "countryCode": "KE",
+      "stateCode": "KE-25",
+      "latitude": 3.093,
+      "longitude": 38.844
+    },
+    {
+      "id": 8298605,
+      "name": "Oloitokitok District",
+      "nativeName": "Oloitokitok District",
+      "code": "KE-25-8298605",
+      "countryId": 192950,
+      "countryCode": "KE",
+      "stateCode": "KE-25",
+      "latitude": 2.925,
+      "longitude": 37.51
+    }
+  ]
+}

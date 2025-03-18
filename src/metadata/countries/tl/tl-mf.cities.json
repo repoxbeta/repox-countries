@@ -1,0 +1,51 @@
+{
+  "stateId": 1636309,
+  "stateCode": "TL-MF",
+  "countryCode": "TL",
+  "cities": [
+    {
+      "id": 8618005,
+      "name": "Alas",
+      "nativeName": "Alas",
+      "code": "TL-MF-8618005",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-MF",
+      "latitude": -9.0273,
+      "longitude": 125.7868
+    },
+    {
+      "id": 8629268,
+      "name": "Fatuberliu",
+      "nativeName": "Fatuberliu",
+      "code": "TL-MF-8629268",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-MF",
+      "latitude": -8.9479,
+      "longitude": 125.86633
+    },
+    {
+      "id": 8628952,
+      "name": "Same",
+      "nativeName": "Same",
+      "code": "TL-MF-8628952",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-MF",
+      "latitude": -9,
+      "longitude": 125.65
+    },
+    {
+      "id": 8629269,
+      "name": "Turiscai",
+      "nativeName": "Turiscai",
+      "code": "TL-MF-8629269",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-MF",
+      "latitude": -8.82371,
+      "longitude": 125.70454
+    }
+  ]
+}

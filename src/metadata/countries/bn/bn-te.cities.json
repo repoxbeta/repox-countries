@@ -1,0 +1,51 @@
+{
+  "stateId": 1820106,
+  "stateCode": "BN-TE",
+  "countryCode": "BN",
+  "cities": [
+    {
+      "id": 1820903,
+      "name": "Bangar",
+      "nativeName": "Bangar",
+      "code": "BN-TE-1820903",
+      "countryId": 1820814,
+      "countryCode": "BN",
+      "stateCode": "BN-TE",
+      "latitude": 4.70861,
+      "longitude": 115.07167
+    },
+    {
+      "id": 1820892,
+      "name": "Batu Apoi",
+      "nativeName": "Batu Apoi",
+      "code": "BN-TE-1820892",
+      "countryId": 1820814,
+      "countryCode": "BN",
+      "stateCode": "BN-TE",
+      "latitude": 4.7,
+      "longitude": 115.1
+    },
+    {
+      "id": 1820730,
+      "name": "Kampong Amo",
+      "nativeName": "Kampong Amo",
+      "code": "BN-TE-1820730",
+      "countryId": 1820814,
+      "countryCode": "BN",
+      "stateCode": "BN-TE",
+      "latitude": 4.61667,
+      "longitude": 115.1
+    },
+    {
+      "id": 1820721,
+      "name": "Kampong Batang Duri",
+      "nativeName": "Kampong Batang Duri",
+      "code": "BN-TE-1820721",
+      "countryId": 1820814,
+      "countryCode": "BN",
+      "stateCode": "BN-TE",
+      "latitude": 4.56667,
+      "longitude": 115.13333
+    }
+  ]
+}

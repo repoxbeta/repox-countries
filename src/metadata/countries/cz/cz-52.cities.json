@@ -1,0 +1,62 @@
+{
+  "stateId": 3339540,
+  "stateCode": "CZ-52",
+  "countryCode": "CZ",
+  "cities": [
+    {
+      "id": 3074966,
+      "name": "Hradec Králové District",
+      "nativeName": "Okres Hradec Králové",
+      "code": "CZ-52-3074966",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-52",
+      "latitude": 50.25,
+      "longitude": 15.66667
+    },
+    {
+      "id": 3074205,
+      "name": "Jičín District",
+      "nativeName": "Okres Jičín",
+      "code": "CZ-52-3074205",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-52",
+      "latitude": 50.41667,
+      "longitude": 15.41667
+    },
+    {
+      "id": 3070121,
+      "name": "Náchod District",
+      "nativeName": "Okres Náchod",
+      "code": "CZ-52-3070121",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-52",
+      "latitude": 50.41667,
+      "longitude": 16.16667
+    },
+    {
+      "id": 3066502,
+      "name": "Rychnov nad Kněžnou District",
+      "nativeName": "Okres Rychnov nad Kněžnou",
+      "code": "CZ-52-3066502",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-52",
+      "latitude": 50.23333,
+      "longitude": 16.28333
+    },
+    {
+      "id": 3063906,
+      "name": "Trutnov District",
+      "nativeName": "Okres Trutnov",
+      "code": "CZ-52-3063906",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-52",
+      "latitude": 50.58333,
+      "longitude": 15.83333
+    }
+  ]
+}

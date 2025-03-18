@@ -1,0 +1,216 @@
+{
+  "stateId": 3836276,
+  "stateCode": "AR-S",
+  "countryCode": "AR",
+  "cities": [
+    {
+      "id": 3864412,
+      "name": "Belgrano Department",
+      "nativeName": "Departamento de Belgrano",
+      "code": "AR-S-3864412",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-S",
+      "latitude": -32.5,
+      "longitude": -61.75
+    },
+    {
+      "id": 3852292,
+      "name": "Capital Department",
+      "nativeName": "Departamento de La Capital",
+      "code": "AR-S-3852292",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-S",
+      "latitude": -31.5,
+      "longitude": -60.66667
+    },
+    {
+      "id": 3860324,
+      "name": "Constitución Department",
+      "nativeName": "Departamento de Constitución",
+      "code": "AR-S-3860324",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-S",
+      "latitude": -33.5,
+      "longitude": -60.91667
+    },
+    {
+      "id": 3862359,
+      "name": "Departamento de Caseros",
+      "nativeName": "Departamento de Caseros",
+      "code": "AR-S-3862359",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-S",
+      "latitude": -33.25,
+      "longitude": -61.66667
+    },
+    {
+      "id": 3862325,
+      "name": "Departamento de Castellanos",
+      "nativeName": "Departamento de Castellanos",
+      "code": "AR-S-3862325",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-S",
+      "latitude": -31.16667,
+      "longitude": -61.66667
+    },
+    {
+      "id": 3428973,
+      "name": "Departamento de San Javier",
+      "nativeName": "Departamento de San Javier",
+      "code": "AR-S-3428973",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-S",
+      "latitude": -30.33333,
+      "longitude": -59.91667
+    },
+    {
+      "id": 3837122,
+      "name": "Departamento de San Justo",
+      "nativeName": "Departamento de San Justo",
+      "code": "AR-S-3837122",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-S",
+      "latitude": -30.66667,
+      "longitude": -60.5
+    },
+    {
+      "id": 3837090,
+      "name": "Departamento de San Lorenzo",
+      "nativeName": "Departamento de San Lorenzo",
+      "code": "AR-S-3837090",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-S",
+      "latitude": -33,
+      "longitude": -61
+    },
+    {
+      "id": 3836984,
+      "name": "Departamento de San Martín",
+      "nativeName": "Departamento de San Martín",
+      "code": "AR-S-3836984",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-S",
+      "latitude": -32,
+      "longitude": -61.83333
+    },
+    {
+      "id": 3833025,
+      "name": "Departamento de Vera",
+      "nativeName": "Departamento de Vera",
+      "code": "AR-S-3833025",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-S",
+      "latitude": -29,
+      "longitude": -60.5
+    },
+    {
+      "id": 3855221,
+      "name": "Garay Department",
+      "nativeName": "Garay Department",
+      "code": "AR-S-3855221",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-S",
+      "latitude": -31,
+      "longitude": -60.08333
+    },
+    {
+      "id": 3855095,
+      "name": "General López Department",
+      "nativeName": "General López Department",
+      "code": "AR-S-3855095",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-S",
+      "latitude": -33.83333,
+      "longitude": -61.83333
+    },
+    {
+      "id": 3433788,
+      "name": "General Obligado Department",
+      "nativeName": "General Obligado Department",
+      "code": "AR-S-3433788",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-S",
+      "latitude": -28.75,
+      "longitude": -59.75
+    },
+    {
+      "id": 3853705,
+      "name": "Iriondo Department",
+      "nativeName": "Iriondo Department",
+      "code": "AR-S-3853705",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-S",
+      "latitude": -32.63333,
+      "longitude": -61.33333
+    },
+    {
+      "id": 3848539,
+      "name": "Las Colonias Department",
+      "nativeName": "Las Colonias Department",
+      "code": "AR-S-3848539",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-S",
+      "latitude": -31.5,
+      "longitude": -61.13333
+    },
+    {
+      "id": 3842877,
+      "name": "Nueve de Julio Department",
+      "nativeName": "Departamento de Nueve de Julio",
+      "code": "AR-S-3842877",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-S",
+      "latitude": -28.83333,
+      "longitude": -61.33333
+    },
+    {
+      "id": 3838574,
+      "name": "Rosario Department",
+      "nativeName": "Rosario Department",
+      "code": "AR-S-3838574",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-S",
+      "latitude": -33.16667,
+      "longitude": -60.75
+    },
+    {
+      "id": 3837821,
+      "name": "San Cristóbal Department",
+      "nativeName": "Departamento de San Cristóbal",
+      "code": "AR-S-3837821",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-S",
+      "latitude": -30.33333,
+      "longitude": -61.33333
+    },
+    {
+      "id": 3837460,
+      "name": "San Jerónimo Department",
+      "nativeName": "San Jerónimo Department",
+      "code": "AR-S-3837460",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-S",
+      "latitude": -32.16667,
+      "longitude": -61.08333
+    }
+  ]
+}

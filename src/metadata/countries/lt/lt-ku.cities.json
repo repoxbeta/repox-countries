@@ -1,0 +1,95 @@
+{
+  "stateId": 864477,
+  "stateCode": "LT-KU",
+  "countryCode": "LT",
+  "cities": [
+    {
+      "id": 600444,
+      "name": "Birštonas Municipality",
+      "nativeName": "Birštonas",
+      "code": "LT-KU-600444",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-KU",
+      "latitude": 54.61667,
+      "longitude": 24.03333
+    },
+    {
+      "id": 864488,
+      "name": "Jonava District Municipality",
+      "nativeName": "Jonava",
+      "code": "LT-KU-864488",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-KU",
+      "latitude": 55.08333,
+      "longitude": 24.28333
+    },
+    {
+      "id": 864489,
+      "name": "Kaišiadorys District Municipality",
+      "nativeName": "Kaišiadorys",
+      "code": "LT-KU-864489",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-KU",
+      "latitude": 54.86667,
+      "longitude": 24.45
+    },
+    {
+      "id": 598318,
+      "name": "Kaunas",
+      "nativeName": "Kaunas",
+      "code": "LT-KU-598318",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-KU",
+      "latitude": 54.89816,
+      "longitude": 23.90659
+    },
+    {
+      "id": 598313,
+      "name": "Kaunas District Municipality",
+      "nativeName": "Kauno rajonas",
+      "code": "LT-KU-598313",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-KU",
+      "latitude": 54.93502,
+      "longitude": 24.0372
+    },
+    {
+      "id": 864490,
+      "name": "Kėdainiai District Municipality",
+      "nativeName": "Kėdainiai",
+      "code": "LT-KU-864490",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-KU",
+      "latitude": 55.28333,
+      "longitude": 23.96667
+    },
+    {
+      "id": 864491,
+      "name": "Prienai District Municipality",
+      "nativeName": "Prienai",
+      "code": "LT-KU-864491",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-KU",
+      "latitude": 54.63333,
+      "longitude": 23.95
+    },
+    {
+      "id": 864492,
+      "name": "Raseiniai District Municipality",
+      "nativeName": "Raseiniai",
+      "code": "LT-KU-864492",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-KU",
+      "latitude": 55.36667,
+      "longitude": 23.11667
+    }
+  ]
+}

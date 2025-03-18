@@ -1,0 +1,40 @@
+{
+  "stateId": 8299743,
+  "stateCode": "MT-44",
+  "countryCode": "MT",
+  "cities": [
+    {
+      "id": 2562622,
+      "name": "Qrendi",
+      "nativeName": "Qrendi",
+      "code": "MT-44-2562622",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-44",
+      "latitude": 35.83472,
+      "longitude": 14.45833
+    },
+    {
+      "id": 2562391,
+      "name": "Tal-Kittienija",
+      "nativeName": "Tal-Kittienija",
+      "code": "MT-44-2562391",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-44",
+      "latitude": 35.83694,
+      "longitude": 14.46833
+    },
+    {
+      "id": 2562342,
+      "name": "Ta’ San Niklaw",
+      "nativeName": "Ta’ San Niklaw",
+      "code": "MT-44-2562342",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-44",
+      "latitude": 35.83556,
+      "longitude": 14.44167
+    }
+  ]
+}

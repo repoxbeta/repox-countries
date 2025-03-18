@@ -1,0 +1,95 @@
+{
+  "stateId": 1607551,
+  "stateCode": "TH-54",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 1610942,
+      "name": "Den Chai",
+      "nativeName": "Amphoe Den Chai",
+      "code": "TH-54-1610942",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-54",
+      "latitude": 17.91667,
+      "longitude": 100.03333
+    },
+    {
+      "id": 1152321,
+      "name": "Long",
+      "nativeName": "Amphoe Long",
+      "code": "TH-54-1152321",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-54",
+      "latitude": 18.14262,
+      "longitude": 99.90901
+    },
+    {
+      "id": 1608631,
+      "name": "Mueang Phrae",
+      "nativeName": "Amphoe Mueang Phrae",
+      "code": "TH-54-1608631",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-54",
+      "latitude": 18.12258,
+      "longitude": 100.2562
+    },
+    {
+      "id": 7510683,
+      "name": "Nong Muang Khai",
+      "nativeName": "Amphoe Nong Muang Khai",
+      "code": "TH-54-7510683",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-54",
+      "latitude": 18.28845,
+      "longitude": 100.15231
+    },
+    {
+      "id": 1606982,
+      "name": "Rong Kwang",
+      "nativeName": "Amphoe Rong Kwang",
+      "code": "TH-54-1606982",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-54",
+      "latitude": 18.32614,
+      "longitude": 100.39418
+    },
+    {
+      "id": 1606166,
+      "name": "Song",
+      "nativeName": "Amphoe Song",
+      "code": "TH-54-1606166",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-54",
+      "latitude": 18.57006,
+      "longitude": 100.22911
+    },
+    {
+      "id": 1606042,
+      "name": "Sung Men",
+      "nativeName": "Amphoe Sung Men",
+      "code": "TH-54-1606042",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-54",
+      "latitude": 18.03542,
+      "longitude": 100.12538
+    },
+    {
+      "id": 1149936,
+      "name": "Wang Chin",
+      "nativeName": "Amphoe Wang Chin",
+      "code": "TH-54-1149936",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-54",
+      "latitude": 17.86667,
+      "longitude": 99.6499
+    }
+  ]
+}

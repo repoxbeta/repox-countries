@@ -1,0 +1,117 @@
+{
+  "stateId": 3623484,
+  "stateCode": "CR-H",
+  "countryCode": "CR",
+  "cities": [
+    {
+      "id": 3624732,
+      "name": "Barva",
+      "nativeName": "Barva",
+      "code": "CR-H-3624732",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-H",
+      "latitude": 10.0669,
+      "longitude": -84.1085
+    },
+    {
+      "id": 3624717,
+      "name": "Belén",
+      "nativeName": "Belén",
+      "code": "CR-H-3624717",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-H",
+      "latitude": 9.98333,
+      "longitude": -84.16667
+    },
+    {
+      "id": 3623725,
+      "name": "Flores",
+      "nativeName": "Flores",
+      "code": "CR-H-3623725",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-H",
+      "latitude": 10.0064,
+      "longitude": -84.1549
+    },
+    {
+      "id": 3623485,
+      "name": "Heredia",
+      "nativeName": "Heredia",
+      "code": "CR-H-3623485",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-H",
+      "latitude": 9.9866,
+      "longitude": -84.1315
+    },
+    {
+      "id": 3621871,
+      "name": "San Isidro",
+      "nativeName": "San Isidro",
+      "code": "CR-H-3621871",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-H",
+      "latitude": 10.0274,
+      "longitude": -84.0337
+    },
+    {
+      "id": 3621727,
+      "name": "San Pablo",
+      "nativeName": "San Pablo",
+      "code": "CR-H-3621727",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-H",
+      "latitude": 9.9967,
+      "longitude": -84.0934
+    },
+    {
+      "id": 3621668,
+      "name": "San Rafael",
+      "nativeName": "San Rafael",
+      "code": "CR-H-3621668",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-H",
+      "latitude": 10.04648,
+      "longitude": -84.07546
+    },
+    {
+      "id": 3621622,
+      "name": "Santa Bárbara",
+      "nativeName": "Santa Bárbara",
+      "code": "CR-H-3621622",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-H",
+      "latitude": 10.08333,
+      "longitude": -84.15
+    },
+    {
+      "id": 3621512,
+      "name": "Santo Domingo",
+      "nativeName": "Santo Domingo",
+      "code": "CR-H-3621512",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-H",
+      "latitude": 9.98333,
+      "longitude": -84.06843
+    },
+    {
+      "id": 3621497,
+      "name": "Sarapiquí",
+      "nativeName": "Sarapiquí",
+      "code": "CR-H-3621497",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-H",
+      "latitude": 10.5,
+      "longitude": -84
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "stateId": 7670910,
+  "stateCode": "MG-53",
+  "countryCode": "MG",
+  "cities": [
+    {
+      "id": 8299292,
+      "name": "Amboasary District",
+      "nativeName": "Amboasary District",
+      "code": "MG-53-8299292",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-53",
+      "latitude": -24.67198,
+      "longitude": 46.38428
+    },
+    {
+      "id": 8299289,
+      "name": "Betroka District",
+      "nativeName": "Betroka District",
+      "code": "MG-53-8299289",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-53",
+      "latitude": -23.35739,
+      "longitude": 45.93658
+    },
+    {
+      "id": 11072740,
+      "name": "Taolagnaro",
+      "nativeName": "Taolagnaro",
+      "code": "MG-53-11072740",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-53",
+      "latitude": -24.57984,
+      "longitude": 47.07822
+    }
+  ]
+}

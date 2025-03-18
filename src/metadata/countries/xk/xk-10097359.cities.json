@@ -1,0 +1,40 @@
+{
+  "stateId": 10097359,
+  "stateCode": "XK-10097359",
+  "countryCode": "XK",
+  "cities": [
+    {
+      "id": 789995,
+      "name": "Komuna e Istogut",
+      "nativeName": "Komuna e Istogut",
+      "code": "XK-10097359-789995",
+      "countryId": 831053,
+      "countryCode": "XK",
+      "stateCode": "XK-10097359",
+      "latitude": 42.76667,
+      "longitude": 20.48333
+    },
+    {
+      "id": 789453,
+      "name": "Komuna e Klines",
+      "nativeName": "Komuna e Klines",
+      "code": "XK-10097359-789453",
+      "countryId": 831053,
+      "countryCode": "XK",
+      "stateCode": "XK-10097359",
+      "latitude": 42.58333,
+      "longitude": 20.6
+    },
+    {
+      "id": 787156,
+      "name": "Municipality of Peja",
+      "nativeName": "Komuna e Pejës",
+      "code": "XK-10097359-787156",
+      "countryId": 831053,
+      "countryCode": "XK",
+      "stateCode": "XK-10097359",
+      "latitude": 42.65968,
+      "longitude": 20.28997
+    }
+  ]
+}

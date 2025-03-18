@@ -1,0 +1,160 @@
+{
+  "countryId": 390903,
+  "countryCode": "GR",
+  "states": [
+    {
+      "id": 6692632,
+      "name": "Attica",
+      "nativeName": "Attica",
+      "code": "GR-I",
+      "internalCode": "I",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "latitude": 37.92037,
+      "longitude": 23.9035
+    },
+    {
+      "id": 6697800,
+      "name": "Central Greece",
+      "nativeName": "Central Greece",
+      "code": "GR-H",
+      "internalCode": "H",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "latitude": 38.35243,
+      "longitude": 23.13995
+    },
+    {
+      "id": 6697801,
+      "name": "Central Macedonia",
+      "nativeName": "Central Macedonia",
+      "code": "GR-B",
+      "internalCode": "B",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "latitude": 40.91351,
+      "longitude": 22.84058
+    },
+    {
+      "id": 6697802,
+      "name": "Crete",
+      "nativeName": "Crete",
+      "code": "GR-M",
+      "internalCode": "M",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "latitude": 35.15585,
+      "longitude": 24.89502
+    },
+    {
+      "id": 6697803,
+      "name": "East Macedonia and Thrace",
+      "nativeName": "Eastern Macedonia and Thrace",
+      "code": "GR-A",
+      "internalCode": "A",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "latitude": 40.94671,
+      "longitude": 25.33447
+    },
+    {
+      "id": 6697804,
+      "name": "Epirus",
+      "nativeName": "Epirus",
+      "code": "GR-D",
+      "internalCode": "D",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "latitude": 39.23651,
+      "longitude": 20.71472
+    },
+    {
+      "id": 6697805,
+      "name": "Ionian Islands",
+      "nativeName": "Ionian Islands",
+      "code": "GR-F",
+      "internalCode": "F",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "latitude": 37.79299,
+      "longitude": 20.78305
+    },
+    {
+      "id": 736572,
+      "name": "Mount Athos",
+      "nativeName": "Mount Athos",
+      "code": "GR-69",
+      "internalCode": "69",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "latitude": 40.15798,
+      "longitude": 24.33021
+    },
+    {
+      "id": 6697806,
+      "name": "North Aegean",
+      "nativeName": "North Aegean",
+      "code": "GR-K",
+      "internalCode": "K",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "latitude": 37.71942,
+      "longitude": 26.81956
+    },
+    {
+      "id": 6697807,
+      "name": "Peloponnese",
+      "nativeName": "Peloponnese",
+      "code": "GR-J",
+      "internalCode": "J",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "latitude": 37.62728,
+      "longitude": 22.43958
+    },
+    {
+      "id": 6697808,
+      "name": "South Aegean",
+      "nativeName": "South Aegean",
+      "code": "GR-L",
+      "internalCode": "L",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "latitude": 36.16726,
+      "longitude": 27.90603
+    },
+    {
+      "id": 6697809,
+      "name": "Thessaly",
+      "nativeName": "Thessaly",
+      "code": "GR-E",
+      "internalCode": "E",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "latitude": 39.40224,
+      "longitude": 21.98364
+    },
+    {
+      "id": 6697810,
+      "name": "West Greece",
+      "nativeName": "Western Greece",
+      "code": "GR-G",
+      "internalCode": "G",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "latitude": 38.48799,
+      "longitude": 21.2915
+    },
+    {
+      "id": 6697811,
+      "name": "West Macedonia",
+      "nativeName": "Western Macedonia",
+      "code": "GR-C",
+      "internalCode": "C",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "latitude": 40.26695,
+      "longitude": 21.32446
+    }
+  ]
+}

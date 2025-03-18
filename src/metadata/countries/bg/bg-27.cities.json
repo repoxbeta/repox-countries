@@ -1,0 +1,117 @@
+{
+  "stateId": 864555,
+  "stateCode": "BG-27",
+  "countryCode": "BG",
+  "cities": [
+    {
+      "id": 731519,
+      "name": "Hitrino",
+      "nativeName": "Obshtina Hitrino",
+      "code": "BG-27-731519",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-27",
+      "latitude": 43.43333,
+      "longitude": 26.91667
+    },
+    {
+      "id": 730650,
+      "name": "Kaolinovo",
+      "nativeName": "Obshtina Kaolinovo",
+      "code": "BG-27-730650",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-27",
+      "latitude": 43.61667,
+      "longitude": 27.11667
+    },
+    {
+      "id": 730540,
+      "name": "Kaspichan",
+      "nativeName": "Obshtina Kaspichan",
+      "code": "BG-27-730540",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-27",
+      "latitude": 43.3,
+      "longitude": 27.18333
+    },
+    {
+      "id": 728790,
+      "name": "Nikola Kozlevo",
+      "nativeName": "Obshtina Nikola-Kozlevo",
+      "code": "BG-27-728790",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-27",
+      "latitude": 43.58333,
+      "longitude": 27.26667
+    },
+    {
+      "id": 728733,
+      "name": "Novi Pazar",
+      "nativeName": "Obshtina Novi Pazar",
+      "code": "BG-27-728733",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-27",
+      "latitude": 43.41667,
+      "longitude": 27.21667
+    },
+    {
+      "id": 727232,
+      "name": "Shumen",
+      "nativeName": "Obshtina Shumen",
+      "code": "BG-27-727232",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-27",
+      "latitude": 43.26667,
+      "longitude": 26.98333
+    },
+    {
+      "id": 727023,
+      "name": "Smyadovo",
+      "nativeName": "Obshtina Smyadovo",
+      "code": "BG-27-727023",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-27",
+      "latitude": 43.05,
+      "longitude": 27.05
+    },
+    {
+      "id": 725644,
+      "name": "Varbitsa",
+      "nativeName": "Obshtina Varbitsa",
+      "code": "BG-27-725644",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-27",
+      "latitude": 43.01667,
+      "longitude": 26.75
+    },
+    {
+      "id": 727986,
+      "name": "Veliki Preslav",
+      "nativeName": "Obshtina Veliki Preslav",
+      "code": "BG-27-727986",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-27",
+      "latitude": 43.18333,
+      "longitude": 26.86667
+    },
+    {
+      "id": 725966,
+      "name": "Venets",
+      "nativeName": "Obshtina Venets",
+      "code": "BG-27-725966",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-27",
+      "latitude": 43.55,
+      "longitude": 26.93333
+    }
+  ]
+}

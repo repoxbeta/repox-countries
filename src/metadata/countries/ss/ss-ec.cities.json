@@ -1,0 +1,73 @@
+{
+  "stateId": 408655,
+  "stateCode": "SS-EC",
+  "countryCode": "SS",
+  "cities": [
+    {
+      "id": 8299284,
+      "name": "Juba County",
+      "nativeName": "Juba County",
+      "code": "SS-EC-8299284",
+      "countryId": 7909807,
+      "countryCode": "SS",
+      "stateCode": "SS-EC",
+      "latitude": 4.86016,
+      "longitude": 31.56312
+    },
+    {
+      "id": 10400491,
+      "name": "Kajo Keji County",
+      "nativeName": "Kajo Keji County",
+      "code": "SS-EC-10400491",
+      "countryId": 7909807,
+      "countryCode": "SS",
+      "stateCode": "SS-EC",
+      "latitude": 3.85843,
+      "longitude": 31.54673
+    },
+    {
+      "id": 10400489,
+      "name": "Lainya County",
+      "nativeName": "Lainya County",
+      "code": "SS-EC-10400489",
+      "countryId": 7909807,
+      "countryCode": "SS",
+      "stateCode": "SS-EC",
+      "latitude": 4.49257,
+      "longitude": 30.75846
+    },
+    {
+      "id": 10400490,
+      "name": "Morobo County",
+      "nativeName": "Morobo County",
+      "code": "SS-EC-10400490",
+      "countryId": 7909807,
+      "countryCode": "SS",
+      "stateCode": "SS-EC",
+      "latitude": 3.66933,
+      "longitude": 30.87656
+    },
+    {
+      "id": 7874621,
+      "name": "Terekeka County",
+      "nativeName": "Terkaka",
+      "code": "SS-EC-7874621",
+      "countryId": 7909807,
+      "countryCode": "SS",
+      "stateCode": "SS-EC",
+      "latitude": 5.61892,
+      "longitude": 31.44562
+    },
+    {
+      "id": 10345968,
+      "name": "Yei County",
+      "nativeName": "Yei County",
+      "code": "SS-EC-10345968",
+      "countryId": 7909807,
+      "countryCode": "SS",
+      "stateCode": "SS-EC",
+      "latitude": 4.23904,
+      "longitude": 30.35008
+    }
+  ]
+}

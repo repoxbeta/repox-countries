@@ -1,0 +1,40 @@
+{
+  "stateId": 591961,
+  "stateCode": "EE-52",
+  "countryCode": "EE",
+  "cities": [
+    {
+      "id": 11776875,
+      "name": "Järva vald",
+      "nativeName": "Järva vald",
+      "code": "EE-52-11776875",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-52",
+      "latitude": 58.98405,
+      "longitude": 25.82298
+    },
+    {
+      "id": 7522368,
+      "name": "Paide linn",
+      "nativeName": "Paide linn",
+      "code": "EE-52-7522368",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-52",
+      "latitude": 58.88504,
+      "longitude": 25.56021
+    },
+    {
+      "id": 7522474,
+      "name": "Türi vald",
+      "nativeName": "Türi vald",
+      "code": "EE-52-7522474",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-52",
+      "latitude": 58.74143,
+      "longitude": 25.46443
+    }
+  ]
+}

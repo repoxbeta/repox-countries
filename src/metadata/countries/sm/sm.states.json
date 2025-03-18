@@ -1,0 +1,105 @@
+{
+  "countryId": 3168068,
+  "countryCode": "SM",
+  "states": [
+    {
+      "id": 3345303,
+      "name": "Acquaviva",
+      "nativeName": "Castello di Acquaviva",
+      "code": "SM-01",
+      "internalCode": "01",
+      "countryId": 3168068,
+      "countryCode": "SM",
+      "latitude": 43.95,
+      "longitude": 12.41667
+    },
+    {
+      "id": 3345304,
+      "name": "Borgo Maggiore",
+      "nativeName": "Castello di Borgo Maggiore",
+      "code": "SM-06",
+      "internalCode": "06",
+      "countryId": 3168068,
+      "countryCode": "SM",
+      "latitude": 43.94092,
+      "longitude": 12.44562
+    },
+    {
+      "id": 3345305,
+      "name": "Castello di Domagnano",
+      "nativeName": "Castello di Domagnano",
+      "code": "SM-03",
+      "internalCode": "03",
+      "countryId": 3168068,
+      "countryCode": "SM",
+      "latitude": 43.95417,
+      "longitude": 12.48333
+    },
+    {
+      "id": 3345302,
+      "name": "Castello di San Marino Città",
+      "nativeName": "Castello di San Marino Città",
+      "code": "SM-07",
+      "internalCode": "07",
+      "countryId": 3168068,
+      "countryCode": "SM",
+      "latitude": 43.93333,
+      "longitude": 12.45
+    },
+    {
+      "id": 3178807,
+      "name": "Chiesanuova",
+      "nativeName": "Chiesanuova",
+      "code": "SM-02",
+      "internalCode": "02",
+      "countryId": 3168068,
+      "countryCode": "SM",
+      "latitude": 43.91667,
+      "longitude": 12.41667
+    },
+    {
+      "id": 3345306,
+      "name": "Faetano",
+      "nativeName": "Castello di Faetano",
+      "code": "SM-04",
+      "internalCode": "04",
+      "countryId": 3168068,
+      "countryCode": "SM",
+      "latitude": 43.9251,
+      "longitude": 12.49849
+    },
+    {
+      "id": 3345307,
+      "name": "Fiorentino",
+      "nativeName": "Castello di Fiorentino",
+      "code": "SM-05",
+      "internalCode": "05",
+      "countryId": 3168068,
+      "countryCode": "SM",
+      "latitude": 43.91144,
+      "longitude": 12.45652
+    },
+    {
+      "id": 3345308,
+      "name": "Montegiardino",
+      "nativeName": "Castello di Montegiardino",
+      "code": "SM-08",
+      "internalCode": "08",
+      "countryId": 3168068,
+      "countryCode": "SM",
+      "latitude": 43.91131,
+      "longitude": 12.48442
+    },
+    {
+      "id": 3166650,
+      "name": "Serravalle",
+      "nativeName": "Serravalle",
+      "code": "SM-09",
+      "internalCode": "09",
+      "countryId": 3168068,
+      "countryCode": "SM",
+      "latitude": 43.96667,
+      "longitude": 12.46667
+    }
+  ]
+}

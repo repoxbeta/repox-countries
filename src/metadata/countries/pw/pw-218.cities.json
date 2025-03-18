@@ -1,0 +1,73 @@
+{
+  "stateId": 4038037,
+  "stateCode": "PW-218",
+  "countryCode": "PW",
+  "cities": [
+    {
+      "id": 4038170,
+      "name": "Mengellang",
+      "nativeName": "Mengellang",
+      "code": "PW-218-4038170",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-218",
+      "latitude": 7.6957,
+      "longitude": 134.63054
+    },
+    {
+      "id": 1559604,
+      "name": "Chollei Hamlet",
+      "nativeName": "Chollei Hamlet",
+      "code": "PW-218-1559604",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-218",
+      "latitude": 7.71985,
+      "longitude": 134.61414
+    },
+    {
+      "id": 1559338,
+      "name": "Iebukel Hamlet",
+      "nativeName": "Iebukel Hamlet",
+      "code": "PW-218-1559338",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-218",
+      "latitude": 7.70006,
+      "longitude": 134.64097
+    },
+    {
+      "id": 4037993,
+      "name": "Ngebei Hamlet",
+      "nativeName": "Ngebei Hamlet",
+      "code": "PW-218-4037993",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-218",
+      "latitude": 7.69887,
+      "longitude": 134.63672
+    },
+    {
+      "id": 1559732,
+      "name": "Ngerbau Hamlet",
+      "nativeName": "Ngerbau Hamlet",
+      "code": "PW-218-1559732",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-218",
+      "latitude": 7.70291,
+      "longitude": 134.64106
+    },
+    {
+      "id": 1559617,
+      "name": "Ngriil",
+      "nativeName": "Ngriil Hamlet",
+      "code": "PW-218-1559617",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-218",
+      "latitude": 7.69032,
+      "longitude": 134.63609
+    }
+  ]
+}

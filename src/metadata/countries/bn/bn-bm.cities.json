@@ -1,0 +1,194 @@
+{
+  "stateId": 1820818,
+  "stateCode": "BN-BM",
+  "countryCode": "BN",
+  "cities": [
+    {
+      "id": 11821302,
+      "name": "Berakas A",
+      "nativeName": "Berakas A",
+      "code": "BN-BM-11821302",
+      "countryId": 1820814,
+      "countryCode": "BN",
+      "stateCode": "BN-BM",
+      "latitude": 4.97032,
+      "longitude": 114.92989
+    },
+    {
+      "id": 11821303,
+      "name": "Berakas B",
+      "nativeName": "Berakas B",
+      "code": "BN-BM-11821303",
+      "countryId": 1820814,
+      "countryCode": "BN",
+      "stateCode": "BN-BM",
+      "latitude": 4.95972,
+      "longitude": 114.95748
+    },
+    {
+      "id": 11821317,
+      "name": "Burong Pingai Ayer",
+      "nativeName": "Burong Pingai Ayer",
+      "code": "BN-BM-11821317",
+      "countryId": 1820814,
+      "countryCode": "BN",
+      "stateCode": "BN-BM",
+      "latitude": 4.87142,
+      "longitude": 114.91662
+    },
+    {
+      "id": 11821300,
+      "name": "Gadong A",
+      "nativeName": "Gadong A",
+      "code": "BN-BM-11821300",
+      "countryId": 1820814,
+      "countryCode": "BN",
+      "stateCode": "BN-BM",
+      "latitude": 4.94579,
+      "longitude": 114.89401
+    },
+    {
+      "id": 11821301,
+      "name": "Gadong B",
+      "nativeName": "Gadong B",
+      "code": "BN-BM-11821301",
+      "countryId": 1820814,
+      "countryCode": "BN",
+      "stateCode": "BN-BM",
+      "latitude": 4.92054,
+      "longitude": 114.91091
+    },
+    {
+      "id": 11821313,
+      "name": "Kianggeh",
+      "nativeName": "Kianggeh",
+      "code": "BN-BM-11821313",
+      "countryId": 1820814,
+      "countryCode": "BN",
+      "stateCode": "BN-BM",
+      "latitude": 4.89945,
+      "longitude": 114.94382
+    },
+    {
+      "id": 11821306,
+      "name": "Kota Batu",
+      "nativeName": "Kota Batu",
+      "code": "BN-BM-11821306",
+      "countryId": 1820814,
+      "countryCode": "BN",
+      "stateCode": "BN-BM",
+      "latitude": 4.88874,
+      "longitude": 114.96898
+    },
+    {
+      "id": 11821307,
+      "name": "Lumapas",
+      "nativeName": "Lumapas",
+      "code": "BN-BM-11821307",
+      "countryId": 1820814,
+      "countryCode": "BN",
+      "stateCode": "BN-BM",
+      "latitude": 4.8253,
+      "longitude": 114.9113
+    },
+    {
+      "id": 11821305,
+      "name": "Mentiri",
+      "nativeName": "Mentiri",
+      "code": "BN-BM-11821305",
+      "countryId": 1820814,
+      "countryCode": "BN",
+      "stateCode": "BN-BM",
+      "latitude": 4.97477,
+      "longitude": 115.00211
+    },
+    {
+      "id": 11821310,
+      "name": "Pengkalan Batu",
+      "nativeName": "Pengkalan Batu",
+      "code": "BN-BM-11821310",
+      "countryId": 1820814,
+      "countryCode": "BN",
+      "stateCode": "BN-BM",
+      "latitude": 4.84634,
+      "longitude": 114.84761
+    },
+    {
+      "id": 11821318,
+      "name": "Peramu",
+      "nativeName": "Peramu",
+      "code": "BN-BM-11821318",
+      "countryId": 1820814,
+      "countryCode": "BN",
+      "stateCode": "BN-BM",
+      "latitude": 4.87209,
+      "longitude": 114.9222
+    },
+    {
+      "id": 11821319,
+      "name": "Saba",
+      "nativeName": "Saba",
+      "code": "BN-BM-11821319",
+      "countryId": 1820814,
+      "countryCode": "BN",
+      "stateCode": "BN-BM",
+      "latitude": 4.87487,
+      "longitude": 114.92572
+    },
+    {
+      "id": 11821309,
+      "name": "Sengkurong",
+      "nativeName": "Sengkurong",
+      "code": "BN-BM-11821309",
+      "countryId": 1820814,
+      "countryCode": "BN",
+      "stateCode": "BN-BM",
+      "latitude": 4.92399,
+      "longitude": 114.83577
+    },
+    {
+      "id": 11821304,
+      "name": "Serasa",
+      "nativeName": "Serasa",
+      "code": "BN-BM-11821304",
+      "countryId": 1820814,
+      "countryCode": "BN",
+      "stateCode": "BN-BM",
+      "latitude": 5.01718,
+      "longitude": 115.05841
+    },
+    {
+      "id": 11821322,
+      "name": "Sungai Kebun",
+      "nativeName": "Sungai Kebun",
+      "code": "BN-BM-11821322",
+      "countryId": 1820814,
+      "countryCode": "BN",
+      "stateCode": "BN-BM",
+      "latitude": 4.86816,
+      "longitude": 114.92375
+    },
+    {
+      "id": 11821320,
+      "name": "Sungai Kedayan",
+      "nativeName": "Sungai Kedayan",
+      "code": "BN-BM-11821320",
+      "countryId": 1820814,
+      "countryCode": "BN",
+      "stateCode": "BN-BM",
+      "latitude": 4.87945,
+      "longitude": 114.9198
+    },
+    {
+      "id": 11821315,
+      "name": "Tamoi",
+      "nativeName": "Tamoi",
+      "code": "BN-BM-11821315",
+      "countryId": 1820814,
+      "countryCode": "BN",
+      "stateCode": "BN-BM",
+      "latitude": 4.87572,
+      "longitude": 114.91559
+    }
+  ]
+}

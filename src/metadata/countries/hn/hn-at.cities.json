@@ -1,0 +1,95 @@
+{
+  "stateId": 3615027,
+  "stateCode": "HN-AT",
+  "countryCode": "HN",
+  "cities": [
+    {
+      "id": 8062522,
+      "name": "Arizona",
+      "nativeName": "Arizona",
+      "code": "HN-AT-8062522",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-AT",
+      "latitude": 15.68333,
+      "longitude": -87.33333
+    },
+    {
+      "id": 3610697,
+      "name": "El Porvenir",
+      "nativeName": "El Porvenir",
+      "code": "HN-AT-3610697",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-AT",
+      "latitude": 15.66598,
+      "longitude": -86.91046
+    },
+    {
+      "id": 3609754,
+      "name": "Esparta",
+      "nativeName": "Esparta",
+      "code": "HN-AT-3609754",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-AT",
+      "latitude": 15.66291,
+      "longitude": -87.25622
+    },
+    {
+      "id": 3608523,
+      "name": "Jutiapa",
+      "nativeName": "Jutiapa",
+      "code": "HN-AT-3608523",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-AT",
+      "latitude": 15.69586,
+      "longitude": -86.50414
+    },
+    {
+      "id": 3608268,
+      "name": "La Ceiba",
+      "nativeName": "La Ceiba",
+      "code": "HN-AT-3608268",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-AT",
+      "latitude": 15.67,
+      "longitude": -86.76
+    },
+    {
+      "id": 3607421,
+      "name": "La Masica",
+      "nativeName": "La Masica",
+      "code": "HN-AT-3607421",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-AT",
+      "latitude": 15.59865,
+      "longitude": -87.135
+    },
+    {
+      "id": 3602332,
+      "name": "San Francisco",
+      "nativeName": "San Francisco",
+      "code": "HN-AT-3602332",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-AT",
+      "latitude": 15.65246,
+      "longitude": -87.01736
+    },
+    {
+      "id": 3600932,
+      "name": "Tela",
+      "nativeName": "Tela",
+      "code": "HN-AT-3600932",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-AT",
+      "latitude": 15.7,
+      "longitude": -87.58
+    }
+  ]
+}

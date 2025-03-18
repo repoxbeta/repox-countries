@@ -1,0 +1,84 @@
+{
+  "stateId": 11281877,
+  "stateCode": "MA-04",
+  "countryCode": "MA",
+  "cities": [
+    {
+      "id": 2544568,
+      "name": "Kenitra Province",
+      "nativeName": "Kenitra Province",
+      "code": "MA-04-2544568",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-04",
+      "latitude": 34.58333,
+      "longitude": -6.33333
+    },
+    {
+      "id": 2544363,
+      "name": "Khémisset Province",
+      "nativeName": "Khemisset",
+      "code": "MA-04-2544363",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-04",
+      "latitude": 33.66667,
+      "longitude": -6.25
+    },
+    {
+      "id": 2538474,
+      "name": "Rabat",
+      "nativeName": "Rabat",
+      "code": "MA-04-2538474",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-04",
+      "latitude": 33.99111,
+      "longitude": -6.84006
+    },
+    {
+      "id": 2537762,
+      "name": "Sale",
+      "nativeName": "Sale",
+      "code": "MA-04-2537762",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-04",
+      "latitude": 33.99,
+      "longitude": -6.64
+    },
+    {
+      "id": 2534445,
+      "name": "Sidi Kacem Province",
+      "nativeName": "Sidi-Kacem",
+      "code": "MA-04-2534445",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-04",
+      "latitude": 34.58333,
+      "longitude": -5.75
+    },
+    {
+      "id": 11282167,
+      "name": "Sidi Slimane Province",
+      "nativeName": "Sidi Slimane",
+      "code": "MA-04-11282167",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-04",
+      "latitude": 34.26221,
+      "longitude": -5.92549
+    },
+    {
+      "id": 2562053,
+      "name": "Skhirate-Temara",
+      "nativeName": "Skhirate-Temara",
+      "code": "MA-04-2562053",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-04",
+      "latitude": 33.77,
+      "longitude": -6.87
+    }
+  ]
+}

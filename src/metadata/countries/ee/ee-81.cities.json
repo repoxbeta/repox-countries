@@ -1,0 +1,40 @@
+{
+  "stateId": 587875,
+  "stateCode": "EE-81",
+  "countryCode": "EE",
+  "cities": [
+    {
+      "id": 7522388,
+      "name": "Otepää vald",
+      "nativeName": "Otepää vald",
+      "code": "EE-81-7522388",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-81",
+      "latitude": 58.02177,
+      "longitude": 26.45306
+    },
+    {
+      "id": 11776878,
+      "name": "Tõrva vald",
+      "nativeName": "Tõrva vald",
+      "code": "EE-81-11776878",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-81",
+      "latitude": 57.98419,
+      "longitude": 25.88741
+    },
+    {
+      "id": 11776870,
+      "name": "Valga vald",
+      "nativeName": "Valga vald",
+      "code": "EE-81-11776870",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-81",
+      "latitude": 57.77908,
+      "longitude": 26.27151
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "stateId": 7602868,
+  "stateCode": "CV-PN",
+  "countryCode": "CV",
+  "cities": [
+    {
+      "id": 11996042,
+      "name": "Santo Andre",
+      "nativeName": "Santo Andre",
+      "code": "CV-PN-11996042",
+      "countryId": 3374766,
+      "countryCode": "CV",
+      "stateCode": "CV-PN",
+      "latitude": 17.07671,
+      "longitude": -25.27536
+    },
+    {
+      "id": 11996050,
+      "name": "Sao Joao Baptista",
+      "nativeName": "Sao Joao Baptista",
+      "code": "CV-PN-11996050",
+      "countryId": 3374766,
+      "countryCode": "CV",
+      "stateCode": "CV-PN",
+      "latitude": 17.01202,
+      "longitude": -25.17769
+    }
+  ]
+}

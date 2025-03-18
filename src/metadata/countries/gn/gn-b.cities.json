@@ -1,0 +1,62 @@
+{
+  "stateId": 8335085,
+  "stateCode": "GN-B",
+  "countryCode": "GN",
+  "cities": [
+    {
+      "id": 2422923,
+      "name": "Boke",
+      "nativeName": "Boke Prefecture",
+      "code": "GN-B-2422923",
+      "countryId": 2420477,
+      "countryCode": "GN",
+      "stateCode": "GN-B",
+      "latitude": 11.08333,
+      "longitude": -14.41667
+    },
+    {
+      "id": 2420825,
+      "name": "Gaoual Prefecture",
+      "nativeName": "Gaoual Prefecture",
+      "code": "GN-B-2420825",
+      "countryId": 2420477,
+      "countryCode": "GN",
+      "stateCode": "GN-B",
+      "latitude": 11.75,
+      "longitude": -13.2
+    },
+    {
+      "id": 2418595,
+      "name": "Koundara Prefecture",
+      "nativeName": "Koundara Prefecture",
+      "code": "GN-B-2418595",
+      "countryId": 2420477,
+      "countryCode": "GN",
+      "stateCode": "GN-B",
+      "latitude": 12.41667,
+      "longitude": -13.16667
+    },
+    {
+      "id": 2420883,
+      "name": "Préfecture de Fria",
+      "nativeName": "Fria",
+      "code": "GN-B-2420883",
+      "countryId": 2420477,
+      "countryCode": "GN",
+      "stateCode": "GN-B",
+      "latitude": 10.41667,
+      "longitude": -13.58333
+    },
+    {
+      "id": 2422967,
+      "name": "Préfecture de boffa",
+      "nativeName": "Boffa",
+      "code": "GN-B-2422967",
+      "countryId": 2420477,
+      "countryCode": "GN",
+      "stateCode": "GN-B",
+      "latitude": 10.33333,
+      "longitude": -14.16667
+    }
+  ]
+}

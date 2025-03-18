@@ -1,0 +1,193 @@
+{
+  "countryId": 1694008,
+  "countryCode": "PH",
+  "states": [
+    {
+      "id": 7115989,
+      "name": "Autonomous Region in Muslim Mindanao",
+      "nativeName": "Autonomous Region in Muslim Mindanao",
+      "code": "PH-14",
+      "internalCode": "14",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "latitude": 7.53676,
+      "longitude": 124.27734
+    },
+    {
+      "id": 7521310,
+      "name": "Bicol Region",
+      "nativeName": "Bicol",
+      "code": "PH-05",
+      "internalCode": "05",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "latitude": 13.31389,
+      "longitude": 123.56389
+    },
+    {
+      "id": 7521297,
+      "name": "Cagayan Valley",
+      "nativeName": "Cagayan Valley",
+      "code": "PH-02",
+      "internalCode": "02",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "latitude": 17.65667,
+      "longitude": 121.73333
+    },
+    {
+      "id": 7521303,
+      "name": "Calabarzon",
+      "nativeName": "Calabarzon",
+      "code": "PH-40",
+      "internalCode": "40",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "latitude": 14.31,
+      "longitude": 121.09
+    },
+    {
+      "id": 7521299,
+      "name": "Caraga",
+      "nativeName": "Caraga",
+      "code": "PH-13",
+      "internalCode": "13",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "latitude": 9,
+      "longitude": 125.74167
+    },
+    {
+      "id": 7521305,
+      "name": "Central Luzon",
+      "nativeName": "Central Luzon",
+      "code": "PH-03",
+      "internalCode": "03",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "latitude": 15.30714,
+      "longitude": 120.79762
+    },
+    {
+      "id": 7521306,
+      "name": "Central Visayas",
+      "nativeName": "Central Visayas",
+      "code": "PH-07",
+      "internalCode": "07",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "latitude": 10.35815,
+      "longitude": 123.87085
+    },
+    {
+      "id": 7521300,
+      "name": "Cordillera",
+      "nativeName": "Cordillera Administrative Region",
+      "code": "PH-15",
+      "internalCode": "15",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "latitude": 17.0852,
+      "longitude": 121.03322
+    },
+    {
+      "id": 7521309,
+      "name": "Davao Region",
+      "nativeName": "Davao",
+      "code": "PH-11",
+      "internalCode": "11",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "latitude": 7.54734,
+      "longitude": 125.92499
+    },
+    {
+      "id": 7521307,
+      "name": "Eastern Visayas",
+      "nativeName": "Eastern Visayas",
+      "code": "PH-08",
+      "internalCode": "08",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "latitude": 11.51649,
+      "longitude": 124.96204
+    },
+    {
+      "id": 7521301,
+      "name": "Ilocos",
+      "nativeName": "Ilocos",
+      "code": "PH-01",
+      "internalCode": "01",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "latitude": 16.97917,
+      "longitude": 120.52083
+    },
+    {
+      "id": 7521296,
+      "name": "Mimaropa",
+      "nativeName": "Mimaropa",
+      "code": "PH-41",
+      "internalCode": "41",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "latitude": 12.87014,
+      "longitude": 121.13403
+    },
+    {
+      "id": 7521311,
+      "name": "National Capital Region",
+      "nativeName": "National Capital Region",
+      "code": "PH-00",
+      "internalCode": "00",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "latitude": 14.57775,
+      "longitude": 121.04599
+    },
+    {
+      "id": 7521295,
+      "name": "Northern Mindanao",
+      "nativeName": "Northern Mindanao",
+      "code": "PH-10",
+      "internalCode": "10",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "latitude": 8.5262,
+      "longitude": 125.22669
+    },
+    {
+      "id": 7521298,
+      "name": "Soccsksargen",
+      "nativeName": "Soccsksargen",
+      "code": "PH-12",
+      "internalCode": "12",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "latitude": 6.47361,
+      "longitude": 124.90356
+    },
+    {
+      "id": 7521304,
+      "name": "Western Visayas",
+      "nativeName": "Western Visayas",
+      "code": "PH-06",
+      "internalCode": "06",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "latitude": 11.13,
+      "longitude": 122.53
+    },
+    {
+      "id": 7521308,
+      "name": "Zamboanga Peninsula",
+      "nativeName": "Zamboanga Peninsula",
+      "code": "PH-09",
+      "internalCode": "09",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "latitude": 7.89603,
+      "longitude": 123.13477
+    }
+  ]
+}

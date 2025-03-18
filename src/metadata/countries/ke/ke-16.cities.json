@@ -1,0 +1,29 @@
+{
+  "stateId": 191298,
+  "stateCode": "KE-16",
+  "countryCode": "KE",
+  "cities": [
+    {
+      "id": 8051335,
+      "name": "Central Kisii",
+      "nativeName": "Central Kisii",
+      "code": "KE-16-8051335",
+      "countryId": 192950,
+      "countryCode": "KE",
+      "stateCode": "KE-16",
+      "latitude": -0.717,
+      "longitude": 34.812
+    },
+    {
+      "id": 7667668,
+      "name": "Gucha District",
+      "nativeName": "Gucha District",
+      "code": "KE-16-7667668",
+      "countryId": 192950,
+      "countryCode": "KE",
+      "stateCode": "KE-16",
+      "latitude": -0.845,
+      "longitude": 34.753
+    }
+  ]
+}

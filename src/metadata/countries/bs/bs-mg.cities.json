@@ -1,0 +1,40 @@
+{
+  "stateId": 3571894,
+  "stateCode": "BS-MG",
+  "countryCode": "BS",
+  "cities": [
+    {
+      "id": 3572940,
+      "name": "Abraham’s Bay",
+      "nativeName": "Abraham’s Bay",
+      "code": "BS-MG-3572940",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-MG",
+      "latitude": 22.36667,
+      "longitude": -72.96667
+    },
+    {
+      "id": 3572841,
+      "name": "Betsy Bay",
+      "nativeName": "Betsy Bay",
+      "code": "BS-MG-3572841",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-MG",
+      "latitude": 22.41862,
+      "longitude": -73.13409
+    },
+    {
+      "id": 3571670,
+      "name": "Pirates Well",
+      "nativeName": "Pirates Well",
+      "code": "BS-MG-3571670",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-MG",
+      "latitude": 22.43071,
+      "longitude": -73.09457
+    }
+  ]
+}

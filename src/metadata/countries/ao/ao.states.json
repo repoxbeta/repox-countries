@@ -1,0 +1,204 @@
+{
+  "countryId": 3351879,
+  "countryCode": "AO",
+  "states": [
+    {
+      "id": 2243598,
+      "name": "Bengo",
+      "nativeName": "Bengo Province",
+      "code": "AO-BGO",
+      "internalCode": "BGO",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "latitude": -8.97504,
+      "longitude": 13.82743
+    },
+    {
+      "id": 3351660,
+      "name": "Benguela",
+      "nativeName": "Benguela",
+      "code": "AO-BGU",
+      "internalCode": "BGU",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "latitude": -12.85399,
+      "longitude": 13.92825
+    },
+    {
+      "id": 3351640,
+      "name": "Bíe",
+      "nativeName": "Província do Bié",
+      "code": "AO-BIE",
+      "internalCode": "BIE",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "latitude": -12.34989,
+      "longitude": 17.3031
+    },
+    {
+      "id": 2243266,
+      "name": "Cabinda",
+      "nativeName": "Cabinda",
+      "code": "AO-CAB",
+      "internalCode": "CAB",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "latitude": -4.93423,
+      "longitude": 12.40532
+    },
+    {
+      "id": 876337,
+      "name": "Cuando Cobango",
+      "nativeName": "Cuando Cubango",
+      "code": "AO-CCU",
+      "internalCode": "CCU",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "latitude": -15.94761,
+      "longitude": 19.3832
+    },
+    {
+      "id": 2241660,
+      "name": "Cuanza Norte",
+      "nativeName": "Cuanza Norte Province",
+      "code": "AO-CNO",
+      "internalCode": "CNO",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "latitude": -8.91136,
+      "longitude": 14.8887
+    },
+    {
+      "id": 3349096,
+      "name": "Cunene",
+      "nativeName": "Cunene Province",
+      "code": "AO-CNN",
+      "internalCode": "CNN",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "latitude": -16.51009,
+      "longitude": 15.43526
+    },
+    {
+      "id": 3348310,
+      "name": "Huambo",
+      "nativeName": "Huambo",
+      "code": "AO-HUA",
+      "internalCode": "HUA",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "latitude": -12.5,
+      "longitude": 15.66667
+    },
+    {
+      "id": 3348303,
+      "name": "Huíla",
+      "nativeName": "Huila Province",
+      "code": "AO-HUI",
+      "internalCode": "HUI",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "latitude": -14.69531,
+      "longitude": 15.00014
+    },
+    {
+      "id": 3349234,
+      "name": "Kwanza Sul",
+      "nativeName": "Cuanza-Sul",
+      "code": "AO-CUS",
+      "internalCode": "CUS",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "latitude": -10.82696,
+      "longitude": 15.03197
+    },
+    {
+      "id": 2240444,
+      "name": "Luanda",
+      "nativeName": "Luanda Province",
+      "code": "AO-LUA",
+      "internalCode": "LUA",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "latitude": -8.91667,
+      "longitude": 13.33924
+    },
+    {
+      "id": 145702,
+      "name": "Luanda Norte",
+      "nativeName": "Lunda Norte Province",
+      "code": "AO-LNO",
+      "internalCode": "LNO",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "latitude": -8.63543,
+      "longitude": 19.64852
+    },
+    {
+      "id": 145701,
+      "name": "Lunda Sul",
+      "nativeName": "Lunda-Sul",
+      "code": "AO-LSU",
+      "internalCode": "LSU",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "latitude": -10.25918,
+      "longitude": 20.62489
+    },
+    {
+      "id": 2239858,
+      "name": "Malanje",
+      "nativeName": "Malanje Province",
+      "code": "AO-MAL",
+      "internalCode": "MAL",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "latitude": -9.67548,
+      "longitude": 16.82553
+    },
+    {
+      "id": 875996,
+      "name": "Moxico",
+      "nativeName": "Moxico",
+      "code": "AO-MOX",
+      "internalCode": "MOX",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "latitude": -12.84869,
+      "longitude": 20.93266
+    },
+    {
+      "id": 3347016,
+      "name": "Namibe",
+      "nativeName": "Namibe Province",
+      "code": "AO-NAM",
+      "internalCode": "NAM",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "latitude": -15.33207,
+      "longitude": 12.66002
+    },
+    {
+      "id": 2236566,
+      "name": "Uíge",
+      "nativeName": "Província do Uíge",
+      "code": "AO-UIG",
+      "internalCode": "UIG",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "latitude": -7.10719,
+      "longitude": 15.44056
+    },
+    {
+      "id": 2236355,
+      "name": "Zaire",
+      "nativeName": "Zaire",
+      "code": "AO-ZAI",
+      "internalCode": "ZAI",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "latitude": -6.58717,
+      "longitude": 13.51966
+    }
+  ]
+}

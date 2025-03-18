@@ -1,0 +1,139 @@
+{
+  "stateId": 3654005,
+  "stateCode": "EC-S",
+  "countryCode": "EC",
+  "cities": [
+    {
+      "id": 3654737,
+      "name": "Cantón Limón Indanza",
+      "nativeName": "Cantón Limón Indanza",
+      "code": "EC-S-3654737",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-S",
+      "latitude": -3.04269,
+      "longitude": -78.33801
+    },
+    {
+      "id": 3650955,
+      "name": "Cantón Sucúa",
+      "nativeName": "Cantón Sucúa",
+      "code": "EC-S-3650955",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-S",
+      "latitude": -2.48336,
+      "longitude": -78.21615
+    },
+    {
+      "id": 3657660,
+      "name": "Gualaquiza",
+      "nativeName": "Gualaquiza",
+      "code": "EC-S-3657660",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-S",
+      "latitude": -3.36543,
+      "longitude": -78.65378
+    },
+    {
+      "id": 10792470,
+      "name": "Huamboya",
+      "nativeName": "Huamboya",
+      "code": "EC-S-10792470",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-S",
+      "latitude": -1.99019,
+      "longitude": -77.92191
+    },
+    {
+      "id": 10792482,
+      "name": "Logroño",
+      "nativeName": "Logroño",
+      "code": "EC-S-10792482",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-S",
+      "latitude": -2.77682,
+      "longitude": -78.02212
+    },
+    {
+      "id": 3654006,
+      "name": "Morona",
+      "nativeName": "Morona",
+      "code": "EC-S-3654006",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-S",
+      "latitude": -2.2626,
+      "longitude": -78.02047
+    },
+    {
+      "id": 10792550,
+      "name": "Pablo Sexto",
+      "nativeName": "Pablo Sexto",
+      "code": "EC-S-10792550",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-S",
+      "latitude": -1.85362,
+      "longitude": -78.29544
+    },
+    {
+      "id": 3653522,
+      "name": "Palora",
+      "nativeName": "Palora",
+      "code": "EC-S-3653522",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-S",
+      "latitude": -1.72179,
+      "longitude": -78.07817
+    },
+    {
+      "id": 10792480,
+      "name": "San Juan Bosco",
+      "nativeName": "San Juan Bosco",
+      "code": "EC-S-10792480",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-S",
+      "latitude": -3.2627,
+      "longitude": -78.38168
+    },
+    {
+      "id": 3651317,
+      "name": "Santiago de Méndez",
+      "nativeName": "Santiago de Méndez",
+      "code": "EC-S-3651317",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-S",
+      "latitude": -2.71667,
+      "longitude": -78.31667
+    },
+    {
+      "id": 10792481,
+      "name": "Taisha",
+      "nativeName": "Taisha",
+      "code": "EC-S-10792481",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-S",
+      "latitude": -2.49054,
+      "longitude": -77.48315
+    },
+    {
+      "id": 10792546,
+      "name": "Tiwintza",
+      "nativeName": "Tiwintza",
+      "code": "EC-S-10792546",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-S",
+      "latitude": -3.04841,
+      "longitude": -78.00662
+    }
+  ]
+}

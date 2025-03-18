@@ -1,0 +1,106 @@
+{
+  "stateId": 3494267,
+  "stateCode": "DO-18",
+  "countryCode": "DO",
+  "cities": [
+    {
+      "id": 3512798,
+      "name": "Altamira",
+      "nativeName": "Altamira",
+      "code": "DO-18-3512798",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-18",
+      "latitude": 19.7,
+      "longitude": -70.83333
+    },
+    {
+      "id": 11154577,
+      "name": "Guananico",
+      "nativeName": "Guananico",
+      "code": "DO-18-11154577",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-18",
+      "latitude": 19.6992,
+      "longitude": -70.92124
+    },
+    {
+      "id": 3504333,
+      "name": "Imbert",
+      "nativeName": "Imbert",
+      "code": "DO-18-3504333",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-18",
+      "latitude": 19.75,
+      "longitude": -70.86667
+    },
+    {
+      "id": 3498419,
+      "name": "Los Hidalgos",
+      "nativeName": "Los Hidalgos",
+      "code": "DO-18-3498419",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-18",
+      "latitude": 19.75,
+      "longitude": -71.03333
+    },
+    {
+      "id": 3497351,
+      "name": "Luperón",
+      "nativeName": "Luperón",
+      "code": "DO-18-3497351",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-18",
+      "latitude": 19.85668,
+      "longitude": -70.97439
+    },
+    {
+      "id": 3494269,
+      "name": "Puerto Plata",
+      "nativeName": "Puerto Plata",
+      "code": "DO-18-3494269",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-18",
+      "latitude": 19.75119,
+      "longitude": -70.70251
+    },
+    {
+      "id": 3492630,
+      "name": "Sosúa",
+      "nativeName": "Sosúa",
+      "code": "DO-18-3492630",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-18",
+      "latitude": 19.71667,
+      "longitude": -70.46667
+    },
+    {
+      "id": 3491930,
+      "name": "Villa Isabela",
+      "nativeName": "Villa Isabela",
+      "code": "DO-18-3491930",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-18",
+      "latitude": 19.8,
+      "longitude": -71.08333
+    },
+    {
+      "id": 11154554,
+      "name": "Villa Montellano",
+      "nativeName": "Villa Montellano",
+      "code": "DO-18-11154554",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-18",
+      "latitude": 19.70826,
+      "longitude": -70.59261
+    }
+  ]
+}

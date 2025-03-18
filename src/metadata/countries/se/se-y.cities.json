@@ -1,0 +1,84 @@
+{
+  "stateId": 2664292,
+  "stateCode": "SE-Y",
+  "countryCode": "SE",
+  "cities": [
+    {
+      "id": 2707682,
+      "name": "Härnösand Municipality",
+      "nativeName": "Härnösands Kommun",
+      "code": "SE-Y-2707682",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-Y",
+      "latitude": 62.76667,
+      "longitude": 17.68333
+    },
+    {
+      "id": 2699393,
+      "name": "Kramfors Kommun",
+      "nativeName": "Kramfors Kommun",
+      "code": "SE-Y-2699393",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-Y",
+      "latitude": 62.97246,
+      "longitude": 17.92274
+    },
+    {
+      "id": 2675415,
+      "name": "Sollefteå Kommun",
+      "nativeName": "Sollefteå Kommun",
+      "code": "SE-Y-2675415",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-Y",
+      "latitude": 63.38333,
+      "longitude": 16.91667
+    },
+    {
+      "id": 2670776,
+      "name": "Sundsvall Municipality",
+      "nativeName": "Sundsvalls Kommun",
+      "code": "SE-Y-2670776",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-Y",
+      "latitude": 62.47912,
+      "longitude": 16.92651
+    },
+    {
+      "id": 2669046,
+      "name": "Timrå Municipality",
+      "nativeName": "Timrå Kommun",
+      "code": "SE-Y-2669046",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-Y",
+      "latitude": 62.61598,
+      "longitude": 17.37848
+    },
+    {
+      "id": 2725906,
+      "name": "Ånge Municipality",
+      "nativeName": "Ånge kommun",
+      "code": "SE-Y-2725906",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-Y",
+      "latitude": 62.51232,
+      "longitude": 15.64453
+    },
+    {
+      "id": 2686466,
+      "name": "Örnsköldsviks Kommun",
+      "nativeName": "Örnsköldsviks Kommun",
+      "code": "SE-Y-2686466",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-Y",
+      "latitude": 63.51458,
+      "longitude": 18.27101
+    }
+  ]
+}

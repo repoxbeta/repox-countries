@@ -1,0 +1,271 @@
+{
+  "stateId": 3337493,
+  "stateCode": "PL-10",
+  "countryCode": "PL",
+  "cities": [
+    {
+      "id": 7531010,
+      "name": "Bełchatów County",
+      "nativeName": "Powiat bełchatowski",
+      "code": "PL-10-7531010",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-10",
+      "latitude": 51.36877,
+      "longitude": 19.17791
+    },
+    {
+      "id": 7531018,
+      "name": "Brzeziny County",
+      "nativeName": "Powiat brzeziński",
+      "code": "PL-10-7531018",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-10",
+      "latitude": 51.84073,
+      "longitude": 19.83037
+    },
+    {
+      "id": 7530927,
+      "name": "Kutno County",
+      "nativeName": "Powiat kutnowski",
+      "code": "PL-10-7530927",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-10",
+      "latitude": 52.2514,
+      "longitude": 19.39706
+    },
+    {
+      "id": 6697536,
+      "name": "Lodz",
+      "nativeName": "Łódź",
+      "code": "PL-10-6697536",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-10",
+      "latitude": 51.76529,
+      "longitude": 19.48288
+    },
+    {
+      "id": 7531020,
+      "name": "Opoczno County",
+      "nativeName": "Powiat opoczyński",
+      "code": "PL-10-7531020",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-10",
+      "latitude": 51.39265,
+      "longitude": 20.1943
+    },
+    {
+      "id": 7531021,
+      "name": "Pabianice County",
+      "nativeName": "Powiat pabianicki",
+      "code": "PL-10-7531021",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-10",
+      "latitude": 51.67743,
+      "longitude": 19.23782
+    },
+    {
+      "id": 7531022,
+      "name": "Pajęczno County",
+      "nativeName": "Powiat pajęczański",
+      "code": "PL-10-7531022",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-10",
+      "latitude": 51.14121,
+      "longitude": 19.02749
+    },
+    {
+      "id": 7530745,
+      "name": "Piotrków Trybunalski",
+      "nativeName": "Piotrków Trybunalski",
+      "code": "PL-10-7530745",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-10",
+      "latitude": 51.41295,
+      "longitude": 19.71662
+    },
+    {
+      "id": 7531007,
+      "name": "Poddębice County",
+      "nativeName": "Powiat poddębicki",
+      "code": "PL-10-7531007",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-10",
+      "latitude": 51.89837,
+      "longitude": 18.92132
+    },
+    {
+      "id": 7531006,
+      "name": "Powiat piotrkowski",
+      "nativeName": "Powiat piotrkowski",
+      "code": "PL-10-7531006",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-10",
+      "latitude": 51.37816,
+      "longitude": 19.7396
+    },
+    {
+      "id": 7531008,
+      "name": "Radomsko County",
+      "nativeName": "Powiat radomszczański",
+      "code": "PL-10-7531008",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-10",
+      "latitude": 51.06463,
+      "longitude": 19.63038
+    },
+    {
+      "id": 7530955,
+      "name": "Rawa County",
+      "nativeName": "Powiat rawski",
+      "code": "PL-10-7530955",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-10",
+      "latitude": 51.76228,
+      "longitude": 20.3853
+    },
+    {
+      "id": 7531009,
+      "name": "Sieradz County",
+      "nativeName": "Powiat sieradzki",
+      "code": "PL-10-7531009",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-10",
+      "latitude": 51.60297,
+      "longitude": 18.60309
+    },
+    {
+      "id": 7530973,
+      "name": "Skierniewice",
+      "nativeName": "Skierniewice",
+      "code": "PL-10-7530973",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-10",
+      "latitude": 51.95806,
+      "longitude": 20.16912
+    },
+    {
+      "id": 7531023,
+      "name": "Skierniewice County",
+      "nativeName": "Powiat skierniewicki",
+      "code": "PL-10-7531023",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-10",
+      "latitude": 51.94493,
+      "longitude": 20.19367
+    },
+    {
+      "id": 7531024,
+      "name": "Tomaszów County",
+      "nativeName": "Powiat tomaszowski",
+      "code": "PL-10-7531024",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-10",
+      "latitude": 51.59667,
+      "longitude": 20.06638
+    },
+    {
+      "id": 7531025,
+      "name": "Wieluń County",
+      "nativeName": "Powiat wieluński",
+      "code": "PL-10-7531025",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-10",
+      "latitude": 51.23261,
+      "longitude": 18.63033
+    },
+    {
+      "id": 7531026,
+      "name": "Wieruszów County",
+      "nativeName": "Powiat wieruszowski",
+      "code": "PL-10-7531026",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-10",
+      "latitude": 51.29415,
+      "longitude": 18.31854
+    },
+    {
+      "id": 7531027,
+      "name": "Zduńska Wola County",
+      "nativeName": "Powiat zduńskowolski",
+      "code": "PL-10-7531027",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-10",
+      "latitude": 51.6204,
+      "longitude": 18.95085
+    },
+    {
+      "id": 7531028,
+      "name": "Zgierz County",
+      "nativeName": "Powiat zgierski",
+      "code": "PL-10-7531028",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-10",
+      "latitude": 51.9041,
+      "longitude": 19.48024
+    },
+    {
+      "id": 7531016,
+      "name": "Łask County",
+      "nativeName": "Powiat łaski",
+      "code": "PL-10-7531016",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-10",
+      "latitude": 51.55884,
+      "longitude": 19.03824
+    },
+    {
+      "id": 6941021,
+      "name": "Łowicz County",
+      "nativeName": "powiat Łowicki",
+      "code": "PL-10-6941021",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-10",
+      "latitude": 52.10627,
+      "longitude": 19.94606
+    },
+    {
+      "id": 7531019,
+      "name": "Łódź East County",
+      "nativeName": "Powiat łódzki wschodni",
+      "code": "PL-10-7531019",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-10",
+      "latitude": 51.68616,
+      "longitude": 19.70098
+    },
+    {
+      "id": 7531017,
+      "name": "Łęczyca County",
+      "nativeName": "Powiat łęczycki",
+      "code": "PL-10-7531017",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-10",
+      "latitude": 52.10611,
+      "longitude": 19.19498
+    }
+  ]
+}

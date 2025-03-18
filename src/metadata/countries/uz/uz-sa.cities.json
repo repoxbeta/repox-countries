@@ -1,0 +1,238 @@
+{
+  "stateId": 1114927,
+  "stateCode": "UZ-SA",
+  "countryCode": "UZ",
+  "cities": [
+    {
+      "id": 1217655,
+      "name": "Bulung‘ur Tumani",
+      "nativeName": "Bulung‘ur Tumani",
+      "code": "UZ-SA-1217655",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-SA",
+      "latitude": 39.75,
+      "longitude": 67.33333
+    },
+    {
+      "id": 1346451,
+      "name": "Chelak Tumani",
+      "nativeName": "Chelak Tumani",
+      "code": "UZ-SA-1346451",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-SA",
+      "latitude": 39.9,
+      "longitude": 66.9
+    },
+    {
+      "id": 1346455,
+      "name": "Go`zalkent Tumani",
+      "nativeName": "Go`zalkent Tumani",
+      "code": "UZ-SA-1346455",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-SA",
+      "latitude": 39.75,
+      "longitude": 66.56667
+    },
+    {
+      "id": 1217214,
+      "name": "Ishtixon District",
+      "nativeName": "Ishtixon Tumani",
+      "code": "UZ-SA-1217214",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-SA",
+      "latitude": 40,
+      "longitude": 66.5
+    },
+    {
+      "id": 1217412,
+      "name": "Jomboy Tumani",
+      "nativeName": "Jomboy Tumani",
+      "code": "UZ-SA-1217412",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-SA",
+      "latitude": 39.75,
+      "longitude": 67.16667
+    },
+    {
+      "id": 1216987,
+      "name": "Kattaqo‘rg‘on Tumani",
+      "nativeName": "Kattaqo‘rg‘on Tumani",
+      "code": "UZ-SA-1216987",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-SA",
+      "latitude": 39.95,
+      "longitude": 66.3
+    },
+    {
+      "id": 1216079,
+      "name": "Nurobod District",
+      "nativeName": "Nurobod Tumani",
+      "code": "UZ-SA-1216079",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-SA",
+      "latitude": 39.65002,
+      "longitude": 65.85111
+    },
+    {
+      "id": 1217960,
+      "name": "Oqdaryo Tumani",
+      "nativeName": "Oqdaryo Tumani",
+      "code": "UZ-SA-1217960",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-SA",
+      "latitude": 39.83333,
+      "longitude": 66.8
+    },
+    {
+      "id": 1346465,
+      "name": "Oqtosh Shahri",
+      "nativeName": "Oqtosh Shahri",
+      "code": "UZ-SA-1346465",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-SA",
+      "latitude": 39.92694,
+      "longitude": 65.92556
+    },
+    {
+      "id": 7668834,
+      "name": "Pastdargʻom District",
+      "nativeName": "Pastdargom",
+      "code": "UZ-SA-7668834",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-SA",
+      "latitude": 39.66399,
+      "longitude": 66.65979
+    },
+    {
+      "id": 1216341,
+      "name": "Pastdarg‘om Tumani",
+      "nativeName": "Pastdarg‘om Tumani",
+      "code": "UZ-SA-1216341",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-SA",
+      "latitude": 39.65,
+      "longitude": 66.66667
+    },
+    {
+      "id": 1216429,
+      "name": "Paxtachi District",
+      "nativeName": "Narpay Tumani",
+      "code": "UZ-SA-1216429",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-SA",
+      "latitude": 39.91667,
+      "longitude": 66
+    },
+    {
+      "id": 1216354,
+      "name": "Paxtachi Tumani",
+      "nativeName": "Paxtachi Tumani",
+      "code": "UZ-SA-1216354",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-SA",
+      "latitude": 40,
+      "longitude": 65.75
+    },
+    {
+      "id": 1216337,
+      "name": "Payariq District",
+      "nativeName": "Payariq Tumani",
+      "code": "UZ-SA-1216337",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-SA",
+      "latitude": 40,
+      "longitude": 66.91667
+    },
+    {
+      "id": 1513472,
+      "name": "Qo‘shrabot Tumani",
+      "nativeName": "Qo‘shrabot Tumani",
+      "code": "UZ-SA-1513472",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-SA",
+      "latitude": 40.33333,
+      "longitude": 66.5
+    },
+    {
+      "id": 1216266,
+      "name": "Samarqand District",
+      "nativeName": "Samarqand Tumani",
+      "code": "UZ-SA-1216266",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-SA",
+      "latitude": 39.58333,
+      "longitude": 66.91667
+    },
+    {
+      "id": 1346463,
+      "name": "Samarqand Shahri",
+      "nativeName": "Samarqand Shahri",
+      "code": "UZ-SA-1346463",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-SA",
+      "latitude": 39.6633,
+      "longitude": 66.97086
+    },
+    {
+      "id": 9166490,
+      "name": "Toyloq District",
+      "nativeName": "Toyloq District",
+      "code": "UZ-SA-9166490",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-SA",
+      "latitude": 39.56305,
+      "longitude": 67.15874
+    },
+    {
+      "id": 1346462,
+      "name": "Toyloq Tumani",
+      "nativeName": "Toyloq Tumani",
+      "code": "UZ-SA-1346462",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-SA",
+      "latitude": 39.58333,
+      "longitude": 67.11667
+    },
+    {
+      "id": 1346467,
+      "name": "Urgut Shahri",
+      "nativeName": "Urgut Shahri",
+      "code": "UZ-SA-1346467",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-SA",
+      "latitude": 39.40694,
+      "longitude": 67.24167
+    },
+    {
+      "id": 1215838,
+      "name": "Urgut Tumani",
+      "nativeName": "Urgut Tumani",
+      "code": "UZ-SA-1215838",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-SA",
+      "latitude": 39.41667,
+      "longitude": 67.16667
+    }
+  ]
+}

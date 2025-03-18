@@ -1,0 +1,40 @@
+{
+  "stateId": 2251910,
+  "stateCode": "SN-FK",
+  "countryCode": "SN",
+  "cities": [
+    {
+      "id": 7670866,
+      "name": "Fatick",
+      "nativeName": "Fatick Department",
+      "code": "SN-FK-7670866",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "stateCode": "SN-FK",
+      "latitude": 14.25909,
+      "longitude": -16.49884
+    },
+    {
+      "id": 2251792,
+      "name": "Foundiougne",
+      "nativeName": "Foundiougne",
+      "code": "SN-FK-2251792",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "stateCode": "SN-FK",
+      "latitude": 13.86997,
+      "longitude": -16.4573
+    },
+    {
+      "id": 2251492,
+      "name": "Gossas",
+      "nativeName": "Gossas",
+      "code": "SN-FK-2251492",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "stateCode": "SN-FK",
+      "latitude": 14.49176,
+      "longitude": -15.84674
+    }
+  ]
+}

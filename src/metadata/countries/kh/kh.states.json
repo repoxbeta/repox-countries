@@ -1,0 +1,281 @@
+{
+  "countryId": 1831722,
+  "countryCode": "KH",
+  "states": [
+    {
+      "id": 1899273,
+      "name": "Banteay Meanchey",
+      "nativeName": "Banteay Meanchey",
+      "code": "KH-1",
+      "internalCode": "1",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "latitude": 13.75,
+      "longitude": 103
+    },
+    {
+      "id": 1821310,
+      "name": "Battambang Province",
+      "nativeName": "Battambang",
+      "code": "KH-2",
+      "internalCode": "2",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "latitude": 12.91667,
+      "longitude": 103.08333
+    },
+    {
+      "id": 1831172,
+      "name": "Kampong Cham",
+      "nativeName": "Kampong Cham",
+      "code": "KH-3",
+      "internalCode": "3",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "latitude": 12.05,
+      "longitude": 105.25
+    },
+    {
+      "id": 1831166,
+      "name": "Kampong Chhnang Province",
+      "nativeName": "Kampong Chhnang",
+      "code": "KH-4",
+      "internalCode": "4",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "latitude": 12.16667,
+      "longitude": 104.55
+    },
+    {
+      "id": 1831132,
+      "name": "Kampong Speu Province",
+      "nativeName": "Kampong Speu",
+      "code": "KH-5",
+      "internalCode": "5",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "latitude": 11.5,
+      "longitude": 104.33333
+    },
+    {
+      "id": 1831124,
+      "name": "Kampong Thom",
+      "nativeName": "Kampong Thom",
+      "code": "KH-6",
+      "internalCode": "6",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "latitude": 12.83333,
+      "longitude": 105
+    },
+    {
+      "id": 1831111,
+      "name": "Kampot",
+      "nativeName": "Kampot",
+      "code": "KH-7",
+      "internalCode": "7",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "latitude": 10.83333,
+      "longitude": 104.33333
+    },
+    {
+      "id": 1831095,
+      "name": "Kandal",
+      "nativeName": "Kandal",
+      "code": "KH-8",
+      "internalCode": "8",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "latitude": 11.41667,
+      "longitude": 105
+    },
+    {
+      "id": 1830937,
+      "name": "Kep",
+      "nativeName": "Kep",
+      "code": "KH-23",
+      "internalCode": "23",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "latitude": 10.5125,
+      "longitude": 104.31667
+    },
+    {
+      "id": 1831037,
+      "name": "Koh Kong",
+      "nativeName": "Koh Kong",
+      "code": "KH-9",
+      "internalCode": "9",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "latitude": 11.5,
+      "longitude": 103.5
+    },
+    {
+      "id": 1830563,
+      "name": "Kratie",
+      "nativeName": "Kratie",
+      "code": "KH-10",
+      "internalCode": "10",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "latitude": 12.66667,
+      "longitude": 106.08333
+    },
+    {
+      "id": 1830306,
+      "name": "Mondolkiri",
+      "nativeName": "Mondolkiri",
+      "code": "KH-11",
+      "internalCode": "11",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "latitude": 12.75,
+      "longitude": 107
+    },
+    {
+      "id": 1830206,
+      "name": "Pailin",
+      "nativeName": "Pailin",
+      "code": "KH-24",
+      "internalCode": "24",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "latitude": 12.86667,
+      "longitude": 102.6
+    },
+    {
+      "id": 1830103,
+      "name": "Phnom Penh",
+      "nativeName": "Phnom Penh",
+      "code": "KH-12",
+      "internalCode": "12",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "latitude": 11.57489,
+      "longitude": 104.91394
+    },
+    {
+      "id": 1899262,
+      "name": "Preah Sihanouk",
+      "nativeName": "Preah Sihanouk",
+      "code": "KH-18",
+      "internalCode": "18",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "latitude": 10.66667,
+      "longitude": 103.75
+    },
+    {
+      "id": 1822676,
+      "name": "Preah Vihear",
+      "nativeName": "Preah Vihear",
+      "code": "KH-13",
+      "internalCode": "13",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "latitude": 13.75,
+      "longitude": 105
+    },
+    {
+      "id": 1822609,
+      "name": "Prey Veng",
+      "nativeName": "Prey Veng",
+      "code": "KH-14",
+      "internalCode": "14",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "latitude": 11.36667,
+      "longitude": 105.46667
+    },
+    {
+      "id": 1821301,
+      "name": "Pursat",
+      "nativeName": "Pursat",
+      "code": "KH-15",
+      "internalCode": "15",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "latitude": 12.33333,
+      "longitude": 103.66667
+    },
+    {
+      "id": 1822449,
+      "name": "Ratanakiri Province",
+      "nativeName": "Ratanakiri",
+      "code": "KH-16",
+      "internalCode": "16",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "latitude": 13.83333,
+      "longitude": 107.11667
+    },
+    {
+      "id": 1822213,
+      "name": "Siem Reap",
+      "nativeName": "Siem Reap",
+      "code": "KH-17",
+      "internalCode": "17",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "latitude": 13.5,
+      "longitude": 104
+    },
+    {
+      "id": 1822028,
+      "name": "Stung Treng",
+      "nativeName": "Stung Treng",
+      "code": "KH-19",
+      "internalCode": "19",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "latitude": 13.75,
+      "longitude": 106.25
+    },
+    {
+      "id": 1821992,
+      "name": "Svay Rieng",
+      "nativeName": "Svay Rieng",
+      "code": "KH-20",
+      "internalCode": "20",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "latitude": 11.16667,
+      "longitude": 105.83333
+    },
+    {
+      "id": 1821939,
+      "name": "Takeo",
+      "nativeName": "Takeo",
+      "code": "KH-21",
+      "internalCode": "21",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "latitude": 10.91667,
+      "longitude": 104.83333
+    },
+    {
+      "id": 7647525,
+      "name": "Tboung Khmum",
+      "nativeName": "Tboung Khmum",
+      "code": "KH-25",
+      "internalCode": "25",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "latitude": 11.98,
+      "longitude": 105.65
+    },
+    {
+      "id": 1822210,
+      "name": "Ŏtâr Méanchey",
+      "nativeName": "Ŏtâr Méanchey",
+      "code": "KH-22",
+      "internalCode": "22",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "latitude": 14.16667,
+      "longitude": 103.5
+    }
+  ]
+}

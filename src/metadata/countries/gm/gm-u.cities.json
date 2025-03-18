@@ -1,0 +1,51 @@
+{
+  "stateId": 2411711,
+  "stateCode": "GM-U",
+  "countryCode": "GM",
+  "cities": [
+    {
+      "id": 2413462,
+      "name": "Fulladu East",
+      "nativeName": "Fulladu East",
+      "code": "GM-U-2413462",
+      "countryId": 2413451,
+      "countryCode": "GM",
+      "stateCode": "GM-U",
+      "latitude": 13.33333,
+      "longitude": -14.25
+    },
+    {
+      "id": 2413088,
+      "name": "Kantora",
+      "nativeName": "Kantora",
+      "code": "GM-U-2413088",
+      "countryId": 2413451,
+      "countryCode": "GM",
+      "stateCode": "GM-U",
+      "latitude": 13.41667,
+      "longitude": -13.91667
+    },
+    {
+      "id": 2412176,
+      "name": "Sandu",
+      "nativeName": "Sandu",
+      "code": "GM-U-2412176",
+      "countryId": 2413451,
+      "countryCode": "GM",
+      "stateCode": "GM-U",
+      "latitude": 13.41667,
+      "longitude": -14.36667
+    },
+    {
+      "id": 2411671,
+      "name": "Wuli",
+      "nativeName": "Wuli",
+      "code": "GM-U-2411671",
+      "countryId": 2413451,
+      "countryCode": "GM",
+      "stateCode": "GM-U",
+      "latitude": 13.5,
+      "longitude": -14.08333
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "stateId": 691649,
+  "stateCode": "UA-61",
+  "countryCode": "UA",
+  "cities": [
+    {
+      "id": 710399,
+      "name": "Chortkiv Raion",
+      "nativeName": "Chortkiv Raion",
+      "code": "UA-61-710399",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-61",
+      "latitude": 49.01646,
+      "longitude": 25.79737
+    },
+    {
+      "id": 704140,
+      "name": "Kremenets Raion",
+      "nativeName": "Kremenets Raion",
+      "code": "UA-61-704140",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-61",
+      "latitude": 50.09935,
+      "longitude": 25.72716
+    },
+    {
+      "id": 691648,
+      "name": "Ternopil Raion",
+      "nativeName": "Ternopil Raion",
+      "code": "UA-61-691648",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-61",
+      "latitude": 49.55039,
+      "longitude": 25.56558
+    }
+  ]
+}

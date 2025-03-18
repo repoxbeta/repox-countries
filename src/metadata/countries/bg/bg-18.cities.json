@@ -1,0 +1,95 @@
+{
+  "stateId": 727524,
+  "stateCode": "BG-18",
+  "countryCode": "BG",
+  "cities": [
+    {
+      "id": 733042,
+      "name": "Borovo",
+      "nativeName": "Obshtina Borovo",
+      "code": "BG-18-733042",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-18",
+      "latitude": 43.6,
+      "longitude": 25.8
+    },
+    {
+      "id": 732719,
+      "name": "Byala",
+      "nativeName": "Obshtina Byala",
+      "code": "BG-18-732719",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-18",
+      "latitude": 43.41667,
+      "longitude": 25.83333
+    },
+    {
+      "id": 731770,
+      "name": "Dve Mogili",
+      "nativeName": "Obshtina Dve Mogili",
+      "code": "BG-18-731770",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-18",
+      "latitude": 43.51667,
+      "longitude": 25.96667
+    },
+    {
+      "id": 730851,
+      "name": "Ivanovo",
+      "nativeName": "Obshtina Ivanovo",
+      "code": "BG-18-730851",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-18",
+      "latitude": 43.7,
+      "longitude": 25.98333
+    },
+    {
+      "id": 727522,
+      "name": "Ruse",
+      "nativeName": "Obshtina Ruse",
+      "code": "BG-18-727522",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-18",
+      "latitude": 43.85,
+      "longitude": 26.08333
+    },
+    {
+      "id": 727066,
+      "name": "Slivo Pole",
+      "nativeName": "Obshtina Slivo Pole",
+      "code": "BG-18-727066",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-18",
+      "latitude": 43.96667,
+      "longitude": 26.3
+    },
+    {
+      "id": 726244,
+      "name": "Tsenovo",
+      "nativeName": "Obshtina Tsenovo",
+      "code": "BG-18-726244",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-18",
+      "latitude": 43.58333,
+      "longitude": 25.61667
+    },
+    {
+      "id": 725933,
+      "name": "Vetovo",
+      "nativeName": "Obshtina Vetovo",
+      "code": "BG-18-725933",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-18",
+      "latitude": 43.71667,
+      "longitude": 26.33333
+    }
+  ]
+}

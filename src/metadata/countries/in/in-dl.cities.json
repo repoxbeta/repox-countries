@@ -1,0 +1,128 @@
+{
+  "stateId": 1273293,
+  "stateCode": "IN-DL",
+  "countryCode": "IN",
+  "cities": [
+    {
+      "id": 8335421,
+      "name": "Central",
+      "nativeName": "Central Delhi",
+      "code": "IN-DL-8335421",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-DL",
+      "latitude": 28.64857,
+      "longitude": 77.21895
+    },
+    {
+      "id": 8335424,
+      "name": "East",
+      "nativeName": "East Delhi",
+      "code": "IN-DL-8335424",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-DL",
+      "latitude": 28.62255,
+      "longitude": 77.29148
+    },
+    {
+      "id": 8347332,
+      "name": "New Delhi",
+      "nativeName": "New Delhi",
+      "code": "IN-DL-8347332",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-DL",
+      "latitude": 28.6177,
+      "longitude": 77.20685
+    },
+    {
+      "id": 8335422,
+      "name": "North",
+      "nativeName": "North Delhi",
+      "code": "IN-DL-8335422",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-DL",
+      "latitude": 28.77741,
+      "longitude": 77.11185
+    },
+    {
+      "id": 8335425,
+      "name": "North East",
+      "nativeName": "North East Delhi",
+      "code": "IN-DL-8335425",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-DL",
+      "latitude": 28.71512,
+      "longitude": 77.26506
+    },
+    {
+      "id": 8335427,
+      "name": "North West Delhi",
+      "nativeName": "North West Delhi",
+      "code": "IN-DL-8335427",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-DL",
+      "latitude": 28.70113,
+      "longitude": 77.10154
+    },
+    {
+      "id": 11875526,
+      "name": "Shahdara District",
+      "nativeName": "Shahdara",
+      "code": "IN-DL-11875526",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-DL",
+      "latitude": 28.67715,
+      "longitude": 77.28854
+    },
+    {
+      "id": 8335423,
+      "name": "South Delhi",
+      "nativeName": "South Delhi",
+      "code": "IN-DL-8335423",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-DL",
+      "latitude": 28.48728,
+      "longitude": 77.197
+    },
+    {
+      "id": 11875525,
+      "name": "South East",
+      "nativeName": "South East",
+      "code": "IN-DL-11875525",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-DL",
+      "latitude": 28.5503,
+      "longitude": 77.27095
+    },
+    {
+      "id": 8335426,
+      "name": "South West",
+      "nativeName": "South West Delhi",
+      "code": "IN-DL-8335426",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-DL",
+      "latitude": 28.5806,
+      "longitude": 77.0672
+    },
+    {
+      "id": 8335458,
+      "name": "West",
+      "nativeName": "West Delhi",
+      "code": "IN-DL-8335458",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-DL",
+      "latitude": 28.65655,
+      "longitude": 77.10068
+    }
+  ]
+}

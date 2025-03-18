@@ -1,0 +1,73 @@
+{
+  "stateId": 3504326,
+  "stateCode": "DO-10",
+  "countryCode": "DO",
+  "cities": [
+    {
+      "id": 11154552,
+      "name": "Cristóbal",
+      "nativeName": "Cristóbal",
+      "code": "DO-10-11154552",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-10",
+      "latitude": 18.33972,
+      "longitude": -71.29867
+    },
+    {
+      "id": 3508696,
+      "name": "Duvergé",
+      "nativeName": "Duvergé",
+      "code": "DO-10-3508696",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-10",
+      "latitude": 18.31634,
+      "longitude": -71.59451
+    },
+    {
+      "id": 3504078,
+      "name": "Jimaní",
+      "nativeName": "Jimaní",
+      "code": "DO-10-3504078",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-10",
+      "latitude": 18.46667,
+      "longitude": -71.83333
+    },
+    {
+      "id": 3502787,
+      "name": "La Descubierta",
+      "nativeName": "La Descubierta",
+      "code": "DO-10-3502787",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-10",
+      "latitude": 18.60796,
+      "longitude": -71.75162
+    },
+    {
+      "id": 11154544,
+      "name": "Mella",
+      "nativeName": "Mella",
+      "code": "DO-10-11154544",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-10",
+      "latitude": 18.30999,
+      "longitude": -71.44476
+    },
+    {
+      "id": 3494510,
+      "name": "Postrer Río",
+      "nativeName": "Postrer Río",
+      "code": "DO-10-3494510",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-10",
+      "latitude": 18.56667,
+      "longitude": -71.61667
+    }
+  ]
+}

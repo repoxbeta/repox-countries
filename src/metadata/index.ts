@@ -1,36 +1,86 @@
 import { Country, CountryState, Currency, Language, PhoneCode, StateCity } from '../types';
 import { CountryAdditional } from '../crawl/types';
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
 
-async function readFile<T = unknown>(name: string): Promise<T> {
-  return (await import(`./${name}.json`, { assert: { type: 'json' } })).default as T;
+function getAbsolutePath(fileName: string): string {
+  let dirname;
+  
+  // is ESM env
+  if (typeof import.meta !== 'undefined') {
+    dirname = path.dirname(fileURLToPath(import.meta.url));
+  } else {
+    dirname = __dirname; // CommonJS
+  }
+
+  return path.join(dirname, fileName);
 }
 
-export async function getCountries(): Promise<Country[]> {
-  return readFile<Country[]>('countries');
+function readFile<T = unknown>(name: string): T {
+  const filePath = getAbsolutePath(`./${name}.json`);
+  const data = fs.readFileSync(filePath, 'utf-8');
+  return JSON.parse(data) as T;
 }
 
-export async function getCountriesAdditional(): Promise<CountryAdditional[]> {
-  return readFile<CountryAdditional[]>('countries.additional');
+export function getCountries(): Country[] {
+  try {
+    return readFile<Country[]>('countries');
+  } catch (error) {
+    return [];
+  }
 }
 
-export async function getStates(): Promise<CountryState[]> {
-  return readFile<CountryState[]>('states');
+export function getCountriesAdditional(): CountryAdditional[] {
+  try {
+    return readFile<CountryAdditional[]>('countries.additional');
+  } catch (error) {
+    console.error(error);
+    return [];
+  }
 }
 
-export async function getCities(): Promise<StateCity[]> {
-  return readFile<StateCity[]>('cities');
+export function getStates(countryCode: string): CountryState | undefined {
+  try {
+    const cCode = countryCode.toLocaleLowerCase();
+    return readFile<CountryState>(`countries/${cCode}/${cCode}.states`);
+  } catch (error) {
+    return undefined;
+  }
 }
 
-export async function getPhoneCodes(): Promise<PhoneCode[]> {
-  return readFile<PhoneCode[]>('phone.codes');
+export function getCities(countryCode: string, stateCode: string): StateCity | undefined {
+  try {
+    const cCode = countryCode.toLocaleLowerCase();
+    const sCode = stateCode.toLocaleLowerCase();
+    return readFile<StateCity>(`countries/${cCode}/${sCode}.cities`);
+  } catch (error) {
+    return undefined;
+  }
 }
 
-export async function getLanguages(): Promise<Language[]> {
-  return readFile<Language[]>('languages');
+export function getPhoneCodes(): PhoneCode[] {
+  try {
+    return readFile<PhoneCode[]>('phone.codes');
+  } catch (error) {
+    return [];
+  }
 }
 
-export async function getCurrencies(): Promise<Currency[]> {
-  return readFile<Currency[]>('currencies');
+export function getLanguages(): Language[] {
+  try {
+    return readFile<Language[]>('languages');
+  } catch (error) {
+    return [];
+  }
+}
+
+export function getCurrencies(): Currency[] {
+  try {
+    return readFile<Currency[]>('currencies');
+  } catch (error) {
+    return [];
+  }
 }
 
 export default {

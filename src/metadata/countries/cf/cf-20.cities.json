@@ -1,0 +1,40 @@
+{
+  "stateId": 12902746,
+  "stateCode": "CF-20",
+  "countryCode": "CF",
+  "cities": [
+    {
+      "id": 9143472,
+      "name": "Batangafo",
+      "nativeName": "Batangafo",
+      "code": "CF-20-9143472",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-20",
+      "latitude": 7.3457,
+      "longitude": 17.96061
+    },
+    {
+      "id": 9143477,
+      "name": "Bouca",
+      "nativeName": "Bouca",
+      "code": "CF-20-9143477",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-20",
+      "latitude": 6.37248,
+      "longitude": 18.28674
+    },
+    {
+      "id": 9143478,
+      "name": "Kabo",
+      "nativeName": "Kabo",
+      "code": "CF-20-9143478",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-20",
+      "latitude": 7.79721,
+      "longitude": 18.58635
+    }
+  ]
+}

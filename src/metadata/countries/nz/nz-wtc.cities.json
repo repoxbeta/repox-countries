@@ -1,0 +1,40 @@
+{
+  "stateId": 6612113,
+  "stateCode": "NZ-WTC",
+  "countryCode": "NZ",
+  "cities": [
+    {
+      "id": 7910033,
+      "name": "Buller District",
+      "nativeName": "Buller District",
+      "code": "NZ-WTC-7910033",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-WTC",
+      "latitude": -41.64929,
+      "longitude": 172.00895
+    },
+    {
+      "id": 7910040,
+      "name": "Grey District",
+      "nativeName": "Grey District",
+      "code": "NZ-WTC-7910040",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-WTC",
+      "latitude": -42.4094,
+      "longitude": 171.66245
+    },
+    {
+      "id": 2179466,
+      "name": "Westland District",
+      "nativeName": "Westland District",
+      "code": "NZ-WTC-2179466",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-WTC",
+      "latitude": -43.5,
+      "longitude": 170
+    }
+  ]
+}

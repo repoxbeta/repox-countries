@@ -1,0 +1,62 @@
+{
+  "stateId": 7521299,
+  "stateCode": "PH-13",
+  "countryCode": "PH",
+  "cities": [
+    {
+      "id": 1714796,
+      "name": "Dinagat Islands",
+      "nativeName": "Dinagat Islands",
+      "code": "PH-13-1714796",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-13",
+      "latitude": 10.12301,
+      "longitude": 125.55725
+    },
+    {
+      "id": 1731819,
+      "name": "Province of Agusan del Norte",
+      "nativeName": "Province of Agusan del Norte",
+      "code": "PH-13-1731819",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-13",
+      "latitude": 8.9936,
+      "longitude": 125.57098
+    },
+    {
+      "id": 1731818,
+      "name": "Province of Agusan del Sur",
+      "nativeName": "Province of Agusan del Sur",
+      "code": "PH-13-1731818",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-13",
+      "latitude": 8.5,
+      "longitude": 125.83333
+    },
+    {
+      "id": 1685215,
+      "name": "Province of Surigao del Norte",
+      "nativeName": "Province of Surigao del Norte",
+      "code": "PH-13-1685215",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-13",
+      "latitude": 9.66303,
+      "longitude": 125.52704
+    },
+    {
+      "id": 1685214,
+      "name": "Province of Surigao del Sur",
+      "nativeName": "Province of Surigao del Sur",
+      "code": "PH-13-1685214",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-13",
+      "latitude": 8.80908,
+      "longitude": 126.12854
+    }
+  ]
+}

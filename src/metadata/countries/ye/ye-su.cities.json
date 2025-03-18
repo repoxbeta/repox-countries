@@ -1,0 +1,29 @@
+{
+  "stateId": 9645387,
+  "stateCode": "YE-SU",
+  "countryCode": "YE",
+  "cities": [
+    {
+      "id": 6940758,
+      "name": "Hidaybu",
+      "nativeName": "Hidaybu",
+      "code": "YE-SU-6940758",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-SU",
+      "latitude": 12.5025,
+      "longitude": 54.0082
+    },
+    {
+      "id": 6940754,
+      "name": "Qulensya wa Abd al Kuri District",
+      "nativeName": "Qulensya Wa Abd Al Kuri",
+      "code": "YE-SU-6940754",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-SU",
+      "latitude": 12.55479,
+      "longitude": 53.58671
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "stateId": 3648106,
+  "stateCode": "VE-F",
+  "countryCode": "VE",
+  "cities": [
+    {
+      "id": 8129246,
+      "name": "Angostura",
+      "nativeName": "Bolivariano Angostura",
+      "code": "VE-F-8129246",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-F",
+      "latitude": 7.49247,
+      "longitude": -63.26941
+    },
+    {
+      "id": 3646491,
+      "name": "Caroní Municipality",
+      "nativeName": "Municipio Caroní",
+      "code": "VE-F-3646491",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-F",
+      "latitude": 8.11667,
+      "longitude": -62.8
+    },
+    {
+      "id": 3646105,
+      "name": "Cedeño Municipality",
+      "nativeName": "Municipio Cedeño",
+      "code": "VE-F-3646105",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-F",
+      "latitude": 6.5,
+      "longitude": -66
+    },
+    {
+      "id": 8129214,
+      "name": "El Callao Municipality",
+      "nativeName": "Municipio El Callao",
+      "code": "VE-F-8129214",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-F",
+      "latitude": 7.33326,
+      "longitude": -61.82874
+    },
+    {
+      "id": 8129151,
+      "name": "Gran Sabana Municipality",
+      "nativeName": "Municipio Gran Sabana",
+      "code": "VE-F-8129151",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-F",
+      "latitude": 4.61667,
+      "longitude": -61.13333
+    },
+    {
+      "id": 3639562,
+      "name": "Municipio Heres",
+      "nativeName": "Municipio Heres",
+      "code": "VE-F-3639562",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-F",
+      "latitude": 7.6534,
+      "longitude": -63.93914
+    },
+    {
+      "id": 8131426,
+      "name": "Padre Pedro Chien Municipality",
+      "nativeName": "Municipio Padre Pedro Chien",
+      "code": "VE-F-8131426",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-F",
+      "latitude": 8.02455,
+      "longitude": -61.88187
+    },
+    {
+      "id": 3630283,
+      "name": "Piar Municipality",
+      "nativeName": "Municipio Piar",
+      "code": "VE-F-3630283",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-F",
+      "latitude": 6.60365,
+      "longitude": -62.72736
+    },
+    {
+      "id": 3628959,
+      "name": "Roscio Municipality",
+      "nativeName": "Municipio Roscio",
+      "code": "VE-F-3628959",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-F",
+      "latitude": 7.14846,
+      "longitude": -62.11782
+    },
+    {
+      "id": 8129218,
+      "name": "Sifontes Municipality",
+      "nativeName": "Municipio Sifontes",
+      "code": "VE-F-8129218",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-F",
+      "latitude": 7.24809,
+      "longitude": -61.53151
+    },
+    {
+      "id": 3626664,
+      "name": "Sucre Municipality",
+      "nativeName": "Municipio Sucre",
+      "code": "VE-F-3626664",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-F",
+      "latitude": 6,
+      "longitude": -64.25
+    }
+  ]
+}

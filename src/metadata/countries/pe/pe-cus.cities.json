@@ -1,0 +1,150 @@
+{
+  "stateId": 3941583,
+  "stateCode": "PE-CUS",
+  "countryCode": "PE",
+  "cities": [
+    {
+      "id": 3948442,
+      "name": "Acomayo Province",
+      "nativeName": "Provincia de Acomayo",
+      "code": "PE-CUS-3948442",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-CUS",
+      "latitude": -13.95575,
+      "longitude": -71.6563
+    },
+    {
+      "id": 3947623,
+      "name": "Anta Province",
+      "nativeName": "Provincia de Anta",
+      "code": "PE-CUS-3947623",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-CUS",
+      "latitude": -13.48883,
+      "longitude": -72.36923
+    },
+    {
+      "id": 3946176,
+      "name": "Calca Province",
+      "nativeName": "Provincia de Calca",
+      "code": "PE-CUS-3946176",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-CUS",
+      "latitude": -12.97288,
+      "longitude": -72.04383
+    },
+    {
+      "id": 3945875,
+      "name": "Canas Province",
+      "nativeName": "Provincia de Canas",
+      "code": "PE-CUS-3945875",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-CUS",
+      "latitude": -14.45231,
+      "longitude": -71.33615
+    },
+    {
+      "id": 3945823,
+      "name": "Canchis Province",
+      "nativeName": "Provincia de Canchis",
+      "code": "PE-CUS-3945823",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-CUS",
+      "latitude": -14.08035,
+      "longitude": -71.12653
+    },
+    {
+      "id": 3943263,
+      "name": "Chumbivilcas Province",
+      "nativeName": "Provincia de Chumbivilcas",
+      "code": "PE-CUS-3943263",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-CUS",
+      "latitude": -14.439,
+      "longitude": -71.99362
+    },
+    {
+      "id": 3941582,
+      "name": "Cusco Province",
+      "nativeName": "Provincia de Cusco",
+      "code": "PE-CUS-3941582",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-CUS",
+      "latitude": -13.52951,
+      "longitude": -71.97049
+    },
+    {
+      "id": 3941092,
+      "name": "Espinar Province",
+      "nativeName": "Provincia de Espinar",
+      "code": "PE-CUS-3941092",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-CUS",
+      "latitude": -14.82976,
+      "longitude": -71.39433
+    },
+    {
+      "id": 3937248,
+      "name": "La Convención Province",
+      "nativeName": "Provincia de La Convención",
+      "code": "PE-CUS-3937248",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-CUS",
+      "latitude": -12.34457,
+      "longitude": -72.90429
+    },
+    {
+      "id": 3932863,
+      "name": "Paruro Province",
+      "nativeName": "Provincia de Paruro",
+      "code": "PE-CUS-3932863",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-CUS",
+      "latitude": -13.89274,
+      "longitude": -71.91348
+    },
+    {
+      "id": 3932649,
+      "name": "Paucartambo Province",
+      "nativeName": "Provincia de Paucartambo",
+      "code": "PE-CUS-3932649",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-CUS",
+      "latitude": -13.15071,
+      "longitude": -71.51398
+    },
+    {
+      "id": 3930646,
+      "name": "Quispicanchi Province",
+      "nativeName": "Provincia de Quispicanchi",
+      "code": "PE-CUS-3930646",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-CUS",
+      "latitude": -13.56821,
+      "longitude": -70.98883
+    },
+    {
+      "id": 3926436,
+      "name": "Urubamba Province",
+      "nativeName": "Provincia de Urubamba",
+      "code": "PE-CUS-3926436",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-CUS",
+      "latitude": -13.24043,
+      "longitude": -72.25995
+    }
+  ]
+}

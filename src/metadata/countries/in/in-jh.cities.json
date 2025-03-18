@@ -1,0 +1,271 @@
+{
+  "stateId": 1444365,
+  "stateCode": "IN-JH",
+  "countryCode": "IN",
+  "cities": [
+    {
+      "id": 7701427,
+      "name": "Bokaro",
+      "nativeName": "Bokaro",
+      "code": "IN-JH-7701427",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-JH",
+      "latitude": 23.68562,
+      "longitude": 85.99026
+    },
+    {
+      "id": 9747948,
+      "name": "Chatra",
+      "nativeName": "Chatra",
+      "code": "IN-JH-9747948",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-JH",
+      "latitude": 24.17354,
+      "longitude": 84.8871
+    },
+    {
+      "id": 9035761,
+      "name": "Deoghar",
+      "nativeName": "Deogarh",
+      "code": "IN-JH-9035761",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-JH",
+      "latitude": 24.44382,
+      "longitude": 86.72607
+    },
+    {
+      "id": 1272980,
+      "name": "Dhanbad",
+      "nativeName": "Dhānbād",
+      "code": "IN-JH-1272980",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-JH",
+      "latitude": 23.75,
+      "longitude": 86.41667
+    },
+    {
+      "id": 7627175,
+      "name": "Dumka",
+      "nativeName": "Dumka",
+      "code": "IN-JH-7627175",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-JH",
+      "latitude": 24.3,
+      "longitude": 87.25
+    },
+    {
+      "id": 7701426,
+      "name": "East Singhbum",
+      "nativeName": "Purba Singhbhum",
+      "code": "IN-JH-7701426",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-JH",
+      "latitude": 22.59238,
+      "longitude": 86.48341
+    },
+    {
+      "id": 7701605,
+      "name": "Garhwa",
+      "nativeName": "Garhwa",
+      "code": "IN-JH-7701605",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-JH",
+      "latitude": 24.07494,
+      "longitude": 83.71023
+    },
+    {
+      "id": 1271176,
+      "name": "Giridih District",
+      "nativeName": "Girīdīh",
+      "code": "IN-JH-1271176",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-JH",
+      "latitude": 24.25,
+      "longitude": 85.91667
+    },
+    {
+      "id": 7627174,
+      "name": "Godda District",
+      "nativeName": "Godda",
+      "code": "IN-JH-7627174",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-JH",
+      "latitude": 24.83333,
+      "longitude": 87.21667
+    },
+    {
+      "id": 7701429,
+      "name": "Gumla District",
+      "nativeName": "Gumla",
+      "code": "IN-JH-7701429",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-JH",
+      "latitude": 23.08055,
+      "longitude": 84.53834
+    },
+    {
+      "id": 1270165,
+      "name": "Hazāribāgh District",
+      "nativeName": "Hazārībāg",
+      "code": "IN-JH-1270165",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-JH",
+      "latitude": 24,
+      "longitude": 85.25
+    },
+    {
+      "id": 7627228,
+      "name": "Jamtara",
+      "nativeName": "Jamtara",
+      "code": "IN-JH-7627228",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-JH",
+      "latitude": 24,
+      "longitude": 86.85
+    },
+    {
+      "id": 9748003,
+      "name": "Khunti District",
+      "nativeName": "Khunti",
+      "code": "IN-JH-9748003",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-JH",
+      "latitude": 22.99771,
+      "longitude": 85.27455
+    },
+    {
+      "id": 9747958,
+      "name": "Kodarma District",
+      "nativeName": "Kodarma",
+      "code": "IN-JH-9747958",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-JH",
+      "latitude": 24.43704,
+      "longitude": 85.5956
+    },
+    {
+      "id": 7627176,
+      "name": "Latehar",
+      "nativeName": "Latehar",
+      "code": "IN-JH-7627176",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-JH",
+      "latitude": 23.75,
+      "longitude": 84.4
+    },
+    {
+      "id": 7627177,
+      "name": "Lohardaga",
+      "nativeName": "Lohardaga",
+      "code": "IN-JH-7627177",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-JH",
+      "latitude": 23.5,
+      "longitude": 84.6
+    },
+    {
+      "id": 7701604,
+      "name": "Pakur",
+      "nativeName": "Pakur",
+      "code": "IN-JH-7701604",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-JH",
+      "latitude": 24.57058,
+      "longitude": 87.67075
+    },
+    {
+      "id": 1260783,
+      "name": "Palāmau District",
+      "nativeName": "Palāmu",
+      "code": "IN-JH-1260783",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-JH",
+      "latitude": 23.91667,
+      "longitude": 84.08333
+    },
+    {
+      "id": 9748026,
+      "name": "Ramgarh District",
+      "nativeName": "Ramgarh",
+      "code": "IN-JH-9748026",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-JH",
+      "latitude": 23.63073,
+      "longitude": 85.56057
+    },
+    {
+      "id": 1258527,
+      "name": "Ranchi",
+      "nativeName": "Rānchī",
+      "code": "IN-JH-1258527",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-JH",
+      "latitude": 23.33131,
+      "longitude": 85.37076
+    },
+    {
+      "id": 7701603,
+      "name": "Sahebganj",
+      "nativeName": "Sahibganj",
+      "code": "IN-JH-7701603",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-JH",
+      "latitude": 24.99354,
+      "longitude": 87.67333
+    },
+    {
+      "id": 7701601,
+      "name": "Saraikela Kharsawan",
+      "nativeName": "Saraikela",
+      "code": "IN-JH-7701601",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-JH",
+      "latitude": 22.83906,
+      "longitude": 85.89594
+    },
+    {
+      "id": 7627173,
+      "name": "Simdega",
+      "nativeName": "Simdega",
+      "code": "IN-JH-7627173",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-JH",
+      "latitude": 22.6,
+      "longitude": 84.6
+    },
+    {
+      "id": 1256163,
+      "name": "West Singhbhum",
+      "nativeName": "Pashchim Singhbhūm",
+      "code": "IN-JH-1256163",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-JH",
+      "latitude": 22.5,
+      "longitude": 85.5
+    }
+  ]
+}

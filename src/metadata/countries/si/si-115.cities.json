@@ -1,0 +1,95 @@
+{
+  "stateId": 3239226,
+  "stateCode": "SI-115",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3189917,
+      "name": "Starše",
+      "nativeName": "Starše",
+      "code": "SI-115-3189917",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-115",
+      "latitude": 46.46583,
+      "longitude": 15.76722
+    },
+    {
+      "id": 3203199,
+      "name": "Brunšvik",
+      "nativeName": "Brunšvik",
+      "code": "SI-115-3203199",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-115",
+      "latitude": 46.43333,
+      "longitude": 15.73333
+    },
+    {
+      "id": 3196274,
+      "name": "Loka",
+      "nativeName": "Loka",
+      "code": "SI-115-3196274",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-115",
+      "latitude": 46.48861,
+      "longitude": 15.73083
+    },
+    {
+      "id": 3195469,
+      "name": "Marjeta na Dravskem polju",
+      "nativeName": "Marjeta na Dravskem Polju",
+      "code": "SI-115-3195469",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-115",
+      "latitude": 46.4525,
+      "longitude": 15.73694
+    },
+    {
+      "id": 3192513,
+      "name": "Prepolje",
+      "nativeName": "Prepolje",
+      "code": "SI-115-3192513",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-115",
+      "latitude": 46.44417,
+      "longitude": 15.76389
+    },
+    {
+      "id": 3191534,
+      "name": "Rošnja",
+      "nativeName": "Rošnja",
+      "code": "SI-115-3191534",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-115",
+      "latitude": 46.47861,
+      "longitude": 15.74639
+    },
+    {
+      "id": 8986959,
+      "name": "Trniče",
+      "nativeName": "Trniče",
+      "code": "SI-115-8986959",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-115",
+      "latitude": 46.45091,
+      "longitude": 15.74869
+    },
+    {
+      "id": 3186395,
+      "name": "Zlatoličje",
+      "nativeName": "Zlatoličje",
+      "code": "SI-115-3186395",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-115",
+      "latitude": 46.45556,
+      "longitude": 15.79111
+    }
+  ]
+}

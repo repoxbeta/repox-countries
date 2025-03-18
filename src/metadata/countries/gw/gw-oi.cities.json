@@ -1,0 +1,62 @@
+{
+  "stateId": 2371071,
+  "stateCode": "GW-OI",
+  "countryCode": "GW",
+  "cities": [
+    {
+      "id": 8335050,
+      "name": "Bissora",
+      "nativeName": "Bissora Sector",
+      "code": "GW-OI-8335050",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "stateCode": "GW-OI",
+      "latitude": 12.204,
+      "longitude": -15.505
+    },
+    {
+      "id": 8335052,
+      "name": "Farim",
+      "nativeName": "Farim Sector",
+      "code": "GW-OI-8335052",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "stateCode": "GW-OI",
+      "latitude": 12.561,
+      "longitude": -15.166
+    },
+    {
+      "id": 8335049,
+      "name": "Mansaba",
+      "nativeName": "Mansaba Sector",
+      "code": "GW-OI-8335049",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "stateCode": "GW-OI",
+      "latitude": 12.318,
+      "longitude": -15.15
+    },
+    {
+      "id": 8335070,
+      "name": "Mansoa",
+      "nativeName": "Mansoa",
+      "code": "GW-OI-8335070",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "stateCode": "GW-OI",
+      "latitude": 12.05487,
+      "longitude": -15.21552
+    },
+    {
+      "id": 8335051,
+      "name": "Nhacra",
+      "nativeName": "Nhacra Sector",
+      "code": "GW-OI-8335051",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "stateCode": "GW-OI",
+      "latitude": 11.969,
+      "longitude": -15.505
+    }
+  ]
+}

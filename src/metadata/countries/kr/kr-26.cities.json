@@ -1,0 +1,183 @@
+{
+  "stateId": 1838519,
+  "stateCode": "KR-26",
+  "countryCode": "KR",
+  "cities": [
+    {
+      "id": 8616848,
+      "name": "Buk-gu",
+      "nativeName": "Buk-gu",
+      "code": "KR-26-8616848",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-26",
+      "latitude": 35.19724,
+      "longitude": 128.99134
+    },
+    {
+      "id": 8604807,
+      "name": "Busanjin-gu",
+      "nativeName": "Busanjin-gu",
+      "code": "KR-26-8604807",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-26",
+      "latitude": 35.16293,
+      "longitude": 129.05133
+    },
+    {
+      "id": 1834284,
+      "name": "Dong-gu",
+      "nativeName": "Dong-gu",
+      "code": "KR-26-1834284",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-26",
+      "latitude": 35.12468,
+      "longitude": 129.03432
+    },
+    {
+      "id": 1834199,
+      "name": "Dongnae-gu",
+      "nativeName": "Dongnae-gu",
+      "code": "KR-26-1834199",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-26",
+      "latitude": 35.20447,
+      "longitude": 129.078
+    },
+    {
+      "id": 8462812,
+      "name": "Gangseo-gu",
+      "nativeName": "Gangseo-gu",
+      "code": "KR-26-8462812",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-26",
+      "latitude": 35.1593,
+      "longitude": 128.933
+    },
+    {
+      "id": 8462814,
+      "name": "Geumjeong-gu",
+      "nativeName": "Geumjeong-gu",
+      "code": "KR-26-8462814",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-26",
+      "latitude": 35.25863,
+      "longitude": 129.0901
+    },
+    {
+      "id": 8462815,
+      "name": "Gijang-gun",
+      "nativeName": "Gijang-gun",
+      "code": "KR-26-8462815",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-26",
+      "latitude": 35.29721,
+      "longitude": 129.20076
+    },
+    {
+      "id": 8462808,
+      "name": "Haeundae-gu",
+      "nativeName": "Haeundae-gu",
+      "code": "KR-26-8462808",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-26",
+      "latitude": 35.16665,
+      "longitude": 129.16792
+    },
+    {
+      "id": 1845069,
+      "name": "Jung-gu",
+      "nativeName": "Jung-gu",
+      "code": "KR-26-1845069",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-26",
+      "latitude": 35.10594,
+      "longitude": 129.03331
+    },
+    {
+      "id": 8616850,
+      "name": "Nam-gu",
+      "nativeName": "Nam-gu",
+      "code": "KR-26-8616850",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-26",
+      "latitude": 35.13648,
+      "longitude": 129.08266
+    },
+    {
+      "id": 1979341,
+      "name": "Saha-gu",
+      "nativeName": "Saha-gu",
+      "code": "KR-26-1979341",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-26",
+      "latitude": 35.08552,
+      "longitude": 128.98725
+    },
+    {
+      "id": 8462803,
+      "name": "Sasang-gu",
+      "nativeName": "Sasang-gu",
+      "code": "KR-26-8462803",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-26",
+      "latitude": 35.14479,
+      "longitude": 128.97986
+    },
+    {
+      "id": 1836645,
+      "name": "Seo-gu",
+      "nativeName": "Seo-gu",
+      "code": "KR-26-1836645",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-26",
+      "latitude": 35.12529,
+      "longitude": 129.01946
+    },
+    {
+      "id": 8541971,
+      "name": "Suyeong-gu",
+      "nativeName": "Suyeong-gu",
+      "code": "KR-26-8541971",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-26",
+      "latitude": 35.15627,
+      "longitude": 129.11253
+    },
+    {
+      "id": 1832581,
+      "name": "Yeongdo-gu",
+      "nativeName": "Yeongdo-gu",
+      "code": "KR-26-1832581",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-26",
+      "latitude": 35.07849,
+      "longitude": 129.06483
+    },
+    {
+      "id": 8462807,
+      "name": "Yeonje-gu",
+      "nativeName": "Yeonje-gu",
+      "code": "KR-26-8462807",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-26",
+      "latitude": 35.18206,
+      "longitude": 129.08285
+    }
+  ]
+}

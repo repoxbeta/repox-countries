@@ -1,0 +1,138 @@
+{
+  "countryId": 2260494,
+  "countryCode": "CG",
+  "states": [
+    {
+      "id": 2260668,
+      "name": "Bouenza",
+      "nativeName": "Région de la Bouenza",
+      "code": "CG-11",
+      "internalCode": "11",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "latitude": -4.1629,
+      "longitude": 13.71094
+    },
+    {
+      "id": 2572183,
+      "name": "Brazzaville",
+      "nativeName": "Brazzaville department",
+      "code": "CG-BZV",
+      "internalCode": "BZV",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "latitude": -4.2657,
+      "longitude": 15.28048
+    },
+    {
+      "id": 2260487,
+      "name": "Cuvette",
+      "nativeName": "Cuvette",
+      "code": "CG-8",
+      "internalCode": "8",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "latitude": -0.5,
+      "longitude": 16
+    },
+    {
+      "id": 2593118,
+      "name": "Cuvette-Ouest",
+      "nativeName": "Cuvette-Ouest",
+      "code": "CG-15",
+      "internalCode": "15",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "latitude": 0,
+      "longitude": 14.5
+    },
+    {
+      "id": 2258738,
+      "name": "Kouilou",
+      "nativeName": "Région du Kouilou",
+      "code": "CG-5",
+      "internalCode": "5",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "latitude": -4.19577,
+      "longitude": 11.99982
+    },
+    {
+      "id": 2258431,
+      "name": "Likouala",
+      "nativeName": "Likouala",
+      "code": "CG-7",
+      "internalCode": "7",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "latitude": 2,
+      "longitude": 17.5
+    },
+    {
+      "id": 2258534,
+      "name": "Lékoumou",
+      "nativeName": "Lékoumou",
+      "code": "CG-2",
+      "internalCode": "2",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "latitude": -3.1,
+      "longitude": 13.53333
+    },
+    {
+      "id": 2256175,
+      "name": "Niari",
+      "nativeName": "Région du Niari",
+      "code": "CG-9",
+      "internalCode": "9",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "latitude": -3.01436,
+      "longitude": 12.34863
+    },
+    {
+      "id": 2255422,
+      "name": "Plateaux",
+      "nativeName": "Plateaux",
+      "code": "CG-14",
+      "internalCode": "14",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "latitude": -2,
+      "longitude": 15.5
+    },
+    {
+      "id": 7280295,
+      "name": "Pointe-Noire",
+      "nativeName": "Pointe-Noire",
+      "code": "CG-16",
+      "internalCode": "16",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "latitude": -4.79029,
+      "longitude": 11.87622
+    },
+    {
+      "id": 2255404,
+      "name": "Pool",
+      "nativeName": "Pool",
+      "code": "CG-12",
+      "internalCode": "12",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "latitude": -3.53333,
+      "longitude": 14.83333
+    },
+    {
+      "id": 2255329,
+      "name": "Sangha",
+      "nativeName": "Sangha",
+      "code": "CG-13",
+      "internalCode": "13",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "latitude": 1.33333,
+      "longitude": 15.5
+    }
+  ]
+}

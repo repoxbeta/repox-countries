@@ -1,0 +1,51 @@
+{
+  "stateId": 2223603,
+  "stateCode": "CM-NO",
+  "countryCode": "CM",
+  "cities": [
+    {
+      "id": 2234396,
+      "name": "Benoue",
+      "nativeName": "Département de la Bénoué",
+      "code": "CM-NO-2234396",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-NO",
+      "latitude": 9.2202,
+      "longitude": 13.47663
+    },
+    {
+      "id": 9228189,
+      "name": "Faro",
+      "nativeName": "Faro Department",
+      "code": "CM-NO-9228189",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-NO",
+      "latitude": 8.25014,
+      "longitude": 12.87829
+    },
+    {
+      "id": 8740152,
+      "name": "Mayo-Louti",
+      "nativeName": "Mayo-Louti",
+      "code": "CM-NO-8740152",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-NO",
+      "latitude": 9.96577,
+      "longitude": 13.72738
+    },
+    {
+      "id": 8740150,
+      "name": "Mayo-Rey",
+      "nativeName": "Mayo-Rey",
+      "code": "CM-NO-8740150",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-NO",
+      "latitude": 8.1263,
+      "longitude": 14.61456
+    }
+  ]
+}

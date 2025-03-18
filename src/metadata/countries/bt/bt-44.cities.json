@@ -1,0 +1,73 @@
+{
+  "stateId": 1337284,
+  "stateCode": "BT-44",
+  "countryCode": "BT",
+  "cities": [
+    {
+      "id": 1252526,
+      "name": "Lhuentse",
+      "nativeName": "Lhuentse",
+      "code": "BT-44-1252526",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-44",
+      "latitude": 27.66787,
+      "longitude": 91.18393
+    },
+    {
+      "id": 7701319,
+      "name": "Autsho",
+      "nativeName": "Autsho",
+      "code": "BT-44-7701319",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-44",
+      "latitude": 27.44309,
+      "longitude": 91.17485
+    },
+    {
+      "id": 1252413,
+      "name": "Khenpa Dzong",
+      "nativeName": "Khenpa Dzong",
+      "code": "BT-44-1252413",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-44",
+      "latitude": 27.81667,
+      "longitude": 91.08333
+    },
+    {
+      "id": 1252439,
+      "name": "Singye Dzong",
+      "nativeName": "Singye Dzong",
+      "code": "BT-44-1252439",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-44",
+      "latitude": 27.91667,
+      "longitude": 91.35
+    },
+    {
+      "id": 1252411,
+      "name": "Tobrang",
+      "nativeName": "Tobrang",
+      "code": "BT-44-1252411",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-44",
+      "latitude": 27.71667,
+      "longitude": 91.5
+    },
+    {
+      "id": 1252407,
+      "name": "Tormoshangsa",
+      "nativeName": "Tormoshangsa",
+      "code": "BT-44-1252407",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-44",
+      "latitude": 27.48333,
+      "longitude": 91.1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "stateId": 6201371,
+  "stateCode": "LB-BH",
+  "countryCode": "LB",
+  "cities": [
+    {
+      "id": 277129,
+      "name": "Caza de Baalbek",
+      "nativeName": "Caza de Baalbek",
+      "code": "LB-BH-277129",
+      "countryId": 272103,
+      "countryCode": "LB",
+      "stateCode": "LB-BH",
+      "latitude": 34.09822,
+      "longitude": 36.27157
+    },
+    {
+      "id": 279999,
+      "name": "El Hermel",
+      "nativeName": "Caza du Hermel",
+      "code": "LB-BH-279999",
+      "countryId": 272103,
+      "countryCode": "LB",
+      "stateCode": "LB-BH",
+      "latitude": 34.37348,
+      "longitude": 36.28975
+    }
+  ]
+}

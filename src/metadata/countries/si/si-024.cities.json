@@ -1,0 +1,139 @@
+{
+  "stateId": 3239248,
+  "stateCode": "SI-024",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3201355,
+      "name": "Dornava",
+      "nativeName": "Dornava",
+      "code": "SI-024-3201355",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-024",
+      "latitude": 46.43667,
+      "longitude": 15.95361
+    },
+    {
+      "id": 3203540,
+      "name": "Bratislavci",
+      "nativeName": "Bratislavci",
+      "code": "SI-024-3203540",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-024",
+      "latitude": 46.48333,
+      "longitude": 16.01667
+    },
+    {
+      "id": 8987856,
+      "name": "Brezovci",
+      "nativeName": "Brezovci",
+      "code": "SI-024-8987856",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-024",
+      "latitude": 46.44938,
+      "longitude": 16.00295
+    },
+    {
+      "id": 3195204,
+      "name": "Cunkovci",
+      "nativeName": "Cunkovci",
+      "code": "SI-024-3195204",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-024",
+      "latitude": 46.41273,
+      "longitude": 15.97905
+    },
+    {
+      "id": 8990184,
+      "name": "Mezgovci ob Pesnici",
+      "nativeName": "Mezgovci ob Pesnici",
+      "code": "SI-024-8990184",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-024",
+      "latitude": 46.42569,
+      "longitude": 15.96923
+    },
+    {
+      "id": 3192841,
+      "name": "Polenci",
+      "nativeName": "Polenci",
+      "code": "SI-024-3192841",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-024",
+      "latitude": 46.46163,
+      "longitude": 16.01658
+    },
+    {
+      "id": 3192840,
+      "name": "Polenšak",
+      "nativeName": "Polenšak",
+      "code": "SI-024-3192840",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-024",
+      "latitude": 46.47457,
+      "longitude": 16.00309
+    },
+    {
+      "id": 8987476,
+      "name": "Prerad",
+      "nativeName": "Prerad",
+      "code": "SI-024-8987476",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-024",
+      "latitude": 46.44112,
+      "longitude": 16.01368
+    },
+    {
+      "id": 3190540,
+      "name": "Slomi",
+      "nativeName": "Slomi",
+      "code": "SI-024-3190540",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-024",
+      "latitude": 46.45208,
+      "longitude": 15.98909
+    },
+    {
+      "id": 8989849,
+      "name": "Strejaci",
+      "nativeName": "Strejaci",
+      "code": "SI-024-8989849",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-024",
+      "latitude": 46.43494,
+      "longitude": 15.98747
+    },
+    {
+      "id": 8988382,
+      "name": "Strmec pri Polenšaku",
+      "nativeName": "Strmec pri Polenšaku",
+      "code": "SI-024-8988382",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-024",
+      "latitude": 46.43783,
+      "longitude": 15.99843
+    },
+    {
+      "id": 3186813,
+      "name": "Žamenci",
+      "nativeName": "Žamenci",
+      "code": "SI-024-3186813",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-024",
+      "latitude": 46.44057,
+      "longitude": 15.9759
+    }
+  ]
+}

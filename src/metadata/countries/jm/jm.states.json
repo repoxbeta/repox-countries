@@ -1,0 +1,160 @@
+{
+  "countryId": 3489940,
+  "countryCode": "JM",
+  "states": [
+    {
+      "id": 3490952,
+      "name": "Clarendon",
+      "nativeName": "Clarendon",
+      "code": "JM-13",
+      "internalCode": "13",
+      "countryId": 3489940,
+      "countryCode": "JM",
+      "latitude": 17.98333,
+      "longitude": -77.3
+    },
+    {
+      "id": 3490145,
+      "name": "Hanover",
+      "nativeName": "Parish of Hanover",
+      "code": "JM-09",
+      "internalCode": "09",
+      "countryId": 3489940,
+      "countryCode": "JM",
+      "latitude": 18.41667,
+      "longitude": -78.13333
+    },
+    {
+      "id": 3489853,
+      "name": "Kingston",
+      "nativeName": "Kingston",
+      "code": "JM-01",
+      "internalCode": "01",
+      "countryId": 3489940,
+      "countryCode": "JM",
+      "latitude": 17.96667,
+      "longitude": -76.8
+    },
+    {
+      "id": 3489586,
+      "name": "Manchester",
+      "nativeName": "Manchester",
+      "code": "JM-12",
+      "internalCode": "12",
+      "countryId": 3489940,
+      "countryCode": "JM",
+      "latitude": 18.05,
+      "longitude": -77.53333
+    },
+    {
+      "id": 3488997,
+      "name": "Portland Parish",
+      "nativeName": "Portland",
+      "code": "JM-04",
+      "internalCode": "04",
+      "countryId": 3489940,
+      "countryCode": "JM",
+      "latitude": 18.13333,
+      "longitude": -76.53333
+    },
+    {
+      "id": 3488716,
+      "name": "Saint Andrew Parish",
+      "nativeName": "Saint Andrew",
+      "code": "JM-02",
+      "internalCode": "02",
+      "countryId": 3489940,
+      "countryCode": "JM",
+      "latitude": 18.06667,
+      "longitude": -76.75
+    },
+    {
+      "id": 3488715,
+      "name": "Saint Ann Parish",
+      "nativeName": "Parish of Saint Ann",
+      "code": "JM-06",
+      "internalCode": "06",
+      "countryId": 3489940,
+      "countryCode": "JM",
+      "latitude": 18.35,
+      "longitude": -77.26667
+    },
+    {
+      "id": 3488711,
+      "name": "Saint Catherine Parish",
+      "nativeName": "Saint Catherine",
+      "code": "JM-14",
+      "internalCode": "14",
+      "countryId": 3489940,
+      "countryCode": "JM",
+      "latitude": 18.06667,
+      "longitude": -77.01667
+    },
+    {
+      "id": 3488700,
+      "name": "Saint James Parish",
+      "nativeName": "Saint James",
+      "code": "JM-08",
+      "internalCode": "08",
+      "countryId": 3489940,
+      "countryCode": "JM",
+      "latitude": 18.38333,
+      "longitude": -77.88333
+    },
+    {
+      "id": 3488693,
+      "name": "Saint Mary Parish",
+      "nativeName": "Saint Mary",
+      "code": "JM-05",
+      "internalCode": "05",
+      "countryId": 3489940,
+      "countryCode": "JM",
+      "latitude": 18.31667,
+      "longitude": -76.9
+    },
+    {
+      "id": 3488688,
+      "name": "Saint Thomas Parish",
+      "nativeName": "Saint Thomas",
+      "code": "JM-03",
+      "internalCode": "03",
+      "countryId": 3489940,
+      "countryCode": "JM",
+      "latitude": 17.9,
+      "longitude": -76.43333
+    },
+    {
+      "id": 3488708,
+      "name": "St. Elizabeth",
+      "nativeName": "Saint Elizabeth",
+      "code": "JM-11",
+      "internalCode": "11",
+      "countryId": 3489940,
+      "countryCode": "JM",
+      "latitude": 18.05,
+      "longitude": -77.78333
+    },
+    {
+      "id": 3488222,
+      "name": "Trelawny Parish",
+      "nativeName": "Trelawny",
+      "code": "JM-07",
+      "internalCode": "07",
+      "countryId": 3489940,
+      "countryCode": "JM",
+      "latitude": 18.38333,
+      "longitude": -77.63333
+    },
+    {
+      "id": 3488081,
+      "name": "Westmoreland",
+      "nativeName": "Westmoreland",
+      "code": "JM-10",
+      "internalCode": "10",
+      "countryId": 3489940,
+      "countryCode": "JM",
+      "latitude": 18.23333,
+      "longitude": -78.15
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "stateId": 863835,
+  "stateCode": "MK-602",
+  "countryCode": "MK",
+  "cities": [
+    {
+      "id": 792227,
+      "name": "Brvenica",
+      "nativeName": "Brvenica",
+      "code": "MK-602-792227",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-602",
+      "latitude": 41.96722,
+      "longitude": 20.98083
+    },
+    {
+      "id": 792567,
+      "name": "Blace",
+      "nativeName": "Blace",
+      "code": "MK-602-792567",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-602",
+      "latitude": 41.89506,
+      "longitude": 21.02125
+    },
+    {
+      "id": 863671,
+      "name": "Dolni Čelopek",
+      "nativeName": "Dolni Čelopek",
+      "code": "MK-602-863671",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-602",
+      "latitude": 41.93912,
+      "longitude": 21.00783
+    },
+    {
+      "id": 791331,
+      "name": "Dolno Sedlarce",
+      "nativeName": "Dolno Sedlarce",
+      "code": "MK-602-791331",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-602",
+      "latitude": 41.96806,
+      "longitude": 20.96944
+    },
+    {
+      "id": 863672,
+      "name": "Gorni Čelopek",
+      "nativeName": "Gorni Čelopek",
+      "code": "MK-602-863672",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-602",
+      "latitude": 41.92427,
+      "longitude": 21.01891
+    },
+    {
+      "id": 790084,
+      "name": "Gurgurnica",
+      "nativeName": "Gurgurnica",
+      "code": "MK-602-790084",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-602",
+      "latitude": 41.84508,
+      "longitude": 21.10538
+    },
+    {
+      "id": 787971,
+      "name": "Miletino",
+      "nativeName": "Miletino",
+      "code": "MK-602-787971",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-602",
+      "latitude": 41.90753,
+      "longitude": 21.01601
+    },
+    {
+      "id": 786596,
+      "name": "Radiovce",
+      "nativeName": "Radiovce",
+      "code": "MK-602-786596",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-602",
+      "latitude": 41.90603,
+      "longitude": 20.96314
+    },
+    {
+      "id": 785498,
+      "name": "Stenče",
+      "nativeName": "Stenče",
+      "code": "MK-602-785498",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-602",
+      "latitude": 41.87591,
+      "longitude": 21.0028
+    },
+    {
+      "id": 785094,
+      "name": "Tenovo",
+      "nativeName": "Tenovo",
+      "code": "MK-602-785094",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-602",
+      "latitude": 41.89273,
+      "longitude": 20.98001
+    },
+    {
+      "id": 784262,
+      "name": "Volkovija",
+      "nativeName": "Volkovija",
+      "code": "MK-602-784262",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-602",
+      "latitude": 41.86437,
+      "longitude": 20.99752
+    },
+    {
+      "id": 792007,
+      "name": "Čelopek",
+      "nativeName": "Čelopek",
+      "code": "MK-602-792007",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-602",
+      "latitude": 41.93167,
+      "longitude": 21.01333
+    }
+  ]
+}

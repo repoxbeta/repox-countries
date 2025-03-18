@@ -1,0 +1,106 @@
+{
+  "stateId": 3492918,
+  "stateCode": "DO-25",
+  "countryCode": "DO",
+  "cities": [
+    {
+      "id": 3511462,
+      "name": "Bisonó",
+      "nativeName": "Bisonó",
+      "code": "DO-25-3511462",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-25",
+      "latitude": 19.58333,
+      "longitude": -70.86667
+    },
+    {
+      "id": 3504164,
+      "name": "Jánico",
+      "nativeName": "Jánico",
+      "code": "DO-25-3504164",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-25",
+      "latitude": 19.23528,
+      "longitude": -70.79515
+    },
+    {
+      "id": 3499750,
+      "name": "Licey al Medio",
+      "nativeName": "Licey al Medio",
+      "code": "DO-25-3499750",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-25",
+      "latitude": 19.45,
+      "longitude": -70.6
+    },
+    {
+      "id": 11154565,
+      "name": "Puñal",
+      "nativeName": "Puñal",
+      "code": "DO-25-11154565",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-25",
+      "latitude": 19.39186,
+      "longitude": -70.65643
+    },
+    {
+      "id": 11154566,
+      "name": "Sabana Iglesia",
+      "nativeName": "Sabana Iglesia",
+      "code": "DO-25-11154566",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-25",
+      "latitude": 19.34238,
+      "longitude": -70.74019
+    },
+    {
+      "id": 3493104,
+      "name": "San José de Las Matas",
+      "nativeName": "San José de Las Matas",
+      "code": "DO-25-3493104",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-25",
+      "latitude": 19.33333,
+      "longitude": -71.08333
+    },
+    {
+      "id": 3492915,
+      "name": "Santiago de los Caballeros",
+      "nativeName": "Santiago de los Caballeros",
+      "code": "DO-25-3492915",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-25",
+      "latitude": 19.41667,
+      "longitude": -70.7
+    },
+    {
+      "id": 3492518,
+      "name": "Tamboril",
+      "nativeName": "Tamboril",
+      "code": "DO-25-3492518",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-25",
+      "latitude": 19.5,
+      "longitude": -70.6
+    },
+    {
+      "id": 11154564,
+      "name": "Villa González",
+      "nativeName": "Villa González",
+      "code": "DO-25-11154564",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-25",
+      "latitude": 19.56422,
+      "longitude": -70.78712
+    }
+  ]
+}

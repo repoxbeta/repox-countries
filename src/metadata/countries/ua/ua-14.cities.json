@@ -1,0 +1,95 @@
+{
+  "stateId": 709716,
+  "stateCode": "UA-14",
+  "countryCode": "UA",
+  "cities": [
+    {
+      "id": 713172,
+      "name": "Bakhmut Raion",
+      "nativeName": "Bakhmut Raion",
+      "code": "UA-14-713172",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-14",
+      "latitude": 48.58333,
+      "longitude": 38
+    },
+    {
+      "id": 12189531,
+      "name": "Donetskyi Raion",
+      "nativeName": "Donetskyi Raion",
+      "code": "UA-14-12189531",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-14",
+      "latitude": 47.90188,
+      "longitude": 38.27281
+    },
+    {
+      "id": 12189530,
+      "name": "Horlivka Raion",
+      "nativeName": "Horlivskyi Raion",
+      "code": "UA-14-12189530",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-14",
+      "latitude": 48.15,
+      "longitude": 38.42
+    },
+    {
+      "id": 12189529,
+      "name": "Kalmiuske Raion",
+      "nativeName": "Kalmiuskyi Raion",
+      "code": "UA-14-12189529",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-14",
+      "latitude": 47.54207,
+      "longitude": 38.10212
+    },
+    {
+      "id": 12189528,
+      "name": "Kramatorsk Raion",
+      "nativeName": "Kramatorskyi Raion",
+      "code": "UA-14-12189528",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-14",
+      "latitude": 48.77,
+      "longitude": 37.51
+    },
+    {
+      "id": 12189527,
+      "name": "Mariupol Raion",
+      "nativeName": "Mariupolskyi Raion",
+      "code": "UA-14-12189527",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-14",
+      "latitude": 47.18,
+      "longitude": 37.36
+    },
+    {
+      "id": 704417,
+      "name": "Pokrovsk Raion",
+      "nativeName": "Pokrovsk Raion",
+      "code": "UA-14-704417",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-14",
+      "latitude": 48.25,
+      "longitude": 37.16667
+    },
+    {
+      "id": 689196,
+      "name": "Volnovakha Raion",
+      "nativeName": "Volnovakha Raion",
+      "code": "UA-14-689196",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-14",
+      "latitude": 47.5,
+      "longitude": 37.5
+    }
+  ]
+}

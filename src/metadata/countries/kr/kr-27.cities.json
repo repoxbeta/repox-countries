@@ -1,0 +1,95 @@
+{
+  "stateId": 1835327,
+  "stateCode": "KR-27",
+  "countryCode": "KR",
+  "cities": [
+    {
+      "id": 8419828,
+      "name": "Buk-gu",
+      "nativeName": "Buk-gu",
+      "code": "KR-27-8419828",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-27",
+      "latitude": 35.9,
+      "longitude": 128.59175
+    },
+    {
+      "id": 8419824,
+      "name": "Dalseo-gu",
+      "nativeName": "Dalseo-gu",
+      "code": "KR-27-8419824",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-27",
+      "latitude": 35.82569,
+      "longitude": 128.52403
+    },
+    {
+      "id": 1834970,
+      "name": "Dalseong-gun",
+      "nativeName": "Dalseong-gun",
+      "code": "KR-27-1834970",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-27",
+      "latitude": 35.77467,
+      "longitude": 128.42955
+    },
+    {
+      "id": 8419829,
+      "name": "Dong-gu",
+      "nativeName": "Dong-gu",
+      "code": "KR-27-8419829",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-27",
+      "latitude": 35.88566,
+      "longitude": 128.63296
+    },
+    {
+      "id": 8419827,
+      "name": "Jung-gu",
+      "nativeName": "Jung-gu",
+      "code": "KR-27-8419827",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-27",
+      "latitude": 35.86678,
+      "longitude": 128.59538
+    },
+    {
+      "id": 8419826,
+      "name": "Nam-gu",
+      "nativeName": "Nam-gu",
+      "code": "KR-27-8419826",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-27",
+      "latitude": 35.84119,
+      "longitude": 128.588
+    },
+    {
+      "id": 8419825,
+      "name": "Seo-gu",
+      "nativeName": "Seo-gu",
+      "code": "KR-27-8419825",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-27",
+      "latitude": 35.87465,
+      "longitude": 128.55109
+    },
+    {
+      "id": 8419830,
+      "name": "Suseong-gu",
+      "nativeName": "Suseong-gu",
+      "code": "KR-27-8419830",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-27",
+      "latitude": 35.85905,
+      "longitude": 128.62625
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "stateId": 3239103,
+  "stateCode": "SI-003",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3203925,
+      "name": "Bled",
+      "nativeName": "Bled",
+      "code": "SI-003-3203925",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-003",
+      "latitude": 46.36917,
+      "longitude": 14.11361
+    },
+    {
+      "id": 3203922,
+      "name": "Bled-Rečica",
+      "nativeName": "Bled-Rečica",
+      "code": "SI-003-3203922",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-003",
+      "latitude": 46.38333,
+      "longitude": 14.1
+    },
+    {
+      "id": 3203919,
+      "name": "Blejska Dobrava",
+      "nativeName": "Blejska Dobrava",
+      "code": "SI-003-3203919",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-003",
+      "latitude": 46.4,
+      "longitude": 14.1
+    },
+    {
+      "id": 8987377,
+      "name": "Bodešče",
+      "nativeName": "Bodešče",
+      "code": "SI-003-8987377",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-003",
+      "latitude": 46.34711,
+      "longitude": 14.14254
+    },
+    {
+      "id": 3203809,
+      "name": "Bohinjska Bela",
+      "nativeName": "Bohinjska Bela",
+      "code": "SI-003-3203809",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-003",
+      "latitude": 46.34889,
+      "longitude": 14.06389
+    },
+    {
+      "id": 8987168,
+      "name": "Koritno",
+      "nativeName": "Koritno",
+      "code": "SI-003-8987168",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-003",
+      "latitude": 46.35883,
+      "longitude": 14.13565
+    },
+    {
+      "id": 3196918,
+      "name": "Kupljenik",
+      "nativeName": "Kupljenik",
+      "code": "SI-003-3196918",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-003",
+      "latitude": 46.33333,
+      "longitude": 14.1
+    },
+    {
+      "id": 3218178,
+      "name": "Mrzli Studenec",
+      "nativeName": "Mrzli Studenec",
+      "code": "SI-003-3218178",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-003",
+      "latitude": 46.34972,
+      "longitude": 13.99083
+    },
+    {
+      "id": 3194249,
+      "name": "Obrne",
+      "nativeName": "Obrne",
+      "code": "SI-003-3194249",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-003",
+      "latitude": 46.31667,
+      "longitude": 14.05
+    },
+    {
+      "id": 3193011,
+      "name": "Podhom",
+      "nativeName": "Podhom",
+      "code": "SI-003-3193011",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-003",
+      "latitude": 46.38803,
+      "longitude": 14.09173
+    },
+    {
+      "id": 3191671,
+      "name": "Ribno",
+      "nativeName": "Ribno",
+      "code": "SI-003-3191671",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-003",
+      "latitude": 46.32742,
+      "longitude": 14.11004
+    },
+    {
+      "id": 8987222,
+      "name": "Selo pri Bledu",
+      "nativeName": "Selo pri Bledu",
+      "code": "SI-003-8987222",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-003",
+      "latitude": 46.35096,
+      "longitude": 14.10673
+    },
+    {
+      "id": 8989125,
+      "name": "Slamniki",
+      "nativeName": "Slamniki",
+      "code": "SI-003-8989125",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-003",
+      "latitude": 46.34009,
+      "longitude": 14.02582
+    },
+    {
+      "id": 8986864,
+      "name": "Zasip",
+      "nativeName": "Zasip",
+      "code": "SI-003-8986864",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-003",
+      "latitude": 46.39284,
+      "longitude": 14.10869
+    }
+  ]
+}

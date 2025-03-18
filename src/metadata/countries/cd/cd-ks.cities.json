@@ -1,0 +1,73 @@
+{
+  "stateId": 214140,
+  "stateCode": "CD-KS",
+  "countryCode": "CD",
+  "cities": [
+    {
+      "id": 12278036,
+      "name": "Dekese",
+      "nativeName": "Dekese",
+      "code": "CD-KS-12278036",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-KS",
+      "latitude": -3.28824,
+      "longitude": 21.37314
+    },
+    {
+      "id": 12278055,
+      "name": "Ilebo",
+      "nativeName": "Ilebo",
+      "code": "CD-KS-12278055",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-KS",
+      "latitude": -5.04121,
+      "longitude": 20.55964
+    },
+    {
+      "id": 12278063,
+      "name": "Kamonia",
+      "nativeName": "Kamonia",
+      "code": "CD-KS-12278063",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-KS",
+      "latitude": -6.54504,
+      "longitude": 20.71611
+    },
+    {
+      "id": 12278105,
+      "name": "Luebo",
+      "nativeName": "Luebo",
+      "code": "CD-KS-12278105",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-KS",
+      "latitude": -5.66021,
+      "longitude": 21.37546
+    },
+    {
+      "id": 12278118,
+      "name": "Mweka",
+      "nativeName": "Mweka",
+      "code": "CD-KS-12278118",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-KS",
+      "latitude": -4.53713,
+      "longitude": 21.62778
+    },
+    {
+      "id": 8335011,
+      "name": "Tshikapa City",
+      "nativeName": "Tshikapa City",
+      "code": "CD-KS-8335011",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-KS",
+      "latitude": -6.409,
+      "longitude": 20.823
+    }
+  ]
+}

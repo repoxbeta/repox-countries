@@ -1,0 +1,73 @@
+{
+  "stateId": 3440711,
+  "stateCode": "UY-SA",
+  "countryCode": "UY",
+  "cities": [
+    {
+      "id": 11820784,
+      "name": "Lavalleja",
+      "nativeName": "Lavalleja",
+      "code": "UY-SA-11820784",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-SA",
+      "latitude": -31.08196,
+      "longitude": -57.00585
+    },
+    {
+      "id": 11820786,
+      "name": "Mataojo",
+      "nativeName": "Mataojo",
+      "code": "UY-SA-11820786",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-SA",
+      "latitude": -31.16385,
+      "longitude": -56.32533
+    },
+    {
+      "id": 11820806,
+      "name": "Pueblo Belen",
+      "nativeName": "Pueblo Belen",
+      "code": "UY-SA-11820806",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-SA",
+      "latitude": -30.85231,
+      "longitude": -57.74092
+    },
+    {
+      "id": 11820873,
+      "name": "Rincon De Valentin",
+      "nativeName": "Rincon De Valentin",
+      "code": "UY-SA-11820873",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-SA",
+      "latitude": -31.35558,
+      "longitude": -57.17893
+    },
+    {
+      "id": 11820785,
+      "name": "San Antonio",
+      "nativeName": "San Antonio",
+      "code": "UY-SA-11820785",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-SA",
+      "latitude": -31.38503,
+      "longitude": -57.75688
+    },
+    {
+      "id": 11820805,
+      "name": "Villa Constitucion",
+      "nativeName": "Villa Constitucion",
+      "code": "UY-SA-11820805",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-SA",
+      "latitude": -31.12125,
+      "longitude": -57.56911
+    }
+  ]
+}

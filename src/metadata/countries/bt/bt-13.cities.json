@@ -1,0 +1,84 @@
+{
+  "stateId": 1337283,
+  "stateCode": "BT-13",
+  "countryCode": "BT",
+  "cities": [
+    {
+      "id": 1252563,
+      "name": "Ha",
+      "nativeName": "Ha",
+      "code": "BT-13-1252563",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-13",
+      "latitude": 27.38747,
+      "longitude": 89.28074
+    },
+    {
+      "id": 8429854,
+      "name": "Bumtaka",
+      "nativeName": "Bumtaka",
+      "code": "BT-13-8429854",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-13",
+      "latitude": 27.6568,
+      "longitude": 89.86962
+    },
+    {
+      "id": 1337383,
+      "name": "Damthang",
+      "nativeName": "Damthang",
+      "code": "BT-13-1337383",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-13",
+      "latitude": 27.41667,
+      "longitude": 89.35
+    },
+    {
+      "id": 8429853,
+      "name": "Hingslo",
+      "nativeName": "Hingslo",
+      "code": "BT-13-8429853",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-13",
+      "latitude": 27.17937,
+      "longitude": 89.15256
+    },
+    {
+      "id": 1252436,
+      "name": "Sangbay",
+      "nativeName": "Sangbay",
+      "code": "BT-13-1252436",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-13",
+      "latitude": 27.16667,
+      "longitude": 89.08333
+    },
+    {
+      "id": 7701322,
+      "name": "Shari",
+      "nativeName": "Shari",
+      "code": "BT-13-7701322",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-13",
+      "latitude": 27.26173,
+      "longitude": 89.34271
+    },
+    {
+      "id": 1252445,
+      "name": "Shiuji",
+      "nativeName": "Shiuji",
+      "code": "BT-13-1252445",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-13",
+      "latitude": 27.17681,
+      "longitude": 89.02529
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "stateId": 2082036,
+  "stateCode": "FM-KSA",
+  "countryCode": "FM",
+  "cities": [
+    {
+      "id": 7626932,
+      "name": "Lelu Municipality",
+      "nativeName": "Lelu Municipality",
+      "code": "FM-KSA-7626932",
+      "countryId": 2081918,
+      "countryCode": "FM",
+      "stateCode": "FM-KSA",
+      "latitude": 5.34865,
+      "longitude": 163.01917
+    },
+    {
+      "id": 7626933,
+      "name": "Malem Municipality",
+      "nativeName": "Malem Municipality",
+      "code": "FM-KSA-7626933",
+      "countryId": 2081918,
+      "countryCode": "FM",
+      "stateCode": "FM-KSA",
+      "latitude": 5.27507,
+      "longitude": 163.01685
+    },
+    {
+      "id": 7626934,
+      "name": "Tafunsak Municipality",
+      "nativeName": "Tafunsak Municipality",
+      "code": "FM-KSA-7626934",
+      "countryId": 2081918,
+      "countryCode": "FM",
+      "stateCode": "FM-KSA",
+      "latitude": 5.34993,
+      "longitude": 162.96965
+    },
+    {
+      "id": 7626935,
+      "name": "Utwe Municipality",
+      "nativeName": "Utwe Municipality",
+      "code": "FM-KSA-7626935",
+      "countryId": 2081918,
+      "countryCode": "FM",
+      "stateCode": "FM-KSA",
+      "latitude": 5.27511,
+      "longitude": 162.95617
+    }
+  ]
+}

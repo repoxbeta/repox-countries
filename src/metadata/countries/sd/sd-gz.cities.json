@@ -1,0 +1,40 @@
+{
+  "stateId": 408648,
+  "stateCode": "SD-GZ",
+  "countryCode": "SD",
+  "cities": [
+    {
+      "id": 375845,
+      "name": "El Meilig Rural Council",
+      "nativeName": "El Meilig Rural Council",
+      "code": "SD-GZ-375845",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-GZ",
+      "latitude": 15.25,
+      "longitude": 32.83333
+    },
+    {
+      "id": 379328,
+      "name": "Mudīrīyat al Jazīrah",
+      "nativeName": "Mudīrīyat al Jazīrah",
+      "code": "SD-GZ-379328",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-GZ",
+      "latitude": 14.5,
+      "longitude": 33
+    },
+    {
+      "id": 11237761,
+      "name": "Um Al Gura",
+      "nativeName": "Um Al Gura",
+      "code": "SD-GZ-11237761",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-GZ",
+      "latitude": 14.17141,
+      "longitude": 33.47533
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "countryId": 1966436,
+  "countryCode": "TL",
+  "states": [
+    {
+      "id": 1651815,
+      "name": "Aileu",
+      "nativeName": "Aileu",
+      "code": "TL-AL",
+      "internalCode": "AL",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "latitude": -8.69167,
+      "longitude": 125.6375
+    },
+    {
+      "id": 1651809,
+      "name": "Ainaro",
+      "nativeName": "Ainaro",
+      "code": "TL-AN",
+      "internalCode": "AN",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "latitude": -9.025,
+      "longitude": 125.525
+    },
+    {
+      "id": 1649538,
+      "name": "Baucau",
+      "nativeName": "Baucau",
+      "code": "TL-BA",
+      "internalCode": "BA",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "latitude": -8.54167,
+      "longitude": 126.475
+    },
+    {
+      "id": 1648513,
+      "name": "Bobonaro",
+      "nativeName": "Bobonaro",
+      "code": "TL-BO",
+      "internalCode": "BO",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "latitude": -8.95,
+      "longitude": 125.21667
+    },
+    {
+      "id": 1639462,
+      "name": "Cova Lima",
+      "nativeName": "Kovalima",
+      "code": "TL-CO",
+      "internalCode": "CO",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "latitude": -9.26667,
+      "longitude": 125.25
+    },
+    {
+      "id": 1645456,
+      "name": "Dili Municipality",
+      "nativeName": "Díli",
+      "code": "TL-DI",
+      "internalCode": "DI",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "latitude": -8.55,
+      "longitude": 125.66667
+    },
+    {
+      "id": 1644865,
+      "name": "Ermera",
+      "nativeName": "Ermera",
+      "code": "TL-ER",
+      "internalCode": "ER",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "latitude": -8.83028,
+      "longitude": 125.38778
+    },
+    {
+      "id": 1638294,
+      "name": "Lautém",
+      "nativeName": "Lautein",
+      "code": "TL-LA",
+      "internalCode": "LA",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "latitude": -8.51472,
+      "longitude": 126.97
+    },
+    {
+      "id": 1637729,
+      "name": "Liquiçá",
+      "nativeName": "Liquiçá",
+      "code": "TL-LI",
+      "internalCode": "LI",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "latitude": -8.65,
+      "longitude": 125.31667
+    },
+    {
+      "id": 1636525,
+      "name": "Manatuto",
+      "nativeName": "Manatuto",
+      "code": "TL-MT",
+      "internalCode": "MT",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "latitude": -8.71667,
+      "longitude": 125.95
+    },
+    {
+      "id": 1636309,
+      "name": "Manufahi",
+      "nativeName": "Manufahi",
+      "code": "TL-MF",
+      "internalCode": "MF",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "latitude": -8.99861,
+      "longitude": 125.77778
+    },
+    {
+      "id": 1651539,
+      "name": "Oecusse",
+      "nativeName": "Oecusse",
+      "code": "TL-OE",
+      "internalCode": "OE",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "latitude": -9.31361,
+      "longitude": 124.29306
+    },
+    {
+      "id": 1622470,
+      "name": "Viqueque",
+      "nativeName": "Viqueque",
+      "code": "TL-VI",
+      "internalCode": "VI",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "latitude": -8.78722,
+      "longitude": 126.36
+    }
+  ]
+}

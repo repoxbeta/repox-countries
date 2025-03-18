@@ -1,0 +1,303 @@
+{
+  "countryId": 357994,
+  "countryCode": "EG",
+  "states": [
+    {
+      "id": 361059,
+      "name": "Alexandria",
+      "nativeName": "Alexandria",
+      "code": "EG-ALX",
+      "internalCode": "ALX",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "latitude": 31,
+      "longitude": 29.75
+    },
+    {
+      "id": 359787,
+      "name": "Aswan",
+      "nativeName": "Muḩāfaz̧at Aswān",
+      "code": "EG-ASN",
+      "internalCode": "ASN",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "latitude": 23.3,
+      "longitude": 32.9
+    },
+    {
+      "id": 359781,
+      "name": "Asyut",
+      "nativeName": "Muḩāfaz̧at Asyūţ",
+      "code": "EG-AST",
+      "internalCode": "AST",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "latitude": 27.2,
+      "longitude": 31.1
+    },
+    {
+      "id": 361370,
+      "name": "Beheira",
+      "nativeName": "Beheira Governorate",
+      "code": "EG-BH",
+      "internalCode": "BH",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "latitude": 30.6,
+      "longitude": 30.2
+    },
+    {
+      "id": 359171,
+      "name": "Beni Suweif",
+      "nativeName": "Muḩāfaz̧at Banī Suwayf",
+      "code": "EG-BNS",
+      "internalCode": "BNS",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "latitude": 28.9,
+      "longitude": 30.6
+    },
+    {
+      "id": 360631,
+      "name": "Cairo",
+      "nativeName": "Cairo Governorate",
+      "code": "EG-C",
+      "internalCode": "C",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "latitude": 30.05,
+      "longitude": 31.65
+    },
+    {
+      "id": 361849,
+      "name": "Dakahlia",
+      "nativeName": "Muḩāfaz̧at ad Daqahlīyah",
+      "code": "EG-DK",
+      "internalCode": "DK",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "latitude": 31.1,
+      "longitude": 31.6
+    },
+    {
+      "id": 358044,
+      "name": "Damietta",
+      "nativeName": "Damietta Governorate",
+      "code": "EG-DT",
+      "internalCode": "DT",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "latitude": 31.35,
+      "longitude": 31.75
+    },
+    {
+      "id": 361323,
+      "name": "Faiyum",
+      "nativeName": "Muḩāfaz̧at al Fayyūm",
+      "code": "EG-FYM",
+      "internalCode": "FYM",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "latitude": 29.3,
+      "longitude": 30.5
+    },
+    {
+      "id": 361294,
+      "name": "Gharbia",
+      "nativeName": "Muḩāfaz̧at al Gharbīyah",
+      "code": "EG-GH",
+      "internalCode": "GH",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "latitude": 30.9,
+      "longitude": 31
+    },
+    {
+      "id": 360997,
+      "name": "Giza",
+      "nativeName": "Muḩāfaz̧at al Jīzah",
+      "code": "EG-GZ",
+      "internalCode": "GZ",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "latitude": 29.99776,
+      "longitude": 31.05286
+    },
+    {
+      "id": 361056,
+      "name": "Ismailia",
+      "nativeName": "Ismailia Governorate",
+      "code": "EG-IS",
+      "internalCode": "IS",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "latitude": 30.6,
+      "longitude": 32.4
+    },
+    {
+      "id": 354500,
+      "name": "Kafr el-Sheikh",
+      "nativeName": "Kafr ash Shaykh",
+      "code": "EG-KFS",
+      "internalCode": "KFS",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "latitude": 31.3,
+      "longitude": 30.9
+    },
+    {
+      "id": 7603259,
+      "name": "Luxor",
+      "nativeName": "Luxor",
+      "code": "EG-LX",
+      "internalCode": "LX",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "latitude": 25.7,
+      "longitude": 32.65
+    },
+    {
+      "id": 352603,
+      "name": "Matruh",
+      "nativeName": "Muḩāfaz̧at Maţrūḩ",
+      "code": "EG-MT",
+      "internalCode": "MT",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "latitude": 29.7,
+      "longitude": 27.5
+    },
+    {
+      "id": 360688,
+      "name": "Minya",
+      "nativeName": "Muḩāfaz̧at al Minyā",
+      "code": "EG-MN",
+      "internalCode": "MN",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "latitude": 28.1,
+      "longitude": 30
+    },
+    {
+      "id": 360689,
+      "name": "Monufia",
+      "nativeName": "Muḩāfaz̧at al Minūfīyah",
+      "code": "EG-MNF",
+      "internalCode": "MNF",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "latitude": 30.5,
+      "longitude": 31
+    },
+    {
+      "id": 360483,
+      "name": "New Valley",
+      "nativeName": "New Valley",
+      "code": "EG-WAD",
+      "internalCode": "WAD",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "latitude": 24.8,
+      "longitude": 28.9
+    },
+    {
+      "id": 349401,
+      "name": "North Sinai",
+      "nativeName": "North Sinai",
+      "code": "EG-SIN",
+      "internalCode": "SIN",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "latitude": 30.5,
+      "longitude": 33.7
+    },
+    {
+      "id": 358617,
+      "name": "Port Said",
+      "nativeName": "Port Said",
+      "code": "EG-PTS",
+      "internalCode": "PTS",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "latitude": 31.12339,
+      "longitude": 32.41926
+    },
+    {
+      "id": 360621,
+      "name": "Qalyubia",
+      "nativeName": "Muḩāfaz̧at al Qalyūbīyah",
+      "code": "EG-KB",
+      "internalCode": "KB",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "latitude": 30.3,
+      "longitude": 31.25
+    },
+    {
+      "id": 350546,
+      "name": "Qena",
+      "nativeName": "Muḩāfaz̧at Qinā",
+      "code": "EG-KN",
+      "internalCode": "KN",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "latitude": 25.8,
+      "longitude": 32.75
+    },
+    {
+      "id": 361468,
+      "name": "Red Sea",
+      "nativeName": "Red Sea Governorate",
+      "code": "EG-BA",
+      "internalCode": "BA",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "latitude": 27.18624,
+      "longitude": 33.78845
+    },
+    {
+      "id": 360016,
+      "name": "Sharqia",
+      "nativeName": "Muḩāfaz̧at ash Sharqīyah",
+      "code": "EG-SHR",
+      "internalCode": "SHR",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "latitude": 30.7,
+      "longitude": 31.8
+    },
+    {
+      "id": 347794,
+      "name": "Sohag",
+      "nativeName": "Muḩāfaz̧at Sūhāj",
+      "code": "EG-SHG",
+      "internalCode": "SHG",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "latitude": 26.5,
+      "longitude": 31.7
+    },
+    {
+      "id": 355182,
+      "name": "South Sinai",
+      "nativeName": "South Sinai Governorate",
+      "code": "EG-JS",
+      "internalCode": "JS",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "latitude": 29,
+      "longitude": 33.8
+    },
+    {
+      "id": 359797,
+      "name": "Suez",
+      "nativeName": "Suez",
+      "code": "EG-SUZ",
+      "internalCode": "SUZ",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "latitude": 29.7,
+      "longitude": 32.3
+    }
+  ]
+}

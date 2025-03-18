@@ -1,0 +1,117 @@
+{
+  "stateId": 1537162,
+  "stateCode": "KZ-19",
+  "countryCode": "KZ",
+  "cities": [
+    {
+      "id": 1526489,
+      "name": "Alakol District",
+      "nativeName": "Alakol District",
+      "code": "KZ-19-1526489",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-19",
+      "latitude": 46.16667,
+      "longitude": 81.25
+    },
+    {
+      "id": 1524438,
+      "name": "Jambyl Audany)",
+      "nativeName": "Zhambylskiy Rayon",
+      "code": "KZ-19-1524438",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-19",
+      "latitude": 43.78195,
+      "longitude": 75.76434
+    },
+    {
+      "id": 1537281,
+      "name": "Kapshagay city",
+      "nativeName": "Kapshagay city",
+      "code": "KZ-19-1537281",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-19",
+      "latitude": 43.88333,
+      "longitude": 77.08333
+    },
+    {
+      "id": 11886905,
+      "name": "Karasay District",
+      "nativeName": "Karasay",
+      "code": "KZ-19-11886905",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-19",
+      "latitude": 43.1994,
+      "longitude": 76.6215
+    },
+    {
+      "id": 12533979,
+      "name": "Karasayskiy Rayon",
+      "nativeName": "Karasayskiy Rayon",
+      "code": "KZ-19-12533979",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-19",
+      "latitude": 43.11591,
+      "longitude": 76.6501
+    },
+    {
+      "id": 1522816,
+      "name": "Kegenskiy Rayon",
+      "nativeName": "Kegenskiy Rayon",
+      "code": "KZ-19-1522816",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-19",
+      "latitude": 43,
+      "longitude": 78.75
+    },
+    {
+      "id": 1520746,
+      "name": "Raiymbek District",
+      "nativeName": "Rayymbek Aūdany",
+      "code": "KZ-19-1520746",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-19",
+      "latitude": 43,
+      "longitude": 80
+    },
+    {
+      "id": 1537283,
+      "name": "Taldyqorghan Qalasy",
+      "nativeName": "Taldyqorghan Qalasy",
+      "code": "KZ-19-1537283",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-19",
+      "latitude": 45,
+      "longitude": 78.4
+    },
+    {
+      "id": 1518519,
+      "name": "Talgar District",
+      "nativeName": "Talgarskiy Rayon",
+      "code": "KZ-19-1518519",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-19",
+      "latitude": 43.17748,
+      "longitude": 77.31333
+    },
+    {
+      "id": 1517577,
+      "name": "Uygur District",
+      "nativeName": "Uygurskiy Rayon",
+      "code": "KZ-19-1517577",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-19",
+      "latitude": 43.5,
+      "longitude": 79.75
+    }
+  ]
+}

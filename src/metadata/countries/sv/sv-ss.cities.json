@@ -1,0 +1,62 @@
+{
+  "stateId": 3583360,
+  "stateCode": "SV-SS",
+  "countryCode": "SV",
+  "cities": [
+    {
+      "id": 12954160,
+      "name": "Municipio de San Salvador Centro",
+      "nativeName": "Municipio de San Salvador Centro",
+      "code": "SV-SS-12954160",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-SS",
+      "latitude": 13.74489,
+      "longitude": -89.18004
+    },
+    {
+      "id": 12954161,
+      "name": "Municipio de San Salvador Este",
+      "nativeName": "Municipio de San Salvador Este",
+      "code": "SV-SS-12954161",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-SS",
+      "latitude": 13.7652,
+      "longitude": -89.12835
+    },
+    {
+      "id": 12954162,
+      "name": "Municipio de San Salvador Oeste",
+      "nativeName": "Municipio de San Salvador Oeste",
+      "code": "SV-SS-12954162",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-SS",
+      "latitude": 13.81912,
+      "longitude": -89.20841
+    },
+    {
+      "id": 12954163,
+      "name": "Municipio de San Salvador Sur",
+      "nativeName": "Municipio de San Salvador Sur",
+      "code": "SV-SS-12954163",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-SS",
+      "latitude": 13.60604,
+      "longitude": -89.16769
+    },
+    {
+      "id": 12916941,
+      "name": "San Salvador Norte",
+      "nativeName": "San Salvador Norte",
+      "code": "SV-SS-12916941",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-SS",
+      "latitude": 13.95469,
+      "longitude": -89.19119
+    }
+  ]
+}

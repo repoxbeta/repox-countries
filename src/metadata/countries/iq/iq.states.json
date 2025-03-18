@@ -1,0 +1,215 @@
+{
+  "countryId": 99237,
+  "countryCode": "IQ",
+  "states": [
+    {
+      "id": 99592,
+      "name": "Al Anbar",
+      "nativeName": "Muḩāfaz̧at al Anbār",
+      "code": "IQ-AN",
+      "internalCode": "AN",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "latitude": 33.54402,
+      "longitude": 41.31751
+    },
+    {
+      "id": 99032,
+      "name": "Al Muthanna Governorate",
+      "nativeName": "Muḩāfaz̧at al Muthanná",
+      "code": "IQ-MU",
+      "internalCode": "MU",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "latitude": 30.25,
+      "longitude": 45.33333
+    },
+    {
+      "id": 98862,
+      "name": "An Najaf",
+      "nativeName": "An Najaf",
+      "code": "IQ-NA",
+      "internalCode": "NA",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "latitude": 31.25,
+      "longitude": 43.83333
+    },
+    {
+      "id": 98180,
+      "name": "Baghdad",
+      "nativeName": "Baghdad Governorate",
+      "code": "IQ-BG",
+      "internalCode": "BG",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "latitude": 33.31667,
+      "longitude": 44.36667
+    },
+    {
+      "id": 89341,
+      "name": "Basra",
+      "nativeName": "Muḩāfaz̧at al Başrah",
+      "code": "IQ-BA",
+      "internalCode": "BA",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "latitude": 30.41667,
+      "longitude": 47.41667
+    },
+    {
+      "id": 97019,
+      "name": "Dhi Qar",
+      "nativeName": "Muḩāfaz̧at Dhī Qār",
+      "code": "IQ-DQ",
+      "internalCode": "DQ",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "latitude": 31.25,
+      "longitude": 46.25
+    },
+    {
+      "id": 96965,
+      "name": "Diyālá",
+      "nativeName": "Diyālá",
+      "code": "IQ-DI",
+      "internalCode": "DI",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "latitude": 34,
+      "longitude": 45
+    },
+    {
+      "id": 97270,
+      "name": "Duhok",
+      "nativeName": "Dihok",
+      "code": "IQ-DA",
+      "internalCode": "DA",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "latitude": 37.06667,
+      "longitude": 43.13333
+    },
+    {
+      "id": 95445,
+      "name": "Erbil",
+      "nativeName": "Erbil",
+      "code": "IQ-AR",
+      "internalCode": "AR",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "latitude": 36.33333,
+      "longitude": 44.2
+    },
+    {
+      "id": 12218240,
+      "name": "Halabja Governorate",
+      "nativeName": "Halabja Governorate",
+      "code": "IQ-19",
+      "internalCode": "",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "latitude": 35.18445,
+      "longitude": 45.99333
+    },
+    {
+      "id": 98410,
+      "name": "Kirkuk",
+      "nativeName": "Kirkuk",
+      "code": "IQ-KI",
+      "internalCode": "KI",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "latitude": 35.36667,
+      "longitude": 44.13333
+    },
+    {
+      "id": 93540,
+      "name": "Maysan",
+      "nativeName": "Muḩāfaz̧at Maysān",
+      "code": "IQ-MA",
+      "internalCode": "MA",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "latitude": 31.9,
+      "longitude": 47.06667
+    },
+    {
+      "id": 89693,
+      "name": "Muhafazat Wasit",
+      "nativeName": "Muhafazat Wasit",
+      "code": "IQ-WA",
+      "internalCode": "WA",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "latitude": 32.75,
+      "longitude": 45.41667
+    },
+    {
+      "id": 98227,
+      "name": "Muḩāfaz̧at Bābil",
+      "nativeName": "Muḩāfaz̧at Bābil",
+      "code": "IQ-BB",
+      "internalCode": "BB",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "latitude": 32.53333,
+      "longitude": 44.61667
+    },
+    {
+      "id": 94823,
+      "name": "Muḩāfaz̧at Karbalā’",
+      "nativeName": "Muḩāfaz̧at Karbalā’",
+      "code": "IQ-KA",
+      "internalCode": "KA",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "latitude": 32.5,
+      "longitude": 43.83333
+    },
+    {
+      "id": 99022,
+      "name": "Muḩāfaz̧at al Qādisīyah",
+      "nativeName": "Muḩāfaz̧at al Qādisīyah",
+      "code": "IQ-QA",
+      "internalCode": "QA",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "latitude": 31.91667,
+      "longitude": 45.08333
+    },
+    {
+      "id": 92877,
+      "name": "Nineveh",
+      "nativeName": "Muḩāfaz̧at Nīnawá",
+      "code": "IQ-NI",
+      "internalCode": "NI",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "latitude": 36.08333,
+      "longitude": 42.5
+    },
+    {
+      "id": 91695,
+      "name": "Salah ad Din",
+      "nativeName": "Muhafazat Salah ad Din",
+      "code": "IQ-SD",
+      "internalCode": "SD",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "latitude": 34.5,
+      "longitude": 43.65
+    },
+    {
+      "id": 98465,
+      "name": "Sulaymaniyah",
+      "nativeName": "Muḩāfaz̧at as Sulaymānīyah",
+      "code": "IQ-SU",
+      "internalCode": "SU",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "latitude": 35.58333,
+      "longitude": 45.33333
+    }
+  ]
+}

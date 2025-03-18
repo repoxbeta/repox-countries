@@ -1,0 +1,73 @@
+{
+  "stateId": 4564071,
+  "stateCode": "PR-049",
+  "countryCode": "PR",
+  "cities": [
+    {
+      "id": 7268134,
+      "name": "Culebra Barrio-Pueblo",
+      "nativeName": "Culebra Barrio-Pueblo",
+      "code": "PR-049-7268134",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-049",
+      "latitude": 18.30638,
+      "longitude": -65.30205
+    },
+    {
+      "id": 7268390,
+      "name": "Flamenco Barrio",
+      "nativeName": "Flamenco Barrio",
+      "code": "PR-049-7268390",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-049",
+      "latitude": 18.31679,
+      "longitude": -65.30589
+    },
+    {
+      "id": 7268397,
+      "name": "Fraile Barrio",
+      "nativeName": "Fraile Barrio",
+      "code": "PR-049-7268397",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-049",
+      "latitude": 18.31316,
+      "longitude": -65.2543
+    },
+    {
+      "id": 7268773,
+      "name": "Playa Sardinas I Barrio",
+      "nativeName": "Playa Sardinas I Barrio",
+      "code": "PR-049-7268773",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-049",
+      "latitude": 18.30481,
+      "longitude": -65.3075
+    },
+    {
+      "id": 7268774,
+      "name": "Playa Sardinas II Barrio",
+      "nativeName": "Playa Sardinas II Barrio",
+      "code": "PR-049-7268774",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-049",
+      "latitude": 18.27778,
+      "longitude": -65.28627
+    },
+    {
+      "id": 7268972,
+      "name": "San Isidro Barrio",
+      "nativeName": "San Isidro Barrio",
+      "code": "PR-049-7268972",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-049",
+      "latitude": 18.32132,
+      "longitude": -65.26665
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "stateId": 11153053,
+  "stateCode": "CI-CM",
+  "countryCode": "CI",
+  "cities": [
+    {
+      "id": 11153078,
+      "name": "Indénié-Djuablin",
+      "nativeName": "Indénié-Djuablin",
+      "code": "CI-CM-11153078",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "stateCode": "CI-CM",
+      "latitude": 6.74434,
+      "longitude": -3.494
+    },
+    {
+      "id": 11153079,
+      "name": "Sud-Comoé",
+      "nativeName": "Sud-Comoé",
+      "code": "CI-CM-11153079",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "stateCode": "CI-CM",
+      "latitude": 5.49961,
+      "longitude": -3.2408
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "stateId": 8299715,
+  "stateCode": "MT-11",
+  "countryCode": "MT",
+  "cities": [
+    {
+      "id": 2563020,
+      "name": "Gudja",
+      "nativeName": "Gudja",
+      "code": "MT-11-2563020",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-11",
+      "latitude": 35.84917,
+      "longitude": 14.50306
+    },
+    {
+      "id": 2562837,
+      "name": "Ix-Xlejli",
+      "nativeName": "Ix-Xlejli",
+      "code": "MT-11-2562837",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-11",
+      "latitude": 35.85111,
+      "longitude": 14.50722
+    }
+  ]
+}

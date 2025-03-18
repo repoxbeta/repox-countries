@@ -1,0 +1,73 @@
+{
+  "stateId": 2365173,
+  "stateCode": "TG-M",
+  "countryCode": "TG",
+  "cities": [
+    {
+      "id": 2597440,
+      "name": "Ave",
+      "nativeName": "Ave Prefecture",
+      "code": "TG-M-2597440",
+      "countryId": 2363686,
+      "countryCode": "TG",
+      "stateCode": "TG-M",
+      "latitude": 6.43333,
+      "longitude": 0.93333
+    },
+    {
+      "id": 2365263,
+      "name": "Golfe",
+      "nativeName": "Golfe Prefecture",
+      "code": "TG-M-2365263",
+      "countryId": 2363686,
+      "countryCode": "TG",
+      "stateCode": "TG-M",
+      "latitude": 6.23333,
+      "longitude": 1.2
+    },
+    {
+      "id": 2367989,
+      "name": "Lacs",
+      "nativeName": "Lacs Prefecture",
+      "code": "TG-M-2367989",
+      "countryId": 2363686,
+      "countryCode": "TG",
+      "stateCode": "TG-M",
+      "latitude": 6.36667,
+      "longitude": 1.66667
+    },
+    {
+      "id": 2363489,
+      "name": "Vo",
+      "nativeName": "Vo Prefecture",
+      "code": "TG-M-2363489",
+      "countryId": 2363686,
+      "countryCode": "TG",
+      "stateCode": "TG-M",
+      "latitude": 6.41667,
+      "longitude": 1.5
+    },
+    {
+      "id": 2364040,
+      "name": "Yoto",
+      "nativeName": "Yoto",
+      "code": "TG-M-2364040",
+      "countryId": 2363686,
+      "countryCode": "TG",
+      "stateCode": "TG-M",
+      "latitude": 6.66667,
+      "longitude": 1.5
+    },
+    {
+      "id": 2363533,
+      "name": "Zio",
+      "nativeName": "Zio Prefecture",
+      "code": "TG-M-2363533",
+      "countryId": 2363686,
+      "countryCode": "TG",
+      "stateCode": "TG-M",
+      "latitude": 6.58333,
+      "longitude": 1.16667
+    }
+  ]
+}

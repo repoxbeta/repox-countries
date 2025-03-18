@@ -1,0 +1,160 @@
+{
+  "countryId": 3077311,
+  "countryCode": "CZ",
+  "states": [
+    {
+      "id": 3339576,
+      "name": "Central Bohemia",
+      "nativeName": "Středočeský kraj",
+      "code": "CZ-20",
+      "internalCode": "20",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "latitude": 50.12718,
+      "longitude": 14.1964
+    },
+    {
+      "id": 3339537,
+      "name": "Jihočeský kraj",
+      "nativeName": "Jihočeský kraj",
+      "code": "CZ-31",
+      "internalCode": "31",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "latitude": 49.08333,
+      "longitude": 14.5
+    },
+    {
+      "id": 3339539,
+      "name": "Karlovarský kraj",
+      "nativeName": "Karlovarský kraj",
+      "code": "CZ-41",
+      "internalCode": "41",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "latitude": 50.16667,
+      "longitude": 12.66667
+    },
+    {
+      "id": 3339538,
+      "name": "Kraj Vysočina",
+      "nativeName": "Kraj Vysočina",
+      "code": "CZ-63",
+      "internalCode": "63",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "latitude": 49.41667,
+      "longitude": 15.5
+    },
+    {
+      "id": 3339540,
+      "name": "Královéhradecký kraj",
+      "nativeName": "Královéhradecký kraj",
+      "code": "CZ-52",
+      "internalCode": "52",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "latitude": 50.41667,
+      "longitude": 15.91667
+    },
+    {
+      "id": 3339541,
+      "name": "Liberecký kraj",
+      "nativeName": "Liberecký kraj",
+      "code": "CZ-51",
+      "internalCode": "51",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "latitude": 50.75,
+      "longitude": 15
+    },
+    {
+      "id": 3339573,
+      "name": "Moravskoslezský kraj",
+      "nativeName": "Moravskoslezský kraj",
+      "code": "CZ-80",
+      "internalCode": "80",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "latitude": 49.83333,
+      "longitude": 18
+    },
+    {
+      "id": 3339542,
+      "name": "Olomoucký kraj",
+      "nativeName": "Olomoucký kraj",
+      "code": "CZ-71",
+      "internalCode": "71",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "latitude": 49.75,
+      "longitude": 17.16667
+    },
+    {
+      "id": 3339574,
+      "name": "Pardubický kraj",
+      "nativeName": "Pardubický kraj",
+      "code": "CZ-53",
+      "internalCode": "53",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "latitude": 49.83333,
+      "longitude": 16.08333
+    },
+    {
+      "id": 3339575,
+      "name": "Plzeň Region",
+      "nativeName": "Plzeňský kraj",
+      "code": "CZ-32",
+      "internalCode": "32",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "latitude": 49.5,
+      "longitude": 13.16667
+    },
+    {
+      "id": 3067695,
+      "name": "Prague",
+      "nativeName": "Hlavní město Praha",
+      "code": "CZ-10",
+      "internalCode": "10",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "latitude": 50.08333,
+      "longitude": 14.46667
+    },
+    {
+      "id": 3339536,
+      "name": "South Moravian",
+      "nativeName": "Jihomoravský kraj",
+      "code": "CZ-64",
+      "internalCode": "64",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "latitude": 49.20122,
+      "longitude": 16.61339
+    },
+    {
+      "id": 3339578,
+      "name": "Zlín",
+      "nativeName": "Zlínský kraj",
+      "code": "CZ-72",
+      "internalCode": "72",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "latitude": 49.16667,
+      "longitude": 17.75
+    },
+    {
+      "id": 3339577,
+      "name": "Ústecký kraj",
+      "nativeName": "Ústecký kraj",
+      "code": "CZ-42",
+      "internalCode": "42",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "latitude": 50.5,
+      "longitude": 13.83333
+    }
+  ]
+}

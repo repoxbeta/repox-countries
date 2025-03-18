@@ -1,0 +1,106 @@
+{
+  "stateId": 92877,
+  "stateCode": "IQ-NI",
+  "countryCode": "IQ",
+  "cities": [
+    {
+      "id": 98820,
+      "name": "Akre",
+      "nativeName": "Akre District",
+      "code": "IQ-NI-98820",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-NI",
+      "latitude": 36.74149,
+      "longitude": 43.89356
+    },
+    {
+      "id": 9166608,
+      "name": "Al-Ba'aj District",
+      "nativeName": "Al-Ba'aj District",
+      "code": "IQ-NI-9166608",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-NI",
+      "latitude": 35.62057,
+      "longitude": 41.68183
+    },
+    {
+      "id": 9166541,
+      "name": "Al-Hamdaniya District",
+      "nativeName": "Al-Hamdaniya District",
+      "code": "IQ-NI-9166541",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-NI",
+      "latitude": 36.27146,
+      "longitude": 43.37373
+    },
+    {
+      "id": 99414,
+      "name": "Hatra District",
+      "nativeName": "Hatra District",
+      "code": "IQ-NI-99414",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-NI",
+      "latitude": 35.5,
+      "longitude": 42
+    },
+    {
+      "id": 9166649,
+      "name": "Mosul",
+      "nativeName": "Mosul",
+      "code": "IQ-NI-9166649",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-NI",
+      "latitude": 36.3579,
+      "longitude": 43.09937
+    },
+    {
+      "id": 98612,
+      "name": "Shekhan District",
+      "nativeName": "Shekhan District",
+      "code": "IQ-NI-98612",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-NI",
+      "latitude": 36.7,
+      "longitude": 43.3
+    },
+    {
+      "id": 9166620,
+      "name": "Sinjar",
+      "nativeName": "Sinjar",
+      "code": "IQ-NI-9166620",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-NI",
+      "latitude": 36.29548,
+      "longitude": 41.89315
+    },
+    {
+      "id": 90392,
+      "name": "Tel Afar District",
+      "nativeName": "Tel Afar District",
+      "code": "IQ-NI-90392",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-NI",
+      "latitude": 36.5,
+      "longitude": 42.5
+    },
+    {
+      "id": 9166618,
+      "name": "Tel Keppe District",
+      "nativeName": "Tel Keppe District",
+      "code": "IQ-NI-9166618",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-NI",
+      "latitude": 36.59215,
+      "longitude": 43.06209
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "stateId": 732771,
+  "stateCode": "BG-02",
+  "countryCode": "BG",
+  "cities": [
+    {
+      "id": 733578,
+      "name": "Aytos",
+      "nativeName": "Obshtina Aytos",
+      "code": "BG-02-733578",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-02",
+      "latitude": 42.7,
+      "longitude": 27.25
+    },
+    {
+      "id": 732769,
+      "name": "Burgas",
+      "nativeName": "Obshtina Burgas",
+      "code": "BG-02-732769",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-02",
+      "latitude": 42.5,
+      "longitude": 27.46667
+    },
+    {
+      "id": 730679,
+      "name": "Kameno",
+      "nativeName": "Obshtina Kameno",
+      "code": "BG-02-730679",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-02",
+      "latitude": 42.51667,
+      "longitude": 27.18333
+    },
+    {
+      "id": 730558,
+      "name": "Karnobat",
+      "nativeName": "Obshtina Karnobat",
+      "code": "BG-02-730558",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-02",
+      "latitude": 42.65,
+      "longitude": 26.98333
+    },
+    {
+      "id": 729321,
+      "name": "Malko Tarnovo",
+      "nativeName": "Obshtina Malko Tarnovo",
+      "code": "BG-02-729321",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-02",
+      "latitude": 42.08333,
+      "longitude": 27.53333
+    },
+    {
+      "id": 728824,
+      "name": "Nesebar",
+      "nativeName": "Obshtina Nesebar",
+      "code": "BG-02-728824",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-02",
+      "latitude": 42.78333,
+      "longitude": 27.73333
+    },
+    {
+      "id": 728106,
+      "name": "Pomorie",
+      "nativeName": "Obshtina Pomorie",
+      "code": "BG-02-728106",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-02",
+      "latitude": 42.73333,
+      "longitude": 27.55
+    },
+    {
+      "id": 864564,
+      "name": "Primorsko",
+      "nativeName": "Obshtina Primorsko",
+      "code": "BG-02-864564",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-02",
+      "latitude": 42.25,
+      "longitude": 27.63333
+    },
+    {
+      "id": 727546,
+      "name": "Ruen",
+      "nativeName": "Obshtina Ruen",
+      "code": "BG-02-727546",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-02",
+      "latitude": 42.88333,
+      "longitude": 27.25
+    },
+    {
+      "id": 726962,
+      "name": "Sozopol",
+      "nativeName": "Obshtina Sozopol",
+      "code": "BG-02-726962",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-02",
+      "latitude": 42.31123,
+      "longitude": 27.51733
+    },
+    {
+      "id": 731015,
+      "name": "Sredets",
+      "nativeName": "Obshtina Sredets",
+      "code": "BG-02-731015",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-02",
+      "latitude": 42.26667,
+      "longitude": 27.13333
+    },
+    {
+      "id": 726628,
+      "name": "Sungurlare",
+      "nativeName": "Obshtina Sungurlare",
+      "code": "BG-02-726628",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-02",
+      "latitude": 42.83333,
+      "longitude": 26.83333
+    },
+    {
+      "id": 729123,
+      "name": "Tsarevo",
+      "nativeName": "Obshtina Tsarevo",
+      "code": "BG-02-729123",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-02",
+      "latitude": 42.1,
+      "longitude": 27.81667
+    }
+  ]
+}

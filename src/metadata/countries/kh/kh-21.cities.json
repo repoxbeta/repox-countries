@@ -1,0 +1,117 @@
+{
+  "stateId": 1821939,
+  "stateCode": "KH-21",
+  "countryCode": "KH",
+  "cities": [
+    {
+      "id": 8405261,
+      "name": "Angkor Borei",
+      "nativeName": "Srŏk Ângkôr Borei",
+      "code": "KH-21-8405261",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-21",
+      "latitude": 10.99291,
+      "longitude": 104.95177
+    },
+    {
+      "id": 9253814,
+      "name": "Bati",
+      "nativeName": "Bati",
+      "code": "KH-21-9253814",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-21",
+      "latitude": 11.2729,
+      "longitude": 104.82224
+    },
+    {
+      "id": 8405262,
+      "name": "Borei Cholsar",
+      "nativeName": "Srŏk Borei Cholsar",
+      "code": "KH-21-8405262",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-21",
+      "latitude": 10.82223,
+      "longitude": 105.03403
+    },
+    {
+      "id": 1831045,
+      "name": "Kaoh Andaet",
+      "nativeName": "Kaoh Andaet",
+      "code": "KH-21-1831045",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-21",
+      "latitude": 10.75,
+      "longitude": 105
+    },
+    {
+      "id": 9253815,
+      "name": "Kiri Vong",
+      "nativeName": "Kiri Vong",
+      "code": "KH-21-9253815",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-21",
+      "latitude": 10.63881,
+      "longitude": 104.79836
+    },
+    {
+      "id": 8405707,
+      "name": "Krong Doun Kaev",
+      "nativeName": "Krŏng Doun Kaev",
+      "code": "KH-21-8405707",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-21",
+      "latitude": 10.99459,
+      "longitude": 104.7955
+    },
+    {
+      "id": 9253816,
+      "name": "Prey Kabbas",
+      "nativeName": "Prey Kabbas",
+      "code": "KH-21-9253816",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-21",
+      "latitude": 11.14364,
+      "longitude": 104.93264
+    },
+    {
+      "id": 1822320,
+      "name": "Samraong",
+      "nativeName": "Samraong",
+      "code": "KH-21-1822320",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-21",
+      "latitude": 11.16667,
+      "longitude": 104.75
+    },
+    {
+      "id": 9253818,
+      "name": "Tram Kak",
+      "nativeName": "Tram Kak",
+      "code": "KH-21-9253818",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-21",
+      "latitude": 11.00998,
+      "longitude": 104.60821
+    },
+    {
+      "id": 9253819,
+      "name": "Treang",
+      "nativeName": "Treang",
+      "code": "KH-21-9253819",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-21",
+      "latitude": 10.88134,
+      "longitude": 104.80508
+    }
+  ]
+}

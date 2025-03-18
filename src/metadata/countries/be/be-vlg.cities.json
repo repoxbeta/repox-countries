@@ -1,0 +1,62 @@
+{
+  "stateId": 3337388,
+  "stateCode": "BE-VLG",
+  "countryCode": "BE",
+  "cities": [
+    {
+      "id": 2803136,
+      "name": "Antwerp Province",
+      "nativeName": "Provincie Antwerpen",
+      "code": "BE-VLG-2803136",
+      "countryId": 2802361,
+      "countryCode": "BE",
+      "stateCode": "BE-VLG",
+      "latitude": 51.16558,
+      "longitude": 4.83402
+    },
+    {
+      "id": 2789733,
+      "name": "East Flanders Province",
+      "nativeName": "Provincie Oost-Vlaanderen",
+      "code": "BE-VLG-2789733",
+      "countryId": 2802361,
+      "countryCode": "BE",
+      "stateCode": "BE-VLG",
+      "latitude": 51,
+      "longitude": 3.75
+    },
+    {
+      "id": 3333250,
+      "name": "Flemish Brabant Province",
+      "nativeName": "Provincie Vlaams-Brabant",
+      "code": "BE-VLG-3333250",
+      "countryId": 2802361,
+      "countryCode": "BE",
+      "stateCode": "BE-VLG",
+      "latitude": 50.91667,
+      "longitude": 4.58333
+    },
+    {
+      "id": 2792347,
+      "name": "Limburg Province",
+      "nativeName": "Provincie Limburg",
+      "code": "BE-VLG-2792347",
+      "countryId": 2802361,
+      "countryCode": "BE",
+      "stateCode": "BE-VLG",
+      "latitude": 51,
+      "longitude": 5.5
+    },
+    {
+      "id": 2783770,
+      "name": "West Flanders",
+      "nativeName": "Provincie West-Vlaanderen",
+      "code": "BE-VLG-2783770",
+      "countryId": 2802361,
+      "countryCode": "BE",
+      "stateCode": "BE-VLG",
+      "latitude": 51,
+      "longitude": 3
+    }
+  ]
+}

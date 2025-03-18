@@ -1,0 +1,51 @@
+{
+  "stateId": 7280679,
+  "stateCode": "TJ-DU",
+  "countryCode": "TJ",
+  "cities": [
+    {
+      "id": 1221873,
+      "name": "Dushanbe",
+      "nativeName": "Dushanbe",
+      "code": "TJ-DU-1221873",
+      "countryId": 1220409,
+      "countryCode": "TJ",
+      "stateCode": "TJ-DU",
+      "latitude": 38.57335,
+      "longitude": 68.77874
+    },
+    {
+      "id": 1220859,
+      "name": "Oktyabr’skiy Rayon",
+      "nativeName": "Oktyabr’skiy Rayon",
+      "code": "TJ-DU-1220859",
+      "countryId": 1220409,
+      "countryCode": "TJ",
+      "stateCode": "TJ-DU",
+      "latitude": 38.55,
+      "longitude": 68.8
+    },
+    {
+      "id": 1220319,
+      "name": "Tsentral’nyy Rayon",
+      "nativeName": "Tsentral’nyy Rayon",
+      "code": "TJ-DU-1220319",
+      "countryId": 1220409,
+      "countryCode": "TJ",
+      "stateCode": "TJ-DU",
+      "latitude": 38.55,
+      "longitude": 68.8
+    },
+    {
+      "id": 1220048,
+      "name": "Zheleznodorozhnyy Rayon",
+      "nativeName": "Zheleznodorozhnyy Rayon",
+      "code": "TJ-DU-1220048",
+      "countryId": 1220409,
+      "countryCode": "TJ",
+      "stateCode": "TJ-DU",
+      "latitude": 38.55,
+      "longitude": 68.8
+    }
+  ]
+}

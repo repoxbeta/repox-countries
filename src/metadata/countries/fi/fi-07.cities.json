@@ -1,0 +1,29 @@
+{
+  "stateId": 830675,
+  "stateCode": "FI-07",
+  "countryCode": "FI",
+  "cities": [
+    {
+      "id": 9610670,
+      "name": "Kaustinen",
+      "nativeName": "Kaustinen",
+      "code": "FI-07-9610670",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-07",
+      "latitude": 63.47159,
+      "longitude": 24.22953
+    },
+    {
+      "id": 9610671,
+      "name": "Kokkola",
+      "nativeName": "Kokkola",
+      "code": "FI-07-9610671",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-07",
+      "latitude": 63.85414,
+      "longitude": 23.58562
+    }
+  ]
+}

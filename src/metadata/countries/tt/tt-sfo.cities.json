@@ -1,0 +1,161 @@
+{
+  "stateId": 3573739,
+  "stateCode": "TT-SFO",
+  "countryCode": "TT",
+  "cities": [
+    {
+      "id": 3573738,
+      "name": "San Fernando",
+      "nativeName": "San Fernando",
+      "code": "TT-SFO-3573738",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-SFO",
+      "latitude": 10.27969,
+      "longitude": -61.46835
+    },
+    {
+      "id": 3574757,
+      "name": "Coffee",
+      "nativeName": "Coffee",
+      "code": "TT-SFO-3574757",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-SFO",
+      "latitude": 10.26813,
+      "longitude": -61.46074
+    },
+    {
+      "id": 8710005,
+      "name": "La Pique",
+      "nativeName": "La Pique",
+      "code": "TT-SFO-8710005",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-SFO",
+      "latitude": 10.27986,
+      "longitude": -61.46427
+    },
+    {
+      "id": 8710030,
+      "name": "La Romain",
+      "nativeName": "La Romain",
+      "code": "TT-SFO-8710030",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-SFO",
+      "latitude": 10.24955,
+      "longitude": -61.48351
+    },
+    {
+      "id": 3574194,
+      "name": "Marabella",
+      "nativeName": "Marabella",
+      "code": "TT-SFO-3574194",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-SFO",
+      "latitude": 10.30618,
+      "longitude": -61.44671
+    },
+    {
+      "id": 3574116,
+      "name": "Mon Repos",
+      "nativeName": "Mon Repos",
+      "code": "TT-SFO-3574116",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-SFO",
+      "latitude": 10.27979,
+      "longitude": -61.4459
+    },
+    {
+      "id": 8710029,
+      "name": "Palmiste",
+      "nativeName": "Palmiste",
+      "code": "TT-SFO-8710029",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-SFO",
+      "latitude": 10.26265,
+      "longitude": -61.46482
+    },
+    {
+      "id": 8710028,
+      "name": "Pleasantville",
+      "nativeName": "Pleasantville",
+      "code": "TT-SFO-8710028",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-SFO",
+      "latitude": 10.26871,
+      "longitude": -61.45484
+    },
+    {
+      "id": 3573775,
+      "name": "Saint Joseph",
+      "nativeName": "Saint Joseph",
+      "code": "TT-SFO-3573775",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-SFO",
+      "latitude": 10.28448,
+      "longitude": -61.44697
+    },
+    {
+      "id": 8710004,
+      "name": "Spring Vale",
+      "nativeName": "Spring Vale",
+      "code": "TT-SFO-8710004",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-SFO",
+      "latitude": 10.28668,
+      "longitude": -61.46252
+    },
+    {
+      "id": 3573568,
+      "name": "Union",
+      "nativeName": "Union",
+      "code": "TT-SFO-3573568",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-SFO",
+      "latitude": 10.30212,
+      "longitude": -61.44043
+    },
+    {
+      "id": 3573569,
+      "name": "Union",
+      "nativeName": "Union",
+      "code": "TT-SFO-3573569",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-SFO",
+      "latitude": 10.30144,
+      "longitude": -61.43613
+    },
+    {
+      "id": 3573550,
+      "name": "Victoria",
+      "nativeName": "Victoria",
+      "code": "TT-SFO-3573550",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-SFO",
+      "latitude": 10.26119,
+      "longitude": -61.45474
+    },
+    {
+      "id": 3573547,
+      "name": "Vistabella",
+      "nativeName": "Vistabella",
+      "code": "TT-SFO-3573547",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-SFO",
+      "latitude": 10.2892,
+      "longitude": -61.45414
+    }
+  ]
+}

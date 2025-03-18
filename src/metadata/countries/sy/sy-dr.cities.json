@@ -1,0 +1,40 @@
+{
+  "stateId": 170903,
+  "stateCode": "SY-DR",
+  "countryCode": "SY",
+  "cities": [
+    {
+      "id": 8276863,
+      "name": "Al-Sanamayn District",
+      "nativeName": "Al-Sanamayn District",
+      "code": "SY-DR-8276863",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-DR",
+      "latitude": 33.12559,
+      "longitude": 36.2754
+    },
+    {
+      "id": 170904,
+      "name": "Daraa District",
+      "nativeName": "Daraa District",
+      "code": "SY-DR-170904",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-DR",
+      "latitude": 32.63144,
+      "longitude": 36.20352
+    },
+    {
+      "id": 169339,
+      "name": "Izra District",
+      "nativeName": "Izra District",
+      "code": "SY-DR-169339",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-DR",
+      "latitude": 32.90121,
+      "longitude": 36.16144
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "stateId": 3344907,
+  "stateCode": "SI-174",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3192570,
+      "name": "Prebold",
+      "nativeName": "Prebold",
+      "code": "SI-174-3192570",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-174",
+      "latitude": 46.23694,
+      "longitude": 15.0925
+    },
+    {
+      "id": 8986894,
+      "name": "Dolenja Vas",
+      "nativeName": "Dolenja Vas",
+      "code": "SI-174-8986894",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-174",
+      "latitude": 46.24093,
+      "longitude": 15.09494
+    },
+    {
+      "id": 3199659,
+      "name": "Grajska Vas",
+      "nativeName": "Grajska Vas",
+      "code": "SI-174-3199659",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-174",
+      "latitude": 46.23924,
+      "longitude": 15.05498
+    },
+    {
+      "id": 3217217,
+      "name": "Groblje",
+      "nativeName": "Groblje",
+      "code": "SI-174-3217217",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-174",
+      "latitude": 46.25472,
+      "longitude": 15.09722
+    },
+    {
+      "id": 8987042,
+      "name": "Kaplja Vas",
+      "nativeName": "Kaplja Vas",
+      "code": "SI-174-8987042",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-174",
+      "latitude": 46.23722,
+      "longitude": 15.07458
+    },
+    {
+      "id": 3338874,
+      "name": "Latkova Vas",
+      "nativeName": "Latkova Vas",
+      "code": "SI-174-3338874",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-174",
+      "latitude": 46.25389,
+      "longitude": 15.09333
+    },
+    {
+      "id": 3216194,
+      "name": "Marija Reka",
+      "nativeName": "Marija Reka",
+      "code": "SI-174-3216194",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-174",
+      "latitude": 46.20833,
+      "longitude": 15.065
+    },
+    {
+      "id": 8987002,
+      "name": "Matke",
+      "nativeName": "Matke",
+      "code": "SI-174-8987002",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-174",
+      "latitude": 46.20841,
+      "longitude": 15.11614
+    },
+    {
+      "id": 3195160,
+      "name": "Miklavž pri Taboru",
+      "nativeName": "Miklavž pri Taboru",
+      "code": "SI-174-3195160",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-174",
+      "latitude": 46.21197,
+      "longitude": 15.02808
+    },
+    {
+      "id": 8987006,
+      "name": "Sv. Lovrenc",
+      "nativeName": "Sv. Lovrenc",
+      "code": "SI-174-8987006",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-174",
+      "latitude": 46.23084,
+      "longitude": 15.10783
+    }
+  ]
+}

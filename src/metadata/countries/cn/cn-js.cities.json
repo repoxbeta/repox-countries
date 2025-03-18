@@ -1,0 +1,150 @@
+{
+  "stateId": 1806260,
+  "stateCode": "CN-JS",
+  "countryCode": "CN",
+  "cities": [
+    {
+      "id": 1815454,
+      "name": "Changzhou Shi",
+      "nativeName": "Changzhou Shi",
+      "code": "CN-JS-1815454",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-JS",
+      "latitude": 31.66715,
+      "longitude": 119.66527
+    },
+    {
+      "id": 1807649,
+      "name": "Huai’an Shi",
+      "nativeName": "Huai’an Shi",
+      "code": "CN-JS-1807649",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-JS",
+      "latitude": 33.31162,
+      "longitude": 119.04559
+    },
+    {
+      "id": 1803847,
+      "name": "Lianyungang Shi",
+      "nativeName": "Lianyungang Shi",
+      "code": "CN-JS-1803847",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-JS",
+      "latitude": 34.54844,
+      "longitude": 119.11228
+    },
+    {
+      "id": 1799960,
+      "name": "Nanjing",
+      "nativeName": "Nanjing Shi",
+      "code": "CN-JS-1799960",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-JS",
+      "latitude": 31.96572,
+      "longitude": 118.87294
+    },
+    {
+      "id": 1799719,
+      "name": "Nantong Shi",
+      "nativeName": "Nantong Shi",
+      "code": "CN-JS-1799719",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-JS",
+      "latitude": 32.26264,
+      "longitude": 121.03677
+    },
+    {
+      "id": 1793770,
+      "name": "Suqian Shi",
+      "nativeName": "Suqian Shi",
+      "code": "CN-JS-1793770",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-JS",
+      "latitude": 33.8478,
+      "longitude": 118.52941
+    },
+    {
+      "id": 1881771,
+      "name": "Suzhou Shi",
+      "nativeName": "Suzhou Shi",
+      "code": "CN-JS-1881771",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-JS",
+      "latitude": 31.46054,
+      "longitude": 120.89493
+    },
+    {
+      "id": 1793502,
+      "name": "Taizhou Shi",
+      "nativeName": "Taizhou Shi",
+      "code": "CN-JS-1793502",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-JS",
+      "latitude": 32.56505,
+      "longitude": 120.09398
+    },
+    {
+      "id": 1790902,
+      "name": "Wuxi Shi",
+      "nativeName": "Wuxi Shi",
+      "code": "CN-JS-1790902",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-JS",
+      "latitude": 31.44669,
+      "longitude": 120.20944
+    },
+    {
+      "id": 1787823,
+      "name": "Xuzhou",
+      "nativeName": "Xuzhou",
+      "code": "CN-JS-1787823",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-JS",
+      "latitude": 34.26258,
+      "longitude": 117.54903
+    },
+    {
+      "id": 1787743,
+      "name": "Yancheng Shi",
+      "nativeName": "Yancheng Shi",
+      "code": "CN-JS-1787743",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-JS",
+      "latitude": 33.55097,
+      "longitude": 120.21301
+    },
+    {
+      "id": 1787226,
+      "name": "Yangzhou Shi",
+      "nativeName": "Yangzhou Shi",
+      "code": "CN-JS-1787226",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-JS",
+      "latitude": 32.73198,
+      "longitude": 119.52527
+    },
+    {
+      "id": 1784640,
+      "name": "Zhenjiang Shi",
+      "nativeName": "Zhenjiang Shi",
+      "code": "CN-JS-1784640",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-JS",
+      "latitude": 32.03371,
+      "longitude": 119.51839
+    }
+  ]
+}

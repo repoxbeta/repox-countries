@@ -1,0 +1,183 @@
+{
+  "stateId": 2275344,
+  "stateCode": "LR-LO",
+  "countryCode": "LR",
+  "cities": [
+    {
+      "id": 2278307,
+      "name": "Bonde-Wubomai",
+      "nativeName": "Bonde-Wubomai",
+      "code": "LR-LO-2278307",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-LO",
+      "latitude": 8.25694,
+      "longitude": -9.715
+    },
+    {
+      "id": 9645106,
+      "name": "Foya District",
+      "nativeName": "Foya District",
+      "code": "LR-LO-9645106",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-LO",
+      "latitude": 8.37031,
+      "longitude": -10.21993
+    },
+    {
+      "id": 2277102,
+      "name": "Gbalein Faala",
+      "nativeName": "Gbalein Faala",
+      "code": "LR-LO-2277102",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-LO",
+      "latitude": 7.45139,
+      "longitude": -9.58194
+    },
+    {
+      "id": 2277082,
+      "name": "Gbandi",
+      "nativeName": "Gbandi",
+      "code": "LR-LO-2277082",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-LO",
+      "latitude": 8.06667,
+      "longitude": -10.21667
+    },
+    {
+      "id": 2276828,
+      "name": "Gizima-Ziema",
+      "nativeName": "Gizima-Ziema",
+      "code": "LR-LO-2276828",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-LO",
+      "latitude": 7.83778,
+      "longitude": -9.66694
+    },
+    {
+      "id": 2569974,
+      "name": "Guma",
+      "nativeName": "Guma",
+      "code": "LR-LO-2569974",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-LO",
+      "latitude": 8.06139,
+      "longitude": -10.41389
+    },
+    {
+      "id": 2276555,
+      "name": "Guma-Mendi",
+      "nativeName": "Guma-Mendi",
+      "code": "LR-LO-2276555",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-LO",
+      "latitude": 8,
+      "longitude": -10.41667
+    },
+    {
+      "id": 2276054,
+      "name": "Kambo Hills",
+      "nativeName": "Kambo Hills",
+      "code": "LR-LO-2276054",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-LO",
+      "latitude": 8.12556,
+      "longitude": -10.42778
+    },
+    {
+      "id": 2275898,
+      "name": "Kisi",
+      "nativeName": "Kisi",
+      "code": "LR-LO-2275898",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-LO",
+      "latitude": 8.37583,
+      "longitude": -10.24528
+    },
+    {
+      "id": 9645107,
+      "name": "Kolahun District",
+      "nativeName": "Kolahun District",
+      "code": "LR-LO-9645107",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-LO",
+      "latitude": 8.1036,
+      "longitude": -10.16115
+    },
+    {
+      "id": 9645112,
+      "name": "Quardu Gboni District",
+      "nativeName": "Quardu Gboni District",
+      "code": "LR-LO-9645112",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-LO",
+      "latitude": 8.36774,
+      "longitude": -9.61487
+    },
+    {
+      "id": 9645111,
+      "name": "Salayea District",
+      "nativeName": "Salayea District",
+      "code": "LR-LO-9645111",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-LO",
+      "latitude": 7.45629,
+      "longitude": -9.56748
+    },
+    {
+      "id": 9645009,
+      "name": "Vahun District",
+      "nativeName": "Vahun District",
+      "code": "LR-LO-9645009",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-LO",
+      "latitude": 8.04665,
+      "longitude": -10.49068
+    },
+    {
+      "id": 9645108,
+      "name": "Voinjama District",
+      "nativeName": "Voinjama District",
+      "code": "LR-LO-9645108",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-LO",
+      "latitude": 8.25615,
+      "longitude": -9.84336
+    },
+    {
+      "id": 2273272,
+      "name": "Waiglomai-Woniglomai",
+      "nativeName": "Waiglomai-Woniglomai",
+      "code": "LR-LO-2273272",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-LO",
+      "latitude": 8.36528,
+      "longitude": -9.59722
+    },
+    {
+      "id": 9645110,
+      "name": "Zorzor District",
+      "nativeName": "Zorzor District",
+      "code": "LR-LO-9645110",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-LO",
+      "latitude": 7.90228,
+      "longitude": -9.64904
+    }
+  ]
+}

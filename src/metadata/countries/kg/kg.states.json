@@ -1,0 +1,105 @@
+{
+  "countryId": 1527747,
+  "countryCode": "KG",
+  "states": [
+    {
+      "id": 1463580,
+      "name": "Batken",
+      "nativeName": "Batken",
+      "code": "KG-B",
+      "internalCode": "B",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "latitude": 39.83333,
+      "longitude": 71
+    },
+    {
+      "id": 1538652,
+      "name": "Chuy Region",
+      "nativeName": "Chuyskaya Oblast’",
+      "code": "KG-C",
+      "internalCode": "C",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "latitude": 42.41667,
+      "longitude": 74.5
+    },
+    {
+      "id": 1528334,
+      "name": "Gorod Bishkek",
+      "nativeName": "Gorod Bishkek",
+      "code": "KG-GB",
+      "internalCode": "GB",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "latitude": 42.86667,
+      "longitude": 74.6
+    },
+    {
+      "id": 1528260,
+      "name": "Issyk-Kul",
+      "nativeName": "Issyk-Kul Region",
+      "code": "KG-Y",
+      "internalCode": "Y",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "latitude": 42,
+      "longitude": 78
+    },
+    {
+      "id": 1529778,
+      "name": "Jalal-Abad Region",
+      "nativeName": "Jalal-Abad oblast",
+      "code": "KG-J",
+      "internalCode": "J",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "latitude": 41.5,
+      "longitude": 72.5
+    },
+    {
+      "id": 1527590,
+      "name": "Naryn Region",
+      "nativeName": "Naryn oblast",
+      "code": "KG-N",
+      "internalCode": "N",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "latitude": 41.43333,
+      "longitude": 75.96667
+    },
+    {
+      "id": 10300944,
+      "name": "Osh City",
+      "nativeName": "Osh City",
+      "code": "KG-GO",
+      "internalCode": "GO",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "latitude": 40.54446,
+      "longitude": 72.79387
+    },
+    {
+      "id": 1346798,
+      "name": "Osh Region",
+      "nativeName": "Osh Oblasty",
+      "code": "KG-O",
+      "internalCode": "O",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "latitude": 40,
+      "longitude": 73
+    },
+    {
+      "id": 1527297,
+      "name": "Talas Region",
+      "nativeName": "Talas",
+      "code": "KG-T",
+      "internalCode": "T",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "latitude": 42.33333,
+      "longitude": 72
+    }
+  ]
+}

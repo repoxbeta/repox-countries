@@ -1,0 +1,62 @@
+{
+  "stateId": 11281878,
+  "stateCode": "MA-05",
+  "countryCode": "MA",
+  "cities": [
+    {
+      "id": 2556569,
+      "name": "Azilal Province",
+      "nativeName": "Azilal Province",
+      "code": "MA-05-2556569",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-05",
+      "latitude": 31.91667,
+      "longitude": -6.5
+    },
+    {
+      "id": 2555742,
+      "name": "Beni-Mellal",
+      "nativeName": "Beni-Mellal",
+      "code": "MA-05-2555742",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-05",
+      "latitude": 32.5,
+      "longitude": -6.33333
+    },
+    {
+      "id": 11282175,
+      "name": "Fquih Ben Salah Province",
+      "nativeName": "Fquih Ben Salah Province",
+      "code": "MA-05-11282175",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-05",
+      "latitude": 32.50108,
+      "longitude": -6.68415
+    },
+    {
+      "id": 2544246,
+      "name": "Khouribga Province",
+      "nativeName": "Khouribga Province",
+      "code": "MA-05-2544246",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-05",
+      "latitude": 32.93333,
+      "longitude": -6.6
+    },
+    {
+      "id": 2544331,
+      "name": "Khénifra Province",
+      "nativeName": "Khenifra",
+      "code": "MA-05-2544331",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-05",
+      "latitude": 32.93333,
+      "longitude": -5.66667
+    }
+  ]
+}

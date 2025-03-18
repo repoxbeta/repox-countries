@@ -1,0 +1,161 @@
+{
+  "stateId": 2472699,
+  "stateCode": "TN-23",
+  "countryCode": "TN",
+  "cities": [
+    {
+      "id": 11108357,
+      "name": "Bizerte Nord",
+      "nativeName": "Bizerte Nord",
+      "code": "TN-23-11108357",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-23",
+      "latitude": 37.30839,
+      "longitude": 9.83243
+    },
+    {
+      "id": 2472701,
+      "name": "Bizerte Sud",
+      "nativeName": "Bizerte Sud",
+      "code": "TN-23-2472701",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-23",
+      "latitude": 37.25528,
+      "longitude": 9.67915
+    },
+    {
+      "id": 7870602,
+      "name": "Djoumine",
+      "nativeName": "Joumine",
+      "code": "TN-23-7870602",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-23",
+      "latitude": 36.88605,
+      "longitude": 9.42128
+    },
+    {
+      "id": 11108360,
+      "name": "El Alia",
+      "nativeName": "El Alia",
+      "code": "TN-23-11108360",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-23",
+      "latitude": 37.15773,
+      "longitude": 9.99553
+    },
+    {
+      "id": 11108361,
+      "name": "Ghar El Meleh",
+      "nativeName": "Ghar El Melh",
+      "code": "TN-23-11108361",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-23",
+      "latitude": 37.17091,
+      "longitude": 10.10401
+    },
+    {
+      "id": 7870603,
+      "name": "Ghezala",
+      "nativeName": "Ghazala",
+      "code": "TN-23-7870603",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-23",
+      "latitude": 37.07866,
+      "longitude": 9.51048
+    },
+    {
+      "id": 2469086,
+      "name": "Mateur",
+      "nativeName": "Mateur",
+      "code": "TN-23-2469086",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-23",
+      "latitude": 37,
+      "longitude": 9.66667
+    },
+    {
+      "id": 2469263,
+      "name": "Menzel Bourguiba",
+      "nativeName": "Mu‘tamadīyat Manzil Bū Ruqaybah",
+      "code": "TN-23-2469263",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-23",
+      "latitude": 37.13382,
+      "longitude": 9.79494
+    },
+    {
+      "id": 11108359,
+      "name": "Menzel Djemil",
+      "nativeName": "Menzel Jemil",
+      "code": "TN-23-11108359",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-23",
+      "latitude": 37.22552,
+      "longitude": 9.95108
+    },
+    {
+      "id": 2467731,
+      "name": "Ras Djebel",
+      "nativeName": "Mu‘tamadīyat Ra’s al Jabal",
+      "code": "TN-23-2467731",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-23",
+      "latitude": 37.21124,
+      "longitude": 10.13457
+    },
+    {
+      "id": 7870601,
+      "name": "Sedjnane",
+      "nativeName": "Sejnane",
+      "code": "TN-23-7870601",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-23",
+      "latitude": 37.13269,
+      "longitude": 9.3041
+    },
+    {
+      "id": 11108355,
+      "name": "Tinja",
+      "nativeName": "Tinja",
+      "code": "TN-23-11108355",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-23",
+      "latitude": 37.12307,
+      "longitude": 9.7409
+    },
+    {
+      "id": 11108356,
+      "name": "Utique",
+      "nativeName": "Utique",
+      "code": "TN-23-11108356",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-23",
+      "latitude": 37.05038,
+      "longitude": 9.97594
+    },
+    {
+      "id": 11108358,
+      "name": "Zarzouna",
+      "nativeName": "Zarzouna",
+      "code": "TN-23-11108358",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-23",
+      "latitude": 37.2598,
+      "longitude": 9.8863
+    }
+  ]
+}

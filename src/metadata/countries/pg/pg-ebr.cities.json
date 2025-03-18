@@ -1,0 +1,51 @@
+{
+  "stateId": 2097853,
+  "stateCode": "PG-EBR",
+  "countryCode": "PG",
+  "cities": [
+    {
+      "id": 8657207,
+      "name": "Gazelle",
+      "nativeName": "Gazelle",
+      "code": "PG-EBR-8657207",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-EBR",
+      "latitude": -4.48333,
+      "longitude": 151.86667
+    },
+    {
+      "id": 2093683,
+      "name": "Kokopo District",
+      "nativeName": "Kokopo",
+      "code": "PG-EBR-2093683",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-EBR",
+      "latitude": -4.4,
+      "longitude": 152.28333
+    },
+    {
+      "id": 2088199,
+      "name": "Pomio District",
+      "nativeName": "Pomio",
+      "code": "PG-EBR-2088199",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-EBR",
+      "latitude": -5.5,
+      "longitude": 151.33333
+    },
+    {
+      "id": 2087893,
+      "name": "Rabaul",
+      "nativeName": "Rabaul",
+      "code": "PG-EBR-2087893",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-EBR",
+      "latitude": -4.18333,
+      "longitude": 152.16667
+    }
+  ]
+}

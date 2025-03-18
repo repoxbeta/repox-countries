@@ -1,0 +1,40 @@
+{
+  "stateId": 7303653,
+  "stateCode": "BT-TY",
+  "countryCode": "BT",
+  "cities": [
+    {
+      "id": 1252422,
+      "name": "Trashi Yangtse",
+      "nativeName": "Trashi Yangtse",
+      "code": "BT-TY-1252422",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-TY",
+      "latitude": 27.6116,
+      "longitude": 91.498
+    },
+    {
+      "id": 8431133,
+      "name": "Drakhāng",
+      "nativeName": "Drakhāng",
+      "code": "BT-TY-8431133",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-TY",
+      "latitude": 27.73228,
+      "longitude": 91.70901
+    },
+    {
+      "id": 12719860,
+      "name": "Jamkhar Gewog",
+      "nativeName": "Jamkhar Gewog",
+      "code": "BT-TY-12719860",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-TY",
+      "latitude": 27.407,
+      "longitude": 91.509
+    }
+  ]
+}

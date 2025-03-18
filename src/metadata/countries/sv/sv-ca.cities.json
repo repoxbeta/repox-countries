@@ -1,0 +1,29 @@
+{
+  "stateId": 3587217,
+  "stateCode": "SV-CA",
+  "countryCode": "SV",
+  "cities": [
+    {
+      "id": 12916937,
+      "name": "Cabañas Este",
+      "nativeName": "Cabañas Este",
+      "code": "SV-CA-12916937",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-CA",
+      "latitude": 13.89802,
+      "longitude": -88.6227
+    },
+    {
+      "id": 12916957,
+      "name": "Cabañas Oeste",
+      "nativeName": "Cabañas Oeste",
+      "code": "SV-CA-12916957",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-CA",
+      "latitude": 13.86553,
+      "longitude": -88.8399
+    }
+  ]
+}

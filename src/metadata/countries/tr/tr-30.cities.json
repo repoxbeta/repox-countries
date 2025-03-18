@@ -1,0 +1,40 @@
+{
+  "stateId": 312888,
+  "stateCode": "TR-30",
+  "countryCode": "TR",
+  "cities": [
+    {
+      "id": 7733232,
+      "name": "Yüksekova",
+      "nativeName": "Yüksekova",
+      "code": "TR-30-7733232",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-30",
+      "latitude": 37.54627,
+      "longitude": 44.25827
+    },
+    {
+      "id": 8630851,
+      "name": "Çukurca İlçesi",
+      "nativeName": "Çukurca İlçesi",
+      "code": "TR-30-8630851",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-30",
+      "latitude": 37.25492,
+      "longitude": 43.62121
+    },
+    {
+      "id": 8630849,
+      "name": "Şemdinni İlçesi",
+      "nativeName": "Şemdinni İlçesi",
+      "code": "TR-30-8630849",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-30",
+      "latitude": 37.31325,
+      "longitude": 44.58016
+    }
+  ]
+}

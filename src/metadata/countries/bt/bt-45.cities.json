@@ -1,0 +1,84 @@
+{
+  "stateId": 1337290,
+  "stateCode": "BT-45",
+  "countryCode": "BT",
+  "cities": [
+    {
+      "id": 1337388,
+      "name": "Samdrup Jongkhar",
+      "nativeName": "Samdrup Jongkhar",
+      "code": "BT-45-1337388",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-45",
+      "latitude": 26.80069,
+      "longitude": 91.50519
+    },
+    {
+      "id": 1337387,
+      "name": "Bhangtar",
+      "nativeName": "Bhangtar",
+      "code": "BT-45-1337387",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-45",
+      "latitude": 26.81667,
+      "longitude": 91.71667
+    },
+    {
+      "id": 1337386,
+      "name": "Daifam",
+      "nativeName": "Daifam",
+      "code": "BT-45-1337386",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-45",
+      "latitude": 26.9,
+      "longitude": 92.1
+    },
+    {
+      "id": 10173480,
+      "name": "Deothang",
+      "nativeName": "Deothang",
+      "code": "BT-45-10173480",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-45",
+      "latitude": 26.89,
+      "longitude": 91.5
+    },
+    {
+      "id": 1252597,
+      "name": "Dewāngiri",
+      "nativeName": "Dewāngiri",
+      "code": "BT-45-1252597",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-45",
+      "latitude": 26.86667,
+      "longitude": 91.46667
+    },
+    {
+      "id": 1337357,
+      "name": "Nganglam",
+      "nativeName": "Nganglam",
+      "code": "BT-45-1337357",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-45",
+      "latitude": 26.78333,
+      "longitude": 91.25
+    },
+    {
+      "id": 8740320,
+      "name": "Nganglam New",
+      "nativeName": "Nganglam New",
+      "code": "BT-45-8740320",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-45",
+      "latitude": 26.81771,
+      "longitude": 91.24836
+    }
+  ]
+}

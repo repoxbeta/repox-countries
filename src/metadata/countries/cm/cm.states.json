@@ -1,0 +1,116 @@
+{
+  "countryId": 2233387,
+  "countryCode": "CM",
+  "states": [
+    {
+      "id": 2236015,
+      "name": "Adamaoua",
+      "nativeName": "Adamaoua Region",
+      "code": "CM-AD",
+      "internalCode": "AD",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "latitude": 6.83333,
+      "longitude": 13.25
+    },
+    {
+      "id": 2233376,
+      "name": "Centre",
+      "nativeName": "Centre Region",
+      "code": "CM-CE",
+      "internalCode": "CE",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "latitude": 4.75,
+      "longitude": 11.83333
+    },
+    {
+      "id": 2231835,
+      "name": "East",
+      "nativeName": "East Region",
+      "code": "CM-ES",
+      "internalCode": "ES",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "latitude": 3.83333,
+      "longitude": 14.16667
+    },
+    {
+      "id": 2231755,
+      "name": "Far North",
+      "nativeName": "Far North Region",
+      "code": "CM-EN",
+      "internalCode": "EN",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "latitude": 11,
+      "longitude": 14.5
+    },
+    {
+      "id": 2229336,
+      "name": "Littoral",
+      "nativeName": "Littoral Region",
+      "code": "CM-LT",
+      "internalCode": "LT",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "latitude": 4.26667,
+      "longitude": 10.13333
+    },
+    {
+      "id": 2223603,
+      "name": "North",
+      "nativeName": "North Region",
+      "code": "CM-NO",
+      "internalCode": "NO",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "latitude": 8.5,
+      "longitude": 14
+    },
+    {
+      "id": 2223602,
+      "name": "North-West",
+      "nativeName": "North-West Region",
+      "code": "CM-NW",
+      "internalCode": "NW",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "latitude": 6.36667,
+      "longitude": 10.36667
+    },
+    {
+      "id": 2221789,
+      "name": "South",
+      "nativeName": "South Region",
+      "code": "CM-SU",
+      "internalCode": "SU",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "latitude": 2.75,
+      "longitude": 11.58333
+    },
+    {
+      "id": 2221788,
+      "name": "South-West",
+      "nativeName": "South-West Region",
+      "code": "CM-SW",
+      "internalCode": "SW",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "latitude": 5.2,
+      "longitude": 9.3
+    },
+    {
+      "id": 2222934,
+      "name": "West",
+      "nativeName": "West Region",
+      "code": "CM-OU",
+      "internalCode": "OU",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "latitude": 5.5,
+      "longitude": 10.66667
+    }
+  ]
+}

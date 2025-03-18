@@ -1,0 +1,51 @@
+{
+  "stateId": 8335086,
+  "stateCode": "GN-F",
+  "countryCode": "GN",
+  "cities": [
+    {
+      "id": 2421272,
+      "name": "Faranah Prefecture",
+      "nativeName": "Faranah Prefecture",
+      "code": "GN-F-2421272",
+      "countryId": 2420477,
+      "countryCode": "GN",
+      "stateCode": "GN-F",
+      "latitude": 10,
+      "longitude": -10.83333
+    },
+    {
+      "id": 2419470,
+      "name": "Préfecture  Kissidougou",
+      "nativeName": "Kissidougou",
+      "code": "GN-F-2419470",
+      "countryId": 2420477,
+      "countryCode": "GN",
+      "stateCode": "GN-F",
+      "latitude": 9.25,
+      "longitude": -9.91667
+    },
+    {
+      "id": 2422441,
+      "name": "Préfecture de Dabola",
+      "nativeName": "Dabola",
+      "code": "GN-F-2422441",
+      "countryId": 2420477,
+      "countryCode": "GN",
+      "stateCode": "GN-F",
+      "latitude": 10.6,
+      "longitude": -11.11667
+    },
+    {
+      "id": 2421902,
+      "name": "Préfecture de Dinguiraye",
+      "nativeName": "Dinguiraye Prefecture",
+      "code": "GN-F-2421902",
+      "countryId": 2420477,
+      "countryCode": "GN",
+      "stateCode": "GN-F",
+      "latitude": 11.545,
+      "longitude": -10.675
+    }
+  ]
+}

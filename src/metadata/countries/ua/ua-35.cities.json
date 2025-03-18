@@ -1,0 +1,51 @@
+{
+  "stateId": 705811,
+  "stateCode": "UA-35",
+  "countryCode": "UA",
+  "cities": [
+    {
+      "id": 708583,
+      "name": "Holovanivsk Raion",
+      "nativeName": "Holovanivsk Raion",
+      "code": "UA-35-708583",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-35",
+      "latitude": 48.3873,
+      "longitude": 30.45819
+    },
+    {
+      "id": 705813,
+      "name": "Kropyvnytskyi Raion",
+      "nativeName": "Kropyvnytskyy Raion",
+      "code": "UA-35-705813",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-35",
+      "latitude": 48.52047,
+      "longitude": 32.21998
+    },
+    {
+      "id": 699073,
+      "name": "Novoukrainka Raion",
+      "nativeName": "Novoukrayinka Raion",
+      "code": "UA-35-699073",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-35",
+      "latitude": 48.31691,
+      "longitude": 31.52202
+    },
+    {
+      "id": 709226,
+      "name": "Oleksandriya Raion",
+      "nativeName": "Oleksandriya Raion",
+      "code": "UA-35-709226",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-35",
+      "latitude": 48.6662,
+      "longitude": 33.11219
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "stateId": 64538,
+  "stateCode": "SO-BY",
+  "countryCode": "SO",
+  "cities": [
+    {
+      "id": 9179986,
+      "name": "Baidoa",
+      "nativeName": "Baidoa",
+      "code": "SO-BY-9179986",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-BY",
+      "latitude": 3.11667,
+      "longitude": 43.65
+    },
+    {
+      "id": 9179671,
+      "name": "Baidoa District",
+      "nativeName": "Baydhaba",
+      "code": "SO-BY-9179671",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-BY",
+      "latitude": 3.26636,
+      "longitude": 43.63929
+    },
+    {
+      "id": 9180028,
+      "name": "Burdhubo",
+      "nativeName": "Burdhubo",
+      "code": "SO-BY-9180028",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-BY",
+      "latitude": 2.48333,
+      "longitude": 43.31667
+    },
+    {
+      "id": 9179676,
+      "name": "Burhakaba District",
+      "nativeName": "Buur Hakaba",
+      "code": "SO-BY-9179676",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-BY",
+      "latitude": 2.48537,
+      "longitude": 44.00688
+    },
+    {
+      "id": 9179677,
+      "name": "Dinsoor District",
+      "nativeName": "Diinsoor",
+      "code": "SO-BY-9179677",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-BY",
+      "latitude": 2.40941,
+      "longitude": 42.97458
+    },
+    {
+      "id": 9179615,
+      "name": "Qansax Dheere",
+      "nativeName": "Qansax Dheere",
+      "code": "SO-BY-9179615",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-BY",
+      "latitude": 2.81513,
+      "longitude": 42.84011
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "stateId": 2221789,
+  "stateCode": "CM-SU",
+  "countryCode": "CM",
+  "cities": [
+    {
+      "id": 2232969,
+      "name": "Dja-Et-Lobo",
+      "nativeName": "Dja-et-Lobo",
+      "code": "CM-SU-2232969",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-SU",
+      "latitude": 2.75,
+      "longitude": 12.91667
+    },
+    {
+      "id": 9230015,
+      "name": "Mvila",
+      "nativeName": "Mvila",
+      "code": "CM-SU-9230015",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-SU",
+      "latitude": 2.79796,
+      "longitude": 11.39434
+    },
+    {
+      "id": 2229760,
+      "name": "Ocean",
+      "nativeName": "Département de l'Océan",
+      "code": "CM-SU-2229760",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-SU",
+      "latitude": 2.75,
+      "longitude": 10.25
+    },
+    {
+      "id": 9239012,
+      "name": "Vallee-du-Ntem",
+      "nativeName": "Vallée-du-Ntem",
+      "code": "CM-SU-9239012",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-SU",
+      "latitude": 2.36667,
+      "longitude": 11.26667
+    }
+  ]
+}

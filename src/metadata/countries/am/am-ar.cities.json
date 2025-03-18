@@ -1,0 +1,62 @@
+{
+  "stateId": 409313,
+  "stateCode": "AM-AR",
+  "countryCode": "AM",
+  "cities": [
+    {
+      "id": 13133029,
+      "name": "Ararat Municipality",
+      "nativeName": "Ararat Municipality",
+      "code": "AM-AR-13133029",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-AR",
+      "latitude": 39.79494,
+      "longitude": 44.76749
+    },
+    {
+      "id": 13133028,
+      "name": "Artashat Municipality",
+      "nativeName": "Artashat Municipality",
+      "code": "AM-AR-13133028",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-AR",
+      "latitude": 39.99629,
+      "longitude": 44.56063
+    },
+    {
+      "id": 13133030,
+      "name": "Masis Municipality",
+      "nativeName": "Masis Municipality",
+      "code": "AM-AR-13133030",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-AR",
+      "latitude": 40.06956,
+      "longitude": 44.41739
+    },
+    {
+      "id": 13133031,
+      "name": "Vedi Municipality",
+      "nativeName": "Vedi Municipality",
+      "code": "AM-AR-13133031",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-AR",
+      "latitude": 39.95513,
+      "longitude": 44.91718
+    },
+    {
+      "id": 13133032,
+      "name": "Verin Dvin Municipality",
+      "nativeName": "Verin Dvin Municipality",
+      "code": "AM-AR-13133032",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-AR",
+      "latitude": 40.02331,
+      "longitude": 44.59087
+    }
+  ]
+}

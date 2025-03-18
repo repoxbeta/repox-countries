@@ -1,0 +1,73 @@
+{
+  "stateId": 8469241,
+  "stateCode": "TZ-29",
+  "countryCode": "TZ",
+  "cities": [
+    {
+      "id": 878221,
+      "name": "Ludewa District Council",
+      "nativeName": "Ludewa",
+      "code": "TZ-29-878221",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-29",
+      "latitude": -10,
+      "longitude": 34.75
+    },
+    {
+      "id": 9998174,
+      "name": "Makambako Township Authority",
+      "nativeName": "Makambako Town",
+      "code": "TZ-29-9998174",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-29",
+      "latitude": -8.87081,
+      "longitude": 34.90651
+    },
+    {
+      "id": 155165,
+      "name": "Makete District Council",
+      "nativeName": "Makete",
+      "code": "TZ-29-155165",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-29",
+      "latitude": -9.23517,
+      "longitude": 34.14219
+    },
+    {
+      "id": 151477,
+      "name": "Njombe Rural",
+      "nativeName": "Njombe District Council",
+      "code": "TZ-29-151477",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-29",
+      "latitude": -9.20909,
+      "longitude": 35.13254
+    },
+    {
+      "id": 9998175,
+      "name": "Njombe Urban",
+      "nativeName": "Njombe Town",
+      "code": "TZ-29-9998175",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-29",
+      "latitude": -9.47896,
+      "longitude": 34.84103
+    },
+    {
+      "id": 9998176,
+      "name": "Wanging'ombe",
+      "nativeName": "Wanging’ombe",
+      "code": "TZ-29-9998176",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-29",
+      "latitude": -9.02054,
+      "longitude": 34.54852
+    }
+  ]
+}

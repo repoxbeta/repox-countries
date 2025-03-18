@@ -1,0 +1,50 @@
+{
+  "countryId": 934841,
+  "countryCode": "SZ",
+  "states": [
+    {
+      "id": 935085,
+      "name": "Hhohho Region",
+      "nativeName": "Hhohho",
+      "code": "SZ-HH",
+      "internalCode": "HH",
+      "countryId": 934841,
+      "countryCode": "SZ",
+      "latitude": -26.08333,
+      "longitude": 31.33333
+    },
+    {
+      "id": 935042,
+      "name": "Lubombo Region",
+      "nativeName": "Lubombo District",
+      "code": "SZ-LU",
+      "internalCode": "LU",
+      "countryId": 934841,
+      "countryCode": "SZ",
+      "latitude": -26.5,
+      "longitude": 31.87
+    },
+    {
+      "id": 934994,
+      "name": "Manzini Region",
+      "nativeName": "Manzini",
+      "code": "SZ-MA",
+      "internalCode": "MA",
+      "countryId": 934841,
+      "countryCode": "SZ",
+      "latitude": -26.58333,
+      "longitude": 31.25
+    },
+    {
+      "id": 934867,
+      "name": "Shiselweni District",
+      "nativeName": "Shiselweni District",
+      "code": "SZ-SH",
+      "internalCode": "SH",
+      "countryId": 934841,
+      "countryCode": "SZ",
+      "latitude": -27.05,
+      "longitude": 31.4
+    }
+  ]
+}

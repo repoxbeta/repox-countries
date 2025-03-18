@@ -1,0 +1,29 @@
+{
+  "stateId": 7062136,
+  "stateCode": "EC-SD",
+  "countryCode": "EC",
+  "cities": [
+    {
+      "id": 10792565,
+      "name": "La Concordia",
+      "nativeName": "La Concordia",
+      "code": "EC-SD-10792565",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-SD",
+      "latitude": 0.00592,
+      "longitude": -79.39467
+    },
+    {
+      "id": 3651296,
+      "name": "Santo Domingo",
+      "nativeName": "Santo Domingo",
+      "code": "EC-SD-3651296",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-SD",
+      "latitude": -0.2772,
+      "longitude": -79.17648
+    }
+  ]
+}

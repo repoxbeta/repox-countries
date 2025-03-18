@@ -1,0 +1,150 @@
+{
+  "stateId": 3239216,
+  "stateCode": "SI-026",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3190199,
+      "name": "Spodnji Duplek",
+      "nativeName": "Spodnji Duplek",
+      "code": "SI-026-3190199",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-026",
+      "latitude": 46.50306,
+      "longitude": 15.74528
+    },
+    {
+      "id": 3202613,
+      "name": "Ciglence",
+      "nativeName": "Ciglence",
+      "code": "SI-026-3202613",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-026",
+      "latitude": 46.5,
+      "longitude": 15.76667
+    },
+    {
+      "id": 3339125,
+      "name": "Dvorjane",
+      "nativeName": "Dvorjane",
+      "code": "SI-026-3339125",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-026",
+      "latitude": 46.49116,
+      "longitude": 15.76336
+    },
+    {
+      "id": 3199006,
+      "name": "Jablance",
+      "nativeName": "Jablance",
+      "code": "SI-026-3199006",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-026",
+      "latitude": 46.53333,
+      "longitude": 15.76667
+    },
+    {
+      "id": 3195226,
+      "name": "Metava",
+      "nativeName": "Metava",
+      "code": "SI-026-3195226",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-026",
+      "latitude": 46.54056,
+      "longitude": 15.73392
+    },
+    {
+      "id": 8989732,
+      "name": "Spodnja Korena",
+      "nativeName": "Spodnja Korena",
+      "code": "SI-026-8989732",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-026",
+      "latitude": 46.51192,
+      "longitude": 15.76955
+    },
+    {
+      "id": 3217947,
+      "name": "Sveta Barbara",
+      "nativeName": "Sveta Barbara",
+      "code": "SI-026-3217947",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-026",
+      "latitude": 46.52111,
+      "longitude": 15.78167
+    },
+    {
+      "id": 8986955,
+      "name": "Vurberk",
+      "nativeName": "Vurberk",
+      "code": "SI-026-8986955",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-026",
+      "latitude": 46.48562,
+      "longitude": 15.78586
+    },
+    {
+      "id": 3186522,
+      "name": "Zgornja Voličina",
+      "nativeName": "Zgornja Voličina",
+      "code": "SI-026-3186522",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-026",
+      "latitude": 46.53333,
+      "longitude": 15.78333
+    },
+    {
+      "id": 3186494,
+      "name": "Zgornji Duplek",
+      "nativeName": "Zgornji Duplek",
+      "code": "SI-026-3186494",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-026",
+      "latitude": 46.51361,
+      "longitude": 15.72083
+    },
+    {
+      "id": 3186456,
+      "name": "Zimica",
+      "nativeName": "Zimica",
+      "code": "SI-026-3186456",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-026",
+      "latitude": 46.53333,
+      "longitude": 15.75
+    },
+    {
+      "id": 3339171,
+      "name": "Zgornja Korena",
+      "nativeName": "Zgornja Korena",
+      "code": "SI-026-3339171",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-026",
+      "latitude": 46.524,
+      "longitude": 15.77226
+    },
+    {
+      "id": 3186461,
+      "name": "Žikarce",
+      "nativeName": "Žikarce",
+      "code": "SI-026-3186461",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-026",
+      "latitude": 46.51944,
+      "longitude": 15.78111
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "stateId": 109470,
+  "stateCode": "SA-12",
+  "countryCode": "SA",
+  "cities": [
+    {
+      "id": 10972289,
+      "name": "Al Qurayyāt",
+      "nativeName": "Al Qurayyāt",
+      "code": "SA-12-10972289",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-12",
+      "latitude": 31.08333,
+      "longitude": 37.75
+    },
+    {
+      "id": 10972290,
+      "name": "Dawmat al Jandal",
+      "nativeName": "Dawmat al Jandal",
+      "code": "SA-12-10972290",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-12",
+      "latitude": 29.41667,
+      "longitude": 39.5
+    },
+    {
+      "id": 10972291,
+      "name": "Sakākā",
+      "nativeName": "Sakākā",
+      "code": "SA-12-10972291",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-12",
+      "latitude": 30.33333,
+      "longitude": 40
+    }
+  ]
+}

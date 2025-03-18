@@ -1,0 +1,51 @@
+{
+  "stateId": 3371202,
+  "stateCode": "NA-KU",
+  "countryCode": "NA",
+  "cities": [
+    {
+      "id": 7931901,
+      "name": "Epupa Constituency",
+      "nativeName": "Epupa Constituency",
+      "code": "NA-KU-7931901",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "stateCode": "NA-KU",
+      "latitude": -17.00388,
+      "longitude": 13.24825
+    },
+    {
+      "id": 7931904,
+      "name": "Khorixas Constituency",
+      "nativeName": "Khorixas Constituency",
+      "code": "NA-KU-7931904",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "stateCode": "NA-KU",
+      "latitude": -20.36792,
+      "longitude": 14.95996
+    },
+    {
+      "id": 7931902,
+      "name": "Opuwo Constituency",
+      "nativeName": "Opuwo Constituency",
+      "code": "NA-KU-7931902",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "stateCode": "NA-KU",
+      "latitude": -18.54247,
+      "longitude": 13.51617
+    },
+    {
+      "id": 7931903,
+      "name": "Sesfontein Constituency",
+      "nativeName": "Sesfontein Constituency",
+      "code": "NA-KU-7931903",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "stateCode": "NA-KU",
+      "latitude": -19.56106,
+      "longitude": 13.7653
+    }
+  ]
+}

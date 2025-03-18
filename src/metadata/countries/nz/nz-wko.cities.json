@@ -1,0 +1,117 @@
+{
+  "stateId": 2180293,
+  "stateCode": "NZ-WKO",
+  "countryCode": "NZ",
+  "cities": [
+    {
+      "id": 7910041,
+      "name": "Hamilton City",
+      "nativeName": "Hamilton City",
+      "code": "NZ-WKO-7910041",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-WKO",
+      "latitude": -37.7779,
+      "longitude": 175.25975
+    },
+    {
+      "id": 7910042,
+      "name": "Hauraki District",
+      "nativeName": "Hauraki District",
+      "code": "NZ-WKO-7910042",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-WKO",
+      "latitude": -37.29415,
+      "longitude": 175.58022
+    },
+    {
+      "id": 7910053,
+      "name": "Matamata-Piako District",
+      "nativeName": "Matamata-Piako District",
+      "code": "NZ-WKO-7910053",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-WKO",
+      "latitude": -37.68545,
+      "longitude": 175.67254
+    },
+    {
+      "id": 2185244,
+      "name": "Otorohanga District",
+      "nativeName": "Otorohanga District",
+      "code": "NZ-WKO-2185244",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-WKO",
+      "latitude": -38.25,
+      "longitude": 175.33333
+    },
+    {
+      "id": 7910063,
+      "name": "South Waikato District",
+      "nativeName": "South Waikato District",
+      "code": "NZ-WKO-7910063",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-WKO",
+      "latitude": -38.16797,
+      "longitude": 175.88624
+    },
+    {
+      "id": 2181743,
+      "name": "Taupo District",
+      "nativeName": "Taupo District",
+      "code": "NZ-WKO-2181743",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-WKO",
+      "latitude": -38.68333,
+      "longitude": 176.08333
+    },
+    {
+      "id": 2181244,
+      "name": "Thames-Coromandel District",
+      "nativeName": "Thames-Coromandel District",
+      "code": "NZ-WKO-2181244",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-WKO",
+      "latitude": -37,
+      "longitude": 175.66667
+    },
+    {
+      "id": 7910068,
+      "name": "Waikato District",
+      "nativeName": "Waikato District",
+      "code": "NZ-WKO-7910068",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-WKO",
+      "latitude": -37.51578,
+      "longitude": 175.10095
+    },
+    {
+      "id": 7910070,
+      "name": "Waipa District",
+      "nativeName": "Waipa District",
+      "code": "NZ-WKO-7910070",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-WKO",
+      "latitude": -37.98385,
+      "longitude": 175.35818
+    },
+    {
+      "id": 2179779,
+      "name": "Waitomo District",
+      "nativeName": "Waitomo District",
+      "code": "NZ-WKO-2179779",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-WKO",
+      "latitude": -38.5,
+      "longitude": 175
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "stateId": 1905516,
+  "stateCode": "VN-27",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 1905521,
+      "name": "Duy Xuyên District",
+      "nativeName": "Huyện Duy Xuyên",
+      "code": "VN-27-1905521",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-27",
+      "latitude": 15.8084,
+      "longitude": 108.22165
+    },
+    {
+      "id": 1905527,
+      "name": "Hiệp Đức District",
+      "nativeName": "Huyện Hiệp Đức",
+      "code": "VN-27-1905527",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-27",
+      "latitude": 15.53857,
+      "longitude": 108.09539
+    },
+    {
+      "id": 8668383,
+      "name": "Huyện Bắc Trà My",
+      "nativeName": "Huyện Bắc Trà My",
+      "code": "VN-27-8668383",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-27",
+      "latitude": 15.29835,
+      "longitude": 108.21675
+    },
+    {
+      "id": 8665308,
+      "name": "Huyện Nông Sơn",
+      "nativeName": "Huyện Nông Sơn",
+      "code": "VN-27-8665308",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-27",
+      "latitude": 15.6713,
+      "longitude": 108.00501
+    },
+    {
+      "id": 8668384,
+      "name": "Huyện Phú Ninh",
+      "nativeName": "Huyện Phú Ninh",
+      "code": "VN-27-8668384",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-27",
+      "latitude": 15.52061,
+      "longitude": 108.42305
+    },
+    {
+      "id": 8668382,
+      "name": "Huyện Tây Giang",
+      "nativeName": "Huyện Tây Giang",
+      "code": "VN-27-8668382",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-27",
+      "latitude": 15.84999,
+      "longitude": 107.4869
+    },
+    {
+      "id": 8668381,
+      "name": "Huyện Đông Giang",
+      "nativeName": "Huyện Đông Giang",
+      "code": "VN-27-8668381",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-27",
+      "latitude": 15.93785,
+      "longitude": 107.75566
+    },
+    {
+      "id": 1905525,
+      "name": "Nam Giang District",
+      "nativeName": "Huyện Nam Giang",
+      "code": "VN-27-1905525",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-27",
+      "latitude": 15.63201,
+      "longitude": 107.60267
+    },
+    {
+      "id": 1905530,
+      "name": "Nam Trà My District",
+      "nativeName": "Huyện Trà My",
+      "code": "VN-27-1905530",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-27",
+      "latitude": 15.25,
+      "longitude": 108.08333
+    },
+    {
+      "id": 1905529,
+      "name": "Núi Thành District",
+      "nativeName": "Huyện Núi Thành",
+      "code": "VN-27-1905529",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-27",
+      "latitude": 15.43345,
+      "longitude": 108.57438
+    },
+    {
+      "id": 1905526,
+      "name": "Phước Sơn District",
+      "nativeName": "Huyện Phước Sơn",
+      "code": "VN-27-1905526",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-27",
+      "latitude": 15.38806,
+      "longitude": 107.85766
+    },
+    {
+      "id": 1905520,
+      "name": "Quế Sơn District",
+      "nativeName": "Huyện Quế Sơn",
+      "code": "VN-27-1905520",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-27",
+      "latitude": 15.71229,
+      "longitude": 108.26156
+    },
+    {
+      "id": 1905518,
+      "name": "Thành Phố Hội An",
+      "nativeName": "Thành Phố Hội An",
+      "code": "VN-27-1905518",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-27",
+      "latitude": 15.88339,
+      "longitude": 108.34198
+    },
+    {
+      "id": 1905517,
+      "name": "Thành Phố Tam Kỳ",
+      "nativeName": "Thành Phố Tam Kỳ",
+      "code": "VN-27-1905517",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-27",
+      "latitude": 15.592,
+      "longitude": 108.50583
+    },
+    {
+      "id": 1905519,
+      "name": "Thăng Bình District",
+      "nativeName": "Huyện Thăng Bình",
+      "code": "VN-27-1905519",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-27",
+      "latitude": 15.68724,
+      "longitude": 108.39227
+    },
+    {
+      "id": 1905528,
+      "name": "Tiên Phước District",
+      "nativeName": "Huyện Tiên Phước",
+      "code": "VN-27-1905528",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-27",
+      "latitude": 15.4709,
+      "longitude": 108.28257
+    },
+    {
+      "id": 1905522,
+      "name": "Điện Bàn District",
+      "nativeName": "Huyện Điện Bàn",
+      "code": "VN-27-1905522",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-27",
+      "latitude": 15.89917,
+      "longitude": 108.2247
+    },
+    {
+      "id": 1905523,
+      "name": "Đại Lộc District",
+      "nativeName": "Huyện Đại Lộc",
+      "code": "VN-27-1905523",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-27",
+      "latitude": 15.83721,
+      "longitude": 107.97894
+    }
+  ]
+}

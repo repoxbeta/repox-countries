@@ -1,0 +1,84 @@
+{
+  "stateId": 64661,
+  "stateCode": "SO-BR",
+  "countryCode": "SO",
+  "cities": [
+    {
+      "id": 9179653,
+      "name": "Alula District",
+      "nativeName": "Caluula",
+      "code": "SO-BR-9179653",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-BR",
+      "latitude": 11.66722,
+      "longitude": 50.79346
+    },
+    {
+      "id": 9179981,
+      "name": "Armo",
+      "nativeName": "Armo",
+      "code": "SO-BR-9179981",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-BR",
+      "latitude": 10.56689,
+      "longitude": 49.06121
+    },
+    {
+      "id": 9179644,
+      "name": "Bandarbeyla",
+      "nativeName": "Bandarbeyla",
+      "code": "SO-BR-9179644",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-BR",
+      "latitude": 9.23024,
+      "longitude": 50.32926
+    },
+    {
+      "id": 9180027,
+      "name": "Degmada Boosaaso",
+      "nativeName": "Bossaso",
+      "code": "SO-BR-9180027",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-BR",
+      "latitude": 10.92131,
+      "longitude": 49.39993
+    },
+    {
+      "id": 9179657,
+      "name": "Iskushuban District",
+      "nativeName": "Iskushuban",
+      "code": "SO-BR-9179657",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-BR",
+      "latitude": 10.55099,
+      "longitude": 50.50476
+    },
+    {
+      "id": 9179662,
+      "name": "Qandala District",
+      "nativeName": "Qandala",
+      "code": "SO-BR-9179662",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-BR",
+      "latitude": 11.05864,
+      "longitude": 50.08917
+    },
+    {
+      "id": 9179666,
+      "name": "Qardho District",
+      "nativeName": "Qardho",
+      "code": "SO-BR-9179666",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-BR",
+      "latitude": 9.50209,
+      "longitude": 49.50765
+    }
+  ]
+}

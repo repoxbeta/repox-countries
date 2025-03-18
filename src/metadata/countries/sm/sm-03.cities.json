@@ -1,0 +1,29 @@
+{
+  "stateId": 3345305,
+  "stateCode": "SM-03",
+  "countryCode": "SM",
+  "cities": [
+    {
+      "id": 3177542,
+      "name": "Domagnano",
+      "nativeName": "Domagnano",
+      "code": "SM-03-3177542",
+      "countryId": 3168068,
+      "countryCode": "SM",
+      "stateCode": "SM-03",
+      "latitude": 43.94961,
+      "longitude": 12.46828
+    },
+    {
+      "id": 11205481,
+      "name": "Piandivello",
+      "nativeName": "Piandivello",
+      "code": "SM-03-11205481",
+      "countryId": 3168068,
+      "countryCode": "SM",
+      "stateCode": "SM-03",
+      "latitude": 43.95003,
+      "longitude": 12.48669
+    }
+  ]
+}

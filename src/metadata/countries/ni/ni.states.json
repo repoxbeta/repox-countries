@@ -1,0 +1,193 @@
+{
+  "countryId": 3617476,
+  "countryCode": "NI",
+  "states": [
+    {
+      "id": 3620673,
+      "name": "Boaco Department",
+      "nativeName": "Departamento de Boaco",
+      "code": "NI-BO",
+      "internalCode": "BO",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "latitude": 12.5,
+      "longitude": -85.5
+    },
+    {
+      "id": 3620481,
+      "name": "Carazo Department",
+      "nativeName": "Departamento de Carazo",
+      "code": "NI-CA",
+      "internalCode": "CA",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "latitude": 11.75,
+      "longitude": -86.25
+    },
+    {
+      "id": 3620380,
+      "name": "Chinandega Department",
+      "nativeName": "Departamento de Chinandega",
+      "code": "NI-CI",
+      "internalCode": "CI",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "latitude": 12.83333,
+      "longitude": -87.08333
+    },
+    {
+      "id": 3620368,
+      "name": "Chontales Department",
+      "nativeName": "Departamento de Chontales",
+      "code": "NI-CO",
+      "internalCode": "CO",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "latitude": 12.08333,
+      "longitude": -85.16667
+    },
+    {
+      "id": 3619193,
+      "name": "Estelí Department",
+      "nativeName": "Departamento de Estelí",
+      "code": "NI-ES",
+      "internalCode": "ES",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "latitude": 13.16667,
+      "longitude": -86.33333
+    },
+    {
+      "id": 3619135,
+      "name": "Granada Department",
+      "nativeName": "Departamento de Granada",
+      "code": "NI-GR",
+      "internalCode": "GR",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "latitude": 11.83333,
+      "longitude": -85.91667
+    },
+    {
+      "id": 3618928,
+      "name": "Jinotega Department",
+      "nativeName": "Departamento de Jinotega",
+      "code": "NI-JI",
+      "internalCode": "JI",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "latitude": 13.75,
+      "longitude": -85.58333
+    },
+    {
+      "id": 3618029,
+      "name": "León Department",
+      "nativeName": "Departamento de León",
+      "code": "NI-LE",
+      "internalCode": "LE",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "latitude": 12.58333,
+      "longitude": -86.58333
+    },
+    {
+      "id": 3617796,
+      "name": "Madriz Department",
+      "nativeName": "Departamento de Madriz",
+      "code": "NI-MD",
+      "internalCode": "MD",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "latitude": 13.5,
+      "longitude": -86.41667
+    },
+    {
+      "id": 3617762,
+      "name": "Managua Department",
+      "nativeName": "Departamento de Managua",
+      "code": "NI-MN",
+      "internalCode": "MN",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "latitude": 12,
+      "longitude": -86.41667
+    },
+    {
+      "id": 3617722,
+      "name": "Masaya Department",
+      "nativeName": "Departamento de Masaya",
+      "code": "NI-MS",
+      "internalCode": "MS",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "latitude": 12,
+      "longitude": -86.16667
+    },
+    {
+      "id": 3617707,
+      "name": "Matagalpa Department",
+      "nativeName": "Departamento de Matagalpa",
+      "code": "NI-MT",
+      "internalCode": "MT",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "latitude": 12.91667,
+      "longitude": -85.66667
+    },
+    {
+      "id": 3830307,
+      "name": "North Caribbean Coast",
+      "nativeName": "Costa Caribe Norte",
+      "code": "NI-AN",
+      "internalCode": "AN",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "latitude": 14,
+      "longitude": -84.25
+    },
+    {
+      "id": 3617458,
+      "name": "Nueva Segovia Department",
+      "nativeName": "Departamento de Nueva Segovia",
+      "code": "NI-NS",
+      "internalCode": "NS",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "latitude": 13.7,
+      "longitude": -86.16667
+    },
+    {
+      "id": 3617051,
+      "name": "Rivas Department",
+      "nativeName": "Departamento de Rivas",
+      "code": "NI-RI",
+      "internalCode": "RI",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "latitude": 11.3,
+      "longitude": -85.75
+    },
+    {
+      "id": 3617056,
+      "name": "Río San Juan Department",
+      "nativeName": "Departamento de Río San Juan",
+      "code": "NI-SJ",
+      "internalCode": "SJ",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "latitude": 11.33333,
+      "longitude": -84.58333
+    },
+    {
+      "id": 3830308,
+      "name": "South Caribbean Coast",
+      "nativeName": "Costa Caribe Sur",
+      "code": "NI-AS",
+      "internalCode": "AS",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "latitude": 11.84585,
+      "longitude": -84.14978
+    }
+  ]
+}

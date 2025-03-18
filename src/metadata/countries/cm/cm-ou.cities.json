@@ -1,0 +1,95 @@
+{
+  "stateId": 2222934,
+  "stateCode": "CM-OU",
+  "countryCode": "CM",
+  "cities": [
+    {
+      "id": 2234988,
+      "name": "Bamboutos",
+      "nativeName": "Bamboutos",
+      "code": "CM-OU-2234988",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-OU",
+      "latitude": 5.63333,
+      "longitude": 10.25
+    },
+    {
+      "id": 2230816,
+      "name": "Haut-Nkam",
+      "nativeName": "Haut-Nkam",
+      "code": "CM-OU-2230816",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-OU",
+      "latitude": 5.15,
+      "longitude": 10.18333
+    },
+    {
+      "id": 9224961,
+      "name": "Hauts-Plateaux",
+      "nativeName": "Hauts-Plateaux",
+      "code": "CM-OU-9224961",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-OU",
+      "latitude": 5.29632,
+      "longitude": 10.34314
+    },
+    {
+      "id": 9224964,
+      "name": "Koung-Khi",
+      "nativeName": "Koung-Khi",
+      "code": "CM-OU-9224964",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-OU",
+      "latitude": 5.33848,
+      "longitude": 10.47453
+    },
+    {
+      "id": 2227064,
+      "name": "Menoua",
+      "nativeName": "Département de la Ménoua",
+      "code": "CM-OU-2227064",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-OU",
+      "latitude": 5.45,
+      "longitude": 10.06667
+    },
+    {
+      "id": 2226712,
+      "name": "Mifi",
+      "nativeName": "Mifi",
+      "code": "CM-OU-2226712",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-OU",
+      "latitude": 5.48333,
+      "longitude": 10.4
+    },
+    {
+      "id": 2225334,
+      "name": "Nde",
+      "nativeName": "Département du Ndé",
+      "code": "CM-OU-2225334",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-OU",
+      "latitude": 5.15,
+      "longitude": 10.51667
+    },
+    {
+      "id": 9224965,
+      "name": "Noun",
+      "nativeName": "Noun",
+      "code": "CM-OU-9224965",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-OU",
+      "latitude": 5.64123,
+      "longitude": 10.9184
+    }
+  ]
+}

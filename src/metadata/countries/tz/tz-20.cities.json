@@ -1,0 +1,51 @@
+{
+  "stateId": 150442,
+  "stateCode": "TZ-20",
+  "countryCode": "TZ",
+  "cities": [
+    {
+      "id": 9998179,
+      "name": "Kalambo District Council",
+      "nativeName": "Kalambo",
+      "code": "TZ-20-9998179",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-20",
+      "latitude": -8.54028,
+      "longitude": 31.57305
+    },
+    {
+      "id": 151459,
+      "name": "Nkasi District Council",
+      "nativeName": "Nkasi",
+      "code": "TZ-20-151459",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-20",
+      "latitude": -7.58333,
+      "longitude": 31
+    },
+    {
+      "id": 149702,
+      "name": "Sumbawanga District Council",
+      "nativeName": "Sumbawanga",
+      "code": "TZ-20-149702",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-20",
+      "latitude": -8.18604,
+      "longitude": 31.93899
+    },
+    {
+      "id": 9166007,
+      "name": "Sumbawanga Urban",
+      "nativeName": "Sumbawanga Urban",
+      "code": "TZ-20-9166007",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-20",
+      "latitude": -7.96667,
+      "longitude": 31.61667
+    }
+  ]
+}

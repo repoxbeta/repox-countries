@@ -1,0 +1,117 @@
+{
+  "stateId": 556349,
+  "stateCode": "RU-IN",
+  "countryCode": "RU",
+  "cities": [
+    {
+      "id": 7303363,
+      "name": "Dzheyrakhsky District",
+      "nativeName": "Dzhayrakhskiy Rayon",
+      "code": "RU-IN-7303363",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-IN",
+      "latitude": 42.80749,
+      "longitude": 44.9176
+    },
+    {
+      "id": 12653089,
+      "name": "Gorodskoy Okrug Karabulak",
+      "nativeName": "Gorodskoy Okrug Karabulak",
+      "code": "RU-IN-12653089",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-IN",
+      "latitude": 43.36106,
+      "longitude": 44.88446
+    },
+    {
+      "id": 12625089,
+      "name": "Karabulak Urban District",
+      "nativeName": "Karabulak Urban District",
+      "code": "RU-IN-12625089",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-IN",
+      "latitude": 43.30546,
+      "longitude": 44.91161
+    },
+    {
+      "id": 12625093,
+      "name": "Magas Urban District",
+      "nativeName": "Magas Urban District",
+      "code": "RU-IN-12625093",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-IN",
+      "latitude": 43.21929,
+      "longitude": 44.77395
+    },
+    {
+      "id": 12625090,
+      "name": "Malgobek",
+      "nativeName": "Malgobek",
+      "code": "RU-IN-12625090",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-IN",
+      "latitude": 43.50255,
+      "longitude": 44.59106
+    },
+    {
+      "id": 531127,
+      "name": "Malgobeksky District",
+      "nativeName": "Malgobekskiy Rayon",
+      "code": "RU-IN-531127",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-IN",
+      "latitude": 43.45464,
+      "longitude": 44.69314
+    },
+    {
+      "id": 12625094,
+      "name": "Nazran Urban District",
+      "nativeName": "Nazran Urban District",
+      "code": "RU-IN-12625094",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-IN",
+      "latitude": 43.21638,
+      "longitude": 44.77172
+    },
+    {
+      "id": 523063,
+      "name": "Nazranovskiy Rayon",
+      "nativeName": "Nazranovskiy Rayon",
+      "code": "RU-IN-523063",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-IN",
+      "latitude": 43.25,
+      "longitude": 44.83333
+    },
+    {
+      "id": 12625091,
+      "name": "Sunzha Urban District",
+      "nativeName": "Sunzha Urban District",
+      "code": "RU-IN-12625091",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-IN",
+      "latitude": 43.31791,
+      "longitude": 45.05859
+    },
+    {
+      "id": 486197,
+      "name": "Sunzhensky District",
+      "nativeName": "Sunzhensky Rayon",
+      "code": "RU-IN-486197",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-IN",
+      "latitude": 43.14513,
+      "longitude": 45.20061
+    }
+  ]
+}

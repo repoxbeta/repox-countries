@@ -1,0 +1,161 @@
+{
+  "stateId": 1641900,
+  "stateCode": "ID-KB",
+  "countryCode": "ID",
+  "cities": [
+    {
+      "id": 8740064,
+      "name": "Bengkayang Regency",
+      "nativeName": "Kabupaten Bengkayang",
+      "code": "ID-KB-8740064",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KB",
+      "latitude": 1.06911,
+      "longitude": 109.66393
+    },
+    {
+      "id": 1641395,
+      "name": "Kapuas Hulu Regency",
+      "nativeName": "Kabupaten Kapuas Hulu",
+      "code": "ID-KB-1641395",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KB",
+      "latitude": 0.83333,
+      "longitude": 112.8
+    },
+    {
+      "id": 1640126,
+      "name": "Ketapang Regency",
+      "nativeName": "Kabupaten Ketapang",
+      "code": "ID-KB-1640126",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KB",
+      "latitude": -1.58333,
+      "longitude": 110.56667
+    },
+    {
+      "id": 1630787,
+      "name": "Kota Pontianak",
+      "nativeName": "Kota Pontianak",
+      "code": "ID-KB-1630787",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KB",
+      "latitude": 0.00832,
+      "longitude": 109.33146
+    },
+    {
+      "id": 9845433,
+      "name": "Kota Singkawang",
+      "nativeName": "Kota Singkawang",
+      "code": "ID-KB-9845433",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KB",
+      "latitude": 0.90734,
+      "longitude": 109.00103
+    },
+    {
+      "id": 9828037,
+      "name": "Kubu Raya Regency",
+      "nativeName": "Kabupaten Kubu Raya",
+      "code": "ID-KB-9828037",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KB",
+      "latitude": -0.31924,
+      "longitude": 109.51865
+    },
+    {
+      "id": 8740062,
+      "name": "Landak Regency",
+      "nativeName": "Kabupaten Landak",
+      "code": "ID-KB-8740062",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KB",
+      "latitude": 0.42373,
+      "longitude": 109.75917
+    },
+    {
+      "id": 9828958,
+      "name": "Melawi Regency",
+      "nativeName": "Kabupaten Melawi",
+      "code": "ID-KB-9828958",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KB",
+      "latitude": -0.33617,
+      "longitude": 111.698
+    },
+    {
+      "id": 1630788,
+      "name": "Mempawah Regency",
+      "nativeName": "Kabupaten Mempawah",
+      "code": "ID-KB-1630788",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KB",
+      "latitude": 0.25,
+      "longitude": 109.16667
+    },
+    {
+      "id": 9828031,
+      "name": "North Kayong Regency",
+      "nativeName": "Kabupaten Kayong Utara",
+      "code": "ID-KB-9828031",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KB",
+      "latitude": -1.06023,
+      "longitude": 110.10402
+    },
+    {
+      "id": 1628978,
+      "name": "Sambas Regency",
+      "nativeName": "Kabupaten Sambas",
+      "code": "ID-KB-1628978",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KB",
+      "latitude": 1.43333,
+      "longitude": 109.35
+    },
+    {
+      "id": 1628799,
+      "name": "Sanggau Regency",
+      "nativeName": "Kabupaten Sanggau",
+      "code": "ID-KB-1628799",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KB",
+      "latitude": 0.21667,
+      "longitude": 110.46667
+    },
+    {
+      "id": 9166118,
+      "name": "Sekadau Regency",
+      "nativeName": "Kabupaten Sekadau",
+      "code": "ID-KB-9166118",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KB",
+      "latitude": 0.03485,
+      "longitude": 110.95066
+    },
+    {
+      "id": 1626886,
+      "name": "Sintang Regency",
+      "nativeName": "Kabupaten Sintang",
+      "code": "ID-KB-1626886",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KB",
+      "latitude": -0.08333,
+      "longitude": 112.08333
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "stateId": 1159456,
+  "stateCode": "IR-11",
+  "countryCode": "IR",
+  "cities": [
+    {
+      "id": 11963562,
+      "name": "Fanuj",
+      "nativeName": "Fanuj",
+      "code": "IR-11-11963562",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-11",
+      "latitude": 26.57468,
+      "longitude": 59.63856
+    },
+    {
+      "id": 11963518,
+      "name": "Hamun County",
+      "nativeName": "Hamoon",
+      "code": "IR-11-11963518",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-11",
+      "latitude": 30.93686,
+      "longitude": 61.33687
+    },
+    {
+      "id": 1158999,
+      "name": "Iranshahr",
+      "nativeName": "Shahrestān-e Īrānshahr",
+      "code": "IR-11-1158999",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-11",
+      "latitude": 27.76803,
+      "longitude": 60.03354
+    },
+    {
+      "id": 11963514,
+      "name": "Mirjaveh County",
+      "nativeName": "Mirjaveh",
+      "code": "IR-11-11963514",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-11",
+      "latitude": 29.01752,
+      "longitude": 61.45046
+    },
+    {
+      "id": 11963516,
+      "name": "Nimruz County",
+      "nativeName": "Nimruz",
+      "code": "IR-11-11963516",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-11",
+      "latitude": 31.10333,
+      "longitude": 61.41601
+    },
+    {
+      "id": 11963510,
+      "name": "Qasr-e Qand County",
+      "nativeName": "Qaser-e Qand",
+      "code": "IR-11-11963510",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-11",
+      "latitude": 26.22693,
+      "longitude": 60.74553
+    },
+    {
+      "id": 1482480,
+      "name": "Shahrestān-e Chābahār",
+      "nativeName": "Shahrestān-e Chābahār",
+      "code": "IR-11-1482480",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-11",
+      "latitude": 25.44691,
+      "longitude": 61.21075
+    },
+    {
+      "id": 9533580,
+      "name": "Shahrestān-e Dalgān",
+      "nativeName": "Shahrestān-e Dalgān",
+      "code": "IR-11-9533580",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-11",
+      "latitude": 27.4034,
+      "longitude": 59.33036
+    },
+    {
+      "id": 9533575,
+      "name": "Shahrestān-e Hīrmand",
+      "nativeName": "Shahrestān-e Hīrmand",
+      "code": "IR-11-9533575",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-11",
+      "latitude": 31.2042,
+      "longitude": 61.66805
+    },
+    {
+      "id": 1482481,
+      "name": "Shahrestān-e Khāsh",
+      "nativeName": "Shahrestān-e Khāsh",
+      "code": "IR-11-1482481",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-11",
+      "latitude": 28.19339,
+      "longitude": 60.76157
+    },
+    {
+      "id": 9533581,
+      "name": "Shahrestān-e Konārak",
+      "nativeName": "Shahrestān-e Konārak",
+      "code": "IR-11-9533581",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-11",
+      "latitude": 25.55123,
+      "longitude": 59.88437
+    },
+    {
+      "id": 9533590,
+      "name": "Shahrestān-e Mehrestān",
+      "nativeName": "Shahrestān-e Mehrestān",
+      "code": "IR-11-9533590",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-11",
+      "latitude": 27.02592,
+      "longitude": 61.58705
+    },
+    {
+      "id": 1482504,
+      "name": "Shahrestān-e Nīkshahr",
+      "nativeName": "Shahrestān-e Nīkshahr",
+      "code": "IR-11-1482504",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-11",
+      "latitude": 26.25,
+      "longitude": 60
+    },
+    {
+      "id": 12543582,
+      "name": "Shahrestān-e Qaşr-e Qand",
+      "nativeName": "Shahrestān-e Qaşr-e Qand",
+      "code": "IR-11-12543582",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-11",
+      "latitude": 26.0627,
+      "longitude": 60.76665
+    },
+    {
+      "id": 1482499,
+      "name": "Shahrestān-e Sarbāz",
+      "nativeName": "Shahrestān-e Sarbāz",
+      "code": "IR-11-1482499",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-11",
+      "latitude": 26.46901,
+      "longitude": 61.45081
+    },
+    {
+      "id": 1482494,
+      "name": "Shahrestān-e Sarāvān",
+      "nativeName": "Shahrestān-e Sarāvān",
+      "code": "IR-11-1482494",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-11",
+      "latitude": 27.39244,
+      "longitude": 62.50642
+    },
+    {
+      "id": 1482483,
+      "name": "Shahrestān-e Zābol",
+      "nativeName": "Shahrestān-e Zābol",
+      "code": "IR-11-1482483",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-11",
+      "latitude": 31.04741,
+      "longitude": 61.5662
+    },
+    {
+      "id": 1482486,
+      "name": "Shahrestān-e Zāhedān",
+      "nativeName": "Shahrestān-e Zāhedān",
+      "code": "IR-11-1482486",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-11",
+      "latitude": 29.62217,
+      "longitude": 60.16915
+    },
+    {
+      "id": 9533591,
+      "name": "Sib and Suran",
+      "nativeName": "Shahrestān-e Sīb va Sūrān",
+      "code": "IR-11-9533591",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-11",
+      "latitude": 27.33333,
+      "longitude": 61.91667
+    },
+    {
+      "id": 9533574,
+      "name": "Zehak",
+      "nativeName": "Zehak",
+      "code": "IR-11-9533574",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-11",
+      "latitude": 30.83835,
+      "longitude": 61.63663
+    }
+  ]
+}

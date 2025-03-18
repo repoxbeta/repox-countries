@@ -1,0 +1,95 @@
+{
+  "stateId": 2960152,
+  "stateCode": "LU-RM",
+  "countryCode": "LU",
+  "cities": [
+    {
+      "id": 6693348,
+      "name": "Bous",
+      "nativeName": "Bous",
+      "code": "LU-RM-6693348",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-RM",
+      "latitude": 49.55389,
+      "longitude": 6.32917
+    },
+    {
+      "id": 6693350,
+      "name": "Dalheim",
+      "nativeName": "Dalheim",
+      "code": "LU-RM-6693350",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-RM",
+      "latitude": 49.54083,
+      "longitude": 6.25972
+    },
+    {
+      "id": 6693351,
+      "name": "Lenningen",
+      "nativeName": "Lenningen",
+      "code": "LU-RM-6693351",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-RM",
+      "latitude": 49.59861,
+      "longitude": 6.36806
+    },
+    {
+      "id": 6693352,
+      "name": "Mondorf-les-Bains",
+      "nativeName": "Mondorf-les-Bains",
+      "code": "LU-RM-6693352",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-RM",
+      "latitude": 49.505,
+      "longitude": 6.28111
+    },
+    {
+      "id": 6693354,
+      "name": "Remich",
+      "nativeName": "Remich",
+      "code": "LU-RM-6693354",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-RM",
+      "latitude": 49.545,
+      "longitude": 6.36694
+    },
+    {
+      "id": 6693353,
+      "name": "Schengen",
+      "nativeName": "Schengen",
+      "code": "LU-RM-6693353",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-RM",
+      "latitude": 49.48861,
+      "longitude": 6.35167
+    },
+    {
+      "id": 6693355,
+      "name": "Stadtbredimus",
+      "nativeName": "Stadtbredimus",
+      "code": "LU-RM-6693355",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-RM",
+      "latitude": 49.56278,
+      "longitude": 6.36444
+    },
+    {
+      "id": 6693356,
+      "name": "Waldbredimus",
+      "nativeName": "Waldbredimus",
+      "code": "LU-RM-6693356",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-RM",
+      "latitude": 49.555,
+      "longitude": 6.2875
+    }
+  ]
+}

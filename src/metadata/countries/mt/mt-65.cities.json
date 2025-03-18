@@ -1,0 +1,40 @@
+{
+  "stateId": 8299764,
+  "stateCode": "MT-65",
+  "countryCode": "MT",
+  "cities": [
+    {
+      "id": 2562260,
+      "name": "Żebbuġ",
+      "nativeName": "Żebbuġ",
+      "code": "MT-65-2562260",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-65",
+      "latitude": 36.07222,
+      "longitude": 14.23583
+    },
+    {
+      "id": 2562753,
+      "name": "Marsalforn",
+      "nativeName": "Marsalforn",
+      "code": "MT-65-2562753",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-65",
+      "latitude": 36.07111,
+      "longitude": 14.25861
+    },
+    {
+      "id": 2562634,
+      "name": "Qbajjar",
+      "nativeName": "Qbajjar",
+      "code": "MT-65-2562634",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-65",
+      "latitude": 36.07778,
+      "longitude": 14.25028
+    }
+  ]
+}

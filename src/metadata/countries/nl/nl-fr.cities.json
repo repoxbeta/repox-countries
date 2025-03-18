@@ -1,0 +1,205 @@
+{
+  "stateId": 2755812,
+  "stateCode": "NL-FR",
+  "countryCode": "NL",
+  "cities": [
+    {
+      "id": 2759982,
+      "name": "Achtkarspelen",
+      "nativeName": "Gemeente Achtkarspelen",
+      "code": "NL-FR-2759982",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-FR",
+      "latitude": 53.21167,
+      "longitude": 6.13776
+    },
+    {
+      "id": 2759844,
+      "name": "Ameland Municipalitye",
+      "nativeName": "Gemeente Ameland",
+      "code": "NL-FR-2759844",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-FR",
+      "latitude": 53.45024,
+      "longitude": 5.78277
+    },
+    {
+      "id": 2757834,
+      "name": "Dantumadiel Municipality",
+      "nativeName": "Gemeente Dantumadiel",
+      "code": "NL-FR-2757834",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-FR",
+      "latitude": 53.29113,
+      "longitude": 5.99545
+    },
+    {
+      "id": 10287303,
+      "name": "De Fryske Marren Municipality",
+      "nativeName": "De Fryske Marren",
+      "code": "NL-FR-10287303",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-FR",
+      "latitude": 52.96906,
+      "longitude": 5.77246
+    },
+    {
+      "id": 2754816,
+      "name": "Gemeente Harlingen",
+      "nativeName": "Gemeente Harlingen",
+      "code": "NL-FR-2754816",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-FR",
+      "latitude": 53.17525,
+      "longitude": 5.41806
+    },
+    {
+      "id": 2745417,
+      "name": "Gemeente Vlieland",
+      "nativeName": "Gemeente Vlieland",
+      "code": "NL-FR-2745417",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-FR",
+      "latitude": 53.2532,
+      "longitude": 4.95071
+    },
+    {
+      "id": 2754668,
+      "name": "Heerenveen Municipality",
+      "nativeName": "Gemeente Heerenveen",
+      "code": "NL-FR-2754668",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-FR",
+      "latitude": 52.9422,
+      "longitude": 6.0441
+    },
+    {
+      "id": 2751791,
+      "name": "Leeuwarden Municipality",
+      "nativeName": "Gemeente Leeuwarden",
+      "code": "NL-FR-2751791",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-FR",
+      "latitude": 53.18602,
+      "longitude": 5.81111
+    },
+    {
+      "id": 12022131,
+      "name": "Northeast Friesland",
+      "nativeName": "Noardeast-Fryslân",
+      "code": "NL-FR-12022131",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-FR",
+      "latitude": 53.33212,
+      "longitude": 6.02098
+    },
+    {
+      "id": 2749339,
+      "name": "Ooststellingwerf Municipality",
+      "nativeName": "Gemeente Ooststellingwerf",
+      "code": "NL-FR-2749339",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-FR",
+      "latitude": 52.98264,
+      "longitude": 6.27515
+    },
+    {
+      "id": 2749277,
+      "name": "Opsterland Municipality",
+      "nativeName": "Gemeente Opsterland",
+      "code": "NL-FR-2749277",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-FR",
+      "latitude": 53.04849,
+      "longitude": 6.12128
+    },
+    {
+      "id": 2747589,
+      "name": "Schiermonnikoog Municipality",
+      "nativeName": "Gemeente Schiermonnikoog",
+      "code": "NL-FR-2747589",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-FR",
+      "latitude": 53.48707,
+      "longitude": 6.22917
+    },
+    {
+      "id": 2747091,
+      "name": "Smallingerland Municipality",
+      "nativeName": "Gemeente Smallingerland",
+      "code": "NL-FR-2747091",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-FR",
+      "latitude": 53.11667,
+      "longitude": 6.03333
+    },
+    {
+      "id": 8260049,
+      "name": "Southwest Friesland",
+      "nativeName": "Sûdwest Fryslân",
+      "code": "NL-FR-8260049",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-FR",
+      "latitude": 53.01056,
+      "longitude": 5.5258
+    },
+    {
+      "id": 2746412,
+      "name": "Terschelling Municipality",
+      "nativeName": "Gemeente Terschelling",
+      "code": "NL-FR-2746412",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-FR",
+      "latitude": 53.4,
+      "longitude": 5.35
+    },
+    {
+      "id": 6544304,
+      "name": "Tytsjerksteradiel Municipality",
+      "nativeName": "Gemeente Tytsjerksteradiel",
+      "code": "NL-FR-6544304",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-FR",
+      "latitude": 53.19966,
+      "longitude": 5.95802
+    },
+    {
+      "id": 12022123,
+      "name": "Waadhoeke",
+      "nativeName": "Waadhoeke",
+      "code": "NL-FR-12022123",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-FR",
+      "latitude": 53.18947,
+      "longitude": 5.50793
+    },
+    {
+      "id": 2744609,
+      "name": "Weststellingwerf Municipality",
+      "nativeName": "Gemeente Weststellingwerf",
+      "code": "NL-FR-2744609",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-FR",
+      "latitude": 52.87647,
+      "longitude": 6.01998
+    }
+  ]
+}

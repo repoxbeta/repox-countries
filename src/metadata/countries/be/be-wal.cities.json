@@ -1,0 +1,62 @@
+{
+  "stateId": 3337387,
+  "stateCode": "BE-WAL",
+  "countryCode": "BE",
+  "cities": [
+    {
+      "id": 2796741,
+      "name": "Hainaut Province",
+      "nativeName": "Province du Hainaut",
+      "code": "BE-WAL-2796741",
+      "countryId": 2802361,
+      "countryCode": "BE",
+      "stateCode": "BE-WAL",
+      "latitude": 50.5,
+      "longitude": 3.83333
+    },
+    {
+      "id": 2792411,
+      "name": "Liège Province",
+      "nativeName": "Province de Liège",
+      "code": "BE-WAL-2792411",
+      "countryId": 2802361,
+      "countryCode": "BE",
+      "stateCode": "BE-WAL",
+      "latitude": 50.63427,
+      "longitude": 5.56543
+    },
+    {
+      "id": 2791993,
+      "name": "Luxembourg Province",
+      "nativeName": "Province du Luxembourg",
+      "code": "BE-WAL-2791993",
+      "countryId": 2802361,
+      "countryCode": "BE",
+      "stateCode": "BE-WAL",
+      "latitude": 50,
+      "longitude": 5.5
+    },
+    {
+      "id": 2790469,
+      "name": "Namur Province",
+      "nativeName": "Province de Namur",
+      "code": "BE-WAL-2790469",
+      "countryId": 2802361,
+      "countryCode": "BE",
+      "stateCode": "BE-WAL",
+      "latitude": 50.33333,
+      "longitude": 4.83333
+    },
+    {
+      "id": 3333251,
+      "name": "Walloon Brabant Province",
+      "nativeName": "Province du Brabant Wallon",
+      "code": "BE-WAL-3333251",
+      "countryId": 2802361,
+      "countryCode": "BE",
+      "stateCode": "BE-WAL",
+      "latitude": 50.75,
+      "longitude": 4.58333
+    }
+  ]
+}

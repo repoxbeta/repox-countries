@@ -1,0 +1,29 @@
+{
+  "stateId": 2386243,
+  "stateCode": "CF-KB",
+  "countryCode": "CF",
+  "cities": [
+    {
+      "id": 9143469,
+      "name": "Kaga-Bandoro",
+      "nativeName": "Kaga-Bandoro",
+      "code": "CF-KB-9143469",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-KB",
+      "latitude": 7.23774,
+      "longitude": 19.21819
+    },
+    {
+      "id": 9143470,
+      "name": "Mbrès",
+      "nativeName": "Mbrès",
+      "code": "CF-KB-9143470",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-KB",
+      "latitude": 6.97136,
+      "longitude": 19.85225
+    }
+  ]
+}

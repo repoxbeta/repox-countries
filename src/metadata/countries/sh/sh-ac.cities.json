@@ -1,0 +1,73 @@
+{
+  "stateId": 2411430,
+  "stateCode": "SH-AC",
+  "countryCode": "SH",
+  "cities": [
+    {
+      "id": 2411397,
+      "name": "Georgetown",
+      "nativeName": "Georgetown",
+      "code": "SH-AC-2411397",
+      "countryId": 3370751,
+      "countryCode": "SH",
+      "stateCode": "SH-AC",
+      "latitude": -7.92861,
+      "longitude": -14.41194
+    },
+    {
+      "id": 12718713,
+      "name": "Cat Hill US Military Base",
+      "nativeName": "Cat Hill US Military Base",
+      "code": "SH-AC-12718713",
+      "countryId": 3370751,
+      "countryCode": "SH",
+      "stateCode": "SH-AC",
+      "latitude": -7.95117,
+      "longitude": -14.40739
+    },
+    {
+      "id": 12718716,
+      "name": "The Residency",
+      "nativeName": "The Residency",
+      "code": "SH-AC-12718716",
+      "countryId": 3370751,
+      "countryCode": "SH",
+      "stateCode": "SH-AC",
+      "latitude": -7.94928,
+      "longitude": -14.35107
+    },
+    {
+      "id": 2411327,
+      "name": "Thornton",
+      "nativeName": "Thornton",
+      "code": "SH-AC-2411327",
+      "countryId": 3370751,
+      "countryCode": "SH",
+      "stateCode": "SH-AC",
+      "latitude": -7.93333,
+      "longitude": -14.41667
+    },
+    {
+      "id": 12718717,
+      "name": "Traveller's Hill Royal Air Force Base",
+      "nativeName": "Traveller's Hill Royal Air Force Base",
+      "code": "SH-AC-12718717",
+      "countryId": 3370751,
+      "countryCode": "SH",
+      "stateCode": "SH-AC",
+      "latitude": -7.94431,
+      "longitude": -14.37251
+    },
+    {
+      "id": 2572137,
+      "name": "Two Boats Village",
+      "nativeName": "Two Boats Village",
+      "code": "SH-AC-2572137",
+      "countryId": 3370751,
+      "countryCode": "SH",
+      "stateCode": "SH-AC",
+      "latitude": -7.94466,
+      "longitude": -14.37081
+    }
+  ]
+}

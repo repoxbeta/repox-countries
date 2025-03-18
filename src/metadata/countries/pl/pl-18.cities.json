@@ -1,0 +1,282 @@
+{
+  "stateId": 858788,
+  "stateCode": "PL-18",
+  "countryCode": "PL",
+  "cities": [
+    {
+      "id": 7531056,
+      "name": "Bieszczady County",
+      "nativeName": "Powiat bieszczadzki",
+      "code": "PL-18-7531056",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-18",
+      "latitude": 49.33681,
+      "longitude": 22.64451
+    },
+    {
+      "id": 7531057,
+      "name": "Brzozów County",
+      "nativeName": "Powiat brzozowski",
+      "code": "PL-18-7531057",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-18",
+      "latitude": 49.72759,
+      "longitude": 22.09039
+    },
+    {
+      "id": 7530769,
+      "name": "Dębica County",
+      "nativeName": "Powiat dębicki",
+      "code": "PL-18-7530769",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-18",
+      "latitude": 49.99923,
+      "longitude": 21.35398
+    },
+    {
+      "id": 7530830,
+      "name": "Jarosław County",
+      "nativeName": "Powiat jarosławski",
+      "code": "PL-18-7530830",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-18",
+      "latitude": 50.02516,
+      "longitude": 22.78238
+    },
+    {
+      "id": 7530770,
+      "name": "Jasło County",
+      "nativeName": "Powiat jasielski",
+      "code": "PL-18-7530770",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-18",
+      "latitude": 49.64263,
+      "longitude": 21.44637
+    },
+    {
+      "id": 7530774,
+      "name": "Kolbuszowa County",
+      "nativeName": "Powiat kolbuszowski",
+      "code": "PL-18-7530774",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-18",
+      "latitude": 50.31632,
+      "longitude": 21.81315
+    },
+    {
+      "id": 7530976,
+      "name": "Krosno",
+      "nativeName": "Krosno",
+      "code": "PL-18-7530976",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-18",
+      "latitude": 49.68925,
+      "longitude": 21.75302
+    },
+    {
+      "id": 7530776,
+      "name": "Lesko County",
+      "nativeName": "Powiat leski",
+      "code": "PL-18-7530776",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-18",
+      "latitude": 49.3197,
+      "longitude": 22.36907
+    },
+    {
+      "id": 7530895,
+      "name": "Leżajsk County",
+      "nativeName": "Powiat leżajski",
+      "code": "PL-18-7530895",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-18",
+      "latitude": 50.26159,
+      "longitude": 22.43828
+    },
+    {
+      "id": 7530896,
+      "name": "Lubaczów County",
+      "nativeName": "Powiat lubaczowski",
+      "code": "PL-18-7530896",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-18",
+      "latitude": 50.19585,
+      "longitude": 23.17328
+    },
+    {
+      "id": 7530771,
+      "name": "Mielec County",
+      "nativeName": "Powiat mielecki",
+      "code": "PL-18-7530771",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-18",
+      "latitude": 50.31387,
+      "longitude": 21.39136
+    },
+    {
+      "id": 7530897,
+      "name": "Nisko County",
+      "nativeName": "Powiat niżański",
+      "code": "PL-18-7530897",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-18",
+      "latitude": 50.46411,
+      "longitude": 22.27645
+    },
+    {
+      "id": 7530775,
+      "name": "Powiat krośnieński",
+      "nativeName": "Powiat krośnieński",
+      "code": "PL-18-7530775",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-18",
+      "latitude": 49.59959,
+      "longitude": 21.76943
+    },
+    {
+      "id": 7530748,
+      "name": "Przemyśl",
+      "nativeName": "Przemyśl",
+      "code": "PL-18-7530748",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-18",
+      "latitude": 49.78345,
+      "longitude": 22.78424
+    },
+    {
+      "id": 7530778,
+      "name": "Przemyśl County",
+      "nativeName": "Powiat przemyski",
+      "code": "PL-18-7530778",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-18",
+      "latitude": 49.7606,
+      "longitude": 22.67372
+    },
+    {
+      "id": 7530898,
+      "name": "Przeworsk County",
+      "nativeName": "Powiat przeworski",
+      "code": "PL-18-7530898",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-18",
+      "latitude": 50.08913,
+      "longitude": 22.53682
+    },
+    {
+      "id": 7530779,
+      "name": "Ropczyce-Sędziszów County",
+      "nativeName": "Powiat ropczycko-sędziszowski",
+      "code": "PL-18-7530779",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-18",
+      "latitude": 50.04815,
+      "longitude": 21.64385
+    },
+    {
+      "id": 7530819,
+      "name": "Rzeszów",
+      "nativeName": "Rzeszów",
+      "code": "PL-18-7530819",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-18",
+      "latitude": 50.00545,
+      "longitude": 21.98848
+    },
+    {
+      "id": 7530780,
+      "name": "Rzeszów County",
+      "nativeName": "Powiat rzeszowski",
+      "code": "PL-18-7530780",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-18",
+      "latitude": 50.09944,
+      "longitude": 21.95892
+    },
+    {
+      "id": 7530781,
+      "name": "Sanok County",
+      "nativeName": "Powiat sanocki",
+      "code": "PL-18-7530781",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-18",
+      "latitude": 49.43001,
+      "longitude": 22.13619
+    },
+    {
+      "id": 7530899,
+      "name": "Stalowa Wola County",
+      "nativeName": "Powiat stalowowolski",
+      "code": "PL-18-7530899",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-18",
+      "latitude": 50.59103,
+      "longitude": 22.05203
+    },
+    {
+      "id": 7530782,
+      "name": "Strzyżów County",
+      "nativeName": "Powiat strzyżowski",
+      "code": "PL-18-7530782",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-18",
+      "latitude": 49.87698,
+      "longitude": 21.74949
+    },
+    {
+      "id": 7530839,
+      "name": "Tarnobrzeg",
+      "nativeName": "Tarnobrzeg",
+      "code": "PL-18-7530839",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-18",
+      "latitude": 50.58385,
+      "longitude": 21.69874
+    },
+    {
+      "id": 7531058,
+      "name": "Tarnobrzeg County",
+      "nativeName": "Powiat tarnobrzeski",
+      "code": "PL-18-7531058",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-18",
+      "latitude": 50.52303,
+      "longitude": 21.71585
+    },
+    {
+      "id": 7530777,
+      "name": "Łańcut County",
+      "nativeName": "Powiat łańcucki",
+      "code": "PL-18-7530777",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-18",
+      "latitude": 50.08659,
+      "longitude": 22.26892
+    }
+  ]
+}

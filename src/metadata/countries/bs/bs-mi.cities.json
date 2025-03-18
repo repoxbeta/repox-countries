@@ -1,0 +1,29 @@
+{
+  "stateId": 8030550,
+  "stateCode": "BS-MI",
+  "countryCode": "BS",
+  "cities": [
+    {
+      "id": 3572233,
+      "name": "Hard Bargain",
+      "nativeName": "Hard Bargain",
+      "code": "BS-MI-3572233",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-MI",
+      "latitude": 26.31667,
+      "longitude": -77.56667
+    },
+    {
+      "id": 3571320,
+      "name": "The Bight",
+      "nativeName": "The Bight",
+      "code": "BS-MI-3571320",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-MI",
+      "latitude": 26.3,
+      "longitude": -77.55
+    }
+  ]
+}

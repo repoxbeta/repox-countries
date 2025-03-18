@@ -1,0 +1,40 @@
+{
+  "stateId": 9782187,
+  "stateCode": "IM-9782187",
+  "countryCode": "IM",
+  "cities": [
+    {
+      "id": 3042199,
+      "name": "Patrick",
+      "nativeName": "Patrick",
+      "code": "IM-9782187-3042199",
+      "countryId": 3042225,
+      "countryCode": "IM",
+      "stateCode": "IM-9782187",
+      "latitude": 54.20447,
+      "longitude": -4.69417
+    },
+    {
+      "id": 3042244,
+      "name": "Dalby",
+      "nativeName": "Dalby",
+      "code": "IM-9782187-3042244",
+      "countryId": 3042225,
+      "countryCode": "IM",
+      "stateCode": "IM-9782187",
+      "latitude": 54.16879,
+      "longitude": -4.72923
+    },
+    {
+      "id": 3042229,
+      "name": "Glen Maye",
+      "nativeName": "Glen Maye",
+      "code": "IM-9782187-3042229",
+      "countryId": 3042225,
+      "countryCode": "IM",
+      "stateCode": "IM-9782187",
+      "latitude": 54.18333,
+      "longitude": -4.7
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "stateId": 4034759,
+  "stateCode": "WF-UV",
+  "countryCode": "WF",
+  "cities": [
+    {
+      "id": 12041969,
+      "name": "Hahake",
+      "nativeName": "Hahake",
+      "code": "WF-UV-12041969",
+      "countryId": 4034749,
+      "countryCode": "WF",
+      "stateCode": "WF-UV",
+      "latitude": -13.2835,
+      "longitude": -176.20099
+    },
+    {
+      "id": 12041970,
+      "name": "Hihifo",
+      "nativeName": "Hihifo",
+      "code": "WF-UV-12041970",
+      "countryId": 4034749,
+      "countryCode": "WF",
+      "stateCode": "WF-UV",
+      "latitude": -13.24524,
+      "longitude": -176.20097
+    },
+    {
+      "id": 12041971,
+      "name": "Mua",
+      "nativeName": "Mua",
+      "code": "WF-UV-12041971",
+      "countryId": 4034749,
+      "countryCode": "WF",
+      "stateCode": "WF-UV",
+      "latitude": -13.32096,
+      "longitude": -176.20668
+    }
+  ]
+}

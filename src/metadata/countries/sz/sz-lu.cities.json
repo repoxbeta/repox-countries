@@ -1,0 +1,73 @@
+{
+  "stateId": 935042,
+  "stateCode": "SZ-LU",
+  "countryCode": "SZ",
+  "cities": [
+    {
+      "id": 11128351,
+      "name": "Dvokodvweni Inkhundla",
+      "nativeName": "Dvokodvweni Inkhundla",
+      "code": "SZ-LU-11128351",
+      "countryId": 934841,
+      "countryCode": "SZ",
+      "stateCode": "SZ-LU",
+      "latitude": -26.45398,
+      "longitude": 31.76456
+    },
+    {
+      "id": 11128091,
+      "name": "Hlane",
+      "nativeName": "Hlane",
+      "code": "SZ-LU-11128091",
+      "countryId": 934841,
+      "countryCode": "SZ",
+      "stateCode": "SZ-LU",
+      "latitude": -26.29832,
+      "longitude": 31.8749
+    },
+    {
+      "id": 11184879,
+      "name": "Inkhundla Sithobela",
+      "nativeName": "Inkhundla Sithobela",
+      "code": "SZ-LU-11184879",
+      "countryId": 934841,
+      "countryCode": "SZ",
+      "stateCode": "SZ-LU",
+      "latitude": -26.85103,
+      "longitude": 31.6626
+    },
+    {
+      "id": 7910860,
+      "name": "Lomashasha",
+      "nativeName": "Lomashasha",
+      "code": "SZ-LU-7910860",
+      "countryId": 934841,
+      "countryCode": "SZ",
+      "stateCode": "SZ-LU",
+      "latitude": -26.06644,
+      "longitude": 32.00768
+    },
+    {
+      "id": 11128095,
+      "name": "Mpholonjeni",
+      "nativeName": "Mpholonjeni",
+      "code": "SZ-LU-11128095",
+      "countryId": 934841,
+      "countryCode": "SZ",
+      "stateCode": "SZ-LU",
+      "latitude": -26.58892,
+      "longitude": 31.8292
+    },
+    {
+      "id": 7910682,
+      "name": "Siphofaneni",
+      "nativeName": "Siphofaneni",
+      "code": "SZ-LU-7910682",
+      "countryId": 934841,
+      "countryCode": "SZ",
+      "stateCode": "SZ-LU",
+      "latitude": -26.67627,
+      "longitude": 31.66478
+    }
+  ]
+}

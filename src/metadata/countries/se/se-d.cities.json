@@ -1,0 +1,106 @@
+{
+  "stateId": 2676207,
+  "stateCode": "SE-D",
+  "countryCode": "SE",
+  "cities": [
+    {
+      "id": 2715951,
+      "name": "Eskilstuna Municipality",
+      "nativeName": "Eskilstuna Kommun",
+      "code": "SE-D-2715951",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-D",
+      "latitude": 59.37362,
+      "longitude": 16.49014
+    },
+    {
+      "id": 2714388,
+      "name": "Flen Municipality",
+      "nativeName": "Flens Kommun",
+      "code": "SE-D-2714388",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-D",
+      "latitude": 59.05,
+      "longitude": 16.71667
+    },
+    {
+      "id": 3315140,
+      "name": "Gnesta Municipality",
+      "nativeName": "Gnesta Kommun",
+      "code": "SE-D-3315140",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-D",
+      "latitude": 59.09214,
+      "longitude": 17.14533
+    },
+    {
+      "id": 2701221,
+      "name": "Katrineholm Municipality",
+      "nativeName": "Katrineholms Kommun",
+      "code": "SE-D-2701221",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-D",
+      "latitude": 59.01734,
+      "longitude": 16.26049
+    },
+    {
+      "id": 2687698,
+      "name": "Nyköping Municipality",
+      "nativeName": "Nyköpings Kommun",
+      "code": "SE-D-2687698",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-D",
+      "latitude": 58.81762,
+      "longitude": 16.89945
+    },
+    {
+      "id": 2684652,
+      "name": "Oxelösund Municipality",
+      "nativeName": "Oxelösunds Kommun",
+      "code": "SE-D-2684652",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-D",
+      "latitude": 58.67519,
+      "longitude": 17.08406
+    },
+    {
+      "id": 2671389,
+      "name": "Strängnäs Municipality",
+      "nativeName": "Strängnäs Kommun",
+      "code": "SE-D-2671389",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-D",
+      "latitude": 59.36109,
+      "longitude": 17.08804
+    },
+    {
+      "id": 3315141,
+      "name": "Trosa Municipality",
+      "nativeName": "Trosa Kommun",
+      "code": "SE-D-3315141",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-D",
+      "latitude": 58.8933,
+      "longitude": 17.49847
+    },
+    {
+      "id": 2662828,
+      "name": "Vingåker Municipality",
+      "nativeName": "Vingåkers Kommun",
+      "code": "SE-D-2662828",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-D",
+      "latitude": 59.06667,
+      "longitude": 15.88333
+    }
+  ]
+}

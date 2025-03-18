@@ -1,0 +1,95 @@
+{
+  "stateId": 3653224,
+  "stateCode": "EC-P",
+  "countryCode": "EC",
+  "cities": [
+    {
+      "id": 9155917,
+      "name": "Canton Pedro Vicente Maldonado",
+      "nativeName": "Canton Pedro Vicente Maldonado",
+      "code": "EC-P-9155917",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-P",
+      "latitude": 0.16667,
+      "longitude": -79
+    },
+    {
+      "id": 3654259,
+      "name": "Cantón Mejía",
+      "nativeName": "Cantón Mejía",
+      "code": "EC-P-3654259",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-P",
+      "latitude": -0.49215,
+      "longitude": -78.64647
+    },
+    {
+      "id": 3652228,
+      "name": "Cantón Rumiñahui",
+      "nativeName": "Cantón Rumiñahui",
+      "code": "EC-P-3652228",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-P",
+      "latitude": -0.40698,
+      "longitude": -78.44026
+    },
+    {
+      "id": 3659576,
+      "name": "Cayambe",
+      "nativeName": "Cayambe",
+      "code": "EC-P-3659576",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-P",
+      "latitude": 0.00073,
+      "longitude": -78.05966
+    },
+    {
+      "id": 3653294,
+      "name": "Pedro Moncayo",
+      "nativeName": "Pedro Moncayo",
+      "code": "EC-P-3653294",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-P",
+      "latitude": 0.05472,
+      "longitude": -78.27105
+    },
+    {
+      "id": 10792486,
+      "name": "Puerto Quito",
+      "nativeName": "Puerto Quito",
+      "code": "EC-P-10792486",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-P",
+      "latitude": 0.17233,
+      "longitude": -79.23624
+    },
+    {
+      "id": 3652461,
+      "name": "Quito",
+      "nativeName": "Quito",
+      "code": "EC-P-3652461",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-P",
+      "latitude": -0.15281,
+      "longitude": -78.50311
+    },
+    {
+      "id": 10792485,
+      "name": "San Miguel De Los Bancos",
+      "nativeName": "San Miguel De Los Bancos",
+      "code": "EC-P-10792485",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-P",
+      "latitude": -0.03583,
+      "longitude": -78.98868
+    }
+  ]
+}

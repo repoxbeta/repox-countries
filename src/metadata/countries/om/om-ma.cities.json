@@ -1,0 +1,73 @@
+{
+  "stateId": 411740,
+  "stateCode": "OM-MA",
+  "countryCode": "OM",
+  "cities": [
+    {
+      "id": 12215905,
+      "name": "Al ‘Āmirāt",
+      "nativeName": "Al ‘Āmirāt",
+      "code": "OM-MA-12215905",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-MA",
+      "latitude": 23.358,
+      "longitude": 58.48
+    },
+    {
+      "id": 12215907,
+      "name": "As Sīb",
+      "nativeName": "As Sīb",
+      "code": "OM-MA-12215907",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-MA",
+      "latitude": 23.583,
+      "longitude": 58.17
+    },
+    {
+      "id": 12215906,
+      "name": "Bawshar",
+      "nativeName": "Bawshar",
+      "code": "OM-MA-12215906",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-MA",
+      "latitude": 23.513,
+      "longitude": 58.321
+    },
+    {
+      "id": 12215903,
+      "name": "Masqaţ",
+      "nativeName": "Masqaţ",
+      "code": "OM-MA-12215903",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-MA",
+      "latitude": 23.453,
+      "longitude": 58.673
+    },
+    {
+      "id": 12215904,
+      "name": "Muţrah",
+      "nativeName": "Muţrah",
+      "code": "OM-MA-12215904",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-MA",
+      "latitude": 23.6,
+      "longitude": 58.522
+    },
+    {
+      "id": 12215908,
+      "name": "Qurayyāt",
+      "nativeName": "Qurayyāt",
+      "code": "OM-MA-12215908",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-MA",
+      "latitude": 23.106,
+      "longitude": 58.925
+    }
+  ]
+}

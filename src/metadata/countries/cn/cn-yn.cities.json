@@ -1,0 +1,183 @@
+{
+  "stateId": 1785694,
+  "stateCode": "CN-YN",
+  "countryCode": "CN",
+  "cities": [
+    {
+      "id": 1281672,
+      "name": "Baoshan Shi",
+      "nativeName": "Baoshan Shi",
+      "code": "CN-YN-1281672",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-YN",
+      "latitude": 25.0807,
+      "longitude": 98.89645
+    },
+    {
+      "id": 1814758,
+      "name": "Chuxiong Yi Autonomous Prefecture",
+      "nativeName": "Chuxiong Yizu Zizhizhou",
+      "code": "CN-YN-1814758",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-YN",
+      "latitude": 25.43204,
+      "longitude": 101.70479
+    },
+    {
+      "id": 1814065,
+      "name": "Dali Bai Autonomous Prefecture",
+      "nativeName": "Dali Baizu Zizhizhou",
+      "code": "CN-YN-1814065",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-YN",
+      "latitude": 25.68548,
+      "longitude": 100.13104
+    },
+    {
+      "id": 1281381,
+      "name": "Dehong Daizu Jingpozu Zizhizhou",
+      "nativeName": "Dehong Daizu Jingpozu Zizhizhou",
+      "code": "CN-YN-1281381",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-YN",
+      "latitude": 24.66347,
+      "longitude": 98.03964
+    },
+    {
+      "id": 1281365,
+      "name": "Deqen",
+      "nativeName": "Dêqên Tibetan Autonomous Prefecture",
+      "code": "CN-YN-1281365",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-YN",
+      "latitude": 27.91694,
+      "longitude": 99.54841
+    },
+    {
+      "id": 1808130,
+      "name": "Honghe Hanizu Yizu Zizhizhou",
+      "nativeName": "Honghe Hanizu Yizu Zizhizhou",
+      "code": "CN-YN-1808130",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-YN",
+      "latitude": 23.51675,
+      "longitude": 102.97389
+    },
+    {
+      "id": 1804649,
+      "name": "Kunming Shi",
+      "nativeName": "Kunming Shi",
+      "code": "CN-YN-1804649",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-YN",
+      "latitude": 25.29437,
+      "longitude": 102.81853
+    },
+    {
+      "id": 1803666,
+      "name": "Lijiang Shi",
+      "nativeName": "Lijiang Shi",
+      "code": "CN-YN-1803666",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-YN",
+      "latitude": 26.85337,
+      "longitude": 100.5086
+    },
+    {
+      "id": 1803589,
+      "name": "Lincang Shi",
+      "nativeName": "Lincang Shi",
+      "code": "CN-YN-1803589",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-YN",
+      "latitude": 23.94803,
+      "longitude": 99.55124
+    },
+    {
+      "id": 1280418,
+      "name": "Nujiang Lisuzu Zizhizhou",
+      "nativeName": "Nujiang Lisuzu Zizhizhou",
+      "code": "CN-YN-1280418",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-YN",
+      "latitude": 26.61738,
+      "longitude": 99.14062
+    },
+    {
+      "id": 1794208,
+      "name": "Pu'er City",
+      "nativeName": "Pu'er City",
+      "code": "CN-YN-1794208",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-YN",
+      "latitude": 22.82682,
+      "longitude": 100.98083
+    },
+    {
+      "id": 1797315,
+      "name": "Qujing Shi",
+      "nativeName": "Qujing Shi",
+      "code": "CN-YN-1797315",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-YN",
+      "latitude": 25.71993,
+      "longitude": 103.98613
+    },
+    {
+      "id": 1791424,
+      "name": "Wenshan Zhuang and Miao Autonomous Prefecture",
+      "nativeName": "Wenshan Zhuangzu Miaozu Zizhizhou",
+      "code": "CN-YN-1791424",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-YN",
+      "latitude": 23.6513,
+      "longitude": 104.7083
+    },
+    {
+      "id": 1788323,
+      "name": "Xishuangbanna Daizu Zizhizhou",
+      "nativeName": "Xishuangbanna Daizu Zizhizhou",
+      "code": "CN-YN-1788323",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-YN",
+      "latitude": 22.00358,
+      "longitude": 101.00691
+    },
+    {
+      "id": 1785551,
+      "name": "Yuxi Shi",
+      "nativeName": "Yuxi Shi",
+      "code": "CN-YN-1785551",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-YN",
+      "latitude": 24.13073,
+      "longitude": 102.03299
+    },
+    {
+      "id": 1784839,
+      "name": "Zhaotong Shi",
+      "nativeName": "Zhaotong Shi",
+      "code": "CN-YN-1784839",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-YN",
+      "latitude": 27.70447,
+      "longitude": 104.03865
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "stateId": 6417230,
+  "stateCode": "GG-6417230",
+  "countryCode": "GG",
+  "cities": [
+    {
+      "id": 6420451,
+      "name": "Fontenelle",
+      "nativeName": "Fontenelle",
+      "code": "GG-6417230-6420451",
+      "countryId": 3042362,
+      "countryCode": "GG",
+      "stateCode": "GG-6417230",
+      "latitude": 49.50167,
+      "longitude": -2.515
+    },
+    {
+      "id": 6420460,
+      "name": "La Lande",
+      "nativeName": "La Lande",
+      "code": "GG-6417230-6420460",
+      "countryId": 3042362,
+      "countryCode": "GG",
+      "stateCode": "GG-6417230",
+      "latitude": 49.50306,
+      "longitude": -2.50833
+    },
+    {
+      "id": 6420452,
+      "name": "La Moye",
+      "nativeName": "La Moye",
+      "code": "GG-6417230-6420452",
+      "countryId": 3042362,
+      "countryCode": "GG",
+      "stateCode": "GG-6417230",
+      "latitude": 49.49972,
+      "longitude": -2.51389
+    },
+    {
+      "id": 6420453,
+      "name": "La Rochelle",
+      "nativeName": "La Rochelle",
+      "code": "GG-6417230-6420453",
+      "countryId": 3042362,
+      "countryCode": "GG",
+      "stateCode": "GG-6417230",
+      "latitude": 49.49944,
+      "longitude": -2.50889
+    },
+    {
+      "id": 6420635,
+      "name": "Maresquet",
+      "nativeName": "Maresquet",
+      "code": "GG-6417230-6420635",
+      "countryId": 3042362,
+      "countryCode": "GG",
+      "stateCode": "GG-6417230",
+      "latitude": 49.48694,
+      "longitude": -2.51528
+    }
+  ]
+}

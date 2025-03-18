@@ -1,0 +1,51 @@
+{
+  "stateId": 173813,
+  "stateCode": "SY-HA",
+  "countryCode": "SY",
+  "cities": [
+    {
+      "id": 173812,
+      "name": "Al-Hasakah District",
+      "nativeName": "Al-Hasakah District",
+      "code": "SY-HA-173812",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-HA",
+      "latitude": 36.22578,
+      "longitude": 40.73446
+    },
+    {
+      "id": 170665,
+      "name": "Al-Malikiyah District",
+      "nativeName": "Al-Malikiyah District",
+      "code": "SY-HA-170665",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-HA",
+      "latitude": 36.94113,
+      "longitude": 41.90157
+    },
+    {
+      "id": 173378,
+      "name": "Al-Qamishli District",
+      "nativeName": "Al-Qamishli District",
+      "code": "SY-HA-173378",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-HA",
+      "latitude": 36.85071,
+      "longitude": 41.17243
+    },
+    {
+      "id": 7895146,
+      "name": "Ras al-Ayn District",
+      "nativeName": "Ras al-Ayn District",
+      "code": "SY-HA-7895146",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-HA",
+      "latitude": 36.75664,
+      "longitude": 40.14643
+    }
+  ]
+}

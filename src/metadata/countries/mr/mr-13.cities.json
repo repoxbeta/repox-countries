@@ -1,0 +1,40 @@
+{
+  "stateId": 11496391,
+  "stateCode": "MR-13",
+  "countryCode": "MR",
+  "cities": [
+    {
+      "id": 9212586,
+      "name": "Ksar",
+      "nativeName": "Ksar",
+      "code": "MR-13-9212586",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-13",
+      "latitude": 18.10222,
+      "longitude": -15.955
+    },
+    {
+      "id": 9212593,
+      "name": "Sebkha",
+      "nativeName": "Sebkha",
+      "code": "MR-13-9212593",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-13",
+      "latitude": 18.07552,
+      "longitude": -16.00205
+    },
+    {
+      "id": 9222773,
+      "name": "TevraghZeina",
+      "nativeName": "Tevragh Zeina",
+      "code": "MR-13-9222773",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-13",
+      "latitude": 18.11011,
+      "longitude": -15.99931
+    }
+  ]
+}

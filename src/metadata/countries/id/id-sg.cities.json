@@ -1,0 +1,194 @@
+{
+  "stateId": 1626230,
+  "stateCode": "ID-SG",
+  "countryCode": "ID",
+  "cities": [
+    {
+      "id": 9170724,
+      "name": "Bombana Regency",
+      "nativeName": "Kabupaten Bombana",
+      "code": "ID-SG-9170724",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SG",
+      "latitude": -4.6257,
+      "longitude": 121.81641
+    },
+    {
+      "id": 1647498,
+      "name": "Buton Regency",
+      "nativeName": "Kabupaten Buton",
+      "code": "ID-SG-1647498",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SG",
+      "latitude": -5.31667,
+      "longitude": 122.93333
+    },
+    {
+      "id": 10924541,
+      "name": "Central Buton Regency",
+      "nativeName": "Kabupaten Buton Tengah",
+      "code": "ID-SG-10924541",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SG",
+      "latitude": -5.26667,
+      "longitude": 122.45
+    },
+    {
+      "id": 9846666,
+      "name": "East Kolaka Regency",
+      "nativeName": "Kabupaten Kolaka Timur",
+      "code": "ID-SG-9846666",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SG",
+      "latitude": -4.01807,
+      "longitude": 121.86172
+    },
+    {
+      "id": 1639753,
+      "name": "Kolaka Regency",
+      "nativeName": "Kabupaten Kolaka",
+      "code": "ID-SG-1639753",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SG",
+      "latitude": -3.96667,
+      "longitude": 121.56667
+    },
+    {
+      "id": 9827965,
+      "name": "Konawe Islands Regency",
+      "nativeName": "Kabupaten Konawe Kepulauan",
+      "code": "ID-SG-9827965",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SG",
+      "latitude": -4.11656,
+      "longitude": 123.10181
+    },
+    {
+      "id": 9165997,
+      "name": "Konawe Regency",
+      "nativeName": "Kabupaten Konawe",
+      "code": "ID-SG-9165997",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SG",
+      "latitude": -3.91717,
+      "longitude": 122.08823
+    },
+    {
+      "id": 6974096,
+      "name": "Kota Baubau",
+      "nativeName": "Kota Baubau",
+      "code": "ID-SG-6974096",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SG",
+      "latitude": -5.477,
+      "longitude": 122.6166
+    },
+    {
+      "id": 1640342,
+      "name": "Kota Kendari",
+      "nativeName": "Kota Kendari",
+      "code": "ID-SG-1640342",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SG",
+      "latitude": -4.01667,
+      "longitude": 122.53333
+    },
+    {
+      "id": 1634727,
+      "name": "Muna Regency",
+      "nativeName": "Kabupaten Muna",
+      "code": "ID-SG-1634727",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SG",
+      "latitude": -4.96667,
+      "longitude": 122.66667
+    },
+    {
+      "id": 9821954,
+      "name": "North Buton Regency",
+      "nativeName": "Kabupaten Buton Utara",
+      "code": "ID-SG-9821954",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SG",
+      "latitude": -5.01457,
+      "longitude": 122.93015
+    },
+    {
+      "id": 9165705,
+      "name": "North Kolaka Regency",
+      "nativeName": "Kabupaten Kolaka Utara",
+      "code": "ID-SG-9165705",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SG",
+      "latitude": -3.10452,
+      "longitude": 121.12427
+    },
+    {
+      "id": 9828035,
+      "name": "North Konawe Regency",
+      "nativeName": "Kabupaten Konawe Utara",
+      "code": "ID-SG-9828035",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SG",
+      "latitude": -3.41552,
+      "longitude": 121.99081
+    },
+    {
+      "id": 10924520,
+      "name": "South Buton Regency",
+      "nativeName": "Kabupaten Buton Selatan",
+      "code": "ID-SG-10924520",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SG",
+      "latitude": -5.56667,
+      "longitude": 122.7
+    },
+    {
+      "id": 9165998,
+      "name": "South Konawe Regency",
+      "nativeName": "Kabupaten Konawe Selatan",
+      "code": "ID-SG-9165998",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SG",
+      "latitude": -4.19191,
+      "longitude": 122.44854
+    },
+    {
+      "id": 9165996,
+      "name": "Wakatobi Regency",
+      "nativeName": "Wakatobi Regency",
+      "code": "ID-SG-9165996",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SG",
+      "latitude": -5.31934,
+      "longitude": 123.5948
+    },
+    {
+      "id": 10929337,
+      "name": "West Muna Regency",
+      "nativeName": "Kabupaten Muna Barat",
+      "code": "ID-SG-10929337",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SG",
+      "latitude": -4.83333,
+      "longitude": 122.48333
+    }
+  ]
+}

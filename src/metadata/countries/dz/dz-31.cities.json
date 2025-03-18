@@ -1,0 +1,106 @@
+{
+  "stateId": 2485920,
+  "stateCode": "DZ-31",
+  "countryCode": "DZ",
+  "cities": [
+    {
+      "id": 12952430,
+      "name": "Ain Turk",
+      "nativeName": "Ain Turk",
+      "code": "DZ-31-12952430",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-31",
+      "latitude": 35.70763,
+      "longitude": -0.83576
+    },
+    {
+      "id": 12952431,
+      "name": "Arzew",
+      "nativeName": "Arzew",
+      "code": "DZ-31-12952431",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-31",
+      "latitude": 35.85695,
+      "longitude": -0.3742
+    },
+    {
+      "id": 12952432,
+      "name": "Bethioua",
+      "nativeName": "Bethioua",
+      "code": "DZ-31-12952432",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-31",
+      "latitude": 35.75964,
+      "longitude": -0.2492
+    },
+    {
+      "id": 12952752,
+      "name": "Bir El Djir",
+      "nativeName": "Bir El Djir",
+      "code": "DZ-31-12952752",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-31",
+      "latitude": 35.72601,
+      "longitude": -0.50971
+    },
+    {
+      "id": 12952433,
+      "name": "Boutlelis",
+      "nativeName": "Boutlelis",
+      "code": "DZ-31-12952433",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-31",
+      "latitude": 35.58803,
+      "longitude": -0.8342
+    },
+    {
+      "id": 2485924,
+      "name": "Daïra d’Oran",
+      "nativeName": "Daïra d’Oran",
+      "code": "DZ-31-2485924",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-31",
+      "latitude": 35.69097,
+      "longitude": -0.67676
+    },
+    {
+      "id": 12952756,
+      "name": "Es Senia",
+      "nativeName": "Es Senia",
+      "code": "DZ-31-12952756",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-31",
+      "latitude": 35.63345,
+      "longitude": -0.57565
+    },
+    {
+      "id": 12952500,
+      "name": "Gdyel",
+      "nativeName": "Gdyel",
+      "code": "DZ-31-12952500",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-31",
+      "latitude": 35.76614,
+      "longitude": -0.40711
+    },
+    {
+      "id": 12952763,
+      "name": "Oued Tlelat",
+      "nativeName": "Oued Tlelat",
+      "code": "DZ-31-12952763",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-31",
+      "latitude": 35.55042,
+      "longitude": -0.48647
+    }
+  ]
+}

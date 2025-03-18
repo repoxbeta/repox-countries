@@ -1,0 +1,50 @@
+{
+  "countryId": 1668284,
+  "countryCode": "TW",
+  "states": [
+    {
+      "id": 7280288,
+      "name": "Fukien",
+      "nativeName": "Fukien",
+      "code": "TW-01",
+      "internalCode": "",
+      "countryId": 1668284,
+      "countryCode": "TW",
+      "latitude": 24.46965,
+      "longitude": 118.38593
+    },
+    {
+      "id": 7280289,
+      "name": "Kaohsiung",
+      "nativeName": "Kaohsiung",
+      "code": "TW-02",
+      "internalCode": "",
+      "countryId": 1668284,
+      "countryCode": "TW",
+      "latitude": 22.63429,
+      "longitude": 120.36621
+    },
+    {
+      "id": 7280290,
+      "name": "Taipei",
+      "nativeName": "Taipei",
+      "code": "TW-03",
+      "internalCode": "",
+      "countryId": 1668284,
+      "countryCode": "TW",
+      "latitude": 24.98473,
+      "longitude": 121.78432
+    },
+    {
+      "id": 7280291,
+      "name": "Taiwan",
+      "nativeName": "Taiwan",
+      "code": "TW-04",
+      "internalCode": "",
+      "countryId": 1668284,
+      "countryCode": "TW",
+      "latitude": 24.15114,
+      "longitude": 120.70541
+    }
+  ]
+}

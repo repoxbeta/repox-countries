@@ -1,0 +1,40 @@
+{
+  "stateId": 6930708,
+  "stateCode": "BF-07",
+  "countryCode": "BF",
+  "cities": [
+    {
+      "id": 2362644,
+      "name": "Bazega Province",
+      "nativeName": "Bazega Province",
+      "code": "BF-07-2362644",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "stateCode": "BF-07",
+      "latitude": 11.91667,
+      "longitude": -1.5
+    },
+    {
+      "id": 2357548,
+      "name": "Nahouri Province",
+      "nativeName": "Nahouri Province",
+      "code": "BF-07-2357548",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "stateCode": "BF-07",
+      "latitude": 11.25,
+      "longitude": -1.25
+    },
+    {
+      "id": 2353169,
+      "name": "Zoundweogo Province",
+      "nativeName": "Zoundweogo Province",
+      "code": "BF-07-2353169",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "stateCode": "BF-07",
+      "latitude": 11.58333,
+      "longitude": -1
+    }
+  ]
+}

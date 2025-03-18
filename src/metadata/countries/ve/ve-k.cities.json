@@ -1,0 +1,106 @@
+{
+  "stateId": 3636539,
+  "stateCode": "VE-K",
+  "countryCode": "VE",
+  "cities": [
+    {
+      "id": 8129228,
+      "name": "Andrés Eloy Blanco Municipality",
+      "nativeName": "Municipio Andrés Eloy Blanco",
+      "code": "VE-K-8129228",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-K",
+      "latitude": 9.75145,
+      "longitude": -69.65318
+    },
+    {
+      "id": 3639346,
+      "name": "Iribarren Municipality",
+      "nativeName": "Municipio Iribarren",
+      "code": "VE-K-3639346",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-K",
+      "latitude": 10.08333,
+      "longitude": -69.41667
+    },
+    {
+      "id": 3644947,
+      "name": "Municipio Crespo",
+      "nativeName": "Municipio Crespo",
+      "code": "VE-K-3644947",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-K",
+      "latitude": 10.3,
+      "longitude": -69.16667
+    },
+    {
+      "id": 3639197,
+      "name": "Municipio Jiménez",
+      "nativeName": "Municipio Jiménez",
+      "code": "VE-K-3639197",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-K",
+      "latitude": 9.8,
+      "longitude": -69.58333
+    },
+    {
+      "id": 3631972,
+      "name": "Municipio Morán",
+      "nativeName": "Municipio Morán",
+      "code": "VE-K-3631972",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-K",
+      "latitude": 9.66667,
+      "longitude": -69.83333
+    },
+    {
+      "id": 3631101,
+      "name": "Municipio Palavecino",
+      "nativeName": "Municipio Palavecino",
+      "code": "VE-K-3631101",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-K",
+      "latitude": 10.01035,
+      "longitude": -69.24139
+    },
+    {
+      "id": 8129183,
+      "name": "Municipio Simón Planas",
+      "nativeName": "Municipio Simón Planas",
+      "code": "VE-K-8129183",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-K",
+      "latitude": 9.78129,
+      "longitude": -69.1633
+    },
+    {
+      "id": 3626083,
+      "name": "Torres Municipality",
+      "nativeName": "Municipio Torres",
+      "code": "VE-K-3626083",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-K",
+      "latitude": 10.16667,
+      "longitude": -70.25
+    },
+    {
+      "id": 3625657,
+      "name": "Urdaneta Municipality",
+      "nativeName": "Municipio Urdaneta",
+      "code": "VE-K-3625657",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-K",
+      "latitude": 10.5,
+      "longitude": -69.66667
+    }
+  ]
+}

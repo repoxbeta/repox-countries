@@ -1,0 +1,95 @@
+{
+  "stateId": 3053028,
+  "stateCode": "HU-FE",
+  "countryCode": "HU",
+  "cities": [
+    {
+      "id": 9644763,
+      "name": "Bicskei Járás",
+      "nativeName": "Bicskei Járás",
+      "code": "HU-FE-9644763",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-FE",
+      "latitude": 47.4338,
+      "longitude": 18.56757
+    },
+    {
+      "id": 9644766,
+      "name": "Dunaújvárosi Járás",
+      "nativeName": "Dunaújvárosi Járás",
+      "code": "HU-FE-9644766",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-FE",
+      "latitude": 47.02801,
+      "longitude": 18.82997
+    },
+    {
+      "id": 9644770,
+      "name": "Enyingi Járás",
+      "nativeName": "Enyingi Járás",
+      "code": "HU-FE-9644770",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-FE",
+      "latitude": 46.8724,
+      "longitude": 18.30975
+    },
+    {
+      "id": 9644765,
+      "name": "Gárdonyi Járás",
+      "nativeName": "Gárdonyi Járás",
+      "code": "HU-FE-9644765",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-FE",
+      "latitude": 47.22785,
+      "longitude": 18.63622
+    },
+    {
+      "id": 9644764,
+      "name": "Martonvásári Járás",
+      "nativeName": "Martonvásári Járás",
+      "code": "HU-FE-9644764",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-FE",
+      "latitude": 47.2904,
+      "longitude": 18.79945
+    },
+    {
+      "id": 9644771,
+      "name": "Móri Járás",
+      "nativeName": "Móri Járás",
+      "code": "HU-FE-9644771",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-FE",
+      "latitude": 47.34685,
+      "longitude": 18.19838
+    },
+    {
+      "id": 9644767,
+      "name": "Székesfehérvári Járás",
+      "nativeName": "Székesfehérvári Járás",
+      "code": "HU-FE-9644767",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-FE",
+      "latitude": 47.16531,
+      "longitude": 18.41349
+    },
+    {
+      "id": 9644768,
+      "name": "Sárbogárdi Járás",
+      "nativeName": "Sárbogárdi Járás",
+      "code": "HU-FE-9644768",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-FE",
+      "latitude": 46.84036,
+      "longitude": 18.60723
+    }
+  ]
+}

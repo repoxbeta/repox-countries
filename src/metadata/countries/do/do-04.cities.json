@@ -1,0 +1,128 @@
+{
+  "stateId": 3512042,
+  "stateCode": "DO-04",
+  "countryCode": "DO",
+  "cities": [
+    {
+      "id": 3512046,
+      "name": "Barahona",
+      "nativeName": "Barahona",
+      "code": "DO-04-3512046",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-04",
+      "latitude": 18.21337,
+      "longitude": -71.0994
+    },
+    {
+      "id": 3510886,
+      "name": "Cabral",
+      "nativeName": "Cabral",
+      "code": "DO-04-3510886",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-04",
+      "latitude": 18.19991,
+      "longitude": -71.2466
+    },
+    {
+      "id": 11154545,
+      "name": "El Peñón",
+      "nativeName": "El Peñón",
+      "code": "DO-04-11154545",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-04",
+      "latitude": 18.29759,
+      "longitude": -71.20934
+    },
+    {
+      "id": 3505949,
+      "name": "Enriquillo",
+      "nativeName": "Enriquillo",
+      "code": "DO-04-3505949",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-04",
+      "latitude": 17.91667,
+      "longitude": -71.25
+    },
+    {
+      "id": 11154583,
+      "name": "Fundación",
+      "nativeName": "Fundación",
+      "code": "DO-04-11154583",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-04",
+      "latitude": 18.2631,
+      "longitude": -71.15332
+    },
+    {
+      "id": 11154538,
+      "name": "Jaquimeyes",
+      "nativeName": "Jaquimeyes",
+      "code": "DO-04-11154538",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-04",
+      "latitude": 18.30292,
+      "longitude": -71.12364
+    },
+    {
+      "id": 11154546,
+      "name": "La Ciénaga",
+      "nativeName": "La Ciénaga",
+      "code": "DO-04-11154546",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-04",
+      "latitude": 18.09254,
+      "longitude": -71.13377
+    },
+    {
+      "id": 11154536,
+      "name": "Las Salinas",
+      "nativeName": "Las Salinas",
+      "code": "DO-04-11154536",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-04",
+      "latitude": 18.23245,
+      "longitude": -71.34442
+    },
+    {
+      "id": 3495273,
+      "name": "Paraíso",
+      "nativeName": "Paraíso",
+      "code": "DO-04-3495273",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-04",
+      "latitude": 18.02652,
+      "longitude": -71.20889
+    },
+    {
+      "id": 11154537,
+      "name": "Polo",
+      "nativeName": "Polo",
+      "code": "DO-04-11154537",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-04",
+      "latitude": 18.12061,
+      "longitude": -71.31797
+    },
+    {
+      "id": 3492031,
+      "name": "Vicente Noble",
+      "nativeName": "Vicente Noble",
+      "code": "DO-04-3492031",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-04",
+      "latitude": 18.38333,
+      "longitude": -71.08333
+    }
+  ]
+}

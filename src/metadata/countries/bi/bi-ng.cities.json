@@ -1,0 +1,106 @@
+{
+  "stateId": 430567,
+  "stateCode": "BI-NG",
+  "countryCode": "BI",
+  "cities": [
+    {
+      "id": 7670590,
+      "name": "Busiga",
+      "nativeName": "Busiga",
+      "code": "BI-NG-7670590",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-NG",
+      "latitude": -2.85881,
+      "longitude": 29.70638
+    },
+    {
+      "id": 7670594,
+      "name": "Gashikanwa",
+      "nativeName": "Gashikanwa",
+      "code": "BI-NG-7670594",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-NG",
+      "latitude": -2.89389,
+      "longitude": 29.90753
+    },
+    {
+      "id": 9171874,
+      "name": "Kiremba",
+      "nativeName": "Kiremba",
+      "code": "BI-NG-9171874",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-NG",
+      "latitude": -2.83607,
+      "longitude": 30.03245
+    },
+    {
+      "id": 9171867,
+      "name": "Marangara",
+      "nativeName": "Marangara",
+      "code": "BI-NG-9171867",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-NG",
+      "latitude": -2.73417,
+      "longitude": 29.96231
+    },
+    {
+      "id": 9171858,
+      "name": "Mwumba",
+      "nativeName": "Mwumba",
+      "code": "BI-NG-9171858",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-NG",
+      "latitude": -2.82501,
+      "longitude": 29.80057
+    },
+    {
+      "id": 7670822,
+      "name": "Ngozi",
+      "nativeName": "Ngozi",
+      "code": "BI-NG-7670822",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-NG",
+      "latitude": -2.94806,
+      "longitude": 29.83045
+    },
+    {
+      "id": 9171863,
+      "name": "Nyamurenza",
+      "nativeName": "Nyamurenza",
+      "code": "BI-NG-9171863",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-NG",
+      "latitude": -2.81363,
+      "longitude": 29.88102
+    },
+    {
+      "id": 7670614,
+      "name": "Ruhororo",
+      "nativeName": "Ruhororo",
+      "code": "BI-NG-7670614",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-NG",
+      "latitude": -3.00896,
+      "longitude": 29.93898
+    },
+    {
+      "id": 7670617,
+      "name": "Tangara",
+      "nativeName": "Tangara",
+      "code": "BI-NG-7670617",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-NG",
+      "latitude": -2.91358,
+      "longitude": 30.07244
+    }
+  ]
+}

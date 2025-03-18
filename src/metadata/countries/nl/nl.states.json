@@ -1,0 +1,138 @@
+{
+  "countryId": 2750405,
+  "countryCode": "NL",
+  "states": [
+    {
+      "id": 2756631,
+      "name": "Drenthe",
+      "nativeName": "Provincie Drenthe",
+      "code": "NL-DR",
+      "internalCode": "DR",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "latitude": 52.83333,
+      "longitude": 6.58333
+    },
+    {
+      "id": 3319179,
+      "name": "Flevoland",
+      "nativeName": "Provincie Flevoland",
+      "code": "NL-FL",
+      "internalCode": "FL",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "latitude": 52.53333,
+      "longitude": 5.66667
+    },
+    {
+      "id": 2755812,
+      "name": "Friesland",
+      "nativeName": "Provincie Friesland",
+      "code": "NL-FR",
+      "internalCode": "FR",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "latitude": 53.16667,
+      "longitude": 5.83333
+    },
+    {
+      "id": 2755634,
+      "name": "Gelderland",
+      "nativeName": "Provincie Gelderland",
+      "code": "NL-GE",
+      "internalCode": "GE",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "latitude": 52,
+      "longitude": 5.83333
+    },
+    {
+      "id": 2755249,
+      "name": "Groningen",
+      "nativeName": "Provincie Groningen",
+      "code": "NL-GR",
+      "internalCode": "GR",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "latitude": 53.25,
+      "longitude": 6.75
+    },
+    {
+      "id": 2751596,
+      "name": "Limburg",
+      "nativeName": "Provincie Limburg",
+      "code": "NL-LI",
+      "internalCode": "LI",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "latitude": 51.25,
+      "longitude": 6
+    },
+    {
+      "id": 2749990,
+      "name": "North Brabant",
+      "nativeName": "Provincie Noord-Brabant",
+      "code": "NL-NB",
+      "internalCode": "NB",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "latitude": 51.66667,
+      "longitude": 5
+    },
+    {
+      "id": 2749879,
+      "name": "North Holland",
+      "nativeName": "Provincie Noord-Holland",
+      "code": "NL-NH",
+      "internalCode": "NH",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "latitude": 52.58333,
+      "longitude": 4.91667
+    },
+    {
+      "id": 2748838,
+      "name": "Overijssel",
+      "nativeName": "Provincie Overijssel",
+      "code": "NL-OV",
+      "internalCode": "OV",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "latitude": 52.41667,
+      "longitude": 6.5
+    },
+    {
+      "id": 2743698,
+      "name": "South Holland",
+      "nativeName": "Provincie Zuid-Holland",
+      "code": "NL-ZH",
+      "internalCode": "ZH",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "latitude": 52,
+      "longitude": 4.66667
+    },
+    {
+      "id": 2745909,
+      "name": "Utrecht",
+      "nativeName": "Provincie Utrecht",
+      "code": "NL-UT",
+      "internalCode": "UT",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "latitude": 52,
+      "longitude": 5.25
+    },
+    {
+      "id": 2744011,
+      "name": "Zeeland",
+      "nativeName": "Provincie Zeeland",
+      "code": "NL-ZE",
+      "internalCode": "ZE",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "latitude": 51.41667,
+      "longitude": 3.75
+    }
+  ]
+}

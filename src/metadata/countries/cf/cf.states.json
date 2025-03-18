@@ -1,0 +1,226 @@
+{
+  "countryId": 239880,
+  "countryCode": "CF",
+  "states": [
+    {
+      "id": 240591,
+      "name": "Bamingui-Bangoran",
+      "nativeName": "Bamingui-Bangoran",
+      "code": "CF-BB",
+      "internalCode": "BB",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "latitude": 8.41667,
+      "longitude": 20.66667
+    },
+    {
+      "id": 2596686,
+      "name": "Bangui",
+      "nativeName": "Commune de Bangui",
+      "code": "CF-BGF",
+      "internalCode": "BGF",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "latitude": 4.38333,
+      "longitude": 18.56667
+    },
+    {
+      "id": 240396,
+      "name": "Basse-Kotto",
+      "nativeName": "Basse-Kotto",
+      "code": "CF-BK",
+      "internalCode": "BK",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "latitude": 5,
+      "longitude": 21.36667
+    },
+    {
+      "id": 238639,
+      "name": "Haut-Mbomou",
+      "nativeName": "Haut-Mbomou",
+      "code": "CF-HM",
+      "internalCode": "HM",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "latitude": 6.33333,
+      "longitude": 25.66667
+    },
+    {
+      "id": 238640,
+      "name": "Haute-Kotto",
+      "nativeName": "Haute-Kotto",
+      "code": "CF-HK",
+      "internalCode": "HK",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "latitude": 7.41667,
+      "longitude": 23
+    },
+    {
+      "id": 2385836,
+      "name": "Kémo",
+      "nativeName": "Préfecture de la Kémo",
+      "code": "CF-KG",
+      "internalCode": "KG",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "latitude": 5.86667,
+      "longitude": 19.2
+    },
+    {
+      "id": 12902747,
+      "name": "Lim-Pendé",
+      "nativeName": "Lim-Pendé",
+      "code": "CF-21",
+      "internalCode": "",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "latitude": 7.17785,
+      "longitude": 16.34001
+    },
+    {
+      "id": 2385105,
+      "name": "Lobaye",
+      "nativeName": "Lobaye",
+      "code": "CF-LB",
+      "internalCode": "LB",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "latitude": 4.16667,
+      "longitude": 17.66667
+    },
+    {
+      "id": 12902745,
+      "name": "Mambéré",
+      "nativeName": "Mambéré",
+      "code": "CF-19",
+      "internalCode": "",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "latitude": 4.89934,
+      "longitude": 15.87112
+    },
+    {
+      "id": 2386161,
+      "name": "Mambéré-Kadéï",
+      "nativeName": "Mambéré-Kadéï",
+      "code": "CF-HS",
+      "internalCode": "HS",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "latitude": 4.5,
+      "longitude": 16
+    },
+    {
+      "id": 237556,
+      "name": "Mbomou",
+      "nativeName": "Mbomou",
+      "code": "CF-MB",
+      "internalCode": "MB",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "latitude": 5.5,
+      "longitude": 23.33333
+    },
+    {
+      "id": 2386243,
+      "name": "Nana-Grébizi",
+      "nativeName": "Préfecture de la Nana-Grébizi",
+      "code": "CF-KB",
+      "internalCode": "KB",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "latitude": 7.08333,
+      "longitude": 19.33333
+    },
+    {
+      "id": 2384205,
+      "name": "Nana-Mambéré",
+      "nativeName": "Préfecture de la Nana-Mambéré",
+      "code": "CF-NM",
+      "internalCode": "NM",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "latitude": 5.97122,
+      "longitude": 15.26276
+    },
+    {
+      "id": 2383765,
+      "name": "Ombella-M'Poko",
+      "nativeName": "Ombella-Mpoko",
+      "code": "CF-MP",
+      "internalCode": "MP",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "latitude": 5.08333,
+      "longitude": 18
+    },
+    {
+      "id": 236887,
+      "name": "Ouaka",
+      "nativeName": "Ouaka",
+      "code": "CF-UK",
+      "internalCode": "UK",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "latitude": 6.25,
+      "longitude": 20.75
+    },
+    {
+      "id": 2383653,
+      "name": "Ouham",
+      "nativeName": "Ouham",
+      "code": "CF-AC",
+      "internalCode": "AC",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "latitude": 6.68868,
+      "longitude": 17.29882
+    },
+    {
+      "id": 12902746,
+      "name": "Ouham-Fafa",
+      "nativeName": "Ouham-Fafa",
+      "code": "CF-20",
+      "internalCode": "",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "latitude": 7.27678,
+      "longitude": 18.2469
+    },
+    {
+      "id": 2383650,
+      "name": "Ouham-Pendé",
+      "nativeName": "Préfecture de l’Ouham-Pendé",
+      "code": "CF-OP",
+      "internalCode": "OP",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "latitude": 6.75,
+      "longitude": 16.08333
+    },
+    {
+      "id": 2383204,
+      "name": "Sangha-Mbaéré",
+      "nativeName": "Préfecture de la Sangha-Mbaéré",
+      "code": "CF-SE",
+      "internalCode": "SE",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "latitude": 3.5,
+      "longitude": 16.16667
+    },
+    {
+      "id": 236178,
+      "name": "Vakaga",
+      "nativeName": "Vakaga",
+      "code": "CF-VK",
+      "internalCode": "VK",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "latitude": 9.83333,
+      "longitude": 22.5
+    }
+  ]
+}

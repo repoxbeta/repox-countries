@@ -1,0 +1,260 @@
+{
+  "stateId": 1282208,
+  "stateCode": "MV-26",
+  "countryCode": "MV",
+  "cities": [
+    {
+      "id": 1282027,
+      "name": "Malé",
+      "nativeName": "Male",
+      "code": "MV-26-1282027",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-26",
+      "latitude": 4.17521,
+      "longitude": 73.50916
+    },
+    {
+      "id": 6692730,
+      "name": "Bodubados",
+      "nativeName": "Bodubados",
+      "code": "MV-26-6692730",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-26",
+      "latitude": 4.26972,
+      "longitude": 73.49184
+    },
+    {
+      "id": 6692743,
+      "name": "Eboodhoo",
+      "nativeName": "Eboodhoo",
+      "code": "MV-26-6692743",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-26",
+      "latitude": 4.08337,
+      "longitude": 73.51235
+    },
+    {
+      "id": 6692744,
+      "name": "Eboodhoofinolhu",
+      "nativeName": "Eboodhoofinolhu",
+      "code": "MV-26-6692744",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-26",
+      "latitude": 4.10336,
+      "longitude": 73.52523
+    },
+    {
+      "id": 6692731,
+      "name": "Eriyadu",
+      "nativeName": "Eriyadu",
+      "code": "MV-26-6692731",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-26",
+      "latitude": 4.59029,
+      "longitude": 73.41425
+    },
+    {
+      "id": 6692735,
+      "name": "Furanafushi",
+      "nativeName": "Furanafushi",
+      "code": "MV-26-6692735",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-26",
+      "latitude": 4.24952,
+      "longitude": 73.54729
+    },
+    {
+      "id": 11128180,
+      "name": "Gaafaru",
+      "nativeName": "Gaafaru",
+      "code": "MV-26-11128180",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-26",
+      "latitude": 4.73548,
+      "longitude": 73.49929
+    },
+    {
+      "id": 11103468,
+      "name": "Guraidhoo",
+      "nativeName": "Guraidhoo",
+      "code": "MV-26-11103468",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-26",
+      "latitude": 3.90045,
+      "longitude": 73.46623
+    },
+    {
+      "id": 9973321,
+      "name": "Himmafushi",
+      "nativeName": "Himmafushi",
+      "code": "MV-26-9973321",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-26",
+      "latitude": 4.30967,
+      "longitude": 73.57079
+    },
+    {
+      "id": 6930996,
+      "name": "Hulhumale",
+      "nativeName": "Hulhumale",
+      "code": "MV-26-6930996",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-26",
+      "latitude": 4.21169,
+      "longitude": 73.54008
+    },
+    {
+      "id": 11103795,
+      "name": "Huraa",
+      "nativeName": "Huraa",
+      "code": "MV-26-11103795",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-26",
+      "latitude": 4.33357,
+      "longitude": 73.60119
+    },
+    {
+      "id": 6692736,
+      "name": "Kanu Huraa",
+      "nativeName": "Kanu Huraa",
+      "code": "MV-26-6692736",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-26",
+      "latitude": 4.3183,
+      "longitude": 73.59175
+    },
+    {
+      "id": 11776468,
+      "name": "Kuda Huura",
+      "nativeName": "Kuda Huura",
+      "code": "MV-26-11776468",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-26",
+      "latitude": 4.32822,
+      "longitude": 73.59761
+    },
+    {
+      "id": 6692737,
+      "name": "Lankan Finolhu",
+      "nativeName": "Lankan Finolhu",
+      "code": "MV-26-6692737",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-26",
+      "latitude": 4.28526,
+      "longitude": 73.55398
+    },
+    {
+      "id": 11777962,
+      "name": "Maafushi",
+      "nativeName": "Maafushi",
+      "code": "MV-26-11777962",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-26",
+      "latitude": 3.94231,
+      "longitude": 73.4907
+    },
+    {
+      "id": 8199135,
+      "name": "Malé Atoll",
+      "nativeName": "Nord Malé Atoll",
+      "code": "MV-26-8199135",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-26",
+      "latitude": 4.41667,
+      "longitude": 73.50013
+    },
+    {
+      "id": 6692738,
+      "name": "Meerufenfushi",
+      "nativeName": "Meerufenfushi",
+      "code": "MV-26-6692738",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-26",
+      "latitude": 4.45355,
+      "longitude": 73.71689
+    },
+    {
+      "id": 8199141,
+      "name": "South Malé Atoll",
+      "nativeName": "South Malé Atoll",
+      "code": "MV-26-8199141",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-26",
+      "latitude": 4,
+      "longitude": 73.41667
+    },
+    {
+      "id": 6692739,
+      "name": "Thulhaagiri",
+      "nativeName": "Thulhaagiri",
+      "code": "MV-26-6692739",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-26",
+      "latitude": 4.31154,
+      "longitude": 73.48759
+    },
+    {
+      "id": 11428107,
+      "name": "Thulusdhoo",
+      "nativeName": "Thulusdhoo",
+      "code": "MV-26-11428107",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-26",
+      "latitude": 4.37421,
+      "longitude": 73.65269
+    },
+    {
+      "id": 8199133,
+      "name": "Vabbinfaru Island",
+      "nativeName": "Vabbinfaru Island",
+      "code": "MV-26-8199133",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-26",
+      "latitude": 4.30979,
+      "longitude": 73.42385
+    },
+    {
+      "id": 6692740,
+      "name": "Vihamanaafushi",
+      "nativeName": "Vihamanaafushi",
+      "code": "MV-26-6692740",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-26",
+      "latitude": 4.22643,
+      "longitude": 73.51986
+    },
+    {
+      "id": 6692741,
+      "name": "Ziyaaraiyfushi",
+      "nativeName": "Ziyaaraiyfushi",
+      "code": "MV-26-6692741",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-26",
+      "latitude": 4.53352,
+      "longitude": 73.37249
+    }
+  ]
+}

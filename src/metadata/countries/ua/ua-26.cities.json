@@ -1,0 +1,73 @@
+{
+  "stateId": 707470,
+  "stateCode": "UA-26",
+  "countryCode": "UA",
+  "cities": [
+    {
+      "id": 12189526,
+      "name": "Ivano-Frankivsk Raion",
+      "nativeName": "Ivano-Frankivskyi Raion",
+      "code": "UA-26-12189526",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-26",
+      "latitude": 49.01,
+      "longitude": 24.69
+    },
+    {
+      "id": 707098,
+      "name": "Kalush Raion",
+      "nativeName": "Kalush Raion",
+      "code": "UA-26-707098",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-26",
+      "latitude": 49.02365,
+      "longitude": 24.37073
+    },
+    {
+      "id": 705389,
+      "name": "Kolomyya Raion",
+      "nativeName": "Kolomyya Raion",
+      "code": "UA-26-705389",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-26",
+      "latitude": 48.52266,
+      "longitude": 25.0323
+    },
+    {
+      "id": 704755,
+      "name": "Kosiv Raion",
+      "nativeName": "Kosiv Raion",
+      "code": "UA-26-704755",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-26",
+      "latitude": 48.32019,
+      "longitude": 25.09091
+    },
+    {
+      "id": 700505,
+      "name": "Nadvirna Raion",
+      "nativeName": "Nadvirna Raion",
+      "code": "UA-26-700505",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-26",
+      "latitude": 48.63391,
+      "longitude": 24.56725
+    },
+    {
+      "id": 689814,
+      "name": "Verkhovyna Raion",
+      "nativeName": "Verkhovyna Raion",
+      "code": "UA-26-689814",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-26",
+      "latitude": 48.15535,
+      "longitude": 24.8331
+    }
+  ]
+}

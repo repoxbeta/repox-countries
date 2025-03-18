@@ -1,0 +1,95 @@
+{
+  "stateId": 2507899,
+  "stateCode": "DZ-46",
+  "countryCode": "DZ",
+  "cities": [
+    {
+      "id": 12952562,
+      "name": "Ain Kihel",
+      "nativeName": "Ain Kihel",
+      "code": "DZ-46-12952562",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-46",
+      "latitude": 35.19984,
+      "longitude": -1.12187
+    },
+    {
+      "id": 12952558,
+      "name": "Ain Larbaa",
+      "nativeName": "Aïn Larbaâ",
+      "code": "DZ-46-12952558",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-46",
+      "latitude": 35.41678,
+      "longitude": -0.76879
+    },
+    {
+      "id": 12952559,
+      "name": "Ain Temouchent",
+      "nativeName": "Ain Temouchent",
+      "code": "DZ-46-12952559",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-46",
+      "latitude": 35.29893,
+      "longitude": -1.181
+    },
+    {
+      "id": 2504579,
+      "name": "Daïra de Beni Saf",
+      "nativeName": "Daïra de Beni Saf",
+      "code": "DZ-46-2504579",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-46",
+      "latitude": 35.25,
+      "longitude": -1.41667
+    },
+    {
+      "id": 12952421,
+      "name": "El Amria",
+      "nativeName": "El Amria",
+      "code": "DZ-46-12952421",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-46",
+      "latitude": 35.52083,
+      "longitude": -1.09538
+    },
+    {
+      "id": 12952564,
+      "name": "El Maleh",
+      "nativeName": "El Maleh",
+      "code": "DZ-46-12952564",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-46",
+      "latitude": 35.3809,
+      "longitude": -1.14637
+    },
+    {
+      "id": 12952567,
+      "name": "Hammam Bou Hadjar",
+      "nativeName": "Hammam Bou Hadjar",
+      "code": "DZ-46-12952567",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-46",
+      "latitude": 35.32221,
+      "longitude": -0.97497
+    },
+    {
+      "id": 12952569,
+      "name": "Oulhassa Gheraba",
+      "nativeName": "Oulhassa Gheraba",
+      "code": "DZ-46-12952569",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-46",
+      "latitude": 35.22499,
+      "longitude": -1.49519
+    }
+  ]
+}

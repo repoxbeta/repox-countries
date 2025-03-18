@@ -1,0 +1,29 @@
+{
+  "stateId": 8239588,
+  "stateCode": "MM-18",
+  "countryCode": "MM",
+  "cities": [
+    {
+      "id": 11154023,
+      "name": "Nay Pyi Taw (North)",
+      "nativeName": "Nay Pyi Taw (North)",
+      "code": "MM-18-11154023",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-18",
+      "latitude": 20.04775,
+      "longitude": 96.1384
+    },
+    {
+      "id": 11154018,
+      "name": "Nay Pyi Taw (South)",
+      "nativeName": "Nay Pyi Taw (South)",
+      "code": "MM-18-11154018",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-18",
+      "latitude": 19.6402,
+      "longitude": 96.16847
+    }
+  ]
+}

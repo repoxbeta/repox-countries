@@ -1,0 +1,95 @@
+{
+  "stateId": 3830307,
+  "stateCode": "NI-AN",
+  "countryCode": "NI",
+  "cities": [
+    {
+      "id": 3617153,
+      "name": "Bilwi",
+      "nativeName": "Bilwi",
+      "code": "NI-AN-3617153",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-AN",
+      "latitude": 14.04009,
+      "longitude": -83.3937
+    },
+    {
+      "id": 9166065,
+      "name": "Mulukuku",
+      "nativeName": "Mulukuku",
+      "code": "NI-AN-9166065",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-AN",
+      "latitude": 13.16975,
+      "longitude": -84.96191
+    },
+    {
+      "id": 9166062,
+      "name": "Municipality of Bonanza",
+      "nativeName": "Municipality of Bonanza",
+      "code": "NI-AN-9166062",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-AN",
+      "latitude": 14.02968,
+      "longitude": -84.59679
+    },
+    {
+      "id": 3617168,
+      "name": "Municipality of Prinzapolka",
+      "nativeName": "Municipality of Prinzapolka",
+      "code": "NI-AN-3617168",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-AN",
+      "latitude": 13.53752,
+      "longitude": -83.95807
+    },
+    {
+      "id": 8693133,
+      "name": "Municipality of Rosita",
+      "nativeName": "Municipality of Rosita",
+      "code": "NI-AN-8693133",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-AN",
+      "latitude": 13.88333,
+      "longitude": -84.4
+    },
+    {
+      "id": 8335435,
+      "name": "Municipality of Siuna",
+      "nativeName": "Municipality of Siuna",
+      "code": "NI-AN-8335435",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-AN",
+      "latitude": 13.7417,
+      "longitude": -84.78653
+    },
+    {
+      "id": 8335437,
+      "name": "Municipality of Waslala",
+      "nativeName": "Municipality of Waslala",
+      "code": "NI-AN-8335437",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-AN",
+      "latitude": 13.33351,
+      "longitude": -85.36286
+    },
+    {
+      "id": 3615729,
+      "name": "Municipio de Waspán",
+      "nativeName": "Municipio de Waspán",
+      "code": "NI-AN-3615729",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-AN",
+      "latitude": 14.58333,
+      "longitude": -84.41667
+    }
+  ]
+}

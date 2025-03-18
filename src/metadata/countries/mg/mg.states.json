@@ -1,0 +1,259 @@
+{
+  "countryId": 1062947,
+  "countryCode": "MG",
+  "states": [
+    {
+      "id": 7670851,
+      "name": "Alaotra Mangoro Region",
+      "nativeName": "Alaotra Mangoro Region",
+      "code": "MG-33",
+      "internalCode": "",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "latitude": -17.9,
+      "longitude": 48.4
+    },
+    {
+      "id": 7670904,
+      "name": "Amoron'i Mania Region",
+      "nativeName": "Amoron'i Mania Region",
+      "code": "MG-22",
+      "internalCode": "",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "latitude": -20.5,
+      "longitude": 46.7
+    },
+    {
+      "id": 7670856,
+      "name": "Analamanga Region",
+      "nativeName": "Analamanga Region",
+      "code": "MG-11",
+      "internalCode": "",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "latitude": -18.45,
+      "longitude": 47.5
+    },
+    {
+      "id": 7670848,
+      "name": "Analanjirofo Region",
+      "nativeName": "Analanjirofo Region",
+      "code": "MG-32",
+      "internalCode": "",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "latitude": -16.5,
+      "longitude": 49.5
+    },
+    {
+      "id": 7670911,
+      "name": "Androy Region",
+      "nativeName": "Androy Region",
+      "code": "MG-52",
+      "internalCode": "",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "latitude": -24.75,
+      "longitude": 45.5
+    },
+    {
+      "id": 7670910,
+      "name": "Anosy Region",
+      "nativeName": "Anosy Region",
+      "code": "MG-53",
+      "internalCode": "",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "latitude": -24.1,
+      "longitude": 46.3
+    },
+    {
+      "id": 7670913,
+      "name": "Atsimo-Andrefana Region",
+      "nativeName": "Atsimo-Andrefana Region",
+      "code": "MG-51",
+      "internalCode": "",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "latitude": -23.2,
+      "longitude": 44.4
+    },
+    {
+      "id": 7670908,
+      "name": "Atsimo-Atsinanana",
+      "nativeName": "Atsimo-Atsinanana Region",
+      "code": "MG-25",
+      "internalCode": "",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "latitude": -23.2,
+      "longitude": 47.4
+    },
+    {
+      "id": 7670857,
+      "name": "Atsinanana Region",
+      "nativeName": "Atsinanana Region",
+      "code": "MG-31",
+      "internalCode": "",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "latitude": -19,
+      "longitude": 48.9
+    },
+    {
+      "id": 7670850,
+      "name": "Betsiboka Region",
+      "nativeName": "Betsiboka Region",
+      "code": "MG-43",
+      "internalCode": "",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "latitude": -17.2,
+      "longitude": 47.1
+    },
+    {
+      "id": 7670849,
+      "name": "Boeny Region",
+      "nativeName": "Boeny Region",
+      "code": "MG-41",
+      "internalCode": "",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "latitude": -16.3,
+      "longitude": 46.1
+    },
+    {
+      "id": 7670853,
+      "name": "Bongolava Region",
+      "nativeName": "Bongolava Region",
+      "code": "MG-14",
+      "internalCode": "",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "latitude": -18.5,
+      "longitude": 46.1
+    },
+    {
+      "id": 7670842,
+      "name": "Diana Region",
+      "nativeName": "Diana Region",
+      "code": "MG-71",
+      "internalCode": "",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "latitude": -13.5,
+      "longitude": 49
+    },
+    {
+      "id": 12494965,
+      "name": "Fitovinany Region",
+      "nativeName": "Fitovinany Region",
+      "code": "MG-26",
+      "internalCode": "",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "latitude": -21.87699,
+      "longitude": 47.82259
+    },
+    {
+      "id": 7670907,
+      "name": "Ihorombe Region",
+      "nativeName": "Ihorombe Region",
+      "code": "MG-24",
+      "internalCode": "",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "latitude": -22.3,
+      "longitude": 46.2
+    },
+    {
+      "id": 7670855,
+      "name": "Itasy Region",
+      "nativeName": "Itasy Region",
+      "code": "MG-13",
+      "internalCode": "",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "latitude": -18.95,
+      "longitude": 46.95
+    },
+    {
+      "id": 7670852,
+      "name": "Melaky Region",
+      "nativeName": "Melaky Region",
+      "code": "MG-44",
+      "internalCode": "",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "latitude": -17.6,
+      "longitude": 44.8
+    },
+    {
+      "id": 7670902,
+      "name": "Menabe Region",
+      "nativeName": "Menabe Region",
+      "code": "MG-54",
+      "internalCode": "",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "latitude": -20.2,
+      "longitude": 45.07
+    },
+    {
+      "id": 7670846,
+      "name": "Sava Region",
+      "nativeName": "Sava Region",
+      "code": "MG-72",
+      "internalCode": "",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "latitude": -14.2,
+      "longitude": 49.8
+    },
+    {
+      "id": 7670847,
+      "name": "Sofia Region",
+      "nativeName": "Sofia Region",
+      "code": "MG-42",
+      "internalCode": "",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "latitude": -15.2,
+      "longitude": 48.4
+    },
+    {
+      "id": 7670905,
+      "name": "Upper Matsiatra",
+      "nativeName": "Haute Matsiatra Region",
+      "code": "MG-21",
+      "internalCode": "",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "latitude": -21.37,
+      "longitude": 46.5
+    },
+    {
+      "id": 7670854,
+      "name": "Vakinankaratra Region",
+      "nativeName": "Vakinankaratra Region",
+      "code": "MG-12",
+      "internalCode": "",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "latitude": -19.7,
+      "longitude": 46.9
+    },
+    {
+      "id": 12494968,
+      "name": "Vatovavy Region",
+      "nativeName": "Vatovavy Region",
+      "code": "MG-27",
+      "internalCode": "",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "latitude": -20.78219,
+      "longitude": 48.00162
+    }
+  ]
+}

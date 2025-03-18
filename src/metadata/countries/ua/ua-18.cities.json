@@ -1,0 +1,51 @@
+{
+  "stateId": 686966,
+  "stateCode": "UA-18",
+  "countryCode": "UA",
+  "cities": [
+    {
+      "id": 712457,
+      "name": "Berdychiv Raion",
+      "nativeName": "Berdychivskyy Rayon",
+      "code": "UA-18-712457",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-18",
+      "latitude": 49.91667,
+      "longitude": 28.58333
+    },
+    {
+      "id": 704899,
+      "name": "Korosten Raion",
+      "nativeName": "Korosten' Raion",
+      "code": "UA-18-704899",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-18",
+      "latitude": 50.91667,
+      "longitude": 28.5
+    },
+    {
+      "id": 687124,
+      "name": "Zhytomyr Raion",
+      "nativeName": "Zhytomyr Raion",
+      "code": "UA-18-687124",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-18",
+      "latitude": 50.25,
+      "longitude": 28.58333
+    },
+    {
+      "id": 9640803,
+      "name": "Zviahel Raion",
+      "nativeName": "Zviahel Raion",
+      "code": "UA-18-9640803",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-18",
+      "latitude": 50.59204,
+      "longitude": 27.62766
+    }
+  ]
+}

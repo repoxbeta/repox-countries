@@ -1,0 +1,73 @@
+{
+  "stateId": 2659495,
+  "stateCode": "CH-NE",
+  "countryCode": "CH",
+  "cities": [
+    {
+      "id": 6458825,
+      "name": "Boudry District",
+      "nativeName": "Boudry District",
+      "code": "CH-NE-6458825",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-NE",
+      "latitude": 46.94594,
+      "longitude": 6.82842
+    },
+    {
+      "id": 6458831,
+      "name": "La Chaux-de-Fonds District",
+      "nativeName": "La Chaux-de-Fonds District",
+      "code": "CH-NE-6458831",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-NE",
+      "latitude": 47.12159,
+      "longitude": 6.84064
+    },
+    {
+      "id": 6458809,
+      "name": "Le Locle District",
+      "nativeName": "Le Locle District",
+      "code": "CH-NE-6458809",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-NE",
+      "latitude": 47.01927,
+      "longitude": 6.69635
+    },
+    {
+      "id": 6458886,
+      "name": "Neuchâtel District",
+      "nativeName": "Neuchâtel District",
+      "code": "CH-NE-6458886",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-NE",
+      "latitude": 47.01799,
+      "longitude": 6.99337
+    },
+    {
+      "id": 6458812,
+      "name": "Val-de-Ruz District",
+      "nativeName": "Val-de-Ruz District",
+      "code": "CH-NE-6458812",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-NE",
+      "latitude": 47.04008,
+      "longitude": 6.90829
+    },
+    {
+      "id": 6458835,
+      "name": "Val-de-Travers District",
+      "nativeName": "Val-de-Travers District",
+      "code": "CH-NE-6458835",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-NE",
+      "latitude": 46.90357,
+      "longitude": 6.5631
+    }
+  ]
+}

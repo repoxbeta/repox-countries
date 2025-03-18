@@ -1,0 +1,194 @@
+{
+  "stateId": 2324828,
+  "stateCode": "NG-PL",
+  "countryCode": "NG",
+  "cities": [
+    {
+      "id": 8634511,
+      "name": "Barkin Ladi",
+      "nativeName": "Barkin Ladi",
+      "code": "NG-PL-8634511",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-PL",
+      "latitude": 9.54969,
+      "longitude": 8.9344
+    },
+    {
+      "id": 8634516,
+      "name": "Bassa",
+      "nativeName": "Bassa",
+      "code": "NG-PL-8634516",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-PL",
+      "latitude": 10.08201,
+      "longitude": 8.78479
+    },
+    {
+      "id": 8634510,
+      "name": "Bokkos",
+      "nativeName": "Bokkos",
+      "code": "NG-PL-8634510",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-PL",
+      "latitude": 9.22692,
+      "longitude": 8.92677
+    },
+    {
+      "id": 8634515,
+      "name": "Jos East",
+      "nativeName": "Jos East",
+      "code": "NG-PL-8634515",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-PL",
+      "latitude": 9.89109,
+      "longitude": 9.11793
+    },
+    {
+      "id": 8634514,
+      "name": "Jos North",
+      "nativeName": "Jos North",
+      "code": "NG-PL-8634514",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-PL",
+      "latitude": 9.93937,
+      "longitude": 8.90221
+    },
+    {
+      "id": 8634513,
+      "name": "Jos South",
+      "nativeName": "Jos South",
+      "code": "NG-PL-8634513",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-PL",
+      "latitude": 9.75497,
+      "longitude": 8.83524
+    },
+    {
+      "id": 8634505,
+      "name": "Kanam",
+      "nativeName": "Kanam",
+      "code": "NG-PL-8634505",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-PL",
+      "latitude": 9.54882,
+      "longitude": 10.09733
+    },
+    {
+      "id": 8634506,
+      "name": "Kanke",
+      "nativeName": "Kanke",
+      "code": "NG-PL-8634506",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-PL",
+      "latitude": 9.39313,
+      "longitude": 9.63285
+    },
+    {
+      "id": 8634507,
+      "name": "Langtang North",
+      "nativeName": "Langtang North",
+      "code": "NG-PL-8634507",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-PL",
+      "latitude": 9.05651,
+      "longitude": 9.82247
+    },
+    {
+      "id": 8634539,
+      "name": "Langtang South",
+      "nativeName": "Langtang South",
+      "code": "NG-PL-8634539",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-PL",
+      "latitude": 8.60247,
+      "longitude": 9.81029
+    },
+    {
+      "id": 8634509,
+      "name": "Mangu",
+      "nativeName": "Mangu",
+      "code": "NG-PL-8634509",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-PL",
+      "latitude": 9.39052,
+      "longitude": 9.17968
+    },
+    {
+      "id": 8634517,
+      "name": "Mikang",
+      "nativeName": "Mikang",
+      "code": "NG-PL-8634517",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-PL",
+      "latitude": 9.00693,
+      "longitude": 9.6085
+    },
+    {
+      "id": 7730022,
+      "name": "Pankshin",
+      "nativeName": "Pankshin",
+      "code": "NG-PL-7730022",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-PL",
+      "latitude": 9.21598,
+      "longitude": 9.3988
+    },
+    {
+      "id": 8634518,
+      "name": "Qua'An Pan",
+      "nativeName": "Qua'An Pan",
+      "code": "NG-PL-8634518",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-PL",
+      "latitude": 8.76078,
+      "longitude": 9.16142
+    },
+    {
+      "id": 8634512,
+      "name": "Riyom",
+      "nativeName": "Riyom",
+      "code": "NG-PL-8634512",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-PL",
+      "latitude": 9.56796,
+      "longitude": 8.68476
+    },
+    {
+      "id": 7730025,
+      "name": "Shendam",
+      "nativeName": "Shendam",
+      "code": "NG-PL-7730025",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-PL",
+      "latitude": 8.71667,
+      "longitude": 9.5
+    },
+    {
+      "id": 8634508,
+      "name": "Wase",
+      "nativeName": "Wase",
+      "code": "NG-PL-8634508",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-PL",
+      "latitude": 9.08261,
+      "longitude": 10.20519
+    }
+  ]
+}

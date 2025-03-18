@@ -1,0 +1,84 @@
+{
+  "stateId": 1147707,
+  "stateCode": "AF-BDG",
+  "countryCode": "AF",
+  "cities": [
+    {
+      "id": 7052794,
+      "name": "Bala Murghab District",
+      "nativeName": "Murghāb",
+      "code": "AF-BDG-7052794",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-BDG",
+      "latitude": 35.46737,
+      "longitude": 63.47216
+    },
+    {
+      "id": 7052787,
+      "name": "Ghormach District",
+      "nativeName": "Ghōrmāch",
+      "code": "AF-BDG-7052787",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-BDG",
+      "latitude": 35.73105,
+      "longitude": 63.77898
+    },
+    {
+      "id": 7052790,
+      "name": "Jawand District",
+      "nativeName": "Jowand",
+      "code": "AF-BDG-7052790",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-BDG",
+      "latitude": 35.00228,
+      "longitude": 64.33632
+    },
+    {
+      "id": 7052792,
+      "name": "Muqur District",
+      "nativeName": "Muqur",
+      "code": "AF-BDG-7052792",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-BDG",
+      "latitude": 35.17006,
+      "longitude": 63.10509
+    },
+    {
+      "id": 7052795,
+      "name": "Qadis District",
+      "nativeName": "Qādis",
+      "code": "AF-BDG-7052795",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-BDG",
+      "latitude": 34.81559,
+      "longitude": 63.5842
+    },
+    {
+      "id": 7052796,
+      "name": "Qal‘ah-ye Now District",
+      "nativeName": "Qal‘ah-ye Now",
+      "code": "AF-BDG-7052796",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-BDG",
+      "latitude": 34.8107,
+      "longitude": 63.12353
+    },
+    {
+      "id": 7052785,
+      "name": "Āb-e Kamarī",
+      "nativeName": "Āb-e Kamarī",
+      "code": "AF-BDG-7052785",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-BDG",
+      "latitude": 34.92509,
+      "longitude": 62.90171
+    }
+  ]
+}

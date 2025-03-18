@@ -1,0 +1,117 @@
+{
+  "stateId": 2712411,
+  "stateCode": "SE-X",
+  "countryCode": "SE",
+  "cities": [
+    {
+      "id": 2720678,
+      "name": "Bollnäs Municipality",
+      "nativeName": "Bollnäs Kommun",
+      "code": "SE-X-2720678",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-X",
+      "latitude": 61.31418,
+      "longitude": 16.41725
+    },
+    {
+      "id": 2712409,
+      "name": "Gävle Municipality",
+      "nativeName": "Gävle Kommun",
+      "code": "SE-X-2712409",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-X",
+      "latitude": 60.6426,
+      "longitude": 17.12066
+    },
+    {
+      "id": 2706055,
+      "name": "Hofors Municipality",
+      "nativeName": "Hofors Kommun",
+      "code": "SE-X-2706055",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-X",
+      "latitude": 60.49619,
+      "longitude": 16.41088
+    },
+    {
+      "id": 2704611,
+      "name": "Hudiksvall Municipality",
+      "nativeName": "Hudiksvalls Kommun",
+      "code": "SE-X-2704611",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-X",
+      "latitude": 61.76615,
+      "longitude": 16.77055
+    },
+    {
+      "id": 2694502,
+      "name": "Ljusdal Municipality",
+      "nativeName": "Ljusdals Kommun",
+      "code": "SE-X-2694502",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-X",
+      "latitude": 61.85527,
+      "longitude": 15.50695
+    },
+    {
+      "id": 2689383,
+      "name": "Nordanstig Municipality",
+      "nativeName": "Nordanstigs kommun",
+      "code": "SE-X-2689383",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-X",
+      "latitude": 62.05261,
+      "longitude": 16.91378
+    },
+    {
+      "id": 2687516,
+      "name": "Ockelbo Municipality",
+      "nativeName": "Ockelbo Kommun",
+      "code": "SE-X-2687516",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-X",
+      "latitude": 60.94179,
+      "longitude": 16.57003
+    },
+    {
+      "id": 2685092,
+      "name": "Ovanåker Municipality",
+      "nativeName": "Ovanåkers Kommun",
+      "code": "SE-X-2685092",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-X",
+      "latitude": 61.33328,
+      "longitude": 15.78067
+    },
+    {
+      "id": 2680068,
+      "name": "Sandviken Municipality",
+      "nativeName": "Sandvikens Kommun",
+      "code": "SE-X-2680068",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-X",
+      "latitude": 60.55029,
+      "longitude": 16.68461
+    },
+    {
+      "id": 2676222,
+      "name": "Söderhamn",
+      "nativeName": "Söderhamns Kommun",
+      "code": "SE-X-2676222",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-X",
+      "latitude": 61.25371,
+      "longitude": 16.94879
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "stateId": 242246,
+  "stateCode": "TD-OD",
+  "countryCode": "TD",
+  "cities": [
+    {
+      "id": 12186546,
+      "name": "Abdi",
+      "nativeName": "Abdi",
+      "code": "TD-OD-12186546",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-OD",
+      "latitude": 12.90371,
+      "longitude": 21.23896
+    },
+    {
+      "id": 12186831,
+      "name": "Abougoudam",
+      "nativeName": "Abougoudam",
+      "code": "TD-OD-12186831",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-OD",
+      "latitude": 13.54752,
+      "longitude": 20.64976
+    },
+    {
+      "id": 10377165,
+      "name": "Assoungha Department",
+      "nativeName": "Assoungha Department",
+      "code": "TD-OD-10377165",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-OD",
+      "latitude": 13.66237,
+      "longitude": 21.91554
+    },
+    {
+      "id": 8659323,
+      "name": "Ouara",
+      "nativeName": "Ouara",
+      "code": "TD-OD-8659323",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-OD",
+      "latitude": 14.18333,
+      "longitude": 20.7
+    }
+  ]
+}

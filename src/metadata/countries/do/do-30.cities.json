@@ -1,0 +1,40 @@
+{
+  "stateId": 3504766,
+  "stateCode": "DO-30",
+  "countryCode": "DO",
+  "cities": [
+    {
+      "id": 3506042,
+      "name": "El Valle",
+      "nativeName": "El Valle",
+      "code": "DO-30-3506042",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-30",
+      "latitude": 18.93333,
+      "longitude": -69.38333
+    },
+    {
+      "id": 3504769,
+      "name": "Hato Mayor",
+      "nativeName": "Hato Mayor",
+      "code": "DO-30-3504769",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-30",
+      "latitude": 18.7,
+      "longitude": -69.33333
+    },
+    {
+      "id": 3493569,
+      "name": "Sabana de la Mar",
+      "nativeName": "Sabana de La Mar",
+      "code": "DO-30-3493569",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-30",
+      "latitude": 19.03333,
+      "longitude": -69.41667
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "countryId": 337996,
+  "countryCode": "ET",
+  "states": [
+    {
+      "id": 444178,
+      "name": "Addis Ababa",
+      "nativeName": "Addis Ababa",
+      "code": "ET-AA",
+      "internalCode": "AA",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "latitude": 9,
+      "longitude": 38.75
+    },
+    {
+      "id": 444180,
+      "name": "Amhara",
+      "nativeName": "Amhara Region",
+      "code": "ET-AM",
+      "internalCode": "AM",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "latitude": 11.5,
+      "longitude": 38.5
+    },
+    {
+      "id": 444181,
+      "name": "Bīnshangul Gumuz",
+      "nativeName": "Benishangul-Gumuz Region",
+      "code": "ET-BE",
+      "internalCode": "BE",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "latitude": 11,
+      "longitude": 35.5
+    },
+    {
+      "id": 12902749,
+      "name": "Central Ethiopia Regional State",
+      "nativeName": "Central Ethiopia Regional State",
+      "code": "ET-55",
+      "internalCode": "",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "latitude": 7.55605,
+      "longitude": 37.82593
+    },
+    {
+      "id": 444182,
+      "name": "Dire Dawa",
+      "nativeName": "Dire Dawa Region",
+      "code": "ET-DD",
+      "internalCode": "DD",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "latitude": 9.567,
+      "longitude": 42.014
+    },
+    {
+      "id": 444183,
+      "name": "Gambela",
+      "nativeName": "Gambela Region",
+      "code": "ET-GA",
+      "internalCode": "GA",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "latitude": 7.83333,
+      "longitude": 34.5
+    },
+    {
+      "id": 444184,
+      "name": "Harari",
+      "nativeName": "Harari Region",
+      "code": "ET-HA",
+      "internalCode": "HA",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "latitude": 9.25,
+      "longitude": 42.16667
+    },
+    {
+      "id": 444185,
+      "name": "Oromiya",
+      "nativeName": "Oromiya Region",
+      "code": "ET-OR",
+      "internalCode": "OR",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "latitude": 8,
+      "longitude": 39
+    },
+    {
+      "id": 8299784,
+      "name": "Sidama Region",
+      "nativeName": "Sidama Region",
+      "code": "ET-SI",
+      "internalCode": "",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "latitude": 6.718,
+      "longitude": 38.448
+    },
+    {
+      "id": 444186,
+      "name": "Somali",
+      "nativeName": "Somali Region",
+      "code": "ET-SO",
+      "internalCode": "SO",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "latitude": 7,
+      "longitude": 44
+    },
+    {
+      "id": 12902766,
+      "name": "South Ethiopia Regional State",
+      "nativeName": "South Ethiopia Regional State",
+      "code": "ET-56",
+      "internalCode": "",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "latitude": 6.86327,
+      "longitude": 37.7351
+    },
+    {
+      "id": 12902784,
+      "name": "South West Ethiopia Peoples' Region",
+      "nativeName": "South West Ethiopia Peoples' Region",
+      "code": "ET-SW",
+      "internalCode": "",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "latitude": 7.26212,
+      "longitude": 36.23569
+    },
+    {
+      "id": 444187,
+      "name": "Tigray",
+      "nativeName": "Tigray Region",
+      "code": "ET-TI",
+      "internalCode": "TI",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "latitude": 14.16667,
+      "longitude": 38.83333
+    },
+    {
+      "id": 444179,
+      "name": "Āfar",
+      "nativeName": "Afar Region",
+      "code": "ET-AF",
+      "internalCode": "AF",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "latitude": 12,
+      "longitude": 41.5
+    }
+  ]
+}

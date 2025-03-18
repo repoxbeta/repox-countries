@@ -1,0 +1,84 @@
+{
+  "stateId": 1147239,
+  "stateCode": "AF-BAM",
+  "countryCode": "AF",
+  "cities": [
+    {
+      "id": 7732055,
+      "name": "Bamyan District",
+      "nativeName": "Bamyan",
+      "code": "AF-BAM-7732055",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-BAM",
+      "latitude": 34.79547,
+      "longitude": 67.67298
+    },
+    {
+      "id": 7052911,
+      "name": "Kahmard District",
+      "nativeName": "Kahmard",
+      "code": "AF-BAM-7052911",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-BAM",
+      "latitude": 35.35695,
+      "longitude": 67.77567
+    },
+    {
+      "id": 7052912,
+      "name": "Panjab District",
+      "nativeName": "Panjāb",
+      "code": "AF-BAM-7052912",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-BAM",
+      "latitude": 34.42206,
+      "longitude": 66.93046
+    },
+    {
+      "id": 7052913,
+      "name": "Sayghan District",
+      "nativeName": "Sayghān",
+      "code": "AF-BAM-7052913",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-BAM",
+      "latitude": 35.11802,
+      "longitude": 67.61046
+    },
+    {
+      "id": 7732337,
+      "name": "Shibar District",
+      "nativeName": "Shibar",
+      "code": "AF-BAM-7732337",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-BAM",
+      "latitude": 34.86522,
+      "longitude": 68.14492
+    },
+    {
+      "id": 7052915,
+      "name": "Waras District",
+      "nativeName": "Waras̄",
+      "code": "AF-BAM-7052915",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-BAM",
+      "latitude": 34.15135,
+      "longitude": 66.9735
+    },
+    {
+      "id": 7052916,
+      "name": "Yakawlang District",
+      "nativeName": "Yakāwlang",
+      "code": "AF-BAM-7052916",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-BAM",
+      "latitude": 34.97904,
+      "longitude": 66.94802
+    }
+  ]
+}

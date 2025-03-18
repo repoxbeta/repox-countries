@@ -1,0 +1,29 @@
+{
+  "stateId": 2944387,
+  "stateCode": "DE-HB",
+  "countryCode": "DE",
+  "cities": [
+    {
+      "id": 3220905,
+      "name": "Kreisfreie Stadt Bremen",
+      "nativeName": "Kreisfreie Stadt Bremen",
+      "code": "DE-HB-3220905",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-HB",
+      "latitude": 53.11528,
+      "longitude": 8.7975
+    },
+    {
+      "id": 3220906,
+      "name": "Kreisfreie Stadt Bremerhaven",
+      "nativeName": "Kreisfreie Stadt Bremerhaven",
+      "code": "DE-HB-3220906",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-HB",
+      "latitude": 53.56139,
+      "longitude": 8.57806
+    }
+  ]
+}

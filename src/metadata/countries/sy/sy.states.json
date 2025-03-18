@@ -1,0 +1,160 @@
+{
+  "countryId": 163843,
+  "countryCode": "SY",
+  "states": [
+    {
+      "id": 173813,
+      "name": "Al-Hasakah",
+      "nativeName": "Al-Hasakah Governorate",
+      "code": "SY-HA",
+      "internalCode": "HA",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "latitude": 36.51667,
+      "longitude": 40.9
+    },
+    {
+      "id": 170062,
+      "name": "Aleppo",
+      "nativeName": "Aleppo Governorate",
+      "code": "SY-HL",
+      "internalCode": "HL",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "latitude": 36.25,
+      "longitude": 37.61667
+    },
+    {
+      "id": 172957,
+      "name": "Ar-Raqqah",
+      "nativeName": "Ar-Raqqah Governorate",
+      "code": "SY-RA",
+      "internalCode": "RA",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "latitude": 36,
+      "longitude": 38.93333
+    },
+    {
+      "id": 172410,
+      "name": "As-Suwayda",
+      "nativeName": "As-Suwayda Governorate",
+      "code": "SY-SU",
+      "internalCode": "SU",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "latitude": 32.76667,
+      "longitude": 36.85
+    },
+    {
+      "id": 170903,
+      "name": "Daraa",
+      "nativeName": "Daraa Governorate",
+      "code": "SY-DR",
+      "internalCode": "DR",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "latitude": 32.85,
+      "longitude": 36.21667
+    },
+    {
+      "id": 170792,
+      "name": "Deir ez-Zor",
+      "nativeName": "Deir ez-Zor Governorate",
+      "code": "SY-DY",
+      "internalCode": "DY",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "latitude": 35.16667,
+      "longitude": 40.28333
+    },
+    {
+      "id": 167541,
+      "name": "Dimashq",
+      "nativeName": "Damascus Governorate",
+      "code": "SY-DI",
+      "internalCode": "DI",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "latitude": 33.51667,
+      "longitude": 36.28333
+    },
+    {
+      "id": 170015,
+      "name": "Hama",
+      "nativeName": "Hama Governorate",
+      "code": "SY-HM",
+      "internalCode": "HM",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "latitude": 35.23333,
+      "longitude": 37.2
+    },
+    {
+      "id": 169575,
+      "name": "Homs",
+      "nativeName": "Homs Governorate",
+      "code": "SY-HI",
+      "internalCode": "HI",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "latitude": 34.46667,
+      "longitude": 38.3
+    },
+    {
+      "id": 169387,
+      "name": "Idlib",
+      "nativeName": "Idlib Governorate",
+      "code": "SY-ID",
+      "internalCode": "ID",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "latitude": 35.76667,
+      "longitude": 36.66667
+    },
+    {
+      "id": 173578,
+      "name": "Latakia",
+      "nativeName": "Latakia Governorate",
+      "code": "SY-LA",
+      "internalCode": "LA",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "latitude": 35.56667,
+      "longitude": 36.03333
+    },
+    {
+      "id": 173336,
+      "name": "Quneitra",
+      "nativeName": "Quneitra Governorate",
+      "code": "SY-QU",
+      "internalCode": "QU",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "latitude": 33.03333,
+      "longitude": 35.78333
+    },
+    {
+      "id": 170652,
+      "name": "Rif-dimashq",
+      "nativeName": "Damascus Countryside",
+      "code": "SY-RD",
+      "internalCode": "RD",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "latitude": 33.5,
+      "longitude": 37.38333
+    },
+    {
+      "id": 163342,
+      "name": "Tartus",
+      "nativeName": "Tartus Governorate",
+      "code": "SY-TA",
+      "internalCode": "TA",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "latitude": 34.92504,
+      "longitude": 36.01652
+    }
+  ]
+}

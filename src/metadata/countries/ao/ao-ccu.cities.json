@@ -1,0 +1,106 @@
+{
+  "stateId": 876337,
+  "stateCode": "AO-CCU",
+  "countryCode": "AO",
+  "cities": [
+    {
+      "id": 3351214,
+      "name": "Calai",
+      "nativeName": "Calai",
+      "code": "AO-CCU-3351214",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-CCU",
+      "latitude": -17.32632,
+      "longitude": 19.37381
+    },
+    {
+      "id": 3349243,
+      "name": "Cuangar",
+      "nativeName": "Cuangar",
+      "code": "AO-CCU-3349243",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-CCU",
+      "latitude": -17,
+      "longitude": 18.16667
+    },
+    {
+      "id": 3349195,
+      "name": "Cuchi",
+      "nativeName": "Cuchi",
+      "code": "AO-CCU-3349195",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-CCU",
+      "latitude": -14.63731,
+      "longitude": 16.96106
+    },
+    {
+      "id": 3349148,
+      "name": "Cuito Cuanavale",
+      "nativeName": "Cuito Cuanavale",
+      "code": "AO-CCU-3349148",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-CCU",
+      "latitude": -14.93816,
+      "longitude": 18.82081
+    },
+    {
+      "id": 876291,
+      "name": "Dirico",
+      "nativeName": "Dirico",
+      "code": "AO-CCU-876291",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-CCU",
+      "latitude": -17.5,
+      "longitude": 20.83333
+    },
+    {
+      "id": 876017,
+      "name": "Mavinga",
+      "nativeName": "Mavinga",
+      "code": "AO-CCU-876017",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-CCU",
+      "latitude": -16.07771,
+      "longitude": 20.17004
+    },
+    {
+      "id": 3347352,
+      "name": "Menongue",
+      "nativeName": "Menongue",
+      "code": "AO-CCU-3347352",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-CCU",
+      "latitude": -15.10681,
+      "longitude": 17.69949
+    },
+    {
+      "id": 3347005,
+      "name": "Nancova",
+      "nativeName": "Nancova",
+      "code": "AO-CCU-3347005",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-CCU",
+      "latitude": -16.39678,
+      "longitude": 18.73876
+    },
+    {
+      "id": 875819,
+      "name": "Rivungo",
+      "nativeName": "Rivungo",
+      "code": "AO-CCU-875819",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-CCU",
+      "latitude": -16.65204,
+      "longitude": 21.81556
+    }
+  ]
+}

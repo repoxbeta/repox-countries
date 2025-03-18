@@ -1,0 +1,205 @@
+{
+  "stateId": 3844419,
+  "stateCode": "AR-M",
+  "countryCode": "AR",
+  "cities": [
+    {
+      "id": 3862742,
+      "name": "Departamento de Capital",
+      "nativeName": "Departamento de Capital",
+      "code": "AR-M-3862742",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-M",
+      "latitude": -32.88469,
+      "longitude": -68.85826
+    },
+    {
+      "id": 3855136,
+      "name": "Departamento de General Alvear",
+      "nativeName": "Departamento de General Alvear",
+      "code": "AR-M-3855136",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-M",
+      "latitude": -35.16667,
+      "longitude": -67.33333
+    },
+    {
+      "id": 3854963,
+      "name": "Departamento de Godoy Cruz",
+      "nativeName": "Departamento de Godoy Cruz",
+      "code": "AR-M-3854963",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-M",
+      "latitude": -32.93333,
+      "longitude": -68.86667
+    },
+    {
+      "id": 3854459,
+      "name": "Departamento de Guaymallén",
+      "nativeName": "Departamento de Guaymallén",
+      "code": "AR-M-3854459",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-M",
+      "latitude": -32.88333,
+      "longitude": -68.7
+    },
+    {
+      "id": 3853352,
+      "name": "Departamento de Junín",
+      "nativeName": "Departamento de Junín",
+      "code": "AR-M-3853352",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-M",
+      "latitude": -33.133,
+      "longitude": -68.52157
+    },
+    {
+      "id": 3849513,
+      "name": "Departamento de La Paz",
+      "nativeName": "Departamento de La Paz",
+      "code": "AR-M-3849513",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-M",
+      "latitude": -33.66667,
+      "longitude": -67.25
+    },
+    {
+      "id": 3845397,
+      "name": "Departamento de Luján",
+      "nativeName": "Departamento de Luján",
+      "code": "AR-M-3845397",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-M",
+      "latitude": -33,
+      "longitude": -69.33333
+    },
+    {
+      "id": 3845244,
+      "name": "Departamento de Maipú",
+      "nativeName": "Departamento de Maipú",
+      "code": "AR-M-3845244",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-M",
+      "latitude": -33,
+      "longitude": -68.58333
+    },
+    {
+      "id": 3838751,
+      "name": "Departamento de Rivadavia",
+      "nativeName": "Departamento de Rivadavia",
+      "code": "AR-M-3838751",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-M",
+      "latitude": -33.18,
+      "longitude": -68.466
+    },
+    {
+      "id": 3836982,
+      "name": "Departamento de San Martín",
+      "nativeName": "Departamento de San Martín",
+      "code": "AR-M-3836982",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-M",
+      "latitude": -32.8373,
+      "longitude": -68.24922
+    },
+    {
+      "id": 3835984,
+      "name": "Departamento de Santa Rosa",
+      "nativeName": "Departamento de Santa Rosa",
+      "code": "AR-M-3835984",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-M",
+      "latitude": -33.5,
+      "longitude": -68
+    },
+    {
+      "id": 3833519,
+      "name": "Departamento de Tunuyán",
+      "nativeName": "Departamento de Tunuyán",
+      "code": "AR-M-3833519",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-M",
+      "latitude": -33.66667,
+      "longitude": -69.5
+    },
+    {
+      "id": 3833511,
+      "name": "Departamento de Tupungato",
+      "nativeName": "Departamento de Tupungato",
+      "code": "AR-M-3833511",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-M",
+      "latitude": -33.25,
+      "longitude": -69.25
+    },
+    {
+      "id": 3848352,
+      "name": "Las Heras Department",
+      "nativeName": "Departamento de Las Heras",
+      "code": "AR-M-3848352",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-M",
+      "latitude": -32.5,
+      "longitude": -69.5
+    },
+    {
+      "id": 3847327,
+      "name": "Lavalle Department",
+      "nativeName": "Departamento de Lavalle",
+      "code": "AR-M-3847327",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-M",
+      "latitude": -32.5,
+      "longitude": -68
+    },
+    {
+      "id": 3845180,
+      "name": "Malargüe Department",
+      "nativeName": "Departamento de Malargüe",
+      "code": "AR-M-3845180",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-M",
+      "latitude": -36.25,
+      "longitude": -69.25
+    },
+    {
+      "id": 3837885,
+      "name": "San Carlos Department",
+      "nativeName": "Departamento de San Carlos",
+      "code": "AR-M-3837885",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-M",
+      "latitude": -34,
+      "longitude": -69
+    },
+    {
+      "id": 3836668,
+      "name": "San Rafael Department",
+      "nativeName": "Departamento de San Rafael",
+      "code": "AR-M-3836668",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-M",
+      "latitude": -35,
+      "longitude": -68.83333
+    }
+  ]
+}

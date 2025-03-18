@@ -1,0 +1,183 @@
+{
+  "stateId": 7533614,
+  "stateCode": "HK-KKT",
+  "countryCode": "HK",
+  "cities": [
+    {
+      "id": 1819577,
+      "name": "Kwun Tong",
+      "nativeName": "Kwun Tong",
+      "code": "HK-KKT-1819577",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-KKT",
+      "latitude": 22.31184,
+      "longitude": 114.22176
+    },
+    {
+      "id": 1820000,
+      "name": "Cha Kwo Ling",
+      "nativeName": "Cha Kwo Ling",
+      "code": "HK-KKT-1820000",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-KKT",
+      "latitude": 22.30123,
+      "longitude": 114.2288
+    },
+    {
+      "id": 1819705,
+      "name": "Jordan Valley",
+      "nativeName": "Jordan Valley",
+      "code": "HK-KKT-1819705",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-KKT",
+      "latitude": 22.33333,
+      "longitude": 114.21667
+    },
+    {
+      "id": 8504415,
+      "name": "Kowloon Bay",
+      "nativeName": "Kowloon Bay",
+      "code": "HK-KKT-8504415",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-KKT",
+      "latitude": 22.32662,
+      "longitude": 114.20777
+    },
+    {
+      "id": 12689059,
+      "name": "Laguna City",
+      "nativeName": "Laguna City",
+      "code": "HK-KKT-12689059",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-KKT",
+      "latitude": 22.30554,
+      "longitude": 114.22861
+    },
+    {
+      "id": 1819554,
+      "name": "Lam Tin",
+      "nativeName": "Lam Tin",
+      "code": "HK-KKT-1819554",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-KKT",
+      "latitude": 22.30933,
+      "longitude": 114.23634
+    },
+    {
+      "id": 1819524,
+      "name": "Lei Yue Mun",
+      "nativeName": "Lei Yue Mun",
+      "code": "HK-KKT-1819524",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-KKT",
+      "latitude": 22.28951,
+      "longitude": 114.24456
+    },
+    {
+      "id": 1819503,
+      "name": "Ling Nam San Tsuen",
+      "nativeName": "Ling Nam San Tsuen",
+      "code": "HK-KKT-1819503",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-KKT",
+      "latitude": 22.29333,
+      "longitude": 114.23966
+    },
+    {
+      "id": 1819429,
+      "name": "Lung Wo Tsuen",
+      "nativeName": "Lung Wo Tsuen",
+      "code": "HK-KKT-1819429",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-KKT",
+      "latitude": 22.33207,
+      "longitude": 114.23331
+    },
+    {
+      "id": 1819248,
+      "name": "Ngau Tau Kok",
+      "nativeName": "Ngau Tau Kok",
+      "code": "HK-KKT-1819248",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-KKT",
+      "latitude": 22.32695,
+      "longitude": 114.21709
+    },
+    {
+      "id": 1819099,
+      "name": "Ping Shek",
+      "nativeName": "Ping Shek",
+      "code": "HK-KKT-1819099",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-KKT",
+      "latitude": 22.33317,
+      "longitude": 114.20921
+    },
+    {
+      "id": 1819035,
+      "name": "Sai Tso Wan",
+      "nativeName": "Sai Tso Wan",
+      "code": "HK-KKT-1819035",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-KKT",
+      "latitude": 22.30616,
+      "longitude": 114.23146
+    },
+    {
+      "id": 1819021,
+      "name": "Sam Ka Tsuen",
+      "nativeName": "Sam Ka Tsuen",
+      "code": "HK-KKT-1819021",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-KKT",
+      "latitude": 22.29084,
+      "longitude": 114.23915
+    },
+    {
+      "id": 1818972,
+      "name": "Sau Mau Ping",
+      "nativeName": "Sau Mau Ping",
+      "code": "HK-KKT-1818972",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-KKT",
+      "latitude": 22.3202,
+      "longitude": 114.23497
+    },
+    {
+      "id": 1818550,
+      "name": "Tiu Keng Leng",
+      "nativeName": "Tiu Keng Leng",
+      "code": "HK-KKT-1818550",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-KKT",
+      "latitude": 22.29853,
+      "longitude": 114.25115
+    },
+    {
+      "id": 1818266,
+      "name": "Yau Tong",
+      "nativeName": "Yau Tong",
+      "code": "HK-KKT-1818266",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-KKT",
+      "latitude": 22.29569,
+      "longitude": 114.23599
+    }
+  ]
+}

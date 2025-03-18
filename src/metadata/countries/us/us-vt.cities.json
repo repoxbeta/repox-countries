@@ -1,0 +1,161 @@
+{
+  "stateId": 5242283,
+  "stateCode": "US-VT",
+  "countryCode": "US",
+  "cities": [
+    {
+      "id": 5233146,
+      "name": "Addison",
+      "nativeName": "Addison County",
+      "code": "US-VT-5233146",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-VT",
+      "latitude": 44.03091,
+      "longitude": -73.14094
+    },
+    {
+      "id": 5233748,
+      "name": "Bennington",
+      "nativeName": "Bennington County",
+      "code": "US-VT-5233748",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-VT",
+      "latitude": 43.03546,
+      "longitude": -73.09295
+    },
+    {
+      "id": 5234484,
+      "name": "Caledonia",
+      "nativeName": "Caledonia County",
+      "code": "US-VT-5234484",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-VT",
+      "latitude": 44.46472,
+      "longitude": -72.10219
+    },
+    {
+      "id": 5234861,
+      "name": "Chittenden",
+      "nativeName": "Chittenden County",
+      "code": "US-VT-5234861",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-VT",
+      "latitude": 44.46098,
+      "longitude": -73.08092
+    },
+    {
+      "id": 5235945,
+      "name": "Essex",
+      "nativeName": "Essex County",
+      "code": "US-VT-5235945",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-VT",
+      "latitude": 44.72779,
+      "longitude": -71.73605
+    },
+    {
+      "id": 5236279,
+      "name": "Franklin",
+      "nativeName": "Franklin County",
+      "code": "US-VT-5236279",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-VT",
+      "latitude": 44.85748,
+      "longitude": -72.912
+    },
+    {
+      "id": 5236542,
+      "name": "Grand Isle",
+      "nativeName": "Grand Isle County",
+      "code": "US-VT-5236542",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-VT",
+      "latitude": 44.79683,
+      "longitude": -73.29483
+    },
+    {
+      "id": 5237839,
+      "name": "Lamoille",
+      "nativeName": "Lamoille County",
+      "code": "US-VT-5237839",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-VT",
+      "latitude": 44.60576,
+      "longitude": -72.64145
+    },
+    {
+      "id": 5239504,
+      "name": "Orange",
+      "nativeName": "Orange County",
+      "code": "US-VT-5239504",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-VT",
+      "latitude": 44.0056,
+      "longitude": -72.37661
+    },
+    {
+      "id": 5239520,
+      "name": "Orleans",
+      "nativeName": "Orleans County",
+      "code": "US-VT-5239520",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-VT",
+      "latitude": 44.82881,
+      "longitude": -72.24381
+    },
+    {
+      "id": 5240516,
+      "name": "Rutland",
+      "nativeName": "Rutland County",
+      "code": "US-VT-5240516",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-VT",
+      "latitude": 43.58009,
+      "longitude": -73.03661
+    },
+    {
+      "id": 5242529,
+      "name": "Washington",
+      "nativeName": "Washington County",
+      "code": "US-VT-5242529",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-VT",
+      "latitude": 44.27342,
+      "longitude": -72.6149
+    },
+    {
+      "id": 5243051,
+      "name": "Windham",
+      "nativeName": "Windham County",
+      "code": "US-VT-5243051",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-VT",
+      "latitude": 42.99059,
+      "longitude": -72.71384
+    },
+    {
+      "id": 5243062,
+      "name": "Windsor",
+      "nativeName": "Windsor County",
+      "code": "US-VT-5243062",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-VT",
+      "latitude": 43.58,
+      "longitude": -72.58624
+    }
+  ]
+}

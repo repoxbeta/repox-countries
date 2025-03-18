@@ -1,0 +1,62 @@
+{
+  "stateId": 3575476,
+  "stateCode": "KN-01",
+  "countryCode": "KN",
+  "cities": [
+    {
+      "id": 3575251,
+      "name": "Nicola Town",
+      "nativeName": "Nicola Town",
+      "code": "KN-01-3575251",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-01",
+      "latitude": 17.37956,
+      "longitude": -62.75318
+    },
+    {
+      "id": 3575533,
+      "name": "Bourryau",
+      "nativeName": "Bourryau",
+      "code": "KN-01-3575533",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-01",
+      "latitude": 17.38333,
+      "longitude": -62.73333
+    },
+    {
+      "id": 3575300,
+      "name": "Mansion",
+      "nativeName": "Mansion",
+      "code": "KN-01-3575300",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-01",
+      "latitude": 17.38271,
+      "longitude": -62.75747
+    },
+    {
+      "id": 3575288,
+      "name": "Molineux",
+      "nativeName": "Molineux",
+      "code": "KN-01-3575288",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-01",
+      "latitude": 17.36988,
+      "longitude": -62.75506
+    },
+    {
+      "id": 3575216,
+      "name": "Phillips",
+      "nativeName": "Phillips",
+      "code": "KN-01-3575216",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-01",
+      "latitude": 17.36609,
+      "longitude": -62.76058
+    }
+  ]
+}

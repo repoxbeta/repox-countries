@@ -1,0 +1,40 @@
+{
+  "stateId": 2083549,
+  "stateCode": "PG-WPD",
+  "countryCode": "PG",
+  "cities": [
+    {
+      "id": 8657194,
+      "name": "Middle Fly District",
+      "nativeName": "Middle Fly",
+      "code": "PG-WPD-8657194",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-WPD",
+      "latitude": -7.16667,
+      "longitude": 142.03333
+    },
+    {
+      "id": 9855465,
+      "name": "North Fly District",
+      "nativeName": "North Fly",
+      "code": "PG-WPD-9855465",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-WPD",
+      "latitude": -5.72896,
+      "longitude": 141.37482
+    },
+    {
+      "id": 8657196,
+      "name": "South Fly",
+      "nativeName": "South Fly",
+      "code": "PG-WPD-8657196",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-WPD",
+      "latitude": -8.61667,
+      "longitude": 142.11667
+    }
+  ]
+}

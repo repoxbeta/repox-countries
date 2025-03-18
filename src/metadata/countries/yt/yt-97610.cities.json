@@ -1,0 +1,95 @@
+{
+  "stateId": 7521430,
+  "stateCode": "YT-97610",
+  "countryCode": "YT",
+  "cities": [
+    {
+      "id": 1090225,
+      "name": "Koungou",
+      "nativeName": "Koungou",
+      "code": "YT-97610-1090225",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97610",
+      "latitude": -12.73361,
+      "longitude": 45.20417
+    },
+    {
+      "id": 1090228,
+      "name": "Bandrajou",
+      "nativeName": "Bandrajou",
+      "code": "YT-97610-1090228",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97610",
+      "latitude": -12.74829,
+      "longitude": 45.22053
+    },
+    {
+      "id": 1090221,
+      "name": "Kangani",
+      "nativeName": "Kangani",
+      "code": "YT-97610-1090221",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97610",
+      "latitude": -12.73186,
+      "longitude": 45.18694
+    },
+    {
+      "id": 1090214,
+      "name": "Longoni",
+      "nativeName": "Longoni",
+      "code": "YT-97610-1090214",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97610",
+      "latitude": -12.73426,
+      "longitude": 45.16298
+    },
+    {
+      "id": 921825,
+      "name": "Longoni",
+      "nativeName": "Longoni",
+      "code": "YT-97610-921825",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97610",
+      "latitude": -12.75,
+      "longitude": 45.18333
+    },
+    {
+      "id": 1090227,
+      "name": "Majikavo Koropa",
+      "nativeName": "Majikavo Koropa",
+      "code": "YT-97610-1090227",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97610",
+      "latitude": -12.74701,
+      "longitude": 45.22058
+    },
+    {
+      "id": 921665,
+      "name": "Trivani",
+      "nativeName": "Trivani",
+      "code": "YT-97610-921665",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97610",
+      "latitude": -12.75,
+      "longitude": 45.21667
+    },
+    {
+      "id": 1090223,
+      "name": "Trévani",
+      "nativeName": "Trévani",
+      "code": "YT-97610-1090223",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97610",
+      "latitude": -12.73437,
+      "longitude": 45.19861
+    }
+  ]
+}

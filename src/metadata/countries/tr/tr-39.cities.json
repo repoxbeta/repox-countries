@@ -1,0 +1,84 @@
+{
+  "stateId": 743165,
+  "stateCode": "TR-39",
+  "countryCode": "TR",
+  "cities": [
+    {
+      "id": 8632562,
+      "name": "Babaeski İlçesi",
+      "nativeName": "Babaeski İlçesi",
+      "code": "TR-39-8632562",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-39",
+      "latitude": 41.44371,
+      "longitude": 27.10458
+    },
+    {
+      "id": 8632566,
+      "name": "Demirköy İlçesi",
+      "nativeName": "Demirköy İlçesi",
+      "code": "TR-39-8632566",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-39",
+      "latitude": 41.83567,
+      "longitude": 27.77137
+    },
+    {
+      "id": 8632564,
+      "name": "Kofçaz İlçesi",
+      "nativeName": "Kofçaz İlçesi",
+      "code": "TR-39-8632564",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-39",
+      "latitude": 41.9547,
+      "longitude": 27.17165
+    },
+    {
+      "id": 8632563,
+      "name": "Lüleburgaz İlçesi",
+      "nativeName": "Lüleburgaz İlçesi",
+      "code": "TR-39-8632563",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-39",
+      "latitude": 41.41495,
+      "longitude": 27.37325
+    },
+    {
+      "id": 8632561,
+      "name": "Pehlivanköy İlçesi",
+      "nativeName": "Pehlivanköy İlçesi",
+      "code": "TR-39-8632561",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-39",
+      "latitude": 41.35922,
+      "longitude": 26.93445
+    },
+    {
+      "id": 8632565,
+      "name": "Pınarhisar İlçesi",
+      "nativeName": "Pınarhisar İlçesi",
+      "code": "TR-39-8632565",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-39",
+      "latitude": 41.63517,
+      "longitude": 27.52951
+    },
+    {
+      "id": 8632567,
+      "name": "Vize İlçesi",
+      "nativeName": "Vize İlçesi",
+      "code": "TR-39-8632567",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-39",
+      "latitude": 41.58294,
+      "longitude": 27.77452
+    }
+  ]
+}

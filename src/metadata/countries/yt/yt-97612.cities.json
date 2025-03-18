@@ -1,0 +1,40 @@
+{
+  "stateId": 7521432,
+  "stateCode": "YT-97612",
+  "countryCode": "YT",
+  "cities": [
+    {
+      "id": 1090126,
+      "name": "Mtsamboro",
+      "nativeName": "Mtsamboro",
+      "code": "YT-97612-1090126",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97612",
+      "latitude": -12.69982,
+      "longitude": 45.06894
+    },
+    {
+      "id": 1090123,
+      "name": "Hamjago",
+      "nativeName": "Hamjago",
+      "code": "YT-97612-1090123",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97612",
+      "latitude": -12.68832,
+      "longitude": 45.0745
+    },
+    {
+      "id": 1090103,
+      "name": "Mtsahara",
+      "nativeName": "Mtsahara",
+      "code": "YT-97612-1090103",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97612",
+      "latitude": -12.68137,
+      "longitude": 45.08274
+    }
+  ]
+}

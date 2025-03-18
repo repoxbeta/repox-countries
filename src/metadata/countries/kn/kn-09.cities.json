@@ -1,0 +1,84 @@
+{
+  "stateId": 3575172,
+  "stateCode": "KN-09",
+  "countryCode": "KN",
+  "cities": [
+    {
+      "id": 3575170,
+      "name": "Saint Paul’s",
+      "nativeName": "Saint Paul’s",
+      "code": "KN-09-3575170",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-09",
+      "latitude": 17.40605,
+      "longitude": -62.83562
+    },
+    {
+      "id": 3575468,
+      "name": "Cliftons",
+      "nativeName": "Cliftons",
+      "code": "KN-09-3575468",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-09",
+      "latitude": 17.4,
+      "longitude": -62.8
+    },
+    {
+      "id": 3575371,
+      "name": "Heldens",
+      "nativeName": "Heldens",
+      "code": "KN-09-3575371",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-09",
+      "latitude": 17.40552,
+      "longitude": -62.83678
+    },
+    {
+      "id": 3575254,
+      "name": "Newton Ground",
+      "nativeName": "Newton Ground",
+      "code": "KN-09-3575254",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-09",
+      "latitude": 17.38761,
+      "longitude": -62.85197
+    },
+    {
+      "id": 3575235,
+      "name": "Ortons",
+      "nativeName": "Ortons",
+      "code": "KN-09-3575235",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-09",
+      "latitude": 17.38333,
+      "longitude": -62.83333
+    },
+    {
+      "id": 3575116,
+      "name": "Trants",
+      "nativeName": "Trants",
+      "code": "KN-09-3575116",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-09",
+      "latitude": 17.38333,
+      "longitude": -62.85
+    },
+    {
+      "id": 3575091,
+      "name": "Whitegate",
+      "nativeName": "Whitegate",
+      "code": "KN-09-3575091",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-09",
+      "latitude": 17.41667,
+      "longitude": -62.81667
+    }
+  ]
+}

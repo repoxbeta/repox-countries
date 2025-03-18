@@ -1,0 +1,84 @@
+{
+  "stateId": 1905675,
+  "stateCode": "VN-55",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 1905676,
+      "name": "Giá Rai District",
+      "nativeName": "Huyện Giá Rai",
+      "code": "VN-55-1905676",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-55",
+      "latitude": 9.27162,
+      "longitude": 105.40017
+    },
+    {
+      "id": 11497332,
+      "name": "Huyện Hoà Bình",
+      "nativeName": "Huyện Hoà Bình",
+      "code": "VN-55-11497332",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-55",
+      "latitude": 9.2158,
+      "longitude": 105.61432
+    },
+    {
+      "id": 8341025,
+      "name": "Huyện Đông Hải",
+      "nativeName": "Huyện Đông Hải",
+      "code": "VN-55-8341025",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-55",
+      "latitude": 9.14824,
+      "longitude": 105.43425
+    },
+    {
+      "id": 1905677,
+      "name": "Hồng Dân District",
+      "nativeName": "Huyện Hồng Dân",
+      "code": "VN-55-1905677",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-55",
+      "latitude": 9.52664,
+      "longitude": 105.40767
+    },
+    {
+      "id": 8341012,
+      "name": "Phước Long District",
+      "nativeName": "Huyện Phước Long",
+      "code": "VN-55-8341012",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-55",
+      "latitude": 9.40522,
+      "longitude": 105.43279
+    },
+    {
+      "id": 1905867,
+      "name": "Thành phố Bạc Liêu",
+      "nativeName": "Thành phố Bạc Liêu",
+      "code": "VN-55-1905867",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-55",
+      "latitude": 9.26736,
+      "longitude": 105.76123
+    },
+    {
+      "id": 8341013,
+      "name": "Vĩnh Lợi District",
+      "nativeName": "Huyện Vĩnh Lợi",
+      "code": "VN-55-8341013",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-55",
+      "latitude": 9.3397,
+      "longitude": 105.69612
+    }
+  ]
+}

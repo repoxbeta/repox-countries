@@ -1,0 +1,51 @@
+{
+  "stateId": 864482,
+  "stateCode": "LT-TA",
+  "countryCode": "LT",
+  "cities": [
+    {
+      "id": 864509,
+      "name": "Jurbarkas District Municipality",
+      "nativeName": "Jurbarkas",
+      "code": "LT-TA-864509",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-TA",
+      "latitude": 55.10859,
+      "longitude": 22.79885
+    },
+    {
+      "id": 9610115,
+      "name": "Pagėgiai Municipality",
+      "nativeName": "Pagėgiai",
+      "code": "LT-TA-9610115",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-TA",
+      "latitude": 55.134,
+      "longitude": 21.90446
+    },
+    {
+      "id": 864508,
+      "name": "Tauragė District Municipality",
+      "nativeName": "Tauragė",
+      "code": "LT-TA-864508",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-TA",
+      "latitude": 55.25,
+      "longitude": 22.28333
+    },
+    {
+      "id": 864510,
+      "name": "Šilalė District Municipality",
+      "nativeName": "Šilalė",
+      "code": "LT-TA-864510",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-TA",
+      "latitude": 55.46667,
+      "longitude": 22.2
+    }
+  ]
+}

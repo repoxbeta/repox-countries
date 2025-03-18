@@ -1,0 +1,282 @@
+{
+  "stateId": 7533598,
+  "stateCode": "HK-HCW",
+  "countryCode": "HK",
+  "cities": [
+    {
+      "id": 8223932,
+      "name": "Central",
+      "nativeName": "Central",
+      "code": "HK-HCW-8223932",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-HCW",
+      "latitude": 22.28299,
+      "longitude": 114.15846
+    },
+    {
+      "id": 1819638,
+      "name": "Kennedy Town",
+      "nativeName": "Kennedy Town",
+      "code": "HK-HCW-1819638",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-HCW",
+      "latitude": 22.28277,
+      "longitude": 114.12953
+    },
+    {
+      "id": 1819597,
+      "name": "Kung Man Tsuen",
+      "nativeName": "Kung Man Tsuen",
+      "code": "HK-HCW-1819597",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-HCW",
+      "latitude": 22.28065,
+      "longitude": 114.12168
+    },
+    {
+      "id": 12719585,
+      "name": "Kwun Lung Lau",
+      "nativeName": "Kwun Lung Lau",
+      "code": "HK-HCW-12719585",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-HCW",
+      "latitude": 22.28044,
+      "longitude": 114.12758
+    },
+    {
+      "id": 1819533,
+      "name": "Lau Hang",
+      "nativeName": "Lau Hang",
+      "code": "HK-HCW-1819533",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-HCW",
+      "latitude": 22.46308,
+      "longitude": 114.17862
+    },
+    {
+      "id": 1819501,
+      "name": "Lin Tong Mei",
+      "nativeName": "Lin Tong Mei",
+      "code": "HK-HCW-1819501",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-HCW",
+      "latitude": 22.48218,
+      "longitude": 114.10992
+    },
+    {
+      "id": 1819500,
+      "name": "Lin Tong Mei Tsoi Yuen",
+      "nativeName": "Lin Tong Mei Tsoi Yuen",
+      "code": "HK-HCW-1819500",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-HCW",
+      "latitude": 22.47878,
+      "longitude": 114.11447
+    },
+    {
+      "id": 1819368,
+      "name": "Ma Wo",
+      "nativeName": "Ma Wo",
+      "code": "HK-HCW-1819368",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-HCW",
+      "latitude": 22.45,
+      "longitude": 114.15
+    },
+    {
+      "id": 1819361,
+      "name": "Mid Levels",
+      "nativeName": "Mid Levels",
+      "code": "HK-HCW-1819361",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-HCW",
+      "latitude": 22.28399,
+      "longitude": 114.14958
+    },
+    {
+      "id": 1819339,
+      "name": "Mount Davis",
+      "nativeName": "Mount Davis",
+      "code": "HK-HCW-1819339",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-HCW",
+      "latitude": 22.27862,
+      "longitude": 114.11777
+    },
+    {
+      "id": 1819308,
+      "name": "Nam Hang",
+      "nativeName": "Nam Hang",
+      "code": "HK-HCW-1819308",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-HCW",
+      "latitude": 22.45976,
+      "longitude": 114.169
+    },
+    {
+      "id": 1819181,
+      "name": "Pak Kok Kau Tsuen",
+      "nativeName": "Pak Kok Kau Tsuen",
+      "code": "HK-HCW-1819181",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-HCW",
+      "latitude": 22.23478,
+      "longitude": 114.1123
+    },
+    {
+      "id": 12719583,
+      "name": "Queen's Terrace",
+      "nativeName": "Queen's Terrace",
+      "code": "HK-HCW-12719583",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-HCW",
+      "latitude": 22.28702,
+      "longitude": 114.14723
+    },
+    {
+      "id": 1819031,
+      "name": "Sai Wan",
+      "nativeName": "Sai Wan",
+      "code": "HK-HCW-1819031",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-HCW",
+      "latitude": 22.28124,
+      "longitude": 114.12554
+    },
+    {
+      "id": 1819026,
+      "name": "Sai Ying Pun",
+      "nativeName": "Sai Ying Pun",
+      "code": "HK-HCW-1819026",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-HCW",
+      "latitude": 22.28998,
+      "longitude": 114.14223
+    },
+    {
+      "id": 1818871,
+      "name": "Shek Tong Tsui",
+      "nativeName": "Shek Tong Tsui",
+      "code": "HK-HCW-1818871",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-HCW",
+      "latitude": 22.28641,
+      "longitude": 114.13435
+    },
+    {
+      "id": 1818833,
+      "name": "Sheung Wan",
+      "nativeName": "Sheung Wan",
+      "code": "HK-HCW-1818833",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-HCW",
+      "latitude": 22.28383,
+      "longitude": 114.1496
+    },
+    {
+      "id": 1818675,
+      "name": "Tai Ping Shan",
+      "nativeName": "Tai Ping Shan",
+      "code": "HK-HCW-1818675",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-HCW",
+      "latitude": 22.28407,
+      "longitude": 114.14988
+    },
+    {
+      "id": 12719584,
+      "name": "The Belcher's",
+      "nativeName": "The Belcher's",
+      "code": "HK-HCW-12719584",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-HCW",
+      "latitude": 22.28481,
+      "longitude": 114.13329
+    },
+    {
+      "id": 12719582,
+      "name": "The Merton",
+      "nativeName": "The Merton",
+      "code": "HK-HCW-12719582",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-HCW",
+      "latitude": 22.28333,
+      "longitude": 114.12633
+    },
+    {
+      "id": 12640687,
+      "name": "The Peak",
+      "nativeName": "The Peak",
+      "code": "HK-HCW-12640687",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-HCW",
+      "latitude": 22.26202,
+      "longitude": 114.15649
+    },
+    {
+      "id": 1931681,
+      "name": "Victoria",
+      "nativeName": "Victoria",
+      "code": "HK-HCW-1931681",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-HCW",
+      "latitude": 22.2875,
+      "longitude": 114.14417
+    },
+    {
+      "id": 1818382,
+      "name": "Wai Tau Tsuen",
+      "nativeName": "Wai Tau Tsuen",
+      "code": "HK-HCW-1818382",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-HCW",
+      "latitude": 22.4627,
+      "longitude": 114.14577
+    },
+    {
+      "id": 1818248,
+      "name": "Ying Pun",
+      "nativeName": "Ying Pun",
+      "code": "HK-HCW-1818248",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-HCW",
+      "latitude": 22.46667,
+      "longitude": 114.11667
+    },
+    {
+      "id": 1818247,
+      "name": "Ying Pun Ha",
+      "nativeName": "Ying Pun Ha",
+      "code": "HK-HCW-1818247",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "stateCode": "HK-HCW",
+      "latitude": 22.45727,
+      "longitude": 114.16071
+    }
+  ]
+}

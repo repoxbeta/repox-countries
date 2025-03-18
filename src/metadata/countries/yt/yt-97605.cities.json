@@ -1,0 +1,51 @@
+{
+  "stateId": 7521425,
+  "stateCode": "YT-97605",
+  "countryCode": "YT",
+  "cities": [
+    {
+      "id": 1090322,
+      "name": "Chiconi",
+      "nativeName": "Chiconi",
+      "code": "YT-97605-1090322",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97605",
+      "latitude": -12.83333,
+      "longitude": 45.11056
+    },
+    {
+      "id": 1090318,
+      "name": "Djivani",
+      "nativeName": "Djivani",
+      "code": "YT-97605-1090318",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97605",
+      "latitude": -12.83342,
+      "longitude": 45.12334
+    },
+    {
+      "id": 1090324,
+      "name": "Kavani",
+      "nativeName": "Kavani",
+      "code": "YT-97605-1090324",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97605",
+      "latitude": -12.83099,
+      "longitude": 45.11364
+    },
+    {
+      "id": 1090266,
+      "name": "Sohoa",
+      "nativeName": "Sohoa",
+      "code": "YT-97605-1090266",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97605",
+      "latitude": -12.82233,
+      "longitude": 45.10552
+    }
+  ]
+}

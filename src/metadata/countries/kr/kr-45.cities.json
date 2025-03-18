@@ -1,0 +1,161 @@
+{
+  "stateId": 1845789,
+  "stateCode": "KR-45",
+  "countryCode": "KR",
+  "cities": [
+    {
+      "id": 1838721,
+      "name": "Buan-gun",
+      "nativeName": "Buan-gun",
+      "code": "KR-45-1838721",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-45",
+      "latitude": 35.7,
+      "longitude": 126.66667
+    },
+    {
+      "id": 1842211,
+      "name": "Gimje-si",
+      "nativeName": "Gimje-si",
+      "code": "KR-45-1842211",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-45",
+      "latitude": 35.80701,
+      "longitude": 126.90755
+    },
+    {
+      "id": 1842854,
+      "name": "Gochang-gun",
+      "nativeName": "Gochang-gun",
+      "code": "KR-45-1842854",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-45",
+      "latitude": 35.43483,
+      "longitude": 126.70047
+    },
+    {
+      "id": 1842023,
+      "name": "Gunsan-si",
+      "nativeName": "Gunsan-si",
+      "code": "KR-45-1842023",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-45",
+      "latitude": 35.93583,
+      "longitude": 126.68338
+    },
+    {
+      "id": 1843663,
+      "name": "Iksan-si",
+      "nativeName": "Iksan-si",
+      "code": "KR-45-1843663",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-45",
+      "latitude": 36.02443,
+      "longitude": 127.0093
+    },
+    {
+      "id": 1843583,
+      "name": "Imsil-gun",
+      "nativeName": "Imsil-gun",
+      "code": "KR-45-1843583",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-45",
+      "latitude": 35.6216,
+      "longitude": 127.23187
+    },
+    {
+      "id": 1846351,
+      "name": "Jangsu-gun",
+      "nativeName": "Jangsu-gun",
+      "code": "KR-45-1846351",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-45",
+      "latitude": 35.62504,
+      "longitude": 127.56358
+    },
+    {
+      "id": 1845501,
+      "name": "Jeongeup-si",
+      "nativeName": "Jeongeup-si",
+      "code": "KR-45-1845501",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-45",
+      "latitude": 35.6,
+      "longitude": 126.91667
+    },
+    {
+      "id": 1845453,
+      "name": "Jeonju-si",
+      "nativeName": "Jeonju-si",
+      "code": "KR-45-1845453",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-45",
+      "latitude": 35.83333,
+      "longitude": 127.15
+    },
+    {
+      "id": 1846111,
+      "name": "Jinan-gun",
+      "nativeName": "Jinan-gun",
+      "code": "KR-45-1846111",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-45",
+      "latitude": 35.80472,
+      "longitude": 127.47579
+    },
+    {
+      "id": 1840941,
+      "name": "Muju-gun",
+      "nativeName": "Muju-gun",
+      "code": "KR-45-1840941",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-45",
+      "latitude": 35.93172,
+      "longitude": 127.71118
+    },
+    {
+      "id": 1840378,
+      "name": "Namwon-si",
+      "nativeName": "Namwon",
+      "code": "KR-45-1840378",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-45",
+      "latitude": 35.44821,
+      "longitude": 127.38007
+    },
+    {
+      "id": 1835649,
+      "name": "Sunchang-gun",
+      "nativeName": "Sunchang-gun",
+      "code": "KR-45-1835649",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-45",
+      "latitude": 35.37651,
+      "longitude": 127.14967
+    },
+    {
+      "id": 8604787,
+      "name": "Wanju-gun",
+      "nativeName": "Wanju-gun",
+      "code": "KR-45-8604787",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-45",
+      "latitude": 35.88724,
+      "longitude": 127.25859
+    }
+  ]
+}

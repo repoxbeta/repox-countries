@@ -1,0 +1,40 @@
+{
+  "stateId": 2660207,
+  "stateCode": "CH-JU",
+  "countryCode": "CH",
+  "cities": [
+    {
+      "id": 6458744,
+      "name": "Delémont District",
+      "nativeName": "Delémont District",
+      "code": "CH-JU-6458744",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-JU",
+      "latitude": 47.35434,
+      "longitude": 7.33053
+    },
+    {
+      "id": 6458790,
+      "name": "Franches-Montagnes District",
+      "nativeName": "Franches-Montagnes District",
+      "code": "CH-JU-6458790",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-JU",
+      "latitude": 47.24935,
+      "longitude": 7.04562
+    },
+    {
+      "id": 6458776,
+      "name": "Porrentruy District",
+      "nativeName": "Porrentruy District",
+      "code": "CH-JU-6458776",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-JU",
+      "latitude": 47.41475,
+      "longitude": 7.07638
+    }
+  ]
+}

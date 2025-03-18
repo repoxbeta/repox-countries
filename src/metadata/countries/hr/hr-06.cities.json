@@ -1,0 +1,282 @@
+{
+  "stateId": 3337518,
+  "stateCode": "HR-06",
+  "countryCode": "HR",
+  "cities": [
+    {
+      "id": 3197726,
+      "name": "City of Koprivnica",
+      "nativeName": "Grad Koprivnica",
+      "code": "HR-06-3197726",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-06",
+      "latitude": 46.16667,
+      "longitude": 16.83333
+    },
+    {
+      "id": 11049322,
+      "name": "Municipality of Drnje",
+      "nativeName": "Drnje",
+      "code": "HR-06-11049322",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-06",
+      "latitude": 46.20875,
+      "longitude": 16.91796
+    },
+    {
+      "id": 11049323,
+      "name": "Municipality of Ferdinandovac",
+      "nativeName": "Ferdinandovac",
+      "code": "HR-06-11049323",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-06",
+      "latitude": 46.05999,
+      "longitude": 17.18897
+    },
+    {
+      "id": 11049324,
+      "name": "Municipality of Gola",
+      "nativeName": "Gola",
+      "code": "HR-06-11049324",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-06",
+      "latitude": 46.19756,
+      "longitude": 17.05966
+    },
+    {
+      "id": 11049326,
+      "name": "Municipality of Gornja Rijeka",
+      "nativeName": "Gornja Rijeka",
+      "code": "HR-06-11049326",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-06",
+      "latitude": 46.10977,
+      "longitude": 16.39079
+    },
+    {
+      "id": 11049369,
+      "name": "Municipality of Hlebine",
+      "nativeName": "Hlebine",
+      "code": "HR-06-11049369",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-06",
+      "latitude": 46.15373,
+      "longitude": 16.96675
+    },
+    {
+      "id": 11049370,
+      "name": "Municipality of Kalinovac",
+      "nativeName": "Kalinovac",
+      "code": "HR-06-11049370",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-06",
+      "latitude": 46.02491,
+      "longitude": 17.11314
+    },
+    {
+      "id": 11049372,
+      "name": "Municipality of Kalnik",
+      "nativeName": "Općina Kalnik",
+      "code": "HR-06-11049372",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-06",
+      "latitude": 46.1272,
+      "longitude": 16.46439
+    },
+    {
+      "id": 11049373,
+      "name": "Municipality of Kloštar Podravski",
+      "nativeName": "Kloštar Podravski",
+      "code": "HR-06-11049373",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-06",
+      "latitude": 45.98339,
+      "longitude": 17.15665
+    },
+    {
+      "id": 11049374,
+      "name": "Municipality of Koprivnički Bregi",
+      "nativeName": "Koprivnički Bregi",
+      "code": "HR-06-11049374",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-06",
+      "latitude": 46.13321,
+      "longitude": 16.90131
+    },
+    {
+      "id": 11049375,
+      "name": "Municipality of Koprivnički Ivanec",
+      "nativeName": "Koprivnički Ivanec",
+      "code": "HR-06-11049375",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-06",
+      "latitude": 46.19907,
+      "longitude": 16.81629
+    },
+    {
+      "id": 11049376,
+      "name": "Municipality of Legrad",
+      "nativeName": "Općina Legrad",
+      "code": "HR-06-11049376",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-06",
+      "latitude": 46.29588,
+      "longitude": 16.85492
+    },
+    {
+      "id": 11049377,
+      "name": "Municipality of Molve",
+      "nativeName": "Molve",
+      "code": "HR-06-11049377",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-06",
+      "latitude": 46.10602,
+      "longitude": 17.03628
+    },
+    {
+      "id": 11049378,
+      "name": "Municipality of Novigrad Podravski",
+      "nativeName": "Novigrad Podravski",
+      "code": "HR-06-11049378",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-06",
+      "latitude": 46.07605,
+      "longitude": 16.94959
+    },
+    {
+      "id": 11049380,
+      "name": "Municipality of Novo Virje",
+      "nativeName": "Novo Virje",
+      "code": "HR-06-11049380",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-06",
+      "latitude": 46.09834,
+      "longitude": 17.15215
+    },
+    {
+      "id": 11049381,
+      "name": "Municipality of Peteranec",
+      "nativeName": "Peteranec",
+      "code": "HR-06-11049381",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-06",
+      "latitude": 46.19322,
+      "longitude": 16.8886
+    },
+    {
+      "id": 11049383,
+      "name": "Municipality of Podravske Sesvete",
+      "nativeName": "Podravske Sesvete",
+      "code": "HR-06-11049383",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-06",
+      "latitude": 46.00386,
+      "longitude": 17.21403
+    },
+    {
+      "id": 11049389,
+      "name": "Municipality of Rasinja",
+      "nativeName": "Općina Rasinja",
+      "code": "HR-06-11049389",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-06",
+      "latitude": 46.18318,
+      "longitude": 16.70433
+    },
+    {
+      "id": 11049391,
+      "name": "Municipality of Sokolovac",
+      "nativeName": "Općina Sokolovac",
+      "code": "HR-06-11049391",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-06",
+      "latitude": 46.10428,
+      "longitude": 16.70952
+    },
+    {
+      "id": 11049393,
+      "name": "Municipality of Sveti Ivan Žabno",
+      "nativeName": "Sveti Ivan Žabno",
+      "code": "HR-06-11049393",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-06",
+      "latitude": 45.94526,
+      "longitude": 16.60622
+    },
+    {
+      "id": 11049395,
+      "name": "Municipality of Sveti Petar Orehovec",
+      "nativeName": "Općina Sveti Petar Orehovec",
+      "code": "HR-06-11049395",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-06",
+      "latitude": 46.08004,
+      "longitude": 16.45267
+    },
+    {
+      "id": 11049397,
+      "name": "Municipality of Virje",
+      "nativeName": "Virje",
+      "code": "HR-06-11049397",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-06",
+      "latitude": 46.06664,
+      "longitude": 16.98675
+    },
+    {
+      "id": 11055014,
+      "name": "Municipality of Đelekovec",
+      "nativeName": "Đelekovec",
+      "code": "HR-06-11055014",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-06",
+      "latitude": 46.24989,
+      "longitude": 16.87011
+    },
+    {
+      "id": 3197228,
+      "name": "Town of Križevci",
+      "nativeName": "Grad Križevci",
+      "code": "HR-06-3197228",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-06",
+      "latitude": 46.03333,
+      "longitude": 16.56667
+    },
+    {
+      "id": 3200960,
+      "name": "Town of Đurđevac",
+      "nativeName": "Grad Đurđevac",
+      "code": "HR-06-3200960",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-06",
+      "latitude": 46.03333,
+      "longitude": 17.06667
+    }
+  ]
+}

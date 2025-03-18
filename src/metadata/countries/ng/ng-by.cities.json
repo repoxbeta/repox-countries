@@ -1,0 +1,95 @@
+{
+  "stateId": 2595344,
+  "stateCode": "NG-BY",
+  "countryCode": "NG",
+  "cities": [
+    {
+      "id": 8638097,
+      "name": "Brass",
+      "nativeName": "Brass",
+      "code": "NG-BY-8638097",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-BY",
+      "latitude": 4.36648,
+      "longitude": 6.45462
+    },
+    {
+      "id": 8638070,
+      "name": "Ekeremor",
+      "nativeName": "Ekeremor",
+      "code": "NG-BY-8638070",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-BY",
+      "latitude": 4.92212,
+      "longitude": 5.71647
+    },
+    {
+      "id": 8638091,
+      "name": "Kolokuma/Opokuma",
+      "nativeName": "Kolokuma/Opokuma",
+      "code": "NG-BY-8638091",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-BY",
+      "latitude": 5.09855,
+      "longitude": 6.264
+    },
+    {
+      "id": 8638095,
+      "name": "Nembe",
+      "nativeName": "Nembe",
+      "code": "NG-BY-8638095",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-BY",
+      "latitude": 4.52466,
+      "longitude": 6.29442
+    },
+    {
+      "id": 8638092,
+      "name": "Ogbia",
+      "nativeName": "Ogbia",
+      "code": "NG-BY-8638092",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-BY",
+      "latitude": 4.77409,
+      "longitude": 6.32686
+    },
+    {
+      "id": 8638073,
+      "name": "Sagbama",
+      "nativeName": "Sagbama",
+      "code": "NG-BY-8638073",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-BY",
+      "latitude": 5.14722,
+      "longitude": 6.21127
+    },
+    {
+      "id": 8638072,
+      "name": "Southern Ijaw",
+      "nativeName": "Southern Ijaw",
+      "code": "NG-BY-8638072",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-BY",
+      "latitude": 4.67675,
+      "longitude": 5.94156
+    },
+    {
+      "id": 8638087,
+      "name": "Yenegoa",
+      "nativeName": "Yenegoa",
+      "code": "NG-BY-8638087",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-BY",
+      "latitude": 5.03163,
+      "longitude": 6.35931
+    }
+  ]
+}

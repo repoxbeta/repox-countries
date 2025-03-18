@@ -1,0 +1,106 @@
+{
+  "stateId": 3650445,
+  "stateCode": "EC-T",
+  "countryCode": "EC",
+  "cities": [
+    {
+      "id": 3660688,
+      "name": "Ambato",
+      "nativeName": "Ambato",
+      "code": "EC-T-3660688",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-T",
+      "latitude": -1.27017,
+      "longitude": -78.7454
+    },
+    {
+      "id": 3660343,
+      "name": "Baños de Agua Santa",
+      "nativeName": "Baños de Agua Santa",
+      "code": "EC-T-3660343",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-T",
+      "latitude": -1.33851,
+      "longitude": -78.26156
+    },
+    {
+      "id": 10792487,
+      "name": "Cevallos",
+      "nativeName": "Cevallos",
+      "code": "EC-T-10792487",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-T",
+      "latitude": -1.34814,
+      "longitude": -78.60846
+    },
+    {
+      "id": 10792488,
+      "name": "Mocha",
+      "nativeName": "Mocha",
+      "code": "EC-T-10792488",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-T",
+      "latitude": -1.41553,
+      "longitude": -78.6923
+    },
+    {
+      "id": 3653370,
+      "name": "Patate",
+      "nativeName": "Patate",
+      "code": "EC-T-3653370",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-T",
+      "latitude": -1.27541,
+      "longitude": -78.4268
+    },
+    {
+      "id": 3652572,
+      "name": "Quero",
+      "nativeName": "Quero",
+      "code": "EC-T-3652572",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-T",
+      "latitude": -1.43903,
+      "longitude": -78.60857
+    },
+    {
+      "id": 3653286,
+      "name": "San Pedro de Pelileo",
+      "nativeName": "San Pedro de Pelileo",
+      "code": "EC-T-3653286",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-T",
+      "latitude": -1.36961,
+      "longitude": -78.53333
+    },
+    {
+      "id": 3653158,
+      "name": "Santiago de Píllaro",
+      "nativeName": "Santiago de Píllaro",
+      "code": "EC-T-3653158",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-T",
+      "latitude": -1.14876,
+      "longitude": -78.45975
+    },
+    {
+      "id": 10792489,
+      "name": "Tisaleo",
+      "nativeName": "Tisaleo",
+      "code": "EC-T-10792489",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-T",
+      "latitude": -1.36606,
+      "longitude": -78.67967
+    }
+  ]
+}

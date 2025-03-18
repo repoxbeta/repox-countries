@@ -1,0 +1,62 @@
+{
+  "stateId": 11071624,
+  "stateCode": "FR-HDF",
+  "countryCode": "FR",
+  "cities": [
+    {
+      "id": 3038375,
+      "name": "Aisne",
+      "nativeName": "Aisne",
+      "code": "FR-HDF-3038375",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-HDF",
+      "latitude": 49.5,
+      "longitude": 3.5
+    },
+    {
+      "id": 2990129,
+      "name": "North",
+      "nativeName": "Département du Nord",
+      "code": "FR-HDF-2990129",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-HDF",
+      "latitude": 50.33333,
+      "longitude": 3.36197
+    },
+    {
+      "id": 2989663,
+      "name": "Oise",
+      "nativeName": "Oise",
+      "code": "FR-HDF-2989663",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-HDF",
+      "latitude": 49.5,
+      "longitude": 2.5
+    },
+    {
+      "id": 2988430,
+      "name": "Pas-de-Calais",
+      "nativeName": "Pas-de-Calais",
+      "code": "FR-HDF-2988430",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-HDF",
+      "latitude": 50.4828,
+      "longitude": 2.28664
+    },
+    {
+      "id": 2974304,
+      "name": "Somme",
+      "nativeName": "Somme",
+      "code": "FR-HDF-2974304",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-HDF",
+      "latitude": 49.93141,
+      "longitude": 2.27639
+    }
+  ]
+}

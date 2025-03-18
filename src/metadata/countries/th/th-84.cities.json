@@ -1,0 +1,216 @@
+{
+  "stateId": 1150514,
+  "stateCode": "TH-84",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 7510622,
+      "name": "Ban Na Doem",
+      "nativeName": "Amphoe Ban Na Doem",
+      "code": "TH-84-7510622",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-84",
+      "latitude": 8.9061,
+      "longitude": 99.28136
+    },
+    {
+      "id": 1156045,
+      "name": "Ban Na San",
+      "nativeName": "Amphoe Ban Na San",
+      "code": "TH-84-1156045",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-84",
+      "latitude": 8.80063,
+      "longitude": 99.40201
+    },
+    {
+      "id": 7510611,
+      "name": "Ban Ta Khun",
+      "nativeName": "Amphoe Ban Takhun",
+      "code": "TH-84-7510611",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-84",
+      "latitude": 9.10423,
+      "longitude": 98.67222
+    },
+    {
+      "id": 7510621,
+      "name": "Chai Buri",
+      "nativeName": "Amphoe Chai Buri",
+      "code": "TH-84-7510621",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-84",
+      "latitude": 8.43883,
+      "longitude": 99.07721
+    },
+    {
+      "id": 1153782,
+      "name": "Chaiya",
+      "nativeName": "Amphoe Chaiya",
+      "code": "TH-84-1153782",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-84",
+      "latitude": 9.49141,
+      "longitude": 98.99568
+    },
+    {
+      "id": 7510650,
+      "name": "Don Sak",
+      "nativeName": "Amphoe Don Sak",
+      "code": "TH-84-7510650",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-84",
+      "latitude": 9.21063,
+      "longitude": 99.68887
+    },
+    {
+      "id": 1153078,
+      "name": "Kanchanadit",
+      "nativeName": "Amphoe Kanchanadit",
+      "code": "TH-84-1153078",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-84",
+      "latitude": 9.07256,
+      "longitude": 99.5439
+    },
+    {
+      "id": 7511047,
+      "name": "Khian Sa",
+      "nativeName": "Amphoe Khian Sa",
+      "code": "TH-84-7511047",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-84",
+      "latitude": 8.72766,
+      "longitude": 99.1324
+    },
+    {
+      "id": 1152874,
+      "name": "Khiri Rat Nikhom",
+      "nativeName": "Amphoe Khiri Rat Nikhom",
+      "code": "TH-84-1152874",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-84",
+      "latitude": 9.0059,
+      "longitude": 98.94404
+    },
+    {
+      "id": 7603493,
+      "name": "Ko Pha-ngan",
+      "nativeName": "Amphoe Ko Pha-ngan",
+      "code": "TH-84-7603493",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-84",
+      "latitude": 9.74939,
+      "longitude": 100.02649
+    },
+    {
+      "id": 1152646,
+      "name": "Ko Samui",
+      "nativeName": "Amphoe Ko Samui",
+      "code": "TH-84-1152646",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-84",
+      "latitude": 9.50841,
+      "longitude": 99.99644
+    },
+    {
+      "id": 1151977,
+      "name": "Mueang Surat Thani",
+      "nativeName": "Amphoe Mueang Surat Thani",
+      "code": "TH-84-1151977",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-84",
+      "latitude": 9.10132,
+      "longitude": 99.32614
+    },
+    {
+      "id": 1151448,
+      "name": "Phanom",
+      "nativeName": "Amphoe Phanom",
+      "code": "TH-84-1151448",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-84",
+      "latitude": 8.82254,
+      "longitude": 98.71709
+    },
+    {
+      "id": 1151295,
+      "name": "Phrasaeng",
+      "nativeName": "Amphoe Phrasaeng",
+      "code": "TH-84-1151295",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-84",
+      "latitude": 8.55124,
+      "longitude": 99.1052
+    },
+    {
+      "id": 1151210,
+      "name": "Phunphin",
+      "nativeName": "Amphoe Phunphin",
+      "code": "TH-84-1151210",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-84",
+      "latitude": 9.02472,
+      "longitude": 99.14304
+    },
+    {
+      "id": 1150339,
+      "name": "Tha Chana",
+      "nativeName": "Amphoe Tha Chana",
+      "code": "TH-84-1150339",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-84",
+      "latitude": 9.61142,
+      "longitude": 99.03611
+    },
+    {
+      "id": 1150337,
+      "name": "Tha Chang",
+      "nativeName": "Amphoe Tha Chang",
+      "code": "TH-84-1150337",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-84",
+      "latitude": 9.33475,
+      "longitude": 98.95619
+    },
+    {
+      "id": 7510613,
+      "name": "Vibhavadi",
+      "nativeName": "Amphoe Wiphawadi",
+      "code": "TH-84-7510613",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-84",
+      "latitude": 9.21972,
+      "longitude": 98.87028
+    },
+    {
+      "id": 7511035,
+      "name": "Wiang Sa",
+      "nativeName": "Amphoe Wiang Sa",
+      "code": "TH-84-7511035",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-84",
+      "latitude": 8.59813,
+      "longitude": 99.35277
+    }
+  ]
+}

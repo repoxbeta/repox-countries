@@ -1,0 +1,106 @@
+{
+  "stateId": 2472770,
+  "stateCode": "TN-31",
+  "countryCode": "TN",
+  "cities": [
+    {
+      "id": 2473395,
+      "name": "Amdoun",
+      "nativeName": "Amdoun",
+      "code": "TN-31-2473395",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-31",
+      "latitude": 36.80841,
+      "longitude": 9.03996
+    },
+    {
+      "id": 2472772,
+      "name": "Béja Nord",
+      "nativeName": "Délégation de Béja Nord",
+      "code": "TN-31-2472772",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-31",
+      "latitude": 36.80353,
+      "longitude": 9.24984
+    },
+    {
+      "id": 7870605,
+      "name": "Béja Sud",
+      "nativeName": "Beja Sud",
+      "code": "TN-31-7870605",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-31",
+      "latitude": 36.64255,
+      "longitude": 9.20852
+    },
+    {
+      "id": 7870606,
+      "name": "Goubellat",
+      "nativeName": "Goubellat",
+      "code": "TN-31-7870606",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-31",
+      "latitude": 36.52719,
+      "longitude": 9.70083
+    },
+    {
+      "id": 2469385,
+      "name": "Medjez El Bab",
+      "nativeName": "Medjez El Bab",
+      "code": "TN-31-2469385",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-31",
+      "latitude": 36.70246,
+      "longitude": 9.59906
+    },
+    {
+      "id": 2473663,
+      "name": "Nefza",
+      "nativeName": "Nefza",
+      "code": "TN-31-2473663",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-31",
+      "latitude": 36.9868,
+      "longitude": 9.07576
+    },
+    {
+      "id": 2464853,
+      "name": "Teboursouk",
+      "nativeName": "Teboursouk",
+      "code": "TN-31-2464853",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-31",
+      "latitude": 36.47082,
+      "longitude": 9.23909
+    },
+    {
+      "id": 2464703,
+      "name": "Testour",
+      "nativeName": "Testour",
+      "code": "TN-31-2464703",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-31",
+      "latitude": 36.59435,
+      "longitude": 9.42574
+    },
+    {
+      "id": 11108351,
+      "name": "Tibar",
+      "nativeName": "Tibar",
+      "code": "TN-31-11108351",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-31",
+      "latitude": 36.51145,
+      "longitude": 9.1016
+    }
+  ]
+}

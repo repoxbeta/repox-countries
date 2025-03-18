@@ -1,0 +1,150 @@
+{
+  "stateId": 1606417,
+  "stateCode": "TH-19",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 1616653,
+      "name": "Ban Mo",
+      "nativeName": "Amphoe Ban Mo",
+      "code": "TH-19-1616653",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-19",
+      "latitude": 14.60804,
+      "longitude": 100.72404
+    },
+    {
+      "id": 7510685,
+      "name": "Chaloem Phra Kiat",
+      "nativeName": "Amphoe Chaloem Phra Kiat",
+      "code": "TH-19-7510685",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-19",
+      "latitude": 14.65671,
+      "longitude": 100.90838
+    },
+    {
+      "id": 7510687,
+      "name": "Don Phut",
+      "nativeName": "Amphoe Don Phut",
+      "code": "TH-19-7510687",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-19",
+      "latitude": 14.60758,
+      "longitude": 100.61578
+    },
+    {
+      "id": 1610502,
+      "name": "Kaeng Khoi",
+      "nativeName": "Amphoe Kaeng Khoi",
+      "code": "TH-19-1610502",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-19",
+      "latitude": 14.58166,
+      "longitude": 101.05297
+    },
+    {
+      "id": 7510710,
+      "name": "Muak Lek",
+      "nativeName": "Amphoe Muak Lek",
+      "code": "TH-19-7510710",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-19",
+      "latitude": 14.77706,
+      "longitude": 101.27151
+    },
+    {
+      "id": 1608620,
+      "name": "Mueang Saraburi",
+      "nativeName": "Amphoe Mueang Sara Buri",
+      "code": "TH-19-1608620",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-19",
+      "latitude": 14.49721,
+      "longitude": 100.93829
+    },
+    {
+      "id": 7510686,
+      "name": "Nong Don",
+      "nativeName": "Amphoe Nong Don",
+      "code": "TH-19-7510686",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-19",
+      "latitude": 14.6888,
+      "longitude": 100.68527
+    },
+    {
+      "id": 1608238,
+      "name": "Nong Khae",
+      "nativeName": "Amphoe Nong Khae",
+      "code": "TH-19-1608238",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-19",
+      "latitude": 14.38125,
+      "longitude": 100.86451
+    },
+    {
+      "id": 1608172,
+      "name": "Nong Saeng",
+      "nativeName": "Amphoe Nong Saeng",
+      "code": "TH-19-1608172",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-19",
+      "latitude": 14.48283,
+      "longitude": 100.80463
+    },
+    {
+      "id": 1607511,
+      "name": "Phra Phutthabat",
+      "nativeName": "Amphoe Phra Phutthabat",
+      "code": "TH-19-1607511",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-19",
+      "latitude": 14.71912,
+      "longitude": 100.80622
+    },
+    {
+      "id": 1606488,
+      "name": "Sao Hai",
+      "nativeName": "Amphoe Sao Hai",
+      "code": "TH-19-1606488",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-19",
+      "latitude": 14.57549,
+      "longitude": 100.8439
+    },
+    {
+      "id": 7510711,
+      "name": "Wang Muang",
+      "nativeName": "Amphoe Wang Muang",
+      "code": "TH-19-7510711",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-19",
+      "latitude": 14.82287,
+      "longitude": 101.13346
+    },
+    {
+      "id": 1605021,
+      "name": "Wihan Daeng",
+      "nativeName": "Amphoe Wihan Daeng",
+      "code": "TH-19-1605021",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-19",
+      "latitude": 14.33435,
+      "longitude": 100.96458
+    }
+  ]
+}

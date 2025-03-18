@@ -1,0 +1,271 @@
+{
+  "stateId": 1518003,
+  "stateCode": "KZ-11",
+  "countryCode": "KZ",
+  "cities": [
+    {
+      "id": 1526436,
+      "name": "Akkol",
+      "nativeName": "Akkol",
+      "code": "KZ-11-1526436",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-11",
+      "latitude": 52.16667,
+      "longitude": 71.25
+    },
+    {
+      "id": 1517439,
+      "name": "Arshaly",
+      "nativeName": "Arshaly",
+      "code": "KZ-11-1517439",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-11",
+      "latitude": 51,
+      "longitude": 72.25
+    },
+    {
+      "id": 1526056,
+      "name": "Astrakhan",
+      "nativeName": "Astrakhan",
+      "code": "KZ-11-1526056",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-11",
+      "latitude": 51.5,
+      "longitude": 69.5
+    },
+    {
+      "id": 1526033,
+      "name": "Atbasar",
+      "nativeName": "Atbasar",
+      "code": "KZ-11-1526033",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-11",
+      "latitude": 51.5,
+      "longitude": 68.75
+    },
+    {
+      "id": 1524313,
+      "name": "Birzhan sal",
+      "nativeName": "Birzhan sal",
+      "code": "KZ-11-1524313",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-11",
+      "latitude": 53,
+      "longitude": 71
+    },
+    {
+      "id": 1521227,
+      "name": "Bulandy",
+      "nativeName": "Bulandy",
+      "code": "KZ-11-1521227",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-11",
+      "latitude": 52.16667,
+      "longitude": 70
+    },
+    {
+      "id": 1519241,
+      "name": "Burabay",
+      "nativeName": "Burabay",
+      "code": "KZ-11-1519241",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-11",
+      "latitude": 52.91667,
+      "longitude": 70.16667
+    },
+    {
+      "id": 1521995,
+      "name": "Egindikol",
+      "nativeName": "Egindikol",
+      "code": "KZ-11-1521995",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-11",
+      "latitude": 51,
+      "longitude": 69.5
+    },
+    {
+      "id": 1517189,
+      "name": "Ereymentau",
+      "nativeName": "Ereymentau",
+      "code": "KZ-11-1517189",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-11",
+      "latitude": 51.5,
+      "longitude": 73.25
+    },
+    {
+      "id": 1517166,
+      "name": "Esil",
+      "nativeName": "Esil",
+      "code": "KZ-11-1517166",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-11",
+      "latitude": 52,
+      "longitude": 66.5
+    },
+    {
+      "id": 1522531,
+      "name": "Kokshetau Gorodskaya Adminstratsiya",
+      "nativeName": "Kokshetau Gorodskaya Adminstratsiya",
+      "code": "KZ-11-1522531",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-11",
+      "latitude": 53.33333,
+      "longitude": 69.33333
+    },
+    {
+      "id": 1521748,
+      "name": "Korgalzhyn",
+      "nativeName": "Korgalzhyn",
+      "code": "KZ-11-1521748",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-11",
+      "latitude": 50.58333,
+      "longitude": 70
+    },
+    {
+      "id": 12539745,
+      "name": "Kosshy Gorodskaya Administratsiya",
+      "nativeName": "Kosshy Gorodskaya Administratsiya",
+      "code": "KZ-11-12539745",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-11",
+      "latitude": 50.97273,
+      "longitude": 71.3217
+    },
+    {
+      "id": 12474018,
+      "name": "Petropavlovsk Gorodskaya Administratsiya",
+      "nativeName": "Petropavlovsk Gorodskaya Administratsiya",
+      "code": "KZ-11-12474018",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-11",
+      "latitude": 54.89048,
+      "longitude": 69.1512
+    },
+    {
+      "id": 1522599,
+      "name": "Qīma Aūdany",
+      "nativeName": "Qīma Aūdany",
+      "code": "KZ-11-1522599",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-11",
+      "latitude": 51.41667,
+      "longitude": 67.41667
+    },
+    {
+      "id": 1525806,
+      "name": "Sandyktau",
+      "nativeName": "Sandyktau",
+      "code": "KZ-11-1525806",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-11",
+      "latitude": 52.5,
+      "longitude": 68.75
+    },
+    {
+      "id": 1519052,
+      "name": "Shortandy District",
+      "nativeName": "Shortandy",
+      "code": "KZ-11-1519052",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-11",
+      "latitude": 51.66667,
+      "longitude": 71
+    },
+    {
+      "id": 1519433,
+      "name": "Sileti Aūdany",
+      "nativeName": "Sileti Aūdany",
+      "code": "KZ-11-1519433",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-11",
+      "latitude": 52.16667,
+      "longitude": 72.75
+    },
+    {
+      "id": 1537265,
+      "name": "Stepnogorsk Gorodskaya Administratsiya",
+      "nativeName": "Stepnogorsk Gorodskaya Administratsiya",
+      "code": "KZ-11-1537265",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-11",
+      "latitude": 52.3577,
+      "longitude": 71.85873
+    },
+    {
+      "id": 1518002,
+      "name": "Tselinograd District",
+      "nativeName": "Tselinograd",
+      "code": "KZ-11-1518002",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-11",
+      "latitude": 51.16667,
+      "longitude": 71.25
+    },
+    {
+      "id": 1517044,
+      "name": "Zerendi District",
+      "nativeName": "Zerendi",
+      "code": "KZ-11-1517044",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-11",
+      "latitude": 52.91667,
+      "longitude": 69.16667
+    },
+    {
+      "id": 1517012,
+      "name": "Zhaksy",
+      "nativeName": "Zhaksy",
+      "code": "KZ-11-1517012",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-11",
+      "latitude": 52,
+      "longitude": 67.5
+    },
+    {
+      "id": 1516873,
+      "name": "Zhanadalinskiy Rayon",
+      "nativeName": "Zhanadalinskiy Rayon",
+      "code": "KZ-11-1516873",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-11",
+      "latitude": 51.16667,
+      "longitude": 67.08333
+    },
+    {
+      "id": 1524603,
+      "name": "Zharkain",
+      "nativeName": "Zharkain",
+      "code": "KZ-11-1524603",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-11",
+      "latitude": 51.16667,
+      "longitude": 66.33333
+    }
+  ]
+}

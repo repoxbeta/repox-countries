@@ -1,0 +1,116 @@
+{
+  "countryId": 932692,
+  "countryCode": "LS",
+  "states": [
+    {
+      "id": 932932,
+      "name": "Berea",
+      "nativeName": "Berea",
+      "code": "LS-D",
+      "internalCode": "D",
+      "countryId": 932692,
+      "countryCode": "LS",
+      "latitude": -29.16667,
+      "longitude": 27.91667
+    },
+    {
+      "id": 932888,
+      "name": "Butha-Buthe",
+      "nativeName": "Butha-Buthe",
+      "code": "LS-B",
+      "internalCode": "B",
+      "countryId": 932692,
+      "countryCode": "LS",
+      "latitude": -28.8,
+      "longitude": 28.56667
+    },
+    {
+      "id": 932700,
+      "name": "Leribe",
+      "nativeName": "Leribe District",
+      "code": "LS-C",
+      "internalCode": "C",
+      "countryId": 932692,
+      "countryCode": "LS",
+      "latitude": -29.03651,
+      "longitude": 28.25266
+    },
+    {
+      "id": 932615,
+      "name": "Mafeteng District",
+      "nativeName": "Mafeteng District",
+      "code": "LS-E",
+      "internalCode": "E",
+      "countryId": 932692,
+      "countryCode": "LS",
+      "latitude": -29.8041,
+      "longitude": 27.50262
+    },
+    {
+      "id": 932506,
+      "name": "Maseru District",
+      "nativeName": "Maseru",
+      "code": "LS-A",
+      "internalCode": "A",
+      "countryId": 932692,
+      "countryCode": "LS",
+      "latitude": -29.58333,
+      "longitude": 27.83333
+    },
+    {
+      "id": 932439,
+      "name": "Mohale's Hoek District",
+      "nativeName": "Mohale’s Hoek District",
+      "code": "LS-F",
+      "internalCode": "F",
+      "countryId": 932692,
+      "countryCode": "LS",
+      "latitude": -30.06667,
+      "longitude": 27.8
+    },
+    {
+      "id": 932418,
+      "name": "Mokhotlong District",
+      "nativeName": "Mokhotlong",
+      "code": "LS-J",
+      "internalCode": "J",
+      "countryId": 932692,
+      "countryCode": "LS",
+      "latitude": -29.21667,
+      "longitude": 29.03333
+    },
+    {
+      "id": 932219,
+      "name": "Qacha's Nek District",
+      "nativeName": "Qacha’s Nek",
+      "code": "LS-H",
+      "internalCode": "H",
+      "countryId": 932692,
+      "countryCode": "LS",
+      "latitude": -30,
+      "longitude": 28.75
+    },
+    {
+      "id": 932184,
+      "name": "Quthing",
+      "nativeName": "Quthing",
+      "code": "LS-G",
+      "internalCode": "G",
+      "countryId": 932692,
+      "countryCode": "LS",
+      "latitude": -30.36667,
+      "longitude": 28
+    },
+    {
+      "id": 932011,
+      "name": "Thaba-Tseka",
+      "nativeName": "Thaba-Tseka",
+      "code": "LS-K",
+      "internalCode": "K",
+      "countryId": 932692,
+      "countryCode": "LS",
+      "latitude": -29.56667,
+      "longitude": 28.6
+    }
+  ]
+}

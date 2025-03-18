@@ -1,0 +1,61 @@
+{
+  "countryId": 2363686,
+  "countryCode": "TG",
+  "states": [
+    {
+      "id": 2367237,
+      "name": "Centrale",
+      "nativeName": "Centrale",
+      "code": "TG-C",
+      "internalCode": "C",
+      "countryId": 2363686,
+      "countryCode": "TG",
+      "latitude": 8.66667,
+      "longitude": 1
+    },
+    {
+      "id": 2597439,
+      "name": "Kara",
+      "nativeName": "Kara",
+      "code": "TG-K",
+      "internalCode": "K",
+      "countryId": 2363686,
+      "countryCode": "TG",
+      "latitude": 9.66667,
+      "longitude": 0.91667
+    },
+    {
+      "id": 2365173,
+      "name": "Maritime",
+      "nativeName": "Maritime",
+      "code": "TG-M",
+      "internalCode": "M",
+      "countryId": 2363686,
+      "countryCode": "TG",
+      "latitude": 6.5,
+      "longitude": 1.33333
+    },
+    {
+      "id": 2364370,
+      "name": "Plateaux",
+      "nativeName": "Plateaux",
+      "code": "TG-P",
+      "internalCode": "P",
+      "countryId": 2363686,
+      "countryCode": "TG",
+      "latitude": 7.5,
+      "longitude": 1.16667
+    },
+    {
+      "id": 2364205,
+      "name": "Savanes",
+      "nativeName": "Savanes",
+      "code": "TG-S",
+      "internalCode": "S",
+      "countryId": 2363686,
+      "countryCode": "TG",
+      "latitude": 10.5,
+      "longitude": 0.5
+    }
+  ]
+}

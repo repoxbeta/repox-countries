@@ -1,0 +1,29 @@
+{
+  "stateId": 7670853,
+  "stateCode": "MG-14",
+  "countryCode": "MG",
+  "cities": [
+    {
+      "id": 11072808,
+      "name": "Fenoarivobe",
+      "nativeName": "Fenoarivobe",
+      "code": "MG-14-11072808",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-14",
+      "latitude": -18.12933,
+      "longitude": 46.33321
+    },
+    {
+      "id": 11072807,
+      "name": "Tsiroanomandidy",
+      "nativeName": "Tsiroanomandidy",
+      "code": "MG-14-11072807",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-14",
+      "latitude": -18.84018,
+      "longitude": 46.04516
+    }
+  ]
+}

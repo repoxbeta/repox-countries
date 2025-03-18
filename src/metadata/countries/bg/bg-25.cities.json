@@ -1,0 +1,62 @@
+{
+  "stateId": 864560,
+  "stateCode": "BG-25",
+  "countryCode": "BG",
+  "cities": [
+    {
+      "id": 733656,
+      "name": "Antonovo",
+      "nativeName": "Obshtina Antonovo",
+      "code": "BG-25-733656",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-25",
+      "latitude": 43.11667,
+      "longitude": 26.2
+    },
+    {
+      "id": 728633,
+      "name": "Omurtag",
+      "nativeName": "Obshtina Omurtag",
+      "code": "BG-25-728633",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-25",
+      "latitude": 43.08333,
+      "longitude": 26.48333
+    },
+    {
+      "id": 728630,
+      "name": "Opaka",
+      "nativeName": "Obshtina Opaka",
+      "code": "BG-25-728630",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-25",
+      "latitude": 43.46667,
+      "longitude": 26.15
+    },
+    {
+      "id": 728074,
+      "name": "Popovo",
+      "nativeName": "Obshtina Popovo",
+      "code": "BG-25-728074",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-25",
+      "latitude": 43.35,
+      "longitude": 26.23333
+    },
+    {
+      "id": 726172,
+      "name": "Targovishte",
+      "nativeName": "Obshtina Targovishte",
+      "code": "BG-25-726172",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-25",
+      "latitude": 43.25,
+      "longitude": 26.56667
+    }
+  ]
+}

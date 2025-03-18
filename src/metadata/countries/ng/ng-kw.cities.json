@@ -1,0 +1,183 @@
+{
+  "stateId": 2332785,
+  "stateCode": "NG-KW",
+  "countryCode": "NG",
+  "cities": [
+    {
+      "id": 7910330,
+      "name": "Asa",
+      "nativeName": "Asa",
+      "code": "NG-KW-7910330",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KW",
+      "latitude": 8.43005,
+      "longitude": 4.426
+    },
+    {
+      "id": 7910331,
+      "name": "Baruten",
+      "nativeName": "Baruten",
+      "code": "NG-KW-7910331",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KW",
+      "latitude": 9.26039,
+      "longitude": 3.31607
+    },
+    {
+      "id": 8635168,
+      "name": "Edu",
+      "nativeName": "Edu",
+      "code": "NG-KW-8635168",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KW",
+      "latitude": 8.89181,
+      "longitude": 5.21012
+    },
+    {
+      "id": 8635167,
+      "name": "Ekiti",
+      "nativeName": "Ekiti",
+      "code": "NG-KW-8635167",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KW",
+      "latitude": 8.11799,
+      "longitude": 5.32035
+    },
+    {
+      "id": 7871293,
+      "name": "Ifelodun",
+      "nativeName": "Ifelodun",
+      "code": "NG-KW-7871293",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KW",
+      "latitude": 8.55971,
+      "longitude": 5.01072
+    },
+    {
+      "id": 8635064,
+      "name": "Ilorin East",
+      "nativeName": "Ilorin East",
+      "code": "NG-KW-8635064",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KW",
+      "latitude": 8.5712,
+      "longitude": 4.72827
+    },
+    {
+      "id": 8635162,
+      "name": "Ilorin South",
+      "nativeName": "Ilorin South",
+      "code": "NG-KW-8635162",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KW",
+      "latitude": 8.44156,
+      "longitude": 4.68018
+    },
+    {
+      "id": 7873900,
+      "name": "Ilorin West",
+      "nativeName": "Ilorin West",
+      "code": "NG-KW-7873900",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KW",
+      "latitude": 8.48752,
+      "longitude": 4.5235
+    },
+    {
+      "id": 8635164,
+      "name": "Irepodun",
+      "nativeName": "Irepodun",
+      "code": "NG-KW-8635164",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KW",
+      "latitude": 8.14654,
+      "longitude": 4.91294
+    },
+    {
+      "id": 8635165,
+      "name": "Isin",
+      "nativeName": "Isin",
+      "code": "NG-KW-8635165",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KW",
+      "latitude": 8.26747,
+      "longitude": 5.05356
+    },
+    {
+      "id": 7873912,
+      "name": "Kaiama",
+      "nativeName": "Kaiama",
+      "code": "NG-KW-7873912",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KW",
+      "latitude": 9.45342,
+      "longitude": 4.15994
+    },
+    {
+      "id": 8635063,
+      "name": "Moro",
+      "nativeName": "Moro",
+      "code": "NG-KW-8635063",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KW",
+      "latitude": 8.84493,
+      "longitude": 4.55671
+    },
+    {
+      "id": 8635163,
+      "name": "Offa",
+      "nativeName": "Offa",
+      "code": "NG-KW-8635163",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KW",
+      "latitude": 8.14279,
+      "longitude": 4.68796
+    },
+    {
+      "id": 8635166,
+      "name": "Oke Ero",
+      "nativeName": "Oke Ero",
+      "code": "NG-KW-8635166",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KW",
+      "latitude": 8.16997,
+      "longitude": 5.23449
+    },
+    {
+      "id": 7873899,
+      "name": "Oyun",
+      "nativeName": "Oyun",
+      "code": "NG-KW-7873899",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KW",
+      "latitude": 8.16827,
+      "longitude": 4.65212
+    },
+    {
+      "id": 7910332,
+      "name": "Pategi",
+      "nativeName": "Pategi",
+      "code": "NG-KW-7910332",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KW",
+      "latitude": 8.73,
+      "longitude": 5.75
+    }
+  ]
+}

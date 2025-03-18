@@ -1,0 +1,73 @@
+{
+  "stateId": 8299762,
+  "stateCode": "MT-64",
+  "countryCode": "MT",
+  "cities": [
+    {
+      "id": 2562266,
+      "name": "Żabbar",
+      "nativeName": "Żabbar",
+      "code": "MT-64-2562266",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-64",
+      "latitude": 35.87611,
+      "longitude": 14.535
+    },
+    {
+      "id": 2562968,
+      "name": "Il-Bidni",
+      "nativeName": "Il-Bidni",
+      "code": "MT-64-2562968",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-64",
+      "latitude": 35.86889,
+      "longitude": 14.55444
+    },
+    {
+      "id": 2562933,
+      "name": "Il-Ħofra",
+      "nativeName": "Il-Ħofra",
+      "code": "MT-64-2562933",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-64",
+      "latitude": 35.88194,
+      "longitude": 14.54472
+    },
+    {
+      "id": 2562551,
+      "name": "San Leonardo",
+      "nativeName": "San Leonardo",
+      "code": "MT-64-2562551",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-64",
+      "latitude": 35.87833,
+      "longitude": 14.55583
+    },
+    {
+      "id": 2562474,
+      "name": "Ta’ Ċantar",
+      "nativeName": "Ta’ Ċantar",
+      "code": "MT-64-2562474",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-64",
+      "latitude": 35.86972,
+      "longitude": 14.53667
+    },
+    {
+      "id": 2562989,
+      "name": "Ħas-Sajd",
+      "nativeName": "Ħas-Sajd",
+      "code": "MT-64-2562989",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-64",
+      "latitude": 35.87083,
+      "longitude": 14.54333
+    }
+  ]
+}

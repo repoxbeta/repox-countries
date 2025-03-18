@@ -1,0 +1,40 @@
+{
+  "stateId": 7602005,
+  "stateCode": "GL-KU",
+  "countryCode": "GL",
+  "cities": [
+    {
+      "id": 3421767,
+      "name": "Nanortalik Municipality",
+      "nativeName": "Nanortalik Municipality",
+      "code": "GL-KU-3421767",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-KU",
+      "latitude": 60.11723,
+      "longitude": -44.96542
+    },
+    {
+      "id": 3421723,
+      "name": "Narsaq Municipality",
+      "nativeName": "Narsaq Municipality",
+      "code": "GL-KU-3421723",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-KU",
+      "latitude": 60.26678,
+      "longitude": -45.10545
+    },
+    {
+      "id": 3420847,
+      "name": "Qaqortoq Municipality",
+      "nativeName": "Qaqortoq Municipality",
+      "code": "GL-KU-3420847",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-KU",
+      "latitude": 60.66667,
+      "longitude": -46.16667
+    }
+  ]
+}

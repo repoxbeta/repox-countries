@@ -1,0 +1,105 @@
+{
+  "countryId": 1227603,
+  "countryCode": "LK",
+  "states": [
+    {
+      "id": 1249296,
+      "name": "Central Province",
+      "nativeName": "Central Province",
+      "code": "LK-2",
+      "internalCode": "2",
+      "countryId": 1227603,
+      "countryCode": "LK",
+      "latitude": 7.33333,
+      "longitude": 80.75
+    },
+    {
+      "id": 8133521,
+      "name": "Eastern Province",
+      "nativeName": "Eastern Province",
+      "code": "LK-5",
+      "internalCode": "5",
+      "countryId": 1227603,
+      "countryCode": "LK",
+      "latitude": 8.60614,
+      "longitude": 81.20201
+    },
+    {
+      "id": 1232870,
+      "name": "North Central Province",
+      "nativeName": "North Central Province",
+      "code": "LK-7",
+      "internalCode": "7",
+      "countryId": 1227603,
+      "countryCode": "LK",
+      "latitude": 8.33333,
+      "longitude": 80.5
+    },
+    {
+      "id": 1232860,
+      "name": "North Western Province",
+      "nativeName": "North Western Province",
+      "code": "LK-6",
+      "internalCode": "6",
+      "countryId": 1227603,
+      "countryCode": "LK",
+      "latitude": 7.75,
+      "longitude": 80.16667
+    },
+    {
+      "id": 7671049,
+      "name": "Northern Province",
+      "nativeName": "Northern Province",
+      "code": "LK-4",
+      "internalCode": "4",
+      "countryId": 1227603,
+      "countryCode": "LK",
+      "latitude": 9.16667,
+      "longitude": 80.41667
+    },
+    {
+      "id": 1228435,
+      "name": "Sabaragamuwa Province",
+      "nativeName": "Sabaragamuwa Province",
+      "code": "LK-9",
+      "internalCode": "9",
+      "countryId": 1227603,
+      "countryCode": "LK",
+      "latitude": 6.75,
+      "longitude": 80.5
+    },
+    {
+      "id": 1227618,
+      "name": "Southern Province",
+      "nativeName": "Southern Province",
+      "code": "LK-3",
+      "internalCode": "3",
+      "countryId": 1227603,
+      "countryCode": "LK",
+      "latitude": 6.16667,
+      "longitude": 80.75
+    },
+    {
+      "id": 1225265,
+      "name": "Uva Province",
+      "nativeName": "Province of Uva",
+      "code": "LK-8",
+      "internalCode": "8",
+      "countryId": 1227603,
+      "countryCode": "LK",
+      "latitude": 6.98472,
+      "longitude": 81.05639
+    },
+    {
+      "id": 1223421,
+      "name": "Western Province",
+      "nativeName": "Western Province",
+      "code": "LK-1",
+      "internalCode": "1",
+      "countryId": 1227603,
+      "countryCode": "LK",
+      "latitude": 6.83333,
+      "longitude": 80.08333
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "stateId": 435764,
+  "stateCode": "TZ-26",
+  "countryCode": "TZ",
+  "cities": [
+    {
+      "id": 7647662,
+      "name": "Babati District",
+      "nativeName": "Babati District",
+      "code": "TZ-26-7647662",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-26",
+      "latitude": -4.19577,
+      "longitude": 35.87585
+    },
+    {
+      "id": 9998132,
+      "name": "Babati Town",
+      "nativeName": "Babati Town",
+      "code": "TZ-26-9998132",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-26",
+      "latitude": -4.19453,
+      "longitude": 35.74529
+    },
+    {
+      "id": 159684,
+      "name": "Hanang District",
+      "nativeName": "Hanang District",
+      "code": "TZ-26-159684",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-26",
+      "latitude": -4.5,
+      "longitude": 35.25
+    },
+    {
+      "id": 156810,
+      "name": "Kiteto District Council",
+      "nativeName": "Kiteto",
+      "code": "TZ-26-156810",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-26",
+      "latitude": -5.24047,
+      "longitude": 36.69538
+    },
+    {
+      "id": 154311,
+      "name": "Mbulu District",
+      "nativeName": "Mbulu",
+      "code": "TZ-26-154311",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-26",
+      "latitude": -3.95027,
+      "longitude": 35.311
+    },
+    {
+      "id": 7647663,
+      "name": "Simanjiro",
+      "nativeName": "Simanjiro",
+      "code": "TZ-26-7647663",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-26",
+      "latitude": -3.86667,
+      "longitude": 36.6
+    }
+  ]
+}

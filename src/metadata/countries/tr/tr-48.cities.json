@@ -1,0 +1,150 @@
+{
+  "stateId": 304183,
+  "stateCode": "TR-48",
+  "countryCode": "TR",
+  "cities": [
+    {
+      "id": 7733242,
+      "name": "Bodrum",
+      "nativeName": "Bodrum",
+      "code": "TR-48-7733242",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-48",
+      "latitude": 37.065,
+      "longitude": 27.49819
+    },
+    {
+      "id": 8631959,
+      "name": "Dalaman",
+      "nativeName": "Dalaman",
+      "code": "TR-48-8631959",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-48",
+      "latitude": 36.81691,
+      "longitude": 28.87815
+    },
+    {
+      "id": 8631963,
+      "name": "Datça İlçesi",
+      "nativeName": "Datça İlçesi",
+      "code": "TR-48-8631963",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-48",
+      "latitude": 36.76885,
+      "longitude": 27.66295
+    },
+    {
+      "id": 7732940,
+      "name": "Fethiye",
+      "nativeName": "Fethiye",
+      "code": "TR-48-7732940",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-48",
+      "latitude": 36.65483,
+      "longitude": 29.12682
+    },
+    {
+      "id": 7732941,
+      "name": "Kavaklıdere",
+      "nativeName": "Kavaklıdere",
+      "code": "TR-48-7732941",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-48",
+      "latitude": 37.43929,
+      "longitude": 28.38402
+    },
+    {
+      "id": 8631961,
+      "name": "Köyceğiz İlçesi",
+      "nativeName": "Köyceğiz İlçesi",
+      "code": "TR-48-8631961",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-48",
+      "latitude": 36.97798,
+      "longitude": 28.72418
+    },
+    {
+      "id": 7732942,
+      "name": "Marmaris",
+      "nativeName": "Marmaris",
+      "code": "TR-48-7732942",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-48",
+      "latitude": 36.81054,
+      "longitude": 28.17907
+    },
+    {
+      "id": 9548851,
+      "name": "Menteşe",
+      "nativeName": "Menteşe",
+      "code": "TR-48-9548851",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-48",
+      "latitude": 37.21447,
+      "longitude": 28.36168
+    },
+    {
+      "id": 8632389,
+      "name": "Milas",
+      "nativeName": "Milas İlçesi",
+      "code": "TR-48-8632389",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-48",
+      "latitude": 37.32699,
+      "longitude": 27.7952
+    },
+    {
+      "id": 8631960,
+      "name": "Ortaca İlçesi",
+      "nativeName": "Ortaca İlçesi",
+      "code": "TR-48-8631960",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-48",
+      "latitude": 36.8389,
+      "longitude": 28.7773
+    },
+    {
+      "id": 9548757,
+      "name": "Seydikemer",
+      "nativeName": "Seydikemer",
+      "code": "TR-48-9548757",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-48",
+      "latitude": 36.64308,
+      "longitude": 29.34929
+    },
+    {
+      "id": 8631962,
+      "name": "Ula İlçesi",
+      "nativeName": "Ula İlçesi",
+      "code": "TR-48-8631962",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-48",
+      "latitude": 37.11514,
+      "longitude": 28.42732
+    },
+    {
+      "id": 7732943,
+      "name": "Yatağan",
+      "nativeName": "Yatağan",
+      "code": "TR-48-7732943",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-48",
+      "latitude": 37.35864,
+      "longitude": 28.11441
+    }
+  ]
+}

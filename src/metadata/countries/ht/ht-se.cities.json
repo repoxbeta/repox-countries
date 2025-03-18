@@ -1,0 +1,40 @@
+{
+  "stateId": 3716950,
+  "stateCode": "HT-SE",
+  "countryCode": "HT",
+  "cities": [
+    {
+      "id": 3730910,
+      "name": "Arrondissement de Bainet",
+      "nativeName": "Arrondissement de Bainet",
+      "code": "HT-SE-3730910",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "stateCode": "HT-SE",
+      "latitude": 18.21247,
+      "longitude": -72.84862
+    },
+    {
+      "id": 3723778,
+      "name": "Arrondissement de Jacmel",
+      "nativeName": "Arrondissement de Jacmel",
+      "code": "HT-SE-3723778",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "stateCode": "HT-SE",
+      "latitude": 18.29876,
+      "longitude": -72.48159
+    },
+    {
+      "id": 3730361,
+      "name": "Belans",
+      "nativeName": "Belans",
+      "code": "HT-SE-3730361",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "stateCode": "HT-SE",
+      "latitude": 18.25722,
+      "longitude": -71.98749
+    }
+  ]
+}

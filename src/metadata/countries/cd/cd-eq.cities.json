@@ -1,0 +1,95 @@
+{
+  "stateId": 216661,
+  "stateCode": "CD-EQ",
+  "countryCode": "CD",
+  "cities": [
+    {
+      "id": 12278016,
+      "name": "Basankusu",
+      "nativeName": "Basankusu",
+      "code": "CD-EQ-12278016",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-EQ",
+      "latitude": 1.0873,
+      "longitude": 20.00086
+    },
+    {
+      "id": 12278160,
+      "name": "Bikoro",
+      "nativeName": "Bikoro",
+      "code": "CD-EQ-12278160",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-EQ",
+      "latitude": -0.81048,
+      "longitude": 18.18664
+    },
+    {
+      "id": 12278040,
+      "name": "Bolomba",
+      "nativeName": "Bolomba",
+      "code": "CD-EQ-12278040",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-EQ",
+      "latitude": 0.402,
+      "longitude": 19.24488
+    },
+    {
+      "id": 12278041,
+      "name": "Bomongo",
+      "nativeName": "Bomongo",
+      "code": "CD-EQ-12278041",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-EQ",
+      "latitude": 1.05015,
+      "longitude": 18.29607
+    },
+    {
+      "id": 12278026,
+      "name": "Ingende",
+      "nativeName": "Ingende",
+      "code": "CD-EQ-12278026",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-EQ",
+      "latitude": -0.60218,
+      "longitude": 19.39848
+    },
+    {
+      "id": 12278169,
+      "name": "Lukolela",
+      "nativeName": "Lukolela",
+      "code": "CD-EQ-12278169",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-EQ",
+      "latitude": -1.3673,
+      "longitude": 17.16974
+    },
+    {
+      "id": 12278152,
+      "name": "Makanza",
+      "nativeName": "Makanza",
+      "code": "CD-EQ-12278152",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-EQ",
+      "latitude": 1.40149,
+      "longitude": 18.93251
+    },
+    {
+      "id": 12278126,
+      "name": "Mbandaka",
+      "nativeName": "Mbandaka",
+      "code": "CD-EQ-12278126",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-EQ",
+      "latitude": -0.0976,
+      "longitude": 18.25856
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "stateId": 2634895,
+  "stateCode": "GB-WLS",
+  "countryCode": "GB",
+  "cities": [
+    {
+      "id": 2657311,
+      "name": "Anglesey",
+      "nativeName": "Anglesey",
+      "code": "GB-WLS-2657311",
+      "countryId": 2635167,
+      "countryCode": "GB",
+      "stateCode": "GB-WLS",
+      "latitude": 53.25,
+      "longitude": -4.33333
+    },
+    {
+      "id": 3333238,
+      "name": "Blaenau Gwent",
+      "nativeName": "Blaenau Gwent",
+      "code": "GB-WLS-3333238",
+      "countryId": 2635167,
+      "countryCode": "GB",
+      "stateCode": "GB-WLS",
+      "latitude": 51.75,
+      "longitude": -3.16667
+    },
+    {
+      "id": 3333240,
+      "name": "Caerphilly County Borough",
+      "nativeName": "Caerphilly County Borough",
+      "code": "GB-WLS-3333240",
+      "countryId": 2635167,
+      "countryCode": "GB",
+      "stateCode": "GB-WLS",
+      "latitude": 51.66667,
+      "longitude": -3.16667
+    },
+    {
+      "id": 3333241,
+      "name": "Cardiff",
+      "nativeName": "Cardiff",
+      "code": "GB-WLS-3333241",
+      "countryId": 2635167,
+      "countryCode": "GB",
+      "stateCode": "GB-WLS",
+      "latitude": 51.5,
+      "longitude": -3.16667
+    },
+    {
+      "id": 2653753,
+      "name": "Carmarthenshire",
+      "nativeName": "Carmarthenshire",
+      "code": "GB-WLS-2653753",
+      "countryId": 2635167,
+      "countryCode": "GB",
+      "stateCode": "GB-WLS",
+      "latitude": 51.83333,
+      "longitude": -4.16667
+    },
+    {
+      "id": 2653814,
+      "name": "Ceredigion",
+      "nativeName": "County of Ceredigion",
+      "code": "GB-WLS-2653814",
+      "countryId": 2635167,
+      "countryCode": "GB",
+      "stateCode": "GB-WLS",
+      "latitude": 52.25,
+      "longitude": -4
+    },
+    {
+      "id": 3333248,
+      "name": "City and County of Swansea",
+      "nativeName": "City and County of Swansea",
+      "code": "GB-WLS-3333248",
+      "countryId": 2635167,
+      "countryCode": "GB",
+      "stateCode": "GB-WLS",
+      "latitude": 51.58333,
+      "longitude": -4
+    },
+    {
+      "id": 3333242,
+      "name": "Conwy",
+      "nativeName": "Conwy",
+      "code": "GB-WLS-3333242",
+      "countryId": 2635167,
+      "countryCode": "GB",
+      "stateCode": "GB-WLS",
+      "latitude": 53.08333,
+      "longitude": -3.75
+    },
+    {
+      "id": 3333239,
+      "name": "County Borough of Bridgend",
+      "nativeName": "Bridgend county borough",
+      "code": "GB-WLS-3333239",
+      "countryId": 2635167,
+      "countryCode": "GB",
+      "stateCode": "GB-WLS",
+      "latitude": 51.55,
+      "longitude": -3.58333
+    },
+    {
+      "id": 2651385,
+      "name": "Denbighshire",
+      "nativeName": "Denbighshire",
+      "code": "GB-WLS-2651385",
+      "countryId": 2635167,
+      "countryCode": "GB",
+      "stateCode": "GB-WLS",
+      "latitude": 53.08333,
+      "longitude": -3.33333
+    },
+    {
+      "id": 2649298,
+      "name": "Flintshire",
+      "nativeName": "County of Flintshire",
+      "code": "GB-WLS-2649298",
+      "countryId": 2635167,
+      "countryCode": "GB",
+      "stateCode": "GB-WLS",
+      "latitude": 53.25,
+      "longitude": -3.16667
+    },
+    {
+      "id": 2647716,
+      "name": "Gwynedd",
+      "nativeName": "Gwynedd",
+      "code": "GB-WLS-2647716",
+      "countryId": 2635167,
+      "countryCode": "GB",
+      "stateCode": "GB-WLS",
+      "latitude": 52.83333,
+      "longitude": -3.91667
+    },
+    {
+      "id": 3333243,
+      "name": "Merthyr Tydfil",
+      "nativeName": "Merthyr Tydfil County Borough",
+      "code": "GB-WLS-3333243",
+      "countryId": 2635167,
+      "countryCode": "GB",
+      "stateCode": "GB-WLS",
+      "latitude": 51.75,
+      "longitude": -3.33333
+    },
+    {
+      "id": 3333244,
+      "name": "Monmouthshire",
+      "nativeName": "Monmouthshire",
+      "code": "GB-WLS-3333244",
+      "countryId": 2635167,
+      "countryCode": "GB",
+      "stateCode": "GB-WLS",
+      "latitude": 51.75,
+      "longitude": -2.83333
+    },
+    {
+      "id": 3333245,
+      "name": "Neath Port Talbot",
+      "nativeName": "Neath Port Talbot",
+      "code": "GB-WLS-3333245",
+      "countryId": 2635167,
+      "countryCode": "GB",
+      "stateCode": "GB-WLS",
+      "latitude": 51.66667,
+      "longitude": -3.75
+    },
+    {
+      "id": 3333246,
+      "name": "Newport",
+      "nativeName": "Newport",
+      "code": "GB-WLS-3333246",
+      "countryId": 2635167,
+      "countryCode": "GB",
+      "stateCode": "GB-WLS",
+      "latitude": 51.58333,
+      "longitude": -3
+    },
+    {
+      "id": 2640500,
+      "name": "Pembrokeshire",
+      "nativeName": "Pembrokeshire",
+      "code": "GB-WLS-2640500",
+      "countryId": 2635167,
+      "countryCode": "GB",
+      "stateCode": "GB-WLS",
+      "latitude": 51.83333,
+      "longitude": -4.91667
+    },
+    {
+      "id": 2639944,
+      "name": "Powys",
+      "nativeName": "Sir Powys",
+      "code": "GB-WLS-2639944",
+      "countryId": 2635167,
+      "countryCode": "GB",
+      "stateCode": "GB-WLS",
+      "latitude": 52.33333,
+      "longitude": -3.41667
+    },
+    {
+      "id": 3333247,
+      "name": "Rhondda Cynon Taf",
+      "nativeName": "Rhondda Cynon Taf",
+      "code": "GB-WLS-3333247",
+      "countryId": 2635167,
+      "countryCode": "GB",
+      "stateCode": "GB-WLS",
+      "latitude": 51.66667,
+      "longitude": -3.5
+    },
+    {
+      "id": 3333249,
+      "name": "Torfaen County Borough",
+      "nativeName": "Torfaen County Borough",
+      "code": "GB-WLS-3333249",
+      "countryId": 2635167,
+      "countryCode": "GB",
+      "stateCode": "GB-WLS",
+      "latitude": 51.70146,
+      "longitude": -3.05136
+    },
+    {
+      "id": 2635028,
+      "name": "Vale of Glamorgan",
+      "nativeName": "Vale of Glamorgan",
+      "code": "GB-WLS-2635028",
+      "countryId": 2635167,
+      "countryCode": "GB",
+      "stateCode": "GB-WLS",
+      "latitude": 51.41667,
+      "longitude": -3.41667
+    },
+    {
+      "id": 2633484,
+      "name": "Wrexham",
+      "nativeName": "Wrexham",
+      "code": "GB-WLS-2633484",
+      "countryId": 2635167,
+      "countryCode": "GB",
+      "stateCode": "GB-WLS",
+      "latitude": 53,
+      "longitude": -3
+    }
+  ]
+}

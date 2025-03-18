@@ -1,0 +1,29 @@
+{
+  "stateId": 192709,
+  "stateCode": "KE-13",
+  "countryCode": "KE",
+  "cities": [
+    {
+      "id": 8693007,
+      "name": "Kiambu County",
+      "nativeName": "Kiambu County",
+      "code": "KE-13-8693007",
+      "countryId": 192950,
+      "countryCode": "KE",
+      "stateCode": "KE-13",
+      "latitude": -1.16667,
+      "longitude": 36.83333
+    },
+    {
+      "id": 179328,
+      "name": "Thika District",
+      "nativeName": "Thika District",
+      "code": "KE-13-179328",
+      "countryId": 192950,
+      "countryCode": "KE",
+      "stateCode": "KE-13",
+      "latitude": -1.08333,
+      "longitude": 37.08333
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "stateId": 12494965,
+  "stateCode": "MG-26",
+  "countryCode": "MG",
+  "cities": [
+    {
+      "id": 11072814,
+      "name": "Ikongo",
+      "nativeName": "Ikongo",
+      "code": "MG-26-11072814",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-26",
+      "latitude": -21.95216,
+      "longitude": 47.46766
+    },
+    {
+      "id": 11072815,
+      "name": "Manakara",
+      "nativeName": "Manakara",
+      "code": "MG-26-11072815",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-26",
+      "latitude": -21.9336,
+      "longitude": 47.84987
+    },
+    {
+      "id": 11926420,
+      "name": "Vohipeno",
+      "nativeName": "Vohipeno",
+      "code": "MG-26-11926420",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-26",
+      "latitude": -22.34267,
+      "longitude": 47.70616
+    }
+  ]
+}

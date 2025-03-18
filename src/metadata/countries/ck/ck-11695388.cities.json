@@ -1,0 +1,29 @@
+{
+  "stateId": 11695388,
+  "stateCode": "CK-11695388",
+  "countryCode": "CK",
+  "cities": [
+    {
+      "id": 4031141,
+      "name": "Omoka",
+      "nativeName": "Omoka",
+      "code": "CK-11695388-4031141",
+      "countryId": 1899402,
+      "countryCode": "CK",
+      "stateCode": "CK-11695388",
+      "latitude": -8.97982,
+      "longitude": -158.05307
+    },
+    {
+      "id": 4031126,
+      "name": "Te Tautua",
+      "nativeName": "Te Tautua",
+      "code": "CK-11695388-4031126",
+      "countryId": 1899402,
+      "countryCode": "CK",
+      "stateCode": "CK-11695388",
+      "latitude": -8.95873,
+      "longitude": -157.92621
+    }
+  ]
+}

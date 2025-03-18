@@ -1,0 +1,95 @@
+{
+  "stateId": 590854,
+  "stateCode": "EE-60",
+  "countryCode": "EE",
+  "cities": [
+    {
+      "id": 7522272,
+      "name": "Haljala vald",
+      "nativeName": "Haljala vald",
+      "code": "EE-60-7522272",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-60",
+      "latitude": 59.45427,
+      "longitude": 26.22015
+    },
+    {
+      "id": 7522290,
+      "name": "Kadrina vald",
+      "nativeName": "Kadrina vald",
+      "code": "EE-60-7522290",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-60",
+      "latitude": 59.37463,
+      "longitude": 26.0415
+    },
+    {
+      "id": 7522423,
+      "name": "Rakvere linn",
+      "nativeName": "Rakvere linn",
+      "code": "EE-60-7522423",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-60",
+      "latitude": 59.34529,
+      "longitude": 26.36157
+    },
+    {
+      "id": 7522422,
+      "name": "Rakvere vald",
+      "nativeName": "Rakvere vald",
+      "code": "EE-60-7522422",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-60",
+      "latitude": 59.32457,
+      "longitude": 26.29757
+    },
+    {
+      "id": 7522390,
+      "name": "Tapa vald",
+      "nativeName": "Tapa vald",
+      "code": "EE-60-7522390",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-60",
+      "latitude": 59.23821,
+      "longitude": 25.84572
+    },
+    {
+      "id": 7522478,
+      "name": "Vinni vald",
+      "nativeName": "Vinni vald",
+      "code": "EE-60-7522478",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-60",
+      "latitude": 59.23744,
+      "longitude": 26.62261
+    },
+    {
+      "id": 7522479,
+      "name": "Viru-Nigula vald",
+      "nativeName": "Viru-Nigula vald",
+      "code": "EE-60-7522479",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-60",
+      "latitude": 59.46387,
+      "longitude": 26.58585
+    },
+    {
+      "id": 7522485,
+      "name": "Väike-Maarja vald",
+      "nativeName": "Väike-Maarja vald",
+      "code": "EE-60-7522485",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-60",
+      "latitude": 59.06556,
+      "longitude": 26.31417
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "stateId": 2036500,
+  "stateCode": "CN-JL",
+  "countryCode": "CN",
+  "cities": [
+    {
+      "id": 2038567,
+      "name": "Baicheng Shi",
+      "nativeName": "Baicheng Shi",
+      "code": "CN-JL-2038567",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-JL",
+      "latitude": 45.29517,
+      "longitude": 122.92288
+    },
+    {
+      "id": 2038176,
+      "name": "Changchun Shi",
+      "nativeName": "Changchun Shi",
+      "code": "CN-JL-2038176",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-JL",
+      "latitude": 44.38278,
+      "longitude": 125.73194
+    },
+    {
+      "id": 2036499,
+      "name": "Jilin City",
+      "nativeName": "Jilin Shi",
+      "code": "CN-JL-2036499",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-JL",
+      "latitude": 43.68611,
+      "longitude": 126.90556
+    },
+    {
+      "id": 2034711,
+      "name": "Siping Shi",
+      "nativeName": "Siping Shi",
+      "code": "CN-JL-2034711",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-JL",
+      "latitude": 43.62376,
+      "longitude": 124.43911
+    },
+    {
+      "id": 6587798,
+      "name": "Songyuan Shi",
+      "nativeName": "Songyuan Shi",
+      "code": "CN-JL-6587798",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-JL",
+      "latitude": 44.88876,
+      "longitude": 124.3879
+    },
+    {
+      "id": 2034413,
+      "name": "Tonghua Shi",
+      "nativeName": "Tonghua Shi",
+      "code": "CN-JL-2034413",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-JL",
+      "latitude": 41.95,
+      "longitude": 125.95
+    },
+    {
+      "id": 2033525,
+      "name": "Yanbian Korean Autonomous Prefecture",
+      "nativeName": "Yanbian Chaoxianzu Zizhizhou",
+      "code": "CN-JL-2033525",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-JL",
+      "latitude": 43.12604,
+      "longitude": 129.12894
+    },
+    {
+      "id": 2036646,
+      "name": "baishan shi",
+      "nativeName": "Baishan Shi",
+      "code": "CN-JL-2036646",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-JL",
+      "latitude": 42.12515,
+      "longitude": 127.2916
+    },
+    {
+      "id": 2036107,
+      "name": "liaoyuan shi",
+      "nativeName": "Liaoyuan Shi",
+      "code": "CN-JL-2036107",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-JL",
+      "latitude": 42.81667,
+      "longitude": 125.3
+    }
+  ]
+}

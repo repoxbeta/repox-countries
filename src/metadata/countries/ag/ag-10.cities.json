@@ -1,0 +1,51 @@
+{
+  "stateId": 3576390,
+  "stateCode": "AG-10",
+  "countryCode": "AG",
+  "cities": [
+    {
+      "id": 3576311,
+      "name": "Codrington",
+      "nativeName": "Codrington",
+      "code": "AG-10-3576311",
+      "countryId": 3576396,
+      "countryCode": "AG",
+      "stateCode": "AG-10",
+      "latitude": 17.6394,
+      "longitude": -61.82437
+    },
+    {
+      "id": 3576272,
+      "name": "Dulcina",
+      "nativeName": "Dulcina",
+      "code": "AG-10-3576272",
+      "countryId": 3576396,
+      "countryCode": "AG",
+      "stateCode": "AG-10",
+      "latitude": 17.59367,
+      "longitude": -61.82697
+    },
+    {
+      "id": 11885113,
+      "name": "James Corner",
+      "nativeName": "James Corner",
+      "code": "AG-10-11885113",
+      "countryId": 3576396,
+      "countryCode": "AG",
+      "stateCode": "AG-10",
+      "latitude": 17.64261,
+      "longitude": -61.81686
+    },
+    {
+      "id": 3575969,
+      "name": "The Caves",
+      "nativeName": "The Caves",
+      "code": "AG-10-3575969",
+      "countryId": 3576396,
+      "countryCode": "AG",
+      "stateCode": "AG-10",
+      "latitude": 17.68581,
+      "longitude": -61.78784
+    }
+  ]
+}

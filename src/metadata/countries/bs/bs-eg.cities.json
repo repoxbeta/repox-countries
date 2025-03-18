@@ -1,0 +1,73 @@
+{
+  "stateId": 8030546,
+  "stateCode": "BS-EG",
+  "countryCode": "BS",
+  "cities": [
+    {
+      "id": 3572189,
+      "name": "High Rock",
+      "nativeName": "High Rock",
+      "code": "BS-EG-3572189",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-EG",
+      "latitude": 26.62651,
+      "longitude": -78.28209
+    },
+    {
+      "id": 3572840,
+      "name": "Bevans Town",
+      "nativeName": "Bevans Town",
+      "code": "BS-EG-3572840",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-EG",
+      "latitude": 26.6,
+      "longitude": -78.31667
+    },
+    {
+      "id": 3572333,
+      "name": "Golden Grove",
+      "nativeName": "Golden Grove",
+      "code": "BS-EG-3572333",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-EG",
+      "latitude": 26.6,
+      "longitude": -78.33333
+    },
+    {
+      "id": 3571886,
+      "name": "McLeans Town",
+      "nativeName": "McLeans Town",
+      "code": "BS-EG-3571886",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-EG",
+      "latitude": 26.65798,
+      "longitude": -77.99191
+    },
+    {
+      "id": 3571706,
+      "name": "Pelican Point",
+      "nativeName": "Pelican Point",
+      "code": "BS-EG-3571706",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-EG",
+      "latitude": 26.65,
+      "longitude": -78.08333
+    },
+    {
+      "id": 3571338,
+      "name": "Sweeting Cay",
+      "nativeName": "Sweeting Cay",
+      "code": "BS-EG-3571338",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-EG",
+      "latitude": 26.61334,
+      "longitude": -77.86931
+    }
+  ]
+}

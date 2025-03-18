@@ -1,0 +1,106 @@
+{
+  "stateId": 3590857,
+  "stateCode": "GT-RE",
+  "countryCode": "GT",
+  "cities": [
+    {
+      "id": 3598786,
+      "name": "Municipio de Champerico",
+      "nativeName": "Municipio de Champerico",
+      "code": "GT-RE-3598786",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-RE",
+      "latitude": 14.34274,
+      "longitude": -91.88085
+    },
+    {
+      "id": 3597586,
+      "name": "Municipio de El Asintal",
+      "nativeName": "Municipio de El Asintal",
+      "code": "GT-RE-3597586",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-RE",
+      "latitude": 14.56708,
+      "longitude": -91.74864
+    },
+    {
+      "id": 3592104,
+      "name": "Municipio de Nuevo San Carlos",
+      "nativeName": "Municipio de Nuevo San Carlos",
+      "code": "GT-RE-3592104",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-RE",
+      "latitude": 14.6182,
+      "longitude": -91.69134
+    },
+    {
+      "id": 3590856,
+      "name": "Municipio de Retalhuleu",
+      "nativeName": "Municipio de Retalhuleu",
+      "code": "GT-RE-3590856",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-RE",
+      "latitude": 14.53386,
+      "longitude": -91.68623
+    },
+    {
+      "id": 3590521,
+      "name": "Municipio de San Andrés Villa Seca",
+      "nativeName": "Municipio de San Andrés Villa Seca",
+      "code": "GT-RE-3590521",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-RE",
+      "latitude": 14.33882,
+      "longitude": -91.64045
+    },
+    {
+      "id": 3590281,
+      "name": "Municipio de San Felipe",
+      "nativeName": "Municipio de San Felipe",
+      "code": "GT-RE-3590281",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-RE",
+      "latitude": 14.62303,
+      "longitude": -91.59889
+    },
+    {
+      "id": 3589775,
+      "name": "Municipio de San Martín Zapotitlán",
+      "nativeName": "Municipio de San Martín Zapotitlán",
+      "code": "GT-RE-3589775",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-RE",
+      "latitude": 14.61282,
+      "longitude": -91.59388
+    },
+    {
+      "id": 3589545,
+      "name": "Municipio de San Sebastián",
+      "nativeName": "Municipio de San Sebastián",
+      "code": "GT-RE-3589545",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-RE",
+      "latitude": 14.56595,
+      "longitude": -91.64959
+    },
+    {
+      "id": 3589399,
+      "name": "Municipio de Santa Cruz Muluá",
+      "nativeName": "Municipio de Santa Cruz Muluá",
+      "code": "GT-RE-3589399",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-RE",
+      "latitude": 14.46449,
+      "longitude": -91.65362
+    }
+  ]
+}

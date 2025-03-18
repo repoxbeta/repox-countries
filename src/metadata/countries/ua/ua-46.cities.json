@@ -1,0 +1,84 @@
+{
+  "stateId": 702549,
+  "stateCode": "UA-46",
+  "countryCode": "UA",
+  "cities": [
+    {
+      "id": 12189515,
+      "name": "Chervonohrad Raion",
+      "nativeName": "Chervonohradskyi Raion",
+      "code": "UA-46-12189515",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-46",
+      "latitude": 50.35328,
+      "longitude": 24.38244
+    },
+    {
+      "id": 12189516,
+      "name": "Drohobych Raion",
+      "nativeName": "Drohobytskyi Raion",
+      "code": "UA-46-12189516",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-46",
+      "latitude": 49.34705,
+      "longitude": 23.47246
+    },
+    {
+      "id": 12189514,
+      "name": "Lvivskyi Raion",
+      "nativeName": "Lvivskyi Raion",
+      "code": "UA-46-12189514",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-46",
+      "latitude": 49.87,
+      "longitude": 24.1
+    },
+    {
+      "id": 9290363,
+      "name": "Sambir Raion",
+      "nativeName": "Sambirs’ka Mis’krada",
+      "code": "UA-46-9290363",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-46",
+      "latitude": 49.51738,
+      "longitude": 23.20646
+    },
+    {
+      "id": 9290334,
+      "name": "Stryi Raion",
+      "nativeName": "Stryys’ka Mis’krada",
+      "code": "UA-46-9290334",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-46",
+      "latitude": 49.2608,
+      "longitude": 23.84067
+    },
+    {
+      "id": 688284,
+      "name": "Yavoriv Raion",
+      "nativeName": "Yavorivskyi Raion",
+      "code": "UA-46-688284",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-46",
+      "latitude": 49.9,
+      "longitude": 23.39
+    },
+    {
+      "id": 686893,
+      "name": "Zolochiv Raion",
+      "nativeName": "Zolochivskyi Raion",
+      "code": "UA-46-686893",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-46",
+      "latitude": 49.94,
+      "longitude": 24.88
+    }
+  ]
+}

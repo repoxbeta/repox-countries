@@ -1,0 +1,29 @@
+{
+  "stateId": 7303518,
+  "stateCode": "MH-WTJ",
+  "countryCode": "MH",
+  "cities": [
+    {
+      "id": 7306528,
+      "name": "Wotje",
+      "nativeName": "Wotje",
+      "code": "MH-WTJ-7306528",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-WTJ",
+      "latitude": 9.45429,
+      "longitude": 170.23674
+    },
+    {
+      "id": 4039813,
+      "name": "Wodmej",
+      "nativeName": "Wodmej",
+      "code": "MH-WTJ-4039813",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-WTJ",
+      "latitude": 9.55124,
+      "longitude": 170.14938
+    }
+  ]
+}

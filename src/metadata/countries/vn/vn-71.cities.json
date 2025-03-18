@@ -1,0 +1,117 @@
+{
+  "stateId": 1905099,
+  "stateCode": "VN-71",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 8541572,
+      "name": "Huyện Mường Ảng",
+      "nativeName": "Huyện Mường Ảng",
+      "code": "VN-71-8541572",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-71",
+      "latitude": 21.52585,
+      "longitude": 103.26333
+    },
+    {
+      "id": 11497494,
+      "name": "Huyện Nậm Pồ",
+      "nativeName": "Huyện Nậm Pồ",
+      "code": "VN-71-11497494",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-71",
+      "latitude": 21.92012,
+      "longitude": 102.7771
+    },
+    {
+      "id": 11497490,
+      "name": "Huyện Điện Biên",
+      "nativeName": "Huyện Điện Biên",
+      "code": "VN-71-11497490",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-71",
+      "latitude": 21.50192,
+      "longitude": 102.98241
+    },
+    {
+      "id": 8541570,
+      "name": "Mường Chà District",
+      "nativeName": "Huyện Mường Chà",
+      "code": "VN-71-8541570",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-71",
+      "latitude": 21.8569,
+      "longitude": 103.05928
+    },
+    {
+      "id": 1905103,
+      "name": "Mường Lay",
+      "nativeName": "Thị Xã Mưòng Lay",
+      "code": "VN-71-1905103",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-71",
+      "latitude": 22.03374,
+      "longitude": 103.12331
+    },
+    {
+      "id": 8541569,
+      "name": "Mường Nhé District",
+      "nativeName": "Huyện Mường Nhé",
+      "code": "VN-71-8541569",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-71",
+      "latitude": 22.10353,
+      "longitude": 102.58465
+    },
+    {
+      "id": 1905098,
+      "name": "Thành Phố Điện Biên Phủ",
+      "nativeName": "Thành Phố Điện Biên Phủ",
+      "code": "VN-71-1905098",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-71",
+      "latitude": 21.40352,
+      "longitude": 103.04178
+    },
+    {
+      "id": 1905101,
+      "name": "Tuần Giáo District",
+      "nativeName": "Huyện Tuần Giáo",
+      "code": "VN-71-1905101",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-71",
+      "latitude": 21.67499,
+      "longitude": 103.39974
+    },
+    {
+      "id": 1905102,
+      "name": "Tủa Chùa District",
+      "nativeName": "Huyện Tủa Chùa",
+      "code": "VN-71-1905102",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-71",
+      "latitude": 21.95357,
+      "longitude": 103.37332
+    },
+    {
+      "id": 1905100,
+      "name": "Điện Biên Đông District",
+      "nativeName": "Huyện Điện Biên Đông",
+      "code": "VN-71-1905100",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-71",
+      "latitude": 21.25266,
+      "longitude": 103.269
+    }
+  ]
+}

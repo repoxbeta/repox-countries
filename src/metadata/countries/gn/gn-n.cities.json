@@ -1,0 +1,73 @@
+{
+  "stateId": 8335091,
+  "stateCode": "GN-N",
+  "countryCode": "GN",
+  "cities": [
+    {
+      "id": 2423124,
+      "name": "Beyla Prefecture",
+      "nativeName": "Beyla Prefecture",
+      "code": "GN-N-2423124",
+      "countryId": 2420477,
+      "countryCode": "GN",
+      "stateCode": "GN-N",
+      "latitude": 8.91667,
+      "longitude": -8.41667
+    },
+    {
+      "id": 2416968,
+      "name": "Nzerekore",
+      "nativeName": "Nzerekore Prefecture",
+      "code": "GN-N-2416968",
+      "countryId": 2420477,
+      "countryCode": "GN",
+      "stateCode": "GN-N",
+      "latitude": 7.945,
+      "longitude": -8.783
+    },
+    {
+      "id": 2420561,
+      "name": "Préfecture de Guéckédou",
+      "nativeName": "Préfecture de Guékédou",
+      "code": "GN-N-2420561",
+      "countryId": 2420477,
+      "countryCode": "GN",
+      "stateCode": "GN-N",
+      "latitude": 8.66667,
+      "longitude": -10.25
+    },
+    {
+      "id": 2595304,
+      "name": "Préfecture de Lola",
+      "nativeName": "Lola",
+      "code": "GN-N-2595304",
+      "countryId": 2420477,
+      "countryCode": "GN",
+      "stateCode": "GN-N",
+      "latitude": 7.83333,
+      "longitude": -8.33333
+    },
+    {
+      "id": 2417987,
+      "name": "Préfecture de Macenta",
+      "nativeName": "Macenta",
+      "code": "GN-N-2417987",
+      "countryId": 2420477,
+      "countryCode": "GN",
+      "stateCode": "GN-N",
+      "latitude": 8.5,
+      "longitude": -9.41667
+    },
+    {
+      "id": 2414077,
+      "name": "Préfecture de Yomou",
+      "nativeName": "Yomou",
+      "code": "GN-N-2414077",
+      "countryId": 2420477,
+      "countryCode": "GN",
+      "stateCode": "GN-N",
+      "latitude": 7.5,
+      "longitude": -9.16667
+    }
+  ]
+}

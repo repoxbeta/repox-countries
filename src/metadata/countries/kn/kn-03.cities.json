@@ -1,0 +1,84 @@
+{
+  "stateId": 3575180,
+  "stateCode": "KN-03",
+  "countryCode": "KN",
+  "cities": [
+    {
+      "id": 3575551,
+      "name": "Basseterre",
+      "nativeName": "Basseterre",
+      "code": "KN-03-3575551",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-03",
+      "latitude": 17.2955,
+      "longitude": -62.72499
+    },
+    {
+      "id": 3575514,
+      "name": "Brumaire",
+      "nativeName": "Brumaire",
+      "code": "KN-03-3575514",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-03",
+      "latitude": 17.3,
+      "longitude": -62.73333
+    },
+    {
+      "id": 3575334,
+      "name": "Kit Stoddart",
+      "nativeName": "Kit Stoddart",
+      "code": "KN-03-3575334",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-03",
+      "latitude": 17.29879,
+      "longitude": -62.72207
+    },
+    {
+      "id": 3575331,
+      "name": "La Guérite",
+      "nativeName": "La Guérite",
+      "code": "KN-03-3575331",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-03",
+      "latitude": 17.3,
+      "longitude": -62.71667
+    },
+    {
+      "id": 3575322,
+      "name": "Limekiln",
+      "nativeName": "Limekiln",
+      "code": "KN-03-3575322",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-03",
+      "latitude": 17.28333,
+      "longitude": -62.73333
+    },
+    {
+      "id": 11885107,
+      "name": "Bird Rock",
+      "nativeName": "Bird Rock",
+      "code": "KN-03-11885107",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-03",
+      "latitude": 17.28855,
+      "longitude": -62.70547
+    },
+    {
+      "id": 11885108,
+      "name": "Grape Tree Bottom",
+      "nativeName": "Grape Tree Bottom",
+      "code": "KN-03-11885108",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-03",
+      "latitude": 17.2659,
+      "longitude": -62.66336
+    }
+  ]
+}

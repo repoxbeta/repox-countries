@@ -1,0 +1,51 @@
+{
+  "stateId": 8299732,
+  "stateCode": "MT-28",
+  "countryCode": "MT",
+  "cities": [
+    {
+      "id": 2562247,
+      "name": "Marsaxlokk",
+      "nativeName": "Marsaxlokk",
+      "code": "MT-28-2562247",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-28",
+      "latitude": 35.84194,
+      "longitude": 14.54306
+    },
+    {
+      "id": 2563150,
+      "name": "Delimara",
+      "nativeName": "Delimara",
+      "code": "MT-28-2563150",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-28",
+      "latitude": 35.82472,
+      "longitude": 14.55972
+    },
+    {
+      "id": 2562268,
+      "name": "Xrobb il-Għaġin",
+      "nativeName": "Xrobb il-Għaġin",
+      "code": "MT-28-2562268",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-28",
+      "latitude": 35.84056,
+      "longitude": 14.56972
+    },
+    {
+      "id": 2563009,
+      "name": "Ħal Ġinwi",
+      "nativeName": "Ħal Ġinwi",
+      "code": "MT-28-2563009",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-28",
+      "latitude": 35.84667,
+      "longitude": 14.5425
+    }
+  ]
+}

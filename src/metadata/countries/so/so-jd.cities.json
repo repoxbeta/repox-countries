@@ -1,0 +1,51 @@
+{
+  "stateId": 56084,
+  "stateCode": "SO-JD",
+  "countryCode": "SO",
+  "cities": [
+    {
+      "id": 9179655,
+      "name": "Baardheere",
+      "nativeName": "Baardheere",
+      "code": "SO-JD-9179655",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-JD",
+      "latitude": 2.10205,
+      "longitude": 41.70671
+    },
+    {
+      "id": 9179638,
+      "name": "Bu'ale District",
+      "nativeName": "Bu'aale",
+      "code": "SO-JD-9179638",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-JD",
+      "latitude": 1.19798,
+      "longitude": 42.7408
+    },
+    {
+      "id": 9179642,
+      "name": "Jilib District",
+      "nativeName": "Jilib",
+      "code": "SO-JD-9179642",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-JD",
+      "latitude": 0.64467,
+      "longitude": 43.05657
+    },
+    {
+      "id": 9179645,
+      "name": "Sakow District",
+      "nativeName": "Saakow",
+      "code": "SO-JD-9179645",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-JD",
+      "latitude": 1.62863,
+      "longitude": 42.06274
+    }
+  ]
+}

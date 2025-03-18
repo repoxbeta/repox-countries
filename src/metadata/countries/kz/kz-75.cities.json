@@ -1,0 +1,106 @@
+{
+  "stateId": 1526395,
+  "stateCode": "KZ-75",
+  "countryCode": "KZ",
+  "cities": [
+    {
+      "id": 1526020,
+      "name": "Auezovskiy Rayon",
+      "nativeName": "Auezovskiy Rayon",
+      "code": "KZ-75-1526020",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-75",
+      "latitude": 43.22153,
+      "longitude": 76.85061
+    },
+    {
+      "id": 1525804,
+      "name": "Balkhash District",
+      "nativeName": "Balqash Aūdany",
+      "code": "KZ-75-1525804",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-75",
+      "latitude": 45.33333,
+      "longitude": 75.75
+    },
+    {
+      "id": 1524315,
+      "name": "Enbekshikazakh District",
+      "nativeName": "Engbekshiqazaq Aūdany",
+      "code": "KZ-75-1524315",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-75",
+      "latitude": 43.41667,
+      "longitude": 77.5
+    },
+    {
+      "id": 1524128,
+      "name": "Ile District",
+      "nativeName": "Iliyskiy Rayon",
+      "code": "KZ-75-1524128",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-75",
+      "latitude": 43.83333,
+      "longitude": 76.75
+    },
+    {
+      "id": 1521711,
+      "name": "Kurtinskiy Rayon",
+      "nativeName": "Kurtinskiy Rayon",
+      "code": "KZ-75-1521711",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-75",
+      "latitude": 44.83333,
+      "longitude": 75.5
+    },
+    {
+      "id": 12522073,
+      "name": "Nauryzbayskiy Rayon",
+      "nativeName": "Nauryzbayskiy Rayon",
+      "code": "KZ-75-12522073",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-75",
+      "latitude": 43.17005,
+      "longitude": 76.82489
+    },
+    {
+      "id": 1522943,
+      "name": "Qaskeleng Aūdany",
+      "nativeName": "Qaskeleng Aūdany",
+      "code": "KZ-75-1522943",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-75",
+      "latitude": 43,
+      "longitude": 76.75
+    },
+    {
+      "id": 1524792,
+      "name": "Shelek Aūdany",
+      "nativeName": "Shelek Aūdany",
+      "code": "KZ-75-1524792",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-75",
+      "latitude": 43.5,
+      "longitude": 78.5
+    },
+    {
+      "id": 1537282,
+      "name": "Talghar Qalasy",
+      "nativeName": "Talghar Qalasy",
+      "code": "KZ-75-1537282",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-75",
+      "latitude": 43.31667,
+      "longitude": 77.25
+    }
+  ]
+}

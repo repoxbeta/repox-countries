@@ -1,0 +1,117 @@
+{
+  "stateId": 1040649,
+  "stateCode": "MZ-L",
+  "countryCode": "MZ",
+  "cities": [
+    {
+      "id": 7701205,
+      "name": "Aeroporto",
+      "nativeName": "Aeroporto",
+      "code": "MZ-L-7701205",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-L",
+      "latitude": -25.90857,
+      "longitude": 32.58043
+    },
+    {
+      "id": 7873983,
+      "name": "Boane District",
+      "nativeName": "Boane District",
+      "code": "MZ-L-7873983",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-L",
+      "latitude": -26.029,
+      "longitude": 32.389
+    },
+    {
+      "id": 12041485,
+      "name": "Cidade de Manhiça",
+      "nativeName": "Cidade de Manhiça",
+      "code": "MZ-L-12041485",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-L",
+      "latitude": -25.39851,
+      "longitude": 32.79563
+    },
+    {
+      "id": 1039852,
+      "name": "Concelho de Matola",
+      "nativeName": "Concelho de Matola",
+      "code": "MZ-L-1039852",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-L",
+      "latitude": -25.83472,
+      "longitude": 32.49516
+    },
+    {
+      "id": 7873976,
+      "name": "Magude District",
+      "nativeName": "Magude District",
+      "code": "MZ-L-7873976",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-L",
+      "latitude": -25.02389,
+      "longitude": 32.6515
+    },
+    {
+      "id": 1090080,
+      "name": "Manhiça District",
+      "nativeName": "Manhica",
+      "code": "MZ-L-1090080",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-L",
+      "latitude": -25.34035,
+      "longitude": 32.84234
+    },
+    {
+      "id": 8693192,
+      "name": "Marracuene District",
+      "nativeName": "Marracuene District",
+      "code": "MZ-L-8693192",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-L",
+      "latitude": -25.73938,
+      "longitude": 32.67436
+    },
+    {
+      "id": 7670756,
+      "name": "Matutiune District",
+      "nativeName": "Matutiune District",
+      "code": "MZ-L-7670756",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-L",
+      "latitude": -26.43418,
+      "longitude": 32.5882
+    },
+    {
+      "id": 7873980,
+      "name": "Moamba District",
+      "nativeName": "Moamba District",
+      "code": "MZ-L-7873980",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-L",
+      "latitude": -25.60934,
+      "longitude": 32.24321
+    },
+    {
+      "id": 8301113,
+      "name": "Namaacha District",
+      "nativeName": "Namaacha District",
+      "code": "MZ-L-8301113",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-L",
+      "latitude": -26.109,
+      "longitude": 32.18
+    }
+  ]
+}

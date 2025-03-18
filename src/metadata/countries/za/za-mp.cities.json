@@ -1,0 +1,40 @@
+{
+  "stateId": 1085595,
+  "stateCode": "ZA-MP",
+  "countryCode": "ZA",
+  "cities": [
+    {
+      "id": 8299316,
+      "name": "Ehlanzeni District",
+      "nativeName": "Ehlanzeni District",
+      "code": "ZA-MP-8299316",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "stateCode": "ZA-MP",
+      "latitude": -25.351,
+      "longitude": 31.361
+    },
+    {
+      "id": 8347371,
+      "name": "Gert Sibande District Municipality",
+      "nativeName": "Gert Sibande District Municipality",
+      "code": "ZA-MP-8347371",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "stateCode": "ZA-MP",
+      "latitude": -26.671,
+      "longitude": 29.92953
+    },
+    {
+      "id": 8347372,
+      "name": "Nkangala District Municipality",
+      "nativeName": "Nkangala District Municipality",
+      "code": "ZA-MP-8347372",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "stateCode": "ZA-MP",
+      "latitude": -25.71222,
+      "longitude": 29.42431
+    }
+  ]
+}

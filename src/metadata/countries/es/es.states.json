@@ -1,0 +1,215 @@
+{
+  "countryId": 2510769,
+  "countryCode": "ES",
+  "states": [
+    {
+      "id": 2593109,
+      "name": "Andalusia",
+      "nativeName": "Andalusia",
+      "code": "ES-AN",
+      "internalCode": "AN",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "latitude": 37.5,
+      "longitude": -4.58333
+    },
+    {
+      "id": 3336899,
+      "name": "Aragon",
+      "nativeName": "Aragon",
+      "code": "ES-AR",
+      "internalCode": "AR",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "latitude": 41.5,
+      "longitude": -0.66667
+    },
+    {
+      "id": 3114710,
+      "name": "Asturias",
+      "nativeName": "Principality of Asturias",
+      "code": "ES-AS",
+      "internalCode": "AS",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "latitude": 43.33333,
+      "longitude": -6
+    },
+    {
+      "id": 2521383,
+      "name": "Balearic Islands",
+      "nativeName": "Comunitat Autònoma de les Illes Balears",
+      "code": "ES-IB",
+      "internalCode": "IB",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "latitude": 39.58876,
+      "longitude": 2.90314
+    },
+    {
+      "id": 3336903,
+      "name": "Basque Country",
+      "nativeName": "Euskal Autonomia Erkidegoa",
+      "code": "ES-PV",
+      "internalCode": "PV",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "latitude": 43,
+      "longitude": -2.75
+    },
+    {
+      "id": 2593110,
+      "name": "Canary Islands",
+      "nativeName": "Canary Islands",
+      "code": "ES-CN",
+      "internalCode": "CN",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "latitude": 28,
+      "longitude": -15.5
+    },
+    {
+      "id": 3336898,
+      "name": "Cantabria",
+      "nativeName": "Cantabria",
+      "code": "ES-CB",
+      "internalCode": "CB",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "latitude": 43.2,
+      "longitude": -4.03333
+    },
+    {
+      "id": 3336900,
+      "name": "Castille and León",
+      "nativeName": "Castilla y León",
+      "code": "ES-CL",
+      "internalCode": "CL",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "latitude": 41.66667,
+      "longitude": -4.25
+    },
+    {
+      "id": 2593111,
+      "name": "Castille-La Mancha",
+      "nativeName": "Castilla-La Mancha",
+      "code": "ES-CM",
+      "internalCode": "CM",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "latitude": 39.5,
+      "longitude": -3
+    },
+    {
+      "id": 3336901,
+      "name": "Catalonia",
+      "nativeName": "Catalunya",
+      "code": "ES-CT",
+      "internalCode": "CT",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "latitude": 41.82046,
+      "longitude": 1.86768
+    },
+    {
+      "id": 2519582,
+      "name": "Ceuta",
+      "nativeName": "Ceuta",
+      "code": "ES-CE",
+      "internalCode": "CE",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "latitude": 35.89028,
+      "longitude": -5.3075
+    },
+    {
+      "id": 2593112,
+      "name": "Extremadura",
+      "nativeName": "Extremadura",
+      "code": "ES-EX",
+      "internalCode": "EX",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "latitude": 39.16667,
+      "longitude": -6.16667
+    },
+    {
+      "id": 3336902,
+      "name": "Galicia",
+      "nativeName": "Galicia",
+      "code": "ES-GA",
+      "internalCode": "GA",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "latitude": 42.75508,
+      "longitude": -7.86621
+    },
+    {
+      "id": 3336897,
+      "name": "La Rioja",
+      "nativeName": "La Rioja",
+      "code": "ES-RI",
+      "internalCode": "RI",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "latitude": 42.3,
+      "longitude": -2.5
+    },
+    {
+      "id": 3117732,
+      "name": "Madrid",
+      "nativeName": "Comunidad de Madrid",
+      "code": "ES-MD",
+      "internalCode": "MD",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "latitude": 40.42526,
+      "longitude": -3.69063
+    },
+    {
+      "id": 6362988,
+      "name": "Melilla",
+      "nativeName": "Melilla",
+      "code": "ES-ML",
+      "internalCode": "ML",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "latitude": 35.29215,
+      "longitude": -2.94434
+    },
+    {
+      "id": 2513413,
+      "name": "Murcia",
+      "nativeName": "Región de Murcia",
+      "code": "ES-MC",
+      "internalCode": "MC",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "latitude": 38,
+      "longitude": -1.5
+    },
+    {
+      "id": 3115609,
+      "name": "Navarre",
+      "nativeName": "Navarra",
+      "code": "ES-NC",
+      "internalCode": "NC",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "latitude": 42.75,
+      "longitude": -1.66667
+    },
+    {
+      "id": 2593113,
+      "name": "Valencia",
+      "nativeName": "Comunitat Valenciana",
+      "code": "ES-VC",
+      "internalCode": "VC",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "latitude": 39.5,
+      "longitude": -0.75
+    }
+  ]
+}

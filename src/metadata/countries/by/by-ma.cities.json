@@ -1,0 +1,271 @@
+{
+  "stateId": 625073,
+  "stateCode": "BY-MA",
+  "countryCode": "BY",
+  "cities": [
+    {
+      "id": 624028,
+      "name": "Asipovichy District",
+      "nativeName": "Osipovichskiy Rayon",
+      "code": "BY-MA-624028",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-MA",
+      "latitude": 53.3402,
+      "longitude": 28.66371
+    },
+    {
+      "id": 630046,
+      "name": "Babruysk District",
+      "nativeName": "Bobruyskiy Rayon",
+      "code": "BY-MA-630046",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-MA",
+      "latitude": 53.08333,
+      "longitude": 29.16667
+    },
+    {
+      "id": 630244,
+      "name": "Byalynichy District",
+      "nativeName": "Belynichskiy Rayon",
+      "code": "BY-MA-630244",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-MA",
+      "latitude": 53.92779,
+      "longitude": 29.69505
+    },
+    {
+      "id": 629443,
+      "name": "Bykhaw District",
+      "nativeName": "Bykhovskiy Rayon",
+      "code": "BY-MA-629443",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-MA",
+      "latitude": 53.47739,
+      "longitude": 30.23762
+    },
+    {
+      "id": 629396,
+      "name": "Chavusy District",
+      "nativeName": "Chausskiy Rayon",
+      "code": "BY-MA-629396",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-MA",
+      "latitude": 53.7955,
+      "longitude": 30.91455
+    },
+    {
+      "id": 629346,
+      "name": "Cherykaw District",
+      "nativeName": "Cherikovskiy Rayon",
+      "code": "BY-MA-629346",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-MA",
+      "latitude": 53.58063,
+      "longitude": 31.37336
+    },
+    {
+      "id": 828843,
+      "name": "Drybin District",
+      "nativeName": "Dribinskiy Rayon",
+      "code": "BY-MA-828843",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-MA",
+      "latitude": 54.08199,
+      "longitude": 30.95863
+    },
+    {
+      "id": 628386,
+      "name": "Hlusk District",
+      "nativeName": "Glusskiy Rayon",
+      "code": "BY-MA-628386",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-MA",
+      "latitude": 52.89109,
+      "longitude": 28.68645
+    },
+    {
+      "id": 828919,
+      "name": "Horad Asipovichy",
+      "nativeName": "Horad Asipovichy",
+      "code": "BY-MA-828919",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-MA",
+      "latitude": 53.29333,
+      "longitude": 28.64222
+    },
+    {
+      "id": 628237,
+      "name": "Horki District",
+      "nativeName": "Goretskiy Rayon",
+      "code": "BY-MA-628237",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-MA",
+      "latitude": 54.22582,
+      "longitude": 31.00069
+    },
+    {
+      "id": 626807,
+      "name": "Kastsyukovichy District",
+      "nativeName": "Kostyukovichskiy Rayon",
+      "code": "BY-MA-626807",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-MA",
+      "latitude": 53.26654,
+      "longitude": 32.01015
+    },
+    {
+      "id": 627380,
+      "name": "Khotsimsk District",
+      "nativeName": "Khotimskiy Rayon",
+      "code": "BY-MA-627380",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-MA",
+      "latitude": 53.38133,
+      "longitude": 32.4573
+    },
+    {
+      "id": 7874038,
+      "name": "Kirawsk",
+      "nativeName": "Kirawsk",
+      "code": "BY-MA-7874038",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-MA",
+      "latitude": 53.27292,
+      "longitude": 29.47426
+    },
+    {
+      "id": 627271,
+      "name": "Kirawsk District",
+      "nativeName": "Kirovskiy Rayon",
+      "code": "BY-MA-627271",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-MA",
+      "latitude": 53.31733,
+      "longitude": 29.56901
+    },
+    {
+      "id": 627204,
+      "name": "Klichaw District",
+      "nativeName": "Klichevskiy Rayon",
+      "code": "BY-MA-627204",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-MA",
+      "latitude": 53.53417,
+      "longitude": 29.3536
+    },
+    {
+      "id": 627199,
+      "name": "Klimavichy District",
+      "nativeName": "Klimovichskiy Rayon",
+      "code": "BY-MA-627199",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-MA",
+      "latitude": 53.59821,
+      "longitude": 32.04804
+    },
+    {
+      "id": 626626,
+      "name": "Krasnapolle District",
+      "nativeName": "Krasnopol’skiy Rayon",
+      "code": "BY-MA-626626",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-MA",
+      "latitude": 53.28417,
+      "longitude": 31.38861
+    },
+    {
+      "id": 626490,
+      "name": "Kruhlaye District",
+      "nativeName": "Kruglyanskiy Rayon",
+      "code": "BY-MA-626490",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-MA",
+      "latitude": 54.19669,
+      "longitude": 29.71229
+    },
+    {
+      "id": 626545,
+      "name": "Krychaw District",
+      "nativeName": "Krichevskiy Rayon",
+      "code": "BY-MA-626545",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-MA",
+      "latitude": 53.7412,
+      "longitude": 31.62776
+    },
+    {
+      "id": 828917,
+      "name": "Mahilyow",
+      "nativeName": "Mahilyow",
+      "code": "BY-MA-828917",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-MA",
+      "latitude": 53.91389,
+      "longitude": 30.33639
+    },
+    {
+      "id": 625072,
+      "name": "Mogilev District",
+      "nativeName": "Mahilyowski Rayon",
+      "code": "BY-MA-625072",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-MA",
+      "latitude": 53.83725,
+      "longitude": 30.28754
+    },
+    {
+      "id": 624891,
+      "name": "Mstsislaw District",
+      "nativeName": "Mstislavskiy Rayon",
+      "code": "BY-MA-624891",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-MA",
+      "latitude": 54.00846,
+      "longitude": 31.51922
+    },
+    {
+      "id": 621846,
+      "name": "Slawharad District",
+      "nativeName": "Slavgorodskiy Rayon",
+      "code": "BY-MA-621846",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-MA",
+      "latitude": 53.44034,
+      "longitude": 30.91368
+    },
+    {
+      "id": 622033,
+      "name": "Škloŭski Rajon",
+      "nativeName": "Škloŭski Rajon",
+      "code": "BY-MA-622033",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-MA",
+      "latitude": 54.16667,
+      "longitude": 30.33333
+    }
+  ]
+}

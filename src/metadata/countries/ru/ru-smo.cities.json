@@ -1,0 +1,282 @@
+{
+  "stateId": 491684,
+  "stateCode": "RU-SMO",
+  "countryCode": "RU",
+  "cities": [
+    {
+      "id": 566718,
+      "name": "Demidovsky District",
+      "nativeName": "Demidovsky District",
+      "code": "RU-SMO-566718",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-SMO",
+      "latitude": 55.25,
+      "longitude": 31.58333
+    },
+    {
+      "id": 12625965,
+      "name": "Desnogorsk Urban District",
+      "nativeName": "Desnogorsk Urban District",
+      "code": "RU-SMO-12625965",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-SMO",
+      "latitude": 54.14916,
+      "longitude": 33.28597
+    },
+    {
+      "id": 565198,
+      "name": "Dorogobuzhsky District",
+      "nativeName": "Dorogobuzhsky District",
+      "code": "RU-SMO-565198",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-SMO",
+      "latitude": 54.91667,
+      "longitude": 33.33333
+    },
+    {
+      "id": 564232,
+      "name": "Dukhovshchinsky District",
+      "nativeName": "Dukhovshchinsky District",
+      "code": "RU-SMO-564232",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-SMO",
+      "latitude": 55.16667,
+      "longitude": 32.33333
+    },
+    {
+      "id": 562220,
+      "name": "Gagarinsky District",
+      "nativeName": "Gagarinsky District",
+      "code": "RU-SMO-562220",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-SMO",
+      "latitude": 55.58333,
+      "longitude": 35
+    },
+    {
+      "id": 561211,
+      "name": "Glinkovsky District",
+      "nativeName": "Glinkovsky District",
+      "code": "RU-SMO-561211",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-SMO",
+      "latitude": 54.65,
+      "longitude": 32.86667
+    },
+    {
+      "id": 552556,
+      "name": "Kardymovsky District",
+      "nativeName": "Kardymovsky District",
+      "code": "RU-SMO-552556",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-SMO",
+      "latitude": 54.9,
+      "longitude": 32.43333
+    },
+    {
+      "id": 550233,
+      "name": "Khislavichsky District",
+      "nativeName": "Khislavichsky District",
+      "code": "RU-SMO-550233",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-SMO",
+      "latitude": 54.16667,
+      "longitude": 32.16667
+    },
+    {
+      "id": 549717,
+      "name": "Kholm-Zhirkovsky",
+      "nativeName": "Kholm-Zhirkovsky",
+      "code": "RU-SMO-549717",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-SMO",
+      "latitude": 55.5,
+      "longitude": 33.41667
+    },
+    {
+      "id": 542483,
+      "name": "Krasninsky District",
+      "nativeName": "Krasninsky District",
+      "code": "RU-SMO-542483",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-SMO",
+      "latitude": 54.58333,
+      "longitude": 31.25
+    },
+    {
+      "id": 525423,
+      "name": "Monastyrshchinsky District",
+      "nativeName": "Monastyrshchinsky District",
+      "code": "RU-SMO-525423",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-SMO",
+      "latitude": 54.33333,
+      "longitude": 31.83333
+    },
+    {
+      "id": 518911,
+      "name": "Novoduginsky District",
+      "nativeName": "Novoduginsky District",
+      "code": "RU-SMO-518911",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-SMO",
+      "latitude": 55.63333,
+      "longitude": 34.3
+    },
+    {
+      "id": 508613,
+      "name": "Pochinkovsky District",
+      "nativeName": "Pochinkovsky District",
+      "code": "RU-SMO-508613",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-SMO",
+      "latitude": 54.41667,
+      "longitude": 32.41667
+    },
+    {
+      "id": 500653,
+      "name": "Rudnyansky District",
+      "nativeName": "Rudnyansky District",
+      "code": "RU-SMO-500653",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-SMO",
+      "latitude": 54.91667,
+      "longitude": 31.08333
+    },
+    {
+      "id": 499436,
+      "name": "Safonovsky District",
+      "nativeName": "Safonovskiy Rayon",
+      "code": "RU-SMO-499436",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-SMO",
+      "latitude": 55.16667,
+      "longitude": 33.16667
+    },
+    {
+      "id": 493403,
+      "name": "Shumyachsky District",
+      "nativeName": "Shumyachsky District",
+      "code": "RU-SMO-493403",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-SMO",
+      "latitude": 53.91667,
+      "longitude": 32.41667
+    },
+    {
+      "id": 12625969,
+      "name": "Smolensk",
+      "nativeName": "Smolensk",
+      "code": "RU-SMO-12625969",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-SMO",
+      "latitude": 54.79369,
+      "longitude": 32.07599
+    },
+    {
+      "id": 491679,
+      "name": "Smolensky District",
+      "nativeName": "Smolensky District",
+      "code": "RU-SMO-491679",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-SMO",
+      "latitude": 54.83333,
+      "longitude": 32
+    },
+    {
+      "id": 12625964,
+      "name": "Sychyovsky District",
+      "nativeName": "Sychyovsky District",
+      "code": "RU-SMO-12625964",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-SMO",
+      "latitude": 55.82802,
+      "longitude": 34.28351
+    },
+    {
+      "id": 479469,
+      "name": "Ugransky District",
+      "nativeName": "Ugranskiy Rayon",
+      "code": "RU-SMO-479469",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-SMO",
+      "latitude": 54.75,
+      "longitude": 34.33333
+    },
+    {
+      "id": 475952,
+      "name": "Velizhsky District",
+      "nativeName": "Velizhsky District",
+      "code": "RU-SMO-475952",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-SMO",
+      "latitude": 55.58333,
+      "longitude": 31.16667
+    },
+    {
+      "id": 470709,
+      "name": "Vyazemsky District",
+      "nativeName": "Vyazemsky District",
+      "code": "RU-SMO-470709",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-SMO",
+      "latitude": 55.25,
+      "longitude": 34.25
+    },
+    {
+      "id": 468850,
+      "name": "Yartsevsky District",
+      "nativeName": "Yartsevsky District",
+      "code": "RU-SMO-468850",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-SMO",
+      "latitude": 55.33333,
+      "longitude": 32.75
+    },
+    {
+      "id": 467755,
+      "name": "Yelninsky District",
+      "nativeName": "Yelninsky District",
+      "code": "RU-SMO-467755",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-SMO",
+      "latitude": 54.58333,
+      "longitude": 33.25
+    },
+    {
+      "id": 467133,
+      "name": "Yershichsky District",
+      "nativeName": "Yershichsky District",
+      "code": "RU-SMO-467133",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-SMO",
+      "latitude": 53.66667,
+      "longitude": 32.76667
+    }
+  ]
+}

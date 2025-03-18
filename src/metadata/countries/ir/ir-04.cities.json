@@ -1,0 +1,194 @@
+{
+  "stateId": 142550,
+  "stateCode": "IR-04",
+  "countryCode": "IR",
+  "cities": [
+    {
+      "id": 9517620,
+      "name": "Chāypāreh",
+      "nativeName": "Chāypāreh",
+      "code": "IR-04-9517620",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-04",
+      "latitude": 38.88254,
+      "longitude": 44.9967
+    },
+    {
+      "id": 449450,
+      "name": "Khowy",
+      "nativeName": "Khowy",
+      "code": "IR-04-449450",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-04",
+      "latitude": 38.60277,
+      "longitude": 44.76975
+    },
+    {
+      "id": 449457,
+      "name": "Naqadeh",
+      "nativeName": "Naqadeh",
+      "code": "IR-04-449457",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-04",
+      "latitude": 36.97491,
+      "longitude": 45.44941
+    },
+    {
+      "id": 9517621,
+      "name": "Poldasht",
+      "nativeName": "Poldasht",
+      "code": "IR-04-9517621",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-04",
+      "latitude": 39.18333,
+      "longitude": 45.08333
+    },
+    {
+      "id": 449451,
+      "name": "Sardasht",
+      "nativeName": "Sardasht",
+      "code": "IR-04-449451",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-04",
+      "latitude": 36.22899,
+      "longitude": 45.46173
+    },
+    {
+      "id": 449446,
+      "name": "Shahrestān-e Būkān",
+      "nativeName": "Shahrestān-e Būkān",
+      "code": "IR-04-449446",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-04",
+      "latitude": 36.60002,
+      "longitude": 46.16664
+    },
+    {
+      "id": 449449,
+      "name": "Shahrestān-e Chāldorān",
+      "nativeName": "Shahrestān-e Chāldorān",
+      "code": "IR-04-449449",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-04",
+      "latitude": 39.0237,
+      "longitude": 44.41259
+    },
+    {
+      "id": 449455,
+      "name": "Shahrestān-e Mahābād",
+      "nativeName": "Shahrestān-e Mahābād",
+      "code": "IR-04-449455",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-04",
+      "latitude": 36.67233,
+      "longitude": 45.73465
+    },
+    {
+      "id": 449454,
+      "name": "Shahrestān-e Mākū",
+      "nativeName": "Shahrestān-e Mākū",
+      "code": "IR-04-449454",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-04",
+      "latitude": 39.45575,
+      "longitude": 44.59639
+    },
+    {
+      "id": 449456,
+      "name": "Shahrestān-e Mīāndoāb",
+      "nativeName": "Shahrestān-e Mīāndoāb",
+      "code": "IR-04-449456",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-04",
+      "latitude": 36.89999,
+      "longitude": 46.20002
+    },
+    {
+      "id": 449444,
+      "name": "Shahrestān-e Orūmīyeh",
+      "nativeName": "Shahrestān-e Orūmīyeh",
+      "code": "IR-04-449444",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-04",
+      "latitude": 37.61499,
+      "longitude": 44.9311
+    },
+    {
+      "id": 449445,
+      "name": "Shahrestān-e Oshnavīyeh",
+      "nativeName": "Shahrestān-e Oshnavīyeh",
+      "code": "IR-04-449445",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-04",
+      "latitude": 37.0687,
+      "longitude": 45.07066
+    },
+    {
+      "id": 449447,
+      "name": "Shahrestān-e Pīrānshahr",
+      "nativeName": "Shahrestān-e Pīrānshahr",
+      "code": "IR-04-449447",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-04",
+      "latitude": 36.7,
+      "longitude": 45.16667
+    },
+    {
+      "id": 449452,
+      "name": "Shahrestān-e Salmās",
+      "nativeName": "Shahrestān-e Salmās",
+      "code": "IR-04-449452",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-04",
+      "latitude": 38.13804,
+      "longitude": 44.644
+    },
+    {
+      "id": 449453,
+      "name": "Shahrestān-e Shāhīn Dezh",
+      "nativeName": "Shahrestān-e Shāhīn Dezh",
+      "code": "IR-04-449453",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-04",
+      "latitude": 36.6723,
+      "longitude": 46.63695
+    },
+    {
+      "id": 449448,
+      "name": "Shahrestān-e Takāb",
+      "nativeName": "Shahrestān-e Takāb",
+      "code": "IR-04-449448",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-04",
+      "latitude": 36.51629,
+      "longitude": 47.12272
+    },
+    {
+      "id": 9517619,
+      "name": "Showţ",
+      "nativeName": "Showţ",
+      "code": "IR-04-9517619",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-04",
+      "latitude": 39.15006,
+      "longitude": 44.83346
+    }
+  ]
+}

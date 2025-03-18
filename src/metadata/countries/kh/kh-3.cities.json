@@ -1,0 +1,117 @@
+{
+  "stateId": 1831172,
+  "stateCode": "KH-3",
+  "countryCode": "KH",
+  "cities": [
+    {
+      "id": 8403885,
+      "name": "Batheay",
+      "nativeName": "Srŏk Bathéay",
+      "code": "KH-3-8403885",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-3",
+      "latitude": 12.02986,
+      "longitude": 104.93171
+    },
+    {
+      "id": 9253736,
+      "name": "Chamkar Leu",
+      "nativeName": "Chamkar Leu",
+      "code": "KH-3-9253736",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-3",
+      "latitude": 12.26607,
+      "longitude": 105.29095
+    },
+    {
+      "id": 7647221,
+      "name": "Cheung Prey",
+      "nativeName": "Cheung Prey",
+      "code": "KH-3-7647221",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-3",
+      "latitude": 12.1,
+      "longitude": 105.07
+    },
+    {
+      "id": 9253738,
+      "name": "Kampong Siem",
+      "nativeName": "Kampong Siem",
+      "code": "KH-3-9253738",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-3",
+      "latitude": 12.05753,
+      "longitude": 105.43746
+    },
+    {
+      "id": 9253739,
+      "name": "Kang Meas",
+      "nativeName": "Kang Meas",
+      "code": "KH-3-9253739",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-3",
+      "latitude": 11.93676,
+      "longitude": 105.15154
+    },
+    {
+      "id": 9253741,
+      "name": "Kaoh Soutin",
+      "nativeName": "Kaoh Soutin",
+      "code": "KH-3-9253741",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-3",
+      "latitude": 11.88585,
+      "longitude": 105.37223
+    },
+    {
+      "id": 7647526,
+      "name": "Krong Kampong Cham",
+      "nativeName": "Kampong Cham",
+      "code": "KH-3-7647526",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-3",
+      "latitude": 11.98,
+      "longitude": 105.445
+    },
+    {
+      "id": 9253743,
+      "name": "Prey Chhor",
+      "nativeName": "Prey Chhor",
+      "code": "KH-3-9253743",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-3",
+      "latitude": 12.08575,
+      "longitude": 105.23048
+    },
+    {
+      "id": 9253747,
+      "name": "Srei Santhor",
+      "nativeName": "Srei Santhor",
+      "code": "KH-3-9253747",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-3",
+      "latitude": 11.83416,
+      "longitude": 105.1693
+    },
+    {
+      "id": 9253748,
+      "name": "Stueng Trang",
+      "nativeName": "Steung Trang",
+      "code": "KH-3-9253748",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-3",
+      "latitude": 12.35582,
+      "longitude": 105.56123
+    }
+  ]
+}

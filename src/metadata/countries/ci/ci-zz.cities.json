@@ -1,0 +1,29 @@
+{
+  "stateId": 11153063,
+  "stateCode": "CI-ZZ",
+  "countryCode": "CI",
+  "cities": [
+    {
+      "id": 11153175,
+      "name": "Bounkani",
+      "nativeName": "Bounkani",
+      "code": "CI-ZZ-11153175",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "stateCode": "CI-ZZ",
+      "latitude": 9.47841,
+      "longitude": -3.31238
+    },
+    {
+      "id": 11153176,
+      "name": "Gontougo",
+      "nativeName": "Gontougo",
+      "code": "CI-ZZ-11153176",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "stateCode": "CI-ZZ",
+      "latitude": 7.87132,
+      "longitude": -3.07068
+    }
+  ]
+}

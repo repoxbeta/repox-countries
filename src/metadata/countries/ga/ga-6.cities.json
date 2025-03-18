@@ -1,0 +1,51 @@
+{
+  "stateId": 2396926,
+  "stateCode": "GA-6",
+  "countryCode": "GA",
+  "cities": [
+    {
+      "id": 11996080,
+      "name": "Ivindo",
+      "nativeName": "Ivindo",
+      "code": "GA-6-11996080",
+      "countryId": 2400553,
+      "countryCode": "GA",
+      "stateCode": "GA-6",
+      "latitude": 0.66543,
+      "longitude": 13.03386
+    },
+    {
+      "id": 7870426,
+      "name": "Lope Department",
+      "nativeName": "Lope Department",
+      "code": "GA-6-7870426",
+      "countryId": 2400553,
+      "countryCode": "GA",
+      "stateCode": "GA-6",
+      "latitude": -0.148,
+      "longitude": 11.893
+    },
+    {
+      "id": 11996071,
+      "name": "Mvoung",
+      "nativeName": "Mvoung",
+      "code": "GA-6-11996071",
+      "countryId": 2400553,
+      "countryCode": "GA",
+      "stateCode": "GA-6",
+      "latitude": 0.37675,
+      "longitude": 12.14626
+    },
+    {
+      "id": 11204107,
+      "name": "Zadie",
+      "nativeName": "Zadie",
+      "code": "GA-6-11204107",
+      "countryId": 2400553,
+      "countryCode": "GA",
+      "stateCode": "GA-6",
+      "latitude": 0.92582,
+      "longitude": 13.90813
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "countryId": 3576396,
+  "countryCode": "AG",
+  "states": [
+    {
+      "id": 3576390,
+      "name": "Barbuda",
+      "nativeName": "Barbuda",
+      "code": "AG-10",
+      "internalCode": "10",
+      "countryId": 3576396,
+      "countryCode": "AG",
+      "latitude": 17.63333,
+      "longitude": -61.8
+    },
+    {
+      "id": 3576037,
+      "name": "Redonda",
+      "nativeName": "Redonda",
+      "code": "AG-11",
+      "internalCode": "11",
+      "countryId": 3576396,
+      "countryCode": "AG",
+      "latitude": 16.93889,
+      "longitude": -62.34556
+    },
+    {
+      "id": 3576024,
+      "name": "Saint George Parish",
+      "nativeName": "Parish of Saint George",
+      "code": "AG-03",
+      "internalCode": "03",
+      "countryId": 3576396,
+      "countryCode": "AG",
+      "latitude": 17.1227,
+      "longitude": -61.79679
+    },
+    {
+      "id": 3576023,
+      "name": "Saint John Parish",
+      "nativeName": "Parish of Saint John",
+      "code": "AG-04",
+      "internalCode": "04",
+      "countryId": 3576396,
+      "countryCode": "AG",
+      "latitude": 17.1,
+      "longitude": -61.85
+    },
+    {
+      "id": 3576018,
+      "name": "Saint Mary Parish",
+      "nativeName": "Parish of Saint Mary",
+      "code": "AG-05",
+      "internalCode": "05",
+      "countryId": 3576396,
+      "countryCode": "AG",
+      "latitude": 17.05,
+      "longitude": -61.85
+    },
+    {
+      "id": 3576017,
+      "name": "Saint Paul Parish",
+      "nativeName": "Parish of Saint Paul",
+      "code": "AG-06",
+      "internalCode": "06",
+      "countryId": 3576396,
+      "countryCode": "AG",
+      "latitude": 17.03333,
+      "longitude": -61.76667
+    },
+    {
+      "id": 3576016,
+      "name": "Saint Peter Parish",
+      "nativeName": "Parish of Saint Peter",
+      "code": "AG-07",
+      "internalCode": "07",
+      "countryId": 3576396,
+      "countryCode": "AG",
+      "latitude": 17.08925,
+      "longitude": -61.74819
+    },
+    {
+      "id": 3576015,
+      "name": "Saint Philip Parish",
+      "nativeName": "Parish of Saint Philip",
+      "code": "AG-08",
+      "internalCode": "08",
+      "countryId": 3576396,
+      "countryCode": "AG",
+      "latitude": 17.05,
+      "longitude": -61.71667
+    }
+  ]
+}

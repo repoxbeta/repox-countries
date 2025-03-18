@@ -1,0 +1,117 @@
+{
+  "stateId": 3344938,
+  "stateCode": "SI-152",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3202877,
+      "name": "Cankova",
+      "nativeName": "Cankova",
+      "code": "SI-152-3202877",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-152",
+      "latitude": 46.72083,
+      "longitude": 16.0225
+    },
+    {
+      "id": 3201739,
+      "name": "Domajinci",
+      "nativeName": "Domajinci",
+      "code": "SI-152-3201739",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-152",
+      "latitude": 46.74139,
+      "longitude": 16.05056
+    },
+    {
+      "id": 3200674,
+      "name": "Gerlinci",
+      "nativeName": "Gerlinci",
+      "code": "SI-152-3200674",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-152",
+      "latitude": 46.75833,
+      "longitude": 16.00944
+    },
+    {
+      "id": 3200035,
+      "name": "Gornji Črnci",
+      "nativeName": "Gornji Črnci",
+      "code": "SI-152-3200035",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-152",
+      "latitude": 46.74028,
+      "longitude": 16.02778
+    },
+    {
+      "id": 3197650,
+      "name": "Korovci",
+      "nativeName": "Korovci",
+      "code": "SI-152-3197650",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-152",
+      "latitude": 46.73083,
+      "longitude": 16.00472
+    },
+    {
+      "id": 3197357,
+      "name": "Krašči",
+      "nativeName": "Krašči",
+      "code": "SI-152-3197357",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-152",
+      "latitude": 46.75121,
+      "longitude": 16.03682
+    },
+    {
+      "id": 3191546,
+      "name": "Ropoča",
+      "nativeName": "Ropoča",
+      "code": "SI-152-3191546",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-152",
+      "latitude": 46.76146,
+      "longitude": 16.03892
+    },
+    {
+      "id": 3190751,
+      "name": "Skakovci",
+      "nativeName": "Skakovci",
+      "code": "SI-152-3190751",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-152",
+      "latitude": 46.70778,
+      "longitude": 16.05111
+    },
+    {
+      "id": 3188977,
+      "name": "Topolovci",
+      "nativeName": "Topolovci",
+      "code": "SI-152-3188977",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-152",
+      "latitude": 46.73333,
+      "longitude": 16.05
+    },
+    {
+      "id": 3214912,
+      "name": "Ženkovci",
+      "nativeName": "Ženkovci",
+      "code": "SI-152-3214912",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-152",
+      "latitude": 46.71,
+      "longitude": 16.025
+    }
+  ]
+}

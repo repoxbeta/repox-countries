@@ -1,0 +1,106 @@
+{
+  "stateId": 2411683,
+  "stateCode": "GM-W",
+  "countryCode": "GM",
+  "cities": [
+    {
+      "id": 2413481,
+      "name": "Foni Bintang-Karenai",
+      "nativeName": "Foni Bintang-Karenai",
+      "code": "GM-W-2413481",
+      "countryId": 2413451,
+      "countryCode": "GM",
+      "stateCode": "GM-W",
+      "latitude": 13.25,
+      "longitude": -16.21667
+    },
+    {
+      "id": 2413480,
+      "name": "Foni Bondali",
+      "nativeName": "Foni Bondali",
+      "code": "GM-W-2413480",
+      "countryId": 2413451,
+      "countryCode": "GM",
+      "stateCode": "GM-W",
+      "latitude": 13.21667,
+      "longitude": -15.93333
+    },
+    {
+      "id": 2413479,
+      "name": "Foni Brefet",
+      "nativeName": "Foni Brefet",
+      "code": "GM-W-2413479",
+      "countryId": 2413451,
+      "countryCode": "GM",
+      "stateCode": "GM-W",
+      "latitude": 13.21667,
+      "longitude": -16.33333
+    },
+    {
+      "id": 2413478,
+      "name": "Foni Jarrol",
+      "nativeName": "Foni Jarrol",
+      "code": "GM-W-2413478",
+      "countryId": 2413451,
+      "countryCode": "GM",
+      "stateCode": "GM-W",
+      "latitude": 13.23333,
+      "longitude": -15.83333
+    },
+    {
+      "id": 2413477,
+      "name": "Foni Kansala",
+      "nativeName": "Foni Kansala",
+      "code": "GM-W-2413477",
+      "countryId": 2413451,
+      "countryCode": "GM",
+      "stateCode": "GM-W",
+      "latitude": 13.21667,
+      "longitude": -16.05
+    },
+    {
+      "id": 2412852,
+      "name": "Kombo Central District",
+      "nativeName": "Kombo Central District",
+      "code": "GM-W-2412852",
+      "countryId": 2413451,
+      "countryCode": "GM",
+      "stateCode": "GM-W",
+      "latitude": 13.25,
+      "longitude": -16.66667
+    },
+    {
+      "id": 2412851,
+      "name": "Kombo East District",
+      "nativeName": "Kombo East District",
+      "code": "GM-W-2412851",
+      "countryId": 2413451,
+      "countryCode": "GM",
+      "stateCode": "GM-W",
+      "latitude": 13.21667,
+      "longitude": -16.51667
+    },
+    {
+      "id": 2412850,
+      "name": "Kombo North District",
+      "nativeName": "Kombo North District",
+      "code": "GM-W-2412850",
+      "countryId": 2413451,
+      "countryCode": "GM",
+      "stateCode": "GM-W",
+      "latitude": 13.36667,
+      "longitude": -16.66667
+    },
+    {
+      "id": 2412849,
+      "name": "Kombo South District",
+      "nativeName": "Kombo South District",
+      "code": "GM-W-2412849",
+      "countryId": 2413451,
+      "countryCode": "GM",
+      "stateCode": "GM-W",
+      "latitude": 13.25,
+      "longitude": -16.75
+    }
+  ]
+}

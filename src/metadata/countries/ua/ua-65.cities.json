@@ -1,0 +1,62 @@
+{
+  "stateId": 706442,
+  "stateCode": "UA-65",
+  "countryCode": "UA",
+  "cities": [
+    {
+      "id": 712259,
+      "name": "Beryslav Raion",
+      "nativeName": "Beryslav Raion",
+      "code": "UA-65-712259",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-65",
+      "latitude": 46.83768,
+      "longitude": 33.42149
+    },
+    {
+      "id": 708876,
+      "name": "Henichesk Raion",
+      "nativeName": "Henichesk Raion",
+      "code": "UA-65-708876",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-65",
+      "latitude": 46.16581,
+      "longitude": 34.80889
+    },
+    {
+      "id": 707241,
+      "name": "Kakhovka Raion",
+      "nativeName": "Kakhovka Raion",
+      "code": "UA-65-707241",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-65",
+      "latitude": 46.81621,
+      "longitude": 33.4796
+    },
+    {
+      "id": 12189518,
+      "name": "Khersonskyi Raion",
+      "nativeName": "Khersonskyi Raion",
+      "code": "UA-65-12189518",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-65",
+      "latitude": 46.65816,
+      "longitude": 32.81955
+    },
+    {
+      "id": 693707,
+      "name": "Skadovsk Raion",
+      "nativeName": "Skadovsk Raion",
+      "code": "UA-65-693707",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-65",
+      "latitude": 46.11544,
+      "longitude": 32.90771
+    }
+  ]
+}

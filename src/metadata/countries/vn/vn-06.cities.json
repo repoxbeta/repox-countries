@@ -1,0 +1,106 @@
+{
+  "stateId": 1559978,
+  "stateCode": "VN-06",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 1905668,
+      "name": "Huyện Mù Cang Chải",
+      "nativeName": "Huyện Mù Cang Chải",
+      "code": "VN-06-1905668",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-06",
+      "latitude": 21.78815,
+      "longitude": 104.11998
+    },
+    {
+      "id": 1905663,
+      "name": "Huyện Văn Chấn",
+      "nativeName": "Huyện Văn Chấn",
+      "code": "VN-06-1905663",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-06",
+      "latitude": 21.60044,
+      "longitude": 104.58643
+    },
+    {
+      "id": 1905666,
+      "name": "Lục Yên District",
+      "nativeName": "Huyện Lục Yên",
+      "code": "VN-06-1905666",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-06",
+      "latitude": 22.10235,
+      "longitude": 104.72538
+    },
+    {
+      "id": 1905661,
+      "name": "Nghĩa Lộ",
+      "nativeName": "Nghĩa Lộ",
+      "code": "VN-06-1905661",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-06",
+      "latitude": 21.59878,
+      "longitude": 104.50395
+    },
+    {
+      "id": 1905660,
+      "name": "Thành Phố Yên Bái",
+      "nativeName": "Thành Phố Yên Bái",
+      "code": "VN-06-1905660",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-06",
+      "latitude": 21.70916,
+      "longitude": 104.88992
+    },
+    {
+      "id": 1905667,
+      "name": "Trạm Tấu District",
+      "nativeName": "Huyện Trạm Tấu",
+      "code": "VN-06-1905667",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-06",
+      "latitude": 21.48553,
+      "longitude": 104.42756
+    },
+    {
+      "id": 1905662,
+      "name": "Trấn Yên District",
+      "nativeName": "Huyện Trấn Yên",
+      "code": "VN-06-1905662",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-06",
+      "latitude": 21.66586,
+      "longitude": 104.79702
+    },
+    {
+      "id": 1905665,
+      "name": "Văn Yên District",
+      "nativeName": "Huyện Văn Yên",
+      "code": "VN-06-1905665",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-06",
+      "latitude": 21.90022,
+      "longitude": 104.56669
+    },
+    {
+      "id": 1905664,
+      "name": "Yên Bình District",
+      "nativeName": "Huyện Yên Bình",
+      "code": "VN-06-1905664",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-06",
+      "latitude": 21.85464,
+      "longitude": 104.95402
+    }
+  ]
+}

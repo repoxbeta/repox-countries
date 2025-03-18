@@ -1,0 +1,73 @@
+{
+  "stateId": 2231755,
+  "stateCode": "CM-EN",
+  "countryCode": "CM",
+  "cities": [
+    {
+      "id": 2233122,
+      "name": "Diamare",
+      "nativeName": "Département du Diamaré",
+      "code": "CM-EN-2233122",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-EN",
+      "latitude": 10.5,
+      "longitude": 14.5
+    },
+    {
+      "id": 2229291,
+      "name": "Logone-Et-Chari",
+      "nativeName": "Logone-et-Chari",
+      "code": "CM-EN-2229291",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-EN",
+      "latitude": 12.08333,
+      "longitude": 14.83333
+    },
+    {
+      "id": 2228217,
+      "name": "Mayo-Danay",
+      "nativeName": "Département du Mayo Danaï",
+      "code": "CM-EN-2228217",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-EN",
+      "latitude": 10.5,
+      "longitude": 15
+    },
+    {
+      "id": 7932539,
+      "name": "Mayo-Kani",
+      "nativeName": "Departement du Mayo-Kani",
+      "code": "CM-EN-7932539",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-EN",
+      "latitude": 10.22427,
+      "longitude": 14.51862
+    },
+    {
+      "id": 9224949,
+      "name": "Mayo-Sava",
+      "nativeName": "Mayo-Sava",
+      "code": "CM-EN-9224949",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-EN",
+      "latitude": 11.10682,
+      "longitude": 14.2056
+    },
+    {
+      "id": 9224951,
+      "name": "Mayo-Tsanaga",
+      "nativeName": "Mayo-Tsanaga",
+      "code": "CM-EN-9224951",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-EN",
+      "latitude": 10.58221,
+      "longitude": 13.79351
+    }
+  ]
+}

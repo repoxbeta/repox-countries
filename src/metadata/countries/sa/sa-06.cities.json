@@ -1,0 +1,51 @@
+{
+  "stateId": 106280,
+  "stateCode": "SA-06",
+  "countryCode": "SA",
+  "cities": [
+    {
+      "id": 10972341,
+      "name": "Al Khazaiah",
+      "nativeName": "Al Ghazālah",
+      "code": "SA-06-10972341",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-06",
+      "latitude": 26.16667,
+      "longitude": 40.91667
+    },
+    {
+      "id": 10972342,
+      "name": "Ash Shinān",
+      "nativeName": "Ash Shinān",
+      "code": "SA-06-10972342",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-06",
+      "latitude": 27.08333,
+      "longitude": 42.41667
+    },
+    {
+      "id": 10972343,
+      "name": "Baq‘ā’",
+      "nativeName": "Baq‘ā’",
+      "code": "SA-06-10972343",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-06",
+      "latitude": 28,
+      "longitude": 42.83333
+    },
+    {
+      "id": 10972344,
+      "name": "Ḩā’il",
+      "nativeName": "Ḩā’il",
+      "code": "SA-06-10972344",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-06",
+      "latitude": 27.83333,
+      "longitude": 40.83333
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "stateId": 7303521,
+  "stateCode": "MH-KIL",
+  "countryCode": "MH",
+  "cities": [
+    {
+      "id": 7306525,
+      "name": "Kili",
+      "nativeName": "Kili",
+      "code": "MH-KIL-7306525",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-KIL",
+      "latitude": 5.64387,
+      "longitude": 169.12109
+    },
+    {
+      "id": 7306509,
+      "name": "Kili",
+      "nativeName": "Kili",
+      "code": "MH-KIL-7306509",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-KIL",
+      "latitude": 5.64323,
+      "longitude": 169.12345
+    }
+  ]
+}

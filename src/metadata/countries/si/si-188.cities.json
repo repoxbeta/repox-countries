@@ -1,0 +1,40 @@
+{
+  "stateId": 3344933,
+  "stateCode": "SI-188",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3187840,
+      "name": "Veržej",
+      "nativeName": "Veržej",
+      "code": "SI-188-3187840",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-188",
+      "latitude": 46.58361,
+      "longitude": 16.16528
+    },
+    {
+      "id": 3204521,
+      "name": "Banovci",
+      "nativeName": "Banovci",
+      "code": "SI-188-3204521",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-188",
+      "latitude": 46.5725,
+      "longitude": 16.1675
+    },
+    {
+      "id": 3202989,
+      "name": "Bunčani",
+      "nativeName": "Bunčani",
+      "code": "SI-188-3202989",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-188",
+      "latitude": 46.59278,
+      "longitude": 16.14028
+    }
+  ]
+}

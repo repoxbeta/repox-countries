@@ -1,0 +1,138 @@
+{
+  "countryId": 248816,
+  "countryCode": "JO",
+  "states": [
+    {
+      "id": 443120,
+      "name": "Ajloun",
+      "nativeName": "Ajloun",
+      "code": "JO-AJ",
+      "internalCode": "AJ",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "latitude": 32.33333,
+      "longitude": 35.75
+    },
+    {
+      "id": 250439,
+      "name": "Amman",
+      "nativeName": "Amman Governorate",
+      "code": "JO-AM",
+      "internalCode": "AM",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "latitude": 31.58369,
+      "longitude": 36.33335
+    },
+    {
+      "id": 443122,
+      "name": "Aqaba",
+      "nativeName": "Muḩāfaz̧at al ‘Aqabah",
+      "code": "JO-AQ",
+      "internalCode": "AQ",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "latitude": 29.75,
+      "longitude": 35.33333
+    },
+    {
+      "id": 250751,
+      "name": "Balqa",
+      "nativeName": "Muḩāfaz̧at al Balqā’",
+      "code": "JO-BA",
+      "internalCode": "BA",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "latitude": 32,
+      "longitude": 35.66667
+    },
+    {
+      "id": 248944,
+      "name": "Irbid",
+      "nativeName": "Irbid",
+      "code": "JO-IR",
+      "internalCode": "IR",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "latitude": 32.5,
+      "longitude": 35.83333
+    },
+    {
+      "id": 443121,
+      "name": "Jerash",
+      "nativeName": "Jerash",
+      "code": "JO-JA",
+      "internalCode": "JA",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "latitude": 32.25,
+      "longitude": 35.91667
+    },
+    {
+      "id": 250625,
+      "name": "Karak",
+      "nativeName": "Al Karak",
+      "code": "JO-KA",
+      "internalCode": "KA",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "latitude": 31.16667,
+      "longitude": 35.75
+    },
+    {
+      "id": 443123,
+      "name": "Madaba",
+      "nativeName": "Muḩāfaz̧at Mādabā",
+      "code": "JO-MD",
+      "internalCode": "MD",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "latitude": 31.58333,
+      "longitude": 35.66667
+    },
+    {
+      "id": 250583,
+      "name": "Mafraq",
+      "nativeName": "Al Mafraq",
+      "code": "JO-MA",
+      "internalCode": "MA",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "latitude": 32.33333,
+      "longitude": 37.91667
+    },
+    {
+      "id": 248380,
+      "name": "Ma’an",
+      "nativeName": "Muḩāfaz̧at Ma‘ān",
+      "code": "JO-MN",
+      "internalCode": "MN",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "latitude": 30.33333,
+      "longitude": 36.58333
+    },
+    {
+      "id": 250199,
+      "name": "Tafielah",
+      "nativeName": "Muḩāfaz̧at aţ Ţafīlah",
+      "code": "JO-AT",
+      "internalCode": "AT",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "latitude": 30.75,
+      "longitude": 35.58333
+    },
+    {
+      "id": 250092,
+      "name": "Zarqa",
+      "nativeName": "Muḩāfaz̧at az Zarqā’",
+      "code": "JO-AZ",
+      "internalCode": "AZ",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "latitude": 32.08374,
+      "longitude": 36.07773
+    }
+  ]
+}

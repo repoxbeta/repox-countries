@@ -1,0 +1,160 @@
+{
+  "countryId": 3355338,
+  "countryCode": "NA",
+  "states": [
+    {
+      "id": 3371199,
+      "name": "Erongo Region",
+      "nativeName": "Erongo",
+      "code": "NA-ER",
+      "internalCode": "ER",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "latitude": -22.08333,
+      "longitude": 15.33333
+    },
+    {
+      "id": 3371200,
+      "name": "Hardap Region",
+      "nativeName": "Hardap",
+      "code": "NA-HA",
+      "internalCode": "HA",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "latitude": -24.5,
+      "longitude": 17.25
+    },
+    {
+      "id": 3371201,
+      "name": "Karas Region",
+      "nativeName": "Karas",
+      "code": "NA-KA",
+      "internalCode": "KA",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "latitude": -27,
+      "longitude": 17.5
+    },
+    {
+      "id": 8693188,
+      "name": "Kavango East",
+      "nativeName": "Kavango East Region",
+      "code": "NA-KE",
+      "internalCode": "KE",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "latitude": -18.33333,
+      "longitude": 20.58333
+    },
+    {
+      "id": 8693189,
+      "name": "Kavango West",
+      "nativeName": "Kavango West Region",
+      "code": "NA-KW",
+      "internalCode": "KW",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "latitude": -18.25,
+      "longitude": 18.91667
+    },
+    {
+      "id": 3352137,
+      "name": "Khomas Region",
+      "nativeName": "Khomas",
+      "code": "NA-KH",
+      "internalCode": "KH",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "latitude": -22.75,
+      "longitude": 17.08333
+    },
+    {
+      "id": 3371202,
+      "name": "Kunene Region",
+      "nativeName": "Kunene",
+      "code": "NA-KU",
+      "internalCode": "KU",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "latitude": -19.41667,
+      "longitude": 13.75
+    },
+    {
+      "id": 3371203,
+      "name": "Ohangwena Region",
+      "nativeName": "Ohangwena",
+      "code": "NA-OW",
+      "internalCode": "OW",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "latitude": -17.58333,
+      "longitude": 16.75
+    },
+    {
+      "id": 3371205,
+      "name": "Omaheke Region",
+      "nativeName": "Omaheke",
+      "code": "NA-OH",
+      "internalCode": "OH",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "latitude": -21.75,
+      "longitude": 19.41667
+    },
+    {
+      "id": 3371206,
+      "name": "Omusati Region",
+      "nativeName": "Omusati",
+      "code": "NA-OS",
+      "internalCode": "OS",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "latitude": -18.33333,
+      "longitude": 14.83333
+    },
+    {
+      "id": 3371207,
+      "name": "Oshana Region",
+      "nativeName": "Oshana",
+      "code": "NA-ON",
+      "internalCode": "ON",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "latitude": -18.5,
+      "longitude": 15.75
+    },
+    {
+      "id": 3371208,
+      "name": "Oshikoto Region",
+      "nativeName": "Oshikoto",
+      "code": "NA-OT",
+      "internalCode": "OT",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "latitude": -18.5,
+      "longitude": 17.08333
+    },
+    {
+      "id": 3371209,
+      "name": "Otjozondjupa Region",
+      "nativeName": "Otjozondjupa",
+      "code": "NA-OD",
+      "internalCode": "OD",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "latitude": -20.33333,
+      "longitude": 18
+    },
+    {
+      "id": 1090052,
+      "name": "Zambezi Region",
+      "nativeName": "Zambezi Region",
+      "code": "NA-CA",
+      "internalCode": "CA",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "latitude": -17.83333,
+      "longitude": 23.75
+    }
+  ]
+}

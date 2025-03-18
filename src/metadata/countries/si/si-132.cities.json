@@ -1,0 +1,62 @@
+{
+  "stateId": 3239283,
+  "stateCode": "SI-132",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3188606,
+      "name": "Turnišče",
+      "nativeName": "Turnišče",
+      "code": "SI-132-3188606",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-132",
+      "latitude": 46.62778,
+      "longitude": 16.32028
+    },
+    {
+      "id": 3203341,
+      "name": "Brezovica",
+      "nativeName": "Brezovica",
+      "code": "SI-132-3203341",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-132",
+      "latitude": 46.6,
+      "longitude": 16.33333
+    },
+    {
+      "id": 3200419,
+      "name": "Gomilica",
+      "nativeName": "Gomilica",
+      "code": "SI-132-3200419",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-132",
+      "latitude": 46.60333,
+      "longitude": 16.31194
+    },
+    {
+      "id": 3194560,
+      "name": "Nedelica",
+      "nativeName": "Nedelica",
+      "code": "SI-132-3194560",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-132",
+      "latitude": 46.61667,
+      "longitude": 16.33333
+    },
+    {
+      "id": 3191734,
+      "name": "Renkovci",
+      "nativeName": "Renkovci",
+      "code": "SI-132-3191734",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-132",
+      "latitude": 46.63667,
+      "longitude": 16.30278
+    }
+  ]
+}

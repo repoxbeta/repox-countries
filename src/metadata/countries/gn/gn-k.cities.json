@@ -1,0 +1,62 @@
+{
+  "stateId": 8335087,
+  "stateCode": "GN-K",
+  "countryCode": "GN",
+  "cities": [
+    {
+      "id": 2419991,
+      "name": "Kankan",
+      "nativeName": "Kankan Prefecture",
+      "code": "GN-K-2419991",
+      "countryId": 2420477,
+      "countryCode": "GN",
+      "stateCode": "GN-K",
+      "latitude": 10.271,
+      "longitude": -9.178
+    },
+    {
+      "id": 2419618,
+      "name": "Préfecture de Kerouane",
+      "nativeName": "Kerouane Prefecture",
+      "code": "GN-K-2419618",
+      "countryId": 2420477,
+      "countryCode": "GN",
+      "stateCode": "GN-K",
+      "latitude": 9.16667,
+      "longitude": -9.08333
+    },
+    {
+      "id": 2418435,
+      "name": "Préfecture de Kouroussa",
+      "nativeName": "Kouroussa",
+      "code": "GN-K-2418435",
+      "countryId": 2420477,
+      "countryCode": "GN",
+      "stateCode": "GN-K",
+      "latitude": 10.66667,
+      "longitude": -9.91667
+    },
+    {
+      "id": 2415702,
+      "name": "Préfecture de Siguiri",
+      "nativeName": "Siguiri Prefecture",
+      "code": "GN-K-2415702",
+      "countryId": 2420477,
+      "countryCode": "GN",
+      "stateCode": "GN-K",
+      "latitude": 11.66667,
+      "longitude": -9.5
+    },
+    {
+      "id": 2595305,
+      "name": "Préfecture de mandiana",
+      "nativeName": "Mandiana Prefecture",
+      "code": "GN-K-2595305",
+      "countryId": 2420477,
+      "countryCode": "GN",
+      "stateCode": "GN-K",
+      "latitude": 10.658,
+      "longitude": -8.615
+    }
+  ]
+}

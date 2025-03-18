@@ -1,0 +1,150 @@
+{
+  "stateId": 2473460,
+  "stateCode": "TN-42",
+  "countryCode": "TN",
+  "cities": [
+    {
+      "id": 7870283,
+      "name": "Djedeliane",
+      "nativeName": "Djedliane",
+      "code": "TN-42-7870283",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-42",
+      "latitude": 35.64632,
+      "longitude": 8.93443
+    },
+    {
+      "id": 7870284,
+      "name": "El Ayoun",
+      "nativeName": "Ayoun",
+      "code": "TN-42-7870284",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-42",
+      "latitude": 35.50911,
+      "longitude": 8.90541
+    },
+    {
+      "id": 11106670,
+      "name": "Ezzouhour",
+      "nativeName": "Ezzouhour",
+      "code": "TN-42-11106670",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-42",
+      "latitude": 35.15816,
+      "longitude": 8.83572
+    },
+    {
+      "id": 2471060,
+      "name": "Feriana",
+      "nativeName": "Feriana",
+      "code": "TN-42-2471060",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-42",
+      "latitude": 35.03418,
+      "longitude": 8.46614
+    },
+    {
+      "id": 7870307,
+      "name": "Foussana",
+      "nativeName": "Foussana",
+      "code": "TN-42-7870307",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-42",
+      "latitude": 35.33887,
+      "longitude": 8.5526
+    },
+    {
+      "id": 11106673,
+      "name": "Hassi Ferid",
+      "nativeName": "Hassi El Ferid",
+      "code": "TN-42-11106673",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-42",
+      "latitude": 34.96127,
+      "longitude": 8.91896
+    },
+    {
+      "id": 7870300,
+      "name": "Hidra",
+      "nativeName": "Hidra",
+      "code": "TN-42-7870300",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-42",
+      "latitude": 35.55253,
+      "longitude": 8.4952
+    },
+    {
+      "id": 11106671,
+      "name": "Kasserine Nord",
+      "nativeName": "Kasserine Nord",
+      "code": "TN-42-11106671",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-42",
+      "latitude": 35.20866,
+      "longitude": 8.78053
+    },
+    {
+      "id": 2473459,
+      "name": "Kasserine Sud",
+      "nativeName": "Kasserine Sud",
+      "code": "TN-42-2473459",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-42",
+      "latitude": 35.10671,
+      "longitude": 8.77632
+    },
+    {
+      "id": 11106672,
+      "name": "Majel Bel Abbès",
+      "nativeName": "Délégation de Mejel Bel Abbès",
+      "code": "TN-42-11106672",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-42",
+      "latitude": 34.76766,
+      "longitude": 8.54296
+    },
+    {
+      "id": 2464977,
+      "name": "Sbeitla",
+      "nativeName": "Sbeitla",
+      "code": "TN-42-2464977",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-42",
+      "latitude": 35.26072,
+      "longitude": 9.06607
+    },
+    {
+      "id": 7870289,
+      "name": "Sbiba",
+      "nativeName": "Sbiba",
+      "code": "TN-42-7870289",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-42",
+      "latitude": 35.50284,
+      "longitude": 9.17288
+    },
+    {
+      "id": 2464794,
+      "name": "Thala",
+      "nativeName": "Thala",
+      "code": "TN-42-2464794",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-42",
+      "latitude": 35.59234,
+      "longitude": 8.68258
+    }
+  ]
+}

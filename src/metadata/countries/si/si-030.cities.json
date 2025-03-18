@@ -1,0 +1,117 @@
+{
+  "stateId": 3239133,
+  "stateCode": "SI-030",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3200016,
+      "name": "Gornji Grad",
+      "nativeName": "Gornji Grad",
+      "code": "SI-030-3200016",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-030",
+      "latitude": 46.29528,
+      "longitude": 14.80833
+    },
+    {
+      "id": 3217425,
+      "name": "Berglez",
+      "nativeName": "Berglez",
+      "code": "SI-030-3217425",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-030",
+      "latitude": 46.32056,
+      "longitude": 14.79556
+    },
+    {
+      "id": 3203859,
+      "name": "Bočna",
+      "nativeName": "Bočna",
+      "code": "SI-030-3203859",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-030",
+      "latitude": 46.28944,
+      "longitude": 14.855
+    },
+    {
+      "id": 3217423,
+      "name": "Budna",
+      "nativeName": "Budna",
+      "code": "SI-030-3217423",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-030",
+      "latitude": 46.33583,
+      "longitude": 14.80111
+    },
+    {
+      "id": 8988803,
+      "name": "Dol",
+      "nativeName": "Dol",
+      "code": "SI-030-8988803",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-030",
+      "latitude": 46.28699,
+      "longitude": 14.7892
+    },
+    {
+      "id": 3200838,
+      "name": "Florjan pri Gornjem Gradu",
+      "nativeName": "Florjan pri Gornjem Gradu",
+      "code": "SI-030-3200838",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-030",
+      "latitude": 46.31667,
+      "longitude": 14.81667
+    },
+    {
+      "id": 3196683,
+      "name": "Lenart pri Gornjem Gradu",
+      "nativeName": "Lenart pri Gornjem Gradu",
+      "code": "SI-030-3196683",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-030",
+      "latitude": 46.3,
+      "longitude": 14.78333
+    },
+    {
+      "id": 8986885,
+      "name": "Nova Štifta",
+      "nativeName": "Nova Štifta",
+      "code": "SI-030-8986885",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-030",
+      "latitude": 46.27469,
+      "longitude": 14.74917
+    },
+    {
+      "id": 3189104,
+      "name": "Tirosek",
+      "nativeName": "Tirosek",
+      "code": "SI-030-3189104",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-030",
+      "latitude": 46.26667,
+      "longitude": 14.73333
+    },
+    {
+      "id": 3190485,
+      "name": "Šmiklavž",
+      "nativeName": "Šmiklavž",
+      "code": "SI-030-3190485",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-030",
+      "latitude": 46.28333,
+      "longitude": 14.76667
+    }
+  ]
+}

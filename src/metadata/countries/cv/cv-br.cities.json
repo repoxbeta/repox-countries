@@ -1,0 +1,29 @@
+{
+  "stateId": 3374832,
+  "stateCode": "CV-BR",
+  "countryCode": "CV",
+  "cities": [
+    {
+      "id": 11468093,
+      "name": "Nossa Senhora do Monte",
+      "nativeName": "Nossa Senhora do Monte",
+      "code": "CV-BR-11468093",
+      "countryId": 3374766,
+      "countryCode": "CV",
+      "stateCode": "CV-BR",
+      "latitude": 14.86168,
+      "longitude": -24.72336
+    },
+    {
+      "id": 11429279,
+      "name": "São João Baptista",
+      "nativeName": "São João Baptista",
+      "code": "CV-BR-11429279",
+      "countryId": 3374766,
+      "countryCode": "CV",
+      "stateCode": "CV-BR",
+      "latitude": 14.84525,
+      "longitude": -24.67941
+    }
+  ]
+}

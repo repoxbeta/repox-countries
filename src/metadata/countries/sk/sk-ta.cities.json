@@ -1,0 +1,84 @@
+{
+  "stateId": 3343958,
+  "stateCode": "SK-TA",
+  "countryCode": "SK",
+  "cities": [
+    {
+      "id": 3060307,
+      "name": "Dunajská Streda District",
+      "nativeName": "Okres Dunajská Streda",
+      "code": "SK-TA-3060307",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-TA",
+      "latitude": 47.99635,
+      "longitude": 17.60937
+    },
+    {
+      "id": 3060218,
+      "name": "Galanta District",
+      "nativeName": "Okres Galanta",
+      "code": "SK-TA-3060218",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-TA",
+      "latitude": 48.2,
+      "longitude": 17.71667
+    },
+    {
+      "id": 3060093,
+      "name": "Hlohovec District",
+      "nativeName": "Okres Hlohovec",
+      "code": "SK-TA-3060093",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-TA",
+      "latitude": 48.41667,
+      "longitude": 17.75
+    },
+    {
+      "id": 8986295,
+      "name": "Piešťany District",
+      "nativeName": "Okres Piešťany",
+      "code": "SK-TA-8986295",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-TA",
+      "latitude": 48.59064,
+      "longitude": 17.82679
+    },
+    {
+      "id": 3057689,
+      "name": "Senica District",
+      "nativeName": "Okres Senica",
+      "code": "SK-TA-3057689",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-TA",
+      "latitude": 48.68333,
+      "longitude": 17.36667
+    },
+    {
+      "id": 3057629,
+      "name": "Skalica District",
+      "nativeName": "Okres Skalica",
+      "code": "SK-TA-3057629",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-TA",
+      "latitude": 48.75,
+      "longitude": 17.16667
+    },
+    {
+      "id": 3057122,
+      "name": "Trnava District",
+      "nativeName": "Okres Trnava",
+      "code": "SK-TA-3057122",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-TA",
+      "latitude": 48.36667,
+      "longitude": 17.6
+    }
+  ]
+}

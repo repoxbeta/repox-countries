@@ -1,0 +1,40 @@
+{
+  "stateId": 3867442,
+  "stateCode": "PY-19",
+  "countryCode": "PY",
+  "cities": [
+    {
+      "id": 11840009,
+      "name": "Filadelfia",
+      "nativeName": "Filadelfia",
+      "code": "PY-19-11840009",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-19",
+      "latitude": -21.4374,
+      "longitude": -60.17867
+    },
+    {
+      "id": 11839974,
+      "name": "Loma Plata",
+      "nativeName": "Loma Plata",
+      "code": "PY-19-11839974",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-19",
+      "latitude": -22.30512,
+      "longitude": -59.6906
+    },
+    {
+      "id": 11840039,
+      "name": "Mariscal Estigarribia",
+      "nativeName": "Mariscal Estigarribia",
+      "code": "PY-19-11840039",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-19",
+      "latitude": -21.96421,
+      "longitude": -61.28682
+    }
+  ]
+}

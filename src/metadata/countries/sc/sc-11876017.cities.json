@@ -1,0 +1,29 @@
+{
+  "stateId": 11876017,
+  "stateCode": "SC-11876017",
+  "countryCode": "SC",
+  "cities": [
+    {
+      "id": 11822653,
+      "name": "North Island",
+      "nativeName": "North Island",
+      "code": "SC-11876017-11822653",
+      "countryId": 241170,
+      "countryCode": "SC",
+      "stateCode": "SC-11876017",
+      "latitude": -4.39342,
+      "longitude": 55.24407
+    },
+    {
+      "id": 10629843,
+      "name": "Silhouette Island",
+      "nativeName": "Silhouette Island",
+      "code": "SC-11876017-10629843",
+      "countryId": 241170,
+      "countryCode": "SC",
+      "stateCode": "SC-11876017",
+      "latitude": -4.48599,
+      "longitude": 55.25262
+    }
+  ]
+}

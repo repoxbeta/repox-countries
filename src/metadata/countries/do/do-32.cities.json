@@ -1,0 +1,84 @@
+{
+  "stateId": 6201373,
+  "stateCode": "DO-32",
+  "countryCode": "DO",
+  "cities": [
+    {
+      "id": 11154570,
+      "name": "Boca Chica",
+      "nativeName": "Boca Chica",
+      "code": "DO-32-11154570",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-32",
+      "latitude": 18.45717,
+      "longitude": -69.61405
+    },
+    {
+      "id": 11154572,
+      "name": "Los Alcarrizos",
+      "nativeName": "Los Alcarrizos",
+      "code": "DO-32-11154572",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-32",
+      "latitude": 18.52789,
+      "longitude": -70.03636
+    },
+    {
+      "id": 11154573,
+      "name": "Pedro Brand",
+      "nativeName": "Pedro Brand",
+      "code": "DO-32-11154573",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-32",
+      "latitude": 18.61968,
+      "longitude": -70.09076
+    },
+    {
+      "id": 11154571,
+      "name": "San Antonio de Guerra",
+      "nativeName": "San Antonio De Guerra",
+      "code": "DO-32-11154571",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-32",
+      "latitude": 18.579,
+      "longitude": -69.66304
+    },
+    {
+      "id": 11154568,
+      "name": "Santo Domingo Este",
+      "nativeName": "Santo Domingo Este",
+      "code": "DO-32-11154568",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-32",
+      "latitude": 18.51252,
+      "longitude": -69.79404
+    },
+    {
+      "id": 3492909,
+      "name": "Santo Domingo Norte",
+      "nativeName": "Santo Domingo Norte",
+      "code": "DO-32-3492909",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-32",
+      "latitude": 18.58333,
+      "longitude": -69.83333
+    },
+    {
+      "id": 11154569,
+      "name": "Santo Domingo Oeste",
+      "nativeName": "Santo Domingo Oeste",
+      "code": "DO-32-11154569",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-32",
+      "latitude": 18.48388,
+      "longitude": -70.00656
+    }
+  ]
+}

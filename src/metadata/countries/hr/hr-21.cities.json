@@ -1,0 +1,194 @@
+{
+  "stateId": 3337532,
+  "stateCode": "HR-21",
+  "countryCode": "HR",
+  "cities": [
+    {
+      "id": 8531834,
+      "name": "Brezovica",
+      "nativeName": "Brezovica",
+      "code": "HR-21-8531834",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-21",
+      "latitude": 45.72895,
+      "longitude": 15.90065
+    },
+    {
+      "id": 8531830,
+      "name": "Donja Dubrava",
+      "nativeName": "Donja Dubrava",
+      "code": "HR-21-8531830",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-21",
+      "latitude": 45.82336,
+      "longitude": 16.05257
+    },
+    {
+      "id": 8531816,
+      "name": "Donji Grad",
+      "nativeName": "Donji grad",
+      "code": "HR-21-8531816",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-21",
+      "latitude": 45.80834,
+      "longitude": 15.96949
+    },
+    {
+      "id": 8531829,
+      "name": "Gornja Dubrava",
+      "nativeName": "Gornja Dubrava",
+      "code": "HR-21-8531829",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-21",
+      "latitude": 45.84184,
+      "longitude": 16.05386
+    },
+    {
+      "id": 8531817,
+      "name": "Gornji Grad  –  Medveščak",
+      "nativeName": "Gornji grad – Medveščak",
+      "code": "HR-21-8531817",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-21",
+      "latitude": 45.8282,
+      "longitude": 15.97938
+    },
+    {
+      "id": 8531822,
+      "name": "Maksimir",
+      "nativeName": "Maksimir",
+      "code": "HR-21-8531822",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-21",
+      "latitude": 45.8369,
+      "longitude": 16.01129
+    },
+    {
+      "id": 8531825,
+      "name": "Novi Zagreb  –  zapad",
+      "nativeName": "Novi Zagreb - zapad",
+      "code": "HR-21-8531825",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-21",
+      "latitude": 45.7783,
+      "longitude": 15.95901
+    },
+    {
+      "id": 8531824,
+      "name": "Novi Zagreb – istok",
+      "nativeName": "Novi Zagreb – istok",
+      "code": "HR-21-8531824",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-21",
+      "latitude": 45.78363,
+      "longitude": 15.98597
+    },
+    {
+      "id": 8531823,
+      "name": "Peščenica – Žitnjak",
+      "nativeName": "Peščenica – Žitnjak",
+      "code": "HR-21-8531823",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-21",
+      "latitude": 45.80526,
+      "longitude": 16.02274
+    },
+    {
+      "id": 8531833,
+      "name": "Podsljeme",
+      "nativeName": "Podsljeme",
+      "code": "HR-21-8531833",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-21",
+      "latitude": 45.86097,
+      "longitude": 15.97996
+    },
+    {
+      "id": 8531832,
+      "name": "Podsused – Vrapče",
+      "nativeName": "Podsused - Vrapče",
+      "code": "HR-21-8531832",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-21",
+      "latitude": 45.8166,
+      "longitude": 15.87267
+    },
+    {
+      "id": 3190965,
+      "name": "Sesvete",
+      "nativeName": "Sesvete",
+      "code": "HR-21-3190965",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-21",
+      "latitude": 45.83333,
+      "longitude": 16.13333
+    },
+    {
+      "id": 8531831,
+      "name": "Stenjevec",
+      "nativeName": "Stenjevec",
+      "code": "HR-21-8531831",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-21",
+      "latitude": 45.80571,
+      "longitude": 15.87164
+    },
+    {
+      "id": 8531827,
+      "name": "Trešnjevka  –  jug",
+      "nativeName": "Trešnjevka – jug",
+      "code": "HR-21-8531827",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-21",
+      "latitude": 45.79063,
+      "longitude": 15.90674
+    },
+    {
+      "id": 8531826,
+      "name": "Trešnjevka  –  sjever",
+      "nativeName": "Trešnjevka – sjever",
+      "code": "HR-21-8531826",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-21",
+      "latitude": 45.79787,
+      "longitude": 15.93696
+    },
+    {
+      "id": 8531820,
+      "name": "Trnje",
+      "nativeName": "Trnje",
+      "code": "HR-21-8531820",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-21",
+      "latitude": 45.79697,
+      "longitude": 15.97961
+    },
+    {
+      "id": 8531828,
+      "name": "Črnomerec",
+      "nativeName": "Črnomerec",
+      "code": "HR-21-8531828",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-21",
+      "latitude": 45.82653,
+      "longitude": 15.93867
+    }
+  ]
+}

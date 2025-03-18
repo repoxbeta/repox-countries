@@ -1,0 +1,29 @@
+{
+  "stateId": 8299722,
+  "stateCode": "MT-34",
+  "countryCode": "MT",
+  "cities": [
+    {
+      "id": 2562698,
+      "name": "Msida",
+      "nativeName": "Imsida",
+      "code": "MT-34-2562698",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-34",
+      "latitude": 35.8925,
+      "longitude": 14.48278
+    },
+    {
+      "id": 2562696,
+      "name": "Msieraħ",
+      "nativeName": "Msieraħ",
+      "code": "MT-34-2562696",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-34",
+      "latitude": 35.9,
+      "longitude": 14.48333
+    }
+  ]
+}

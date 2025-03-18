@@ -1,0 +1,84 @@
+{
+  "stateId": 1923047,
+  "stateCode": "ID-BB",
+  "countryCode": "ID",
+  "cities": [
+    {
+      "id": 1650314,
+      "name": "Bangka Regency",
+      "nativeName": "Kabupaten Bangka",
+      "code": "ID-BB-1650314",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-BB",
+      "latitude": -1.91667,
+      "longitude": 105.96667
+    },
+    {
+      "id": 1649281,
+      "name": "Belitung Regency",
+      "nativeName": "Kabupaten Belitung",
+      "code": "ID-BB-1649281",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-BB",
+      "latitude": -2.86667,
+      "longitude": 107.68333
+    },
+    {
+      "id": 9821905,
+      "name": "Central Bangka Regency",
+      "nativeName": "Kabupaten Bangka Tengah",
+      "code": "ID-BB-9821905",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-BB",
+      "latitude": -2.33989,
+      "longitude": 106.1142
+    },
+    {
+      "id": 9821907,
+      "name": "East Belitung Regency",
+      "nativeName": "Kabupaten Belitung Timur",
+      "code": "ID-BB-9821907",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-BB",
+      "latitude": -2.9627,
+      "longitude": 108.15216
+    },
+    {
+      "id": 1632653,
+      "name": "Kota Pangkal Pinang",
+      "nativeName": "Kota Pangkal Pinang",
+      "code": "ID-BB-1632653",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-BB",
+      "latitude": -2.11667,
+      "longitude": 106.11667
+    },
+    {
+      "id": 9821904,
+      "name": "South Bangka Regency",
+      "nativeName": "Kabupaten Bangka Selatan",
+      "code": "ID-BB-9821904",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-BB",
+      "latitude": -2.66803,
+      "longitude": 106.01257
+    },
+    {
+      "id": 9821906,
+      "name": "West Bangka Regency",
+      "nativeName": "Kabupaten Bangka Barat",
+      "code": "ID-BB-9821906",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-BB",
+      "latitude": -1.95839,
+      "longitude": 105.53741
+    }
+  ]
+}

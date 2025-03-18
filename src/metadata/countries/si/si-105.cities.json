@@ -1,0 +1,117 @@
+{
+  "stateId": 3239270,
+  "stateCode": "SI-105",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3191579,
+      "name": "Rogašovci",
+      "nativeName": "Rogašovci",
+      "code": "SI-105-3191579",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-105",
+      "latitude": 46.8,
+      "longitude": 16.03333
+    },
+    {
+      "id": 3200848,
+      "name": "Fikšinci",
+      "nativeName": "Fikšinci",
+      "code": "SI-105-3200848",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-105",
+      "latitude": 46.78488,
+      "longitude": 16.00049
+    },
+    {
+      "id": 3197380,
+      "name": "Kramarovci",
+      "nativeName": "Kramarovci",
+      "code": "SI-105-3197380",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-105",
+      "latitude": 46.80833,
+      "longitude": 16.01167
+    },
+    {
+      "id": 3194311,
+      "name": "Nuskova",
+      "nativeName": "Nuskova",
+      "code": "SI-105-3194311",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-105",
+      "latitude": 46.81211,
+      "longitude": 16.03475
+    },
+    {
+      "id": 3194219,
+      "name": "Ocinje",
+      "nativeName": "Ocinje",
+      "code": "SI-105-3194219",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-105",
+      "latitude": 46.82389,
+      "longitude": 15.99779
+    },
+    {
+      "id": 3193481,
+      "name": "Pertoča",
+      "nativeName": "Pertoča",
+      "code": "SI-105-3193481",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-105",
+      "latitude": 46.77944,
+      "longitude": 16.02667
+    },
+    {
+      "id": 3190991,
+      "name": "Serdica",
+      "nativeName": "Serdica",
+      "code": "SI-105-3190991",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-105",
+      "latitude": 46.81903,
+      "longitude": 16.03034
+    },
+    {
+      "id": 10377744,
+      "name": "Sotina",
+      "nativeName": "Sotina",
+      "code": "SI-105-10377744",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-105",
+      "latitude": 46.83072,
+      "longitude": 16.03489
+    },
+    {
+      "id": 8986920,
+      "name": "Sveti Jurij",
+      "nativeName": "Sveti Jurij",
+      "code": "SI-105-8986920",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-105",
+      "latitude": 46.79672,
+      "longitude": 16.03365
+    },
+    {
+      "id": 3188340,
+      "name": "Večeslavci",
+      "nativeName": "Večeslavci",
+      "code": "SI-105-3188340",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-105",
+      "latitude": 46.78889,
+      "longitude": 16.02667
+    }
+  ]
+}

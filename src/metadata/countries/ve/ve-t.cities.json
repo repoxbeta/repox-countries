@@ -1,0 +1,227 @@
+{
+  "stateId": 3625974,
+  "stateCode": "VE-T",
+  "countryCode": "VE",
+  "cities": [
+    {
+      "id": 8129224,
+      "name": "Andrés Bello Municipality",
+      "nativeName": "Municipio Andrés Bello",
+      "code": "VE-T-8129224",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-T",
+      "latitude": 9.63217,
+      "longitude": -70.80759
+    },
+    {
+      "id": 8131492,
+      "name": "Bolívar Municipality",
+      "nativeName": "Municipio Bolívar",
+      "code": "VE-T-8131492",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-T",
+      "latitude": 9.40131,
+      "longitude": -70.79916
+    },
+    {
+      "id": 8131493,
+      "name": "Candelaria Municipality",
+      "nativeName": "Municipio Candelaria",
+      "code": "VE-T-8131493",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-T",
+      "latitude": 9.61818,
+      "longitude": -70.35713
+    },
+    {
+      "id": 3646730,
+      "name": "Carache",
+      "nativeName": "Municipio Carache",
+      "code": "VE-T-3646730",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-T",
+      "latitude": 9.66667,
+      "longitude": -70.33333
+    },
+    {
+      "id": 3640955,
+      "name": "Escuque Municipality",
+      "nativeName": "Municipio Escuque",
+      "code": "VE-T-3640955",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-T",
+      "latitude": 9.25,
+      "longitude": -70.75
+    },
+    {
+      "id": 8131494,
+      "name": "José Felipe Márquez Cañizales  Municipality",
+      "nativeName": "Municipio José Felipe Márquez Cañizales",
+      "code": "VE-T-8131494",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-T",
+      "latitude": 9.77115,
+      "longitude": -70.61445
+    },
+    {
+      "id": 8129264,
+      "name": "La Ceiba Municipality",
+      "nativeName": "Municipio La Ceiba",
+      "code": "VE-T-8129264",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-T",
+      "latitude": 9.47139,
+      "longitude": -71.01419
+    },
+    {
+      "id": 8129194,
+      "name": "Miranda Municipality",
+      "nativeName": "Municipio Miranda",
+      "code": "VE-T-8129194",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-T",
+      "latitude": 9.47447,
+      "longitude": -70.73385
+    },
+    {
+      "id": 8129239,
+      "name": "Monte Carmelo Municipality",
+      "nativeName": "Municipio Monte Carmelo",
+      "code": "VE-T-8129239",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-T",
+      "latitude": 9.18583,
+      "longitude": -70.81561
+    },
+    {
+      "id": 8129168,
+      "name": "Motatán Municipality",
+      "nativeName": "Municipio Motatán",
+      "code": "VE-T-8129168",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-T",
+      "latitude": 9.39002,
+      "longitude": -70.59119
+    },
+    {
+      "id": 3648130,
+      "name": "Municipio Boconó",
+      "nativeName": "Municipio Boconó",
+      "code": "VE-T-3648130",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-T",
+      "latitude": 9.25,
+      "longitude": -70.25
+    },
+    {
+      "id": 8129173,
+      "name": "Municipio Juan Vicente Campo Elías",
+      "nativeName": "Municipio Juan Vicente Campo Elías",
+      "code": "VE-T-8129173",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-T",
+      "latitude": 9.39347,
+      "longitude": -70.06035
+    },
+    {
+      "id": 8131505,
+      "name": "Municipio Pampanito",
+      "nativeName": "Municipio Pampanito",
+      "code": "VE-T-8131505",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-T",
+      "latitude": 9.41147,
+      "longitude": -70.49592
+    },
+    {
+      "id": 3625661,
+      "name": "Municipio Urdaneta",
+      "nativeName": "Municipio Urdaneta",
+      "code": "VE-T-3625661",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-T",
+      "latitude": 9.08333,
+      "longitude": -70.58333
+    },
+    {
+      "id": 8129164,
+      "name": "Pampán Municipality",
+      "nativeName": "Municipio Pampán",
+      "code": "VE-T-8129164",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-T",
+      "latitude": 9.44475,
+      "longitude": -70.47759
+    },
+    {
+      "id": 8129253,
+      "name": "Rafael Rangel Municipality",
+      "nativeName": "Municipio Rafael Rangel",
+      "code": "VE-T-8129253",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-T",
+      "latitude": 9.37568,
+      "longitude": -70.73131
+    },
+    {
+      "id": 8131506,
+      "name": "San Rafael de Carvajal Municipality",
+      "nativeName": "Municipio San Rafael de Carvajal",
+      "code": "VE-T-8131506",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-T",
+      "latitude": 9.30756,
+      "longitude": -70.58965
+    },
+    {
+      "id": 8129195,
+      "name": "Sucre Municipality",
+      "nativeName": "Municipio Sucre",
+      "code": "VE-T-8129195",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-T",
+      "latitude": 9.43399,
+      "longitude": -70.77341
+    },
+    {
+      "id": 3625975,
+      "name": "Trujillo Municipality",
+      "nativeName": "Municipio Trujillo",
+      "code": "VE-T-3625975",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-T",
+      "latitude": 9.36008,
+      "longitude": -70.43433
+    },
+    {
+      "id": 3625541,
+      "name": "Valera Municipality",
+      "nativeName": "Municipio Valera",
+      "code": "VE-T-3625541",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-T",
+      "latitude": 9.3206,
+      "longitude": -70.60776
+    }
+  ]
+}

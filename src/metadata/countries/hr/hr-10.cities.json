@@ -1,0 +1,183 @@
+{
+  "stateId": 3337533,
+  "stateCode": "HR-10",
+  "countryCode": "HR",
+  "cities": [
+    {
+      "id": 11049455,
+      "name": "Municipality of Crnac",
+      "nativeName": "Crnac",
+      "code": "HR-10-11049455",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-10",
+      "latitude": 45.69207,
+      "longitude": 17.93879
+    },
+    {
+      "id": 11049459,
+      "name": "Municipality of Gradina",
+      "nativeName": "Gradina",
+      "code": "HR-10-11049459",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-10",
+      "latitude": 45.85423,
+      "longitude": 17.51109
+    },
+    {
+      "id": 11049462,
+      "name": "Municipality of Lukač",
+      "nativeName": "Lukač",
+      "code": "HR-10-11049462",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-10",
+      "latitude": 45.87407,
+      "longitude": 17.41938
+    },
+    {
+      "id": 11049464,
+      "name": "Municipality of Mikleuš",
+      "nativeName": "Mikleuš",
+      "code": "HR-10-11049464",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-10",
+      "latitude": 45.61421,
+      "longitude": 17.80837
+    },
+    {
+      "id": 11049465,
+      "name": "Municipality of Nova Bukovica",
+      "nativeName": "Nova Bukovica",
+      "code": "HR-10-11049465",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-10",
+      "latitude": 45.66183,
+      "longitude": 17.77086
+    },
+    {
+      "id": 11049466,
+      "name": "Municipality of Pitomača",
+      "nativeName": "Pitomača",
+      "code": "HR-10-11049466",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-10",
+      "latitude": 45.94779,
+      "longitude": 17.23197
+    },
+    {
+      "id": 11049467,
+      "name": "Municipality of Sopje",
+      "nativeName": "Sopje",
+      "code": "HR-10-11049467",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-10",
+      "latitude": 45.80304,
+      "longitude": 17.74507
+    },
+    {
+      "id": 11049468,
+      "name": "Municipality of Suhopolje",
+      "nativeName": "Suhopolje",
+      "code": "HR-10-11049468",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-10",
+      "latitude": 45.80238,
+      "longitude": 17.49762
+    },
+    {
+      "id": 11049470,
+      "name": "Municipality of Voćin",
+      "nativeName": "Voćin",
+      "code": "HR-10-11049470",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-10",
+      "latitude": 45.62015,
+      "longitude": 17.54594
+    },
+    {
+      "id": 11049471,
+      "name": "Municipality of Zdenci",
+      "nativeName": "Zdenci",
+      "code": "HR-10-11049471",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-10",
+      "latitude": 45.58247,
+      "longitude": 17.95149
+    },
+    {
+      "id": 11049456,
+      "name": "Municipality of Čačinci",
+      "nativeName": "Čačinci",
+      "code": "HR-10-11049456",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-10",
+      "latitude": 45.60004,
+      "longitude": 17.87377
+    },
+    {
+      "id": 11049457,
+      "name": "Municipality of Čađavica",
+      "nativeName": "Čađavica",
+      "code": "HR-10-11049457",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-10",
+      "latitude": 45.74278,
+      "longitude": 17.85562
+    },
+    {
+      "id": 11049469,
+      "name": "Municipality of Špišić Bukovica",
+      "nativeName": "Špišić Bukovica",
+      "code": "HR-10-11049469",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-10",
+      "latitude": 45.8574,
+      "longitude": 17.30089
+    },
+    {
+      "id": 3194063,
+      "name": "Town of Orahovica",
+      "nativeName": "Grad Orahovica",
+      "code": "HR-10-3194063",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-10",
+      "latitude": 45.53333,
+      "longitude": 17.9
+    },
+    {
+      "id": 3192931,
+      "name": "Town of Slatina",
+      "nativeName": "Grad Slatina",
+      "code": "HR-10-3192931",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-10",
+      "latitude": 45.7,
+      "longitude": 17.7
+    },
+    {
+      "id": 3187693,
+      "name": "Town of Virovitica",
+      "nativeName": "Grad Virovitica",
+      "code": "HR-10-3187693",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-10",
+      "latitude": 45.83167,
+      "longitude": 17.38483
+    }
+  ]
+}

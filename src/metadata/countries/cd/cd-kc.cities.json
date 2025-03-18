@@ -1,0 +1,84 @@
+{
+  "stateId": 210596,
+  "stateCode": "CD-KC",
+  "countryCode": "CD",
+  "cities": [
+    {
+      "id": 12278037,
+      "name": "Demba",
+      "nativeName": "Demba",
+      "code": "CD-KC-12278037",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-KC",
+      "latitude": -5.34287,
+      "longitude": 22.25815
+    },
+    {
+      "id": 12278038,
+      "name": "Dibaya",
+      "nativeName": "Dibaya",
+      "code": "CD-KC-12278038",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-KC",
+      "latitude": -6.37967,
+      "longitude": 22.77881
+    },
+    {
+      "id": 12278122,
+      "name": "Dimbelenge",
+      "nativeName": "Dimbelenge",
+      "code": "CD-KC-12278122",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-KC",
+      "latitude": -5.13285,
+      "longitude": 22.94848
+    },
+    {
+      "id": 8335010,
+      "name": "Kananga City",
+      "nativeName": "Kananga City",
+      "code": "CD-KC-8335010",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-KC",
+      "latitude": -5.872,
+      "longitude": 22.505
+    },
+    {
+      "id": 12278073,
+      "name": "Kazumba",
+      "nativeName": "Kazumba",
+      "code": "CD-KC-12278073",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-KC",
+      "latitude": -6.43377,
+      "longitude": 21.97957
+    },
+    {
+      "id": 12278053,
+      "name": "Luiza",
+      "nativeName": "Luiza",
+      "code": "CD-KC-12278053",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-KC",
+      "latitude": -7.3384,
+      "longitude": 22.55592
+    },
+    {
+      "id": 12278132,
+      "name": "Tshimbulu",
+      "nativeName": "Tshimbulu",
+      "code": "CD-KC-12278132",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-KC",
+      "latitude": -6.47883,
+      "longitude": 22.86012
+    }
+  ]
+}

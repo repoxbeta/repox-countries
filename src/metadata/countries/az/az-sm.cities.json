@@ -1,0 +1,40 @@
+{
+  "stateId": 828305,
+  "stateCode": "AZ-SM",
+  "countryCode": "AZ",
+  "cities": [
+    {
+      "id": 584923,
+      "name": "Sumqayit",
+      "nativeName": "Sumqayıt",
+      "code": "AZ-SM-584923",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-SM",
+      "latitude": 40.58972,
+      "longitude": 49.66861
+    },
+    {
+      "id": 586631,
+      "name": "Corat",
+      "nativeName": "Corat",
+      "code": "AZ-SM-586631",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-SM",
+      "latitude": 40.57176,
+      "longitude": 49.70509
+    },
+    {
+      "id": 585379,
+      "name": "Hacı Zeynalabdin",
+      "nativeName": "Hacı Zeynalabdin",
+      "code": "AZ-SM-585379",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-SM",
+      "latitude": 40.62333,
+      "longitude": 49.55861
+    }
+  ]
+}

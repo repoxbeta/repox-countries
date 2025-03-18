@@ -1,0 +1,84 @@
+{
+  "stateId": 7647525,
+  "stateCode": "KH-25",
+  "countryCode": "KH",
+  "cities": [
+    {
+      "id": 8403886,
+      "name": "Dambae",
+      "nativeName": "Srŏk Dâmbê",
+      "code": "KH-25-8403886",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-25",
+      "latitude": 12.03682,
+      "longitude": 105.89976
+    },
+    {
+      "id": 8403889,
+      "name": "Krong Suong",
+      "nativeName": "Krŏng Suŏng",
+      "code": "KH-25-8403889",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-25",
+      "latitude": 11.90735,
+      "longitude": 105.65883
+    },
+    {
+      "id": 1830473,
+      "name": "Krouch Chhmar",
+      "nativeName": "Srŏk Kroch Chhmar",
+      "code": "KH-25-1830473",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-25",
+      "latitude": 12.19567,
+      "longitude": 105.67602
+    },
+    {
+      "id": 1830336,
+      "name": "Memot",
+      "nativeName": "Srŏk Mémót",
+      "code": "KH-25-1830336",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-25",
+      "latitude": 11.88219,
+      "longitude": 106.20277
+    },
+    {
+      "id": 8403887,
+      "name": "Ou Reang Ov",
+      "nativeName": "Srŏk O Reăng Âu",
+      "code": "KH-25-8403887",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-25",
+      "latitude": 11.81278,
+      "longitude": 105.53875
+    },
+    {
+      "id": 8403888,
+      "name": "Ponhea Kraek",
+      "nativeName": "Srŏk Pônhê Krêk",
+      "code": "KH-25-8403888",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-25",
+      "latitude": 11.76001,
+      "longitude": 105.85994
+    },
+    {
+      "id": 1821789,
+      "name": "Tboung Khmum",
+      "nativeName": "Srŏk Tbong Khmŭm",
+      "code": "KH-25-1821789",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-25",
+      "latitude": 11.99978,
+      "longitude": 105.55926
+    }
+  ]
+}

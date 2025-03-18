@@ -1,0 +1,95 @@
+{
+  "stateId": 4563380,
+  "stateCode": "PR-037",
+  "countryCode": "PR",
+  "cities": [
+    {
+      "id": 7268054,
+      "name": "Ceiba Barrio-Pueblo",
+      "nativeName": "Ceiba Barrio-Pueblo",
+      "code": "PR-037-7268054",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-037",
+      "latitude": 18.26365,
+      "longitude": -65.64812
+    },
+    {
+      "id": 7268072,
+      "name": "Chupacallos Barrio",
+      "nativeName": "Chupacallos Barrio",
+      "code": "PR-037-7268072",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-037",
+      "latitude": 18.25648,
+      "longitude": -65.66751
+    },
+    {
+      "id": 7268141,
+      "name": "Daguao Barrio",
+      "nativeName": "Daguao Barrio",
+      "code": "PR-037-7268141",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-037",
+      "latitude": 18.24115,
+      "longitude": -65.68245
+    },
+    {
+      "id": 7268438,
+      "name": "Guayacán Barrio",
+      "nativeName": "Guayacán Barrio",
+      "code": "PR-037-7268438",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-037",
+      "latitude": 18.22124,
+      "longitude": -65.64561
+    },
+    {
+      "id": 7268583,
+      "name": "Machos Barrio",
+      "nativeName": "Machos Barrio",
+      "code": "PR-037-7268583",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-037",
+      "latitude": 18.25466,
+      "longitude": -65.61874
+    },
+    {
+      "id": 7268862,
+      "name": "Quebrada Seca Barrio",
+      "nativeName": "Quebrada Seca Barrio",
+      "code": "PR-037-7268862",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-037",
+      "latitude": 18.23202,
+      "longitude": -65.66455
+    },
+    {
+      "id": 7268884,
+      "name": "Río Abajo Barrio",
+      "nativeName": "Río Abajo Barrio",
+      "code": "PR-037-7268884",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-037",
+      "latitude": 18.27075,
+      "longitude": -65.72344
+    },
+    {
+      "id": 7268950,
+      "name": "Saco Barrio",
+      "nativeName": "Saco Barrio",
+      "code": "PR-037-7268950",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-037",
+      "latitude": 18.27341,
+      "longitude": -65.66603
+    }
+  ]
+}

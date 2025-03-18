@@ -1,0 +1,51 @@
+{
+  "stateId": 3575183,
+  "stateCode": "KN-02",
+  "countryCode": "KN",
+  "cities": [
+    {
+      "id": 3575156,
+      "name": "Sandy Point Town",
+      "nativeName": "Sandy Point Town",
+      "code": "KN-02-3575156",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-02",
+      "latitude": 17.35908,
+      "longitude": -62.84858
+    },
+    {
+      "id": 3575508,
+      "name": "Burts",
+      "nativeName": "Burts",
+      "code": "KN-02-3575508",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-02",
+      "latitude": 17.36667,
+      "longitude": -62.81667
+    },
+    {
+      "id": 3575452,
+      "name": "Craddocks",
+      "nativeName": "Craddocks",
+      "code": "KN-02-3575452",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-02",
+      "latitude": 17.14354,
+      "longitude": -62.62309
+    },
+    {
+      "id": 3575422,
+      "name": "Fig Tree",
+      "nativeName": "Fig Tree",
+      "code": "KN-02-3575422",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-02",
+      "latitude": 17.36735,
+      "longitude": -62.85755
+    }
+  ]
+}

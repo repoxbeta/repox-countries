@@ -1,0 +1,29 @@
+{
+  "stateId": 611716,
+  "stateCode": "GE-TB",
+  "countryCode": "GE",
+  "cities": [
+    {
+      "id": 614519,
+      "name": "Gldanskiy Rayon",
+      "nativeName": "Gldanskiy Rayon",
+      "code": "GE-TB-614519",
+      "countryId": 614540,
+      "countryCode": "GE",
+      "stateCode": "GE-TB",
+      "latitude": 41.79775,
+      "longitude": 44.79918
+    },
+    {
+      "id": 13132123,
+      "name": "Samgori Raioni",
+      "nativeName": "Samgori District",
+      "code": "GE-TB-13132123",
+      "countryId": 614540,
+      "countryCode": "GE",
+      "stateCode": "GE-TB",
+      "latitude": 41.70368,
+      "longitude": 44.91433
+    }
+  ]
+}

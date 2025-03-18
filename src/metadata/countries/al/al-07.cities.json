@@ -1,0 +1,40 @@
+{
+  "stateId": 865735,
+  "stateCode": "AL-07",
+  "countryCode": "AL",
+  "cities": [
+    {
+      "id": 10944406,
+      "name": "Bashkia Has",
+      "nativeName": "Bashkia Has",
+      "code": "AL-07-10944406",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-07",
+      "latitude": 42.19897,
+      "longitude": 20.37234
+    },
+    {
+      "id": 10944407,
+      "name": "Bashkia Kukës",
+      "nativeName": "Bashkia Kukës",
+      "code": "AL-07-10944407",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-07",
+      "latitude": 41.98221,
+      "longitude": 20.41643
+    },
+    {
+      "id": 10944408,
+      "name": "Bashkia Tropojë",
+      "nativeName": "Bashkia Tropojë",
+      "code": "AL-07-10944408",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-07",
+      "latitude": 42.36063,
+      "longitude": 20.0674
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "stateId": 11281886,
+  "stateCode": "MA-12",
+  "countryCode": "MA",
+  "cities": [
+    {
+      "id": 6547297,
+      "name": "Aousserd Province",
+      "nativeName": "Aousserd",
+      "code": "MA-12-6547297",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-12",
+      "latitude": 21.91977,
+      "longitude": -15.02068
+    },
+    {
+      "id": 6547298,
+      "name": "Oued-Ed-Dahab",
+      "nativeName": "Oued-Ed-Dahab",
+      "code": "MA-12-6547298",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-12",
+      "latitude": 23.64201,
+      "longitude": -14.44934
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "stateId": 1559970,
+  "stateCode": "VN-18",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 1905216,
+      "name": "Gia Viễn District",
+      "nativeName": "Huyện Gia Viễn",
+      "code": "VN-18-1905216",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-18",
+      "latitude": 20.34677,
+      "longitude": 105.86437
+    },
+    {
+      "id": 1905215,
+      "name": "Hoa Lư District",
+      "nativeName": "Huyện Hoa Lư",
+      "code": "VN-18-1905215",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-18",
+      "latitude": 20.25391,
+      "longitude": 105.90789
+    },
+    {
+      "id": 1905211,
+      "name": "Kim Sơn District",
+      "nativeName": "Huyện Kim Sơn",
+      "code": "VN-18-1905211",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-18",
+      "latitude": 20.06034,
+      "longitude": 106.09863
+    },
+    {
+      "id": 1905217,
+      "name": "Nho Quan District",
+      "nativeName": "Huyện Nho Quan",
+      "code": "VN-18-1905217",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-18",
+      "latitude": 20.27606,
+      "longitude": 105.75442
+    },
+    {
+      "id": 1905210,
+      "name": "Thành Phố Ninh Bình",
+      "nativeName": "Thành Phố Ninh Bình",
+      "code": "VN-18-1905210",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-18",
+      "latitude": 20.2474,
+      "longitude": 105.97188
+    },
+    {
+      "id": 1905214,
+      "name": "Thị Xã Tam Điệp",
+      "nativeName": "Thị Xã Tam Điệp",
+      "code": "VN-18-1905214",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-18",
+      "latitude": 20.15696,
+      "longitude": 105.89503
+    },
+    {
+      "id": 1905213,
+      "name": "Yên Khánh District",
+      "nativeName": "Huyện Yên Khánh",
+      "code": "VN-18-1905213",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-18",
+      "latitude": 20.19017,
+      "longitude": 106.09605
+    },
+    {
+      "id": 1905212,
+      "name": "Yên Mô District",
+      "nativeName": "Huyện Yên Mô",
+      "code": "VN-18-1905212",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-18",
+      "latitude": 20.12984,
+      "longitude": 106.00199
+    }
+  ]
+}

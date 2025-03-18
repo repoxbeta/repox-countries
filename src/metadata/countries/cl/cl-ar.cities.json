@@ -1,0 +1,29 @@
+{
+  "stateId": 3899463,
+  "stateCode": "CL-AR",
+  "countryCode": "CL",
+  "cities": [
+    {
+      "id": 3896095,
+      "name": "Provincia de Cautín",
+      "nativeName": "Provincia de Cautín",
+      "code": "CL-AR-3896095",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-AR",
+      "latitude": -38.94719,
+      "longitude": -72.36198
+    },
+    {
+      "id": 3880842,
+      "name": "Provincia de Malleco",
+      "nativeName": "Provincia de Malleco",
+      "code": "CL-AR-3880842",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-AR",
+      "latitude": -38.23591,
+      "longitude": -72.13034
+    }
+  ]
+}

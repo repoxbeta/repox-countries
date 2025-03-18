@@ -1,0 +1,29 @@
+{
+  "stateId": 443120,
+  "stateCode": "JO-AJ",
+  "countryCode": "JO",
+  "cities": [
+    {
+      "id": 8621632,
+      "name": "Liwā’ Kufrinjah",
+      "nativeName": "Liwā’ Kufrinjah",
+      "code": "JO-AJ-8621632",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "stateCode": "JO-AJ",
+      "latitude": 32.2496,
+      "longitude": 35.67658
+    },
+    {
+      "id": 8621631,
+      "name": "Liwā’ Qaşabat ‘Ajlūn",
+      "nativeName": "Liwā’ Qaşabat ‘Ajlūn",
+      "code": "JO-AJ-8621631",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "stateCode": "JO-AJ",
+      "latitude": 32.34461,
+      "longitude": 35.75327
+    }
+  ]
+}

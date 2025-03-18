@@ -1,0 +1,249 @@
+{
+  "stateId": 1024312,
+  "stateCode": "MZ-Q",
+  "countryCode": "MZ",
+  "cities": [
+    {
+      "id": 1053142,
+      "name": "Alto Molocue District",
+      "nativeName": "Alto Molócuè",
+      "code": "MZ-Q-1053142",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-Q",
+      "latitude": -15.64932,
+      "longitude": 37.66384
+    },
+    {
+      "id": 1049181,
+      "name": "Chinde District",
+      "nativeName": "Concelho do Chinde",
+      "code": "MZ-Q-1049181",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-Q",
+      "latitude": -18.39491,
+      "longitude": 36.32268
+    },
+    {
+      "id": 1045351,
+      "name": "Circunscrição do Ile",
+      "nativeName": "Circunscrição do Ile",
+      "code": "MZ-Q-1045351",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-Q",
+      "latitude": -16.18038,
+      "longitude": 37.46609
+    },
+    {
+      "id": 1028433,
+      "name": "Concelho de Quelimane",
+      "nativeName": "Concelho de Quelimane",
+      "code": "MZ-Q-1028433",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-Q",
+      "latitude": -17.8607,
+      "longitude": 36.91544
+    },
+    {
+      "id": 10701344,
+      "name": "Derre District",
+      "nativeName": "Distrito de Derre",
+      "code": "MZ-Q-10701344",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-Q",
+      "latitude": -17.05967,
+      "longitude": 36.12696
+    },
+    {
+      "id": 7874708,
+      "name": "Gilé District",
+      "nativeName": "Gilé District",
+      "code": "MZ-Q-7874708",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-Q",
+      "latitude": -16.14411,
+      "longitude": 38.36752
+    },
+    {
+      "id": 7873991,
+      "name": "Gurue District",
+      "nativeName": "Gurue District",
+      "code": "MZ-Q-7873991",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-Q",
+      "latitude": -15.46358,
+      "longitude": 36.98167
+    },
+    {
+      "id": 7909704,
+      "name": "Inhassunge District",
+      "nativeName": "Inhassunge District",
+      "code": "MZ-Q-7909704",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-Q",
+      "latitude": -18.03306,
+      "longitude": 36.82363
+    },
+    {
+      "id": 10703116,
+      "name": "Luabo District",
+      "nativeName": "Distrito de Luabo",
+      "code": "MZ-Q-10703116",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-Q",
+      "latitude": -18.30805,
+      "longitude": 36.12385
+    },
+    {
+      "id": 7874710,
+      "name": "Lugela District",
+      "nativeName": "Lugela District",
+      "code": "MZ-Q-7874710",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-Q",
+      "latitude": -16.41699,
+      "longitude": 36.72558
+    },
+    {
+      "id": 7874711,
+      "name": "Maganja da Costa District",
+      "nativeName": "Maganja da Costa District",
+      "code": "MZ-Q-7874711",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-Q",
+      "latitude": -17.30729,
+      "longitude": 37.50535
+    },
+    {
+      "id": 7874712,
+      "name": "Milange District",
+      "nativeName": "Milange District",
+      "code": "MZ-Q-7874712",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-Q",
+      "latitude": -16.09992,
+      "longitude": 35.77578
+    },
+    {
+      "id": 7880951,
+      "name": "Mocuba District",
+      "nativeName": "Mocuba District",
+      "code": "MZ-Q-7880951",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-Q",
+      "latitude": -16.83683,
+      "longitude": 36.9871
+    },
+    {
+      "id": 10701343,
+      "name": "Mocubela District",
+      "nativeName": "Distrito de Mocubela",
+      "code": "MZ-Q-10701343",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-Q",
+      "latitude": -16.874,
+      "longitude": 37.69024
+    },
+    {
+      "id": 10702916,
+      "name": "Molumbo Dsitrict",
+      "nativeName": "Distrito de Molumbo",
+      "code": "MZ-Q-10702916",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-Q",
+      "latitude": -15.66479,
+      "longitude": 36.17695
+    },
+    {
+      "id": 11189152,
+      "name": "Mopeia District",
+      "nativeName": "Mopeia District",
+      "code": "MZ-Q-11189152",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-Q",
+      "latitude": -17.98,
+      "longitude": 35.715
+    },
+    {
+      "id": 7873993,
+      "name": "Morrumbala District",
+      "nativeName": "Morrumbala District",
+      "code": "MZ-Q-7873993",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-Q",
+      "latitude": -17.329,
+      "longitude": 35.591
+    },
+    {
+      "id": 10701342,
+      "name": "Mulevala District",
+      "nativeName": "Distrito de Mulevala",
+      "code": "MZ-Q-10701342",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-Q",
+      "latitude": -16.36994,
+      "longitude": 37.61927
+    },
+    {
+      "id": 8714615,
+      "name": "Namacurra District",
+      "nativeName": "Namacurra District",
+      "code": "MZ-Q-8714615",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-Q",
+      "latitude": -17.49137,
+      "longitude": 37.02607
+    },
+    {
+      "id": 7874724,
+      "name": "Namarroi District",
+      "nativeName": "Namarroi District",
+      "code": "MZ-Q-7874724",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-Q",
+      "latitude": -15.95275,
+      "longitude": 36.87063
+    },
+    {
+      "id": 7873988,
+      "name": "Nicodala District",
+      "nativeName": "Nicodala District",
+      "code": "MZ-Q-7873988",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-Q",
+      "latitude": -17.603,
+      "longitude": 36.81399
+    },
+    {
+      "id": 7874726,
+      "name": "Pebane District",
+      "nativeName": "Pebane District",
+      "code": "MZ-Q-7874726",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-Q",
+      "latitude": -17.26378,
+      "longitude": 38.13698
+    }
+  ]
+}

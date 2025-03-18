@@ -1,0 +1,95 @@
+{
+  "stateId": 3564120,
+  "stateCode": "CU-06",
+  "countryCode": "CU",
+  "cities": [
+    {
+      "id": 11288191,
+      "name": "Cumanayagua",
+      "nativeName": "Cumanayagua",
+      "code": "CU-06-11288191",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "stateCode": "CU-06",
+      "latitude": 22.14979,
+      "longitude": -80.19908
+    },
+    {
+      "id": 3569740,
+      "name": "Municipio de Abreus",
+      "nativeName": "Municipio de Abreus",
+      "code": "CU-06-3569740",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "stateCode": "CU-06",
+      "latitude": 22.19229,
+      "longitude": -80.71465
+    },
+    {
+      "id": 3569544,
+      "name": "Municipio de Aguada de Pasajeros",
+      "nativeName": "Municipio de Aguada de Pasajeros",
+      "code": "CU-06-3569544",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "stateCode": "CU-06",
+      "latitude": 22.39698,
+      "longitude": -80.84702
+    },
+    {
+      "id": 3564121,
+      "name": "Municipio de Cienfuegos",
+      "nativeName": "Municipio de Cienfuegos",
+      "code": "CU-06-3564121",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "stateCode": "CU-06",
+      "latitude": 22.15,
+      "longitude": -80.45
+    },
+    {
+      "id": 3563143,
+      "name": "Municipio de Cruces",
+      "nativeName": "Municipio de Cruces",
+      "code": "CU-06-3563143",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "stateCode": "CU-06",
+      "latitude": 22.23881,
+      "longitude": -80.21248
+    },
+    {
+      "id": 3545037,
+      "name": "Municipio de Palmira",
+      "nativeName": "Municipio de Palmira",
+      "code": "CU-06-3545037",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "stateCode": "CU-06",
+      "latitude": 22.2821,
+      "longitude": -80.44067
+    },
+    {
+      "id": 3541997,
+      "name": "Municipio de Rodas",
+      "nativeName": "Municipio de Rodas",
+      "code": "CU-06-3541997",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "stateCode": "CU-06",
+      "latitude": 22.36362,
+      "longitude": -80.56521
+    },
+    {
+      "id": 3537524,
+      "name": "Municipio de Santa Isabel de las Lajas",
+      "nativeName": "Municipio de Santa Isabel de las Lajas",
+      "code": "CU-06-3537524",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "stateCode": "CU-06",
+      "latitude": 22.41667,
+      "longitude": -80.3
+    }
+  ]
+}

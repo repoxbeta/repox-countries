@@ -1,0 +1,149 @@
+{
+  "countryId": 3017382,
+  "countryCode": "FR",
+  "states": [
+    {
+      "id": 11071625,
+      "name": "Auvergne-Rhône-Alpes",
+      "nativeName": "Auvergne-Rhône-Alpes",
+      "code": "FR-ARA",
+      "internalCode": "ARA",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "latitude": 45.482,
+      "longitude": 5.37437
+    },
+    {
+      "id": 11071619,
+      "name": "Bourgogne-Franche-Comté",
+      "nativeName": "Bourgogne-Franche-Comté",
+      "code": "FR-BFC",
+      "internalCode": "BFC",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "latitude": 47.06981,
+      "longitude": 5.04822
+    },
+    {
+      "id": 3030293,
+      "name": "Brittany",
+      "nativeName": "Bretagne",
+      "code": "FR-BRE",
+      "internalCode": "BRE",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "latitude": 48.16667,
+      "longitude": -2.83333
+    },
+    {
+      "id": 3027939,
+      "name": "Centre-Val de Loire",
+      "nativeName": "Centre-Val de Loire",
+      "code": "FR-CVL",
+      "internalCode": "CVL",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "latitude": 47.5,
+      "longitude": 1.75
+    },
+    {
+      "id": 3023519,
+      "name": "Corsica",
+      "nativeName": "Corse",
+      "code": "FR-20R",
+      "internalCode": "20R",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "latitude": 42.06153,
+      "longitude": 8.9542
+    },
+    {
+      "id": 11071622,
+      "name": "Grand Est",
+      "nativeName": "Grand Est",
+      "code": "FR-GES",
+      "internalCode": "GES",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "latitude": 48.69821,
+      "longitude": 5.8667
+    },
+    {
+      "id": 11071624,
+      "name": "Hauts-de-France",
+      "nativeName": "Hauts-de-France",
+      "code": "FR-HDF",
+      "internalCode": "HDF",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "latitude": 49.61232,
+      "longitude": 2.65594
+    },
+    {
+      "id": 11071621,
+      "name": "Normandy",
+      "nativeName": "Normandie",
+      "code": "FR-NOR",
+      "internalCode": "NOR",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "latitude": 49.19906,
+      "longitude": 0.49988
+    },
+    {
+      "id": 11071620,
+      "name": "Nouvelle-Aquitaine",
+      "nativeName": "Nouvelle-Aquitaine",
+      "code": "FR-NAQ",
+      "internalCode": "NAQ",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "latitude": 46.09165,
+      "longitude": 1.26892
+    },
+    {
+      "id": 11071623,
+      "name": "Occitanie",
+      "nativeName": "Occitanie",
+      "code": "FR-OCC",
+      "internalCode": "OCC",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "latitude": 44.02722,
+      "longitude": 1.63559
+    },
+    {
+      "id": 2988289,
+      "name": "Pays de la Loire",
+      "nativeName": "Pays de la Loire",
+      "code": "FR-PDL",
+      "internalCode": "PDL",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "latitude": 47.5,
+      "longitude": -0.83333
+    },
+    {
+      "id": 2985244,
+      "name": "Provence",
+      "nativeName": "Provence-Alpes-Côte d'Azur",
+      "code": "FR-PAC",
+      "internalCode": "PAC",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "latitude": 43.91667,
+      "longitude": 6.08333
+    },
+    {
+      "id": 3012874,
+      "name": "Île-de-France",
+      "nativeName": "Île-de-France",
+      "code": "FR-IDF",
+      "internalCode": "IDF",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "latitude": 48.7,
+      "longitude": 2.5
+    }
+  ]
+}

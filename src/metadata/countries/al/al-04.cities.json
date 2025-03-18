@@ -1,0 +1,73 @@
+{
+  "stateId": 3344948,
+  "stateCode": "AL-04",
+  "countryCode": "AL",
+  "cities": [
+    {
+      "id": 10944387,
+      "name": "Bashkia Divjakë",
+      "nativeName": "Bashkia Divjakë",
+      "code": "AL-04-10944387",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-04",
+      "latitude": 40.95716,
+      "longitude": 19.52364
+    },
+    {
+      "id": 10944388,
+      "name": "Bashkia Fier",
+      "nativeName": "Bashkia Fier",
+      "code": "AL-04-10944388",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-04",
+      "latitude": 40.72937,
+      "longitude": 19.4869
+    },
+    {
+      "id": 10944389,
+      "name": "Bashkia Lushnje",
+      "nativeName": "Bashkia Lushnje",
+      "code": "AL-04-10944389",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-04",
+      "latitude": 40.90939,
+      "longitude": 19.71469
+    },
+    {
+      "id": 10944390,
+      "name": "Bashkia Mallakastër",
+      "nativeName": "Bashkia Mallakastër",
+      "code": "AL-04-10944390",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-04",
+      "latitude": 40.55669,
+      "longitude": 19.77347
+    },
+    {
+      "id": 10944391,
+      "name": "Bashkia Patos",
+      "nativeName": "Bashkia Patos",
+      "code": "AL-04-10944391",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-04",
+      "latitude": 40.67793,
+      "longitude": 19.65591
+    },
+    {
+      "id": 10944392,
+      "name": "Bashkia Roskovec",
+      "nativeName": "Bashkia Roskovec",
+      "code": "AL-04-10944392",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-04",
+      "latitude": 40.72202,
+      "longitude": 19.72204
+    }
+  ]
+}

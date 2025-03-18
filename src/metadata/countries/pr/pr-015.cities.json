@@ -1,0 +1,73 @@
+{
+  "stateId": 4562682,
+  "stateCode": "PR-015",
+  "countryCode": "PR",
+  "cities": [
+    {
+      "id": 7268197,
+      "name": "Ancones Barrio",
+      "nativeName": "Ancones Barrio",
+      "code": "PR-015-7268197",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-015",
+      "latitude": 17.99446,
+      "longitude": -66.04344
+    },
+    {
+      "id": 7268213,
+      "name": "Arroyo Barrio-Pueblo",
+      "nativeName": "Arroyo Barrio-Pueblo",
+      "code": "PR-015-7268213",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-015",
+      "latitude": 17.96323,
+      "longitude": -66.0626
+    },
+    {
+      "id": 7268430,
+      "name": "Guásimas Barrio",
+      "nativeName": "Guásimas Barrio",
+      "code": "PR-015-7268430",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-015",
+      "latitude": 17.97639,
+      "longitude": -66.06665
+    },
+    {
+      "id": 7268722,
+      "name": "Palmas Barrio",
+      "nativeName": "Palmas Barrio",
+      "code": "PR-015-7268722",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-015",
+      "latitude": 17.9711,
+      "longitude": -66.04154
+    },
+    {
+      "id": 7268762,
+      "name": "Pitahaya Barrio",
+      "nativeName": "Pitahaya Barrio",
+      "code": "PR-015-7268762",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-015",
+      "latitude": 18.00056,
+      "longitude": -66.0658
+    },
+    {
+      "id": 7269088,
+      "name": "Yaurel Barrio",
+      "nativeName": "Yaurel Barrio",
+      "code": "PR-015-7269088",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-015",
+      "latitude": 18.02432,
+      "longitude": -66.06471
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "stateId": 8299700,
+  "stateCode": "MT-01",
+  "countryCode": "MT",
+  "cities": [
+    {
+      "id": 2563232,
+      "name": "Attard",
+      "nativeName": "Attard",
+      "code": "MT-01-2563232",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-01",
+      "latitude": 35.88972,
+      "longitude": 14.4425
+    },
+    {
+      "id": 2562362,
+      "name": "Ta’ Qali",
+      "nativeName": "Ta’ Qali",
+      "code": "MT-01-2562362",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-01",
+      "latitude": 35.89417,
+      "longitude": 14.42722
+    }
+  ]
+}

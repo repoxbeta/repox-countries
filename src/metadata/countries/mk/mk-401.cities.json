@@ -1,0 +1,51 @@
+{
+  "stateId": 862950,
+  "stateCode": "MK-401",
+  "countryCode": "MK",
+  "cities": [
+    {
+      "id": 792523,
+      "name": "Bogdanci",
+      "nativeName": "Bogdanci",
+      "code": "MK-401-792523",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-401",
+      "latitude": 41.20306,
+      "longitude": 22.57556
+    },
+    {
+      "id": 786002,
+      "name": "Selemli",
+      "nativeName": "Selemli",
+      "code": "MK-401-786002",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-401",
+      "latitude": 41.15028,
+      "longitude": 22.61722
+    },
+    {
+      "id": 785466,
+      "name": "Stojakovo",
+      "nativeName": "Stojakovo",
+      "code": "MK-401-785466",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-401",
+      "latitude": 41.15556,
+      "longitude": 22.5775
+    },
+    {
+      "id": 791615,
+      "name": "Ǵavato",
+      "nativeName": "Ǵavato",
+      "code": "MK-401-791615",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-401",
+      "latitude": 41.19387,
+      "longitude": 22.53561
+    }
+  ]
+}

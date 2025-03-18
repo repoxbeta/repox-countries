@@ -1,0 +1,73 @@
+{
+  "stateId": 7648907,
+  "stateCode": "IR-30",
+  "countryCode": "IR",
+  "cities": [
+    {
+      "id": 11963420,
+      "name": "Fardis County",
+      "nativeName": "Fardis",
+      "code": "IR-30-11963420",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-30",
+      "latitude": 35.72318,
+      "longitude": 50.97865
+    },
+    {
+      "id": 449514,
+      "name": "Karaj",
+      "nativeName": "Karaj",
+      "code": "IR-30-449514",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-30",
+      "latitude": 35.965,
+      "longitude": 51.095
+    },
+    {
+      "id": 9513961,
+      "name": "Shahrestān-e Eshtehārd",
+      "nativeName": "Shahrestān-e Eshtehārd",
+      "code": "IR-30-9513961",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-30",
+      "latitude": 35.72889,
+      "longitude": 50.45889
+    },
+    {
+      "id": 449515,
+      "name": "Shahrestān-e Naz̧arābād",
+      "nativeName": "Shahrestān-e Naz̧arābād",
+      "code": "IR-30-449515",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-30",
+      "latitude": 35.90444,
+      "longitude": 50.52
+    },
+    {
+      "id": 449510,
+      "name": "Shahrestān-e Sāvojbolāgh",
+      "nativeName": "Shahrestān-e Sāvojbolāgh",
+      "code": "IR-30-449510",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-30",
+      "latitude": 35.97778,
+      "longitude": 50.81111
+    },
+    {
+      "id": 9513960,
+      "name": "Shahrestān-e Ţāleqān",
+      "nativeName": "Shahrestān-e Ţāleqān",
+      "code": "IR-30-9513960",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-30",
+      "latitude": 36.21111,
+      "longitude": 50.80889
+    }
+  ]
+}

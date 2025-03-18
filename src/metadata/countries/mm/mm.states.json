@@ -1,0 +1,171 @@
+{
+  "countryId": 1327865,
+  "countryCode": "MM",
+  "states": [
+    {
+      "id": 1321850,
+      "name": "Ayeyarwady Region",
+      "nativeName": "Ayeyarwady Region",
+      "code": "MM-07",
+      "internalCode": "07",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "latitude": 17,
+      "longitude": 95
+    },
+    {
+      "id": 1300463,
+      "name": "Bago Region",
+      "nativeName": "Bago Region",
+      "code": "MM-02",
+      "internalCode": "02",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "latitude": 18.25,
+      "longitude": 96.25
+    },
+    {
+      "id": 1327132,
+      "name": "Chin State",
+      "nativeName": "Chin State",
+      "code": "MM-14",
+      "internalCode": "14",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "latitude": 22,
+      "longitude": 93.5
+    },
+    {
+      "id": 1321702,
+      "name": "Kachin State",
+      "nativeName": "Kachin State",
+      "code": "MM-11",
+      "internalCode": "11",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "latitude": 26,
+      "longitude": 97.5
+    },
+    {
+      "id": 1319539,
+      "name": "Kayah State",
+      "nativeName": "Kayah State",
+      "code": "MM-12",
+      "internalCode": "12",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "latitude": 19.25,
+      "longitude": 97.5
+    },
+    {
+      "id": 1320233,
+      "name": "Kayin State",
+      "nativeName": "Kayin State",
+      "code": "MM-13",
+      "internalCode": "13",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "latitude": 17.5,
+      "longitude": 97.75
+    },
+    {
+      "id": 1312604,
+      "name": "Magway Region",
+      "nativeName": "Magway Region",
+      "code": "MM-03",
+      "internalCode": "03",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "latitude": 20.5,
+      "longitude": 94.75
+    },
+    {
+      "id": 1311871,
+      "name": "Mandalay Region",
+      "nativeName": "Mandalay Region",
+      "code": "MM-04",
+      "internalCode": "04",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "latitude": 21,
+      "longitude": 96
+    },
+    {
+      "id": 1308528,
+      "name": "Mon State",
+      "nativeName": "Mon State",
+      "code": "MM-15",
+      "internalCode": "15",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "latitude": 16.25,
+      "longitude": 97.75
+    },
+    {
+      "id": 8239588,
+      "name": "Nay Pyi Taw",
+      "nativeName": "Nay Pyi Taw",
+      "code": "MM-18",
+      "internalCode": "18",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "latitude": 19.8822,
+      "longitude": 96.14182
+    },
+    {
+      "id": 1298852,
+      "name": "Rakhine State",
+      "nativeName": "Rakhine State",
+      "code": "MM-16",
+      "internalCode": "16",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "latitude": 19,
+      "longitude": 94.25
+    },
+    {
+      "id": 1298480,
+      "name": "Sagaing Region",
+      "nativeName": "Sagaing Region",
+      "code": "MM-01",
+      "internalCode": "01",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "latitude": 23.5,
+      "longitude": 95.5
+    },
+    {
+      "id": 1297099,
+      "name": "Shan State",
+      "nativeName": "Shan State",
+      "code": "MM-17",
+      "internalCode": "17",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "latitude": 22,
+      "longitude": 98
+    },
+    {
+      "id": 1293118,
+      "name": "Tanintharyi Region",
+      "nativeName": "Tanintharyi Region",
+      "code": "MM-05",
+      "internalCode": "05",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "latitude": 13,
+      "longitude": 99
+    },
+    {
+      "id": 1298822,
+      "name": "Yangon",
+      "nativeName": "Yangon Region",
+      "code": "MM-06",
+      "internalCode": "06",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "latitude": 17,
+      "longitude": 96.16667
+    }
+  ]
+}

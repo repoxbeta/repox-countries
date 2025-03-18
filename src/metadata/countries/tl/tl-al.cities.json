@@ -1,0 +1,51 @@
+{
+  "stateId": 1651815,
+  "stateCode": "TL-AL",
+  "countryCode": "TL",
+  "cities": [
+    {
+      "id": 7910186,
+      "name": "Aileu Villa",
+      "nativeName": "Aileu Villa",
+      "code": "TL-AL-7910186",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-AL",
+      "latitude": -8.74472,
+      "longitude": 125.55686
+    },
+    {
+      "id": 7910184,
+      "name": "Laulara",
+      "nativeName": "Laulara",
+      "code": "TL-AL-7910184",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-AL",
+      "latitude": -8.62306,
+      "longitude": 125.58205
+    },
+    {
+      "id": 8617903,
+      "name": "Lequidoe",
+      "nativeName": "Lequidoe",
+      "code": "TL-AL-8617903",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-AL",
+      "latitude": -8.69139,
+      "longitude": 125.63611
+    },
+    {
+      "id": 8617904,
+      "name": "Remexio",
+      "nativeName": "Remexio",
+      "code": "TL-AL-8617904",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-AL",
+      "latitude": -8.61667,
+      "longitude": 125.66667
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "stateId": 432455,
+  "stateCode": "BI-KI",
+  "countryCode": "BI",
+  "cities": [
+    {
+      "id": 9171827,
+      "name": "Bugabira",
+      "nativeName": "Bugabira",
+      "code": "BI-KI-9171827",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-KI",
+      "latitude": -2.42966,
+      "longitude": 30.01979
+    },
+    {
+      "id": 7670591,
+      "name": "Busoni",
+      "nativeName": "Busoni",
+      "code": "BI-KI-7670591",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-KI",
+      "latitude": -2.46876,
+      "longitude": 30.25406
+    },
+    {
+      "id": 9072890,
+      "name": "Commune of Bwambarangwe",
+      "nativeName": "Commune of Bwambarangwe",
+      "code": "BI-KI-9072890",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-KI",
+      "latitude": -2.5525,
+      "longitude": 30.34083
+    },
+    {
+      "id": 9072886,
+      "name": "Commune of Kirundo",
+      "nativeName": "Commune of Kirundo",
+      "code": "BI-KI-9072886",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-KI",
+      "latitude": -2.58472,
+      "longitude": 30.09722
+    },
+    {
+      "id": 9171886,
+      "name": "Gitobe",
+      "nativeName": "Gitobe",
+      "code": "BI-KI-9171886",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-KI",
+      "latitude": -2.64207,
+      "longitude": 30.22952
+    },
+    {
+      "id": 9171870,
+      "name": "Ntega",
+      "nativeName": "Ntega",
+      "code": "BI-KI-9171870",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-KI",
+      "latitude": -2.59047,
+      "longitude": 29.99156
+    },
+    {
+      "id": 7670618,
+      "name": "Vumbi",
+      "nativeName": "Vumbi",
+      "code": "BI-KI-7670618",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-KI",
+      "latitude": -2.68472,
+      "longitude": 30.10198
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "countryId": 3577815,
+  "countryCode": "VC",
+  "states": [
+    {
+      "id": 3577934,
+      "name": "Charlotte Parish",
+      "nativeName": "Parish of Charlotte",
+      "code": "VC-01",
+      "internalCode": "01",
+      "countryId": 3577815,
+      "countryCode": "VC",
+      "latitude": 13.25064,
+      "longitude": -61.15196
+    },
+    {
+      "id": 3577892,
+      "name": "Grenadines Parish",
+      "nativeName": "Grenadines",
+      "code": "VC-06",
+      "internalCode": "06",
+      "countryId": 3577815,
+      "countryCode": "VC",
+      "latitude": 12.8781,
+      "longitude": -61.18283
+    },
+    {
+      "id": 3577822,
+      "name": "Saint Andrew Parish",
+      "nativeName": "Parish of Saint Andrew",
+      "code": "VC-02",
+      "internalCode": "02",
+      "countryId": 3577815,
+      "countryCode": "VC",
+      "latitude": 13.20393,
+      "longitude": -61.23015
+    },
+    {
+      "id": 3577821,
+      "name": "Saint David Parish",
+      "nativeName": "Parish of Saint David",
+      "code": "VC-03",
+      "internalCode": "03",
+      "countryId": 3577815,
+      "countryCode": "VC",
+      "latitude": 13.3,
+      "longitude": -61.2
+    },
+    {
+      "id": 3577819,
+      "name": "Saint George Parish",
+      "nativeName": "Parish of Saint George",
+      "code": "VC-04",
+      "internalCode": "04",
+      "countryId": 3577815,
+      "countryCode": "VC",
+      "latitude": 13.16524,
+      "longitude": -61.19282
+    },
+    {
+      "id": 3577818,
+      "name": "Saint Patrick Parish",
+      "nativeName": "Parish of Saint Patrick",
+      "code": "VC-05",
+      "internalCode": "05",
+      "countryId": 3577815,
+      "countryCode": "VC",
+      "latitude": 13.2399,
+      "longitude": -61.23449
+    }
+  ]
+}

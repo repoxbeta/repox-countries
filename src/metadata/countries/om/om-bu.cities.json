@@ -1,0 +1,40 @@
+{
+  "stateId": 7110710,
+  "stateCode": "OM-BU",
+  "countryCode": "OM",
+  "cities": [
+    {
+      "id": 12215950,
+      "name": "Al Buraymī",
+      "nativeName": "Al Buraymī",
+      "code": "OM-BU-12215950",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-BU",
+      "latitude": 24.257,
+      "longitude": 55.86
+    },
+    {
+      "id": 12215952,
+      "name": "As Sunaynah",
+      "nativeName": "As Sunaynah",
+      "code": "OM-BU-12215952",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-BU",
+      "latitude": 23.703,
+      "longitude": 55.787
+    },
+    {
+      "id": 12215951,
+      "name": "Maḩḑah",
+      "nativeName": "Maḩḑah",
+      "code": "OM-BU-12215951",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-BU",
+      "latitude": 24.486,
+      "longitude": 56.007
+    }
+  ]
+}

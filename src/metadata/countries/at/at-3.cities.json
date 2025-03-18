@@ -1,0 +1,271 @@
+{
+  "stateId": 2770542,
+  "stateCode": "AT-3",
+  "countryCode": "AT",
+  "cities": [
+    {
+      "id": 2773547,
+      "name": "Krems an der Donau",
+      "nativeName": "Krems an der Donau",
+      "code": "AT-3-2773547",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-3",
+      "latitude": 48.4104,
+      "longitude": 15.60574
+    },
+    {
+      "id": 2771556,
+      "name": "Mistelbach District",
+      "nativeName": "Politischer Bezirk Mistelbach",
+      "code": "AT-3-2771556",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-3",
+      "latitude": 48.59436,
+      "longitude": 16.5473
+    },
+    {
+      "id": 2782554,
+      "name": "Politischer Bezirk Amstetten",
+      "nativeName": "Politischer Bezirk Amstetten",
+      "code": "AT-3-2782554",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-3",
+      "latitude": 48,
+      "longitude": 14.76667
+    },
+    {
+      "id": 2782066,
+      "name": "Politischer Bezirk Baden",
+      "nativeName": "Politischer Bezirk Baden",
+      "code": "AT-3-2782066",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-3",
+      "latitude": 47.97729,
+      "longitude": 16.19845
+    },
+    {
+      "id": 2781372,
+      "name": "Politischer Bezirk Bruck an der Leitha",
+      "nativeName": "Politischer Bezirk Bruck an der Leitha",
+      "code": "AT-3-2781372",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-3",
+      "latitude": 48.06781,
+      "longitude": 16.77284
+    },
+    {
+      "id": 2778438,
+      "name": "Politischer Bezirk Gmünd",
+      "nativeName": "Politischer Bezirk Gmünd",
+      "code": "AT-3-2778438",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-3",
+      "latitude": 48.74732,
+      "longitude": 14.98166
+    },
+    {
+      "id": 2778876,
+      "name": "Politischer Bezirk Gänserndorf",
+      "nativeName": "Politischer Bezirk Gänserndorf",
+      "code": "AT-3-2778876",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-3",
+      "latitude": 48.3934,
+      "longitude": 16.73892
+    },
+    {
+      "id": 2775635,
+      "name": "Politischer Bezirk Hollabrunn",
+      "nativeName": "Politischer Bezirk Hollabrunn",
+      "code": "AT-3-2775635",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-3",
+      "latitude": 48.65286,
+      "longitude": 15.99701
+    },
+    {
+      "id": 2775515,
+      "name": "Politischer Bezirk Horn",
+      "nativeName": "Politischer Bezirk Horn",
+      "code": "AT-3-2775515",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-3",
+      "latitude": 48.71341,
+      "longitude": 15.68712
+    },
+    {
+      "id": 2773697,
+      "name": "Politischer Bezirk Korneuburg",
+      "nativeName": "Politischer Bezirk Korneuburg",
+      "code": "AT-3-2773697",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-3",
+      "latitude": 48.44343,
+      "longitude": 16.2412
+    },
+    {
+      "id": 2773548,
+      "name": "Politischer Bezirk Krems",
+      "nativeName": "Politischer Bezirk Krems",
+      "code": "AT-3-2773548",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-3",
+      "latitude": 48.46582,
+      "longitude": 15.52093
+    },
+    {
+      "id": 2772469,
+      "name": "Politischer Bezirk Lilienfeld",
+      "nativeName": "Politischer Bezirk Lilienfeld",
+      "code": "AT-3-2772469",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-3",
+      "latitude": 47.91667,
+      "longitude": 15.6
+    },
+    {
+      "id": 2771680,
+      "name": "Politischer Bezirk Melk",
+      "nativeName": "Politischer Bezirk Melk",
+      "code": "AT-3-2771680",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-3",
+      "latitude": 48.21314,
+      "longitude": 15.24282
+    },
+    {
+      "id": 2771333,
+      "name": "Politischer Bezirk Mödling",
+      "nativeName": "Politischer Bezirk Mödling",
+      "code": "AT-3-2771333",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-3",
+      "latitude": 48.08517,
+      "longitude": 16.24118
+    },
+    {
+      "id": 2770710,
+      "name": "Politischer Bezirk Neunkirchen",
+      "nativeName": "Politischer Bezirk Neunkirchen",
+      "code": "AT-3-2770710",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-3",
+      "latitude": 47.69424,
+      "longitude": 15.93783
+    },
+    {
+      "id": 2766428,
+      "name": "Politischer Bezirk Sankt Pölten",
+      "nativeName": "Politischer Bezirk Sankt Pölten",
+      "code": "AT-3-2766428",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-3",
+      "latitude": 48.16905,
+      "longitude": 15.66508
+    },
+    {
+      "id": 2766079,
+      "name": "Politischer Bezirk Scheibbs",
+      "nativeName": "Politischer Bezirk Scheibbs",
+      "code": "AT-3-2766079",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-3",
+      "latitude": 47.92316,
+      "longitude": 15.10376
+    },
+    {
+      "id": 2763265,
+      "name": "Politischer Bezirk Tulln",
+      "nativeName": "Politischer Bezirk Tulln",
+      "code": "AT-3-2763265",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-3",
+      "latitude": 48.3,
+      "longitude": 16
+    },
+    {
+      "id": 2762078,
+      "name": "Politischer Bezirk Waidhofen an der Thaya",
+      "nativeName": "Politischer Bezirk Waidhofen an der Thaya",
+      "code": "AT-3-2762078",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-3",
+      "latitude": 48.85925,
+      "longitude": 15.35814
+    },
+    {
+      "id": 2761352,
+      "name": "Politischer Bezirk Wiener Neustadt",
+      "nativeName": "Politischer Bezirk Wiener Neustadt",
+      "code": "AT-3-2761352",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-3",
+      "latitude": 47.83203,
+      "longitude": 16.14291
+    },
+    {
+      "id": 2760421,
+      "name": "Politischer Bezirk Zwettl",
+      "nativeName": "Politischer Bezirk Zwettl",
+      "code": "AT-3-2760421",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-3",
+      "latitude": 48.57435,
+      "longitude": 15.17159
+    },
+    {
+      "id": 2766426,
+      "name": "Sankt Pölten Stadt",
+      "nativeName": "Sankt Pölten Stadt",
+      "code": "AT-3-2766426",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-3",
+      "latitude": 48.2,
+      "longitude": 15.61667
+    },
+    {
+      "id": 6621168,
+      "name": "Waidhofen an der Ybbs Stadt",
+      "nativeName": "Waidhofen an der Ybbs Stadt",
+      "code": "AT-3-6621168",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-3",
+      "latitude": 47.95999,
+      "longitude": 14.77438
+    },
+    {
+      "id": 2761349,
+      "name": "Wiener Neustadt Stadt",
+      "nativeName": "Wiener Neustadt Stadt",
+      "code": "AT-3-2761349",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-3",
+      "latitude": 47.8,
+      "longitude": 16.25
+    }
+  ]
+}

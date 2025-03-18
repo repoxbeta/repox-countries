@@ -1,0 +1,29 @@
+{
+  "stateId": 9782166,
+  "stateCode": "IM-9782166",
+  "countryCode": "IM",
+  "cities": [
+    {
+      "id": 8468983,
+      "name": "Ballaugh",
+      "nativeName": "Ballaugh",
+      "code": "IM-9782166-8468983",
+      "countryId": 3042225,
+      "countryCode": "IM",
+      "stateCode": "IM-9782166",
+      "latitude": 54.31193,
+      "longitude": -4.54456
+    },
+    {
+      "id": 3042265,
+      "name": "Ballakinnag",
+      "nativeName": "Ballakinnag",
+      "code": "IM-9782166-3042265",
+      "countryId": 3042225,
+      "countryCode": "IM",
+      "stateCode": "IM-9782166",
+      "latitude": 54.33333,
+      "longitude": -4.55
+    }
+  ]
+}

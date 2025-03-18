@@ -1,0 +1,128 @@
+{
+  "stateId": 1142263,
+  "stateCode": "AF-FRA",
+  "countryCode": "AF",
+  "cities": [
+    {
+      "id": 7052917,
+      "name": "Anār Darah",
+      "nativeName": "Anār Darah",
+      "code": "AF-FRA-7052917",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-FRA",
+      "latitude": 33.01119,
+      "longitude": 61.249
+    },
+    {
+      "id": 7052918,
+      "name": "Bakwa District",
+      "nativeName": "Bakwāh",
+      "code": "AF-FRA-7052918",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-FRA",
+      "latitude": 32.21478,
+      "longitude": 62.88093
+    },
+    {
+      "id": 7052919,
+      "name": "Bala Buluk District",
+      "nativeName": "Bālā Bulūk",
+      "code": "AF-FRA-7052919",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-FRA",
+      "latitude": 32.77043,
+      "longitude": 62.75187
+    },
+    {
+      "id": 7729836,
+      "name": "Farah District",
+      "nativeName": "Farah",
+      "code": "AF-FRA-7729836",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-FRA",
+      "latitude": 32.21768,
+      "longitude": 62.25992
+    },
+    {
+      "id": 7052920,
+      "name": "Gulistan District",
+      "nativeName": "Gulistān",
+      "code": "AF-FRA-7052920",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-FRA",
+      "latitude": 32.64161,
+      "longitude": 63.59499
+    },
+    {
+      "id": 7052921,
+      "name": "Khaki Safed District",
+      "nativeName": "Khāk-e Safēd",
+      "code": "AF-FRA-7052921",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-FRA",
+      "latitude": 32.7565,
+      "longitude": 62.07207
+    },
+    {
+      "id": 7052922,
+      "name": "Lash Wa Juwayn District",
+      "nativeName": "Lāsh-e Juwayn",
+      "code": "AF-FRA-7052922",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-FRA",
+      "latitude": 31.72025,
+      "longitude": 61.32879
+    },
+    {
+      "id": 7052923,
+      "name": "Pur Chaman District",
+      "nativeName": "Pur Chaman",
+      "code": "AF-FRA-7052923",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-FRA",
+      "latitude": 33.13656,
+      "longitude": 63.86494
+    },
+    {
+      "id": 7052924,
+      "name": "Pusht Rod District",
+      "nativeName": "Pusht-e Rōd",
+      "code": "AF-FRA-7052924",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-FRA",
+      "latitude": 32.48719,
+      "longitude": 62.05913
+    },
+    {
+      "id": 7052925,
+      "name": "Qala i Kah District",
+      "nativeName": "Qal‘ah-ye Kāh",
+      "code": "AF-FRA-7052925",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-FRA",
+      "latitude": 32.39552,
+      "longitude": 61.32836
+    },
+    {
+      "id": 7052926,
+      "name": "Shib Koh District",
+      "nativeName": "Shayb Kōh",
+      "code": "AF-FRA-7052926",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-FRA",
+      "latitude": 32.10862,
+      "longitude": 61.36863
+    }
+  ]
+}

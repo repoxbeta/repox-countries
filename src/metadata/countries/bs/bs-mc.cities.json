@@ -1,0 +1,51 @@
+{
+  "stateId": 8030549,
+  "stateCode": "BS-MC",
+  "countryCode": "BS",
+  "cities": [
+    {
+      "id": 3572856,
+      "name": "Bastian Point",
+      "nativeName": "Bastian Point",
+      "code": "BS-MC-3572856",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-MC",
+      "latitude": 24.23461,
+      "longitude": -77.62529
+    },
+    {
+      "id": 3572076,
+      "name": "Lisbon Creek",
+      "nativeName": "Lisbon Creek",
+      "code": "BS-MC-3572076",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-MC",
+      "latitude": 24.21397,
+      "longitude": -77.63751
+    },
+    {
+      "id": 3571944,
+      "name": "Mangrove Cay Settlement",
+      "nativeName": "Mangrove Cay",
+      "code": "BS-MC-3571944",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-MC",
+      "latitude": 24.26035,
+      "longitude": -77.66287
+    },
+    {
+      "id": 3571834,
+      "name": "Moxey Town",
+      "nativeName": "Moxey Town",
+      "code": "BS-MC-3571834",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-MC",
+      "latitude": 24.2954,
+      "longitude": -77.67995
+    }
+  ]
+}

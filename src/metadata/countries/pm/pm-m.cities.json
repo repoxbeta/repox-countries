@@ -1,0 +1,51 @@
+{
+  "stateId": 3424938,
+  "stateCode": "PM-M",
+  "countryCode": "PM",
+  "cities": [
+    {
+      "id": 3424941,
+      "name": "Miquelon",
+      "nativeName": "Miquelon",
+      "code": "PM-M-3424941",
+      "countryId": 3424932,
+      "countryCode": "PM",
+      "stateCode": "PM-M",
+      "latitude": 47.0975,
+      "longitude": -56.38139
+    },
+    {
+      "id": 8614838,
+      "name": "Le Ruisseau Debons",
+      "nativeName": "Le Ruisseau Debons",
+      "code": "PM-M-8614838",
+      "countryId": 3424932,
+      "countryCode": "PM",
+      "stateCode": "PM-M",
+      "latitude": 46.87365,
+      "longitude": -56.34258
+    },
+    {
+      "id": 3425682,
+      "name": "Petit Barachois",
+      "nativeName": "Petit Barachois",
+      "code": "PM-M-3425682",
+      "countryId": 3424932,
+      "countryCode": "PM",
+      "stateCode": "PM-M",
+      "latitude": 46.86268,
+      "longitude": -56.36123
+    },
+    {
+      "id": 8609303,
+      "name": "Village de l'Anse du Gouvernement",
+      "nativeName": "Village de l'Anse du Gouvernement",
+      "code": "PM-M-8609303",
+      "countryId": 3424932,
+      "countryCode": "PM",
+      "stateCode": "PM-M",
+      "latitude": 46.89748,
+      "longitude": -56.30125
+    }
+  ]
+}

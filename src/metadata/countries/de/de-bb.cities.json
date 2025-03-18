@@ -1,0 +1,205 @@
+{
+  "stateId": 2945356,
+  "stateCode": "DE-BB",
+  "countryCode": "DE",
+  "cities": [
+    {
+      "id": 2925534,
+      "name": "Frankfurt (Oder)",
+      "nativeName": "Frankfurt (Oder)",
+      "code": "DE-BB-2925534",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-BB",
+      "latitude": 52.33694,
+      "longitude": 14.49222
+    },
+    {
+      "id": 2945354,
+      "name": "Kreisfreie Stadt Brandenburg an der Havel",
+      "nativeName": "Kreisfreie Stadt Brandenburg an der Havel",
+      "code": "DE-BB-2945354",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-BB",
+      "latitude": 52.40528,
+      "longitude": 12.51389
+    },
+    {
+      "id": 2939810,
+      "name": "Kreisfreie Stadt Cottbus",
+      "nativeName": "Kreisfreie Stadt Cottbus",
+      "code": "DE-BB-2939810",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-BB",
+      "latitude": 51.75753,
+      "longitude": 14.32343
+    },
+    {
+      "id": 2852455,
+      "name": "Kreisfreie Stadt Potsdam",
+      "nativeName": "Kreisfreie Stadt Potsdam",
+      "code": "DE-BB-2852455",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-BB",
+      "latitude": 52.40444,
+      "longitude": 13.04722
+    },
+    {
+      "id": 3249079,
+      "name": "Landkreis Barnim",
+      "nativeName": "Landkreis Barnim",
+      "code": "DE-BB-3249079",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-BB",
+      "latitude": 52.84306,
+      "longitude": 13.70917
+    },
+    {
+      "id": 3249080,
+      "name": "Landkreis Dahme-Spreewald",
+      "nativeName": "Landkreis Dahme-Spreewald",
+      "code": "DE-BB-3249080",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-BB",
+      "latitude": 52.01361,
+      "longitude": 13.88444
+    },
+    {
+      "id": 3249081,
+      "name": "Landkreis Elbe-Elster",
+      "nativeName": "Landkreis Elbe-Elster",
+      "code": "DE-BB-3249081",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-BB",
+      "latitude": 51.63389,
+      "longitude": 13.44
+    },
+    {
+      "id": 3249082,
+      "name": "Landkreis Havelland",
+      "nativeName": "Landkreis Havelland",
+      "code": "DE-BB-3249082",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-BB",
+      "latitude": 52.6425,
+      "longitude": 12.67222
+    },
+    {
+      "id": 3249083,
+      "name": "Landkreis Märkisch-Oderland",
+      "nativeName": "Landkreis Märkisch-Oderland",
+      "code": "DE-BB-3249083",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-BB",
+      "latitude": 52.6375,
+      "longitude": 14.17667
+    },
+    {
+      "id": 3249084,
+      "name": "Landkreis Oberhavel",
+      "nativeName": "Landkreis Oberhavel",
+      "code": "DE-BB-3249084",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-BB",
+      "latitude": 52.95167,
+      "longitude": 13.23278
+    },
+    {
+      "id": 3249085,
+      "name": "Landkreis Oberspreewald-Lausitz",
+      "nativeName": "Landkreis Oberspreewald-Lausitz",
+      "code": "DE-BB-3249085",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-BB",
+      "latitude": 51.64167,
+      "longitude": 13.99944
+    },
+    {
+      "id": 3249086,
+      "name": "Landkreis Oder-Spree",
+      "nativeName": "Landkreis Oder-Spree",
+      "code": "DE-BB-3249086",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-BB",
+      "latitude": 52.24944,
+      "longitude": 14.24028
+    },
+    {
+      "id": 3249087,
+      "name": "Landkreis Ostprignitz-Ruppin",
+      "nativeName": "Landkreis Ostprignitz-Ruppin",
+      "code": "DE-BB-3249087",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-BB",
+      "latitude": 52.99778,
+      "longitude": 12.67389
+    },
+    {
+      "id": 2852456,
+      "name": "Landkreis Potsdam-Mittelmark",
+      "nativeName": "Landkreis Potsdam-Mittelmark",
+      "code": "DE-BB-2852456",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-BB",
+      "latitude": 52.21944,
+      "longitude": 12.675
+    },
+    {
+      "id": 3249088,
+      "name": "Landkreis Prignitz",
+      "nativeName": "Landkreis Prignitz",
+      "code": "DE-BB-3249088",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-BB",
+      "latitude": 53.11528,
+      "longitude": 11.98944
+    },
+    {
+      "id": 3249090,
+      "name": "Landkreis Teltow-Fläming",
+      "nativeName": "Landkreis Teltow-Fläming",
+      "code": "DE-BB-3249090",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-BB",
+      "latitude": 52.12278,
+      "longitude": 13.27222
+    },
+    {
+      "id": 3249091,
+      "name": "Landkreis Uckermark",
+      "nativeName": "Landkreis Uckermark",
+      "code": "DE-BB-3249091",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-BB",
+      "latitude": 53.22583,
+      "longitude": 13.84639
+    },
+    {
+      "id": 3249089,
+      "name": "Wokrejs Sprjewja-Nysa",
+      "nativeName": "Wokrejs Sprjewja-Nysa",
+      "code": "DE-BB-3249089",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-BB",
+      "latitude": 51.75056,
+      "longitude": 14.41833
+    }
+  ]
+}

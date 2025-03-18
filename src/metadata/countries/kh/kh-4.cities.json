@@ -1,0 +1,95 @@
+{
+  "stateId": 1831166,
+  "stateCode": "KH-4",
+  "countryCode": "KH",
+  "cities": [
+    {
+      "id": 7647218,
+      "name": "Baribour",
+      "nativeName": "Baribour",
+      "code": "KH-4-7647218",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-4",
+      "latitude": 12.43,
+      "longitude": 104.47
+    },
+    {
+      "id": 8405259,
+      "name": "Chol Kiri",
+      "nativeName": "Srŏk Chol Kiri",
+      "code": "KH-4-8405259",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-4",
+      "latitude": 12.15861,
+      "longitude": 104.82287
+    },
+    {
+      "id": 9253749,
+      "name": "Kampong Leaeng",
+      "nativeName": "Kampong Leaeng",
+      "code": "KH-4-9253749",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-4",
+      "latitude": 12.42687,
+      "longitude": 104.7167
+    },
+    {
+      "id": 9253752,
+      "name": "Kampong Tralach",
+      "nativeName": "Kampong Tralach",
+      "code": "KH-4-9253752",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-4",
+      "latitude": 11.97453,
+      "longitude": 104.75689
+    },
+    {
+      "id": 7647209,
+      "name": "Krong Kampong Chhnang",
+      "nativeName": "Kampong Chhnang",
+      "code": "KH-4-7647209",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-4",
+      "latitude": 12.26,
+      "longitude": 104.67
+    },
+    {
+      "id": 7647219,
+      "name": "Rolea B'ier",
+      "nativeName": "Rolea B'ier",
+      "code": "KH-4-7647219",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-4",
+      "latitude": 12.21,
+      "longitude": 104.61
+    },
+    {
+      "id": 8405260,
+      "name": "Sameakki Mean Chey",
+      "nativeName": "Srŏk Sameakki Mean Chey",
+      "code": "KH-4-8405260",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-4",
+      "latitude": 11.86788,
+      "longitude": 104.55549
+    },
+    {
+      "id": 9253753,
+      "name": "Tuek Phos",
+      "nativeName": "Tuek Phos",
+      "code": "KH-4-9253753",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-4",
+      "latitude": 12.08165,
+      "longitude": 104.38031
+    }
+  ]
+}

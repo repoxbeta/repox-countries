@@ -1,0 +1,40 @@
+{
+  "stateId": 2409543,
+  "stateCode": "SL-E",
+  "countryCode": "SL",
+  "cities": [
+    {
+      "id": 2408249,
+      "name": "Kailahun District",
+      "nativeName": "Kailahun District",
+      "code": "SL-E-2408249",
+      "countryId": 2403846,
+      "countryCode": "SL",
+      "stateCode": "SL-E",
+      "latitude": 8.10768,
+      "longitude": -10.75146
+    },
+    {
+      "id": 2407781,
+      "name": "Kenema District",
+      "nativeName": "Kenema District",
+      "code": "SL-E-2407781",
+      "countryId": 2403846,
+      "countryCode": "SL",
+      "stateCode": "SL-E",
+      "latitude": 7.95171,
+      "longitude": -11.19004
+    },
+    {
+      "id": 2407469,
+      "name": "Kono District",
+      "nativeName": "Kono District",
+      "code": "SL-E-2407469",
+      "countryId": 2403846,
+      "countryCode": "SL",
+      "stateCode": "SL-E",
+      "latitude": 8.70687,
+      "longitude": -10.93368
+    }
+  ]
+}

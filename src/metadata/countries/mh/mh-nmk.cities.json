@@ -1,0 +1,29 @@
+{
+  "stateId": 7303508,
+  "stateCode": "MH-NMK",
+  "countryCode": "MH",
+  "cities": [
+    {
+      "id": 7306522,
+      "name": "Namdrik",
+      "nativeName": "Namdrik",
+      "code": "MH-NMK-7306522",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-NMK",
+      "latitude": 5.59944,
+      "longitude": 168.10282
+    },
+    {
+      "id": 7303933,
+      "name": "Namdrik",
+      "nativeName": "Namdrik",
+      "code": "MH-NMK-7303933",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-NMK",
+      "latitude": 5.59561,
+      "longitude": 168.10666
+    }
+  ]
+}

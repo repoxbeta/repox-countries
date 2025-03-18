@@ -1,0 +1,183 @@
+{
+  "stateId": 1140025,
+  "stateCode": "AF-HER",
+  "countryCode": "AF",
+  "cities": [
+    {
+      "id": 7053036,
+      "name": "Adraskan District",
+      "nativeName": "Adraskan",
+      "code": "AF-HER-7053036",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-HER",
+      "latitude": 33.70541,
+      "longitude": 61.99548
+    },
+    {
+      "id": 7053037,
+      "name": "Chisht-e Sharīf",
+      "nativeName": "Chisht-e Sharīf",
+      "code": "AF-HER-7053037",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-HER",
+      "latitude": 34.44515,
+      "longitude": 63.95731
+    },
+    {
+      "id": 7053038,
+      "name": "Farsi District",
+      "nativeName": "Farsī",
+      "code": "AF-HER-7053038",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-HER",
+      "latitude": 33.84276,
+      "longitude": 63.28352
+    },
+    {
+      "id": 7053039,
+      "name": "Ghurian District",
+      "nativeName": "Ghōriyān",
+      "code": "AF-HER-7053039",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-HER",
+      "latitude": 34.18233,
+      "longitude": 61.16269
+    },
+    {
+      "id": 7053040,
+      "name": "Gulran District",
+      "nativeName": "Gulrān",
+      "code": "AF-HER-7053040",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-HER",
+      "latitude": 35.13404,
+      "longitude": 61.57135
+    },
+    {
+      "id": 7053046,
+      "name": "Guzara District",
+      "nativeName": "Guz̄arah",
+      "code": "AF-HER-7053046",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-HER",
+      "latitude": 34.03553,
+      "longitude": 62.03867
+    },
+    {
+      "id": 9166336,
+      "name": "Herat District",
+      "nativeName": "Herat District",
+      "code": "AF-HER-9166336",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-HER",
+      "latitude": 34.34194,
+      "longitude": 62.20306
+    },
+    {
+      "id": 7053041,
+      "name": "Injil District",
+      "nativeName": "Injīl",
+      "code": "AF-HER-7053041",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-HER",
+      "latitude": 34.3169,
+      "longitude": 62.32845
+    },
+    {
+      "id": 7053042,
+      "name": "Karukh District",
+      "nativeName": "Karukh",
+      "code": "AF-HER-7053042",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-HER",
+      "latitude": 34.50392,
+      "longitude": 62.66343
+    },
+    {
+      "id": 7053043,
+      "name": "Kuhsān",
+      "nativeName": "Kuhsān",
+      "code": "AF-HER-7053043",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-HER",
+      "latitude": 34.61326,
+      "longitude": 61.1662
+    },
+    {
+      "id": 7053044,
+      "name": "Kushk District",
+      "nativeName": "Kushk",
+      "code": "AF-HER-7053044",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-HER",
+      "latitude": 35.00443,
+      "longitude": 62.23985
+    },
+    {
+      "id": 7053045,
+      "name": "Kushk-e Kuhnah",
+      "nativeName": "Kushk-e Kuhnah",
+      "code": "AF-HER-7053045",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-HER",
+      "latitude": 34.88574,
+      "longitude": 62.62873
+    },
+    {
+      "id": 7053047,
+      "name": "Obe District",
+      "nativeName": "Ōbêh",
+      "code": "AF-HER-7053047",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-HER",
+      "latitude": 34.36058,
+      "longitude": 63.25043
+    },
+    {
+      "id": 7053048,
+      "name": "Pashtun Zarghun District",
+      "nativeName": "Pas̲h̲tūn Zarghūn",
+      "code": "AF-HER-7053048",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-HER",
+      "latitude": 34.1843,
+      "longitude": 62.7546
+    },
+    {
+      "id": 7053049,
+      "name": "Shindand District",
+      "nativeName": "Shīnḏanḏ",
+      "code": "AF-HER-7053049",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-HER",
+      "latitude": 33.25438,
+      "longitude": 62.3808
+    },
+    {
+      "id": 7053050,
+      "name": "Zendeh Jan District",
+      "nativeName": "Zindah Jān",
+      "code": "AF-HER-7053050",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-HER",
+      "latitude": 34.37113,
+      "longitude": 61.82006
+    }
+  ]
+}

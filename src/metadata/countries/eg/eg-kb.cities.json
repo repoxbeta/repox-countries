@@ -1,0 +1,51 @@
+{
+  "stateId": 360621,
+  "stateCode": "EG-KB",
+  "countryCode": "EG",
+  "cities": [
+    {
+      "id": 359279,
+      "name": "Markaz Banhā",
+      "nativeName": "Markaz Banhā",
+      "code": "EG-KB-359279",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-KB",
+      "latitude": 30.46293,
+      "longitude": 31.21588
+    },
+    {
+      "id": 8061368,
+      "name": "Markaz Kafr Shukr",
+      "nativeName": "Markaz Kafr Shukr",
+      "code": "EG-KB-8061368",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-KB",
+      "latitude": 30.57492,
+      "longitude": 31.29054
+    },
+    {
+      "id": 350787,
+      "name": "Markaz Qalyūb",
+      "nativeName": "Markaz Qalyūb",
+      "code": "EG-KB-350787",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-KB",
+      "latitude": 30.20709,
+      "longitude": 31.24077
+    },
+    {
+      "id": 7732632,
+      "name": "Mostorod",
+      "nativeName": "Mostorod",
+      "code": "EG-KB-7732632",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-KB",
+      "latitude": 30.14268,
+      "longitude": 31.29807
+    }
+  ]
+}

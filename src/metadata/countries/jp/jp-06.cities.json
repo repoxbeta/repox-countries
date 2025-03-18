@@ -1,0 +1,238 @@
+{
+  "stateId": 2110554,
+  "stateCode": "JP-06",
+  "countryCode": "JP",
+  "cities": [
+    {
+      "id": 7450462,
+      "name": "Akumi-gun",
+      "nativeName": "Akumi-gun",
+      "code": "JP-06-7450462",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-06",
+      "latitude": 39.05,
+      "longitude": 139.95167
+    },
+    {
+      "id": 2112760,
+      "name": "Higashimurayama-gun",
+      "nativeName": "Higashimurayama-gun",
+      "code": "JP-06-2112760",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-06",
+      "latitude": 38.2947,
+      "longitude": 140.23076
+    },
+    {
+      "id": 7450014,
+      "name": "Higashine Shi",
+      "nativeName": "Higashine Shi",
+      "code": "JP-06-7450014",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-06",
+      "latitude": 38.42559,
+      "longitude": 140.4667
+    },
+    {
+      "id": 2112756,
+      "name": "Higashiokitama-gun",
+      "nativeName": "Higashiokitama-gun",
+      "code": "JP-06-2112756",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-06",
+      "latitude": 38.00428,
+      "longitude": 140.0853
+    },
+    {
+      "id": 1862730,
+      "name": "Higashitagawa-gun",
+      "nativeName": "Higashitagawa-gun",
+      "code": "JP-06-1862730",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-06",
+      "latitude": 38.80895,
+      "longitude": 139.94797
+    },
+    {
+      "id": 2112407,
+      "name": "Kaminoyama-shi",
+      "nativeName": "Kaminoyama-shi",
+      "code": "JP-06-2112407",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-06",
+      "latitude": 38.13333,
+      "longitude": 140.33333
+    },
+    {
+      "id": 7450463,
+      "name": "Kitamurayama-gun",
+      "nativeName": "Kitamurayama-gun",
+      "code": "JP-06-7450463",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-06",
+      "latitude": 38.59766,
+      "longitude": 140.33608
+    },
+    {
+      "id": 2111850,
+      "name": "Mogami-gun",
+      "nativeName": "Mogami-gun",
+      "code": "JP-06-2111850",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-06",
+      "latitude": 38.78028,
+      "longitude": 140.15561
+    },
+    {
+      "id": 2111805,
+      "name": "Murayama Shi",
+      "nativeName": "Murayama Shi",
+      "code": "JP-06-2111805",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-06",
+      "latitude": 38.51671,
+      "longitude": 140.33518
+    },
+    {
+      "id": 2111778,
+      "name": "Nagai-shi",
+      "nativeName": "Nagai-shi",
+      "code": "JP-06-2111778",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-06",
+      "latitude": 38.16667,
+      "longitude": 140
+    },
+    {
+      "id": 2111692,
+      "name": "Nan'yō Shi",
+      "nativeName": "Nan'yō Shi",
+      "code": "JP-06-2111692",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-06",
+      "latitude": 38.10319,
+      "longitude": 140.15609
+    },
+    {
+      "id": 2111620,
+      "name": "Nishimurayama-gun",
+      "nativeName": "Nishimurayama-gun",
+      "code": "JP-06-2111620",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-06",
+      "latitude": 38.37844,
+      "longitude": 140.06118
+    },
+    {
+      "id": 1855187,
+      "name": "Nishiokitama-gun",
+      "nativeName": "Nishiokitama-gun",
+      "code": "JP-06-1855187",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-06",
+      "latitude": 38.03299,
+      "longitude": 139.84554
+    },
+    {
+      "id": 7450018,
+      "name": "Obanazawa Shi",
+      "nativeName": "Obanazawa Shi",
+      "code": "JP-06-7450018",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-06",
+      "latitude": 38.59362,
+      "longitude": 140.47681
+    },
+    {
+      "id": 2111245,
+      "name": "Sagae-shi",
+      "nativeName": "Sagae-shi",
+      "code": "JP-06-2111245",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-06",
+      "latitude": 38.45,
+      "longitude": 140.23333
+    },
+    {
+      "id": 1853136,
+      "name": "Sakata Shi",
+      "nativeName": "Sakata Shi",
+      "code": "JP-06-1853136",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-06",
+      "latitude": 38.9249,
+      "longitude": 139.98427
+    },
+    {
+      "id": 2111061,
+      "name": "Shinjō Shi",
+      "nativeName": "Shinjō Shi",
+      "code": "JP-06-2111061",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-06",
+      "latitude": 38.78819,
+      "longitude": 140.33989
+    },
+    {
+      "id": 7450466,
+      "name": "Tendō Shi",
+      "nativeName": "Tendō Shi",
+      "code": "JP-06-7450466",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-06",
+      "latitude": 38.35819,
+      "longitude": 140.39652
+    },
+    {
+      "id": 1849562,
+      "name": "Tsuruoka Shi",
+      "nativeName": "Tsuruoka Shi",
+      "code": "JP-06-1849562",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-06",
+      "latitude": 38.58507,
+      "longitude": 139.80839
+    },
+    {
+      "id": 2110552,
+      "name": "Yamagata Shi",
+      "nativeName": "Yamagata Shi",
+      "code": "JP-06-2110552",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-06",
+      "latitude": 38.24907,
+      "longitude": 140.37272
+    },
+    {
+      "id": 2110496,
+      "name": "Yonezawa Shi",
+      "nativeName": "Yonezawa Shi",
+      "code": "JP-06-2110496",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-06",
+      "latitude": 37.84998,
+      "longitude": 140.1216
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "stateId": 1611108,
+  "stateCode": "TH-20",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 1620432,
+      "name": "Ban Bueng",
+      "nativeName": "Amphoe Ban Bueng",
+      "code": "TH-20-1620432",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-20",
+      "latitude": 13.2528,
+      "longitude": 101.18151
+    },
+    {
+      "id": 1619422,
+      "name": "Bang Lamung",
+      "nativeName": "Bang Lamung District",
+      "code": "TH-20-1619422",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-20",
+      "latitude": 12.92579,
+      "longitude": 100.89243
+    },
+    {
+      "id": 7510703,
+      "name": "Bo Thong",
+      "nativeName": "Amphoe Bo Thong",
+      "code": "TH-20-7510703",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-20",
+      "latitude": 13.24227,
+      "longitude": 101.50864
+    },
+    {
+      "id": 7510704,
+      "name": "Ko Chan",
+      "nativeName": "Amphoe Ko Chan",
+      "code": "TH-20-7510704",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-20",
+      "latitude": 13.40253,
+      "longitude": 101.388
+    },
+    {
+      "id": 1609478,
+      "name": "Ko Sichang",
+      "nativeName": "Amphoe Ko Si Chang",
+      "code": "TH-20-1609478",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-20",
+      "latitude": 13.15286,
+      "longitude": 100.81156
+    },
+    {
+      "id": 1608659,
+      "name": "Mueang Chon Buri",
+      "nativeName": "Mueang Chonburi District",
+      "code": "TH-20-1608659",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-20",
+      "latitude": 13.34271,
+      "longitude": 101.00111
+    },
+    {
+      "id": 7510705,
+      "name": "Nong Yai",
+      "nativeName": "Amphoe Nong Yai",
+      "code": "TH-20-7510705",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-20",
+      "latitude": 13.11772,
+      "longitude": 101.37471
+    },
+    {
+      "id": 1607792,
+      "name": "Phan Thong",
+      "nativeName": "Amphoe Phan Thong",
+      "code": "TH-20-1607792",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-20",
+      "latitude": 13.463,
+      "longitude": 101.09131
+    },
+    {
+      "id": 1607837,
+      "name": "Phanat Nikhom",
+      "nativeName": "Amphoe Phanat Nikhom",
+      "code": "TH-20-1607837",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-20",
+      "latitude": 13.46434,
+      "longitude": 101.21428
+    },
+    {
+      "id": 1606385,
+      "name": "Sattahip",
+      "nativeName": "Amphoe Sattahip",
+      "code": "TH-20-1606385",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-20",
+      "latitude": 12.71743,
+      "longitude": 100.92754
+    },
+    {
+      "id": 1606249,
+      "name": "Si Racha",
+      "nativeName": "Amphoe Si Racha",
+      "code": "TH-20-1606249",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-20",
+      "latitude": 13.12976,
+      "longitude": 101.04008
+    }
+  ]
+}

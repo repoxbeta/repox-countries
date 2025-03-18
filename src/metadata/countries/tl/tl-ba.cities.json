@@ -1,0 +1,73 @@
+{
+  "stateId": 1649538,
+  "stateCode": "TL-BA",
+  "countryCode": "TL",
+  "cities": [
+    {
+      "id": 8617910,
+      "name": "Baguia",
+      "nativeName": "Baguia",
+      "code": "TL-BA-8617910",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-BA",
+      "latitude": -8.62787,
+      "longitude": 126.65743
+    },
+    {
+      "id": 8617908,
+      "name": "Baucau",
+      "nativeName": "Baucau",
+      "code": "TL-BA-8617908",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-BA",
+      "latitude": -8.46667,
+      "longitude": 126.45
+    },
+    {
+      "id": 8617911,
+      "name": "Laga",
+      "nativeName": "Laga",
+      "code": "TL-BA-8617911",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-BA",
+      "latitude": -8.47411,
+      "longitude": 126.59228
+    },
+    {
+      "id": 8617912,
+      "name": "Quelicai",
+      "nativeName": "Quelicai",
+      "code": "TL-BA-8617912",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-BA",
+      "latitude": -8.60135,
+      "longitude": 126.55904
+    },
+    {
+      "id": 8617914,
+      "name": "Vemasse",
+      "nativeName": "Vemasse",
+      "code": "TL-BA-8617914",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-BA",
+      "latitude": -8.51036,
+      "longitude": 126.20823
+    },
+    {
+      "id": 8617918,
+      "name": "Venilale",
+      "nativeName": "Venilale",
+      "code": "TL-BA-8617918",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-BA",
+      "latitude": -8.58238,
+      "longitude": 126.37861
+    }
+  ]
+}

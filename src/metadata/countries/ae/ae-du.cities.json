@@ -1,0 +1,106 @@
+{
+  "stateId": 292224,
+  "stateCode": "AE-DU",
+  "countryCode": "AE",
+  "cities": [
+    {
+      "id": 13060544,
+      "name": "Central",
+      "nativeName": "Sector 6",
+      "code": "AE-DU-13060544",
+      "countryId": 290557,
+      "countryCode": "AE",
+      "stateCode": "AE-DU",
+      "latitude": 25.09277,
+      "longitude": 55.3003
+    },
+    {
+      "id": 13060546,
+      "name": "East",
+      "nativeName": "Sector 8",
+      "code": "AE-DU-13060546",
+      "countryId": 290557,
+      "countryCode": "AE",
+      "stateCode": "AE-DU",
+      "latitude": 24.9283,
+      "longitude": 55.66193
+    },
+    {
+      "id": 13060545,
+      "name": "North",
+      "nativeName": "Sector 2",
+      "code": "AE-DU-13060545",
+      "countryId": 290557,
+      "countryCode": "AE",
+      "stateCode": "AE-DU",
+      "latitude": 25.23909,
+      "longitude": 55.44523
+    },
+    {
+      "id": 13060550,
+      "name": "North Central",
+      "nativeName": "Sector 4",
+      "code": "AE-DU-13060550",
+      "countryId": 290557,
+      "countryCode": "AE",
+      "stateCode": "AE-DU",
+      "latitude": 25.19242,
+      "longitude": 55.40649
+    },
+    {
+      "id": 13060551,
+      "name": "Northeast",
+      "nativeName": "Sector 7",
+      "code": "AE-DU-13060551",
+      "countryId": 290557,
+      "countryCode": "AE",
+      "stateCode": "AE-DU",
+      "latitude": 25.12481,
+      "longitude": 55.59517
+    },
+    {
+      "id": 13060548,
+      "name": "Northwest",
+      "nativeName": "Sector 1",
+      "code": "AE-DU-13060548",
+      "countryId": 290557,
+      "countryCode": "AE",
+      "stateCode": "AE-DU",
+      "latitude": 25.32721,
+      "longitude": 55.2766
+    },
+    {
+      "id": 13060547,
+      "name": "South",
+      "nativeName": "Sector 9",
+      "code": "AE-DU-13060547",
+      "countryId": 290557,
+      "countryCode": "AE",
+      "stateCode": "AE-DU",
+      "latitude": 24.82036,
+      "longitude": 55.36488
+    },
+    {
+      "id": 13060549,
+      "name": "Southwest",
+      "nativeName": "Sector 5",
+      "code": "AE-DU-13060549",
+      "countryId": 290557,
+      "countryCode": "AE",
+      "stateCode": "AE-DU",
+      "latitude": 25.00985,
+      "longitude": 55.01205
+    },
+    {
+      "id": 13060552,
+      "name": "West",
+      "nativeName": "Sector 3",
+      "code": "AE-DU-13060552",
+      "countryId": 290557,
+      "countryCode": "AE",
+      "stateCode": "AE-DU",
+      "latitude": 25.22984,
+      "longitude": 55.16069
+    }
+  ]
+}

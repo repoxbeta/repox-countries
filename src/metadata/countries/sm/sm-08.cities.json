@@ -1,0 +1,29 @@
+{
+  "stateId": 3345308,
+  "stateCode": "SM-08",
+  "countryCode": "SM",
+  "cities": [
+    {
+      "id": 3172906,
+      "name": "Montegiardino",
+      "nativeName": "Monte Giardino",
+      "code": "SM-08-3172906",
+      "countryId": 3168068,
+      "countryCode": "SM",
+      "stateCode": "SM-08",
+      "latitude": 43.90878,
+      "longitude": 12.48201
+    },
+    {
+      "id": 8199070,
+      "name": "Cerbaiola",
+      "nativeName": "Cerbaiola",
+      "code": "SM-08-8199070",
+      "countryId": 3168068,
+      "countryCode": "SM",
+      "stateCode": "SM-08",
+      "latitude": 43.90346,
+      "longitude": 12.47683
+    }
+  ]
+}

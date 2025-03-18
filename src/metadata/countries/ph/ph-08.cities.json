@@ -1,0 +1,73 @@
+{
+  "stateId": 7521307,
+  "stateCode": "PH-08",
+  "countryCode": "PH",
+  "cities": [
+    {
+      "id": 1725260,
+      "name": "Biliran",
+      "nativeName": "Biliran",
+      "code": "PH-08-1725260",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-08",
+      "latitude": 11.48333,
+      "longitude": 124.48333
+    },
+    {
+      "id": 1713986,
+      "name": "Eastern Samar",
+      "nativeName": "Province of Eastern Samar",
+      "code": "PH-08-1713986",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-08",
+      "latitude": 11.53054,
+      "longitude": 125.47647
+    },
+    {
+      "id": 1697549,
+      "name": "Northern Samar",
+      "nativeName": "Province of Northern Samar",
+      "code": "PH-08-1697549",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-08",
+      "latitude": 12.33333,
+      "longitude": 124.66667
+    },
+    {
+      "id": 1706800,
+      "name": "Province of Leyte",
+      "nativeName": "Province of Leyte",
+      "code": "PH-08-1706800",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-08",
+      "latitude": 11.08138,
+      "longitude": 124.82666
+    },
+    {
+      "id": 1690649,
+      "name": "Province of Samar",
+      "nativeName": "Province of Samar",
+      "code": "PH-08-1690649",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-08",
+      "latitude": 11.83333,
+      "longitude": 125
+    },
+    {
+      "id": 1685725,
+      "name": "Southern Leyte",
+      "nativeName": "Province of Southern Leyte",
+      "code": "PH-08-1685725",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-08",
+      "latitude": 10.33333,
+      "longitude": 125.08333
+    }
+  ]
+}

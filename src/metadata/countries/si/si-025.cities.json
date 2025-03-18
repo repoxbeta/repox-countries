@@ -1,0 +1,282 @@
+{
+  "stateId": 3201252,
+  "stateCode": "SI-025",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3201253,
+      "name": "Dravograd",
+      "nativeName": "Dravograd",
+      "code": "SI-025-3201253",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-025",
+      "latitude": 46.58806,
+      "longitude": 15.01917
+    },
+    {
+      "id": 8988085,
+      "name": "Bukovje",
+      "nativeName": "Bukovje",
+      "code": "SI-025-8988085",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-025",
+      "latitude": 46.5932,
+      "longitude": 15.0471
+    },
+    {
+      "id": 8987423,
+      "name": "Dobrova pri Dravogradu",
+      "nativeName": "Dobrova pri Dravogradu",
+      "code": "SI-025-8987423",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-025",
+      "latitude": 46.57855,
+      "longitude": 15.0103
+    },
+    {
+      "id": 3218491,
+      "name": "Ghamus",
+      "nativeName": "Ghamus",
+      "code": "SI-025-3218491",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-025",
+      "latitude": 46.57167,
+      "longitude": 15.07417
+    },
+    {
+      "id": 3200308,
+      "name": "Goriški Vrh",
+      "nativeName": "Goriški Vrh",
+      "code": "SI-025-3200308",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-025",
+      "latitude": 46.61667,
+      "longitude": 15.01667
+    },
+    {
+      "id": 8987517,
+      "name": "Gorče",
+      "nativeName": "Gorče",
+      "code": "SI-025-8987517",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-025",
+      "latitude": 46.62169,
+      "longitude": 14.96168
+    },
+    {
+      "id": 3197439,
+      "name": "Kozji Vrh nad Dravogradom",
+      "nativeName": "Kozji Vrh nad Dravogradom",
+      "code": "SI-025-3197439",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-025",
+      "latitude": 46.63563,
+      "longitude": 15.07002
+    },
+    {
+      "id": 3196611,
+      "name": "Libeliče",
+      "nativeName": "Libeliče",
+      "code": "SI-025-3196611",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-025",
+      "latitude": 46.62,
+      "longitude": 14.94972
+    },
+    {
+      "id": 3196610,
+      "name": "Libeliška Gora",
+      "nativeName": "Libeliška Gora",
+      "code": "SI-025-3196610",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-025",
+      "latitude": 46.6,
+      "longitude": 14.95
+    },
+    {
+      "id": 3194177,
+      "name": "Ojstrica",
+      "nativeName": "Ojstrica",
+      "code": "SI-025-3194177",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-025",
+      "latitude": 46.61889,
+      "longitude": 15.03861
+    },
+    {
+      "id": 3193790,
+      "name": "Otiški Vrh",
+      "nativeName": "Otiški Vrh",
+      "code": "SI-025-3193790",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-025",
+      "latitude": 46.57389,
+      "longitude": 15.03278
+    },
+    {
+      "id": 8987434,
+      "name": "Podklanc",
+      "nativeName": "Podklanc",
+      "code": "SI-025-8987434",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-025",
+      "latitude": 46.57268,
+      "longitude": 15.01677
+    },
+    {
+      "id": 8986924,
+      "name": "Selovec",
+      "nativeName": "Selovec",
+      "code": "SI-025-8986924",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-025",
+      "latitude": 46.55071,
+      "longitude": 15.02648
+    },
+    {
+      "id": 3189366,
+      "name": "Sv. Boštjan",
+      "nativeName": "Sv. Boštjan",
+      "code": "SI-025-3189366",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-025",
+      "latitude": 46.60333,
+      "longitude": 15.05639
+    },
+    {
+      "id": 3189360,
+      "name": "Sv. Danijel",
+      "nativeName": "Sv. Danijel",
+      "code": "SI-025-3189360",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-025",
+      "latitude": 46.58333,
+      "longitude": 15.08333
+    },
+    {
+      "id": 8987820,
+      "name": "Sv. Duh",
+      "nativeName": "Sv. Duh",
+      "code": "SI-025-8987820",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-025",
+      "latitude": 46.61135,
+      "longitude": 15.05517
+    },
+    {
+      "id": 3218463,
+      "name": "Sveti Marija-Magdalena",
+      "nativeName": "Sveti Marija-Magdalena",
+      "code": "SI-025-3218463",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-025",
+      "latitude": 46.60639,
+      "longitude": 15.08167
+    },
+    {
+      "id": 3188920,
+      "name": "Trbonje",
+      "nativeName": "Trbonje",
+      "code": "SI-025-3188920",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-025",
+      "latitude": 46.60278,
+      "longitude": 15.1075
+    },
+    {
+      "id": 8987811,
+      "name": "Tribej",
+      "nativeName": "Tribej",
+      "code": "SI-025-8987811",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-025",
+      "latitude": 46.60038,
+      "longitude": 14.97719
+    },
+    {
+      "id": 8988560,
+      "name": "Velka",
+      "nativeName": "Velka",
+      "code": "SI-025-8988560",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-025",
+      "latitude": 46.62756,
+      "longitude": 15.05934
+    },
+    {
+      "id": 3187819,
+      "name": "Vič",
+      "nativeName": "Vič",
+      "code": "SI-025-3187819",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-025",
+      "latitude": 46.6,
+      "longitude": 15
+    },
+    {
+      "id": 3187327,
+      "name": "Vrata",
+      "nativeName": "Vrata",
+      "code": "SI-025-3187327",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-025",
+      "latitude": 46.61741,
+      "longitude": 15.09184
+    },
+    {
+      "id": 3202442,
+      "name": "Črneče",
+      "nativeName": "Črneče",
+      "code": "SI-025-3202442",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-025",
+      "latitude": 46.58848,
+      "longitude": 15.00093
+    },
+    {
+      "id": 8988467,
+      "name": "Črneška Gora",
+      "nativeName": "Črneška Gora",
+      "code": "SI-025-8988467",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-025",
+      "latitude": 46.58937,
+      "longitude": 14.97097
+    },
+    {
+      "id": 3191034,
+      "name": "Šentjanž pri Dravogradu",
+      "nativeName": "Šentjanž pri Dravogradu",
+      "code": "SI-025-3191034",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-025",
+      "latitude": 46.56111,
+      "longitude": 15.03889
+    }
+  ]
+}

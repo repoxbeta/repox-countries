@@ -1,0 +1,73 @@
+{
+  "stateId": 1337229,
+  "stateCode": "BD-A",
+  "countryCode": "BD",
+  "cities": [
+    {
+      "id": 1337217,
+      "name": "Barguna",
+      "nativeName": "Barguna",
+      "code": "BD-A-1337217",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-A",
+      "latitude": 22.13333,
+      "longitude": 90.13333
+    },
+    {
+      "id": 1185286,
+      "name": "Barisal District",
+      "nativeName": "Barisal",
+      "code": "BD-A-1185286",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-A",
+      "latitude": 22.8,
+      "longitude": 90.5
+    },
+    {
+      "id": 1337215,
+      "name": "Bhola",
+      "nativeName": "Bhola",
+      "code": "BD-A-1337215",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-A",
+      "latitude": 22.36667,
+      "longitude": 90.81667
+    },
+    {
+      "id": 1337214,
+      "name": "Jhalokati",
+      "nativeName": "Jhalokati",
+      "code": "BD-A-1337214",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-A",
+      "latitude": 22.6,
+      "longitude": 90.2
+    },
+    {
+      "id": 1337216,
+      "name": "Patuakhali",
+      "nativeName": "Patuakhali",
+      "code": "BD-A-1337216",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-A",
+      "latitude": 22.33333,
+      "longitude": 90.33333
+    },
+    {
+      "id": 1477494,
+      "name": "Pirojpur",
+      "nativeName": "Pirojpur",
+      "code": "BD-A-1477494",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-A",
+      "latitude": 22.53671,
+      "longitude": 90.00033
+    }
+  ]
+}

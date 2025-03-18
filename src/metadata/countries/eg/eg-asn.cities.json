@@ -1,0 +1,40 @@
+{
+  "stateId": 359787,
+  "stateCode": "EG-ASN",
+  "countryCode": "EG",
+  "cities": [
+    {
+      "id": 359788,
+      "name": "Markaz Aswān",
+      "nativeName": "Markaz Aswān",
+      "code": "EG-ASN-359788",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-ASN",
+      "latitude": 24.05599,
+      "longitude": 32.88491
+    },
+    {
+      "id": 355633,
+      "name": "Markaz Idfū",
+      "nativeName": "Markaz Idfū",
+      "code": "EG-ASN-355633",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-ASN",
+      "latitude": 25.00736,
+      "longitude": 32.84827
+    },
+    {
+      "id": 346518,
+      "name": "Markaz ‘Unaybah",
+      "nativeName": "Markaz ‘Unaybah",
+      "code": "EG-ASN-346518",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-ASN",
+      "latitude": 22.78333,
+      "longitude": 32.58333
+    }
+  ]
+}

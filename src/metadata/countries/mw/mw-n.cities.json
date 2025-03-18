@@ -1,0 +1,73 @@
+{
+  "stateId": 924591,
+  "stateCode": "MW-N",
+  "countryCode": "MW",
+  "cities": [
+    {
+      "id": 235749,
+      "name": "Chitipa district",
+      "nativeName": "Chitipa District",
+      "code": "MW-N-235749",
+      "countryId": 927384,
+      "countryCode": "MW",
+      "stateCode": "MW-N",
+      "latitude": -9.92727,
+      "longitude": 33.42541
+    },
+    {
+      "id": 928657,
+      "name": "Karonga District",
+      "nativeName": "Karonga District",
+      "code": "MW-N-928657",
+      "countryId": 927384,
+      "countryCode": "MW",
+      "stateCode": "MW-N",
+      "latitude": -10.11153,
+      "longitude": 33.88151
+    },
+    {
+      "id": 1105841,
+      "name": "Likoma District",
+      "nativeName": "Likoma District",
+      "code": "MW-N-1105841",
+      "countryId": 927384,
+      "countryCode": "MW",
+      "stateCode": "MW-N",
+      "latitude": -12.06065,
+      "longitude": 34.73608
+    },
+    {
+      "id": 925496,
+      "name": "Mzimba District",
+      "nativeName": "Mzimba District",
+      "code": "MW-N-925496",
+      "countryId": 927384,
+      "countryCode": "MW",
+      "stateCode": "MW-N",
+      "latitude": -11.85428,
+      "longitude": 33.60778
+    },
+    {
+      "id": 924730,
+      "name": "Nkhata Bay District",
+      "nativeName": "Nkhata Bay District",
+      "code": "MW-N-924730",
+      "countryId": 927384,
+      "countryCode": "MW",
+      "stateCode": "MW-N",
+      "latitude": -11.65304,
+      "longitude": 34.05322
+    },
+    {
+      "id": 924100,
+      "name": "Rumphi District",
+      "nativeName": "Rumphi District",
+      "code": "MW-N-924100",
+      "countryId": 927384,
+      "countryCode": "MW",
+      "stateCode": "MW-N",
+      "latitude": -10.80292,
+      "longitude": 33.80524
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "stateId": 428514,
+  "stateCode": "BI-BB",
+  "countryCode": "BI",
+  "cities": [
+    {
+      "id": 7670587,
+      "name": "Bubanza",
+      "nativeName": "Bubanza",
+      "code": "BI-BB-7670587",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-BB",
+      "latitude": -3.05209,
+      "longitude": 29.36963
+    },
+    {
+      "id": 8303259,
+      "name": "Commune of Gihanga",
+      "nativeName": "Commune of Gihanga",
+      "code": "BI-BB-8303259",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-BB",
+      "latitude": -3.192,
+      "longitude": 29.294
+    },
+    {
+      "id": 9072887,
+      "name": "Commune of Mpanda",
+      "nativeName": "Commune of Mpanda",
+      "code": "BI-BB-9072887",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-BB",
+      "latitude": -3.2,
+      "longitude": 29.4
+    },
+    {
+      "id": 9072888,
+      "name": "Commune of Musigati",
+      "nativeName": "Commune of Musigati",
+      "code": "BI-BB-9072888",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-BB",
+      "latitude": -3.06667,
+      "longitude": 29.43333
+    },
+    {
+      "id": 9171822,
+      "name": "Rugazi",
+      "nativeName": "Rugazi",
+      "code": "BI-BB-9171822",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-BB",
+      "latitude": -3.20675,
+      "longitude": 29.48447
+    }
+  ]
+}

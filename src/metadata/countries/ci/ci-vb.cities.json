@@ -1,0 +1,29 @@
+{
+  "stateId": 11153061,
+  "stateCode": "CI-VB",
+  "countryCode": "CI",
+  "cities": [
+    {
+      "id": 11153170,
+      "name": "Gbêkê",
+      "nativeName": "Gbêkê",
+      "code": "CI-VB-11153170",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "stateCode": "CI-VB",
+      "latitude": 7.70271,
+      "longitude": -5.28511
+    },
+    {
+      "id": 11153171,
+      "name": "Hambol",
+      "nativeName": "Hambol",
+      "code": "CI-VB-11153171",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "stateCode": "CI-VB",
+      "latitude": 8.30368,
+      "longitude": -5.15396
+    }
+  ]
+}

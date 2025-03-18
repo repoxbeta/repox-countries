@@ -1,0 +1,238 @@
+{
+  "stateId": 2349961,
+  "stateCode": "NG-AN",
+  "countryCode": "NG",
+  "cities": [
+    {
+      "id": 8638035,
+      "name": "Aguata",
+      "nativeName": "Aguata",
+      "code": "NG-AN-8638035",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-AN",
+      "latitude": 5.99081,
+      "longitude": 7.08124
+    },
+    {
+      "id": 7701409,
+      "name": "Anambra East",
+      "nativeName": "Anambra East",
+      "code": "NG-AN-7701409",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-AN",
+      "latitude": 6.26667,
+      "longitude": 6.81667
+    },
+    {
+      "id": 7701530,
+      "name": "Anambra West",
+      "nativeName": "Anambra West",
+      "code": "NG-AN-7701530",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-AN",
+      "latitude": 6.35931,
+      "longitude": 6.74968
+    },
+    {
+      "id": 7701411,
+      "name": "Anaocha",
+      "nativeName": "Anaocha",
+      "code": "NG-AN-7701411",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-AN",
+      "latitude": 6.06824,
+      "longitude": 6.9963
+    },
+    {
+      "id": 7701412,
+      "name": "Awka North",
+      "nativeName": "Awka North",
+      "code": "NG-AN-7701412",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-AN",
+      "latitude": 6.33333,
+      "longitude": 7
+    },
+    {
+      "id": 7701413,
+      "name": "Awka South",
+      "nativeName": "Awka South",
+      "code": "NG-AN-7701413",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-AN",
+      "latitude": 6.20694,
+      "longitude": 7.06778
+    },
+    {
+      "id": 8638032,
+      "name": "Ayamelum",
+      "nativeName": "Ayamelum",
+      "code": "NG-AN-8638032",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-AN",
+      "latitude": 6.55355,
+      "longitude": 6.98694
+    },
+    {
+      "id": 7932064,
+      "name": "Dunukofia",
+      "nativeName": "Dunukofia",
+      "code": "NG-AN-7932064",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-AN",
+      "latitude": 6.2738,
+      "longitude": 6.978
+    },
+    {
+      "id": 8638042,
+      "name": "Ekwusigo",
+      "nativeName": "Ekwusigo",
+      "code": "NG-AN-8638042",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-AN",
+      "latitude": 5.98067,
+      "longitude": 6.83992
+    },
+    {
+      "id": 7701531,
+      "name": "Idemili North",
+      "nativeName": "Idemili North",
+      "code": "NG-AN-7701531",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-AN",
+      "latitude": 6.1285,
+      "longitude": 6.93342
+    },
+    {
+      "id": 7701532,
+      "name": "Idemili South",
+      "nativeName": "Idemili South",
+      "code": "NG-AN-7701532",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-AN",
+      "latitude": 6.04769,
+      "longitude": 6.94992
+    },
+    {
+      "id": 8638036,
+      "name": "Ihiala",
+      "nativeName": "Ihiala",
+      "code": "NG-AN-8638036",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-AN",
+      "latitude": 5.84683,
+      "longitude": 6.85918
+    },
+    {
+      "id": 7701533,
+      "name": "Njikoka",
+      "nativeName": "Njikoka",
+      "code": "NG-AN-7701533",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-AN",
+      "latitude": 6.1842,
+      "longitude": 6.97655
+    },
+    {
+      "id": 8638038,
+      "name": "Nnewi North",
+      "nativeName": "Nnewi North",
+      "code": "NG-AN-8638038",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-AN",
+      "latitude": 5.99994,
+      "longitude": 6.90177
+    },
+    {
+      "id": 7701534,
+      "name": "Nnewi South",
+      "nativeName": "Nnewi South",
+      "code": "NG-AN-7701534",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-AN",
+      "latitude": 5.93321,
+      "longitude": 6.92306
+    },
+    {
+      "id": 7701535,
+      "name": "Ogbaru",
+      "nativeName": "Ogbaru",
+      "code": "NG-AN-7701535",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-AN",
+      "latitude": 6.01577,
+      "longitude": 6.74459
+    },
+    {
+      "id": 7873887,
+      "name": "Onitsha North",
+      "nativeName": "Onitsha North",
+      "code": "NG-AN-7873887",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-AN",
+      "latitude": 6.16081,
+      "longitude": 6.79968
+    },
+    {
+      "id": 8638046,
+      "name": "Onitsha South",
+      "nativeName": "Onitsha South",
+      "code": "NG-AN-8638046",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-AN",
+      "latitude": 6.1267,
+      "longitude": 6.77736
+    },
+    {
+      "id": 7701536,
+      "name": "Orumba North",
+      "nativeName": "Orumba North",
+      "code": "NG-AN-7701536",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-AN",
+      "latitude": 6.06667,
+      "longitude": 7.08333
+    },
+    {
+      "id": 7701537,
+      "name": "Orumba South",
+      "nativeName": "Orumba South",
+      "code": "NG-AN-7701537",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-AN",
+      "latitude": 5.96667,
+      "longitude": 7.21667
+    },
+    {
+      "id": 7701538,
+      "name": "Oyi",
+      "nativeName": "Oyi",
+      "code": "NG-AN-7701538",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-AN",
+      "latitude": 6.1767,
+      "longitude": 6.86187
+    }
+  ]
+}

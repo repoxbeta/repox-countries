@@ -1,0 +1,29 @@
+{
+  "stateId": 3586831,
+  "stateCode": "SV-CU",
+  "countryCode": "SV",
+  "cities": [
+    {
+      "id": 12916947,
+      "name": "Cuscatlán Norte",
+      "nativeName": "Cuscatlán Norte",
+      "code": "SV-CU-12916947",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-CU",
+      "latitude": 13.84124,
+      "longitude": -89.05968
+    },
+    {
+      "id": 12916961,
+      "name": "Cuscatlán Sur",
+      "nativeName": "Cuscatlán Sur",
+      "code": "SV-CU-12916961",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-CU",
+      "latitude": 13.73163,
+      "longitude": -88.92478
+    }
+  ]
+}

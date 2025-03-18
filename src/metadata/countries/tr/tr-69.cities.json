@@ -1,0 +1,29 @@
+{
+  "stateId": 862471,
+  "stateCode": "TR-69",
+  "countryCode": "TR",
+  "cities": [
+    {
+      "id": 8631614,
+      "name": "Aydıntepe İlçesi",
+      "nativeName": "Aydıntepe İlçesi",
+      "code": "TR-69-8631614",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-69",
+      "latitude": 40.39137,
+      "longitude": 40.14729
+    },
+    {
+      "id": 8631613,
+      "name": "Demirözü İlçesi",
+      "nativeName": "Demirözü İlçesi",
+      "code": "TR-69-8631613",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-69",
+      "latitude": 40.1656,
+      "longitude": 39.89343
+    }
+  ]
+}

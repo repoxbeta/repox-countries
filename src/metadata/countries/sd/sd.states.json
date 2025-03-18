@@ -1,0 +1,204 @@
+{
+  "countryId": 366755,
+  "countryCode": "SD",
+  "states": [
+    {
+      "id": 408648,
+      "name": "Al Jazīrah",
+      "nativeName": "Al Jazirah State",
+      "code": "SD-GZ",
+      "internalCode": "GZ",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "latitude": 14.6,
+      "longitude": 33.35
+    },
+    {
+      "id": 408649,
+      "name": "Al Qaḑārif",
+      "nativeName": "Al Qadarif State",
+      "code": "SD-GD",
+      "internalCode": "GD",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "latitude": 14.05,
+      "longitude": 35.35
+    },
+    {
+      "id": 408654,
+      "name": "Blue Nile State",
+      "nativeName": "Blue Nile",
+      "code": "SD-NB",
+      "internalCode": "NB",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "latitude": 11.15,
+      "longitude": 34.1
+    },
+    {
+      "id": 8394436,
+      "name": "Central Darfur",
+      "nativeName": "Central Darfur State",
+      "code": "SD-DC",
+      "internalCode": "DC",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "latitude": 12.38333,
+      "longitude": 23.3
+    },
+    {
+      "id": 8394435,
+      "name": "Eastern Darfur",
+      "nativeName": "East Darfur",
+      "code": "SD-DE",
+      "internalCode": "DE",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "latitude": 11.16667,
+      "longitude": 26.5
+    },
+    {
+      "id": 408663,
+      "name": "Kassala",
+      "nativeName": "Kassala State",
+      "code": "SD-KA",
+      "internalCode": "KA",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "latitude": 15.9,
+      "longitude": 35.65
+    },
+    {
+      "id": 379253,
+      "name": "Khartoum",
+      "nativeName": "Khartoum",
+      "code": "SD-KH",
+      "internalCode": "KH",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "latitude": 15.8,
+      "longitude": 33
+    },
+    {
+      "id": 408667,
+      "name": "North Kordofan",
+      "nativeName": "North Kordofan",
+      "code": "SD-KN",
+      "internalCode": "KN",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "latitude": 14.68333,
+      "longitude": 29.93333
+    },
+    {
+      "id": 408666,
+      "name": "Northern Darfur",
+      "nativeName": "North Darfur",
+      "code": "SD-DN",
+      "internalCode": "DN",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "latitude": 16,
+      "longitude": 25.5
+    },
+    {
+      "id": 408646,
+      "name": "Red Sea State",
+      "nativeName": "Red Sea",
+      "code": "SD-RS",
+      "internalCode": "RS",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "latitude": 19.96667,
+      "longitude": 35.66667
+    },
+    {
+      "id": 408664,
+      "name": "River Nile",
+      "nativeName": "River Nile",
+      "code": "SD-NR",
+      "internalCode": "NR",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "latitude": 19,
+      "longitude": 33.2
+    },
+    {
+      "id": 408669,
+      "name": "Sinnār",
+      "nativeName": "Sennar",
+      "code": "SD-SI",
+      "internalCode": "SI",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "latitude": 13,
+      "longitude": 34
+    },
+    {
+      "id": 408660,
+      "name": "Southern Darfur",
+      "nativeName": "South Darfur",
+      "code": "SD-DS",
+      "internalCode": "DS",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "latitude": 11.5,
+      "longitude": 24.66667
+    },
+    {
+      "id": 408661,
+      "name": "Southern Kordofan",
+      "nativeName": "South Kordofan",
+      "code": "SD-KS",
+      "internalCode": "KS",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "latitude": 11.26667,
+      "longitude": 30.83333
+    },
+    {
+      "id": 378389,
+      "name": "The Northern State",
+      "nativeName": "Northern",
+      "code": "SD-NO",
+      "internalCode": "NO",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "latitude": 19.3,
+      "longitude": 29.5
+    },
+    {
+      "id": 408659,
+      "name": "West Kordofan",
+      "nativeName": "West Kordofan State",
+      "code": "SD-GK",
+      "internalCode": "GK",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "latitude": 11.83333,
+      "longitude": 28.31667
+    },
+    {
+      "id": 408658,
+      "name": "Western Darfur",
+      "nativeName": "Sultanate Dar Massalit",
+      "code": "SD-DW",
+      "internalCode": "DW",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "latitude": 13.41667,
+      "longitude": 22.66667
+    },
+    {
+      "id": 408653,
+      "name": "White Nile",
+      "nativeName": "White Nile",
+      "code": "SD-NW",
+      "internalCode": "NW",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "latitude": 13.5,
+      "longitude": 32.4
+    }
+  ]
+}

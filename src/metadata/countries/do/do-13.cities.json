@@ -1,0 +1,51 @@
+{
+  "stateId": 3499977,
+  "stateCode": "DO-13",
+  "countryCode": "DO",
+  "cities": [
+    {
+      "id": 3509366,
+      "name": "Constanza",
+      "nativeName": "Constanza",
+      "code": "DO-13-3509366",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-13",
+      "latitude": 18.86667,
+      "longitude": -70.7
+    },
+    {
+      "id": 3504159,
+      "name": "Jarabacoa",
+      "nativeName": "Jarabacoa",
+      "code": "DO-13-3504159",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-13",
+      "latitude": 19.13333,
+      "longitude": -70.66667
+    },
+    {
+      "id": 11154576,
+      "name": "Jima Abajo",
+      "nativeName": "Jima Abajo",
+      "code": "DO-13-11154576",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-13",
+      "latitude": 19.12891,
+      "longitude": -70.39553
+    },
+    {
+      "id": 3499980,
+      "name": "La Vega",
+      "nativeName": "La Vega",
+      "code": "DO-13-3499980",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-13",
+      "latitude": 19.25,
+      "longitude": -70.5
+    }
+  ]
+}

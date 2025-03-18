@@ -1,0 +1,84 @@
+{
+  "stateId": 3836350,
+  "stateCode": "AR-Z",
+  "countryCode": "AR",
+  "cities": [
+    {
+      "id": 3860153,
+      "name": "Departamento de Corpen Aike",
+      "nativeName": "Departamento de Corpen Aike",
+      "code": "AR-Z-3860153",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-Z",
+      "latitude": -50,
+      "longitude": -69.25
+    },
+    {
+      "id": 3851119,
+      "name": "Departamento de Lago Buenos Aires",
+      "nativeName": "Departamento de Lago Buenos Aires",
+      "code": "AR-Z-3851119",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-Z",
+      "latitude": -47,
+      "longitude": -70.91667
+    },
+    {
+      "id": 3845272,
+      "name": "Departamento de Magallanes",
+      "nativeName": "Departamento de Magallanes",
+      "code": "AR-Z-3845272",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-Z",
+      "latitude": -48.75,
+      "longitude": -68.5
+    },
+    {
+      "id": 3859455,
+      "name": "Deseado Department",
+      "nativeName": "Departamento de Deseado",
+      "code": "AR-Z-3859455",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-Z",
+      "latitude": -47.33333,
+      "longitude": -67.83333
+    },
+    {
+      "id": 3854444,
+      "name": "Güer Aike Department",
+      "nativeName": "Departamento de Güer Aike",
+      "code": "AR-Z-3854444",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-Z",
+      "latitude": -51.33333,
+      "longitude": -70.33333
+    },
+    {
+      "id": 3851122,
+      "name": "Lago Argentino Department",
+      "nativeName": "Departamento de Lago Argentino",
+      "code": "AR-Z-3851122",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-Z",
+      "latitude": -49.75,
+      "longitude": -72
+    },
+    {
+      "id": 3838892,
+      "name": "Río Chico Department",
+      "nativeName": "Departamento de Río Chico",
+      "code": "AR-Z-3838892",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-Z",
+      "latitude": -48.25,
+      "longitude": -71
+    }
+  ]
+}

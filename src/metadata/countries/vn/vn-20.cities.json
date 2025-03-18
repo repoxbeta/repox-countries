@@ -1,0 +1,95 @@
+{
+  "stateId": 1566338,
+  "stateCode": "VN-20",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 1905075,
+      "name": "Hưng Hà District",
+      "nativeName": "Huyện Hưng Hà",
+      "code": "VN-20-1905075",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-20",
+      "latitude": 20.59464,
+      "longitude": 106.2123
+    },
+    {
+      "id": 1905071,
+      "name": "Kiến Xương District",
+      "nativeName": "Huyện Kiến Xương",
+      "code": "VN-20-1905071",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-20",
+      "latitude": 20.40081,
+      "longitude": 106.42032
+    },
+    {
+      "id": 1905074,
+      "name": "Quỳnh Phụ District",
+      "nativeName": "Huyện Quỳnh Phụ",
+      "code": "VN-20-1905074",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-20",
+      "latitude": 20.65095,
+      "longitude": 106.36359
+    },
+    {
+      "id": 1905068,
+      "name": "Thành Phố Thái Bình",
+      "nativeName": "Thành Phố Thái Bình",
+      "code": "VN-20-1905068",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-20",
+      "latitude": 20.4467,
+      "longitude": 106.33623
+    },
+    {
+      "id": 1905073,
+      "name": "Thái Thụy District",
+      "nativeName": "Huyện Thái Thụy",
+      "code": "VN-20-1905073",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-20",
+      "latitude": 20.53916,
+      "longitude": 106.51688
+    },
+    {
+      "id": 1905072,
+      "name": "Tiền Hải District",
+      "nativeName": "Huyện Tiền Hải",
+      "code": "VN-20-1905072",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-20",
+      "latitude": 20.38465,
+      "longitude": 106.52882
+    },
+    {
+      "id": 1905069,
+      "name": "Vũ Thư District",
+      "nativeName": "Huyện Vũ Thư",
+      "code": "VN-20-1905069",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-20",
+      "latitude": 20.43732,
+      "longitude": 106.26529
+    },
+    {
+      "id": 1905070,
+      "name": "Đông Hưng District",
+      "nativeName": "Huyện Ðông Hưng",
+      "code": "VN-20-1905070",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-20",
+      "latitude": 20.54388,
+      "longitude": 106.3409
+    }
+  ]
+}

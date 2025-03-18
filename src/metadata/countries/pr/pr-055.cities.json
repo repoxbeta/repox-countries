@@ -1,0 +1,95 @@
+{
+  "stateId": 4565091,
+  "stateCode": "PR-055",
+  "countryCode": "PR",
+  "cities": [
+    {
+      "id": 7268206,
+      "name": "Arena Barrio",
+      "nativeName": "Arena Barrio",
+      "code": "PR-055-7268206",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-055",
+      "latitude": 18.01832,
+      "longitude": -66.93966
+    },
+    {
+      "id": 7268343,
+      "name": "Carenero Barrio",
+      "nativeName": "Carenero Barrio",
+      "code": "PR-055-7268343",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-055",
+      "latitude": 17.96501,
+      "longitude": -66.88322
+    },
+    {
+      "id": 7268325,
+      "name": "Caño Barrio",
+      "nativeName": "Caño Barrio",
+      "code": "PR-055-7268325",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-055",
+      "latitude": 17.99631,
+      "longitude": -66.90194
+    },
+    {
+      "id": 7268084,
+      "name": "Ciénaga Barrio",
+      "nativeName": "Ciénaga Barrio",
+      "code": "PR-055-7268084",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-055",
+      "latitude": 17.99262,
+      "longitude": -66.93044
+    },
+    {
+      "id": 7268374,
+      "name": "Ensenada Barrio",
+      "nativeName": "Ensenada Barrio",
+      "code": "PR-055-7268374",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-055",
+      "latitude": 17.96969,
+      "longitude": -66.92869
+    },
+    {
+      "id": 7268422,
+      "name": "Guánica Barrio-Pueblo",
+      "nativeName": "Guánica Barrio-Pueblo",
+      "code": "PR-055-7268422",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-055",
+      "latitude": 17.96869,
+      "longitude": -66.91186
+    },
+    {
+      "id": 7268668,
+      "name": "Montalva Barrio",
+      "nativeName": "Montalva Barrio",
+      "code": "PR-055-7268668",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-055",
+      "latitude": 17.95415,
+      "longitude": -66.94766
+    },
+    {
+      "id": 7269018,
+      "name": "Susúa Baja Barrio",
+      "nativeName": "Susúa Baja Barrio",
+      "code": "PR-055-7269018",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-055",
+      "latitude": 18.00878,
+      "longitude": -66.89111
+    }
+  ]
+}

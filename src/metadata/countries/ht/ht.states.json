@@ -1,0 +1,116 @@
+{
+  "countryId": 3723988,
+  "countryCode": "HT",
+  "states": [
+    {
+      "id": 3731053,
+      "name": "Artibonite",
+      "nativeName": "Département de l'Artibonite",
+      "code": "HT-AR",
+      "internalCode": "AR",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "latitude": 19.33333,
+      "longitude": -72.5
+    },
+    {
+      "id": 3728069,
+      "name": "Centre",
+      "nativeName": "Centre",
+      "code": "HT-CE",
+      "internalCode": "CE",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "latitude": 19,
+      "longitude": -72
+    },
+    {
+      "id": 3724613,
+      "name": "Grand'Anse",
+      "nativeName": "Grand'Anse",
+      "code": "HT-GA",
+      "internalCode": "GA",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "latitude": 18.5,
+      "longitude": -74.08333
+    },
+    {
+      "id": 7115999,
+      "name": "Nippes",
+      "nativeName": "Département de Nippes",
+      "code": "HT-NI",
+      "internalCode": "NI",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "latitude": 18.44835,
+      "longitude": -73.4285
+    },
+    {
+      "id": 3719543,
+      "name": "Nord",
+      "nativeName": "Nord",
+      "code": "HT-ND",
+      "internalCode": "ND",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "latitude": 19.6,
+      "longitude": -72.3
+    },
+    {
+      "id": 3719540,
+      "name": "Nord-Est",
+      "nativeName": "Département du Nord-Est",
+      "code": "HT-NE",
+      "internalCode": "NE",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "latitude": 19.48897,
+      "longitude": -71.85713
+    },
+    {
+      "id": 3719536,
+      "name": "Nord-Ouest",
+      "nativeName": "Nord-Ouest",
+      "code": "HT-NO",
+      "internalCode": "NO",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "latitude": 19.83333,
+      "longitude": -73
+    },
+    {
+      "id": 3719432,
+      "name": "Ouest",
+      "nativeName": "Département de l'Ouest",
+      "code": "HT-OU",
+      "internalCode": "OU",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "latitude": 18.66381,
+      "longitude": -72.29141
+    },
+    {
+      "id": 3716952,
+      "name": "Sud",
+      "nativeName": "Sud",
+      "code": "HT-SD",
+      "internalCode": "SD",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "latitude": 18.3,
+      "longitude": -73.73333
+    },
+    {
+      "id": 3716950,
+      "name": "Sud-Est",
+      "nativeName": "Sud-Est",
+      "code": "HT-SE",
+      "internalCode": "SE",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "latitude": 18.3,
+      "longitude": -72.4
+    }
+  ]
+}

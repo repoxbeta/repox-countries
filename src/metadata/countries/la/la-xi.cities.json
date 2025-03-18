@@ -1,0 +1,84 @@
+{
+  "stateId": 1652077,
+  "stateCode": "LA-XI",
+  "countryCode": "LA",
+  "cities": [
+    {
+      "id": 1655320,
+      "name": "Mok May District",
+      "nativeName": "Muang Mok",
+      "code": "LA-XI-1655320",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-XI",
+      "latitude": 18.91667,
+      "longitude": 104.01667
+    },
+    {
+      "id": 1656563,
+      "name": "Muang Kham",
+      "nativeName": "Muang Kham",
+      "code": "LA-XI-1656563",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-XI",
+      "latitude": 19.75768,
+      "longitude": 103.65689
+    },
+    {
+      "id": 1904814,
+      "name": "Muang Khoun",
+      "nativeName": "Muang Khoun",
+      "code": "LA-XI-1904814",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-XI",
+      "latitude": 19.27979,
+      "longitude": 103.50898
+    },
+    {
+      "id": 1904812,
+      "name": "Muang Nonghèt",
+      "nativeName": "Muang Nonghèt",
+      "code": "LA-XI-1904812",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-XI",
+      "latitude": 19.56048,
+      "longitude": 103.92355
+    },
+    {
+      "id": 1904813,
+      "name": "Muang Phaxai",
+      "nativeName": "Muang Phaxai",
+      "code": "LA-XI-1904813",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-XI",
+      "latitude": 19.25808,
+      "longitude": 103.09067
+    },
+    {
+      "id": 1904816,
+      "name": "Muang Phou Kont",
+      "nativeName": "Muang Phou Kont",
+      "code": "LA-XI-1904816",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-XI",
+      "latitude": 19.62585,
+      "longitude": 103.01856
+    },
+    {
+      "id": 1654248,
+      "name": "Muang Pèk",
+      "nativeName": "Muang Pèk",
+      "code": "LA-XI-1654248",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-XI",
+      "latitude": 19.51372,
+      "longitude": 103.27385
+    }
+  ]
+}

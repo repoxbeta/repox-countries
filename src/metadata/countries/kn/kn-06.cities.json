@@ -1,0 +1,128 @@
+{
+  "stateId": 3575176,
+  "stateCode": "KN-06",
+  "countryCode": "KN",
+  "cities": [
+    {
+      "id": 3575441,
+      "name": "Dieppe Bay Town",
+      "nativeName": "Dieppe Bay Town",
+      "code": "KN-06-3575441",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-06",
+      "latitude": 17.41473,
+      "longitude": -62.8139
+    },
+    {
+      "id": 3575529,
+      "name": "Brambles",
+      "nativeName": "Brambles",
+      "code": "KN-06-3575529",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-06",
+      "latitude": 17.38333,
+      "longitude": -62.76667
+    },
+    {
+      "id": 3575518,
+      "name": "Brownes",
+      "nativeName": "Brownes",
+      "code": "KN-06-3575518",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-06",
+      "latitude": 17.4,
+      "longitude": -62.8
+    },
+    {
+      "id": 3575405,
+      "name": "Geagans",
+      "nativeName": "Geagans",
+      "code": "KN-06-3575405",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-06",
+      "latitude": 17.38333,
+      "longitude": -62.78333
+    },
+    {
+      "id": 3575378,
+      "name": "Harris",
+      "nativeName": "Harris",
+      "code": "KN-06-3575378",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-06",
+      "latitude": 17.40275,
+      "longitude": -62.78747
+    },
+    {
+      "id": 3575353,
+      "name": "Houstons",
+      "nativeName": "Houstons",
+      "code": "KN-06-3575353",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-06",
+      "latitude": 17.38333,
+      "longitude": -62.78333
+    },
+    {
+      "id": 3575309,
+      "name": "Lucas",
+      "nativeName": "Lucas",
+      "code": "KN-06-3575309",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-06",
+      "latitude": 17.3,
+      "longitude": -62.7
+    },
+    {
+      "id": 3575222,
+      "name": "Parson’s Ground",
+      "nativeName": "Parson’s Ground",
+      "code": "KN-06-3575222",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-06",
+      "latitude": 17.40945,
+      "longitude": -62.80515
+    },
+    {
+      "id": 3575186,
+      "name": "Sadlers",
+      "nativeName": "Sadlers",
+      "code": "KN-06-3575186",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-06",
+      "latitude": 17.40454,
+      "longitude": -62.79296
+    },
+    {
+      "id": 3575126,
+      "name": "Tabernacle",
+      "nativeName": "Tabernacle",
+      "code": "KN-06-3575126",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-06",
+      "latitude": 17.3866,
+      "longitude": -62.77386
+    },
+    {
+      "id": 3575542,
+      "name": "Belle Vue",
+      "nativeName": "Belle Vue",
+      "code": "KN-06-3575542",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-06",
+      "latitude": 17.40192,
+      "longitude": -62.78056
+    }
+  ]
+}

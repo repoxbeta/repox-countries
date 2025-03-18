@@ -1,0 +1,95 @@
+{
+  "stateId": 360688,
+  "stateCode": "EG-MN",
+  "countryCode": "EG",
+  "cities": [
+    {
+      "id": 359211,
+      "name": "Markaz Banī Mazār",
+      "nativeName": "Markaz Banī Mazār",
+      "code": "EG-MN-359211",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-MN",
+      "latitude": 28.50789,
+      "longitude": 30.75736
+    },
+    {
+      "id": 358273,
+      "name": "Markaz Dayr Mawās",
+      "nativeName": "Markaz Dayr Mawās",
+      "code": "EG-MN-358273",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-MN",
+      "latitude": 27.62645,
+      "longitude": 30.79317
+    },
+    {
+      "id": 352950,
+      "name": "Markaz Mallawī",
+      "nativeName": "Markaz Mallawī",
+      "code": "EG-MN-352950",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-MN",
+      "latitude": 27.76209,
+      "longitude": 30.80105
+    },
+    {
+      "id": 352626,
+      "name": "Markaz Maţāy",
+      "nativeName": "Markaz Maţāy",
+      "code": "EG-MN-352626",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-MN",
+      "latitude": 28.40457,
+      "longitude": 30.71746
+    },
+    {
+      "id": 362276,
+      "name": "Markaz Qurqāş",
+      "nativeName": "Markaz Qurqāş",
+      "code": "EG-MN-362276",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-MN",
+      "latitude": 27.92177,
+      "longitude": 30.77655
+    },
+    {
+      "id": 349716,
+      "name": "Markaz Samālūţ",
+      "nativeName": "Markaz Samālūţ",
+      "code": "EG-MN-349716",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-MN",
+      "latitude": 28.28333,
+      "longitude": 30.66667
+    },
+    {
+      "id": 360687,
+      "name": "Markaz al Minyā",
+      "nativeName": "Markaz al Minyā",
+      "code": "EG-MN-360687",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-MN",
+      "latitude": 28.08581,
+      "longitude": 30.70452
+    },
+    {
+      "id": 361099,
+      "name": "Markaz al ‘Idwah",
+      "nativeName": "Markaz al ‘Idwah",
+      "code": "EG-MN-361099",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-MN",
+      "latitude": 28.68896,
+      "longitude": 30.74143
+    }
+  ]
+}

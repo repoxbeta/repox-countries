@@ -1,0 +1,29 @@
+{
+  "stateId": 3345303,
+  "stateCode": "SM-01",
+  "countryCode": "SM",
+  "cities": [
+    {
+      "id": 3183500,
+      "name": "Acquaviva",
+      "nativeName": "Acquaviva",
+      "code": "SM-01-3183500",
+      "countryId": 3168068,
+      "countryCode": "SM",
+      "stateCode": "SM-01",
+      "latitude": 43.94593,
+      "longitude": 12.4185
+    },
+    {
+      "id": 7302185,
+      "name": "Gualdicciolo",
+      "nativeName": "Gualdicciolo",
+      "code": "SM-01-7302185",
+      "countryId": 3168068,
+      "countryCode": "SM",
+      "stateCode": "SM-01",
+      "latitude": 43.94982,
+      "longitude": 12.40726
+    }
+  ]
+}

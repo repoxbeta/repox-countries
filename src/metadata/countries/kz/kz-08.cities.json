@@ -1,0 +1,29 @@
+{
+  "stateId": 1538316,
+  "stateCode": "KZ-08",
+  "countryCode": "KZ",
+  "cities": [
+    {
+      "id": 1521368,
+      "name": "Baikonur",
+      "nativeName": "Baikonur",
+      "code": "KZ-08-1521368",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-08",
+      "latitude": 45.61667,
+      "longitude": 63.31667
+    },
+    {
+      "id": 9858283,
+      "name": "Tyuratam",
+      "nativeName": "Tyuratam",
+      "code": "KZ-08-9858283",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-08",
+      "latitude": 45.65005,
+      "longitude": 63.31163
+    }
+  ]
+}

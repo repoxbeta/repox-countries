@@ -1,0 +1,117 @@
+{
+  "stateId": 725713,
+  "stateCode": "BG-06",
+  "countryCode": "BG",
+  "cities": [
+    {
+      "id": 733057,
+      "name": "Borovan",
+      "nativeName": "Obshtina Borovan",
+      "code": "BG-06-733057",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-06",
+      "latitude": 43.43333,
+      "longitude": 23.75
+    },
+    {
+      "id": 732703,
+      "name": "Byala Slatina",
+      "nativeName": "Obshtina Byala Slatina",
+      "code": "BG-06-732703",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-06",
+      "latitude": 43.46667,
+      "longitude": 23.93333
+    },
+    {
+      "id": 864566,
+      "name": "Hayredin",
+      "nativeName": "Obshtina Hayredin",
+      "code": "BG-06-864566",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-06",
+      "latitude": 43.58333,
+      "longitude": 23.66667
+    },
+    {
+      "id": 730012,
+      "name": "Kozloduy",
+      "nativeName": "Obshtina Kozloduy",
+      "code": "BG-06-730012",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-06",
+      "latitude": 43.71667,
+      "longitude": 23.73333
+    },
+    {
+      "id": 729907,
+      "name": "Krivodol",
+      "nativeName": "Obshtina Krivodol",
+      "code": "BG-06-729907",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-06",
+      "latitude": 43.38333,
+      "longitude": 23.48333
+    },
+    {
+      "id": 729133,
+      "name": "Mezdra",
+      "nativeName": "Obshtina Mezdra",
+      "code": "BG-06-729133",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-06",
+      "latitude": 43.13333,
+      "longitude": 23.73333
+    },
+    {
+      "id": 729039,
+      "name": "Mizia",
+      "nativeName": "Obshtina Mizia",
+      "code": "BG-06-729039",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-06",
+      "latitude": 43.63333,
+      "longitude": 23.85
+    },
+    {
+      "id": 728564,
+      "name": "Oryahovo",
+      "nativeName": "Obshtina Oryahovo",
+      "code": "BG-06-728564",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-06",
+      "latitude": 43.69038,
+      "longitude": 23.98643
+    },
+    {
+      "id": 727597,
+      "name": "Roman",
+      "nativeName": "Obshtina Roman",
+      "code": "BG-06-727597",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-06",
+      "latitude": 43.15,
+      "longitude": 23.91667
+    },
+    {
+      "id": 725711,
+      "name": "Vratsa",
+      "nativeName": "Obshtina Vratsa",
+      "code": "BG-06-725711",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-06",
+      "latitude": 43.28333,
+      "longitude": 23.6
+    }
+  ]
+}

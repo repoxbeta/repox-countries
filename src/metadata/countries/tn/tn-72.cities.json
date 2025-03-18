@@ -1,0 +1,62 @@
+{
+  "stateId": 2464645,
+  "stateCode": "TN-72",
+  "countryCode": "TN",
+  "cities": [
+    {
+      "id": 11106376,
+      "name": "Degach",
+      "nativeName": "Degache",
+      "code": "TN-72-11106376",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-72",
+      "latitude": 34.06956,
+      "longitude": 8.25047
+    },
+    {
+      "id": 11106375,
+      "name": "Hazoua",
+      "nativeName": "Hazoua",
+      "code": "TN-72-11106375",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-72",
+      "latitude": 33.76614,
+      "longitude": 7.65571
+    },
+    {
+      "id": 2468560,
+      "name": "Nefta",
+      "nativeName": "Nefta",
+      "code": "TN-72-2468560",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-72",
+      "latitude": 33.84889,
+      "longitude": 7.87926
+    },
+    {
+      "id": 11106377,
+      "name": "Tameghza",
+      "nativeName": "Tamaghza",
+      "code": "TN-72-11106377",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-72",
+      "latitude": 34.2647,
+      "longitude": 7.88488
+    },
+    {
+      "id": 2464646,
+      "name": "Tozeur",
+      "nativeName": "Tozeur",
+      "code": "TN-72-2464646",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-72",
+      "latitude": 33.94235,
+      "longitude": 8.10349
+    }
+  ]
+}

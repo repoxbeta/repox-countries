@@ -1,0 +1,116 @@
+{
+  "countryId": 3576468,
+  "countryCode": "LC",
+  "states": [
+    {
+      "id": 3576891,
+      "name": "Anse-la-Raye",
+      "nativeName": "Anse-la-Raye",
+      "code": "LC-01",
+      "internalCode": "01",
+      "countryId": 3576468,
+      "countryCode": "LC",
+      "latitude": 13.91207,
+      "longitude": -61.01566
+    },
+    {
+      "id": 11351387,
+      "name": "Canaries",
+      "nativeName": "Canaries",
+      "code": "LC-12",
+      "internalCode": "12",
+      "countryId": 3576468,
+      "countryCode": "LC",
+      "latitude": 13.90466,
+      "longitude": -61.06326
+    },
+    {
+      "id": 3576810,
+      "name": "Castries",
+      "nativeName": "Castries",
+      "code": "LC-02",
+      "internalCode": "02",
+      "countryId": 3576468,
+      "countryCode": "LC",
+      "latitude": 13.98404,
+      "longitude": -60.97
+    },
+    {
+      "id": 3576794,
+      "name": "Choiseul",
+      "nativeName": "Choiseul",
+      "code": "LC-03",
+      "internalCode": "03",
+      "countryId": 3576468,
+      "countryCode": "LC",
+      "latitude": 13.80157,
+      "longitude": -61.02819
+    },
+    {
+      "id": 3576764,
+      "name": "Dennery",
+      "nativeName": "Dennery",
+      "code": "LC-05",
+      "internalCode": "05",
+      "countryId": 3576468,
+      "countryCode": "LC",
+      "latitude": 13.92507,
+      "longitude": -60.91919
+    },
+    {
+      "id": 3576685,
+      "name": "Gros-Islet",
+      "nativeName": "Gros-Islet",
+      "code": "LC-06",
+      "internalCode": "06",
+      "countryId": 3576468,
+      "countryCode": "LC",
+      "latitude": 14.05366,
+      "longitude": -60.94494
+    },
+    {
+      "id": 3576662,
+      "name": "Laborie",
+      "nativeName": "Laborie",
+      "code": "LC-07",
+      "internalCode": "07",
+      "countryId": 3576468,
+      "countryCode": "LC",
+      "latitude": 13.7867,
+      "longitude": -61.00309
+    },
+    {
+      "id": 3576567,
+      "name": "Micoud",
+      "nativeName": "Micoud",
+      "code": "LC-08",
+      "internalCode": "08",
+      "countryId": 3576468,
+      "countryCode": "LC",
+      "latitude": 13.82041,
+      "longitude": -60.94563
+    },
+    {
+      "id": 3576441,
+      "name": "Soufrière",
+      "nativeName": "Soufrière",
+      "code": "LC-10",
+      "internalCode": "10",
+      "countryId": 3576468,
+      "countryCode": "LC",
+      "latitude": 13.84541,
+      "longitude": -61.02493
+    },
+    {
+      "id": 3576413,
+      "name": "Vieux-Fort",
+      "nativeName": "Vieux-Fort",
+      "code": "LC-11",
+      "internalCode": "11",
+      "countryId": 3576468,
+      "countryCode": "LC",
+      "latitude": 13.78407,
+      "longitude": -60.96588
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "stateId": 360997,
+  "stateCode": "EG-GZ",
+  "countryCode": "EG",
+  "cities": [
+    {
+      "id": 8146219,
+      "name": "Markaz Awsīm",
+      "nativeName": "Markaz Awsīm",
+      "code": "EG-GZ-8146219",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-GZ",
+      "latitude": 30.12723,
+      "longitude": 31.14303
+    },
+    {
+      "id": 355547,
+      "name": "Markaz Imbābah",
+      "nativeName": "Markaz Imbābah",
+      "code": "EG-GZ-355547",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-GZ",
+      "latitude": 30.18014,
+      "longitude": 31.02557
+    },
+    {
+      "id": 361474,
+      "name": "Markaz al Badrashayn",
+      "nativeName": "Markaz al Badrashayn",
+      "code": "EG-GZ-361474",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-GZ",
+      "latitude": 29.8214,
+      "longitude": 31.25789
+    },
+    {
+      "id": 360996,
+      "name": "Markaz al Jīzah",
+      "nativeName": "Markaz al Jīzah",
+      "code": "EG-GZ-360996",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-GZ",
+      "latitude": 29.93912,
+      "longitude": 31.21141
+    },
+    {
+      "id": 360479,
+      "name": "Markaz al Wāḩāt al Baḩrīyah",
+      "nativeName": "Markaz al Wāḩāt al Baḩrīyah",
+      "code": "EG-GZ-360479",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-GZ",
+      "latitude": 28.40618,
+      "longitude": 28.80703
+    },
+    {
+      "id": 361497,
+      "name": "Markaz al ‘Ayyāţ",
+      "nativeName": "Markaz al ‘Ayyāţ",
+      "code": "EG-GZ-361497",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-GZ",
+      "latitude": 29.55731,
+      "longitude": 31.24369
+    },
+    {
+      "id": 9179486,
+      "name": "Walikale",
+      "nativeName": "Walikale",
+      "code": "EG-GZ-9179486",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-GZ",
+      "latitude": -1.41667,
+      "longitude": 28.03333
+    }
+  ]
+}

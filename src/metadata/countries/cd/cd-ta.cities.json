@@ -1,0 +1,84 @@
+{
+  "stateId": 205253,
+  "stateCode": "CD-TA",
+  "countryCode": "CD",
+  "cities": [
+    {
+      "id": 12278058,
+      "name": "Kabalo",
+      "nativeName": "Kabalo",
+      "code": "CD-TA-12278058",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-TA",
+      "latitude": -6.2541,
+      "longitude": 26.89195
+    },
+    {
+      "id": 9179186,
+      "name": "Kalemie Ville",
+      "nativeName": "Kalemie Ville",
+      "code": "CD-TA-9179186",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-TA",
+      "latitude": -5.94749,
+      "longitude": 29.19471
+    },
+    {
+      "id": 12278065,
+      "name": "Kaoze",
+      "nativeName": "Kaoze",
+      "code": "CD-TA-12278065",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-TA",
+      "latitude": -7.04586,
+      "longitude": 29.77815
+    },
+    {
+      "id": 9179189,
+      "name": "Kongolo Ville",
+      "nativeName": "Kongolo Ville",
+      "code": "CD-TA-9179189",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-TA",
+      "latitude": -5.38335,
+      "longitude": 27
+    },
+    {
+      "id": 9179907,
+      "name": "Manono",
+      "nativeName": "Manono",
+      "code": "CD-TA-9179907",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-TA",
+      "latitude": -7.2947,
+      "longitude": 27.45449
+    },
+    {
+      "id": 12278113,
+      "name": "Moba",
+      "nativeName": "Moba",
+      "code": "CD-TA-12278113",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-TA",
+      "latitude": -7.49606,
+      "longitude": 29.68241
+    },
+    {
+      "id": 12278129,
+      "name": "Nyunzu",
+      "nativeName": "Nyunzu",
+      "code": "CD-TA-12278129",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-TA",
+      "latitude": -5.73131,
+      "longitude": 27.93471
+    }
+  ]
+}

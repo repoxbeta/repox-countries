@@ -1,0 +1,117 @@
+{
+  "stateId": 3337523,
+  "stateCode": "HR-11",
+  "countryCode": "HR",
+  "cities": [
+    {
+      "id": 11049472,
+      "name": "Municipality of Brestovac",
+      "nativeName": "Brestovac",
+      "code": "HR-11-11049472",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-11",
+      "latitude": 45.33057,
+      "longitude": 17.59727
+    },
+    {
+      "id": 11049474,
+      "name": "Municipality of Jakšić",
+      "nativeName": "Jakšić",
+      "code": "HR-11-11049474",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-11",
+      "latitude": 45.35765,
+      "longitude": 17.76502
+    },
+    {
+      "id": 11049475,
+      "name": "Municipality of Kaptol",
+      "nativeName": "Kaptol",
+      "code": "HR-11-11049475",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-11",
+      "latitude": 45.43236,
+      "longitude": 17.72614
+    },
+    {
+      "id": 11049479,
+      "name": "Municipality of Velika",
+      "nativeName": "Velika",
+      "code": "HR-11-11049479",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-11",
+      "latitude": 45.45729,
+      "longitude": 17.66091
+    },
+    {
+      "id": 11049473,
+      "name": "Municipality of Čaglin",
+      "nativeName": "Čaglin",
+      "code": "HR-11-11049473",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-11",
+      "latitude": 45.35114,
+      "longitude": 17.98827
+    },
+    {
+      "id": 11049476,
+      "name": "Town of Kutjevo",
+      "nativeName": "Kutjevo",
+      "code": "HR-11-11049476",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-11",
+      "latitude": 45.42564,
+      "longitude": 17.88407
+    },
+    {
+      "id": 11049477,
+      "name": "Town of Lipik",
+      "nativeName": "Lipik",
+      "code": "HR-11-11049477",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-11",
+      "latitude": 45.41308,
+      "longitude": 17.16043
+    },
+    {
+      "id": 3193705,
+      "name": "Town of Pakrac",
+      "nativeName": "Grad Pakrac",
+      "code": "HR-11-3193705",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-11",
+      "latitude": 45.43333,
+      "longitude": 17.2
+    },
+    {
+      "id": 11049478,
+      "name": "Town of Pleternica",
+      "nativeName": "Pleternica",
+      "code": "HR-11-11049478",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-11",
+      "latitude": 45.28596,
+      "longitude": 17.80227
+    },
+    {
+      "id": 3190588,
+      "name": "Town of Požega",
+      "nativeName": "Grad Požega",
+      "code": "HR-11-3190588",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-11",
+      "latitude": 45.33333,
+      "longitude": 17.66667
+    }
+  ]
+}

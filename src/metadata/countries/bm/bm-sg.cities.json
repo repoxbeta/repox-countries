@@ -1,0 +1,40 @@
+{
+  "stateId": 3573057,
+  "stateCode": "BM-SG",
+  "countryCode": "BM",
+  "cities": [
+    {
+      "id": 3573304,
+      "name": "Cashew City",
+      "nativeName": "Cashew City",
+      "code": "BM-SG-3573304",
+      "countryId": 3573345,
+      "countryCode": "BM",
+      "stateCode": "BM-SG",
+      "latitude": 32.37028,
+      "longitude": -64.65444
+    },
+    {
+      "id": 3573131,
+      "name": "Melrose",
+      "nativeName": "Melrose",
+      "code": "BM-SG-3573131",
+      "countryId": 3573345,
+      "countryCode": "BM",
+      "stateCode": "BM-SG",
+      "latitude": 32.36845,
+      "longitude": -64.67739
+    },
+    {
+      "id": 3572988,
+      "name": "Tucker’s Town",
+      "nativeName": "Tucker’s Town",
+      "code": "BM-SG-3572988",
+      "countryId": 3573345,
+      "countryCode": "BM",
+      "stateCode": "BM-SG",
+      "latitude": 32.33278,
+      "longitude": -64.68806
+    }
+  ]
+}

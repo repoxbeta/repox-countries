@@ -1,0 +1,51 @@
+{
+  "stateId": 689064,
+  "stateCode": "UA-07",
+  "countryCode": "UA",
+  "cities": [
+    {
+      "id": 707024,
+      "name": "Kamin-Kashyrskyi Raion",
+      "nativeName": "Kamin-Kashyrskyi Raion",
+      "code": "UA-07-707024",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-07",
+      "latitude": 51.5,
+      "longitude": 25.35
+    },
+    {
+      "id": 9287853,
+      "name": "Kovel",
+      "nativeName": "Kovel’s’ka Mis’krada",
+      "code": "UA-07-9287853",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-07",
+      "latitude": 51.21198,
+      "longitude": 24.70163
+    },
+    {
+      "id": 9287950,
+      "name": "Lutsk Raion",
+      "nativeName": "Luts’ka Mis’krada",
+      "code": "UA-07-9287950",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-07",
+      "latitude": 50.74879,
+      "longitude": 25.34201
+    },
+    {
+      "id": 9287851,
+      "name": "Volodymyr Raion",
+      "nativeName": "Volodymyr-Volynska Miskrada",
+      "code": "UA-07-9287851",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-07",
+      "latitude": 50.85004,
+      "longitude": 24.32456
+    }
+  ]
+}

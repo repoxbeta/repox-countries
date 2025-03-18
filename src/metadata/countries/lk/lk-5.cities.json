@@ -1,0 +1,40 @@
+{
+  "stateId": 8133521,
+  "stateCode": "LK-5",
+  "countryCode": "LK",
+  "cities": [
+    {
+      "id": 1251460,
+      "name": "Ampara District",
+      "nativeName": "Ampara District",
+      "code": "LK-5-1251460",
+      "countryId": 1227603,
+      "countryCode": "LK",
+      "stateCode": "LK-5",
+      "latitude": 7.0833,
+      "longitude": 81.75
+    },
+    {
+      "id": 1250159,
+      "name": "Batticaloa District",
+      "nativeName": "Batticaloa District",
+      "code": "LK-5-1250159",
+      "countryId": 1227603,
+      "countryCode": "LK",
+      "stateCode": "LK-5",
+      "latitude": 7.75,
+      "longitude": 81.4997
+    },
+    {
+      "id": 1226258,
+      "name": "Trincomalee District",
+      "nativeName": "Trincomalee District",
+      "code": "LK-5-1226258",
+      "countryId": 1227603,
+      "countryCode": "LK",
+      "stateCode": "LK-5",
+      "latitude": 8.58333,
+      "longitude": 81.08333
+    }
+  ]
+}

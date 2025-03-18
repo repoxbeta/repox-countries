@@ -1,0 +1,40 @@
+{
+  "stateId": 589373,
+  "stateCode": "EE-64",
+  "countryCode": "EE",
+  "cities": [
+    {
+      "id": 7522295,
+      "name": "Kanepi vald",
+      "nativeName": "Kanepi vald",
+      "code": "EE-64-7522295",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-64",
+      "latitude": 57.98058,
+      "longitude": 26.76151
+    },
+    {
+      "id": 7522467,
+      "name": "Põlva Parish",
+      "nativeName": "Põlva vald",
+      "code": "EE-64-7522467",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-64",
+      "latitude": 58.08368,
+      "longitude": 26.98242
+    },
+    {
+      "id": 7522409,
+      "name": "Räpina vald",
+      "nativeName": "Räpina vald",
+      "code": "EE-64-7522409",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-64",
+      "latitude": 58.10777,
+      "longitude": 27.3858
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "stateId": 2380426,
+  "stateCode": "MR-08",
+  "countryCode": "MR",
+  "cities": [
+    {
+      "id": 11996536,
+      "name": "Chami",
+      "nativeName": "Chami",
+      "code": "MR-08-11996536",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-08",
+      "latitude": 20.2886,
+      "longitude": -15.74408
+    },
+    {
+      "id": 9212637,
+      "name": "Nouadhibou",
+      "nativeName": "Nouadhibou",
+      "code": "MR-08-9212637",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-08",
+      "latitude": 20.92328,
+      "longitude": -16.1723
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "stateId": 2029669,
+  "stateCode": "MN-053",
+  "countryCode": "MN",
+  "cities": [
+    {
+      "id": 6618795,
+      "name": "Bayan-Ovoo",
+      "nativeName": "Bayan-Ovoo",
+      "code": "MN-053-6618795",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-053",
+      "latitude": 42.96898,
+      "longitude": 106.12003
+    },
+    {
+      "id": 6987984,
+      "name": "Bayan-Ovoo Sum",
+      "nativeName": "Bayan-Ovoo Sum",
+      "code": "MN-053-6987984",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-053",
+      "latitude": 42.75708,
+      "longitude": 105.96403
+    },
+    {
+      "id": 6618797,
+      "name": "Bayandalay",
+      "nativeName": "Bayandalay",
+      "code": "MN-053-6618797",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-053",
+      "latitude": 43.45815,
+      "longitude": 103.51353
+    },
+    {
+      "id": 6618798,
+      "name": "Bulgan",
+      "nativeName": "Bulgan",
+      "code": "MN-053-6618798",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-053",
+      "latitude": 44.09141,
+      "longitude": 103.54305
+    },
+    {
+      "id": 6618802,
+      "name": "Dalandzadgad",
+      "nativeName": "Dalandzadgad",
+      "code": "MN-053-6618802",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-053",
+      "latitude": 43.56447,
+      "longitude": 104.42471
+    },
+    {
+      "id": 6618801,
+      "name": "Gurvantes",
+      "nativeName": "Gurvantes",
+      "code": "MN-053-6618801",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-053",
+      "latitude": 43.22369,
+      "longitude": 101.0471
+    },
+    {
+      "id": 6618794,
+      "name": "Hanbogd",
+      "nativeName": "Hanbogd",
+      "code": "MN-053-6618794",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-053",
+      "latitude": 43.19141,
+      "longitude": 107.20013
+    },
+    {
+      "id": 6618791,
+      "name": "Hanhongor",
+      "nativeName": "Hanhongor",
+      "code": "MN-053-6618791",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-053",
+      "latitude": 43.77345,
+      "longitude": 104.47998
+    },
+    {
+      "id": 6618796,
+      "name": "Hürmen",
+      "nativeName": "Hürmen",
+      "code": "MN-053-6618796",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-053",
+      "latitude": 43.29932,
+      "longitude": 104.07417
+    },
+    {
+      "id": 6618789,
+      "name": "Mandal-Ovoo",
+      "nativeName": "Mandal-Ovoo",
+      "code": "MN-053-6618789",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-053",
+      "latitude": 44.64264,
+      "longitude": 104.04997
+    },
+    {
+      "id": 6618793,
+      "name": "Manlai District",
+      "nativeName": "Manlay",
+      "code": "MN-053-6618793",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-053",
+      "latitude": 44.07402,
+      "longitude": 106.87019
+    },
+    {
+      "id": 2029819,
+      "name": "Nomgon Sum",
+      "nativeName": "Nomgon Sum",
+      "code": "MN-053-2029819",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-053",
+      "latitude": 42.41462,
+      "longitude": 105.0564
+    },
+    {
+      "id": 6618800,
+      "name": "Noyon",
+      "nativeName": "Noyon",
+      "code": "MN-053-6618800",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-053",
+      "latitude": 43.16875,
+      "longitude": 102.132
+    },
+    {
+      "id": 6618799,
+      "name": "Sevrey",
+      "nativeName": "Sevrey",
+      "code": "MN-053-6618799",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-053",
+      "latitude": 43.6116,
+      "longitude": 102.533
+    },
+    {
+      "id": 6618790,
+      "name": "Tsogt-Ovoo",
+      "nativeName": "Tsogt-Ovoo",
+      "code": "MN-053-6618790",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-053",
+      "latitude": 44.41429,
+      "longitude": 105.32112
+    },
+    {
+      "id": 6618792,
+      "name": "Tsogttsetsii District",
+      "nativeName": "Tsogttsetsiy",
+      "code": "MN-053-6618792",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-053",
+      "latitude": 43.64477,
+      "longitude": 105.75611
+    }
+  ]
+}

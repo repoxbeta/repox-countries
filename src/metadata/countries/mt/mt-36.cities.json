@@ -1,0 +1,29 @@
+{
+  "stateId": 8299735,
+  "stateCode": "MT-36",
+  "countryCode": "MT",
+  "cities": [
+    {
+      "id": 2562693,
+      "name": "Munxar",
+      "nativeName": "Munxar",
+      "code": "MT-36-2562693",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-36",
+      "latitude": 36.03,
+      "longitude": 14.23333
+    },
+    {
+      "id": 6692380,
+      "name": "Xlendi",
+      "nativeName": "Xlendi",
+      "code": "MT-36-6692380",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-36",
+      "latitude": 36.02883,
+      "longitude": 14.21803
+    }
+  ]
+}

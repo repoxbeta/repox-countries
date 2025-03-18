@@ -1,0 +1,149 @@
+{
+  "countryId": 2361809,
+  "countryCode": "BF",
+  "states": [
+    {
+      "id": 6930701,
+      "name": "Boucle du Mouhoun",
+      "nativeName": "Boucle du Mouhoun Region",
+      "code": "BF-01",
+      "internalCode": "01",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "latitude": 12.47203,
+      "longitude": -3.47305
+    },
+    {
+      "id": 6930703,
+      "name": "Cascades Region",
+      "nativeName": "Cascades Region",
+      "code": "BF-02",
+      "internalCode": "02",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "latitude": 10.38,
+      "longitude": -4.5
+    },
+    {
+      "id": 6930704,
+      "name": "Centre",
+      "nativeName": "Centre",
+      "code": "BF-03",
+      "internalCode": "03",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "latitude": 12.37874,
+      "longitude": -1.53276
+    },
+    {
+      "id": 6930705,
+      "name": "Centre-Est",
+      "nativeName": "Centre-Est",
+      "code": "BF-04",
+      "internalCode": "04",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "latitude": 11.78922,
+      "longitude": -0.35706
+    },
+    {
+      "id": 6930706,
+      "name": "Centre-Nord",
+      "nativeName": "Centre-Nord",
+      "code": "BF-05",
+      "internalCode": "05",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "latitude": 13.09829,
+      "longitude": -1.0855
+    },
+    {
+      "id": 6930707,
+      "name": "Centre-Ouest",
+      "nativeName": "Centre-Ouest",
+      "code": "BF-06",
+      "internalCode": "06",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "latitude": 12.25488,
+      "longitude": -2.36876
+    },
+    {
+      "id": 6930708,
+      "name": "Centre-Sud",
+      "nativeName": "Centre-Sud",
+      "code": "BF-07",
+      "internalCode": "07",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "latitude": 11.67132,
+      "longitude": -1.07374
+    },
+    {
+      "id": 6930709,
+      "name": "Est",
+      "nativeName": "Est",
+      "code": "BF-08",
+      "internalCode": "08",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "latitude": 12.06308,
+      "longitude": 0.36349
+    },
+    {
+      "id": 6930710,
+      "name": "Hauts-Bassins",
+      "nativeName": "High-Basins Region",
+      "code": "BF-09",
+      "internalCode": "09",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "latitude": 11.28,
+      "longitude": -4.32
+    },
+    {
+      "id": 6930711,
+      "name": "Nord",
+      "nativeName": "Nord",
+      "code": "BF-10",
+      "internalCode": "10",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "latitude": 13.58809,
+      "longitude": -2.4212
+    },
+    {
+      "id": 6930712,
+      "name": "Plateau-Central",
+      "nativeName": "Plateau-Central",
+      "code": "BF-11",
+      "internalCode": "11",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "latitude": 12.58774,
+      "longitude": -1.30102
+    },
+    {
+      "id": 6930713,
+      "name": "Sahel",
+      "nativeName": "Sahel",
+      "code": "BF-12",
+      "internalCode": "12",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "latitude": 14.03351,
+      "longitude": -0.04575
+    },
+    {
+      "id": 6930714,
+      "name": "Sud-Ouest",
+      "nativeName": "Southwest Region",
+      "code": "BF-13",
+      "internalCode": "13",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "latitude": 10.5,
+      "longitude": -3.2
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "stateId": 1831132,
+  "stateCode": "KH-5",
+  "countryCode": "KH",
+  "cities": [
+    {
+      "id": 9253754,
+      "name": "Aoral",
+      "nativeName": "Aoral",
+      "code": "KH-5-9253754",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-5",
+      "latitude": 11.73667,
+      "longitude": 104.06105
+    },
+    {
+      "id": 8405257,
+      "name": "Basedth",
+      "nativeName": "Srŏk Basedth",
+      "code": "KH-5-8405257",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-5",
+      "latitude": 11.18432,
+      "longitude": 104.53584
+    },
+    {
+      "id": 1830613,
+      "name": "Kong Pisei",
+      "nativeName": "Srŏk Kông Pĭsei",
+      "code": "KH-5-1830613",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-5",
+      "latitude": 11.31648,
+      "longitude": 104.65992
+    },
+    {
+      "id": 8405258,
+      "name": "Krong Chbar Mon",
+      "nativeName": "Krŏng Chbar Mon",
+      "code": "KH-5-8405258",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-5",
+      "latitude": 11.47091,
+      "longitude": 104.50655
+    },
+    {
+      "id": 1830230,
+      "name": "Odongk",
+      "nativeName": "Srŏk Ŏdŏngk",
+      "code": "KH-5-1830230",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-5",
+      "latitude": 11.66845,
+      "longitude": 104.61224
+    },
+    {
+      "id": 9253755,
+      "name": "Phnum Sruoch",
+      "nativeName": "Phnum Sruoch",
+      "code": "KH-5-9253755",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-5",
+      "latitude": 11.30891,
+      "longitude": 104.23974
+    },
+    {
+      "id": 9253758,
+      "name": "Samraong Tong",
+      "nativeName": "Samraong Tong",
+      "code": "KH-5-9253758",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-5",
+      "latitude": 11.48096,
+      "longitude": 104.59806
+    },
+    {
+      "id": 9253759,
+      "name": "Thpong",
+      "nativeName": "Thpong",
+      "code": "KH-5-9253759",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-5",
+      "latitude": 11.71561,
+      "longitude": 104.37975
+    }
+  ]
+}

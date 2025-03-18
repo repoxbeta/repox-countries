@@ -1,0 +1,150 @@
+{
+  "stateId": 3931275,
+  "stateCode": "PE-PUN",
+  "countryCode": "PE",
+  "cities": [
+    {
+      "id": 3946936,
+      "name": "Azángaro Province",
+      "nativeName": "Provincia de Azángaro",
+      "code": "PE-PUN-3946936",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-PUN",
+      "latitude": -14.79061,
+      "longitude": -70.16047
+    },
+    {
+      "id": 3945614,
+      "name": "Carabaya Province",
+      "nativeName": "Provincia de Carabaya",
+      "code": "PE-PUN-3945614",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-PUN",
+      "latitude": -13.84769,
+      "longitude": -70.22288
+    },
+    {
+      "id": 3943362,
+      "name": "Chucuito Province",
+      "nativeName": "Provincia de Chucuito",
+      "code": "PE-PUN-3943362",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-PUN",
+      "latitude": -16.60545,
+      "longitude": -69.35761
+    },
+    {
+      "id": 8349570,
+      "name": "El Collao Province",
+      "nativeName": "El Collao",
+      "code": "PE-PUN-8349570",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-PUN",
+      "latitude": -16.72641,
+      "longitude": -69.75515
+    },
+    {
+      "id": 3939536,
+      "name": "Huancané Province",
+      "nativeName": "Provincia de Huancané",
+      "code": "PE-PUN-3939536",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-PUN",
+      "latitude": -15.1522,
+      "longitude": -69.62123
+    },
+    {
+      "id": 3936995,
+      "name": "Lampa Province",
+      "nativeName": "Provincia de Lampa",
+      "code": "PE-PUN-3936995",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-PUN",
+      "latitude": -15.39462,
+      "longitude": -70.62606
+    },
+    {
+      "id": 3935054,
+      "name": "Melgar Province",
+      "nativeName": "Provincia de Melgar",
+      "code": "PE-PUN-3935054",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-PUN",
+      "latitude": -14.67558,
+      "longitude": -70.70322
+    },
+    {
+      "id": 8349571,
+      "name": "Moho",
+      "nativeName": "Moho",
+      "code": "PE-PUN-8349571",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-PUN",
+      "latitude": -15.33508,
+      "longitude": -69.3803
+    },
+    {
+      "id": 3931274,
+      "name": "Puno Province",
+      "nativeName": "Provincia de Puno",
+      "code": "PE-PUN-3931274",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-PUN",
+      "latitude": -16.13092,
+      "longitude": -70.08682
+    },
+    {
+      "id": 8349572,
+      "name": "San Antonio de Putina Province",
+      "nativeName": "San Antonio De Putina",
+      "code": "PE-PUN-8349572",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-PUN",
+      "latitude": -14.71175,
+      "longitude": -69.61559
+    },
+    {
+      "id": 3929310,
+      "name": "San Román Province",
+      "nativeName": "Provincia de San Román",
+      "code": "PE-PUN-3929310",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-PUN",
+      "latitude": -15.70792,
+      "longitude": -70.43109
+    },
+    {
+      "id": 3929739,
+      "name": "Sandia Province",
+      "nativeName": "Provincia de Sandia",
+      "code": "PE-PUN-3929739",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-PUN",
+      "latitude": -13.8429,
+      "longitude": -69.32376
+    },
+    {
+      "id": 8349573,
+      "name": "Yunguyo",
+      "nativeName": "Yunguyo",
+      "code": "PE-PUN-8349573",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-PUN",
+      "latitude": -16.30571,
+      "longitude": -69.11787
+    }
+  ]
+}

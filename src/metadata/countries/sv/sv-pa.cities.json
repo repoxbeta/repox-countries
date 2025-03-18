@@ -1,0 +1,40 @@
+{
+  "stateId": 3585087,
+  "stateCode": "SV-PA",
+  "countryCode": "SV",
+  "cities": [
+    {
+      "id": 12916939,
+      "name": "La Paz Centro",
+      "nativeName": "La Paz Centro",
+      "code": "SV-PA-12916939",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-PA",
+      "latitude": 13.4805,
+      "longitude": -88.98077
+    },
+    {
+      "id": 12916951,
+      "name": "La Paz Este",
+      "nativeName": "La Paz Este",
+      "code": "SV-PA-12916951",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-PA",
+      "latitude": 13.45078,
+      "longitude": -88.87007
+    },
+    {
+      "id": 12916952,
+      "name": "La Paz Oeste",
+      "nativeName": "La Paz Oeste",
+      "code": "SV-PA-12916952",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-PA",
+      "latitude": 13.50664,
+      "longitude": -89.08532
+    }
+  ]
+}

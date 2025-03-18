@@ -1,0 +1,128 @@
+{
+  "stateId": 2465027,
+  "stateCode": "TN-34",
+  "countryCode": "TN",
+  "cities": [
+    {
+      "id": 11107576,
+      "name": "Bargou",
+      "nativeName": "Bargou",
+      "code": "TN-34-11107576",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-34",
+      "latitude": 36.10627,
+      "longitude": 9.61547
+    },
+    {
+      "id": 2472259,
+      "name": "Bou Arada",
+      "nativeName": "Bou Arada",
+      "code": "TN-34-2472259",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-34",
+      "latitude": 36.3162,
+      "longitude": 9.61157
+    },
+    {
+      "id": 7870619,
+      "name": "Bourouis",
+      "nativeName": "Bourouis",
+      "code": "TN-34-7870619",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-34",
+      "latitude": 36.18299,
+      "longitude": 9.15529
+    },
+    {
+      "id": 11107575,
+      "name": "El Aroussa",
+      "nativeName": "El Aroussa",
+      "code": "TN-34-11107575",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-34",
+      "latitude": 36.36535,
+      "longitude": 9.46114
+    },
+    {
+      "id": 7870618,
+      "name": "El Krib",
+      "nativeName": "Elkrib",
+      "code": "TN-34-7870618",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-34",
+      "latitude": 36.34292,
+      "longitude": 9.10318
+    },
+    {
+      "id": 11107578,
+      "name": "Er-Rouhia",
+      "nativeName": "Rouhia",
+      "code": "TN-34-11107578",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-34",
+      "latitude": 35.648,
+      "longitude": 9.21237
+    },
+    {
+      "id": 2468347,
+      "name": "Gaâfour",
+      "nativeName": "Gaafour",
+      "code": "TN-34-2468347",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-34",
+      "latitude": 36.23631,
+      "longitude": 9.3536
+    },
+    {
+      "id": 11107577,
+      "name": "Kesra",
+      "nativeName": "Kesra",
+      "code": "TN-34-11107577",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-34",
+      "latitude": 35.79671,
+      "longitude": 9.38447
+    },
+    {
+      "id": 2469340,
+      "name": "Makthar",
+      "nativeName": "Mu‘tamadīyat Makthar",
+      "code": "TN-34-2469340",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-34",
+      "latitude": 35.89204,
+      "longitude": 9.15457
+    },
+    {
+      "id": 7870620,
+      "name": "Siliana Nord",
+      "nativeName": "Siliana Nord",
+      "code": "TN-34-7870620",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-34",
+      "latitude": 36.05857,
+      "longitude": 9.29794
+    },
+    {
+      "id": 2465029,
+      "name": "Siliana Sud",
+      "nativeName": "Siliana Sud",
+      "code": "TN-34-2465029",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-34",
+      "latitude": 35.98264,
+      "longitude": 9.39902
+    }
+  ]
+}

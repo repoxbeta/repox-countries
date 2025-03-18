@@ -1,0 +1,29 @@
+{
+  "stateId": 8299760,
+  "stateCode": "MT-62",
+  "countryCode": "MT",
+  "cities": [
+    {
+      "id": 2562274,
+      "name": "Xewkija",
+      "nativeName": "Xewkija",
+      "code": "MT-62-2562274",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-62",
+      "latitude": 36.03278,
+      "longitude": 14.25806
+    },
+    {
+      "id": 2562447,
+      "name": "Ta’ Ħamet",
+      "nativeName": "Ta’ Ħamet",
+      "code": "MT-62-2562447",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-62",
+      "latitude": 36.04,
+      "longitude": 14.26472
+    }
+  ]
+}

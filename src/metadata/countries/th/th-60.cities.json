@@ -1,0 +1,172 @@
+{
+  "stateId": 1608526,
+  "stateCode": "TH-60",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 1614121,
+      "name": "Banphot Phisai",
+      "nativeName": "Amphoe Banphot Phisai",
+      "code": "TH-60-1614121",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-60",
+      "latitude": 15.99714,
+      "longitude": 99.99409
+    },
+    {
+      "id": 1611016,
+      "name": "Chum Saeng",
+      "nativeName": "Amphoe Chumsaeng",
+      "code": "TH-60-1611016",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-60",
+      "latitude": 15.84745,
+      "longitude": 100.28971
+    },
+    {
+      "id": 7510662,
+      "name": "Chum Ta Bong",
+      "nativeName": "Amphoe Chum Ta Bong",
+      "code": "TH-60-7510662",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-60",
+      "latitude": 15.68311,
+      "longitude": 99.56908
+    },
+    {
+      "id": 7510678,
+      "name": "Kao Liao",
+      "nativeName": "Amphoe Kao Liao",
+      "code": "TH-60-7510678",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-60",
+      "latitude": 15.88778,
+      "longitude": 100.09647
+    },
+    {
+      "id": 1609378,
+      "name": "Krok Phra",
+      "nativeName": "Amphoe Krok Phra",
+      "code": "TH-60-1609378",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-60",
+      "latitude": 15.58638,
+      "longitude": 100.01815
+    },
+    {
+      "id": 1152376,
+      "name": "Lat Yao",
+      "nativeName": "Amphoe Lat Yao",
+      "code": "TH-60-1152376",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-60",
+      "latitude": 15.77526,
+      "longitude": 99.80046
+    },
+    {
+      "id": 7510629,
+      "name": "Mae Poen",
+      "nativeName": "Amphoe Mae Poen",
+      "code": "TH-60-7510629",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-60",
+      "latitude": 15.70656,
+      "longitude": 99.34827
+    },
+    {
+      "id": 7510663,
+      "name": "Mae Wong",
+      "nativeName": "Amphoe Mae Wong",
+      "code": "TH-60-7510663",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-60",
+      "latitude": 15.83538,
+      "longitude": 99.40785
+    },
+    {
+      "id": 1608645,
+      "name": "Mueang Nakhon Sawan",
+      "nativeName": "Amphoe Mueang Nakhon Sawan",
+      "code": "TH-60-1608645",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-60",
+      "latitude": 15.71991,
+      "longitude": 100.10067
+    },
+    {
+      "id": 1608285,
+      "name": "Nong Bua",
+      "nativeName": "Amphoe Nong Bua",
+      "code": "TH-60-1608285",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-60",
+      "latitude": 15.86591,
+      "longitude": 100.6286
+    },
+    {
+      "id": 1607880,
+      "name": "Phaisali",
+      "nativeName": "Amphoe Phai Sali",
+      "code": "TH-60-1607880",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-60",
+      "latitude": 15.58723,
+      "longitude": 100.6853
+    },
+    {
+      "id": 1607751,
+      "name": "Phayuha Khiri",
+      "nativeName": "Amphoe Phayuha Khiri",
+      "code": "TH-60-1607751",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-60",
+      "latitude": 15.50783,
+      "longitude": 100.21226
+    },
+    {
+      "id": 7510677,
+      "name": "Tak Fa",
+      "nativeName": "Amphoe Tak Fa",
+      "code": "TH-60-7510677",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-60",
+      "latitude": 15.38249,
+      "longitude": 100.46693
+    },
+    {
+      "id": 1605911,
+      "name": "Takhli",
+      "nativeName": "Amphoe Takhli",
+      "code": "TH-60-1605911",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-60",
+      "latitude": 15.25928,
+      "longitude": 100.38058
+    },
+    {
+      "id": 1605489,
+      "name": "Tha Tako",
+      "nativeName": "Amphoe Tha Tako",
+      "code": "TH-60-1605489",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-60",
+      "latitude": 15.65434,
+      "longitude": 100.45939
+    }
+  ]
+}

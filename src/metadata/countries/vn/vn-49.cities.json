@@ -1,0 +1,95 @@
+{
+  "stateId": 1559977,
+  "stateCode": "VN-49",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 9290449,
+      "name": "Bình Tân District",
+      "nativeName": "Huyện Bình Tân",
+      "code": "VN-49-9290449",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-49",
+      "latitude": 10.12753,
+      "longitude": 105.77883
+    },
+    {
+      "id": 1904906,
+      "name": "Long Hồ Distric",
+      "nativeName": "Huyện Long Hồ",
+      "code": "VN-49-1904906",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-49",
+      "latitude": 10.2164,
+      "longitude": 105.98483
+    },
+    {
+      "id": 1904907,
+      "name": "Mang Thít District",
+      "nativeName": "Huyện Mang Thít",
+      "code": "VN-49-1904907",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-49",
+      "latitude": 10.18731,
+      "longitude": 106.07472
+    },
+    {
+      "id": 1904908,
+      "name": "Tam Bình District",
+      "nativeName": "Huyện Tam Bình",
+      "code": "VN-49-1904908",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-49",
+      "latitude": 10.08127,
+      "longitude": 105.95352
+    },
+    {
+      "id": 1904905,
+      "name": "Thành phố Vĩnh Long",
+      "nativeName": "Thành phố Vĩnh Long",
+      "code": "VN-49-1904905",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-49",
+      "latitude": 10.25178,
+      "longitude": 105.94231
+    },
+    {
+      "id": 1904909,
+      "name": "Thị Xã Bình Minh",
+      "nativeName": "Thị Xã Bình Minh",
+      "code": "VN-49-1904909",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-49",
+      "latitude": 10.04959,
+      "longitude": 105.84378
+    },
+    {
+      "id": 1904911,
+      "name": "Trà Ôn District",
+      "nativeName": "Huyện Trà Ôn",
+      "code": "VN-49-1904911",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-49",
+      "latitude": 9.97522,
+      "longitude": 106.00957
+    },
+    {
+      "id": 1904910,
+      "name": "Vũng Liêm District",
+      "nativeName": "Huyện Vũng Liêm",
+      "code": "VN-49-1904910",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-49",
+      "latitude": 10.08717,
+      "longitude": 106.16038
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "stateId": 2658370,
+  "stateCode": "CH-TI",
+  "countryCode": "CH",
+  "cities": [
+    {
+      "id": 6458870,
+      "name": "Bellinzona District",
+      "nativeName": "Bellinzona District",
+      "code": "CH-TI-6458870",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-TI",
+      "latitude": 46.18858,
+      "longitude": 9.00254
+    },
+    {
+      "id": 6458784,
+      "name": "Blenio District",
+      "nativeName": "Blenio District",
+      "code": "CH-TI-6458784",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-TI",
+      "latitude": 46.47613,
+      "longitude": 8.94609
+    },
+    {
+      "id": 6458903,
+      "name": "Leventina District",
+      "nativeName": "Leventina District",
+      "code": "CH-TI-6458903",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-TI",
+      "latitude": 46.46912,
+      "longitude": 8.75539
+    },
+    {
+      "id": 6458750,
+      "name": "Locarno District",
+      "nativeName": "Locarno District",
+      "code": "CH-TI-6458750",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-TI",
+      "latitude": 46.18033,
+      "longitude": 8.75991
+    },
+    {
+      "id": 6458771,
+      "name": "Lugano District",
+      "nativeName": "Lugano District",
+      "code": "CH-TI-6458771",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-TI",
+      "latitude": 46.02322,
+      "longitude": 8.93802
+    },
+    {
+      "id": 6458894,
+      "name": "Mendrisio District",
+      "nativeName": "Mendrisio District",
+      "code": "CH-TI-6458894",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-TI",
+      "latitude": 45.86592,
+      "longitude": 8.99931
+    },
+    {
+      "id": 6458756,
+      "name": "Riviera District",
+      "nativeName": "Riviera District",
+      "code": "CH-TI-6458756",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-TI",
+      "latitude": 46.30926,
+      "longitude": 8.98148
+    },
+    {
+      "id": 2658196,
+      "name": "Vallemaggia District",
+      "nativeName": "Vallemaggia District",
+      "code": "CH-TI-2658196",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-TI",
+      "latitude": 46.35483,
+      "longitude": 8.6054
+    }
+  ]
+}

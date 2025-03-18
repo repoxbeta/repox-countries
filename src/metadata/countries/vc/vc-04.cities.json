@@ -1,0 +1,117 @@
+{
+  "stateId": 3577819,
+  "stateCode": "VC-04",
+  "countryCode": "VC",
+  "cities": [
+    {
+      "id": 3577887,
+      "name": "Kingstown",
+      "nativeName": "Kingstown",
+      "code": "VC-04-3577887",
+      "countryId": 3577815,
+      "countryCode": "VC",
+      "stateCode": "VC-04",
+      "latitude": 13.15527,
+      "longitude": -61.22742
+    },
+    {
+      "id": 3577969,
+      "name": "Arnos Vale",
+      "nativeName": "Arnos Vale",
+      "code": "VC-04-3577969",
+      "countryId": 3577815,
+      "countryCode": "VC",
+      "stateCode": "VC-04",
+      "latitude": 13.14186,
+      "longitude": -61.20764
+    },
+    {
+      "id": 3577959,
+      "name": "Belmont",
+      "nativeName": "Belmont",
+      "code": "VC-04-3577959",
+      "countryId": 3577815,
+      "countryCode": "VC",
+      "stateCode": "VC-04",
+      "latitude": 13.16244,
+      "longitude": -61.17971
+    },
+    {
+      "id": 3577952,
+      "name": "Brighton Village",
+      "nativeName": "Brighton Village",
+      "code": "VC-04-3577952",
+      "countryId": 3577815,
+      "countryCode": "VC",
+      "stateCode": "VC-04",
+      "latitude": 13.13572,
+      "longitude": -61.17477
+    },
+    {
+      "id": 3748746,
+      "name": "Calliaqua",
+      "nativeName": "Calliaqua",
+      "code": "VC-04-3748746",
+      "countryId": 3577815,
+      "countryCode": "VC",
+      "stateCode": "VC-04",
+      "latitude": 13.12867,
+      "longitude": -61.19178
+    },
+    {
+      "id": 3748737,
+      "name": "Cane Hall",
+      "nativeName": "Cane Hall",
+      "code": "VC-04-3748737",
+      "countryId": 3577815,
+      "countryCode": "VC",
+      "stateCode": "VC-04",
+      "latitude": 13.15447,
+      "longitude": -61.20301
+    },
+    {
+      "id": 3748736,
+      "name": "Greathead",
+      "nativeName": "Greathead",
+      "code": "VC-04-3748736",
+      "countryId": 3577815,
+      "countryCode": "VC",
+      "stateCode": "VC-04",
+      "latitude": 13.14157,
+      "longitude": -61.22421
+    },
+    {
+      "id": 3748752,
+      "name": "Prospect",
+      "nativeName": "Prospect",
+      "code": "VC-04-3748752",
+      "countryId": 3577815,
+      "countryCode": "VC",
+      "stateCode": "VC-04",
+      "latitude": 13.12722,
+      "longitude": -61.18136
+    },
+    {
+      "id": 3577833,
+      "name": "Ribishi",
+      "nativeName": "Ribishi",
+      "code": "VC-04-3577833",
+      "countryId": 3577815,
+      "countryCode": "VC",
+      "stateCode": "VC-04",
+      "latitude": 13.1481,
+      "longitude": -61.18612
+    },
+    {
+      "id": 3577802,
+      "name": "Stubbs",
+      "nativeName": "Stubbs",
+      "code": "VC-04-3577802",
+      "countryId": 3577815,
+      "countryCode": "VC",
+      "stateCode": "VC-04",
+      "latitude": 13.14802,
+      "longitude": -61.15891
+    }
+  ]
+}

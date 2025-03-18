@@ -1,0 +1,95 @@
+{
+  "stateId": 1904987,
+  "stateCode": "VN-72",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 2591731,
+      "name": "Cư Jút District",
+      "nativeName": "Huyện Cư Jút",
+      "code": "VN-72-2591731",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-72",
+      "latitude": 12.69591,
+      "longitude": 107.76316
+    },
+    {
+      "id": 8727413,
+      "name": "Huyen Tuy Duc",
+      "nativeName": "Huyen Tuy Duc",
+      "code": "VN-72-8727413",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-72",
+      "latitude": 12.11512,
+      "longitude": 107.3905
+    },
+    {
+      "id": 2591718,
+      "name": "Huyện Đắk Mil",
+      "nativeName": "Huyện Đắk Mil",
+      "code": "VN-72-2591718",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-72",
+      "latitude": 12.51633,
+      "longitude": 107.67292
+    },
+    {
+      "id": 1904988,
+      "name": "Krông Nô District",
+      "nativeName": "Huyện Krông Nô",
+      "code": "VN-72-1904988",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-72",
+      "latitude": 12.36285,
+      "longitude": 107.83445
+    },
+    {
+      "id": 8746512,
+      "name": "Thành Phố Gia Nghĩa",
+      "nativeName": "Thành Phố Gia Nghĩa",
+      "code": "VN-72-8746512",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-72",
+      "latitude": 11.98979,
+      "longitude": 107.69718
+    },
+    {
+      "id": 8727411,
+      "name": "Đăk Glong District",
+      "nativeName": "Huyen Dak Glong",
+      "code": "VN-72-8727411",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-72",
+      "latitude": 12.10136,
+      "longitude": 107.80235
+    },
+    {
+      "id": 1904986,
+      "name": "Đăk R'Lấp District",
+      "nativeName": "Huyện Đắk R’Lấp",
+      "code": "VN-72-1904986",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-72",
+      "latitude": 11.8799,
+      "longitude": 107.52244
+    },
+    {
+      "id": 8727414,
+      "name": "Đăk Song District",
+      "nativeName": "Huyen Dak Song",
+      "code": "VN-72-8727414",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-72",
+      "latitude": 12.23283,
+      "longitude": 107.62168
+    }
+  ]
+}

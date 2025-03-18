@@ -1,0 +1,194 @@
+{
+  "stateId": 610688,
+  "stateCode": "KZ-15",
+  "countryCode": "KZ",
+  "cities": [
+    {
+      "id": 828331,
+      "name": "Aktobe Gorodskaya Administratsiya",
+      "nativeName": "Aktobe Gorodskaya Administratsiya",
+      "code": "KZ-15-828331",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-15",
+      "latitude": 50.36372,
+      "longitude": 57.31748
+    },
+    {
+      "id": 610656,
+      "name": "Alga District",
+      "nativeName": "Algha Aūdany",
+      "code": "KZ-15-610656",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-15",
+      "latitude": 49.91667,
+      "longitude": 57.25
+    },
+    {
+      "id": 610687,
+      "name": "Aqtöbe Aūdany",
+      "nativeName": "Aqtöbe Aūdany",
+      "code": "KZ-15-610687",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-15",
+      "latitude": 50.5,
+      "longitude": 57.16667
+    },
+    {
+      "id": 1523423,
+      "name": "Ayteke Bi District",
+      "nativeName": "Aytekebiyskiy Rayon",
+      "code": "KZ-15-1523423",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-15",
+      "latitude": 50,
+      "longitude": 60
+    },
+    {
+      "id": 610385,
+      "name": "Bayganinskiy Rayon",
+      "nativeName": "Bayganinskiy Rayon",
+      "code": "KZ-15-610385",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-15",
+      "latitude": 47.25,
+      "longitude": 56.5
+    },
+    {
+      "id": 1522334,
+      "name": "Bögetköl Aūdany",
+      "nativeName": "Bögetköl Aūdany",
+      "code": "KZ-15-1522334",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-15",
+      "latitude": 50.33333,
+      "longitude": 61.66667
+    },
+    {
+      "id": 609786,
+      "name": "Isatayskiy Rayon",
+      "nativeName": "Isatayskiy Rayon",
+      "code": "KZ-15-609786",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-15",
+      "latitude": 50.55,
+      "longitude": 55.16667
+    },
+    {
+      "id": 608948,
+      "name": "Kargalinskiy Rayon",
+      "nativeName": "Kargalinskiy Rayon",
+      "code": "KZ-15-608948",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-15",
+      "latitude": 50.85529,
+      "longitude": 58.10942
+    },
+    {
+      "id": 608707,
+      "name": "Khromtau District",
+      "nativeName": "Khromtaū Aūdany",
+      "code": "KZ-15-608707",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-15",
+      "latitude": 50.33333,
+      "longitude": 58.5
+    },
+    {
+      "id": 609408,
+      "name": "Kobda District",
+      "nativeName": "Khobdinskiy Rayon",
+      "code": "KZ-15-609408",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-15",
+      "latitude": 50.24158,
+      "longitude": 55.25676
+    },
+    {
+      "id": 608866,
+      "name": "Martuk District",
+      "nativeName": "Martukskiy Rayon",
+      "code": "KZ-15-608866",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-15",
+      "latitude": 50.71722,
+      "longitude": 56.80704
+    },
+    {
+      "id": 608796,
+      "name": "Mugalzharskiy Rayon",
+      "nativeName": "Mugalzharskiy Rayon",
+      "code": "KZ-15-608796",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-15",
+      "latitude": 48.83333,
+      "longitude": 58.16667
+    },
+    {
+      "id": 607866,
+      "name": "Oiyl District",
+      "nativeName": "Oyyl Aūdany",
+      "code": "KZ-15-607866",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-15",
+      "latitude": 49.33333,
+      "longitude": 55
+    },
+    {
+      "id": 610114,
+      "name": "Shalkar District",
+      "nativeName": "Shalkarskiy Rayon",
+      "code": "KZ-15-610114",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-15",
+      "latitude": 47.5,
+      "longitude": 59.5
+    },
+    {
+      "id": 608031,
+      "name": "Temir District",
+      "nativeName": "Temir Aūdany",
+      "code": "KZ-15-608031",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-15",
+      "latitude": 49.21667,
+      "longitude": 56.56667
+    },
+    {
+      "id": 608677,
+      "name": "Temirskiy Rayon",
+      "nativeName": "Temirskiy Rayon",
+      "code": "KZ-15-608677",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-15",
+      "latitude": 49.5,
+      "longitude": 57.5
+    },
+    {
+      "id": 1523782,
+      "name": "Yrgyz District",
+      "nativeName": "Irgizskiy Rayon",
+      "code": "KZ-15-1523782",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-15",
+      "latitude": 48.51927,
+      "longitude": 62.12014
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "stateId": 3132015,
+  "stateCode": "NO-07",
+  "countryCode": "NO",
+  "cities": [
+    {
+      "id": 11862941,
+      "name": "Færder",
+      "nativeName": "Færder",
+      "code": "NO-07-11862941",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-07",
+      "latitude": 59.22791,
+      "longitude": 10.4153
+    },
+    {
+      "id": 6453382,
+      "name": "Holmestrand",
+      "nativeName": "Holmestrand",
+      "code": "NO-07-6453382",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-07",
+      "latitude": 59.48976,
+      "longitude": 10.31515
+    },
+    {
+      "id": 3160606,
+      "name": "Horten",
+      "nativeName": "Horten",
+      "code": "NO-07-3160606",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-07",
+      "latitude": 59.41547,
+      "longitude": 10.48527
+    },
+    {
+      "id": 6453390,
+      "name": "Larvik",
+      "nativeName": "Larvik",
+      "code": "NO-07-6453390",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-07",
+      "latitude": 59.05234,
+      "longitude": 10.02701
+    },
+    {
+      "id": 6453396,
+      "name": "Sandefjord",
+      "nativeName": "Sandefjord",
+      "code": "NO-07-6453396",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-07",
+      "latitude": 59.12881,
+      "longitude": 10.21971
+    },
+    {
+      "id": 6453389,
+      "name": "Tønsberg",
+      "nativeName": "Tønsberg",
+      "code": "NO-07-6453389",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-07",
+      "latitude": 59.27114,
+      "longitude": 10.40939
+    }
+  ]
+}

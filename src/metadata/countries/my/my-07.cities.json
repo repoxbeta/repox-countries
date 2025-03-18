@@ -1,0 +1,62 @@
+{
+  "stateId": 1733047,
+  "stateCode": "MY-07",
+  "countryCode": "MY",
+  "cities": [
+    {
+      "id": 6833194,
+      "name": "Barat Daya",
+      "nativeName": "Barat Daya",
+      "code": "MY-07-6833194",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-07",
+      "latitude": 5.36218,
+      "longitude": 100.23495
+    },
+    {
+      "id": 1735104,
+      "name": "Daerah Timur Laut",
+      "nativeName": "Daerah Timur Laut",
+      "code": "MY-07-1735104",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-07",
+      "latitude": 5.40412,
+      "longitude": 100.29219
+    },
+    {
+      "id": 12231310,
+      "name": "S.P. Tengah",
+      "nativeName": "S.P. Tengah",
+      "code": "MY-07-12231310",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-07",
+      "latitude": 5.36403,
+      "longitude": 100.46034
+    },
+    {
+      "id": 1735085,
+      "name": "Seberang Perai Selatan",
+      "nativeName": "Seberang Perai Selatan",
+      "code": "MY-07-1735085",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-07",
+      "latitude": 5.22558,
+      "longitude": 100.47207
+    },
+    {
+      "id": 6823231,
+      "name": "Seberang Perai Utara",
+      "nativeName": "Seberang Perai Utara",
+      "code": "MY-07-6823231",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-07",
+      "latitude": 5.40835,
+      "longitude": 100.37873
+    }
+  ]
+}

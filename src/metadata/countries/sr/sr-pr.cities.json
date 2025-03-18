@@ -1,0 +1,73 @@
+{
+  "stateId": 3383337,
+  "stateCode": "SR-PR",
+  "countryCode": "SR",
+  "cities": [
+    {
+      "id": 12088708,
+      "name": "Bigi Poika",
+      "nativeName": "Bigi Poika",
+      "code": "SR-PR-12088708",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-PR",
+      "latitude": 5.40548,
+      "longitude": -55.50994
+    },
+    {
+      "id": 12088712,
+      "name": "Carolina",
+      "nativeName": "Carolina",
+      "code": "SR-PR-12088712",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-PR",
+      "latitude": 5.44815,
+      "longitude": -54.99828
+    },
+    {
+      "id": 12088738,
+      "name": "Domburg",
+      "nativeName": "Domburg",
+      "code": "SR-PR-12088738",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-PR",
+      "latitude": 5.68038,
+      "longitude": -55.08915
+    },
+    {
+      "id": 12088710,
+      "name": "Noord",
+      "nativeName": "Noord",
+      "code": "SR-PR-12088710",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-PR",
+      "latitude": 5.62657,
+      "longitude": -55.23797
+    },
+    {
+      "id": 12088711,
+      "name": "Oost",
+      "nativeName": "Oost",
+      "code": "SR-PR-12088711",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-PR",
+      "latitude": 5.50415,
+      "longitude": -55.10572
+    },
+    {
+      "id": 12088709,
+      "name": "Zuid",
+      "nativeName": "Zuid",
+      "code": "SR-PR-12088709",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-PR",
+      "latitude": 5.43964,
+      "longitude": -55.2175
+    }
+  ]
+}

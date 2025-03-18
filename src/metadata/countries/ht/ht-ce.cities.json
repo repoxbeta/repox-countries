@@ -1,0 +1,51 @@
+{
+  "stateId": 3728069,
+  "stateCode": "HT-CE",
+  "countryCode": "HT",
+  "cities": [
+    {
+      "id": 3728053,
+      "name": "Arrondissement de Cerca la Source",
+      "nativeName": "Arrondissement de Cerca la Source",
+      "code": "HT-CE-3728053",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "stateCode": "HT-CE",
+      "latitude": 19.13404,
+      "longitude": -71.77434
+    },
+    {
+      "id": 3723840,
+      "name": "Arrondissement de Hinche",
+      "nativeName": "Arrondissement de Hinche",
+      "code": "HT-CE-3723840",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "stateCode": "HT-CE",
+      "latitude": 19.13552,
+      "longitude": -72.04439
+    },
+    {
+      "id": 3722578,
+      "name": "Arrondissement de Lascahobas",
+      "nativeName": "Arrondissement de Lascahobas",
+      "code": "HT-CE-3722578",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "stateCode": "HT-CE",
+      "latitude": 18.83895,
+      "longitude": -71.86772
+    },
+    {
+      "id": 3720809,
+      "name": "Arrondissement de Mirebalais",
+      "nativeName": "Arrondissement de Mirebalais",
+      "code": "HT-CE-3720809",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "stateCode": "HT-CE",
+      "latitude": 18.88124,
+      "longitude": -72.14686
+    }
+  ]
+}

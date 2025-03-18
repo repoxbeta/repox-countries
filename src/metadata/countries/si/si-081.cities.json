@@ -1,0 +1,117 @@
+{
+  "stateId": 3239179,
+  "stateCode": "SI-081",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3194622,
+      "name": "Muta",
+      "nativeName": "Muta",
+      "code": "SI-081-3194622",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-081",
+      "latitude": 46.61139,
+      "longitude": 15.16611
+    },
+    {
+      "id": 3203349,
+      "name": "Brezovec",
+      "nativeName": "Brezovec",
+      "code": "SI-081-3203349",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-081",
+      "latitude": 46.61667,
+      "longitude": 15.16667
+    },
+    {
+      "id": 3199881,
+      "name": "Gortina",
+      "nativeName": "Gortina",
+      "code": "SI-081-3199881",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-081",
+      "latitude": 46.60583,
+      "longitude": 15.12639
+    },
+    {
+      "id": 3194975,
+      "name": "Mlake",
+      "nativeName": "Mlake",
+      "code": "SI-081-3194975",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-081",
+      "latitude": 46.64981,
+      "longitude": 15.10222
+    },
+    {
+      "id": 3193488,
+      "name": "Pernice",
+      "nativeName": "Pernice",
+      "code": "SI-081-3193488",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-081",
+      "latitude": 46.63333,
+      "longitude": 15.1
+    },
+    {
+      "id": 3192982,
+      "name": "Podlipje",
+      "nativeName": "Podlipje",
+      "code": "SI-081-3192982",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-081",
+      "latitude": 46.63333,
+      "longitude": 15.13333
+    },
+    {
+      "id": 8989789,
+      "name": "Sv. Jernej nad Muto",
+      "nativeName": "Sv. Jernej nad Muto",
+      "code": "SI-081-8989789",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-081",
+      "latitude": 46.64592,
+      "longitude": 15.14618
+    },
+    {
+      "id": 8987032,
+      "name": "Sv. Primož nad Muto",
+      "nativeName": "Sv. Primož nad Muto",
+      "code": "SI-081-8987032",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-081",
+      "latitude": 46.62556,
+      "longitude": 15.15747
+    },
+    {
+      "id": 3218454,
+      "name": "Sveti Peter",
+      "nativeName": "Sveti Peter",
+      "code": "SI-081-3218454",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-081",
+      "latitude": 46.595,
+      "longitude": 15.14778
+    },
+    {
+      "id": 3218457,
+      "name": "Sveti Simon",
+      "nativeName": "Sveti Simon",
+      "code": "SI-081-3218457",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-081",
+      "latitude": 46.64111,
+      "longitude": 15.10611
+    }
+  ]
+}

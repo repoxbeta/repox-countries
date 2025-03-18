@@ -1,0 +1,150 @@
+{
+  "stateId": 3192240,
+  "stateCode": "SI-096",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3192241,
+      "name": "Ptuj",
+      "nativeName": "Ptuj",
+      "code": "SI-096-3192241",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-096",
+      "latitude": 46.42005,
+      "longitude": 15.87018
+    },
+    {
+      "id": 3203127,
+      "name": "Budina",
+      "nativeName": "Budina",
+      "code": "SI-096-3203127",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-096",
+      "latitude": 46.41667,
+      "longitude": 15.9
+    },
+    {
+      "id": 3199661,
+      "name": "Grajenščak",
+      "nativeName": "Grajenščak",
+      "code": "SI-096-3199661",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-096",
+      "latitude": 46.48333,
+      "longitude": 15.81667
+    },
+    {
+      "id": 3194397,
+      "name": "Nova Vas pri Ptuju",
+      "nativeName": "Nova Vas pri Ptuju",
+      "code": "SI-096-3194397",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-096",
+      "latitude": 46.43333,
+      "longitude": 15.88333
+    },
+    {
+      "id": 3193735,
+      "name": "Pacinje",
+      "nativeName": "Pacinje",
+      "code": "SI-096-3193735",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-096",
+      "latitude": 46.45278,
+      "longitude": 15.93472
+    },
+    {
+      "id": 3192895,
+      "name": "Podvinci",
+      "nativeName": "Podvinci",
+      "code": "SI-096-3192895",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-096",
+      "latitude": 46.4325,
+      "longitude": 15.91667
+    },
+    {
+      "id": 3216787,
+      "name": "Rogoznica",
+      "nativeName": "Rogoznica",
+      "code": "SI-096-3216787",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-096",
+      "latitude": 46.42778,
+      "longitude": 15.89722
+    },
+    {
+      "id": 3190184,
+      "name": "Spodnji Velovlek",
+      "nativeName": "Spodnji Velovlek",
+      "code": "SI-096-3190184",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-096",
+      "latitude": 46.46667,
+      "longitude": 15.91667
+    },
+    {
+      "id": 3190179,
+      "name": "Spuhlja",
+      "nativeName": "Spuhlja",
+      "code": "SI-096-3190179",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-096",
+      "latitude": 46.4125,
+      "longitude": 15.915
+    },
+    {
+      "id": 3199662,
+      "name": "Grajena",
+      "nativeName": "Grajena",
+      "code": "SI-096-3199662",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-096",
+      "latitude": 46.45889,
+      "longitude": 15.84194
+    },
+    {
+      "id": 3339127,
+      "name": "Kicar",
+      "nativeName": "Kicar",
+      "code": "SI-096-3339127",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-096",
+      "latitude": 46.45194,
+      "longitude": 15.91222
+    },
+    {
+      "id": 3197322,
+      "name": "Krčevina pri Vurbergu",
+      "nativeName": "Krčevina pri Vurbergu",
+      "code": "SI-096-3197322",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-096",
+      "latitude": 46.47528,
+      "longitude": 15.81083
+    },
+    {
+      "id": 3339126,
+      "name": "Mestni Vrh",
+      "nativeName": "Mestni Vrh",
+      "code": "SI-096-3339126",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-096",
+      "latitude": 46.44333,
+      "longitude": 15.86528
+    }
+  ]
+}

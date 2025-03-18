@@ -1,0 +1,95 @@
+{
+  "stateId": 864485,
+  "stateCode": "LT-VL",
+  "countryCode": "LT",
+  "cities": [
+    {
+      "id": 9610135,
+      "name": "Elektrėnai Municipality",
+      "nativeName": "Elektrėnai",
+      "code": "LT-VL-9610135",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-VL",
+      "latitude": 54.78604,
+      "longitude": 24.66113
+    },
+    {
+      "id": 864523,
+      "name": "Trakai District Municipality",
+      "nativeName": "Trakai",
+      "code": "LT-VL-864523",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-VL",
+      "latitude": 54.63333,
+      "longitude": 24.93333
+    },
+    {
+      "id": 864524,
+      "name": "Ukmergė District Municipality",
+      "nativeName": "Ukmergė",
+      "code": "LT-VL-864524",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-VL",
+      "latitude": 55.25,
+      "longitude": 24.75
+    },
+    {
+      "id": 593118,
+      "name": "Vilnius City Municipality",
+      "nativeName": "Vilnius",
+      "code": "LT-VL-593118",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-VL",
+      "latitude": 54.68333,
+      "longitude": 25.31667
+    },
+    {
+      "id": 593120,
+      "name": "Vilnius District Municipality",
+      "nativeName": "Vilnius District Municipality",
+      "code": "LT-VL-593120",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-VL",
+      "latitude": 54.7476,
+      "longitude": 25.5025
+    },
+    {
+      "id": 864520,
+      "name": "Šalčininkai District Municipality",
+      "nativeName": "Šalčininkai",
+      "code": "LT-VL-864520",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-VL",
+      "latitude": 54.3,
+      "longitude": 25.38333
+    },
+    {
+      "id": 864521,
+      "name": "Širvintos District Municipality",
+      "nativeName": "Sirvintos",
+      "code": "LT-VL-864521",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-VL",
+      "latitude": 55.05,
+      "longitude": 24.95
+    },
+    {
+      "id": 864522,
+      "name": "Švenčionys District Municipality",
+      "nativeName": "Svencionys",
+      "code": "LT-VL-864522",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-VL",
+      "latitude": 55.15,
+      "longitude": 26.16667
+    }
+  ]
+}

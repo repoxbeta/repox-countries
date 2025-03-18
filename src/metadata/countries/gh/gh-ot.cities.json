@@ -1,0 +1,95 @@
+{
+  "stateId": 12105070,
+  "stateCode": "GH-OT",
+  "countryCode": "GH",
+  "cities": [
+    {
+      "id": 7648960,
+      "name": "Biakoye",
+      "nativeName": "Biakoye",
+      "code": "GH-OT-7648960",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-OT",
+      "latitude": 7.11667,
+      "longitude": 0.31667
+    },
+    {
+      "id": 7648988,
+      "name": "Jasikan",
+      "nativeName": "Jasikan",
+      "code": "GH-OT-7648988",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-OT",
+      "latitude": 7.42111,
+      "longitude": 0.46868
+    },
+    {
+      "id": 7648991,
+      "name": "Kadjebi",
+      "nativeName": "Kadjebi",
+      "code": "GH-OT-7648991",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-OT",
+      "latitude": 7.53333,
+      "longitude": 0.46667
+    },
+    {
+      "id": 7647501,
+      "name": "Krachi East",
+      "nativeName": "Krachi East",
+      "code": "GH-OT-7647501",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-OT",
+      "latitude": 7.69817,
+      "longitude": 0.22447
+    },
+    {
+      "id": 12105096,
+      "name": "Krachi Nchumuru",
+      "nativeName": "Krachi Nchumuru",
+      "code": "GH-OT-12105096",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-OT",
+      "latitude": 8.17531,
+      "longitude": -0.08519
+    },
+    {
+      "id": 7647502,
+      "name": "Krachi West",
+      "nativeName": "Krachi West",
+      "code": "GH-OT-7647502",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-OT",
+      "latitude": 7.8,
+      "longitude": -0.01667
+    },
+    {
+      "id": 7647497,
+      "name": "Nkwanta North",
+      "nativeName": "Nkwanta North",
+      "code": "GH-OT-7647497",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-OT",
+      "latitude": 8.60922,
+      "longitude": 0.30625
+    },
+    {
+      "id": 7647498,
+      "name": "Nkwanta South",
+      "nativeName": "Nkwanta South",
+      "code": "GH-OT-7647498",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-OT",
+      "latitude": 8.25379,
+      "longitude": 0.51633
+    }
+  ]
+}

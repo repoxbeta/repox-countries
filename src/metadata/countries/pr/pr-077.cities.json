@@ -1,0 +1,117 @@
+{
+  "stateId": 4565720,
+  "stateCode": "PR-077",
+  "countryCode": "PR",
+  "cities": [
+    {
+      "id": 7268292,
+      "name": "Caimito Barrio",
+      "nativeName": "Caimito Barrio",
+      "code": "PR-077-7268292",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-077",
+      "latitude": 18.2428,
+      "longitude": -65.86677
+    },
+    {
+      "id": 7268055,
+      "name": "Ceiba Norte Barrio",
+      "nativeName": "Ceiba Norte Barrio",
+      "code": "PR-077-7268055",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-077",
+      "latitude": 18.2228,
+      "longitude": -65.89413
+    },
+    {
+      "id": 7268056,
+      "name": "Ceiba Sur Barrio",
+      "nativeName": "Ceiba Sur Barrio",
+      "code": "PR-077-7268056",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-077",
+      "latitude": 18.2062,
+      "longitude": -65.91133
+    },
+    {
+      "id": 7268446,
+      "name": "Gurabo Abajo Barrio",
+      "nativeName": "Gurabo Abajo Barrio",
+      "code": "PR-077-7268446",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-077",
+      "latitude": 18.2528,
+      "longitude": -65.9106
+    },
+    {
+      "id": 7268447,
+      "name": "Gurabo Arriba Barrio",
+      "nativeName": "Gurabo Arriba Barrio",
+      "code": "PR-077-7268447",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-077",
+      "latitude": 18.24398,
+      "longitude": -65.881
+    },
+    {
+      "id": 7268535,
+      "name": "Juncos Barrio-Pueblo",
+      "nativeName": "Juncos Barrio-Pueblo",
+      "code": "PR-077-7268535",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-077",
+      "latitude": 18.22918,
+      "longitude": -65.92194
+    },
+    {
+      "id": 7268562,
+      "name": "Lirios Barrio",
+      "nativeName": "Lirios Barrio",
+      "code": "PR-077-7268562",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-077",
+      "latitude": 18.21897,
+      "longitude": -65.93997
+    },
+    {
+      "id": 7268603,
+      "name": "Mamey Barrio",
+      "nativeName": "Mamey Barrio",
+      "code": "PR-077-7268603",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-077",
+      "latitude": 18.23977,
+      "longitude": -65.93435
+    },
+    {
+      "id": 7269064,
+      "name": "Valenciano Abajo Barrio",
+      "nativeName": "Valenciano Abajo Barrio",
+      "code": "PR-077-7269064",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-077",
+      "latitude": 18.19345,
+      "longitude": -65.92196
+    },
+    {
+      "id": 7269065,
+      "name": "Valenciano Arriba Barrio",
+      "nativeName": "Valenciano Arriba Barrio",
+      "code": "PR-077-7269065",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-077",
+      "latitude": 18.16432,
+      "longitude": -65.92327
+    }
+  ]
+}

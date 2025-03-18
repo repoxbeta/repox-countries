@@ -1,0 +1,106 @@
+{
+  "stateId": 1733037,
+  "stateCode": "MY-10",
+  "countryCode": "MY",
+  "cities": [
+    {
+      "id": 1735136,
+      "name": "Gombak",
+      "nativeName": "Gombak",
+      "code": "MY-10-1735136",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-10",
+      "latitude": 3.3,
+      "longitude": 101.7
+    },
+    {
+      "id": 1735173,
+      "name": "Hulu Langat",
+      "nativeName": "Hulu Langat",
+      "code": "MY-10-1735173",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-10",
+      "latitude": 3.08333,
+      "longitude": 101.83333
+    },
+    {
+      "id": 1735145,
+      "name": "Hulu Selangor",
+      "nativeName": "Hulu Selangor",
+      "code": "MY-10-1735145",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-10",
+      "latitude": 3.5,
+      "longitude": 101.58333
+    },
+    {
+      "id": 1732904,
+      "name": "Klang",
+      "nativeName": "Klang",
+      "code": "MY-10-1732904",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-10",
+      "latitude": 3.08333,
+      "longitude": 101.41667
+    },
+    {
+      "id": 1734782,
+      "name": "Kuala Langat",
+      "nativeName": "Kuala Langat",
+      "code": "MY-10-1734782",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-10",
+      "latitude": 2.75,
+      "longitude": 101.5
+    },
+    {
+      "id": 1732890,
+      "name": "Kuala Selangor",
+      "nativeName": "Kuala Selangor",
+      "code": "MY-10-1732890",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-10",
+      "latitude": 3.33333,
+      "longitude": 101.25
+    },
+    {
+      "id": 1735156,
+      "name": "Petaling",
+      "nativeName": "Petaling",
+      "code": "MY-10-1735156",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-10",
+      "latitude": 3.08333,
+      "longitude": 101.58333
+    },
+    {
+      "id": 1735194,
+      "name": "Sabak Bernam",
+      "nativeName": "Sabak Bernam",
+      "code": "MY-10-1735194",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-10",
+      "latitude": 3.58333,
+      "longitude": 101.11667
+    },
+    {
+      "id": 1734789,
+      "name": "Sepang",
+      "nativeName": "Sepang",
+      "code": "MY-10-1734789",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-10",
+      "latitude": 2.75,
+      "longitude": 101.66667
+    }
+  ]
+}

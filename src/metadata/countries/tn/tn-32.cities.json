@@ -1,0 +1,106 @@
+{
+  "stateId": 2470085,
+  "stateCode": "TN-32",
+  "countryCode": "TN",
+  "cities": [
+    {
+      "id": 2472912,
+      "name": "Ain Draham",
+      "nativeName": "Ain Draham",
+      "code": "TN-32-2472912",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-32",
+      "latitude": 36.79186,
+      "longitude": 8.71225
+    },
+    {
+      "id": 7870271,
+      "name": "Balta - Bou Aouane",
+      "nativeName": "Balta Bou Aouane",
+      "code": "TN-32-7870271",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-32",
+      "latitude": 36.70352,
+      "longitude": 8.94918
+    },
+    {
+      "id": 7870272,
+      "name": "Bou Salem",
+      "nativeName": "Bou Salem",
+      "code": "TN-32-7870272",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-32",
+      "latitude": 36.56996,
+      "longitude": 8.99172
+    },
+    {
+      "id": 7870609,
+      "name": "Fernana",
+      "nativeName": "Fernana",
+      "code": "TN-32-7870609",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-32",
+      "latitude": 36.65098,
+      "longitude": 8.66903
+    },
+    {
+      "id": 2471002,
+      "name": "Ghardimaou",
+      "nativeName": "Ghardimaou",
+      "code": "TN-32-2471002",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-32",
+      "latitude": 36.50661,
+      "longitude": 8.38953
+    },
+    {
+      "id": 2470086,
+      "name": "Jendouba",
+      "nativeName": "Jendouba",
+      "code": "TN-32-2470086",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-32",
+      "latitude": 36.48519,
+      "longitude": 8.82325
+    },
+    {
+      "id": 7870273,
+      "name": "Jendouba Nord",
+      "nativeName": "Jendouba Nord",
+      "code": "TN-32-7870273",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-32",
+      "latitude": 36.54337,
+      "longitude": 8.72472
+    },
+    {
+      "id": 7870274,
+      "name": "Oued Meliz",
+      "nativeName": "Oued Meliz",
+      "code": "TN-32-7870274",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-32",
+      "latitude": 36.4649,
+      "longitude": 8.61107
+    },
+    {
+      "id": 2464869,
+      "name": "Tabarka",
+      "nativeName": "Tabarka",
+      "code": "TN-32-2464869",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-32",
+      "latitude": 36.91577,
+      "longitude": 8.82759
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "stateId": 2774686,
+  "stateCode": "AT-2",
+  "countryCode": "AT",
+  "cities": [
+    {
+      "id": 6459021,
+      "name": "Feldkirchen District",
+      "nativeName": "Politischer Bezirk Feldkirchen",
+      "code": "AT-2-6459021",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-2",
+      "latitude": 46.72127,
+      "longitude": 14.09683
+    },
+    {
+      "id": 2774321,
+      "name": "Klagenfurt am Wörthersee",
+      "nativeName": "Klagenfurt am Wörthersee",
+      "code": "AT-2-2774321",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-2",
+      "latitude": 46.63333,
+      "longitude": 14.3
+    },
+    {
+      "id": 2776496,
+      "name": "Politischer Bezirk Hermagor",
+      "nativeName": "Politischer Bezirk Hermagor",
+      "code": "AT-2-2776496",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-2",
+      "latitude": 46.63137,
+      "longitude": 13.13246
+    },
+    {
+      "id": 2774323,
+      "name": "Politischer Bezirk Klagenfurt Land",
+      "nativeName": "Politischer Bezirk Klagenfurt Land",
+      "code": "AT-2-2774323",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-2",
+      "latitude": 46.56722,
+      "longitude": 14.29295
+    },
+    {
+      "id": 2762367,
+      "name": "Politischer Bezirk Villach Land",
+      "nativeName": "Politischer Bezirk Villach Land",
+      "code": "AT-2-2762367",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-2",
+      "latitude": 46.65308,
+      "longitude": 13.77287
+    },
+    {
+      "id": 2760908,
+      "name": "Politischer Bezirk Wolfsberg",
+      "nativeName": "Politischer Bezirk Wolfsberg",
+      "code": "AT-2-2760908",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-2",
+      "latitude": 46.83333,
+      "longitude": 14.83333
+    },
+    {
+      "id": 2766358,
+      "name": "Sankt Veit an der Glan District",
+      "nativeName": "Politischer Bezirk Sankt Veit an der Glan",
+      "code": "AT-2-2766358",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-2",
+      "latitude": 46.83333,
+      "longitude": 14.4
+    },
+    {
+      "id": 2764785,
+      "name": "Spittal an der Drau District",
+      "nativeName": "Politischer Bezirk Spittal an der Drau",
+      "code": "AT-2-2764785",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-2",
+      "latitude": 46.85,
+      "longitude": 13.33333
+    },
+    {
+      "id": 2762366,
+      "name": "Villach Stadt",
+      "nativeName": "Villach Stadt",
+      "code": "AT-2-2762366",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-2",
+      "latitude": 46.609,
+      "longitude": 13.85136
+    },
+    {
+      "id": 2762314,
+      "name": "Völkermarkt District",
+      "nativeName": "Politischer Bezirk Völkermarkt",
+      "code": "AT-2-2762314",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-2",
+      "latitude": 46.59641,
+      "longitude": 14.66664
+    }
+  ]
+}

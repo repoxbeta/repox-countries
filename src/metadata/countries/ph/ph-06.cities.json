@@ -1,0 +1,73 @@
+{
+  "stateId": 7521304,
+  "stateCode": "PH-06",
+  "countryCode": "PH",
+  "cities": [
+    {
+      "id": 1718641,
+      "name": "Capiz",
+      "nativeName": "Province of Capiz",
+      "code": "PH-06-1718641",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-06",
+      "latitude": 11.4,
+      "longitude": 122.56667
+    },
+    {
+      "id": 1731758,
+      "name": "Province of Aklan",
+      "nativeName": "Province of Aklan",
+      "code": "PH-06-1731758",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-06",
+      "latitude": 11.66667,
+      "longitude": 122.33333
+    },
+    {
+      "id": 1730491,
+      "name": "Province of Antique",
+      "nativeName": "Province of Antique",
+      "code": "PH-06-1730491",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-06",
+      "latitude": 11.16667,
+      "longitude": 122.08333
+    },
+    {
+      "id": 7602867,
+      "name": "Province of Guimaras",
+      "nativeName": "Province of Guimaras",
+      "code": "PH-06-7602867",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-06",
+      "latitude": 10.58092,
+      "longitude": 122.62621
+    },
+    {
+      "id": 1711004,
+      "name": "Province of Iloilo",
+      "nativeName": "Province of Iloilo",
+      "code": "PH-06-1711004",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-06",
+      "latitude": 11,
+      "longitude": 122.66667
+    },
+    {
+      "id": 1697808,
+      "name": "Province of Negros Occidental",
+      "nativeName": "Province of Negros Occidental",
+      "code": "PH-06-1697808",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-06",
+      "latitude": 10.41667,
+      "longitude": 123
+    }
+  ]
+}

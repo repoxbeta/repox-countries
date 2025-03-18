@@ -1,0 +1,51 @@
+{
+  "stateId": 700567,
+  "stateCode": "UA-48",
+  "countryCode": "UA",
+  "cities": [
+    {
+      "id": 712771,
+      "name": "Bashtanka Raion",
+      "nativeName": "Bashtanka Raion",
+      "code": "UA-48-712771",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-48",
+      "latitude": 47.40583,
+      "longitude": 32.43386
+    },
+    {
+      "id": 9821293,
+      "name": "Mykolaiv Raion",
+      "nativeName": "Mykolayiv urban raion",
+      "code": "UA-48-9821293",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-48",
+      "latitude": 46.97626,
+      "longitude": 31.99296
+    },
+    {
+      "id": 697571,
+      "name": "Pervomaysk Raion",
+      "nativeName": "Pervomaysk Raion",
+      "code": "UA-48-697571",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-48",
+      "latitude": 48.05151,
+      "longitude": 30.85104
+    },
+    {
+      "id": 688857,
+      "name": "Voznesensk Raion",
+      "nativeName": "Voznesensk Raion",
+      "code": "UA-48-688857",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-48",
+      "latitude": 47.56246,
+      "longitude": 31.33574
+    }
+  ]
+}

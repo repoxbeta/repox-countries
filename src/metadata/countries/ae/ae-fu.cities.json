@@ -1,0 +1,29 @@
+{
+  "stateId": 292879,
+  "stateCode": "AE-FU",
+  "countryCode": "AE",
+  "cities": [
+    {
+      "id": 12047242,
+      "name": "Al Fujairah Municipality",
+      "nativeName": "Al Fujairah Municipality",
+      "code": "AE-FU-12047242",
+      "countryId": 290557,
+      "countryCode": "AE",
+      "stateCode": "AE-FU",
+      "latitude": 25.13557,
+      "longitude": 56.33279
+    },
+    {
+      "id": 12047243,
+      "name": "Dibba Al Fujairah Municipality",
+      "nativeName": "Dibba Al Fujairah Municipality",
+      "code": "AE-FU-12047243",
+      "countryId": 290557,
+      "countryCode": "AE",
+      "stateCode": "AE-FU",
+      "latitude": 25.5858,
+      "longitude": 56.24792
+    }
+  ]
+}

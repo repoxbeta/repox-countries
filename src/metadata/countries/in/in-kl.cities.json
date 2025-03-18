@@ -1,0 +1,161 @@
+{
+  "stateId": 1267254,
+  "stateCode": "IN-KL",
+  "countryCode": "IN",
+  "cities": [
+    {
+      "id": 1278986,
+      "name": "Alleppey District",
+      "nativeName": "Alappuzha",
+      "code": "IN-KL-1278986",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-KL",
+      "latitude": 9.41667,
+      "longitude": 76.5
+    },
+    {
+      "id": 1272019,
+      "name": "Ernakulam District",
+      "nativeName": "Ernākulam",
+      "code": "IN-KL-1272019",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-KL",
+      "latitude": 10,
+      "longitude": 76.5
+    },
+    {
+      "id": 1269812,
+      "name": "Idukki",
+      "nativeName": "Idukki",
+      "code": "IN-KL-1269812",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-KL",
+      "latitude": 10,
+      "longitude": 77
+    },
+    {
+      "id": 1274988,
+      "name": "Kannur",
+      "nativeName": "Kannur",
+      "code": "IN-KL-1274988",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-KL",
+      "latitude": 12.16667,
+      "longitude": 75.33333
+    },
+    {
+      "id": 8347665,
+      "name": "Kasaragod",
+      "nativeName": "Kāsaragod District",
+      "code": "IN-KL-8347665",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-KL",
+      "latitude": 12.49246,
+      "longitude": 74.99062
+    },
+    {
+      "id": 7909821,
+      "name": "Kollam",
+      "nativeName": "Kollam",
+      "code": "IN-KL-7909821",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-KL",
+      "latitude": 8.95687,
+      "longitude": 76.85274
+    },
+    {
+      "id": 1265912,
+      "name": "Kottayam",
+      "nativeName": "Kottayam",
+      "code": "IN-KL-1265912",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-KL",
+      "latitude": 9.66667,
+      "longitude": 76.66667
+    },
+    {
+      "id": 1265874,
+      "name": "Kozhikode",
+      "nativeName": "Kozhikode",
+      "code": "IN-KL-1265874",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-KL",
+      "latitude": 11.5,
+      "longitude": 76
+    },
+    {
+      "id": 1264155,
+      "name": "Malappuram",
+      "nativeName": "Malappuram",
+      "code": "IN-KL-1264155",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-KL",
+      "latitude": 11,
+      "longitude": 76.16667
+    },
+    {
+      "id": 7289568,
+      "name": "Palakkad",
+      "nativeName": "Palakkad district",
+      "code": "IN-KL-7289568",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-KL",
+      "latitude": 10.775,
+      "longitude": 76.651
+    },
+    {
+      "id": 7874372,
+      "name": "Pathanamthitta",
+      "nativeName": "Pattanamtitta",
+      "code": "IN-KL-7874372",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-KL",
+      "latitude": 9.28068,
+      "longitude": 76.86967
+    },
+    {
+      "id": 7909823,
+      "name": "Thiruvananthapuram",
+      "nativeName": "Thiruvananthapuram",
+      "code": "IN-KL-7909823",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-KL",
+      "latitude": 8.60399,
+      "longitude": 76.98574
+    },
+    {
+      "id": 8133543,
+      "name": "Thrissur",
+      "nativeName": "Thrissur District",
+      "code": "IN-KL-8133543",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-KL",
+      "latitude": 10.52022,
+      "longitude": 76.2204
+    },
+    {
+      "id": 6951502,
+      "name": "Wayanad",
+      "nativeName": "Wayanad",
+      "code": "IN-KL-6951502",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-KL",
+      "latitude": 11.605,
+      "longitude": 76.083
+    }
+  ]
+}

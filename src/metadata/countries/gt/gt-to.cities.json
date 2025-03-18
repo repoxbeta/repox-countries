@@ -1,0 +1,95 @@
+{
+  "stateId": 3588257,
+  "stateCode": "GT-TO",
+  "countryCode": "GT",
+  "cities": [
+    {
+      "id": 3592482,
+      "name": "Municipio de Momostenango",
+      "nativeName": "Municipio de Momostenango",
+      "code": "GT-TO-3592482",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-TO",
+      "latitude": 15.04726,
+      "longitude": -91.40625
+    },
+    {
+      "id": 3590519,
+      "name": "Municipio de San Andrés Xecul",
+      "nativeName": "Municipio de San Andrés Xecul",
+      "code": "GT-TO-3590519",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-TO",
+      "latitude": 14.90778,
+      "longitude": -91.49623
+    },
+    {
+      "id": 3590397,
+      "name": "Municipio de San Bartolo Aguas Calientes",
+      "nativeName": "Municipio de San Bartolo Aguas Calientes",
+      "code": "GT-TO-3590397",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-TO",
+      "latitude": 15.11491,
+      "longitude": -91.45771
+    },
+    {
+      "id": 3590317,
+      "name": "Municipio de San Cristóbal Totonicapán",
+      "nativeName": "Municipio de San Cristóbal Totonicapán",
+      "code": "GT-TO-3590317",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-TO",
+      "latitude": 14.92813,
+      "longitude": -91.47469
+    },
+    {
+      "id": 3590218,
+      "name": "Municipio de San Francisco El Alto",
+      "nativeName": "Municipio de San Francisco El Alto",
+      "code": "GT-TO-3590218",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-TO",
+      "latitude": 14.96617,
+      "longitude": -91.47457
+    },
+    {
+      "id": 3589286,
+      "name": "Municipio de Santa Lucía La Reforma",
+      "nativeName": "Municipio de Santa Lucía La Reforma",
+      "code": "GT-TO-3589286",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-TO",
+      "latitude": 15.1503,
+      "longitude": -91.2785
+    },
+    {
+      "id": 3589255,
+      "name": "Municipio de Santa María Chiquimula",
+      "nativeName": "Municipio de Santa María Chiquimula",
+      "code": "GT-TO-3589255",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-TO",
+      "latitude": 15.02886,
+      "longitude": -91.32917
+    },
+    {
+      "id": 3588255,
+      "name": "Municipio de Totonicapán",
+      "nativeName": "Municipio de Totonicapán",
+      "code": "GT-TO-3588255",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-TO",
+      "latitude": 14.90193,
+      "longitude": -91.31999
+    }
+  ]
+}

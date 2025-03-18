@@ -1,0 +1,51 @@
+{
+  "stateId": 7521306,
+  "stateCode": "PH-07",
+  "countryCode": "PH",
+  "cities": [
+    {
+      "id": 1724395,
+      "name": "Bohol",
+      "nativeName": "Bohol",
+      "code": "PH-07-1724395",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-07",
+      "latitude": 9.83333,
+      "longitude": 124.16667
+    },
+    {
+      "id": 1717511,
+      "name": "Province of Cebu",
+      "nativeName": "Province of Cebu",
+      "code": "PH-07-1717511",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-07",
+      "latitude": 10.39597,
+      "longitude": 123.78021
+    },
+    {
+      "id": 1697806,
+      "name": "Province of Negros Oriental",
+      "nativeName": "Province of Negros Oriental",
+      "code": "PH-07-1697806",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-07",
+      "latitude": 9.75,
+      "longitude": 123
+    },
+    {
+      "id": 1686065,
+      "name": "Province of Siquijor",
+      "nativeName": "Province of Siquijor",
+      "code": "PH-07-1686065",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-07",
+      "latitude": 9.18333,
+      "longitude": 123.56667
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "countryId": 3042058,
+  "countryCode": "LI",
+  "states": [
+    {
+      "id": 3042074,
+      "name": "Balzers",
+      "nativeName": "Balzers",
+      "code": "LI-01",
+      "internalCode": "01",
+      "countryId": 3042058,
+      "countryCode": "LI",
+      "latitude": 47.0677,
+      "longitude": 9.50408
+    },
+    {
+      "id": 3042069,
+      "name": "Eschen",
+      "nativeName": "Eschen",
+      "code": "LI-02",
+      "internalCode": "02",
+      "countryId": 3042058,
+      "countryCode": "LI",
+      "latitude": 47.20178,
+      "longitude": 9.53588
+    },
+    {
+      "id": 3042063,
+      "name": "Gamprin",
+      "nativeName": "Gamprin",
+      "code": "LI-03",
+      "internalCode": "03",
+      "countryId": 3042058,
+      "countryCode": "LI",
+      "latitude": 47.21986,
+      "longitude": 9.50995
+    },
+    {
+      "id": 3042056,
+      "name": "Mauren",
+      "nativeName": "Mauren",
+      "code": "LI-04",
+      "internalCode": "04",
+      "countryId": 3042058,
+      "countryCode": "LI",
+      "latitude": 47.21513,
+      "longitude": 9.55898
+    },
+    {
+      "id": 3042050,
+      "name": "Planken",
+      "nativeName": "Planken",
+      "code": "LI-05",
+      "internalCode": "05",
+      "countryId": 3042058,
+      "countryCode": "LI",
+      "latitude": 47.18015,
+      "longitude": 9.55994
+    },
+    {
+      "id": 3042047,
+      "name": "Ruggell",
+      "nativeName": "Ruggell",
+      "code": "LI-06",
+      "internalCode": "06",
+      "countryId": 3042058,
+      "countryCode": "LI",
+      "latitude": 47.24502,
+      "longitude": 9.53323
+    },
+    {
+      "id": 3042042,
+      "name": "Schaan",
+      "nativeName": "Schaan",
+      "code": "LI-07",
+      "internalCode": "07",
+      "countryId": 3042058,
+      "countryCode": "LI",
+      "latitude": 47.17433,
+      "longitude": 9.52401
+    },
+    {
+      "id": 3042038,
+      "name": "Schellenberg",
+      "nativeName": "Schellenberg",
+      "code": "LI-08",
+      "internalCode": "08",
+      "countryId": 3042058,
+      "countryCode": "LI",
+      "latitude": 47.23431,
+      "longitude": 9.55103
+    },
+    {
+      "id": 3042036,
+      "name": "Triesen",
+      "nativeName": "Triesen",
+      "code": "LI-09",
+      "internalCode": "09",
+      "countryId": 3042058,
+      "countryCode": "LI",
+      "latitude": 47.08381,
+      "longitude": 9.55517
+    },
+    {
+      "id": 3042034,
+      "name": "Triesenberg",
+      "nativeName": "Triesenberg",
+      "code": "LI-10",
+      "internalCode": "10",
+      "countryId": 3042058,
+      "countryCode": "LI",
+      "latitude": 47.12663,
+      "longitude": 9.55962
+    },
+    {
+      "id": 3042031,
+      "name": "Vaduz",
+      "nativeName": "Vaduz",
+      "code": "LI-11",
+      "internalCode": "11",
+      "countryId": 3042058,
+      "countryCode": "LI",
+      "latitude": 47.14539,
+      "longitude": 9.52655
+    }
+  ]
+}

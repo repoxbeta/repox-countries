@@ -1,0 +1,40 @@
+{
+  "stateId": 1606585,
+  "stateCode": "TH-75",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 1158431,
+      "name": "Amphawa",
+      "nativeName": "Amphoe Amphawa",
+      "code": "TH-75-1158431",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-75",
+      "latitude": 13.36721,
+      "longitude": 99.91232
+    },
+    {
+      "id": 1157724,
+      "name": "Bang Khonthi",
+      "nativeName": "Amphoe Bang Khonthi",
+      "code": "TH-75-1157724",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-75",
+      "latitude": 13.47448,
+      "longitude": 99.94838
+    },
+    {
+      "id": 1608621,
+      "name": "Mueang Samut Songkhram",
+      "nativeName": "Amphoe Mueang Samut Songkhram",
+      "code": "TH-75-1608621",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-75",
+      "latitude": 13.39587,
+      "longitude": 99.99929
+    }
+  ]
+}

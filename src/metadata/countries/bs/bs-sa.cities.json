@@ -1,0 +1,117 @@
+{
+  "stateId": 8030556,
+  "stateCode": "BS-SA",
+  "countryCode": "BS",
+  "cities": [
+    {
+      "id": 3572603,
+      "name": "Congo Town",
+      "nativeName": "Congo Town",
+      "code": "BS-SA-3572603",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SA",
+      "latitude": 24.16614,
+      "longitude": -77.58425
+    },
+    {
+      "id": 3572515,
+      "name": "Deep Creek",
+      "nativeName": "Deep Creek",
+      "code": "BS-SA-3572515",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SA",
+      "latitude": 24,
+      "longitude": -77.55
+    },
+    {
+      "id": 3572475,
+      "name": "Driggs Hill",
+      "nativeName": "Driggs Hill",
+      "code": "BS-SA-3572475",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SA",
+      "latitude": 24.20864,
+      "longitude": -77.59949
+    },
+    {
+      "id": 3572190,
+      "name": "High Rock",
+      "nativeName": "High Rock",
+      "code": "BS-SA-3572190",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SA",
+      "latitude": 24.16667,
+      "longitude": -77.58333
+    },
+    {
+      "id": 3572110,
+      "name": "Kemps Bay",
+      "nativeName": "Kemps Bay",
+      "code": "BS-SA-3572110",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SA",
+      "latitude": 24.027,
+      "longitude": -77.53343
+    },
+    {
+      "id": 3572062,
+      "name": "Little Creek",
+      "nativeName": "Little Creek",
+      "code": "BS-SA-3572062",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SA",
+      "latitude": 23.94674,
+      "longitude": -77.52248
+    },
+    {
+      "id": 3571915,
+      "name": "Mars Bay",
+      "nativeName": "Mars Bay",
+      "code": "BS-SA-3571915",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SA",
+      "latitude": 23.8671,
+      "longitude": -77.51581
+    },
+    {
+      "id": 3571639,
+      "name": "Pure Gold",
+      "nativeName": "Pure Gold",
+      "code": "BS-SA-3571639",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SA",
+      "latitude": 23.96667,
+      "longitude": -77.53333
+    },
+    {
+      "id": 3571433,
+      "name": "Smith’s Hill",
+      "nativeName": "Smith’s Hill",
+      "code": "BS-SA-3571433",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SA",
+      "latitude": 24.05,
+      "longitude": -77.53333
+    },
+    {
+      "id": 3571319,
+      "name": "The Bluff",
+      "nativeName": "The Bluff",
+      "code": "BS-SA-3571319",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SA",
+      "latitude": 24.11667,
+      "longitude": -77.55
+    }
+  ]
+}

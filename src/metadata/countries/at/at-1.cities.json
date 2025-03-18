@@ -1,0 +1,106 @@
+{
+  "stateId": 2781194,
+  "stateCode": "AT-1",
+  "countryCode": "AT",
+  "cities": [
+    {
+      "id": 2780188,
+      "name": "Eisenstadt",
+      "nativeName": "Eisenstadt",
+      "code": "AT-1-2780188",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-1",
+      "latitude": 47.8445,
+      "longitude": 16.52575
+    },
+    {
+      "id": 2780189,
+      "name": "Eisenstadt-Umgebung",
+      "nativeName": "Eisenstadt-Umgebung",
+      "code": "AT-1-2780189",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-1",
+      "latitude": 47.83333,
+      "longitude": 16.58333
+    },
+    {
+      "id": 2771816,
+      "name": "Mattersburg District",
+      "nativeName": "Politischer Bezirk Mattersburg",
+      "code": "AT-1-2771816",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-1",
+      "latitude": 47.73823,
+      "longitude": 16.39486
+    },
+    {
+      "id": 2769811,
+      "name": "Oberpullendorf District",
+      "nativeName": "Politischer Bezirk Oberpullendorf",
+      "code": "AT-1-2769811",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-1",
+      "latitude": 47.50184,
+      "longitude": 16.50593
+    },
+    {
+      "id": 2769621,
+      "name": "Oberwart District",
+      "nativeName": "Politischer Bezirk Oberwart",
+      "code": "AT-1-2769621",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-1",
+      "latitude": 47.28854,
+      "longitude": 16.20861
+    },
+    {
+      "id": 2777215,
+      "name": "Politischer Bezirk Güssing",
+      "nativeName": "Politischer Bezirk Güssing",
+      "code": "AT-1-2777215",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-1",
+      "latitude": 47.10164,
+      "longitude": 16.30363
+    },
+    {
+      "id": 2775088,
+      "name": "Politischer Bezirk Jennersdorf",
+      "nativeName": "Politischer Bezirk Jennersdorf",
+      "code": "AT-1-2775088",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-1",
+      "latitude": 46.9368,
+      "longitude": 16.1418
+    },
+    {
+      "id": 2770682,
+      "name": "Politischer Bezirk Neusiedl am See",
+      "nativeName": "Politischer Bezirk Neusiedl am See",
+      "code": "AT-1-2770682",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-1",
+      "latitude": 47.88853,
+      "longitude": 16.92465
+    },
+    {
+      "id": 2766935,
+      "name": "Rust",
+      "nativeName": "Rust",
+      "code": "AT-1-2766935",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-1",
+      "latitude": 47.80174,
+      "longitude": 16.6721
+    }
+  ]
+}

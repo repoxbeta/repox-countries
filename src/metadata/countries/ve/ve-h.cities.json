@@ -1,0 +1,106 @@
+{
+  "stateId": 3645386,
+  "stateCode": "VE-H",
+  "countryCode": "VE",
+  "cities": [
+    {
+      "id": 3649199,
+      "name": "Anzoátegui Municipality",
+      "nativeName": "Municipio Anzoátegui",
+      "code": "VE-H-3649199",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-H",
+      "latitude": 9.58333,
+      "longitude": -68.86667
+    },
+    {
+      "id": 3640596,
+      "name": "Girardot Municipality",
+      "nativeName": "Municipio Girardot",
+      "code": "VE-H-3640596",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-H",
+      "latitude": 8.9,
+      "longitude": -68.25
+    },
+    {
+      "id": 8129267,
+      "name": "Lima Blanco Municipality",
+      "nativeName": "Municipio Lima Blanco",
+      "code": "VE-H-8129267",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-H",
+      "latitude": 9.82602,
+      "longitude": -68.43899
+    },
+    {
+      "id": 3628494,
+      "name": "Municipio San Carlos",
+      "nativeName": "Municipio San Carlos",
+      "code": "VE-H-3628494",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-H",
+      "latitude": 9.58333,
+      "longitude": -68.58333
+    },
+    {
+      "id": 8129190,
+      "name": "Pao de San Juan Bautista Municipality",
+      "nativeName": "Municipio Pao de San Juan Bautista",
+      "code": "VE-H-8129190",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-H",
+      "latitude": 9.63752,
+      "longitude": -68.12884
+    },
+    {
+      "id": 3629179,
+      "name": "Ricaurte Municipality",
+      "nativeName": "Municipio Ricaurte",
+      "code": "VE-H-3629179",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-H",
+      "latitude": 9.33333,
+      "longitude": -68.66667
+    },
+    {
+      "id": 8129242,
+      "name": "Rómulo Gallegos Municipality",
+      "nativeName": "Municipio Rómulo Gallegos",
+      "code": "VE-H-8129242",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-H",
+      "latitude": 9.53727,
+      "longitude": -68.6296
+    },
+    {
+      "id": 3626234,
+      "name": "Tinaco Municipality",
+      "nativeName": "Municipio Tinaco",
+      "code": "VE-H-3626234",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-H",
+      "latitude": 9.66667,
+      "longitude": -68.33333
+    },
+    {
+      "id": 3640872,
+      "name": "Tinaquillo Municipality",
+      "nativeName": "Municipio Tinaquillo",
+      "code": "VE-H-3640872",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-H",
+      "latitude": 9.91667,
+      "longitude": -68.33333
+    }
+  ]
+}

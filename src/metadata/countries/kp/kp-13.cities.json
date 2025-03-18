@@ -1,0 +1,29 @@
+{
+  "stateId": 2054927,
+  "stateCode": "KP-13",
+  "countryCode": "KP",
+  "cities": [
+    {
+      "id": 2042641,
+      "name": "Najin",
+      "nativeName": "Najin",
+      "code": "KP-13-2042641",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-13",
+      "latitude": 42.28006,
+      "longitude": 130.27847
+    },
+    {
+      "id": 2040675,
+      "name": "Sŏnbong-gun",
+      "nativeName": "Sŏnbong-gun",
+      "code": "KP-13-2040675",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-13",
+      "latitude": 42.42258,
+      "longitude": 130.48885
+    }
+  ]
+}

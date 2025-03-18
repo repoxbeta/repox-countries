@@ -1,0 +1,117 @@
+{
+  "stateId": 1568733,
+  "stateCode": "VN-25",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 1905253,
+      "name": "Cam Lộ District",
+      "nativeName": "Huyện Cam Lộ",
+      "code": "VN-25-1905253",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-25",
+      "latitude": 16.79335,
+      "longitude": 106.96175
+    },
+    {
+      "id": 8650854,
+      "name": "Cồn Cỏ District",
+      "nativeName": "Huyện Cồn Cỏ",
+      "code": "VN-25-8650854",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-25",
+      "latitude": 17.15862,
+      "longitude": 107.33931
+    },
+    {
+      "id": 1905254,
+      "name": "Gio Linh District",
+      "nativeName": "Huyện Gio Linh",
+      "code": "VN-25-1905254",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-25",
+      "latitude": 16.91667,
+      "longitude": 107
+    },
+    {
+      "id": 1905249,
+      "name": "Hướng Hóa District",
+      "nativeName": "Huyện Hướng Hóa",
+      "code": "VN-25-1905249",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-25",
+      "latitude": 16.70132,
+      "longitude": 106.67036
+    },
+    {
+      "id": 1905250,
+      "name": "Hải Lăng District",
+      "nativeName": "Huyện Hải Lăng",
+      "code": "VN-25-1905250",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-25",
+      "latitude": 16.67574,
+      "longitude": 107.23388
+    },
+    {
+      "id": 1905247,
+      "name": "Thành Phố Đông Hà",
+      "nativeName": "Thành Phố Đông Hà",
+      "code": "VN-25-1905247",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-25",
+      "latitude": 16.80549,
+      "longitude": 107.09066
+    },
+    {
+      "id": 1905251,
+      "name": "Thị Xã Quảng Trị",
+      "nativeName": "Thị Xã Quảng Trị",
+      "code": "VN-25-1905251",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-25",
+      "latitude": 16.75221,
+      "longitude": 107.18724
+    },
+    {
+      "id": 1905252,
+      "name": "Triệu Phong District",
+      "nativeName": "Huyện Triệu Phong",
+      "code": "VN-25-1905252",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-25",
+      "latitude": 16.78132,
+      "longitude": 107.16034
+    },
+    {
+      "id": 1905255,
+      "name": "Vĩnh Linh District",
+      "nativeName": "Huyện Vĩnh Linh",
+      "code": "VN-25-1905255",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-25",
+      "latitude": 17.016,
+      "longitude": 106.93384
+    },
+    {
+      "id": 1905248,
+      "name": "Đa Krông District",
+      "nativeName": "Huyện ĐaKrông",
+      "code": "VN-25-1905248",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-25",
+      "latitude": 16.55543,
+      "longitude": 106.97208
+    }
+  ]
+}

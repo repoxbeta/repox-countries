@@ -1,0 +1,106 @@
+{
+  "stateId": 314829,
+  "stateCode": "TR-27",
+  "countryCode": "TR",
+  "cities": [
+    {
+      "id": 7733230,
+      "name": "Araban",
+      "nativeName": "Araban",
+      "code": "TR-27-7733230",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-27",
+      "latitude": 37.42559,
+      "longitude": 37.78175
+    },
+    {
+      "id": 436186,
+      "name": "Karkamış İlçesi",
+      "nativeName": "Karkamış İlçesi",
+      "code": "TR-27-436186",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-27",
+      "latitude": 36.86417,
+      "longitude": 37.92222
+    },
+    {
+      "id": 8630759,
+      "name": "Nizip İlçesi",
+      "nativeName": "Nizip İlçesi",
+      "code": "TR-27-8630759",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-27",
+      "latitude": 37.011,
+      "longitude": 37.79496
+    },
+    {
+      "id": 8630785,
+      "name": "Nurdağı İlçesi",
+      "nativeName": "Nurdağı İlçesi",
+      "code": "TR-27-8630785",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-27",
+      "latitude": 37.18402,
+      "longitude": 36.73595
+    },
+    {
+      "id": 436187,
+      "name": "Oğuzeli İlçesi",
+      "nativeName": "Oğuzeli İlçesi",
+      "code": "TR-27-436187",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-27",
+      "latitude": 36.88167,
+      "longitude": 37.56278
+    },
+    {
+      "id": 8630760,
+      "name": "Yavuzeli İlçesi",
+      "nativeName": "Yavuzeli İlçesi",
+      "code": "TR-27-8630760",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-27",
+      "latitude": 37.32339,
+      "longitude": 37.56956
+    },
+    {
+      "id": 437252,
+      "name": "İslahiye İlçesi",
+      "nativeName": "İslahiye İlçesi",
+      "code": "TR-27-437252",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-27",
+      "latitude": 36.96528,
+      "longitude": 36.70972
+    },
+    {
+      "id": 437630,
+      "name": "Şahinbey İlçesi",
+      "nativeName": "Şahinbey İlçesi",
+      "code": "TR-27-437630",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-27",
+      "latitude": 37.03741,
+      "longitude": 37.37822
+    },
+    {
+      "id": 7732373,
+      "name": "Şehitkamil",
+      "nativeName": "Şehitkamil",
+      "code": "TR-27-7732373",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-27",
+      "latitude": 37.17217,
+      "longitude": 37.36974
+    }
+  ]
+}

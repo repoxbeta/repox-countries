@@ -1,0 +1,40 @@
+{
+  "stateId": 2199295,
+  "stateCode": "FJ-N",
+  "countryCode": "FJ",
+  "cities": [
+    {
+      "id": 2203651,
+      "name": "Bua Province",
+      "nativeName": "Bua Province",
+      "code": "FJ-N-2203651",
+      "countryId": 2205218,
+      "countryCode": "FJ",
+      "stateCode": "FJ-N",
+      "latitude": -16.83333,
+      "longitude": 178.75
+    },
+    {
+      "id": 2197820,
+      "name": "Cakaudrove",
+      "nativeName": "Cakaudrove Province",
+      "code": "FJ-N-2197820",
+      "countryId": 2205218,
+      "countryCode": "FJ",
+      "stateCode": "FJ-N",
+      "latitude": -16.66667,
+      "longitude": 179.41667
+    },
+    {
+      "id": 2203875,
+      "name": "Macuata",
+      "nativeName": "Macuata Province",
+      "code": "FJ-N-2203875",
+      "countryId": 2205218,
+      "countryCode": "FJ",
+      "stateCode": "FJ-N",
+      "latitude": -16.5,
+      "longitude": 179.25
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "stateId": 3030293,
+  "stateCode": "FR-BRE",
+  "countryCode": "FR",
+  "cities": [
+    {
+      "id": 3023414,
+      "name": "Côtes-d'Armor",
+      "nativeName": "Côtes-d'Armor",
+      "code": "FR-BRE-3023414",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-BRE",
+      "latitude": 48.34295,
+      "longitude": -2.78216
+    },
+    {
+      "id": 3018471,
+      "name": "Finistère",
+      "nativeName": "Finistère",
+      "code": "FR-BRE-3018471",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-BRE",
+      "latitude": 48.25224,
+      "longitude": -3.99263
+    },
+    {
+      "id": 3012849,
+      "name": "Ille-et-Vilaine",
+      "nativeName": "Ille-et-Vilaine",
+      "code": "FR-BRE-3012849",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-BRE",
+      "latitude": 48.16667,
+      "longitude": -1.5
+    },
+    {
+      "id": 2991879,
+      "name": "Morbihan",
+      "nativeName": "Morbihan",
+      "code": "FR-BRE-2991879",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-BRE",
+      "latitude": 47.84765,
+      "longitude": -2.7776
+    }
+  ]
+}

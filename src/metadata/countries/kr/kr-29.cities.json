@@ -1,0 +1,62 @@
+{
+  "stateId": 1841808,
+  "stateCode": "KR-29",
+  "countryCode": "KR",
+  "cities": [
+    {
+      "id": 8462136,
+      "name": "Buk-gu",
+      "nativeName": "Buk-gu",
+      "code": "KR-29-8462136",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-29",
+      "latitude": 35.19232,
+      "longitude": 126.92439
+    },
+    {
+      "id": 8462137,
+      "name": "Dong-gu",
+      "nativeName": "Dong-gu",
+      "code": "KR-29-8462137",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-29",
+      "latitude": 35.14592,
+      "longitude": 126.9232
+    },
+    {
+      "id": 1841791,
+      "name": "Gwangsan-gu",
+      "nativeName": "Gwangsan-gu",
+      "code": "KR-29-1841791",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-29",
+      "latitude": 35.16158,
+      "longitude": 126.8081
+    },
+    {
+      "id": 8462135,
+      "name": "Nam-gu",
+      "nativeName": "Nam-gu",
+      "code": "KR-29-8462135",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-29",
+      "latitude": 35.12159,
+      "longitude": 126.90943
+    },
+    {
+      "id": 8462134,
+      "name": "Seo-gu",
+      "nativeName": "Seo-gu",
+      "code": "KR-29-8462134",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-29",
+      "latitude": 35.15248,
+      "longitude": 126.89106
+    }
+  ]
+}

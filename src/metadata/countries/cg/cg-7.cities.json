@@ -1,0 +1,84 @@
+{
+  "stateId": 2258431,
+  "stateCode": "CG-7",
+  "countryCode": "CG",
+  "cities": [
+    {
+      "id": 11996236,
+      "name": "Betou",
+      "nativeName": "Betou",
+      "code": "CG-7-11996236",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-7",
+      "latitude": 3.12278,
+      "longitude": 18.39768
+    },
+    {
+      "id": 11996189,
+      "name": "Bouanila",
+      "nativeName": "Bouanila",
+      "code": "CG-7-11996189",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-7",
+      "latitude": 0.72597,
+      "longitude": 17.19891
+    },
+    {
+      "id": 7731899,
+      "name": "Dongou",
+      "nativeName": "Dongou",
+      "code": "CG-7-7731899",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-7",
+      "latitude": 2.1672,
+      "longitude": 17.91737
+    },
+    {
+      "id": 11996188,
+      "name": "Enyelle",
+      "nativeName": "Enyelle",
+      "code": "CG-7-11996188",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-7",
+      "latitude": 3.13294,
+      "longitude": 17.51859
+    },
+    {
+      "id": 11996209,
+      "name": "Epena",
+      "nativeName": "Epena",
+      "code": "CG-7-11996209",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-7",
+      "latitude": 1.64841,
+      "longitude": 17.23284
+    },
+    {
+      "id": 7731900,
+      "name": "Impfondo",
+      "nativeName": "Impfondo",
+      "code": "CG-7-7731900",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-7",
+      "latitude": 1.61694,
+      "longitude": 17.97968
+    },
+    {
+      "id": 11996238,
+      "name": "Liranga",
+      "nativeName": "Liranga",
+      "code": "CG-7-11996238",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-7",
+      "latitude": 0.10446,
+      "longitude": 17.69229
+    }
+  ]
+}

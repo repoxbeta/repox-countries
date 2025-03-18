@@ -1,0 +1,238 @@
+{
+  "stateId": 2597364,
+  "stateCode": "NG-KO",
+  "countryCode": "NG",
+  "cities": [
+    {
+      "id": 7729965,
+      "name": "Adavi",
+      "nativeName": "Adavi",
+      "code": "NG-KO-7729965",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KO",
+      "latitude": 7.64141,
+      "longitude": 6.4337
+    },
+    {
+      "id": 8637964,
+      "name": "Ajaokuta",
+      "nativeName": "Ajaokuta",
+      "code": "NG-KO-8637964",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KO",
+      "latitude": 7.52351,
+      "longitude": 6.5813
+    },
+    {
+      "id": 8637967,
+      "name": "Ankpa",
+      "nativeName": "Ankpa",
+      "code": "NG-KO-8637967",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KO",
+      "latitude": 7.44848,
+      "longitude": 7.63174
+    },
+    {
+      "id": 7729967,
+      "name": "Bassa",
+      "nativeName": "Bassa",
+      "code": "NG-KO-7729967",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KO",
+      "latitude": 7.77095,
+      "longitude": 7.0244
+    },
+    {
+      "id": 8637965,
+      "name": "Dekina",
+      "nativeName": "Dekina",
+      "code": "NG-KO-8637965",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KO",
+      "latitude": 7.58435,
+      "longitude": 7.17344
+    },
+    {
+      "id": 7729968,
+      "name": "Ibaji",
+      "nativeName": "Ibaji",
+      "code": "NG-KO-7729968",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KO",
+      "latitude": 6.79931,
+      "longitude": 6.76303
+    },
+    {
+      "id": 8637969,
+      "name": "Idah",
+      "nativeName": "Idah",
+      "code": "NG-KO-8637969",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KO",
+      "latitude": 7.08144,
+      "longitude": 6.71514
+    },
+    {
+      "id": 7729969,
+      "name": "Igalamela-Odolu",
+      "nativeName": "Igalamela-Odolu",
+      "code": "NG-KO-7729969",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KO",
+      "latitude": 7.05731,
+      "longitude": 7.01874
+    },
+    {
+      "id": 7729971,
+      "name": "Ijumu",
+      "nativeName": "Ijumu",
+      "code": "NG-KO-7729971",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KO",
+      "latitude": 7.84878,
+      "longitude": 5.95614
+    },
+    {
+      "id": 7729972,
+      "name": "Kabba/Bunu",
+      "nativeName": "Kabba/Bunu",
+      "code": "NG-KO-7729972",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KO",
+      "latitude": 8.06278,
+      "longitude": 6.20336
+    },
+    {
+      "id": 8637555,
+      "name": "Kogi",
+      "nativeName": "Kogi",
+      "code": "NG-KO-8637555",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KO",
+      "latitude": 8.14607,
+      "longitude": 6.85709
+    },
+    {
+      "id": 8637590,
+      "name": "Lokoja",
+      "nativeName": "Lokoja",
+      "code": "NG-KO-8637590",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KO",
+      "latitude": 8.20488,
+      "longitude": 6.56305
+    },
+    {
+      "id": 7729974,
+      "name": "Mopa-Muro",
+      "nativeName": "Mopa-Muro",
+      "code": "NG-KO-7729974",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KO",
+      "latitude": 8.10332,
+      "longitude": 5.87847
+    },
+    {
+      "id": 7729975,
+      "name": "Ofu",
+      "nativeName": "Ofu",
+      "code": "NG-KO-7729975",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KO",
+      "latitude": 7.30283,
+      "longitude": 7.03817
+    },
+    {
+      "id": 8637963,
+      "name": "Ogori/Magongo",
+      "nativeName": "Ogori/Magongo",
+      "code": "NG-KO-8637963",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KO",
+      "latitude": 7.46673,
+      "longitude": 6.16355
+    },
+    {
+      "id": 7729976,
+      "name": "Okehi",
+      "nativeName": "Okehi",
+      "code": "NG-KO-7729976",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KO",
+      "latitude": 7.68192,
+      "longitude": 6.28543
+    },
+    {
+      "id": 7701431,
+      "name": "Okene",
+      "nativeName": "Okene",
+      "code": "NG-KO-7701431",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KO",
+      "latitude": 7.48333,
+      "longitude": 6.21667
+    },
+    {
+      "id": 8637975,
+      "name": "Olamaboro",
+      "nativeName": "Olamaboro",
+      "code": "NG-KO-8637975",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KO",
+      "latitude": 7.18689,
+      "longitude": 7.52832
+    },
+    {
+      "id": 7729979,
+      "name": "Omala",
+      "nativeName": "Omala",
+      "code": "NG-KO-7729979",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KO",
+      "latitude": 7.79962,
+      "longitude": 7.54098
+    },
+    {
+      "id": 7729980,
+      "name": "Yagba East",
+      "nativeName": "Yagba East",
+      "code": "NG-KO-7729980",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KO",
+      "latitude": 8.16411,
+      "longitude": 5.76131
+    },
+    {
+      "id": 7729981,
+      "name": "Yagba West",
+      "nativeName": "Yagba West",
+      "code": "NG-KO-7729981",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KO",
+      "latitude": 8.29641,
+      "longitude": 5.52748
+    }
+  ]
+}

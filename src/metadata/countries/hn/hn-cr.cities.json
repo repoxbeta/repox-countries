@@ -1,0 +1,139 @@
+{
+  "stateId": 3613140,
+  "stateCode": "HN-CR",
+  "countryCode": "HN",
+  "cities": [
+    {
+      "id": 3613536,
+      "name": "Choloma",
+      "nativeName": "Choloma",
+      "code": "HN-CR-3613536",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CR",
+      "latitude": 15.64,
+      "longitude": -87.92
+    },
+    {
+      "id": 7910435,
+      "name": "La Lima",
+      "nativeName": "La Lima",
+      "code": "HN-CR-7910435",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CR",
+      "latitude": 15.46,
+      "longitude": -87.88
+    },
+    {
+      "id": 3604231,
+      "name": "Omoa",
+      "nativeName": "Omoa",
+      "code": "HN-CR-3604231",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CR",
+      "latitude": 15.65873,
+      "longitude": -88.12868
+    },
+    {
+      "id": 3603657,
+      "name": "Pimienta",
+      "nativeName": "Pimienta",
+      "code": "HN-CR-3603657",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CR",
+      "latitude": 15.265,
+      "longitude": -87.96667
+    },
+    {
+      "id": 3603366,
+      "name": "Potrerillos",
+      "nativeName": "Potrerillos",
+      "code": "HN-CR-3603366",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CR",
+      "latitude": 15.21,
+      "longitude": -87.95
+    },
+    {
+      "id": 7910436,
+      "name": "Puerto Cortés",
+      "nativeName": "Puerto Cortés",
+      "code": "HN-CR-7910436",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CR",
+      "latitude": 15.79,
+      "longitude": -87.849
+    },
+    {
+      "id": 3602445,
+      "name": "San Antonio de Cortés",
+      "nativeName": "San Antonio de Cortés",
+      "code": "HN-CR-3602445",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CR",
+      "latitude": 15.13008,
+      "longitude": -88.03176
+    },
+    {
+      "id": 3602273,
+      "name": "San Francisco de Yojoa",
+      "nativeName": "San Francisco de Yojoa",
+      "code": "HN-CR-3602273",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CR",
+      "latitude": 15.01825,
+      "longitude": -87.98185
+    },
+    {
+      "id": 3601923,
+      "name": "San Manuel",
+      "nativeName": "San Manuel",
+      "code": "HN-CR-3601923",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CR",
+      "latitude": 15.37279,
+      "longitude": -87.90167
+    },
+    {
+      "id": 3601783,
+      "name": "San Pedro Sula",
+      "nativeName": "San Pedro Sula",
+      "code": "HN-CR-3601783",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CR",
+      "latitude": 15.5142,
+      "longitude": -88.07891
+    },
+    {
+      "id": 3601628,
+      "name": "Santa Cruz de Yojoa",
+      "nativeName": "Santa Cruz de Yojoa",
+      "code": "HN-CR-3601628",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CR",
+      "latitude": 15.01086,
+      "longitude": -87.82888
+    },
+    {
+      "id": 3600329,
+      "name": "Villanueva",
+      "nativeName": "Villanueva",
+      "code": "HN-CR-3600329",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CR",
+      "latitude": 15.32456,
+      "longitude": -88.04359
+    }
+  ]
+}

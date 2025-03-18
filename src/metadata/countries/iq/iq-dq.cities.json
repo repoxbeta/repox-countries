@@ -1,0 +1,62 @@
+{
+  "stateId": 97019,
+  "stateCode": "IQ-DQ",
+  "countryCode": "IQ",
+  "cities": [
+    {
+      "id": 99185,
+      "name": "Al-Chibayish District",
+      "nativeName": "Al-Chibayish District",
+      "code": "IQ-DQ-99185",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-DQ",
+      "latitude": 31,
+      "longitude": 47
+    },
+    {
+      "id": 98700,
+      "name": "Al-Rifa'i District",
+      "nativeName": "Al-Rifa'i District",
+      "code": "IQ-DQ-98700",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-DQ",
+      "latitude": 31.7,
+      "longitude": 46.1
+    },
+    {
+      "id": 98623,
+      "name": "Al-Shatra District",
+      "nativeName": "Al-Shatra District",
+      "code": "IQ-DQ-98623",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-DQ",
+      "latitude": 31.4,
+      "longitude": 46.3
+    },
+    {
+      "id": 98855,
+      "name": "Nassriya District",
+      "nativeName": "Nassriya District",
+      "code": "IQ-DQ-98855",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-DQ",
+      "latitude": 31.04064,
+      "longitude": 46.25841
+    },
+    {
+      "id": 90509,
+      "name": "Suq Al-Shoyokh District",
+      "nativeName": "Suq Al-Shoyokh District",
+      "code": "IQ-DQ-90509",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-DQ",
+      "latitude": 30.84846,
+      "longitude": 46.50261
+    }
+  ]
+}

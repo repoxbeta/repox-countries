@@ -1,0 +1,62 @@
+{
+  "stateId": 692196,
+  "stateCode": "UA-59",
+  "countryCode": "UA",
+  "cities": [
+    {
+      "id": 9808694,
+      "name": "Konotop City Council",
+      "nativeName": "Konotops’ka Mis’krada",
+      "code": "UA-59-9808694",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-59",
+      "latitude": 51.20835,
+      "longitude": 33.22879
+    },
+    {
+      "id": 713748,
+      "name": "Okhtyrskiy Rayon",
+      "nativeName": "Okhtyrskiy Rayon",
+      "code": "UA-59-713748",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-59",
+      "latitude": 50.25,
+      "longitude": 34.83333
+    },
+    {
+      "id": 695466,
+      "name": "Romny Raion",
+      "nativeName": "Romenskyi Raion",
+      "code": "UA-59-695466",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-59",
+      "latitude": 50.73,
+      "longitude": 33.66
+    },
+    {
+      "id": 9807848,
+      "name": "Shostkyns’ka Mis’krada",
+      "nativeName": "Shostkyns’ka Mis’krada",
+      "code": "UA-59-9807848",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-59",
+      "latitude": 51.87066,
+      "longitude": 33.48777
+    },
+    {
+      "id": 692195,
+      "name": "Sumskyi Raion",
+      "nativeName": "Sumskyi Raion",
+      "code": "UA-59-692195",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-59",
+      "latitude": 50.87,
+      "longitude": 34.7
+    }
+  ]
+}

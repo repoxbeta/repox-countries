@@ -1,0 +1,40 @@
+{
+  "stateId": 3657879,
+  "stateCode": "EC-W",
+  "countryCode": "EC",
+  "cities": [
+    {
+      "id": 3651947,
+      "name": "Cantón San Cristóbal",
+      "nativeName": "Cantón San Cristóbal",
+      "code": "EC-W-3651947",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-W",
+      "latitude": -0.92233,
+      "longitude": -89.5576
+    },
+    {
+      "id": 3655572,
+      "name": "Isabela",
+      "nativeName": "Isabela",
+      "code": "EC-W-3655572",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-W",
+      "latitude": -0.51069,
+      "longitude": -91.05188
+    },
+    {
+      "id": 3651446,
+      "name": "Santa Cruz",
+      "nativeName": "Santa Cruz",
+      "code": "EC-W-3651446",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-W",
+      "latitude": -0.62958,
+      "longitude": -90.35579
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "stateId": 2468014,
+  "stateCode": "TN-73",
+  "countryCode": "TN",
+  "cities": [
+    {
+      "id": 11903817,
+      "name": "Douz Nord",
+      "nativeName": "Douz Nord",
+      "code": "TN-73-11903817",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-73",
+      "latitude": 33.22801,
+      "longitude": 9.53021
+    },
+    {
+      "id": 11106374,
+      "name": "Douz Sud",
+      "nativeName": "Douz Sud",
+      "code": "TN-73-11106374",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-73",
+      "latitude": 33.03623,
+      "longitude": 9.16493
+    },
+    {
+      "id": 11106372,
+      "name": "Faouar",
+      "nativeName": "El Faouar",
+      "code": "TN-73-11106372",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-73",
+      "latitude": 33.36595,
+      "longitude": 8.67036
+    },
+    {
+      "id": 11105091,
+      "name": "Kebeli Nord",
+      "nativeName": "Délégation de Kébili Nord",
+      "code": "TN-73-11105091",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-73",
+      "latitude": 33.8401,
+      "longitude": 9.16826
+    },
+    {
+      "id": 2468016,
+      "name": "Kebili Sud",
+      "nativeName": "Délégation de Kébili Sud",
+      "code": "TN-73-2468016",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-73",
+      "latitude": 33.6149,
+      "longitude": 9.0989
+    },
+    {
+      "id": 11106373,
+      "name": "Souk El Ahed",
+      "nativeName": "Souk Lahad",
+      "code": "TN-73-11106373",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-73",
+      "latitude": 33.90851,
+      "longitude": 8.83616
+    }
+  ]
+}

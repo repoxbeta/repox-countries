@@ -1,0 +1,227 @@
+{
+  "stateId": 7090972,
+  "stateCode": "BH-14",
+  "countryCode": "BH",
+  "cities": [
+    {
+      "id": 290384,
+      "name": "Ad Dūr",
+      "nativeName": "Ad Dūr",
+      "code": "BH-14-290384",
+      "countryId": 290291,
+      "countryCode": "BH",
+      "stateCode": "BH-14",
+      "latitude": 25.97889,
+      "longitude": 50.61499
+    },
+    {
+      "id": 290341,
+      "name": "Al Mamţalah",
+      "nativeName": "Al Mamţalah",
+      "code": "BH-14-290341",
+      "countryId": 290291,
+      "countryCode": "BH",
+      "stateCode": "BH-14",
+      "latitude": 25.92417,
+      "longitude": 50.51944
+    },
+    {
+      "id": 290345,
+      "name": "Al Ma‘āmīr",
+      "nativeName": "Al Ma‘āmīr",
+      "code": "BH-14-290345",
+      "countryId": 290291,
+      "countryCode": "BH",
+      "stateCode": "BH-14",
+      "latitude": 26.13333,
+      "longitude": 50.60861
+    },
+    {
+      "id": 385042,
+      "name": "Al Qal‘ah",
+      "nativeName": "Al Qal‘ah",
+      "code": "BH-14-385042",
+      "countryId": 290291,
+      "countryCode": "BH",
+      "stateCode": "BH-14",
+      "latitude": 25.98083,
+      "longitude": 50.53056
+    },
+    {
+      "id": 290322,
+      "name": "Al Wasmīyah",
+      "nativeName": "Al Wasmīyah",
+      "code": "BH-14-290322",
+      "countryId": 290291,
+      "countryCode": "BH",
+      "stateCode": "BH-14",
+      "latitude": 26.02111,
+      "longitude": 50.475
+    },
+    {
+      "id": 290375,
+      "name": "Al ‘Amar",
+      "nativeName": "Al ‘Amar",
+      "code": "BH-14-290375",
+      "countryId": 290291,
+      "countryCode": "BH",
+      "stateCode": "BH-14",
+      "latitude": 25.98813,
+      "longitude": 50.52791
+    },
+    {
+      "id": 290309,
+      "name": "Ar Rumaythah",
+      "nativeName": "Ar Rumaythah",
+      "code": "BH-14-290309",
+      "countryId": 290291,
+      "countryCode": "BH",
+      "stateCode": "BH-14",
+      "latitude": 25.92043,
+      "longitude": 50.55583
+    },
+    {
+      "id": 290299,
+      "name": "Awali",
+      "nativeName": "‘Awālī",
+      "code": "BH-14-290299",
+      "countryId": 290291,
+      "countryCode": "BH",
+      "stateCode": "BH-14",
+      "latitude": 26.08444,
+      "longitude": 50.55056
+    },
+    {
+      "id": 290303,
+      "name": "Aş Şakhīr",
+      "nativeName": "Aş Şakhīr",
+      "code": "BH-14-290303",
+      "countryId": 290291,
+      "countryCode": "BH",
+      "stateCode": "BH-14",
+      "latitude": 26.0625,
+      "longitude": 50.52722
+    },
+    {
+      "id": 290269,
+      "name": "Dār Kulayb",
+      "nativeName": "Dār Kulayb",
+      "code": "BH-14-290269",
+      "countryId": 290291,
+      "countryCode": "BH",
+      "stateCode": "BH-14",
+      "latitude": 26.06861,
+      "longitude": 50.50389
+    },
+    {
+      "id": 290187,
+      "name": "Isa Town",
+      "nativeName": "Madīnat ‘Īsá",
+      "code": "BH-14-290187",
+      "countryId": 290291,
+      "countryCode": "BH",
+      "stateCode": "BH-14",
+      "latitude": 26.17361,
+      "longitude": 50.54778
+    },
+    {
+      "id": 290221,
+      "name": "Jaww",
+      "nativeName": "Jaww",
+      "code": "BH-14-290221",
+      "countryId": 290291,
+      "countryCode": "BH",
+      "stateCode": "BH-14",
+      "latitude": 25.99861,
+      "longitude": 50.61667
+    },
+    {
+      "id": 290210,
+      "name": "Jusayrah",
+      "nativeName": "Jusayrah",
+      "code": "BH-14-290210",
+      "countryId": 290291,
+      "countryCode": "BH",
+      "stateCode": "BH-14",
+      "latitude": 25.88333,
+      "longitude": 50.6
+    },
+    {
+      "id": 290319,
+      "name": "Nuwaidrat",
+      "nativeName": "An Nuwaydirāt",
+      "code": "BH-14-290319",
+      "countryId": 290291,
+      "countryCode": "BH",
+      "stateCode": "BH-14",
+      "latitude": 26.13472,
+      "longitude": 50.5975
+    },
+    {
+      "id": 385038,
+      "name": "Riffa",
+      "nativeName": "Ar Rifā‘",
+      "code": "BH-14-385038",
+      "countryId": 290291,
+      "countryCode": "BH",
+      "stateCode": "BH-14",
+      "latitude": 26.13,
+      "longitude": 50.555
+    },
+    {
+      "id": 290078,
+      "name": "Umm Jidr",
+      "nativeName": "Umm Jidr",
+      "code": "BH-14-290078",
+      "countryId": 290291,
+      "countryCode": "BH",
+      "stateCode": "BH-14",
+      "latitude": 26.01111,
+      "longitude": 50.52611
+    },
+    {
+      "id": 290296,
+      "name": "Zallaq",
+      "nativeName": "Az Zallāq",
+      "code": "BH-14-290296",
+      "countryId": 290291,
+      "countryCode": "BH",
+      "stateCode": "BH-14",
+      "latitude": 26.0475,
+      "longitude": 50.48639
+    },
+    {
+      "id": 290133,
+      "name": "Şāfirah",
+      "nativeName": "Şāfirah",
+      "code": "BH-14-290133",
+      "countryId": 290291,
+      "countryCode": "BH",
+      "stateCode": "BH-14",
+      "latitude": 26.105,
+      "longitude": 50.53861
+    },
+    {
+      "id": 290249,
+      "name": "Ḩālat Umm al Bayḑ",
+      "nativeName": "Ḩālat Umm al Bayḑ",
+      "code": "BH-14-290249",
+      "countryId": 290291,
+      "countryCode": "BH",
+      "stateCode": "BH-14",
+      "latitude": 26.11667,
+      "longitude": 50.63333
+    },
+    {
+      "id": 290304,
+      "name": "‘Askar",
+      "nativeName": "‘Askar",
+      "code": "BH-14-290304",
+      "countryId": 290291,
+      "countryCode": "BH",
+      "stateCode": "BH-14",
+      "latitude": 26.05722,
+      "longitude": 50.61639
+    }
+  ]
+}

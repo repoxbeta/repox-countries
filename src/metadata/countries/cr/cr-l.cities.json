@@ -1,0 +1,73 @@
+{
+  "stateId": 3623064,
+  "stateCode": "CR-L",
+  "countryCode": "CR",
+  "cities": [
+    {
+      "id": 3623600,
+      "name": "Guácimo",
+      "nativeName": "Guácimo",
+      "code": "CR-L-3623600",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-L",
+      "latitude": 10.2,
+      "longitude": -83.66667
+    },
+    {
+      "id": 3623065,
+      "name": "Limón",
+      "nativeName": "Limón",
+      "code": "CR-L-3623065",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-L",
+      "latitude": 9.76667,
+      "longitude": -83.16667
+    },
+    {
+      "id": 3622893,
+      "name": "Matina",
+      "nativeName": "Matina",
+      "code": "CR-L-3622893",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-L",
+      "latitude": 10.01351,
+      "longitude": -83.26431
+    },
+    {
+      "id": 3622326,
+      "name": "Pococí",
+      "nativeName": "Pococí",
+      "code": "CR-L-3622326",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-L",
+      "latitude": 10.5,
+      "longitude": -83.63333
+    },
+    {
+      "id": 3621439,
+      "name": "Siquirres",
+      "nativeName": "Siquirres",
+      "code": "CR-L-3621439",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-L",
+      "latitude": 10.13607,
+      "longitude": -83.48275
+    },
+    {
+      "id": 3621369,
+      "name": "Talamanca",
+      "nativeName": "Talamanca",
+      "code": "CR-L-3621369",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-L",
+      "latitude": 9.46115,
+      "longitude": -83.09844
+    }
+  ]
+}

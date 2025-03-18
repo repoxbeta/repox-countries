@@ -1,0 +1,194 @@
+{
+  "stateId": 3434137,
+  "stateCode": "AR-E",
+  "countryCode": "AR",
+  "cities": [
+    {
+      "id": 3435351,
+      "name": "Departamento de Colón",
+      "nativeName": "Departamento de Colón",
+      "code": "AR-E-3435351",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-E",
+      "latitude": -32.00382,
+      "longitude": -58.36319
+    },
+    {
+      "id": 3435260,
+      "name": "Departamento de Concordia",
+      "nativeName": "Departamento de Concordia",
+      "code": "AR-E-3435260",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-E",
+      "latitude": -31.21345,
+      "longitude": -58.16274
+    },
+    {
+      "id": 3859380,
+      "name": "Departamento de Diamante",
+      "nativeName": "Departamento de Diamante",
+      "code": "AR-E-3859380",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-E",
+      "latitude": -32.16667,
+      "longitude": -60.41667
+    },
+    {
+      "id": 3433958,
+      "name": "Departamento de Federación",
+      "nativeName": "Departamento de Federación",
+      "code": "AR-E-3433958",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-E",
+      "latitude": -30.66667,
+      "longitude": -58.33333
+    },
+    {
+      "id": 8715308,
+      "name": "Departamento de Federal",
+      "nativeName": "Departamento de Federal",
+      "code": "AR-E-8715308",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-E",
+      "latitude": -30.95568,
+      "longitude": -58.78329
+    },
+    {
+      "id": 3433947,
+      "name": "Departamento de Feliciano",
+      "nativeName": "Departamento de Feliciano",
+      "code": "AR-E-3433947",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-E",
+      "latitude": -30.41667,
+      "longitude": -58.75
+    },
+    {
+      "id": 3433661,
+      "name": "Departamento de Gualeguay",
+      "nativeName": "Departamento de Gualeguay",
+      "code": "AR-E-3433661",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-E",
+      "latitude": -33,
+      "longitude": -59.58333
+    },
+    {
+      "id": 3433657,
+      "name": "Departamento de Gualeguaychú",
+      "nativeName": "Departamento de Gualeguaychú",
+      "code": "AR-E-3433657",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-E",
+      "latitude": -33.25,
+      "longitude": -59
+    },
+    {
+      "id": 8715309,
+      "name": "Departamento de Islas del Ibicuy",
+      "nativeName": "Departamento de Islas del Ibicuy",
+      "code": "AR-E-8715309",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-E",
+      "latitude": -33.72401,
+      "longitude": -58.65968
+    },
+    {
+      "id": 3432077,
+      "name": "Departamento de La Paz",
+      "nativeName": "Departamento de La Paz",
+      "code": "AR-E-3432077",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-E",
+      "latitude": -30.83333,
+      "longitude": -59.41667
+    },
+    {
+      "id": 3430412,
+      "name": "Departamento de Nogoyá",
+      "nativeName": "Departamento de Nogoyá",
+      "code": "AR-E-3430412",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-E",
+      "latitude": -32.16667,
+      "longitude": -59.83333
+    },
+    {
+      "id": 3430146,
+      "name": "Departamento de Paraná",
+      "nativeName": "Departamento de Paraná",
+      "code": "AR-E-3430146",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-E",
+      "latitude": -31.66667,
+      "longitude": -60
+    },
+    {
+      "id": 8715311,
+      "name": "Departamento de San Salvador",
+      "nativeName": "Departamento de San Salvador",
+      "code": "AR-E-8715311",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-E",
+      "latitude": -31.61608,
+      "longitude": -58.52277
+    },
+    {
+      "id": 3427856,
+      "name": "Departamento de Tala",
+      "nativeName": "Departamento de Tala",
+      "code": "AR-E-3427856",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-E",
+      "latitude": -32.33333,
+      "longitude": -59.33333
+    },
+    {
+      "id": 3427576,
+      "name": "Departamento de Uruguay",
+      "nativeName": "Departamento de Uruguay",
+      "code": "AR-E-3427576",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-E",
+      "latitude": -32.44344,
+      "longitude": -58.58278
+    },
+    {
+      "id": 3832932,
+      "name": "Departamento de Victoria",
+      "nativeName": "Departamento de Victoria",
+      "code": "AR-E-3832932",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-E",
+      "latitude": -32.66667,
+      "longitude": -60.33333
+    },
+    {
+      "id": 3427426,
+      "name": "Departamento de Villaguay",
+      "nativeName": "Departamento de Villaguay",
+      "code": "AR-E-3427426",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-E",
+      "latitude": -31.58333,
+      "longitude": -59
+    }
+  ]
+}

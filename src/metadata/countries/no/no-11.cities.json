@@ -1,0 +1,260 @@
+{
+  "stateId": 3141558,
+  "stateCode": "NO-11",
+  "countryCode": "NO",
+  "cities": [
+    {
+      "id": 3161457,
+      "name": "Bjerkreim",
+      "nativeName": "Bjerkreim",
+      "code": "NO-11-3161457",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-11",
+      "latitude": 58.6305,
+      "longitude": 6.0813
+    },
+    {
+      "id": 3160810,
+      "name": "Bokn",
+      "nativeName": "Bokn",
+      "code": "NO-11-3160810",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-11",
+      "latitude": 59.23062,
+      "longitude": 5.43524
+    },
+    {
+      "id": 3158591,
+      "name": "Eigersund",
+      "nativeName": "Eigersund",
+      "code": "NO-11-3158591",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-11",
+      "latitude": 58.45236,
+      "longitude": 6.00314
+    },
+    {
+      "id": 3155644,
+      "name": "Gjesdal",
+      "nativeName": "Gjesdal",
+      "code": "NO-11-3155644",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-11",
+      "latitude": 58.76478,
+      "longitude": 5.855
+    },
+    {
+      "id": 6453374,
+      "name": "Haugesund",
+      "nativeName": "Haugesund",
+      "code": "NO-11-6453374",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-11",
+      "latitude": 59.41015,
+      "longitude": 5.27551
+    },
+    {
+      "id": 3152560,
+      "name": "Hjelmeland",
+      "nativeName": "Hjelmeland",
+      "code": "NO-11-3152560",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-11",
+      "latitude": 59.23668,
+      "longitude": 6.17912
+    },
+    {
+      "id": 3154414,
+      "name": "Hå",
+      "nativeName": "Hå",
+      "code": "NO-11-3154414",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-11",
+      "latitude": 58.6161,
+      "longitude": 5.64497
+    },
+    {
+      "id": 6453375,
+      "name": "Karmøy",
+      "nativeName": "Karmøy",
+      "code": "NO-11-6453375",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-11",
+      "latitude": 59.28079,
+      "longitude": 5.30529
+    },
+    {
+      "id": 3149862,
+      "name": "Klepp",
+      "nativeName": "Klepp",
+      "code": "NO-11-3149862",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-11",
+      "latitude": 58.77655,
+      "longitude": 5.63009
+    },
+    {
+      "id": 3148673,
+      "name": "Kvitsøy",
+      "nativeName": "Kvitsøy",
+      "code": "NO-11-3148673",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-11",
+      "latitude": 59.06471,
+      "longitude": 5.40537
+    },
+    {
+      "id": 3146777,
+      "name": "Lund",
+      "nativeName": "Lund",
+      "code": "NO-11-3146777",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-11",
+      "latitude": 58.45715,
+      "longitude": 6.54871
+    },
+    {
+      "id": 3142395,
+      "name": "Randaberg",
+      "nativeName": "Randaberg",
+      "code": "NO-11-3142395",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-11",
+      "latitude": 58.9987,
+      "longitude": 5.62055
+    },
+    {
+      "id": 6453393,
+      "name": "Sandnes",
+      "nativeName": "Sandnes",
+      "code": "NO-11-6453393",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-11",
+      "latitude": 58.8476,
+      "longitude": 5.72855
+    },
+    {
+      "id": 3140054,
+      "name": "Sauda",
+      "nativeName": "Sauda",
+      "code": "NO-11-3140054",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-11",
+      "latitude": 59.65067,
+      "longitude": 6.35312
+    },
+    {
+      "id": 3137953,
+      "name": "Sokndal",
+      "nativeName": "Sokndal",
+      "code": "NO-11-3137953",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-11",
+      "latitude": 58.34256,
+      "longitude": 6.29425
+    },
+    {
+      "id": 3137941,
+      "name": "Sola",
+      "nativeName": "Sola",
+      "code": "NO-11-3137941",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-11",
+      "latitude": 58.88806,
+      "longitude": 5.64728
+    },
+    {
+      "id": 6453391,
+      "name": "Stavanger",
+      "nativeName": "Stavanger",
+      "code": "NO-11-6453391",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-11",
+      "latitude": 58.96941,
+      "longitude": 5.72856
+    },
+    {
+      "id": 3135788,
+      "name": "Strand",
+      "nativeName": "Strand",
+      "code": "NO-11-3135788",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-11",
+      "latitude": 59.02353,
+      "longitude": 6.04343
+    },
+    {
+      "id": 6453370,
+      "name": "Suldal",
+      "nativeName": "Suldal",
+      "code": "NO-11-6453370",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-11",
+      "latitude": 59.48571,
+      "longitude": 6.25222
+    },
+    {
+      "id": 3134627,
+      "name": "Time",
+      "nativeName": "Time",
+      "code": "NO-11-3134627",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-11",
+      "latitude": 58.73636,
+      "longitude": 5.65297
+    },
+    {
+      "id": 3133447,
+      "name": "Tysvær",
+      "nativeName": "Tysvær",
+      "code": "NO-11-3133447",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-11",
+      "latitude": 59.42159,
+      "longitude": 5.44781
+    },
+    {
+      "id": 3133144,
+      "name": "Utsira",
+      "nativeName": "Utsira",
+      "code": "NO-11-3133144",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-11",
+      "latitude": 59.30565,
+      "longitude": 4.88621
+    },
+    {
+      "id": 6453371,
+      "name": "Vindafjord",
+      "nativeName": "Vindafjord",
+      "code": "NO-11-6453371",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-11",
+      "latitude": 59.60543,
+      "longitude": 5.80784
+    }
+  ]
+}

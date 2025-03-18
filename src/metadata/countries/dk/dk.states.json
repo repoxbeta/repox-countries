@@ -1,0 +1,61 @@
+{
+  "countryId": 2623032,
+  "countryCode": "DK",
+  "states": [
+    {
+      "id": 6418538,
+      "name": "Capital Region",
+      "nativeName": "Region Hovedstaden",
+      "code": "DK-84",
+      "internalCode": "84",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "latitude": 55.83333,
+      "longitude": 12.33333
+    },
+    {
+      "id": 6418539,
+      "name": "Central Jutland",
+      "nativeName": "Region Midtjylland",
+      "code": "DK-82",
+      "internalCode": "82",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "latitude": 56.16667,
+      "longitude": 9.5
+    },
+    {
+      "id": 6418540,
+      "name": "North Denmark",
+      "nativeName": "North Denmark Region",
+      "code": "DK-81",
+      "internalCode": "81",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "latitude": 57,
+      "longitude": 9.66667
+    },
+    {
+      "id": 6418542,
+      "name": "South Denmark",
+      "nativeName": "Region Syddanmark",
+      "code": "DK-83",
+      "internalCode": "83",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "latitude": 55.37911,
+      "longitude": 10.345
+    },
+    {
+      "id": 6418541,
+      "name": "Zealand",
+      "nativeName": "Region Sjælland",
+      "code": "DK-85",
+      "internalCode": "85",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "latitude": 55.41667,
+      "longitude": 11.83333
+    }
+  ]
+}

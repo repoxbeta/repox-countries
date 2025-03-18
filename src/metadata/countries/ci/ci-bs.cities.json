@@ -1,0 +1,40 @@
+{
+  "stateId": 11153052,
+  "stateCode": "CI-BS",
+  "countryCode": "CI",
+  "cities": [
+    {
+      "id": 11153075,
+      "name": "Gbôklé",
+      "nativeName": "Gbôklé",
+      "code": "CI-BS-11153075",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "stateCode": "CI-BS",
+      "latitude": 4.95712,
+      "longitude": -6.09372
+    },
+    {
+      "id": 11153076,
+      "name": "Nawa",
+      "nativeName": "Nawa",
+      "code": "CI-BS-11153076",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "stateCode": "CI-BS",
+      "latitude": 5.80112,
+      "longitude": -6.60313
+    },
+    {
+      "id": 11153077,
+      "name": "San-Pédro",
+      "nativeName": "San-Pédro",
+      "code": "CI-BS-11153077",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "stateCode": "CI-BS",
+      "latitude": 4.76768,
+      "longitude": -6.65033
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "stateId": 826294,
+  "stateCode": "RU-VLA",
+  "countryCode": "RU",
+  "cities": [
+    {
+      "id": 582996,
+      "name": "Alexandrovsky District",
+      "nativeName": "Aleksandrovskiy Rayon",
+      "code": "RU-VLA-582996",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLA",
+      "latitude": 56.43079,
+      "longitude": 38.79188
+    },
+    {
+      "id": 12560941,
+      "name": "Gorodskoy Okrug Gus'-Khrustal'nyy",
+      "nativeName": "Gorodskoy Okrug Gus'-Khrustal'nyy",
+      "code": "RU-VLA-12560941",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLA",
+      "latitude": 55.63081,
+      "longitude": 40.6338
+    },
+    {
+      "id": 12560944,
+      "name": "Gorodskoy Okrug Kovrov",
+      "nativeName": "Gorodskoy Okrug Kovrov",
+      "code": "RU-VLA-12560944",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLA",
+      "latitude": 56.36386,
+      "longitude": 41.31683
+    },
+    {
+      "id": 12560942,
+      "name": "Gorodskoy Okrug Murom",
+      "nativeName": "Gorodskoy Okrug Murom",
+      "code": "RU-VLA-12560942",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLA",
+      "latitude": 55.56519,
+      "longitude": 42.01909
+    },
+    {
+      "id": 12560943,
+      "name": "Gorodskoy Okrug Vladimir",
+      "nativeName": "Gorodskoy Okrug Vladimir",
+      "code": "RU-VLA-12560943",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLA",
+      "latitude": 56.12957,
+      "longitude": 40.42992
+    },
+    {
+      "id": 559455,
+      "name": "Gorokhovetsky District",
+      "nativeName": "Gorokhovetskiy Rayon",
+      "code": "RU-VLA-559455",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLA",
+      "latitude": 56.11022,
+      "longitude": 42.53325
+    },
+    {
+      "id": 12626027,
+      "name": "Gus-Khrustalny District",
+      "nativeName": "Gus-Khrustalny District",
+      "code": "RU-VLA-12626027",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLA",
+      "latitude": 55.61365,
+      "longitude": 40.65298
+    },
+    {
+      "id": 557774,
+      "name": "Gus’-Khrustal’nyy Rayon",
+      "nativeName": "Gus’-Khrustal’nyy Rayon",
+      "code": "RU-VLA-557774",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLA",
+      "latitude": 55.56732,
+      "longitude": 40.69064
+    },
+    {
+      "id": 553388,
+      "name": "Kameshkovskiy Rayon",
+      "nativeName": "Kameshkovskiy Rayon",
+      "code": "RU-VLA-553388",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLA",
+      "latitude": 56.32434,
+      "longitude": 40.89516
+    },
+    {
+      "id": 548276,
+      "name": "Kirzhachsky District",
+      "nativeName": "Kirzhachskiy Rayon",
+      "code": "RU-VLA-548276",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLA",
+      "latitude": 56.1291,
+      "longitude": 38.88617
+    },
+    {
+      "id": 546520,
+      "name": "Kolchuginsky District",
+      "nativeName": "Kol’chuginskiy Rayon",
+      "code": "RU-VLA-546520",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLA",
+      "latitude": 56.30565,
+      "longitude": 39.41494
+    },
+    {
+      "id": 543454,
+      "name": "Kovrovsky District",
+      "nativeName": "Kovrovskiy Rayon",
+      "code": "RU-VLA-543454",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLA",
+      "latitude": 56.26868,
+      "longitude": 41.37801
+    },
+    {
+      "id": 527732,
+      "name": "Melenkovsky District",
+      "nativeName": "Melenkovskiy Rayon",
+      "code": "RU-VLA-527732",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLA",
+      "latitude": 55.37937,
+      "longitude": 41.63789
+    },
+    {
+      "id": 524284,
+      "name": "Muromsky District",
+      "nativeName": "Muromskiy Rayon",
+      "code": "RU-VLA-524284",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLA",
+      "latitude": 55.70909,
+      "longitude": 42.02543
+    },
+    {
+      "id": 509702,
+      "name": "Petushinsky District",
+      "nativeName": "Petushinskiy Rayon",
+      "code": "RU-VLA-509702",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLA",
+      "latitude": 55.95888,
+      "longitude": 39.46802
+    },
+    {
+      "id": 12626024,
+      "name": "Raduzhny",
+      "nativeName": "Raduzhny",
+      "code": "RU-VLA-12626024",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLA",
+      "latitude": 56.00284,
+      "longitude": 40.3363
+    },
+    {
+      "id": 497671,
+      "name": "Selivanovsky District",
+      "nativeName": "Selivanovskiy Rayon",
+      "code": "RU-VLA-497671",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLA",
+      "latitude": 55.83248,
+      "longitude": 41.66766
+    },
+    {
+      "id": 491475,
+      "name": "Sobinsky District",
+      "nativeName": "Sobinskiy Rayon",
+      "code": "RU-VLA-491475",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLA",
+      "latitude": 56.03535,
+      "longitude": 40.02985
+    },
+    {
+      "id": 486831,
+      "name": "Sudogodsky District",
+      "nativeName": "Sudogodskiy Rayon",
+      "code": "RU-VLA-486831",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLA",
+      "latitude": 55.97637,
+      "longitude": 40.89341
+    },
+    {
+      "id": 485819,
+      "name": "Suzdal’skiy Rayon",
+      "nativeName": "Suzdal’skiy Rayon",
+      "code": "RU-VLA-485819",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLA",
+      "latitude": 56.38624,
+      "longitude": 40.45392
+    },
+    {
+      "id": 470665,
+      "name": "Vyaznikovsky District",
+      "nativeName": "Vyaznikovskiy Rayon",
+      "code": "RU-VLA-470665",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLA",
+      "latitude": 56.19472,
+      "longitude": 42.05797
+    },
+    {
+      "id": 466214,
+      "name": "Yur’yev-Pol’skiy Rayon",
+      "nativeName": "Yur’yev-Pol’skiy Rayon",
+      "code": "RU-VLA-466214",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLA",
+      "latitude": 56.52899,
+      "longitude": 39.7164
+    },
+    {
+      "id": 12560945,
+      "name": "ZATO Raduzhnyy",
+      "nativeName": "ZATO Raduzhnyy",
+      "code": "RU-VLA-12560945",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-VLA",
+      "latitude": 55.90055,
+      "longitude": 40.31187
+    }
+  ]
+}

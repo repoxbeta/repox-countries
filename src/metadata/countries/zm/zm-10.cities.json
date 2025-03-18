@@ -1,0 +1,84 @@
+{
+  "stateId": 11154503,
+  "stateCode": "ZM-10",
+  "countryCode": "ZM",
+  "cities": [
+    {
+      "id": 920896,
+      "name": "Chama District",
+      "nativeName": "Chama District",
+      "code": "ZM-10-920896",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-10",
+      "latitude": -11.25,
+      "longitude": 32.83333
+    },
+    {
+      "id": 918903,
+      "name": "Chinsali District",
+      "nativeName": "Chinsali District",
+      "code": "ZM-10-918903",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-10",
+      "latitude": -10.33173,
+      "longitude": 32.23818
+    },
+    {
+      "id": 916666,
+      "name": "Isoka District",
+      "nativeName": "Isoka District",
+      "code": "ZM-10-916666",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-10",
+      "latitude": -10.01771,
+      "longitude": 32.9141
+    },
+    {
+      "id": 11169206,
+      "name": "Mafinga",
+      "nativeName": "Mafinga",
+      "code": "ZM-10-11169206",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-10",
+      "latitude": -10.37647,
+      "longitude": 33.39867
+    },
+    {
+      "id": 905843,
+      "name": "Mpika District",
+      "nativeName": "Mpika District",
+      "code": "ZM-10-905843",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-10",
+      "latitude": -12.02118,
+      "longitude": 31.26473
+    },
+    {
+      "id": 11169207,
+      "name": "Nakonde",
+      "nativeName": "Nakonde",
+      "code": "ZM-10-11169207",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-10",
+      "latitude": -9.48655,
+      "longitude": 32.64852
+    },
+    {
+      "id": 11169209,
+      "name": "Shiwang’andu District",
+      "nativeName": "Shiwang’andu District",
+      "code": "ZM-10-11169209",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-10",
+      "latitude": -10.98893,
+      "longitude": 31.69332
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "stateId": 204697,
+  "stateCode": "CD-TU",
+  "countryCode": "CD",
+  "cities": [
+    {
+      "id": 12278083,
+      "name": "Befale",
+      "nativeName": "Befale",
+      "code": "CD-TU-12278083",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-TU",
+      "latitude": 0.50175,
+      "longitude": 21.15381
+    },
+    {
+      "id": 12278034,
+      "name": "Boende",
+      "nativeName": "Boende",
+      "code": "CD-TU-12278034",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-TU",
+      "latitude": -0.49464,
+      "longitude": 20.99943
+    },
+    {
+      "id": 12278035,
+      "name": "Bokungu",
+      "nativeName": "Bokungu",
+      "code": "CD-TU-12278035",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-TU",
+      "latitude": -0.85251,
+      "longitude": 22.19679
+    },
+    {
+      "id": 12278086,
+      "name": "Djolu",
+      "nativeName": "Djolu",
+      "code": "CD-TU-12278086",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-TU",
+      "latitude": 0.70227,
+      "longitude": 22.4519
+    },
+    {
+      "id": 12278054,
+      "name": "Ikela",
+      "nativeName": "Ikela",
+      "code": "CD-TU-12278054",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-TU",
+      "latitude": -1.18656,
+      "longitude": 23.25969
+    },
+    {
+      "id": 12278115,
+      "name": "Monkoto",
+      "nativeName": "Monkoto",
+      "code": "CD-TU-12278115",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-TU",
+      "latitude": -1.64309,
+      "longitude": 20.92844
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "countryId": 3658394,
+  "countryCode": "EC",
+  "states": [
+    {
+      "id": 3660431,
+      "name": "Azuay",
+      "nativeName": "Provincia del Azuay",
+      "code": "EC-A",
+      "internalCode": "A",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "latitude": -3.08333,
+      "longitude": -79.33333
+    },
+    {
+      "id": 3660130,
+      "name": "Bolívar",
+      "nativeName": "Provincia de Bolívar",
+      "code": "EC-B",
+      "internalCode": "B",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "latitude": -1.58333,
+      "longitude": -79.08333
+    },
+    {
+      "id": 3659718,
+      "name": "Carchi",
+      "nativeName": "Provincia del Carchi",
+      "code": "EC-C",
+      "internalCode": "C",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "latitude": 0.75,
+      "longitude": -78.08333
+    },
+    {
+      "id": 3659849,
+      "name": "Cañar",
+      "nativeName": "Cañar",
+      "code": "EC-F",
+      "internalCode": "F",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "latitude": -2.5,
+      "longitude": -79
+    },
+    {
+      "id": 3659237,
+      "name": "Chimborazo Province",
+      "nativeName": "Chimborazo",
+      "code": "EC-H",
+      "internalCode": "H",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "latitude": -1.91667,
+      "longitude": -78.75
+    },
+    {
+      "id": 3658766,
+      "name": "Cotopaxi",
+      "nativeName": "Provincia de Cotopaxi",
+      "code": "EC-X",
+      "internalCode": "X",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "latitude": -0.83333,
+      "longitude": -78.83333
+    },
+    {
+      "id": 3658195,
+      "name": "El Oro",
+      "nativeName": "Provincia de El Oro",
+      "code": "EC-O",
+      "internalCode": "O",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "latitude": -3.5,
+      "longitude": -79.83333
+    },
+    {
+      "id": 3657986,
+      "name": "Esmeraldas",
+      "nativeName": "Provincia de Esmeraldas",
+      "code": "EC-E",
+      "internalCode": "E",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "latitude": 0.83333,
+      "longitude": -79.25
+    },
+    {
+      "id": 3657879,
+      "name": "Galápagos",
+      "nativeName": "Provincia de Galápagos",
+      "code": "EC-W",
+      "internalCode": "W",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "latitude": -0.67015,
+      "longitude": -90.87341
+    },
+    {
+      "id": 3657505,
+      "name": "Guayas",
+      "nativeName": "Provincia del Guayas",
+      "code": "EC-G",
+      "internalCode": "G",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "latitude": -2,
+      "longitude": -79.83333
+    },
+    {
+      "id": 3655635,
+      "name": "Imbabura",
+      "nativeName": "Provincia de Imbabura",
+      "code": "EC-I",
+      "internalCode": "I",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "latitude": 0.37631,
+      "longitude": -78.32371
+    },
+    {
+      "id": 3654665,
+      "name": "Loja",
+      "nativeName": "Provincia de Loja",
+      "code": "EC-L",
+      "internalCode": "L",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "latitude": -4.16667,
+      "longitude": -79.5
+    },
+    {
+      "id": 3654592,
+      "name": "Los Ríos",
+      "nativeName": "Provincia de Los Ríos",
+      "code": "EC-R",
+      "internalCode": "R",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "latitude": -1.41667,
+      "longitude": -79.58333
+    },
+    {
+      "id": 3654451,
+      "name": "Manabí",
+      "nativeName": "Provincia de Manabí",
+      "code": "EC-M",
+      "internalCode": "M",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "latitude": -0.66667,
+      "longitude": -80.08333
+    },
+    {
+      "id": 3654005,
+      "name": "Morona-Santiago Province",
+      "nativeName": "Morona Santiago",
+      "code": "EC-S",
+      "internalCode": "S",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "latitude": -2.5,
+      "longitude": -77.91667
+    },
+    {
+      "id": 3653890,
+      "name": "Napo",
+      "nativeName": "Provincia de Napo",
+      "code": "EC-N",
+      "internalCode": "N",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "latitude": -0.62915,
+      "longitude": -77.83164
+    },
+    {
+      "id": 3830306,
+      "name": "Orellana Province",
+      "nativeName": "Orellana",
+      "code": "EC-D",
+      "internalCode": "D",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "latitude": -0.75,
+      "longitude": -76.41667
+    },
+    {
+      "id": 3653392,
+      "name": "Pastaza Province",
+      "nativeName": "Pastaza",
+      "code": "EC-Y",
+      "internalCode": "Y",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "latitude": -1.66667,
+      "longitude": -76.83333
+    },
+    {
+      "id": 3653224,
+      "name": "Pichincha",
+      "nativeName": "Provincia de Pichincha",
+      "code": "EC-P",
+      "internalCode": "P",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "latitude": -0.08333,
+      "longitude": -78.5
+    },
+    {
+      "id": 7062138,
+      "name": "Santa Elena",
+      "nativeName": "Provincia de Santa Elena",
+      "code": "EC-SE",
+      "internalCode": "SE",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "latitude": -2.08333,
+      "longitude": -80.58333
+    },
+    {
+      "id": 7062136,
+      "name": "Santo Domingo de los Tsáchilas",
+      "nativeName": "Provincia de Santo Domingo de los Tsáchilas",
+      "code": "EC-SD",
+      "internalCode": "SD",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "latitude": -0.28945,
+      "longitude": -79.18577
+    },
+    {
+      "id": 3830305,
+      "name": "Sucumbíos",
+      "nativeName": "Provincia de Sucumbíos",
+      "code": "EC-U",
+      "internalCode": "U",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "latitude": 0.1,
+      "longitude": -76.86667
+    },
+    {
+      "id": 3650445,
+      "name": "Tungurahua Province",
+      "nativeName": "Tungurahua",
+      "code": "EC-T",
+      "internalCode": "T",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "latitude": -1.25,
+      "longitude": -78.5
+    },
+    {
+      "id": 3649953,
+      "name": "Zamora Chinchipe",
+      "nativeName": "Zamora Chinchipe",
+      "code": "EC-Z",
+      "internalCode": "Z",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "latitude": -4.25,
+      "longitude": -78.83333
+    }
+  ]
+}

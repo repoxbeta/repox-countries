@@ -1,0 +1,84 @@
+{
+  "stateId": 3339537,
+  "stateCode": "CZ-31",
+  "countryCode": "CZ",
+  "cities": [
+    {
+      "id": 3077888,
+      "name": "Cesky Krumlov",
+      "nativeName": "Okres Český Krumlov",
+      "code": "CZ-31-3077888",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-31",
+      "latitude": 48.75,
+      "longitude": 14.33333
+    },
+    {
+      "id": 3074148,
+      "name": "Jindřichův Hradec District",
+      "nativeName": "Okres Jindřichův Hradec",
+      "code": "CZ-31-3074148",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-31",
+      "latitude": 49.08333,
+      "longitude": 15.16667
+    },
+    {
+      "id": 3067712,
+      "name": "Prachatice District",
+      "nativeName": "Okres Prachatice",
+      "code": "CZ-31-3067712",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-31",
+      "latitude": 49,
+      "longitude": 13.86667
+    },
+    {
+      "id": 3068289,
+      "name": "Písek District",
+      "nativeName": "Okres Písek",
+      "code": "CZ-31-3068289",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-31",
+      "latitude": 49.4,
+      "longitude": 14.2
+    },
+    {
+      "id": 3065066,
+      "name": "Strakonice District",
+      "nativeName": "Okres Strakonice",
+      "code": "CZ-31-3065066",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-31",
+      "latitude": 49.26667,
+      "longitude": 13.9
+    },
+    {
+      "id": 3064377,
+      "name": "Tábor District",
+      "nativeName": "Okres Tábor",
+      "code": "CZ-31-3064377",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-31",
+      "latitude": 49.41667,
+      "longitude": 14.66667
+    },
+    {
+      "id": 3077915,
+      "name": "České Budějovice District",
+      "nativeName": "Okres České Budějovice",
+      "code": "CZ-31-3077915",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-31",
+      "latitude": 49,
+      "longitude": 14.5
+    }
+  ]
+}

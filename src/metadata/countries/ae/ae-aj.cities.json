@@ -1,0 +1,40 @@
+{
+  "stateId": 292933,
+  "stateCode": "AE-AJ",
+  "countryCode": "AE",
+  "cities": [
+    {
+      "id": 12060392,
+      "name": "Ajman",
+      "nativeName": "Ajman",
+      "code": "AE-AJ-12060392",
+      "countryId": 290557,
+      "countryCode": "AE",
+      "stateCode": "AE-AJ",
+      "latitude": 25.40328,
+      "longitude": 55.52341
+    },
+    {
+      "id": 12060402,
+      "name": "Manama",
+      "nativeName": "Manama",
+      "code": "AE-AJ-12060402",
+      "countryId": 290557,
+      "countryCode": "AE",
+      "stateCode": "AE-AJ",
+      "latitude": 25.32568,
+      "longitude": 56.00259
+    },
+    {
+      "id": 12060403,
+      "name": "Masfut",
+      "nativeName": "Masfut",
+      "code": "AE-AJ-12060403",
+      "countryId": 290557,
+      "countryCode": "AE",
+      "stateCode": "AE-AJ",
+      "latitude": 24.83982,
+      "longitude": 56.05158
+    }
+  ]
+}

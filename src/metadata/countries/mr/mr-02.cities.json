@@ -1,0 +1,51 @@
+{
+  "stateId": 2379024,
+  "stateCode": "MR-02",
+  "countryCode": "MR",
+  "cities": [
+    {
+      "id": 9212606,
+      "name": "Aioun",
+      "nativeName": "Aioun",
+      "code": "MR-02-9212606",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-02",
+      "latitude": 16.80461,
+      "longitude": -9.25297
+    },
+    {
+      "id": 9212627,
+      "name": "Kobeni",
+      "nativeName": "Kobenni",
+      "code": "MR-02-9212627",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-02",
+      "latitude": 15.91751,
+      "longitude": -9.45314
+    },
+    {
+      "id": 9226673,
+      "name": "Tamchekett",
+      "nativeName": "Tamchekett",
+      "code": "MR-02-9226673",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-02",
+      "latitude": 17.24562,
+      "longitude": -10.67017
+    },
+    {
+      "id": 9212625,
+      "name": "Tintane",
+      "nativeName": "Tintane",
+      "code": "MR-02-9212625",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-02",
+      "latitude": 15.98133,
+      "longitude": -10.31841
+    }
+  ]
+}

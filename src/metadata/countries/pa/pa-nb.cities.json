@@ -1,0 +1,106 @@
+{
+  "stateId": 7303688,
+  "stateCode": "PA-NB",
+  "countryCode": "PA",
+  "cities": [
+    {
+      "id": 9862224,
+      "name": "Besikó District",
+      "nativeName": "Besiko",
+      "code": "PA-NB-9862224",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-NB",
+      "latitude": 8.54863,
+      "longitude": -82.0898
+    },
+    {
+      "id": 12510674,
+      "name": "Jirondai District",
+      "nativeName": "Jirondai",
+      "code": "PA-NB-12510674",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-NB",
+      "latitude": 8.83821,
+      "longitude": -82.12647
+    },
+    {
+      "id": 9862223,
+      "name": "Kankintú District",
+      "nativeName": "Kankintú",
+      "code": "PA-NB-9862223",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-NB",
+      "latitude": 8.89503,
+      "longitude": -81.8575
+    },
+    {
+      "id": 9862221,
+      "name": "Kusapín District",
+      "nativeName": "Kusapín",
+      "code": "PA-NB-9862221",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-NB",
+      "latitude": 9.17119,
+      "longitude": -81.89621
+    },
+    {
+      "id": 9862220,
+      "name": "Mironó District",
+      "nativeName": "Mirono",
+      "code": "PA-NB-9862220",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-NB",
+      "latitude": 8.40469,
+      "longitude": -81.83064
+    },
+    {
+      "id": 9857648,
+      "name": "Müna District",
+      "nativeName": "Müna",
+      "code": "PA-NB-9857648",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-NB",
+      "latitude": 8.35035,
+      "longitude": -81.67219
+    },
+    {
+      "id": 9857644,
+      "name": "Nole Duima District",
+      "nativeName": "Nole Düima",
+      "code": "PA-NB-9857644",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-NB",
+      "latitude": 8.32682,
+      "longitude": -81.81531
+    },
+    {
+      "id": 12510669,
+      "name": "Santa Catalina o Calovébora District",
+      "nativeName": "Santa Catalina o Calovébora",
+      "code": "PA-NB-12510669",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-NB",
+      "latitude": 8.67315,
+      "longitude": -81.3568
+    },
+    {
+      "id": 9862226,
+      "name": "Ñürüm District",
+      "nativeName": "Nurun",
+      "code": "PA-NB-9862226",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-NB",
+      "latitude": 8.47815,
+      "longitude": -81.47015
+    }
+  ]
+}

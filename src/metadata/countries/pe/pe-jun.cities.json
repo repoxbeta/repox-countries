@@ -1,0 +1,106 @@
+{
+  "stateId": 3937485,
+  "stateCode": "PE-JUN",
+  "countryCode": "PE",
+  "cities": [
+    {
+      "id": 3944390,
+      "name": "Chanchamayo",
+      "nativeName": "Chanchamayo",
+      "code": "PE-JUN-3944390",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-JUN",
+      "latitude": -11.05,
+      "longitude": -75.31667
+    },
+    {
+      "id": 7778812,
+      "name": "Chupaca Province",
+      "nativeName": "Provincia de Chupaca",
+      "code": "PE-JUN-7778812",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-JUN",
+      "latitude": -12.3,
+      "longitude": -75.433
+    },
+    {
+      "id": 3942545,
+      "name": "Concepción Province",
+      "nativeName": "Provincia de Concepción",
+      "code": "PE-JUN-3942545",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-JUN",
+      "latitude": -11.75,
+      "longitude": -75.11645
+    },
+    {
+      "id": 3939456,
+      "name": "Huancayo Province",
+      "nativeName": "Provincia de Huancayo",
+      "code": "PE-JUN-3939456",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-JUN",
+      "latitude": -12.17319,
+      "longitude": -75.16169
+    },
+    {
+      "id": 3937732,
+      "name": "Jauja Province",
+      "nativeName": "Provincia de Jauja",
+      "code": "PE-JUN-3937732",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-JUN",
+      "latitude": -11.726,
+      "longitude": -75.547
+    },
+    {
+      "id": 3937483,
+      "name": "Junín Province",
+      "nativeName": "Provincia de Junín",
+      "code": "PE-JUN-3937483",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-JUN",
+      "latitude": -11.02112,
+      "longitude": -75.93779
+    },
+    {
+      "id": 3928923,
+      "name": "Satipo Province",
+      "nativeName": "Provincia de Satipo",
+      "code": "PE-JUN-3928923",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-JUN",
+      "latitude": -11.567,
+      "longitude": -74.09367
+    },
+    {
+      "id": 3927757,
+      "name": "Tarma Province",
+      "nativeName": "Provincia de Tarma",
+      "code": "PE-JUN-3927757",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-JUN",
+      "latitude": -11.40562,
+      "longitude": -75.69129
+    },
+    {
+      "id": 3925598,
+      "name": "Yauli Province",
+      "nativeName": "Provincia de Yauli",
+      "code": "PE-JUN-3925598",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-JUN",
+      "latitude": -11.52788,
+      "longitude": -76.09648
+    }
+  ]
+}

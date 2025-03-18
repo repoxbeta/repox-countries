@@ -1,0 +1,95 @@
+{
+  "stateId": 3620481,
+  "stateCode": "NI-CA",
+  "countryCode": "NI",
+  "cities": [
+    {
+      "id": 3618409,
+      "name": "La Paz de Carazo",
+      "nativeName": "La Paz de Carazo",
+      "code": "NI-CA-3618409",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-CA",
+      "latitude": 11.82218,
+      "longitude": -86.11101
+    },
+    {
+      "id": 3620169,
+      "name": "Municipio de Diriamba",
+      "nativeName": "Municipio de Diriamba",
+      "code": "NI-CA-3620169",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-CA",
+      "latitude": 11.78422,
+      "longitude": -86.31395
+    },
+    {
+      "id": 3620161,
+      "name": "Municipio de Dolores",
+      "nativeName": "Municipio de Dolores",
+      "code": "NI-CA-3620161",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-CA",
+      "latitude": 11.8545,
+      "longitude": -86.21839
+    },
+    {
+      "id": 3619409,
+      "name": "Municipio de El Rosario",
+      "nativeName": "Municipio de El Rosario",
+      "code": "NI-CA-3619409",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-CA",
+      "latitude": 11.83284,
+      "longitude": -86.15304
+    },
+    {
+      "id": 3618925,
+      "name": "Municipio de Jinotepe",
+      "nativeName": "Municipio de Jinotepe",
+      "code": "NI-CA-3618925",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-CA",
+      "latitude": 11.74972,
+      "longitude": -86.23303
+    },
+    {
+      "id": 3618634,
+      "name": "Municipio de La Conquista",
+      "nativeName": "Municipio de La Conquista",
+      "code": "NI-CA-3618634",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-CA",
+      "latitude": 11.71835,
+      "longitude": -86.18723
+    },
+    {
+      "id": 3616675,
+      "name": "Municipio de San Marcos",
+      "nativeName": "Municipio de San Marcos",
+      "code": "NI-CA-3616675",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-CA",
+      "latitude": 11.91784,
+      "longitude": -86.27474
+    },
+    {
+      "id": 3616367,
+      "name": "Municipio de Santa Teresa",
+      "nativeName": "Municipio de Santa Teresa",
+      "code": "NI-CA-3616367",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-CA",
+      "latitude": 11.67664,
+      "longitude": -86.14552
+    }
+  ]
+}

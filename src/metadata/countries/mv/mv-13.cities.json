@@ -1,0 +1,29 @@
+{
+  "stateId": 1281918,
+  "stateCode": "MV-13",
+  "countryCode": "MV",
+  "cities": [
+    {
+      "id": 1337619,
+      "name": "Un’goofaaru",
+      "nativeName": "Un’goofaaru",
+      "code": "MV-13-1337619",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-13",
+      "latitude": 5.66812,
+      "longitude": 73.03017
+    },
+    {
+      "id": 11103190,
+      "name": "Maakurathu",
+      "nativeName": "Maakurathu",
+      "code": "MV-13-11103190",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-13",
+      "latitude": 5.60706,
+      "longitude": 73.04503
+    }
+  ]
+}

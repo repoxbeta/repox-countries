@@ -1,0 +1,51 @@
+{
+  "stateId": 6930707,
+  "stateCode": "BF-06",
+  "countryCode": "BF",
+  "cities": [
+    {
+      "id": 2361988,
+      "name": "Boulkiemdé Province",
+      "nativeName": "Province du Boulkiemdé",
+      "code": "BF-06-2361988",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "stateCode": "BF-06",
+      "latitude": 12.33333,
+      "longitude": -2.16667
+    },
+    {
+      "id": 2355930,
+      "name": "Sanguié Province",
+      "nativeName": "Province du Sanguié",
+      "code": "BF-06-2355930",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "stateCode": "BF-06",
+      "latitude": 12.16667,
+      "longitude": -2.66667
+    },
+    {
+      "id": 2355474,
+      "name": "Sissili Province",
+      "nativeName": "Province de la Sissili",
+      "code": "BF-06-2355474",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "stateCode": "BF-06",
+      "latitude": 11.33333,
+      "longitude": -2.25
+    },
+    {
+      "id": 2597269,
+      "name": "Ziro Province",
+      "nativeName": "Province du Ziro",
+      "code": "BF-06-2597269",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "stateCode": "BF-06",
+      "latitude": 11.58333,
+      "longitude": -1.91667
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "stateId": 7521434,
+  "stateCode": "YT-97614",
+  "countryCode": "YT",
+  "cities": [
+    {
+      "id": 1090311,
+      "name": "Ouangani",
+      "nativeName": "Ouangani",
+      "code": "YT-97614-1090311",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97614",
+      "latitude": -12.84639,
+      "longitude": 45.13611
+    },
+    {
+      "id": 1090310,
+      "name": "Barakani",
+      "nativeName": "Barakani",
+      "code": "YT-97614-1090310",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97614",
+      "latitude": -12.83799,
+      "longitude": 45.1312
+    },
+    {
+      "id": 1090315,
+      "name": "Coconi",
+      "nativeName": "Coconi",
+      "code": "YT-97614-1090315",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97614",
+      "latitude": -12.8346,
+      "longitude": 45.13694
+    },
+    {
+      "id": 1090314,
+      "name": "Kahani",
+      "nativeName": "Kahani",
+      "code": "YT-97614-1090314",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97614",
+      "latitude": -12.82385,
+      "longitude": 45.13141
+    },
+    {
+      "id": 921673,
+      "name": "Sohoa",
+      "nativeName": "Sohoa",
+      "code": "YT-97614-921673",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97614",
+      "latitude": -12.83333,
+      "longitude": 45.13333
+    }
+  ]
+}

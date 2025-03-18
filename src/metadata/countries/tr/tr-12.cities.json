@@ -1,0 +1,95 @@
+{
+  "stateId": 321079,
+  "stateCode": "TR-12",
+  "countryCode": "TR",
+  "cities": [
+    {
+      "id": 8631556,
+      "name": "Adaklı İlçesi",
+      "nativeName": "Adaklı İlçesi",
+      "code": "TR-12-8631556",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-12",
+      "latitude": 39.2287,
+      "longitude": 40.48252
+    },
+    {
+      "id": 8631559,
+      "name": "Genç İlçesi",
+      "nativeName": "Genç İlçesi",
+      "code": "TR-12-8631559",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-12",
+      "latitude": 38.75972,
+      "longitude": 40.56639
+    },
+    {
+      "id": 8631558,
+      "name": "Karlıova İlçesi",
+      "nativeName": "Karlıova İlçesi",
+      "code": "TR-12-8631558",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-12",
+      "latitude": 39.2978,
+      "longitude": 41.01342
+    },
+    {
+      "id": 8631560,
+      "name": "Kiğı İlçesi",
+      "nativeName": "Kiğı İlçesi",
+      "code": "TR-12-8631560",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-12",
+      "latitude": 39.30894,
+      "longitude": 40.34995
+    },
+    {
+      "id": 7732205,
+      "name": "Merkez",
+      "nativeName": "Merkez",
+      "code": "TR-12-7732205",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-12",
+      "latitude": 38.95025,
+      "longitude": 40.52802
+    },
+    {
+      "id": 8631557,
+      "name": "Solhan İlçesi",
+      "nativeName": "Solhan İlçesi",
+      "code": "TR-12-8631557",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-12",
+      "latitude": 38.96965,
+      "longitude": 41.05604
+    },
+    {
+      "id": 8631554,
+      "name": "Yayladere İlçesi",
+      "nativeName": "Yayladere İlçesi",
+      "code": "TR-12-8631554",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-12",
+      "latitude": 38.49839,
+      "longitude": 40.34245
+    },
+    {
+      "id": 8631555,
+      "name": "Yedisu İlçesi",
+      "nativeName": "Yedisu İlçesi",
+      "code": "TR-12-8631555",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-12",
+      "latitude": 39.43404,
+      "longitude": 40.54482
+    }
+  ]
+}

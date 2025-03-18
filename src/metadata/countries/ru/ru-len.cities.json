@@ -1,0 +1,249 @@
+{
+  "stateId": 536199,
+  "stateCode": "RU-LEN",
+  "countryCode": "RU",
+  "cities": [
+    {
+      "id": 575409,
+      "name": "Boksitogorsky Rayon",
+      "nativeName": "Boksitogorskiy Rayon",
+      "code": "RU-LEN-575409",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-LEN",
+      "latitude": 59.45328,
+      "longitude": 34.5764
+    },
+    {
+      "id": 561883,
+      "name": "Gatchinskiy Rayon",
+      "nativeName": "Gatchinskiy Rayon",
+      "code": "RU-LEN-561883",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-LEN",
+      "latitude": 59.41667,
+      "longitude": 30.16667
+    },
+    {
+      "id": 12640024,
+      "name": "Jaama District",
+      "nativeName": "Jaama District",
+      "code": "RU-LEN-12640024",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-LEN",
+      "latitude": 59.36938,
+      "longitude": 28.60379
+    },
+    {
+      "id": 548601,
+      "name": "Kingiseppsky District",
+      "nativeName": "Kingiseppskiy Rayon",
+      "code": "RU-LEN-548601",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-LEN",
+      "latitude": 59.5,
+      "longitude": 28.4993
+    },
+    {
+      "id": 548441,
+      "name": "Kirishsky District",
+      "nativeName": "Kirishskiy Rayon",
+      "code": "RU-LEN-548441",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-LEN",
+      "latitude": 59.41667,
+      "longitude": 32.5
+    },
+    {
+      "id": 548376,
+      "name": "Kirovsky District",
+      "nativeName": "Kirovskiy Rayon",
+      "code": "RU-LEN-548376",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-LEN",
+      "latitude": 59.80523,
+      "longitude": 31.43994
+    },
+    {
+      "id": 12640023,
+      "name": "Laukaa District",
+      "nativeName": "Laukaa District",
+      "code": "RU-LEN-12640023",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-LEN",
+      "latitude": 58.73567,
+      "longitude": 29.8436
+    },
+    {
+      "id": 534562,
+      "name": "Lodeynopolsky District",
+      "nativeName": "Lodeynopol’skiy Rayon",
+      "code": "RU-LEN-534562",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-LEN",
+      "latitude": 60.5,
+      "longitude": 33.75
+    },
+    {
+      "id": 534332,
+      "name": "Lomonosovsky District",
+      "nativeName": "Lomonosovskiy Rayon",
+      "code": "RU-LEN-534332",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-LEN",
+      "latitude": 59.89721,
+      "longitude": 29.73994
+    },
+    {
+      "id": 533053,
+      "name": "Luzhsky District",
+      "nativeName": "Luzhskiy Rayon",
+      "code": "RU-LEN-533053",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-LEN",
+      "latitude": 58.84232,
+      "longitude": 29.81113
+    },
+    {
+      "id": 508035,
+      "name": "Podporozhsky District",
+      "nativeName": "Podporozhskiy Rayon",
+      "code": "RU-LEN-508035",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-LEN",
+      "latitude": 60.88547,
+      "longitude": 34.71666
+    },
+    {
+      "id": 6695196,
+      "name": "Priozersk Region",
+      "nativeName": "Priozersky",
+      "code": "RU-LEN-6695196",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-LEN",
+      "latitude": 61.03901,
+      "longitude": 30.13515
+    },
+    {
+      "id": 492167,
+      "name": "Slantsevsky District",
+      "nativeName": "Slantsevskiy Rayon",
+      "code": "RU-LEN-492167",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-LEN",
+      "latitude": 59.06225,
+      "longitude": 28.39309
+    },
+    {
+      "id": 11103379,
+      "name": "Sosnovoborsky Urban Okrug",
+      "nativeName": "Sosnovoborsky Urban Okrug",
+      "code": "RU-LEN-11103379",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-LEN",
+      "latitude": 59.87462,
+      "longitude": 29.09008
+    },
+    {
+      "id": 12625280,
+      "name": "Sosnovy Bor",
+      "nativeName": "Sosnovy Bor",
+      "code": "RU-LEN-12625280",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-LEN",
+      "latitude": 59.89542,
+      "longitude": 29.08835
+    },
+    {
+      "id": 12640025,
+      "name": "Tihvinä District",
+      "nativeName": "Tihvinä District",
+      "code": "RU-LEN-12640025",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-LEN",
+      "latitude": 59.6393,
+      "longitude": 33.50701
+    },
+    {
+      "id": 483008,
+      "name": "Tikhvinsky District",
+      "nativeName": "Tikhvinskiy Rayon",
+      "code": "RU-LEN-483008",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-LEN",
+      "latitude": 59.9853,
+      "longitude": 33.89025
+    },
+    {
+      "id": 481965,
+      "name": "Tosnensky District",
+      "nativeName": "Tosnenskiy Rayon",
+      "code": "RU-LEN-481965",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-LEN",
+      "latitude": 59.41667,
+      "longitude": 31
+    },
+    {
+      "id": 472711,
+      "name": "Volkhovskiy rayon",
+      "nativeName": "Volkhovskiy rayon",
+      "code": "RU-LEN-472711",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-LEN",
+      "latitude": 59.75,
+      "longitude": 32.5
+    },
+    {
+      "id": 472350,
+      "name": "Volosovsky Region",
+      "nativeName": "Volosovskiy Rayon",
+      "code": "RU-LEN-472350",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-LEN",
+      "latitude": 59.413,
+      "longitude": 29.31707
+    },
+    {
+      "id": 471099,
+      "name": "Vsevolozhsky District",
+      "nativeName": "Vsevolozhskiy Rayon",
+      "code": "RU-LEN-471099",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-LEN",
+      "latitude": 60.17451,
+      "longitude": 30.73453
+    },
+    {
+      "id": 470541,
+      "name": "Vyborgsky District",
+      "nativeName": "Vyborgskiy Rayon",
+      "code": "RU-LEN-470541",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-LEN",
+      "latitude": 60.75278,
+      "longitude": 29.03888
+    }
+  ]
+}

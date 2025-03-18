@@ -1,0 +1,29 @@
+{
+  "stateId": 7603281,
+  "stateCode": "CV-RS",
+  "countryCode": "CV",
+  "cities": [
+    {
+      "id": 11996058,
+      "name": "Santissimo Nome de Jesus",
+      "nativeName": "Santissimo Nome de Jesus",
+      "code": "CV-RS-11996058",
+      "countryId": 3374766,
+      "countryCode": "CV",
+      "stateCode": "CV-RS",
+      "latitude": 14.9421,
+      "longitude": -23.59872
+    },
+    {
+      "id": 11996059,
+      "name": "Sao Joao Baptista",
+      "nativeName": "Sao Joao Baptista",
+      "code": "CV-RS-11996059",
+      "countryId": 3374766,
+      "countryCode": "CV",
+      "stateCode": "CV-RS",
+      "latitude": 14.98977,
+      "longitude": -23.6564
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "stateId": 3660130,
+  "stateCode": "EC-B",
+  "countryCode": "EC",
+  "cities": [
+    {
+      "id": 9155070,
+      "name": "Canton Caluma",
+      "nativeName": "Canton Caluma",
+      "code": "EC-B-9155070",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-B",
+      "latitude": -1.63333,
+      "longitude": -79.25
+    },
+    {
+      "id": 9155072,
+      "name": "Canton Echeandia",
+      "nativeName": "Canton Echeandia",
+      "code": "EC-B-9155072",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-B",
+      "latitude": -1.43333,
+      "longitude": -79.26667
+    },
+    {
+      "id": 9155660,
+      "name": "Canton Las Naves",
+      "nativeName": "Canton Las Naves",
+      "code": "EC-B-9155660",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-B",
+      "latitude": -1.28333,
+      "longitude": -79.3
+    },
+    {
+      "id": 3659242,
+      "name": "Cantón Chimbo",
+      "nativeName": "Cantón Chimbo",
+      "code": "EC-B-3659242",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-B",
+      "latitude": -1.68444,
+      "longitude": -79.02526
+    },
+    {
+      "id": 3659255,
+      "name": "Chillanes",
+      "nativeName": "Chillanes",
+      "code": "EC-B-3659255",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-B",
+      "latitude": -2.01315,
+      "longitude": -79.1161
+    },
+    {
+      "id": 3657570,
+      "name": "Guaranda",
+      "nativeName": "Guaranda",
+      "code": "EC-B-3657570",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-B",
+      "latitude": -1.43467,
+      "longitude": -79.03423
+    },
+    {
+      "id": 3651621,
+      "name": "San Miguel",
+      "nativeName": "San Miguel",
+      "code": "EC-B-3651621",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-B",
+      "latitude": -1.78742,
+      "longitude": -79.10559
+    }
+  ]
+}

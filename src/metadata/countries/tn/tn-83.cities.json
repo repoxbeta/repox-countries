@@ -1,0 +1,84 @@
+{
+  "stateId": 2464698,
+  "stateCode": "TN-83",
+  "countryCode": "TN",
+  "cities": [
+    {
+      "id": 11105088,
+      "name": "Bir Lahmar",
+      "nativeName": "Bir Lahmar",
+      "code": "TN-83-11105088",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-83",
+      "latitude": 33.14781,
+      "longitude": 10.46053
+    },
+    {
+      "id": 11105090,
+      "name": "Dhehiba",
+      "nativeName": "Dhehiba",
+      "code": "TN-83-11105090",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-83",
+      "latitude": 31.98364,
+      "longitude": 10.59134
+    },
+    {
+      "id": 2470926,
+      "name": "Ghomrassen",
+      "nativeName": "Ghomrassen",
+      "code": "TN-83-2470926",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-83",
+      "latitude": 33.03445,
+      "longitude": 10.25473
+    },
+    {
+      "id": 2467782,
+      "name": "Remada",
+      "nativeName": "Remada",
+      "code": "TN-83-2467782",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-83",
+      "latitude": 31.70556,
+      "longitude": 9.63983
+    },
+    {
+      "id": 11105087,
+      "name": "Smâr",
+      "nativeName": "Smar",
+      "code": "TN-83-11105087",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-83",
+      "latitude": 32.71485,
+      "longitude": 11.01197
+    },
+    {
+      "id": 2464700,
+      "name": "Tataouine Nord",
+      "nativeName": "Tataouine Nord",
+      "code": "TN-83-2464700",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-83",
+      "latitude": 32.6852,
+      "longitude": 10.6335
+    },
+    {
+      "id": 11105089,
+      "name": "Tataouine Sud",
+      "nativeName": "Tataouine Sud",
+      "code": "TN-83-11105089",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-83",
+      "latitude": 32.78766,
+      "longitude": 10.18933
+    }
+  ]
+}

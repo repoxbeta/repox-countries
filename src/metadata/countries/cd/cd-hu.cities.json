@@ -1,0 +1,95 @@
+{
+  "stateId": 216140,
+  "stateCode": "CD-HU",
+  "countryCode": "CD",
+  "cities": [
+    {
+      "id": 12278124,
+      "name": "Aba",
+      "nativeName": "Aba",
+      "code": "CD-HU-12278124",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-HU",
+      "latitude": 3.85842,
+      "longitude": 30.23818
+    },
+    {
+      "id": 12278088,
+      "name": "Dungu",
+      "nativeName": "Dungu",
+      "code": "CD-HU-12278088",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-HU",
+      "latitude": 4.07223,
+      "longitude": 28.41857
+    },
+    {
+      "id": 12278089,
+      "name": "Faradje",
+      "nativeName": "Faradje",
+      "code": "CD-HU-12278089",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-HU",
+      "latitude": 3.53789,
+      "longitude": 29.9764
+    },
+    {
+      "id": 12278057,
+      "name": "Isiro",
+      "nativeName": "Isiro",
+      "code": "CD-HU-12278057",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-HU",
+      "latitude": 2.7672,
+      "longitude": 27.63699
+    },
+    {
+      "id": 12278014,
+      "name": "Niangara",
+      "nativeName": "Niangara",
+      "code": "CD-HU-12278014",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-HU",
+      "latitude": 3.51247,
+      "longitude": 27.90168
+    },
+    {
+      "id": 12278142,
+      "name": "Rungu",
+      "nativeName": "Rungu",
+      "code": "CD-HU-12278142",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-HU",
+      "latitude": 2.66687,
+      "longitude": 27.649
+    },
+    {
+      "id": 12278077,
+      "name": "Wamba",
+      "nativeName": "Wamba",
+      "code": "CD-HU-12278077",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-HU",
+      "latitude": 2.10723,
+      "longitude": 27.83886
+    },
+    {
+      "id": 12278159,
+      "name": "Watsa",
+      "nativeName": "Watsa",
+      "code": "CD-HU-12278159",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-HU",
+      "latitude": 2.73792,
+      "longitude": 29.25972
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "stateId": 7603258,
+  "stateCode": "TD-TI",
+  "countryCode": "TD",
+  "cities": [
+    {
+      "id": 12186889,
+      "name": "Aouzou",
+      "nativeName": "Aouzou",
+      "code": "TD-TI-12186889",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-TI",
+      "latitude": 21.84688,
+      "longitude": 17.45113
+    },
+    {
+      "id": 12186866,
+      "name": "Tibesti-Est",
+      "nativeName": "Tibesti-Est",
+      "code": "TD-TI-12186866",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-TI",
+      "latitude": 21.27231,
+      "longitude": 17.1662
+    },
+    {
+      "id": 12186867,
+      "name": "Tibesti-Ouest",
+      "nativeName": "Tibesti-Ouest",
+      "code": "TD-TI-12186867",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-TI",
+      "latitude": 20.47649,
+      "longitude": 16.58563
+    },
+    {
+      "id": 12186887,
+      "name": "Wour",
+      "nativeName": "Wour",
+      "code": "TD-TI-12186887",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-TI",
+      "latitude": 21.36156,
+      "longitude": 16.0343
+    }
+  ]
+}

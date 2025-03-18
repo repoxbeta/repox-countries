@@ -1,0 +1,84 @@
+{
+  "stateId": 12902784,
+  "stateCode": "ET-SW",
+  "countryCode": "ET",
+  "cities": [
+    {
+      "id": 331677,
+      "name": "Bench Maji Zone",
+      "nativeName": "Bench Maji Zone",
+      "code": "ET-SW-331677",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-SW",
+      "latitude": 6.45994,
+      "longitude": 35.30549
+    },
+    {
+      "id": 11750822,
+      "name": "Dawro",
+      "nativeName": "Dawro",
+      "code": "ET-SW-11750822",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-SW",
+      "latitude": 6.95704,
+      "longitude": 37.10044
+    },
+    {
+      "id": 7670729,
+      "name": "Dawuro",
+      "nativeName": "Dawuro",
+      "code": "ET-SW-7670729",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-SW",
+      "latitude": 6.96985,
+      "longitude": 37.10862
+    },
+    {
+      "id": 333465,
+      "name": "Kaffa Zone",
+      "nativeName": "Kaffa Zone",
+      "code": "ET-SW-333465",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-SW",
+      "latitude": 7.17966,
+      "longitude": 36.0479
+    },
+    {
+      "id": 8260659,
+      "name": "Keficho Shekicho Zone",
+      "nativeName": "Keficho Shekicho Zone",
+      "code": "ET-SW-8260659",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-SW",
+      "latitude": 7.25,
+      "longitude": 36
+    },
+    {
+      "id": 11750821,
+      "name": "Konta",
+      "nativeName": "Konta",
+      "code": "ET-SW-11750821",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-SW",
+      "latitude": 6.87066,
+      "longitude": 36.5726
+    },
+    {
+      "id": 11750820,
+      "name": "Sheka Zone",
+      "nativeName": "Sheka Zone",
+      "code": "ET-SW-11750820",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-SW",
+      "latitude": 7.56166,
+      "longitude": 35.40174
+    }
+  ]
+}

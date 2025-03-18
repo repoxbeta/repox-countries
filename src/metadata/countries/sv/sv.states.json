@@ -1,0 +1,160 @@
+{
+  "countryId": 3585968,
+  "countryCode": "SV",
+  "states": [
+    {
+      "id": 3587090,
+      "name": "Chalatenango Department",
+      "nativeName": "Departamento de Chalatenango",
+      "code": "SV-CH",
+      "internalCode": "CH",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "latitude": 14.13333,
+      "longitude": -89.01667
+    },
+    {
+      "id": 3587425,
+      "name": "Departamento de Ahuachapán",
+      "nativeName": "Departamento de Ahuachapán",
+      "code": "SV-AH",
+      "internalCode": "AH",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "latitude": 13.86667,
+      "longitude": -89.91667
+    },
+    {
+      "id": 3587217,
+      "name": "Departamento de Cabañas",
+      "nativeName": "Departamento de Cabañas",
+      "code": "SV-CA",
+      "internalCode": "CA",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "latitude": 13.86667,
+      "longitude": -88.75
+    },
+    {
+      "id": 3586831,
+      "name": "Departamento de Cuscatlán",
+      "nativeName": "Departamento de Cuscatlán",
+      "code": "SV-CU",
+      "internalCode": "CU",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "latitude": 13.83333,
+      "longitude": -89.03333
+    },
+    {
+      "id": 3584767,
+      "name": "Departamento de La Unión",
+      "nativeName": "Departamento de La Unión",
+      "code": "SV-UN",
+      "internalCode": "UN",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "latitude": 13.55,
+      "longitude": -87.9
+    },
+    {
+      "id": 3584317,
+      "name": "Departamento de Morazán",
+      "nativeName": "Departamento de Morazán",
+      "code": "SV-MO",
+      "internalCode": "MO",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "latitude": 13.8,
+      "longitude": -88.1
+    },
+    {
+      "id": 3582882,
+      "name": "Departamento de Usulután",
+      "nativeName": "Departamento de Usulután",
+      "code": "SV-US",
+      "internalCode": "US",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "latitude": 13.43333,
+      "longitude": -88.53333
+    },
+    {
+      "id": 3585155,
+      "name": "La Libertad Department",
+      "nativeName": "Departamento de La Libertad",
+      "code": "SV-LI",
+      "internalCode": "LI",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "latitude": 13.75,
+      "longitude": -89.38333
+    },
+    {
+      "id": 3585087,
+      "name": "La Paz Department",
+      "nativeName": "Departamento de La Paz",
+      "code": "SV-PA",
+      "internalCode": "PA",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "latitude": 13.46667,
+      "longitude": -88.98333
+    },
+    {
+      "id": 3583462,
+      "name": "San Miguel Department",
+      "nativeName": "Departamento de San Miguel",
+      "code": "SV-SM",
+      "internalCode": "SM",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "latitude": 13.53333,
+      "longitude": -88.28333
+    },
+    {
+      "id": 3583360,
+      "name": "San Salvador Department",
+      "nativeName": "Departamento de San Salvador",
+      "code": "SV-SS",
+      "internalCode": "SS",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "latitude": 13.78333,
+      "longitude": -89.18333
+    },
+    {
+      "id": 3583176,
+      "name": "San Vicente Department",
+      "nativeName": "Departamento de San Vicente",
+      "code": "SV-SV",
+      "internalCode": "SV",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "latitude": 13.51667,
+      "longitude": -88.75
+    },
+    {
+      "id": 3583332,
+      "name": "Santa Ana Department",
+      "nativeName": "Departamento de Santa Ana",
+      "code": "SV-SA",
+      "internalCode": "SA",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "latitude": 14.1,
+      "longitude": -89.58333
+    },
+    {
+      "id": 3583101,
+      "name": "Sonsonate Department",
+      "nativeName": "Departamento de Sonsonate",
+      "code": "SV-SO",
+      "internalCode": "SO",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "latitude": 13.7,
+      "longitude": -89.7
+    }
+  ]
+}

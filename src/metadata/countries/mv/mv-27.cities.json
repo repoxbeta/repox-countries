@@ -1,0 +1,40 @@
+{
+  "stateId": 1282329,
+  "stateCode": "MV-27",
+  "countryCode": "MV",
+  "cities": [
+    {
+      "id": 1337609,
+      "name": "Viligili",
+      "nativeName": "Viligili",
+      "code": "MV-27-1337609",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-27",
+      "latitude": 0.75906,
+      "longitude": 73.43296
+    },
+    {
+      "id": 10630175,
+      "name": "Nilandhoo",
+      "nativeName": "Nilandhoo",
+      "code": "MV-27-10630175",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-27",
+      "latitude": 0.63597,
+      "longitude": 73.44646
+    },
+    {
+      "id": 8411013,
+      "name": "Kooddoo Atoll",
+      "nativeName": "Kooddoo Atoll",
+      "code": "MV-27-8411013",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-27",
+      "latitude": 0.73769,
+      "longitude": 73.43162
+    }
+  ]
+}

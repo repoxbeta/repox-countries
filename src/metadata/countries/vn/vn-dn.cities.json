@@ -1,0 +1,95 @@
+{
+  "stateId": 1905468,
+  "stateCode": "VN-DN",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 1905474,
+      "name": "Hoàng Sa District",
+      "nativeName": "Huyện Hoàng Sa",
+      "code": "VN-DN-1905474",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-DN",
+      "latitude": 16.34468,
+      "longitude": 112.00096
+    },
+    {
+      "id": 1905473,
+      "name": "Huyện Hòa Vang",
+      "nativeName": "Huyện Hòa Vang",
+      "code": "VN-DN-1905473",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-DN",
+      "latitude": 16.05208,
+      "longitude": 108.06443
+    },
+    {
+      "id": 8656304,
+      "name": "Quận Cẩm Lệ",
+      "nativeName": "Quận Cẩm Lệ",
+      "code": "VN-DN-8656304",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-DN",
+      "latitude": 16.0124,
+      "longitude": 108.19949
+    },
+    {
+      "id": 1905868,
+      "name": "Quận Hải Châu",
+      "nativeName": "Quận Hải Châu",
+      "code": "VN-DN-1905868",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-DN",
+      "latitude": 16.04176,
+      "longitude": 108.21346
+    },
+    {
+      "id": 1905472,
+      "name": "Quận Liên Chiểu",
+      "nativeName": "Quận Liên Chiểu",
+      "code": "VN-DN-1905472",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-DN",
+      "latitude": 16.11477,
+      "longitude": 108.12431
+    },
+    {
+      "id": 1905471,
+      "name": "Quận Ngũ Hành Sơn",
+      "nativeName": "Quận Ngũ Hành Sơn",
+      "code": "VN-DN-1905471",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-DN",
+      "latitude": 16,
+      "longitude": 108.25
+    },
+    {
+      "id": 1905469,
+      "name": "Quận Thanh Khê",
+      "nativeName": "Quận Thanh Khê",
+      "code": "VN-DN-1905469",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-DN",
+      "latitude": 16.06726,
+      "longitude": 108.1846
+    },
+    {
+      "id": 1905470,
+      "name": "Sơn Trà District",
+      "nativeName": "Quận Sơn Trà",
+      "code": "VN-DN-1905470",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-DN",
+      "latitude": 16.11082,
+      "longitude": 108.2641
+    }
+  ]
+}

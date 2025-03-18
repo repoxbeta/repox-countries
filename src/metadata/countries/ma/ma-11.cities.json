@@ -1,0 +1,51 @@
+{
+  "stateId": 11281885,
+  "stateCode": "MA-11",
+  "countryCode": "MA",
+  "cities": [
+    {
+      "id": 6547290,
+      "name": "Boujdour Province",
+      "nativeName": "Boujdour",
+      "code": "MA-11-6547290",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-11",
+      "latitude": 25.66172,
+      "longitude": -13.68419
+    },
+    {
+      "id": 2595330,
+      "name": "Es Semara Province",
+      "nativeName": "Es-Semara",
+      "code": "MA-11-2595330",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-11",
+      "latitude": 27.75,
+      "longitude": -11
+    },
+    {
+      "id": 2543878,
+      "name": "Laayoune",
+      "nativeName": "Laayoune",
+      "code": "MA-11-2543878",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-11",
+      "latitude": 27.83333,
+      "longitude": -12.33333
+    },
+    {
+      "id": 11282173,
+      "name": "Tarfaya Province",
+      "nativeName": "Tarfaya",
+      "code": "MA-11-11282173",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-11",
+      "latitude": 27.93901,
+      "longitude": -12.92082
+    }
+  ]
+}

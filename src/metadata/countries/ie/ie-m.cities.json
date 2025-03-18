@@ -1,0 +1,84 @@
+{
+  "stateId": 7521315,
+  "stateCode": "IE-M",
+  "countryCode": "IE",
+  "cities": [
+    {
+      "id": 2965479,
+      "name": "Co Clare",
+      "nativeName": "Clare",
+      "code": "IE-M-2965479",
+      "countryId": 2963597,
+      "countryCode": "IE",
+      "stateCode": "IE-M",
+      "latitude": 52.83333,
+      "longitude": -9
+    },
+    {
+      "id": 2963517,
+      "name": "Co Kerry",
+      "nativeName": "Kerry",
+      "code": "IE-M-2963517",
+      "countryId": 2963597,
+      "countryCode": "IE",
+      "stateCode": "IE-M",
+      "latitude": 52.16667,
+      "longitude": -9.75
+    },
+    {
+      "id": 2965139,
+      "name": "Cork",
+      "nativeName": "County Cork",
+      "code": "IE-M-2965139",
+      "countryId": 2963597,
+      "countryCode": "IE",
+      "stateCode": "IE-M",
+      "latitude": 51.96667,
+      "longitude": -8.58333
+    },
+    {
+      "id": 7778678,
+      "name": "Cork City",
+      "nativeName": "Cork City",
+      "code": "IE-M-7778678",
+      "countryId": 2963597,
+      "countryCode": "IE",
+      "stateCode": "IE-M",
+      "latitude": 51.89755,
+      "longitude": -8.46773
+    },
+    {
+      "id": 2961191,
+      "name": "County Tipperary",
+      "nativeName": "County Tipperary",
+      "code": "IE-M-2961191",
+      "countryId": 2963597,
+      "countryCode": "IE",
+      "stateCode": "IE-M",
+      "latitude": 52.66667,
+      "longitude": -7.83333
+    },
+    {
+      "id": 11611445,
+      "name": "Limerick",
+      "nativeName": "Limerick City and County Council",
+      "code": "IE-M-11611445",
+      "countryId": 2963597,
+      "countryCode": "IE",
+      "stateCode": "IE-M",
+      "latitude": 52.6464,
+      "longitude": -8.63663
+    },
+    {
+      "id": 11611446,
+      "name": "Waterford",
+      "nativeName": "County Waterford",
+      "code": "IE-M-11611446",
+      "countryId": 2963597,
+      "countryCode": "IE",
+      "stateCode": "IE-M",
+      "latitude": 52.23999,
+      "longitude": -7.14386
+    }
+  ]
+}

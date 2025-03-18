@@ -1,0 +1,50 @@
+{
+  "countryId": 290291,
+  "countryCode": "BH",
+  "states": [
+    {
+      "id": 7090954,
+      "name": "Manama",
+      "nativeName": "Capital Governorate",
+      "code": "BH-13",
+      "internalCode": "13",
+      "countryId": 290291,
+      "countryCode": "BH",
+      "latitude": 26.21667,
+      "longitude": 50.58333
+    },
+    {
+      "id": 290333,
+      "name": "Muharraq",
+      "nativeName": "Muharraq Governorate",
+      "code": "BH-15",
+      "internalCode": "15",
+      "countryId": 290291,
+      "countryCode": "BH",
+      "latitude": 26.25,
+      "longitude": 50.61667
+    },
+    {
+      "id": 7090974,
+      "name": "Northern Governorate",
+      "nativeName": "Northern Governorate",
+      "code": "BH-17",
+      "internalCode": "17",
+      "countryId": 290291,
+      "countryCode": "BH",
+      "latitude": 26.15,
+      "longitude": 50.46667
+    },
+    {
+      "id": 7090972,
+      "name": "Southern Governorate",
+      "nativeName": "Southern Governorate",
+      "code": "BH-14",
+      "internalCode": "14",
+      "countryId": 290291,
+      "countryCode": "BH",
+      "latitude": 25.86667,
+      "longitude": 50.58333
+    }
+  ]
+}

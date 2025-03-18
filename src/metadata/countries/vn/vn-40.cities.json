@@ -1,0 +1,117 @@
+{
+  "stateId": 1581882,
+  "stateCode": "VN-40",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 1905565,
+      "name": "Bắc Bình District",
+      "nativeName": "Huyện Bắc Bình",
+      "code": "VN-40-1905565",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-40",
+      "latitude": 11.27571,
+      "longitude": 108.38506
+    },
+    {
+      "id": 1905570,
+      "name": "Huyện Phú Quý",
+      "nativeName": "Huyện Phú Quý",
+      "code": "VN-40-1905570",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-40",
+      "latitude": 10.52933,
+      "longitude": 108.94376
+    },
+    {
+      "id": 1905564,
+      "name": "Hàm Thuận Bắc District",
+      "nativeName": "Huyện Hàm Thuận Bắc",
+      "code": "VN-40-1905564",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-40",
+      "latitude": 11.14703,
+      "longitude": 108.08172
+    },
+    {
+      "id": 1905563,
+      "name": "Hàm Thuận Nam District",
+      "nativeName": "Huyện Hàm Thuận Nam",
+      "code": "VN-40-1905563",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-40",
+      "latitude": 10.92101,
+      "longitude": 107.93325
+    },
+    {
+      "id": 1905567,
+      "name": "Hàm Tân District",
+      "nativeName": "Huyện Hàm Tân",
+      "code": "VN-40-1905567",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-40",
+      "latitude": 10.76856,
+      "longitude": 107.64233
+    },
+    {
+      "id": 1905562,
+      "name": "Thành Phố Phan Thiết",
+      "nativeName": "Thành Phố Phan Thiết",
+      "code": "VN-40-1905562",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-40",
+      "latitude": 10.937,
+      "longitude": 108.15778
+    },
+    {
+      "id": 8998373,
+      "name": "Thị Xã La Gi",
+      "nativeName": "Thị Xã La Gi",
+      "code": "VN-40-8998373",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-40",
+      "latitude": 10.72311,
+      "longitude": 107.78911
+    },
+    {
+      "id": 1905566,
+      "name": "Tuy Phong District",
+      "nativeName": "Huyện Tuy Phong",
+      "code": "VN-40-1905566",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-40",
+      "latitude": 11.34746,
+      "longitude": 108.70466
+    },
+    {
+      "id": 1905568,
+      "name": "Tánh Linh District",
+      "nativeName": "Huyện Tánh Linh",
+      "code": "VN-40-1905568",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-40",
+      "latitude": 11.11367,
+      "longitude": 107.68427
+    },
+    {
+      "id": 1905569,
+      "name": "Đức Linh District",
+      "nativeName": "Huyện Đức Linh",
+      "code": "VN-40-1905569",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-40",
+      "latitude": 11.17774,
+      "longitude": 107.53015
+    }
+  ]
+}

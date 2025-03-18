@@ -1,0 +1,84 @@
+{
+  "stateId": 214138,
+  "stateCode": "CD-KE",
+  "countryCode": "CD",
+  "cities": [
+    {
+      "id": 12278060,
+      "name": "Kabeya-Kamwanga",
+      "nativeName": "Kabeya-Kamwanga",
+      "code": "CD-KE-12278060",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-KE",
+      "latitude": -5.96558,
+      "longitude": 23.17809
+    },
+    {
+      "id": 12278072,
+      "name": "Katanda",
+      "nativeName": "Katanda",
+      "code": "CD-KE-12278072",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-KE",
+      "latitude": -6.08977,
+      "longitude": 23.892
+    },
+    {
+      "id": 12278140,
+      "name": "Lukalaba",
+      "nativeName": "Lukalaba",
+      "code": "CD-KE-12278140",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-KE",
+      "latitude": -6.48232,
+      "longitude": 23.65598
+    },
+    {
+      "id": 12278109,
+      "name": "Lupatapata",
+      "nativeName": "Lupatapata",
+      "code": "CD-KE-12278109",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-KE",
+      "latitude": -5.97527,
+      "longitude": 23.55786
+    },
+    {
+      "id": 209226,
+      "name": "Mbuji-Mayi City",
+      "nativeName": "Mbuji-Mayi City",
+      "code": "CD-KE-209226",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-KE",
+      "latitude": -6.15,
+      "longitude": 23.6
+    },
+    {
+      "id": 12278170,
+      "name": "Miabi",
+      "nativeName": "Miabi",
+      "code": "CD-KE-12278170",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-KE",
+      "latitude": -6.32974,
+      "longitude": 23.29673
+    },
+    {
+      "id": 12278156,
+      "name": "Tshilenge",
+      "nativeName": "Tshilenge",
+      "code": "CD-KE-12278156",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-KE",
+      "latitude": -6.48049,
+      "longitude": 23.63915
+    }
+  ]
+}

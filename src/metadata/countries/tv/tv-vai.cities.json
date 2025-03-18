@@ -1,0 +1,51 @@
+{
+  "stateId": 7601981,
+  "stateCode": "TV-VAI",
+  "countryCode": "TV",
+  "cities": [
+    {
+      "id": 2110415,
+      "name": "Asau Village",
+      "nativeName": "Asau Village",
+      "code": "TV-VAI-2110415",
+      "countryId": 2110297,
+      "countryCode": "TV",
+      "stateCode": "TV-VAI",
+      "latitude": -7.49026,
+      "longitude": 178.68016
+    },
+    {
+      "id": 7602271,
+      "name": "Motufoua School",
+      "nativeName": "Motufoua School",
+      "code": "TV-VAI-7602271",
+      "countryId": 2110297,
+      "countryCode": "TV",
+      "stateCode": "TV-VAI",
+      "latitude": -7.48996,
+      "longitude": 178.69256
+    },
+    {
+      "id": 2110349,
+      "name": "Temotu Village",
+      "nativeName": "Temotu Village",
+      "code": "TV-VAI-2110349",
+      "countryId": 2110297,
+      "countryCode": "TV",
+      "stateCode": "TV-VAI",
+      "latitude": -7.46168,
+      "longitude": 178.66748
+    },
+    {
+      "id": 2110292,
+      "name": "Tumaseu Village",
+      "nativeName": "Tumaseu Village",
+      "code": "TV-VAI-2110292",
+      "countryId": 2110297,
+      "countryCode": "TV",
+      "stateCode": "TV-VAI",
+      "latitude": -7.48784,
+      "longitude": 178.67942
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "stateId": 7521421,
+  "stateCode": "YT-97601",
+  "countryCode": "YT",
+  "cities": [
+    {
+      "id": 922015,
+      "name": "Acoua",
+      "nativeName": "Acoua",
+      "code": "YT-97601-922015",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97601",
+      "latitude": -12.72391,
+      "longitude": 45.05819
+    },
+    {
+      "id": 1090134,
+      "name": "Mtsangadoua",
+      "nativeName": "Mtsangadoua",
+      "code": "YT-97601-1090134",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97601",
+      "latitude": -12.71112,
+      "longitude": 45.05118
+    }
+  ]
+}

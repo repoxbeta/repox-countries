@@ -1,0 +1,29 @@
+{
+  "stateId": 6417215,
+  "stateCode": "GG-6417215",
+  "countryCode": "GG",
+  "cities": [
+    {
+      "id": 6424194,
+      "name": "St. Saviour",
+      "nativeName": "Saint Saviour",
+      "code": "GG-6417215-6424194",
+      "countryId": 3042362,
+      "countryCode": "GG",
+      "stateCode": "GG-6417215",
+      "latitude": 49.45694,
+      "longitude": -2.63583
+    },
+    {
+      "id": 6421907,
+      "name": "Les Rouvets",
+      "nativeName": "Les Rouvets",
+      "code": "GG-6417215-6421907",
+      "countryId": 3042362,
+      "countryCode": "GG",
+      "stateCode": "GG-6417215",
+      "latitude": 49.48084,
+      "longitude": -2.56501
+    }
+  ]
+}

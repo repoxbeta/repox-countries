@@ -1,0 +1,73 @@
+{
+  "stateId": 830685,
+  "stateCode": "FI-08",
+  "countryCode": "FI",
+  "cities": [
+    {
+      "id": 9610655,
+      "name": "Joutsa",
+      "nativeName": "Joutsa",
+      "code": "FI-08-9610655",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-08",
+      "latitude": 61.80583,
+      "longitude": 26.06793
+    },
+    {
+      "id": 9610654,
+      "name": "Jyväskylä",
+      "nativeName": "Jyväskylä",
+      "code": "FI-08-9610654",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-08",
+      "latitude": 62.27185,
+      "longitude": 25.81903
+    },
+    {
+      "id": 9610658,
+      "name": "Jämsä",
+      "nativeName": "Jämsä",
+      "code": "FI-08-9610658",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-08",
+      "latitude": 61.81793,
+      "longitude": 25.08038
+    },
+    {
+      "id": 9610657,
+      "name": "Keuruu",
+      "nativeName": "Keuruu",
+      "code": "FI-08-9610657",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-08",
+      "latitude": 62.33721,
+      "longitude": 24.66969
+    },
+    {
+      "id": 9610660,
+      "name": "Saarijärvi-Viitasaari",
+      "nativeName": "Saarijärvi-Viitasaari",
+      "code": "FI-08-9610660",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-08",
+      "latitude": 63.04126,
+      "longitude": 25.30067
+    },
+    {
+      "id": 9610659,
+      "name": "Äänekoski",
+      "nativeName": "Äänekoski",
+      "code": "FI-08-9610659",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-08",
+      "latitude": 62.6785,
+      "longitude": 26.01072
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "stateId": 2503765,
+  "stateCode": "DZ-09",
+  "countryCode": "DZ",
+  "cities": [
+    {
+      "id": 2503767,
+      "name": "Blida District",
+      "nativeName": "Daïra de Blida",
+      "code": "DZ-09-2503767",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-09",
+      "latitude": 36.48052,
+      "longitude": 2.81509
+    },
+    {
+      "id": 12952470,
+      "name": "Boufarik",
+      "nativeName": "Boufarik",
+      "code": "DZ-09-12952470",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-09",
+      "latitude": 36.54695,
+      "longitude": 2.91381
+    },
+    {
+      "id": 12952611,
+      "name": "Bougara",
+      "nativeName": "Bougara",
+      "code": "DZ-09-12952611",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-09",
+      "latitude": 36.45997,
+      "longitude": 3.06349
+    },
+    {
+      "id": 12952472,
+      "name": "Bouinan",
+      "nativeName": "Bouinan",
+      "code": "DZ-09-12952472",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-09",
+      "latitude": 36.53938,
+      "longitude": 3.00564
+    },
+    {
+      "id": 12952610,
+      "name": "El Affroun",
+      "nativeName": "El Affroun",
+      "code": "DZ-09-12952610",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-09",
+      "latitude": 36.43426,
+      "longitude": 2.58079
+    },
+    {
+      "id": 12952612,
+      "name": "Larbaa",
+      "nativeName": "Larbaa",
+      "code": "DZ-09-12952612",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-09",
+      "latitude": 36.55688,
+      "longitude": 3.20361
+    },
+    {
+      "id": 12952613,
+      "name": "Meftah",
+      "nativeName": "Meftah",
+      "code": "DZ-09-12952613",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-09",
+      "latitude": 36.61101,
+      "longitude": 3.24028
+    },
+    {
+      "id": 12952614,
+      "name": "Mouzaia",
+      "nativeName": "Mouzaia",
+      "code": "DZ-09-12952614",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-09",
+      "latitude": 36.44245,
+      "longitude": 2.68514
+    },
+    {
+      "id": 12952615,
+      "name": "Oued El Alleug",
+      "nativeName": "Oued El Alleug",
+      "code": "DZ-09-12952615",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-09",
+      "latitude": 36.56888,
+      "longitude": 2.80942
+    },
+    {
+      "id": 12952616,
+      "name": "Ouled Yaich",
+      "nativeName": "Ouled Yaich",
+      "code": "DZ-09-12952616",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-09",
+      "latitude": 36.45769,
+      "longitude": 2.88581
+    }
+  ]
+}

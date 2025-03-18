@@ -1,0 +1,62 @@
+{
+  "stateId": 828307,
+  "stateCode": "AZ-YE",
+  "countryCode": "AZ",
+  "cities": [
+    {
+      "id": 584649,
+      "name": "Yevlakh",
+      "nativeName": "Yevlakh",
+      "code": "AZ-YE-584649",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-YE",
+      "latitude": 40.61832,
+      "longitude": 47.15014
+    },
+    {
+      "id": 800823,
+      "name": "Danalar",
+      "nativeName": "Danalar",
+      "code": "AZ-YE-800823",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-YE",
+      "latitude": 40.50528,
+      "longitude": 47.0775
+    },
+    {
+      "id": 800822,
+      "name": "Dzhafarly",
+      "nativeName": "Dzhafarly",
+      "code": "AZ-YE-800822",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-YE",
+      "latitude": 40.51389,
+      "longitude": 47.05278
+    },
+    {
+      "id": 800828,
+      "name": "Pederly",
+      "nativeName": "Pederly",
+      "code": "AZ-YE-800828",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-YE",
+      "latitude": 40.48222,
+      "longitude": 46.99694
+    },
+    {
+      "id": 585181,
+      "name": "Sadafli",
+      "nativeName": "Sadafli",
+      "code": "AZ-YE-585181",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-YE",
+      "latitude": 40.51667,
+      "longitude": 47.03333
+    }
+  ]
+}

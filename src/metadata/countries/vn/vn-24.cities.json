@@ -1,0 +1,95 @@
+{
+  "stateId": 1568839,
+  "stateCode": "VN-24",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 1905261,
+      "name": "Bố Trạch District",
+      "nativeName": "Huyện Bố Trạch",
+      "code": "VN-24-1905261",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-24",
+      "latitude": 17.53558,
+      "longitude": 106.28304
+    },
+    {
+      "id": 1905265,
+      "name": "Huyện Minh Hóa",
+      "nativeName": "Huyện Minh Hóa",
+      "code": "VN-24-1905265",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-24",
+      "latitude": 17.77762,
+      "longitude": 105.8806
+    },
+    {
+      "id": 1905259,
+      "name": "Lệ Thủy District",
+      "nativeName": "Huyện Lệ Thủy",
+      "code": "VN-24-1905259",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-24",
+      "latitude": 17.11239,
+      "longitude": 106.70471
+    },
+    {
+      "id": 1905260,
+      "name": "Quảng Ninh District",
+      "nativeName": "Huyện Quảng Ninh",
+      "code": "VN-24-1905260",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-24",
+      "latitude": 17.25272,
+      "longitude": 106.51751
+    },
+    {
+      "id": 1905262,
+      "name": "Quảng Trạch District",
+      "nativeName": "Huyện Quảng Trạch",
+      "code": "VN-24-1905262",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-24",
+      "latitude": 17.8729,
+      "longitude": 106.37681
+    },
+    {
+      "id": 1905258,
+      "name": "Thành Phố Đồng Hới",
+      "nativeName": "Thành Phố Đồng Hới",
+      "code": "VN-24-1905258",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-24",
+      "latitude": 17.44677,
+      "longitude": 106.57712
+    },
+    {
+      "id": 11497488,
+      "name": "Thị xã Ba Đồn",
+      "nativeName": "Thị xã Ba Đồn",
+      "code": "VN-24-11497488",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-24",
+      "latitude": 17.73595,
+      "longitude": 106.3846
+    },
+    {
+      "id": 1905264,
+      "name": "Tuyên Hóa District",
+      "nativeName": "Huyện Tuyên Hóa",
+      "code": "VN-24-1905264",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-24",
+      "latitude": 17.91323,
+      "longitude": 106.02678
+    }
+  ]
+}

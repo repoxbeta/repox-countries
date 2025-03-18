@@ -1,0 +1,29 @@
+{
+  "stateId": 7303517,
+  "stateCode": "MH-WTH",
+  "countryCode": "MH",
+  "cities": [
+    {
+      "id": 7306529,
+      "name": "Wotho",
+      "nativeName": "Wotho",
+      "code": "MH-WTH-7306529",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-WTH",
+      "latitude": 10.16575,
+      "longitude": 166.01022
+    },
+    {
+      "id": 2080555,
+      "name": "Wotho",
+      "nativeName": "Wotho",
+      "code": "MH-WTH-2080555",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-WTH",
+      "latitude": 10.16715,
+      "longitude": 166.00913
+    }
+  ]
+}

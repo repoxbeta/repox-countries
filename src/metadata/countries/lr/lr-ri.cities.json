@@ -1,0 +1,117 @@
+{
+  "stateId": 2588492,
+  "stateCode": "LR-RI",
+  "countryCode": "LR",
+  "cities": [
+    {
+      "id": 9645150,
+      "name": "Beawor District",
+      "nativeName": "Beawor District",
+      "code": "LR-RI-9645150",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-RI",
+      "latitude": 5.57346,
+      "longitude": -9.31309
+    },
+    {
+      "id": 9645147,
+      "name": "Central River Cess District",
+      "nativeName": "Central River Cess District",
+      "code": "LR-RI-9645147",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-RI",
+      "latitude": 5.81006,
+      "longitude": -9.31794
+    },
+    {
+      "id": 9645144,
+      "name": "Doedain District",
+      "nativeName": "Doedain District",
+      "code": "LR-RI-9645144",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-RI",
+      "latitude": 6.26194,
+      "longitude": -9.24521
+    },
+    {
+      "id": 9645148,
+      "name": "Fen River District",
+      "nativeName": "Fen River District",
+      "code": "LR-RI-9645148",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-RI",
+      "latitude": 5.61806,
+      "longitude": -9.64473
+    },
+    {
+      "id": 9645145,
+      "name": "Jo River District",
+      "nativeName": "Jo River District",
+      "code": "LR-RI-9645145",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-RI",
+      "latitude": 6.04958,
+      "longitude": -9.4537
+    },
+    {
+      "id": 2277365,
+      "name": "Mowe",
+      "nativeName": "Mowe",
+      "code": "LR-RI-2277365",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-RI",
+      "latitude": 5.91667,
+      "longitude": -9.41667
+    },
+    {
+      "id": 9645146,
+      "name": "Norwein District",
+      "nativeName": "Norwein District",
+      "code": "LR-RI-9645146",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-RI",
+      "latitude": 5.85079,
+      "longitude": -9.59915
+    },
+    {
+      "id": 2274273,
+      "name": "Rock Cess",
+      "nativeName": "Rock Cess",
+      "code": "LR-RI-2274273",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-RI",
+      "latitude": 5.55,
+      "longitude": -9.66667
+    },
+    {
+      "id": 9645151,
+      "name": "Sam Gbalor District",
+      "nativeName": "Sam Gbalor District",
+      "code": "LR-RI-9645151",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-RI",
+      "latitude": 5.40861,
+      "longitude": -9.4217
+    },
+    {
+      "id": 9645149,
+      "name": "Zarflahn District",
+      "nativeName": "Zarflahn District",
+      "code": "LR-RI-9645149",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-RI",
+      "latitude": 5.55697,
+      "longitude": -9.55358
+    }
+  ]
+}

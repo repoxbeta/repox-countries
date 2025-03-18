@@ -1,0 +1,227 @@
+{
+  "stateId": 1484838,
+  "stateCode": "UZ-TO",
+  "countryCode": "UZ",
+  "cities": [
+    {
+      "id": 1538257,
+      "name": "Angren Shahri",
+      "nativeName": "Angren Shahri",
+      "code": "UZ-TO-1538257",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-TO",
+      "latitude": 41.01667,
+      "longitude": 70.14361
+    },
+    {
+      "id": 1538259,
+      "name": "Bekobod Shahri",
+      "nativeName": "Bekobod Shahri",
+      "code": "UZ-TO-1538259",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-TO",
+      "latitude": 40.21583,
+      "longitude": 69.25139
+    },
+    {
+      "id": 1514399,
+      "name": "Bekobod Tumani",
+      "nativeName": "Bekobod Tumani",
+      "code": "UZ-TO-1514399",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-TO",
+      "latitude": 40.41667,
+      "longitude": 69.16667
+    },
+    {
+      "id": 1514327,
+      "name": "Bŭka Tumani",
+      "nativeName": "Bŭka Tumani",
+      "code": "UZ-TO-1514327",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-TO",
+      "latitude": 40.75,
+      "longitude": 69.16667
+    },
+    {
+      "id": 1514338,
+      "name": "Bŭstonliq Tumani",
+      "nativeName": "Bŭstonliq Tumani",
+      "code": "UZ-TO-1514338",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-TO",
+      "latitude": 41.66667,
+      "longitude": 70
+    },
+    {
+      "id": 1514214,
+      "name": "Chinoz Tumani",
+      "nativeName": "Chinoz Tumani",
+      "code": "UZ-TO-1514214",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-TO",
+      "latitude": 41,
+      "longitude": 68.83333
+    },
+    {
+      "id": 1538260,
+      "name": "Chirchiq Shahri",
+      "nativeName": "Chirchiq Shahri",
+      "code": "UZ-TO-1538260",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-TO",
+      "latitude": 41.46889,
+      "longitude": 69.58222
+    },
+    {
+      "id": 1538258,
+      "name": "Ohangaron Shahri",
+      "nativeName": "Ohangaron Shahri",
+      "code": "UZ-TO-1538258",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-TO",
+      "latitude": 40.90639,
+      "longitude": 69.63833
+    },
+    {
+      "id": 1514687,
+      "name": "Ohangaron Tumani",
+      "nativeName": "Ohangaron Tumani",
+      "code": "UZ-TO-1514687",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-TO",
+      "latitude": 41,
+      "longitude": 70
+    },
+    {
+      "id": 1538256,
+      "name": "Olmaliq Shahri",
+      "nativeName": "Olmaliq Shahri",
+      "code": "UZ-TO-1538256",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-TO",
+      "latitude": 40.84472,
+      "longitude": 69.59833
+    },
+    {
+      "id": 1514667,
+      "name": "Oqqŭrghon Tumani",
+      "nativeName": "Oqqŭrghon Tumani",
+      "code": "UZ-TO-1514667",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-TO",
+      "latitude": 40.9,
+      "longitude": 69.08333
+    },
+    {
+      "id": 1513016,
+      "name": "Parkent Tumani",
+      "nativeName": "Parkent Tumani",
+      "code": "UZ-TO-1513016",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-TO",
+      "latitude": 41.3,
+      "longitude": 69.66667
+    },
+    {
+      "id": 1512985,
+      "name": "Piskent District",
+      "nativeName": "Piskent Tumani",
+      "code": "UZ-TO-1512985",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-TO",
+      "latitude": 40.83333,
+      "longitude": 69.5
+    },
+    {
+      "id": 1513057,
+      "name": "Qibray Tumani",
+      "nativeName": "Qibray Tumani",
+      "code": "UZ-TO-1513057",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-TO",
+      "latitude": 41.5,
+      "longitude": 69.5
+    },
+    {
+      "id": 1514010,
+      "name": "Quyi Chirchiq Tumani",
+      "nativeName": "Quyi Chirchiq Tumani",
+      "code": "UZ-TO-1514010",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-TO",
+      "latitude": 40.91667,
+      "longitude": 69
+    },
+    {
+      "id": 1512652,
+      "name": "Toshkent Tumani",
+      "nativeName": "Toshkent Tumani",
+      "code": "UZ-TO-1512652",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-TO",
+      "latitude": 41.4,
+      "longitude": 69.2
+    },
+    {
+      "id": 1538261,
+      "name": "Yangiobod Shahri",
+      "nativeName": "Yangiobod Shahri",
+      "code": "UZ-TO-1538261",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-TO",
+      "latitude": 41.12778,
+      "longitude": 70.10778
+    },
+    {
+      "id": 1513498,
+      "name": "Yuqori Chirchiq Tumani",
+      "nativeName": "Yuqori Chirchiq Tumani",
+      "code": "UZ-TO-1513498",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-TO",
+      "latitude": 41.25,
+      "longitude": 69.5
+    },
+    {
+      "id": 1513860,
+      "name": "Zangiota Tumani",
+      "nativeName": "Zangiota Tumani",
+      "code": "UZ-TO-1513860",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-TO",
+      "latitude": 41.25,
+      "longitude": 69.08333
+    },
+    {
+      "id": 1512751,
+      "name": "Ŭrta Chirchiq Tumani",
+      "nativeName": "Ŭrta Chirchiq Tumani",
+      "code": "UZ-TO-1512751",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-TO",
+      "latitude": 41.08333,
+      "longitude": 69.33333
+    }
+  ]
+}

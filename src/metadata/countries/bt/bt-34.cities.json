@@ -1,0 +1,51 @@
+{
+  "stateId": 1337291,
+  "stateCode": "BT-34",
+  "countryCode": "BT",
+  "cities": [
+    {
+      "id": 7647122,
+      "name": "Bardo",
+      "nativeName": "Bardo",
+      "code": "BT-34-7647122",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-34",
+      "latitude": 27.07292,
+      "longitude": 90.99064
+    },
+    {
+      "id": 7647118,
+      "name": "Goshing",
+      "nativeName": "Goshing",
+      "code": "BT-34-7647118",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-34",
+      "latitude": 26.96509,
+      "longitude": 90.91624
+    },
+    {
+      "id": 7647112,
+      "name": "Nangkor",
+      "nativeName": "Nangkor",
+      "code": "BT-34-7647112",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-34",
+      "latitude": 27.20107,
+      "longitude": 90.80763
+    },
+    {
+      "id": 7647813,
+      "name": "Trong",
+      "nativeName": "Trong",
+      "code": "BT-34-7647813",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-34",
+      "latitude": 27.10936,
+      "longitude": 90.67809
+    }
+  ]
+}

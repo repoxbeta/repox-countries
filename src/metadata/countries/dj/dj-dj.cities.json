@@ -1,0 +1,73 @@
+{
+  "stateId": 223818,
+  "stateCode": "DJ-DJ",
+  "countryCode": "DJ",
+  "cities": [
+    {
+      "id": 223817,
+      "name": "Djibouti",
+      "nativeName": "Djibouti",
+      "code": "DJ-DJ-223817",
+      "countryId": 223816,
+      "countryCode": "DJ",
+      "stateCode": "DJ-DJ",
+      "latitude": 11.58901,
+      "longitude": 43.14503
+    },
+    {
+      "id": 222570,
+      "name": "Ambouli",
+      "nativeName": "Ambouli",
+      "code": "DJ-DJ-222570",
+      "countryId": 223816,
+      "countryCode": "DJ",
+      "stateCode": "DJ-DJ",
+      "latitude": 11.56944,
+      "longitude": 43.13667
+    },
+    {
+      "id": 7648070,
+      "name": "Balbala",
+      "nativeName": "Balbala",
+      "code": "DJ-DJ-7648070",
+      "countryId": 223816,
+      "countryCode": "DJ",
+      "stateCode": "DJ-DJ",
+      "latitude": 11.56194,
+      "longitude": 43.10666
+    },
+    {
+      "id": 404197,
+      "name": "Damêrdjôg",
+      "nativeName": "Damêrdjôg",
+      "code": "DJ-DJ-404197",
+      "countryId": 223816,
+      "countryCode": "DJ",
+      "stateCode": "DJ-DJ",
+      "latitude": 11.48556,
+      "longitude": 43.18722
+    },
+    {
+      "id": 221915,
+      "name": "Loyada",
+      "nativeName": "Loyada",
+      "code": "DJ-DJ-221915",
+      "countryId": 223816,
+      "countryCode": "DJ",
+      "stateCode": "DJ-DJ",
+      "latitude": 11.46111,
+      "longitude": 43.25278
+    },
+    {
+      "id": 220604,
+      "name": "Ouê‘a",
+      "nativeName": "Ouê‘a",
+      "code": "DJ-DJ-220604",
+      "countryId": 223816,
+      "countryCode": "DJ",
+      "stateCode": "DJ-DJ",
+      "latitude": 11.50306,
+      "longitude": 42.85528
+    }
+  ]
+}

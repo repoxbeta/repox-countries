@@ -1,0 +1,282 @@
+{
+  "stateId": 2748838,
+  "stateCode": "NL-OV",
+  "countryCode": "NL",
+  "cities": [
+    {
+      "id": 2759886,
+      "name": "Almelo Municipality",
+      "nativeName": "Gemeente Almelo",
+      "code": "NL-OV-2759886",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-OV",
+      "latitude": 52.34463,
+      "longitude": 6.65942
+    },
+    {
+      "id": 2758597,
+      "name": "Borne Municipality",
+      "nativeName": "Gemeente Borne",
+      "code": "NL-OV-2758597",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-OV",
+      "latitude": 52.3112,
+      "longitude": 6.74404
+    },
+    {
+      "id": 2757849,
+      "name": "Dalfsen Municipality",
+      "nativeName": "Gemeente Dalfsen",
+      "code": "NL-OV-2757849",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-OV",
+      "latitude": 52.52461,
+      "longitude": 6.27214
+    },
+    {
+      "id": 2756986,
+      "name": "Deventer Municipality",
+      "nativeName": "Gemeente Deventer",
+      "code": "NL-OV-2756986",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-OV",
+      "latitude": 52.26927,
+      "longitude": 6.23795
+    },
+    {
+      "id": 2756070,
+      "name": "Enschede Municipality",
+      "nativeName": "Gemeente Enschede",
+      "code": "NL-OV-2756070",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-OV",
+      "latitude": 52.21909,
+      "longitude": 6.88041
+    },
+    {
+      "id": 6544285,
+      "name": "Gemeente Dinkelland",
+      "nativeName": "Gemeente Dinkelland",
+      "code": "NL-OV-6544285",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-OV",
+      "latitude": 52.37108,
+      "longitude": 6.89294
+    },
+    {
+      "id": 2755031,
+      "name": "Gemeente Haaksbergen",
+      "nativeName": "Gemeente Haaksbergen",
+      "code": "NL-OV-2755031",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-OV",
+      "latitude": 52.15514,
+      "longitude": 6.75404
+    },
+    {
+      "id": 2754858,
+      "name": "Gemeente Hardenberg",
+      "nativeName": "Gemeente Hardenberg",
+      "code": "NL-OV-2754858",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-OV",
+      "latitude": 52.59312,
+      "longitude": 6.53476
+    },
+    {
+      "id": 6544289,
+      "name": "Gemeente Hof van Twente",
+      "nativeName": "Gemeente Hof van Twente",
+      "code": "NL-OV-6544289",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-OV",
+      "latitude": 52.24341,
+      "longitude": 6.59749
+    },
+    {
+      "id": 2753104,
+      "name": "Gemeente Kampen",
+      "nativeName": "Gemeente Kampen",
+      "code": "NL-OV-2753104",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-OV",
+      "latitude": 52.56181,
+      "longitude": 5.91535
+    },
+    {
+      "id": 6544248,
+      "name": "Gemeente Olst-Wijhe",
+      "nativeName": "Gemeente Olst-Wijhe",
+      "code": "NL-OV-6544248",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-OV",
+      "latitude": 52.35734,
+      "longitude": 6.13481
+    },
+    {
+      "id": 6544230,
+      "name": "Gemeente Rijssen-Holten",
+      "nativeName": "Gemeente Rijssen-Holten",
+      "code": "NL-OV-6544230",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-OV",
+      "latitude": 52.29,
+      "longitude": 6.42515
+    },
+    {
+      "id": 6544235,
+      "name": "Gemeente Steenwijkerland",
+      "nativeName": "Gemeente Steenwijkerland",
+      "code": "NL-OV-6544235",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-OV",
+      "latitude": 52.75587,
+      "longitude": 6.04028
+    },
+    {
+      "id": 6544245,
+      "name": "Gemeente Twenterand",
+      "nativeName": "Gemeente Twenterand",
+      "code": "NL-OV-6544245",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-OV",
+      "latitude": 52.44974,
+      "longitude": 6.56122
+    },
+    {
+      "id": 2744548,
+      "name": "Gemeente Wierden",
+      "nativeName": "Gemeente Wierden",
+      "code": "NL-OV-2744548",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-OV",
+      "latitude": 52.34247,
+      "longitude": 6.55795
+    },
+    {
+      "id": 6544260,
+      "name": "Gemeente Zwartewaterland",
+      "nativeName": "Gemeente Zwartewaterland",
+      "code": "NL-OV-6544260",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-OV",
+      "latitude": 52.6024,
+      "longitude": 6.07402
+    },
+    {
+      "id": 2743476,
+      "name": "Gemeente Zwolle",
+      "nativeName": "Gemeente Zwolle",
+      "code": "NL-OV-2743476",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-OV",
+      "latitude": 52.51264,
+      "longitude": 6.09359
+    },
+    {
+      "id": 2754456,
+      "name": "Hellendoorn Municipality",
+      "nativeName": "Gemeente Hellendoorn",
+      "code": "NL-OV-2754456",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-OV",
+      "latitude": 52.39022,
+      "longitude": 6.46434
+    },
+    {
+      "id": 2754392,
+      "name": "Hengelo Municipality",
+      "nativeName": "Gemeente Hengelo",
+      "code": "NL-OV-2754392",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-OV",
+      "latitude": 52.2591,
+      "longitude": 6.77876
+    },
+    {
+      "id": 2751423,
+      "name": "Losser Municipality",
+      "nativeName": "Gemeente Losser",
+      "code": "NL-OV-2751423",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-OV",
+      "latitude": 52.29819,
+      "longitude": 7.00106
+    },
+    {
+      "id": 2749643,
+      "name": "Oldenzaal Municipality",
+      "nativeName": "Gemeente Oldenzaal",
+      "code": "NL-OV-2749643",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-OV",
+      "latitude": 52.3075,
+      "longitude": 6.9075
+    },
+    {
+      "id": 2749611,
+      "name": "Ommen Municipality",
+      "nativeName": "Gemeente Ommen",
+      "code": "NL-OV-2749611",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-OV",
+      "latitude": 52.51659,
+      "longitude": 6.45631
+    },
+    {
+      "id": 2748370,
+      "name": "Raalte Municipality",
+      "nativeName": "Gemeente Raalte",
+      "code": "NL-OV-2748370",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-OV",
+      "latitude": 52.40299,
+      "longitude": 6.28773
+    },
+    {
+      "id": 2746837,
+      "name": "Staphorst Municipality",
+      "nativeName": "Gemeente Staphorst",
+      "code": "NL-OV-2746837",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-OV",
+      "latitude": 52.63241,
+      "longitude": 6.20737
+    },
+    {
+      "id": 2746132,
+      "name": "Tubbergen Municipality",
+      "nativeName": "Gemeente Tubbergen",
+      "code": "NL-OV-2746132",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-OV",
+      "latitude": 52.40451,
+      "longitude": 6.78241
+    }
+  ]
+}

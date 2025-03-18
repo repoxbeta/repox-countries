@@ -1,0 +1,40 @@
+{
+  "stateId": 591901,
+  "stateCode": "EE-50",
+  "countryCode": "EE",
+  "cities": [
+    {
+      "id": 7522284,
+      "name": "Jõgeva vald",
+      "nativeName": "Jõgeva vald",
+      "code": "EE-50-7522284",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-50",
+      "latitude": 58.78732,
+      "longitude": 26.38122
+    },
+    {
+      "id": 11776876,
+      "name": "Mustvee vald",
+      "nativeName": "Mustvee vald",
+      "code": "EE-50-11776876",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-50",
+      "latitude": 58.85613,
+      "longitude": 26.87444
+    },
+    {
+      "id": 7522384,
+      "name": "Põltsamaa vald",
+      "nativeName": "Põltsamaa vald",
+      "code": "EE-50-7522384",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-50",
+      "latitude": 58.64067,
+      "longitude": 26.00957
+    }
+  ]
+}

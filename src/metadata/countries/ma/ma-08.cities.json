@@ -1,0 +1,62 @@
+{
+  "stateId": 11281881,
+  "stateCode": "MA-08",
+  "countryCode": "MA",
+  "cities": [
+    {
+      "id": 2549340,
+      "name": "Errachidia Province",
+      "nativeName": "Errachidia",
+      "code": "MA-08-2549340",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-08",
+      "latitude": 31.75,
+      "longitude": -4.5
+    },
+    {
+      "id": 11282171,
+      "name": "Midelt Province",
+      "nativeName": "Midelt",
+      "code": "MA-08-11282171",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-08",
+      "latitude": 32.68055,
+      "longitude": -4.73691
+    },
+    {
+      "id": 2540846,
+      "name": "Ouarzazate Province",
+      "nativeName": "Ouarzazate",
+      "code": "MA-08-2540846",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-08",
+      "latitude": 30.9413,
+      "longitude": -6.90285
+    },
+    {
+      "id": 11281984,
+      "name": "Tinghir Province",
+      "nativeName": "Tinghir Province",
+      "code": "MA-08-11281984",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-08",
+      "latitude": 31.51965,
+      "longitude": -5.52999
+    },
+    {
+      "id": 6547302,
+      "name": "Zagora Province",
+      "nativeName": "Zagora",
+      "code": "MA-08-6547302",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-08",
+      "latitude": 30.34839,
+      "longitude": -5.83649
+    }
+  ]
+}

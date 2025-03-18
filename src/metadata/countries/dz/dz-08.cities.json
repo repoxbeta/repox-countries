@@ -1,0 +1,84 @@
+{
+  "stateId": 2505525,
+  "stateCode": "DZ-08",
+  "countryCode": "DZ",
+  "cities": [
+    {
+      "id": 12952593,
+      "name": "Abadla",
+      "nativeName": "Abadla",
+      "code": "DZ-08-12952593",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-08",
+      "latitude": 30.94634,
+      "longitude": -3.07031
+    },
+    {
+      "id": 12952595,
+      "name": "Beni Ounif",
+      "nativeName": "Beni Ounif",
+      "code": "DZ-08-12952595",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-08",
+      "latitude": 31.57051,
+      "longitude": -0.81435
+    },
+    {
+      "id": 2505528,
+      "name": "Daïra de Béchar",
+      "nativeName": "Daïra de Béchar",
+      "code": "DZ-08-2505528",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-08",
+      "latitude": 31.48331,
+      "longitude": -2.09549
+    },
+    {
+      "id": 12952438,
+      "name": "Kenadsa",
+      "nativeName": "Kenadsa",
+      "code": "DZ-08-12952438",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-08",
+      "latitude": 31.54441,
+      "longitude": -2.9324
+    },
+    {
+      "id": 12952548,
+      "name": "Lahmar",
+      "nativeName": "Lahmar",
+      "code": "DZ-08-12952548",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-08",
+      "latitude": 31.97081,
+      "longitude": -2.43662
+    },
+    {
+      "id": 12952555,
+      "name": "Tabelbala",
+      "nativeName": "Tabelbala",
+      "code": "DZ-08-12952555",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-08",
+      "latitude": 29.06479,
+      "longitude": -3.68391
+    },
+    {
+      "id": 12952575,
+      "name": "Taghit",
+      "nativeName": "Taghit",
+      "code": "DZ-08-12952575",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-08",
+      "latitude": 31.0692,
+      "longitude": -1.66986
+    }
+  ]
+}

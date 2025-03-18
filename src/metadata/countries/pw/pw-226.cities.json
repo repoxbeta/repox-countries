@@ -1,0 +1,73 @@
+{
+  "stateId": 4037976,
+  "stateCode": "PW-226",
+  "countryCode": "PW",
+  "cities": [
+    {
+      "id": 4036778,
+      "name": "Ngchesar Hamlet",
+      "nativeName": "Ngchesar Hamlet",
+      "code": "PW-226-4036778",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-226",
+      "latitude": 7.46932,
+      "longitude": 134.60991
+    },
+    {
+      "id": 7732825,
+      "name": "Ngeraus Hamlet",
+      "nativeName": "Ngeraus Hamlet",
+      "code": "PW-226-7732825",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-226",
+      "latitude": 7.47667,
+      "longitude": 134.61346
+    },
+    {
+      "id": 4038080,
+      "name": "Ngerkesou Hamlet",
+      "nativeName": "Ngerkesou Hamlet",
+      "code": "PW-226-4038080",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-226",
+      "latitude": 7.46363,
+      "longitude": 134.60478
+    },
+    {
+      "id": 1559670,
+      "name": "Ngerngesang Hamlet",
+      "nativeName": "Ngerngesang Hamlet",
+      "code": "PW-226-1559670",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-226",
+      "latitude": 7.45304,
+      "longitude": 134.60375
+    },
+    {
+      "id": 4038107,
+      "name": "Ngersuul Hamlet",
+      "nativeName": "Ngersuul Hamlet",
+      "code": "PW-226-4038107",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-226",
+      "latitude": 7.43479,
+      "longitude": 134.59495
+    },
+    {
+      "id": 1559645,
+      "name": "Ngeruikl Hamlet",
+      "nativeName": "Ngeruikl Hamlet",
+      "code": "PW-226-1559645",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-226",
+      "latitude": 7.48362,
+      "longitude": 134.61664
+    }
+  ]
+}

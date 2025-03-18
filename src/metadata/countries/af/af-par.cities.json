@@ -1,0 +1,117 @@
+{
+  "stateId": 1131054,
+  "stateCode": "AF-PAR",
+  "countryCode": "AF",
+  "cities": [
+    {
+      "id": 7054036,
+      "name": "Bagram District",
+      "nativeName": "Bagrām",
+      "code": "AF-PAR-7054036",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-PAR",
+      "latitude": 34.92395,
+      "longitude": 69.33069
+    },
+    {
+      "id": 7054037,
+      "name": "Chaharikar District",
+      "nativeName": "Chārīkār",
+      "code": "AF-PAR-7054037",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-PAR",
+      "latitude": 34.98819,
+      "longitude": 69.14204
+    },
+    {
+      "id": 7054044,
+      "name": "Ghorband District",
+      "nativeName": "Siyāhgird Ghōrband",
+      "code": "AF-PAR-7054044",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-PAR",
+      "latitude": 35.01039,
+      "longitude": 68.78769
+    },
+    {
+      "id": 7054038,
+      "name": "Jabal Saraj",
+      "nativeName": "Jabal us Sarāj",
+      "code": "AF-PAR-7054038",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-PAR",
+      "latitude": 35.11628,
+      "longitude": 69.18412
+    },
+    {
+      "id": 7054039,
+      "name": "Kohi Safi District",
+      "nativeName": "Kōh-e Şāfī",
+      "code": "AF-PAR-7054039",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-PAR",
+      "latitude": 34.76058,
+      "longitude": 69.47219
+    },
+    {
+      "id": 7054041,
+      "name": "Sayed Khel District",
+      "nativeName": "Sayyid Khēl",
+      "code": "AF-PAR-7054041",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-PAR",
+      "latitude": 35.04683,
+      "longitude": 69.26212
+    },
+    {
+      "id": 7054042,
+      "name": "Shekh Ali",
+      "nativeName": "Shaykh ‘Alī",
+      "code": "AF-PAR-7054042",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-PAR",
+      "latitude": 34.94679,
+      "longitude": 68.41889
+    },
+    {
+      "id": 7054043,
+      "name": "Shinwari District",
+      "nativeName": "Shīnwārī",
+      "code": "AF-PAR-7054043",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-PAR",
+      "latitude": 35.12035,
+      "longitude": 68.97081
+    },
+    {
+      "id": 7732339,
+      "name": "Surkhi Parsa",
+      "nativeName": "Surkhi Parsa",
+      "code": "AF-PAR-7732339",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-PAR",
+      "latitude": 34.76317,
+      "longitude": 68.57698
+    },
+    {
+      "id": 7054040,
+      "name": "Sālang",
+      "nativeName": "Sālang",
+      "code": "AF-PAR-7054040",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-PAR",
+      "latitude": 35.27692,
+      "longitude": 69.15131
+    }
+  ]
+}

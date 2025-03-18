@@ -1,0 +1,227 @@
+{
+  "stateId": 1523401,
+  "stateCode": "KZ-35",
+  "countryCode": "KZ",
+  "cities": [
+    {
+      "id": 1537267,
+      "name": "Abay Qalasy",
+      "nativeName": "Abay Qalasy",
+      "code": "KZ-35-1537267",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-35",
+      "latitude": 49.63333,
+      "longitude": 72.88333
+    },
+    {
+      "id": 1520952,
+      "name": "Abayskiy Rayon",
+      "nativeName": "Abayskiy Rayon",
+      "code": "KZ-35-1520952",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-35",
+      "latitude": 49.45745,
+      "longitude": 72.57607
+    },
+    {
+      "id": 1526940,
+      "name": "Agadyrskiy Rayon",
+      "nativeName": "Agadyrskiy Rayon",
+      "code": "KZ-35-1526940",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-35",
+      "latitude": 47.33333,
+      "longitude": 72.5
+    },
+    {
+      "id": 1526570,
+      "name": "Aktogayskiy Rayon",
+      "nativeName": "Aktogayskiy Rayon",
+      "code": "KZ-35-1526570",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-35",
+      "latitude": 47.83348,
+      "longitude": 75.67919
+    },
+    {
+      "id": 1537255,
+      "name": "Balkhash Gorodskaya Administratsiya",
+      "nativeName": "Balkhash Gorodskaya Administratsiya",
+      "code": "KZ-35-1537255",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-35",
+      "latitude": 46.97931,
+      "longitude": 75.01418
+    },
+    {
+      "id": 9072845,
+      "name": "Bukhar-Zhyrau District",
+      "nativeName": "Bukhar-Zhyrau",
+      "code": "KZ-35-9072845",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-35",
+      "latitude": 49.85658,
+      "longitude": 73.68118
+    },
+    {
+      "id": 1537266,
+      "name": "Karaganda Gorodskaya Administratsiya",
+      "nativeName": "Karaganda Gorodskaya Administratsiya",
+      "code": "KZ-35-1537266",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-35",
+      "latitude": 49.85282,
+      "longitude": 73.13589
+    },
+    {
+      "id": 1523004,
+      "name": "Karkaraly District",
+      "nativeName": "Karkaralinskiy Rayon",
+      "code": "KZ-35-1523004",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-35",
+      "latitude": 49.47293,
+      "longitude": 75.72171
+    },
+    {
+      "id": 1520873,
+      "name": "Molodezhnyy Aūdany",
+      "nativeName": "Molodezhnyy Aūdany",
+      "code": "KZ-35-1520873",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-35",
+      "latitude": 50.75,
+      "longitude": 73.75
+    },
+    {
+      "id": 1520497,
+      "name": "Nura District",
+      "nativeName": "Nurinskiy Rayon",
+      "code": "KZ-35-1520497",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-35",
+      "latitude": 49.59468,
+      "longitude": 69.90021
+    },
+    {
+      "id": 1520325,
+      "name": "Osakarovskiy Rayon",
+      "nativeName": "Osakarovskiy Rayon",
+      "code": "KZ-35-1520325",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-35",
+      "latitude": 50.59854,
+      "longitude": 73.00074
+    },
+    {
+      "id": 1517288,
+      "name": "Qazybek Bī Aūdany",
+      "nativeName": "Qazybek Bī Aūdany",
+      "code": "KZ-35-1517288",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-35",
+      "latitude": 49.82039,
+      "longitude": 76.49606
+    },
+    {
+      "id": 1537268,
+      "name": "Saran' Gorodskaya Administratsiya",
+      "nativeName": "Saran' Gorodskaya Administratsiya",
+      "code": "KZ-35-1537268",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-35",
+      "latitude": 49.77592,
+      "longitude": 72.85001
+    },
+    {
+      "id": 1537270,
+      "name": "Shakhtinsk Gorodskaya Administratsiya",
+      "nativeName": "Shakhtinsk Gorodskaya Administratsiya",
+      "code": "KZ-35-1537270",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-35",
+      "latitude": 49.74035,
+      "longitude": 72.64245
+    },
+    {
+      "id": 1519197,
+      "name": "Shet District",
+      "nativeName": "Shet Aūdany",
+      "code": "KZ-35-1519197",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-35",
+      "latitude": 48.66667,
+      "longitude": 73.5
+    },
+    {
+      "id": 1518281,
+      "name": "Tel’man Aūdany",
+      "nativeName": "Tel’man Aūdany",
+      "code": "KZ-35-1518281",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-35",
+      "latitude": 50.13235,
+      "longitude": 73.15459
+    },
+    {
+      "id": 1537269,
+      "name": "Temirtau Gorodskaya Administratsiya",
+      "nativeName": "Temirtau Gorodskaya Administratsiya",
+      "code": "KZ-35-1537269",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-35",
+      "latitude": 50.08829,
+      "longitude": 73.05232
+    },
+    {
+      "id": 1518252,
+      "name": "Tengiz Aūdany",
+      "nativeName": "Tengiz Aūdany",
+      "code": "KZ-35-1518252",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-35",
+      "latitude": 49.66667,
+      "longitude": 69
+    },
+    {
+      "id": 1537252,
+      "name": "Toqyraūyn Aūdany",
+      "nativeName": "Toqyraūyn Aūdany",
+      "code": "KZ-35-1537252",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-35",
+      "latitude": 47.33333,
+      "longitude": 75.5
+    },
+    {
+      "id": 1524382,
+      "name": "Zhezdi Aūdany",
+      "nativeName": "Zhezdi Aūdany",
+      "code": "KZ-35-1524382",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-35",
+      "latitude": 49.33333,
+      "longitude": 66.5
+    }
+  ]
+}

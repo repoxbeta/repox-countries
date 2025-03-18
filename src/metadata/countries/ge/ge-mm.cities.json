@@ -1,0 +1,106 @@
+{
+  "stateId": 865541,
+  "stateCode": "GE-MM",
+  "countryCode": "GE",
+  "cities": [
+    {
+      "id": 7667694,
+      "name": "Akhalgori",
+      "nativeName": "Akhalgori",
+      "code": "GE-MM-7667694",
+      "countryId": 614540,
+      "countryCode": "GE",
+      "stateCode": "GE-MM",
+      "latitude": 42.12541,
+      "longitude": 44.48373
+    },
+    {
+      "id": 613233,
+      "name": "Akhalgoris Munitsip’alit’et’i",
+      "nativeName": "Akhalgoris Munitsip’alit’et’i",
+      "code": "GE-MM-613233",
+      "countryId": 614540,
+      "countryCode": "GE",
+      "stateCode": "GE-MM",
+      "latitude": 42.21667,
+      "longitude": 44.48333
+    },
+    {
+      "id": 7667575,
+      "name": "Dusheti",
+      "nativeName": "Dusheti",
+      "code": "GE-MM-7667575",
+      "countryId": 614540,
+      "countryCode": "GE",
+      "stateCode": "GE-MM",
+      "latitude": 42.08333,
+      "longitude": 44.7
+    },
+    {
+      "id": 614841,
+      "name": "Dushetis Munitsip’alit’et’i",
+      "nativeName": "Dushetis Munitsip’alit’et’i",
+      "code": "GE-MM-614841",
+      "countryId": 614540,
+      "countryCode": "GE",
+      "stateCode": "GE-MM",
+      "latitude": 42.35,
+      "longitude": 44.33333
+    },
+    {
+      "id": 7667696,
+      "name": "Kazbegi",
+      "nativeName": "Kazbegi",
+      "code": "GE-MM-7667696",
+      "countryId": 614540,
+      "countryCode": "GE",
+      "stateCode": "GE-MM",
+      "latitude": 42.6575,
+      "longitude": 44.64528
+    },
+    {
+      "id": 7668882,
+      "name": "Mtskheta",
+      "nativeName": "Mtskheta",
+      "code": "GE-MM-7668882",
+      "countryId": 614540,
+      "countryCode": "GE",
+      "stateCode": "GE-MM",
+      "latitude": 41.84066,
+      "longitude": 44.70612
+    },
+    {
+      "id": 612889,
+      "name": "Mtskhetis Munitsip’alit’et’i",
+      "nativeName": "Mtskhetis Munitsip’alit’et’i",
+      "code": "GE-MM-612889",
+      "countryId": 614540,
+      "countryCode": "GE",
+      "stateCode": "GE-MM",
+      "latitude": 41.86667,
+      "longitude": 44.66667
+    },
+    {
+      "id": 614086,
+      "name": "Q’azbegis Munitsip’alit’et‘i",
+      "nativeName": "Q’azbegis Munitsip’alit’et‘i",
+      "code": "GE-MM-614086",
+      "countryId": 614540,
+      "countryCode": "GE",
+      "stateCode": "GE-MM",
+      "latitude": 42.6,
+      "longitude": 44.55
+    },
+    {
+      "id": 611668,
+      "name": "Tianetis Raioni",
+      "nativeName": "Tianetis Munitsip’alit’et’i",
+      "code": "GE-MM-611668",
+      "countryId": 614540,
+      "countryCode": "GE",
+      "stateCode": "GE-MM",
+      "latitude": 42.1,
+      "longitude": 45
+    }
+  ]
+}

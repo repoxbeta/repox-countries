@@ -1,0 +1,62 @@
+{
+  "stateId": 1622470,
+  "stateCode": "TL-VI",
+  "countryCode": "TL",
+  "cities": [
+    {
+      "id": 8628957,
+      "name": "Lacluta",
+      "nativeName": "Lacluta",
+      "code": "TL-VI-8628957",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-VI",
+      "latitude": -8.8,
+      "longitude": 126.13333
+    },
+    {
+      "id": 8618034,
+      "name": "Ossu",
+      "nativeName": "Ossu",
+      "code": "TL-VI-8618034",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-VI",
+      "latitude": -8.73477,
+      "longitude": 126.38324
+    },
+    {
+      "id": 8629273,
+      "name": "Uatocarabau",
+      "nativeName": "Uatocarabau",
+      "code": "TL-VI-8629273",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-VI",
+      "latitude": -8.75658,
+      "longitude": 126.6806
+    },
+    {
+      "id": 8629272,
+      "name": "Uatolari",
+      "nativeName": "Uatolari",
+      "code": "TL-VI-8629272",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-VI",
+      "latitude": -8.76277,
+      "longitude": 126.57353
+    },
+    {
+      "id": 8629271,
+      "name": "Viqueque",
+      "nativeName": "Viqueque",
+      "code": "TL-VI-8629271",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-VI",
+      "latitude": -8.85908,
+      "longitude": 126.36972
+    }
+  ]
+}

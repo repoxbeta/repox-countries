@@ -1,0 +1,238 @@
+{
+  "stateId": 5101760,
+  "stateCode": "US-NJ",
+  "countryCode": "US",
+  "cities": [
+    {
+      "id": 4500561,
+      "name": "Atlantic",
+      "nativeName": "Atlantic County",
+      "code": "US-NJ-4500561",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NJ",
+      "latitude": 39.46883,
+      "longitude": -74.63373
+    },
+    {
+      "id": 5095598,
+      "name": "Bergen",
+      "nativeName": "Bergen County",
+      "code": "US-NJ-5095598",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NJ",
+      "latitude": 40.95977,
+      "longitude": -74.07441
+    },
+    {
+      "id": 4500994,
+      "name": "Burlington",
+      "nativeName": "Burlington County",
+      "code": "US-NJ-4500994",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NJ",
+      "latitude": 39.87769,
+      "longitude": -74.6682
+    },
+    {
+      "id": 4501019,
+      "name": "Camden",
+      "nativeName": "Camden County",
+      "code": "US-NJ-4501019",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NJ",
+      "latitude": 39.80353,
+      "longitude": -74.95976
+    },
+    {
+      "id": 4501053,
+      "name": "Cape May",
+      "nativeName": "Cape May County",
+      "code": "US-NJ-4501053",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NJ",
+      "latitude": 39.08513,
+      "longitude": -74.84998
+    },
+    {
+      "id": 4501427,
+      "name": "Cumberland",
+      "nativeName": "Cumberland County",
+      "code": "US-NJ-4501427",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NJ",
+      "latitude": 39.32807,
+      "longitude": -75.12934
+    },
+    {
+      "id": 5097707,
+      "name": "Essex",
+      "nativeName": "Essex County",
+      "code": "US-NJ-5097707",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NJ",
+      "latitude": 40.78707,
+      "longitude": -74.24687
+    },
+    {
+      "id": 4501944,
+      "name": "Gloucester",
+      "nativeName": "Gloucester County",
+      "code": "US-NJ-4501944",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NJ",
+      "latitude": 39.71731,
+      "longitude": -75.14167
+    },
+    {
+      "id": 5099357,
+      "name": "Hudson",
+      "nativeName": "Hudson County",
+      "code": "US-NJ-5099357",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NJ",
+      "latitude": 40.73094,
+      "longitude": -74.07594
+    },
+    {
+      "id": 5099381,
+      "name": "Hunterdon",
+      "nativeName": "Hunterdon County",
+      "code": "US-NJ-5099381",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NJ",
+      "latitude": 40.56729,
+      "longitude": -74.91222
+    },
+    {
+      "id": 5101090,
+      "name": "Mercer",
+      "nativeName": "Mercer County",
+      "code": "US-NJ-5101090",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NJ",
+      "latitude": 40.2834,
+      "longitude": -74.70169
+    },
+    {
+      "id": 5101160,
+      "name": "Middlesex",
+      "nativeName": "Middlesex County",
+      "code": "US-NJ-5101160",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NJ",
+      "latitude": 40.44004,
+      "longitude": -74.40889
+    },
+    {
+      "id": 5101305,
+      "name": "Monmouth",
+      "nativeName": "Monmouth County",
+      "code": "US-NJ-5101305",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NJ",
+      "latitude": 40.28755,
+      "longitude": -74.15815
+    },
+    {
+      "id": 5101405,
+      "name": "Morris",
+      "nativeName": "Morris County",
+      "code": "US-NJ-5101405",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NJ",
+      "latitude": 40.86203,
+      "longitude": -74.54444
+    },
+    {
+      "id": 4503355,
+      "name": "Ocean",
+      "nativeName": "Ocean County",
+      "code": "US-NJ-4503355",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NJ",
+      "latitude": 39.866,
+      "longitude": -74.25003
+    },
+    {
+      "id": 5102445,
+      "name": "Passaic",
+      "nativeName": "Passaic County",
+      "code": "US-NJ-5102445",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NJ",
+      "latitude": 41.0337,
+      "longitude": -74.30032
+    },
+    {
+      "id": 4503949,
+      "name": "Salem",
+      "nativeName": "Salem County",
+      "code": "US-NJ-4503949",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NJ",
+      "latitude": 39.57658,
+      "longitude": -75.35791
+    },
+    {
+      "id": 5104759,
+      "name": "Somerset",
+      "nativeName": "Somerset County",
+      "code": "US-NJ-5104759",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NJ",
+      "latitude": 40.56351,
+      "longitude": -74.61631
+    },
+    {
+      "id": 5105168,
+      "name": "Sussex",
+      "nativeName": "Sussex County",
+      "code": "US-NJ-5105168",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NJ",
+      "latitude": 41.13946,
+      "longitude": -74.69023
+    },
+    {
+      "id": 5105640,
+      "name": "Union",
+      "nativeName": "Union County",
+      "code": "US-NJ-5105640",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NJ",
+      "latitude": 40.6598,
+      "longitude": -74.30859
+    },
+    {
+      "id": 5106044,
+      "name": "Warren",
+      "nativeName": "Warren County",
+      "code": "US-NJ-5106044",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NJ",
+      "latitude": 40.85725,
+      "longitude": -74.99702
+    }
+  ]
+}

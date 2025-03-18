@@ -1,0 +1,150 @@
+{
+  "stateId": 3654592,
+  "stateCode": "EC-R",
+  "countryCode": "EC",
+  "cities": [
+    {
+      "id": 3660417,
+      "name": "Babahoyo",
+      "nativeName": "Babahoyo",
+      "code": "EC-R-3660417",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-R",
+      "latitude": -1.81822,
+      "longitude": -79.52523
+    },
+    {
+      "id": 8471975,
+      "name": "Buena Fe",
+      "nativeName": "Buena Fe",
+      "code": "EC-R-8471975",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-R",
+      "latitude": -0.7188,
+      "longitude": -79.49925
+    },
+    {
+      "id": 3660421,
+      "name": "Cantón Baba",
+      "nativeName": "Cantón Baba",
+      "code": "EC-R-3660421",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-R",
+      "latitude": -1.78333,
+      "longitude": -79.66667
+    },
+    {
+      "id": 10792469,
+      "name": "Mocache",
+      "nativeName": "Mocache",
+      "code": "EC-R-10792469",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-R",
+      "latitude": -1.18683,
+      "longitude": -79.54442
+    },
+    {
+      "id": 10792499,
+      "name": "Montalvo",
+      "nativeName": "Montalvo",
+      "code": "EC-R-10792499",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-R",
+      "latitude": -1.80295,
+      "longitude": -79.31703
+    },
+    {
+      "id": 10792500,
+      "name": "Palenque",
+      "nativeName": "Palenque",
+      "code": "EC-R-10792500",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-R",
+      "latitude": -1.32542,
+      "longitude": -79.71102
+    },
+    {
+      "id": 3652785,
+      "name": "Puebloviejo",
+      "nativeName": "Puebloviejo",
+      "code": "EC-R-3652785",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-R",
+      "latitude": -1.55701,
+      "longitude": -79.54034
+    },
+    {
+      "id": 3652566,
+      "name": "Quevedo",
+      "nativeName": "Quevedo",
+      "code": "EC-R-3652566",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-R",
+      "latitude": -1.03068,
+      "longitude": -79.45218
+    },
+    {
+      "id": 10792544,
+      "name": "Quinsaloma",
+      "nativeName": "Quinsaloma",
+      "code": "EC-R-10792544",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-R",
+      "latitude": -1.20726,
+      "longitude": -79.31099
+    },
+    {
+      "id": 3650340,
+      "name": "Urdaneta",
+      "nativeName": "Urdaneta",
+      "code": "EC-R-3650340",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-R",
+      "latitude": -1.5613,
+      "longitude": -79.38735
+    },
+    {
+      "id": 8471961,
+      "name": "Valencia",
+      "nativeName": "Valencia",
+      "code": "EC-R-8471961",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-R",
+      "latitude": -0.80063,
+      "longitude": -79.3276
+    },
+    {
+      "id": 3650264,
+      "name": "Ventanas",
+      "nativeName": "Ventanas",
+      "code": "EC-R-3650264",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-R",
+      "latitude": -1.39006,
+      "longitude": -79.41138
+    },
+    {
+      "id": 3650185,
+      "name": "Vinces",
+      "nativeName": "Vinces",
+      "code": "EC-R-3650185",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-R",
+      "latitude": -1.53443,
+      "longitude": -79.73333
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "stateId": 1604767,
+  "stateCode": "TH-35",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 1610085,
+      "name": "Kham Khuean Kaeo",
+      "nativeName": "Amphoe Kham Khuan Kaeo",
+      "code": "TH-35-1610085",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-35",
+      "latitude": 15.67197,
+      "longitude": 104.33372
+    },
+    {
+      "id": 8304643,
+      "name": "Kho Wang",
+      "nativeName": "Amphoe Kho Wang",
+      "code": "TH-35-8304643",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-35",
+      "latitude": 15.38164,
+      "longitude": 104.34109
+    },
+    {
+      "id": 1609320,
+      "name": "Kut Chum",
+      "nativeName": "Amphoe Kut Chum",
+      "code": "TH-35-1609320",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-35",
+      "latitude": 16.0462,
+      "longitude": 104.30545
+    },
+    {
+      "id": 1609067,
+      "name": "Loeng Nok Tha",
+      "nativeName": "Amphoe Loeng Nok Tha",
+      "code": "TH-35-1609067",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-35",
+      "latitude": 16.20433,
+      "longitude": 104.51442
+    },
+    {
+      "id": 1608908,
+      "name": "Maha Chana Chai",
+      "nativeName": "Amphoe Maha Chana Chai",
+      "code": "TH-35-1608908",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-35",
+      "latitude": 15.51267,
+      "longitude": 104.26104
+    },
+    {
+      "id": 1604768,
+      "name": "Mueang Yasothon",
+      "nativeName": "Amphoe Mueang Yasothon",
+      "code": "TH-35-1604768",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-35",
+      "latitude": 15.8555,
+      "longitude": 104.17804
+    },
+    {
+      "id": 7510833,
+      "name": "Pa Tio",
+      "nativeName": "Amphoe Pa Tio",
+      "code": "TH-35-7510833",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-35",
+      "latitude": 15.84415,
+      "longitude": 104.39994
+    },
+    {
+      "id": 8304645,
+      "name": "Sai Mun",
+      "nativeName": "Amphoe Sai Mun",
+      "code": "TH-35-8304645",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-35",
+      "latitude": 15.97917,
+      "longitude": 104.1907
+    },
+    {
+      "id": 7510836,
+      "name": "Thai Charoen",
+      "nativeName": "Amphoe Thai Charoen",
+      "code": "TH-35-7510836",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-35",
+      "latitude": 16.07936,
+      "longitude": 104.42778
+    }
+  ]
+}

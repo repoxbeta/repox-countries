@@ -1,0 +1,117 @@
+{
+  "stateId": 4567727,
+  "stateCode": "PR-117",
+  "countryCode": "PR",
+  "cities": [
+    {
+      "id": 7268218,
+      "name": "Atalaya Barrio",
+      "nativeName": "Atalaya Barrio",
+      "code": "PR-117-7268218",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-117",
+      "latitude": 18.31447,
+      "longitude": -67.19764
+    },
+    {
+      "id": 7268239,
+      "name": "Barrero Barrio",
+      "nativeName": "Barrero Barrio",
+      "code": "PR-117-7268239",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-117",
+      "latitude": 18.30397,
+      "longitude": -67.23105
+    },
+    {
+      "id": 7268302,
+      "name": "Calvache Barrio",
+      "nativeName": "Calvache Barrio",
+      "code": "PR-117-7268302",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-117",
+      "latitude": 18.31592,
+      "longitude": -67.22539
+    },
+    {
+      "id": 7268120,
+      "name": "Cruces Barrio",
+      "nativeName": "Cruces Barrio",
+      "code": "PR-117-7268120",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-117",
+      "latitude": 18.33923,
+      "longitude": -67.22195
+    },
+    {
+      "id": 7268375,
+      "name": "Ensenada Barrio",
+      "nativeName": "Ensenada Barrio",
+      "code": "PR-117-7268375",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-117",
+      "latitude": 18.34674,
+      "longitude": -67.25342
+    },
+    {
+      "id": 7268513,
+      "name": "Jagüey Barrio",
+      "nativeName": "Jagüey Barrio",
+      "code": "PR-117-7268513",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-117",
+      "latitude": 18.3256,
+      "longitude": -67.20269
+    },
+    {
+      "id": 7268789,
+      "name": "Pueblo Barrio",
+      "nativeName": "Pueblo Barrio",
+      "code": "PR-117-7268789",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-117",
+      "latitude": 18.33181,
+      "longitude": -67.23835
+    },
+    {
+      "id": 7268838,
+      "name": "Puntas Barrio",
+      "nativeName": "Puntas Barrio",
+      "code": "PR-117-7268838",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-117",
+      "latitude": 18.36267,
+      "longitude": -67.25835
+    },
+    {
+      "id": 7268883,
+      "name": "Rincón Barrio-Pueblo",
+      "nativeName": "Rincón Barrio-Pueblo",
+      "code": "PR-117-7268883",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-117",
+      "latitude": 18.33898,
+      "longitude": -67.25077
+    },
+    {
+      "id": 7268908,
+      "name": "Río Grande Barrio",
+      "nativeName": "Río Grande Barrio",
+      "code": "PR-117-7268908",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-117",
+      "latitude": 18.3611,
+      "longitude": -67.23745
+    }
+  ]
+}

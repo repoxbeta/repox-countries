@@ -1,0 +1,62 @@
+{
+  "stateId": 1621176,
+  "stateCode": "ID-YO",
+  "countryCode": "ID",
+  "cities": [
+    {
+      "id": 1643604,
+      "name": "Gunung Kidul Regency",
+      "nativeName": "Kabupaten Gunungkidul",
+      "code": "ID-YO-1643604",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-YO",
+      "latitude": -7.99444,
+      "longitude": 110.6125
+    },
+    {
+      "id": 1650117,
+      "name": "Kabupaten Bantul",
+      "nativeName": "Kabupaten Bantul",
+      "code": "ID-YO-1650117",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-YO",
+      "latitude": -7.9,
+      "longitude": 110.3625
+    },
+    {
+      "id": 6258231,
+      "name": "Kabupaten Sleman",
+      "nativeName": "Kabupaten Sleman",
+      "code": "ID-YO-6258231",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-YO",
+      "latitude": -7.68167,
+      "longitude": 110.32333
+    },
+    {
+      "id": 1621175,
+      "name": "Kota Yogyakarta",
+      "nativeName": "Kota Yogyakarta",
+      "code": "ID-YO-1621175",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-YO",
+      "latitude": -7.8,
+      "longitude": 110.375
+    },
+    {
+      "id": 7910930,
+      "name": "Kulon Progo Regency",
+      "nativeName": "Kabupaten Kulon Progo",
+      "code": "ID-YO-7910930",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-YO",
+      "latitude": -7.81256,
+      "longitude": 110.15133
+    }
+  ]
+}

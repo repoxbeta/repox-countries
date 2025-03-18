@@ -1,0 +1,40 @@
+{
+  "stateId": 8299713,
+  "stateCode": "MT-16",
+  "countryCode": "MT",
+  "cities": [
+    {
+      "id": 9653600,
+      "name": "Fanal",
+      "nativeName": "Fanal",
+      "code": "MT-16-9653600",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-16",
+      "latitude": 36.06374,
+      "longitude": 14.22139
+    },
+    {
+      "id": 2563066,
+      "name": "Għammar",
+      "nativeName": "Għammar",
+      "code": "MT-16-2563066",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-16",
+      "latitude": 36.06611,
+      "longitude": 14.21833
+    },
+    {
+      "id": 2563052,
+      "name": "Għasri",
+      "nativeName": "Għasri",
+      "code": "MT-16-2563052",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-16",
+      "latitude": 36.05778,
+      "longitude": 14.22639
+    }
+  ]
+}

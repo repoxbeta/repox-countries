@@ -1,0 +1,117 @@
+{
+  "stateId": 3618029,
+  "stateCode": "NI-LE",
+  "countryCode": "NI",
+  "cities": [
+    {
+      "id": 3618412,
+      "name": "La Paz Centro",
+      "nativeName": "La Paz Centro",
+      "code": "NI-LE-3618412",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-LE",
+      "latitude": 12.43659,
+      "longitude": -86.63037
+    },
+    {
+      "id": 3620981,
+      "name": "Municipio de Achuapa",
+      "nativeName": "Municipio de Achuapa",
+      "code": "NI-LE-3620981",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-LE",
+      "latitude": 13.06196,
+      "longitude": -86.59104
+    },
+    {
+      "id": 3619693,
+      "name": "Municipio de El Jicaral",
+      "nativeName": "Municipio de El Jicaral",
+      "code": "NI-LE-3619693",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-LE",
+      "latitude": 12.6554,
+      "longitude": -86.38933
+    },
+    {
+      "id": 3619381,
+      "name": "Municipio de El Sauce",
+      "nativeName": "Municipio de El Sauce",
+      "code": "NI-LE-3619381",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-LE",
+      "latitude": 12.88148,
+      "longitude": -86.5399
+    },
+    {
+      "id": 3618335,
+      "name": "Municipio de Larreynaga",
+      "nativeName": "Municipio de Larreynaga",
+      "code": "NI-LE-3618335",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-LE",
+      "latitude": 12.65669,
+      "longitude": -86.61112
+    },
+    {
+      "id": 3618028,
+      "name": "Municipio de León",
+      "nativeName": "Municipio de León",
+      "code": "NI-LE-3618028",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-LE",
+      "latitude": 12.3953,
+      "longitude": -86.87964
+    },
+    {
+      "id": 3617521,
+      "name": "Municipio de Nagarote",
+      "nativeName": "Municipio de Nagarote",
+      "code": "NI-LE-3617521",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-LE",
+      "latitude": 12.20028,
+      "longitude": -86.62465
+    },
+    {
+      "id": 3617114,
+      "name": "Municipio de Quezalguaque",
+      "nativeName": "Municipio de Quezalguaque",
+      "code": "NI-LE-3617114",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-LE",
+      "latitude": 12.53061,
+      "longitude": -86.9087
+    },
+    {
+      "id": 3616386,
+      "name": "Municipio de Santa Rosa del Peñón",
+      "nativeName": "Municipio de Santa Rosa del Peñón",
+      "code": "NI-LE-3616386",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-LE",
+      "latitude": 12.823,
+      "longitude": -86.3661
+    },
+    {
+      "id": 3616091,
+      "name": "Municipio de Telica",
+      "nativeName": "Municipio de Telica",
+      "code": "NI-LE-3616091",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-LE",
+      "latitude": 12.62094,
+      "longitude": -86.80842
+    }
+  ]
+}

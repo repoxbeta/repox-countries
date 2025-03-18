@@ -1,0 +1,182 @@
+{
+  "countryId": 933860,
+  "countryCode": "BW",
+  "states": [
+    {
+      "id": 933851,
+      "name": "Central",
+      "nativeName": "Central District",
+      "code": "BW-CE",
+      "internalCode": "CE",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "latitude": -22,
+      "longitude": 26
+    },
+    {
+      "id": 933840,
+      "name": "Chobe District",
+      "nativeName": "Chobe District",
+      "code": "BW-CH",
+      "internalCode": "CH",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "latitude": -18.5,
+      "longitude": 25
+    },
+    {
+      "id": 11778168,
+      "name": "City of Francistown",
+      "nativeName": "City of Francistown",
+      "code": "BW-FR",
+      "internalCode": "FR",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "latitude": -21.17,
+      "longitude": 27.50778
+    },
+    {
+      "id": 11778169,
+      "name": "Gaborone",
+      "nativeName": "Gaborone",
+      "code": "BW-GA",
+      "internalCode": "GA",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "latitude": -24.64639,
+      "longitude": 25.91194
+    },
+    {
+      "id": 933758,
+      "name": "Ghanzi",
+      "nativeName": "Ghanzi District",
+      "code": "BW-GH",
+      "internalCode": "GH",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "latitude": -22,
+      "longitude": 22
+    },
+    {
+      "id": 11778170,
+      "name": "Jwaneng",
+      "nativeName": "Jwaneng",
+      "code": "BW-JW",
+      "internalCode": "JW",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "latitude": -24.60167,
+      "longitude": 24.72806
+    },
+    {
+      "id": 933657,
+      "name": "Kgalagadi",
+      "nativeName": "Kgalagadi District",
+      "code": "BW-KG",
+      "internalCode": "KG",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "latitude": -25,
+      "longitude": 22
+    },
+    {
+      "id": 933654,
+      "name": "Kgatleng",
+      "nativeName": "Kgatleng District",
+      "code": "BW-KL",
+      "internalCode": "KL",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "latitude": -24.25,
+      "longitude": 26.5
+    },
+    {
+      "id": 933562,
+      "name": "Kweneng",
+      "nativeName": "Kweneng District",
+      "code": "BW-KW",
+      "internalCode": "KW",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "latitude": -24,
+      "longitude": 25
+    },
+    {
+      "id": 11778171,
+      "name": "Lobatse",
+      "nativeName": "Lobatse",
+      "code": "BW-LO",
+      "internalCode": "LO",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "latitude": -25.21417,
+      "longitude": 25.68083
+    },
+    {
+      "id": 933043,
+      "name": "Ngwaketsi",
+      "nativeName": "Southern District",
+      "code": "BW-SO",
+      "internalCode": "SO",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "latitude": -25,
+      "longitude": 25
+    },
+    {
+      "id": 933210,
+      "name": "North-East",
+      "nativeName": "North East District",
+      "code": "BW-NE",
+      "internalCode": "NE",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "latitude": -21,
+      "longitude": 27.5
+    },
+    {
+      "id": 933230,
+      "name": "North-West",
+      "nativeName": "North West District",
+      "code": "BW-NW",
+      "internalCode": "NW",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "latitude": -20,
+      "longitude": 22.5
+    },
+    {
+      "id": 11778172,
+      "name": "Selibe Phikwe",
+      "nativeName": "Selibe Phikwe",
+      "code": "BW-SP",
+      "internalCode": "SP",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "latitude": -21.97583,
+      "longitude": 27.83472
+    },
+    {
+      "id": 933044,
+      "name": "South-East",
+      "nativeName": "South East District",
+      "code": "BW-SE",
+      "internalCode": "SE",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "latitude": -25,
+      "longitude": 25.75
+    },
+    {
+      "id": 11778173,
+      "name": "Sowa Town",
+      "nativeName": "Sowa Town",
+      "code": "BW-ST",
+      "internalCode": "ST",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "latitude": -20.56361,
+      "longitude": 26.22444
+    }
+  ]
+}

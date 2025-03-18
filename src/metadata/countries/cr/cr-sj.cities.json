@@ -1,0 +1,227 @@
+{
+  "stateId": 3621837,
+  "stateCode": "CR-SJ",
+  "countryCode": "CR",
+  "cities": [
+    {
+      "id": 3625011,
+      "name": "Acosta",
+      "nativeName": "Acosta",
+      "code": "CR-SJ-3625011",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-SJ",
+      "latitude": 9.74493,
+      "longitude": -84.23601
+    },
+    {
+      "id": 3624950,
+      "name": "Alajuelita",
+      "nativeName": "Alajuelita",
+      "code": "CR-SJ-3624950",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-SJ",
+      "latitude": 9.8873,
+      "longitude": -84.1116
+    },
+    {
+      "id": 3624847,
+      "name": "Aserrí",
+      "nativeName": "Aserrí",
+      "code": "CR-SJ-3624847",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-SJ",
+      "latitude": 9.86667,
+      "longitude": -84.1
+    },
+    {
+      "id": 3623976,
+      "name": "Curridabat",
+      "nativeName": "Curridabat",
+      "code": "CR-SJ-3623976",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-SJ",
+      "latitude": 9.9165,
+      "longitude": -84.0291
+    },
+    {
+      "id": 3623933,
+      "name": "Desamparados",
+      "nativeName": "Desamparados",
+      "code": "CR-SJ-3623933",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-SJ",
+      "latitude": 9.85552,
+      "longitude": -84.04125
+    },
+    {
+      "id": 3623892,
+      "name": "Dota",
+      "nativeName": "Dota",
+      "code": "CR-SJ-3623892",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-SJ",
+      "latitude": 9.58858,
+      "longitude": -83.92247
+    },
+    {
+      "id": 3623786,
+      "name": "Escazú",
+      "nativeName": "Escazú",
+      "code": "CR-SJ-3623786",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-SJ",
+      "latitude": 9.93333,
+      "longitude": -84.13333
+    },
+    {
+      "id": 3623659,
+      "name": "Goicoechea",
+      "nativeName": "Goicoechea",
+      "code": "CR-SJ-3623659",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-SJ",
+      "latitude": 9.94848,
+      "longitude": -84.06365
+    },
+    {
+      "id": 3623082,
+      "name": "León Cortés Castro",
+      "nativeName": "León Cortés Castro",
+      "code": "CR-SJ-3623082",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-SJ",
+      "latitude": 9.683,
+      "longitude": -84.04781
+    },
+    {
+      "id": 3622814,
+      "name": "Montes de Oca",
+      "nativeName": "Montes de Oca",
+      "code": "CR-SJ-3622814",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-SJ",
+      "latitude": 9.9396,
+      "longitude": -84.03013
+    },
+    {
+      "id": 3622808,
+      "name": "Mora",
+      "nativeName": "Mora",
+      "code": "CR-SJ-3622808",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-SJ",
+      "latitude": 9.88071,
+      "longitude": -84.25036
+    },
+    {
+      "id": 3622800,
+      "name": "Moravia",
+      "nativeName": "Moravia",
+      "code": "CR-SJ-3622800",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-SJ",
+      "latitude": 10.04,
+      "longitude": -84
+    },
+    {
+      "id": 3622220,
+      "name": "Puriscal",
+      "nativeName": "Puriscal",
+      "code": "CR-SJ-3622220",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-SJ",
+      "latitude": 9.7267,
+      "longitude": -84.40396
+    },
+    {
+      "id": 3622439,
+      "name": "Pérez Zeledón",
+      "nativeName": "Pérez Zeledón",
+      "code": "CR-SJ-3622439",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-SJ",
+      "latitude": 9.35473,
+      "longitude": -83.63484
+    },
+    {
+      "id": 3621840,
+      "name": "San José",
+      "nativeName": "San José",
+      "code": "CR-SJ-3621840",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-SJ",
+      "latitude": 9.93333,
+      "longitude": -84.08333
+    },
+    {
+      "id": 3621626,
+      "name": "Santa Ana",
+      "nativeName": "Santa Ana",
+      "code": "CR-SJ-3621626",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-SJ",
+      "latitude": 9.92486,
+      "longitude": -84.19392
+    },
+    {
+      "id": 3621342,
+      "name": "Tarrazú",
+      "nativeName": "Tarrazú",
+      "code": "CR-SJ-3621342",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-SJ",
+      "latitude": 9.65965,
+      "longitude": -84.02138
+    },
+    {
+      "id": 3621308,
+      "name": "Tibás",
+      "nativeName": "Tibás",
+      "code": "CR-SJ-3621308",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-SJ",
+      "latitude": 9.96667,
+      "longitude": -84.08333
+    },
+    {
+      "id": 3621177,
+      "name": "Turrubares",
+      "nativeName": "Turrubares",
+      "code": "CR-SJ-3621177",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-SJ",
+      "latitude": 9.73729,
+      "longitude": -84.5233
+    },
+    {
+      "id": 3621119,
+      "name": "Vázquez de Coronado",
+      "nativeName": "Vázquez de Coronado",
+      "code": "CR-SJ-3621119",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-SJ",
+      "latitude": 10.06,
+      "longitude": -84
+    }
+  ]
+}

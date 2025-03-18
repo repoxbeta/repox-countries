@@ -1,0 +1,62 @@
+{
+  "stateId": 615929,
+  "stateCode": "GE-AJ",
+  "countryCode": "GE",
+  "cities": [
+    {
+      "id": 9165838,
+      "name": "Batumi",
+      "nativeName": "Batumi",
+      "code": "GE-AJ-9165838",
+      "countryId": 614540,
+      "countryCode": "GE",
+      "stateCode": "GE-AJ",
+      "latitude": 41.62244,
+      "longitude": 41.64462
+    },
+    {
+      "id": 9093838,
+      "name": "Kedis Munitsip’alit’et’i",
+      "nativeName": "Kedis Munitsip’alit’et’i",
+      "code": "GE-AJ-9093838",
+      "countryId": 614540,
+      "countryCode": "GE",
+      "stateCode": "GE-AJ",
+      "latitude": 41.65874,
+      "longitude": 41.97047
+    },
+    {
+      "id": 613970,
+      "name": "Khelvachauri",
+      "nativeName": "Khelvachauri Municipality",
+      "code": "GE-AJ-613970",
+      "countryId": 614540,
+      "countryCode": "GE",
+      "stateCode": "GE-AJ",
+      "latitude": 41.58333,
+      "longitude": 41.66667
+    },
+    {
+      "id": 9093934,
+      "name": "Kobuletis Munitsip’alit’et’i",
+      "nativeName": "Kobuletis Munitsip’alit’et’i",
+      "code": "GE-AJ-9093934",
+      "countryId": 614540,
+      "countryCode": "GE",
+      "stateCode": "GE-AJ",
+      "latitude": 41.8122,
+      "longitude": 41.89783
+    },
+    {
+      "id": 613761,
+      "name": "Kobuletis Raioni",
+      "nativeName": "K’obulet’is Raioni",
+      "code": "GE-AJ-613761",
+      "countryId": 614540,
+      "countryCode": "GE",
+      "stateCode": "GE-AJ",
+      "latitude": 41.75,
+      "longitude": 41.83333
+    }
+  ]
+}

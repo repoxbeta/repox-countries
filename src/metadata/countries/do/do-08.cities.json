@@ -1,0 +1,29 @@
+{
+  "stateId": 3506189,
+  "stateCode": "DO-08",
+  "countryCode": "DO",
+  "cities": [
+    {
+      "id": 3506190,
+      "name": "El Seibo",
+      "nativeName": "El Seibo",
+      "code": "DO-08-3506190",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-08",
+      "latitude": 18.75,
+      "longitude": -69
+    },
+    {
+      "id": 3496397,
+      "name": "Miches",
+      "nativeName": "Miches",
+      "code": "DO-08-3496397",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-08",
+      "latitude": 18.91667,
+      "longitude": -69
+    }
+  ]
+}

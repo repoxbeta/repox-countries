@@ -1,0 +1,249 @@
+{
+  "stateId": 2032855,
+  "stateCode": "MN-073",
+  "countryCode": "MN",
+  "cities": [
+    {
+      "id": 6619035,
+      "name": "Battsengel",
+      "nativeName": "Battsengel",
+      "code": "MN-073-6619035",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-073",
+      "latitude": 47.78802,
+      "longitude": 101.97218
+    },
+    {
+      "id": 6619029,
+      "name": "Bulgan District",
+      "nativeName": "Bulgan",
+      "code": "MN-073-6619029",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-073",
+      "latitude": 47.31503,
+      "longitude": 101.11585
+    },
+    {
+      "id": 6619026,
+      "name": "Chuluut District",
+      "nativeName": "Chuluut",
+      "code": "MN-073-6619026",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-073",
+      "latitude": 47.52972,
+      "longitude": 100.21694
+    },
+    {
+      "id": 6619023,
+      "name": "Erdenebulgan",
+      "nativeName": "Erdenebulgan",
+      "code": "MN-073-6619023",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-073",
+      "latitude": 47.4715,
+      "longitude": 101.45737
+    },
+    {
+      "id": 6998261,
+      "name": "Erdenebulgan District",
+      "nativeName": "Erdenebulgan Sum",
+      "code": "MN-073-6998261",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-073",
+      "latitude": 47.44728,
+      "longitude": 101.51257
+    },
+    {
+      "id": 6619021,
+      "name": "Erdenemandal District",
+      "nativeName": "Erdenemandal",
+      "code": "MN-073-6619021",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-073",
+      "latitude": 48.5232,
+      "longitude": 101.3736
+    },
+    {
+      "id": 6619027,
+      "name": "Hangay",
+      "nativeName": "Hangay",
+      "code": "MN-073-6619027",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-073",
+      "latitude": 47.86178,
+      "longitude": 99.46609
+    },
+    {
+      "id": 6619033,
+      "name": "Hashaat",
+      "nativeName": "Hashaat",
+      "code": "MN-073-6619033",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-073",
+      "latitude": 47.44527,
+      "longitude": 103.15029
+    },
+    {
+      "id": 6619022,
+      "name": "Hayrhan",
+      "nativeName": "Hayrhan",
+      "code": "MN-073-6619022",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-073",
+      "latitude": 48.60363,
+      "longitude": 101.93493
+    },
+    {
+      "id": 6619024,
+      "name": "Ihtamir",
+      "nativeName": "Ihtamir",
+      "code": "MN-073-6619024",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-073",
+      "latitude": 47.48972,
+      "longitude": 100.87955
+    },
+    {
+      "id": 6619020,
+      "name": "Jargalant District",
+      "nativeName": "Jargalant",
+      "code": "MN-073-6619020",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-073",
+      "latitude": 48.72868,
+      "longitude": 100.76231
+    },
+    {
+      "id": 7667597,
+      "name": "Khairkhan",
+      "nativeName": "Khairkhan",
+      "code": "MN-073-7667597",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-073",
+      "latitude": 48.60667,
+      "longitude": 101.93694
+    },
+    {
+      "id": 6619032,
+      "name": "Khotont District",
+      "nativeName": "Hotont",
+      "code": "MN-073-6619032",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-073",
+      "latitude": 47.35976,
+      "longitude": 102.46845
+    },
+    {
+      "id": 6618894,
+      "name": "Rashaant  District",
+      "nativeName": "Rashaant",
+      "code": "MN-073-6618894",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-073",
+      "latitude": 47.34976,
+      "longitude": 103.43525
+    },
+    {
+      "id": 1515709,
+      "name": "Tariat Sum",
+      "nativeName": "Tariat Sum",
+      "code": "MN-073-1515709",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-073",
+      "latitude": 48.22394,
+      "longitude": 99.86182
+    },
+    {
+      "id": 6619028,
+      "name": "Tsakhir District",
+      "nativeName": "Tsahir",
+      "code": "MN-073-6619028",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-073",
+      "latitude": 48.07097,
+      "longitude": 98.85052
+    },
+    {
+      "id": 6619030,
+      "name": "Tsenher",
+      "nativeName": "Tsenher",
+      "code": "MN-073-6619030",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-073",
+      "latitude": 47.44498,
+      "longitude": 101.75486
+    },
+    {
+      "id": 6619019,
+      "name": "Tsetserleg District",
+      "nativeName": "Tsetserleg",
+      "code": "MN-073-6619019",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-073",
+      "latitude": 48.87623,
+      "longitude": 101.23919
+    },
+    {
+      "id": 6619031,
+      "name": "Tüvshrüüleh",
+      "nativeName": "Tüvshrüüleh",
+      "code": "MN-073-6619031",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-073",
+      "latitude": 47.37476,
+      "longitude": 101.90832
+    },
+    {
+      "id": 6619034,
+      "name": "Ögii nuur District",
+      "nativeName": "Ögiynuur",
+      "code": "MN-073-6619034",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-073",
+      "latitude": 47.6603,
+      "longitude": 102.55051
+    },
+    {
+      "id": 6619036,
+      "name": "Öldziyt",
+      "nativeName": "Öldziyt",
+      "code": "MN-073-6619036",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-073",
+      "latitude": 48.09792,
+      "longitude": 102.55703
+    },
+    {
+      "id": 6619025,
+      "name": "Öndör-Ulaan",
+      "nativeName": "Öndör-Ulaan",
+      "code": "MN-073-6619025",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-073",
+      "latitude": 48.03953,
+      "longitude": 100.50877
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "stateId": 2661876,
+  "stateCode": "CH-AG",
+  "countryCode": "CH",
+  "cities": [
+    {
+      "id": 6458846,
+      "name": "Bezirk Aarau",
+      "nativeName": "Bezirk Aarau",
+      "code": "CH-AG-6458846",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-AG",
+      "latitude": 47.37706,
+      "longitude": 8.05235
+    },
+    {
+      "id": 6458813,
+      "name": "Bezirk Baden",
+      "nativeName": "Bezirk Baden",
+      "code": "CH-AG-6458813",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-AG",
+      "latitude": 47.4566,
+      "longitude": 8.30059
+    },
+    {
+      "id": 6458826,
+      "name": "Bezirk Brugg",
+      "nativeName": "Bezirk Brugg",
+      "code": "CH-AG-6458826",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-AG",
+      "latitude": 47.47776,
+      "longitude": 8.17798
+    },
+    {
+      "id": 6458772,
+      "name": "Bezirk Kulm",
+      "nativeName": "Bezirk Kulm",
+      "code": "CH-AG-6458772",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-AG",
+      "latitude": 47.28757,
+      "longitude": 8.13302
+    },
+    {
+      "id": 6458806,
+      "name": "Bezirk Lenzburg",
+      "nativeName": "Bezirk Lenzburg",
+      "code": "CH-AG-6458806",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-AG",
+      "latitude": 47.37184,
+      "longitude": 8.1891
+    },
+    {
+      "id": 6458902,
+      "name": "Bezirk Muri",
+      "nativeName": "Bezirk Muri",
+      "code": "CH-AG-6458902",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-AG",
+      "latitude": 47.25233,
+      "longitude": 8.35362
+    },
+    {
+      "id": 6458853,
+      "name": "Bezirk Rheinfelden",
+      "nativeName": "Bezirk Rheinfelden",
+      "code": "CH-AG-6458853",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-AG",
+      "latitude": 47.54048,
+      "longitude": 7.83331
+    },
+    {
+      "id": 6458746,
+      "name": "Bezirk Zofingen",
+      "nativeName": "Bezirk Zofingen",
+      "code": "CH-AG-6458746",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-AG",
+      "latitude": 47.28864,
+      "longitude": 7.95697
+    },
+    {
+      "id": 6458788,
+      "name": "Bezirk Zurzach",
+      "nativeName": "Bezirk Zurzach",
+      "code": "CH-AG-6458788",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-AG",
+      "latitude": 47.56182,
+      "longitude": 8.2802
+    },
+    {
+      "id": 6458774,
+      "name": "Bremgarten District",
+      "nativeName": "Bezirk Bremgarten",
+      "code": "CH-AG-6458774",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-AG",
+      "latitude": 47.34927,
+      "longitude": 8.33343
+    },
+    {
+      "id": 6458860,
+      "name": "Laufenburg District",
+      "nativeName": "Bezirk Laufenburg",
+      "code": "CH-AG-6458860",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-AG",
+      "latitude": 47.51844,
+      "longitude": 8.03878
+    }
+  ]
+}

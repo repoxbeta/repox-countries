@@ -1,0 +1,62 @@
+{
+  "stateId": 409315,
+  "stateCode": "AM-VD",
+  "countryCode": "AM",
+  "cities": [
+    {
+      "id": 13133025,
+      "name": "Areni Municipality",
+      "nativeName": "Areni Municipality",
+      "code": "AM-VD-13133025",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-VD",
+      "latitude": 39.7361,
+      "longitude": 45.21918
+    },
+    {
+      "id": 13133022,
+      "name": "Jermuk Municipality",
+      "nativeName": "Jermuk Municipality",
+      "code": "AM-VD-13133022",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-VD",
+      "latitude": 39.83444,
+      "longitude": 45.68669
+    },
+    {
+      "id": 13133023,
+      "name": "Vayk Municipality",
+      "nativeName": "Vayk Municipality",
+      "code": "AM-VD-13133023",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-VD",
+      "latitude": 39.68581,
+      "longitude": 45.51126
+    },
+    {
+      "id": 13133026,
+      "name": "Yeghegis Municipality",
+      "nativeName": "Yeghegis Municipality",
+      "code": "AM-VD-13133026",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-VD",
+      "latitude": 39.90326,
+      "longitude": 45.39859
+    },
+    {
+      "id": 13133019,
+      "name": "Yeghegnadzor Municipality",
+      "nativeName": "Yeghegnadzor Municipality",
+      "code": "AM-VD-13133019",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-VD",
+      "latitude": 39.76449,
+      "longitude": 45.3528
+    }
+  ]
+}

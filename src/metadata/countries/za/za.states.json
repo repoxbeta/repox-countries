@@ -1,0 +1,105 @@
+{
+  "countryId": 953987,
+  "countryCode": "ZA",
+  "states": [
+    {
+      "id": 1085593,
+      "name": "Eastern Cape",
+      "nativeName": "Eastern Cape",
+      "code": "ZA-EC",
+      "internalCode": "EC",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "latitude": -32,
+      "longitude": 26
+    },
+    {
+      "id": 967573,
+      "name": "Free State",
+      "nativeName": "Free State",
+      "code": "ZA-FS",
+      "internalCode": "FS",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "latitude": -29,
+      "longitude": 26
+    },
+    {
+      "id": 1085594,
+      "name": "Gauteng",
+      "nativeName": "Gauteng",
+      "code": "ZA-GP",
+      "internalCode": "GP",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "latitude": -26.08333,
+      "longitude": 28.25
+    },
+    {
+      "id": 972062,
+      "name": "KwaZulu-Natal",
+      "nativeName": "KwaZulu-Natal",
+      "code": "ZA-KZN",
+      "internalCode": "KZN",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "latitude": -29,
+      "longitude": 30
+    },
+    {
+      "id": 1085597,
+      "name": "Limpopo",
+      "nativeName": "Limpopo",
+      "code": "ZA-LP",
+      "internalCode": "LP",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "latitude": -24,
+      "longitude": 29.5
+    },
+    {
+      "id": 1085595,
+      "name": "Mpumalanga",
+      "nativeName": "Mpumalanga",
+      "code": "ZA-MP",
+      "internalCode": "MP",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "latitude": -26,
+      "longitude": 30
+    },
+    {
+      "id": 1085598,
+      "name": "North West",
+      "nativeName": "North West",
+      "code": "ZA-NW",
+      "internalCode": "NW",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "latitude": -26.5,
+      "longitude": 26
+    },
+    {
+      "id": 1085596,
+      "name": "Northern Cape",
+      "nativeName": "Northern Cape",
+      "code": "ZA-NC",
+      "internalCode": "NC",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "latitude": -29.5,
+      "longitude": 22
+    },
+    {
+      "id": 1085599,
+      "name": "Western Cape",
+      "nativeName": "Western Cape",
+      "code": "ZA-WC",
+      "internalCode": "WC",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "latitude": -34,
+      "longitude": 20
+    }
+  ]
+}

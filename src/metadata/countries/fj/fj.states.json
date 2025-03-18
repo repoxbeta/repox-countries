@@ -1,0 +1,61 @@
+{
+  "countryId": 2205218,
+  "countryCode": "FJ",
+  "states": [
+    {
+      "id": 2205272,
+      "name": "Central",
+      "nativeName": "Central Division",
+      "code": "FJ-C",
+      "internalCode": "C",
+      "countryId": 2205218,
+      "countryCode": "FJ",
+      "latitude": -18,
+      "longitude": 178.33333
+    },
+    {
+      "id": 4036647,
+      "name": "Eastern",
+      "nativeName": "Eastern Division",
+      "code": "FJ-E",
+      "internalCode": "E",
+      "countryId": 2205218,
+      "countryCode": "FJ",
+      "latitude": -18.5,
+      "longitude": 180
+    },
+    {
+      "id": 2199295,
+      "name": "Northern",
+      "nativeName": "Northern Division",
+      "code": "FJ-N",
+      "internalCode": "N",
+      "countryId": 2205218,
+      "countryCode": "FJ",
+      "latitude": -16.5,
+      "longitude": 179.5
+    },
+    {
+      "id": 6324593,
+      "name": "Rotuma",
+      "nativeName": "Rotuma",
+      "code": "FJ-R",
+      "internalCode": "R",
+      "countryId": 2205218,
+      "countryCode": "FJ",
+      "latitude": -12.50798,
+      "longitude": 177.06596
+    },
+    {
+      "id": 2194371,
+      "name": "Western",
+      "nativeName": "Western Division",
+      "code": "FJ-W",
+      "internalCode": "W",
+      "countryId": 2205218,
+      "countryCode": "FJ",
+      "latitude": -18,
+      "longitude": 177.5
+    }
+  ]
+}

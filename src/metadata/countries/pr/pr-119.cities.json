@@ -1,0 +1,106 @@
+{
+  "stateId": 4567823,
+  "stateCode": "PR-119",
+  "countryCode": "PR",
+  "cities": [
+    {
+      "id": 7268082,
+      "name": "Ciénaga Alta Barrio",
+      "nativeName": "Ciénaga Alta Barrio",
+      "code": "PR-119-7268082",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-119",
+      "latitude": 18.32455,
+      "longitude": -65.86116
+    },
+    {
+      "id": 7268083,
+      "name": "Ciénaga Baja Barrio",
+      "nativeName": "Ciénaga Baja Barrio",
+      "code": "PR-119-7268083",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-119",
+      "latitude": 18.37961,
+      "longitude": -65.85124
+    },
+    {
+      "id": 7268449,
+      "name": "Guzmán Abajo Barrio",
+      "nativeName": "Guzmán Abajo Barrio",
+      "code": "PR-119-7268449",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-119",
+      "latitude": 18.35117,
+      "longitude": -65.8369
+    },
+    {
+      "id": 7268450,
+      "name": "Guzmán Arriba Barrio",
+      "nativeName": "Guzmán Arriba Barrio",
+      "code": "PR-119-7268450",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-119",
+      "latitude": 18.29874,
+      "longitude": -65.83259
+    },
+    {
+      "id": 7268472,
+      "name": "Herreras Barrio",
+      "nativeName": "Herreras Barrio",
+      "code": "PR-119-7268472",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-119",
+      "latitude": 18.40483,
+      "longitude": -65.82367
+    },
+    {
+      "id": 7268524,
+      "name": "Jiménez Barrio",
+      "nativeName": "Jiménez Barrio",
+      "code": "PR-119-7268524",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-119",
+      "latitude": 18.33734,
+      "longitude": -65.80643
+    },
+    {
+      "id": 7268609,
+      "name": "Mameyes II Barrio",
+      "nativeName": "Mameyes II Barrio",
+      "code": "PR-119-7268609",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-119",
+      "latitude": 18.33338,
+      "longitude": -65.76759
+    },
+    {
+      "id": 7268909,
+      "name": "Río Grande Barrio-Pueblo",
+      "nativeName": "Río Grande Barrio-Pueblo",
+      "code": "PR-119-7268909",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-119",
+      "latitude": 18.37997,
+      "longitude": -65.83084
+    },
+    {
+      "id": 7269094,
+      "name": "Zarzal Barrio",
+      "nativeName": "Zarzal Barrio",
+      "code": "PR-119-7269094",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-119",
+      "latitude": 18.38691,
+      "longitude": -65.78723
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "stateId": 830695,
+  "stateCode": "FI-04",
+  "countryCode": "FI",
+  "cities": [
+    {
+      "id": 9610694,
+      "name": "Mikkeli",
+      "nativeName": "Mikkeli",
+      "code": "FI-04-9610694",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-04",
+      "latitude": 61.68333,
+      "longitude": 27.26667
+    },
+    {
+      "id": 9610645,
+      "name": "Pieksämäki",
+      "nativeName": "Pieksämäki",
+      "code": "FI-04-9610645",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-04",
+      "latitude": 62.09098,
+      "longitude": 27.55531
+    },
+    {
+      "id": 9610644,
+      "name": "Savonlinna",
+      "nativeName": "Savonlinna",
+      "code": "FI-04-9610644",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-04",
+      "latitude": 62.00918,
+      "longitude": 28.82176
+    }
+  ]
+}

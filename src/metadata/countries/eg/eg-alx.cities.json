@@ -1,0 +1,62 @@
+{
+  "stateId": 361059,
+  "stateCode": "EG-ALX",
+  "countryCode": "EG",
+  "cities": [
+    {
+      "id": 361628,
+      "name": "Al Ajami",
+      "nativeName": "Al Ajami",
+      "code": "EG-ALX-361628",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-ALX",
+      "latitude": 31.12269,
+      "longitude": 29.78381
+    },
+    {
+      "id": 11205726,
+      "name": "Al Muntazah",
+      "nativeName": "Al Muntazah",
+      "code": "EG-ALX-11205726",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-ALX",
+      "latitude": 31.24947,
+      "longitude": 30.0325
+    },
+    {
+      "id": 8555987,
+      "name": "Borg El Arab",
+      "nativeName": "Borg El Arab",
+      "code": "EG-ALX-8555987",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-ALX",
+      "latitude": 30.84889,
+      "longitude": 29.61167
+    },
+    {
+      "id": 353929,
+      "name": "Karmūs",
+      "nativeName": "Karmūs",
+      "code": "EG-ALX-353929",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-ALX",
+      "latitude": 31.18664,
+      "longitude": 29.9036
+    },
+    {
+      "id": 352720,
+      "name": "Markaz Maryūţ",
+      "nativeName": "Markaz Maryūţ",
+      "code": "EG-ALX-352720",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-ALX",
+      "latitude": 30.88333,
+      "longitude": 29.75
+    }
+  ]
+}

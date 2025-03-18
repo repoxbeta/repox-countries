@@ -1,0 +1,29 @@
+{
+  "stateId": 9782165,
+  "stateCode": "IM-9782165",
+  "countryCode": "IM",
+  "cities": [
+    {
+      "id": 3042267,
+      "name": "Ballabeg",
+      "nativeName": "Ballabeg",
+      "code": "IM-9782165-3042267",
+      "countryId": 3042225,
+      "countryCode": "IM",
+      "stateCode": "IM-9782165",
+      "latitude": 54.1,
+      "longitude": -4.68333
+    },
+    {
+      "id": 3042251,
+      "name": "Colby",
+      "nativeName": "Colby",
+      "code": "IM-9782165-3042251",
+      "countryId": 3042225,
+      "countryCode": "IM",
+      "stateCode": "IM-9782165",
+      "latitude": 54.09665,
+      "longitude": -4.70592
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "countryId": 2186224,
+  "countryCode": "NZ",
+  "states": [
+    {
+      "id": 2193734,
+      "name": "Auckland",
+      "nativeName": "Auckland",
+      "code": "NZ-AUK",
+      "internalCode": "AUK",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "latitude": -36.85,
+      "longitude": 174.78333
+    },
+    {
+      "id": 2182560,
+      "name": "Bay of Plenty",
+      "nativeName": "Bay of Plenty",
+      "code": "NZ-BOP",
+      "internalCode": "BOP",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "latitude": -38.1648,
+      "longitude": 176.91284
+    },
+    {
+      "id": 2192628,
+      "name": "Canterbury",
+      "nativeName": "Canterbury",
+      "code": "NZ-CAN",
+      "internalCode": "CAN",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "latitude": -43.5,
+      "longitude": 171.5
+    },
+    {
+      "id": 4033013,
+      "name": "Chatham Islands",
+      "nativeName": "Chatham Islands",
+      "code": "NZ-CIT",
+      "internalCode": "CIT",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "latitude": -44,
+      "longitude": -176.5
+    },
+    {
+      "id": 2190767,
+      "name": "Gisborne",
+      "nativeName": "Gisborne",
+      "code": "NZ-GIS",
+      "internalCode": "GIS",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "latitude": -38.65,
+      "longitude": 178
+    },
+    {
+      "id": 2190146,
+      "name": "Hawke's Bay Region",
+      "nativeName": "Hawke's Bay",
+      "code": "NZ-HKB",
+      "internalCode": "HKB",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "latitude": -39.66667,
+      "longitude": 176.5
+    },
+    {
+      "id": 2179671,
+      "name": "Manawatu-Wanganui",
+      "nativeName": "Manawatu-Wanganui",
+      "code": "NZ-MWT",
+      "internalCode": "MWT",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "latitude": -39.95,
+      "longitude": 175.01667
+    },
+    {
+      "id": 2187304,
+      "name": "Marlborough",
+      "nativeName": "Marlborough",
+      "code": "NZ-MBH",
+      "internalCode": "MBH",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "latitude": -41.66667,
+      "longitude": 173.5
+    },
+    {
+      "id": 6612108,
+      "name": "Nelson Region",
+      "nativeName": "Nelson",
+      "code": "NZ-NSN",
+      "internalCode": "NSN",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "latitude": -41.27089,
+      "longitude": 173.28401
+    },
+    {
+      "id": 2185978,
+      "name": "Northland",
+      "nativeName": "Northland",
+      "code": "NZ-NTL",
+      "internalCode": "NTL",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "latitude": -35.5,
+      "longitude": 174
+    },
+    {
+      "id": 6612109,
+      "name": "Otago",
+      "nativeName": "Otago",
+      "code": "NZ-OTA",
+      "internalCode": "OTA",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "latitude": -45.26392,
+      "longitude": 169.53501
+    },
+    {
+      "id": 2182501,
+      "name": "Southland",
+      "nativeName": "Southland",
+      "code": "NZ-STL",
+      "internalCode": "STL",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "latitude": -45.66667,
+      "longitude": 168
+    },
+    {
+      "id": 2181872,
+      "name": "Taranaki Region",
+      "nativeName": "Taranaki",
+      "code": "NZ-TKI",
+      "internalCode": "TKI",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "latitude": -39.16667,
+      "longitude": 174.66667
+    },
+    {
+      "id": 2181818,
+      "name": "Tasman District",
+      "nativeName": "Tasman",
+      "code": "NZ-TAS",
+      "internalCode": "TAS",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "latitude": -41.2,
+      "longitude": 173.05
+    },
+    {
+      "id": 2180293,
+      "name": "Waikato Region",
+      "nativeName": "Waikato",
+      "code": "NZ-WKO",
+      "internalCode": "WKO",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "latitude": -37.5,
+      "longitude": 175.33333
+    },
+    {
+      "id": 2179538,
+      "name": "Wellington Region",
+      "nativeName": "Wellington",
+      "code": "NZ-WGN",
+      "internalCode": "WGN",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "latitude": -41.28333,
+      "longitude": 174.76667
+    },
+    {
+      "id": 6612113,
+      "name": "West Coast",
+      "nativeName": "West Coast",
+      "code": "NZ-WTC",
+      "internalCode": "WTC",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "latitude": -42.45658,
+      "longitude": 171.22081
+    }
+  ]
+}

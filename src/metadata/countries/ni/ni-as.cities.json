@@ -1,0 +1,139 @@
+{
+  "stateId": 3830308,
+  "stateCode": "NI-AS",
+  "countryCode": "NI",
+  "cities": [
+    {
+      "id": 3620678,
+      "name": "Bluefields",
+      "nativeName": "Bluefields",
+      "code": "NI-AS-3620678",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-AS",
+      "latitude": 12,
+      "longitude": -83.75
+    },
+    {
+      "id": 3620265,
+      "name": "Corn Islands",
+      "nativeName": "Corn Islands",
+      "code": "NI-AS-3620265",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-AS",
+      "latitude": 12.17697,
+      "longitude": -83.04554
+    },
+    {
+      "id": 9161306,
+      "name": "Desembocadura de Río Grande",
+      "nativeName": "Desembocadura de Río Grande",
+      "code": "NI-AS-9161306",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-AS",
+      "latitude": 12.9319,
+      "longitude": -83.5769
+    },
+    {
+      "id": 9166071,
+      "name": "Kukra Hill",
+      "nativeName": "Kukra Hill",
+      "code": "NI-AS-9166071",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-AS",
+      "latitude": 12.24046,
+      "longitude": -83.74655
+    },
+    {
+      "id": 8335440,
+      "name": "Municipality of Bocana de Paiwas",
+      "nativeName": "Municipality of Bocana de Paiwas",
+      "code": "NI-AS-8335440",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-AS",
+      "latitude": 12.8,
+      "longitude": -85.13334
+    },
+    {
+      "id": 10301387,
+      "name": "Municipality of El Ayote",
+      "nativeName": "Municipality of El Ayote",
+      "code": "NI-AS-10301387",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-AS",
+      "latitude": 12.5,
+      "longitude": -84.81667
+    },
+    {
+      "id": 9165985,
+      "name": "Municipality of El Rama",
+      "nativeName": "Municipality of El Rama",
+      "code": "NI-AS-9165985",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-AS",
+      "latitude": 12.15,
+      "longitude": -84.21667
+    },
+    {
+      "id": 3617561,
+      "name": "Municipality of Muelle de los Bueyes",
+      "nativeName": "Municipality of Muelle de los Bueyes",
+      "code": "NI-AS-3617561",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-AS",
+      "latitude": 12.13487,
+      "longitude": -84.58383
+    },
+    {
+      "id": 8335438,
+      "name": "Municipio El Tortuguero",
+      "nativeName": "Municipio El Tortuguero",
+      "code": "NI-AS-8335438",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-AS",
+      "latitude": 12.82079,
+      "longitude": -84.20021
+    },
+    {
+      "id": 3618617,
+      "name": "Municipio de La Cruz de Río Grande",
+      "nativeName": "Municipio de La Cruz de Río Grande",
+      "code": "NI-AS-3618617",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-AS",
+      "latitude": 13.09556,
+      "longitude": -84.36533
+    },
+    {
+      "id": 9612993,
+      "name": "Nueva Guinea",
+      "nativeName": "Nueva Guinea",
+      "code": "NI-AS-9612993",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-AS",
+      "latitude": 11.6833,
+      "longitude": -84.45
+    },
+    {
+      "id": 9166072,
+      "name": "Pearl Lagoon",
+      "nativeName": "Pearl Lagoon",
+      "code": "NI-AS-9166072",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-AS",
+      "latitude": 12.34189,
+      "longitude": -83.67162
+    }
+  ]
+}

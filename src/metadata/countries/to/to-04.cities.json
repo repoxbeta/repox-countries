@@ -1,0 +1,84 @@
+{
+  "stateId": 4032279,
+  "stateCode": "TO-04",
+  "countryCode": "TO",
+  "cities": [
+    {
+      "id": 12041931,
+      "name": "Kolofo'ou",
+      "nativeName": "Kolofo'ou",
+      "code": "TO-04-12041931",
+      "countryId": 4032283,
+      "countryCode": "TO",
+      "stateCode": "TO-04",
+      "latitude": -21.14483,
+      "longitude": -175.1832
+    },
+    {
+      "id": 12041932,
+      "name": "Kolomotu'a",
+      "nativeName": "Kolomotu'a",
+      "code": "TO-04-12041932",
+      "countryId": 4032283,
+      "countryCode": "TO",
+      "stateCode": "TO-04",
+      "latitude": -21.1433,
+      "longitude": -175.24109
+    },
+    {
+      "id": 12041933,
+      "name": "Kolovai",
+      "nativeName": "Kolovai",
+      "code": "TO-04-12041933",
+      "countryId": 4032283,
+      "countryCode": "TO",
+      "stateCode": "TO-04",
+      "latitude": -21.11156,
+      "longitude": -175.34301
+    },
+    {
+      "id": 12041934,
+      "name": "Lapaha",
+      "nativeName": "Lapaha",
+      "code": "TO-04-12041934",
+      "countryId": 4032283,
+      "countryCode": "TO",
+      "stateCode": "TO-04",
+      "latitude": -21.16205,
+      "longitude": -175.0799
+    },
+    {
+      "id": 12041940,
+      "name": "Nukunuku",
+      "nativeName": "Nukunuku",
+      "code": "TO-04-12041940",
+      "countryId": 4032283,
+      "countryCode": "TO",
+      "stateCode": "TO-04",
+      "latitude": -21.15994,
+      "longitude": -175.30531
+    },
+    {
+      "id": 12041943,
+      "name": "Tatakamotonga",
+      "nativeName": "Tatakamotonga",
+      "code": "TO-04-12041943",
+      "countryId": 4032283,
+      "countryCode": "TO",
+      "stateCode": "TO-04",
+      "latitude": -21.22721,
+      "longitude": -175.13604
+    },
+    {
+      "id": 12041945,
+      "name": "Vaini",
+      "nativeName": "Vaini",
+      "code": "TO-04-12041945",
+      "countryId": 4032283,
+      "countryCode": "TO",
+      "stateCode": "TO-04",
+      "latitude": -21.19859,
+      "longitude": -175.20068
+    }
+  ]
+}

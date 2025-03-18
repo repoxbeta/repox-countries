@@ -1,0 +1,51 @@
+{
+  "stateId": 6612109,
+  "stateCode": "NZ-OTA",
+  "countryCode": "NZ",
+  "cities": [
+    {
+      "id": 7910035,
+      "name": "Central Otago District",
+      "nativeName": "Central Otago District",
+      "code": "NZ-OTA-7910035",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-OTA",
+      "latitude": -45.13088,
+      "longitude": 169.60406
+    },
+    {
+      "id": 7910037,
+      "name": "Clutha District",
+      "nativeName": "Clutha District",
+      "code": "NZ-OTA-7910037",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-OTA",
+      "latitude": -46.03883,
+      "longitude": 169.60617
+    },
+    {
+      "id": 7910038,
+      "name": "Dunedin City",
+      "nativeName": "Dunedin City",
+      "code": "NZ-OTA-7910038",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-OTA",
+      "latitude": -45.64051,
+      "longitude": 170.24368
+    },
+    {
+      "id": 7910058,
+      "name": "Queenstown-Lakes District",
+      "nativeName": "Queenstown-Lakes District",
+      "code": "NZ-OTA-7910058",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-OTA",
+      "latitude": -44.66149,
+      "longitude": 168.91809
+    }
+  ]
+}

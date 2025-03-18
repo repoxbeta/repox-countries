@@ -1,0 +1,51 @@
+{
+  "stateId": 99022,
+  "stateCode": "IQ-QA",
+  "countryCode": "IQ",
+  "cities": [
+    {
+      "id": 99737,
+      "name": "Afaq District",
+      "nativeName": "Afaq District",
+      "code": "IQ-QA-99737",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-QA",
+      "latitude": 31.9334,
+      "longitude": 45.41428
+    },
+    {
+      "id": 6850588,
+      "name": "Hamza District",
+      "nativeName": "Hamza District",
+      "code": "IQ-QA-6850588",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-QA",
+      "latitude": 31.72224,
+      "longitude": 44.98503
+    },
+    {
+      "id": 98634,
+      "name": "Qada Al-Shamiya",
+      "nativeName": "Qada Al-Shamiya",
+      "code": "IQ-QA-98634",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-QA",
+      "latitude": 31.77907,
+      "longitude": 44.60861
+    },
+    {
+      "id": 99763,
+      "name": "Qada Diwaniya",
+      "nativeName": "Qada Diwaniya",
+      "code": "IQ-QA-99763",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-QA",
+      "latitude": 31.90787,
+      "longitude": 44.83852
+    }
+  ]
+}

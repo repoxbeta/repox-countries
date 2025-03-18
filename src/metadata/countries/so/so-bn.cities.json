@@ -1,0 +1,29 @@
+{
+  "stateId": 64833,
+  "stateCode": "SO-BN",
+  "countryCode": "SO",
+  "cities": [
+    {
+      "id": 9179621,
+      "name": "Banadir",
+      "nativeName": "Banadir",
+      "code": "SO-BN-9179621",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-BN",
+      "latitude": 2.10718,
+      "longitude": 45.42684
+    },
+    {
+      "id": 9180017,
+      "name": "Hodan District",
+      "nativeName": "Hodan",
+      "code": "SO-BN-9180017",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-BN",
+      "latitude": 2.03333,
+      "longitude": 45.35
+    }
+  ]
+}

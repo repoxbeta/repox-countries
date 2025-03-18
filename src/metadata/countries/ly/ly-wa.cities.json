@@ -1,0 +1,205 @@
+{
+  "stateId": 7602692,
+  "stateCode": "LY-WA",
+  "countryCode": "LY",
+  "cities": [
+    {
+      "id": 89113,
+      "name": "Ajdabiya",
+      "nativeName": "Ajdabiya",
+      "code": "LY-WA-89113",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-WA",
+      "latitude": 30.75545,
+      "longitude": 20.22625
+    },
+    {
+      "id": 2215210,
+      "name": "Al Burayqah",
+      "nativeName": "Al Burayqah",
+      "code": "LY-WA-2215210",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-WA",
+      "latitude": 30.40624,
+      "longitude": 19.57386
+    },
+    {
+      "id": 88999,
+      "name": "Al Hīrī",
+      "nativeName": "Al Hīrī",
+      "code": "LY-WA-88999",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-WA",
+      "latitude": 29.05,
+      "longitude": 21.51667
+    },
+    {
+      "id": 88925,
+      "name": "Al Labbah",
+      "nativeName": "Al Labbah",
+      "code": "LY-WA-88925",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-WA",
+      "latitude": 29.03333,
+      "longitude": 21.56667
+    },
+    {
+      "id": 88893,
+      "name": "Al Mawāḩī",
+      "nativeName": "Al Mawāḩī",
+      "code": "LY-WA-88893",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-WA",
+      "latitude": 29.48333,
+      "longitude": 22.48333
+    },
+    {
+      "id": 88635,
+      "name": "Ash Shawāshinah",
+      "nativeName": "Ash Shawāshinah",
+      "code": "LY-WA-88635",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-WA",
+      "latitude": 29.17167,
+      "longitude": 21.29417
+    },
+    {
+      "id": 88626,
+      "name": "Ash Shurraf",
+      "nativeName": "Ash Shurraf",
+      "code": "LY-WA-88626",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-WA",
+      "latitude": 29.05,
+      "longitude": 21.51667
+    },
+    {
+      "id": 88533,
+      "name": "Awjilah",
+      "nativeName": "Awjilah",
+      "code": "LY-WA-88533",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-WA",
+      "latitude": 29.10806,
+      "longitude": 21.28694
+    },
+    {
+      "id": 88380,
+      "name": "Az Zuwaytīnah",
+      "nativeName": "Az Zuwaytīnah",
+      "code": "LY-WA-88380",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-WA",
+      "latitude": 30.9522,
+      "longitude": 20.12022
+    },
+    {
+      "id": 2219698,
+      "name": "El Agheila",
+      "nativeName": "Al ‘Uqaylah",
+      "code": "LY-WA-2219698",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-WA",
+      "latitude": 30.25711,
+      "longitude": 19.20098
+    },
+    {
+      "id": 86068,
+      "name": "Jakharrah",
+      "nativeName": "Jakharrah",
+      "code": "LY-WA-86068",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-WA",
+      "latitude": 29.21667,
+      "longitude": 21.56667
+    },
+    {
+      "id": 85946,
+      "name": "Jikharrah",
+      "nativeName": "Jikharrah",
+      "code": "LY-WA-85946",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-WA",
+      "latitude": 29.28333,
+      "longitude": 21.63333
+    },
+    {
+      "id": 86049,
+      "name": "Jālū",
+      "nativeName": "Jālū",
+      "code": "LY-WA-86049",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-WA",
+      "latitude": 29.03333,
+      "longitude": 21.55
+    },
+    {
+      "id": 2215282,
+      "name": "Marādah",
+      "nativeName": "Marādah",
+      "code": "LY-WA-2215282",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-WA",
+      "latitude": 29.22054,
+      "longitude": 19.20454
+    },
+    {
+      "id": 85030,
+      "name": "Maslīwah",
+      "nativeName": "Maslīwah",
+      "code": "LY-WA-85030",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-WA",
+      "latitude": 29.05,
+      "longitude": 21.5
+    },
+    {
+      "id": 81165,
+      "name": "Qabr Umm al Hīshah",
+      "nativeName": "Qabr Umm al Hīshah",
+      "code": "LY-WA-81165",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-WA",
+      "latitude": 30.14948,
+      "longitude": 20.05229
+    },
+    {
+      "id": 2213870,
+      "name": "Qaryat Bishr",
+      "nativeName": "Qaryat Bishr",
+      "code": "LY-WA-2213870",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-WA",
+      "latitude": 30.29145,
+      "longitude": 19.42543
+    },
+    {
+      "id": 83451,
+      "name": "Rāshidah",
+      "nativeName": "Rāshidah",
+      "code": "LY-WA-83451",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-WA",
+      "latitude": 29.01667,
+      "longitude": 21.51667
+    }
+  ]
+}

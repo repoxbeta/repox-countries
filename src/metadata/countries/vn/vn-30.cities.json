@@ -1,0 +1,194 @@
+{
+  "stateId": 1581088,
+  "stateCode": "VN-30",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 1904977,
+      "name": "Chư Prông District",
+      "nativeName": "Huyện Chư Prông",
+      "code": "VN-30-1904977",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-30",
+      "latitude": 13.59976,
+      "longitude": 107.81099
+    },
+    {
+      "id": 1904974,
+      "name": "Chư Păh District",
+      "nativeName": "Huyện Chư Păh",
+      "code": "VN-30-1904974",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-30",
+      "latitude": 14.15941,
+      "longitude": 107.98411
+    },
+    {
+      "id": 1904978,
+      "name": "Chư Sê District",
+      "nativeName": "Huyện Chư Sê",
+      "code": "VN-30-1904978",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-30",
+      "latitude": 13.71729,
+      "longitude": 108.10557
+    },
+    {
+      "id": 8701097,
+      "name": "Huyện Chư Pưh",
+      "nativeName": "Huyện Chư Pưh",
+      "code": "VN-30-8701097",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-30",
+      "latitude": 13.52183,
+      "longitude": 108.07946
+    },
+    {
+      "id": 8701099,
+      "name": "Huyện Ia Pa",
+      "nativeName": "Huyện Ia Pa",
+      "code": "VN-30-8701099",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-30",
+      "latitude": 13.5161,
+      "longitude": 108.53879
+    },
+    {
+      "id": 8701098,
+      "name": "Huyện Phú Thiện",
+      "nativeName": "Huyện Phú Thiện",
+      "code": "VN-30-8701098",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-30",
+      "latitude": 13.49046,
+      "longitude": 108.3218
+    },
+    {
+      "id": 8701101,
+      "name": "Huyện Đak Pơ",
+      "nativeName": "Huyện Đak Pơ",
+      "code": "VN-30-8701101",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-30",
+      "latitude": 13.92068,
+      "longitude": 108.61183
+    },
+    {
+      "id": 8701100,
+      "name": "Huyện Đak Đoa",
+      "nativeName": "Huyện Đak Đoa",
+      "code": "VN-30-8701100",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-30",
+      "latitude": 14.0659,
+      "longitude": 108.14204
+    },
+    {
+      "id": 1904975,
+      "name": "Ia Grai District",
+      "nativeName": "Huyện Ia Grai",
+      "code": "VN-30-1904975",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-30",
+      "latitude": 13.98937,
+      "longitude": 107.7374
+    },
+    {
+      "id": 1904984,
+      "name": "K'Bang District",
+      "nativeName": "Huyện KBang",
+      "code": "VN-30-1904984",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-30",
+      "latitude": 14.30506,
+      "longitude": 108.49779
+    },
+    {
+      "id": 1904979,
+      "name": "Krông Pa District",
+      "nativeName": "Huyện Krông Pa",
+      "code": "VN-30-1904979",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-30",
+      "latitude": 13.23152,
+      "longitude": 108.65494
+    },
+    {
+      "id": 1904981,
+      "name": "Kông Chro District",
+      "nativeName": "Huyện Kông Chro",
+      "code": "VN-30-1904981",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-30",
+      "latitude": 13.73519,
+      "longitude": 108.59697
+    },
+    {
+      "id": 1904983,
+      "name": "Mang Yang District",
+      "nativeName": "Huyện Mang Yang",
+      "code": "VN-30-1904983",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-30",
+      "latitude": 13.9284,
+      "longitude": 108.30246
+    },
+    {
+      "id": 1904973,
+      "name": "Thành Phố Pleiku",
+      "nativeName": "Thành Phố Pleiku",
+      "code": "VN-30-1904973",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-30",
+      "latitude": 13.95024,
+      "longitude": 108.00818
+    },
+    {
+      "id": 1904980,
+      "name": "Thị Xã A Yun Pa",
+      "nativeName": "Thị Xã A Yun Pa",
+      "code": "VN-30-1904980",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-30",
+      "latitude": 13.31922,
+      "longitude": 108.41886
+    },
+    {
+      "id": 1904982,
+      "name": "Thị Xã An Khê",
+      "nativeName": "Thị Xã An Khê",
+      "code": "VN-30-1904982",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-30",
+      "latitude": 14.00665,
+      "longitude": 108.69665
+    },
+    {
+      "id": 1904976,
+      "name": "Đức Cơ District",
+      "nativeName": "Huyện Đức Cơ",
+      "code": "VN-30-1904976",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-30",
+      "latitude": 13.78454,
+      "longitude": 107.6697
+    }
+  ]
+}

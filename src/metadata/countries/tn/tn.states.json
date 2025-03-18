@@ -1,0 +1,270 @@
+{
+  "countryId": 2464461,
+  "countryCode": "TN",
+  "states": [
+    {
+      "id": 2473245,
+      "name": "Ariana Governorate",
+      "nativeName": "Gouvernorat de l’Ariana",
+      "code": "TN-12",
+      "internalCode": "12",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "latitude": 36.98333,
+      "longitude": 10.11667
+    },
+    {
+      "id": 2472477,
+      "name": "Ben Arous Governorate",
+      "nativeName": "Gouvernorat de Ben Arous",
+      "code": "TN-13",
+      "internalCode": "13",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "latitude": 36.72127,
+      "longitude": 10.32303
+    },
+    {
+      "id": 2472699,
+      "name": "Bizerte Governorate",
+      "nativeName": "Gouvernorat de Bizerte",
+      "code": "TN-23",
+      "internalCode": "23",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "latitude": 37.08333,
+      "longitude": 9.58333
+    },
+    {
+      "id": 2472770,
+      "name": "Béja Governorate",
+      "nativeName": "Gouvernorat de Béja",
+      "code": "TN-31",
+      "internalCode": "31",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "latitude": 36.66667,
+      "longitude": 9.25
+    },
+    {
+      "id": 2468365,
+      "name": "Gabès Governorate",
+      "nativeName": "Gouvernorat de Gabès",
+      "code": "TN-81",
+      "internalCode": "81",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "latitude": 33.83333,
+      "longitude": 9.75
+    },
+    {
+      "id": 2468351,
+      "name": "Gafsa",
+      "nativeName": "Gafsa Governorate",
+      "code": "TN-71",
+      "internalCode": "71",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "latitude": 34.5,
+      "longitude": 9
+    },
+    {
+      "id": 2470085,
+      "name": "Jendouba Governorate",
+      "nativeName": "Gouvernorat de Jendouba",
+      "code": "TN-32",
+      "internalCode": "32",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "latitude": 36.66667,
+      "longitude": 8.75
+    },
+    {
+      "id": 2473451,
+      "name": "Kairouan",
+      "nativeName": "Gouvernorat de Kairouan",
+      "code": "TN-41",
+      "internalCode": "41",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "latitude": 35.58333,
+      "longitude": 9.83333
+    },
+    {
+      "id": 2473460,
+      "name": "Kasserine Governorate",
+      "nativeName": "Gouvernorat de Kasserine",
+      "code": "TN-42",
+      "internalCode": "42",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "latitude": 35.25,
+      "longitude": 8.78333
+    },
+    {
+      "id": 2468014,
+      "name": "Kebili Governorate",
+      "nativeName": "Gouvernorat de Kébili",
+      "code": "TN-73",
+      "internalCode": "73",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "latitude": 33.5,
+      "longitude": 8.83333
+    },
+    {
+      "id": 2473637,
+      "name": "Kef Governorate",
+      "nativeName": "Gouvernorat de Kef",
+      "code": "TN-33",
+      "internalCode": "33",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "latitude": 36.08333,
+      "longitude": 8.75
+    },
+    {
+      "id": 2473574,
+      "name": "Mahdia Governorate",
+      "nativeName": "Gouvernorat de Mahdia",
+      "code": "TN-53",
+      "internalCode": "53",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "latitude": 35.33333,
+      "longitude": 10.58333
+    },
+    {
+      "id": 6201192,
+      "name": "Manouba",
+      "nativeName": "Manouba",
+      "code": "TN-14",
+      "internalCode": "14",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "latitude": 36.83333,
+      "longitude": 9.83333
+    },
+    {
+      "id": 2469470,
+      "name": "Medenine Governorate",
+      "nativeName": "Gouvernorat de Médenine",
+      "code": "TN-82",
+      "internalCode": "82",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "latitude": 33.33333,
+      "longitude": 11
+    },
+    {
+      "id": 2473495,
+      "name": "Monastir Governorate",
+      "nativeName": "Gouvernorat de Monastir",
+      "code": "TN-52",
+      "internalCode": "52",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "latitude": 35.61667,
+      "longitude": 10.75
+    },
+    {
+      "id": 2468576,
+      "name": "Nabeul Governorate",
+      "nativeName": "Gouvernorat de Nabeul",
+      "code": "TN-21",
+      "internalCode": "21",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "latitude": 36.66667,
+      "longitude": 10.66667
+    },
+    {
+      "id": 2467450,
+      "name": "Sfax Governorate",
+      "nativeName": "Gouvernorat de Sfax",
+      "code": "TN-61",
+      "internalCode": "61",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "latitude": 34.75,
+      "longitude": 10.41667
+    },
+    {
+      "id": 2465837,
+      "name": "Sidi Bouzid Governorate",
+      "nativeName": "Gouvernorat de Sidi Bouzid",
+      "code": "TN-43",
+      "internalCode": "43",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "latitude": 34.83333,
+      "longitude": 9.5
+    },
+    {
+      "id": 2465027,
+      "name": "Siliana Governorate",
+      "nativeName": "Gouvernorat de Siliana",
+      "code": "TN-34",
+      "internalCode": "34",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "latitude": 36,
+      "longitude": 9.33333
+    },
+    {
+      "id": 2464912,
+      "name": "Sousse Governorate",
+      "nativeName": "Gouvernorat de Sousse",
+      "code": "TN-51",
+      "internalCode": "51",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "latitude": 35.91667,
+      "longitude": 10.41667
+    },
+    {
+      "id": 2464698,
+      "name": "Tataouine",
+      "nativeName": "Tataouine",
+      "code": "TN-83",
+      "internalCode": "83",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "latitude": 32,
+      "longitude": 10
+    },
+    {
+      "id": 2464645,
+      "name": "Tozeur Governorate",
+      "nativeName": "Gouvernorat de Tozeur",
+      "code": "TN-72",
+      "internalCode": "72",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "latitude": 34,
+      "longitude": 8.08333
+    },
+    {
+      "id": 2464464,
+      "name": "Tunis Governorate",
+      "nativeName": "Gouvernorat de Tunis",
+      "code": "TN-11",
+      "internalCode": "11",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "latitude": 36.78633,
+      "longitude": 10.18484
+    },
+    {
+      "id": 2464038,
+      "name": "Zaghouan Governorate",
+      "nativeName": "Gouvernorat de Zaghouan",
+      "code": "TN-22",
+      "internalCode": "22",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "latitude": 36.33333,
+      "longitude": 10
+    }
+  ]
+}

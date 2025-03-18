@@ -1,0 +1,40 @@
+{
+  "stateId": 3587090,
+  "stateCode": "SV-CH",
+  "countryCode": "SV",
+  "cities": [
+    {
+      "id": 12916950,
+      "name": "Chalatenango Centro",
+      "nativeName": "Chalatenango Centro",
+      "code": "SV-CH-12916950",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-CH",
+      "latitude": 14.17329,
+      "longitude": -89.14178
+    },
+    {
+      "id": 12916940,
+      "name": "Chalatenango Norte",
+      "nativeName": "Chalatenango Norte",
+      "code": "SV-CH-12916940",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-CH",
+      "latitude": 14.32591,
+      "longitude": -89.16929
+    },
+    {
+      "id": 12954153,
+      "name": "Municipio de Chalatenango Sur",
+      "nativeName": "Municipio de Chalatenango Sur",
+      "code": "SV-CH-12954153",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-CH",
+      "latitude": 14.05237,
+      "longitude": -88.87672
+    }
+  ]
+}

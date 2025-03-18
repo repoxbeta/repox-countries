@@ -1,0 +1,40 @@
+{
+  "stateId": 3042042,
+  "stateCode": "LI-07",
+  "countryCode": "LI",
+  "cities": [
+    {
+      "id": 3042041,
+      "name": "Schaan",
+      "nativeName": "Schaan",
+      "code": "LI-07-3042041",
+      "countryId": 3042058,
+      "countryCode": "LI",
+      "stateCode": "LI-07",
+      "latitude": 47.16498,
+      "longitude": 9.50867
+    },
+    {
+      "id": 10352545,
+      "name": "Bim Stall",
+      "nativeName": "Bim Stall",
+      "code": "LI-07-10352545",
+      "countryId": 3042058,
+      "countryCode": "LI",
+      "stateCode": "LI-07",
+      "latitude": 47.13981,
+      "longitude": 9.60064
+    },
+    {
+      "id": 10353264,
+      "name": "Riethof",
+      "nativeName": "Riethof",
+      "code": "LI-07-10353264",
+      "countryId": 3042058,
+      "countryCode": "LI",
+      "stateCode": "LI-07",
+      "latitude": 47.19224,
+      "longitude": 9.52347
+    }
+  ]
+}

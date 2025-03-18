@@ -1,0 +1,205 @@
+{
+  "stateId": 2769848,
+  "stateCode": "AT-4",
+  "countryCode": "AT",
+  "cities": [
+    {
+      "id": 2779274,
+      "name": "Freistadt District",
+      "nativeName": "Politischer Bezirk Freistadt",
+      "code": "AT-4-2779274",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-4",
+      "latitude": 48.47006,
+      "longitude": 14.64844
+    },
+    {
+      "id": 2772395,
+      "name": "Linz Stadt",
+      "nativeName": "Linz Stadt",
+      "code": "AT-4-2772395",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-4",
+      "latitude": 48.3,
+      "longitude": 14.28333
+    },
+    {
+      "id": 2769104,
+      "name": "Perg District",
+      "nativeName": "Politischer Bezirk Perg",
+      "code": "AT-4-2769104",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-4",
+      "latitude": 48.25724,
+      "longitude": 14.71796
+    },
+    {
+      "id": 2781519,
+      "name": "Politischer Bezirk Braunau am Inn",
+      "nativeName": "Politischer Bezirk Braunau am Inn",
+      "code": "AT-4-2781519",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-4",
+      "latitude": 48.11203,
+      "longitude": 13.08924
+    },
+    {
+      "id": 2780393,
+      "name": "Politischer Bezirk Eferding",
+      "nativeName": "Politischer Bezirk Eferding",
+      "code": "AT-4-2780393",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-4",
+      "latitude": 48.32168,
+      "longitude": 13.98453
+    },
+    {
+      "id": 2778435,
+      "name": "Politischer Bezirk Gmunden",
+      "nativeName": "Politischer Bezirk Gmunden",
+      "code": "AT-4-2778435",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-4",
+      "latitude": 47.75,
+      "longitude": 13.75
+    },
+    {
+      "id": 2777971,
+      "name": "Politischer Bezirk Grieskirchen",
+      "nativeName": "Politischer Bezirk Grieskirchen",
+      "code": "AT-4-2777971",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-4",
+      "latitude": 48.26667,
+      "longitude": 13.8
+    },
+    {
+      "id": 2774389,
+      "name": "Politischer Bezirk Kirchdorf an der Krems",
+      "nativeName": "Politischer Bezirk Kirchdorf an der Krems",
+      "code": "AT-4-2774389",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-4",
+      "latitude": 47.84346,
+      "longitude": 14.21346
+    },
+    {
+      "id": 2772396,
+      "name": "Politischer Bezirk Linz-Land",
+      "nativeName": "Politischer Bezirk Linz-Land",
+      "code": "AT-4-2772396",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-4",
+      "latitude": 48.16667,
+      "longitude": 14.3
+    },
+    {
+      "id": 2766154,
+      "name": "Politischer Bezirk Schärding",
+      "nativeName": "Politischer Bezirk Schärding",
+      "code": "AT-4-2766154",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-4",
+      "latitude": 48.43333,
+      "longitude": 13.6
+    },
+    {
+      "id": 2762517,
+      "name": "Politischer Bezirk Urfahr-Umgebung",
+      "nativeName": "Politischer Bezirk Urfahr-Umgebung",
+      "code": "AT-4-2762517",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-4",
+      "latitude": 48.42512,
+      "longitude": 14.27451
+    },
+    {
+      "id": 2767470,
+      "name": "Ried im Innkreis District",
+      "nativeName": "Politischer Bezirk Ried im Innkreis",
+      "code": "AT-4-2767470",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-4",
+      "latitude": 48.23333,
+      "longitude": 13.46667
+    },
+    {
+      "id": 2767290,
+      "name": "Rohrbach",
+      "nativeName": "Politischer Bezirk Rohrbach",
+      "code": "AT-4-2767290",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-4",
+      "latitude": 48.55739,
+      "longitude": 13.96926
+    },
+    {
+      "id": 2764347,
+      "name": "Steyr Stadt",
+      "nativeName": "Steyr Stadt",
+      "code": "AT-4-2764347",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-4",
+      "latitude": 48.03333,
+      "longitude": 14.41667
+    },
+    {
+      "id": 2764357,
+      "name": "Steyr-Land District",
+      "nativeName": "Politischer Bezirk Steyr-Land",
+      "code": "AT-4-2764357",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-4",
+      "latitude": 47.9,
+      "longitude": 14.46667
+    },
+    {
+      "id": 2762342,
+      "name": "Vöcklabruck District",
+      "nativeName": "Politischer Bezirk Vöcklabruck",
+      "code": "AT-4-2762342",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-4",
+      "latitude": 48.00313,
+      "longitude": 13.65772
+    },
+    {
+      "id": 7871309,
+      "name": "Wels Stadt",
+      "nativeName": "Wels Stadt",
+      "code": "AT-4-7871309",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-4",
+      "latitude": 48.16082,
+      "longitude": 14.02164
+    },
+    {
+      "id": 2761523,
+      "name": "Wels-Land District",
+      "nativeName": "Wels-Land",
+      "code": "AT-4-2761523",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-4",
+      "latitude": 48.1166,
+      "longitude": 13.96637
+    }
+  ]
+}

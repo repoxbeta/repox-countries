@@ -1,0 +1,40 @@
+{
+  "stateId": 8299745,
+  "stateCode": "MT-45",
+  "countryCode": "MT",
+  "cities": [
+    {
+      "id": 2562619,
+      "name": "Victoria",
+      "nativeName": "Victoria",
+      "code": "MT-45-2562619",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-45",
+      "latitude": 36.04444,
+      "longitude": 14.23972
+    },
+    {
+      "id": 2563089,
+      "name": "Għajn il-Kbira",
+      "nativeName": "Għajn il-Kbira",
+      "code": "MT-45-2563089",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-45",
+      "latitude": 36.03861,
+      "longitude": 14.23972
+    },
+    {
+      "id": 2562471,
+      "name": "Taċ-Ċawla",
+      "nativeName": "Taċ-Ċawla",
+      "code": "MT-45-2562471",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-45",
+      "latitude": 36.0375,
+      "longitude": 14.24056
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "stateId": 1579634,
+  "stateCode": "VN-34",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 8742970,
+      "name": "Cam Lâm District",
+      "nativeName": "Huyện Cam Lâm",
+      "code": "VN-34-8742970",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-34",
+      "latitude": 12.06322,
+      "longitude": 109.11176
+    },
+    {
+      "id": 1905599,
+      "name": "Diên Khánh District",
+      "nativeName": "Huyện Diên Khánh",
+      "code": "VN-34-1905599",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-34",
+      "latitude": 12.27341,
+      "longitude": 109.0389
+    },
+    {
+      "id": 1905601,
+      "name": "Khánh Sơn District",
+      "nativeName": "Huyện Khánh Sơn",
+      "code": "VN-34-1905601",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-34",
+      "latitude": 12.02858,
+      "longitude": 108.90814
+    },
+    {
+      "id": 1905602,
+      "name": "Khánh Vĩnh District",
+      "nativeName": "Huyện Khánh Vĩnh",
+      "code": "VN-34-1905602",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-34",
+      "latitude": 12.30593,
+      "longitude": 108.83073
+    },
+    {
+      "id": 1905600,
+      "name": "Thành Phố Cam Ranh",
+      "nativeName": "Thành Phố Cam Ranh",
+      "code": "VN-34-1905600",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-34",
+      "latitude": 11.90943,
+      "longitude": 109.12605
+    },
+    {
+      "id": 1905598,
+      "name": "Thành Phố Nha Trang",
+      "nativeName": "Thành Phố Nha Trang",
+      "code": "VN-34-1905598",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-34",
+      "latitude": 12.25458,
+      "longitude": 109.16655
+    },
+    {
+      "id": 1905603,
+      "name": "Thị Xã Ninh Hòa",
+      "nativeName": "Thị Xã Ninh Hòa",
+      "code": "VN-34-1905603",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-34",
+      "latitude": 12.53938,
+      "longitude": 109.11847
+    },
+    {
+      "id": 1905605,
+      "name": "Trường Sa District",
+      "nativeName": "Huyện Trường Sa",
+      "code": "VN-34-1905605",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-34",
+      "latitude": 8.82718,
+      "longitude": 114.02253
+    },
+    {
+      "id": 1905604,
+      "name": "Vạn Ninh District",
+      "nativeName": "Huyện Vạn Ninh",
+      "code": "VN-34-1905604",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-34",
+      "latitude": 12.7668,
+      "longitude": 109.24594
+    }
+  ]
+}

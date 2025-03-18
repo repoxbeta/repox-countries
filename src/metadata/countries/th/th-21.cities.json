@@ -1,0 +1,95 @@
+{
+  "stateId": 1607016,
+  "stateCode": "TH-21",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 7510700,
+      "name": "Ban Chang",
+      "nativeName": "Amphoe Ban Chang",
+      "code": "TH-21-7510700",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-21",
+      "latitude": 12.7323,
+      "longitude": 101.04878
+    },
+    {
+      "id": 1618570,
+      "name": "Ban Khai",
+      "nativeName": "Amphoe Ban Khai",
+      "code": "TH-21-1618570",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-21",
+      "latitude": 12.83827,
+      "longitude": 101.3421
+    },
+    {
+      "id": 7510722,
+      "name": "Khao Chamao",
+      "nativeName": "Amphoe Khao Chamao",
+      "code": "TH-21-7510722",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-21",
+      "latitude": 12.99042,
+      "longitude": 101.67847
+    },
+    {
+      "id": 1609609,
+      "name": "Klaeng",
+      "nativeName": "Amphoe Klaeng",
+      "code": "TH-21-1609609",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-21",
+      "latitude": 12.77179,
+      "longitude": 101.65666
+    },
+    {
+      "id": 1608628,
+      "name": "Mueang Rayong",
+      "nativeName": "Amphoe Mueang Rayong",
+      "code": "TH-21-1608628",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-21",
+      "latitude": 12.71864,
+      "longitude": 101.34491
+    },
+    {
+      "id": 7510702,
+      "name": "Nikhom Phatthana",
+      "nativeName": "Amphoe Nikhom Phattana",
+      "code": "TH-21-7510702",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-21",
+      "latitude": 12.84489,
+      "longitude": 101.15341
+    },
+    {
+      "id": 7510701,
+      "name": "Pluak Daeng",
+      "nativeName": "Amphoe Pluak Daeng",
+      "code": "TH-21-7510701",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-21",
+      "latitude": 12.98333,
+      "longitude": 101.25
+    },
+    {
+      "id": 7510721,
+      "name": "Wang Chan",
+      "nativeName": "Amphoe Wang Chan",
+      "code": "TH-21-7510721",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-21",
+      "latitude": 12.96245,
+      "longitude": 101.51533
+    }
+  ]
+}

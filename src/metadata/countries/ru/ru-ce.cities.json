@@ -1,0 +1,238 @@
+{
+  "stateId": 569665,
+  "stateCode": "RU-CE",
+  "countryCode": "RU",
+  "cities": [
+    {
+      "id": 584297,
+      "name": "Achkhoy-Martanovskiy Rayon",
+      "nativeName": "Achkhoy-Martanovskiy Rayon",
+      "code": "RU-CE-584297",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CE",
+      "latitude": 43.1097,
+      "longitude": 45.28655
+    },
+    {
+      "id": 12624986,
+      "name": "Argun Urban District",
+      "nativeName": "Argun Urban District",
+      "code": "RU-CE-12624986",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CE",
+      "latitude": 43.29683,
+      "longitude": 45.88288
+    },
+    {
+      "id": 12650623,
+      "name": "Gorodskoy Okrug Groznyy",
+      "nativeName": "Gorodskoy Okrug Groznyy",
+      "code": "RU-CE-12650623",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CE",
+      "latitude": 43.30282,
+      "longitude": 45.66541
+    },
+    {
+      "id": 558419,
+      "name": "Groznenskiy Rayon",
+      "nativeName": "Groznenskiy Rayon",
+      "code": "RU-CE-558419",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CE",
+      "latitude": 43.41864,
+      "longitude": 45.54506
+    },
+    {
+      "id": 11497700,
+      "name": "Grozny Urban Okrug",
+      "nativeName": "Grozny Urban Okrug",
+      "code": "RU-CE-11497700",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CE",
+      "latitude": 43.31019,
+      "longitude": 45.69763
+    },
+    {
+      "id": 12650626,
+      "name": "Gudermesskoye Gorodskoye Poseleniye",
+      "nativeName": "Gudermesskoye Gorodskoye Poseleniye",
+      "code": "RU-CE-12650626",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CE",
+      "latitude": 43.35827,
+      "longitude": 46.09199
+    },
+    {
+      "id": 558115,
+      "name": "Gudermessky District",
+      "nativeName": "Gudermesskiy Rayon",
+      "code": "RU-CE-558115",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CE",
+      "latitude": 43.34647,
+      "longitude": 46.19764
+    },
+    {
+      "id": 858775,
+      "name": "Itum-Kalinskiy Rayon",
+      "nativeName": "Itum-Kalinskiy Rayon",
+      "code": "RU-CE-858775",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CE",
+      "latitude": 42.68918,
+      "longitude": 45.43076
+    },
+    {
+      "id": 11497624,
+      "name": "Kurchaloyevsky District",
+      "nativeName": "Kurchaloyevskiy rayon",
+      "code": "RU-CE-11497624",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CE",
+      "latitude": 43.19957,
+      "longitude": 46.1031
+    },
+    {
+      "id": 523654,
+      "name": "Nadterechny District",
+      "nativeName": "Nadterechnyy Rayon",
+      "code": "RU-CE-523654",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CE",
+      "latitude": 43.59222,
+      "longitude": 45.13079
+    },
+    {
+      "id": 523209,
+      "name": "Naurskiy Rayon",
+      "nativeName": "Naurskiy Rayon",
+      "code": "RU-CE-523209",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CE",
+      "latitude": 43.77217,
+      "longitude": 45.45238
+    },
+    {
+      "id": 516779,
+      "name": "Nozhay-Yurtovskiy Rayon",
+      "nativeName": "Nozhay-Yurtovskiy Rayon",
+      "code": "RU-CE-516779",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CE",
+      "latitude": 43.02712,
+      "longitude": 46.37116
+    },
+    {
+      "id": 12624856,
+      "name": "Sernovodsky District",
+      "nativeName": "Sernovodsky District",
+      "code": "RU-CE-12624856",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CE",
+      "latitude": 43.34687,
+      "longitude": 45.17485
+    },
+    {
+      "id": 495940,
+      "name": "Shalinskiy Rayon",
+      "nativeName": "Shalinskiy Rayon",
+      "code": "RU-CE-495940",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CE",
+      "latitude": 43.16667,
+      "longitude": 45.91667
+    },
+    {
+      "id": 12650624,
+      "name": "Sharoyskiy Rayon",
+      "nativeName": "Sharoyskiy Rayon",
+      "code": "RU-CE-12650624",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CE",
+      "latitude": 42.60689,
+      "longitude": 45.79161
+    },
+    {
+      "id": 12639976,
+      "name": "Sharoysky District",
+      "nativeName": "Sharoysky District",
+      "code": "RU-CE-12639976",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CE",
+      "latitude": 42.65634,
+      "longitude": 45.85017
+    },
+    {
+      "id": 12650625,
+      "name": "Shatoyskiy Rayon",
+      "nativeName": "Shatoyskiy Rayon",
+      "code": "RU-CE-12650625",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CE",
+      "latitude": 42.87266,
+      "longitude": 45.76512
+    },
+    {
+      "id": 12639975,
+      "name": "Shatoysky District",
+      "nativeName": "Shatoysky District",
+      "code": "RU-CE-12639975",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CE",
+      "latitude": 42.87072,
+      "longitude": 45.69023
+    },
+    {
+      "id": 494999,
+      "name": "Shelkovskoy District",
+      "nativeName": "Shelkovskoy Rayon",
+      "code": "RU-CE-494999",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CE",
+      "latitude": 43.58333,
+      "longitude": 46
+    },
+    {
+      "id": 478580,
+      "name": "Urus-Martanovskiy Rayon",
+      "nativeName": "Urus-Martanovskiy Rayon",
+      "code": "RU-CE-478580",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CE",
+      "latitude": 43.03135,
+      "longitude": 45.45427
+    },
+    {
+      "id": 476248,
+      "name": "Vedenskiy Rayon",
+      "nativeName": "Vedenskiy Rayon",
+      "code": "RU-CE-476248",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CE",
+      "latitude": 42.90686,
+      "longitude": 46.07215
+    }
+  ]
+}

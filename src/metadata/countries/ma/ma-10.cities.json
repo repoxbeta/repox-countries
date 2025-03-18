@@ -1,0 +1,51 @@
+{
+  "stateId": 11281884,
+  "stateCode": "MA-10",
+  "countryCode": "MA",
+  "cities": [
+    {
+      "id": 2595329,
+      "name": "Assa-Zag Province",
+      "nativeName": "Assa-Zag",
+      "code": "MA-10-2595329",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-10",
+      "latitude": 28.16667,
+      "longitude": -9.41667
+    },
+    {
+      "id": 2548525,
+      "name": "Guelmim Province",
+      "nativeName": "Guelmim",
+      "code": "MA-10-2548525",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-10",
+      "latitude": 28.75,
+      "longitude": -10
+    },
+    {
+      "id": 11282174,
+      "name": "Sidi Ifni",
+      "nativeName": "Sidi Ifni",
+      "code": "MA-10-11282174",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-10",
+      "latitude": 29.37719,
+      "longitude": -10.17111
+    },
+    {
+      "id": 2530240,
+      "name": "Tan-Tan",
+      "nativeName": "Tan-Tan",
+      "code": "MA-10-2530240",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-10",
+      "latitude": 28.08333,
+      "longitude": -11.08333
+    }
+  ]
+}

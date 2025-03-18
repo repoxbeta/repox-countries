@@ -1,0 +1,84 @@
+{
+  "stateId": 3657986,
+  "stateCode": "EC-E",
+  "countryCode": "EC",
+  "cities": [
+    {
+      "id": 10792450,
+      "name": "Atacames",
+      "nativeName": "Atacames",
+      "code": "EC-E-10792450",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-E",
+      "latitude": 0.79194,
+      "longitude": -79.85665
+    },
+    {
+      "id": 3653966,
+      "name": "Cantón Muisne",
+      "nativeName": "Cantón Muisne",
+      "code": "EC-E-3653966",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-E",
+      "latitude": 0.58089,
+      "longitude": -79.95438
+    },
+    {
+      "id": 3652499,
+      "name": "Cantón Quinindé",
+      "nativeName": "Cantón Quinindé",
+      "code": "EC-E-3652499",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-E",
+      "latitude": 0.36568,
+      "longitude": -79.44992
+    },
+    {
+      "id": 3658191,
+      "name": "Eloy Alfaro",
+      "nativeName": "Eloy Alfaro",
+      "code": "EC-E-3658191",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-E",
+      "latitude": 0.74024,
+      "longitude": -78.9718
+    },
+    {
+      "id": 3657987,
+      "name": "Esmeraldas",
+      "nativeName": "Esmeraldas",
+      "code": "EC-E-3657987",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-E",
+      "latitude": 0.79742,
+      "longitude": -79.62458
+    },
+    {
+      "id": 10630521,
+      "name": "Rio Verde",
+      "nativeName": "Rio Verde",
+      "code": "EC-E-10630521",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-E",
+      "latitude": 1.06235,
+      "longitude": -79.39939
+    },
+    {
+      "id": 3651686,
+      "name": "San Lorenzo",
+      "nativeName": "San Lorenzo",
+      "code": "EC-E-3651686",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-E",
+      "latitude": 0.99765,
+      "longitude": -78.66922
+    }
+  ]
+}

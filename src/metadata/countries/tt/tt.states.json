@@ -1,0 +1,171 @@
+{
+  "countryId": 3573591,
+  "countryCode": "TT",
+  "states": [
+    {
+      "id": 3575052,
+      "name": "Borough of Arima",
+      "nativeName": "Arima",
+      "code": "TT-ARI",
+      "internalCode": "ARI",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "latitude": 10.625,
+      "longitude": -61.27917
+    },
+    {
+      "id": 7521937,
+      "name": "Chaguanas",
+      "nativeName": "Chaguanas",
+      "code": "TT-CHA",
+      "internalCode": "CHA",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "latitude": 10.51718,
+      "longitude": -61.41503
+    },
+    {
+      "id": 7521938,
+      "name": "Couva-Tabaquite-Talparo",
+      "nativeName": "Couva-Tabaquite-Talparo",
+      "code": "TT-CTT",
+      "internalCode": "CTT",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "latitude": 10.41792,
+      "longitude": -61.45117
+    },
+    {
+      "id": 7521939,
+      "name": "Diego Martin Regional Corporation",
+      "nativeName": "Diego Martin",
+      "code": "TT-DMN",
+      "internalCode": "DMN",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "latitude": 10.7005,
+      "longitude": -61.53417
+    },
+    {
+      "id": 3574155,
+      "name": "Mayaro",
+      "nativeName": "Mayaro",
+      "code": "TT-MRC",
+      "internalCode": "MRC",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "latitude": 10.16667,
+      "longitude": -61.08333
+    },
+    {
+      "id": 7521941,
+      "name": "Penal/Debe",
+      "nativeName": "Penal/Debe",
+      "code": "TT-PED",
+      "internalCode": "PED",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "latitude": 10.16778,
+      "longitude": -61.46524
+    },
+    {
+      "id": 7521943,
+      "name": "Point Fortin",
+      "nativeName": "Point Fortin",
+      "code": "TT-PTF",
+      "internalCode": "PTF",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "latitude": 10.184,
+      "longitude": -61.68197
+    },
+    {
+      "id": 3573891,
+      "name": "Port of Spain",
+      "nativeName": "City of Port of Spain",
+      "code": "TT-POS",
+      "internalCode": "POS",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "latitude": 10.66389,
+      "longitude": -61.51667
+    },
+    {
+      "id": 7521942,
+      "name": "Princes Town",
+      "nativeName": "Princes Town",
+      "code": "TT-PRT",
+      "internalCode": "PRT",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "latitude": 10.26746,
+      "longitude": -61.38182
+    },
+    {
+      "id": 3573739,
+      "name": "San Fernando",
+      "nativeName": "San Fernando",
+      "code": "TT-SFO",
+      "internalCode": "SFO",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "latitude": 10.28127,
+      "longitude": -61.45037
+    },
+    {
+      "id": 7521946,
+      "name": "San Juan/Laventille",
+      "nativeName": "San Juan/Laventille",
+      "code": "TT-SJL",
+      "internalCode": "SJL",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "latitude": 10.64964,
+      "longitude": -61.49752
+    },
+    {
+      "id": 7521944,
+      "name": "Sangre Grande Regional Corporation",
+      "nativeName": "Sangre Grande",
+      "code": "TT-SGE",
+      "internalCode": "SGE",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "latitude": 10.5835,
+      "longitude": -61.11772
+    },
+    {
+      "id": 7521945,
+      "name": "Siparia Regional Corporation",
+      "nativeName": "Siparia",
+      "code": "TT-SIP",
+      "internalCode": "SIP",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "latitude": 10.13382,
+      "longitude": -61.50121
+    },
+    {
+      "id": 3573606,
+      "name": "Tobago",
+      "nativeName": "Tobago",
+      "code": "TT-TOB",
+      "internalCode": "TOB",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "latitude": 11.25,
+      "longitude": -60.66667
+    },
+    {
+      "id": 7521947,
+      "name": "Tunapuna/Piarco",
+      "nativeName": "Tunapuna/Piarco",
+      "code": "TT-TUP",
+      "internalCode": "TUP",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "latitude": 10.63387,
+      "longitude": -61.38182
+    }
+  ]
+}

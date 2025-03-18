@@ -1,0 +1,73 @@
+{
+  "stateId": 408668,
+  "stateCode": "SS-EE",
+  "countryCode": "SS",
+  "cities": [
+    {
+      "id": 379350,
+      "name": "Al Mudīrīyah al Istiwā’īyah ash Sharqīyah",
+      "nativeName": "Al Mudīrīyah al Istiwā’īyah ash Sharqīyah",
+      "code": "SS-EE-379350",
+      "countryId": 7909807,
+      "countryCode": "SS",
+      "stateCode": "SS-EE",
+      "latitude": 5,
+      "longitude": 32.5
+    },
+    {
+      "id": 9406254,
+      "name": "Budi County",
+      "nativeName": "Budi",
+      "code": "SS-EE-9406254",
+      "countryId": 7909807,
+      "countryCode": "SS",
+      "stateCode": "SS-EE",
+      "latitude": 4.25611,
+      "longitude": 33.45611
+    },
+    {
+      "id": 9409219,
+      "name": "Ikotos County",
+      "nativeName": "Ikotos",
+      "code": "SS-EE-9409219",
+      "countryId": 7909807,
+      "countryCode": "SS",
+      "stateCode": "SS-EE",
+      "latitude": 4.07833,
+      "longitude": 33.10889
+    },
+    {
+      "id": 10346346,
+      "name": "Lafon County",
+      "nativeName": "Lafon County",
+      "code": "SS-EE-10346346",
+      "countryId": 7909807,
+      "countryCode": "SS",
+      "stateCode": "SS-EE",
+      "latitude": 5.03323,
+      "longitude": 32.46906
+    },
+    {
+      "id": 8224935,
+      "name": "Magwi County",
+      "nativeName": "Magwi County",
+      "code": "SS-EE-8224935",
+      "countryId": 7909807,
+      "countryCode": "SS",
+      "stateCode": "SS-EE",
+      "latitude": 4.12532,
+      "longitude": 32.30148
+    },
+    {
+      "id": 10345217,
+      "name": "Torit County",
+      "nativeName": "Torit County",
+      "code": "SS-EE-10345217",
+      "countryId": 7909807,
+      "countryCode": "SS",
+      "stateCode": "SS-EE",
+      "latitude": 4.5,
+      "longitude": 32.5
+    }
+  ]
+}

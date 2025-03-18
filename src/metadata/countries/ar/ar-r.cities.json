@@ -1,0 +1,150 @@
+{
+  "stateId": 3838830,
+  "stateCode": "AR-R",
+  "countryCode": "AR",
+  "cities": [
+    {
+      "id": 3866927,
+      "name": "Departamento de Adolfo Alsina",
+      "nativeName": "Departamento de Adolfo Alsina",
+      "code": "AR-R-3866927",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-R",
+      "latitude": -40.75,
+      "longitude": -63.75
+    },
+    {
+      "id": 3865210,
+      "name": "Departamento de Avellaneda",
+      "nativeName": "Departamento de Avellaneda",
+      "code": "AR-R-3865210",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-R",
+      "latitude": -39.5,
+      "longitude": -66.5
+    },
+    {
+      "id": 3864759,
+      "name": "Departamento de Bariloche",
+      "nativeName": "Departamento de Bariloche",
+      "code": "AR-R-3864759",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-R",
+      "latitude": -41.5,
+      "longitude": -71.5
+    },
+    {
+      "id": 3860364,
+      "name": "Departamento de Conesa",
+      "nativeName": "Departamento de Conesa",
+      "code": "AR-R-3860364",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-R",
+      "latitude": -40.25,
+      "longitude": -64.25
+    },
+    {
+      "id": 3858240,
+      "name": "Departamento de El Cuy",
+      "nativeName": "Departamento de El Cuy",
+      "code": "AR-R-3858240",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-R",
+      "latitude": -39.58333,
+      "longitude": -68.5
+    },
+    {
+      "id": 3855061,
+      "name": "Departamento de General Roca",
+      "nativeName": "Departamento de General Roca",
+      "code": "AR-R-3855061",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-R",
+      "latitude": -38.5,
+      "longitude": -67.5
+    },
+    {
+      "id": 3842875,
+      "name": "Departamento de Nueve de Julio",
+      "nativeName": "Departamento de Nueve de Julio",
+      "code": "AR-R-3842875",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-R",
+      "latitude": -41,
+      "longitude": -67.25
+    },
+    {
+      "id": 3841356,
+      "name": "Departamento de Pichi Mahuida",
+      "nativeName": "Departamento de Pichi Mahuida",
+      "code": "AR-R-3841356",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-R",
+      "latitude": -39.5,
+      "longitude": -64.5
+    },
+    {
+      "id": 3841139,
+      "name": "Departamento de Pilcaniyeu",
+      "nativeName": "Departamento de Pilcaniyeu",
+      "code": "AR-R-3841139",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-R",
+      "latitude": -40.75,
+      "longitude": -70.5
+    },
+    {
+      "id": 3838028,
+      "name": "Departamento de San Antonio",
+      "nativeName": "Departamento de San Antonio",
+      "code": "AR-R-3838028",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-R",
+      "latitude": -41,
+      "longitude": -65.5
+    },
+    {
+      "id": 3833280,
+      "name": "Departamento de Valcheta",
+      "nativeName": "Departamento de Valcheta",
+      "code": "AR-R-3833280",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-R",
+      "latitude": -41,
+      "longitude": -66.25
+    },
+    {
+      "id": 3833106,
+      "name": "Departamento de Veinticinco de Mayo",
+      "nativeName": "Departamento de Veinticinco de Mayo",
+      "code": "AR-R-3833106",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-R",
+      "latitude": -41.25,
+      "longitude": -69
+    },
+    {
+      "id": 3842988,
+      "name": "Departamento de Ñorquincó",
+      "nativeName": "Departamento de Ñorquincó",
+      "code": "AR-R-3842988",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-R",
+      "latitude": -41.66667,
+      "longitude": -70.41667
+    }
+  ]
+}

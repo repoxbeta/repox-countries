@@ -1,0 +1,29 @@
+{
+  "stateId": 3584317,
+  "stateCode": "SV-MO",
+  "countryCode": "SV",
+  "cities": [
+    {
+      "id": 12916958,
+      "name": "Morazán Norte",
+      "nativeName": "Morazán Norte",
+      "code": "SV-MO-12916958",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-MO",
+      "latitude": 13.88404,
+      "longitude": -88.09363
+    },
+    {
+      "id": 12916944,
+      "name": "Morazán Sur",
+      "nativeName": "Morazán Sur",
+      "code": "SV-MO-12916944",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-MO",
+      "latitude": 13.68158,
+      "longitude": -88.11146
+    }
+  ]
+}

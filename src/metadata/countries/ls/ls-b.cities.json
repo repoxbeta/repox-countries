@@ -1,0 +1,29 @@
+{
+  "stateId": 932888,
+  "stateCode": "LS-B",
+  "countryCode": "LS",
+  "cities": [
+    {
+      "id": 11258465,
+      "name": "Motete",
+      "nativeName": "Motete",
+      "code": "LS-B-11258465",
+      "countryId": 932692,
+      "countryCode": "LS",
+      "stateCode": "LS-B",
+      "latitude": -28.86481,
+      "longitude": 28.58397
+    },
+    {
+      "id": 11280716,
+      "name": "Qalo",
+      "nativeName": "Qalo",
+      "code": "LS-B-11280716",
+      "countryId": 932692,
+      "countryCode": "LS",
+      "stateCode": "LS-B",
+      "latitude": -28.77254,
+      "longitude": 28.33461
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "stateId": 2506994,
+  "stateCode": "DZ-23",
+  "countryCode": "DZ",
+  "cities": [
+    {
+      "id": 12952521,
+      "name": "Ain El Berda",
+      "nativeName": "Ain El Berda",
+      "code": "DZ-23-12952521",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-23",
+      "latitude": 36.16852,
+      "longitude": 5.69894
+    },
+    {
+      "id": 11205653,
+      "name": "Annaba District",
+      "nativeName": "Annaba District",
+      "code": "DZ-23-11205653",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-23",
+      "latitude": 36.9,
+      "longitude": 7.75
+    },
+    {
+      "id": 12952576,
+      "name": "Berrahal",
+      "nativeName": "Berrahal",
+      "code": "DZ-23-12952576",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-23",
+      "latitude": 36.88005,
+      "longitude": 7.49049
+    },
+    {
+      "id": 12952578,
+      "name": "Chetaibi",
+      "nativeName": "Chetaibi",
+      "code": "DZ-23-12952578",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-23",
+      "latitude": 37.01819,
+      "longitude": 7.38938
+    },
+    {
+      "id": 12952550,
+      "name": "El Bouni",
+      "nativeName": "El Bouni",
+      "code": "DZ-23-12952550",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-23",
+      "latitude": 36.8446,
+      "longitude": 7.71601
+    },
+    {
+      "id": 12952437,
+      "name": "El Hadjar",
+      "nativeName": "El Hadjar",
+      "code": "DZ-23-12952437",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-23",
+      "latitude": 36.78831,
+      "longitude": 7.69168
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "stateId": 2029432,
+  "stateCode": "MN-049",
+  "countryCode": "MN",
+  "cities": [
+    {
+      "id": 6618870,
+      "name": "Altanbulag Dsitrict",
+      "nativeName": "Altanbulag",
+      "code": "MN-049-6618870",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-049",
+      "latitude": 50.3071,
+      "longitude": 106.49906
+    },
+    {
+      "id": 6618863,
+      "name": "Baruunbüren District",
+      "nativeName": "Baruunbüren",
+      "code": "MN-049-6618863",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-049",
+      "latitude": 49.25951,
+      "longitude": 104.74417
+    },
+    {
+      "id": 2032552,
+      "name": "Bayangol District",
+      "nativeName": "Bayangol",
+      "code": "MN-049-2032552",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-049",
+      "latitude": 48.91167,
+      "longitude": 106.08667
+    },
+    {
+      "id": 6987972,
+      "name": "Bayangol Sum",
+      "nativeName": "Bayangol Sum",
+      "code": "MN-049-6987972",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-049",
+      "latitude": 48.98833,
+      "longitude": 106.20416
+    },
+    {
+      "id": 6618874,
+      "name": "Hushaat",
+      "nativeName": "Hushaat",
+      "code": "MN-049-6618874",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-049",
+      "latitude": 49.88269,
+      "longitude": 105.65758
+    },
+    {
+      "id": 6618873,
+      "name": "Javhlant",
+      "nativeName": "Javhlant",
+      "code": "MN-049-6618873",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-049",
+      "latitude": 49.65696,
+      "longitude": 106.33221
+    },
+    {
+      "id": 10375955,
+      "name": "Khüder",
+      "nativeName": "Khüder",
+      "code": "MN-049-10375955",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-049",
+      "latitude": 49.77639,
+      "longitude": 107.51611
+    },
+    {
+      "id": 6618872,
+      "name": "Khüder District",
+      "nativeName": "Hüder",
+      "code": "MN-049-6618872",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-049",
+      "latitude": 49.77018,
+      "longitude": 107.5177
+    },
+    {
+      "id": 6618857,
+      "name": "Mandal District",
+      "nativeName": "Mandal",
+      "code": "MN-049-6618857",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-049",
+      "latitude": 48.84122,
+      "longitude": 106.45752
+    },
+    {
+      "id": 6987971,
+      "name": "Mandal Sum",
+      "nativeName": "Mandal Sum",
+      "code": "MN-049-6987971",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-049",
+      "latitude": 48.84578,
+      "longitude": 106.87879
+    },
+    {
+      "id": 6987957,
+      "name": "Orhontuul District",
+      "nativeName": "Orhontuul Sum",
+      "code": "MN-049-6987957",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-049",
+      "latitude": 48.82816,
+      "longitude": 104.99438
+    },
+    {
+      "id": 6618859,
+      "name": "Orkhon District",
+      "nativeName": "Orhon",
+      "code": "MN-049-6618859",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-049",
+      "latitude": 49.13792,
+      "longitude": 105.38807
+    },
+    {
+      "id": 6618864,
+      "name": "Orkhontuul District",
+      "nativeName": "Orhontuul",
+      "code": "MN-049-6618864",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-049",
+      "latitude": 48.94302,
+      "longitude": 104.9754
+    },
+    {
+      "id": 6618861,
+      "name": "Saikhan District",
+      "nativeName": "Sayhan",
+      "code": "MN-049-6618861",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-049",
+      "latitude": 49.09304,
+      "longitude": 105.55922
+    },
+    {
+      "id": 6618862,
+      "name": "Sant District",
+      "nativeName": "Sant",
+      "code": "MN-049-6618862",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-049",
+      "latitude": 49.23934,
+      "longitude": 105.37434
+    },
+    {
+      "id": 6618865,
+      "name": "Shaamar District",
+      "nativeName": "Shaamar",
+      "code": "MN-049-6618865",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-049",
+      "latitude": 50.07896,
+      "longitude": 106.18612
+    },
+    {
+      "id": 6618869,
+      "name": "Sükhbaatar District",
+      "nativeName": "Sühbaatar",
+      "code": "MN-049-6618869",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-049",
+      "latitude": 50.22667,
+      "longitude": 106.2081
+    },
+    {
+      "id": 6618867,
+      "name": "Tsagaannuur District",
+      "nativeName": "Tsagaannuur",
+      "code": "MN-049-6618867",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-049",
+      "latitude": 50.09283,
+      "longitude": 105.41862
+    },
+    {
+      "id": 6618868,
+      "name": "Tüshig District",
+      "nativeName": "Tüshig",
+      "code": "MN-049-6618868",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-049",
+      "latitude": 50.32508,
+      "longitude": 105.04663
+    },
+    {
+      "id": 6987969,
+      "name": "Yöröö Sum",
+      "nativeName": "Yöröö Sum",
+      "code": "MN-049-6987969",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-049",
+      "latitude": 49.76175,
+      "longitude": 106.64978
+    },
+    {
+      "id": 10375957,
+      "name": "Züünbüren",
+      "nativeName": "Züünbüren",
+      "code": "MN-049-10375957",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-049",
+      "latitude": 50.06972,
+      "longitude": 105.88972
+    },
+    {
+      "id": 6618866,
+      "name": "Züünbüren District",
+      "nativeName": "Dzüünbüren",
+      "code": "MN-049-6618866",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-049",
+      "latitude": 50.05934,
+      "longitude": 105.88039
+    }
+  ]
+}

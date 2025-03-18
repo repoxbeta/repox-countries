@@ -1,0 +1,73 @@
+{
+  "stateId": 3338529,
+  "stateCode": "AD-08",
+  "countryCode": "AD",
+  "cities": [
+    {
+      "id": 3040051,
+      "name": "Les Escaldes",
+      "nativeName": "les Escaldes",
+      "code": "AD-08-3040051",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-08",
+      "latitude": 42.50729,
+      "longitude": 1.53414
+    },
+    {
+      "id": 11945497,
+      "name": "Els Vilars",
+      "nativeName": "Els Vilars",
+      "code": "AD-08-11945497",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-08",
+      "latitude": 42.51636,
+      "longitude": 1.53356
+    },
+    {
+      "id": 3040648,
+      "name": "Engordany",
+      "nativeName": "Engordany",
+      "code": "AD-08-3040648",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-08",
+      "latitude": 42.51115,
+      "longitude": 1.54118
+    },
+    {
+      "id": 3039322,
+      "name": "Ràmio",
+      "nativeName": "Ràmio",
+      "code": "AD-08-3039322",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-08",
+      "latitude": 42.49734,
+      "longitude": 1.57401
+    },
+    {
+      "id": 8260095,
+      "name": "Sant Miquel d'Engolasters",
+      "nativeName": "Sant Miquel d'Engolasters",
+      "code": "AD-08-8260095",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-08",
+      "latitude": 42.51119,
+      "longitude": 1.55987
+    },
+    {
+      "id": 3040116,
+      "name": "La Plana",
+      "nativeName": "La Plana",
+      "code": "AD-08-3040116",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-08",
+      "latitude": 42.50471,
+      "longitude": 1.53862
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "stateId": 3599773,
+  "stateCode": "GT-AV",
+  "countryCode": "GT",
+  "cities": [
+    {
+      "id": 3599264,
+      "name": "Municipio de Cahabón",
+      "nativeName": "Municipio de Cahabón",
+      "code": "GT-AV-3599264",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-AV",
+      "latitude": 15.58468,
+      "longitude": -89.78964
+    },
+    {
+      "id": 3598824,
+      "name": "Municipio de Chahal",
+      "nativeName": "Municipio de Chahal",
+      "code": "GT-AV-3598824",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-AV",
+      "latitude": 15.72863,
+      "longitude": -89.56493
+    },
+    {
+      "id": 3598414,
+      "name": "Municipio de Chisec",
+      "nativeName": "Municipio de Chisec",
+      "code": "GT-AV-3598414",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-AV",
+      "latitude": 15.86981,
+      "longitude": -90.31915
+    },
+    {
+      "id": 3598116,
+      "name": "Municipio de Cobán",
+      "nativeName": "Municipio de Cobán",
+      "code": "GT-AV-3598116",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-AV",
+      "latitude": 15.70983,
+      "longitude": -90.54026
+    },
+    {
+      "id": 9166134,
+      "name": "Municipio de Fray Bartolome de las Casas",
+      "nativeName": "Municipio de Fray Bartolome de las Casas",
+      "code": "GT-AV-9166134",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-AV",
+      "latitude": 15.86646,
+      "longitude": -89.73702
+    },
+    {
+      "id": 3594314,
+      "name": "Municipio de Lanquín",
+      "nativeName": "Municipio de Lanquín",
+      "code": "GT-AV-3594314",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-AV",
+      "latitude": 15.56436,
+      "longitude": -89.99064
+    },
+    {
+      "id": 3591675,
+      "name": "Municipio de Panzós",
+      "nativeName": "Municipio de Panzós",
+      "code": "GT-AV-3591675",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-AV",
+      "latitude": 15.30866,
+      "longitude": -89.65564
+    },
+    {
+      "id": 3590315,
+      "name": "Municipio de San Cristóbal Verapaz",
+      "nativeName": "Municipio de San Cristóbal Verapaz",
+      "code": "GT-AV-3590315",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-AV",
+      "latitude": 15.39644,
+      "longitude": -90.55968
+    },
+    {
+      "id": 3589916,
+      "name": "Municipio de San Juan Chamelco",
+      "nativeName": "Municipio de San Juan Chamelco",
+      "code": "GT-AV-3589916",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-AV",
+      "latitude": 15.39374,
+      "longitude": -90.2304
+    },
+    {
+      "id": 3589642,
+      "name": "Municipio de San Pedro Carchá",
+      "nativeName": "Municipio de San Pedro Carchá",
+      "code": "GT-AV-3589642",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-AV",
+      "latitude": 15.56768,
+      "longitude": -90.18151
+    },
+    {
+      "id": 3589394,
+      "name": "Municipio de Santa Cruz Verapaz",
+      "nativeName": "Municipio de Santa Cruz Verapaz",
+      "code": "GT-AV-3589394",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-AV",
+      "latitude": 15.33854,
+      "longitude": -90.41399
+    },
+    {
+      "id": 3588857,
+      "name": "Municipio de Senahú",
+      "nativeName": "Municipio de Senahú",
+      "code": "GT-AV-3588857",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-AV",
+      "latitude": 15.40246,
+      "longitude": -89.83988
+    },
+    {
+      "id": 3588602,
+      "name": "Municipio de Tactic",
+      "nativeName": "Municipio de Tactic",
+      "code": "GT-AV-3588602",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-AV",
+      "latitude": 15.32028,
+      "longitude": -90.34817
+    },
+    {
+      "id": 3588553,
+      "name": "Municipio de Tamahú",
+      "nativeName": "Municipio de Tamahú",
+      "code": "GT-AV-3588553",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-AV",
+      "latitude": 15.30223,
+      "longitude": -90.24167
+    },
+    {
+      "id": 3588205,
+      "name": "Municipio de Tucurú",
+      "nativeName": "Municipio de Tucurú",
+      "code": "GT-AV-3588205",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-AV",
+      "latitude": 15.30082,
+      "longitude": -90.0724
+    },
+    {
+      "id": 9253725,
+      "name": "Raxruhá",
+      "nativeName": "Raxruhá",
+      "code": "GT-AV-9253725",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-AV",
+      "latitude": 15.8915,
+      "longitude": -90.08192
+    },
+    {
+      "id": 9253762,
+      "name": "Santa Catarina La Tinta",
+      "nativeName": "Santa Catarina La Tinta",
+      "code": "GT-AV-9253762",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-AV",
+      "latitude": 15.25362,
+      "longitude": -89.83396
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "stateId": 3336901,
+  "stateCode": "ES-CT",
+  "countryCode": "ES",
+  "cities": [
+    {
+      "id": 3128759,
+      "name": "Barcelona",
+      "nativeName": "Província de Barcelona",
+      "code": "ES-CT-3128759",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "stateCode": "ES-CT",
+      "latitude": 41.66667,
+      "longitude": 2
+    },
+    {
+      "id": 6355230,
+      "name": "Girona",
+      "nativeName": "Província de Girona",
+      "code": "ES-CT-6355230",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "stateCode": "ES-CT",
+      "latitude": 41.98916,
+      "longitude": 2.81113
+    },
+    {
+      "id": 6355231,
+      "name": "Lleida",
+      "nativeName": "Província de Lleida",
+      "code": "ES-CT-6355231",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "stateCode": "ES-CT",
+      "latitude": 41.61878,
+      "longitude": 0.57472
+    },
+    {
+      "id": 3108287,
+      "name": "Tarragona",
+      "nativeName": "Província de Tarragona",
+      "code": "ES-CT-3108287",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "stateCode": "ES-CT",
+      "latitude": 41.12902,
+      "longitude": 1.24901
+    }
+  ]
+}

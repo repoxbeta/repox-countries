@@ -1,0 +1,29 @@
+{
+  "stateId": 8030554,
+  "stateCode": "BS-RC",
+  "countryCode": "BS",
+  "cities": [
+    {
+      "id": 3571650,
+      "name": "Port Nelson",
+      "nativeName": "Port Nelson",
+      "code": "BS-RC-3571650",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-RC",
+      "latitude": 23.64967,
+      "longitude": -74.84157
+    },
+    {
+      "id": 3571653,
+      "name": "Port Boyd",
+      "nativeName": "Port Boyd",
+      "code": "BS-RC-3571653",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-RC",
+      "latitude": 23.70354,
+      "longitude": -74.82068
+    }
+  ]
+}

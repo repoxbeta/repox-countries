@@ -1,0 +1,127 @@
+{
+  "countryId": 3573345,
+  "countryCode": "BM",
+  "states": [
+    {
+      "id": 3573251,
+      "name": "Devonshire Parish",
+      "nativeName": "Devonshire Parish",
+      "code": "BM-DS",
+      "internalCode": "DS",
+      "countryId": 3573345,
+      "countryCode": "BM",
+      "latitude": 32.30278,
+      "longitude": -64.75583
+    },
+    {
+      "id": 3573195,
+      "name": "Hamilton",
+      "nativeName": "Hamilton",
+      "code": "BM-HA",
+      "internalCode": "HA",
+      "countryId": 3573345,
+      "countryCode": "BM",
+      "latitude": 32.34222,
+      "longitude": -64.72833
+    },
+    {
+      "id": 3573198,
+      "name": "Hamilton city",
+      "nativeName": "Hamilton City",
+      "code": "BM-HC",
+      "internalCode": "HC",
+      "countryId": 3573345,
+      "countryCode": "BM",
+      "latitude": 32.29326,
+      "longitude": -64.78063
+    },
+    {
+      "id": 3573103,
+      "name": "Paget",
+      "nativeName": "Paget Parish",
+      "code": "BM-PG",
+      "internalCode": "PG",
+      "countryId": 3573345,
+      "countryCode": "BM",
+      "latitude": 32.27833,
+      "longitude": -64.78167
+    },
+    {
+      "id": 3573095,
+      "name": "Pembroke Parish",
+      "nativeName": "Pembroke Parish",
+      "code": "BM-PB",
+      "internalCode": "PB",
+      "countryId": 3573345,
+      "countryCode": "BM",
+      "latitude": 32.29944,
+      "longitude": -64.79278
+    },
+    {
+      "id": 3573062,
+      "name": "Saint George",
+      "nativeName": "Saint George",
+      "code": "BM-GC",
+      "internalCode": "GC",
+      "countryId": 3573345,
+      "countryCode": "BM",
+      "latitude": 32.38417,
+      "longitude": -64.67639
+    },
+    {
+      "id": 3573057,
+      "name": "Saint George’s Parish",
+      "nativeName": "Saint George’s Parish",
+      "code": "BM-SG",
+      "internalCode": "SG",
+      "countryId": 3573345,
+      "countryCode": "BM",
+      "latitude": 32.3726,
+      "longitude": -64.69437
+    },
+    {
+      "id": 3573050,
+      "name": "Sandys Parish",
+      "nativeName": "Sandys Parish",
+      "code": "BM-SA",
+      "internalCode": "SA",
+      "countryId": 3573345,
+      "countryCode": "BM",
+      "latitude": 32.29345,
+      "longitude": -64.86828
+    },
+    {
+      "id": 3573031,
+      "name": "Smith’s Parish",
+      "nativeName": "Smith’s Parish",
+      "code": "BM-SM",
+      "internalCode": "SM",
+      "countryId": 3573345,
+      "countryCode": "BM",
+      "latitude": 32.31528,
+      "longitude": -64.73528
+    },
+    {
+      "id": 3573026,
+      "name": "Southampton Parish",
+      "nativeName": "Southampton Parish",
+      "code": "BM-SH",
+      "internalCode": "SH",
+      "countryId": 3573345,
+      "countryCode": "BM",
+      "latitude": 32.25083,
+      "longitude": -64.85639
+    },
+    {
+      "id": 3572972,
+      "name": "Warwick Parish",
+      "nativeName": "Warwick Parish",
+      "code": "BM-WA",
+      "internalCode": "WA",
+      "countryId": 3573345,
+      "countryCode": "BM",
+      "latitude": 32.26583,
+      "longitude": -64.80722
+    }
+  ]
+}

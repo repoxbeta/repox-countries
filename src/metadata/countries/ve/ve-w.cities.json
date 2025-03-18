@@ -1,0 +1,29 @@
+{
+  "stateId": 3640846,
+  "stateCode": "VE-W",
+  "countryCode": "VE",
+  "cities": [
+    {
+      "id": 3641622,
+      "name": "Los Roques",
+      "nativeName": "Los Roques",
+      "code": "VE-W-3641622",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-W",
+      "latitude": 11.94836,
+      "longitude": -66.67835
+    },
+    {
+      "id": 3640677,
+      "name": "Punta de Garambeo",
+      "nativeName": "Punta de Garambeo",
+      "code": "VE-W-3640677",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-W",
+      "latitude": 10.88333,
+      "longitude": -65.3
+    }
+  ]
+}

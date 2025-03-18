@@ -1,0 +1,227 @@
+{
+  "stateId": 3344915,
+  "stateCode": "SI-171",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3194086,
+      "name": "Oplotnica",
+      "nativeName": "Oplotnica",
+      "code": "SI-171-3194086",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-171",
+      "latitude": 46.38778,
+      "longitude": 15.44667
+    },
+    {
+      "id": 3203598,
+      "name": "Božje",
+      "nativeName": "Božje",
+      "code": "SI-171-3203598",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-171",
+      "latitude": 46.41667,
+      "longitude": 15.41667
+    },
+    {
+      "id": 8989497,
+      "name": "Brezje pri Oplotnici",
+      "nativeName": "Brezje pri Oplotnici",
+      "code": "SI-171-8989497",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-171",
+      "latitude": 46.38322,
+      "longitude": 15.41848
+    },
+    {
+      "id": 8988164,
+      "name": "Dobriška Vas",
+      "nativeName": "Dobriška Vas",
+      "code": "SI-171-8988164",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-171",
+      "latitude": 46.36276,
+      "longitude": 15.4546
+    },
+    {
+      "id": 8988353,
+      "name": "Dobrova pri Prihovi",
+      "nativeName": "Dobrova pri Prihovi",
+      "code": "SI-171-8988353",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-171",
+      "latitude": 46.36277,
+      "longitude": 15.47519
+    },
+    {
+      "id": 8987189,
+      "name": "Gorica pri Oplotnici",
+      "nativeName": "Gorica pri Oplotnici",
+      "code": "SI-171-8987189",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-171",
+      "latitude": 46.38278,
+      "longitude": 15.43507
+    },
+    {
+      "id": 8988429,
+      "name": "Kovaški Vrh",
+      "nativeName": "Kovaški Vrh",
+      "code": "SI-171-8988429",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-171",
+      "latitude": 46.39916,
+      "longitude": 15.41314
+    },
+    {
+      "id": 8987328,
+      "name": "Lačna Gora",
+      "nativeName": "Lačna Gora",
+      "code": "SI-171-8987328",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-171",
+      "latitude": 46.39965,
+      "longitude": 15.44734
+    },
+    {
+      "id": 8987048,
+      "name": "Malahorna",
+      "nativeName": "Malahorna",
+      "code": "SI-171-8987048",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-171",
+      "latitude": 46.37221,
+      "longitude": 15.43307
+    },
+    {
+      "id": 8987661,
+      "name": "Markečica",
+      "nativeName": "Markečica",
+      "code": "SI-171-8987661",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-171",
+      "latitude": 46.36986,
+      "longitude": 15.45547
+    },
+    {
+      "id": 8989484,
+      "name": "Okoška Gora",
+      "nativeName": "Okoška Gora",
+      "code": "SI-171-8989484",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-171",
+      "latitude": 46.39402,
+      "longitude": 15.48276
+    },
+    {
+      "id": 3193112,
+      "name": "Pobrež",
+      "nativeName": "Pobrež",
+      "code": "SI-171-3193112",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-171",
+      "latitude": 46.35889,
+      "longitude": 15.46528
+    },
+    {
+      "id": 3192418,
+      "name": "Prihova",
+      "nativeName": "Prihova",
+      "code": "SI-171-3192418",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-171",
+      "latitude": 46.36667,
+      "longitude": 15.48333
+    },
+    {
+      "id": 8988121,
+      "name": "Raskovec",
+      "nativeName": "Raskovec",
+      "code": "SI-171-8988121",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-171",
+      "latitude": 46.37273,
+      "longitude": 15.47569
+    },
+    {
+      "id": 8989537,
+      "name": "Straža pri Oplotnici",
+      "nativeName": "Straža pri Oplotnici",
+      "code": "SI-171-8989537",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-171",
+      "latitude": 46.38202,
+      "longitude": 15.47126
+    },
+    {
+      "id": 8987609,
+      "name": "Ugovec",
+      "nativeName": "Ugovec",
+      "code": "SI-171-8987609",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-171",
+      "latitude": 46.38627,
+      "longitude": 15.48139
+    },
+    {
+      "id": 8989505,
+      "name": "Zgornje Grušovje",
+      "nativeName": "Zgornje Grušovje",
+      "code": "SI-171-8989505",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-171",
+      "latitude": 46.36201,
+      "longitude": 15.48842
+    },
+    {
+      "id": 8987952,
+      "name": "Zlogona Gora",
+      "nativeName": "Zlogona Gora",
+      "code": "SI-171-8987952",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-171",
+      "latitude": 46.39292,
+      "longitude": 15.4668
+    },
+    {
+      "id": 8989857,
+      "name": "Zlogona Vas",
+      "nativeName": "Zlogona Vas",
+      "code": "SI-171-8989857",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-171",
+      "latitude": 46.39869,
+      "longitude": 15.47193
+    },
+    {
+      "id": 3202912,
+      "name": "Čadram",
+      "nativeName": "Čadram",
+      "code": "SI-171-3202912",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-171",
+      "latitude": 46.38333,
+      "longitude": 15.46667
+    }
+  ]
+}

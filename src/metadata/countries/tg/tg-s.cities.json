@@ -1,0 +1,51 @@
+{
+  "stateId": 2364205,
+  "stateCode": "TG-S",
+  "countryCode": "TG",
+  "cities": [
+    {
+      "id": 2597447,
+      "name": "Kpendjal",
+      "nativeName": "Kpendjal",
+      "code": "TG-S-2597447",
+      "countryId": 2363686,
+      "countryCode": "TG",
+      "stateCode": "TG-S",
+      "latitude": 10.86667,
+      "longitude": 0.61667
+    },
+    {
+      "id": 2365189,
+      "name": "Oti",
+      "nativeName": "Oti",
+      "code": "TG-S-2365189",
+      "countryId": 2363686,
+      "countryCode": "TG",
+      "stateCode": "TG-S",
+      "latitude": 10.33333,
+      "longitude": 0.58333
+    },
+    {
+      "id": 2597448,
+      "name": "Tandjouare",
+      "nativeName": "Préfecture de Tandjouaré",
+      "code": "TG-S-2597448",
+      "countryId": 2363686,
+      "countryCode": "TG",
+      "stateCode": "TG-S",
+      "latitude": 10.66667,
+      "longitude": 0.13333
+    },
+    {
+      "id": 2367163,
+      "name": "Tone",
+      "nativeName": "Tone",
+      "code": "TG-S-2367163",
+      "countryId": 2363686,
+      "countryCode": "TG",
+      "stateCode": "TG-S",
+      "latitude": 10.91667,
+      "longitude": 0.16667
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "stateId": 3708710,
+  "stateCode": "PA-6",
+  "countryCode": "PA",
+  "cities": [
+    {
+      "id": 3712382,
+      "name": "Chitré District",
+      "nativeName": "Distrito de Chitré",
+      "code": "PA-6-3712382",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-6",
+      "latitude": 7.98333,
+      "longitude": -80.43333
+    },
+    {
+      "id": 3706342,
+      "name": "Las Minas District",
+      "nativeName": "Distrito de Las Minas",
+      "code": "PA-6-3706342",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-6",
+      "latitude": 7.73959,
+      "longitude": -80.79683
+    },
+    {
+      "id": 3705017,
+      "name": "Los Pozos District",
+      "nativeName": "Distrito de Los Pozos",
+      "code": "PA-6-3705017",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-6",
+      "latitude": 7.70944,
+      "longitude": -80.64311
+    },
+    {
+      "id": 3703784,
+      "name": "Ocú District",
+      "nativeName": "Distrito de Ocú",
+      "code": "PA-6-3703784",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-6",
+      "latitude": 7.93597,
+      "longitude": -80.80409
+    },
+    {
+      "id": 3703351,
+      "name": "Parita District",
+      "nativeName": "Distrito de Parita",
+      "code": "PA-6-3703351",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-6",
+      "latitude": 8.03777,
+      "longitude": -80.57358
+    },
+    {
+      "id": 3703009,
+      "name": "Pesé District",
+      "nativeName": "Distrito de Pesé",
+      "code": "PA-6-3703009",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-6",
+      "latitude": 7.88194,
+      "longitude": -80.63261
+    },
+    {
+      "id": 3701171,
+      "name": "Santa María District",
+      "nativeName": "Distrito de Santa María",
+      "code": "PA-6-3701171",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-6",
+      "latitude": 8.11667,
+      "longitude": -80.68333
+    }
+  ]
+}

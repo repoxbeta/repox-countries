@@ -1,0 +1,128 @@
+{
+  "stateId": 12105069,
+  "stateCode": "GH-BO",
+  "countryCode": "GH",
+  "cities": [
+    {
+      "id": 12105105,
+      "name": "Banda",
+      "nativeName": "Banda",
+      "code": "GH-BO-12105105",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-BO",
+      "latitude": 8.2615,
+      "longitude": -2.38095
+    },
+    {
+      "id": 7648958,
+      "name": "Berekum",
+      "nativeName": "Berekum",
+      "code": "GH-BO-7648958",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-BO",
+      "latitude": 7.45,
+      "longitude": -2.58333
+    },
+    {
+      "id": 7648972,
+      "name": "Dormaa",
+      "nativeName": "Dormaa",
+      "code": "GH-BO-7648972",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-BO",
+      "latitude": 7.28333,
+      "longitude": -2.88333
+    },
+    {
+      "id": 7648973,
+      "name": "Dormaa East",
+      "nativeName": "Dormaa East",
+      "code": "GH-BO-7648973",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-BO",
+      "latitude": 7.3,
+      "longitude": -2.7
+    },
+    {
+      "id": 12105104,
+      "name": "Dormaa West",
+      "nativeName": "Dormaa West",
+      "code": "GH-BO-12105104",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-BO",
+      "latitude": 6.98465,
+      "longitude": -2.96329
+    },
+    {
+      "id": 7648986,
+      "name": "Jaman North",
+      "nativeName": "Jaman North",
+      "code": "GH-BO-7648986",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-BO",
+      "latitude": 7.95,
+      "longitude": -2.7
+    },
+    {
+      "id": 7648987,
+      "name": "Jaman South",
+      "nativeName": "Jaman South",
+      "code": "GH-BO-7648987",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-BO",
+      "latitude": 7.58365,
+      "longitude": -2.78684
+    },
+    {
+      "id": 7649046,
+      "name": "Sunyani",
+      "nativeName": "Sunyani",
+      "code": "GH-BO-7649046",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-BO",
+      "latitude": 7.33333,
+      "longitude": -2.33333
+    },
+    {
+      "id": 7649047,
+      "name": "Sunyani West",
+      "nativeName": "Sunyani West",
+      "code": "GH-BO-7649047",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-BO",
+      "latitude": 7.36667,
+      "longitude": -2.31667
+    },
+    {
+      "id": 7649049,
+      "name": "Tain",
+      "nativeName": "Tain",
+      "code": "GH-BO-7649049",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-BO",
+      "latitude": 7.86667,
+      "longitude": -2.31667
+    },
+    {
+      "id": 7649067,
+      "name": "Wenchi",
+      "nativeName": "Wenchi",
+      "code": "GH-BO-7649067",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-BO",
+      "latitude": 7.73333,
+      "longitude": -2.1
+    }
+  ]
+}

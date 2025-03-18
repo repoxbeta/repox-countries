@@ -1,0 +1,117 @@
+{
+  "stateId": 3229999,
+  "stateCode": "BA-BIH",
+  "countryCode": "BA",
+  "cities": [
+    {
+      "id": 3343726,
+      "name": "Bosansko-Podrinjski Kanton Goražde",
+      "nativeName": "Bosansko-Podrinjski Kanton Goražde",
+      "code": "BA-BIH-3343726",
+      "countryId": 3277605,
+      "countryCode": "BA",
+      "stateCode": "BA-BIH",
+      "latitude": 43.65528,
+      "longitude": 18.8
+    },
+    {
+      "id": 3343740,
+      "name": "Canton 10",
+      "nativeName": "Kanton 10",
+      "code": "BA-BIH-3343740",
+      "countryId": 3277605,
+      "countryCode": "BA",
+      "stateCode": "BA-BIH",
+      "latitude": 43.97861,
+      "longitude": 16.85639
+    },
+    {
+      "id": 3343731,
+      "name": "Central Bosnia Canton",
+      "nativeName": "Srednjobosanski Kanton",
+      "code": "BA-BIH-3343731",
+      "countryId": 3277605,
+      "countryCode": "BA",
+      "stateCode": "BA-BIH",
+      "latitude": 44.09833,
+      "longitude": 17.65556
+    },
+    {
+      "id": 3343733,
+      "name": "Herzegovina-Neretva Canton",
+      "nativeName": "Hercegovačko-Neretvanski Kanton",
+      "code": "BA-BIH-3343733",
+      "countryId": 3277605,
+      "countryCode": "BA",
+      "stateCode": "BA-BIH",
+      "latitude": 43.45722,
+      "longitude": 17.8125
+    },
+    {
+      "id": 3343706,
+      "name": "Posavina Canton",
+      "nativeName": "Posavski Kanton",
+      "code": "BA-BIH-3343706",
+      "countryId": 3277605,
+      "countryCode": "BA",
+      "stateCode": "BA-BIH",
+      "latitude": 45.04299,
+      "longitude": 18.61791
+    },
+    {
+      "id": 3343737,
+      "name": "Sarajevo Canton",
+      "nativeName": "Canton of Sarajevo",
+      "code": "BA-BIH-3343737",
+      "countryId": 3277605,
+      "countryCode": "BA",
+      "stateCode": "BA-BIH",
+      "latitude": 43.84333,
+      "longitude": 18.24222
+    },
+    {
+      "id": 3343716,
+      "name": "Tuzla Canton",
+      "nativeName": "Tuzlanski Kanton",
+      "code": "BA-BIH-3343716",
+      "countryId": 3277605,
+      "countryCode": "BA",
+      "stateCode": "BA-BIH",
+      "latitude": 44.545,
+      "longitude": 18.60167
+    },
+    {
+      "id": 3343704,
+      "name": "Una-Sana Canton",
+      "nativeName": "Unsko-Sanski Kanton",
+      "code": "BA-BIH-3343704",
+      "countryId": 3277605,
+      "countryCode": "BA",
+      "stateCode": "BA-BIH",
+      "latitude": 44.73694,
+      "longitude": 16.19361
+    },
+    {
+      "id": 3343736,
+      "name": "West Herzegovina Canton",
+      "nativeName": "Zapadnohercegovački Kanton",
+      "code": "BA-BIH-3343736",
+      "countryId": 3277605,
+      "countryCode": "BA",
+      "stateCode": "BA-BIH",
+      "latitude": 43.40028,
+      "longitude": 17.42389
+    },
+    {
+      "id": 3343722,
+      "name": "Zenica-Doboj Canton",
+      "nativeName": "Zeničko-Dobojski Kanton",
+      "code": "BA-BIH-3343722",
+      "countryId": 3277605,
+      "countryCode": "BA",
+      "stateCode": "BA-BIH",
+      "latitude": 44.23,
+      "longitude": 18.19222
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "stateId": 7670908,
+  "stateCode": "MG-25",
+  "countryCode": "MG",
+  "cities": [
+    {
+      "id": 11926405,
+      "name": "Befotaka",
+      "nativeName": "Befotaka",
+      "code": "MG-25-11926405",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-25",
+      "latitude": -23.88451,
+      "longitude": 46.81617
+    },
+    {
+      "id": 8299290,
+      "name": "Farafangana District",
+      "nativeName": "Farafangana District",
+      "code": "MG-25-8299290",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-25",
+      "latitude": -22.8015,
+      "longitude": 47.59827
+    },
+    {
+      "id": 11926400,
+      "name": "Midongy-Atsimo",
+      "nativeName": "Midongy-Atsimo",
+      "code": "MG-25-11926400",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-25",
+      "latitude": -23.3431,
+      "longitude": 46.99673
+    },
+    {
+      "id": 8299291,
+      "name": "Vangaindrano District",
+      "nativeName": "Vangaindrano District",
+      "code": "MG-25-8299291",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-25",
+      "latitude": -23.49348,
+      "longitude": 47.44995
+    },
+    {
+      "id": 11926404,
+      "name": "Vondrozo",
+      "nativeName": "Vondrozo",
+      "code": "MG-25-11926404",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-25",
+      "latitude": -22.68661,
+      "longitude": 47.30604
+    }
+  ]
+}

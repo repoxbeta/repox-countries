@@ -1,0 +1,73 @@
+{
+  "stateId": 2448083,
+  "stateCode": "NE-1",
+  "countryCode": "NE",
+  "cities": [
+    {
+      "id": 11996009,
+      "name": "Aderbissinat",
+      "nativeName": "Aderbissinat",
+      "code": "NE-1-11996009",
+      "countryId": 2440476,
+      "countryCode": "NE",
+      "stateCode": "NE-1",
+      "latitude": 16.51446,
+      "longitude": 8.92298
+    },
+    {
+      "id": 8624000,
+      "name": "Arlit",
+      "nativeName": "Arlit",
+      "code": "NE-1-8624000",
+      "countryId": 2440476,
+      "countryCode": "NE",
+      "stateCode": "NE-1",
+      "latitude": 18.83409,
+      "longitude": 7.43327
+    },
+    {
+      "id": 2446795,
+      "name": "Bilma",
+      "nativeName": "Département de Bilma",
+      "code": "NE-1-2446795",
+      "countryId": 2440476,
+      "countryCode": "NE",
+      "stateCode": "NE-1",
+      "latitude": 20.5,
+      "longitude": 13.25
+    },
+    {
+      "id": 11996022,
+      "name": "Iferouane",
+      "nativeName": "Iferouane",
+      "code": "NE-1-11996022",
+      "countryId": 2440476,
+      "countryCode": "NE",
+      "stateCode": "NE-1",
+      "latitude": 20.08481,
+      "longitude": 9.62308
+    },
+    {
+      "id": 11996007,
+      "name": "Ingall",
+      "nativeName": "Ingall",
+      "code": "NE-1-11996007",
+      "countryId": 2440476,
+      "countryCode": "NE",
+      "stateCode": "NE-1",
+      "latitude": 17.73018,
+      "longitude": 6.07794
+    },
+    {
+      "id": 8624001,
+      "name": "Tchirozerine",
+      "nativeName": "Département de Tchirozérine",
+      "code": "NE-1-8624001",
+      "countryId": 2440476,
+      "countryCode": "NE",
+      "stateCode": "NE-1",
+      "latitude": 17.43293,
+      "longitude": 7.89321
+    }
+  ]
+}

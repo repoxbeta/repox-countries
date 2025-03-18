@@ -1,0 +1,95 @@
+{
+  "stateId": 7628362,
+  "stateCode": "LV-091",
+  "countryCode": "LV",
+  "cities": [
+    {
+      "id": 11352911,
+      "name": "Allažu pagasts",
+      "nativeName": "Allažu pagasts",
+      "code": "LV-091-11352911",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-091",
+      "latitude": 57.04853,
+      "longitude": 24.78748
+    },
+    {
+      "id": 11352624,
+      "name": "Inčukalna pagasts",
+      "nativeName": "Inčukalna pagasts",
+      "code": "LV-091-11352624",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-091",
+      "latitude": 57.10285,
+      "longitude": 24.65706
+    },
+    {
+      "id": 11352701,
+      "name": "Krimuldas pagasts",
+      "nativeName": "Krimuldas pagasts",
+      "code": "LV-091-11352701",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-091",
+      "latitude": 57.21323,
+      "longitude": 24.79456
+    },
+    {
+      "id": 11352704,
+      "name": "Lēdurgas pagasts",
+      "nativeName": "Lēdurgas pagasts",
+      "code": "LV-091-11352704",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-091",
+      "latitude": 57.32215,
+      "longitude": 24.77997
+    },
+    {
+      "id": 11352894,
+      "name": "Mores pagasts",
+      "nativeName": "Mores pagasts",
+      "code": "LV-091-11352894",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-091",
+      "latitude": 57.07517,
+      "longitude": 25.06196
+    },
+    {
+      "id": 11352770,
+      "name": "Mālpils novads",
+      "nativeName": "Mālpils novads",
+      "code": "LV-091-11352770",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-091",
+      "latitude": 56.9938,
+      "longitude": 24.97257
+    },
+    {
+      "id": 11352872,
+      "name": "Sigulda",
+      "nativeName": "Sigulda",
+      "code": "LV-091-11352872",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-091",
+      "latitude": 57.16026,
+      "longitude": 24.84469
+    },
+    {
+      "id": 11352912,
+      "name": "Siguldas pagasts",
+      "nativeName": "Siguldas pagasts",
+      "code": "LV-091-11352912",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-091",
+      "latitude": 57.14329,
+      "longitude": 24.91975
+    }
+  ]
+}

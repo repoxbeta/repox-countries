@@ -1,0 +1,95 @@
+{
+  "stateId": 1444363,
+  "stateCode": "AF-NUR",
+  "countryCode": "AF",
+  "cities": [
+    {
+      "id": 7054022,
+      "name": "Barg-i Matal District",
+      "nativeName": "Barg-e Matāl",
+      "code": "AF-NUR-7054022",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-NUR",
+      "latitude": 35.7746,
+      "longitude": 71.25345
+    },
+    {
+      "id": 7054023,
+      "name": "Doab District",
+      "nativeName": "Dū Āb",
+      "code": "AF-NUR-7054023",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-NUR",
+      "latitude": 35.22149,
+      "longitude": 70.37775
+    },
+    {
+      "id": 7054025,
+      "name": "Kamdesh District",
+      "nativeName": "Kāmdēsh",
+      "code": "AF-NUR-7054025",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-NUR",
+      "latitude": 35.48327,
+      "longitude": 71.31453
+    },
+    {
+      "id": 7054026,
+      "name": "Mandol District",
+      "nativeName": "Mandōl",
+      "code": "AF-NUR-7054026",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-NUR",
+      "latitude": 35.40135,
+      "longitude": 70.2476
+    },
+    {
+      "id": 7054027,
+      "name": "Nurgaram District",
+      "nativeName": "Nūrgarām",
+      "code": "AF-NUR-7054027",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-NUR",
+      "latitude": 35.07425,
+      "longitude": 70.46861
+    },
+    {
+      "id": 7054028,
+      "name": "Parun District",
+      "nativeName": "Pārūn",
+      "code": "AF-NUR-7054028",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-NUR",
+      "latitude": 35.4079,
+      "longitude": 70.80205
+    },
+    {
+      "id": 7054029,
+      "name": "Wama District",
+      "nativeName": "Wāmā",
+      "code": "AF-NUR-7054029",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-NUR",
+      "latitude": 35.18228,
+      "longitude": 70.79555
+    },
+    {
+      "id": 7054030,
+      "name": "Waygal District",
+      "nativeName": "Wāygal",
+      "code": "AF-NUR-7054030",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-NUR",
+      "latitude": 35.22561,
+      "longitude": 71.02623
+    }
+  ]
+}

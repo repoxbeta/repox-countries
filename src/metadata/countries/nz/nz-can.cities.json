@@ -1,0 +1,117 @@
+{
+  "stateId": 2192628,
+  "stateCode": "NZ-CAN",
+  "countryCode": "NZ",
+  "cities": [
+    {
+      "id": 2193772,
+      "name": "Ashburton District",
+      "nativeName": "Ashburton District",
+      "code": "NZ-CAN-2193772",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-CAN",
+      "latitude": -43.9,
+      "longitude": 171.75
+    },
+    {
+      "id": 7910036,
+      "name": "Christchurch City",
+      "nativeName": "Christchurch City",
+      "code": "NZ-CAN-7910036",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-CAN",
+      "latitude": -43.64578,
+      "longitude": 172.74586
+    },
+    {
+      "id": 7910044,
+      "name": "Hurunui District",
+      "nativeName": "Hurunui District",
+      "code": "NZ-CAN-7910044",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-CAN",
+      "latitude": -42.66742,
+      "longitude": 172.6918
+    },
+    {
+      "id": 7910046,
+      "name": "Kaikoura District",
+      "nativeName": "Kaikoura District",
+      "code": "NZ-CAN-7910046",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-CAN",
+      "latitude": -42.23641,
+      "longitude": 173.62202
+    },
+    {
+      "id": 7910050,
+      "name": "Mackenzie District",
+      "nativeName": "Mackenzie District",
+      "code": "NZ-CAN-7910050",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-CAN",
+      "latitude": -43.93987,
+      "longitude": 170.51913
+    },
+    {
+      "id": 7910060,
+      "name": "Selwyn District",
+      "nativeName": "Selwyn District",
+      "code": "NZ-CAN-7910060",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-CAN",
+      "latitude": -43.32226,
+      "longitude": 171.87064
+    },
+    {
+      "id": 2181134,
+      "name": "Timaru District",
+      "nativeName": "Timaru District",
+      "code": "NZ-CAN-2181134",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-CAN",
+      "latitude": -44.4,
+      "longitude": 171.21667
+    },
+    {
+      "id": 7910069,
+      "name": "Waimakariri District",
+      "nativeName": "Waimakariri District",
+      "code": "NZ-CAN-7910069",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-CAN",
+      "latitude": -43.2075,
+      "longitude": 172.33286
+    },
+    {
+      "id": 2180177,
+      "name": "Waimate District",
+      "nativeName": "Waimate District",
+      "code": "NZ-CAN-2180177",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-CAN",
+      "latitude": -44.75,
+      "longitude": 171.03333
+    },
+    {
+      "id": 11694798,
+      "name": "Waitaki District",
+      "nativeName": "Waitaki District",
+      "code": "NZ-CAN-11694798",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-CAN",
+      "latitude": -44.95994,
+      "longitude": 170.5545
+    }
+  ]
+}

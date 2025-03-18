@@ -1,0 +1,128 @@
+{
+  "stateId": 1572594,
+  "stateCode": "VN-14",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 8551063,
+      "name": "Cao Phong District",
+      "nativeName": "Huyện Cao Phong",
+      "code": "VN-14-8551063",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-14",
+      "latitude": 20.69532,
+      "longitude": 105.33559
+    },
+    {
+      "id": 1905021,
+      "name": "Huyện Kim Bôi",
+      "nativeName": "Huyện Kim Bôi",
+      "code": "VN-14-1905021",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-14",
+      "latitude": 20.68786,
+      "longitude": 105.54771
+    },
+    {
+      "id": 1905022,
+      "name": "Huyện Lạc Sơn",
+      "nativeName": "Huyện Lạc Sơn",
+      "code": "VN-14-1905022",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-14",
+      "latitude": 20.5019,
+      "longitude": 105.50171
+    },
+    {
+      "id": 1905018,
+      "name": "Huyện Mai Châu",
+      "nativeName": "Huyện Mai Châu",
+      "code": "VN-14-1905018",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-14",
+      "latitude": 20.66296,
+      "longitude": 105.03145
+    },
+    {
+      "id": 1905016,
+      "name": "Kỳ Sơn District",
+      "nativeName": "Huyện Kỳ Sơn",
+      "code": "VN-14-1905016",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-14",
+      "latitude": 20.89631,
+      "longitude": 105.39659
+    },
+    {
+      "id": 1905020,
+      "name": "Lương Sơn District",
+      "nativeName": "Huyện Lương Sơn",
+      "code": "VN-14-1905020",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-14",
+      "latitude": 20.8765,
+      "longitude": 105.51219
+    },
+    {
+      "id": 1905023,
+      "name": "Lạc Thủy District",
+      "nativeName": "Huyện Lạc Thủy",
+      "code": "VN-14-1905023",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-14",
+      "latitude": 20.49794,
+      "longitude": 105.74092
+    },
+    {
+      "id": 1905015,
+      "name": "Thành Phố Hòa Bình",
+      "nativeName": "Thành Phố Hòa Bình",
+      "code": "VN-14-1905015",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-14",
+      "latitude": 20.82459,
+      "longitude": 105.3289
+    },
+    {
+      "id": 1905019,
+      "name": "Tân Lạc District",
+      "nativeName": "Huyện Tân Lạc",
+      "code": "VN-14-1905019",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-14",
+      "latitude": 20.60557,
+      "longitude": 105.23399
+    },
+    {
+      "id": 1905024,
+      "name": "Yên Thủy District",
+      "nativeName": "Huyện Yên Thủy",
+      "code": "VN-14-1905024",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-14",
+      "latitude": 20.4222,
+      "longitude": 105.62122
+    },
+    {
+      "id": 1905017,
+      "name": "Đà Bắc District",
+      "nativeName": "Huyện Đà Bắc",
+      "code": "VN-14-1905017",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-14",
+      "latitude": 20.90057,
+      "longitude": 105.07925
+    }
+  ]
+}

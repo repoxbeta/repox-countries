@@ -1,0 +1,40 @@
+{
+  "stateId": 11695127,
+  "stateCode": "CK-11695127",
+  "countryCode": "CK",
+  "cities": [
+    {
+      "id": 4035694,
+      "name": "Ivirua Village",
+      "nativeName": "Ivirua Village",
+      "code": "CK-11695127-4035694",
+      "countryId": 1899402,
+      "countryCode": "CK",
+      "stateCode": "CK-11695127",
+      "latitude": -21.9177,
+      "longitude": -157.89527
+    },
+    {
+      "id": 4036480,
+      "name": "Karanga Village",
+      "nativeName": "Karanga Village",
+      "code": "CK-11695127-4036480",
+      "countryId": 1899402,
+      "countryCode": "CK",
+      "stateCode": "CK-11695127",
+      "latitude": -21.90784,
+      "longitude": -157.90212
+    },
+    {
+      "id": 4035530,
+      "name": "Tamarua Village",
+      "nativeName": "Tamarua Village",
+      "code": "CK-11695127-4035530",
+      "countryId": 1899402,
+      "countryCode": "CK",
+      "stateCode": "CK-11695127",
+      "latitude": -21.95045,
+      "longitude": -157.90799
+    }
+  ]
+}

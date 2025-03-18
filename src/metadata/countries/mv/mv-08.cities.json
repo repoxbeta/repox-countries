@@ -1,0 +1,73 @@
+{
+  "stateId": 1281881,
+  "stateCode": "MV-08",
+  "countryCode": "MV",
+  "cities": [
+    {
+      "id": 1337622,
+      "name": "Veymandoo",
+      "nativeName": "Veymandoo",
+      "code": "MV-08-1337622",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-08",
+      "latitude": 2.18772,
+      "longitude": 73.09556
+    },
+    {
+      "id": 7931877,
+      "name": "Diyamigili",
+      "nativeName": "Diyamigili",
+      "code": "MV-08-7931877",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-08",
+      "latitude": 2.34047,
+      "longitude": 73.3388
+    },
+    {
+      "id": 11776643,
+      "name": "Gaadhiffushi",
+      "nativeName": "Gaadhiffushi",
+      "code": "MV-08-11776643",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-08",
+      "latitude": 2.25205,
+      "longitude": 73.21293
+    },
+    {
+      "id": 7931878,
+      "name": "Guraidhoo",
+      "nativeName": "Guraidhoo",
+      "code": "MV-08-7931878",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-08",
+      "latitude": 2.32473,
+      "longitude": 73.31846
+    },
+    {
+      "id": 7911024,
+      "name": "Madifushi",
+      "nativeName": "Madifushi",
+      "code": "MV-08-7911024",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-08",
+      "latitude": 2.35582,
+      "longitude": 73.35473
+    },
+    {
+      "id": 7910632,
+      "name": "Vilufushi",
+      "nativeName": "Vilufushi",
+      "code": "MV-08-7910632",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-08",
+      "latitude": 2.50306,
+      "longitude": 73.30859
+    }
+  ]
+}

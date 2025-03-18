@@ -1,0 +1,84 @@
+{
+  "stateId": 706482,
+  "stateCode": "UA-63",
+  "countryCode": "UA",
+  "cities": [
+    {
+      "id": 711892,
+      "name": "Bohodukhiv Raion",
+      "nativeName": "Bohodukhivskyi Raion",
+      "code": "UA-63-711892",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-63",
+      "latitude": 50.06,
+      "longitude": 35.52
+    },
+    {
+      "id": 9114317,
+      "name": "Chuhuiv City Council",
+      "nativeName": "Chuhuiv City Council",
+      "code": "UA-63-9114317",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-63",
+      "latitude": 49.83586,
+      "longitude": 36.7358
+    },
+    {
+      "id": 9197254,
+      "name": "Iziumska Miskrada",
+      "nativeName": "Iziumska Miskrada",
+      "code": "UA-63-9197254",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-63",
+      "latitude": 49.20356,
+      "longitude": 37.28353
+    },
+    {
+      "id": 9114284,
+      "name": "Kharkiv Raion",
+      "nativeName": "Kharkiv Raion",
+      "code": "UA-63-9114284",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-63",
+      "latitude": 50.06985,
+      "longitude": 36.27971
+    },
+    {
+      "id": 704387,
+      "name": "Krasnohrad Raion",
+      "nativeName": "Krasnohradskyi Raion",
+      "code": "UA-63-704387",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-63",
+      "latitude": 49.28,
+      "longitude": 35.66
+    },
+    {
+      "id": 9194084,
+      "name": "Kupianska Miskrada",
+      "nativeName": "Kupianska Miskrada",
+      "code": "UA-63-9194084",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-63",
+      "latitude": 49.67501,
+      "longitude": 37.63679
+    },
+    {
+      "id": 9101597,
+      "name": "Lozova City Council",
+      "nativeName": "Lozova City Council",
+      "code": "UA-63-9101597",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-63",
+      "latitude": 48.89072,
+      "longitude": 36.35306
+    }
+  ]
+}

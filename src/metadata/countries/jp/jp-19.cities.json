@@ -1,0 +1,205 @@
+{
+  "stateId": 1848649,
+  "stateCode": "JP-19",
+  "countryCode": "JP",
+  "cities": [
+    {
+      "id": 7415926,
+      "name": "Chūō Shi",
+      "nativeName": "Chūō Shi",
+      "code": "JP-19-7415926",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-19",
+      "latitude": 35.58418,
+      "longitude": 138.5411
+    },
+    {
+      "id": 7415916,
+      "name": "Fuefuki Shi",
+      "nativeName": "Fuefuki Shi",
+      "code": "JP-19-7415916",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-19",
+      "latitude": 35.59955,
+      "longitude": 138.68067
+    },
+    {
+      "id": 1864076,
+      "name": "Fuji-yoshida Shi",
+      "nativeName": "Fuji-yoshida Shi",
+      "code": "JP-19-1864076",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-19",
+      "latitude": 35.43915,
+      "longitude": 138.79368
+    },
+    {
+      "id": 7415915,
+      "name": "Hokuto Shi",
+      "nativeName": "Hokuto Shi",
+      "code": "JP-19-7415915",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-19",
+      "latitude": 35.83717,
+      "longitude": 138.39375
+    },
+    {
+      "id": 9062326,
+      "name": "Kai-shi",
+      "nativeName": "Kai-shi",
+      "code": "JP-19-9062326",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-19",
+      "latitude": 35.71627,
+      "longitude": 138.51871
+    },
+    {
+      "id": 1859260,
+      "name": "Kitatsuru-gun",
+      "nativeName": "Kitatsuru-gun",
+      "code": "JP-19-1859260",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-19",
+      "latitude": 35.78415,
+      "longitude": 138.918
+    },
+    {
+      "id": 1859096,
+      "name": "Kōfu-shi",
+      "nativeName": "Kōfu-shi",
+      "code": "JP-19-1859096",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-19",
+      "latitude": 35.69606,
+      "longitude": 138.61261
+    },
+    {
+      "id": 7415917,
+      "name": "Kōshū Shi",
+      "nativeName": "Kōshū Shi",
+      "code": "JP-19-7415917",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-19",
+      "latitude": 35.72649,
+      "longitude": 138.79178
+    },
+    {
+      "id": 7415914,
+      "name": "Minami Alps Shi",
+      "nativeName": "Minami Alps Shi",
+      "code": "JP-19-7415914",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-19",
+      "latitude": 35.65065,
+      "longitude": 138.35413
+    },
+    {
+      "id": 1857168,
+      "name": "Minamikoma-gun",
+      "nativeName": "Minamikoma-gun",
+      "code": "JP-19-1857168",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-19",
+      "latitude": 35.41767,
+      "longitude": 138.39914
+    },
+    {
+      "id": 7415908,
+      "name": "Minamitsuru-gun",
+      "nativeName": "Minamitsuru-gun",
+      "code": "JP-19-7415908",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-19",
+      "latitude": 35.49757,
+      "longitude": 138.74359
+    },
+    {
+      "id": 7415909,
+      "name": "Nakakoma-gun",
+      "nativeName": "Nakakoma-gun",
+      "code": "JP-19-7415909",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-19",
+      "latitude": 35.62784,
+      "longitude": 138.53
+    },
+    {
+      "id": 1855362,
+      "name": "Nirasaki Shi",
+      "nativeName": "Nirasaki Shi",
+      "code": "JP-19-1855362",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-19",
+      "latitude": 35.71772,
+      "longitude": 138.412
+    },
+    {
+      "id": 1855121,
+      "name": "Nishiyatsushiro-gun",
+      "nativeName": "Nishiyatsushiro-gun",
+      "code": "JP-19-1855121",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-19",
+      "latitude": 35.53195,
+      "longitude": 138.51
+    },
+    {
+      "id": 1849556,
+      "name": "Tsuru Shi",
+      "nativeName": "Tsuru Shi",
+      "code": "JP-19-1849556",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-19",
+      "latitude": 35.5366,
+      "longitude": 138.91489
+    },
+    {
+      "id": 1849406,
+      "name": "Uenohara-shi",
+      "nativeName": "Uenohara-shi",
+      "code": "JP-19-1849406",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-19",
+      "latitude": 35.65,
+      "longitude": 139.05
+    },
+    {
+      "id": 1848648,
+      "name": "Yamanashi Shi",
+      "nativeName": "Yamanashi Shi",
+      "code": "JP-19-1848648",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-19",
+      "latitude": 35.79691,
+      "longitude": 138.69743
+    },
+    {
+      "id": 1853562,
+      "name": "Ōtsuki Shi",
+      "nativeName": "Ōtsuki Shi",
+      "code": "JP-19-1853562",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-19",
+      "latitude": 35.64285,
+      "longitude": 138.91993
+    }
+  ]
+}

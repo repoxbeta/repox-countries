@@ -1,0 +1,117 @@
+{
+  "stateId": 2960696,
+  "stateCode": "LU-CA",
+  "countryCode": "LU",
+  "cities": [
+    {
+      "id": 6693260,
+      "name": "Dippach",
+      "nativeName": "Dippach",
+      "code": "LU-CA-6693260",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-CA",
+      "latitude": 49.58833,
+      "longitude": 5.98333
+    },
+    {
+      "id": 6693261,
+      "name": "Garnich",
+      "nativeName": "Garnich",
+      "code": "LU-CA-6693261",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-CA",
+      "latitude": 49.61667,
+      "longitude": 5.9525
+    },
+    {
+      "id": 6693262,
+      "name": "Hobscheid",
+      "nativeName": "Hobscheid",
+      "code": "LU-CA-6693262",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-CA",
+      "latitude": 49.68861,
+      "longitude": 5.91472
+    },
+    {
+      "id": 6693263,
+      "name": "Kehlen",
+      "nativeName": "Kehlen",
+      "code": "LU-CA-6693263",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-CA",
+      "latitude": 49.66833,
+      "longitude": 6.03583
+    },
+    {
+      "id": 6693264,
+      "name": "Koerich",
+      "nativeName": "Koerich",
+      "code": "LU-CA-6693264",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-CA",
+      "latitude": 49.67,
+      "longitude": 5.95
+    },
+    {
+      "id": 6693265,
+      "name": "Kopstal",
+      "nativeName": "Kopstal",
+      "code": "LU-CA-6693265",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-CA",
+      "latitude": 49.66444,
+      "longitude": 6.07306
+    },
+    {
+      "id": 8641865,
+      "name": "Käerjeng",
+      "nativeName": "Käerjeng",
+      "code": "LU-CA-8641865",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-CA",
+      "latitude": 49.58311,
+      "longitude": 5.89892
+    },
+    {
+      "id": 6693266,
+      "name": "Mamer",
+      "nativeName": "Mamer",
+      "code": "LU-CA-6693266",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-CA",
+      "latitude": 49.6275,
+      "longitude": 6.02333
+    },
+    {
+      "id": 6693267,
+      "name": "Septfontaines",
+      "nativeName": "Septfontaines",
+      "code": "LU-CA-6693267",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-CA",
+      "latitude": 49.70111,
+      "longitude": 5.96722
+    },
+    {
+      "id": 6693268,
+      "name": "Steinfort",
+      "nativeName": "Steinfort",
+      "code": "LU-CA-6693268",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-CA",
+      "latitude": 49.66139,
+      "longitude": 5.91917
+    }
+  ]
+}

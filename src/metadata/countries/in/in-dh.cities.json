@@ -1,0 +1,40 @@
+{
+  "stateId": 12165662,
+  "stateCode": "IN-DH",
+  "countryCode": "IN",
+  "cities": [
+    {
+      "id": 9747961,
+      "name": "Dadra and Nagar Haveli",
+      "nativeName": "Dadra & Nagar Haveli",
+      "code": "IN-DH-9747961",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-DH",
+      "latitude": 20.20651,
+      "longitude": 73.00811
+    },
+    {
+      "id": 1273616,
+      "name": "Daman",
+      "nativeName": "Daman District",
+      "code": "IN-DH-1273616",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-DH",
+      "latitude": 20.41667,
+      "longitude": 72.88333
+    },
+    {
+      "id": 1272504,
+      "name": "Diu",
+      "nativeName": "Diu",
+      "code": "IN-DH-1272504",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-DH",
+      "latitude": 20.72081,
+      "longitude": 70.93989
+    }
+  ]
+}

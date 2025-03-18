@@ -1,0 +1,73 @@
+{
+  "stateId": 4019991,
+  "stateCode": "PF-M",
+  "countryCode": "PF",
+  "cities": [
+    {
+      "id": 10295149,
+      "name": "Fatu-Hiva",
+      "nativeName": "Fatu-Hiva",
+      "code": "PF-M-10295149",
+      "countryId": 4030656,
+      "countryCode": "PF",
+      "stateCode": "PF-M",
+      "latitude": -10.47031,
+      "longitude": -138.64351
+    },
+    {
+      "id": 10295183,
+      "name": "Hiva-Oa",
+      "nativeName": "Hiva-Oa",
+      "code": "PF-M-10295183",
+      "countryId": 4030656,
+      "countryCode": "PF",
+      "stateCode": "PF-M",
+      "latitude": -9.7515,
+      "longitude": -139.00525
+    },
+    {
+      "id": 10295204,
+      "name": "Nuku-Hiva",
+      "nativeName": "Nuku-Hiva",
+      "code": "PF-M-10295204",
+      "countryId": 4030656,
+      "countryCode": "PF",
+      "stateCode": "PF-M",
+      "latitude": -8.85138,
+      "longitude": -140.17937
+    },
+    {
+      "id": 10295205,
+      "name": "Tahuata",
+      "nativeName": "Tahuata",
+      "code": "PF-M-10295205",
+      "countryId": 4030656,
+      "countryCode": "PF",
+      "stateCode": "PF-M",
+      "latitude": -9.95073,
+      "longitude": -139.08713
+    },
+    {
+      "id": 10295206,
+      "name": "Ua Huka",
+      "nativeName": "Ua Huka",
+      "code": "PF-M-10295206",
+      "countryId": 4030656,
+      "countryCode": "PF",
+      "stateCode": "PF-M",
+      "latitude": -8.89988,
+      "longitude": -139.55512
+    },
+    {
+      "id": 10295207,
+      "name": "Ua-Pou",
+      "nativeName": "Ua-Pou",
+      "code": "PF-M-10295207",
+      "countryId": 4030656,
+      "countryCode": "PF",
+      "stateCode": "PF-M",
+      "latitude": -9.39216,
+      "longitude": -140.07594
+    }
+  ]
+}
