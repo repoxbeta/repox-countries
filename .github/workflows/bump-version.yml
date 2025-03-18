@@ -1,0 +1,81 @@
+name: Bump Version & Release
+
+on:
+  workflow_dispatch:
+
+jobs:
+  bump-version:
+    name: Bump Version & Release
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check if user is an admin
+        run: |
+          ACTOR="${{ github.actor }}"
+          ADMINS="repoxbeta"
+          if [[ ! " $ADMINS " =~ " $ACTOR " ]]; then
+            echo "❌ User $ACTOR is not authorized to run this workflow."
+            exit 1
+          fi
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GH_PAT }}
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '21'
+          cache: 'yarn'
+
+      - name: Install dependencies
+        run: yarn install --frozen-lockfile
+
+      - name: Get current version from package.json
+        run: echo "CURRENT_VERSION=$(node -p "require('./package.json').version")" >> $GITHUB_ENV
+
+      - name: Increment patch version
+        run: |
+          NEW_VERSION=$(node -p "v = process.env.CURRENT_VERSION.split('.'); v[2] = parseInt(v[2]) + 1; v.join('.')")
+          echo "NEW_VERSION=$NEW_VERSION" >> $GITHUB_ENV
+          jq --arg v "$NEW_VERSION" '.version = $v' package.json > tmp.json && mv tmp.json package.json
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions@github.com"
+          git add package.json
+          git commit -m "chore: auto-bump version to $NEW_VERSION"
+          git push origin main
+
+      - name: Create Git tag
+        run: |
+          git tag "v$NEW_VERSION"
+          git push origin "v$NEW_VERSION"
+
+      - name: Generate release notes
+        run: |
+          PREV_TAG=$(git describe --tags --abbrev=0 2>/dev/null || echo "")
+          if [ -n "$PREV_TAG" ]; then
+            RELEASE_NOTES=$(git log "$PREV_TAG"..HEAD --pretty=format:"- %s (%an)" --no-merges)
+          else
+            RELEASE_NOTES=$(git log --pretty=format:"- %s (%an)" --no-merges)
+          fi
+          echo "RELEASE_NOTES<<EOF" >> $GITHUB_ENV
+          echo "$RELEASE_NOTES" >> $GITHUB_ENV
+          echo "EOF" >> $GITHUB_ENV
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          token: ${{ secrets.GH_PAT }}
+          tag_name: "v${{ env.NEW_VERSION }}"
+          name: "Release v${{ env.NEW_VERSION }}"
+          body: ${{ env.RELEASE_NOTES }}
+          draft: false
+          prerelease: false
+
+      - name: Notify about new version
+        run: echo "🚀 New version $NEW_VERSION has been bumped and released!"
