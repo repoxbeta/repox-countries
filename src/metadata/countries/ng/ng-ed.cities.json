@@ -1,0 +1,205 @@
+{
+  "stateId": 2565343,
+  "stateCode": "NG-ED",
+  "countryCode": "NG",
+  "cities": [
+    {
+      "id": 8636772,
+      "name": "Akoko-Edo",
+      "nativeName": "Akoko-Edo",
+      "code": "NG-ED-8636772",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-ED",
+      "latitude": 7.34506,
+      "longitude": 6.11489
+    },
+    {
+      "id": 8636763,
+      "name": "Egor",
+      "nativeName": "Egor",
+      "code": "NG-ED-8636763",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-ED",
+      "latitude": 6.35748,
+      "longitude": 5.57547
+    },
+    {
+      "id": 8636767,
+      "name": "Esan Central",
+      "nativeName": "Esan Central",
+      "code": "NG-ED-8636767",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-ED",
+      "latitude": 6.70969,
+      "longitude": 6.19313
+    },
+    {
+      "id": 8636768,
+      "name": "Esan North-East",
+      "nativeName": "Esan North-East",
+      "code": "NG-ED-8636768",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-ED",
+      "latitude": 6.75495,
+      "longitude": 6.39676
+    },
+    {
+      "id": 8636769,
+      "name": "Esan South-East",
+      "nativeName": "Esan South-East",
+      "code": "NG-ED-8636769",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-ED",
+      "latitude": 6.58663,
+      "longitude": 6.47585
+    },
+    {
+      "id": 8636766,
+      "name": "Esan West",
+      "nativeName": "Esan West",
+      "code": "NG-ED-8636766",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-ED",
+      "latitude": 6.66166,
+      "longitude": 6.12908
+    },
+    {
+      "id": 8636775,
+      "name": "Etsako Central",
+      "nativeName": "Etsako Central",
+      "code": "NG-ED-8636775",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-ED",
+      "latitude": 6.97193,
+      "longitude": 6.51235
+    },
+    {
+      "id": 8636773,
+      "name": "Etsako East",
+      "nativeName": "Etsako East",
+      "code": "NG-ED-8636773",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-ED",
+      "latitude": 7.20919,
+      "longitude": 6.49613
+    },
+    {
+      "id": 8636774,
+      "name": "Etsako West",
+      "nativeName": "Etsako West",
+      "code": "NG-ED-8636774",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-ED",
+      "latitude": 6.99829,
+      "longitude": 6.30145
+    },
+    {
+      "id": 8636765,
+      "name": "Iguegben",
+      "nativeName": "Iguegben",
+      "code": "NG-ED-8636765",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-ED",
+      "latitude": 6.52782,
+      "longitude": 6.24264
+    },
+    {
+      "id": 7932077,
+      "name": "Ikpoba-Okha",
+      "nativeName": "Ikpoba-Okha",
+      "code": "NG-ED-7932077",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-ED",
+      "latitude": 6.16445,
+      "longitude": 5.62284
+    },
+    {
+      "id": 8636764,
+      "name": "Oredo",
+      "nativeName": "Oredo",
+      "code": "NG-ED-8636764",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-ED",
+      "latitude": 6.23581,
+      "longitude": 5.55114
+    },
+    {
+      "id": 7873880,
+      "name": "Orhionmwon",
+      "nativeName": "Orhionmwon",
+      "code": "NG-ED-7873880",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-ED",
+      "latitude": 6.25354,
+      "longitude": 5.98405
+    },
+    {
+      "id": 7873878,
+      "name": "Ovia North-East",
+      "nativeName": "Ovia North-East",
+      "code": "NG-ED-7873878",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-ED",
+      "latitude": 6.64465,
+      "longitude": 5.57989
+    },
+    {
+      "id": 7873877,
+      "name": "Ovia South-West",
+      "nativeName": "Ovia South-West",
+      "code": "NG-ED-7873877",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-ED",
+      "latitude": 6.396,
+      "longitude": 5.272
+    },
+    {
+      "id": 8636771,
+      "name": "Owan East",
+      "nativeName": "Owan East",
+      "code": "NG-ED-8636771",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-ED",
+      "latitude": 7.03162,
+      "longitude": 6.07942
+    },
+    {
+      "id": 8636770,
+      "name": "Owan West",
+      "nativeName": "Owan West",
+      "code": "NG-ED-8636770",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-ED",
+      "latitude": 6.92934,
+      "longitude": 5.89385
+    },
+    {
+      "id": 7932071,
+      "name": "Uhunmwonde",
+      "nativeName": "Uhunmwonde",
+      "code": "NG-ED-7932071",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-ED",
+      "latitude": 6.49222,
+      "longitude": 5.88452
+    }
+  ]
+}

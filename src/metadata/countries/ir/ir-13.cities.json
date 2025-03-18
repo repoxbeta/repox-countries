@@ -1,0 +1,106 @@
+{
+  "stateId": 132142,
+  "stateCode": "IR-13",
+  "countryCode": "IR",
+  "cities": [
+    {
+      "id": 449711,
+      "name": "Razan",
+      "nativeName": "Razan",
+      "code": "IR-13-449711",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-13",
+      "latitude": 35.43357,
+      "longitude": 48.9817
+    },
+    {
+      "id": 449708,
+      "name": "Shahrestān-e Asadābād",
+      "nativeName": "Shahrestān-e Asadābād",
+      "code": "IR-13-449708",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-13",
+      "latitude": 34.78333,
+      "longitude": 48
+    },
+    {
+      "id": 449709,
+      "name": "Shahrestān-e Bahār",
+      "nativeName": "Shahrestān-e Bahār",
+      "code": "IR-13-449709",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-13",
+      "latitude": 34.98612,
+      "longitude": 48.37164
+    },
+    {
+      "id": 9523287,
+      "name": "Shahrestān-e Fāmenīn",
+      "nativeName": "Shahrestān-e Fāmenīn",
+      "code": "IR-13-9523287",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-13",
+      "latitude": 35.09813,
+      "longitude": 49.17369
+    },
+    {
+      "id": 449715,
+      "name": "Shahrestān-e Hamadān",
+      "nativeName": "Shahrestān-e Hamadān",
+      "code": "IR-13-449715",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-13",
+      "latitude": 34.82517,
+      "longitude": 48.8031
+    },
+    {
+      "id": 449712,
+      "name": "Shahrestān-e Kabūdarāhang",
+      "nativeName": "Shahrestān-e Kabūdarāhang",
+      "code": "IR-13-449712",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-13",
+      "latitude": 35.37615,
+      "longitude": 48.38238
+    },
+    {
+      "id": 449713,
+      "name": "Shahrestān-e Malāyer",
+      "nativeName": "Shahrestān-e Malāyer",
+      "code": "IR-13-449713",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-13",
+      "latitude": 34.32216,
+      "longitude": 48.79741
+    },
+    {
+      "id": 449714,
+      "name": "Shahrestān-e Nahāvand",
+      "nativeName": "Shahrestān-e Nahāvand",
+      "code": "IR-13-449714",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-13",
+      "latitude": 34.21957,
+      "longitude": 48.2467
+    },
+    {
+      "id": 449710,
+      "name": "Shahrestān-e Tūyserkān",
+      "nativeName": "Shahrestān-e Tūyserkān",
+      "code": "IR-13-449710",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-13",
+      "latitude": 34.54219,
+      "longitude": 48.33457
+    }
+  ]
+}

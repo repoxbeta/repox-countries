@@ -1,0 +1,117 @@
+{
+  "stateId": 3573891,
+  "stateCode": "TT-POS",
+  "countryCode": "TT",
+  "cities": [
+    {
+      "id": 3573890,
+      "name": "Port of Spain",
+      "nativeName": "Port of Spain",
+      "code": "TT-POS-3573890",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-POS",
+      "latitude": 10.66668,
+      "longitude": -61.51889
+    },
+    {
+      "id": 3574995,
+      "name": "Belmont",
+      "nativeName": "Belmont",
+      "code": "TT-POS-3574995",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-POS",
+      "latitude": 10.66817,
+      "longitude": -61.50574
+    },
+    {
+      "id": 3574957,
+      "name": "Boissiere Village",
+      "nativeName": "Boissiere Village",
+      "code": "TT-POS-3574957",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-POS",
+      "latitude": 10.66667,
+      "longitude": -61.51667
+    },
+    {
+      "id": 3574738,
+      "name": "Corbeaux Town",
+      "nativeName": "Corbeaux Town",
+      "code": "TT-POS-3574738",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-POS",
+      "latitude": 10.65,
+      "longitude": -61.51667
+    },
+    {
+      "id": 3574614,
+      "name": "East Dry River",
+      "nativeName": "East Dry River",
+      "code": "TT-POS-3574614",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-POS",
+      "latitude": 10.65639,
+      "longitude": -61.50556
+    },
+    {
+      "id": 3574069,
+      "name": "Mucurapo",
+      "nativeName": "Mucurapo",
+      "code": "TT-POS-3574069",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-POS",
+      "latitude": 10.66253,
+      "longitude": -61.53697
+    },
+    {
+      "id": 3573961,
+      "name": "Peru",
+      "nativeName": "Peru",
+      "code": "TT-POS-3573961",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-POS",
+      "latitude": 10.66364,
+      "longitude": -61.5358
+    },
+    {
+      "id": 3573794,
+      "name": "Saint Clair",
+      "nativeName": "Saint Clair",
+      "code": "TT-POS-3573794",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-POS",
+      "latitude": 10.67039,
+      "longitude": -61.52168
+    },
+    {
+      "id": 3573779,
+      "name": "Saint James",
+      "nativeName": "Saint James",
+      "code": "TT-POS-3573779",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-POS",
+      "latitude": 10.67171,
+      "longitude": -61.53446
+    },
+    {
+      "id": 3573523,
+      "name": "Woodbrook",
+      "nativeName": "Woodbrook",
+      "code": "TT-POS-3573523",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-POS",
+      "latitude": 10.66398,
+      "longitude": -61.52837
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "stateId": 1607707,
+  "stateCode": "TH-65",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 1619436,
+      "name": "Bang Krathum",
+      "nativeName": "Amphoe Bang Krathum",
+      "code": "TH-65-1619436",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-65",
+      "latitude": 16.59323,
+      "longitude": 100.35042
+    },
+    {
+      "id": 1619275,
+      "name": "Bang Rakam",
+      "nativeName": "Amphoe Bang Rakam",
+      "code": "TH-65-1619275",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-65",
+      "latitude": 16.71844,
+      "longitude": 100.04217
+    },
+    {
+      "id": 7510694,
+      "name": "Chat Trakan",
+      "nativeName": "Amphoe Chat Trakan",
+      "code": "TH-65-7510694",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-65",
+      "latitude": 17.39357,
+      "longitude": 100.6846
+    },
+    {
+      "id": 1608633,
+      "name": "Mueang Phitsanulok",
+      "nativeName": "Amphoe Mueang Phitsanulok",
+      "code": "TH-65-1608633",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-65",
+      "latitude": 16.8404,
+      "longitude": 100.27298
+    },
+    {
+      "id": 1608523,
+      "name": "Nakhon Thai",
+      "nativeName": "Amphoe Nakhon Thai",
+      "code": "TH-65-1608523",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-65",
+      "latitude": 17.09426,
+      "longitude": 100.86437
+    },
+    {
+      "id": 7510693,
+      "name": "Noen Maprang",
+      "nativeName": "Amphoe Noen Maprang",
+      "code": "TH-65-7510693",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-65",
+      "latitude": 16.564,
+      "longitude": 100.70995
+    },
+    {
+      "id": 1607467,
+      "name": "Phrom Phiram",
+      "nativeName": "Amphoe Phrom Phiram",
+      "code": "TH-65-1607467",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-65",
+      "latitude": 17.06894,
+      "longitude": 100.1535
+    },
+    {
+      "id": 1605091,
+      "name": "Wang Thong",
+      "nativeName": "Amphoe Wang Thong",
+      "code": "TH-65-1605091",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-65",
+      "latitude": 16.85,
+      "longitude": 100.58333
+    },
+    {
+      "id": 1605061,
+      "name": "Wat Bot",
+      "nativeName": "Amphoe Wat Bot",
+      "code": "TH-65-1605061",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-65",
+      "latitude": 17.16384,
+      "longitude": 100.36298
+    }
+  ]
+}

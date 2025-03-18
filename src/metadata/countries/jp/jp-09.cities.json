@@ -1,0 +1,216 @@
+{
+  "stateId": 1850310,
+  "stateCode": "JP-09",
+  "countryCode": "JP",
+  "cities": [
+    {
+      "id": 1865004,
+      "name": "Ashikaga Shi",
+      "nativeName": "Ashikaga Shi",
+      "code": "JP-09-1865004",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-09",
+      "latitude": 36.35931,
+      "longitude": 139.45301
+    },
+    {
+      "id": 2112845,
+      "name": "Haga-gun",
+      "nativeName": "Haga-gun",
+      "code": "JP-09-2112845",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-09",
+      "latitude": 36.5031,
+      "longitude": 140.11241
+    },
+    {
+      "id": 1860097,
+      "name": "Kanuma Shi",
+      "nativeName": "Kanuma Shi",
+      "code": "JP-09-1860097",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-09",
+      "latitude": 36.5755,
+      "longitude": 139.64149
+    },
+    {
+      "id": 1859750,
+      "name": "Kawachi-gun",
+      "nativeName": "Kawachi-gun",
+      "code": "JP-09-1859750",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-09",
+      "latitude": 36.4455,
+      "longitude": 139.91061
+    },
+    {
+      "id": 2111835,
+      "name": "Mooka-shi",
+      "nativeName": "Mooka-shi",
+      "code": "JP-09-2111835",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-09",
+      "latitude": 36.45,
+      "longitude": 140.05
+    },
+    {
+      "id": 2111674,
+      "name": "Nasu-gun",
+      "nativeName": "Nasu-gun",
+      "code": "JP-09-2111674",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-09",
+      "latitude": 36.94406,
+      "longitude": 140.12429
+    },
+    {
+      "id": 7453512,
+      "name": "Nasu-karasuyama Shi",
+      "nativeName": "Nasu-karasuyama Shi",
+      "code": "JP-09-7453512",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-09",
+      "latitude": 36.6627,
+      "longitude": 140.13405
+    },
+    {
+      "id": 7453513,
+      "name": "Nasu-shiobara Shi",
+      "nativeName": "Nasu-shiobara Shi",
+      "code": "JP-09-7453513",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-09",
+      "latitude": 36.99085,
+      "longitude": 139.91052
+    },
+    {
+      "id": 1861696,
+      "name": "Nikko-shi",
+      "nativeName": "Nikko-shi",
+      "code": "JP-09-1861696",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-09",
+      "latitude": 36.75,
+      "longitude": 139.7
+    },
+    {
+      "id": 1853473,
+      "name": "Oyama Shi",
+      "nativeName": "Oyama Shi",
+      "code": "JP-09-1853473",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-09",
+      "latitude": 36.308,
+      "longitude": 139.80195
+    },
+    {
+      "id": 7453516,
+      "name": "Sakura Shi",
+      "nativeName": "Sakura Shi",
+      "code": "JP-09-7453516",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-09",
+      "latitude": 36.72362,
+      "longitude": 140.00289
+    },
+    {
+      "id": 7453517,
+      "name": "Sano Shi",
+      "nativeName": "Sano Shi",
+      "code": "JP-09-7453517",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-09",
+      "latitude": 36.42406,
+      "longitude": 139.53578
+    },
+    {
+      "id": 1852170,
+      "name": "Shimotsuga-gun",
+      "nativeName": "Shimotsuga-gun",
+      "code": "JP-09-1852170",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-09",
+      "latitude": 36.23763,
+      "longitude": 139.73099
+    },
+    {
+      "id": 8739981,
+      "name": "Shimotsuke-shi",
+      "nativeName": "Shimotsuke-shi",
+      "code": "JP-09-8739981",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-09",
+      "latitude": 36.40291,
+      "longitude": 139.86111
+    },
+    {
+      "id": 1851957,
+      "name": "Shioya-gun",
+      "nativeName": "Shioya-gun",
+      "code": "JP-09-1851957",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-09",
+      "latitude": 36.74998,
+      "longitude": 139.87344
+    },
+    {
+      "id": 7453590,
+      "name": "Tochigi Shi",
+      "nativeName": "Tochigi Shi",
+      "code": "JP-09-7453590",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-09",
+      "latitude": 36.38731,
+      "longitude": 139.67243
+    },
+    {
+      "id": 1849052,
+      "name": "Utsunomiya Shi",
+      "nativeName": "Utsunomiya Shi",
+      "code": "JP-09-1849052",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-09",
+      "latitude": 36.59688,
+      "longitude": 139.88657
+    },
+    {
+      "id": 1848775,
+      "name": "Yaita Shi",
+      "nativeName": "Yaita Shi",
+      "code": "JP-09-1848775",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-09",
+      "latitude": 36.82746,
+      "longitude": 139.89809
+    },
+    {
+      "id": 2111324,
+      "name": "Ōtawara Shi",
+      "nativeName": "Ōtawara Shi",
+      "code": "JP-09-2111324",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-09",
+      "latitude": 36.86129,
+      "longitude": 140.11915
+    }
+  ]
+}

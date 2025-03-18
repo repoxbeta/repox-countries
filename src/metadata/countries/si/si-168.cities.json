@@ -1,0 +1,95 @@
+{
+  "stateId": 3344925,
+  "stateCode": "SI-168",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3195460,
+      "name": "Markovci",
+      "nativeName": "Markovci",
+      "code": "SI-168-3195460",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-168",
+      "latitude": 46.39557,
+      "longitude": 15.92831
+    },
+    {
+      "id": 3203685,
+      "name": "Borovci",
+      "nativeName": "Borovci",
+      "code": "SI-168-3203685",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-168",
+      "latitude": 46.41861,
+      "longitude": 15.94278
+    },
+    {
+      "id": 3203065,
+      "name": "Bukovci",
+      "nativeName": "Bukovci",
+      "code": "SI-168-3203065",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-168",
+      "latitude": 46.38722,
+      "longitude": 15.965
+    },
+    {
+      "id": 3194398,
+      "name": "Nova Vas pri Markovcih",
+      "nativeName": "Nova Vas pri Markovcih",
+      "code": "SI-168-3194398",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-168",
+      "latitude": 46.38333,
+      "longitude": 15.93333
+    },
+    {
+      "id": 8987172,
+      "name": "Prvenci",
+      "nativeName": "Prvenci",
+      "code": "SI-168-8987172",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-168",
+      "latitude": 46.40805,
+      "longitude": 15.95483
+    },
+    {
+      "id": 3189828,
+      "name": "Stojnci",
+      "nativeName": "Stojnci",
+      "code": "SI-168-3189828",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-168",
+      "latitude": 46.38111,
+      "longitude": 15.98278
+    },
+    {
+      "id": 8987785,
+      "name": "Strelci",
+      "nativeName": "Strelci",
+      "code": "SI-168-8987785",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-168",
+      "latitude": 46.41349,
+      "longitude": 15.96713
+    },
+    {
+      "id": 3186977,
+      "name": "Zabovci",
+      "nativeName": "Zabovci",
+      "code": "SI-168-3186977",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-168",
+      "latitude": 46.4,
+      "longitude": 15.91667
+    }
+  ]
+}

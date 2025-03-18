@@ -1,0 +1,128 @@
+{
+  "stateId": 2960315,
+  "stateCode": "LU-LU",
+  "countryCode": "LU",
+  "cities": [
+    {
+      "id": 6693275,
+      "name": "Bertrange",
+      "nativeName": "Bertrange",
+      "code": "LU-LU-6693275",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-LU",
+      "latitude": 49.61111,
+      "longitude": 6.05
+    },
+    {
+      "id": 6693276,
+      "name": "Contern",
+      "nativeName": "Contern",
+      "code": "LU-LU-6693276",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-LU",
+      "latitude": 49.58194,
+      "longitude": 6.22667
+    },
+    {
+      "id": 6693277,
+      "name": "Hesperange",
+      "nativeName": "Hesperange",
+      "code": "LU-LU-6693277",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-LU",
+      "latitude": 49.56806,
+      "longitude": 6.15139
+    },
+    {
+      "id": 6693278,
+      "name": "Niederanven",
+      "nativeName": "Niederanven",
+      "code": "LU-LU-6693278",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-LU",
+      "latitude": 49.6475,
+      "longitude": 6.26
+    },
+    {
+      "id": 6693279,
+      "name": "Sandweiler",
+      "nativeName": "Sandweiler",
+      "code": "LU-LU-6693279",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-LU",
+      "latitude": 49.61333,
+      "longitude": 6.21889
+    },
+    {
+      "id": 6693280,
+      "name": "Schuttrange",
+      "nativeName": "Schuttrange",
+      "code": "LU-LU-6693280",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-LU",
+      "latitude": 49.62056,
+      "longitude": 6.26861
+    },
+    {
+      "id": 6693281,
+      "name": "Steinsel",
+      "nativeName": "Steinsel",
+      "code": "LU-LU-6693281",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-LU",
+      "latitude": 49.67694,
+      "longitude": 6.12389
+    },
+    {
+      "id": 6693282,
+      "name": "Strassen",
+      "nativeName": "Strassen",
+      "code": "LU-LU-6693282",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-LU",
+      "latitude": 49.62056,
+      "longitude": 6.07333
+    },
+    {
+      "id": 2960317,
+      "name": "Ville de Luxembourg",
+      "nativeName": "Ville de Luxembourg",
+      "code": "LU-LU-2960317",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-LU",
+      "latitude": 49.6093,
+      "longitude": 6.13204
+    },
+    {
+      "id": 6693283,
+      "name": "Walferdange",
+      "nativeName": "Walferdange",
+      "code": "LU-LU-6693283",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-LU",
+      "latitude": 49.65833,
+      "longitude": 6.13722
+    },
+    {
+      "id": 6693284,
+      "name": "Weiler-la-Tour",
+      "nativeName": "Weiler-la-Tour",
+      "code": "LU-LU-6693284",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-LU",
+      "latitude": 49.54083,
+      "longitude": 6.20083
+    }
+  ]
+}

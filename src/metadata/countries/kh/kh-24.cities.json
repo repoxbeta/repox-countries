@@ -1,0 +1,29 @@
+{
+  "stateId": 1830206,
+  "stateCode": "KH-24",
+  "countryCode": "KH",
+  "cities": [
+    {
+      "id": 8403884,
+      "name": "Krong Pailin",
+      "nativeName": "Khan Pailĭn",
+      "code": "KH-24-8403884",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-24",
+      "latitude": 12.7869,
+      "longitude": 102.6285
+    },
+    {
+      "id": 8403856,
+      "name": "Sala Krau",
+      "nativeName": "Khan Sala Krau",
+      "code": "KH-24-8403856",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-24",
+      "latitude": 12.97984,
+      "longitude": 102.63957
+    }
+  ]
+}

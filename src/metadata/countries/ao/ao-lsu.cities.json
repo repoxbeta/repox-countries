@@ -1,0 +1,51 @@
+{
+  "stateId": 145701,
+  "stateCode": "AO-LSU",
+  "countryCode": "AO",
+  "cities": [
+    {
+      "id": 3351386,
+      "name": "Cacolo",
+      "nativeName": "Cacolo",
+      "code": "AO-LSU-3351386",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-LSU",
+      "latitude": -10.13652,
+      "longitude": 19.2865
+    },
+    {
+      "id": 876307,
+      "name": "Dala",
+      "nativeName": "Dala",
+      "code": "AO-LSU-876307",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-LSU",
+      "latitude": -11.02612,
+      "longitude": 20.19974
+    },
+    {
+      "id": 875968,
+      "name": "Muconda",
+      "nativeName": "Muconda",
+      "code": "AO-LSU-875968",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-LSU",
+      "latitude": -10.04537,
+      "longitude": 21.44179
+    },
+    {
+      "id": 145530,
+      "name": "Saurimo",
+      "nativeName": "Saurimo",
+      "code": "AO-LSU-145530",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-LSU",
+      "latitude": -9.31026,
+      "longitude": 20.56159
+    }
+  ]
+}

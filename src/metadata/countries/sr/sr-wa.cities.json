@@ -1,0 +1,73 @@
+{
+  "stateId": 3382761,
+  "stateCode": "SR-WA",
+  "countryCode": "SR",
+  "cities": [
+    {
+      "id": 12088742,
+      "name": "De Nieuwe Grond",
+      "nativeName": "De Nieuwe Grond",
+      "code": "SR-WA-12088742",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-WA",
+      "latitude": 5.75009,
+      "longitude": -55.20669
+    },
+    {
+      "id": 12088740,
+      "name": "Houttuin",
+      "nativeName": "Houttuin",
+      "code": "SR-WA-12088740",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-WA",
+      "latitude": 5.73776,
+      "longitude": -55.14435
+    },
+    {
+      "id": 12088743,
+      "name": "Koewarasan",
+      "nativeName": "Koewarasan",
+      "code": "SR-WA-12088743",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-WA",
+      "latitude": 5.76481,
+      "longitude": -55.29101
+    },
+    {
+      "id": 12088741,
+      "name": "Lelydorp",
+      "nativeName": "Lelydorp",
+      "code": "SR-WA-12088741",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-WA",
+      "latitude": 5.69287,
+      "longitude": -55.21273
+    },
+    {
+      "id": 12088723,
+      "name": "Pontbuiten",
+      "nativeName": "Pontbuiten",
+      "code": "SR-WA-12088723",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-WA",
+      "latitude": 5.78458,
+      "longitude": -55.2051
+    },
+    {
+      "id": 12088744,
+      "name": "Saramacca Polder",
+      "nativeName": "Saramacca Polder",
+      "code": "SR-WA-12088744",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-WA",
+      "latitude": 5.82969,
+      "longitude": -55.25578
+    }
+  ]
+}

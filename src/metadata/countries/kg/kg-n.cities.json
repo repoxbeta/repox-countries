@@ -1,0 +1,62 @@
+{
+  "stateId": 1527590,
+  "stateCode": "KG-N",
+  "countryCode": "KG",
+  "cities": [
+    {
+      "id": 7649245,
+      "name": "Ak-Tala",
+      "nativeName": "Ak-Tala",
+      "code": "KG-N-7649245",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-N",
+      "latitude": 41.06275,
+      "longitude": 74.78052
+    },
+    {
+      "id": 9165774,
+      "name": "At-Bashi",
+      "nativeName": "At-Bashi",
+      "code": "KG-N-9165774",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-N",
+      "latitude": 41.16667,
+      "longitude": 75.8
+    },
+    {
+      "id": 7654212,
+      "name": "Jumgal",
+      "nativeName": "Jumgal",
+      "code": "KG-N-7654212",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-N",
+      "latitude": 41.94924,
+      "longitude": 74.40566
+    },
+    {
+      "id": 9165773,
+      "name": "Kochkor",
+      "nativeName": "Kochkor",
+      "code": "KG-N-9165773",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-N",
+      "latitude": 42.21667,
+      "longitude": 75.75
+    },
+    {
+      "id": 10237161,
+      "name": "Naryn District",
+      "nativeName": "Naryn District",
+      "code": "KG-N-10237161",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-N",
+      "latitude": 41.43333,
+      "longitude": 76
+    }
+  ]
+}

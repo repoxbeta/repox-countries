@@ -1,0 +1,117 @@
+{
+  "stateId": 3617051,
+  "stateCode": "NI-RI",
+  "countryCode": "NI",
+  "cities": [
+    {
+      "id": 3620929,
+      "name": "Municipio de Altagracia",
+      "nativeName": "Municipio de Altagracia",
+      "code": "NI-RI-3620929",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-RI",
+      "latitude": 11.47983,
+      "longitude": -85.54166
+    },
+    {
+      "id": 3620731,
+      "name": "Municipio de Belén",
+      "nativeName": "Municipio de Belén",
+      "code": "NI-RI-3620731",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-RI",
+      "latitude": 11.57193,
+      "longitude": -85.96316
+    },
+    {
+      "id": 3620596,
+      "name": "Municipio de Buenos Aires",
+      "nativeName": "Municipio de Buenos Aires",
+      "code": "NI-RI-3620596",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-RI",
+      "latitude": 11.5176,
+      "longitude": -85.78333
+    },
+    {
+      "id": 3620478,
+      "name": "Municipio de Cárdenas",
+      "nativeName": "Municipio de Cárdenas",
+      "code": "NI-RI-3620478",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-RI",
+      "latitude": 11.14912,
+      "longitude": -85.42323
+    },
+    {
+      "id": 3617568,
+      "name": "Municipio de Moyogalpa",
+      "nativeName": "Municipio de Moyogalpa",
+      "code": "NI-RI-3617568",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-RI",
+      "latitude": 11.52632,
+      "longitude": -85.67329
+    },
+    {
+      "id": 3617185,
+      "name": "Municipio de Potosí",
+      "nativeName": "Municipio de Potosí",
+      "code": "NI-RI-3617185",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-RI",
+      "latitude": 11.57854,
+      "longitude": -85.87764
+    },
+    {
+      "id": 3617050,
+      "name": "Municipio de Rivas",
+      "nativeName": "Municipio de Rivas",
+      "code": "NI-RI-3617050",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-RI",
+      "latitude": 11.43931,
+      "longitude": -85.827
+    },
+    {
+      "id": 3616791,
+      "name": "Municipio de San Jorge",
+      "nativeName": "Municipio de San Jorge",
+      "code": "NI-RI-3616791",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-RI",
+      "latitude": 11.42703,
+      "longitude": -85.78904
+    },
+    {
+      "id": 3616724,
+      "name": "Municipio de San Juan del Sur",
+      "nativeName": "Municipio de San Juan del Sur",
+      "code": "NI-RI-3616724",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-RI",
+      "latitude": 11.22368,
+      "longitude": -85.78289
+    },
+    {
+      "id": 3616018,
+      "name": "Municipio de Tola",
+      "nativeName": "Municipio de Tola",
+      "code": "NI-RI-3616018",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-RI",
+      "latitude": 11.46009,
+      "longitude": -86.00789
+    }
+  ]
+}

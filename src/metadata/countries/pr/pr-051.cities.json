@@ -1,0 +1,73 @@
+{
+  "stateId": 4564134,
+  "stateCode": "PR-051",
+  "countryCode": "PR",
+  "cities": [
+    {
+      "id": 7268154,
+      "name": "Dorado Barrio-Pueblo",
+      "nativeName": "Dorado Barrio-Pueblo",
+      "code": "PR-051-7268154",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-051",
+      "latitude": 18.45924,
+      "longitude": -66.26163
+    },
+    {
+      "id": 7268382,
+      "name": "Espinosa Barrio",
+      "nativeName": "Espinosa Barrio",
+      "code": "PR-051-7268382",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-051",
+      "latitude": 18.39554,
+      "longitude": -66.28807
+    },
+    {
+      "id": 7268474,
+      "name": "Higuillar Barrio",
+      "nativeName": "Higuillar Barrio",
+      "code": "PR-051-7268474",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-051",
+      "latitude": 18.45508,
+      "longitude": -66.28562
+    },
+    {
+      "id": 7268590,
+      "name": "Maguayo Barrio",
+      "nativeName": "Maguayo Barrio",
+      "code": "PR-051-7268590",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-051",
+      "latitude": 18.41724,
+      "longitude": -66.28108
+    },
+    {
+      "id": 7268605,
+      "name": "Mameyal Barrio",
+      "nativeName": "Mameyal Barrio",
+      "code": "PR-051-7268605",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-051",
+      "latitude": 18.4637,
+      "longitude": -66.23656
+    },
+    {
+      "id": 7268913,
+      "name": "Río Lajas Barrio",
+      "nativeName": "Río Lajas Barrio",
+      "code": "PR-051-7268913",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-051",
+      "latitude": 18.39719,
+      "longitude": -66.26454
+    }
+  ]
+}

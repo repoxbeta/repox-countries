@@ -1,0 +1,73 @@
+{
+  "stateId": 430020,
+  "stateCode": "BI-CI",
+  "countryCode": "BI",
+  "cities": [
+    {
+      "id": 7670588,
+      "name": "Bukinanyana",
+      "nativeName": "Bukinanyana",
+      "code": "BI-CI-7670588",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-CI",
+      "latitude": -2.86816,
+      "longitude": 29.3586
+    },
+    {
+      "id": 8334579,
+      "name": "Commune of Buganda",
+      "nativeName": "Commune of Buganda",
+      "code": "BI-CI-8334579",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-CI",
+      "latitude": -2.9648,
+      "longitude": 29.18874
+    },
+    {
+      "id": 9072889,
+      "name": "Commune of Mugina",
+      "nativeName": "Commune of Mugina",
+      "code": "BI-CI-9072889",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-CI",
+      "latitude": -2.79417,
+      "longitude": 29.12806
+    },
+    {
+      "id": 7670613,
+      "name": "Commune of Rugombo",
+      "nativeName": "Commune of Rugombo",
+      "code": "BI-CI-7670613",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-CI",
+      "latitude": -2.82335,
+      "longitude": 29.10228
+    },
+    {
+      "id": 7670604,
+      "name": "Mabayi",
+      "nativeName": "Mabayi",
+      "code": "BI-CI-7670604",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-CI",
+      "latitude": -2.72082,
+      "longitude": 29.24791
+    },
+    {
+      "id": 7670607,
+      "name": "Murwi",
+      "nativeName": "Murwi",
+      "code": "BI-CI-7670607",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-CI",
+      "latitude": -2.90289,
+      "longitude": 29.2497
+    }
+  ]
+}

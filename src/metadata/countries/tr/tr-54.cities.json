@@ -1,0 +1,194 @@
+{
+  "stateId": 740352,
+  "stateCode": "TR-54",
+  "countryCode": "TR",
+  "cities": [
+    {
+      "id": 9549335,
+      "name": "Adapazarı",
+      "nativeName": "Adapazarı",
+      "code": "TR-54-9549335",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-54",
+      "latitude": 40.78343,
+      "longitude": 30.39986
+    },
+    {
+      "id": 8632520,
+      "name": "Akyazı İlçesi",
+      "nativeName": "Akyazı İlçesi",
+      "code": "TR-54-8632520",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-54",
+      "latitude": 40.696,
+      "longitude": 30.62803
+    },
+    {
+      "id": 9549457,
+      "name": "Arifiye",
+      "nativeName": "Arifiye",
+      "code": "TR-54-9549457",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-54",
+      "latitude": 40.71327,
+      "longitude": 30.36128
+    },
+    {
+      "id": 9549424,
+      "name": "Erenler",
+      "nativeName": "Erenler",
+      "code": "TR-54-9549424",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-54",
+      "latitude": 40.75564,
+      "longitude": 30.41453
+    },
+    {
+      "id": 8632529,
+      "name": "Ferizli İlçesi",
+      "nativeName": "Ferizli İlçesi",
+      "code": "TR-54-8632529",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-54",
+      "latitude": 40.95092,
+      "longitude": 30.48912
+    },
+    {
+      "id": 8632523,
+      "name": "Geyve İlçesi",
+      "nativeName": "Geyve İlçesi",
+      "code": "TR-54-8632523",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-54",
+      "latitude": 40.51701,
+      "longitude": 30.29645
+    },
+    {
+      "id": 8632526,
+      "name": "Hendek İlçesi",
+      "nativeName": "Hendek İlçesi",
+      "code": "TR-54-8632526",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-54",
+      "latitude": 40.80938,
+      "longitude": 30.73915
+    },
+    {
+      "id": 8632522,
+      "name": "Karapürçek İlçesi",
+      "nativeName": "Karapürçek İlçesi",
+      "code": "TR-54-8632522",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-54",
+      "latitude": 40.65188,
+      "longitude": 30.54509
+    },
+    {
+      "id": 8632527,
+      "name": "Karasu İlçesi",
+      "nativeName": "Karasu İlçesi",
+      "code": "TR-54-8632527",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-54",
+      "latitude": 41.09983,
+      "longitude": 30.68241
+    },
+    {
+      "id": 8632531,
+      "name": "Kaynarca İlçesi",
+      "nativeName": "Kaynarca İlçesi",
+      "code": "TR-54-8632531",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-54",
+      "latitude": 41.04048,
+      "longitude": 30.29619
+    },
+    {
+      "id": 8632528,
+      "name": "Kocaali İlçesi",
+      "nativeName": "Kocaali İlçesi",
+      "code": "TR-54-8632528",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-54",
+      "latitude": 41.06361,
+      "longitude": 30.85815
+    },
+    {
+      "id": 7732953,
+      "name": "Merkez",
+      "nativeName": "Merkez",
+      "code": "TR-54-7732953",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-54",
+      "latitude": 40.7891,
+      "longitude": 30.38225
+    },
+    {
+      "id": 8632524,
+      "name": "Pamukova İlçesi",
+      "nativeName": "Pamukova İlçesi",
+      "code": "TR-54-8632524",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-54",
+      "latitude": 40.51806,
+      "longitude": 30.17288
+    },
+    {
+      "id": 8632525,
+      "name": "Sapanca İlçesi",
+      "nativeName": "Sapanca İlçesi",
+      "code": "TR-54-8632525",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-54",
+      "latitude": 40.70222,
+      "longitude": 30.27443
+    },
+    {
+      "id": 9549384,
+      "name": "Serdivan",
+      "nativeName": "Serdivan",
+      "code": "TR-54-9549384",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-54",
+      "latitude": 40.76371,
+      "longitude": 30.36784
+    },
+    {
+      "id": 8632530,
+      "name": "Söğütlü İlçesi",
+      "nativeName": "Söğütlü İlçesi",
+      "code": "TR-54-8632530",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-54",
+      "latitude": 40.9161,
+      "longitude": 30.47824
+    },
+    {
+      "id": 8632521,
+      "name": "Taraklı İlçesi",
+      "nativeName": "Taraklı İlçesi",
+      "code": "TR-54-8632521",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-54",
+      "latitude": 40.40685,
+      "longitude": 30.50001
+    }
+  ]
+}

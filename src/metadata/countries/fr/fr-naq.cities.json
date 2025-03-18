@@ -1,0 +1,139 @@
+{
+  "stateId": 11071620,
+  "stateCode": "FR-NAQ",
+  "countryCode": "FR",
+  "cities": [
+    {
+      "id": 3026646,
+      "name": "Charente",
+      "nativeName": "Charente",
+      "code": "FR-NAQ-3026646",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-NAQ",
+      "latitude": 45.70598,
+      "longitude": 0.18162
+    },
+    {
+      "id": 3026644,
+      "name": "Charente-Maritime",
+      "nativeName": "Charente-Maritime",
+      "code": "FR-NAQ-3026644",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-NAQ",
+      "latitude": 45.75556,
+      "longitude": -0.71314
+    },
+    {
+      "id": 3023532,
+      "name": "Corrèze",
+      "nativeName": "Corrèze",
+      "code": "FR-NAQ-3023532",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-NAQ",
+      "latitude": 45.34754,
+      "longitude": 1.87319
+    },
+    {
+      "id": 3022516,
+      "name": "Creuse",
+      "nativeName": "Creuse",
+      "code": "FR-NAQ-3022516",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-NAQ",
+      "latitude": 46.07523,
+      "longitude": 2.05476
+    },
+    {
+      "id": 3021501,
+      "name": "Deux-Sèvres",
+      "nativeName": "Deux-Sèvres",
+      "code": "FR-NAQ-3021501",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-NAQ",
+      "latitude": 46.53918,
+      "longitude": -0.30838
+    },
+    {
+      "id": 3021042,
+      "name": "Dordogne",
+      "nativeName": "Dordogne",
+      "code": "FR-NAQ-3021042",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-NAQ",
+      "latitude": 45.12735,
+      "longitude": 0.73504
+    },
+    {
+      "id": 3015948,
+      "name": "Gironde",
+      "nativeName": "Gironde",
+      "code": "FR-NAQ-3015948",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-NAQ",
+      "latitude": 44.69306,
+      "longitude": -0.414
+    },
+    {
+      "id": 3013719,
+      "name": "Haute-Vienne",
+      "nativeName": "Haute-Vienne",
+      "code": "FR-NAQ-3013719",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-NAQ",
+      "latitude": 45.88341,
+      "longitude": 1.21781
+    },
+    {
+      "id": 3007866,
+      "name": "Landes",
+      "nativeName": "Landes",
+      "code": "FR-NAQ-3007866",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-NAQ",
+      "latitude": 43.97543,
+      "longitude": -0.74241
+    },
+    {
+      "id": 2997523,
+      "name": "Lot-et-Garonne",
+      "nativeName": "Lot-et-Garonne",
+      "code": "FR-NAQ-2997523",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-NAQ",
+      "latitude": 44.33333,
+      "longitude": 0.5
+    },
+    {
+      "id": 2984887,
+      "name": "Pyrénées-Atlantiques",
+      "nativeName": "Pyrénées-Atlantiques",
+      "code": "FR-NAQ-2984887",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-NAQ",
+      "latitude": 43.23587,
+      "longitude": -0.81642
+    },
+    {
+      "id": 2969280,
+      "name": "Vienne",
+      "nativeName": "Vienne",
+      "code": "FR-NAQ-2969280",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-NAQ",
+      "latitude": 46.53528,
+      "longitude": 0.45201
+    }
+  ]
+}

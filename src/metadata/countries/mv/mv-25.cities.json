@@ -1,0 +1,40 @@
+{
+  "stateId": 1281937,
+  "stateCode": "MV-25",
+  "countryCode": "MV",
+  "cities": [
+    {
+      "id": 1337618,
+      "name": "Manadhoo",
+      "nativeName": "Manadhoo",
+      "code": "MV-25-1337618",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-25",
+      "latitude": 5.76687,
+      "longitude": 73.4136
+    },
+    {
+      "id": 12088818,
+      "name": "Maafaru",
+      "nativeName": "Maafaru",
+      "code": "MV-25-12088818",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-25",
+      "latitude": 5.83078,
+      "longitude": 73.47944
+    },
+    {
+      "id": 11103185,
+      "name": "Velidhoo",
+      "nativeName": "Velidhoo",
+      "code": "MV-25-11103185",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-25",
+      "latitude": 5.66431,
+      "longitude": 73.27267
+    }
+  ]
+}

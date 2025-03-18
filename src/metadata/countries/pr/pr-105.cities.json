@@ -1,0 +1,95 @@
+{
+  "stateId": 4566403,
+  "stateCode": "PR-105",
+  "countryCode": "PR",
+  "cities": [
+    {
+      "id": 7268166,
+      "name": "Achiote Barrio",
+      "nativeName": "Achiote Barrio",
+      "code": "PR-105-7268166",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-105",
+      "latitude": 18.31325,
+      "longitude": -66.2473
+    },
+    {
+      "id": 7268202,
+      "name": "Anones Barrio",
+      "nativeName": "Anones Barrio",
+      "code": "PR-105-7268202",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-105",
+      "latitude": 18.27154,
+      "longitude": -66.24365
+    },
+    {
+      "id": 7268361,
+      "name": "Cedro Abajo Barrio",
+      "nativeName": "Cedro Abajo Barrio",
+      "code": "PR-105-7268361",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-105",
+      "latitude": 18.28916,
+      "longitude": -66.27087
+    },
+    {
+      "id": 7268362,
+      "name": "Cedro Arriba Barrio",
+      "nativeName": "Cedro Arriba Barrio",
+      "code": "PR-105-7268362",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-105",
+      "latitude": 18.25816,
+      "longitude": -66.28134
+    },
+    {
+      "id": 7268413,
+      "name": "Guadiana Barrio",
+      "nativeName": "Guadiana Barrio",
+      "code": "PR-105-7268413",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-105",
+      "latitude": 18.31484,
+      "longitude": -66.22258
+    },
+    {
+      "id": 7268575,
+      "name": "Lomas Barrio",
+      "nativeName": "Lomas Barrio",
+      "code": "PR-105-7268575",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-105",
+      "latitude": 18.31785,
+      "longitude": -66.26856
+    },
+    {
+      "id": 7268694,
+      "name": "Naranjito Barrio-Pueblo",
+      "nativeName": "Naranjito Barrio-Pueblo",
+      "code": "PR-105-7268694",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-105",
+      "latitude": 18.30149,
+      "longitude": -66.24981
+    },
+    {
+      "id": 7268704,
+      "name": "Nuevo Barrio",
+      "nativeName": "Nuevo Barrio",
+      "code": "PR-105-7268704",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-105",
+      "latitude": 18.28972,
+      "longitude": -66.22204
+    }
+  ]
+}

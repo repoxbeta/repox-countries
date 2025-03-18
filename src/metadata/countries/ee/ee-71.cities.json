@@ -1,0 +1,51 @@
+{
+  "stateId": 589115,
+  "stateCode": "EE-71",
+  "countryCode": "EE",
+  "cities": [
+    {
+      "id": 7522298,
+      "name": "Kehtna vald",
+      "nativeName": "Kehtna vald",
+      "code": "EE-71-7522298",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-71",
+      "latitude": 58.84274,
+      "longitude": 24.89002
+    },
+    {
+      "id": 7522307,
+      "name": "Kohila vald",
+      "nativeName": "Kohila vald",
+      "code": "EE-71-7522307",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-71",
+      "latitude": 59.15283,
+      "longitude": 24.73337
+    },
+    {
+      "id": 7522357,
+      "name": "Märjamaa vald",
+      "nativeName": "Märjamaa vald",
+      "code": "EE-71-7522357",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-71",
+      "latitude": 58.90262,
+      "longitude": 24.39423
+    },
+    {
+      "id": 7522401,
+      "name": "Rapla vald",
+      "nativeName": "Rapla vald",
+      "code": "EE-71-7522401",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-71",
+      "latitude": 59.03309,
+      "longitude": 24.71793
+    }
+  ]
+}

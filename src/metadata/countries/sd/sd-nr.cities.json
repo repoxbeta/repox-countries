@@ -1,0 +1,40 @@
+{
+  "stateId": 408664,
+  "stateCode": "SD-NR",
+  "countryCode": "SD",
+  "cities": [
+    {
+      "id": 8050946,
+      "name": "Ad Damer",
+      "nativeName": "Ad Damer",
+      "code": "SD-NR-8050946",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-NR",
+      "latitude": 17.558,
+      "longitude": 33.325
+    },
+    {
+      "id": 8050947,
+      "name": "Atbara",
+      "nativeName": "Atbara",
+      "code": "SD-NR-8050947",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-NR",
+      "latitude": 17.285,
+      "longitude": 35.025
+    },
+    {
+      "id": 8050945,
+      "name": "Shendi",
+      "nativeName": "Shendi",
+      "code": "SD-NR-8050945",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-NR",
+      "latitude": 16.622,
+      "longitude": 34.184
+    }
+  ]
+}

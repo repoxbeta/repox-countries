@@ -1,0 +1,40 @@
+{
+  "stateId": 3440789,
+  "stateCode": "UY-RN",
+  "countryCode": "UY",
+  "cities": [
+    {
+      "id": 11820771,
+      "name": "Nuevo Berlin",
+      "nativeName": "Nuevo Berlin",
+      "code": "UY-RN-11820771",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-RN",
+      "latitude": -32.9746,
+      "longitude": -57.98573
+    },
+    {
+      "id": 11820851,
+      "name": "San Javier",
+      "nativeName": "San Javier",
+      "code": "UY-RN-11820851",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-RN",
+      "latitude": -32.65883,
+      "longitude": -58.02023
+    },
+    {
+      "id": 11820776,
+      "name": "Young",
+      "nativeName": "Young",
+      "code": "UY-RN-11820776",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-RN",
+      "latitude": -32.64068,
+      "longitude": -57.61499
+    }
+  ]
+}

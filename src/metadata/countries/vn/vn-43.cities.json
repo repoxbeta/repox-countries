@@ -1,0 +1,95 @@
+{
+  "stateId": 1584534,
+  "stateCode": "VN-43",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 1904899,
+      "name": "Châu Đức District",
+      "nativeName": "Huyện Châu Đức",
+      "code": "VN-43-1904899",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-43",
+      "latitude": 10.65805,
+      "longitude": 107.25098
+    },
+    {
+      "id": 1904903,
+      "name": "Côn Đảo District",
+      "nativeName": "Huyện Côn Đảo",
+      "code": "VN-43-1904903",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-43",
+      "latitude": 8.69534,
+      "longitude": 106.61903
+    },
+    {
+      "id": 8421398,
+      "name": "Huyện Long Điền",
+      "nativeName": "Huyện Long Điền",
+      "code": "VN-43-8421398",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-43",
+      "latitude": 10.45138,
+      "longitude": 107.22691
+    },
+    {
+      "id": 1904897,
+      "name": "Thành Phố Bà Rịa",
+      "nativeName": "Thành Phố Bà Rịa",
+      "code": "VN-43-1904897",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-43",
+      "latitude": 10.51035,
+      "longitude": 107.17937
+    },
+    {
+      "id": 1904896,
+      "name": "Thành Phố Vũng Tàu",
+      "nativeName": "Thành Phố Vũng Tàu",
+      "code": "VN-43-1904896",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-43",
+      "latitude": 10.41391,
+      "longitude": 107.13087
+    },
+    {
+      "id": 1904898,
+      "name": "Tân Thành District",
+      "nativeName": "Thị Xã Phú Mỹ",
+      "code": "VN-43-1904898",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-43",
+      "latitude": 10.57381,
+      "longitude": 107.10189
+    },
+    {
+      "id": 1904901,
+      "name": "Xuyên Mộc District",
+      "nativeName": "Huyện Xuyên Mộc",
+      "code": "VN-43-1904901",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-43",
+      "latitude": 10.63048,
+      "longitude": 107.46568
+    },
+    {
+      "id": 1904900,
+      "name": "Đất Đỏ District",
+      "nativeName": "Huyện Đất Đỏ",
+      "code": "VN-43-1904900",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-43",
+      "latitude": 10.48025,
+      "longitude": 107.27879
+    }
+  ]
+}

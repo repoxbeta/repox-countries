@@ -1,0 +1,84 @@
+{
+  "stateId": 784272,
+  "stateCode": "RS-VO",
+  "countryCode": "RS",
+  "cities": [
+    {
+      "id": 7581906,
+      "name": "Central Banat",
+      "nativeName": "Central Banat",
+      "code": "RS-VO-7581906",
+      "countryId": 6290252,
+      "countryCode": "RS",
+      "stateCode": "RS-VO",
+      "latitude": 45.38361,
+      "longitude": 20.38194
+    },
+    {
+      "id": 7581905,
+      "name": "North Banat",
+      "nativeName": "North Banat",
+      "code": "RS-VO-7581905",
+      "countryId": 6290252,
+      "countryCode": "RS",
+      "stateCode": "RS-VO",
+      "latitude": 45.9425,
+      "longitude": 20.14333
+    },
+    {
+      "id": 7581808,
+      "name": "North Bačka",
+      "nativeName": "North Bačka",
+      "code": "RS-VO-7581808",
+      "countryId": 6290252,
+      "countryCode": "RS",
+      "stateCode": "RS-VO",
+      "latitude": 45.815,
+      "longitude": 19.63611
+    },
+    {
+      "id": 7581797,
+      "name": "South Banat",
+      "nativeName": "South Banat",
+      "code": "RS-VO-7581797",
+      "countryId": 6290252,
+      "countryCode": "RS",
+      "stateCode": "RS-VO",
+      "latitude": 45.08083,
+      "longitude": 20.96583
+    },
+    {
+      "id": 7581796,
+      "name": "South Bačka",
+      "nativeName": "South Bačka",
+      "code": "RS-VO-7581796",
+      "countryId": 6290252,
+      "countryCode": "RS",
+      "stateCode": "RS-VO",
+      "latitude": 45.40861,
+      "longitude": 19.88917
+    },
+    {
+      "id": 7581907,
+      "name": "Srem",
+      "nativeName": "Srem",
+      "code": "RS-VO-7581907",
+      "countryId": 6290252,
+      "countryCode": "RS",
+      "stateCode": "RS-VO",
+      "latitude": 44.92167,
+      "longitude": 19.82556
+    },
+    {
+      "id": 7581911,
+      "name": "West Bačka",
+      "nativeName": "West Bačka",
+      "code": "RS-VO-7581911",
+      "countryId": 6290252,
+      "countryCode": "RS",
+      "stateCode": "RS-VO",
+      "latitude": 45.77417,
+      "longitude": 19.11222
+    }
+  ]
+}

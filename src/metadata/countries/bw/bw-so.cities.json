@@ -1,0 +1,51 @@
+{
+  "stateId": 933043,
+  "stateCode": "BW-SO",
+  "countryCode": "BW",
+  "cities": [
+    {
+      "id": 11819288,
+      "name": "Barolong",
+      "nativeName": "Barolong",
+      "code": "BW-SO-11819288",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "stateCode": "BW-SO",
+      "latitude": -25.59034,
+      "longitude": 25.42467
+    },
+    {
+      "id": 11819289,
+      "name": "Ngwaketse Central",
+      "nativeName": "Ngwaketse Central",
+      "code": "BW-SO-11819289",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "stateCode": "BW-SO",
+      "latitude": -25.03338,
+      "longitude": 24.86441
+    },
+    {
+      "id": 11819297,
+      "name": "Ngwaketse North",
+      "nativeName": "Ngwaketse North",
+      "code": "BW-SO-11819297",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "stateCode": "BW-SO",
+      "latitude": -24.59442,
+      "longitude": 24.10109
+    },
+    {
+      "id": 11819292,
+      "name": "Ngwaketse South",
+      "nativeName": "Ngwaketse South",
+      "code": "BW-SO-11819292",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "stateCode": "BW-SO",
+      "latitude": -25.45369,
+      "longitude": 24.80792
+    }
+  ]
+}

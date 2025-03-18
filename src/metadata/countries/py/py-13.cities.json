@@ -1,0 +1,51 @@
+{
+  "stateId": 3439433,
+  "stateCode": "PY-13",
+  "countryCode": "PY",
+  "cities": [
+    {
+      "id": 11840172,
+      "name": "Bella Vista",
+      "nativeName": "Bella Vista",
+      "code": "PY-13-11840172",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-13",
+      "latitude": -22.47083,
+      "longitude": -56.45479
+    },
+    {
+      "id": 11839989,
+      "name": "Capitan Bado",
+      "nativeName": "Capitan Bado",
+      "code": "PY-13-11839989",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-13",
+      "latitude": -23.42418,
+      "longitude": -55.81292
+    },
+    {
+      "id": 11840099,
+      "name": "Pedro Juan Caballero",
+      "nativeName": "Pedro Juan Caballero",
+      "code": "PY-13-11840099",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-13",
+      "latitude": -22.79291,
+      "longitude": -55.98344
+    },
+    {
+      "id": 11840013,
+      "name": "Zanja Pyta",
+      "nativeName": "Zanja Pyta",
+      "code": "PY-13-11840013",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-13",
+      "latitude": -22.7719,
+      "longitude": -55.70878
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "stateId": 3039162,
+  "stateCode": "AD-06",
+  "countryCode": "AD",
+  "cities": [
+    {
+      "id": 3039163,
+      "name": "Sant Julià de Lòria",
+      "nativeName": "Sant Julià de Lòria",
+      "code": "AD-06-3039163",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-06",
+      "latitude": 42.46372,
+      "longitude": 1.49129
+    },
+    {
+      "id": 3041604,
+      "name": "Aixirivall",
+      "nativeName": "Aixirivall",
+      "code": "AD-06-3041604",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-06",
+      "latitude": 42.46245,
+      "longitude": 1.50209
+    },
+    {
+      "id": 3041598,
+      "name": "Aixovall",
+      "nativeName": "Aixovall",
+      "code": "AD-06-3041598",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-06",
+      "latitude": 42.4764,
+      "longitude": 1.48899
+    },
+    {
+      "id": 3041609,
+      "name": "Aixàs",
+      "nativeName": "Aixàs",
+      "code": "AD-06-3041609",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-06",
+      "latitude": 42.48647,
+      "longitude": 1.46838
+    },
+    {
+      "id": 3041475,
+      "name": "Aubinyà",
+      "nativeName": "Aubinyà",
+      "code": "AD-06-3041475",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-06",
+      "latitude": 42.4531,
+      "longitude": 1.49247
+    },
+    {
+      "id": 3041375,
+      "name": "Bixessarri",
+      "nativeName": "Bixessarri",
+      "code": "AD-06-3041375",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-06",
+      "latitude": 42.48197,
+      "longitude": 1.46052
+    },
+    {
+      "id": 3041098,
+      "name": "Certers",
+      "nativeName": "Certers",
+      "code": "AD-06-3041098",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-06",
+      "latitude": 42.47457,
+      "longitude": 1.50611
+    },
+    {
+      "id": 3040437,
+      "name": "Fontaneda",
+      "nativeName": "Fontaneda",
+      "code": "AD-06-3040437",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-06",
+      "latitude": 42.45405,
+      "longitude": 1.46471
+    },
+    {
+      "id": 3040200,
+      "name": "Juberri",
+      "nativeName": "Juberri",
+      "code": "AD-06-3040200",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-06",
+      "latitude": 42.44,
+      "longitude": 1.49194
+    },
+    {
+      "id": 3039959,
+      "name": "Llumeneres",
+      "nativeName": "Llumeneres",
+      "code": "AD-06-3039959",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-06",
+      "latitude": 42.47229,
+      "longitude": 1.51165
+    },
+    {
+      "id": 3039901,
+      "name": "Mas d’Alins",
+      "nativeName": "Mas d’Alins",
+      "code": "AD-06-3039901",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-06",
+      "latitude": 42.44112,
+      "longitude": 1.45128
+    },
+    {
+      "id": 3039757,
+      "name": "Nagol",
+      "nativeName": "Nagol",
+      "code": "AD-06-3039757",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-06",
+      "latitude": 42.47142,
+      "longitude": 1.50231
+    }
+  ]
+}

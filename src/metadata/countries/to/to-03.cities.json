@@ -1,0 +1,29 @@
+{
+  "stateId": 7668055,
+  "stateCode": "TO-03",
+  "countryCode": "TO",
+  "cities": [
+    {
+      "id": 7668028,
+      "name": "Niuafo'ou",
+      "nativeName": "Niuafo'ou",
+      "code": "TO-03-7668028",
+      "countryId": 4032283,
+      "countryCode": "TO",
+      "stateCode": "TO-03",
+      "latitude": -15.60966,
+      "longitude": -175.60811
+    },
+    {
+      "id": 7668025,
+      "name": "Niuatoputapu",
+      "nativeName": "Niuatoputapu",
+      "code": "TO-03-7668025",
+      "countryId": 4032283,
+      "countryCode": "TO",
+      "stateCode": "TO-03",
+      "latitude": -15.9567,
+      "longitude": -173.77833
+    }
+  ]
+}

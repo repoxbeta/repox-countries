@@ -1,0 +1,84 @@
+{
+  "stateId": 152219,
+  "stateCode": "TZ-18",
+  "countryCode": "TZ",
+  "cities": [
+    {
+      "id": 7840051,
+      "name": "Ilemela District",
+      "nativeName": "Ilemela District",
+      "code": "TZ-18-7840051",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-18",
+      "latitude": -2.44783,
+      "longitude": 33.03177
+    },
+    {
+      "id": 156136,
+      "name": "Kwimba District",
+      "nativeName": "Kwimba District",
+      "code": "TZ-18-156136",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-18",
+      "latitude": -3.062,
+      "longitude": 33.36
+    },
+    {
+      "id": 155313,
+      "name": "Magu District Council",
+      "nativeName": "Magu",
+      "code": "TZ-18-155313",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-18",
+      "latitude": -2.59381,
+      "longitude": 33.40249
+    },
+    {
+      "id": 7647446,
+      "name": "Misungwi district",
+      "nativeName": "Misungwi district",
+      "code": "TZ-18-7647446",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-18",
+      "latitude": -2.85,
+      "longitude": 33.08333
+    },
+    {
+      "id": 9072694,
+      "name": "Nyamagana District",
+      "nativeName": "Nyamagana District",
+      "code": "TZ-18-9072694",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-18",
+      "latitude": -2.52533,
+      "longitude": 32.88993
+    },
+    {
+      "id": 150102,
+      "name": "Sengerema District Council",
+      "nativeName": "Sengerema",
+      "code": "TZ-18-150102",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-18",
+      "latitude": -2.47991,
+      "longitude": 32.48657
+    },
+    {
+      "id": 149294,
+      "name": "Ukerewe District",
+      "nativeName": "Ukerewe District",
+      "code": "TZ-18-149294",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-18",
+      "latitude": -2.04,
+      "longitude": 33
+    }
+  ]
+}

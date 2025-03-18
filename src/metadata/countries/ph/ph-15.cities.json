@@ -1,0 +1,73 @@
+{
+  "stateId": 7521300,
+  "stateCode": "PH-15",
+  "countryCode": "PH",
+  "cities": [
+    {
+      "id": 7115731,
+      "name": "Apayao",
+      "nativeName": "Apayao",
+      "code": "PH-15-7115731",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-15",
+      "latitude": 18.03359,
+      "longitude": 121.1792
+    },
+    {
+      "id": 7115730,
+      "name": "Kalinga",
+      "nativeName": "Kalinga",
+      "code": "PH-15-7115730",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-15",
+      "latitude": 17.42599,
+      "longitude": 121.41609
+    },
+    {
+      "id": 1699175,
+      "name": "Mountain Province",
+      "nativeName": "Mountain Province",
+      "code": "PH-15-1699175",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-15",
+      "latitude": 17.08333,
+      "longitude": 121.16667
+    },
+    {
+      "id": 1732380,
+      "name": "Province of Abra",
+      "nativeName": "Province of Abra",
+      "code": "PH-15-1732380",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-15",
+      "latitude": 17.58333,
+      "longitude": 120.75
+    },
+    {
+      "id": 1725582,
+      "name": "Province of Benguet",
+      "nativeName": "Province of Benguet",
+      "code": "PH-15-1725582",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-15",
+      "latitude": 16.5,
+      "longitude": 120.66667
+    },
+    {
+      "id": 1711331,
+      "name": "Province of Ifugao",
+      "nativeName": "Province of Ifugao",
+      "code": "PH-15-1711331",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-15",
+      "latitude": 16.83333,
+      "longitude": 121.16667
+    }
+  ]
+}

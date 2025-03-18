@@ -1,0 +1,73 @@
+{
+  "stateId": 3712073,
+  "stateCode": "PA-3",
+  "countryCode": "PA",
+  "cities": [
+    {
+      "id": 3712596,
+      "name": "Chagres District",
+      "nativeName": "Distrito de Chagres",
+      "code": "PA-3-3712596",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-3",
+      "latitude": 9.123,
+      "longitude": -80.11841
+    },
+    {
+      "id": 3712075,
+      "name": "Colón District",
+      "nativeName": "Distrito de Colón",
+      "code": "PA-3-3712075",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-3",
+      "latitude": 9.23333,
+      "longitude": -79.78333
+    },
+    {
+      "id": 3711599,
+      "name": "Donoso District",
+      "nativeName": "Distrito de Donoso",
+      "code": "PA-3-3711599",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-3",
+      "latitude": 9.01999,
+      "longitude": -80.42967
+    },
+    {
+      "id": 12510671,
+      "name": "Omar Torrijos Herrera",
+      "nativeName": "Omar Torrijos Herrera",
+      "code": "PA-3-12510671",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-3",
+      "latitude": 8.86179,
+      "longitude": -80.60149
+    },
+    {
+      "id": 3702573,
+      "name": "Portobelo District",
+      "nativeName": "Distrito de Portobelo",
+      "code": "PA-3-3702573",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-3",
+      "latitude": 9.49485,
+      "longitude": -79.65162
+    },
+    {
+      "id": 3701183,
+      "name": "Santa Isabel District",
+      "nativeName": "Distrito de Santa Isabel",
+      "code": "PA-3-3701183",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-3",
+      "latitude": 9.51008,
+      "longitude": -79.32183
+    }
+  ]
+}

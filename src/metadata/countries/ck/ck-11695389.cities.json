@@ -1,0 +1,29 @@
+{
+  "stateId": 11695389,
+  "stateCode": "CK-11695389",
+  "countryCode": "CK",
+  "cities": [
+    {
+      "id": 11748276,
+      "name": "Moto Kavata",
+      "nativeName": "Moto Kavata",
+      "code": "CK-11695389-11748276",
+      "countryId": 1899402,
+      "countryCode": "CK",
+      "stateCode": "CK-11695389",
+      "latitude": -10.89261,
+      "longitude": -165.86772
+    },
+    {
+      "id": 11748275,
+      "name": "Motu Koe",
+      "nativeName": "Motu Koe",
+      "code": "CK-11695389-11748275",
+      "countryId": 1899402,
+      "countryCode": "CK",
+      "stateCode": "CK-11695389",
+      "latitude": -10.91229,
+      "longitude": -165.83682
+    }
+  ]
+}

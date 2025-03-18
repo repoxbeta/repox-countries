@@ -1,0 +1,95 @@
+{
+  "stateId": 1604869,
+  "stateCode": "TH-95",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 1616197,
+      "name": "Bannang Sata",
+      "nativeName": "Amphoe Bannang Sata",
+      "code": "TH-95-1616197",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-95",
+      "latitude": 6.25643,
+      "longitude": 101.27852
+    },
+    {
+      "id": 8305286,
+      "name": "Betong",
+      "nativeName": "Amphoe Betong",
+      "code": "TH-95-8305286",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-95",
+      "latitude": 5.86362,
+      "longitude": 101.22737
+    },
+    {
+      "id": 6976014,
+      "name": "Kabang",
+      "nativeName": "Amphoe Kabang",
+      "code": "TH-95-6976014",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-95",
+      "latitude": 6.37923,
+      "longitude": 100.98348
+    },
+    {
+      "id": 7013560,
+      "name": "Krong Pinang",
+      "nativeName": "Amphoe Krong Pinang",
+      "code": "TH-95-7013560",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-95",
+      "latitude": 6.39932,
+      "longitude": 101.2571
+    },
+    {
+      "id": 1608605,
+      "name": "Mueang Yala",
+      "nativeName": "Amphoe Mueang Yala",
+      "code": "TH-95-1608605",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-95",
+      "latitude": 6.54378,
+      "longitude": 101.25105
+    },
+    {
+      "id": 1607096,
+      "name": "Raman",
+      "nativeName": "Amphoe Raman",
+      "code": "TH-95-1607096",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-95",
+      "latitude": 6.48985,
+      "longitude": 101.43442
+    },
+    {
+      "id": 6975772,
+      "name": "Than To",
+      "nativeName": "Amphoe Than To",
+      "code": "TH-95-6975772",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-95",
+      "latitude": 6.08042,
+      "longitude": 101.25941
+    },
+    {
+      "id": 1604978,
+      "name": "Yaha",
+      "nativeName": "Amphoe Yaha",
+      "code": "TH-95-1604978",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-95",
+      "latitude": 6.40529,
+      "longitude": 101.12679
+    }
+  ]
+}

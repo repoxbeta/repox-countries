@@ -1,0 +1,73 @@
+{
+  "stateId": 169575,
+  "stateCode": "SY-HI",
+  "countryCode": "SY",
+  "cities": [
+    {
+      "id": 173435,
+      "name": "Al-Mukharram District",
+      "nativeName": "Al-Mukharram District",
+      "code": "SY-HI-173435",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-HI",
+      "latitude": 34.85057,
+      "longitude": 37.37688
+    },
+    {
+      "id": 173324,
+      "name": "Al-Qusayr District",
+      "nativeName": "Al-Qusayr District",
+      "code": "SY-HI-173324",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-HI",
+      "latitude": 34.54081,
+      "longitude": 36.55528
+    },
+    {
+      "id": 172947,
+      "name": "Al-Rastan District",
+      "nativeName": "Al-Rastan District",
+      "code": "SY-HI-172947",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-HI",
+      "latitude": 34.871,
+      "longitude": 36.77245
+    },
+    {
+      "id": 169576,
+      "name": "Homs District",
+      "nativeName": "Homs District",
+      "code": "SY-HI-169576",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-HI",
+      "latitude": 34.52942,
+      "longitude": 36.89511
+    },
+    {
+      "id": 7895145,
+      "name": "Tadmur District",
+      "nativeName": "Tadmur District",
+      "code": "SY-HI-7895145",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-HI",
+      "latitude": 34.42401,
+      "longitude": 38.6458
+    },
+    {
+      "id": 163532,
+      "name": "Talkalakh District",
+      "nativeName": "Talkalakh District",
+      "code": "SY-HI-163532",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-HI",
+      "latitude": 34.71846,
+      "longitude": 36.27383
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "stateId": 828303,
+  "stateCode": "AZ-SA",
+  "countryCode": "AZ",
+  "cities": [
+    {
+      "id": 585170,
+      "name": "Şǝki",
+      "nativeName": "Sheki",
+      "code": "AZ-SA-585170",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-SA",
+      "latitude": 41.19194,
+      "longitude": 47.17056
+    },
+    {
+      "id": 799252,
+      "name": "Karukhler",
+      "nativeName": "Karukhler",
+      "code": "AZ-SA-799252",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-SA",
+      "latitude": 41.09639,
+      "longitude": 47.21333
+    }
+  ]
+}

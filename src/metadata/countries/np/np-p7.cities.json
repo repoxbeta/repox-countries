@@ -1,0 +1,106 @@
+{
+  "stateId": 12095453,
+  "stateCode": "NP-P7",
+  "countryCode": "NP",
+  "cities": [
+    {
+      "id": 12095505,
+      "name": "Achham",
+      "nativeName": "Achham",
+      "code": "NP-P7-12095505",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "stateCode": "NP-P7",
+      "latitude": 29.06781,
+      "longitude": 81.29417
+    },
+    {
+      "id": 12095508,
+      "name": "Baitadi",
+      "nativeName": "Baitadi",
+      "code": "NP-P7-12095508",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "stateCode": "NP-P7",
+      "latitude": 29.50819,
+      "longitude": 80.55855
+    },
+    {
+      "id": 12095509,
+      "name": "Bajhang",
+      "nativeName": "Bajhang",
+      "code": "NP-P7-12095509",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "stateCode": "NP-P7",
+      "latitude": 29.72334,
+      "longitude": 81.24605
+    },
+    {
+      "id": 12095510,
+      "name": "Bajura",
+      "nativeName": "Bajura",
+      "code": "NP-P7-12095510",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "stateCode": "NP-P7",
+      "latitude": 29.61066,
+      "longitude": 81.57668
+    },
+    {
+      "id": 12095462,
+      "name": "Dadeldhura",
+      "nativeName": "Dadeldhura",
+      "code": "NP-P7-12095462",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "stateCode": "NP-P7",
+      "latitude": 29.20915,
+      "longitude": 80.50103
+    },
+    {
+      "id": 12095465,
+      "name": "Darchula",
+      "nativeName": "Darchula",
+      "code": "NP-P7-12095465",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "stateCode": "NP-P7",
+      "latitude": 29.92589,
+      "longitude": 80.78919
+    },
+    {
+      "id": 12095471,
+      "name": "Doti",
+      "nativeName": "Doti",
+      "code": "NP-P7-12095471",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "stateCode": "NP-P7",
+      "latitude": 29.1873,
+      "longitude": 80.8514
+    },
+    {
+      "id": 12095479,
+      "name": "Kailali",
+      "nativeName": "Kailali",
+      "code": "NP-P7-12095479",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "stateCode": "NP-P7",
+      "latitude": 28.73141,
+      "longitude": 80.9043
+    },
+    {
+      "id": 12095481,
+      "name": "Kanchanpur",
+      "nativeName": "Kanchanpur",
+      "code": "NP-P7-12095481",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "stateCode": "NP-P7",
+      "latitude": 28.84467,
+      "longitude": 80.28328
+    }
+  ]
+}

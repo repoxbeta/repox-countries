@@ -1,0 +1,150 @@
+{
+  "stateId": 3579913,
+  "stateCode": "GD-05",
+  "countryCode": "GD",
+  "cities": [
+    {
+      "id": 3579833,
+      "name": "Victoria",
+      "nativeName": "Victoria",
+      "code": "GD-05-3579833",
+      "countryId": 3580239,
+      "countryCode": "GD",
+      "stateCode": "GD-05",
+      "latitude": 12.19021,
+      "longitude": -61.70677
+    },
+    {
+      "id": 3580429,
+      "name": "Bellevue",
+      "nativeName": "Bellevue",
+      "code": "GD-05-3580429",
+      "countryId": 3580239,
+      "countryCode": "GD",
+      "stateCode": "GD-05",
+      "latitude": 12.18333,
+      "longitude": -61.68333
+    },
+    {
+      "id": 3580426,
+      "name": "Belmont",
+      "nativeName": "Belmont",
+      "code": "GD-05-3580426",
+      "countryId": 3580239,
+      "countryCode": "GD",
+      "stateCode": "GD-05",
+      "latitude": 12.18746,
+      "longitude": -61.69088
+    },
+    {
+      "id": 3580379,
+      "name": "Castle Hill",
+      "nativeName": "Castle Hill",
+      "code": "GD-05-3580379",
+      "countryId": 3580239,
+      "countryCode": "GD",
+      "stateCode": "GD-05",
+      "latitude": 12.19956,
+      "longitude": -61.67316
+    },
+    {
+      "id": 3580327,
+      "name": "Diego Piece",
+      "nativeName": "Diego Piece",
+      "code": "GD-05-3580327",
+      "countryId": 3580239,
+      "countryCode": "GD",
+      "stateCode": "GD-05",
+      "latitude": 12.20523,
+      "longitude": -61.6745
+    },
+    {
+      "id": 3580315,
+      "name": "Duquesne",
+      "nativeName": "Duquesne",
+      "code": "GD-05-3580315",
+      "countryId": 3580239,
+      "countryCode": "GD",
+      "stateCode": "GD-05",
+      "latitude": 12.20954,
+      "longitude": -61.67015
+    },
+    {
+      "id": 3580205,
+      "name": "Industry",
+      "nativeName": "Industry",
+      "code": "GD-05-3580205",
+      "countryId": 3580239,
+      "countryCode": "GD",
+      "stateCode": "GD-05",
+      "latitude": 12.21811,
+      "longitude": -61.6792
+    },
+    {
+      "id": 3580169,
+      "name": "L’Espérance",
+      "nativeName": "L’Espérance",
+      "code": "GD-05-3580169",
+      "countryId": 3580239,
+      "countryCode": "GD",
+      "stateCode": "GD-05",
+      "latitude": 12.18098,
+      "longitude": -61.71016
+    },
+    {
+      "id": 3580036,
+      "name": "Mount Stanhope",
+      "nativeName": "Mount Stanhope",
+      "code": "GD-05-3580036",
+      "countryId": 3580239,
+      "countryCode": "GD",
+      "stateCode": "GD-05",
+      "latitude": 12.18577,
+      "longitude": -61.68464
+    },
+    {
+      "id": 3580023,
+      "name": "Nonpareil",
+      "nativeName": "Nonpareil",
+      "code": "GD-05-3580023",
+      "countryId": 3580239,
+      "countryCode": "GD",
+      "stateCode": "GD-05",
+      "latitude": 12.21174,
+      "longitude": -61.69031
+    },
+    {
+      "id": 3579842,
+      "name": "Union",
+      "nativeName": "Union",
+      "code": "GD-05-3579842",
+      "countryId": 3580239,
+      "countryCode": "GD",
+      "stateCode": "GD-05",
+      "latitude": 12.20715,
+      "longitude": -61.67079
+    },
+    {
+      "id": 3579830,
+      "name": "Waltham",
+      "nativeName": "Waltham",
+      "code": "GD-05-3579830",
+      "countryId": 3580239,
+      "countryCode": "GD",
+      "stateCode": "GD-05",
+      "latitude": 12.20049,
+      "longitude": -61.70112
+    },
+    {
+      "id": 3580068,
+      "name": "Mount Cenis",
+      "nativeName": "Mount Cenis",
+      "code": "GD-05-3580068",
+      "countryId": 3580239,
+      "countryCode": "GD",
+      "stateCode": "GD-05",
+      "latitude": 12.17289,
+      "longitude": -61.70704
+    }
+  ]
+}

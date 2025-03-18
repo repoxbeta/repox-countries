@@ -1,0 +1,106 @@
+{
+  "stateId": 1562412,
+  "stateCode": "VN-02",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 1905009,
+      "name": "Huyện Bát Xát",
+      "nativeName": "Huyện Bát Xát",
+      "code": "VN-02-1905009",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-02",
+      "latitude": 22.56767,
+      "longitude": 103.71339
+    },
+    {
+      "id": 1905007,
+      "name": "Huyện Bảo Thắng",
+      "nativeName": "Huyện Bảo Thắng",
+      "code": "VN-02-1905007",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-02",
+      "latitude": 22.40956,
+      "longitude": 104.11182
+    },
+    {
+      "id": 1905012,
+      "name": "Huyện Bảo Yên",
+      "nativeName": "Huyện Bảo Yên",
+      "code": "VN-02-1905012",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-02",
+      "latitude": 22.28598,
+      "longitude": 104.45401
+    },
+    {
+      "id": 1905011,
+      "name": "Huyện Bắc Hà",
+      "nativeName": "Huyện Bắc Hà",
+      "code": "VN-02-1905011",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-02",
+      "latitude": 22.50083,
+      "longitude": 104.32726
+    },
+    {
+      "id": 1905010,
+      "name": "Huyện Mường Khương",
+      "nativeName": "Huyện Mường Khương",
+      "code": "VN-02-1905010",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-02",
+      "latitude": 22.67111,
+      "longitude": 104.11772
+    },
+    {
+      "id": 1905008,
+      "name": "Huyện Sa Pa",
+      "nativeName": "Huyện Sa Pa",
+      "code": "VN-02-1905008",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-02",
+      "latitude": 22.33769,
+      "longitude": 103.84037
+    },
+    {
+      "id": 1905013,
+      "name": "Huyện Văn Bàn",
+      "nativeName": "Huyện Văn Bàn",
+      "code": "VN-02-1905013",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-02",
+      "latitude": 22.07002,
+      "longitude": 104.18122
+    },
+    {
+      "id": 8464780,
+      "name": "Si Ma Cai District",
+      "nativeName": "Huyện Si Ma Cai",
+      "code": "VN-02-8464780",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-02",
+      "latitude": 22.67161,
+      "longitude": 104.27326
+    },
+    {
+      "id": 1905005,
+      "name": "Thành Phố Lào Cai",
+      "nativeName": "Thành Phố Lào Cai",
+      "code": "VN-02-1905005",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-02",
+      "latitude": 22.41944,
+      "longitude": 103.99502
+    }
+  ]
+}

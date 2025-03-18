@@ -1,0 +1,40 @@
+{
+  "stateId": 6413338,
+  "stateCode": "RW-01",
+  "countryCode": "RW",
+  "cities": [
+    {
+      "id": 7690204,
+      "name": "Gasabo District",
+      "nativeName": "Gasabo District",
+      "code": "RW-01-7690204",
+      "countryId": 49518,
+      "countryCode": "RW",
+      "stateCode": "RW-01",
+      "latitude": -1.8847,
+      "longitude": 30.13141
+    },
+    {
+      "id": 7690206,
+      "name": "Kicukiro District",
+      "nativeName": "Kicukiro District",
+      "code": "RW-01-7690206",
+      "countryId": 49518,
+      "countryCode": "RW",
+      "stateCode": "RW-01",
+      "latitude": -2.00391,
+      "longitude": 30.14696
+    },
+    {
+      "id": 7690205,
+      "name": "Nyarugenge District",
+      "nativeName": "Nyarugenge District",
+      "code": "RW-01-7690205",
+      "countryId": 49518,
+      "countryCode": "RW",
+      "stateCode": "RW-01",
+      "latitude": -1.99095,
+      "longitude": 30.02127
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "stateId": 1337179,
+  "stateCode": "BD-C",
+  "countryCode": "BD",
+  "cities": [
+    {
+      "id": 1337178,
+      "name": "Dhaka",
+      "nativeName": "Dhaka",
+      "code": "BD-C-1337178",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-C",
+      "latitude": 23.81093,
+      "longitude": 90.36542
+    },
+    {
+      "id": 1337181,
+      "name": "Faridpur",
+      "nativeName": "Faridpur",
+      "code": "BD-C-1337181",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-C",
+      "latitude": 23.59419,
+      "longitude": 89.82147
+    },
+    {
+      "id": 1337175,
+      "name": "Gazipur",
+      "nativeName": "Gazipur",
+      "code": "BD-C-1337175",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-C",
+      "latitude": 24.20689,
+      "longitude": 90.47241
+    },
+    {
+      "id": 1337184,
+      "name": "Gopalganj",
+      "nativeName": "Gopalganj",
+      "code": "BD-C-1337184",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-C",
+      "latitude": 23.16667,
+      "longitude": 89.91667
+    },
+    {
+      "id": 1337176,
+      "name": "Kishoregonj",
+      "nativeName": "Kishoregonj",
+      "code": "BD-C-1337176",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-C",
+      "latitude": 24.41667,
+      "longitude": 90.95
+    },
+    {
+      "id": 1337187,
+      "name": "Madaripur",
+      "nativeName": "Madaripur",
+      "code": "BD-C-1337187",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-C",
+      "latitude": 23.25,
+      "longitude": 90.2
+    },
+    {
+      "id": 1337391,
+      "name": "Manikganj",
+      "nativeName": "Manikganj",
+      "code": "BD-C-1337391",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-C",
+      "latitude": 23.86667,
+      "longitude": 89.95
+    },
+    {
+      "id": 1337183,
+      "name": "Munshiganj",
+      "nativeName": "Munshiganj",
+      "code": "BD-C-1337183",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-C",
+      "latitude": 23.55,
+      "longitude": 90.36667
+    },
+    {
+      "id": 1337182,
+      "name": "Narayanganj",
+      "nativeName": "Narayanganj",
+      "code": "BD-C-1337182",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-C",
+      "latitude": 23.75,
+      "longitude": 90.58333
+    },
+    {
+      "id": 1337177,
+      "name": "Narsingdi",
+      "nativeName": "Narsingdi",
+      "code": "BD-C-1337177",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-C",
+      "latitude": 24,
+      "longitude": 90.83333
+    },
+    {
+      "id": 1337180,
+      "name": "Rajbari",
+      "nativeName": "Rajbari",
+      "code": "BD-C-1337180",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-C",
+      "latitude": 23.66667,
+      "longitude": 89.55
+    },
+    {
+      "id": 1337186,
+      "name": "Shariatpur",
+      "nativeName": "Shariatpur",
+      "code": "BD-C-1337186",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-C",
+      "latitude": 23.25,
+      "longitude": 90.36667
+    },
+    {
+      "id": 1337174,
+      "name": "Tangail",
+      "nativeName": "Tangail",
+      "code": "BD-C-1337174",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-C",
+      "latitude": 24.33853,
+      "longitude": 89.98667
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "stateId": 1871954,
+  "stateCode": "KP-03",
+  "countryCode": "KP",
+  "cities": [
+    {
+      "id": 1878391,
+      "name": "Chŏngju",
+      "nativeName": "Chŏngju",
+      "code": "KP-03-1878391",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-03",
+      "latitude": 39.7157,
+      "longitude": 125.25523
+    },
+    {
+      "id": 2045038,
+      "name": "Ch’angsŏng-gun",
+      "nativeName": "Ch’angsŏng-gun",
+      "code": "KP-03-2045038",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-03",
+      "latitude": 40.40141,
+      "longitude": 125.23709
+    },
+    {
+      "id": 1878581,
+      "name": "Ch’ŏlsan-gun",
+      "nativeName": "Ch’ŏlsan-gun",
+      "code": "KP-03-1878581",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-03",
+      "latitude": 39.74917,
+      "longitude": 124.64306
+    },
+    {
+      "id": 2044670,
+      "name": "Ch’ŏnma-gun",
+      "nativeName": "Ch’ŏnma-gun",
+      "code": "KP-03-2044670",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-03",
+      "latitude": 40.07551,
+      "longitude": 124.90258
+    },
+    {
+      "id": 1876770,
+      "name": "Hyangsan-gun",
+      "nativeName": "Hyangsan-gun",
+      "code": "KP-03-1876770",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-03",
+      "latitude": 40.02181,
+      "longitude": 126.18556
+    },
+    {
+      "id": 1875509,
+      "name": "Kujang-gun",
+      "nativeName": "Kujang-gun",
+      "code": "KP-03-1875509",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-03",
+      "latitude": 39.9262,
+      "longitude": 126.07769
+    },
+    {
+      "id": 1875101,
+      "name": "Kusŏng-si",
+      "nativeName": "Kusŏng-si",
+      "code": "KP-03-1875101",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-03",
+      "latitude": 39.95017,
+      "longitude": 125.20409
+    },
+    {
+      "id": 1875055,
+      "name": "Kwaksan-gun",
+      "nativeName": "Kwaksan-gun",
+      "code": "KP-03-1875055",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-03",
+      "latitude": 39.68996,
+      "longitude": 125.05733
+    },
+    {
+      "id": 1872819,
+      "name": "Pakch’ŏn",
+      "nativeName": "Pakch’ŏn",
+      "code": "KP-03-1872819",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-03",
+      "latitude": 39.68593,
+      "longitude": 125.61741
+    },
+    {
+      "id": 2041678,
+      "name": "Pyŏktong-gun",
+      "nativeName": "Pyŏktong-gun",
+      "code": "KP-03-2041678",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-03",
+      "latitude": 40.52021,
+      "longitude": 125.41569
+    },
+    {
+      "id": 1872626,
+      "name": "P’ihyŏn-gun",
+      "nativeName": "P’ihyŏn-gun",
+      "code": "KP-03-1872626",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-03",
+      "latitude": 40.04559,
+      "longitude": 124.57893
+    },
+    {
+      "id": 2041535,
+      "name": "Sakchu-gun",
+      "nativeName": "Sakchu-gun",
+      "code": "KP-03-2041535",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-03",
+      "latitude": 40.31333,
+      "longitude": 124.91521
+    },
+    {
+      "id": 6279118,
+      "name": "Sindo-gun",
+      "nativeName": "Sindo-gun",
+      "code": "KP-03-6279118",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-03",
+      "latitude": 39.82752,
+      "longitude": 124.22447
+    },
+    {
+      "id": 2040892,
+      "name": "Sinŭiju-si",
+      "nativeName": "Sinŭiju-si",
+      "code": "KP-03-2040892",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-03",
+      "latitude": 40.09419,
+      "longitude": 124.39237
+    },
+    {
+      "id": 1869746,
+      "name": "Sŏnch’ŏn-gun",
+      "nativeName": "Sŏnch’ŏn-gun",
+      "code": "KP-03-1869746",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-03",
+      "latitude": 39.7635,
+      "longitude": 124.9172
+    },
+    {
+      "id": 2040192,
+      "name": "Taegwan-gun",
+      "nativeName": "Taegwan-gun",
+      "code": "KP-03-2040192",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-03",
+      "latitude": 40.20304,
+      "longitude": 125.23227
+    },
+    {
+      "id": 2039860,
+      "name": "Tongch’ang-gun",
+      "nativeName": "Tongch’ang-gun",
+      "code": "KP-03-2039860",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-03",
+      "latitude": 40.19706,
+      "longitude": 125.53151
+    },
+    {
+      "id": 1867778,
+      "name": "Tongnim-gun",
+      "nativeName": "Tongnim-gun",
+      "code": "KP-03-1867778",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-03",
+      "latitude": 39.90752,
+      "longitude": 124.80316
+    },
+    {
+      "id": 1868849,
+      "name": "T’aech’ŏn-gun",
+      "nativeName": "T’aech’ŏn-gun",
+      "code": "KP-03-1868849",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-03",
+      "latitude": 39.92021,
+      "longitude": 125.51101
+    },
+    {
+      "id": 2039624,
+      "name": "Uiju County",
+      "nativeName": "Uiju County",
+      "code": "KP-03-2039624",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-03",
+      "latitude": 40.21139,
+      "longitude": 124.66861
+    },
+    {
+      "id": 1867275,
+      "name": "Unjŏn-gun",
+      "nativeName": "Unjŏn-gun",
+      "code": "KP-03-1867275",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-03",
+      "latitude": 39.66429,
+      "longitude": 125.41763
+    },
+    {
+      "id": 2039522,
+      "name": "Unsan-gun",
+      "nativeName": "Unsan-gun",
+      "code": "KP-03-2039522",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-03",
+      "latitude": 40.07674,
+      "longitude": 125.83852
+    },
+    {
+      "id": 1865779,
+      "name": "Yongch’ŏn-gun",
+      "nativeName": "Yongch’ŏn-gun",
+      "code": "KP-03-1865779",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-03",
+      "latitude": 39.95361,
+      "longitude": 124.39804
+    },
+    {
+      "id": 1866590,
+      "name": "Yŏmju-gun",
+      "nativeName": "Yŏmju-gun",
+      "code": "KP-03-1866590",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-03",
+      "latitude": 39.91206,
+      "longitude": 124.52713
+    },
+    {
+      "id": 1866454,
+      "name": "Yŏngbyŏn-gun",
+      "nativeName": "Yŏngbyŏn-gun",
+      "code": "KP-03-1866454",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-03",
+      "latitude": 39.81164,
+      "longitude": 125.77235
+    }
+  ]
+}

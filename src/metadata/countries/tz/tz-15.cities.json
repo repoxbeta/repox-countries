@@ -1,0 +1,29 @@
+{
+  "stateId": 148724,
+  "stateCode": "TZ-15",
+  "countryCode": "TZ",
+  "cities": [
+    {
+      "id": 11204825,
+      "name": "Magharibi",
+      "nativeName": "Magharibi",
+      "code": "TZ-15-11204825",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-15",
+      "latitude": -6.16513,
+      "longitude": 39.24728
+    },
+    {
+      "id": 11204830,
+      "name": "Zanzibar City",
+      "nativeName": "Mjini",
+      "code": "TZ-15-11204830",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-15",
+      "latitude": -6.16564,
+      "longitude": 39.20351
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "stateId": 154775,
+  "stateCode": "TZ-13",
+  "countryCode": "TZ",
+  "cities": [
+    {
+      "id": 160891,
+      "name": "Bunda District Council",
+      "nativeName": "Bunda",
+      "code": "TZ-13-160891",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-13",
+      "latitude": -2.01405,
+      "longitude": 33.84536
+    },
+    {
+      "id": 9998136,
+      "name": "Butiama District Council",
+      "nativeName": "Butiama",
+      "code": "TZ-13-9998136",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-13",
+      "latitude": -1.68396,
+      "longitude": 33.96374
+    },
+    {
+      "id": 152450,
+      "name": "Musoma District Council",
+      "nativeName": "Musoma",
+      "code": "TZ-13-152450",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-13",
+      "latitude": -1.84608,
+      "longitude": 33.58961
+    },
+    {
+      "id": 9998138,
+      "name": "Musoma Municipal",
+      "nativeName": "Musoma Municipal",
+      "code": "TZ-13-9998138",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-13",
+      "latitude": -1.52007,
+      "longitude": 33.79722
+    },
+    {
+      "id": 9998141,
+      "name": "Rorya District Council",
+      "nativeName": "Rorya",
+      "code": "TZ-13-9998141",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-13",
+      "latitude": -1.28912,
+      "longitude": 34.07161
+    },
+    {
+      "id": 150095,
+      "name": "Serengeti District Council",
+      "nativeName": "Serengeti",
+      "code": "TZ-13-150095",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-13",
+      "latitude": -1.98342,
+      "longitude": 34.71762
+    },
+    {
+      "id": 149579,
+      "name": "Tarime District Council",
+      "nativeName": "Tarime",
+      "code": "TZ-13-149579",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-13",
+      "latitude": -1.3784,
+      "longitude": 34.47682
+    }
+  ]
+}

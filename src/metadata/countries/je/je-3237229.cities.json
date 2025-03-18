@@ -1,0 +1,29 @@
+{
+  "stateId": 3237229,
+  "stateCode": "JE-3237229",
+  "countryCode": "JE",
+  "cities": [
+    {
+      "id": 8181790,
+      "name": "La Grève de Lecq",
+      "nativeName": "La Grève de Lecq",
+      "code": "JE-3237229-8181790",
+      "countryId": 3042142,
+      "countryCode": "JE",
+      "stateCode": "JE-3237229",
+      "latitude": 49.24542,
+      "longitude": -2.20287
+    },
+    {
+      "id": 9538865,
+      "name": "St Ouen's Manor",
+      "nativeName": "St Ouen's Manor",
+      "code": "JE-3237229-9538865",
+      "countryId": 3042142,
+      "countryCode": "JE",
+      "stateCode": "JE-3237229",
+      "latitude": 49.22499,
+      "longitude": -2.20014
+    }
+  ]
+}

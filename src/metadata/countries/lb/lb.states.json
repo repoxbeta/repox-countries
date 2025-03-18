@@ -1,0 +1,94 @@
+{
+  "countryId": 272103,
+  "countryCode": "LB",
+  "states": [
+    {
+      "id": 6201371,
+      "name": "Baalbek-Hermel Governorate",
+      "nativeName": "Mohafazat Baalbek-Hermel",
+      "code": "LB-BH",
+      "internalCode": "BH",
+      "countryId": 272103,
+      "countryCode": "LB",
+      "latitude": 34.20833,
+      "longitude": 36.3
+    },
+    {
+      "id": 276780,
+      "name": "Beyrouth",
+      "nativeName": "Beyrouth",
+      "code": "LB-BA",
+      "internalCode": "BA",
+      "countryId": 272103,
+      "countryCode": "LB",
+      "latitude": 33.88333,
+      "longitude": 35.5
+    },
+    {
+      "id": 6201370,
+      "name": "Mohafazat Aakkâr",
+      "nativeName": "Mohafazat Aakkâr",
+      "code": "LB-AK",
+      "internalCode": "AK",
+      "countryId": 272103,
+      "countryCode": "LB",
+      "latitude": 34.53333,
+      "longitude": 36.16667
+    },
+    {
+      "id": 280282,
+      "name": "Mohafazat Béqaa",
+      "nativeName": "Mohafazat Béqaa",
+      "code": "LB-BI",
+      "internalCode": "BI",
+      "countryId": 272103,
+      "countryCode": "LB",
+      "latitude": 33.66667,
+      "longitude": 35.83333
+    },
+    {
+      "id": 278297,
+      "name": "Mohafazat Liban-Nord",
+      "nativeName": "Mohafazat Liban-Nord",
+      "code": "LB-AS",
+      "internalCode": "AS",
+      "countryId": 272103,
+      "countryCode": "LB",
+      "latitude": 34.33333,
+      "longitude": 35.91667
+    },
+    {
+      "id": 273607,
+      "name": "Mohafazat Mont-Liban",
+      "nativeName": "Mohafazat Mont-Liban",
+      "code": "LB-JL",
+      "internalCode": "JL",
+      "countryId": 272103,
+      "countryCode": "LB",
+      "latitude": 33.91667,
+      "longitude": 35.66667
+    },
+    {
+      "id": 444191,
+      "name": "Mohafazat Nabatîyé",
+      "nativeName": "Mohafazat Nabatîyé",
+      "code": "LB-NA",
+      "internalCode": "NA",
+      "countryId": 272103,
+      "countryCode": "LB",
+      "latitude": 33.25,
+      "longitude": 35.5
+    },
+    {
+      "id": 279894,
+      "name": "South Governorate",
+      "nativeName": "Mohafazat Liban-Sud",
+      "code": "LB-JA",
+      "internalCode": "JA",
+      "countryId": 272103,
+      "countryCode": "LB",
+      "latitude": 33.41667,
+      "longitude": 35.33333
+    }
+  ]
+}

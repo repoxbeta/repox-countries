@@ -1,0 +1,51 @@
+{
+  "stateId": 3881974,
+  "stateCode": "CL-LL",
+  "countryCode": "CL",
+  "cities": [
+    {
+      "id": 3895070,
+      "name": "Provincia de Chiloé",
+      "nativeName": "Provincia de Chiloé",
+      "code": "CL-LL-3895070",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-LL",
+      "latitude": -42.57471,
+      "longitude": -73.96062
+    },
+    {
+      "id": 3882955,
+      "name": "Provincia de Llanquihue",
+      "nativeName": "Provincia de Llanquihue",
+      "code": "CL-LL-3882955",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-LL",
+      "latitude": -41.34285,
+      "longitude": -72.658
+    },
+    {
+      "id": 3877946,
+      "name": "Provincia de Osorno",
+      "nativeName": "Provincia de Osorno",
+      "code": "CL-LL-3877946",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-LL",
+      "latitude": -40.77939,
+      "longitude": -72.95299
+    },
+    {
+      "id": 8181714,
+      "name": "Provincia de Palena",
+      "nativeName": "Provincia de Palena",
+      "code": "CL-LL-8181714",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-LL",
+      "latitude": -43.16212,
+      "longitude": -72.47818
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "stateId": 443186,
+  "stateCode": "TR-72",
+  "countryCode": "TR",
+  "cities": [
+    {
+      "id": 440476,
+      "name": "Beşiri İlçesi",
+      "nativeName": "Beşiri İlçesi",
+      "code": "TR-72-440476",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-72",
+      "latitude": 37.85722,
+      "longitude": 41.39306
+    },
+    {
+      "id": 441468,
+      "name": "Gercüş İlçesi",
+      "nativeName": "Gercüş İlçesi",
+      "code": "TR-72-441468",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-72",
+      "latitude": 37.59139,
+      "longitude": 41.33278
+    },
+    {
+      "id": 440905,
+      "name": "Hasankeyf İlçesi",
+      "nativeName": "Hasankeyf İlçesi",
+      "code": "TR-72-440905",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-72",
+      "latitude": 37.69694,
+      "longitude": 41.49972
+    },
+    {
+      "id": 8630820,
+      "name": "Kozluk İlçesi",
+      "nativeName": "Kozluk İlçesi",
+      "code": "TR-72-8630820",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-72",
+      "latitude": 38.19249,
+      "longitude": 41.48705
+    },
+    {
+      "id": 7732202,
+      "name": "Merkez",
+      "nativeName": "Merkez",
+      "code": "TR-72-7732202",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-72",
+      "latitude": 37.84362,
+      "longitude": 41.18341
+    },
+    {
+      "id": 8630819,
+      "name": "Sason İlçesi",
+      "nativeName": "Sason İlçesi",
+      "code": "TR-72-8630819",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-72",
+      "latitude": 38.3346,
+      "longitude": 41.41993
+    }
+  ]
+}

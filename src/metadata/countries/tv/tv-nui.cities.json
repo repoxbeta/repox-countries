@@ -1,0 +1,29 @@
+{
+  "stateId": 2110341,
+  "stateCode": "TV-NUI",
+  "countryCode": "TV",
+  "cities": [
+    {
+      "id": 2110322,
+      "name": "Tanrake Village",
+      "nativeName": "Tanrake Village",
+      "code": "TV-NUI-2110322",
+      "countryId": 2110297,
+      "countryCode": "TV",
+      "stateCode": "TV-NUI",
+      "latitude": -7.24562,
+      "longitude": 177.14511
+    },
+    {
+      "id": 7602220,
+      "name": "Meang Village",
+      "nativeName": "Meang Village",
+      "code": "TV-NUI-7602220",
+      "countryId": 2110297,
+      "countryCode": "TV",
+      "stateCode": "TV-NUI",
+      "latitude": -7.20592,
+      "longitude": 177.15025
+    }
+  ]
+}

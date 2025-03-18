@@ -1,0 +1,51 @@
+{
+  "stateId": 2133763,
+  "stateCode": "PG-CPM",
+  "countryCode": "PG",
+  "cities": [
+    {
+      "id": 2134008,
+      "name": "Abau District",
+      "nativeName": "Abau",
+      "code": "PG-CPM-2134008",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-CPM",
+      "latitude": -10.08333,
+      "longitude": 148.91667
+    },
+    {
+      "id": 2096826,
+      "name": "Goilala District",
+      "nativeName": "Goilala",
+      "code": "PG-CPM-2096826",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-CPM",
+      "latitude": -8.33333,
+      "longitude": 147
+    },
+    {
+      "id": 7668019,
+      "name": "Kairuku-Hiri District",
+      "nativeName": "Kairuku-Hiri",
+      "code": "PG-CPM-7668019",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-CPM",
+      "latitude": -9.178,
+      "longitude": 147.143
+    },
+    {
+      "id": 2087633,
+      "name": "Rigo District",
+      "nativeName": "Rigo",
+      "code": "PG-CPM-2087633",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-CPM",
+      "latitude": -9.75,
+      "longitude": 147.83333
+    }
+  ]
+}

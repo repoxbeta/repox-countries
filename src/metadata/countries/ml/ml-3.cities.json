@@ -1,0 +1,84 @@
+{
+  "stateId": 2451184,
+  "stateCode": "ML-3",
+  "countryCode": "ML",
+  "cities": [
+    {
+      "id": 7701502,
+      "name": "Bougouni Cercle",
+      "nativeName": "Bougouni Cercle",
+      "code": "ML-3-7701502",
+      "countryId": 2453866,
+      "countryCode": "ML",
+      "stateCode": "ML-3",
+      "latitude": 11.27243,
+      "longitude": -7.3474
+    },
+    {
+      "id": 8631512,
+      "name": "Kadiolo Cercle",
+      "nativeName": "Cercle de Kadiolo",
+      "code": "ML-3-8631512",
+      "countryId": 2453866,
+      "countryCode": "ML",
+      "stateCode": "ML-3",
+      "latitude": 10.63256,
+      "longitude": -5.85837
+    },
+    {
+      "id": 8334591,
+      "name": "Kolondieba Cercle",
+      "nativeName": "Kolondieba Cercle",
+      "code": "ML-3-8334591",
+      "countryId": 2453866,
+      "countryCode": "ML",
+      "stateCode": "ML-3",
+      "latitude": 10.942,
+      "longitude": -6.69
+    },
+    {
+      "id": 7670554,
+      "name": "Koutiala Cercle",
+      "nativeName": "Koutiala Cercle",
+      "code": "ML-3-7670554",
+      "countryId": 2453866,
+      "countryCode": "ML",
+      "stateCode": "ML-3",
+      "latitude": 12.35311,
+      "longitude": -5.5839
+    },
+    {
+      "id": 7729902,
+      "name": "Sikasso Cercle",
+      "nativeName": "Sikasso Cercle",
+      "code": "ML-3-7729902",
+      "countryId": 2453866,
+      "countryCode": "ML",
+      "stateCode": "ML-3",
+      "latitude": 11.52179,
+      "longitude": -5.94014
+    },
+    {
+      "id": 8631446,
+      "name": "Yanfolila Cercle",
+      "nativeName": "Cercle de Yanfolila",
+      "code": "ML-3-8631446",
+      "countryId": 2453866,
+      "countryCode": "ML",
+      "stateCode": "ML-3",
+      "latitude": 11.00742,
+      "longitude": -8.0365
+    },
+    {
+      "id": 8631513,
+      "name": "Yorosso Cercle",
+      "nativeName": "Cercle de Yorosso",
+      "code": "ML-3-8631513",
+      "countryId": 2453866,
+      "countryCode": "ML",
+      "stateCode": "ML-3",
+      "latitude": 12.34502,
+      "longitude": -4.78168
+    }
+  ]
+}

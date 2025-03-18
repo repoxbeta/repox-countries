@@ -1,0 +1,72 @@
+{
+  "countryId": 2134431,
+  "countryCode": "VU",
+  "states": [
+    {
+      "id": 2208265,
+      "name": "Malampa",
+      "nativeName": "Malampa Province",
+      "code": "VU-MAP",
+      "internalCode": "MAP",
+      "countryId": 2134431,
+      "countryCode": "VU",
+      "latitude": -16.31196,
+      "longitude": 167.58577
+    },
+    {
+      "id": 2208266,
+      "name": "Penama",
+      "nativeName": "Penama Province",
+      "code": "VU-PAM",
+      "internalCode": "PAM",
+      "countryId": 2134431,
+      "countryCode": "VU",
+      "latitude": -15.39742,
+      "longitude": 167.80449
+    },
+    {
+      "id": 2134898,
+      "name": "Sanma",
+      "nativeName": "Sanma Province",
+      "code": "VU-SAM",
+      "internalCode": "SAM",
+      "countryId": 2134431,
+      "countryCode": "VU",
+      "latitude": -15.33333,
+      "longitude": 166.75
+    },
+    {
+      "id": 2208267,
+      "name": "Shefa Province",
+      "nativeName": "Shefa Province",
+      "code": "VU-SEE",
+      "internalCode": "SEE",
+      "countryId": 2134431,
+      "countryCode": "VU",
+      "latitude": -17.5894,
+      "longitude": 168.36731
+    },
+    {
+      "id": 2134739,
+      "name": "Tafea",
+      "nativeName": "Tafea Province",
+      "code": "VU-TAE",
+      "internalCode": "TAE",
+      "countryId": 2134431,
+      "countryCode": "VU",
+      "latitude": -19.50948,
+      "longitude": 169.34849
+    },
+    {
+      "id": 2137421,
+      "name": "Torba",
+      "nativeName": "Torba Province",
+      "code": "VU-TOB",
+      "internalCode": "TOB",
+      "countryId": 2134431,
+      "countryCode": "VU",
+      "latitude": -13.75,
+      "longitude": 167.5
+    }
+  ]
+}

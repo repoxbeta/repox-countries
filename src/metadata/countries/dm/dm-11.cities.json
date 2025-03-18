@@ -1,0 +1,40 @@
+{
+  "stateId": 3575618,
+  "stateCode": "DM-11",
+  "countryCode": "DM",
+  "cities": [
+    {
+      "id": 3575857,
+      "name": "Colihaut",
+      "nativeName": "Colihaut",
+      "code": "DM-11-3575857",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-11",
+      "latitude": 15.48478,
+      "longitude": -61.46215
+    },
+    {
+      "id": 3575897,
+      "name": "Bioche",
+      "nativeName": "Bioche",
+      "code": "DM-11-3575897",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-11",
+      "latitude": 15.50895,
+      "longitude": -61.46683
+    },
+    {
+      "id": 3575825,
+      "name": "Dublanc",
+      "nativeName": "Dublanc",
+      "code": "DM-11-3575825",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-11",
+      "latitude": 15.51361,
+      "longitude": -61.46679
+    }
+  ]
+}

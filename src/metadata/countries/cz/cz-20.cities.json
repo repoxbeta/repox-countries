@@ -1,0 +1,139 @@
+{
+  "stateId": 3339576,
+  "stateCode": "CZ-20",
+  "countryCode": "CZ",
+  "cities": [
+    {
+      "id": 3079506,
+      "name": "Benešov District",
+      "nativeName": "Okres Benešov",
+      "code": "CZ-20-3079506",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-20",
+      "latitude": 49.66667,
+      "longitude": 14.75
+    },
+    {
+      "id": 3079466,
+      "name": "Beroun District",
+      "nativeName": "Okres Beroun",
+      "code": "CZ-20-3079466",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-20",
+      "latitude": 49.83333,
+      "longitude": 14.08333
+    },
+    {
+      "id": 3073698,
+      "name": "Kladno District",
+      "nativeName": "Okres Kladno",
+      "code": "CZ-20-3073698",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-20",
+      "latitude": 50.16667,
+      "longitude": 14.16667
+    },
+    {
+      "id": 3072462,
+      "name": "Kutná Hora District",
+      "nativeName": "Okres Kutná Hora",
+      "code": "CZ-20-3072462",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-20",
+      "latitude": 49.83333,
+      "longitude": 15.25
+    },
+    {
+      "id": 3070543,
+      "name": "Mladá Boleslav District",
+      "nativeName": "Okres Mladá Boleslav",
+      "code": "CZ-20-3070543",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-20",
+      "latitude": 50.41667,
+      "longitude": 14.91667
+    },
+    {
+      "id": 3070861,
+      "name": "Mělník District",
+      "nativeName": "Okres Mělník",
+      "code": "CZ-20-3070861",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-20",
+      "latitude": 50.33333,
+      "longitude": 14.5
+    },
+    {
+      "id": 3069235,
+      "name": "Nymburk District",
+      "nativeName": "Okres Nymburk",
+      "code": "CZ-20-3069235",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-20",
+      "latitude": 50.16667,
+      "longitude": 15.16667
+    },
+    {
+      "id": 3073370,
+      "name": "Okres Kolín",
+      "nativeName": "Okres Kolín",
+      "code": "CZ-20-3073370",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-20",
+      "latitude": 50,
+      "longitude": 15
+    },
+    {
+      "id": 3067693,
+      "name": "Okres Praha-východ",
+      "nativeName": "Okres Praha-východ",
+      "code": "CZ-20-3067693",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-20",
+      "latitude": 50.11768,
+      "longitude": 14.70836
+    },
+    {
+      "id": 3067692,
+      "name": "Okres Praha-západ",
+      "nativeName": "Okres Praha-západ",
+      "code": "CZ-20-3067692",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-20",
+      "latitude": 49.83333,
+      "longitude": 14.33333
+    },
+    {
+      "id": 3067540,
+      "name": "Příbram District",
+      "nativeName": "Okres Příbram",
+      "code": "CZ-20-3067540",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-20",
+      "latitude": 49.66667,
+      "longitude": 14.16667
+    },
+    {
+      "id": 3067050,
+      "name": "Rakovník District",
+      "nativeName": "Okres Rakovník",
+      "code": "CZ-20-3067050",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-20",
+      "latitude": 50.1,
+      "longitude": 13.7
+    }
+  ]
+}

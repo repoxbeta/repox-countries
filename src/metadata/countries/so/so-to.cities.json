@@ -1,0 +1,51 @@
+{
+  "stateId": 51230,
+  "stateCode": "SO-TO",
+  "countryCode": "SO",
+  "cities": [
+    {
+      "id": 9179659,
+      "name": "Buhoodle District",
+      "nativeName": "Buuhoodle",
+      "code": "SO-TO-9179659",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-TO",
+      "latitude": 8.46016,
+      "longitude": 46.66129
+    },
+    {
+      "id": 9179656,
+      "name": "Burao",
+      "nativeName": "Burao",
+      "code": "SO-TO-9179656",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-TO",
+      "latitude": 9.14134,
+      "longitude": 45.75868
+    },
+    {
+      "id": 9179663,
+      "name": "Oodweyne District",
+      "nativeName": "Owdweyne",
+      "code": "SO-TO-9179663",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-TO",
+      "latitude": 9.25739,
+      "longitude": 45.01097
+    },
+    {
+      "id": 9179665,
+      "name": "Sheikh District",
+      "nativeName": "Sheikh",
+      "code": "SO-TO-9179665",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-TO",
+      "latitude": 9.99245,
+      "longitude": 45.42914
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "stateId": 8521660,
+  "stateCode": "PG-JWK",
+  "countryCode": "PG",
+  "cities": [
+    {
+      "id": 8657197,
+      "name": "Angalimp-South Wahgi District",
+      "nativeName": "Angalimp South Wahgi",
+      "code": "PG-JWK-8657197",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-JWK",
+      "latitude": -6.05,
+      "longitude": 144.56667
+    },
+    {
+      "id": 2095253,
+      "name": "Jimi District",
+      "nativeName": "Jimi",
+      "code": "PG-JWK-2095253",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-JWK",
+      "latitude": -5.53333,
+      "longitude": 144.56667
+    },
+    {
+      "id": 8657217,
+      "name": "North Wahgi District",
+      "nativeName": "North Wahgi",
+      "code": "PG-JWK-8657217",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-JWK",
+      "latitude": -5.8,
+      "longitude": 144.68333
+    }
+  ]
+}

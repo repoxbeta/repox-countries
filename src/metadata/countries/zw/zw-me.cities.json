@@ -1,0 +1,106 @@
+{
+  "stateId": 886842,
+  "stateCode": "ZW-ME",
+  "countryCode": "ZW",
+  "cities": [
+    {
+      "id": 894293,
+      "name": "Chikomba District",
+      "nativeName": "Chikomba District",
+      "code": "ZW-ME-894293",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-ME",
+      "latitude": -18.88846,
+      "longitude": 31.09751
+    },
+    {
+      "id": 890848,
+      "name": "Goromonzi District",
+      "nativeName": "Goromonzi District",
+      "code": "ZW-ME-890848",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-ME",
+      "latitude": -17.80695,
+      "longitude": 31.36372
+    },
+    {
+      "id": 879178,
+      "name": "Hwedza District",
+      "nativeName": "Hwedza District",
+      "code": "ZW-ME-879178",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-ME",
+      "latitude": -18.72729,
+      "longitude": 31.65355
+    },
+    {
+      "id": 886989,
+      "name": "Marondera District",
+      "nativeName": "Marondera District",
+      "code": "ZW-ME-886989",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-ME",
+      "latitude": -18.29214,
+      "longitude": 31.51252
+    },
+    {
+      "id": 885457,
+      "name": "Mudzi District",
+      "nativeName": "Mudzi District",
+      "code": "ZW-ME-885457",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-ME",
+      "latitude": -17.04711,
+      "longitude": 32.65279
+    },
+    {
+      "id": 885172,
+      "name": "Murehwa District",
+      "nativeName": "Murehwa District",
+      "code": "ZW-ME-885172",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-ME",
+      "latitude": -17.80057,
+      "longitude": 31.83083
+    },
+    {
+      "id": 884926,
+      "name": "Mutoko District",
+      "nativeName": "Mutoko District",
+      "code": "ZW-ME-884926",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-ME",
+      "latitude": -17.46615,
+      "longitude": 32.29419
+    },
+    {
+      "id": 881519,
+      "name": "Seke District",
+      "nativeName": "Seke District",
+      "code": "ZW-ME-881519",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-ME",
+      "latitude": -18.23573,
+      "longitude": 30.95649
+    },
+    {
+      "id": 10800411,
+      "name": "Uzumba-Maramba-Pfungwe District",
+      "nativeName": "Uzumba-Maramba-Pfungwe District",
+      "code": "ZW-ME-10800411",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-ME",
+      "latitude": -17.03775,
+      "longitude": 32.0257
+    }
+  ]
+}

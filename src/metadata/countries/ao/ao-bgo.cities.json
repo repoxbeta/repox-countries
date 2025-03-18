@@ -1,0 +1,73 @@
+{
+  "stateId": 2243598,
+  "stateCode": "AO-BGO",
+  "countryCode": "AO",
+  "cities": [
+    {
+      "id": 2243911,
+      "name": "Ambriz",
+      "nativeName": "Ambriz",
+      "code": "AO-BGO-2243911",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-BGO",
+      "latitude": -7.93053,
+      "longitude": 13.4808
+    },
+    {
+      "id": 2243420,
+      "name": "Bula Atumba",
+      "nativeName": "Bula Atumba",
+      "code": "AO-BGO-2243420",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-BGO",
+      "latitude": -8.67165,
+      "longitude": 14.80219
+    },
+    {
+      "id": 2241484,
+      "name": "Dande Municipality",
+      "nativeName": "Dande Municipality",
+      "code": "AO-BGO-2241484",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-BGO",
+      "latitude": -8.5,
+      "longitude": 13.83333
+    },
+    {
+      "id": 2241454,
+      "name": "Dembos",
+      "nativeName": "Dembos",
+      "code": "AO-BGO-2241454",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-BGO",
+      "latitude": -8.49855,
+      "longitude": 14.54453
+    },
+    {
+      "id": 2238950,
+      "name": "Município Pango Aluquém",
+      "nativeName": "Município Pango Aluquém",
+      "code": "AO-BGO-2238950",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-BGO",
+      "latitude": -9.75,
+      "longitude": 14.5
+    },
+    {
+      "id": 2239093,
+      "name": "Nambuangongo Municipality",
+      "nativeName": "Nambuangongo Municipality",
+      "code": "AO-BGO-2239093",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-BGO",
+      "latitude": -8.04835,
+      "longitude": 14.33716
+    }
+  ]
+}

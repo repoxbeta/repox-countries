@@ -1,0 +1,51 @@
+{
+  "stateId": 3339574,
+  "stateCode": "CZ-53",
+  "countryCode": "CZ",
+  "cities": [
+    {
+      "id": 3077538,
+      "name": "Chrudim District",
+      "nativeName": "Okres Chrudim",
+      "code": "CZ-53-3077538",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-53",
+      "latitude": 49.83333,
+      "longitude": 15.83333
+    },
+    {
+      "id": 3068581,
+      "name": "Pardubice District",
+      "nativeName": "Okres Pardubice",
+      "code": "CZ-53-3068581",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-53",
+      "latitude": 50.08333,
+      "longitude": 15.75
+    },
+    {
+      "id": 3064453,
+      "name": "Svitavy District",
+      "nativeName": "Okres Svitavy",
+      "code": "CZ-53-3064453",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-53",
+      "latitude": 49.73333,
+      "longitude": 16.5
+    },
+    {
+      "id": 3063545,
+      "name": "Ústí nad Orlicí District",
+      "nativeName": "Okres Ústí nad Orlicí",
+      "code": "CZ-53-3063545",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-53",
+      "latitude": 50,
+      "longitude": 16.53333
+    }
+  ]
+}

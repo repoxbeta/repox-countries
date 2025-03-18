@@ -1,0 +1,138 @@
+{
+  "countryId": 2395170,
+  "countryCode": "BJ",
+  "states": [
+    {
+      "id": 2597271,
+      "name": "Alibori",
+      "nativeName": "Alibori",
+      "code": "BJ-AL",
+      "internalCode": "AL",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "latitude": 11.33333,
+      "longitude": 2.91667
+    },
+    {
+      "id": 2395524,
+      "name": "Atakora",
+      "nativeName": "Atakora Department",
+      "code": "BJ-AK",
+      "internalCode": "AK",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "latitude": 10.75,
+      "longitude": 1.66667
+    },
+    {
+      "id": 2395504,
+      "name": "Atlantique",
+      "nativeName": "Atlantique Department",
+      "code": "BJ-AQ",
+      "internalCode": "AQ",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "latitude": 6.66667,
+      "longitude": 2.25
+    },
+    {
+      "id": 2394992,
+      "name": "Borgou",
+      "nativeName": "Borgou Department",
+      "code": "BJ-BO",
+      "internalCode": "BO",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "latitude": 9.75,
+      "longitude": 2.75
+    },
+    {
+      "id": 2597272,
+      "name": "Collines",
+      "nativeName": "Collines Department",
+      "code": "BJ-CO",
+      "internalCode": "CO",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "latitude": 8,
+      "longitude": 2.16667
+    },
+    {
+      "id": 2597274,
+      "name": "Donga",
+      "nativeName": "Donga",
+      "code": "BJ-DO",
+      "internalCode": "DO",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "latitude": 9.33333,
+      "longitude": 1.78333
+    },
+    {
+      "id": 2597273,
+      "name": "Kouffo",
+      "nativeName": "Kouffo Department",
+      "code": "BJ-KO",
+      "internalCode": "KO",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "latitude": 7.08333,
+      "longitude": 1.83333
+    },
+    {
+      "id": 2597275,
+      "name": "Littoral",
+      "nativeName": "Littoral",
+      "code": "BJ-LI",
+      "internalCode": "LI",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "latitude": 6.36667,
+      "longitude": 2.41667
+    },
+    {
+      "id": 2392716,
+      "name": "Mono",
+      "nativeName": "Mono",
+      "code": "BJ-MO",
+      "internalCode": "MO",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "latitude": 6.58333,
+      "longitude": 1.83333
+    },
+    {
+      "id": 2392325,
+      "name": "Ouémé",
+      "nativeName": "Département de l’Ouémé",
+      "code": "BJ-OU",
+      "internalCode": "OU",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "latitude": 6.61667,
+      "longitude": 2.51667
+    },
+    {
+      "id": 2597277,
+      "name": "Plateau",
+      "nativeName": "Plateau Department",
+      "code": "BJ-PL",
+      "internalCode": "PL",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "latitude": 7.16667,
+      "longitude": 2.58333
+    },
+    {
+      "id": 2390719,
+      "name": "Zou",
+      "nativeName": "Zou Department",
+      "code": "BJ-ZO",
+      "internalCode": "ZO",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "latitude": 7.25,
+      "longitude": 2.16667
+    }
+  ]
+}

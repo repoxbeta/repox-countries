@@ -1,0 +1,51 @@
+{
+  "stateId": 448499,
+  "stateCode": "ER-DK",
+  "countryCode": "ER",
+  "cities": [
+    {
+      "id": 12217607,
+      "name": "Araeta",
+      "nativeName": "Araeta",
+      "code": "ER-DK-12217607",
+      "countryId": 338010,
+      "countryCode": "ER",
+      "stateCode": "ER-DK",
+      "latitude": 14.37334,
+      "longitude": 40.95664
+    },
+    {
+      "id": 12217617,
+      "name": "Asseb",
+      "nativeName": "Asseb",
+      "code": "ER-DK-12217617",
+      "countryId": 338010,
+      "countryCode": "ER",
+      "stateCode": "ER-DK",
+      "latitude": 12.96151,
+      "longitude": 42.67131
+    },
+    {
+      "id": 10375723,
+      "name": "Central Denkalya Subregion",
+      "nativeName": "Central Denkalya Subregion",
+      "code": "ER-DK-10375723",
+      "countryId": 338010,
+      "countryCode": "ER",
+      "stateCode": "ER-DK",
+      "latitude": 13.9333,
+      "longitude": 41.7
+    },
+    {
+      "id": 9166057,
+      "name": "Southern Denkalya Subregion",
+      "nativeName": "Southern Denkalya Subregion",
+      "code": "ER-DK-9166057",
+      "countryId": 338010,
+      "countryCode": "ER",
+      "stateCode": "ER-DK",
+      "latitude": 13.06777,
+      "longitude": 42.5105
+    }
+  ]
+}

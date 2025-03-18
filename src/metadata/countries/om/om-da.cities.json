@@ -1,0 +1,95 @@
+{
+  "stateId": 411735,
+  "stateCode": "OM-DA",
+  "countryCode": "OM",
+  "cities": [
+    {
+      "id": 12215987,
+      "name": "Adam",
+      "nativeName": "Adam",
+      "code": "OM-DA-12215987",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-DA",
+      "latitude": 21.727,
+      "longitude": 57.282
+    },
+    {
+      "id": 12215986,
+      "name": "Al Ḩamrā’",
+      "nativeName": "Al Ḩamrā’",
+      "code": "OM-DA-12215986",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-DA",
+      "latitude": 23.157,
+      "longitude": 57.224
+    },
+    {
+      "id": 12215984,
+      "name": "Bahlā’",
+      "nativeName": "Bahlā’",
+      "code": "OM-DA-12215984",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-DA",
+      "latitude": 22.746,
+      "longitude": 57.174
+    },
+    {
+      "id": 12215990,
+      "name": "Bidbid",
+      "nativeName": "Bidbid",
+      "code": "OM-DA-12215990",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-DA",
+      "latitude": 23.306,
+      "longitude": 58.239
+    },
+    {
+      "id": 12215988,
+      "name": "Izkī",
+      "nativeName": "Izkī",
+      "code": "OM-DA-12215988",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-DA",
+      "latitude": 22.761,
+      "longitude": 57.802
+    },
+    {
+      "id": 12215985,
+      "name": "Manaḩ",
+      "nativeName": "Manaḩ",
+      "code": "OM-DA-12215985",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-DA",
+      "latitude": 22.688,
+      "longitude": 57.581
+    },
+    {
+      "id": 12215983,
+      "name": "Nizwá",
+      "nativeName": "Nizwá",
+      "code": "OM-DA-12215983",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-DA",
+      "latitude": 22.982,
+      "longitude": 57.545
+    },
+    {
+      "id": 12215989,
+      "name": "Samā’il",
+      "nativeName": "Samā’il",
+      "code": "OM-DA-12215989",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-DA",
+      "latitude": 23.191,
+      "longitude": 58.001
+    }
+  ]
+}

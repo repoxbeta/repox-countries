@@ -1,0 +1,51 @@
+{
+  "stateId": 2597274,
+  "stateCode": "BJ-DO",
+  "countryCode": "BJ",
+  "cities": [
+    {
+      "id": 10344470,
+      "name": "Bassila",
+      "nativeName": "Bassila",
+      "code": "BJ-DO-10344470",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-DO",
+      "latitude": 9.01667,
+      "longitude": 1.66667
+    },
+    {
+      "id": 7669275,
+      "name": "Copargo",
+      "nativeName": "Copargo",
+      "code": "BJ-DO-7669275",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-DO",
+      "latitude": 9.8375,
+      "longitude": 1.54806
+    },
+    {
+      "id": 8260658,
+      "name": "Djougou",
+      "nativeName": "Commune of Djougou",
+      "code": "BJ-DO-8260658",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-DO",
+      "latitude": 9.643,
+      "longitude": 1.896
+    },
+    {
+      "id": 7669263,
+      "name": "Ouake",
+      "nativeName": "Ouake",
+      "code": "BJ-DO-7669263",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-DO",
+      "latitude": 9.59959,
+      "longitude": 1.43707
+    }
+  ]
+}

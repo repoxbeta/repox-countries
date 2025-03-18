@@ -1,0 +1,62 @@
+{
+  "stateId": 1135022,
+  "stateCode": "AF-LAG",
+  "countryCode": "AF",
+  "cities": [
+    {
+      "id": 7053969,
+      "name": "Alingar District",
+      "nativeName": "‘Alīngār",
+      "code": "AF-LAG-7053969",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-LAG",
+      "latitude": 34.8175,
+      "longitude": 70.41077
+    },
+    {
+      "id": 7053970,
+      "name": "Alishing District",
+      "nativeName": "‘Alīsheng",
+      "code": "AF-LAG-7053970",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-LAG",
+      "latitude": 34.82548,
+      "longitude": 70.08421
+    },
+    {
+      "id": 7053971,
+      "name": "Dawlat Shah District",
+      "nativeName": "Dowlat Shāh",
+      "code": "AF-LAG-7053971",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-LAG",
+      "latitude": 35.03586,
+      "longitude": 69.99947
+    },
+    {
+      "id": 7053972,
+      "name": "Mihtarlam District",
+      "nativeName": "Mehtar Lām",
+      "code": "AF-LAG-7053972",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-LAG",
+      "latitude": 34.6518,
+      "longitude": 70.09508
+    },
+    {
+      "id": 7053973,
+      "name": "Qarghayi District",
+      "nativeName": "Qarghah’ī",
+      "code": "AF-LAG-7053973",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-LAG",
+      "latitude": 34.51253,
+      "longitude": 70.19568
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "stateId": 604010,
+  "stateCode": "SE-BD",
+  "countryCode": "SE",
+  "cities": [
+    {
+      "id": 2725371,
+      "name": "Arjeplog Municipality",
+      "nativeName": "Arjeplogs Kommun",
+      "code": "SE-BD-2725371",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-BD",
+      "latitude": 66.37495,
+      "longitude": 17.17477
+    },
+    {
+      "id": 2725134,
+      "name": "Arvidsjaur Municipality",
+      "nativeName": "Arvidsjaurs Kommun",
+      "code": "SE-BD-2725134",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-BD",
+      "latitude": 65.66667,
+      "longitude": 19.25
+    },
+    {
+      "id": 606530,
+      "name": "Boden Municipality",
+      "nativeName": "Bodens Kommun",
+      "code": "SE-BD-606530",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-BD",
+      "latitude": 66.04393,
+      "longitude": 21.29977
+    },
+    {
+      "id": 606084,
+      "name": "Gällivare Municipality",
+      "nativeName": "Gällivare kommun",
+      "code": "SE-BD-606084",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-BD",
+      "latitude": 67.39347,
+      "longitude": 19.70834
+    },
+    {
+      "id": 605857,
+      "name": "Haparanda Municipality",
+      "nativeName": "Haparanda Kommun",
+      "code": "SE-BD-605857",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-BD",
+      "latitude": 65.91662,
+      "longitude": 23.84607
+    },
+    {
+      "id": 2702996,
+      "name": "Jokkmokk Municipality",
+      "nativeName": "Jokkmokks Kommun",
+      "code": "SE-BD-2702996",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-BD",
+      "latitude": 66.90967,
+      "longitude": 18.50521
+    },
+    {
+      "id": 605387,
+      "name": "Kalix Municipality",
+      "nativeName": "Kalix Kommun",
+      "code": "SE-BD-605387",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-BD",
+      "latitude": 65.96118,
+      "longitude": 22.98669
+    },
+    {
+      "id": 2700801,
+      "name": "Kiruna Municipality",
+      "nativeName": "Kiruna Kommun",
+      "code": "SE-BD-2700801",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-BD",
+      "latitude": 68.17009,
+      "longitude": 20.54861
+    },
+    {
+      "id": 604488,
+      "name": "Luleå Municipality",
+      "nativeName": "Luleå kommun",
+      "code": "SE-BD-604488",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-BD",
+      "latitude": 65.68333,
+      "longitude": 22.16667
+    },
+    {
+      "id": 603760,
+      "name": "Pajala Municipality",
+      "nativeName": "Pajala Kommun",
+      "code": "SE-BD-603760",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-BD",
+      "latitude": 67.24069,
+      "longitude": 22.91667
+    },
+    {
+      "id": 603569,
+      "name": "Piteå Municipality",
+      "nativeName": "Piteå Kommun",
+      "code": "SE-BD-603569",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-BD",
+      "latitude": 65.37229,
+      "longitude": 20.85153
+    },
+    {
+      "id": 606833,
+      "name": "Älvsbyn Municipality",
+      "nativeName": "Älvsbyns Kommun",
+      "code": "SE-BD-606833",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-BD",
+      "latitude": 65.73201,
+      "longitude": 20.71412
+    },
+    {
+      "id": 603822,
+      "name": "Överkalix Municipality",
+      "nativeName": "Överkalix Kommun",
+      "code": "SE-BD-603822",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-BD",
+      "latitude": 66.47043,
+      "longitude": 22.57928
+    },
+    {
+      "id": 603813,
+      "name": "Övertorneå Municipality",
+      "nativeName": "Övertorneå Kommun",
+      "code": "SE-BD-603813",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-BD",
+      "latitude": 66.48317,
+      "longitude": 23.43866
+    }
+  ]
+}

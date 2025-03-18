@@ -1,0 +1,117 @@
+{
+  "stateId": 3512209,
+  "stateCode": "DO-02",
+  "countryCode": "DO",
+  "cities": [
+    {
+      "id": 3512211,
+      "name": "Azua",
+      "nativeName": "Azua",
+      "code": "DO-02-3512211",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-02",
+      "latitude": 18.5,
+      "longitude": -70.75
+    },
+    {
+      "id": 11154534,
+      "name": "Estebanía",
+      "nativeName": "Estebanía",
+      "code": "DO-02-11154534",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-02",
+      "latitude": 18.53466,
+      "longitude": -70.64853
+    },
+    {
+      "id": 11154533,
+      "name": "Guayabal",
+      "nativeName": "Guayabal",
+      "code": "DO-02-11154533",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-02",
+      "latitude": 18.71744,
+      "longitude": -70.76501
+    },
+    {
+      "id": 11154548,
+      "name": "Las Charcas",
+      "nativeName": "Las Charcas",
+      "code": "DO-02-11154548",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-02",
+      "latitude": 18.39181,
+      "longitude": -70.54609
+    },
+    {
+      "id": 11154549,
+      "name": "Las Yayas De Viajama",
+      "nativeName": "Las Yayas De Viajama",
+      "code": "DO-02-11154549",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-02",
+      "latitude": 18.604,
+      "longitude": -70.99966
+    },
+    {
+      "id": 3495665,
+      "name": "Padre Las Casas",
+      "nativeName": "Padre Las Casas",
+      "code": "DO-02-3495665",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-02",
+      "latitude": 18.75,
+      "longitude": -70.88333
+    },
+    {
+      "id": 3495021,
+      "name": "Peralta",
+      "nativeName": "Peralta",
+      "code": "DO-02-3495021",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-02",
+      "latitude": 18.61667,
+      "longitude": -70.8
+    },
+    {
+      "id": 11154551,
+      "name": "Pueblo Viejo",
+      "nativeName": "Pueblo Viejo",
+      "code": "DO-02-11154551",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-02",
+      "latitude": 18.39314,
+      "longitude": -70.78028
+    },
+    {
+      "id": 11154550,
+      "name": "Sabana Yegua",
+      "nativeName": "Sabana Yegua",
+      "code": "DO-02-11154550",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-02",
+      "latitude": 18.41379,
+      "longitude": -70.8881
+    },
+    {
+      "id": 11154532,
+      "name": "Tábara Arriba",
+      "nativeName": "Tábara Arriba",
+      "code": "DO-02-11154532",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-02",
+      "latitude": 18.49603,
+      "longitude": -70.91511
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "stateId": 4568529,
+  "stateCode": "PR-143",
+  "countryCode": "PR",
+  "cities": [
+    {
+      "id": 7268228,
+      "name": "Bajura Barrio",
+      "nativeName": "Bajura Barrio",
+      "code": "PR-143-7268228",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-143",
+      "latitude": 18.41451,
+      "longitude": -66.34694
+    },
+    {
+      "id": 7268319,
+      "name": "Candelaria Barrio",
+      "nativeName": "Candelaria Barrio",
+      "code": "PR-143-7268319",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-143",
+      "latitude": 18.37487,
+      "longitude": -66.35793
+    },
+    {
+      "id": 7268086,
+      "name": "Cienegueta Barrio",
+      "nativeName": "Cienegueta Barrio",
+      "code": "PR-143-7268086",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-143",
+      "latitude": 18.3416,
+      "longitude": -66.36641
+    },
+    {
+      "id": 7268383,
+      "name": "Espinosa Barrio",
+      "nativeName": "Espinosa Barrio",
+      "code": "PR-143-7268383",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-143",
+      "latitude": 18.41352,
+      "longitude": -66.31274
+    },
+    {
+      "id": 7268624,
+      "name": "Maricao Barrio",
+      "nativeName": "Maricao Barrio",
+      "code": "PR-143-7268624",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-143",
+      "latitude": 18.38436,
+      "longitude": -66.3303
+    },
+    {
+      "id": 7268643,
+      "name": "Mavilla Barrio",
+      "nativeName": "Mavilla Barrio",
+      "code": "PR-143-7268643",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-143",
+      "latitude": 18.36298,
+      "longitude": -66.34666
+    },
+    {
+      "id": 7268937,
+      "name": "Sabana Barrio",
+      "nativeName": "Sabana Barrio",
+      "code": "PR-143-7268937",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-143",
+      "latitude": 18.45656,
+      "longitude": -66.33285
+    },
+    {
+      "id": 7269067,
+      "name": "Vega Alta Barrio-Pueblo",
+      "nativeName": "Vega Alta Barrio-Pueblo",
+      "code": "PR-143-7269067",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-143",
+      "latitude": 18.41146,
+      "longitude": -66.32895
+    }
+  ]
+}

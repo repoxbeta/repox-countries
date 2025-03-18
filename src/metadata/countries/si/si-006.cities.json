@@ -1,0 +1,216 @@
+{
+  "stateId": 3239100,
+  "stateCode": "SI-006",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3203611,
+      "name": "Bovec",
+      "nativeName": "Bovec",
+      "code": "SI-006-3203611",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-006",
+      "latitude": 46.33808,
+      "longitude": 13.55245
+    },
+    {
+      "id": 3204393,
+      "name": "Bavšica",
+      "nativeName": "Bavšica",
+      "code": "SI-006-3204393",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-006",
+      "latitude": 46.3698,
+      "longitude": 13.63148
+    },
+    {
+      "id": 3218316,
+      "name": "Blaž",
+      "nativeName": "Blaž",
+      "code": "SI-006-3218316",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-006",
+      "latitude": 46.31333,
+      "longitude": 13.65444
+    },
+    {
+      "id": 3198443,
+      "name": "Kal-Koritnica",
+      "nativeName": "Kal-Koritnica",
+      "code": "SI-006-3198443",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-006",
+      "latitude": 46.3375,
+      "longitude": 13.58417
+    },
+    {
+      "id": 3218170,
+      "name": "Krotica",
+      "nativeName": "Krotica",
+      "code": "SI-006-3218170",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-006",
+      "latitude": 46.37306,
+      "longitude": 13.74722
+    },
+    {
+      "id": 3196668,
+      "name": "Lepena",
+      "nativeName": "Lepena",
+      "code": "SI-006-3196668",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-006",
+      "latitude": 46.3088,
+      "longitude": 13.65385
+    },
+    {
+      "id": 3196282,
+      "name": "Log pod Mangartom",
+      "nativeName": "Log pod Mangartom",
+      "code": "SI-006-3196282",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-006",
+      "latitude": 46.40194,
+      "longitude": 13.59694
+    },
+    {
+      "id": 3196287,
+      "name": "Log Čezsoški",
+      "nativeName": "Log Čezsoški",
+      "code": "SI-006-3196287",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-006",
+      "latitude": 46.31063,
+      "longitude": 13.4901
+    },
+    {
+      "id": 3194592,
+      "name": "Na Logu",
+      "nativeName": "Na Logu",
+      "code": "SI-006-3194592",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-006",
+      "latitude": 46.38417,
+      "longitude": 13.75528
+    },
+    {
+      "id": 3193128,
+      "name": "Plužna",
+      "nativeName": "Plužna",
+      "code": "SI-006-3193128",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-006",
+      "latitude": 46.33632,
+      "longitude": 13.51962
+    },
+    {
+      "id": 3218297,
+      "name": "Pod Skalo",
+      "nativeName": "Pod Skalo",
+      "code": "SI-006-3218297",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-006",
+      "latitude": 46.35861,
+      "longitude": 13.69694
+    },
+    {
+      "id": 3190405,
+      "name": "Soča",
+      "nativeName": "Soča",
+      "code": "SI-006-3190405",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-006",
+      "latitude": 46.33236,
+      "longitude": 13.68848
+    },
+    {
+      "id": 3190079,
+      "name": "Srpenica",
+      "nativeName": "Srpenica",
+      "code": "SI-006-3190079",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-006",
+      "latitude": 46.29167,
+      "longitude": 13.49876
+    },
+    {
+      "id": 3189708,
+      "name": "Strmec na Predelu",
+      "nativeName": "Strmec na Predelu",
+      "code": "SI-006-3189708",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-006",
+      "latitude": 46.41651,
+      "longitude": 13.60978
+    },
+    {
+      "id": 3188874,
+      "name": "Trenta",
+      "nativeName": "Trenta",
+      "code": "SI-006-3188874",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-006",
+      "latitude": 46.38333,
+      "longitude": 13.75
+    },
+    {
+      "id": 3218299,
+      "name": "Vršnik",
+      "nativeName": "Vršnik",
+      "code": "SI-006-3218299",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-006",
+      "latitude": 46.32583,
+      "longitude": 13.69
+    },
+    {
+      "id": 3218166,
+      "name": "Zapodnem",
+      "nativeName": "Zapodnem",
+      "code": "SI-006-3218166",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-006",
+      "latitude": 46.39917,
+      "longitude": 13.73028
+    },
+    {
+      "id": 3202631,
+      "name": "Čezsoča",
+      "nativeName": "Čezsoča",
+      "code": "SI-006-3202631",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-006",
+      "latitude": 46.31947,
+      "longitude": 13.54635
+    },
+    {
+      "id": 3186940,
+      "name": "Žaga",
+      "nativeName": "Žaga",
+      "code": "SI-006-3186940",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-006",
+      "latitude": 46.30937,
+      "longitude": 13.47965
+    }
+  ]
+}

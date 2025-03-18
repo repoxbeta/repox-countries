@@ -1,0 +1,84 @@
+{
+  "stateId": 4017700,
+  "stateCode": "MX-BCN",
+  "countryCode": "MX",
+  "cities": [
+    {
+      "id": 6942830,
+      "name": "Ensenada Municipality",
+      "nativeName": "Ensenada",
+      "code": "MX-BCN-6942830",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-BCN",
+      "latitude": 31.86667,
+      "longitude": -116.61666
+    },
+    {
+      "id": 6942831,
+      "name": "Mexicali Municipality",
+      "nativeName": "Mexicali",
+      "code": "MX-BCN-6942831",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-BCN",
+      "latitude": 32.50513,
+      "longitude": -115.14771
+    },
+    {
+      "id": 6942834,
+      "name": "Playas de Rosarito",
+      "nativeName": "Playas de Rosarito",
+      "code": "MX-BCN-6942834",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-BCN",
+      "latitude": 32.34342,
+      "longitude": -117.03186
+    },
+    {
+      "id": 12514808,
+      "name": "San Felipe",
+      "nativeName": "San Felipe",
+      "code": "MX-BCN-12514808",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-BCN",
+      "latitude": 30.69405,
+      "longitude": -114.89267
+    },
+    {
+      "id": 12514809,
+      "name": "San Quintín Municipality",
+      "nativeName": "San Quintín",
+      "code": "MX-BCN-12514809",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-BCN",
+      "latitude": 29.39762,
+      "longitude": -114.52507
+    },
+    {
+      "id": 6942832,
+      "name": "Tecate",
+      "nativeName": "Tecate",
+      "code": "MX-BCN-6942832",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-BCN",
+      "latitude": 32.55029,
+      "longitude": -116.63223
+    },
+    {
+      "id": 6942833,
+      "name": "Tijuana",
+      "nativeName": "Tijuana",
+      "code": "MX-BCN-6942833",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-BCN",
+      "latitude": 32.50223,
+      "longitude": -116.97212
+    }
+  ]
+}

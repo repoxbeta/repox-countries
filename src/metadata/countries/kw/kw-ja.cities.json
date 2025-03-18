@@ -1,0 +1,183 @@
+{
+  "stateId": 285798,
+  "stateCode": "KW-JA",
+  "countryCode": "KW",
+  "cities": [
+    {
+      "id": 12216388,
+      "name": "Al Jahrā’",
+      "nativeName": "Al Jahrā’",
+      "code": "KW-JA-12216388",
+      "countryId": 285570,
+      "countryCode": "KW",
+      "stateCode": "KW-JA",
+      "latitude": 29.34889,
+      "longitude": 47.67339
+    },
+    {
+      "id": 12216338,
+      "name": "Al Jahrā’ al Gharbīyah",
+      "nativeName": "Al Jahrā’ al Gharbīyah",
+      "code": "KW-JA-12216338",
+      "countryId": 285570,
+      "countryCode": "KW",
+      "stateCode": "KW-JA",
+      "latitude": 29.3591,
+      "longitude": 47.65078
+    },
+    {
+      "id": 12216339,
+      "name": "Al Jahrā’ aş Şinā‘īyah",
+      "nativeName": "Al Jahrā’ aş Şinā‘īyah",
+      "code": "KW-JA-12216339",
+      "countryId": 285570,
+      "countryCode": "KW",
+      "stateCode": "KW-JA",
+      "latitude": 29.31513,
+      "longitude": 47.65721
+    },
+    {
+      "id": 12216340,
+      "name": "Al Maqbarah",
+      "nativeName": "Al Maqbarah",
+      "code": "KW-JA-12216340",
+      "countryId": 285570,
+      "countryCode": "KW",
+      "stateCode": "KW-JA",
+      "latitude": 29.30258,
+      "longitude": 47.83252
+    },
+    {
+      "id": 12216383,
+      "name": "Al Qaşr",
+      "nativeName": "Al Qaşr",
+      "code": "KW-JA-12216383",
+      "countryId": 285570,
+      "countryCode": "KW",
+      "stateCode": "KW-JA",
+      "latitude": 29.34519,
+      "longitude": 47.68575
+    },
+    {
+      "id": 12216384,
+      "name": "Al Wāḩah",
+      "nativeName": "Al Wāḩah",
+      "code": "KW-JA-12216384",
+      "countryId": 285570,
+      "countryCode": "KW",
+      "stateCode": "KW-JA",
+      "latitude": 29.34244,
+      "longitude": 47.6583
+    },
+    {
+      "id": 12216387,
+      "name": "Al ‘Uyūn",
+      "nativeName": "Al ‘Uyūn",
+      "code": "KW-JA-12216387",
+      "countryId": 285570,
+      "countryCode": "KW",
+      "stateCode": "KW-JA",
+      "latitude": 29.32975,
+      "longitude": 47.65729
+    },
+    {
+      "id": 12216381,
+      "name": "Amgharah",
+      "nativeName": "Amgharah",
+      "code": "KW-JA-12216381",
+      "countryId": 285570,
+      "countryCode": "KW",
+      "stateCode": "KW-JA",
+      "latitude": 29.31568,
+      "longitude": 47.74634
+    },
+    {
+      "id": 12216386,
+      "name": "An Nasīm",
+      "nativeName": "An Nasīm",
+      "code": "KW-JA-12216386",
+      "countryId": 285570,
+      "countryCode": "KW",
+      "stateCode": "KW-JA",
+      "latitude": 29.32438,
+      "longitude": 47.68024
+    },
+    {
+      "id": 12216382,
+      "name": "An Na‘īm",
+      "nativeName": "An Na‘īm",
+      "code": "KW-JA-12216382",
+      "countryId": 285570,
+      "countryCode": "KW",
+      "stateCode": "KW-JA",
+      "latitude": 29.33548,
+      "longitude": 47.69677
+    },
+    {
+      "id": 12216341,
+      "name": "Aş Şulaybīyah",
+      "nativeName": "Aş Şulaybīyah",
+      "code": "KW-JA-12216341",
+      "countryId": 285570,
+      "countryCode": "KW",
+      "stateCode": "KW-JA",
+      "latitude": 29.28545,
+      "longitude": 47.82631
+    },
+    {
+      "id": 12216342,
+      "name": "Aş Şulaybīyah az Zirā‘īyah",
+      "nativeName": "Aş Şulaybīyah az Zirā‘īyah",
+      "code": "KW-JA-12216342",
+      "countryId": 285570,
+      "countryCode": "KW",
+      "stateCode": "KW-JA",
+      "latitude": 29.28398,
+      "longitude": 47.8082
+    },
+    {
+      "id": 12216344,
+      "name": "Aş Şulaybīyah aş Şinā‘īyah Ithnān",
+      "nativeName": "Aş Şulaybīyah aş Şinā‘īyah Ithnān",
+      "code": "KW-JA-12216344",
+      "countryId": 285570,
+      "countryCode": "KW",
+      "stateCode": "KW-JA",
+      "latitude": 29.28711,
+      "longitude": 47.85632
+    },
+    {
+      "id": 12216343,
+      "name": "Aş Şulaybīyah aş Şinā‘īyah Wāḩid",
+      "nativeName": "Aş Şulaybīyah aş Şinā‘īyah Wāḩid",
+      "code": "KW-JA-12216343",
+      "countryId": 285570,
+      "countryCode": "KW",
+      "stateCode": "KW-JA",
+      "latitude": 29.28848,
+      "longitude": 47.84187
+    },
+    {
+      "id": 12216337,
+      "name": "Mu‘askarāt al Jahrā’",
+      "nativeName": "Mu‘askarāt al Jahrā’",
+      "code": "KW-JA-12216337",
+      "countryId": 285570,
+      "countryCode": "KW",
+      "stateCode": "KW-JA",
+      "latitude": 29.35612,
+      "longitude": 47.70226
+    },
+    {
+      "id": 12216385,
+      "name": "Taymā’",
+      "nativeName": "Taymā’",
+      "code": "KW-JA-12216385",
+      "countryId": 285570,
+      "countryCode": "KW",
+      "stateCode": "KW-JA",
+      "latitude": 29.32891,
+      "longitude": 47.68154
+    }
+  ]
+}

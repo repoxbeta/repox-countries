@@ -1,0 +1,183 @@
+{
+  "stateId": 3613527,
+  "stateCode": "HN-CH",
+  "countryCode": "HN",
+  "cities": [
+    {
+      "id": 3615162,
+      "name": "Apacilagua",
+      "nativeName": "Apacilagua",
+      "code": "HN-CH-3615162",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CH",
+      "latitude": 13.45821,
+      "longitude": -87.01122
+    },
+    {
+      "id": 3613529,
+      "name": "Choluteca",
+      "nativeName": "Choluteca",
+      "code": "HN-CH-3613529",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CH",
+      "latitude": 13.28261,
+      "longitude": -87.20119
+    },
+    {
+      "id": 3613280,
+      "name": "Concepción de María",
+      "nativeName": "Concepción de María",
+      "code": "HN-CH-3613280",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CH",
+      "latitude": 13.22363,
+      "longitude": -86.96244
+    },
+    {
+      "id": 3612802,
+      "name": "Duyure",
+      "nativeName": "Duyure",
+      "code": "HN-CH-3612802",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CH",
+      "latitude": 13.641,
+      "longitude": -86.80369
+    },
+    {
+      "id": 3611988,
+      "name": "El Corpus",
+      "nativeName": "El Corpus",
+      "code": "HN-CH-3611988",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CH",
+      "latitude": 13.30464,
+      "longitude": -87.0097
+    },
+    {
+      "id": 3610061,
+      "name": "El Triunfo",
+      "nativeName": "El Triunfo",
+      "code": "HN-CH-3610061",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CH",
+      "latitude": 13.08024,
+      "longitude": -87.0178
+    },
+    {
+      "id": 3605001,
+      "name": "Marcovia",
+      "nativeName": "Marcovia",
+      "code": "HN-CH-3605001",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CH",
+      "latitude": 13.25,
+      "longitude": -87.35
+    },
+    {
+      "id": 3604577,
+      "name": "Morolica",
+      "nativeName": "Morolica",
+      "code": "HN-CH-3604577",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CH",
+      "latitude": 13.568,
+      "longitude": -86.88821
+    },
+    {
+      "id": 3604504,
+      "name": "Namasigüe",
+      "nativeName": "Namasigüe",
+      "code": "HN-CH-3604504",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CH",
+      "latitude": 13.16589,
+      "longitude": -87.13565
+    },
+    {
+      "id": 3604190,
+      "name": "Orocuina",
+      "nativeName": "Orocuina",
+      "code": "HN-CH-3604190",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CH",
+      "latitude": 13.49221,
+      "longitude": -87.13173
+    },
+    {
+      "id": 3603806,
+      "name": "Pespire",
+      "nativeName": "Pespire",
+      "code": "HN-CH-3603806",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CH",
+      "latitude": 13.56572,
+      "longitude": -87.31573
+    },
+    {
+      "id": 3602442,
+      "name": "San Antonio de Flores",
+      "nativeName": "San Antonio de Flores",
+      "code": "HN-CH-3602442",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CH",
+      "latitude": 13.64152,
+      "longitude": -87.34075
+    },
+    {
+      "id": 3602250,
+      "name": "San Isidro",
+      "nativeName": "San Isidro",
+      "code": "HN-CH-3602250",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CH",
+      "latitude": 13.64454,
+      "longitude": -87.26093
+    },
+    {
+      "id": 3602161,
+      "name": "San José",
+      "nativeName": "San José",
+      "code": "HN-CH-3602161",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CH",
+      "latitude": 13.71415,
+      "longitude": -87.42256
+    },
+    {
+      "id": 3601889,
+      "name": "San Marcos de Colón",
+      "nativeName": "San Marcos de Colón",
+      "code": "HN-CH-3601889",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CH",
+      "latitude": 13.41512,
+      "longitude": -86.82095
+    },
+    {
+      "id": 3601703,
+      "name": "Santa Ana de Yusguare",
+      "nativeName": "Santa Ana de Yusguare",
+      "code": "HN-CH-3601703",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CH",
+      "latitude": 13.29923,
+      "longitude": -87.10351
+    }
+  ]
+}

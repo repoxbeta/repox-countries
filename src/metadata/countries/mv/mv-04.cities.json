@@ -1,0 +1,40 @@
+{
+  "stateId": 1281843,
+  "stateCode": "MV-04",
+  "countryCode": "MV",
+  "cities": [
+    {
+      "id": 1337623,
+      "name": "Felidhoo",
+      "nativeName": "Felidhoo",
+      "code": "MV-04-1337623",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-04",
+      "latitude": 3.47182,
+      "longitude": 73.54699
+    },
+    {
+      "id": 11103187,
+      "name": "Fulidhoo",
+      "nativeName": "Fulidhoo",
+      "code": "MV-04-11103187",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-04",
+      "latitude": 3.68055,
+      "longitude": 73.41552
+    },
+    {
+      "id": 8508213,
+      "name": "Tinadu",
+      "nativeName": "Tinadu",
+      "code": "MV-04-8508213",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-04",
+      "latitude": 3.48861,
+      "longitude": 73.53944
+    }
+  ]
+}

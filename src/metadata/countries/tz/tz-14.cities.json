@@ -1,0 +1,73 @@
+{
+  "stateId": 154375,
+  "stateCode": "TZ-14",
+  "countryCode": "TZ",
+  "cities": [
+    {
+      "id": 160321,
+      "name": "Chunya District",
+      "nativeName": "Chunya",
+      "code": "TZ-14-160321",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-14",
+      "latitude": -7.7678,
+      "longitude": 33.16417
+    },
+    {
+      "id": 156110,
+      "name": "Kyela District Council",
+      "nativeName": "Kyela",
+      "code": "TZ-14-156110",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-14",
+      "latitude": -9.54693,
+      "longitude": 33.86956
+    },
+    {
+      "id": 7647511,
+      "name": "Mbarali District",
+      "nativeName": "Mbarali district",
+      "code": "TZ-14-7647511",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-14",
+      "latitude": -8.59188,
+      "longitude": 34.13452
+    },
+    {
+      "id": 9998150,
+      "name": "Mbeya City Council",
+      "nativeName": "Mbeya City",
+      "code": "TZ-14-9998150",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-14",
+      "latitude": -8.89359,
+      "longitude": 33.47617
+    },
+    {
+      "id": 154379,
+      "name": "Mbeya Rural",
+      "nativeName": "Mbeya",
+      "code": "TZ-14-154379",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-14",
+      "latitude": -8.96167,
+      "longitude": 33.35659
+    },
+    {
+      "id": 150412,
+      "name": "Rungwe District Council",
+      "nativeName": "Rungwe",
+      "code": "TZ-14-150412",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-14",
+      "latitude": -9.2355,
+      "longitude": 33.69034
+    }
+  ]
+}

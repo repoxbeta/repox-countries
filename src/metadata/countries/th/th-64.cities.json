@@ -1,0 +1,106 @@
+{
+  "stateId": 1150532,
+  "stateCode": "TH-64",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 1157968,
+      "name": "Ban Dan Lan Hoi",
+      "nativeName": "Amphoe Ban Dan Lan Hoi",
+      "code": "TH-64-1157968",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-64",
+      "latitude": 17.05278,
+      "longitude": 99.49148
+    },
+    {
+      "id": 1152875,
+      "name": "Khiri Mat",
+      "nativeName": "Amphoe Khiri Mat",
+      "code": "TH-64-1152875",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-64",
+      "latitude": 16.82923,
+      "longitude": 99.73976
+    },
+    {
+      "id": 1609501,
+      "name": "Kong Krailat",
+      "nativeName": "Amphoe Kong Krailat",
+      "code": "TH-64-1609501",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-64",
+      "latitude": 16.93115,
+      "longitude": 99.97414
+    },
+    {
+      "id": 1151979,
+      "name": "Mueang Sukhothai",
+      "nativeName": "Amphoe Mueang Sukhothai",
+      "code": "TH-64-1151979",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-64",
+      "latitude": 17.02318,
+      "longitude": 99.77864
+    },
+    {
+      "id": 1150680,
+      "name": "Sawankhalok",
+      "nativeName": "Amphoe Sawankhalok",
+      "code": "TH-64-1150680",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-64",
+      "latitude": 17.29899,
+      "longitude": 99.85396
+    },
+    {
+      "id": 7510667,
+      "name": "Si Nakhon",
+      "nativeName": "Amphoe Si Nakhon",
+      "code": "TH-64-7510667",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-64",
+      "latitude": 17.39275,
+      "longitude": 99.97666
+    },
+    {
+      "id": 1150625,
+      "name": "Si Samrong",
+      "nativeName": "Amphoe Si Samrong",
+      "code": "TH-64-1150625",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-64",
+      "latitude": 17.16397,
+      "longitude": 99.74672
+    },
+    {
+      "id": 1150623,
+      "name": "Si Satchanalai",
+      "nativeName": "Amphoe Si Satchanalai",
+      "code": "TH-64-1150623",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-64",
+      "latitude": 17.59927,
+      "longitude": 99.70591
+    },
+    {
+      "id": 1150088,
+      "name": "Thung Saliam",
+      "nativeName": "Amphoe Thung Saliam",
+      "code": "TH-64-1150088",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-64",
+      "latitude": 17.37082,
+      "longitude": 99.55265
+    }
+  ]
+}

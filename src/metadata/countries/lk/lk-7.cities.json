@@ -1,0 +1,29 @@
+{
+  "stateId": 1232870,
+  "stateCode": "LK-7",
+  "countryCode": "LK",
+  "cities": [
+    {
+      "id": 1251080,
+      "name": "Anuradhapura District",
+      "nativeName": "Anuradhapura District",
+      "code": "LK-7-1251080",
+      "countryId": 1227603,
+      "countryCode": "LK",
+      "stateCode": "LK-7",
+      "latitude": 8.33333,
+      "longitude": 80.5
+    },
+    {
+      "id": 1229899,
+      "name": "Polonnaruwa District",
+      "nativeName": "Polonnaruwa District",
+      "code": "LK-7-1229899",
+      "countryId": 1227603,
+      "countryCode": "LK",
+      "stateCode": "LK-7",
+      "latitude": 8,
+      "longitude": 81
+    }
+  ]
+}

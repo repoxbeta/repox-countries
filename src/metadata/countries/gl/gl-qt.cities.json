@@ -1,0 +1,282 @@
+{
+  "stateId": 11839534,
+  "stateCode": "GL-QT",
+  "countryCode": "GL",
+  "cities": [
+    {
+      "id": 3424901,
+      "name": "Aasiaat",
+      "nativeName": "Aasiaat",
+      "code": "GL-QT-3424901",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QT",
+      "latitude": 68.70869,
+      "longitude": -52.86366
+    },
+    {
+      "id": 3424922,
+      "name": "Aalatsivik",
+      "nativeName": "Aalatsivik",
+      "code": "GL-QT-3424922",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QT",
+      "latitude": 68.16667,
+      "longitude": -52.83333
+    },
+    {
+      "id": 3424725,
+      "name": "Akulliit",
+      "nativeName": "Akulliit",
+      "code": "GL-QT-3424725",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QT",
+      "latitude": 68.66667,
+      "longitude": -51.25
+    },
+    {
+      "id": 3424726,
+      "name": "Akulliit",
+      "nativeName": "Akulliit",
+      "code": "GL-QT-3424726",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QT",
+      "latitude": 68.38333,
+      "longitude": -53.33333
+    },
+    {
+      "id": 3424486,
+      "name": "Aqisserniaq",
+      "nativeName": "Aqisserniaq",
+      "code": "GL-QT-3424486",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QT",
+      "latitude": 67.86667,
+      "longitude": -53.6
+    },
+    {
+      "id": 3424408,
+      "name": "Attu",
+      "nativeName": "Attu",
+      "code": "GL-QT-3424408",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QT",
+      "latitude": 67.94097,
+      "longitude": -53.62365
+    },
+    {
+      "id": 3424030,
+      "name": "Diskofjord",
+      "nativeName": "Diskofjord",
+      "code": "GL-QT-3424030",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QT",
+      "latitude": 69.48333,
+      "longitude": -53.95
+    },
+    {
+      "id": 3423735,
+      "name": "Gamle Egedesminde",
+      "nativeName": "Gamle Egedesminde",
+      "code": "GL-QT-3423735",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QT",
+      "latitude": 67.65,
+      "longitude": -53.58333
+    },
+    {
+      "id": 3423337,
+      "name": "Iginniarfik",
+      "nativeName": "Iginniarfik",
+      "code": "GL-QT-3423337",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QT",
+      "latitude": 68.14789,
+      "longitude": -53.1716
+    },
+    {
+      "id": 3423313,
+      "name": "Ikamiut",
+      "nativeName": "Ikamiut",
+      "code": "GL-QT-3423313",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QT",
+      "latitude": 68.63425,
+      "longitude": -51.82545
+    },
+    {
+      "id": 3423081,
+      "name": "Innalik",
+      "nativeName": "Innalik",
+      "code": "GL-QT-3423081",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QT",
+      "latitude": 68.45,
+      "longitude": -53.5
+    },
+    {
+      "id": 3422439,
+      "name": "Killiat",
+      "nativeName": "Killiat",
+      "code": "GL-QT-3422439",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QT",
+      "latitude": 68.28333,
+      "longitude": -53.78333
+    },
+    {
+      "id": 3422467,
+      "name": "Killuusat",
+      "nativeName": "Killuusat",
+      "code": "GL-QT-3422467",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QT",
+      "latitude": 69.38333,
+      "longitude": -52.76667
+    },
+    {
+      "id": 3422290,
+      "name": "Kronprinsen Ejland",
+      "nativeName": "Kronprinsen Ejland",
+      "code": "GL-QT-3422290",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QT",
+      "latitude": 69.01667,
+      "longitude": -53.31667
+    },
+    {
+      "id": 3422000,
+      "name": "Manermiut",
+      "nativeName": "Manermiut",
+      "code": "GL-QT-3422000",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QT",
+      "latitude": 68.6,
+      "longitude": -53.13333
+    },
+    {
+      "id": 3421948,
+      "name": "Marraat",
+      "nativeName": "Marraat",
+      "code": "GL-QT-3421948",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QT",
+      "latitude": 69.36667,
+      "longitude": -52.78333
+    },
+    {
+      "id": 3421522,
+      "name": "Nivaaq",
+      "nativeName": "Nivaaq",
+      "code": "GL-QT-3421522",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QT",
+      "latitude": 68.61667,
+      "longitude": -52.41667
+    },
+    {
+      "id": 3420768,
+      "name": "Qasigiannguit",
+      "nativeName": "Qasigiannguit",
+      "code": "GL-QT-3420768",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QT",
+      "latitude": 68.81926,
+      "longitude": -51.19221
+    },
+    {
+      "id": 3420629,
+      "name": "Qeqertarsuatsiaq",
+      "nativeName": "Qeqertarsuatsiaq",
+      "code": "GL-QT-3420629",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QT",
+      "latitude": 68.41667,
+      "longitude": -53.25
+    },
+    {
+      "id": 3423734,
+      "name": "Qullissaaqqat",
+      "nativeName": "Qullissaaqqat",
+      "code": "GL-QT-3423734",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QT",
+      "latitude": 70.03333,
+      "longitude": -52.95
+    },
+    {
+      "id": 3420388,
+      "name": "Qullissat",
+      "nativeName": "Qullissat",
+      "code": "GL-QT-3420388",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QT",
+      "latitude": 70.08733,
+      "longitude": -53.00628
+    },
+    {
+      "id": 3419818,
+      "name": "Skansen",
+      "nativeName": "Skansen",
+      "code": "GL-QT-3419818",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QT",
+      "latitude": 69.43333,
+      "longitude": -52.45
+    },
+    {
+      "id": 3419136,
+      "name": "Tununngasoq",
+      "nativeName": "Tununngasoq",
+      "code": "GL-QT-3419136",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QT",
+      "latitude": 68.1,
+      "longitude": -53.18333
+    },
+    {
+      "id": 3419009,
+      "name": "Ujarasussuk",
+      "nativeName": "Ujarasussuk",
+      "code": "GL-QT-3419009",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QT",
+      "latitude": 69.86223,
+      "longitude": -52.43605
+    },
+    {
+      "id": 3418836,
+      "name": "Uunartoq",
+      "nativeName": "Uunartoq",
+      "code": "GL-QT-3418836",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QT",
+      "latitude": 69.9,
+      "longitude": -52.6
+    }
+  ]
+}

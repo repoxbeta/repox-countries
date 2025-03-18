@@ -1,0 +1,95 @@
+{
+  "stateId": 11281874,
+  "stateCode": "MA-01",
+  "countryCode": "MA",
+  "cities": [
+    {
+      "id": 2558543,
+      "name": "Al-Hoceima",
+      "nativeName": "Al-Hoceima",
+      "code": "MA-01-2558543",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-01",
+      "latitude": 35,
+      "longitude": -4.25
+    },
+    {
+      "id": 2553533,
+      "name": "Chefchaouen Province",
+      "nativeName": "Chefchaouen Province",
+      "code": "MA-01-2553533",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-01",
+      "latitude": 35,
+      "longitude": -5.08333
+    },
+    {
+      "id": 6547293,
+      "name": "Fahs-Anjra",
+      "nativeName": "Fahs-Anjra",
+      "code": "MA-01-6547293",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-01",
+      "latitude": 35.74,
+      "longitude": -5.68
+    },
+    {
+      "id": 2543546,
+      "name": "Larache Province",
+      "nativeName": "Larache",
+      "code": "MA-01-2543546",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-01",
+      "latitude": 35.16667,
+      "longitude": -5.83333
+    },
+    {
+      "id": 11282166,
+      "name": "M'Diq-Fnideq",
+      "nativeName": "M'Diq-Fnideq",
+      "code": "MA-01-11282166",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-01",
+      "latitude": 35.85743,
+      "longitude": -5.35858
+    },
+    {
+      "id": 11282023,
+      "name": "Ouezzane Province",
+      "nativeName": "Ouezzane Province",
+      "code": "MA-01-11282023",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-01",
+      "latitude": 34.79759,
+      "longitude": -5.58603
+    },
+    {
+      "id": 2530333,
+      "name": "Tanger-Assilah",
+      "nativeName": "Tanger-Assilah",
+      "code": "MA-01-2530333",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-01",
+      "latitude": 35.59,
+      "longitude": -5.9
+    },
+    {
+      "id": 2528907,
+      "name": "Tetouan",
+      "nativeName": "Tetouan",
+      "code": "MA-01-2528907",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-01",
+      "latitude": 35.58333,
+      "longitude": -5.5
+    }
+  ]
+}

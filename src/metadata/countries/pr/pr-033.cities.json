@@ -1,0 +1,29 @@
+{
+  "stateId": 4563299,
+  "stateCode": "PR-033",
+  "countryCode": "PR",
+  "cities": [
+    {
+      "id": 7268356,
+      "name": "Cataño Barrio-Pueblo",
+      "nativeName": "Cataño Barrio-Pueblo",
+      "code": "PR-033-7268356",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-033",
+      "latitude": 18.43986,
+      "longitude": -66.11973
+    },
+    {
+      "id": 7268723,
+      "name": "Palmas Barrio",
+      "nativeName": "Palmas Barrio",
+      "code": "PR-033-7268723",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-033",
+      "latitude": 18.44079,
+      "longitude": -66.14244
+    }
+  ]
+}

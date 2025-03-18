@@ -1,0 +1,183 @@
+{
+  "stateId": 1853299,
+  "stateCode": "JP-41",
+  "countryCode": "JP",
+  "cities": [
+    {
+      "id": 7391354,
+      "name": "Fujitsu-gun",
+      "nativeName": "Fujitsu-gun",
+      "code": "JP-41-7391354",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-41",
+      "latitude": 32.9967,
+      "longitude": 130.15037
+    },
+    {
+      "id": 1862779,
+      "name": "Higashimatsuura-gun",
+      "nativeName": "Higashimatsuura-gun",
+      "code": "JP-41-1862779",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-41",
+      "latitude": 33.4786,
+      "longitude": 129.86542
+    },
+    {
+      "id": 7391355,
+      "name": "Imari Shi",
+      "nativeName": "Imari Shi",
+      "code": "JP-41-7391355",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-41",
+      "latitude": 33.30409,
+      "longitude": 129.88598
+    },
+    {
+      "id": 7391357,
+      "name": "Kanzaki Shi",
+      "nativeName": "Kanzaki Shi",
+      "code": "JP-41-7391357",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-41",
+      "latitude": 33.34446,
+      "longitude": 130.35883
+    },
+    {
+      "id": 7391356,
+      "name": "Kanzaki-gun",
+      "nativeName": "Kanzaki-gun",
+      "code": "JP-41-7391356",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-41",
+      "latitude": 33.3632,
+      "longitude": 130.4
+    },
+    {
+      "id": 8300623,
+      "name": "Karatsu Shi",
+      "nativeName": "Karatsu Shi",
+      "code": "JP-41-8300623",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-41",
+      "latitude": 33.41802,
+      "longitude": 129.99775
+    },
+    {
+      "id": 1859936,
+      "name": "Kashima",
+      "nativeName": "Kashima",
+      "code": "JP-41-1859936",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-41",
+      "latitude": 33.06203,
+      "longitude": 130.09396
+    },
+    {
+      "id": 7391358,
+      "name": "Kishima-gun",
+      "nativeName": "Kishima-gun",
+      "code": "JP-41-7391358",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-41",
+      "latitude": 33.18156,
+      "longitude": 130.14715
+    },
+    {
+      "id": 1856784,
+      "name": "Miyaki-gun",
+      "nativeName": "Miyaki-gun",
+      "code": "JP-41-1856784",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-41",
+      "latitude": 33.35298,
+      "longitude": 130.45711
+    },
+    {
+      "id": 1855238,
+      "name": "Nishimatsuura-gun",
+      "nativeName": "Nishimatsuura-gun",
+      "code": "JP-41-1855238",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-41",
+      "latitude": 33.19924,
+      "longitude": 129.86473
+    },
+    {
+      "id": 1854650,
+      "name": "Ogi-shi",
+      "nativeName": "Ogi-shi",
+      "code": "JP-41-1854650",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-41",
+      "latitude": 33.26667,
+      "longitude": 130.2
+    },
+    {
+      "id": 1853274,
+      "name": "Saga City",
+      "nativeName": "Saga Shi",
+      "code": "JP-41-1853274",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-41",
+      "latitude": 33.32558,
+      "longitude": 130.2643
+    },
+    {
+      "id": 1850832,
+      "name": "Takeo Shi",
+      "nativeName": "Takeo Shi",
+      "code": "JP-41-1850832",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-41",
+      "latitude": 33.20413,
+      "longitude": 129.99775
+    },
+    {
+      "id": 1850771,
+      "name": "Taku Shi",
+      "nativeName": "Taku Shi",
+      "code": "JP-41-1850771",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-41",
+      "latitude": 33.27829,
+      "longitude": 130.10523
+    },
+    {
+      "id": 1849903,
+      "name": "Tosu Shi",
+      "nativeName": "Tosu Shi",
+      "code": "JP-41-1849903",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-41",
+      "latitude": 33.37825,
+      "longitude": 130.49001
+    },
+    {
+      "id": 7391363,
+      "name": "Ureshino Shi",
+      "nativeName": "Ureshino Shi",
+      "code": "JP-41-7391363",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-41",
+      "latitude": 33.09558,
+      "longitude": 130.01495
+    }
+  ]
+}

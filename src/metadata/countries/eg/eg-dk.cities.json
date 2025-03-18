@@ -1,0 +1,106 @@
+{
+  "stateId": 361849,
+  "stateCode": "EG-DK",
+  "countryCode": "EG",
+  "cities": [
+    {
+      "id": 7910872,
+      "name": "Bahr El Bakr",
+      "nativeName": "Bahr El Bakr",
+      "code": "EG-DK-7910872",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-DK",
+      "latitude": 31.03997,
+      "longitude": 31.39728
+    },
+    {
+      "id": 361701,
+      "name": "Markaz Ajā",
+      "nativeName": "Markaz Ajā",
+      "code": "EG-DK-361701",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-DK",
+      "latitude": 30.89978,
+      "longitude": 31.31929
+    },
+    {
+      "id": 358824,
+      "name": "Markaz Bilqās",
+      "nativeName": "Markaz Bilqās",
+      "code": "EG-DK-358824",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-DK",
+      "latitude": 31.34069,
+      "longitude": 31.38649
+    },
+    {
+      "id": 358171,
+      "name": "Markaz Dikirnis",
+      "nativeName": "Markaz Dikirnis",
+      "code": "EG-DK-358171",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-DK",
+      "latitude": 31.08407,
+      "longitude": 31.68743
+    },
+    {
+      "id": 8559274,
+      "name": "Markaz Minyat An Naşr",
+      "nativeName": "Markaz Minyat An Naşr",
+      "code": "EG-DK-8559274",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-DK",
+      "latitude": 31.17081,
+      "longitude": 31.72553
+    },
+    {
+      "id": 352180,
+      "name": "Markaz Mīt Ghamr",
+      "nativeName": "Markaz Mīt Ghamr",
+      "code": "EG-DK-352180",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-DK",
+      "latitude": 30.71247,
+      "longitude": 31.32334
+    },
+    {
+      "id": 360756,
+      "name": "Markaz al Manzilah",
+      "nativeName": "Markaz al Manzilah",
+      "code": "EG-DK-360756",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-DK",
+      "latitude": 31.16877,
+      "longitude": 31.94322
+    },
+    {
+      "id": 360763,
+      "name": "Markaz al Manşūrah",
+      "nativeName": "Markaz al Manşūrah",
+      "code": "EG-DK-360763",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-DK",
+      "latitude": 31.04167,
+      "longitude": 31.47856
+    },
+    {
+      "id": 7910974,
+      "name": "Mit Yazid",
+      "nativeName": "Mit Yazid",
+      "code": "EG-DK-7910974",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-DK",
+      "latitude": 30.9201,
+      "longitude": 31.30974
+    }
+  ]
+}

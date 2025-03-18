@@ -1,0 +1,117 @@
+{
+  "stateId": 1958070,
+  "stateCode": "ID-MU",
+  "countryCode": "ID",
+  "cities": [
+    {
+      "id": 1643475,
+      "name": "Central Halmahera Regency",
+      "nativeName": "Kabupaten Halmahera Tengah",
+      "code": "ID-MU-1643475",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-MU",
+      "latitude": 0.55,
+      "longitude": 127.91667
+    },
+    {
+      "id": 9165995,
+      "name": "East Halmahera Regency",
+      "nativeName": "East Halmahera Regency",
+      "code": "ID-MU-9165995",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-MU",
+      "latitude": 1.33517,
+      "longitude": 128.48627
+    },
+    {
+      "id": 9172043,
+      "name": "Kabupaten Kepulauan Sula",
+      "nativeName": "Kabupaten Kepulauan Sula",
+      "code": "ID-MU-9172043",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-MU",
+      "latitude": -1.8646,
+      "longitude": 125.69046
+    },
+    {
+      "id": 7910935,
+      "name": "Kota Ternate",
+      "nativeName": "Kota Ternate",
+      "code": "ID-MU-7910935",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-MU",
+      "latitude": 0.89618,
+      "longitude": 127.31016
+    },
+    {
+      "id": 9845501,
+      "name": "Kota Tidore Kepulauan",
+      "nativeName": "Kota Tidore Kepulauan",
+      "code": "ID-MU-9845501",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-MU",
+      "latitude": 0.60962,
+      "longitude": 127.56981
+    },
+    {
+      "id": 9844899,
+      "name": "Morotai Island Regency",
+      "nativeName": "Kabupaten Pulau Morotai",
+      "code": "ID-MU-9844899",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-MU",
+      "latitude": 2.19924,
+      "longitude": 128.40546
+    },
+    {
+      "id": 9165798,
+      "name": "North Halmahera Regency",
+      "nativeName": "Kabupaten Halmahera Utara",
+      "code": "ID-MU-9165798",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-MU",
+      "latitude": 1.73194,
+      "longitude": 128.00778
+    },
+    {
+      "id": 7910927,
+      "name": "South Halmahera Regency",
+      "nativeName": "Kabupaten Halmahera Selatan",
+      "code": "ID-MU-7910927",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-MU",
+      "latitude": -0.3955,
+      "longitude": 127.90833
+    },
+    {
+      "id": 9828029,
+      "name": "Taliabu Island Regency",
+      "nativeName": "Kabupaten Pulau Taliabu",
+      "code": "ID-MU-9828029",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-MU",
+      "latitude": -1.84578,
+      "longitude": 124.78992
+    },
+    {
+      "id": 9165708,
+      "name": "West Halmahera Regency",
+      "nativeName": "Kabupaten Halmahera Barat",
+      "code": "ID-MU-9165708",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-MU",
+      "latitude": 1.41709,
+      "longitude": 127.55264
+    }
+  ]
+}

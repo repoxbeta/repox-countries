@@ -1,0 +1,95 @@
+{
+  "stateId": 3550595,
+  "stateCode": "CU-10",
+  "countryCode": "CU",
+  "cities": [
+    {
+      "id": 11288234,
+      "name": "Amancio",
+      "nativeName": "Amancio",
+      "code": "CU-10-11288234",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "stateCode": "CU-10",
+      "latitude": 20.81989,
+      "longitude": -77.57592
+    },
+    {
+      "id": 11288235,
+      "name": "Colombia",
+      "nativeName": "Colombia",
+      "code": "CU-10-11288235",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "stateCode": "CU-10",
+      "latitude": 20.98623,
+      "longitude": -77.42314
+    },
+    {
+      "id": 11288240,
+      "name": "Majibacoa",
+      "nativeName": "Majibacoa",
+      "code": "CU-10-11288240",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "stateCode": "CU-10",
+      "latitude": 20.94189,
+      "longitude": -76.71783
+    },
+    {
+      "id": 11287706,
+      "name": "Municipio de Jesús Menéndez",
+      "nativeName": "Municipio de Jesús Menéndez",
+      "code": "CU-10-11287706",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "stateCode": "CU-10",
+      "latitude": 21.16333,
+      "longitude": -76.4775
+    },
+    {
+      "id": 11287700,
+      "name": "Municipio de Jobabo",
+      "nativeName": "Municipio de Jobabo",
+      "code": "CU-10-11287700",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "stateCode": "CU-10",
+      "latitude": 20.90778,
+      "longitude": -77.28306
+    },
+    {
+      "id": 3550596,
+      "name": "Municipio de Las Tunas",
+      "nativeName": "Municipio de Las Tunas",
+      "code": "CU-10-3550596",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "stateCode": "CU-10",
+      "latitude": 20.94178,
+      "longitude": -77.02354
+    },
+    {
+      "id": 11287705,
+      "name": "Municipio de Manatí",
+      "nativeName": "Municipio de Manatí",
+      "code": "CU-10-11287705",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "stateCode": "CU-10",
+      "latitude": 21.31444,
+      "longitude": -76.93778
+    },
+    {
+      "id": 3543297,
+      "name": "Municipio de Puerto Padre",
+      "nativeName": "Municipio de Puerto Padre",
+      "code": "CU-10-3543297",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "stateCode": "CU-10",
+      "latitude": 21.16925,
+      "longitude": -76.74863
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "stateId": 2502638,
+  "stateCode": "DZ-35",
+  "countryCode": "DZ",
+  "cities": [
+    {
+      "id": 12952530,
+      "name": "Baghlia",
+      "nativeName": "Baghlia",
+      "code": "DZ-35-12952530",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-35",
+      "latitude": 36.82827,
+      "longitude": 3.87279
+    },
+    {
+      "id": 2503639,
+      "name": "Bordj Menaïel District",
+      "nativeName": "Daïra de Bordj Menaïel",
+      "code": "DZ-35-2503639",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-35",
+      "latitude": 36.74552,
+      "longitude": 3.73472
+    },
+    {
+      "id": 12952635,
+      "name": "Boudouaou",
+      "nativeName": "Boudouaou",
+      "code": "DZ-35-12952635",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-35",
+      "latitude": 36.6581,
+      "longitude": 3.43247
+    },
+    {
+      "id": 12952636,
+      "name": "Boumerdes",
+      "nativeName": "Boumerdes",
+      "code": "DZ-35-12952636",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-35",
+      "latitude": 36.73105,
+      "longitude": 3.48491
+    },
+    {
+      "id": 12952638,
+      "name": "Dellys",
+      "nativeName": "Dellys",
+      "code": "DZ-35-12952638",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-35",
+      "latitude": 36.86885,
+      "longitude": 3.95088
+    },
+    {
+      "id": 12952639,
+      "name": "Isser",
+      "nativeName": "Isser",
+      "code": "DZ-35-12952639",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-35",
+      "latitude": 36.67385,
+      "longitude": 3.6951
+    },
+    {
+      "id": 12952640,
+      "name": "Khemis El Khechna",
+      "nativeName": "Khemis El Khechna",
+      "code": "DZ-35-12952640",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-35",
+      "latitude": 36.64255,
+      "longitude": 3.33097
+    },
+    {
+      "id": 12952641,
+      "name": "Naciria",
+      "nativeName": "Naciria",
+      "code": "DZ-35-12952641",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-35",
+      "latitude": 36.75597,
+      "longitude": 3.82242
+    },
+    {
+      "id": 12952643,
+      "name": "Thenia",
+      "nativeName": "Thenia",
+      "code": "DZ-35-12952643",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-35",
+      "latitude": 36.67079,
+      "longitude": 3.57696
+    }
+  ]
+}

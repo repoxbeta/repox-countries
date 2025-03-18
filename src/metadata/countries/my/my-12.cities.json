@@ -1,0 +1,282 @@
+{
+  "stateId": 1733039,
+  "stateCode": "MY-12",
+  "countryCode": "MY",
+  "cities": [
+    {
+      "id": 1966738,
+      "name": "Bahagian Kudat",
+      "nativeName": "Bahagian Kudat",
+      "code": "MY-12-1966738",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-12",
+      "latitude": 6.81641,
+      "longitude": 116.74943
+    },
+    {
+      "id": 1733564,
+      "name": "Bahagian Sandakan",
+      "nativeName": "Bahagian Sandakan",
+      "code": "MY-12-1733564",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-12",
+      "latitude": 5.86856,
+      "longitude": 118.00218
+    },
+    {
+      "id": 1733595,
+      "name": "Bahagian Tawau",
+      "nativeName": "Bahagian Tawau",
+      "code": "MY-12-1733595",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-12",
+      "latitude": 4.5,
+      "longitude": 118
+    },
+    {
+      "id": 1734248,
+      "name": "Beaufort",
+      "nativeName": "Beaufort",
+      "code": "MY-12-1734248",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-12",
+      "latitude": 5.33333,
+      "longitude": 115.66667
+    },
+    {
+      "id": 12231161,
+      "name": "Beluran",
+      "nativeName": "Beluran",
+      "code": "MY-12-12231161",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-12",
+      "latitude": 6.05896,
+      "longitude": 117.33743
+    },
+    {
+      "id": 1733816,
+      "name": "Keningau",
+      "nativeName": "Keningau",
+      "code": "MY-12-1733816",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-12",
+      "latitude": 5.25,
+      "longitude": 116.25
+    },
+    {
+      "id": 1966751,
+      "name": "Kinabatangan",
+      "nativeName": "Kinabatangan",
+      "code": "MY-12-1966751",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-12",
+      "latitude": 5.41667,
+      "longitude": 117.58333
+    },
+    {
+      "id": 1966748,
+      "name": "Kota Belud",
+      "nativeName": "Kota Belud",
+      "code": "MY-12-1966748",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-12",
+      "latitude": 6.25,
+      "longitude": 116.41667
+    },
+    {
+      "id": 1736650,
+      "name": "Kota Kinabalu",
+      "nativeName": "Kota Kinabalu",
+      "code": "MY-12-1736650",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-12",
+      "latitude": 5.98988,
+      "longitude": 116.13235
+    },
+    {
+      "id": 1966750,
+      "name": "Kota Marudu",
+      "nativeName": "Kota Marudu",
+      "code": "MY-12-1966750",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-12",
+      "latitude": 6.41667,
+      "longitude": 116.75
+    },
+    {
+      "id": 1733341,
+      "name": "Kuala Penyu",
+      "nativeName": "Kuala Penyu",
+      "code": "MY-12-1733341",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-12",
+      "latitude": 5.41667,
+      "longitude": 115.41667
+    },
+    {
+      "id": 1966755,
+      "name": "Kunak",
+      "nativeName": "Kunak",
+      "code": "MY-12-1966755",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-12",
+      "latitude": 4.66667,
+      "longitude": 118.08333
+    },
+    {
+      "id": 1966753,
+      "name": "Lahad Datu",
+      "nativeName": "Lahad Datu",
+      "code": "MY-12-1966753",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-12",
+      "latitude": 5.08333,
+      "longitude": 118.16667
+    },
+    {
+      "id": 12231359,
+      "name": "Nabawan",
+      "nativeName": "Nabawan",
+      "code": "MY-12-12231359",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-12",
+      "latitude": 4.61866,
+      "longitude": 116.46305
+    },
+    {
+      "id": 1733398,
+      "name": "Papar",
+      "nativeName": "Papar",
+      "code": "MY-12-1733398",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-12",
+      "latitude": 5.58333,
+      "longitude": 116
+    },
+    {
+      "id": 1733399,
+      "name": "Penampang",
+      "nativeName": "Penampang",
+      "code": "MY-12-1733399",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-12",
+      "latitude": 5.83333,
+      "longitude": 116.25
+    },
+    {
+      "id": 1966749,
+      "name": "Pitas",
+      "nativeName": "Pitas",
+      "code": "MY-12-1966749",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-12",
+      "latitude": 6.66667,
+      "longitude": 117.08333
+    },
+    {
+      "id": 12231308,
+      "name": "Putatan",
+      "nativeName": "Putatan",
+      "code": "MY-12-12231308",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-12",
+      "latitude": 5.87963,
+      "longitude": 116.05652
+    },
+    {
+      "id": 1733488,
+      "name": "Ranau",
+      "nativeName": "Ranau",
+      "code": "MY-12-1733488",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-12",
+      "latitude": 5.91667,
+      "longitude": 116.75
+    },
+    {
+      "id": 1733684,
+      "name": "Semporna",
+      "nativeName": "Semporna",
+      "code": "MY-12-1733684",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-12",
+      "latitude": 4.5,
+      "longitude": 118.33333
+    },
+    {
+      "id": 1734121,
+      "name": "Sipitang",
+      "nativeName": "Sipitang",
+      "code": "MY-12-1734121",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-12",
+      "latitude": 4.75,
+      "longitude": 115.66667
+    },
+    {
+      "id": 1733484,
+      "name": "Tambunan",
+      "nativeName": "Tambunan",
+      "code": "MY-12-1733484",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-12",
+      "latitude": 5.66667,
+      "longitude": 116.41667
+    },
+    {
+      "id": 1734122,
+      "name": "Tenom District",
+      "nativeName": "Tenom District",
+      "code": "MY-12-1734122",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-12",
+      "latitude": 4.99695,
+      "longitude": 115.89869
+    },
+    {
+      "id": 12231335,
+      "name": "Tongod",
+      "nativeName": "Tongod",
+      "code": "MY-12-12231335",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-12",
+      "latitude": 5.12486,
+      "longitude": 117.01317
+    },
+    {
+      "id": 1736652,
+      "name": "Tuaran",
+      "nativeName": "Tuaran",
+      "code": "MY-12-1736652",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-12",
+      "latitude": 6.08333,
+      "longitude": 116.33333
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "stateId": 3054638,
+  "stateCode": "HU-BU",
+  "countryCode": "HU",
+  "cities": [
+    {
+      "id": 12059771,
+      "name": "Budapest I.",
+      "nativeName": "Budapest I.",
+      "code": "HU-BU-12059771",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-BU",
+      "latitude": 47.4975,
+      "longitude": 19.03961
+    },
+    {
+      "id": 12059754,
+      "name": "Budapest II.",
+      "nativeName": "Budapest II.",
+      "code": "HU-BU-12059754",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-BU",
+      "latitude": 47.51722,
+      "longitude": 19.02218
+    },
+    {
+      "id": 12059763,
+      "name": "Budapest III.",
+      "nativeName": "Budapest III.",
+      "code": "HU-BU-12059763",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-BU",
+      "latitude": 47.5674,
+      "longitude": 19.04501
+    },
+    {
+      "id": 12059759,
+      "name": "Budapest IV.",
+      "nativeName": "Budapest IV.",
+      "code": "HU-BU-12059759",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-BU",
+      "latitude": 47.56667,
+      "longitude": 19.08909
+    },
+    {
+      "id": 12059776,
+      "name": "Budapest IX.",
+      "nativeName": "Budapest IX.",
+      "code": "HU-BU-12059776",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-BU",
+      "latitude": 47.466,
+      "longitude": 19.09081
+    },
+    {
+      "id": 12059757,
+      "name": "Budapest V.",
+      "nativeName": "Budapest V.",
+      "code": "HU-BU-12059757",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-BU",
+      "latitude": 47.5,
+      "longitude": 19.05115
+    },
+    {
+      "id": 12059772,
+      "name": "Budapest VI.",
+      "nativeName": "Budapest VI.",
+      "code": "HU-BU-12059772",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-BU",
+      "latitude": 47.50972,
+      "longitude": 19.06583
+    },
+    {
+      "id": 12059775,
+      "name": "Budapest VII.",
+      "nativeName": "Budapest VII.",
+      "code": "HU-BU-12059775",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-BU",
+      "latitude": 47.50056,
+      "longitude": 19.07218
+    },
+    {
+      "id": 12059761,
+      "name": "Budapest VIII.",
+      "nativeName": "Budapest VIII.",
+      "code": "HU-BU-12059761",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-BU",
+      "latitude": 47.48944,
+      "longitude": 19.07012
+    },
+    {
+      "id": 12059755,
+      "name": "Budapest X.",
+      "nativeName": "Budapest X.",
+      "code": "HU-BU-12059755",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-BU",
+      "latitude": 47.47639,
+      "longitude": 19.15835
+    },
+    {
+      "id": 12059760,
+      "name": "Budapest XI.",
+      "nativeName": "Budapest XI.",
+      "code": "HU-BU-12059760",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-BU",
+      "latitude": 47.475,
+      "longitude": 19.03605
+    },
+    {
+      "id": 12059758,
+      "name": "Budapest XII.",
+      "nativeName": "Budapest XII.",
+      "code": "HU-BU-12059758",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-BU",
+      "latitude": 47.5,
+      "longitude": 19.01493
+    },
+    {
+      "id": 12059773,
+      "name": "Budapest XIII.",
+      "nativeName": "Budapest XIII.",
+      "code": "HU-BU-12059773",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-BU",
+      "latitude": 47.5186,
+      "longitude": 19.06976
+    },
+    {
+      "id": 12059774,
+      "name": "Budapest XIV.",
+      "nativeName": "Budapest XIV.",
+      "code": "HU-BU-12059774",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-BU",
+      "latitude": 47.5,
+      "longitude": 19.10549
+    },
+    {
+      "id": 12059756,
+      "name": "Budapest XIX.",
+      "nativeName": "Budapest XIX.",
+      "code": "HU-BU-12059756",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-BU",
+      "latitude": 47.45,
+      "longitude": 19.14943
+    },
+    {
+      "id": 12059764,
+      "name": "Budapest XV.",
+      "nativeName": "Budapest XV.",
+      "code": "HU-BU-12059764",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-BU",
+      "latitude": 47.56667,
+      "longitude": 19.11681
+    },
+    {
+      "id": 12059762,
+      "name": "Budapest XVI.",
+      "nativeName": "Budapest XVI.",
+      "code": "HU-BU-12059762",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-BU",
+      "latitude": 47.5154,
+      "longitude": 19.17028
+    },
+    {
+      "id": 12059770,
+      "name": "Budapest XVII.",
+      "nativeName": "Budapest XVII.",
+      "code": "HU-BU-12059770",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-BU",
+      "latitude": 47.4803,
+      "longitude": 19.25388
+    },
+    {
+      "id": 12059765,
+      "name": "Budapest XVIII.",
+      "nativeName": "Budapest XVIII.",
+      "code": "HU-BU-12059765",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-BU",
+      "latitude": 47.43333,
+      "longitude": 19.17595
+    },
+    {
+      "id": 12059769,
+      "name": "Budapest XX.",
+      "nativeName": "Budapest XX.",
+      "code": "HU-BU-12059769",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-BU",
+      "latitude": 47.43333,
+      "longitude": 19.10093
+    },
+    {
+      "id": 12059768,
+      "name": "Budapest XXI.",
+      "nativeName": "Budapest XXI.",
+      "code": "HU-BU-12059768",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-BU",
+      "latitude": 47.41667,
+      "longitude": 19.07098
+    },
+    {
+      "id": 12059767,
+      "name": "Budapest XXII.",
+      "nativeName": "Budapest XXII.",
+      "code": "HU-BU-12059767",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-BU",
+      "latitude": 47.425,
+      "longitude": 19.04016
+    },
+    {
+      "id": 12059766,
+      "name": "Budapest XXIII.",
+      "nativeName": "Budapest XXIII.",
+      "code": "HU-BU-12059766",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-BU",
+      "latitude": 47.3964,
+      "longitude": 19.11492
+    }
+  ]
+}

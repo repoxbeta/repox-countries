@@ -1,0 +1,139 @@
+{
+  "stateId": 2657895,
+  "stateCode": "CH-ZH",
+  "countryCode": "CH",
+  "cities": [
+    {
+      "id": 2661751,
+      "name": "Andelfingen District",
+      "nativeName": "Bezirk Andelfingen",
+      "code": "CH-ZH-2661751",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-ZH",
+      "latitude": 47.61328,
+      "longitude": 8.68124
+    },
+    {
+      "id": 6458818,
+      "name": "Bezirk Affoltern",
+      "nativeName": "Bezirk Affoltern",
+      "code": "CH-ZH-6458818",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-ZH",
+      "latitude": 47.27311,
+      "longitude": 8.47444
+    },
+    {
+      "id": 6458867,
+      "name": "Bezirk Bülach",
+      "nativeName": "Bezirk Bülach",
+      "code": "CH-ZH-6458867",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-ZH",
+      "latitude": 47.49706,
+      "longitude": 8.56764
+    },
+    {
+      "id": 6458760,
+      "name": "Bezirk Dietikon",
+      "nativeName": "Bezirk Dietikon",
+      "code": "CH-ZH-6458760",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-ZH",
+      "latitude": 47.38804,
+      "longitude": 8.4426
+    },
+    {
+      "id": 6458797,
+      "name": "Bezirk Hinwil",
+      "nativeName": "Bezirk Hinwil",
+      "code": "CH-ZH-6458797",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-ZH",
+      "latitude": 47.29646,
+      "longitude": 8.83431
+    },
+    {
+      "id": 6458847,
+      "name": "Bezirk Horgen",
+      "nativeName": "Bezirk Horgen",
+      "code": "CH-ZH-6458847",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-ZH",
+      "latitude": 47.25767,
+      "longitude": 8.59702
+    },
+    {
+      "id": 2659702,
+      "name": "Bezirk Meilen",
+      "nativeName": "Bezirk Meilen",
+      "code": "CH-ZH-2659702",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-ZH",
+      "latitude": 47.2792,
+      "longitude": 8.66259
+    },
+    {
+      "id": 6458852,
+      "name": "Bezirk Pfäffikon",
+      "nativeName": "Bezirk Pfäffikon",
+      "code": "CH-ZH-6458852",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-ZH",
+      "latitude": 47.40905,
+      "longitude": 8.77208
+    },
+    {
+      "id": 6458751,
+      "name": "Bezirk Uster",
+      "nativeName": "Bezirk Uster",
+      "code": "CH-ZH-6458751",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-ZH",
+      "latitude": 47.34952,
+      "longitude": 8.71353
+    },
+    {
+      "id": 6458808,
+      "name": "Bezirk Winterthur",
+      "nativeName": "Bezirk Winterthur",
+      "code": "CH-ZH-6458808",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-ZH",
+      "latitude": 47.50781,
+      "longitude": 8.769
+    },
+    {
+      "id": 6458865,
+      "name": "Dielsdorf",
+      "nativeName": "Bezirk Dielsdorf",
+      "code": "CH-ZH-6458865",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-ZH",
+      "latitude": 47.47181,
+      "longitude": 8.45631
+    },
+    {
+      "id": 6458798,
+      "name": "Zürich District",
+      "nativeName": "Bezirk Zürich",
+      "code": "CH-ZH-6458798",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-ZH",
+      "latitude": 47.3711,
+      "longitude": 8.54323
+    }
+  ]
+}

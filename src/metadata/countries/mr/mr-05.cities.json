@@ -1,0 +1,62 @@
+{
+  "stateId": 2380635,
+  "stateCode": "MR-05",
+  "countryCode": "MR",
+  "cities": [
+    {
+      "id": 7910308,
+      "name": "Aleg",
+      "nativeName": "Aleg",
+      "code": "MR-05-7910308",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-05",
+      "latitude": 16.9645,
+      "longitude": -13.72325
+    },
+    {
+      "id": 9212619,
+      "name": "Bababe",
+      "nativeName": "Bababe",
+      "code": "MR-05-9212619",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-05",
+      "latitude": 16.44817,
+      "longitude": -13.93262
+    },
+    {
+      "id": 8335141,
+      "name": "Boghe",
+      "nativeName": "Bogué Department",
+      "code": "MR-05-8335141",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-05",
+      "latitude": 16.67632,
+      "longitude": -14.47105
+    },
+    {
+      "id": 9212631,
+      "name": "M'Bagne",
+      "nativeName": "M'Bagne",
+      "code": "MR-05-9212631",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-05",
+      "latitude": 16.25753,
+      "longitude": -13.77466
+    },
+    {
+      "id": 9212635,
+      "name": "Maghta Lahjar",
+      "nativeName": "Magta-Lahjar",
+      "code": "MR-05-9212635",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-05",
+      "latitude": 17.64801,
+      "longitude": -12.91817
+    }
+  ]
+}

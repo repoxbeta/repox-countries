@@ -1,0 +1,84 @@
+{
+  "stateId": 3384481,
+  "stateCode": "SR-BR",
+  "countryCode": "SR",
+  "cities": [
+    {
+      "id": 12088675,
+      "name": "Brownsweg",
+      "nativeName": "Brownsweg",
+      "code": "SR-BR-12088675",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-BR",
+      "latitude": 5.01395,
+      "longitude": -55.16951
+    },
+    {
+      "id": 12088674,
+      "name": "Centrum",
+      "nativeName": "Centrum",
+      "code": "SR-BR-12088674",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-BR",
+      "latitude": 5.06846,
+      "longitude": -54.95546
+    },
+    {
+      "id": 12088673,
+      "name": "Klaaskreek",
+      "nativeName": "Klaaskreek",
+      "code": "SR-BR-12088673",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-BR",
+      "latitude": 5.17741,
+      "longitude": -55.07805
+    },
+    {
+      "id": 12088671,
+      "name": "Kwakoegron",
+      "nativeName": "Kwakoegron",
+      "code": "SR-BR-12088671",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-BR",
+      "latitude": 5.24715,
+      "longitude": -55.34308
+    },
+    {
+      "id": 12088672,
+      "name": "Marshallkreek",
+      "nativeName": "Marshallkreek",
+      "code": "SR-BR-12088672",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-BR",
+      "latitude": 4.79279,
+      "longitude": -55.14625
+    },
+    {
+      "id": 13108210,
+      "name": "Ressort Marchallkreek",
+      "nativeName": "Ressort Marchallkreek",
+      "code": "SR-BR-13108210",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-BR",
+      "latitude": 5.28973,
+      "longitude": -55.08917
+    },
+    {
+      "id": 12088676,
+      "name": "Sarakreek",
+      "nativeName": "Sarakreek",
+      "code": "SR-BR-12088676",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-BR",
+      "latitude": 4.32023,
+      "longitude": -54.96888
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "stateId": 360631,
+  "stateCode": "EG-C",
+  "countryCode": "EG",
+  "cities": [
+    {
+      "id": 11204016,
+      "name": "Al Marj",
+      "nativeName": "Al Marj",
+      "code": "EG-C-11204016",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-C",
+      "latitude": 30.14572,
+      "longitude": 31.34193
+    },
+    {
+      "id": 360929,
+      "name": "Markaz al Khānkah",
+      "nativeName": "Markaz al Khānkah",
+      "code": "EG-C-360929",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-C",
+      "latitude": 30.23139,
+      "longitude": 31.42271
+    },
+    {
+      "id": 359901,
+      "name": "Markaz aş Şaff",
+      "nativeName": "Markaz aş Şaff",
+      "code": "EG-C-359901",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-C",
+      "latitude": 29.6184,
+      "longitude": 31.30946
+    },
+    {
+      "id": 7910874,
+      "name": "Mostafa El Serwy",
+      "nativeName": "Mostafa El Serwy",
+      "code": "EG-C-7910874",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-C",
+      "latitude": 30.15526,
+      "longitude": 31.33444
+    }
+  ]
+}

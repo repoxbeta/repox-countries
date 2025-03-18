@@ -1,0 +1,40 @@
+{
+  "stateId": 294952,
+  "stateCode": "IL-D",
+  "countryCode": "IL",
+  "cities": [
+    {
+      "id": 295618,
+      "name": "Ashqelon",
+      "nativeName": "Ashqelon",
+      "code": "IL-D-295618",
+      "countryId": 294640,
+      "countryCode": "IL",
+      "stateCode": "IL-D",
+      "latitude": 31.63333,
+      "longitude": 34.71667
+    },
+    {
+      "id": 7870269,
+      "name": "Gaza",
+      "nativeName": "Gaza",
+      "code": "IL-D-7870269",
+      "countryId": 294640,
+      "countryCode": "IL",
+      "stateCode": "IL-D",
+      "latitude": 31.25857,
+      "longitude": 34.45591
+    },
+    {
+      "id": 12046836,
+      "name": "Nefat Be’er Sheva‘",
+      "nativeName": "Nefat Be’er Sheva‘",
+      "code": "IL-D-12046836",
+      "countryId": 294640,
+      "countryCode": "IL",
+      "stateCode": "IL-D",
+      "latitude": 30.68333,
+      "longitude": 34.85
+    }
+  ]
+}

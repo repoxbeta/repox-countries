@@ -1,0 +1,128 @@
+{
+  "stateId": 125605,
+  "stateCode": "IR-15",
+  "countryCode": "IR",
+  "cities": [
+    {
+      "id": 449670,
+      "name": "Delfan",
+      "nativeName": "Delfan",
+      "code": "IR-15-449670",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-15",
+      "latitude": 34.05,
+      "longitude": 47.78333
+    },
+    {
+      "id": 449671,
+      "name": "Dorūd",
+      "nativeName": "Dorūd",
+      "code": "IR-15-449671",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-15",
+      "latitude": 33.52313,
+      "longitude": 49.07248
+    },
+    {
+      "id": 9533002,
+      "name": "Dowreh",
+      "nativeName": "Shahrestān-e Dūreh",
+      "code": "IR-15-9533002",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-15",
+      "latitude": 33.60337,
+      "longitude": 47.93319
+    },
+    {
+      "id": 449669,
+      "name": "Khorramabad",
+      "nativeName": "Shahrestān-e Khorramābād",
+      "code": "IR-15-449669",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-15",
+      "latitude": 33.39367,
+      "longitude": 48.56906
+    },
+    {
+      "id": 449673,
+      "name": "Kuhdasht",
+      "nativeName": "Shahrestān-e Kūhdasht",
+      "code": "IR-15-449673",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-15",
+      "latitude": 33.55454,
+      "longitude": 47.38381
+    },
+    {
+      "id": 449668,
+      "name": "Pol-e Dokhtar",
+      "nativeName": "Pol-e Dokhtar",
+      "code": "IR-15-449668",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-15",
+      "latitude": 33.13361,
+      "longitude": 47.9707
+    },
+    {
+      "id": 11962671,
+      "name": "Rumeshkhan County",
+      "nativeName": "Rumeshkhan County",
+      "code": "IR-15-11962671",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-15",
+      "latitude": 33.2796,
+      "longitude": 47.48995
+    },
+    {
+      "id": 449672,
+      "name": "Selseleh",
+      "nativeName": "Selseleh",
+      "code": "IR-15-449672",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-15",
+      "latitude": 33.82985,
+      "longitude": 48.20389
+    },
+    {
+      "id": 449666,
+      "name": "Shahrestān-e Alīgūdarz",
+      "nativeName": "Shahrestān-e Alīgūdarz",
+      "code": "IR-15-449666",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-15",
+      "latitude": 33.04651,
+      "longitude": 49.39498
+    },
+    {
+      "id": 449665,
+      "name": "Shahrestān-e Aznā",
+      "nativeName": "Shahrestān-e Aznā",
+      "code": "IR-15-449665",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-15",
+      "latitude": 33.5045,
+      "longitude": 49.43509
+    },
+    {
+      "id": 449667,
+      "name": "Shahrestān-e Borūjerd",
+      "nativeName": "Shahrestān-e Borūjerd",
+      "code": "IR-15-449667",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-15",
+      "latitude": 33.88897,
+      "longitude": 48.75214
+    }
+  ]
+}

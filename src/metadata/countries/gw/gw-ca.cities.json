@@ -1,0 +1,73 @@
+{
+  "stateId": 2374312,
+  "stateCode": "GW-CA",
+  "countryCode": "GW",
+  "cities": [
+    {
+      "id": 7932380,
+      "name": "Bigene",
+      "nativeName": "Bigene Sector",
+      "code": "GW-CA-7932380",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "stateCode": "GW-CA",
+      "latitude": 12.35383,
+      "longitude": -15.75341
+    },
+    {
+      "id": 8335069,
+      "name": "Bula",
+      "nativeName": "Bula",
+      "code": "GW-CA-8335069",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "stateCode": "GW-CA",
+      "latitude": 12.1058,
+      "longitude": -15.7077
+    },
+    {
+      "id": 7909702,
+      "name": "Cacheu/Calequisse",
+      "nativeName": "Cacheu Sector",
+      "code": "GW-CA-7909702",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "stateCode": "GW-CA",
+      "latitude": 12.16667,
+      "longitude": -16.16666
+    },
+    {
+      "id": 8335055,
+      "name": "Caio",
+      "nativeName": "Caio Sector",
+      "code": "GW-CA-8335055",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "stateCode": "GW-CA",
+      "latitude": 11.92513,
+      "longitude": -16.16364
+    },
+    {
+      "id": 8335068,
+      "name": "Canchungo",
+      "nativeName": "Canchungo Sector",
+      "code": "GW-CA-8335068",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "stateCode": "GW-CA",
+      "latitude": 12.03,
+      "longitude": -15.983
+    },
+    {
+      "id": 7909700,
+      "name": "Sao Domingos",
+      "nativeName": "Sao Domingos",
+      "code": "GW-CA-7909700",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "stateCode": "GW-CA",
+      "latitude": 12.40194,
+      "longitude": -16.20056
+    }
+  ]
+}

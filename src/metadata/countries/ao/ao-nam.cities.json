@@ -1,0 +1,62 @@
+{
+  "stateId": 3347016,
+  "stateCode": "AO-NAM",
+  "countryCode": "AO",
+  "cities": [
+    {
+      "id": 3351646,
+      "name": "Bibala",
+      "nativeName": "Bibala",
+      "code": "AO-NAM-3351646",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-NAM",
+      "latitude": -14.7025,
+      "longitude": 13.13998
+    },
+    {
+      "id": 3351015,
+      "name": "Camucuio",
+      "nativeName": "Camucuio",
+      "code": "AO-NAM-3351015",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-NAM",
+      "latitude": -13.95619,
+      "longitude": 13.02187
+    },
+    {
+      "id": 3347017,
+      "name": "Namibe",
+      "nativeName": "Namibe",
+      "code": "AO-NAM-3347017",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-NAM",
+      "latitude": -14.61265,
+      "longitude": 12.46301
+    },
+    {
+      "id": 3345788,
+      "name": "Tômbwa",
+      "nativeName": "Tômbwa",
+      "code": "AO-NAM-3345788",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-NAM",
+      "latitude": -16.5184,
+      "longitude": 12.16496
+    },
+    {
+      "id": 3345516,
+      "name": "Virei",
+      "nativeName": "Virei",
+      "code": "AO-NAM-3345516",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-NAM",
+      "latitude": -15.76522,
+      "longitude": 12.94394
+    }
+  ]
+}

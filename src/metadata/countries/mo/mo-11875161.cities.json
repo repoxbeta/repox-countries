@@ -1,0 +1,40 @@
+{
+  "stateId": 11875161,
+  "stateCode": "MO-11875161",
+  "countryCode": "MO",
+  "cities": [
+    {
+      "id": 6611390,
+      "name": "Jiu’ao",
+      "nativeName": "Jiu’ao",
+      "code": "MO-11875161-6611390",
+      "countryId": 1821275,
+      "countryCode": "MO",
+      "stateCode": "MO-11875161",
+      "latitude": 22.13306,
+      "longitude": 113.58139
+    },
+    {
+      "id": 1821279,
+      "name": "Lai Chi Van",
+      "nativeName": "Lai Chi Van",
+      "code": "MO-11875161-1821279",
+      "countryId": 1821275,
+      "countryCode": "MO",
+      "stateCode": "MO-11875161",
+      "latitude": 22.11972,
+      "longitude": 113.55111
+    },
+    {
+      "id": 1821292,
+      "name": "Luhuan",
+      "nativeName": "Luhuan",
+      "code": "MO-11875161-1821292",
+      "countryId": 1821275,
+      "countryCode": "MO",
+      "stateCode": "MO-11875161",
+      "latitude": 22.11806,
+      "longitude": 113.55194
+    }
+  ]
+}

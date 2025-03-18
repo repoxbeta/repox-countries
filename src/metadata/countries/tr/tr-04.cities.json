@@ -1,0 +1,95 @@
+{
+  "stateId": 325163,
+  "stateCode": "TR-04",
+  "countryCode": "TR",
+  "cities": [
+    {
+      "id": 11778423,
+      "name": "Ağrı",
+      "nativeName": "Ağrı",
+      "code": "TR-04-11778423",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-04",
+      "latitude": 39.713,
+      "longitude": 43.05096
+    },
+    {
+      "id": 8630865,
+      "name": "Diyadin District",
+      "nativeName": "Diyadin İlçesi",
+      "code": "TR-04-8630865",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-04",
+      "latitude": 39.5488,
+      "longitude": 43.6749
+    },
+    {
+      "id": 8630864,
+      "name": "Doğubayazıt District",
+      "nativeName": "Doğubayazıt İlçesi",
+      "code": "TR-04-8630864",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-04",
+      "latitude": 39.55601,
+      "longitude": 44.08912
+    },
+    {
+      "id": 8630866,
+      "name": "Eleşkirt İlçesi",
+      "nativeName": "Eleşkirt İlçesi",
+      "code": "TR-04-8630866",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-04",
+      "latitude": 39.81242,
+      "longitude": 42.67955
+    },
+    {
+      "id": 8630870,
+      "name": "Hamur İlçesi",
+      "nativeName": "Hamur İlçesi",
+      "code": "TR-04-8630870",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-04",
+      "latitude": 39.61917,
+      "longitude": 42.9928
+    },
+    {
+      "id": 8630868,
+      "name": "Patnos District",
+      "nativeName": "Patnos İlçesi",
+      "code": "TR-04-8630868",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-04",
+      "latitude": 39.24297,
+      "longitude": 42.86736
+    },
+    {
+      "id": 8630867,
+      "name": "Taşlıçay District",
+      "nativeName": "Taşlıçay İlçesi",
+      "code": "TR-04-8630867",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-04",
+      "latitude": 39.64294,
+      "longitude": 43.37683
+    },
+    {
+      "id": 8630869,
+      "name": "Tutak İlçesi",
+      "nativeName": "Tutak İlçesi",
+      "code": "TR-04-8630869",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-04",
+      "latitude": 39.55042,
+      "longitude": 42.77572
+    }
+  ]
+}

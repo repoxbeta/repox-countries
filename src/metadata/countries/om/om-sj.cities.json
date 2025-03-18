@@ -1,0 +1,62 @@
+{
+  "stateId": 411738,
+  "stateCode": "OM-SJ",
+  "countryCode": "OM",
+  "cities": [
+    {
+      "id": 12215966,
+      "name": "Al Kāmil wa al Wāfī",
+      "nativeName": "Al Kāmil wa al Wāfī",
+      "code": "OM-SJ-12215966",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-SJ",
+      "latitude": 22.37,
+      "longitude": 59.197
+    },
+    {
+      "id": 12215967,
+      "name": "Ja‘lān Banī Bū Ḩasan",
+      "nativeName": "Ja‘lān Banī Bū Ḩasan",
+      "code": "OM-SJ-12215967",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-SJ",
+      "latitude": 21.955,
+      "longitude": 59.476
+    },
+    {
+      "id": 12215968,
+      "name": "Ja‘lān Banī Bū ‘Alī",
+      "nativeName": "Ja‘lān Banī Bū ‘Alī",
+      "code": "OM-SJ-12215968",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-SJ",
+      "latitude": 21.579,
+      "longitude": 59.061
+    },
+    {
+      "id": 12215969,
+      "name": "Maşīrah",
+      "nativeName": "Maşīrah",
+      "code": "OM-SJ-12215969",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-SJ",
+      "latitude": 20.386,
+      "longitude": 58.794
+    },
+    {
+      "id": 12215965,
+      "name": "Şūr",
+      "nativeName": "Şūr",
+      "code": "OM-SJ-12215965",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-SJ",
+      "latitude": 22.614,
+      "longitude": 59.293
+    }
+  ]
+}

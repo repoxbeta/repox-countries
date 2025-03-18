@@ -1,0 +1,227 @@
+{
+  "stateId": 3438827,
+  "stateCode": "PY-3",
+  "countryCode": "PY",
+  "cities": [
+    {
+      "id": 11840012,
+      "name": "Altos District",
+      "nativeName": "Altos",
+      "code": "PY-3-11840012",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-3",
+      "latitude": -25.24593,
+      "longitude": -57.22165
+    },
+    {
+      "id": 11840163,
+      "name": "Arroyos Y Esteros",
+      "nativeName": "Arroyos Y Esteros",
+      "code": "PY-3-11840163",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-3",
+      "latitude": -25.04278,
+      "longitude": -57.16247
+    },
+    {
+      "id": 11840126,
+      "name": "Atyra",
+      "nativeName": "Atyra",
+      "code": "PY-3-11840126",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-3",
+      "latitude": -25.25993,
+      "longitude": -57.15459
+    },
+    {
+      "id": 11840157,
+      "name": "Caacupe",
+      "nativeName": "Caacupe",
+      "code": "PY-3-11840157",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-3",
+      "latitude": -25.38041,
+      "longitude": -57.12673
+    },
+    {
+      "id": 11839996,
+      "name": "Caraguatay District",
+      "nativeName": "Caraguatay",
+      "code": "PY-3-11839996",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-3",
+      "latitude": -25.2151,
+      "longitude": -56.77737
+    },
+    {
+      "id": 11840051,
+      "name": "Emboscada",
+      "nativeName": "Emboscada",
+      "code": "PY-3-11840051",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-3",
+      "latitude": -25.12883,
+      "longitude": -57.36295
+    },
+    {
+      "id": 11840097,
+      "name": "Eusebio Ayala",
+      "nativeName": "Eusebio Ayala",
+      "code": "PY-3-11840097",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-3",
+      "latitude": -25.36119,
+      "longitude": -56.97145
+    },
+    {
+      "id": 11839931,
+      "name": "Isla Pucú District",
+      "nativeName": "Isla Pucu",
+      "code": "PY-3-11839931",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-3",
+      "latitude": -25.30084,
+      "longitude": -56.8961
+    },
+    {
+      "id": 11840176,
+      "name": "Itacurubi De La Cordillera",
+      "nativeName": "Itacurubi De La Cordillera",
+      "code": "PY-3-11840176",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-3",
+      "latitude": -25.45227,
+      "longitude": -56.86402
+    },
+    {
+      "id": 11839992,
+      "name": "Juan De Mena",
+      "nativeName": "Juan De Mena",
+      "code": "PY-3-11839992",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-3",
+      "latitude": -24.99495,
+      "longitude": -56.77291
+    },
+    {
+      "id": 11840026,
+      "name": "Loma Grande",
+      "nativeName": "Loma Grande",
+      "code": "PY-3-11840026",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-3",
+      "latitude": -25.1485,
+      "longitude": -57.20921
+    },
+    {
+      "id": 11840110,
+      "name": "Mbocayaty Del Yhaguy",
+      "nativeName": "Mbocayaty Del Yhaguy",
+      "code": "PY-3-11840110",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-3",
+      "latitude": -25.31918,
+      "longitude": -56.69231
+    },
+    {
+      "id": 11839991,
+      "name": "Nueva Colombia",
+      "nativeName": "Nueva Colombia",
+      "code": "PY-3-11839991",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-3",
+      "latitude": -25.15943,
+      "longitude": -57.27208
+    },
+    {
+      "id": 11839997,
+      "name": "Piribebuy",
+      "nativeName": "Piribebuy",
+      "code": "PY-3-11839997",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-3",
+      "latitude": -25.49637,
+      "longitude": -57.04219
+    },
+    {
+      "id": 11840091,
+      "name": "Primero De Marzo",
+      "nativeName": "Primero De Marzo",
+      "code": "PY-3-11840091",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-3",
+      "latitude": -25.12713,
+      "longitude": -56.97094
+    },
+    {
+      "id": 11840076,
+      "name": "San Bernardino",
+      "nativeName": "San Bernardino",
+      "code": "PY-3-11840076",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-3",
+      "latitude": -25.29314,
+      "longitude": -57.29328
+    },
+    {
+      "id": 11840052,
+      "name": "San Jose Obrero",
+      "nativeName": "San Jose Obrero",
+      "code": "PY-3-11840052",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-3",
+      "latitude": -25.11626,
+      "longitude": -56.87837
+    },
+    {
+      "id": 11840122,
+      "name": "Santa Elena",
+      "nativeName": "Santa Elena",
+      "code": "PY-3-11840122",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-3",
+      "latitude": -25.39551,
+      "longitude": -56.78063
+    },
+    {
+      "id": 11839976,
+      "name": "Tobatí District",
+      "nativeName": "Tobati",
+      "code": "PY-3-11839976",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-3",
+      "latitude": -25.21599,
+      "longitude": -57.04655
+    },
+    {
+      "id": 11840054,
+      "name": "Valenzuela",
+      "nativeName": "Valenzuela",
+      "code": "PY-3-11840054",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-3",
+      "latitude": -25.58852,
+      "longitude": -56.87065
+    }
+  ]
+}

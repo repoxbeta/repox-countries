@@ -1,0 +1,95 @@
+{
+  "stateId": 6201192,
+  "stateCode": "TN-14",
+  "countryCode": "TN",
+  "cities": [
+    {
+      "id": 11108937,
+      "name": "Borj Amri",
+      "nativeName": "Borj El Amri",
+      "code": "TN-14-11108937",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-14",
+      "latitude": 36.69693,
+      "longitude": 9.84771
+    },
+    {
+      "id": 11108958,
+      "name": "Djedeida",
+      "nativeName": "Délégation de Jedaïda",
+      "code": "TN-14-11108958",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-14",
+      "latitude": 36.85405,
+      "longitude": 9.93191
+    },
+    {
+      "id": 11108956,
+      "name": "Douar Hicher",
+      "nativeName": "Douar Hicher",
+      "code": "TN-14-11108956",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-14",
+      "latitude": 36.82806,
+      "longitude": 10.08088
+    },
+    {
+      "id": 11108936,
+      "name": "El Battane",
+      "nativeName": "El Battane",
+      "code": "TN-14-11108936",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-14",
+      "latitude": 36.79335,
+      "longitude": 9.76334
+    },
+    {
+      "id": 2469273,
+      "name": "Mannouba",
+      "nativeName": "Mu‘tamadīyat Manūbah",
+      "code": "TN-14-2469273",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-14",
+      "latitude": 36.80907,
+      "longitude": 10.09467
+    },
+    {
+      "id": 11108943,
+      "name": "Mornaguia",
+      "nativeName": "Mornaguia",
+      "code": "TN-14-11108943",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-14",
+      "latitude": 36.68035,
+      "longitude": 9.9641
+    },
+    {
+      "id": 11108957,
+      "name": "Oued Ellil",
+      "nativeName": "Oued Ellil",
+      "code": "TN-14-11108957",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-14",
+      "latitude": 36.82147,
+      "longitude": 10.02739
+    },
+    {
+      "id": 2464857,
+      "name": "Tebourba",
+      "nativeName": "Tebourba",
+      "code": "TN-14-2464857",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-14",
+      "latitude": 36.87339,
+      "longitude": 9.73848
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "stateId": 3383438,
+  "stateCode": "SR-NI",
+  "countryCode": "SR",
+  "cities": [
+    {
+      "id": 12088705,
+      "name": "Groot Henar",
+      "nativeName": "Groot Henar",
+      "code": "SR-NI-12088705",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-NI",
+      "latitude": 5.85828,
+      "longitude": -56.88739
+    },
+    {
+      "id": 12088706,
+      "name": "Nieuw Nickerie",
+      "nativeName": "Nieuw Nickerie",
+      "code": "SR-NI-12088706",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-NI",
+      "latitude": 5.92875,
+      "longitude": -56.99563
+    },
+    {
+      "id": 13108205,
+      "name": "Ressort Oostelijke Polders",
+      "nativeName": "Ressort Oostelijke Polders",
+      "code": "SR-NI-13108205",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-NI",
+      "latitude": 5.91779,
+      "longitude": -56.89555
+    },
+    {
+      "id": 13108206,
+      "name": "Ressort Westelijke Polders",
+      "nativeName": "Ressort Westelijke Polders",
+      "code": "SR-NI-13108206",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-NI",
+      "latitude": 5.59141,
+      "longitude": -57.12133
+    },
+    {
+      "id": 12088704,
+      "name": "Wageningen",
+      "nativeName": "Wageningen",
+      "code": "SR-NI-12088704",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-NI",
+      "latitude": 5.77071,
+      "longitude": -56.68866
+    },
+    {
+      "id": 12088707,
+      "name": "Westelijke Polders",
+      "nativeName": "Westelijke Polders",
+      "code": "SR-NI-12088707",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-NI",
+      "latitude": 5.90156,
+      "longitude": -57.04902
+    }
+  ]
+}

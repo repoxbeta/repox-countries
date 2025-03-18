@@ -1,0 +1,183 @@
+{
+  "stateId": 2464912,
+  "stateCode": "TN-51",
+  "countryCode": "TN",
+  "cities": [
+    {
+      "id": 11104940,
+      "name": "Akouda",
+      "nativeName": "Akouda",
+      "code": "TN-51-11104940",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-51",
+      "latitude": 35.92058,
+      "longitude": 10.54993
+    },
+    {
+      "id": 11104932,
+      "name": "Bouficha",
+      "nativeName": "Bouficha",
+      "code": "TN-51-11104932",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-51",
+      "latitude": 36.26977,
+      "longitude": 10.42751
+    },
+    {
+      "id": 2468568,
+      "name": "Enfidha",
+      "nativeName": "Mu‘tamadīyat an Nafīḑah",
+      "code": "TN-51-2468568",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-51",
+      "latitude": 36.13731,
+      "longitude": 10.31152
+    },
+    {
+      "id": 11104942,
+      "name": "Hammam Sousse",
+      "nativeName": "Hammam Sousse",
+      "code": "TN-51-11104942",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-51",
+      "latitude": 35.88231,
+      "longitude": 10.58597
+    },
+    {
+      "id": 11104936,
+      "name": "Hergla",
+      "nativeName": "Hergla",
+      "code": "TN-51-11104936",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-51",
+      "latitude": 36.03493,
+      "longitude": 10.46895
+    },
+    {
+      "id": 2468331,
+      "name": "Kalaâ Kebira",
+      "nativeName": "Kalaa Kebira",
+      "code": "TN-51-2468331",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-51",
+      "latitude": 35.88696,
+      "longitude": 10.43244
+    },
+    {
+      "id": 11104941,
+      "name": "Kalaâ Seghira",
+      "nativeName": "Kalaa Sghira",
+      "code": "TN-51-11104941",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-51",
+      "latitude": 35.80845,
+      "longitude": 10.47429
+    },
+    {
+      "id": 11104938,
+      "name": "Kondar",
+      "nativeName": "Kondar",
+      "code": "TN-51-11104938",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-51",
+      "latitude": 35.91079,
+      "longitude": 10.24158
+    },
+    {
+      "id": 2469139,
+      "name": "M’saken",
+      "nativeName": "Délégation de M’saken",
+      "code": "TN-51-2469139",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-51",
+      "latitude": 35.69499,
+      "longitude": 10.52324
+    },
+    {
+      "id": 11104937,
+      "name": "Sidi Bou Ali",
+      "nativeName": "Sidi Bou Ali",
+      "code": "TN-51-11104937",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-51",
+      "latitude": 35.96908,
+      "longitude": 10.41333
+    },
+    {
+      "id": 11104939,
+      "name": "Sidi El Héni",
+      "nativeName": "Sidi El Hani",
+      "code": "TN-51-11104939",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-51",
+      "latitude": 35.72613,
+      "longitude": 10.30877
+    },
+    {
+      "id": 11104943,
+      "name": "Sousse Jawhara",
+      "nativeName": "Sousse Jawhara",
+      "code": "TN-51-11104943",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-51",
+      "latitude": 35.83337,
+      "longitude": 10.59999
+    },
+    {
+      "id": 2464914,
+      "name": "Sousse Medina",
+      "nativeName": "Sousse Médina",
+      "code": "TN-51-2464914",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-51",
+      "latitude": 35.83352,
+      "longitude": 10.63468
+    },
+    {
+      "id": 11104945,
+      "name": "Sousse Riadh",
+      "nativeName": "Sousse Riadh",
+      "code": "TN-51-11104945",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-51",
+      "latitude": 35.80489,
+      "longitude": 10.58108
+    },
+    {
+      "id": 11104944,
+      "name": "Sousse Sidi Abdelhamid",
+      "nativeName": "Sousse Sidi Abdelhamid",
+      "code": "TN-51-11104944",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-51",
+      "latitude": 35.80533,
+      "longitude": 10.6407
+    },
+    {
+      "id": 11104948,
+      "name": "Zaouia - Ksiba - Thrayet",
+      "nativeName": "Zaouia-Ksiba-Thrayet",
+      "code": "TN-51-11104948",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-51",
+      "latitude": 35.77641,
+      "longitude": 10.62224
+    }
+  ]
+}

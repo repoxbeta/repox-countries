@@ -1,0 +1,40 @@
+{
+  "stateId": 2566978,
+  "stateCode": "GQ-BN",
+  "countryCode": "GQ",
+  "cities": [
+    {
+      "id": 11237879,
+      "name": "Baney",
+      "nativeName": "Baney",
+      "code": "GQ-BN-11237879",
+      "countryId": 2309096,
+      "countryCode": "GQ",
+      "stateCode": "GQ-BN",
+      "latitude": 3.69225,
+      "longitude": 8.91193
+    },
+    {
+      "id": 11237874,
+      "name": "Malabo",
+      "nativeName": "Malabo",
+      "code": "GQ-BN-11237874",
+      "countryId": 2309096,
+      "countryCode": "GQ",
+      "stateCode": "GQ-BN",
+      "latitude": 3.75042,
+      "longitude": 8.74246
+    },
+    {
+      "id": 11237873,
+      "name": "Rebola",
+      "nativeName": "Rebola",
+      "code": "GQ-BN-11237873",
+      "countryId": 2309096,
+      "countryCode": "GQ",
+      "stateCode": "GQ-BN",
+      "latitude": 3.72418,
+      "longitude": 8.83438
+    }
+  ]
+}

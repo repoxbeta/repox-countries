@@ -1,0 +1,84 @@
+{
+  "stateId": 3689717,
+  "stateCode": "CO-ARA",
+  "countryCode": "CO",
+  "cities": [
+    {
+      "id": 3689720,
+      "name": "Arauca",
+      "nativeName": "Arauca",
+      "code": "CO-ARA-3689720",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-ARA",
+      "latitude": 6.87306,
+      "longitude": -70.47972
+    },
+    {
+      "id": 6194448,
+      "name": "Arauquita",
+      "nativeName": "Arauquita",
+      "code": "CO-ARA-6194448",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-ARA",
+      "latitude": 6.94583,
+      "longitude": -71.4697
+    },
+    {
+      "id": 6195938,
+      "name": "Cravo Norte",
+      "nativeName": "Cravo Norte",
+      "code": "CO-ARA-6195938",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-ARA",
+      "latitude": 6.3875,
+      "longitude": -70.15472
+    },
+    {
+      "id": 6194449,
+      "name": "Fortul",
+      "nativeName": "Fortul",
+      "code": "CO-ARA-6194449",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-ARA",
+      "latitude": 6.74611,
+      "longitude": -71.85667
+    },
+    {
+      "id": 6194450,
+      "name": "Puerto Rondón",
+      "nativeName": "Puerto Rondón",
+      "code": "CO-ARA-6194450",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-ARA",
+      "latitude": 6.41889,
+      "longitude": -70.965
+    },
+    {
+      "id": 3668259,
+      "name": "Saravena",
+      "nativeName": "Saravena",
+      "code": "CO-ARA-3668259",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-ARA",
+      "latitude": 6.92056,
+      "longitude": -71.85333
+    },
+    {
+      "id": 3667480,
+      "name": "Tame",
+      "nativeName": "Tame",
+      "code": "CO-ARA-3667480",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-ARA",
+      "latitude": 6.39833,
+      "longitude": -71.78389
+    }
+  ]
+}

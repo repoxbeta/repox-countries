@@ -1,0 +1,139 @@
+{
+  "stateId": 1577882,
+  "stateCode": "VN-35",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 1905201,
+      "name": "Bảo Lâm District",
+      "nativeName": "Huyện Bảo Lâm",
+      "code": "VN-35-1905201",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-35",
+      "latitude": 11.71163,
+      "longitude": 107.75338
+    },
+    {
+      "id": 1905204,
+      "name": "Huyện Cát Tiên",
+      "nativeName": "Huyện Cát Tiên",
+      "code": "VN-35-1905204",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-35",
+      "latitude": 11.6629,
+      "longitude": 107.36768
+    },
+    {
+      "id": 1905205,
+      "name": "Huyện Di Linh",
+      "nativeName": "Huyện Di Linh",
+      "code": "VN-35-1905205",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-35",
+      "latitude": 11.49466,
+      "longitude": 108.08691
+    },
+    {
+      "id": 1905208,
+      "name": "Lâm Hà District",
+      "nativeName": "Huyện Lâm Hà",
+      "code": "VN-35-1905208",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-35",
+      "latitude": 11.8189,
+      "longitude": 108.21215
+    },
+    {
+      "id": 1905209,
+      "name": "Lạc Dương District",
+      "nativeName": "Huyện Lạc Dương",
+      "code": "VN-35-1905209",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-35",
+      "latitude": 12.12373,
+      "longitude": 108.53108
+    },
+    {
+      "id": 1905200,
+      "name": "Thành Phố Bảo Lộc",
+      "nativeName": "Thành Phố Bảo Lộc",
+      "code": "VN-35-1905200",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-35",
+      "latitude": 11.53759,
+      "longitude": 107.78638
+    },
+    {
+      "id": 1905197,
+      "name": "Thành Phố Đà Lạt",
+      "nativeName": "Thành Phố Đà Lạt",
+      "code": "VN-35-1905197",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-35",
+      "latitude": 11.93145,
+      "longitude": 108.47414
+    },
+    {
+      "id": 1584012,
+      "name": "Đam Rông District",
+      "nativeName": "Đam Rong",
+      "code": "VN-35-1584012",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-35",
+      "latitude": 12.05409,
+      "longitude": 108.14941
+    },
+    {
+      "id": 1905207,
+      "name": "Đơn Dương District",
+      "nativeName": "Huyện Đơn Dương",
+      "code": "VN-35-1905207",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-35",
+      "latitude": 11.75308,
+      "longitude": 108.55397
+    },
+    {
+      "id": 1905202,
+      "name": "Đạ Huoai District",
+      "nativeName": "Huyện Đạ Huoai",
+      "code": "VN-35-1905202",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-35",
+      "latitude": 11.42465,
+      "longitude": 107.63825
+    },
+    {
+      "id": 1905203,
+      "name": "Đạ Tẻh District",
+      "nativeName": "Huyện Đạ Tẻh",
+      "code": "VN-35-1905203",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-35",
+      "latitude": 11.58446,
+      "longitude": 107.52792
+    },
+    {
+      "id": 1905206,
+      "name": "Đức Trọng District",
+      "nativeName": "Huyện Đức Trọng",
+      "code": "VN-35-1905206",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-35",
+      "latitude": 11.62686,
+      "longitude": 108.3533
+    }
+  ]
+}

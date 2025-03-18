@@ -1,0 +1,139 @@
+{
+  "stateId": 1567643,
+  "stateCode": "VN-05",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 1905082,
+      "name": "Bắc Yên District",
+      "nativeName": "Huyện Bắc Yên",
+      "code": "VN-05-1905082",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-05",
+      "latitude": 21.25042,
+      "longitude": 104.38501
+    },
+    {
+      "id": 8714967,
+      "name": "Huyen Sop Cop",
+      "nativeName": "Huyen Sop Cop",
+      "code": "VN-05-8714967",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-05",
+      "latitude": 20.88745,
+      "longitude": 103.49743
+    },
+    {
+      "id": 11497487,
+      "name": "Huyện Vân Hồ",
+      "nativeName": "Huyện Vân Hồ",
+      "code": "VN-05-11497487",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-05",
+      "latitude": 20.79657,
+      "longitude": 104.81384
+    },
+    {
+      "id": 1905081,
+      "name": "Mai Sơn District",
+      "nativeName": "Huyện Mai Sơn",
+      "code": "VN-05-1905081",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-05",
+      "latitude": 21.15884,
+      "longitude": 104.04821
+    },
+    {
+      "id": 1905077,
+      "name": "Mường La District",
+      "nativeName": "Huyện Mường La",
+      "code": "VN-05-1905077",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-05",
+      "latitude": 21.5296,
+      "longitude": 104.11113
+    },
+    {
+      "id": 1905085,
+      "name": "Mộc Châu District",
+      "nativeName": "Huyện Mộc Châu",
+      "code": "VN-05-1905085",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-05",
+      "latitude": 20.90787,
+      "longitude": 104.6356
+    },
+    {
+      "id": 1905084,
+      "name": "Phù Yên District",
+      "nativeName": "Huyện Phù Yên",
+      "code": "VN-05-1905084",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-05",
+      "latitude": 21.21412,
+      "longitude": 104.68993
+    },
+    {
+      "id": 1905078,
+      "name": "Quỳnh Nhai District",
+      "nativeName": "Huyện Quỳnh Nhai",
+      "code": "VN-05-1905078",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-05",
+      "latitude": 21.77224,
+      "longitude": 103.6492
+    },
+    {
+      "id": 1905080,
+      "name": "Sông Mã District",
+      "nativeName": "Huyện Sông Mã",
+      "code": "VN-05-1905080",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-05",
+      "latitude": 21.06971,
+      "longitude": 103.68727
+    },
+    {
+      "id": 1905079,
+      "name": "Thuận Châu District",
+      "nativeName": "Huyện Thuận Châu",
+      "code": "VN-05-1905079",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-05",
+      "latitude": 21.42319,
+      "longitude": 103.64408
+    },
+    {
+      "id": 1905076,
+      "name": "Thành Phố Sơn La",
+      "nativeName": "Thành Phố Sơn La",
+      "code": "VN-05-1905076",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-05",
+      "latitude": 21.34614,
+      "longitude": 103.9115
+    },
+    {
+      "id": 1905083,
+      "name": "Yên Châu District",
+      "nativeName": "Huyện Yên Châu",
+      "code": "VN-05-1905083",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-05",
+      "latitude": 21.005,
+      "longitude": 104.33264
+    }
+  ]
+}

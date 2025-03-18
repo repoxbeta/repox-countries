@@ -1,0 +1,40 @@
+{
+  "stateId": 2248753,
+  "stateCode": "SN-MT",
+  "countryCode": "SN",
+  "cities": [
+    {
+      "id": 9166367,
+      "name": "Kanel",
+      "nativeName": "Kanel Department",
+      "code": "SN-MT-9166367",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "stateCode": "SN-MT",
+      "latitude": 15.49167,
+      "longitude": -13.17639
+    },
+    {
+      "id": 7670870,
+      "name": "Matam",
+      "nativeName": "Matam Department",
+      "code": "SN-MT-7670870",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "stateCode": "SN-MT",
+      "latitude": 15.73191,
+      "longitude": -13.63393
+    },
+    {
+      "id": 10778597,
+      "name": "Ranerou",
+      "nativeName": "Département de Ranérou Ferlo",
+      "code": "SN-MT-10778597",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "stateCode": "SN-MT",
+      "latitude": 15.05069,
+      "longitude": -14.13322
+    }
+  ]
+}

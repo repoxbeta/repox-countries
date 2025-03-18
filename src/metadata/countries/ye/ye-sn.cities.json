@@ -1,0 +1,183 @@
+{
+  "stateId": 71132,
+  "stateCode": "YE-SN",
+  "countryCode": "YE",
+  "cities": [
+    {
+      "id": 6940811,
+      "name": "Al Haymah Ad Dakhiliyah District",
+      "nativeName": "Al Haymah Ad Dakhiliyah",
+      "code": "YE-SN-6940811",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-SN",
+      "latitude": 15.2722,
+      "longitude": 43.8393
+    },
+    {
+      "id": 6940805,
+      "name": "Al Haymah Al Kharijiyah District",
+      "nativeName": "Al Haymah Al Kharijiyah",
+      "code": "YE-SN-6940805",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-SN",
+      "latitude": 15.0267,
+      "longitude": 43.85
+    },
+    {
+      "id": 6940803,
+      "name": "Al Husn District",
+      "nativeName": "Al Husn",
+      "code": "YE-SN-6940803",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-SN",
+      "latitude": 15.0206,
+      "longitude": 44.5044
+    },
+    {
+      "id": 6940622,
+      "name": "Arhab District",
+      "nativeName": "Arhab",
+      "code": "YE-SN-6940622",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-SN",
+      "latitude": 15.7995,
+      "longitude": 44.2466
+    },
+    {
+      "id": 6940802,
+      "name": "Attyal District",
+      "nativeName": "Attyal",
+      "code": "YE-SN-6940802",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-SN",
+      "latitude": 15.32931,
+      "longitude": 44.57739
+    },
+    {
+      "id": 6940808,
+      "name": "Bani Dhabyan District",
+      "nativeName": "Bani Dhabyan",
+      "code": "YE-SN-6940808",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-SN",
+      "latitude": 15.0481,
+      "longitude": 44.8718
+    },
+    {
+      "id": 6940810,
+      "name": "Bani Hushaysh District",
+      "nativeName": "Bani Hushaysh",
+      "code": "YE-SN-6940810",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-SN",
+      "latitude": 15.4505,
+      "longitude": 44.3782
+    },
+    {
+      "id": 6940801,
+      "name": "Bani Matar District",
+      "nativeName": "Bani Matar",
+      "code": "YE-SN-6940801",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-SN",
+      "latitude": 15.215,
+      "longitude": 44.0498
+    },
+    {
+      "id": 6940804,
+      "name": "Bilad Ar Rus District",
+      "nativeName": "Bilad Ar Rus",
+      "code": "YE-SN-6940804",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-SN",
+      "latitude": 15.0351,
+      "longitude": 44.2514
+    },
+    {
+      "id": 75257,
+      "name": "Hamdan District",
+      "nativeName": "Hamdān",
+      "code": "YE-SN-75257",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-SN",
+      "latitude": 15.50662,
+      "longitude": 44.0603
+    },
+    {
+      "id": 6940807,
+      "name": "Jihanah District",
+      "nativeName": "Jihanah",
+      "code": "YE-SN-6940807",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-SN",
+      "latitude": 15.1919,
+      "longitude": 44.5195
+    },
+    {
+      "id": 6940809,
+      "name": "Khwlan District",
+      "nativeName": "Khwlan",
+      "code": "YE-SN-6940809",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-SN",
+      "latitude": 15.2749,
+      "longitude": 44.7686
+    },
+    {
+      "id": 6940806,
+      "name": "Manakhah District",
+      "nativeName": "Manakhah",
+      "code": "YE-SN-6940806",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-SN",
+      "latitude": 15.0717,
+      "longitude": 43.6862
+    },
+    {
+      "id": 6940800,
+      "name": "Nihm District",
+      "nativeName": "Nihm",
+      "code": "YE-SN-6940800",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-SN",
+      "latitude": 15.7516,
+      "longitude": 44.5746
+    },
+    {
+      "id": 6940812,
+      "name": "Sa'fan District",
+      "nativeName": "Sa'fan",
+      "code": "YE-SN-6940812",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-SN",
+      "latitude": 15.0712,
+      "longitude": 43.5827
+    },
+    {
+      "id": 71131,
+      "name": "Sanhan and Bani Bahlul District",
+      "nativeName": "Sanhan",
+      "code": "YE-SN-71131",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-SN",
+      "latitude": 15.2252,
+      "longitude": 44.3057
+    }
+  ]
+}

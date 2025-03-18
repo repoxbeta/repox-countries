@@ -35,8 +35,8 @@ export interface StateGeoname {
   countryName: string;      // Full country name
 
   population: number;       // Population count
-  latitude: number;         // Latitude
-  longitude: number;        // Longitude
+  lat: string;              // Latitude
+  lng: string;              // Longitude
 
   adminName1: string;       // Official state/province name (alternative)
   fcl: string;              // Feature class (e.g., "A" for administrative region)
@@ -65,8 +65,8 @@ export interface CityGeoname {
   };
 
   population: number;       // Population count
-  lat: number;              // Latitude coordinate
-  lng: number;              // Longitude coordinate
+  lat: string;              // Latitude coordinate
+  lng: string;              // Longitude coordinate
 
   fcl: string;              // Feature class (e.g., "A" for administrative division)
   fclName: string;          // Feature class name (e.g., "country, state, region, ...")

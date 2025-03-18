@@ -1,0 +1,40 @@
+{
+  "stateId": 8469240,
+  "stateCode": "TZ-28",
+  "countryCode": "TZ",
+  "cities": [
+    {
+      "id": 9998077,
+      "name": "Mlele District Council",
+      "nativeName": "Mlele",
+      "code": "TZ-28-9998077",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-28",
+      "latitude": -6.59031,
+      "longitude": 31.76462
+    },
+    {
+      "id": 153173,
+      "name": "Mpanda Rural",
+      "nativeName": "Mpanda",
+      "code": "TZ-28-153173",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-28",
+      "latitude": -6.02603,
+      "longitude": 30.58347
+    },
+    {
+      "id": 9998078,
+      "name": "Mpanda Urban",
+      "nativeName": "Mpanda Town",
+      "code": "TZ-28-9998078",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-28",
+      "latitude": -6.40293,
+      "longitude": 30.98537
+    }
+  ]
+}

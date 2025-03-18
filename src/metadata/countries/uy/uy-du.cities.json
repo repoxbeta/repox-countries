@@ -1,0 +1,29 @@
+{
+  "stateId": 3442720,
+  "stateCode": "UY-DU",
+  "countryCode": "UY",
+  "cities": [
+    {
+      "id": 11820807,
+      "name": "Sarandí Del Yí",
+      "nativeName": "Sarandí Del Yí",
+      "code": "UY-DU-11820807",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-DU",
+      "latitude": -33.21653,
+      "longitude": -55.57587
+    },
+    {
+      "id": 11820777,
+      "name": "Villa Carmen",
+      "nativeName": "Villa Carmen",
+      "code": "UY-DU-11820777",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-DU",
+      "latitude": -33.16511,
+      "longitude": -55.91501
+    }
+  ]
+}

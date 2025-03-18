@@ -1,0 +1,40 @@
+{
+  "stateId": 7628319,
+  "stateCode": "LV-062",
+  "countryCode": "LV",
+  "cities": [
+    {
+      "id": 11352482,
+      "name": "Babītes pagasts",
+      "nativeName": "Babītes pagasts",
+      "code": "LV-062-11352482",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-062",
+      "latitude": 56.89408,
+      "longitude": 23.81675
+    },
+    {
+      "id": 11352759,
+      "name": "Mārupes novads",
+      "nativeName": "Mārupes novads",
+      "code": "LV-062-11352759",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-062",
+      "latitude": 56.88647,
+      "longitude": 23.95908
+    },
+    {
+      "id": 11352483,
+      "name": "Salas pagasts",
+      "nativeName": "Salas pagasts",
+      "code": "LV-062-11352483",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-062",
+      "latitude": 56.91811,
+      "longitude": 23.65245
+    }
+  ]
+}

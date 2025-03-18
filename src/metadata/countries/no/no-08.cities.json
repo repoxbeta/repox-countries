@@ -1,0 +1,194 @@
+{
+  "stateId": 3134723,
+  "stateCode": "NO-08",
+  "countryCode": "NO",
+  "cities": [
+    {
+      "id": 3162078,
+      "name": "Bamble",
+      "nativeName": "Bamble",
+      "code": "NO-08-3162078",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-08",
+      "latitude": 59.00146,
+      "longitude": 9.74573
+    },
+    {
+      "id": 3159006,
+      "name": "Drangedal",
+      "nativeName": "Drangedal",
+      "code": "NO-08-3159006",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-08",
+      "latitude": 59.09655,
+      "longitude": 9.0596
+    },
+    {
+      "id": 3156247,
+      "name": "Fyresdal",
+      "nativeName": "Fyresdal",
+      "code": "NO-08-3156247",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-08",
+      "latitude": 59.18651,
+      "longitude": 8.08953
+    },
+    {
+      "id": 3152610,
+      "name": "Hjartdal",
+      "nativeName": "Hjartdal",
+      "code": "NO-08-3152610",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-08",
+      "latitude": 59.61276,
+      "longitude": 8.94942
+    },
+    {
+      "id": 3149409,
+      "name": "Kragerø",
+      "nativeName": "Kragerø",
+      "code": "NO-08-3149409",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-08",
+      "latitude": 58.86792,
+      "longitude": 9.41099
+    },
+    {
+      "id": 3148725,
+      "name": "Kviteseid",
+      "nativeName": "Kviteseid",
+      "code": "NO-08-3148725",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-08",
+      "latitude": 59.40194,
+      "longitude": 8.49459
+    },
+    {
+      "id": 12110623,
+      "name": "Midt-Telemark",
+      "nativeName": "Midt-Telemark",
+      "code": "NO-08-12110623",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-08",
+      "latitude": 59.43942,
+      "longitude": 9.16611
+    },
+    {
+      "id": 3144561,
+      "name": "Nissedal",
+      "nativeName": "Nissedal",
+      "code": "NO-08-3144561",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-08",
+      "latitude": 59.01958,
+      "longitude": 8.52127
+    },
+    {
+      "id": 6453387,
+      "name": "Nome",
+      "nativeName": "Nome",
+      "code": "NO-08-6453387",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-08",
+      "latitude": 59.28136,
+      "longitude": 9.25678
+    },
+    {
+      "id": 6453369,
+      "name": "Notodden",
+      "nativeName": "Notodden",
+      "code": "NO-08-6453369",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-08",
+      "latitude": 59.55992,
+      "longitude": 9.26046
+    },
+    {
+      "id": 6453394,
+      "name": "Porsgrunn",
+      "nativeName": "Porsgrunn",
+      "code": "NO-08-6453394",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-08",
+      "latitude": 59.1419,
+      "longitude": 9.6568
+    },
+    {
+      "id": 3139893,
+      "name": "Seljord",
+      "nativeName": "Seljord",
+      "code": "NO-08-3139893",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-08",
+      "latitude": 59.48274,
+      "longitude": 8.62672
+    },
+    {
+      "id": 3139675,
+      "name": "Siljan",
+      "nativeName": "Siljan",
+      "code": "NO-08-3139675",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-08",
+      "latitude": 59.28251,
+      "longitude": 9.73368
+    },
+    {
+      "id": 6453383,
+      "name": "Skien",
+      "nativeName": "Skien",
+      "code": "NO-08-6453383",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-08",
+      "latitude": 59.20748,
+      "longitude": 9.61052
+    },
+    {
+      "id": 3134592,
+      "name": "Tinn",
+      "nativeName": "Tinn",
+      "code": "NO-08-3134592",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-08",
+      "latitude": 59.83486,
+      "longitude": 9.13528
+    },
+    {
+      "id": 6453376,
+      "name": "Tokke",
+      "nativeName": "Tokke",
+      "code": "NO-08-6453376",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-08",
+      "latitude": 59.44569,
+      "longitude": 8.01388
+    },
+    {
+      "id": 6453365,
+      "name": "Vinje",
+      "nativeName": "Vinje",
+      "code": "NO-08-6453365",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-08",
+      "latitude": 59.56924,
+      "longitude": 7.98896
+    }
+  ]
+}

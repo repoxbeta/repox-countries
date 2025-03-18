@@ -1,0 +1,95 @@
+{
+  "stateId": 1831124,
+  "stateCode": "KH-6",
+  "countryCode": "KH",
+  "cities": [
+    {
+      "id": 7647222,
+      "name": "Baray",
+      "nativeName": "Baray",
+      "code": "KH-6-7647222",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-6",
+      "latitude": 12.42,
+      "longitude": 105.06
+    },
+    {
+      "id": 1831130,
+      "name": "Kampong Svay",
+      "nativeName": "Srŏk Kâmpóng Svay",
+      "code": "KH-6-1831130",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-6",
+      "latitude": 12.74245,
+      "longitude": 104.71999
+    },
+    {
+      "id": 7647211,
+      "name": "Krong Stueng Saen",
+      "nativeName": "Stueng Saen",
+      "code": "KH-6-7647211",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-6",
+      "latitude": 12.63,
+      "longitude": 104.87
+    },
+    {
+      "id": 7873979,
+      "name": "Prasat Ballangk",
+      "nativeName": "Prasat Balangk",
+      "code": "KH-6-7873979",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-6",
+      "latitude": 13.07137,
+      "longitude": 104.84491
+    },
+    {
+      "id": 8541396,
+      "name": "Prasat Sambour",
+      "nativeName": "Srŏk Prâsat Sâmbor",
+      "code": "KH-6-8541396",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-6",
+      "latitude": 12.86413,
+      "longitude": 105.1416
+    },
+    {
+      "id": 9253760,
+      "name": "Sandan",
+      "nativeName": "Sandan",
+      "code": "KH-6-9253760",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-6",
+      "latitude": 13.06888,
+      "longitude": 105.41378
+    },
+    {
+      "id": 7647223,
+      "name": "Santuk",
+      "nativeName": "Santuk",
+      "code": "KH-6-7647223",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-6",
+      "latitude": 12.64,
+      "longitude": 105.32
+    },
+    {
+      "id": 1822025,
+      "name": "Stoung",
+      "nativeName": "Srŏk Stoŭng",
+      "code": "KH-6-1822025",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-6",
+      "latitude": 12.89922,
+      "longitude": 104.48777
+    }
+  ]
+}

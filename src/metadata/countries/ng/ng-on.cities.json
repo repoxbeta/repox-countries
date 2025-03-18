@@ -1,0 +1,205 @@
+{
+  "stateId": 2326168,
+  "stateCode": "NG-ON",
+  "countryCode": "NG",
+  "cities": [
+    {
+      "id": 8636760,
+      "name": "Akoko North East",
+      "nativeName": "Akoko North East",
+      "code": "NG-ON-8636760",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-ON",
+      "latitude": 7.52744,
+      "longitude": 5.81022
+    },
+    {
+      "id": 8636761,
+      "name": "Akoko North West",
+      "nativeName": "Akoko North West",
+      "code": "NG-ON-8636761",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-ON",
+      "latitude": 7.641,
+      "longitude": 5.79399
+    },
+    {
+      "id": 8636759,
+      "name": "Akoko South East",
+      "nativeName": "Akoko South East",
+      "code": "NG-ON-8636759",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-ON",
+      "latitude": 7.41794,
+      "longitude": 5.91161
+    },
+    {
+      "id": 8636758,
+      "name": "Akoko South West",
+      "nativeName": "Akoko South West",
+      "code": "NG-ON-8636758",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-ON",
+      "latitude": 7.39766,
+      "longitude": 5.69463
+    },
+    {
+      "id": 8636755,
+      "name": "Akure North",
+      "nativeName": "Akure North",
+      "code": "NG-ON-8636755",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-ON",
+      "latitude": 7.26382,
+      "longitude": 5.31136
+    },
+    {
+      "id": 8636754,
+      "name": "Akure South",
+      "nativeName": "Akure South",
+      "code": "NG-ON-8636754",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-ON",
+      "latitude": 7.20501,
+      "longitude": 5.18766
+    },
+    {
+      "id": 8636747,
+      "name": "Ese Odo",
+      "nativeName": "Ese Odo",
+      "code": "NG-ON-8636747",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-ON",
+      "latitude": 6.21743,
+      "longitude": 4.96459
+    },
+    {
+      "id": 7873876,
+      "name": "Idanre",
+      "nativeName": "Idanre",
+      "code": "NG-ON-7873876",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-ON",
+      "latitude": 6.986,
+      "longitude": 5.209
+    },
+    {
+      "id": 8636753,
+      "name": "Ifedore",
+      "nativeName": "Ifedore",
+      "code": "NG-ON-8636753",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-ON",
+      "latitude": 7.36318,
+      "longitude": 5.08829
+    },
+    {
+      "id": 8636746,
+      "name": "Ilaje",
+      "nativeName": "Ilaje",
+      "code": "NG-ON-8636746",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-ON",
+      "latitude": 6.20323,
+      "longitude": 4.76788
+    },
+    {
+      "id": 8636752,
+      "name": "Ile Oluji/Okeigbo",
+      "nativeName": "Ile Oluji/Okeigbo",
+      "code": "NG-ON-8636752",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-ON",
+      "latitude": 7.27801,
+      "longitude": 4.88753
+    },
+    {
+      "id": 8636749,
+      "name": "Irele",
+      "nativeName": "Irele",
+      "code": "NG-ON-8636749",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-ON",
+      "latitude": 6.53479,
+      "longitude": 5.0092
+    },
+    {
+      "id": 7873875,
+      "name": "Odigbo",
+      "nativeName": "Odigbo",
+      "code": "NG-ON-7873875",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-ON",
+      "latitude": 6.765,
+      "longitude": 4.727
+    },
+    {
+      "id": 8636748,
+      "name": "Okitipupa",
+      "nativeName": "Okitipupa",
+      "code": "NG-ON-8636748",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-ON",
+      "latitude": 6.54797,
+      "longitude": 4.69894
+    },
+    {
+      "id": 8636751,
+      "name": "Ondo East",
+      "nativeName": "Ondo East",
+      "code": "NG-ON-8636751",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-ON",
+      "latitude": 7.09145,
+      "longitude": 4.96053
+    },
+    {
+      "id": 8636750,
+      "name": "Ondo West",
+      "nativeName": "Ondo West",
+      "code": "NG-ON-8636750",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-ON",
+      "latitude": 7.01642,
+      "longitude": 4.74558
+    },
+    {
+      "id": 8636757,
+      "name": "Ose",
+      "nativeName": "Ose",
+      "code": "NG-ON-8636757",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-ON",
+      "latitude": 7.05495,
+      "longitude": 5.7433
+    },
+    {
+      "id": 8636756,
+      "name": "Owo",
+      "nativeName": "Owo",
+      "code": "NG-ON-8636756",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-ON",
+      "latitude": 7.16648,
+      "longitude": 5.58005
+    }
+  ]
+}

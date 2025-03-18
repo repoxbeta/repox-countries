@@ -1,0 +1,106 @@
+{
+  "stateId": 4035154,
+  "stateCode": "WS-PA",
+  "countryCode": "WS",
+  "cities": [
+    {
+      "id": 4034938,
+      "name": "Vailoa",
+      "nativeName": "Vailoa",
+      "code": "WS-PA-4034938",
+      "countryId": 4034894,
+      "countryCode": "WS",
+      "stateCode": "WS-PA",
+      "latitude": -13.75551,
+      "longitude": -172.30698
+    },
+    {
+      "id": 4035327,
+      "name": "Foailalo",
+      "nativeName": "Foailalo",
+      "code": "WS-PA-4035327",
+      "countryId": 4034894,
+      "countryCode": "WS",
+      "stateCode": "WS-PA",
+      "latitude": -13.70226,
+      "longitude": -172.60453
+    },
+    {
+      "id": 4035326,
+      "name": "Foailuga",
+      "nativeName": "Foailuga",
+      "code": "WS-PA-4035326",
+      "countryId": 4034894,
+      "countryCode": "WS",
+      "stateCode": "WS-PA",
+      "latitude": -13.69666,
+      "longitude": -172.60924
+    },
+    {
+      "id": 4035310,
+      "name": "Gataivai",
+      "nativeName": "Gataivai",
+      "code": "WS-PA-4035310",
+      "countryId": 4034894,
+      "countryCode": "WS",
+      "stateCode": "WS-PA",
+      "latitude": -13.7736,
+      "longitude": -172.38802
+    },
+    {
+      "id": 4035309,
+      "name": "Gautavai",
+      "nativeName": "Gautavai",
+      "code": "WS-PA-4035309",
+      "countryId": 4034894,
+      "countryCode": "WS",
+      "stateCode": "WS-PA",
+      "latitude": -13.77618,
+      "longitude": -172.38392
+    },
+    {
+      "id": 4035130,
+      "name": "Puleia",
+      "nativeName": "Puleia",
+      "code": "WS-PA-4035130",
+      "countryId": 4034894,
+      "countryCode": "WS",
+      "stateCode": "WS-PA",
+      "latitude": -13.77614,
+      "longitude": -172.37761
+    },
+    {
+      "id": 4035029,
+      "name": "Sili",
+      "nativeName": "Sili",
+      "code": "WS-PA-4035029",
+      "countryId": 4034894,
+      "countryCode": "WS",
+      "stateCode": "WS-PA",
+      "latitude": -13.75602,
+      "longitude": -172.37733
+    },
+    {
+      "id": 4034999,
+      "name": "Tafua",
+      "nativeName": "Tafua",
+      "code": "WS-PA-4034999",
+      "countryId": 4034894,
+      "countryCode": "WS",
+      "stateCode": "WS-PA",
+      "latitude": -13.7927,
+      "longitude": -172.2538
+    },
+    {
+      "id": 4034998,
+      "name": "Taga",
+      "nativeName": "Taga",
+      "code": "WS-PA-4034998",
+      "countryId": 4034894,
+      "countryCode": "WS",
+      "stateCode": "WS-PA",
+      "latitude": -13.794,
+      "longitude": -172.5111
+    }
+  ]
+}

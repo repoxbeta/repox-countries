@@ -1,0 +1,84 @@
+{
+  "stateId": 864553,
+  "stateCode": "BG-09",
+  "countryCode": "BG",
+  "cities": [
+    {
+      "id": 733637,
+      "name": "Ardino",
+      "nativeName": "Obshtina Ardino",
+      "code": "BG-09-733637",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-09",
+      "latitude": 41.6,
+      "longitude": 25.15
+    },
+    {
+      "id": 732516,
+      "name": "Chernoochene",
+      "nativeName": "Obshtina Chernoochene",
+      "code": "BG-09-732516",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-09",
+      "latitude": 41.78333,
+      "longitude": 25.25
+    },
+    {
+      "id": 731740,
+      "name": "Dzhebel",
+      "nativeName": "Obshtina Dzhebel",
+      "code": "BG-09-731740",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-09",
+      "latitude": 41.5,
+      "longitude": 25.26667
+    },
+    {
+      "id": 729792,
+      "name": "Kardzhali",
+      "nativeName": "Obshtina Kardzhali",
+      "code": "BG-09-729792",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-09",
+      "latitude": 41.68333,
+      "longitude": 25.43333
+    },
+    {
+      "id": 730353,
+      "name": "Kirkovo",
+      "nativeName": "Obshtina Kirkovo",
+      "code": "BG-09-730353",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-09",
+      "latitude": 41.35816,
+      "longitude": 25.33731
+    },
+    {
+      "id": 729895,
+      "name": "Krumovgrad",
+      "nativeName": "Obshtina Krumovgrad",
+      "code": "BG-09-729895",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-09",
+      "latitude": 41.45,
+      "longitude": 25.7
+    },
+    {
+      "id": 728994,
+      "name": "Momchilgrad",
+      "nativeName": "Obshtina Momchilgrad",
+      "code": "BG-09-728994",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-09",
+      "latitude": 41.53333,
+      "longitude": 25.5
+    }
+  ]
+}

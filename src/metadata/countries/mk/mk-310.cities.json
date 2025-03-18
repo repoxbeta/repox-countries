@@ -1,0 +1,282 @@
+{
+  "stateId": 863883,
+  "stateCode": "MK-310",
+  "countryCode": "MK",
+  "cities": [
+    {
+      "id": 787487,
+      "name": "Ohrid",
+      "nativeName": "Ohrid",
+      "code": "MK-310-787487",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-310",
+      "latitude": 41.11722,
+      "longitude": 20.80194
+    },
+    {
+      "id": 791339,
+      "name": "Dolno Lakočerej",
+      "nativeName": "Dolno Lakočerej",
+      "code": "MK-310-791339",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-310",
+      "latitude": 41.15889,
+      "longitude": 20.79556
+    },
+    {
+      "id": 790325,
+      "name": "Gorno Lakočerej",
+      "nativeName": "Gorno Lakočerej",
+      "code": "MK-310-790325",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-310",
+      "latitude": 41.16861,
+      "longitude": 20.805
+    },
+    {
+      "id": 789247,
+      "name": "Kosel",
+      "nativeName": "Kosel",
+      "code": "MK-310-789247",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-310",
+      "latitude": 41.17444,
+      "longitude": 20.83556
+    },
+    {
+      "id": 788866,
+      "name": "Kuratica",
+      "nativeName": "Kuratica",
+      "code": "MK-310-788866",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-310",
+      "latitude": 41.24273,
+      "longitude": 20.88976
+    },
+    {
+      "id": 788715,
+      "name": "Leskoec",
+      "nativeName": "Leskoec",
+      "code": "MK-310-788715",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-310",
+      "latitude": 41.15028,
+      "longitude": 20.82806
+    },
+    {
+      "id": 788592,
+      "name": "Livoišta",
+      "nativeName": "Livoišta",
+      "code": "MK-310-788592",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-310",
+      "latitude": 41.20167,
+      "longitude": 20.81306
+    },
+    {
+      "id": 787465,
+      "name": "Openica",
+      "nativeName": "Openica",
+      "code": "MK-310-787465",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-310",
+      "latitude": 41.1825,
+      "longitude": 20.86917
+    },
+    {
+      "id": 787387,
+      "name": "Orman",
+      "nativeName": "Orman",
+      "code": "MK-310-787387",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-310",
+      "latitude": 41.14,
+      "longitude": 20.78444
+    },
+    {
+      "id": 787109,
+      "name": "Peštani",
+      "nativeName": "Peštani",
+      "code": "MK-310-787109",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-310",
+      "latitude": 41.01697,
+      "longitude": 20.81014
+    },
+    {
+      "id": 787036,
+      "name": "Plaḱe",
+      "nativeName": "Plaḱe",
+      "code": "MK-310-787036",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-310",
+      "latitude": 41.21861,
+      "longitude": 20.97333
+    },
+    {
+      "id": 786489,
+      "name": "Ramne",
+      "nativeName": "Ramne",
+      "code": "MK-310-786489",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-310",
+      "latitude": 41.10917,
+      "longitude": 20.83639
+    },
+    {
+      "id": 786460,
+      "name": "Rasino",
+      "nativeName": "Rasino",
+      "code": "MK-310-786460",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-310",
+      "latitude": 41.20444,
+      "longitude": 20.85889
+    },
+    {
+      "id": 8412715,
+      "name": "Raskrs",
+      "nativeName": "Raskrs",
+      "code": "MK-310-8412715",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-310",
+      "latitude": 41.22194,
+      "longitude": 20.85863
+    },
+    {
+      "id": 786374,
+      "name": "Rečica",
+      "nativeName": "Rečica",
+      "code": "MK-310-786374",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-310",
+      "latitude": 41.21348,
+      "longitude": 20.94184
+    },
+    {
+      "id": 785863,
+      "name": "Sirula",
+      "nativeName": "Sirula",
+      "code": "MK-310-785863",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-310",
+      "latitude": 41.23472,
+      "longitude": 20.84472
+    },
+    {
+      "id": 785831,
+      "name": "Skrebatno",
+      "nativeName": "Skrebatno",
+      "code": "MK-310-785831",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-310",
+      "latitude": 41.15227,
+      "longitude": 20.89251
+    },
+    {
+      "id": 785182,
+      "name": "Sviništa",
+      "nativeName": "Sviništa",
+      "code": "MK-310-785182",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-310",
+      "latitude": 41.20261,
+      "longitude": 20.94383
+    },
+    {
+      "id": 784721,
+      "name": "Vapila",
+      "nativeName": "Vapila",
+      "code": "MK-310-784721",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-310",
+      "latitude": 41.19278,
+      "longitude": 20.83111
+    },
+    {
+      "id": 784678,
+      "name": "Velestovo",
+      "nativeName": "Velestovo",
+      "code": "MK-310-784678",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-310",
+      "latitude": 41.08361,
+      "longitude": 20.82778
+    },
+    {
+      "id": 784676,
+      "name": "Velgošti",
+      "nativeName": "Velgošti",
+      "code": "MK-310-784676",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-310",
+      "latitude": 41.1325,
+      "longitude": 20.83694
+    },
+    {
+      "id": 783981,
+      "name": "Zavoj",
+      "nativeName": "Zavoj",
+      "code": "MK-310-783981",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-310",
+      "latitude": 41.19111,
+      "longitude": 20.90806
+    },
+    {
+      "id": 8411937,
+      "name": "Šipokno",
+      "nativeName": "Šipokno",
+      "code": "MK-310-8411937",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-310",
+      "latitude": 41.07617,
+      "longitude": 20.81286
+    },
+    {
+      "id": 12176034,
+      "name": "Elešec",
+      "nativeName": "Eleshec",
+      "code": "MK-310-12176034",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-310",
+      "latitude": 41.03312,
+      "longitude": 20.80797
+    },
+    {
+      "id": 8411939,
+      "name": "Rača",
+      "nativeName": "Rača",
+      "code": "MK-310-8411939",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-310",
+      "latitude": 41.09335,
+      "longitude": 20.81306
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "stateId": 294800,
+  "stateCode": "IL-HA",
+  "countryCode": "IL",
+  "cities": [
+    {
+      "id": 294798,
+      "name": "H̱efa",
+      "nativeName": "H̱efa",
+      "code": "IL-HA-294798",
+      "countryId": 294640,
+      "countryCode": "IL",
+      "stateCode": "IL-HA",
+      "latitude": 32.76667,
+      "longitude": 35.06667
+    },
+    {
+      "id": 12046851,
+      "name": "Nefat H̱adera",
+      "nativeName": "Nefat H̱adera",
+      "code": "IL-HA-12046851",
+      "countryId": 294640,
+      "countryCode": "IL",
+      "stateCode": "IL-HA",
+      "latitude": 32.51667,
+      "longitude": 34.98333
+    }
+  ]
+}

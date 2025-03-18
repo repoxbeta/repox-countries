@@ -1,0 +1,40 @@
+{
+  "stateId": 241251,
+  "stateCode": "SC-18",
+  "countryCode": "SC",
+  "cities": [
+    {
+      "id": 8693252,
+      "name": "Eden Island",
+      "nativeName": "Eden Island",
+      "code": "SC-18-8693252",
+      "countryId": 241170,
+      "countryCode": "SC",
+      "stateCode": "SC-18",
+      "latitude": -4.63875,
+      "longitude": 55.47679
+    },
+    {
+      "id": 11184853,
+      "name": "Ile au Cerf",
+      "nativeName": "Ile au Cerf",
+      "code": "SC-18-11184853",
+      "countryId": 241170,
+      "countryCode": "SC",
+      "stateCode": "SC-18",
+      "latitude": -4.63108,
+      "longitude": 55.49278
+    },
+    {
+      "id": 11694893,
+      "name": "South Point",
+      "nativeName": "South Point",
+      "code": "SC-18-11694893",
+      "countryId": 241170,
+      "countryCode": "SC",
+      "stateCode": "SC-18",
+      "latitude": -4.63937,
+      "longitude": 55.50344
+    }
+  ]
+}

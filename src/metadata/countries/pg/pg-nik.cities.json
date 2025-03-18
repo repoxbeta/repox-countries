@@ -1,0 +1,29 @@
+{
+  "stateId": 2089693,
+  "stateCode": "PG-NIK",
+  "countryCode": "PG",
+  "cities": [
+    {
+      "id": 2094341,
+      "name": "Kavieng District",
+      "nativeName": "Kavieng",
+      "code": "PG-NIK-2094341",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-NIK",
+      "latitude": -3,
+      "longitude": 151.41667
+    },
+    {
+      "id": 2090019,
+      "name": "Namatanai District",
+      "nativeName": "Namatanai",
+      "code": "PG-NIK-2090019",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-NIK",
+      "latitude": -4.33333,
+      "longitude": 152.83333
+    }
+  ]
+}

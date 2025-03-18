@@ -1,0 +1,40 @@
+{
+  "stateId": 862958,
+  "stateCode": "MK-204",
+  "countryCode": "MK",
+  "cities": [
+    {
+      "id": 783809,
+      "name": "Zrnovci",
+      "nativeName": "Zrnovci",
+      "code": "MK-204-783809",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-204",
+      "latitude": 41.85417,
+      "longitude": 22.44444
+    },
+    {
+      "id": 787842,
+      "name": "Morodvis",
+      "nativeName": "Morodvis",
+      "code": "MK-204-787842",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-204",
+      "latitude": 41.84854,
+      "longitude": 22.41604
+    },
+    {
+      "id": 784447,
+      "name": "Vidovište",
+      "nativeName": "Vidovište",
+      "code": "MK-204-784447",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-204",
+      "latitude": 41.845,
+      "longitude": 22.39861
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "countryId": 2309096,
+  "countryCode": "GQ",
+  "states": [
+    {
+      "id": 2310307,
+      "name": "Annobon",
+      "nativeName": "Provincia de Annobón",
+      "code": "GQ-AN",
+      "internalCode": "AN",
+      "countryId": 2309096,
+      "countryCode": "GQ",
+      "latitude": -1.43829,
+      "longitude": 5.63558
+    },
+    {
+      "id": 2566978,
+      "name": "Bioko Norte",
+      "nativeName": "Provincia de Bioko Norte",
+      "code": "GQ-BN",
+      "internalCode": "BN",
+      "countryId": 2309096,
+      "countryCode": "GQ",
+      "latitude": 3.68333,
+      "longitude": 8.78333
+    },
+    {
+      "id": 2566979,
+      "name": "Bioko Sur",
+      "nativeName": "Provincia de Bioko Sur",
+      "code": "GQ-BS",
+      "internalCode": "BS",
+      "countryId": 2309096,
+      "countryCode": "GQ",
+      "latitude": 3.41667,
+      "longitude": 8.66667
+    },
+    {
+      "id": 2566980,
+      "name": "Centro Sur",
+      "nativeName": "Provincia de Centro Sur",
+      "code": "GQ-CS",
+      "internalCode": "CS",
+      "countryId": 2309096,
+      "countryCode": "GQ",
+      "latitude": 1.5,
+      "longitude": 10.41667
+    },
+    {
+      "id": 12168385,
+      "name": "Djibloho",
+      "nativeName": "Djibloho",
+      "code": "GQ-DJ",
+      "internalCode": "DJ",
+      "countryId": 2309096,
+      "countryCode": "GQ",
+      "latitude": 1.59358,
+      "longitude": 10.82252
+    },
+    {
+      "id": 2566981,
+      "name": "Kié-Ntem",
+      "nativeName": "Provincia de Kié-Ntem",
+      "code": "GQ-KN",
+      "internalCode": "KN",
+      "countryId": 2309096,
+      "countryCode": "GQ",
+      "latitude": 2.05,
+      "longitude": 11
+    },
+    {
+      "id": 2566982,
+      "name": "Litoral",
+      "nativeName": "Provincia de Litoral",
+      "code": "GQ-LI",
+      "internalCode": "LI",
+      "countryId": 2309096,
+      "countryCode": "GQ",
+      "latitude": 1.5,
+      "longitude": 9.75
+    },
+    {
+      "id": 2566983,
+      "name": "Wele-Nzas",
+      "nativeName": "Provincia de Wele-Nzas",
+      "code": "GQ-WN",
+      "internalCode": "WN",
+      "countryId": 2309096,
+      "countryCode": "GQ",
+      "latitude": 1.5,
+      "longitude": 11.1
+    }
+  ]
+}

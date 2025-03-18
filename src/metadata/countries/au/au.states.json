@@ -1,0 +1,94 @@
+{
+  "countryId": 2077456,
+  "countryCode": "AU",
+  "states": [
+    {
+      "id": 2177478,
+      "name": "Australian Capital Territory",
+      "nativeName": "Australian Capital Territory",
+      "code": "AU-ACT",
+      "internalCode": "ACT",
+      "countryId": 2077456,
+      "countryCode": "AU",
+      "latitude": -35.5,
+      "longitude": 149
+    },
+    {
+      "id": 2155400,
+      "name": "New South Wales",
+      "nativeName": "State of New South Wales",
+      "code": "AU-NSW",
+      "internalCode": "NSW",
+      "countryId": 2077456,
+      "countryCode": "AU",
+      "latitude": -33,
+      "longitude": 146
+    },
+    {
+      "id": 2064513,
+      "name": "Northern Territory",
+      "nativeName": "Northern Territory",
+      "code": "AU-NT",
+      "internalCode": "NT",
+      "countryId": 2077456,
+      "countryCode": "AU",
+      "latitude": -20,
+      "longitude": 134
+    },
+    {
+      "id": 2152274,
+      "name": "Queensland",
+      "nativeName": "State of Queensland",
+      "code": "AU-QLD",
+      "internalCode": "QLD",
+      "countryId": 2077456,
+      "countryCode": "AU",
+      "latitude": -20,
+      "longitude": 145
+    },
+    {
+      "id": 2061327,
+      "name": "South Australia",
+      "nativeName": "State of South Australia",
+      "code": "AU-SA",
+      "internalCode": "SA",
+      "countryId": 2077456,
+      "countryCode": "AU",
+      "latitude": -30,
+      "longitude": 135
+    },
+    {
+      "id": 2147291,
+      "name": "Tasmania",
+      "nativeName": "State of Tasmania",
+      "code": "AU-TAS",
+      "internalCode": "TAS",
+      "countryId": 2077456,
+      "countryCode": "AU",
+      "latitude": -42,
+      "longitude": 147
+    },
+    {
+      "id": 2145234,
+      "name": "Victoria",
+      "nativeName": "State of Victoria",
+      "code": "AU-VIC",
+      "internalCode": "VIC",
+      "countryId": 2077456,
+      "countryCode": "AU",
+      "latitude": -37,
+      "longitude": 145
+    },
+    {
+      "id": 2058645,
+      "name": "Western Australia",
+      "nativeName": "State of Western Australia",
+      "code": "AU-WA",
+      "internalCode": "WA",
+      "countryId": 2077456,
+      "countryCode": "AU",
+      "latitude": -25,
+      "longitude": 122
+    }
+  ]
+}

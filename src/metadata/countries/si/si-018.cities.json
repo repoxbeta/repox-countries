@@ -1,0 +1,194 @@
+{
+  "stateId": 3344926,
+  "stateCode": "SI-018",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3202058,
+      "name": "Destrnik",
+      "nativeName": "Destrnik",
+      "code": "SI-018-3202058",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-018",
+      "latitude": 46.49254,
+      "longitude": 15.87893
+    },
+    {
+      "id": 3202077,
+      "name": "Desenci",
+      "nativeName": "Desenci",
+      "code": "SI-018-3202077",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-018",
+      "latitude": 46.49279,
+      "longitude": 15.91753
+    },
+    {
+      "id": 8987366,
+      "name": "Dolič",
+      "nativeName": "Dolič",
+      "code": "SI-018-8987366",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-018",
+      "latitude": 46.48453,
+      "longitude": 15.88886
+    },
+    {
+      "id": 8987169,
+      "name": "Drstelja",
+      "nativeName": "Drstelja",
+      "code": "SI-018-8987169",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-018",
+      "latitude": 46.47488,
+      "longitude": 15.85533
+    },
+    {
+      "id": 8987953,
+      "name": "Gomila",
+      "nativeName": "Gomila",
+      "code": "SI-018-8987953",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-018",
+      "latitude": 46.49535,
+      "longitude": 15.82569
+    },
+    {
+      "id": 8988198,
+      "name": "Gomilci",
+      "nativeName": "Gomilci",
+      "code": "SI-018-8988198",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-018",
+      "latitude": 46.49126,
+      "longitude": 15.90014
+    },
+    {
+      "id": 3198898,
+      "name": "Janežovci",
+      "nativeName": "Janežovci",
+      "code": "SI-018-3198898",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-018",
+      "latitude": 46.47,
+      "longitude": 15.88222
+    },
+    {
+      "id": 8987158,
+      "name": "Janežovski Vrh",
+      "nativeName": "Janežovski Vrh",
+      "code": "SI-018-8987158",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-018",
+      "latitude": 46.47948,
+      "longitude": 15.88122
+    },
+    {
+      "id": 3198603,
+      "name": "Jiršovci",
+      "nativeName": "Jiršovci",
+      "code": "SI-018-3198603",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-018",
+      "latitude": 46.5,
+      "longitude": 15.85
+    },
+    {
+      "id": 3196622,
+      "name": "Levanjci",
+      "nativeName": "Levanjci",
+      "code": "SI-018-3196622",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-018",
+      "latitude": 46.48528,
+      "longitude": 15.9125
+    },
+    {
+      "id": 8987316,
+      "name": "Ločki Vrh",
+      "nativeName": "Ločki Vrh",
+      "code": "SI-018-8987316",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-018",
+      "latitude": 46.50387,
+      "longitude": 15.88437
+    },
+    {
+      "id": 8987100,
+      "name": "Placar",
+      "nativeName": "Placar",
+      "code": "SI-018-8987100",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-018",
+      "latitude": 46.4598,
+      "longitude": 15.8785
+    },
+    {
+      "id": 3217936,
+      "name": "Strmec pri Destrniku",
+      "nativeName": "Strmec pri Destrniku",
+      "code": "SI-018-3217936",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-018",
+      "latitude": 46.50189,
+      "longitude": 15.85396
+    },
+    {
+      "id": 8987422,
+      "name": "Svetinci",
+      "nativeName": "Svetinci",
+      "code": "SI-018-8987422",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-018",
+      "latitude": 46.49918,
+      "longitude": 15.90123
+    },
+    {
+      "id": 8988398,
+      "name": "Zasadi",
+      "nativeName": "Zasadi",
+      "code": "SI-018-8988398",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-018",
+      "latitude": 46.49687,
+      "longitude": 15.87942
+    },
+    {
+      "id": 3186481,
+      "name": "Zgornji Velovlek",
+      "nativeName": "Zgornji Velovlek",
+      "code": "SI-018-3186481",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-018",
+      "latitude": 46.47114,
+      "longitude": 15.90473
+    },
+    {
+      "id": 3187711,
+      "name": "Vintarovci",
+      "nativeName": "Vintarovci",
+      "code": "SI-018-3187711",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-018",
+      "latitude": 46.48333,
+      "longitude": 15.86583
+    }
+  ]
+}

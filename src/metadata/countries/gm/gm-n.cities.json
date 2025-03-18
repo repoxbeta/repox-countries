@@ -1,0 +1,73 @@
+{
+  "stateId": 2412353,
+  "stateCode": "GM-N",
+  "countryCode": "GM",
+  "cities": [
+    {
+      "id": 2413686,
+      "name": "Central Baddibu",
+      "nativeName": "Central Baddibu",
+      "code": "GM-N-2413686",
+      "countryId": 2413451,
+      "countryCode": "GM",
+      "stateCode": "GM-N",
+      "latitude": 13.53333,
+      "longitude": -15.91667
+    },
+    {
+      "id": 2413213,
+      "name": "Jokadu",
+      "nativeName": "Jokadu",
+      "code": "GM-N-2413213",
+      "countryId": 2413451,
+      "countryCode": "GM",
+      "stateCode": "GM-N",
+      "latitude": 13.53333,
+      "longitude": -16.18333
+    },
+    {
+      "id": 2412718,
+      "name": "Lower Baddibu District",
+      "nativeName": "Lower Baddibu District",
+      "code": "GM-N-2412718",
+      "countryId": 2413451,
+      "countryCode": "GM",
+      "stateCode": "GM-N",
+      "latitude": 13.5,
+      "longitude": -16.05
+    },
+    {
+      "id": 2412717,
+      "name": "Lower Niumi District",
+      "nativeName": "Lower Niumi District",
+      "code": "GM-N-2412717",
+      "countryId": 2413451,
+      "countryCode": "GM",
+      "stateCode": "GM-N",
+      "latitude": 13.53333,
+      "longitude": -16.41667
+    },
+    {
+      "id": 2411714,
+      "name": "Upper Baddibu",
+      "nativeName": "Upper Baddibu",
+      "code": "GM-N-2411714",
+      "countryId": 2413451,
+      "countryCode": "GM",
+      "stateCode": "GM-N",
+      "latitude": 13.55,
+      "longitude": -15.66667
+    },
+    {
+      "id": 2411712,
+      "name": "Upper Niumi District",
+      "nativeName": "Upper Niumi District",
+      "code": "GM-N-2411712",
+      "countryId": 2413451,
+      "countryCode": "GM",
+      "stateCode": "GM-N",
+      "latitude": 13.4,
+      "longitude": -16.33333
+    }
+  ]
+}

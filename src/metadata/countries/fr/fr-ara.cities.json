@@ -1,0 +1,139 @@
+{
+  "stateId": 11071625,
+  "stateCode": "FR-ARA",
+  "countryCode": "FR",
+  "cities": [
+    {
+      "id": 3038422,
+      "name": "Ain",
+      "nativeName": "Ain",
+      "code": "FR-ARA-3038422",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-ARA",
+      "latitude": 46.16667,
+      "longitude": 5.33333
+    },
+    {
+      "id": 3038111,
+      "name": "Allier",
+      "nativeName": "Allier",
+      "code": "FR-ARA-3038111",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-ARA",
+      "latitude": 46.5,
+      "longitude": 3
+    },
+    {
+      "id": 3037147,
+      "name": "Ardèche",
+      "nativeName": "Ardèche",
+      "code": "FR-ARA-3037147",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-ARA",
+      "latitude": 44.66667,
+      "longitude": 4.33333
+    },
+    {
+      "id": 3028791,
+      "name": "Cantal",
+      "nativeName": "Cantal",
+      "code": "FR-ARA-3028791",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-ARA",
+      "latitude": 45.13985,
+      "longitude": 2.64947
+    },
+    {
+      "id": 3020781,
+      "name": "Drôme",
+      "nativeName": "Drôme",
+      "code": "FR-ARA-3020781",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-ARA",
+      "latitude": 44.69971,
+      "longitude": 5.16521
+    },
+    {
+      "id": 3013760,
+      "name": "Haute-Loire",
+      "nativeName": "Haute-Loire",
+      "code": "FR-ARA-3013760",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-ARA",
+      "latitude": 45.11001,
+      "longitude": 3.8394
+    },
+    {
+      "id": 3012715,
+      "name": "Isère",
+      "nativeName": "Isère",
+      "code": "FR-ARA-3012715",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-ARA",
+      "latitude": 45.16667,
+      "longitude": 5.83333
+    },
+    {
+      "id": 2997870,
+      "name": "Loire",
+      "nativeName": "Loire",
+      "code": "FR-ARA-2997870",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-ARA",
+      "latitude": 45.47169,
+      "longitude": 4.43298
+    },
+    {
+      "id": 2984986,
+      "name": "Puy-de-Dôme",
+      "nativeName": "Puy-de-Dôme",
+      "code": "FR-ARA-2984986",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-ARA",
+      "latitude": 45.70549,
+      "longitude": 3.146
+    },
+    {
+      "id": 2987410,
+      "name": "Rhône",
+      "nativeName": "Rhône",
+      "code": "FR-ARA-2987410",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-ARA",
+      "latitude": 45.89126,
+      "longitude": 4.53039
+    },
+    {
+      "id": 2975517,
+      "name": "Savoy",
+      "nativeName": "Savoie",
+      "code": "FR-ARA-2975517",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-ARA",
+      "latitude": 45.46805,
+      "longitude": 6.48547
+    },
+    {
+      "id": 3013736,
+      "name": "Upper Savoy",
+      "nativeName": "Haute-Savoie",
+      "code": "FR-ARA-3013736",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-ARA",
+      "latitude": 46.06143,
+      "longitude": 6.45374
+    }
+  ]
+}

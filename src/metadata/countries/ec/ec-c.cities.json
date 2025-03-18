@@ -1,0 +1,73 @@
+{
+  "stateId": 3659718,
+  "stateCode": "EC-C",
+  "countryCode": "EC",
+  "cities": [
+    {
+      "id": 9155065,
+      "name": "Canton Bolivar",
+      "nativeName": "Canton Bolivar",
+      "code": "EC-C-9155065",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-C",
+      "latitude": 0.50255,
+      "longitude": -77.90246
+    },
+    {
+      "id": 3654038,
+      "name": "Cantón Montúfar",
+      "nativeName": "Cantón Montúfar",
+      "code": "EC-C-3654038",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-C",
+      "latitude": 0.56387,
+      "longitude": -77.81432
+    },
+    {
+      "id": 3650471,
+      "name": "Cantón Tulcán",
+      "nativeName": "Cantón Tulcán",
+      "code": "EC-C-3650471",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-C",
+      "latitude": 0.83042,
+      "longitude": -78.02045
+    },
+    {
+      "id": 3657981,
+      "name": "Espejo",
+      "nativeName": "Espejo",
+      "code": "EC-C-3657981",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-C",
+      "latitude": 0.70603,
+      "longitude": -77.99608
+    },
+    {
+      "id": 3654172,
+      "name": "Mira",
+      "nativeName": "Mira",
+      "code": "EC-C-3654172",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-C",
+      "latitude": 0.65838,
+      "longitude": -78.13126
+    },
+    {
+      "id": 10792506,
+      "name": "San Pedro De Huaca",
+      "nativeName": "San Pedro De Huaca",
+      "code": "EC-C-10792506",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-C",
+      "latitude": 0.61652,
+      "longitude": -77.70866
+    }
+  ]
+}

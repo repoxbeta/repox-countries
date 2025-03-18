@@ -1,0 +1,259 @@
+{
+  "countryId": 2434508,
+  "countryCode": "TD",
+  "states": [
+    {
+      "id": 7603255,
+      "name": "Barh-El-Gazel",
+      "nativeName": "Province du Barh-El-Gazel",
+      "code": "TD-BG",
+      "internalCode": "BG",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "latitude": 14.66667,
+      "longitude": 16.91667
+    },
+    {
+      "id": 2435899,
+      "name": "Batha",
+      "nativeName": "Batha Region",
+      "code": "TD-BA",
+      "internalCode": "BA",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "latitude": 14,
+      "longitude": 19
+    },
+    {
+      "id": 7602866,
+      "name": "Borkou",
+      "nativeName": "Borkou Region",
+      "code": "TD-BO",
+      "internalCode": "BO",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "latitude": 18.25,
+      "longitude": 18.5
+    },
+    {
+      "id": 2434478,
+      "name": "Chari-Baguirmi",
+      "nativeName": "Chari-Baguirmi Region",
+      "code": "TD-CB",
+      "internalCode": "CB",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "latitude": 11.34,
+      "longitude": 16.25
+    },
+    {
+      "id": 8604857,
+      "name": "Ennedi Ouest",
+      "nativeName": "Ennedi-Ouest",
+      "code": "TD-EO",
+      "internalCode": "EO",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "latitude": 18.4,
+      "longitude": 21.4
+    },
+    {
+      "id": 8604858,
+      "name": "Ennedi-Est",
+      "nativeName": "Ennedi-Est",
+      "code": "TD-EE",
+      "internalCode": "EE",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "latitude": 17.75,
+      "longitude": 23.16667
+    },
+    {
+      "id": 2431555,
+      "name": "Guéra",
+      "nativeName": "Guera Region",
+      "code": "TD-GR",
+      "internalCode": "GR",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "latitude": 11.5,
+      "longitude": 18.5
+    },
+    {
+      "id": 7603251,
+      "name": "Hadjer-Lamis",
+      "nativeName": "Hadjer-Lamis",
+      "code": "TD-HL",
+      "internalCode": "HL",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "latitude": 12.66667,
+      "longitude": 16.16667
+    },
+    {
+      "id": 2430873,
+      "name": "Kanem",
+      "nativeName": "Kanem Region",
+      "code": "TD-KA",
+      "internalCode": "KA",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "latitude": 15,
+      "longitude": 15
+    },
+    {
+      "id": 2429323,
+      "name": "Lac",
+      "nativeName": "Lac Region",
+      "code": "TD-LC",
+      "internalCode": "LC",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "latitude": 13.5,
+      "longitude": 14.5
+    },
+    {
+      "id": 2429060,
+      "name": "Logone Occidental",
+      "nativeName": "Logone Occidental Region",
+      "code": "TD-LO",
+      "internalCode": "LO",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "latitude": 8.7529,
+      "longitude": 15.87236
+    },
+    {
+      "id": 2429058,
+      "name": "Logone Oriental",
+      "nativeName": "Logone Oriental Region",
+      "code": "TD-LR",
+      "internalCode": "LR",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "latitude": 8.25,
+      "longitude": 16.42
+    },
+    {
+      "id": 7603252,
+      "name": "Mandoul",
+      "nativeName": "Mandoul",
+      "code": "TD-MA",
+      "internalCode": "MA",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "latitude": 8.32941,
+      "longitude": 17.91567
+    },
+    {
+      "id": 2428132,
+      "name": "Mayo Kebbi Est",
+      "nativeName": "Mayo-Kebbi East Region",
+      "code": "TD-ME",
+      "internalCode": "ME",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "latitude": 10,
+      "longitude": 15.83
+    },
+    {
+      "id": 7603253,
+      "name": "Mayo-Kebbi Ouest",
+      "nativeName": "Mayo-Kebbi West Region",
+      "code": "TD-MO",
+      "internalCode": "MO",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "latitude": 9.33,
+      "longitude": 14.75
+    },
+    {
+      "id": 2427315,
+      "name": "Moyen-Chari",
+      "nativeName": "Moyen-Chari Region",
+      "code": "TD-MC",
+      "internalCode": "MC",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "latitude": 9.3333,
+      "longitude": 18.5
+    },
+    {
+      "id": 7603254,
+      "name": "N’Djaména",
+      "nativeName": "Ville de N'Djamena",
+      "code": "TD-ND",
+      "internalCode": "ND",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "latitude": 12.11666,
+      "longitude": 15.06666
+    },
+    {
+      "id": 242246,
+      "name": "Ouadaï",
+      "nativeName": "Ouaddai Region",
+      "code": "TD-OD",
+      "internalCode": "OD",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "latitude": 13.5,
+      "longitude": 21.25
+    },
+    {
+      "id": 242048,
+      "name": "Salamat",
+      "nativeName": "Salamat Region",
+      "code": "TD-SA",
+      "internalCode": "SA",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "latitude": 11,
+      "longitude": 20.5
+    },
+    {
+      "id": 7603257,
+      "name": "Sila",
+      "nativeName": "Sila",
+      "code": "TD-SI",
+      "internalCode": "SI",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "latitude": 12.25,
+      "longitude": 21.5
+    },
+    {
+      "id": 2425287,
+      "name": "Tandjilé",
+      "nativeName": "Tandjile Region",
+      "code": "TD-TA",
+      "internalCode": "TA",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "latitude": 9.5,
+      "longitude": 16.5
+    },
+    {
+      "id": 7603258,
+      "name": "Tibesti",
+      "nativeName": "Tibesti Region",
+      "code": "TD-TI",
+      "internalCode": "TI",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "latitude": 20.33333,
+      "longitude": 16.66667
+    },
+    {
+      "id": 244877,
+      "name": "Wadi Fira",
+      "nativeName": "Wadi Fira Region",
+      "code": "TD-WF",
+      "internalCode": "WF",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "latitude": 15,
+      "longitude": 21.5
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "stateId": 3604318,
+  "stateCode": "HN-OC",
+  "countryCode": "HN",
+  "cities": [
+    {
+      "id": 3614798,
+      "name": "Belén Gualcho",
+      "nativeName": "Belén Gualcho",
+      "code": "HN-OC-3614798",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-OC",
+      "latitude": 14.4795,
+      "longitude": -88.78333
+    },
+    {
+      "id": 3613300,
+      "name": "Concepción",
+      "nativeName": "Concepción",
+      "code": "HN-OC-3613300",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-OC",
+      "latitude": 14.52383,
+      "longitude": -89.19371
+    },
+    {
+      "id": 3612833,
+      "name": "Dolores Merendón",
+      "nativeName": "Dolores Merendón",
+      "code": "HN-OC-3612833",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-OC",
+      "latitude": 14.55095,
+      "longitude": -89.12493
+    },
+    {
+      "id": 3609671,
+      "name": "Fraternidad",
+      "nativeName": "Fraternidad",
+      "code": "HN-OC-3609671",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-OC",
+      "latitude": 14.58087,
+      "longitude": -89.0774
+    },
+    {
+      "id": 3607994,
+      "name": "La Encarnación",
+      "nativeName": "La Encarnación",
+      "code": "HN-OC-3607994",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-OC",
+      "latitude": 14.66667,
+      "longitude": -89.04742
+    },
+    {
+      "id": 3607645,
+      "name": "La Labor",
+      "nativeName": "La Labor",
+      "code": "HN-OC-3607645",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-OC",
+      "latitude": 14.4956,
+      "longitude": -89.02684
+    },
+    {
+      "id": 3605223,
+      "name": "Lucerna",
+      "nativeName": "Lucerna",
+      "code": "HN-OC-3605223",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-OC",
+      "latitude": 14.60597,
+      "longitude": -88.96344
+    },
+    {
+      "id": 3604857,
+      "name": "Mercedes",
+      "nativeName": "Mercedes",
+      "code": "HN-OC-3604857",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-OC",
+      "latitude": 14.31667,
+      "longitude": -88.98333
+    },
+    {
+      "id": 3604385,
+      "name": "Nueva Ocotepeque",
+      "nativeName": "Nueva Ocotepeque",
+      "code": "HN-OC-3604385",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-OC",
+      "latitude": 14.43333,
+      "longitude": -89.18333
+    },
+    {
+      "id": 3602340,
+      "name": "San Fernando",
+      "nativeName": "San Fernando",
+      "code": "HN-OC-3602340",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-OC",
+      "latitude": 14.68793,
+      "longitude": -89.10153
+    },
+    {
+      "id": 3602278,
+      "name": "San Francisco del Valle",
+      "nativeName": "San Francisco del Valle",
+      "code": "HN-OC-3602278",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-OC",
+      "latitude": 14.41,
+      "longitude": -88.99
+    },
+    {
+      "id": 3602165,
+      "name": "San Jorge",
+      "nativeName": "San Jorge",
+      "code": "HN-OC-3602165",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-OC",
+      "latitude": 14.63697,
+      "longitude": -89.1186
+    },
+    {
+      "id": 3601917,
+      "name": "San Marcos",
+      "nativeName": "San Marcos",
+      "code": "HN-OC-3601917",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-OC",
+      "latitude": 14.38,
+      "longitude": -88.92
+    },
+    {
+      "id": 3601602,
+      "name": "Santa Fe",
+      "nativeName": "Santa Fe",
+      "code": "HN-OC-3601602",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-OC",
+      "latitude": 14.50038,
+      "longitude": -89.2732
+    },
+    {
+      "id": 3601368,
+      "name": "Sensenti",
+      "nativeName": "Sensenti",
+      "code": "HN-OC-3601368",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-OC",
+      "latitude": 14.48,
+      "longitude": -88.9
+    },
+    {
+      "id": 3601283,
+      "name": "Sinuapa",
+      "nativeName": "Sinuapa",
+      "code": "HN-OC-3601283",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-OC",
+      "latitude": 14.46572,
+      "longitude": -89.12121
+    }
+  ]
+}

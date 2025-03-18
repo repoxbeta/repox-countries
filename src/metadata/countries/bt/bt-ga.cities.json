@@ -1,0 +1,29 @@
+{
+  "stateId": 7303651,
+  "stateCode": "BT-GA",
+  "countryCode": "BT",
+  "cities": [
+    {
+      "id": 1252578,
+      "name": "Gasa",
+      "nativeName": "Gasa",
+      "code": "BT-GA-1252578",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-GA",
+      "latitude": 27.90372,
+      "longitude": 89.72689
+    },
+    {
+      "id": 1337389,
+      "name": "Laya",
+      "nativeName": "Laya",
+      "code": "BT-GA-1337389",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-GA",
+      "latitude": 28.0613,
+      "longitude": 89.6826
+    }
+  ]
+}

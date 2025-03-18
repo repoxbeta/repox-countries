@@ -1,0 +1,106 @@
+{
+  "stateId": 4562531,
+  "stateCode": "PR-009",
+  "countryCode": "PR",
+  "cities": [
+    {
+      "id": 7268178,
+      "name": "Aibonito Barrio-Pueblo",
+      "nativeName": "Aibonito Barrio-Pueblo",
+      "code": "PR-009-7268178",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-009",
+      "latitude": 18.13819,
+      "longitude": -66.26417
+    },
+    {
+      "id": 7268180,
+      "name": "Algarrobo Barrio",
+      "nativeName": "Algarrobo Barrio",
+      "code": "PR-009-7268180",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-009",
+      "latitude": 18.09917,
+      "longitude": -66.27106
+    },
+    {
+      "id": 7268216,
+      "name": "Asomante Barrio",
+      "nativeName": "Asomante Barrio",
+      "code": "PR-009-7268216",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-009",
+      "latitude": 18.13236,
+      "longitude": -66.30395
+    },
+    {
+      "id": 7268334,
+      "name": "Caonillas Barrio",
+      "nativeName": "Caonillas Barrio",
+      "code": "PR-009-7268334",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-009",
+      "latitude": 18.15998,
+      "longitude": -66.26396
+    },
+    {
+      "id": 7268139,
+      "name": "Cuyón Barrio",
+      "nativeName": "Cuyón Barrio",
+      "code": "PR-009-7268139",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-009",
+      "latitude": 18.10098,
+      "longitude": -66.24344
+    },
+    {
+      "id": 7268566,
+      "name": "Llanos Barrio",
+      "nativeName": "Llanos Barrio",
+      "code": "PR-009-7268566",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-009",
+      "latitude": 18.15051,
+      "longitude": -66.28556
+    },
+    {
+      "id": 7268735,
+      "name": "Pasto Barrio",
+      "nativeName": "Pasto Barrio",
+      "code": "PR-009-7268735",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-009",
+      "latitude": 18.12084,
+      "longitude": -66.27155
+    },
+    {
+      "id": 7268765,
+      "name": "Plata Barrio",
+      "nativeName": "Plata Barrio",
+      "code": "PR-009-7268765",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-009",
+      "latitude": 18.16103,
+      "longitude": -66.23562
+    },
+    {
+      "id": 7268920,
+      "name": "Robles Barrio",
+      "nativeName": "Robles Barrio",
+      "code": "PR-009-7268920",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-009",
+      "latitude": 18.13336,
+      "longitude": -66.23888
+    }
+  ]
+}

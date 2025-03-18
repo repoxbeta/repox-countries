@@ -1,0 +1,215 @@
+{
+  "countryId": 4043988,
+  "countryCode": "GU",
+  "states": [
+    {
+      "id": 4043524,
+      "name": "Agana Heights",
+      "nativeName": "Agana Heights Municipality",
+      "code": "GU-AH",
+      "internalCode": "",
+      "countryId": 4043988,
+      "countryCode": "GU",
+      "latitude": 13.46559,
+      "longitude": 144.74773
+    },
+    {
+      "id": 4043725,
+      "name": "Agat",
+      "nativeName": "Agat Municipality",
+      "code": "GU-AT",
+      "internalCode": "",
+      "countryId": 4043988,
+      "countryCode": "GU",
+      "latitude": 13.35619,
+      "longitude": 144.66938
+    },
+    {
+      "id": 4043691,
+      "name": "Asan",
+      "nativeName": "Asan-Maina Municipality",
+      "code": "GU-AS",
+      "internalCode": "",
+      "countryId": 4043988,
+      "countryCode": "GU",
+      "latitude": 13.47214,
+      "longitude": 144.7164
+    },
+    {
+      "id": 4043885,
+      "name": "Barrigada",
+      "nativeName": "Barrigada Municipality",
+      "code": "GU-BA",
+      "internalCode": "",
+      "countryId": 4043988,
+      "countryCode": "GU",
+      "latitude": 13.46906,
+      "longitude": 144.7988
+    },
+    {
+      "id": 4043614,
+      "name": "Chalan Pago-Ordot",
+      "nativeName": "Chalan Pago-Ordot Municipality",
+      "code": "GU-CP",
+      "internalCode": "",
+      "countryId": 4043988,
+      "countryCode": "GU",
+      "latitude": 13.4474,
+      "longitude": 144.75888
+    },
+    {
+      "id": 4043877,
+      "name": "Dededo",
+      "nativeName": "Dededo Municipality",
+      "code": "GU-DD",
+      "internalCode": "",
+      "countryId": 4043988,
+      "countryCode": "GU",
+      "latitude": 13.51776,
+      "longitude": 144.83898
+    },
+    {
+      "id": 4044019,
+      "name": "Hagatna",
+      "nativeName": "Hagåtña Municipality",
+      "code": "GU-AN",
+      "internalCode": "",
+      "countryId": 4043988,
+      "countryCode": "GU",
+      "latitude": 13.47279,
+      "longitude": 144.75788
+    },
+    {
+      "id": 4044041,
+      "name": "Inarajan",
+      "nativeName": "Inarajan Municipality",
+      "code": "GU-IN",
+      "internalCode": "",
+      "countryId": 4043988,
+      "countryCode": "GU",
+      "latitude": 13.29414,
+      "longitude": 144.73479
+    },
+    {
+      "id": 4043416,
+      "name": "Mangilao",
+      "nativeName": "Mangilao Municipality",
+      "code": "GU-MA",
+      "internalCode": "",
+      "countryId": 4043988,
+      "countryCode": "GU",
+      "latitude": 13.44766,
+      "longitude": 144.80071
+    },
+    {
+      "id": 4043396,
+      "name": "Merizo Municipality",
+      "nativeName": "Merizo Municipality",
+      "code": "GU-ME",
+      "internalCode": "",
+      "countryId": 4043988,
+      "countryCode": "GU",
+      "latitude": 13.27125,
+      "longitude": 144.67464
+    },
+    {
+      "id": 4044148,
+      "name": "Mongmong-Toto-Maite Municipality",
+      "nativeName": "Mongmong-Toto-Maite Municipality",
+      "code": "GU-MT",
+      "internalCode": "",
+      "countryId": 4043988,
+      "countryCode": "GU",
+      "latitude": 13.46857,
+      "longitude": 144.78191
+    },
+    {
+      "id": 4038478,
+      "name": "Piti Municipality",
+      "nativeName": "Piti Municipality",
+      "code": "GU-PI",
+      "internalCode": "",
+      "countryId": 4043988,
+      "countryCode": "GU",
+      "latitude": 13.46256,
+      "longitude": 144.69282
+    },
+    {
+      "id": 4038555,
+      "name": "Santa Rita Municipality",
+      "nativeName": "Santa Rita Municipality",
+      "code": "GU-SR",
+      "internalCode": "",
+      "countryId": 4043988,
+      "countryCode": "GU",
+      "latitude": 13.38609,
+      "longitude": 144.67208
+    },
+    {
+      "id": 4038590,
+      "name": "Sinajana Municipality",
+      "nativeName": "Sinajana Municipality",
+      "code": "GU-SJ",
+      "internalCode": "",
+      "countryId": 4043988,
+      "countryCode": "GU",
+      "latitude": 13.46334,
+      "longitude": 144.75381
+    },
+    {
+      "id": 4038652,
+      "name": "Talofofo Municipality",
+      "nativeName": "Talofofo Municipality",
+      "code": "GU-TF",
+      "internalCode": "",
+      "countryId": 4043988,
+      "countryCode": "GU",
+      "latitude": 13.35522,
+      "longitude": 144.7588
+    },
+    {
+      "id": 4038661,
+      "name": "Tamuning",
+      "nativeName": "Tamuning-Tumon-Harmon Municipality",
+      "code": "GU-TM",
+      "internalCode": "",
+      "countryId": 4043988,
+      "countryCode": "GU",
+      "latitude": 13.48759,
+      "longitude": 144.78094
+    },
+    {
+      "id": 4038739,
+      "name": "Umatac",
+      "nativeName": "Umatac Municipality",
+      "code": "GU-UM",
+      "internalCode": "",
+      "countryId": 4043988,
+      "countryCode": "GU",
+      "latitude": 13.30739,
+      "longitude": 144.66909
+    },
+    {
+      "id": 4038796,
+      "name": "Yigo",
+      "nativeName": "Yigo Municipality",
+      "code": "GU-YG",
+      "internalCode": "",
+      "countryId": 4043988,
+      "countryCode": "GU",
+      "latitude": 13.53603,
+      "longitude": 144.88913
+    },
+    {
+      "id": 4038811,
+      "name": "Yona",
+      "nativeName": "Yona Municipality",
+      "code": "GU-YN",
+      "internalCode": "",
+      "countryId": 4043988,
+      "countryCode": "GU",
+      "latitude": 13.40972,
+      "longitude": 144.77714
+    }
+  ]
+}

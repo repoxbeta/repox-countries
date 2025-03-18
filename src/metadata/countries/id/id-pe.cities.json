@@ -1,0 +1,95 @@
+{
+  "stateId": 12503512,
+  "stateCode": "ID-PE",
+  "countryCode": "ID",
+  "cities": [
+    {
+      "id": 9828820,
+      "name": "Central Mamberamo Regency",
+      "nativeName": "Kabupaten Mamberamo Tengah",
+      "code": "ID-PE-9828820",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-PE",
+      "latitude": -3.62733,
+      "longitude": 139.06483
+    },
+    {
+      "id": 1631789,
+      "name": "Jayawijaya Regency",
+      "nativeName": "Kabupaten Jayawijaya",
+      "code": "ID-PE-1631789",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-PE",
+      "latitude": -4.08333,
+      "longitude": 138.91667
+    },
+    {
+      "id": 9828040,
+      "name": "Lanny Jaya Regency",
+      "nativeName": "Kabupaten Lanny Jaya",
+      "code": "ID-PE-9828040",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-PE",
+      "latitude": -3.91244,
+      "longitude": 138.28766
+    },
+    {
+      "id": 9828977,
+      "name": "Nduga Regency",
+      "nativeName": "Kabupaten Nduga",
+      "code": "ID-PE-9828977",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-PE",
+      "latitude": -4.45093,
+      "longitude": 138.10089
+    },
+    {
+      "id": 7910943,
+      "name": "Pegunungan Bintang Regency",
+      "nativeName": "Kabupaten Pegunungan Bintang",
+      "code": "ID-PE-7910943",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-PE",
+      "latitude": -4.52167,
+      "longitude": 140.29541
+    },
+    {
+      "id": 9846653,
+      "name": "Tolikara Regency",
+      "nativeName": "Kabupaten Tolikara",
+      "code": "ID-PE-9846653",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-PE",
+      "latitude": -3.48799,
+      "longitude": 138.40039
+    },
+    {
+      "id": 9846659,
+      "name": "Yahukimo Regency",
+      "nativeName": "Kabupaten Yahukimo",
+      "code": "ID-PE-9846659",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-PE",
+      "latitude": -4.60403,
+      "longitude": 139.58405
+    },
+    {
+      "id": 9846662,
+      "name": "Yalimo Regency",
+      "nativeName": "Kabupaten Yalimo",
+      "code": "ID-PE-9846662",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-PE",
+      "latitude": -3.78805,
+      "longitude": 139.42183
+    }
+  ]
+}

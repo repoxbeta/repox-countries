@@ -1,0 +1,51 @@
+{
+  "stateId": 7670846,
+  "stateCode": "MG-72",
+  "countryCode": "MG",
+  "cities": [
+    {
+      "id": 7910099,
+      "name": "Andapa District",
+      "nativeName": "Andapa District",
+      "code": "MG-72-7910099",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-72",
+      "latitude": -14.65,
+      "longitude": 49.65
+    },
+    {
+      "id": 11523465,
+      "name": "Antalaha",
+      "nativeName": "Antalaha",
+      "code": "MG-72-11523465",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-72",
+      "latitude": -14.90386,
+      "longitude": 50.24428
+    },
+    {
+      "id": 11072839,
+      "name": "Sambava",
+      "nativeName": "Sambava",
+      "code": "MG-72-11072839",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-72",
+      "latitude": -14.21719,
+      "longitude": 49.84669
+    },
+    {
+      "id": 11926406,
+      "name": "Vohemar",
+      "nativeName": "Vohemar",
+      "code": "MG-72-11926406",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-72",
+      "latitude": -13.48383,
+      "longitude": 49.71472
+    }
+  ]
+}

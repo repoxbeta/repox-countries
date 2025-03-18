@@ -1,0 +1,84 @@
+{
+  "stateId": 3042063,
+  "stateCode": "LI-03",
+  "countryCode": "LI",
+  "cities": [
+    {
+      "id": 3042062,
+      "name": "Gamprin",
+      "nativeName": "Gamprin",
+      "code": "LI-03-3042062",
+      "countryId": 3042058,
+      "countryCode": "LI",
+      "stateCode": "LI-03",
+      "latitude": 47.22038,
+      "longitude": 9.50935
+    },
+    {
+      "id": 10347571,
+      "name": "Badäl",
+      "nativeName": "Badäl",
+      "code": "LI-03-10347571",
+      "countryId": 3042058,
+      "countryCode": "LI",
+      "stateCode": "LI-03",
+      "latitude": 47.22944,
+      "longitude": 9.51906
+    },
+    {
+      "id": 3042072,
+      "name": "Bendern",
+      "nativeName": "Bendern",
+      "code": "LI-03-3042072",
+      "countryId": 3042058,
+      "countryCode": "LI",
+      "stateCode": "LI-03",
+      "latitude": 47.21199,
+      "longitude": 9.50678
+    },
+    {
+      "id": 10347570,
+      "name": "Breita",
+      "nativeName": "Breita",
+      "code": "LI-03-10347570",
+      "countryId": 3042058,
+      "countryCode": "LI",
+      "stateCode": "LI-03",
+      "latitude": 47.22599,
+      "longitude": 9.51669
+    },
+    {
+      "id": 10347566,
+      "name": "Lums",
+      "nativeName": "Lums",
+      "code": "LI-03-10347566",
+      "countryId": 3042058,
+      "countryCode": "LI",
+      "stateCode": "LI-03",
+      "latitude": 47.22541,
+      "longitude": 9.52606
+    },
+    {
+      "id": 10347583,
+      "name": "Studaberg",
+      "nativeName": "Studaberg",
+      "code": "LI-03-10347583",
+      "countryId": 3042058,
+      "countryCode": "LI",
+      "stateCode": "LI-03",
+      "latitude": 47.22179,
+      "longitude": 9.50841
+    },
+    {
+      "id": 10352097,
+      "name": "Höfe",
+      "nativeName": "Höfe",
+      "code": "LI-03-10352097",
+      "countryId": 3042058,
+      "countryCode": "LI",
+      "stateCode": "LI-03",
+      "latitude": 47.2232,
+      "longitude": 9.51602
+    }
+  ]
+}

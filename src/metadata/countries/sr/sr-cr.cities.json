@@ -1,0 +1,40 @@
+{
+  "stateId": 3384397,
+  "stateCode": "SR-CR",
+  "countryCode": "SR",
+  "cities": [
+    {
+      "id": 12088682,
+      "name": "Johanna Maria",
+      "nativeName": "Johanna Maria",
+      "code": "SR-CR-12088682",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-CR",
+      "latitude": 5.892,
+      "longitude": -56.373
+    },
+    {
+      "id": 13108208,
+      "name": "Ressort Totness",
+      "nativeName": "Ressort Totness",
+      "code": "SR-CR-13108208",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-CR",
+      "latitude": 5.64416,
+      "longitude": -56.33594
+    },
+    {
+      "id": 13108207,
+      "name": "Ressort Welgelegen",
+      "nativeName": "Ressort Welgelegen",
+      "code": "SR-CR-13108207",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-CR",
+      "latitude": 5.62476,
+      "longitude": -56.13304
+    }
+  ]
+}

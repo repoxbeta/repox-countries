@@ -1,0 +1,29 @@
+{
+  "stateId": 11778168,
+  "stateCode": "BW-FR",
+  "countryCode": "BW",
+  "cities": [
+    {
+      "id": 933778,
+      "name": "Francistown",
+      "nativeName": "Francistown",
+      "code": "BW-FR-933778",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "stateCode": "BW-FR",
+      "latitude": -21.17,
+      "longitude": 27.50778
+    },
+    {
+      "id": 11258590,
+      "name": "Minestone",
+      "nativeName": "Minestone",
+      "code": "BW-FR-11258590",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "stateCode": "BW-FR",
+      "latitude": -21.16994,
+      "longitude": 27.51659
+    }
+  ]
+}

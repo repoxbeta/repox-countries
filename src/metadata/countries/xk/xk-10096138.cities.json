@@ -1,0 +1,62 @@
+{
+  "stateId": 10096138,
+  "stateCode": "XK-10096138",
+  "countryCode": "XK",
+  "cities": [
+    {
+      "id": 8299769,
+      "name": "Hani i Elezit",
+      "nativeName": "Hani i Elezit",
+      "code": "XK-10096138-8299769",
+      "countryId": 831053,
+      "countryCode": "XK",
+      "stateCode": "XK-10096138",
+      "latitude": 42.13886,
+      "longitude": 21.26571
+    },
+    {
+      "id": 784758,
+      "name": "Komuna e Ferizajt",
+      "nativeName": "Komuna e Ferizajt",
+      "code": "XK-10096138-784758",
+      "countryId": 831053,
+      "countryCode": "XK",
+      "stateCode": "XK-10096138",
+      "latitude": 42.36667,
+      "longitude": 21.13333
+    },
+    {
+      "id": 789720,
+      "name": "Komuna e Kaçanikut",
+      "nativeName": "Komuna e Kaçanikut",
+      "code": "XK-10096138-789720",
+      "countryId": 831053,
+      "countryCode": "XK",
+      "stateCode": "XK-10096138",
+      "latitude": 42.2,
+      "longitude": 21.25
+    },
+    {
+      "id": 831101,
+      "name": "Komuna e Shtimes",
+      "nativeName": "Komuna e Shtimes",
+      "code": "XK-10096138-831101",
+      "countryId": 831053,
+      "countryCode": "XK",
+      "stateCode": "XK-10096138",
+      "latitude": 42.41667,
+      "longitude": 21.01667
+    },
+    {
+      "id": 831100,
+      "name": "Opština Štrpce",
+      "nativeName": "Opština Štrpce",
+      "code": "XK-10096138-831100",
+      "countryId": 831053,
+      "countryCode": "XK",
+      "stateCode": "XK-10096138",
+      "latitude": 42.23333,
+      "longitude": 21
+    }
+  ]
+}

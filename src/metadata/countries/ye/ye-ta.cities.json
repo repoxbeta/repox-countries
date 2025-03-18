@@ -1,0 +1,260 @@
+{
+  "stateId": 70222,
+  "stateCode": "YE-TA",
+  "countryCode": "YE",
+  "cities": [
+    {
+      "id": 6940687,
+      "name": "Al-Maafer District",
+      "nativeName": "Al Ma'afer",
+      "code": "YE-TA-6940687",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-TA",
+      "latitude": 13.3742,
+      "longitude": 43.9262
+    },
+    {
+      "id": 72514,
+      "name": "Al-Makha District",
+      "nativeName": "Al Mukhā’",
+      "code": "YE-TA-72514",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-TA",
+      "latitude": 13.51998,
+      "longitude": 43.42798
+    },
+    {
+      "id": 6940688,
+      "name": "Al-Mawasit District",
+      "nativeName": "Al Mawasit",
+      "code": "YE-TA-6940688",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-TA",
+      "latitude": 13.3042,
+      "longitude": 44.1005
+    },
+    {
+      "id": 6940597,
+      "name": "Al-Misrakh District",
+      "nativeName": "Al Misrakh",
+      "code": "YE-TA-6940597",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-TA",
+      "latitude": 13.4702,
+      "longitude": 44.0377
+    },
+    {
+      "id": 6940692,
+      "name": "Al-Mudhaffar District",
+      "nativeName": "Al Mudhaffar",
+      "code": "YE-TA-6940692",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-TA",
+      "latitude": 13.5831,
+      "longitude": 43.9927
+    },
+    {
+      "id": 6940690,
+      "name": "Al-Qahirah District",
+      "nativeName": "Al Qahirah",
+      "code": "YE-TA-6940690",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-TA",
+      "latitude": 13.5849,
+      "longitude": 44.0101
+    },
+    {
+      "id": 6940684,
+      "name": "Al-Wazi'iyah District",
+      "nativeName": "Al Wazi'iyah",
+      "code": "YE-TA-6940684",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-TA",
+      "latitude": 13.1846,
+      "longitude": 43.7298
+    },
+    {
+      "id": 6940685,
+      "name": "As-Silw District",
+      "nativeName": "As Silw",
+      "code": "YE-TA-6940685",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-TA",
+      "latitude": 13.3459,
+      "longitude": 44.2072
+    },
+    {
+      "id": 6940600,
+      "name": "Ash-Shamayatayn District",
+      "nativeName": "Ash Shamayatayn",
+      "code": "YE-TA-6940600",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-TA",
+      "latitude": 13.1822,
+      "longitude": 43.98
+    },
+    {
+      "id": 70221,
+      "name": "At-Ta'iziyah District",
+      "nativeName": "At Ta‘izzīyah",
+      "code": "YE-TA-70221",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-TA",
+      "latitude": 13.69479,
+      "longitude": 44.00941
+    },
+    {
+      "id": 6940689,
+      "name": "Dhubab",
+      "nativeName": "Dhubab",
+      "code": "YE-TA-6940689",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-TA",
+      "latitude": 12.9659,
+      "longitude": 43.4724
+    },
+    {
+      "id": 6940599,
+      "name": "Dimnat Khadir District",
+      "nativeName": "Dimnat Khadir",
+      "code": "YE-TA-6940599",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-TA",
+      "latitude": 13.4386,
+      "longitude": 44.2542
+    },
+    {
+      "id": 6940686,
+      "name": "Hayfan District",
+      "nativeName": "Hayfan",
+      "code": "YE-TA-6940686",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-TA",
+      "latitude": 13.2906,
+      "longitude": 44.2607
+    },
+    {
+      "id": 6940601,
+      "name": "Jabal Habashi District",
+      "nativeName": "Jabal Habashy",
+      "code": "YE-TA-6940601",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-TA",
+      "latitude": 13.4665,
+      "longitude": 43.881
+    },
+    {
+      "id": 6940695,
+      "name": "Maqbanah District",
+      "nativeName": "Maqbanah",
+      "code": "YE-TA-6940695",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-TA",
+      "latitude": 13.6212,
+      "longitude": 43.6674
+    },
+    {
+      "id": 6940683,
+      "name": "Mashra'a Wa Hadnan District",
+      "nativeName": "Mashra'a Wa Hadnan",
+      "code": "YE-TA-6940683",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-TA",
+      "latitude": 13.5417,
+      "longitude": 43.9983
+    },
+    {
+      "id": 72780,
+      "name": "Mawiyah District",
+      "nativeName": "Māwīyah",
+      "code": "YE-TA-72780",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-TA",
+      "latitude": 13.58461,
+      "longitude": 44.31912
+    },
+    {
+      "id": 6940693,
+      "name": "Mawza District",
+      "nativeName": "Mawza",
+      "code": "YE-TA-6940693",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-TA",
+      "latitude": 13.3782,
+      "longitude": 43.6145
+    },
+    {
+      "id": 6940598,
+      "name": "Sabir al-Mawadim District",
+      "nativeName": "Sabir Al Mawadim",
+      "code": "YE-TA-6940598",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-TA",
+      "latitude": 13.5318,
+      "longitude": 44.0462
+    },
+    {
+      "id": 6940691,
+      "name": "Salh District",
+      "nativeName": "Salh",
+      "code": "YE-TA-6940691",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-TA",
+      "latitude": 13.5839,
+      "longitude": 44.0402
+    },
+    {
+      "id": 6940596,
+      "name": "Sama",
+      "nativeName": "Sama",
+      "code": "YE-TA-6940596",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-TA",
+      "latitude": 13.3809,
+      "longitude": 44.1166
+    },
+    {
+      "id": 6940694,
+      "name": "Shar'ab ar-Rawnah District",
+      "nativeName": "Shara'b Ar Rawnah",
+      "code": "YE-TA-6940694",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-TA",
+      "latitude": 13.7336,
+      "longitude": 43.7672
+    },
+    {
+      "id": 6940696,
+      "name": "Shar'ab as-Salam District",
+      "nativeName": "Shara'b As Salam",
+      "code": "YE-TA-6940696",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-TA",
+      "latitude": 13.7832,
+      "longitude": 43.8861
+    }
+  ]
+}

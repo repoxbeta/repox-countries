@@ -1,0 +1,95 @@
+{
+  "stateId": 1152467,
+  "stateCode": "TH-51",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 1157549,
+      "name": "Ban Hong",
+      "nativeName": "Amphoe Ban Hong",
+      "code": "TH-51-1157549",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-51",
+      "latitude": 18.27422,
+      "longitude": 98.83794
+    },
+    {
+      "id": 7510636,
+      "name": "Ban Thi",
+      "nativeName": "Amphoe Ban Thi",
+      "code": "TH-51-7510636",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-51",
+      "latitude": 18.65894,
+      "longitude": 99.15883
+    },
+    {
+      "id": 1152356,
+      "name": "Li",
+      "nativeName": "Amphoe Li",
+      "code": "TH-51-1152356",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-51",
+      "latitude": 17.78639,
+      "longitude": 98.88674
+    },
+    {
+      "id": 1152178,
+      "name": "Mae Tha",
+      "nativeName": "Amphoe Mae Tha",
+      "code": "TH-51-1152178",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-51",
+      "latitude": 18.3954,
+      "longitude": 99.09233
+    },
+    {
+      "id": 1151990,
+      "name": "Mueang Lamphun",
+      "nativeName": "Amphoe Mueang Lamphun",
+      "code": "TH-51-1151990",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-51",
+      "latitude": 18.55217,
+      "longitude": 99.05905
+    },
+    {
+      "id": 1151527,
+      "name": "Pa Sang",
+      "nativeName": "Amphoe Pa Sang",
+      "code": "TH-51-1151527",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-51",
+      "latitude": 18.41397,
+      "longitude": 98.88281
+    },
+    {
+      "id": 7510634,
+      "name": "Thung Hua Chang",
+      "nativeName": "Amphoe Thung Hua Chang",
+      "code": "TH-51-7510634",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-51",
+      "latitude": 17.98333,
+      "longitude": 99.05
+    },
+    {
+      "id": 7510617,
+      "name": "Wiang Nong Long",
+      "nativeName": "Amphoe Wiang Nong Long",
+      "code": "TH-51-7510617",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-51",
+      "latitude": 18.41844,
+      "longitude": 98.75856
+    }
+  ]
+}

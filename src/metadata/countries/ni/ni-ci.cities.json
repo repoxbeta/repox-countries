@@ -1,0 +1,150 @@
+{
+  "stateId": 3620380,
+  "stateCode": "NI-CI",
+  "countryCode": "NI",
+  "cities": [
+    {
+      "id": 3620389,
+      "name": "Municipio de Chichigalpa",
+      "nativeName": "Municipio de Chichigalpa",
+      "code": "NI-CI-3620389",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-CI",
+      "latitude": 12.5456,
+      "longitude": -87.04175
+    },
+    {
+      "id": 3620379,
+      "name": "Municipio de Chinandega",
+      "nativeName": "Municipio de Chinandega",
+      "code": "NI-CI-3620379",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-CI",
+      "latitude": 12.72122,
+      "longitude": -87.04373
+    },
+    {
+      "id": 3620357,
+      "name": "Municipio de Cinco Pinos",
+      "nativeName": "Municipio de Cinco Pinos",
+      "code": "NI-CI-3620357",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-CI",
+      "latitude": 13.2146,
+      "longitude": -86.85513
+    },
+    {
+      "id": 3620267,
+      "name": "Municipio de Corinto",
+      "nativeName": "Municipio de Corinto",
+      "code": "NI-CI-3620267",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-CI",
+      "latitude": 12.53193,
+      "longitude": -87.22489
+    },
+    {
+      "id": 3619449,
+      "name": "Municipio de El Realejo",
+      "nativeName": "Municipio de El Realejo",
+      "code": "NI-CI-3619449",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-CI",
+      "latitude": 12.55286,
+      "longitude": -87.18634
+    },
+    {
+      "id": 3619266,
+      "name": "Municipio de El Viejo",
+      "nativeName": "Municipio de El Viejo",
+      "code": "NI-CI-3619266",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-CI",
+      "latitude": 12.79978,
+      "longitude": -87.39101
+    },
+    {
+      "id": 3617190,
+      "name": "Municipio de Posoltega",
+      "nativeName": "Municipio de Posoltega",
+      "code": "NI-CI-3617190",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-CI",
+      "latitude": 12.58917,
+      "longitude": -86.95592
+    },
+    {
+      "id": 3617145,
+      "name": "Municipio de Puerto Morazán",
+      "nativeName": "Municipio de Puerto Morazán",
+      "code": "NI-CI-3617145",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-CI",
+      "latitude": 12.88231,
+      "longitude": -87.22727
+    },
+    {
+      "id": 3616851,
+      "name": "Municipio de San Francisco del Norte",
+      "nativeName": "Municipio de San Francisco del Norte",
+      "code": "NI-CI-3616851",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-CI",
+      "latitude": 13.21187,
+      "longitude": -86.77107
+    },
+    {
+      "id": 3616610,
+      "name": "Municipio de San Pedro del Norte",
+      "nativeName": "Municipio de San Pedro del Norte",
+      "code": "NI-CI-3616610",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-CI",
+      "latitude": 13.27363,
+      "longitude": -86.87835
+    },
+    {
+      "id": 3616345,
+      "name": "Municipio de Santo Tomás del Norte",
+      "nativeName": "Municipio de Santo Tomás del Norte",
+      "code": "NI-CI-3616345",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-CI",
+      "latitude": 13.18155,
+      "longitude": -86.90106
+    },
+    {
+      "id": 3616233,
+      "name": "Municipio de Somotillo",
+      "nativeName": "Municipio de Somotillo",
+      "code": "NI-CI-3616233",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-CI",
+      "latitude": 12.96022,
+      "longitude": -86.97441
+    },
+    {
+      "id": 3615816,
+      "name": "Municipio de Villanueva",
+      "nativeName": "Municipio de Villanueva",
+      "code": "NI-CI-3615816",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-CI",
+      "latitude": 12.96374,
+      "longitude": -86.81105
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "countryId": 4041468,
+  "countryCode": "MP",
+  "states": [
+    {
+      "id": 7733156,
+      "name": "Northern Islands",
+      "nativeName": "Northern Islands Municipality",
+      "code": "MP-N",
+      "internalCode": "N",
+      "countryId": 4041468,
+      "countryCode": "MP",
+      "latitude": 18.11,
+      "longitude": 145.771
+    },
+    {
+      "id": 4041530,
+      "name": "Rota",
+      "nativeName": "Rota Municipality",
+      "code": "MP-R",
+      "internalCode": "R",
+      "countryId": 4041468,
+      "countryCode": "MP",
+      "latitude": 14.154,
+      "longitude": 145.201
+    },
+    {
+      "id": 4041552,
+      "name": "Saipan",
+      "nativeName": "Saipan Municipality",
+      "code": "MP-S",
+      "internalCode": "S",
+      "countryId": 4041468,
+      "countryCode": "MP",
+      "latitude": 15.16847,
+      "longitude": 145.74081
+    },
+    {
+      "id": 4041650,
+      "name": "Tinian",
+      "nativeName": "Tinian Municipality",
+      "code": "MP-T",
+      "internalCode": "T",
+      "countryId": 4041468,
+      "countryCode": "MP",
+      "latitude": 15.029,
+      "longitude": 145.616
+    }
+  ]
+}

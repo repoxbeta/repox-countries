@@ -1,0 +1,29 @@
+{
+  "stateId": 7303686,
+  "stateCode": "PA-EM",
+  "countryCode": "PA",
+  "cities": [
+    {
+      "id": 9862218,
+      "name": "Cémaco",
+      "nativeName": "Cémaco",
+      "code": "PA-EM-9862218",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-EM",
+      "latitude": 8.08285,
+      "longitude": -77.5421
+    },
+    {
+      "id": 9857626,
+      "name": "Sambú",
+      "nativeName": "Sambú",
+      "code": "PA-EM-9857626",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-EM",
+      "latitude": 7.82013,
+      "longitude": -78.11005
+    }
+  ]
+}

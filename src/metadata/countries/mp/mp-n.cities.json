@@ -1,0 +1,128 @@
+{
+  "stateId": 7733156,
+  "stateCode": "MP-N",
+  "countryCode": "MP",
+  "cities": [
+    {
+      "id": 7733404,
+      "name": "Agrihan Island",
+      "nativeName": "Agrihan Island",
+      "code": "MP-N-7733404",
+      "countryId": 4041468,
+      "countryCode": "MP",
+      "stateCode": "MP-N",
+      "latitude": 18.745,
+      "longitude": 145.668
+    },
+    {
+      "id": 7733406,
+      "name": "Alamagan Island",
+      "nativeName": "Alamagan Island",
+      "code": "MP-N-7733406",
+      "countryId": 4041468,
+      "countryCode": "MP",
+      "stateCode": "MP-N",
+      "latitude": 17.595,
+      "longitude": 145.821
+    },
+    {
+      "id": 7733410,
+      "name": "Anatahan Island",
+      "nativeName": "Anatahan Island",
+      "code": "MP-N-7733410",
+      "countryId": 4041468,
+      "countryCode": "MP",
+      "stateCode": "MP-N",
+      "latitude": 16.362,
+      "longitude": 145.641
+    },
+    {
+      "id": 7733403,
+      "name": "Asuncion Island",
+      "nativeName": "Asuncion Island",
+      "code": "MP-N-7733403",
+      "countryId": 4041468,
+      "countryCode": "MP",
+      "stateCode": "MP-N",
+      "latitude": 19.682,
+      "longitude": 145.399
+    },
+    {
+      "id": 7733411,
+      "name": "Farallon de Medinilla",
+      "nativeName": "Farallon de Medinilla",
+      "code": "MP-N-7733411",
+      "countryId": 4041468,
+      "countryCode": "MP",
+      "stateCode": "MP-N",
+      "latitude": 16.024,
+      "longitude": 146.061
+    },
+    {
+      "id": 7733402,
+      "name": "Farallon de Pajaros",
+      "nativeName": "Farallon de Pajaros",
+      "code": "MP-N-7733402",
+      "countryId": 4041468,
+      "countryCode": "MP",
+      "stateCode": "MP-N",
+      "latitude": 20.54,
+      "longitude": 144.89
+    },
+    {
+      "id": 7733407,
+      "name": "Guguan Island",
+      "nativeName": "Guguan Island",
+      "code": "MP-N-7733407",
+      "countryId": 4041468,
+      "countryCode": "MP",
+      "stateCode": "MP-N",
+      "latitude": 17.32,
+      "longitude": 145.8375
+    },
+    {
+      "id": 7733412,
+      "name": "Maug Islands",
+      "nativeName": "Maug Islands",
+      "code": "MP-N-7733412",
+      "countryId": 4041468,
+      "countryCode": "MP",
+      "stateCode": "MP-N",
+      "latitude": 20.015,
+      "longitude": 145.22
+    },
+    {
+      "id": 7733405,
+      "name": "Pagan Island",
+      "nativeName": "Pagan Island",
+      "code": "MP-N-7733405",
+      "countryId": 4041468,
+      "countryCode": "MP",
+      "stateCode": "MP-N",
+      "latitude": 18.11,
+      "longitude": 145.772
+    },
+    {
+      "id": 7733409,
+      "name": "Sarigan Island",
+      "nativeName": "Sarigan Island",
+      "code": "MP-N-7733409",
+      "countryId": 4041468,
+      "countryCode": "MP",
+      "stateCode": "MP-N",
+      "latitude": 16.694,
+      "longitude": 145.782
+    },
+    {
+      "id": 7733408,
+      "name": "Zealandia Bank",
+      "nativeName": "Zealandia Bank",
+      "code": "MP-N-7733408",
+      "countryId": 4041468,
+      "countryCode": "MP",
+      "stateCode": "MP-N",
+      "latitude": 16.8953,
+      "longitude": 145.8535
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "stateId": 2593110,
+  "stateCode": "ES-CN",
+  "countryCode": "ES",
+  "cities": [
+    {
+      "id": 2515271,
+      "name": "Las Palmas",
+      "nativeName": "Provincia de Las Palmas",
+      "code": "ES-CN-2515271",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "stateCode": "ES-CN",
+      "latitude": 28.42039,
+      "longitude": -14.01306
+    },
+    {
+      "id": 2511173,
+      "name": "Santa Cruz de Tenerife",
+      "nativeName": "Provincia de Santa Cruz de Tenerife",
+      "code": "ES-CN-2511173",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "stateCode": "ES-CN",
+      "latitude": 28.16667,
+      "longitude": -17.33333
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "stateId": 3239214,
+  "stateCode": "SI-118",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3191039,
+      "name": "Šentilj",
+      "nativeName": "Šentilj v Slov. Goricah",
+      "code": "SI-118-3191039",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-118",
+      "latitude": 46.68167,
+      "longitude": 15.64806
+    },
+    {
+      "id": 3202674,
+      "name": "Ceršak",
+      "nativeName": "Ceršak",
+      "code": "SI-118-3202674",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-118",
+      "latitude": 46.69917,
+      "longitude": 15.66917
+    },
+    {
+      "id": 3202573,
+      "name": "Cirknica",
+      "nativeName": "Cirknica",
+      "code": "SI-118-3202573",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-118",
+      "latitude": 46.6567,
+      "longitude": 15.65459
+    },
+    {
+      "id": 8988271,
+      "name": "Jurjevski Dol",
+      "nativeName": "Jurjevski Dol",
+      "code": "SI-118-8988271",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-118",
+      "latitude": 46.64105,
+      "longitude": 15.76501
+    },
+    {
+      "id": 3197445,
+      "name": "Kozjak pri Ceršaku",
+      "nativeName": "Kozjak pri Ceršaku",
+      "code": "SI-118-3197445",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-118",
+      "latitude": 46.69875,
+      "longitude": 15.68675
+    },
+    {
+      "id": 8987419,
+      "name": "Kresnica",
+      "nativeName": "Kresnica",
+      "code": "SI-118-8987419",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-118",
+      "latitude": 46.67202,
+      "longitude": 15.63162
+    },
+    {
+      "id": 3193138,
+      "name": "Plodršnica",
+      "nativeName": "Plodršnica",
+      "code": "SI-118-3193138",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-118",
+      "latitude": 46.64533,
+      "longitude": 15.76682
+    },
+    {
+      "id": 3190226,
+      "name": "Spodnje Dobrenje",
+      "nativeName": "Spodnje Dobrenje",
+      "code": "SI-118-3190226",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-118",
+      "latitude": 46.62392,
+      "longitude": 15.65744
+    },
+    {
+      "id": 8987845,
+      "name": "Stara Gora pri Šentilju",
+      "nativeName": "Stara Gora pri Šentilju",
+      "code": "SI-118-8987845",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-118",
+      "latitude": 46.65694,
+      "longitude": 15.63946
+    },
+    {
+      "id": 8987234,
+      "name": "Svečane",
+      "nativeName": "Svečane",
+      "code": "SI-118-8987234",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-118",
+      "latitude": 46.69083,
+      "longitude": 15.75055
+    },
+    {
+      "id": 3187869,
+      "name": "Velka",
+      "nativeName": "Velka",
+      "code": "SI-118-3187869",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-118",
+      "latitude": 46.67667,
+      "longitude": 15.77056
+    },
+    {
+      "id": 8986985,
+      "name": "Vranji Vrh",
+      "nativeName": "Vranji Vrh",
+      "code": "SI-118-8986985",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-118",
+      "latitude": 46.6894,
+      "longitude": 15.72405
+    },
+    {
+      "id": 8987501,
+      "name": "Zgornje Gradišče",
+      "nativeName": "Zgornje Gradišče",
+      "code": "SI-118-8987501",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-118",
+      "latitude": 46.66488,
+      "longitude": 15.75066
+    },
+    {
+      "id": 3186499,
+      "name": "Zgornje Vrtiče",
+      "nativeName": "Zgornje Vrtiče",
+      "code": "SI-118-3186499",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-118",
+      "latitude": 46.66152,
+      "longitude": 15.6173
+    },
+    {
+      "id": 8989786,
+      "name": "Zgornji Dražen Vrh",
+      "nativeName": "Zgornji Dražen Vrh",
+      "code": "SI-118-8989786",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-118",
+      "latitude": 46.67215,
+      "longitude": 15.78847
+    },
+    {
+      "id": 6956380,
+      "name": "Šentilj v Slovenskih goricah",
+      "nativeName": "Šentilj v Slovenskih goricah",
+      "code": "SI-118-6956380",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-118",
+      "latitude": 46.67921,
+      "longitude": 15.65324
+    },
+    {
+      "id": 8987270,
+      "name": "Šomat",
+      "nativeName": "Šomat",
+      "code": "SI-118-8987270",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-118",
+      "latitude": 46.66807,
+      "longitude": 15.73784
+    },
+    {
+      "id": 3189726,
+      "name": "Štrihovec",
+      "nativeName": "Štrihovec",
+      "code": "SI-118-3189726",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-118",
+      "latitude": 46.66667,
+      "longitude": 15.66667
+    },
+    {
+      "id": 3191094,
+      "name": "Selnica ob Muri",
+      "nativeName": "Selnica ob Muri",
+      "code": "SI-118-3191094",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-118",
+      "latitude": 46.68333,
+      "longitude": 15.7
+    },
+    {
+      "id": 3190232,
+      "name": "Spodnja Velka",
+      "nativeName": "Spodnja Velka",
+      "code": "SI-118-3190232",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-118",
+      "latitude": 46.65,
+      "longitude": 15.76667
+    },
+    {
+      "id": 3188929,
+      "name": "Trate",
+      "nativeName": "Trate",
+      "code": "SI-118-3188929",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-118",
+      "latitude": 46.69306,
+      "longitude": 15.78639
+    },
+    {
+      "id": 3186524,
+      "name": "Zgornja Velka",
+      "nativeName": "Zgornja Velka",
+      "code": "SI-118-3186524",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-118",
+      "latitude": 46.67528,
+      "longitude": 15.76917
+    }
+  ]
+}

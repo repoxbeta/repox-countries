@@ -1,0 +1,62 @@
+{
+  "stateId": 7303506,
+  "stateCode": "MH-MAL",
+  "countryCode": "MH",
+  "cities": [
+    {
+      "id": 4039539,
+      "name": "Taroa",
+      "nativeName": "Taroa",
+      "code": "MH-MAL-4039539",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-MAL",
+      "latitude": 8.70576,
+      "longitude": 171.2275
+    },
+    {
+      "id": 7304214,
+      "name": "Airuk",
+      "nativeName": "Airuk",
+      "code": "MH-MAL-7304214",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-MAL",
+      "latitude": 8.49873,
+      "longitude": 171.18927
+    },
+    {
+      "id": 4039072,
+      "name": "Jang",
+      "nativeName": "Jang",
+      "code": "MH-MAL-4039072",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-MAL",
+      "latitude": 8.8605,
+      "longitude": 171.06359
+    },
+    {
+      "id": 4040698,
+      "name": "Kaven",
+      "nativeName": "Kaven",
+      "code": "MH-MAL-4040698",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-MAL",
+      "latitude": 8.88829,
+      "longitude": 170.84092
+    },
+    {
+      "id": 2080663,
+      "name": "Wolot",
+      "nativeName": "Wolot",
+      "code": "MH-MAL-2080663",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-MAL",
+      "latitude": 8.76735,
+      "longitude": 171.17527
+    }
+  ]
+}

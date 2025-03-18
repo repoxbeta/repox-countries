@@ -1,0 +1,51 @@
+{
+  "stateId": 97270,
+  "stateCode": "IQ-DA",
+  "countryCode": "IQ",
+  "cities": [
+    {
+      "id": 99612,
+      "name": "Amedi",
+      "nativeName": "Adhamiyah",
+      "code": "IQ-DA-99612",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-DA",
+      "latitude": 37.09335,
+      "longitude": 43.48829
+    },
+    {
+      "id": 97269,
+      "name": "Duhok District",
+      "nativeName": "Dohuk District",
+      "code": "IQ-DA-97269",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-DA",
+      "latitude": 36.95,
+      "longitude": 43
+    },
+    {
+      "id": 9166607,
+      "name": "Semel District",
+      "nativeName": "Semel District",
+      "code": "IQ-DA-9166607",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-DA",
+      "latitude": 36.89815,
+      "longitude": 42.71168
+    },
+    {
+      "id": 89569,
+      "name": "Zakho",
+      "nativeName": "Zakho District",
+      "code": "IQ-DA-89569",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-DA",
+      "latitude": 37.15,
+      "longitude": 42.83333
+    }
+  ]
+}

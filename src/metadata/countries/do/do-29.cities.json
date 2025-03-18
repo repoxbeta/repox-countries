@@ -1,0 +1,62 @@
+{
+  "stateId": 3496132,
+  "stateCode": "DO-29",
+  "countryCode": "DO",
+  "cities": [
+    {
+      "id": 3511627,
+      "name": "Bayaguana",
+      "nativeName": "Bayaguana",
+      "code": "DO-29-3511627",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-29",
+      "latitude": 18.78333,
+      "longitude": -69.6
+    },
+    {
+      "id": 3496135,
+      "name": "Monte Plata",
+      "nativeName": "Monte Plata",
+      "code": "DO-29-3496135",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-29",
+      "latitude": 18.75,
+      "longitude": -69.85
+    },
+    {
+      "id": 11154579,
+      "name": "Peralvillo",
+      "nativeName": "Peralvillo",
+      "code": "DO-29-11154579",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-29",
+      "latitude": 18.85025,
+      "longitude": -70.05637
+    },
+    {
+      "id": 3493483,
+      "name": "Sabana Grande de Boyá",
+      "nativeName": "Sabana Grande de Boyá",
+      "code": "DO-29-3493483",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-29",
+      "latitude": 19,
+      "longitude": -69.83333
+    },
+    {
+      "id": 3491797,
+      "name": "Yamasá",
+      "nativeName": "Yamasá",
+      "code": "DO-29-3491797",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-29",
+      "latitude": 18.78333,
+      "longitude": -70.05
+    }
+  ]
+}

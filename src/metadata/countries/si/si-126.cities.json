@@ -1,0 +1,161 @@
+{
+  "stateId": 3239185,
+  "stateCode": "SI-126",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3190311,
+      "name": "Šoštanj",
+      "nativeName": "Šoštanj",
+      "code": "SI-126-3190311",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-126",
+      "latitude": 46.38,
+      "longitude": 15.04861
+    },
+    {
+      "id": 3204330,
+      "name": "Bele Vode",
+      "nativeName": "Bele Vode",
+      "code": "SI-126-3204330",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-126",
+      "latitude": 46.4125,
+      "longitude": 14.96111
+    },
+    {
+      "id": 3201137,
+      "name": "Družmirje",
+      "nativeName": "Družmirje",
+      "code": "SI-126-3201137",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-126",
+      "latitude": 46.37917,
+      "longitude": 15.06722
+    },
+    {
+      "id": 8986871,
+      "name": "Florjan",
+      "nativeName": "Florjan",
+      "code": "SI-126-8986871",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-126",
+      "latitude": 46.3932,
+      "longitude": 15.00912
+    },
+    {
+      "id": 3200791,
+      "name": "Gaberke",
+      "nativeName": "Gaberke",
+      "code": "SI-126-3200791",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-126",
+      "latitude": 46.39715,
+      "longitude": 15.07903
+    },
+    {
+      "id": 3191844,
+      "name": "Ravne",
+      "nativeName": "Ravne",
+      "code": "SI-126-3191844",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-126",
+      "latitude": 46.41413,
+      "longitude": 15.06087
+    },
+    {
+      "id": 3189349,
+      "name": "Skorno pri Šoštanju",
+      "nativeName": "Skorno pri Šoštanju",
+      "code": "SI-126-3189349",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-126",
+      "latitude": 46.37733,
+      "longitude": 15.01082
+    },
+    {
+      "id": 3217377,
+      "name": "Slemenšek",
+      "nativeName": "Slemenšek",
+      "code": "SI-126-3217377",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-126",
+      "latitude": 46.44139,
+      "longitude": 14.96583
+    },
+    {
+      "id": 3188971,
+      "name": "Topolšica",
+      "nativeName": "Topolšica",
+      "code": "SI-126-3188971",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-126",
+      "latitude": 46.40028,
+      "longitude": 15.02157
+    },
+    {
+      "id": 3187962,
+      "name": "Veliki Vrh",
+      "nativeName": "Veliki Vrh",
+      "code": "SI-126-3187962",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-126",
+      "latitude": 46.34708,
+      "longitude": 15.03984
+    },
+    {
+      "id": 3217387,
+      "name": "Zaloka",
+      "nativeName": "Zaloka",
+      "code": "SI-126-3217387",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-126",
+      "latitude": 46.4025,
+      "longitude": 14.91694
+    },
+    {
+      "id": 3186713,
+      "name": "Zavodnje",
+      "nativeName": "Zavodnje",
+      "code": "SI-126-3186713",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-126",
+      "latitude": 46.42583,
+      "longitude": 15.01778
+    },
+    {
+      "id": 3191018,
+      "name": "Šentvid pri Zavodnju",
+      "nativeName": "Šentvid pri Zavodnju",
+      "code": "SI-126-3191018",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-126",
+      "latitude": 46.45,
+      "longitude": 14.96667
+    },
+    {
+      "id": 3196257,
+      "name": "Lokovica",
+      "nativeName": "Lokovica",
+      "code": "SI-126-3196257",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-126",
+      "latitude": 46.35944,
+      "longitude": 15.05194
+    }
+  ]
+}

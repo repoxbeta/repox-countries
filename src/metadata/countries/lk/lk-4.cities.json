@@ -1,0 +1,62 @@
+{
+  "stateId": 7671049,
+  "stateCode": "LK-4",
+  "countryCode": "LK",
+  "cities": [
+    {
+      "id": 1242831,
+      "name": "Jaffna District",
+      "nativeName": "Jaffna District",
+      "code": "LK-4-1242831",
+      "countryId": 1227603,
+      "countryCode": "LK",
+      "stateCode": "LK-4",
+      "latitude": 9.75,
+      "longitude": 80.08333
+    },
+    {
+      "id": 1240371,
+      "name": "Kilinochchi District",
+      "nativeName": "Kilinochchi District",
+      "code": "LK-4-1240371",
+      "countryId": 1227603,
+      "countryCode": "LK",
+      "stateCode": "LK-4",
+      "latitude": 9.39487,
+      "longitude": 80.40894
+    },
+    {
+      "id": 1236148,
+      "name": "Mannar District",
+      "nativeName": "Mannar District",
+      "code": "LK-4-1236148",
+      "countryId": 1227603,
+      "countryCode": "LK",
+      "stateCode": "LK-4",
+      "latitude": 8.86667,
+      "longitude": 80.08333
+    },
+    {
+      "id": 1234392,
+      "name": "Mullaitivu District",
+      "nativeName": "Mullaitivu District",
+      "code": "LK-4-1234392",
+      "countryId": 1227603,
+      "countryCode": "LK",
+      "stateCode": "LK-4",
+      "latitude": 9.25,
+      "longitude": 80.5499
+    },
+    {
+      "id": 1225017,
+      "name": "Vavuniya District",
+      "nativeName": "Vavuniya District",
+      "code": "LK-4-1225017",
+      "countryId": 1227603,
+      "countryCode": "LK",
+      "stateCode": "LK-4",
+      "latitude": 8.86134,
+      "longitude": 80.47576
+    }
+  ]
+}

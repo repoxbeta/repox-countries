@@ -1,0 +1,40 @@
+{
+  "stateId": 1223421,
+  "stateCode": "LK-1",
+  "countryCode": "LK",
+  "cities": [
+    {
+      "id": 1248990,
+      "name": "Colombo District",
+      "nativeName": "Colombo District",
+      "code": "LK-1-1248990",
+      "countryId": 1227603,
+      "countryCode": "LK",
+      "stateCode": "LK-1",
+      "latitude": 6.8664,
+      "longitude": 80.0166
+    },
+    {
+      "id": 1246005,
+      "name": "Gampaha District",
+      "nativeName": "Gampaha District",
+      "code": "LK-1-1246005",
+      "countryId": 1227603,
+      "countryCode": "LK",
+      "stateCode": "LK-1",
+      "latitude": 7.1333,
+      "longitude": 80
+    },
+    {
+      "id": 1241963,
+      "name": "Kalutara District",
+      "nativeName": "Kalutara District",
+      "code": "LK-1-1241963",
+      "countryId": 1227603,
+      "countryCode": "LK",
+      "stateCode": "LK-1",
+      "latitude": 6.6031,
+      "longitude": 80.1026
+    }
+  ]
+}

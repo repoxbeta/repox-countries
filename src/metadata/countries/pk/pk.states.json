@@ -1,0 +1,83 @@
+{
+  "countryId": 1168579,
+  "countryCode": "PK",
+  "states": [
+    {
+      "id": 1183606,
+      "name": "Balochistan",
+      "nativeName": "Balochistan",
+      "code": "PK-BA",
+      "internalCode": "BA",
+      "countryId": 1168579,
+      "countryCode": "PK",
+      "latitude": 28.47849,
+      "longitude": 65.64355
+    },
+    {
+      "id": 1162015,
+      "name": "Islamabad",
+      "nativeName": "Islamabad",
+      "code": "PK-IS",
+      "internalCode": "IS",
+      "countryId": 1168579,
+      "countryCode": "PK",
+      "latitude": 33.71039,
+      "longitude": 73.13382
+    },
+    {
+      "id": 1168873,
+      "name": "Khyber Pakhtunkhwa",
+      "nativeName": "Khyber Pakhtunkhwa Province",
+      "code": "PK-KP",
+      "internalCode": "KP",
+      "countryId": 1168579,
+      "countryCode": "PK",
+      "latitude": 33.98306,
+      "longitude": 71.68611
+    },
+    {
+      "id": 1184196,
+      "name": "Pakistan Occupied Kashmir",
+      "nativeName": "Azad Jammu and Kashmir",
+      "code": "PK-JK",
+      "internalCode": "JK",
+      "countryId": 1168579,
+      "countryCode": "PK",
+      "latitude": 33.94718,
+      "longitude": 73.9104
+    },
+    {
+      "id": 1168878,
+      "name": "Pakistan Occupied Kashmir",
+      "nativeName": "Gilgit-Baltistan",
+      "code": "PK-GB",
+      "internalCode": "GB",
+      "countryId": 1168579,
+      "countryCode": "PK",
+      "latitude": 36,
+      "longitude": 75
+    },
+    {
+      "id": 1167710,
+      "name": "Punjab",
+      "nativeName": "Punjab Province",
+      "code": "PK-PB",
+      "internalCode": "PB",
+      "countryId": 1168579,
+      "countryCode": "PK",
+      "latitude": 30.85,
+      "longitude": 72.31667
+    },
+    {
+      "id": 1164807,
+      "name": "Sindh",
+      "nativeName": "Sindh",
+      "code": "PK-SD",
+      "internalCode": "SD",
+      "countryId": 1168579,
+      "countryCode": "PK",
+      "latitude": 26.13333,
+      "longitude": 68.76667
+    }
+  ]
+}

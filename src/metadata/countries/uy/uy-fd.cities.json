@@ -1,0 +1,40 @@
+{
+  "stateId": 3442584,
+  "stateCode": "UY-FD",
+  "countryCode": "UY",
+  "cities": [
+    {
+      "id": 11820853,
+      "name": "Casupá",
+      "nativeName": "Casupá",
+      "code": "UY-FD-11820853",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-FD",
+      "latitude": -34.09929,
+      "longitude": -55.63662
+    },
+    {
+      "id": 11820814,
+      "name": "Fray Marcos",
+      "nativeName": "Fray Marcos",
+      "code": "UY-FD-11820814",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-FD",
+      "latitude": -34.12473,
+      "longitude": -55.71854
+    },
+    {
+      "id": 11820852,
+      "name": "Sarandí Grande",
+      "nativeName": "Sarandí Grande",
+      "code": "UY-FD-11820852",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-FD",
+      "latitude": -33.72478,
+      "longitude": -56.33188
+    }
+  ]
+}

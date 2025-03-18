@@ -1,0 +1,106 @@
+{
+  "stateId": 3433896,
+  "stateCode": "AR-P",
+  "countryCode": "AR",
+  "cities": [
+    {
+      "id": 3864297,
+      "name": "Departamento de Bermejo",
+      "nativeName": "Departamento de Bermejo",
+      "code": "AR-P-3864297",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-P",
+      "latitude": -24.33333,
+      "longitude": -61.5
+    },
+    {
+      "id": 3433898,
+      "name": "Departamento de Formosa",
+      "nativeName": "Departamento de Formosa",
+      "code": "AR-P-3433898",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-P",
+      "latitude": -26,
+      "longitude": -58.5
+    },
+    {
+      "id": 3432407,
+      "name": "Departamento de Laishí",
+      "nativeName": "Departamento de Laishí",
+      "code": "AR-P-3432407",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-P",
+      "latitude": -26.5,
+      "longitude": -58.75
+    },
+    {
+      "id": 3844738,
+      "name": "Departamento de Matacos",
+      "nativeName": "Departamento de Matacos",
+      "code": "AR-P-3844738",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-P",
+      "latitude": -23.83333,
+      "longitude": -62.16667
+    },
+    {
+      "id": 3430084,
+      "name": "Departamento de Patiño",
+      "nativeName": "Departamento de Patiño",
+      "code": "AR-P-3430084",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-P",
+      "latitude": -24.75,
+      "longitude": -60
+    },
+    {
+      "id": 3429982,
+      "name": "Departamento de Pilagás",
+      "nativeName": "Departamento de Pilagás",
+      "code": "AR-P-3429982",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-P",
+      "latitude": -25.08333,
+      "longitude": -58.75
+    },
+    {
+      "id": 3429978,
+      "name": "Departamento de Pilcomayo",
+      "nativeName": "Departamento de Pilcomayo",
+      "code": "AR-P-3429978",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-P",
+      "latitude": -25.5,
+      "longitude": -58.08333
+    },
+    {
+      "id": 3429948,
+      "name": "Departamento de Pirané",
+      "nativeName": "Departamento de Pirané",
+      "code": "AR-P-3429948",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-P",
+      "latitude": -25.66667,
+      "longitude": -59.16667
+    },
+    {
+      "id": 3839414,
+      "name": "Departamento de Ramón Lista",
+      "nativeName": "Departamento de Ramón Lista",
+      "code": "AR-P-3839414",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-P",
+      "latitude": -23,
+      "longitude": -62.16667
+    }
+  ]
+}

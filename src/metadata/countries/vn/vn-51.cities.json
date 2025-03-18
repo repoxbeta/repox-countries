@@ -1,0 +1,106 @@
+{
+  "stateId": 1559975,
+  "stateCode": "VN-51",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 1904914,
+      "name": "Châu Thành District",
+      "nativeName": "Huyện Châu Thành",
+      "code": "VN-51-1904914",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-51",
+      "latitude": 9.86891,
+      "longitude": 106.35167
+    },
+    {
+      "id": 1904915,
+      "name": "Càng Long District",
+      "nativeName": "Huyện Càng Long",
+      "code": "VN-51-1904915",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-51",
+      "latitude": 9.95883,
+      "longitude": 106.21395
+    },
+    {
+      "id": 1904917,
+      "name": "Cầu Kè District",
+      "nativeName": "Huyện Cầu Kè",
+      "code": "VN-51-1904917",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-51",
+      "latitude": 9.86738,
+      "longitude": 106.07916
+    },
+    {
+      "id": 1904916,
+      "name": "Cầu Ngang District",
+      "nativeName": "Huyện Cầu Ngang",
+      "code": "VN-51-1904916",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-51",
+      "latitude": 9.77186,
+      "longitude": 106.43654
+    },
+    {
+      "id": 1904920,
+      "name": "Huyện Duyên Hải",
+      "nativeName": "Huyện Duyên Hải",
+      "code": "VN-51-1904920",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-51",
+      "latitude": 9.609,
+      "longitude": 106.438
+    },
+    {
+      "id": 1904913,
+      "name": "Thành Phố Trà Vinh",
+      "nativeName": "Thành Phố Trà Vinh",
+      "code": "VN-51-1904913",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-51",
+      "latitude": 9.95134,
+      "longitude": 106.33516
+    },
+    {
+      "id": 11497331,
+      "name": "Thị xã Duyên Hải",
+      "nativeName": "Thị xã Duyên Hải",
+      "code": "VN-51-11497331",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-51",
+      "latitude": 9.59321,
+      "longitude": 106.46782
+    },
+    {
+      "id": 1904918,
+      "name": "Tiểu Cần District",
+      "nativeName": "Huyện Tiểu Cần",
+      "code": "VN-51-1904918",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-51",
+      "latitude": 9.8035,
+      "longitude": 106.20594
+    },
+    {
+      "id": 1904919,
+      "name": "Trà Cú District",
+      "nativeName": "Huyện Trà Cú",
+      "code": "VN-51-1904919",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-51",
+      "latitude": 9.69706,
+      "longitude": 106.29423
+    }
+  ]
+}

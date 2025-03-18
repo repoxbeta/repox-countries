@@ -1,0 +1,106 @@
+{
+  "stateId": 78985,
+  "stateCode": "YE-MR",
+  "countryCode": "YE",
+  "cities": [
+    {
+      "id": 6940855,
+      "name": "Al Ghaydah District",
+      "nativeName": "Al Ghaydah",
+      "code": "YE-MR-6940855",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-MR",
+      "latitude": 16.2618,
+      "longitude": 52.0816
+    },
+    {
+      "id": 6940860,
+      "name": "Al Masilah District",
+      "nativeName": "Al Masilah",
+      "code": "YE-MR-6940860",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-MR",
+      "latitude": 15.6399,
+      "longitude": 50.6445
+    },
+    {
+      "id": 6940854,
+      "name": "Hat District",
+      "nativeName": "Hat",
+      "code": "YE-MR-6940854",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-MR",
+      "latitude": 17.8031,
+      "longitude": 51.675
+    },
+    {
+      "id": 6940856,
+      "name": "Hawf District",
+      "nativeName": "Hawf",
+      "code": "YE-MR-6940856",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-MR",
+      "latitude": 16.6953,
+      "longitude": 52.8182
+    },
+    {
+      "id": 6940857,
+      "name": "Huswain District",
+      "nativeName": "Huswain",
+      "code": "YE-MR-6940857",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-MR",
+      "latitude": 15.723,
+      "longitude": 51.9124
+    },
+    {
+      "id": 6940859,
+      "name": "Man'ar District",
+      "nativeName": "Man'ar",
+      "code": "YE-MR-6940859",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-MR",
+      "latitude": 16.5505,
+      "longitude": 50.9879
+    },
+    {
+      "id": 6940858,
+      "name": "Qishn District",
+      "nativeName": "Qishn",
+      "code": "YE-MR-6940858",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-MR",
+      "latitude": 15.6999,
+      "longitude": 51.324
+    },
+    {
+      "id": 6940853,
+      "name": "Sayhut District",
+      "nativeName": "Sayhut",
+      "code": "YE-MR-6940853",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-MR",
+      "latitude": 15.5345,
+      "longitude": 51.2869
+    },
+    {
+      "id": 6940852,
+      "name": "Shahan District",
+      "nativeName": "Shahan",
+      "code": "YE-MR-6940852",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-MR",
+      "latitude": 17.5923,
+      "longitude": 52.594
+    }
+  ]
+}

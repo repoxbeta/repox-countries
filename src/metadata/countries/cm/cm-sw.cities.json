@@ -1,0 +1,73 @@
+{
+  "stateId": 2221788,
+  "stateCode": "CM-SW",
+  "countryCode": "CM",
+  "cities": [
+    {
+      "id": 2231710,
+      "name": "Fako",
+      "nativeName": "Fako Division",
+      "code": "CM-SW-2231710",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-SW",
+      "latitude": 4.16667,
+      "longitude": 9.16667
+    },
+    {
+      "id": 8505106,
+      "name": "Kupe-Manenguba",
+      "nativeName": "Koupé-Manengouba",
+      "code": "CM-SW-8505106",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-SW",
+      "latitude": 5.0856,
+      "longitude": 9.78
+    },
+    {
+      "id": 9224975,
+      "name": "Lebialem",
+      "nativeName": "Lebialem",
+      "code": "CM-SW-9224975",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-SW",
+      "latitude": 5.56043,
+      "longitude": 9.92316
+    },
+    {
+      "id": 2228442,
+      "name": "Manyu",
+      "nativeName": "Manyu Division",
+      "code": "CM-SW-2228442",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-SW",
+      "latitude": 5.82,
+      "longitude": 9.37
+    },
+    {
+      "id": 2227197,
+      "name": "Meme",
+      "nativeName": "Meme Division",
+      "code": "CM-SW-2227197",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-SW",
+      "latitude": 4.83333,
+      "longitude": 9.33333
+    },
+    {
+      "id": 2225280,
+      "name": "Ndian",
+      "nativeName": "Ndian Division",
+      "code": "CM-SW-2225280",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-SW",
+      "latitude": 4.83333,
+      "longitude": 8.83333
+    }
+  ]
+}

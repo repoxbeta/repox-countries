@@ -1,0 +1,62 @@
+{
+  "stateId": 2658372,
+  "stateCode": "CH-TG",
+  "countryCode": "CH",
+  "cities": [
+    {
+      "id": 8260144,
+      "name": "Bezirk Arbon",
+      "nativeName": "Bezirk Arbon",
+      "code": "CH-TG-8260144",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-TG",
+      "latitude": 47.54867,
+      "longitude": 9.35159
+    },
+    {
+      "id": 8260143,
+      "name": "Bezirk Frauenfeld",
+      "nativeName": "Bezirk Frauenfeld",
+      "code": "CH-TG-8260143",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-TG",
+      "latitude": 47.61115,
+      "longitude": 8.89444
+    },
+    {
+      "id": 8260146,
+      "name": "Bezirk Kreuzlingen",
+      "nativeName": "Bezirk Kreuzlingen",
+      "code": "CH-TG-8260146",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-TG",
+      "latitude": 47.63046,
+      "longitude": 9.16458
+    },
+    {
+      "id": 8260145,
+      "name": "Bezirk Münchwilen",
+      "nativeName": "Bezirk Münchwilen",
+      "code": "CH-TG-8260145",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-TG",
+      "latitude": 47.47324,
+      "longitude": 8.98812
+    },
+    {
+      "id": 8260147,
+      "name": "Weinfelden District",
+      "nativeName": "Bezirk Weinfelden",
+      "code": "CH-TG-8260147",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-TG",
+      "latitude": 47.54237,
+      "longitude": 9.15713
+    }
+  ]
+}

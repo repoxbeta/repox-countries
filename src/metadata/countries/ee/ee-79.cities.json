@@ -1,0 +1,95 @@
+{
+  "stateId": 588334,
+  "stateCode": "EE-79",
+  "countryCode": "EE",
+  "cities": [
+    {
+      "id": 11776873,
+      "name": "Elva vald",
+      "nativeName": "Elva vald",
+      "code": "EE-79-11776873",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-79",
+      "latitude": 58.24564,
+      "longitude": 26.27258
+    },
+    {
+      "id": 7522294,
+      "name": "Kambja vald",
+      "nativeName": "Kambja vald",
+      "code": "EE-79-7522294",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-79",
+      "latitude": 58.20255,
+      "longitude": 26.68996
+    },
+    {
+      "id": 11776877,
+      "name": "Kastre vald",
+      "nativeName": "Kastre vald",
+      "code": "EE-79-11776877",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-79",
+      "latitude": 58.31259,
+      "longitude": 27.07713
+    },
+    {
+      "id": 7522334,
+      "name": "Luunja vald",
+      "nativeName": "Luunja vald",
+      "code": "EE-79-7522334",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-79",
+      "latitude": 58.39178,
+      "longitude": 26.95574
+    },
+    {
+      "id": 7522361,
+      "name": "Nõo vald",
+      "nativeName": "Nõo vald",
+      "code": "EE-79-7522361",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-79",
+      "latitude": 58.24199,
+      "longitude": 26.52499
+    },
+    {
+      "id": 7522376,
+      "name": "Peipsiääre vald",
+      "nativeName": "Peipsiääre vald",
+      "code": "EE-79-7522376",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-79",
+      "latitude": 58.51559,
+      "longitude": 27.18444
+    },
+    {
+      "id": 7522434,
+      "name": "Tartu linn",
+      "nativeName": "Tartu linn",
+      "code": "EE-79-7522434",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-79",
+      "latitude": 58.37498,
+      "longitude": 26.73256
+    },
+    {
+      "id": 7522391,
+      "name": "Tartu vald",
+      "nativeName": "Tartu vald",
+      "code": "EE-79-7522391",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-79",
+      "latitude": 58.478,
+      "longitude": 26.74956
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "stateId": 2453347,
+  "stateCode": "ML-5",
+  "countryCode": "ML",
+  "cities": [
+    {
+      "id": 8299591,
+      "name": "Bandiagara Cercle",
+      "nativeName": "Bandiagara Cercle",
+      "code": "ML-5-8299591",
+      "countryId": 2453866,
+      "countryCode": "ML",
+      "stateCode": "ML-5",
+      "latitude": 14.484,
+      "longitude": -3.581
+    },
+    {
+      "id": 7701493,
+      "name": "Bankass Cercle",
+      "nativeName": "Bankass Cercle",
+      "code": "ML-5-7701493",
+      "countryId": 2453866,
+      "countryCode": "ML",
+      "stateCode": "ML-5",
+      "latitude": 13.65966,
+      "longitude": -3.60347
+    },
+    {
+      "id": 8299590,
+      "name": "Djenne Cercle",
+      "nativeName": "Djenne Cercle",
+      "code": "ML-5-8299590",
+      "countryId": 2453866,
+      "countryCode": "ML",
+      "stateCode": "ML-5",
+      "latitude": 13.916,
+      "longitude": -4.595
+    },
+    {
+      "id": 7670549,
+      "name": "Douentza Cercle",
+      "nativeName": "Douentza Cercle",
+      "code": "ML-5-7670549",
+      "countryId": 2453866,
+      "countryCode": "ML",
+      "stateCode": "ML-5",
+      "latitude": 15.06947,
+      "longitude": -2.40875
+    },
+    {
+      "id": 7701494,
+      "name": "Koro Cercle",
+      "nativeName": "Koro Cercle",
+      "code": "ML-5-7701494",
+      "countryId": 2453866,
+      "countryCode": "ML",
+      "stateCode": "ML-5",
+      "latitude": 14.384,
+      "longitude": -2.853
+    },
+    {
+      "id": 7701484,
+      "name": "Mopti Cercle",
+      "nativeName": "Mopti Cercle",
+      "code": "ML-5-7701484",
+      "countryId": 2453866,
+      "countryCode": "ML",
+      "stateCode": "ML-5",
+      "latitude": 14.77995,
+      "longitude": -4.09297
+    },
+    {
+      "id": 8299589,
+      "name": "Tenenkou Cercle",
+      "nativeName": "Tenenkou Cercle",
+      "code": "ML-5-8299589",
+      "countryId": 2453866,
+      "countryCode": "ML",
+      "stateCode": "ML-5",
+      "latitude": 14.659,
+      "longitude": -4.908
+    },
+    {
+      "id": 8299587,
+      "name": "Youwarou Cercle",
+      "nativeName": "Youwarou Cercle",
+      "code": "ML-5-8299587",
+      "countryId": 2453866,
+      "countryCode": "ML",
+      "stateCode": "ML-5",
+      "latitude": 15.373,
+      "longitude": -4.488
+    }
+  ]
+}

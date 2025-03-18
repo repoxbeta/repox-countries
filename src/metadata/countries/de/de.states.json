@@ -1,0 +1,182 @@
+{
+  "countryId": 2921044,
+  "countryCode": "DE",
+  "states": [
+    {
+      "id": 2953481,
+      "name": "Baden-Wurttemberg",
+      "nativeName": "Baden-Württemberg",
+      "code": "DE-BW",
+      "internalCode": "BW",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "latitude": 48.5,
+      "longitude": 9
+    },
+    {
+      "id": 2951839,
+      "name": "Bavaria",
+      "nativeName": "Bavaria",
+      "code": "DE-BY",
+      "internalCode": "BY",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "latitude": 49,
+      "longitude": 11.5
+    },
+    {
+      "id": 2945356,
+      "name": "Brandenburg",
+      "nativeName": "Brandenburg",
+      "code": "DE-BB",
+      "internalCode": "BB",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "latitude": 52.45905,
+      "longitude": 13.01582
+    },
+    {
+      "id": 2944387,
+      "name": "Bremen",
+      "nativeName": "Bremen",
+      "code": "DE-HB",
+      "internalCode": "HB",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "latitude": 53.08333,
+      "longitude": 8.83333
+    },
+    {
+      "id": 2911297,
+      "name": "Hamburg",
+      "nativeName": "Free and Hanseatic City of Hamburg",
+      "code": "DE-HH",
+      "internalCode": "HH",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "latitude": 53.58333,
+      "longitude": 10
+    },
+    {
+      "id": 2905330,
+      "name": "Hesse",
+      "nativeName": "Hessen",
+      "code": "DE-HE",
+      "internalCode": "HE",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "latitude": 50.55,
+      "longitude": 9
+    },
+    {
+      "id": 2950157,
+      "name": "Land Berlin",
+      "nativeName": "Land Berlin",
+      "code": "DE-BE",
+      "internalCode": "BE",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "latitude": 52.5,
+      "longitude": 13.41667
+    },
+    {
+      "id": 2862926,
+      "name": "Lower Saxony",
+      "nativeName": "Lower Saxony",
+      "code": "DE-NI",
+      "internalCode": "NI",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "latitude": 52.83333,
+      "longitude": 9.16667
+    },
+    {
+      "id": 2872567,
+      "name": "Mecklenburg-Vorpommern",
+      "nativeName": "Mecklenburg-Western Pomerania",
+      "code": "DE-MV",
+      "internalCode": "MV",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "latitude": 53.83333,
+      "longitude": 12.5
+    },
+    {
+      "id": 2861876,
+      "name": "North Rhine-Westphalia",
+      "nativeName": "Nordrhein-Westfalen",
+      "code": "DE-NW",
+      "internalCode": "NW",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "latitude": 51.21895,
+      "longitude": 6.76339
+    },
+    {
+      "id": 2847618,
+      "name": "Rheinland-Pfalz",
+      "nativeName": "Rheinland-Pfalz",
+      "code": "DE-RP",
+      "internalCode": "RP",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "latitude": 49.66667,
+      "longitude": 7.5
+    },
+    {
+      "id": 2842635,
+      "name": "Saarland",
+      "nativeName": "Saarland",
+      "code": "DE-SL",
+      "internalCode": "SL",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "latitude": 49.40472,
+      "longitude": 6.96083
+    },
+    {
+      "id": 2842566,
+      "name": "Saxony",
+      "nativeName": "Saxony",
+      "code": "DE-SN",
+      "internalCode": "SN",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "latitude": 51,
+      "longitude": 13.25
+    },
+    {
+      "id": 2842565,
+      "name": "Saxony-Anhalt",
+      "nativeName": "Saxony-Anhalt",
+      "code": "DE-ST",
+      "internalCode": "ST",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "latitude": 52,
+      "longitude": 11.7333
+    },
+    {
+      "id": 2838632,
+      "name": "Schleswig-Holstein",
+      "nativeName": "Schleswig-Holstein",
+      "code": "DE-SH",
+      "internalCode": "SH",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "latitude": 54.2,
+      "longitude": 9.75
+    },
+    {
+      "id": 2822542,
+      "name": "Thuringia",
+      "nativeName": "Thuringia",
+      "code": "DE-TH",
+      "internalCode": "TH",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "latitude": 50.91667,
+      "longitude": 11
+    }
+  ]
+}

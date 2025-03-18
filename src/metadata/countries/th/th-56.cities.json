@@ -1,0 +1,106 @@
+{
+  "stateId": 1607758,
+  "stateCode": "TH-56",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 1611201,
+      "name": "Chiang Kham",
+      "nativeName": "Amphoe Chiang Kham",
+      "code": "TH-56-1611201",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-56",
+      "latitude": 19.47061,
+      "longitude": 100.33868
+    },
+    {
+      "id": 7910433,
+      "name": "Chiang Muan",
+      "nativeName": "Amphoe Chiang Muan",
+      "code": "TH-56-7910433",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-56",
+      "latitude": 18.90385,
+      "longitude": 100.31792
+    },
+    {
+      "id": 1611000,
+      "name": "Chun",
+      "nativeName": "Amphoe Chun",
+      "code": "TH-56-1611000",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-56",
+      "latitude": 19.36803,
+      "longitude": 100.14492
+    },
+    {
+      "id": 1610908,
+      "name": "Dok Khamtai",
+      "nativeName": "Amphoe Dok Kham Tai",
+      "code": "TH-56-1610908",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-56",
+      "latitude": 19.10813,
+      "longitude": 100.05657
+    },
+    {
+      "id": 1152228,
+      "name": "Mae Chai",
+      "nativeName": "Amphoe Mae Chai",
+      "code": "TH-56-1152228",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-56",
+      "latitude": 19.37925,
+      "longitude": 99.80141
+    },
+    {
+      "id": 1151425,
+      "name": "Mueang Phayao",
+      "nativeName": "Amphoe Mueang Phayao",
+      "code": "TH-56-1151425",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-56",
+      "latitude": 19.14857,
+      "longitude": 99.87325
+    },
+    {
+      "id": 7510669,
+      "name": "Phu Kamyao",
+      "nativeName": "Amphoe Phu Kam Yao",
+      "code": "TH-56-7510669",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-56",
+      "latitude": 19.3117,
+      "longitude": 99.96614
+    },
+    {
+      "id": 7382461,
+      "name": "Phu Sang",
+      "nativeName": "Amphoe Phu Sang",
+      "code": "TH-56-7382461",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-56",
+      "latitude": 19.62372,
+      "longitude": 100.37246
+    },
+    {
+      "id": 1607323,
+      "name": "Pong",
+      "nativeName": "Amphoe Pong",
+      "code": "TH-56-1607323",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-56",
+      "latitude": 19.185,
+      "longitude": 100.3878
+    }
+  ]
+}

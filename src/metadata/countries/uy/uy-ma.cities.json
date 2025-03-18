@@ -1,0 +1,95 @@
+{
+  "stateId": 3441890,
+  "stateCode": "UY-MA",
+  "countryCode": "UY",
+  "cities": [
+    {
+      "id": 11820773,
+      "name": "Aiguá",
+      "nativeName": "Aiguá",
+      "code": "UY-MA-11820773",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-MA",
+      "latitude": -34.25468,
+      "longitude": -54.64348
+    },
+    {
+      "id": 11820774,
+      "name": "Garzón",
+      "nativeName": "Garzón",
+      "code": "UY-MA-11820774",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-MA",
+      "latitude": -34.62831,
+      "longitude": -54.61227
+    },
+    {
+      "id": 11820867,
+      "name": "Maldonado",
+      "nativeName": "Maldonado",
+      "code": "UY-MA-11820867",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-MA",
+      "latitude": -34.8439,
+      "longitude": -54.98297
+    },
+    {
+      "id": 11820772,
+      "name": "Pan De Azucar",
+      "nativeName": "Pan De Azucar",
+      "code": "UY-MA-11820772",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-MA",
+      "latitude": -34.70241,
+      "longitude": -55.20468
+    },
+    {
+      "id": 11820860,
+      "name": "Piriapolis",
+      "nativeName": "Piriapolis",
+      "code": "UY-MA-11820860",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-MA",
+      "latitude": -34.84794,
+      "longitude": -55.22418
+    },
+    {
+      "id": 11820843,
+      "name": "Punta Del Este",
+      "nativeName": "Punta Del Este",
+      "code": "UY-MA-11820843",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-MA",
+      "latitude": -34.93195,
+      "longitude": -54.92141
+    },
+    {
+      "id": 11820778,
+      "name": "San Carlos",
+      "nativeName": "San Carlos",
+      "code": "UY-MA-11820778",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-MA",
+      "latitude": -34.65095,
+      "longitude": -54.9041
+    },
+    {
+      "id": 11820775,
+      "name": "Solis Grande",
+      "nativeName": "Solis Grande",
+      "code": "UY-MA-11820775",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-MA",
+      "latitude": -34.7097,
+      "longitude": -55.38662
+    }
+  ]
+}

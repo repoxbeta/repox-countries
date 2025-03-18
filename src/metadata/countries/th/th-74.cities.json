@@ -1,0 +1,40 @@
+{
+  "stateId": 1606587,
+  "stateCode": "TH-74",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 1614464,
+      "name": "Ban Phaeo",
+      "nativeName": "Amphoe Ban Phaeo",
+      "code": "TH-74-1614464",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-74",
+      "latitude": 13.58747,
+      "longitude": 100.11789
+    },
+    {
+      "id": 1609394,
+      "name": "Krathum Baen",
+      "nativeName": "Amphoe Krathum Baen",
+      "code": "TH-74-1609394",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-74",
+      "latitude": 13.6557,
+      "longitude": 100.27282
+    },
+    {
+      "id": 1608622,
+      "name": "Mueang Samut Sakhon",
+      "nativeName": "Amphoe Mueang Samut Sakhon",
+      "code": "TH-74-1608622",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-74",
+      "latitude": 13.53163,
+      "longitude": 100.25326
+    }
+  ]
+}

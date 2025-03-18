@@ -1,0 +1,106 @@
+{
+  "stateId": 900594,
+  "stateCode": "ZM-06",
+  "countryCode": "ZM",
+  "cities": [
+    {
+      "id": 10801797,
+      "name": "Chavuma",
+      "nativeName": "Chavuma",
+      "code": "ZM-06-10801797",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-06",
+      "latitude": -13.19765,
+      "longitude": 22.38958
+    },
+    {
+      "id": 10801775,
+      "name": "Ikelenge",
+      "nativeName": "Ikelenge",
+      "code": "ZM-06-10801775",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-06",
+      "latitude": -11.23772,
+      "longitude": 24.20839
+    },
+    {
+      "id": 916244,
+      "name": "Kabompo District",
+      "nativeName": "Kabompo District",
+      "code": "ZM-06-916244",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-06",
+      "latitude": -13.48946,
+      "longitude": 23.95609
+    },
+    {
+      "id": 912623,
+      "name": "Kasempa District",
+      "nativeName": "Kasempa District",
+      "code": "ZM-06-912623",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-06",
+      "latitude": -13.63667,
+      "longitude": 26.2258
+    },
+    {
+      "id": 10814730,
+      "name": "Manyinga District",
+      "nativeName": "Manyinga District",
+      "code": "ZM-06-10814730",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-06",
+      "latitude": -12.9722,
+      "longitude": 24.32063
+    },
+    {
+      "id": 10801798,
+      "name": "Mufumbwe",
+      "nativeName": "Mufumbwe",
+      "code": "ZM-06-10801798",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-06",
+      "latitude": -13.76211,
+      "longitude": 25.14392
+    },
+    {
+      "id": 902616,
+      "name": "Mwinilunga District",
+      "nativeName": "Mwinilunga District",
+      "code": "ZM-06-902616",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-06",
+      "latitude": -12.00079,
+      "longitude": 24.58469
+    },
+    {
+      "id": 897041,
+      "name": "Solwezi District",
+      "nativeName": "Solwezi District",
+      "code": "ZM-06-897041",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-06",
+      "latitude": -12.39277,
+      "longitude": 26.04287
+    },
+    {
+      "id": 895952,
+      "name": "Zambezi District",
+      "nativeName": "Zambezi District",
+      "code": "ZM-06-895952",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-06",
+      "latitude": -13.58963,
+      "longitude": 22.95404
+    }
+  ]
+}

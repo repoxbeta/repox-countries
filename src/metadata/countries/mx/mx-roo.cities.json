@@ -1,0 +1,128 @@
+{
+  "stateId": 3520887,
+  "stateCode": "MX-ROO",
+  "countryCode": "MX",
+  "cities": [
+    {
+      "id": 8583288,
+      "name": "Bacalar Municipality",
+      "nativeName": "Bacalar",
+      "code": "MX-ROO-8583288",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-ROO",
+      "latitude": 18.90566,
+      "longitude": -88.48173
+    },
+    {
+      "id": 8581707,
+      "name": "Benito Juárez",
+      "nativeName": "Benito Juárez",
+      "code": "MX-ROO-8581707",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-ROO",
+      "latitude": 21.02029,
+      "longitude": -87.04101
+    },
+    {
+      "id": 8583280,
+      "name": "Cozumel",
+      "nativeName": "Cozumel",
+      "code": "MX-ROO-8583280",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-ROO",
+      "latitude": 20.4535,
+      "longitude": -86.92835
+    },
+    {
+      "id": 8583281,
+      "name": "Felipe Carrillo Puerto Municipality",
+      "nativeName": "Felipe Carrillo Puerto",
+      "code": "MX-ROO-8583281",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-ROO",
+      "latitude": 19.64519,
+      "longitude": -88.1532
+    },
+    {
+      "id": 8583282,
+      "name": "Isla Mujeres",
+      "nativeName": "Isla Mujeres",
+      "code": "MX-ROO-8583282",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-ROO",
+      "latitude": 21.27101,
+      "longitude": -86.89904
+    },
+    {
+      "id": 8583284,
+      "name": "José María Morelos",
+      "nativeName": "José María Morelos",
+      "code": "MX-ROO-8583284",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-ROO",
+      "latitude": 19.74914,
+      "longitude": -88.77606
+    },
+    {
+      "id": 8583285,
+      "name": "Lázaro Cárdenas",
+      "nativeName": "Lázaro Cárdenas",
+      "code": "MX-ROO-8583285",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-ROO",
+      "latitude": 20.999,
+      "longitude": -87.44275
+    },
+    {
+      "id": 8583283,
+      "name": "Othón P. Blanco",
+      "nativeName": "Othón P. Blanco",
+      "code": "MX-ROO-8583283",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-ROO",
+      "latitude": 18.52309,
+      "longitude": -88.38672
+    },
+    {
+      "id": 11789146,
+      "name": "Puerto Morelos",
+      "nativeName": "Puerto Morelos",
+      "code": "MX-ROO-11789146",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-ROO",
+      "latitude": 20.85063,
+      "longitude": -86.87585
+    },
+    {
+      "id": 8583286,
+      "name": "Solidaridad",
+      "nativeName": "Solidaridad",
+      "code": "MX-ROO-8583286",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-ROO",
+      "latitude": 20.63076,
+      "longitude": -87.17661
+    },
+    {
+      "id": 8583287,
+      "name": "Tulum",
+      "nativeName": "Tulum",
+      "code": "MX-ROO-8583287",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-ROO",
+      "latitude": 20.22618,
+      "longitude": -87.51702
+    }
+  ]
+}

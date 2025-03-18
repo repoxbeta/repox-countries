@@ -1,0 +1,84 @@
+{
+  "stateId": 720002,
+  "stateCode": "HU-HE",
+  "countryCode": "HU",
+  "cities": [
+    {
+      "id": 9644333,
+      "name": "Bélapátfalvai Járás",
+      "nativeName": "Bélapátfalvai Járás",
+      "code": "HU-HE-9644333",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-HE",
+      "latitude": 48.06386,
+      "longitude": 20.36163
+    },
+    {
+      "id": 9644334,
+      "name": "Eger District",
+      "nativeName": "Egri járás",
+      "code": "HU-HE-9644334",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-HE",
+      "latitude": 47.92961,
+      "longitude": 20.37383
+    },
+    {
+      "id": 9644335,
+      "name": "Füzesabonyi járás",
+      "nativeName": "Füzesabonyi járás",
+      "code": "HU-HE-9644335",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-HE",
+      "latitude": 47.72671,
+      "longitude": 20.42875
+    },
+    {
+      "id": 9644336,
+      "name": "Gyöngyösi Járás",
+      "nativeName": "Gyöngyösi Járás",
+      "code": "HU-HE-9644336",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-HE",
+      "latitude": 47.79079,
+      "longitude": 19.9543
+    },
+    {
+      "id": 9644337,
+      "name": "Hatvani Járás",
+      "nativeName": "Hatvani Járás",
+      "code": "HU-HE-9644337",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-HE",
+      "latitude": 47.69468,
+      "longitude": 19.72852
+    },
+    {
+      "id": 9644338,
+      "name": "Hevesi Járás",
+      "nativeName": "Hevesi Járás",
+      "code": "HU-HE-9644338",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-HE",
+      "latitude": 47.61535,
+      "longitude": 20.31739
+    },
+    {
+      "id": 9644339,
+      "name": "Pétervásárai Járás",
+      "nativeName": "Pétervásárai Járás",
+      "code": "HU-HE-9644339",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-HE",
+      "latitude": 48.00589,
+      "longitude": 20.09466
+    }
+  ]
+}

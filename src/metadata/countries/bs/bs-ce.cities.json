@@ -1,0 +1,73 @@
+{
+  "stateId": 8030544,
+  "stateCode": "BS-CE",
+  "countryCode": "BS",
+  "cities": [
+    {
+      "id": 3572313,
+      "name": "Governor’s Harbour",
+      "nativeName": "Governor’s Harbour",
+      "code": "BS-CE-3572313",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-CE",
+      "latitude": 25.16667,
+      "longitude": -76.23333
+    },
+    {
+      "id": 3571775,
+      "name": "North Palmetto Point",
+      "nativeName": "North Palmetto Point",
+      "code": "BS-CE-3571775",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-CE",
+      "latitude": 25.16667,
+      "longitude": -76.18333
+    },
+    {
+      "id": 3571725,
+      "name": "Palmetto Point",
+      "nativeName": "Palmetto Point",
+      "code": "BS-CE-3571725",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-CE",
+      "latitude": 25.16667,
+      "longitude": -76.16667
+    },
+    {
+      "id": 3571485,
+      "name": "Savannah Sound",
+      "nativeName": "Savannah Sound",
+      "code": "BS-CE-3571485",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-CE",
+      "latitude": 25.08416,
+      "longitude": -76.13714
+    },
+    {
+      "id": 3571396,
+      "name": "South Palmetto Point",
+      "nativeName": "South Palmetto Point",
+      "code": "BS-CE-3571396",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-CE",
+      "latitude": 25.15,
+      "longitude": -76.18333
+    },
+    {
+      "id": 3740277,
+      "name": "South Palmetto Point",
+      "nativeName": "South Palmetto Point",
+      "code": "BS-CE-3740277",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-CE",
+      "latitude": 25.15,
+      "longitude": -76.17222
+    }
+  ]
+}

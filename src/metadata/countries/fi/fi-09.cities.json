@@ -1,0 +1,29 @@
+{
+  "stateId": 830703,
+  "stateCode": "FI-09",
+  "countryCode": "FI",
+  "cities": [
+    {
+      "id": 9610691,
+      "name": "Kotka-Hamina",
+      "nativeName": "Kotka-Hamina",
+      "code": "FI-09-9610691",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-09",
+      "latitude": 60.58437,
+      "longitude": 27.23052
+    },
+    {
+      "id": 9610690,
+      "name": "Kouvola",
+      "nativeName": "Kouvola",
+      "code": "FI-09-9610690",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-09",
+      "latitude": 60.93389,
+      "longitude": 26.68069
+    }
+  ]
+}

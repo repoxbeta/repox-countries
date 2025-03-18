@@ -1,0 +1,73 @@
+{
+  "stateId": 2658760,
+  "stateCode": "CH-SH",
+  "countryCode": "CH",
+  "cities": [
+    {
+      "id": 6458815,
+      "name": "Bezirk Oberklettgau",
+      "nativeName": "Bezirk Oberklettgau",
+      "code": "CH-SH-6458815",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-SH",
+      "latitude": 47.69893,
+      "longitude": 8.51774
+    },
+    {
+      "id": 6458883,
+      "name": "Bezirk Reiat",
+      "nativeName": "Bezirk Reiat",
+      "code": "CH-SH-6458883",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-SH",
+      "latitude": 47.74752,
+      "longitude": 8.70821
+    },
+    {
+      "id": 6458881,
+      "name": "Bezirk Schaffhausen",
+      "nativeName": "Bezirk Schaffhausen",
+      "code": "CH-SH-6458881",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-SH",
+      "latitude": 47.6944,
+      "longitude": 8.63525
+    },
+    {
+      "id": 6458769,
+      "name": "Bezirk Schleitheim",
+      "nativeName": "Bezirk Schleitheim",
+      "code": "CH-SH-6458769",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-SH",
+      "latitude": 47.75,
+      "longitude": 8.51111
+    },
+    {
+      "id": 6458794,
+      "name": "Bezirk Stein",
+      "nativeName": "Bezirk Stein",
+      "code": "CH-SH-6458794",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-SH",
+      "latitude": 47.66429,
+      "longitude": 8.84683
+    },
+    {
+      "id": 6458836,
+      "name": "Bezirk Unterklettgau",
+      "nativeName": "Bezirk Unterklettgau",
+      "code": "CH-SH-6458836",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-SH",
+      "latitude": 47.68,
+      "longitude": 8.46333
+    }
+  ]
+}

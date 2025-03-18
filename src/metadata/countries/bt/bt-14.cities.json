@@ -1,0 +1,84 @@
+{
+  "stateId": 1337289,
+  "stateCode": "BT-14",
+  "countryCode": "BT",
+  "cities": [
+    {
+      "id": 1337360,
+      "name": "Samtse",
+      "nativeName": "Samtse",
+      "code": "BT-14-1337360",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-14",
+      "latitude": 26.89903,
+      "longitude": 89.09951
+    },
+    {
+      "id": 1337361,
+      "name": "Chengmari",
+      "nativeName": "Chengmari",
+      "code": "BT-14-1337361",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-14",
+      "latitude": 26.935,
+      "longitude": 89.041
+    },
+    {
+      "id": 1337362,
+      "name": "Dorokha",
+      "nativeName": "Dorokha",
+      "code": "BT-14-1337362",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-14",
+      "latitude": 27.01667,
+      "longitude": 89.21667
+    },
+    {
+      "id": 1252582,
+      "name": "Dzongsa Dzong",
+      "nativeName": "Dzongsa Dzong",
+      "code": "BT-14-1252582",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-14",
+      "latitude": 27.1,
+      "longitude": 88.88333
+    },
+    {
+      "id": 8429852,
+      "name": "Dūmte",
+      "nativeName": "Dūmte",
+      "code": "BT-14-8429852",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-14",
+      "latitude": 27.04553,
+      "longitude": 89.18275
+    },
+    {
+      "id": 7645265,
+      "name": "Samtse",
+      "nativeName": "Samtse",
+      "code": "BT-14-7645265",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-14",
+      "latitude": 26.91309,
+      "longitude": 89.08361
+    },
+    {
+      "id": 12719990,
+      "name": "Ugentse",
+      "nativeName": "Ugentse",
+      "code": "BT-14-12719990",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-14",
+      "latitude": 26.94849,
+      "longitude": 89.00602
+    }
+  ]
+}

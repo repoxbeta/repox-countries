@@ -1,0 +1,84 @@
+{
+  "stateId": 6413340,
+  "stateCode": "RW-04",
+  "countryCode": "RW",
+  "cities": [
+    {
+      "id": 7690211,
+      "name": "Karongi District",
+      "nativeName": "Karongi District",
+      "code": "RW-04-7690211",
+      "countryId": 49518,
+      "countryCode": "RW",
+      "stateCode": "RW-04",
+      "latitude": -2.1296,
+      "longitude": 29.36172
+    },
+    {
+      "id": 7690208,
+      "name": "Ngororero District",
+      "nativeName": "Ngororero District",
+      "code": "RW-04-7690208",
+      "countryId": 49518,
+      "countryCode": "RW",
+      "stateCode": "RW-04",
+      "latitude": -1.87822,
+      "longitude": 29.56904
+    },
+    {
+      "id": 7690207,
+      "name": "Nyabihu District",
+      "nativeName": "Nyabihu District",
+      "code": "RW-04-7690207",
+      "countryId": 49518,
+      "countryCode": "RW",
+      "stateCode": "RW-04",
+      "latitude": -1.65275,
+      "longitude": 29.50684
+    },
+    {
+      "id": 7690212,
+      "name": "Nyamasheke District",
+      "nativeName": "Nyamasheke District",
+      "code": "RW-04-7690212",
+      "countryId": 49518,
+      "countryCode": "RW",
+      "stateCode": "RW-04",
+      "latitude": -2.36154,
+      "longitude": 29.14791
+    },
+    {
+      "id": 7690209,
+      "name": "Rubavu District",
+      "nativeName": "Rubavu District",
+      "code": "RW-04-7690209",
+      "countryId": 49518,
+      "countryCode": "RW",
+      "stateCode": "RW-04",
+      "latitude": -1.68126,
+      "longitude": 29.32932
+    },
+    {
+      "id": 7690213,
+      "name": "Rusizi District",
+      "nativeName": "Rusizi District",
+      "code": "RW-04-7690213",
+      "countryId": 49518,
+      "countryCode": "RW",
+      "stateCode": "RW-04",
+      "latitude": -2.57016,
+      "longitude": 29.07535
+    },
+    {
+      "id": 7690210,
+      "name": "Rutsiro District",
+      "nativeName": "Rutsiro District",
+      "code": "RW-04-7690210",
+      "countryId": 49518,
+      "countryCode": "RW",
+      "stateCode": "RW-04",
+      "latitude": -1.9145,
+      "longitude": 29.31507
+    }
+  ]
+}

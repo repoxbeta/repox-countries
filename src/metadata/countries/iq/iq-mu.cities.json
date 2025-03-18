@@ -1,0 +1,51 @@
+{
+  "stateId": 99032,
+  "stateCode": "IQ-MU",
+  "countryCode": "IQ",
+  "cities": [
+    {
+      "id": 9166626,
+      "name": "Al-Khidir District",
+      "nativeName": "Al-Khidir District",
+      "code": "IQ-MU-9166626",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-MU",
+      "latitude": 31.21122,
+      "longitude": 45.59095
+    },
+    {
+      "id": 9166568,
+      "name": "Al-Rumaitha District",
+      "nativeName": "Al-Rumaitha District",
+      "code": "IQ-MU-9166568",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-MU",
+      "latitude": 31.49777,
+      "longitude": 45.29542
+    },
+    {
+      "id": 98534,
+      "name": "Al-Salman District",
+      "nativeName": "Al-Salman District",
+      "code": "IQ-MU-98534",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-MU",
+      "latitude": 30.5,
+      "longitude": 44.53333
+    },
+    {
+      "id": 98532,
+      "name": "Al-Samawa District",
+      "nativeName": "Al-Samawa District",
+      "code": "IQ-MU-98532",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-MU",
+      "latitude": 31.22639,
+      "longitude": 45.26197
+    }
+  ]
+}

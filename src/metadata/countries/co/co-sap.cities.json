@@ -1,0 +1,29 @@
+{
+  "stateId": 3670205,
+  "stateCode": "CO-SAP",
+  "countryCode": "CO",
+  "cities": [
+    {
+      "id": 3671718,
+      "name": "Providencia",
+      "nativeName": "Providencia",
+      "code": "CO-SAP-3671718",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-SAP",
+      "latitude": 13.38479,
+      "longitude": -81.37468
+    },
+    {
+      "id": 3670229,
+      "name": "San Andrés",
+      "nativeName": "San Andrés",
+      "code": "CO-SAP-3670229",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-SAP",
+      "latitude": 12.54308,
+      "longitude": -81.71752
+    }
+  ]
+}

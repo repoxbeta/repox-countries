@@ -1,0 +1,84 @@
+{
+  "stateId": 922727,
+  "stateCode": "CD-LU",
+  "countryCode": "CD",
+  "cities": [
+    {
+      "id": 12278121,
+      "name": "Dilolo",
+      "nativeName": "Dilolo",
+      "code": "CD-LU-12278121",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-LU",
+      "latitude": -10.54325,
+      "longitude": 23.23145
+    },
+    {
+      "id": 12278066,
+      "name": "Kapanga",
+      "nativeName": "Kapanga",
+      "code": "CD-LU-12278066",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-LU",
+      "latitude": -8.41178,
+      "longitude": 22.79795
+    },
+    {
+      "id": 9179562,
+      "name": "Kasaji",
+      "nativeName": "Kasaji",
+      "code": "CD-LU-9179562",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-LU",
+      "latitude": -10.36667,
+      "longitude": 23.45
+    },
+    {
+      "id": 8051180,
+      "name": "Kolwezi",
+      "nativeName": "Kolwezi",
+      "code": "CD-LU-8051180",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-LU",
+      "latitude": -10.73166,
+      "longitude": 25.47699
+    },
+    {
+      "id": 12278103,
+      "name": "Lubudi",
+      "nativeName": "Lubudi",
+      "code": "CD-LU-12278103",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-LU",
+      "latitude": -10.2253,
+      "longitude": 26.13706
+    },
+    {
+      "id": 12278117,
+      "name": "Mutshatsha",
+      "nativeName": "Mutshatsha",
+      "code": "CD-LU-12278117",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-LU",
+      "latitude": -10.76973,
+      "longitude": 25.05707
+    },
+    {
+      "id": 12278144,
+      "name": "Sandoa",
+      "nativeName": "Sandoa",
+      "code": "CD-LU-12278144",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-LU",
+      "latitude": -9.44489,
+      "longitude": 23.0274
+    }
+  ]
+}

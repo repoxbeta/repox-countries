@@ -1,0 +1,62 @@
+{
+  "stateId": 3174004,
+  "stateCode": "IT-57",
+  "countryCode": "IT",
+  "cities": [
+    {
+      "id": 3182748,
+      "name": "Ascoli Piceno",
+      "nativeName": "Provincia di Ascoli Piceno",
+      "code": "IT-57-3182748",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-57",
+      "latitude": 42.88443,
+      "longitude": 13.55306
+    },
+    {
+      "id": 3171172,
+      "name": "Pesaro and Urbino",
+      "nativeName": "Provincia di Pesaro e Urbino",
+      "code": "IT-57-3171172",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-57",
+      "latitude": 43.66667,
+      "longitude": 12.63333
+    },
+    {
+      "id": 3183087,
+      "name": "Province of Ancona",
+      "nativeName": "Provincia di Ancona",
+      "code": "IT-57-3183087",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-57",
+      "latitude": 43.55,
+      "longitude": 13.16667
+    },
+    {
+      "id": 6955471,
+      "name": "Province of Fermo",
+      "nativeName": "Province of Fermo",
+      "code": "IT-57-6955471",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-57",
+      "latitude": 43.16537,
+      "longitude": 13.72424
+    },
+    {
+      "id": 3174379,
+      "name": "Province of Macerata",
+      "nativeName": "Provincia di Macerata",
+      "code": "IT-57-3174379",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-57",
+      "latitude": 43.2,
+      "longitude": 13.16667
+    }
+  ]
+}

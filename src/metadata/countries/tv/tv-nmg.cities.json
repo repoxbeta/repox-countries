@@ -1,0 +1,29 @@
+{
+  "stateId": 7601980,
+  "stateCode": "TV-NMG",
+  "countryCode": "TV",
+  "cities": [
+    {
+      "id": 2110302,
+      "name": "Toga Village",
+      "nativeName": "Toga Village",
+      "code": "TV-NMG-2110302",
+      "countryId": 2110297,
+      "countryCode": "TV",
+      "stateCode": "TV-NMG",
+      "latitude": -6.28764,
+      "longitude": 176.31472
+    },
+    {
+      "id": 7602180,
+      "name": "Tokelau Village",
+      "nativeName": "Tokelau Village",
+      "code": "TV-NMG-7602180",
+      "countryId": 2110297,
+      "countryCode": "TV",
+      "stateCode": "TV-NMG",
+      "latitude": -6.28536,
+      "longitude": 176.31534
+    }
+  ]
+}

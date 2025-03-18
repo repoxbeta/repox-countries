@@ -1,0 +1,40 @@
+{
+  "stateId": 3695753,
+  "stateCode": "PE-LAM",
+  "countryCode": "PE",
+  "cities": [
+    {
+      "id": 3698348,
+      "name": "Chiclayo Province",
+      "nativeName": "Provincia de Chiclayo",
+      "code": "PE-LAM-3698348",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-LAM",
+      "latitude": -6.80495,
+      "longitude": -79.5501
+    },
+    {
+      "id": 3697032,
+      "name": "Ferreñafe Province",
+      "nativeName": "Provincia de Ferreñafe",
+      "code": "PE-LAM-3697032",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-LAM",
+      "latitude": -6.32908,
+      "longitude": -79.46171
+    },
+    {
+      "id": 3695752,
+      "name": "Lambayeque Province",
+      "nativeName": "Provincia de Lambayeque",
+      "code": "PE-LAM-3695752",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-LAM",
+      "latitude": -6.18756,
+      "longitude": -79.97486
+    }
+  ]
+}

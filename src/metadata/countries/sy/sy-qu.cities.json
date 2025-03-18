@@ -1,0 +1,29 @@
+{
+  "stateId": 173336,
+  "stateCode": "SY-QU",
+  "countryCode": "SY",
+  "cities": [
+    {
+      "id": 172039,
+      "name": "Fiq District",
+      "nativeName": "Fiq District",
+      "code": "SY-QU-172039",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-QU",
+      "latitude": 32.79793,
+      "longitude": 35.72198
+    },
+    {
+      "id": 173335,
+      "name": "Quneitra District",
+      "nativeName": "Quneitra District",
+      "code": "SY-QU-173335",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-QU",
+      "latitude": 33.08571,
+      "longitude": 35.78844
+    }
+  ]
+}

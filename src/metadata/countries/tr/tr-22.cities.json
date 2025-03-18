@@ -1,0 +1,95 @@
+{
+  "stateId": 747711,
+  "stateCode": "TR-22",
+  "countryCode": "TR",
+  "cities": [
+    {
+      "id": 8632575,
+      "name": "Enez İlçesi",
+      "nativeName": "Enez İlçesi",
+      "code": "TR-22-8632575",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-22",
+      "latitude": 40.73389,
+      "longitude": 26.10243
+    },
+    {
+      "id": 8632571,
+      "name": "Havsa İlçesi",
+      "nativeName": "Havsa İlçesi",
+      "code": "TR-22-8632571",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-22",
+      "latitude": 41.55981,
+      "longitude": 26.83394
+    },
+    {
+      "id": 8632574,
+      "name": "Keşan İlçesi",
+      "nativeName": "Keşan İlçesi",
+      "code": "TR-22-8632574",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-22",
+      "latitude": 40.86611,
+      "longitude": 26.64424
+    },
+    {
+      "id": 8632569,
+      "name": "Lâlapaşa İlçesi",
+      "nativeName": "Lâlapaşa İlçesi",
+      "code": "TR-22-8632569",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-22",
+      "latitude": 41.85056,
+      "longitude": 26.74865
+    },
+    {
+      "id": 8632572,
+      "name": "Meriç İlçesi",
+      "nativeName": "Meriç İlçesi",
+      "code": "TR-22-8632572",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-22",
+      "latitude": 41.20174,
+      "longitude": 26.43499
+    },
+    {
+      "id": 8632570,
+      "name": "Süloğlu İlçesi",
+      "nativeName": "Süloğlu İlçesi",
+      "code": "TR-22-8632570",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-22",
+      "latitude": 41.77956,
+      "longitude": 26.92602
+    },
+    {
+      "id": 8632568,
+      "name": "Uzunköprü İlçesi",
+      "nativeName": "Uzunköprü İlçesi",
+      "code": "TR-22-8632568",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-22",
+      "latitude": 41.27681,
+      "longitude": 26.69645
+    },
+    {
+      "id": 8632573,
+      "name": "İpsala İlçesi",
+      "nativeName": "İpsala İlçesi",
+      "code": "TR-22-8632573",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-22",
+      "latitude": 40.93204,
+      "longitude": 26.39781
+    }
+  ]
+}

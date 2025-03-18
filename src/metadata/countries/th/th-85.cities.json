@@ -1,0 +1,62 @@
+{
+  "stateId": 1150964,
+  "stateCode": "TH-85",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 1153060,
+      "name": "Kapoe",
+      "nativeName": "Amphoe Kapoe",
+      "code": "TH-85-1153060",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-85",
+      "latitude": 9.53028,
+      "longitude": 98.62369
+    },
+    {
+      "id": 1152624,
+      "name": "Kra Buri",
+      "nativeName": "Amphoe Kra Buri",
+      "code": "TH-85-1152624",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-85",
+      "latitude": 10.45895,
+      "longitude": 98.84373
+    },
+    {
+      "id": 1152373,
+      "name": "La-un",
+      "nativeName": "Amphoe La-un",
+      "code": "TH-85-1152373",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-85",
+      "latitude": 10.09691,
+      "longitude": 98.78498
+    },
+    {
+      "id": 1151982,
+      "name": "Mueang Ranong",
+      "nativeName": "Amphoe Mueang Ranong",
+      "code": "TH-85-1151982",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-85",
+      "latitude": 9.86238,
+      "longitude": 98.62229
+    },
+    {
+      "id": 7510608,
+      "name": "Suk Samran",
+      "nativeName": "Amphoe Suk Samran",
+      "code": "TH-85-7510608",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-85",
+      "latitude": 9.4157,
+      "longitude": 98.49117
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "stateId": 7521310,
+  "stateCode": "PH-05",
+  "countryCode": "PH",
+  "cities": [
+    {
+      "id": 1731616,
+      "name": "Province of Albay",
+      "nativeName": "Province of Albay",
+      "code": "PH-05-1731616",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-05",
+      "latitude": 13.21667,
+      "longitude": 123.55
+    },
+    {
+      "id": 1719846,
+      "name": "Province of Camarines Norte",
+      "nativeName": "Province of Camarines Norte",
+      "code": "PH-05-1719846",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-05",
+      "latitude": 14.16667,
+      "longitude": 122.75
+    },
+    {
+      "id": 1719845,
+      "name": "Province of Camarines Sur",
+      "nativeName": "Province of Camarines Sur",
+      "code": "PH-05-1719845",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-05",
+      "latitude": 13.66667,
+      "longitude": 123.33333
+    },
+    {
+      "id": 1717952,
+      "name": "Province of Catanduanes",
+      "nativeName": "Province of Catanduanes",
+      "code": "PH-05-1717952",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-05",
+      "latitude": 13.83333,
+      "longitude": 124.25
+    },
+    {
+      "id": 1700711,
+      "name": "Province of Masbate",
+      "nativeName": "Province of Masbate",
+      "code": "PH-05-1700711",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-05",
+      "latitude": 12.16667,
+      "longitude": 123.58333
+    },
+    {
+      "id": 1685754,
+      "name": "Province of Sorsogon",
+      "nativeName": "Province of Sorsogon",
+      "code": "PH-05-1685754",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-05",
+      "latitude": 12.83333,
+      "longitude": 123.91667
+    }
+  ]
+}

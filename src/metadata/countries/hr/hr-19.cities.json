@@ -1,0 +1,249 @@
+{
+  "stateId": 3337513,
+  "stateCode": "HR-19",
+  "countryCode": "HR",
+  "cities": [
+    {
+      "id": 11054489,
+      "name": "Municipality of Blato",
+      "nativeName": "Blato",
+      "code": "HR-19-11054489",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-19",
+      "latitude": 42.92928,
+      "longitude": 16.79672
+    },
+    {
+      "id": 11055009,
+      "name": "Municipality of Dubrovačko primorje",
+      "nativeName": "Dubrovačko primorje",
+      "code": "HR-19-11055009",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-19",
+      "latitude": 42.78988,
+      "longitude": 17.8624
+    },
+    {
+      "id": 11054973,
+      "name": "Municipality of Janjina",
+      "nativeName": "Općina Janjina",
+      "code": "HR-19-11054973",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-19",
+      "latitude": 42.92531,
+      "longitude": 17.43032
+    },
+    {
+      "id": 11054972,
+      "name": "Municipality of Konavle",
+      "nativeName": "Općina Konavle",
+      "code": "HR-19-11054972",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-19",
+      "latitude": 42.5401,
+      "longitude": 18.33944
+    },
+    {
+      "id": 11054971,
+      "name": "Municipality of Kula Norinska",
+      "nativeName": "Kula Norinska",
+      "code": "HR-19-11054971",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-19",
+      "latitude": 43.03033,
+      "longitude": 17.60027
+    },
+    {
+      "id": 3196753,
+      "name": "Municipality of Lastovo",
+      "nativeName": "Općina Lastovo",
+      "code": "HR-19-3196753",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-19",
+      "latitude": 42.75,
+      "longitude": 16.9
+    },
+    {
+      "id": 11054970,
+      "name": "Municipality of Lumbarda",
+      "nativeName": "Lumbarda",
+      "code": "HR-19-11054970",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-19",
+      "latitude": 42.92179,
+      "longitude": 17.16974
+    },
+    {
+      "id": 11054968,
+      "name": "Municipality of Mljet",
+      "nativeName": "Općina Mljet",
+      "code": "HR-19-11054968",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-19",
+      "latitude": 42.74439,
+      "longitude": 17.53645
+    },
+    {
+      "id": 11054966,
+      "name": "Municipality of Orebić",
+      "nativeName": "Općina Orebić",
+      "code": "HR-19-11054966",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-19",
+      "latitude": 42.98577,
+      "longitude": 17.1685
+    },
+    {
+      "id": 11054964,
+      "name": "Municipality of Pojezerje",
+      "nativeName": "Pojezerje",
+      "code": "HR-19-11054964",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-19",
+      "latitude": 43.15741,
+      "longitude": 17.45152
+    },
+    {
+      "id": 11054963,
+      "name": "Municipality of Slivno",
+      "nativeName": "Slivno",
+      "code": "HR-19-11054963",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-19",
+      "latitude": 42.95864,
+      "longitude": 17.54431
+    },
+    {
+      "id": 11054962,
+      "name": "Municipality of Smokvica",
+      "nativeName": "Smokvica",
+      "code": "HR-19-11054962",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-19",
+      "latitude": 42.92902,
+      "longitude": 16.89281
+    },
+    {
+      "id": 11054961,
+      "name": "Municipality of Ston",
+      "nativeName": "Općina Ston",
+      "code": "HR-19-11054961",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-19",
+      "latitude": 42.83968,
+      "longitude": 17.69189
+    },
+    {
+      "id": 11054960,
+      "name": "Municipality of Trpanj",
+      "nativeName": "Trpanj",
+      "code": "HR-19-11054960",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-19",
+      "latitude": 43.00777,
+      "longitude": 17.27085
+    },
+    {
+      "id": 11054959,
+      "name": "Municipality of Vela Luka",
+      "nativeName": "Vela Luka",
+      "code": "HR-19-11054959",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-19",
+      "latitude": 42.95996,
+      "longitude": 16.72153
+    },
+    {
+      "id": 11054958,
+      "name": "Municipality of Zažablje",
+      "nativeName": "Zažablje",
+      "code": "HR-19-11054958",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-19",
+      "latitude": 43.01113,
+      "longitude": 17.65683
+    },
+    {
+      "id": 11054957,
+      "name": "Municipality of Župa dubrovačka",
+      "nativeName": "Župa dubrovačka",
+      "code": "HR-19-11054957",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-19",
+      "latitude": 42.62683,
+      "longitude": 18.19475
+    },
+    {
+      "id": 7577034,
+      "name": "Town of Dubrovnik",
+      "nativeName": "Grad Dubrovnik",
+      "code": "HR-19-7577034",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-19",
+      "latitude": 42.64861,
+      "longitude": 18.09397
+    },
+    {
+      "id": 3197709,
+      "name": "Town of Korčula",
+      "nativeName": "Grad Korčula",
+      "code": "HR-19-3197709",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-19",
+      "latitude": 42.95693,
+      "longitude": 17.13181
+    },
+    {
+      "id": 11054969,
+      "name": "Town of Metković",
+      "nativeName": "Metković",
+      "code": "HR-19-11054969",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-19",
+      "latitude": 43.05295,
+      "longitude": 17.64855
+    },
+    {
+      "id": 11054967,
+      "name": "Town of Opuzen",
+      "nativeName": "Opuzen",
+      "code": "HR-19-11054967",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-19",
+      "latitude": 43.01716,
+      "longitude": 17.56345
+    },
+    {
+      "id": 3193146,
+      "name": "Town of Ploče",
+      "nativeName": "Grad Ploče",
+      "code": "HR-19-3193146",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-19",
+      "latitude": 43.06667,
+      "longitude": 17.43333
+    }
+  ]
+}

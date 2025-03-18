@@ -1,0 +1,293 @@
+{
+  "stateId": 3667725,
+  "stateCode": "CO-SUC",
+  "countryCode": "CO",
+  "cities": [
+    {
+      "id": 9609532,
+      "name": "Buenavista",
+      "nativeName": "Buenavista",
+      "code": "CO-SUC-9609532",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-SUC",
+      "latitude": 9.33243,
+      "longitude": -74.9483
+    },
+    {
+      "id": 3688031,
+      "name": "Caimito",
+      "nativeName": "Caimito",
+      "code": "CO-SUC-3688031",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-SUC",
+      "latitude": 8.78834,
+      "longitude": -75.13583
+    },
+    {
+      "id": 3670818,
+      "name": "Chalán",
+      "nativeName": "Chalán",
+      "code": "CO-SUC-3670818",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-SUC",
+      "latitude": 9.57013,
+      "longitude": -75.31806
+    },
+    {
+      "id": 9172286,
+      "name": "Coloso",
+      "nativeName": "Coloso",
+      "code": "CO-SUC-9172286",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-SUC",
+      "latitude": 9.51176,
+      "longitude": -75.36233
+    },
+    {
+      "id": 3685831,
+      "name": "Corozal",
+      "nativeName": "Corozal",
+      "code": "CO-SUC-3685831",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-SUC",
+      "latitude": 9.20001,
+      "longitude": -75.27916
+    },
+    {
+      "id": 9609533,
+      "name": "Coveñas",
+      "nativeName": "Coveñas",
+      "code": "CO-SUC-9609533",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-SUC",
+      "latitude": 9.39413,
+      "longitude": -75.6572
+    },
+    {
+      "id": 9609534,
+      "name": "El Roble",
+      "nativeName": "El Roble",
+      "code": "CO-SUC-9609534",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-SUC",
+      "latitude": 9.06997,
+      "longitude": -75.13679
+    },
+    {
+      "id": 9172402,
+      "name": "Galeras",
+      "nativeName": "Galeras",
+      "code": "CO-SUC-9172402",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-SUC",
+      "latitude": 9.1332,
+      "longitude": -74.9777
+    },
+    {
+      "id": 9172283,
+      "name": "Guaranda",
+      "nativeName": "Guaranda",
+      "code": "CO-SUC-9172283",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-SUC",
+      "latitude": 8.39479,
+      "longitude": -74.79862
+    },
+    {
+      "id": 9172282,
+      "name": "La Unión",
+      "nativeName": "La Unión",
+      "code": "CO-SUC-9172282",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-SUC",
+      "latitude": 8.79627,
+      "longitude": -75.29584
+    },
+    {
+      "id": 9172280,
+      "name": "Los Palmitos",
+      "nativeName": "Los Palmitos",
+      "code": "CO-SUC-9172280",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-SUC",
+      "latitude": 9.4249,
+      "longitude": -75.20653
+    },
+    {
+      "id": 3675640,
+      "name": "Majagual",
+      "nativeName": "Majagual",
+      "code": "CO-SUC-3675640",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-SUC",
+      "latitude": 8.535,
+      "longitude": -74.71499
+    },
+    {
+      "id": 3674338,
+      "name": "Morroa",
+      "nativeName": "Morroa",
+      "code": "CO-SUC-3674338",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-SUC",
+      "latitude": 9.39607,
+      "longitude": -75.33029
+    },
+    {
+      "id": 3673457,
+      "name": "Ovejas",
+      "nativeName": "Ovejas",
+      "code": "CO-SUC-3673457",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-SUC",
+      "latitude": 9.54083,
+      "longitude": -75.18333
+    },
+    {
+      "id": 3673144,
+      "name": "Palmito",
+      "nativeName": "Palmito",
+      "code": "CO-SUC-3673144",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-SUC",
+      "latitude": 9.33667,
+      "longitude": -75.56333
+    },
+    {
+      "id": 3670282,
+      "name": "Sampués",
+      "nativeName": "Sampués",
+      "code": "CO-SUC-3670282",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-SUC",
+      "latitude": 9.15417,
+      "longitude": -75.34583
+    },
+    {
+      "id": 3670039,
+      "name": "San Benito Abad",
+      "nativeName": "San Benito Abad",
+      "code": "CO-SUC-3670039",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-SUC",
+      "latitude": 8.78833,
+      "longitude": -74.95666
+    },
+    {
+      "id": 9172277,
+      "name": "San Juan de Betulia",
+      "nativeName": "San Juan de Betulia",
+      "code": "CO-SUC-9172277",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-SUC",
+      "latitude": 9.28486,
+      "longitude": -75.1941
+    },
+    {
+      "id": 9609535,
+      "name": "San Luis de Sincé",
+      "nativeName": "San Luis de Sincé",
+      "code": "CO-SUC-9609535",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-SUC",
+      "latitude": 9.25523,
+      "longitude": -75.08535
+    },
+    {
+      "id": 3669350,
+      "name": "San Marcos",
+      "nativeName": "San Marcos",
+      "code": "CO-SUC-3669350",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-SUC",
+      "latitude": 8.58333,
+      "longitude": -75.16667
+    },
+    {
+      "id": 3669219,
+      "name": "San Onofre",
+      "nativeName": "San Onofre",
+      "code": "CO-SUC-3669219",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-SUC",
+      "latitude": 9.73714,
+      "longitude": -75.52483
+    },
+    {
+      "id": 3669167,
+      "name": "San Pedro",
+      "nativeName": "San Pedro",
+      "code": "CO-SUC-3669167",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-SUC",
+      "latitude": 9.39917,
+      "longitude": -75.035
+    },
+    {
+      "id": 9609536,
+      "name": "Santiago de Tolú",
+      "nativeName": "Santiago de Tolú",
+      "code": "CO-SUC-9609536",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-SUC",
+      "latitude": 9.53221,
+      "longitude": -75.53584
+    },
+    {
+      "id": 3667985,
+      "name": "Sincelejo",
+      "nativeName": "Sincelejo",
+      "code": "CO-SUC-3667985",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-SUC",
+      "latitude": 9.31667,
+      "longitude": -75.435
+    },
+    {
+      "id": 3667734,
+      "name": "Sucre",
+      "nativeName": "Sucre",
+      "code": "CO-SUC-3667734",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-SUC",
+      "latitude": 8.83333,
+      "longitude": -74.75
+    },
+    {
+      "id": 3666941,
+      "name": "Toluviejo",
+      "nativeName": "Tolú Viejo",
+      "code": "CO-SUC-3666941",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-SUC",
+      "latitude": 9.45448,
+      "longitude": -75.43762
+    }
+  ]
+}

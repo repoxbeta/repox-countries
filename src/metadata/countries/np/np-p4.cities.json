@@ -1,0 +1,128 @@
+{
+  "stateId": 12095450,
+  "stateCode": "NP-P4",
+  "countryCode": "NP",
+  "cities": [
+    {
+      "id": 12095507,
+      "name": "Baglung",
+      "nativeName": "Baglung",
+      "code": "NP-P4-12095507",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "stateCode": "NP-P4",
+      "latitude": 28.35642,
+      "longitude": 83.1426
+    },
+    {
+      "id": 12095472,
+      "name": "Gorkha",
+      "nativeName": "Gorkha",
+      "code": "NP-P4-12095472",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "stateCode": "NP-P4",
+      "latitude": 28.27387,
+      "longitude": 84.84087
+    },
+    {
+      "id": 12095483,
+      "name": "Kaski",
+      "nativeName": "Kaski",
+      "code": "NP-P4-12095483",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "stateCode": "NP-P4",
+      "latitude": 28.34567,
+      "longitude": 83.97094
+    },
+    {
+      "id": 12095488,
+      "name": "Lamjung",
+      "nativeName": "Lamjung",
+      "code": "NP-P4-12095488",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "stateCode": "NP-P4",
+      "latitude": 28.28286,
+      "longitude": 84.42049
+    },
+    {
+      "id": 12095491,
+      "name": "Manag",
+      "nativeName": "Manag",
+      "code": "NP-P4-12095491",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "stateCode": "NP-P4",
+      "latitude": 28.67278,
+      "longitude": 84.16906
+    },
+    {
+      "id": 12095494,
+      "name": "Mustang",
+      "nativeName": "Mustang",
+      "code": "NP-P4-12095494",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "stateCode": "NP-P4",
+      "latitude": 28.9479,
+      "longitude": 83.90062
+    },
+    {
+      "id": 12095495,
+      "name": "Myagdi",
+      "nativeName": "Myagdi",
+      "code": "NP-P4-12095495",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "stateCode": "NP-P4",
+      "latitude": 28.54603,
+      "longitude": 83.46336
+    },
+    {
+      "id": 12095496,
+      "name": "Nawalparasi",
+      "nativeName": "Nawalparasi",
+      "code": "NP-P4-12095496",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "stateCode": "NP-P4",
+      "latitude": 27.65399,
+      "longitude": 84.03213
+    },
+    {
+      "id": 12095501,
+      "name": "Parbat",
+      "nativeName": "Parbat",
+      "code": "NP-P4-12095501",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "stateCode": "NP-P4",
+      "latitude": 28.20264,
+      "longitude": 83.72861
+    },
+    {
+      "id": 12095526,
+      "name": "Syangja",
+      "nativeName": "Syangja",
+      "code": "NP-P4-12095526",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "stateCode": "NP-P4",
+      "latitude": 28.04502,
+      "longitude": 83.82719
+    },
+    {
+      "id": 12095527,
+      "name": "Tanahun",
+      "nativeName": "Tanahun",
+      "code": "NP-P4-12095527",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "stateCode": "NP-P4",
+      "latitude": 27.93548,
+      "longitude": 84.22325
+    }
+  ]
+}

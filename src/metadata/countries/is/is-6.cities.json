@@ -1,0 +1,128 @@
+{
+  "stateId": 3337404,
+  "stateCode": "IS-6",
+  "countryCode": "IS",
+  "cities": [
+    {
+      "id": 2633275,
+      "name": "Akureyrarkaupstaður",
+      "nativeName": "Akureyrarkaupstaður",
+      "code": "IS-6-2633275",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-6",
+      "latitude": 65.6457,
+      "longitude": -18.20646
+    },
+    {
+      "id": 2632286,
+      "name": "Dalvíkurbyggð",
+      "nativeName": "Dalvíkurbyggð",
+      "code": "IS-6-2632286",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-6",
+      "latitude": 65.87318,
+      "longitude": -18.60844
+    },
+    {
+      "id": 3345264,
+      "name": "Eyjafjarðarsveit",
+      "nativeName": "Eyjafjarðarsveit",
+      "code": "IS-6-3345264",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-6",
+      "latitude": 65.33333,
+      "longitude": -18.16667
+    },
+    {
+      "id": 9192468,
+      "name": "Fjallabyggð",
+      "nativeName": "Fjallabyggð",
+      "code": "IS-6-9192468",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-6",
+      "latitude": 66.05962,
+      "longitude": -18.7822
+    },
+    {
+      "id": 2631018,
+      "name": "Grýtubakkahreppur",
+      "nativeName": "Grýtubakkahreppur",
+      "code": "IS-6-2631018",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-6",
+      "latitude": 65.98333,
+      "longitude": -18.11667
+    },
+    {
+      "id": 9192070,
+      "name": "Hörgársveit",
+      "nativeName": "Hörgársveit",
+      "code": "IS-6-9192070",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-6",
+      "latitude": 65.64828,
+      "longitude": -18.49599
+    },
+    {
+      "id": 9192036,
+      "name": "Langanesbyggð",
+      "nativeName": "Langanesbyggð",
+      "code": "IS-6-9192036",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-6",
+      "latitude": 66.05186,
+      "longitude": -15.18969
+    },
+    {
+      "id": 9192054,
+      "name": "Norðurþing",
+      "nativeName": "Norðurþing",
+      "code": "IS-6-9192054",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-6",
+      "latitude": 66.02432,
+      "longitude": -16.43541
+    },
+    {
+      "id": 2626312,
+      "name": "Svalbarðsstrandarhreppur",
+      "nativeName": "Svalbarðsstrandarhreppur",
+      "code": "IS-6-2626312",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-6",
+      "latitude": 65.74138,
+      "longitude": -18.03513
+    },
+    {
+      "id": 2625781,
+      "name": "Tjörneshreppur",
+      "nativeName": "Tjörneshreppur",
+      "code": "IS-6-2625781",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-6",
+      "latitude": 66.11667,
+      "longitude": -17.2
+    },
+    {
+      "id": 3345266,
+      "name": "Þingeyjarsveit",
+      "nativeName": "Þingeyjarsveit",
+      "code": "IS-6-3345266",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-6",
+      "latitude": 65.37229,
+      "longitude": -17.59927
+    }
+  ]
+}

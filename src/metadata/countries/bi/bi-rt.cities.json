@@ -1,0 +1,73 @@
+{
+  "stateId": 434147,
+  "stateCode": "BI-RT",
+  "countryCode": "BI",
+  "cities": [
+    {
+      "id": 9171819,
+      "name": "Bukemba",
+      "nativeName": "Bukemba",
+      "code": "BI-RT-9171819",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-RT",
+      "latitude": -4.02373,
+      "longitude": 30.0735
+    },
+    {
+      "id": 9072892,
+      "name": "Commune of Rutana",
+      "nativeName": "Commune of Rutana",
+      "code": "BI-RT-9072892",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-RT",
+      "latitude": -3.9282,
+      "longitude": 29.97784
+    },
+    {
+      "id": 9171849,
+      "name": "Giharo",
+      "nativeName": "Giharo",
+      "code": "BI-RT-9171849",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-RT",
+      "latitude": -3.83544,
+      "longitude": 30.23387
+    },
+    {
+      "id": 9171836,
+      "name": "Gitanga",
+      "nativeName": "Gitanga",
+      "code": "BI-RT-9171836",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-RT",
+      "latitude": -4.00756,
+      "longitude": 29.90199
+    },
+    {
+      "id": 9171847,
+      "name": "Mpinga-Kayove",
+      "nativeName": "Mpinga-Kayove",
+      "code": "BI-RT-9171847",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-RT",
+      "latitude": -3.80489,
+      "longitude": 30.13986
+    },
+    {
+      "id": 9171833,
+      "name": "Musongati",
+      "nativeName": "Musongati",
+      "code": "BI-RT-9171833",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-RT",
+      "latitude": -3.75515,
+      "longitude": 30.06959
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "stateId": 1564676,
+  "stateCode": "VN-46",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 1904860,
+      "name": "Cai Lậy District",
+      "nativeName": "Huyện Cai Lậy",
+      "code": "VN-46-1904860",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-46",
+      "latitude": 10.38943,
+      "longitude": 106.06774
+    },
+    {
+      "id": 1904858,
+      "name": "Châu Thành District",
+      "nativeName": "Huyện Châu Thành",
+      "code": "VN-46-1904858",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-46",
+      "latitude": 10.41043,
+      "longitude": 106.29166
+    },
+    {
+      "id": 1904861,
+      "name": "Cái Bè District",
+      "nativeName": "Huyện Cái Bè",
+      "code": "VN-46-1904861",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-46",
+      "latitude": 10.38824,
+      "longitude": 105.9462
+    },
+    {
+      "id": 1904853,
+      "name": "Go Cong",
+      "nativeName": "Thị Xã Gò Công",
+      "code": "VN-46-1904853",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-46",
+      "latitude": 10.40671,
+      "longitude": 106.67468
+    },
+    {
+      "id": 1904856,
+      "name": "Gò Công Tây District",
+      "nativeName": "Huyện Gò Công Tây",
+      "code": "VN-46-1904856",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-46",
+      "latitude": 10.34527,
+      "longitude": 106.59851
+    },
+    {
+      "id": 1904855,
+      "name": "Gò Công Đông District",
+      "nativeName": "Huyện Gò Công Đông",
+      "code": "VN-46-1904855",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-46",
+      "latitude": 10.35608,
+      "longitude": 106.73144
+    },
+    {
+      "id": 1904857,
+      "name": "Huyện Chợ Gạo",
+      "nativeName": "Huyện Chợ Gạo",
+      "code": "VN-46-1904857",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-46",
+      "latitude": 10.37373,
+      "longitude": 106.44341
+    },
+    {
+      "id": 9113514,
+      "name": "Huyện Tân Phú Đông",
+      "nativeName": "Huyện Tân Phú Đông",
+      "code": "VN-46-9113514",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-46",
+      "latitude": 10.26145,
+      "longitude": 106.64066
+    },
+    {
+      "id": 1904852,
+      "name": "Thành Phố Mỹ Tho",
+      "nativeName": "Thành Phố Mỹ Tho",
+      "code": "VN-46-1904852",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-46",
+      "latitude": 10.36481,
+      "longitude": 106.35545
+    },
+    {
+      "id": 9113513,
+      "name": "Thị xã Cai Lậy",
+      "nativeName": "Thị xã Cai Lậy",
+      "code": "VN-46-9113513",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-46",
+      "latitude": 10.42591,
+      "longitude": 106.1435
+    },
+    {
+      "id": 1904859,
+      "name": "Tân Phước District",
+      "nativeName": "Huyện Tân Phước",
+      "code": "VN-46-1904859",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-46",
+      "latitude": 10.51489,
+      "longitude": 106.23312
+    }
+  ]
+}

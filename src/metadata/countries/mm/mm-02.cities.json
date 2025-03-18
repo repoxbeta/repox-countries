@@ -1,0 +1,51 @@
+{
+  "stateId": 1300463,
+  "stateCode": "MM-02",
+  "countryCode": "MM",
+  "cities": [
+    {
+      "id": 1325361,
+      "name": "Bago District",
+      "nativeName": "Bago District",
+      "code": "MM-02-1325361",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-02",
+      "latitude": 17.31918,
+      "longitude": 96.5506
+    },
+    {
+      "id": 1299531,
+      "name": "Pyay District",
+      "nativeName": "Pyay District",
+      "code": "MM-02-1299531",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-02",
+      "latitude": 18.69254,
+      "longitude": 95.37032
+    },
+    {
+      "id": 1290595,
+      "name": "Taungoo District",
+      "nativeName": "Taungoo District",
+      "code": "MM-02-1290595",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-02",
+      "latitude": 18.62987,
+      "longitude": 96.4164
+    },
+    {
+      "id": 1292312,
+      "name": "Tharrawaddy District",
+      "nativeName": "Thayarwady District",
+      "code": "MM-02-1292312",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-02",
+      "latitude": 18,
+      "longitude": 95.5
+    }
+  ]
+}

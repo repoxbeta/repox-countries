@@ -1,0 +1,62 @@
+{
+  "stateId": 2396076,
+  "stateCode": "GA-9",
+  "countryCode": "GA",
+  "cities": [
+    {
+      "id": 11996072,
+      "name": "Haut-Komo",
+      "nativeName": "Haut-Komo",
+      "code": "GA-9-11996072",
+      "countryId": 2400553,
+      "countryCode": "GA",
+      "stateCode": "GA-9",
+      "latitude": 0.82789,
+      "longitude": 10.63556
+    },
+    {
+      "id": 11996073,
+      "name": "Haut-Ntem",
+      "nativeName": "Haut-Ntem",
+      "code": "GA-9-11996073",
+      "countryId": 2400553,
+      "countryCode": "GA",
+      "stateCode": "GA-9",
+      "latitude": 1.8157,
+      "longitude": 12.59123
+    },
+    {
+      "id": 11204591,
+      "name": "Ntem Department",
+      "nativeName": "Ntem Department",
+      "code": "GA-9-11204591",
+      "countryId": 2400553,
+      "countryCode": "GA",
+      "stateCode": "GA-9",
+      "latitude": 2.07778,
+      "longitude": 11.48889
+    },
+    {
+      "id": 11204504,
+      "name": "Okano Department",
+      "nativeName": "Okano Department",
+      "code": "GA-9-11204504",
+      "countryId": 2400553,
+      "countryCode": "GA",
+      "stateCode": "GA-9",
+      "latitude": 0.78333,
+      "longitude": 11.56667
+    },
+    {
+      "id": 11204310,
+      "name": "Woleu",
+      "nativeName": "Woleu",
+      "code": "GA-9-11204310",
+      "countryId": 2400553,
+      "countryCode": "GA",
+      "stateCode": "GA-9",
+      "latitude": 1.37273,
+      "longitude": 11.79305
+    }
+  ]
+}

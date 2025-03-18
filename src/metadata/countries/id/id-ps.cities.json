@@ -1,0 +1,51 @@
+{
+  "stateId": 12503513,
+  "stateCode": "ID-PS",
+  "countryCode": "ID",
+  "cities": [
+    {
+      "id": 9165711,
+      "name": "Asmat Regency",
+      "nativeName": "Kabupaten Asmat",
+      "code": "ID-PS-9165711",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-PS",
+      "latitude": -5.3795,
+      "longitude": 138.46344
+    },
+    {
+      "id": 9166001,
+      "name": "Boven Digoel Regency",
+      "nativeName": "Kabupaten Boven Digoel",
+      "code": "ID-PS-9166001",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-PS",
+      "latitude": -5.70519,
+      "longitude": 140.36349
+    },
+    {
+      "id": 9165710,
+      "name": "Mappi Regency",
+      "nativeName": "Kabupaten Mappi",
+      "code": "ID-PS-9165710",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-PS",
+      "latitude": -6.49971,
+      "longitude": 139.34441
+    },
+    {
+      "id": 1635387,
+      "name": "Merauke Regency",
+      "nativeName": "Kabupaten Merauke",
+      "code": "ID-PS-1635387",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-PS",
+      "latitude": -7.69611,
+      "longitude": 139.68194
+    }
+  ]
+}

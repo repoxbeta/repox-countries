@@ -1,0 +1,303 @@
+{
+  "countryId": 3469034,
+  "countryCode": "BR",
+  "states": [
+    {
+      "id": 3665474,
+      "name": "Acre",
+      "nativeName": "Acre",
+      "code": "BR-AC",
+      "internalCode": "AC",
+      "countryId": 3469034,
+      "countryCode": "BR",
+      "latitude": -9,
+      "longitude": -70
+    },
+    {
+      "id": 3408096,
+      "name": "Alagoas",
+      "nativeName": "Alagoas",
+      "code": "BR-AL",
+      "internalCode": "AL",
+      "countryId": 3469034,
+      "countryCode": "BR",
+      "latitude": -9.58333,
+      "longitude": -36.41667
+    },
+    {
+      "id": 3407762,
+      "name": "Amapá",
+      "nativeName": "Amapá",
+      "code": "BR-AP",
+      "internalCode": "AP",
+      "countryId": 3469034,
+      "countryCode": "BR",
+      "latitude": 1,
+      "longitude": -52
+    },
+    {
+      "id": 3665361,
+      "name": "Amazonas",
+      "nativeName": "Amazonas",
+      "code": "BR-AM",
+      "internalCode": "AM",
+      "countryId": 3469034,
+      "countryCode": "BR",
+      "latitude": -3.75,
+      "longitude": -64.5
+    },
+    {
+      "id": 3471168,
+      "name": "Bahia",
+      "nativeName": "Bahia",
+      "code": "BR-BA",
+      "internalCode": "BA",
+      "countryId": 3469034,
+      "countryCode": "BR",
+      "latitude": -12,
+      "longitude": -42
+    },
+    {
+      "id": 3402362,
+      "name": "Ceará",
+      "nativeName": "Ceará",
+      "code": "BR-CE",
+      "internalCode": "CE",
+      "countryId": 3469034,
+      "countryCode": "BR",
+      "latitude": -5,
+      "longitude": -39.5
+    },
+    {
+      "id": 3463930,
+      "name": "Espírito Santo",
+      "nativeName": "Espírito Santo",
+      "code": "BR-ES",
+      "internalCode": "ES",
+      "countryId": 3469034,
+      "countryCode": "BR",
+      "latitude": -20,
+      "longitude": -40.75
+    },
+    {
+      "id": 3463504,
+      "name": "Federal District",
+      "nativeName": "Federal District",
+      "code": "BR-DF",
+      "internalCode": "DF",
+      "countryId": 3469034,
+      "countryCode": "BR",
+      "latitude": -15.75,
+      "longitude": -47.75
+    },
+    {
+      "id": 3462372,
+      "name": "Goiás",
+      "nativeName": "Goiás",
+      "code": "BR-GO",
+      "internalCode": "GO",
+      "countryId": 3469034,
+      "countryCode": "BR",
+      "latitude": -15.58071,
+      "longitude": -49.63623
+    },
+    {
+      "id": 3395443,
+      "name": "Maranhão",
+      "nativeName": "Maranhão",
+      "code": "BR-MA",
+      "internalCode": "MA",
+      "countryId": 3469034,
+      "countryCode": "BR",
+      "latitude": -5,
+      "longitude": -45
+    },
+    {
+      "id": 3457419,
+      "name": "Mato Grosso",
+      "nativeName": "Mato Grosso",
+      "code": "BR-MT",
+      "internalCode": "MT",
+      "countryId": 3469034,
+      "countryCode": "BR",
+      "latitude": -13,
+      "longitude": -56
+    },
+    {
+      "id": 3457415,
+      "name": "Mato Grosso do Sul",
+      "nativeName": "Mato Grosso do Sul",
+      "code": "BR-MS",
+      "internalCode": "MS",
+      "countryId": 3469034,
+      "countryCode": "BR",
+      "latitude": -20.5,
+      "longitude": -55
+    },
+    {
+      "id": 3457153,
+      "name": "Minas Gerais",
+      "nativeName": "Minas Gerais",
+      "code": "BR-MG",
+      "internalCode": "MG",
+      "countryId": 3469034,
+      "countryCode": "BR",
+      "latitude": -18,
+      "longitude": -44
+    },
+    {
+      "id": 3455077,
+      "name": "Paraná",
+      "nativeName": "Paraná",
+      "code": "BR-PR",
+      "internalCode": "PR",
+      "countryId": 3469034,
+      "countryCode": "BR",
+      "latitude": -24.5,
+      "longitude": -51.33333
+    },
+    {
+      "id": 3393098,
+      "name": "Paraíba",
+      "nativeName": "Paraíba",
+      "code": "BR-PB",
+      "internalCode": "PB",
+      "countryId": 3469034,
+      "countryCode": "BR",
+      "latitude": -7.25,
+      "longitude": -36.5
+    },
+    {
+      "id": 3393129,
+      "name": "Pará",
+      "nativeName": "Pará",
+      "code": "BR-PA",
+      "internalCode": "PA",
+      "countryId": 3469034,
+      "countryCode": "BR",
+      "latitude": -4,
+      "longitude": -53
+    },
+    {
+      "id": 3392268,
+      "name": "Pernambuco",
+      "nativeName": "Pernambuco",
+      "code": "BR-PE",
+      "internalCode": "PE",
+      "countryId": 3469034,
+      "countryCode": "BR",
+      "latitude": -8.33333,
+      "longitude": -37.75
+    },
+    {
+      "id": 3392213,
+      "name": "Piauí",
+      "nativeName": "Piauí",
+      "code": "BR-PI",
+      "internalCode": "PI",
+      "countryId": 3469034,
+      "countryCode": "BR",
+      "latitude": -7.25,
+      "longitude": -42.33333
+    },
+    {
+      "id": 3390290,
+      "name": "Rio Grande do Norte",
+      "nativeName": "Rio Grande do Norte",
+      "code": "BR-RN",
+      "internalCode": "RN",
+      "countryId": 3469034,
+      "countryCode": "BR",
+      "latitude": -5.75,
+      "longitude": -36.5
+    },
+    {
+      "id": 3451133,
+      "name": "Rio Grande do Sul",
+      "nativeName": "Rio Grande do Sul",
+      "code": "BR-RS",
+      "internalCode": "RS",
+      "countryId": 3469034,
+      "countryCode": "BR",
+      "latitude": -30,
+      "longitude": -53.5
+    },
+    {
+      "id": 3451189,
+      "name": "Rio de Janeiro",
+      "nativeName": "Rio de Janeiro",
+      "code": "BR-RJ",
+      "internalCode": "RJ",
+      "countryId": 3469034,
+      "countryCode": "BR",
+      "latitude": -22.25,
+      "longitude": -42.5
+    },
+    {
+      "id": 3924825,
+      "name": "Rondônia",
+      "nativeName": "Rondônia",
+      "code": "BR-RO",
+      "internalCode": "RO",
+      "countryId": 3469034,
+      "countryCode": "BR",
+      "latitude": -11,
+      "longitude": -63
+    },
+    {
+      "id": 3662560,
+      "name": "Roraima",
+      "nativeName": "Roraima",
+      "code": "BR-RR",
+      "internalCode": "RR",
+      "countryId": 3469034,
+      "countryCode": "BR",
+      "latitude": 2.25,
+      "longitude": -61.25
+    },
+    {
+      "id": 3450387,
+      "name": "Santa Catarina",
+      "nativeName": "Santa Catarina",
+      "code": "BR-SC",
+      "internalCode": "SC",
+      "countryId": 3469034,
+      "countryCode": "BR",
+      "latitude": -27,
+      "longitude": -50
+    },
+    {
+      "id": 3447799,
+      "name": "Sergipe",
+      "nativeName": "Sergipe",
+      "code": "BR-SE",
+      "internalCode": "SE",
+      "countryId": 3469034,
+      "countryCode": "BR",
+      "latitude": -10.5,
+      "longitude": -37.33333
+    },
+    {
+      "id": 3448433,
+      "name": "São Paulo",
+      "nativeName": "São Paulo",
+      "code": "BR-SP",
+      "internalCode": "SP",
+      "countryId": 3469034,
+      "countryCode": "BR",
+      "latitude": -22,
+      "longitude": -49
+    },
+    {
+      "id": 3474575,
+      "name": "Tocantins",
+      "nativeName": "Tocantins",
+      "code": "BR-TO",
+      "internalCode": "TO",
+      "countryId": 3469034,
+      "countryCode": "BR",
+      "latitude": -10.5,
+      "longitude": -48
+    }
+  ]
+}

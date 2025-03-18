@@ -1,0 +1,73 @@
+{
+  "stateId": 89693,
+  "stateCode": "IQ-WA",
+  "countryCode": "IQ",
+  "cities": [
+    {
+      "id": 99351,
+      "name": "Al-Hai District",
+      "nativeName": "Al-Hai District",
+      "code": "IQ-WA-99351",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-WA",
+      "latitude": 32.2,
+      "longitude": 46
+    },
+    {
+      "id": 9166606,
+      "name": "Al-Na'maniya District",
+      "nativeName": "Al-Na'maniya District",
+      "code": "IQ-WA-9166606",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-WA",
+      "latitude": 32.36105,
+      "longitude": 45.48408
+    },
+    {
+      "id": 98460,
+      "name": "Al-Suwaira District",
+      "nativeName": "Al-Suwaira District",
+      "code": "IQ-WA-98460",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-WA",
+      "latitude": 32.92451,
+      "longitude": 44.77478
+    },
+    {
+      "id": 98197,
+      "name": "Badra District",
+      "nativeName": "Badra District",
+      "code": "IQ-WA-98197",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-WA",
+      "latitude": 33.08333,
+      "longitude": 45.9
+    },
+    {
+      "id": 99132,
+      "name": "Kut District",
+      "nativeName": "Kut District",
+      "code": "IQ-WA-99132",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-WA",
+      "latitude": 32.55,
+      "longitude": 45.8
+    },
+    {
+      "id": 9166961,
+      "name": "Qada Al-Azezia",
+      "nativeName": "Qada Al-Azezia",
+      "code": "IQ-WA-9166961",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-WA",
+      "latitude": 32.9107,
+      "longitude": 45.06299
+    }
+  ]
+}

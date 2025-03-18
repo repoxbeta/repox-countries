@@ -1,0 +1,95 @@
+{
+  "stateId": 4030940,
+  "stateCode": "KI-L",
+  "countryCode": "KI",
+  "cities": [
+    {
+      "id": 7521589,
+      "name": "Caroline",
+      "nativeName": "Caroline",
+      "code": "KI-L-7521589",
+      "countryId": 4030945,
+      "countryCode": "KI",
+      "stateCode": "KI-L",
+      "latitude": -9.95871,
+      "longitude": -150.20748
+    },
+    {
+      "id": 7521591,
+      "name": "Flint",
+      "nativeName": "Flint",
+      "code": "KI-L-7521591",
+      "countryId": 4030945,
+      "countryCode": "KI",
+      "stateCode": "KI-L",
+      "latitude": -11.43149,
+      "longitude": -151.81852
+    },
+    {
+      "id": 7521593,
+      "name": "Kiritimati",
+      "nativeName": "Kiritimati",
+      "code": "KI-L-7521593",
+      "countryId": 4030945,
+      "countryCode": "KI",
+      "stateCode": "KI-L",
+      "latitude": 1.94,
+      "longitude": -157.475
+    },
+    {
+      "id": 7521597,
+      "name": "Malden",
+      "nativeName": "Malden",
+      "code": "KI-L-7521597",
+      "countryId": 4030945,
+      "countryCode": "KI",
+      "stateCode": "KI-L",
+      "latitude": -4.01873,
+      "longitude": -154.92954
+    },
+    {
+      "id": 7521607,
+      "name": "Starbuck",
+      "nativeName": "Starbuck",
+      "code": "KI-L-7521607",
+      "countryId": 4030945,
+      "countryCode": "KI",
+      "stateCode": "KI-L",
+      "latitude": -5.63632,
+      "longitude": -155.89531
+    },
+    {
+      "id": 7521609,
+      "name": "Tabuaeran",
+      "nativeName": "Tabuaeran",
+      "code": "KI-L-7521609",
+      "countryId": 4030945,
+      "countryCode": "KI",
+      "stateCode": "KI-L",
+      "latitude": 3.86667,
+      "longitude": -159.33333
+    },
+    {
+      "id": 7521612,
+      "name": "Teraina",
+      "nativeName": "Teraina",
+      "code": "KI-L-7521612",
+      "countryId": 4030945,
+      "countryCode": "KI",
+      "stateCode": "KI-L",
+      "latitude": 4.68764,
+      "longitude": -160.38803
+    },
+    {
+      "id": 7521613,
+      "name": "Vostok",
+      "nativeName": "Vostok",
+      "code": "KI-L-7521613",
+      "countryId": 4030945,
+      "countryCode": "KI",
+      "stateCode": "KI-L",
+      "latitude": -10.06318,
+      "longitude": -152.31068
+    }
+  ]
+}

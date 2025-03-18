@@ -1,0 +1,204 @@
+{
+  "countryId": 1819730,
+  "countryCode": "HK",
+  "states": [
+    {
+      "id": 7533598,
+      "name": "Central and Western District",
+      "nativeName": "Central and Western District",
+      "code": "HK-HCW",
+      "internalCode": "HCW",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "latitude": 22.28219,
+      "longitude": 114.14486
+    },
+    {
+      "id": 7533608,
+      "name": "Eastern",
+      "nativeName": "Eastern",
+      "code": "HK-HEA",
+      "internalCode": "HEA",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "latitude": 22.27722,
+      "longitude": 114.22519
+    },
+    {
+      "id": 1819708,
+      "name": "Islands District",
+      "nativeName": "Islands District",
+      "code": "HK-NIS",
+      "internalCode": "NIS",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "latitude": 22.26382,
+      "longitude": 113.96038
+    },
+    {
+      "id": 7533612,
+      "name": "Kowloon City",
+      "nativeName": "Kowloon City",
+      "code": "HK-KKC",
+      "internalCode": "KKC",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "latitude": 22.32866,
+      "longitude": 114.19121
+    },
+    {
+      "id": 7533615,
+      "name": "Kwai Tsing",
+      "nativeName": "Kwai Tsing",
+      "code": "HK-NKT",
+      "internalCode": "NKT",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "latitude": 22.35288,
+      "longitude": 114.10004
+    },
+    {
+      "id": 7533614,
+      "name": "Kwun Tong",
+      "nativeName": "Kwun Tong",
+      "code": "HK-KKT",
+      "internalCode": "KKT",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "latitude": 22.31326,
+      "longitude": 114.22581
+    },
+    {
+      "id": 7533617,
+      "name": "North",
+      "nativeName": "North",
+      "code": "HK-NNO",
+      "internalCode": "NNO",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "latitude": 22.49471,
+      "longitude": 114.13812
+    },
+    {
+      "id": 1819049,
+      "name": "Sai Kung District",
+      "nativeName": "Sai Kung District",
+      "code": "HK-NSK",
+      "internalCode": "NSK",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "latitude": 22.38198,
+      "longitude": 114.27017
+    },
+    {
+      "id": 7533618,
+      "name": "Sha Tin",
+      "nativeName": "Sha Tin",
+      "code": "HK-NST",
+      "internalCode": "NST",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "latitude": 22.38715,
+      "longitude": 114.19534
+    },
+    {
+      "id": 7533611,
+      "name": "Sham Shui Po",
+      "nativeName": "Sham Shui Po",
+      "code": "HK-KSS",
+      "internalCode": "KSS",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "latitude": 22.32989,
+      "longitude": 114.1625
+    },
+    {
+      "id": 7533609,
+      "name": "Southern",
+      "nativeName": "Southern",
+      "code": "HK-HSO",
+      "internalCode": "HSO",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "latitude": 22.24112,
+      "longitude": 114.20769
+    },
+    {
+      "id": 1818672,
+      "name": "Tai Po District",
+      "nativeName": "Tai Po District",
+      "code": "HK-NTP",
+      "internalCode": "NTP",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "latitude": 22.43995,
+      "longitude": 114.1654
+    },
+    {
+      "id": 1818458,
+      "name": "Tsuen Wan District",
+      "nativeName": "Tsuen Wan District",
+      "code": "HK-NTW",
+      "internalCode": "NTW",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "latitude": 22.37908,
+      "longitude": 114.10598
+    },
+    {
+      "id": 7533616,
+      "name": "Tuen Mun",
+      "nativeName": "Tuen Mun",
+      "code": "HK-NTM",
+      "internalCode": "NTM",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "latitude": 22.39161,
+      "longitude": 113.96792
+    },
+    {
+      "id": 7533607,
+      "name": "Wan Chai",
+      "nativeName": "Wan Chai",
+      "code": "HK-HWC",
+      "internalCode": "HWC",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "latitude": 22.27702,
+      "longitude": 114.17232
+    },
+    {
+      "id": 7533613,
+      "name": "Wong Tai Sin",
+      "nativeName": "Wong Tai Sin",
+      "code": "HK-KWT",
+      "internalCode": "KWT",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "latitude": 22.34299,
+      "longitude": 114.19302
+    },
+    {
+      "id": 7533610,
+      "name": "Yau Tsim Mong",
+      "nativeName": "Yau Tsim Mong",
+      "code": "HK-KYT",
+      "internalCode": "KYT",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "latitude": 22.31327,
+      "longitude": 114.16923
+    },
+    {
+      "id": 1818224,
+      "name": "Yuen Long District",
+      "nativeName": "Yuen Long District",
+      "code": "HK-NYL",
+      "internalCode": "NYL",
+      "countryId": 1819730,
+      "countryCode": "HK",
+      "latitude": 22.41667,
+      "longitude": 114.05
+    }
+  ]
+}

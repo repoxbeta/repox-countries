@@ -1,0 +1,29 @@
+{
+  "stateId": 3344934,
+  "stateCode": "SI-187",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3188181,
+      "name": "Velika Polana",
+      "nativeName": "Velika Polana",
+      "code": "SI-187-3188181",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-187",
+      "latitude": 46.57194,
+      "longitude": 16.34694
+    },
+    {
+      "id": 3195807,
+      "name": "Mala Polana",
+      "nativeName": "Mala Polana",
+      "code": "SI-187-3195807",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-187",
+      "latitude": 46.58667,
+      "longitude": 16.35083
+    }
+  ]
+}

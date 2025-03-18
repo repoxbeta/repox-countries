@@ -1,0 +1,62 @@
+{
+  "stateId": 58802,
+  "stateCode": "SO-GE",
+  "countryCode": "SO",
+  "cities": [
+    {
+      "id": 9179660,
+      "name": "Beled Hawo District",
+      "nativeName": "Belet Xaawo",
+      "code": "SO-GE-9179660",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-GE",
+      "latitude": 3.43559,
+      "longitude": 41.7337
+    },
+    {
+      "id": 9179664,
+      "name": "Dolow District",
+      "nativeName": "Doolow",
+      "code": "SO-GE-9179664",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-GE",
+      "latitude": 4.00253,
+      "longitude": 42.14079
+    },
+    {
+      "id": 8261487,
+      "name": "El Wak District",
+      "nativeName": "El Wak District",
+      "code": "SO-GE-8261487",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-GE",
+      "latitude": 2.656,
+      "longitude": 41.411
+    },
+    {
+      "id": 9179668,
+      "name": "Garbaharey District",
+      "nativeName": "Garbahaarey",
+      "code": "SO-GE-9179668",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-GE",
+      "latitude": 3.206,
+      "longitude": 42.35912
+    },
+    {
+      "id": 9179673,
+      "name": "Luuq District",
+      "nativeName": "Luuq",
+      "code": "SO-GE-9179673",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-GE",
+      "latitude": 3.79293,
+      "longitude": 42.6976
+    }
+  ]
+}

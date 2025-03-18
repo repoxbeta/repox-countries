@@ -1,0 +1,127 @@
+{
+  "countryId": 3374084,
+  "countryCode": "BB",
+  "states": [
+    {
+      "id": 3373988,
+      "name": "Christ Church",
+      "nativeName": "Christ Church",
+      "code": "BB-01",
+      "internalCode": "01",
+      "countryId": 3374084,
+      "countryCode": "BB",
+      "latitude": 13.08734,
+      "longitude": -59.52418
+    },
+    {
+      "id": 3373580,
+      "name": "Saint Andrew",
+      "nativeName": "Saint Andrew",
+      "code": "BB-02",
+      "internalCode": "02",
+      "countryId": 3374084,
+      "countryCode": "BB",
+      "latitude": 13.23986,
+      "longitude": -59.5783
+    },
+    {
+      "id": 3373572,
+      "name": "Saint George",
+      "nativeName": "Saint George",
+      "code": "BB-03",
+      "internalCode": "03",
+      "countryId": 3374084,
+      "countryCode": "BB",
+      "latitude": 13.13933,
+      "longitude": -59.54345
+    },
+    {
+      "id": 3373570,
+      "name": "Saint James",
+      "nativeName": "Saint James",
+      "code": "BB-04",
+      "internalCode": "04",
+      "countryId": 3374084,
+      "countryCode": "BB",
+      "latitude": 13.21183,
+      "longitude": -59.61956
+    },
+    {
+      "id": 3373569,
+      "name": "Saint John",
+      "nativeName": "Saint John",
+      "code": "BB-05",
+      "internalCode": "05",
+      "countryId": 3374084,
+      "countryCode": "BB",
+      "latitude": 13.17581,
+      "longitude": -59.50303
+    },
+    {
+      "id": 3373568,
+      "name": "Saint Joseph",
+      "nativeName": "Saint Joseph",
+      "code": "BB-06",
+      "internalCode": "06",
+      "countryId": 3374084,
+      "countryCode": "BB",
+      "latitude": 13.2056,
+      "longitude": -59.54418
+    },
+    {
+      "id": 3373565,
+      "name": "Saint Lucy",
+      "nativeName": "Saint Lucy",
+      "code": "BB-07",
+      "internalCode": "07",
+      "countryId": 3374084,
+      "countryCode": "BB",
+      "latitude": 13.30728,
+      "longitude": -59.61937
+    },
+    {
+      "id": 3373557,
+      "name": "Saint Michael",
+      "nativeName": "Saint Michael",
+      "code": "BB-08",
+      "internalCode": "08",
+      "countryId": 3374084,
+      "countryCode": "BB",
+      "latitude": 13.12633,
+      "longitude": -59.59817
+    },
+    {
+      "id": 3373554,
+      "name": "Saint Peter",
+      "nativeName": "Saint Peter",
+      "code": "BB-09",
+      "internalCode": "09",
+      "countryId": 3374084,
+      "countryCode": "BB",
+      "latitude": 13.26096,
+      "longitude": -59.61585
+    },
+    {
+      "id": 3373553,
+      "name": "Saint Philip",
+      "nativeName": "Saint Philip",
+      "code": "BB-10",
+      "internalCode": "10",
+      "countryId": 3374084,
+      "countryCode": "BB",
+      "latitude": 13.1339,
+      "longitude": -59.46402
+    },
+    {
+      "id": 3373551,
+      "name": "Saint Thomas",
+      "nativeName": "Saint Thomas",
+      "code": "BB-11",
+      "internalCode": "11",
+      "countryId": 3374084,
+      "countryCode": "BB",
+      "latitude": 13.17932,
+      "longitude": -59.58787
+    }
+  ]
+}

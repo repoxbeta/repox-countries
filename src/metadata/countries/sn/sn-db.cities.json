@@ -1,0 +1,40 @@
+{
+  "stateId": 2252308,
+  "stateCode": "SN-DB",
+  "countryCode": "SN",
+  "cities": [
+    {
+      "id": 2254315,
+      "name": "Bambey",
+      "nativeName": "Bambey",
+      "code": "SN-DB-2254315",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "stateCode": "SN-DB",
+      "latitude": 14.80266,
+      "longitude": -16.48258
+    },
+    {
+      "id": 2252312,
+      "name": "Diourbel",
+      "nativeName": "Diourbel",
+      "code": "SN-DB-2252312",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "stateCode": "SN-DB",
+      "latitude": 14.77831,
+      "longitude": -16.22319
+    },
+    {
+      "id": 2248699,
+      "name": "Mbacke",
+      "nativeName": "Mbacké",
+      "code": "SN-DB-2248699",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "stateCode": "SN-DB",
+      "latitude": 14.80828,
+      "longitude": -15.86454
+    }
+  ]
+}

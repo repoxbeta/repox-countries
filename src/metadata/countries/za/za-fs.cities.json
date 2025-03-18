@@ -1,0 +1,62 @@
+{
+  "stateId": 967573,
+  "stateCode": "ZA-FS",
+  "countryCode": "ZA",
+  "cities": [
+    {
+      "id": 8347362,
+      "name": "Fezile Dabi District Municipality",
+      "nativeName": "Fezile Dabi District Municipality",
+      "code": "ZA-FS-8347362",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "stateCode": "ZA-FS",
+      "latitude": -27.33918,
+      "longitude": 27.71927
+    },
+    {
+      "id": 8347360,
+      "name": "Lejweleputswa District Municipality",
+      "nativeName": "Lejweleputswa District Municipality",
+      "code": "ZA-FS-8347360",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "stateCode": "ZA-FS",
+      "latitude": -28.23982,
+      "longitude": 26.12649
+    },
+    {
+      "id": 8347386,
+      "name": "Mangaung Metropolitan Municipality",
+      "nativeName": "Mangaung Metropolitan Municipality",
+      "code": "ZA-FS-8347386",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "stateCode": "ZA-FS",
+      "latitude": -29.15627,
+      "longitude": 26.35116
+    },
+    {
+      "id": 8347361,
+      "name": "Thabo Mofutsanyana District Municipality",
+      "nativeName": "Thabo Mofutsanyana District Municipality",
+      "code": "ZA-FS-8347361",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "stateCode": "ZA-FS",
+      "latitude": -28.24378,
+      "longitude": 28.34077
+    },
+    {
+      "id": 8347359,
+      "name": "Xhariep District Municipality",
+      "nativeName": "Xhariep District Municipality",
+      "code": "ZA-FS-8347359",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "stateCode": "ZA-FS",
+      "latitude": -29.84311,
+      "longitude": 25.83286
+    }
+  ]
+}

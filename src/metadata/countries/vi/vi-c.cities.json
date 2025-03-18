@@ -1,0 +1,106 @@
+{
+  "stateId": 7267902,
+  "stateCode": "VI-C",
+  "countryCode": "VI",
+  "cities": [
+    {
+      "id": 9252017,
+      "name": "Anna's Hope Village",
+      "nativeName": "Anna's Hope Village",
+      "code": "VI-C-9252017",
+      "countryId": 4796775,
+      "countryCode": "VI",
+      "stateCode": "VI-C",
+      "latitude": 17.72324,
+      "longitude": -64.69974
+    },
+    {
+      "id": 9252018,
+      "name": "Christiansted",
+      "nativeName": "Christiansted",
+      "code": "VI-C-9252018",
+      "countryId": 4796775,
+      "countryCode": "VI",
+      "stateCode": "VI-C",
+      "latitude": 17.74401,
+      "longitude": -64.70727
+    },
+    {
+      "id": 9252019,
+      "name": "East End",
+      "nativeName": "East End",
+      "code": "VI-C-9252019",
+      "countryId": 4796775,
+      "countryCode": "VI",
+      "stateCode": "VI-C",
+      "latitude": 17.74616,
+      "longitude": -64.63741
+    },
+    {
+      "id": 9252035,
+      "name": "Frederiksted",
+      "nativeName": "Frederiksted",
+      "code": "VI-C-9252035",
+      "countryId": 4796775,
+      "countryCode": "VI",
+      "stateCode": "VI-C",
+      "latitude": 17.706,
+      "longitude": -64.87732
+    },
+    {
+      "id": 9252036,
+      "name": "Northcentral",
+      "nativeName": "Northcentral",
+      "code": "VI-C-9252036",
+      "countryId": 4796775,
+      "countryCode": "VI",
+      "stateCode": "VI-C",
+      "latitude": 17.7533,
+      "longitude": -64.79238
+    },
+    {
+      "id": 9252020,
+      "name": "Northwest",
+      "nativeName": "Northwest",
+      "code": "VI-C-9252020",
+      "countryId": 4796775,
+      "countryCode": "VI",
+      "stateCode": "VI-C",
+      "latitude": 17.73732,
+      "longitude": -64.85333
+    },
+    {
+      "id": 9252021,
+      "name": "Sion Farm",
+      "nativeName": "Sion Farm",
+      "code": "VI-C-9252021",
+      "countryId": 4796775,
+      "countryCode": "VI",
+      "stateCode": "VI-C",
+      "latitude": 17.74906,
+      "longitude": -64.7462
+    },
+    {
+      "id": 9252022,
+      "name": "Southcentral",
+      "nativeName": "Southcentral",
+      "code": "VI-C-9252022",
+      "countryId": 4796775,
+      "countryCode": "VI",
+      "stateCode": "VI-C",
+      "latitude": 17.70955,
+      "longitude": -64.77797
+    },
+    {
+      "id": 9252023,
+      "name": "Southwest",
+      "nativeName": "Southwest",
+      "code": "VI-C-9252023",
+      "countryId": 4796775,
+      "countryCode": "VI",
+      "stateCode": "VI-C",
+      "latitude": 17.69317,
+      "longitude": -64.85755
+    }
+  ]
+}

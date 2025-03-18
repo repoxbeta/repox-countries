@@ -1,0 +1,183 @@
+{
+  "stateId": 1818058,
+  "stateCode": "CN-AH",
+  "countryCode": "CN",
+  "cities": [
+    {
+      "id": 1817991,
+      "name": "Anqing Shi",
+      "nativeName": "Anqing Shi",
+      "code": "CN-AH-1817991",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-AH",
+      "latitude": 30.66266,
+      "longitude": 116.55911
+    },
+    {
+      "id": 1816439,
+      "name": "Bengbu Shi",
+      "nativeName": "Bengbu Shi",
+      "code": "CN-AH-1816439",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-AH",
+      "latitude": 33.14786,
+      "longitude": 117.43558
+    },
+    {
+      "id": 11287254,
+      "name": "Bozhou",
+      "nativeName": "Bozhou",
+      "code": "CN-AH-11287254",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-AH",
+      "latitude": 33.86329,
+      "longitude": 115.7777
+    },
+    {
+      "id": 6640435,
+      "name": "Chizhou Shi",
+      "nativeName": "Chizhou Shi",
+      "code": "CN-AH-6640435",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-AH",
+      "latitude": 30.30431,
+      "longitude": 117.41388
+    },
+    {
+      "id": 1814761,
+      "name": "Chuzhou Shi",
+      "nativeName": "Chuzhou Shi",
+      "code": "CN-AH-1814761",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-AH",
+      "latitude": 32.60084,
+      "longitude": 118.08813
+    },
+    {
+      "id": 1810843,
+      "name": "Fuyang Shi",
+      "nativeName": "Fuyang Shi",
+      "code": "CN-AH-1810843",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-AH",
+      "latitude": 32.93718,
+      "longitude": 115.70778
+    },
+    {
+      "id": 1808721,
+      "name": "Hefei Shi",
+      "nativeName": "Hefei Shi",
+      "code": "CN-AH-1808721",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-AH",
+      "latitude": 31.94665,
+      "longitude": 117.27805
+    },
+    {
+      "id": 1807699,
+      "name": "Huaibei Shi",
+      "nativeName": "Huaibei Shi",
+      "code": "CN-AH-1807699",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-AH",
+      "latitude": 33.72558,
+      "longitude": 116.76328
+    },
+    {
+      "id": 1807680,
+      "name": "Huainan Shi",
+      "nativeName": "Huainan Shi",
+      "code": "CN-AH-1807680",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-AH",
+      "latitude": 32.73824,
+      "longitude": 116.78813
+    },
+    {
+      "id": 1806775,
+      "name": "Huangshan Shi",
+      "nativeName": "Huangshan Shi",
+      "code": "CN-AH-1806775",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-AH",
+      "latitude": 29.89195,
+      "longitude": 118.10553
+    },
+    {
+      "id": 1802199,
+      "name": "Lu'an City",
+      "nativeName": "Lu’an Shi",
+      "code": "CN-AH-1802199",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-AH",
+      "latitude": 31.71622,
+      "longitude": 116.30285
+    },
+    {
+      "id": 1801618,
+      "name": "Ma'anshan City",
+      "nativeName": "Ma’anshan Shi",
+      "code": "CN-AH-1801618",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-AH",
+      "latitude": 31.52324,
+      "longitude": 118.62014
+    },
+    {
+      "id": 1793752,
+      "name": "Suzhou Shi",
+      "nativeName": "Suzhou Shi",
+      "code": "CN-AH-1793752",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-AH",
+      "latitude": 33.8697,
+      "longitude": 117.20569
+    },
+    {
+      "id": 1792619,
+      "name": "Tongling Shi",
+      "nativeName": "Tongling Shi",
+      "code": "CN-AH-1792619",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-AH",
+      "latitude": 30.93323,
+      "longitude": 117.90207
+    },
+    {
+      "id": 1791227,
+      "name": "Wuhu Shi",
+      "nativeName": "Wuhu Shi",
+      "code": "CN-AH-1791227",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-AH",
+      "latitude": 31.03191,
+      "longitude": 118.3547
+    },
+    {
+      "id": 1788080,
+      "name": "xuancheng shi",
+      "nativeName": "Xuancheng Shi",
+      "code": "CN-AH-1788080",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-AH",
+      "latitude": 30.64491,
+      "longitude": 118.84193
+    }
+  ]
+}

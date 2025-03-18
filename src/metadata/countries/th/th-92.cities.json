@@ -1,0 +1,117 @@
+{
+  "stateId": 1150006,
+  "stateCode": "TH-92",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 7603494,
+      "name": "Hat Samran",
+      "nativeName": "Amphoe Hat Samran",
+      "code": "TH-92-7603494",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-92",
+      "latitude": 7.25733,
+      "longitude": 99.5816
+    },
+    {
+      "id": 1153240,
+      "name": "Huai Yot",
+      "nativeName": "Amphoe Huai Yot",
+      "code": "TH-92-1153240",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-92",
+      "latitude": 7.80063,
+      "longitude": 99.605
+    },
+    {
+      "id": 1153071,
+      "name": "Kantang",
+      "nativeName": "Amphoe Kantang",
+      "code": "TH-92-1153071",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-92",
+      "latitude": 7.38563,
+      "longitude": 99.47064
+    },
+    {
+      "id": 1151973,
+      "name": "Mueang Trang",
+      "nativeName": "Amphoe Mueang Trang",
+      "code": "TH-92-1151973",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-92",
+      "latitude": 7.60944,
+      "longitude": 99.61772
+    },
+    {
+      "id": 7510641,
+      "name": "Na Yong",
+      "nativeName": "Amphoe Na Yong",
+      "code": "TH-92-7510641",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-92",
+      "latitude": 7.56257,
+      "longitude": 99.74791
+    },
+    {
+      "id": 1151556,
+      "name": "Palian",
+      "nativeName": "Amphoe Palian",
+      "code": "TH-92-1151556",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-92",
+      "latitude": 7.2334,
+      "longitude": 99.79491
+    },
+    {
+      "id": 7510642,
+      "name": "Ratsada",
+      "nativeName": "Amphoe Ratsada",
+      "code": "TH-92-7510642",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-92",
+      "latitude": 7.93779,
+      "longitude": 99.66771
+    },
+    {
+      "id": 11496468,
+      "name": "Sikao",
+      "nativeName": "Amphoe Sikao",
+      "code": "TH-92-11496468",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-92",
+      "latitude": 7.57122,
+      "longitude": 99.33915
+    },
+    {
+      "id": 1150650,
+      "name": "Wang Wiset",
+      "nativeName": "Amphoe Wang Wiset",
+      "code": "TH-92-1150650",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-92",
+      "latitude": 7.76061,
+      "longitude": 99.40861
+    },
+    {
+      "id": 1149756,
+      "name": "Yan Ta Khao",
+      "nativeName": "Amphoe Yan Ta Khao",
+      "code": "TH-92-1149756",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-92",
+      "latitude": 7.4258,
+      "longitude": 99.73438
+    }
+  ]
+}

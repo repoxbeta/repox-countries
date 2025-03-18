@@ -1,0 +1,62 @@
+{
+  "stateId": 3339538,
+  "stateCode": "CZ-63",
+  "countryCode": "CZ",
+  "cities": [
+    {
+      "id": 3075918,
+      "name": "Havlíčkův Brod District",
+      "nativeName": "Okres Havlíčkův Brod",
+      "code": "CZ-63-3075918",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-63",
+      "latitude": 49.66667,
+      "longitude": 15.58333
+    },
+    {
+      "id": 3074197,
+      "name": "Okres Jihlava",
+      "nativeName": "Okres Jihlava",
+      "code": "CZ-63-3074197",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-63",
+      "latitude": 49.33333,
+      "longitude": 15.58333
+    },
+    {
+      "id": 3068444,
+      "name": "Pelhřimov District",
+      "nativeName": "Okres Pelhřimov",
+      "code": "CZ-63-3068444",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-63",
+      "latitude": 49.41667,
+      "longitude": 15.16667
+    },
+    {
+      "id": 3064103,
+      "name": "Třebíč District",
+      "nativeName": "Okres Třebíč",
+      "code": "CZ-63-3064103",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-63",
+      "latitude": 49.13333,
+      "longitude": 15.93333
+    },
+    {
+      "id": 3061694,
+      "name": "Žďár nad Sázavou District",
+      "nativeName": "Okres Žďár nad Sázavou",
+      "code": "CZ-63-3061694",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-63",
+      "latitude": 49.5,
+      "longitude": 16.03333
+    }
+  ]
+}

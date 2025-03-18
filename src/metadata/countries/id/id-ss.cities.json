@@ -1,0 +1,194 @@
+{
+  "stateId": 1626196,
+  "stateCode": "ID-SS",
+  "countryCode": "ID",
+  "cities": [
+    {
+      "id": 9165775,
+      "name": "Kabupaten Banyu Asin",
+      "nativeName": "Kabupaten Banyu Asin",
+      "code": "ID-SS-9165775",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SS",
+      "latitude": -2.88333,
+      "longitude": 104.38306
+    },
+    {
+      "id": 9821958,
+      "name": "Kabupaten Empat Lawang",
+      "nativeName": "Kabupaten Empat Lawang",
+      "code": "ID-SS-9821958",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SS",
+      "latitude": -3.71629,
+      "longitude": 102.94511
+    },
+    {
+      "id": 8521769,
+      "name": "Kabupaten Muara Enim",
+      "nativeName": "Kabupaten Muara Enim",
+      "code": "ID-SS-8521769",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SS",
+      "latitude": -4.2327,
+      "longitude": 103.6141
+    },
+    {
+      "id": 1634644,
+      "name": "Kabupaten Musi Banyuasin",
+      "nativeName": "Kabupaten Musi Banyuasin",
+      "code": "ID-SS-1634644",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SS",
+      "latitude": -2.46667,
+      "longitude": 103.73333
+    },
+    {
+      "id": 1634643,
+      "name": "Kabupaten Musi Rawas",
+      "nativeName": "Kabupaten Musi Rawas",
+      "code": "ID-SS-1634643",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SS",
+      "latitude": -3.16667,
+      "longitude": 103.21667
+    },
+    {
+      "id": 9163311,
+      "name": "Kabupaten Ogan Ilir",
+      "nativeName": "Kabupaten Ogan Ilir",
+      "code": "ID-SS-9163311",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SS",
+      "latitude": -3.43186,
+      "longitude": 104.62727
+    },
+    {
+      "id": 1633659,
+      "name": "Kabupaten Ogan Komering Ilir",
+      "nativeName": "Kabupaten Ogan Komering Ilir",
+      "code": "ID-SS-1633659",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SS",
+      "latitude": -3.35,
+      "longitude": 105.38333
+    },
+    {
+      "id": 1633658,
+      "name": "Kabupaten Ogan Komering Ulu",
+      "nativeName": "Kabupaten Ogan Komering Ulu",
+      "code": "ID-SS-1633658",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SS",
+      "latitude": -4.13333,
+      "longitude": 104.06667
+    },
+    {
+      "id": 9165989,
+      "name": "Kabupaten Ogan Komering Ulu Selatan",
+      "nativeName": "Kabupaten Ogan Komering Ulu Selatan",
+      "code": "ID-SS-9165989",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SS",
+      "latitude": -4.65728,
+      "longitude": 104.00659
+    },
+    {
+      "id": 9166051,
+      "name": "Kabupaten Ogan Komering Ulu Timur",
+      "nativeName": "Kabupaten Ogan Komering Ulu Timur",
+      "code": "ID-SS-9166051",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SS",
+      "latitude": -3.85679,
+      "longitude": 104.75209
+    },
+    {
+      "id": 9828042,
+      "name": "Kota Lubuklinggau",
+      "nativeName": "Kota Lubuklinggau",
+      "code": "ID-SS-9828042",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SS",
+      "latitude": -3.29308,
+      "longitude": 102.85503
+    },
+    {
+      "id": 7932494,
+      "name": "Kota Pagar Alam",
+      "nativeName": "Kota Pagar Alam",
+      "code": "ID-SS-7932494",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SS",
+      "latitude": -4.13055,
+      "longitude": 103.26822
+    },
+    {
+      "id": 1633069,
+      "name": "Kota Palembang",
+      "nativeName": "Kota Palembang",
+      "code": "ID-SS-1633069",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SS",
+      "latitude": -2.96667,
+      "longitude": 104.75
+    },
+    {
+      "id": 7932496,
+      "name": "Kota Prabumulih",
+      "nativeName": "Kota Prabumulih",
+      "code": "ID-SS-7932496",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SS",
+      "latitude": -3.46202,
+      "longitude": 104.2229
+    },
+    {
+      "id": 9166049,
+      "name": "Lahat Regency",
+      "nativeName": "Lahat Regency",
+      "code": "ID-SS-9166049",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SS",
+      "latitude": -3.7864,
+      "longitude": 103.5428
+    },
+    {
+      "id": 9827972,
+      "name": "North Musi Rawas Regency",
+      "nativeName": "Kabupaten Musi Rawas Utara",
+      "code": "ID-SS-9827972",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SS",
+      "latitude": -2.70606,
+      "longitude": 102.7632
+    },
+    {
+      "id": 9828027,
+      "name": "Penukal Abab Lematang Ilir Regency",
+      "nativeName": "Kabupaten Penukal Abab Lematang Ilir",
+      "code": "ID-SS-9828027",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SS",
+      "latitude": -3.21342,
+      "longitude": 104.08722
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "stateId": 6268943,
+  "stateCode": "SO-AW",
+  "countryCode": "SO",
+  "cities": [
+    {
+      "id": 9179614,
+      "name": "Baki",
+      "nativeName": "Baki",
+      "code": "SO-AW-9179614",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-AW",
+      "latitude": 10.28595,
+      "longitude": 43.73256
+    },
+    {
+      "id": 9179616,
+      "name": "Borama District",
+      "nativeName": "Borama District",
+      "code": "SO-AW-9179616",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-AW",
+      "latitude": 10.18763,
+      "longitude": 43.17024
+    },
+    {
+      "id": 9259236,
+      "name": "Diila District",
+      "nativeName": "Diila District",
+      "code": "SO-AW-9259236",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-AW",
+      "latitude": 9.77889,
+      "longitude": 43.346
+    },
+    {
+      "id": 9179619,
+      "name": "Lughaya District",
+      "nativeName": "Lughaya District",
+      "code": "SO-AW-9179619",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-AW",
+      "latitude": 10.64771,
+      "longitude": 43.57897
+    },
+    {
+      "id": 9179623,
+      "name": "Zeila District",
+      "nativeName": "Zeila District",
+      "code": "SO-AW-9179623",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-AW",
+      "latitude": 10.89415,
+      "longitude": 43.16889
+    }
+  ]
+}

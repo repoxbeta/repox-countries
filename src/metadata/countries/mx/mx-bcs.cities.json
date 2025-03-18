@@ -1,0 +1,62 @@
+{
+  "stateId": 4017698,
+  "stateCode": "MX-BCS",
+  "countryCode": "MX",
+  "cities": [
+    {
+      "id": 6942829,
+      "name": "Comondú Municipality",
+      "nativeName": "Comondú",
+      "code": "MX-BCS-6942829",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-BCS",
+      "latitude": 26.06667,
+      "longitude": -111.81666
+    },
+    {
+      "id": 6942826,
+      "name": "La Paz Municipality",
+      "nativeName": "La Paz",
+      "code": "MX-BCS-6942826",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-BCS",
+      "latitude": 24.13333,
+      "longitude": -110.3
+    },
+    {
+      "id": 6942825,
+      "name": "Loreto",
+      "nativeName": "Loreto",
+      "code": "MX-BCS-6942825",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-BCS",
+      "latitude": 25.95496,
+      "longitude": -111.45042
+    },
+    {
+      "id": 6941773,
+      "name": "Los Cabos",
+      "nativeName": "Los Cabos",
+      "code": "MX-BCS-6941773",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-BCS",
+      "latitude": 23.27663,
+      "longitude": -109.75322
+    },
+    {
+      "id": 6942828,
+      "name": "Mulegé Municipality",
+      "nativeName": "Mulegé",
+      "code": "MX-BCS-6942828",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-BCS",
+      "latitude": 26.6,
+      "longitude": -112.33333
+    }
+  ]
+}

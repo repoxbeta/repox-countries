@@ -1,0 +1,29 @@
+{
+  "stateId": 7303493,
+  "stateCode": "MH-ALK",
+  "countryCode": "MH",
+  "cities": [
+    {
+      "id": 2080970,
+      "name": "Ailuk",
+      "nativeName": "Ailuk",
+      "code": "MH-ALK-2080970",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-ALK",
+      "latitude": 10.21972,
+      "longitude": 169.97967
+    },
+    {
+      "id": 4041070,
+      "name": "Ailuk",
+      "nativeName": "Ailuk",
+      "code": "MH-ALK-4041070",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-ALK",
+      "latitude": 10.22052,
+      "longitude": 169.97819
+    }
+  ]
+}

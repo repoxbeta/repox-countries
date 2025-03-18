@@ -1,0 +1,51 @@
+{
+  "stateId": 11287936,
+  "stateCode": "BD-H",
+  "countryCode": "BD",
+  "cities": [
+    {
+      "id": 1337172,
+      "name": "Jamalpur",
+      "nativeName": "Jamalpur",
+      "code": "BD-H-1337172",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-H",
+      "latitude": 25,
+      "longitude": 89.83333
+    },
+    {
+      "id": 1337173,
+      "name": "Mymensingh",
+      "nativeName": "Mymensingh",
+      "code": "BD-H-1337173",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-H",
+      "latitude": 24.75,
+      "longitude": 90.4
+    },
+    {
+      "id": 1337171,
+      "name": "Netrakona",
+      "nativeName": "Netrakona",
+      "code": "BD-H-1337171",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-H",
+      "latitude": 24.86667,
+      "longitude": 90.86667
+    },
+    {
+      "id": 1337170,
+      "name": "Sherpur",
+      "nativeName": "Sherpur",
+      "code": "BD-H-1337170",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-H",
+      "latitude": 25.08333,
+      "longitude": 90.08333
+    }
+  ]
+}

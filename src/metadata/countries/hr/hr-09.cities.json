@@ -1,0 +1,139 @@
+{
+  "stateId": 3337520,
+  "stateCode": "HR-09",
+  "countryCode": "HR",
+  "cities": [
+    {
+      "id": 11049284,
+      "name": "Municipality of Brinje",
+      "nativeName": "Brinje",
+      "code": "HR-09-11049284",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-09",
+      "latitude": 44.9986,
+      "longitude": 15.12916
+    },
+    {
+      "id": 11049285,
+      "name": "Municipality of Donji Lapac",
+      "nativeName": "Donji Lapac",
+      "code": "HR-09-11049285",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-09",
+      "latitude": 44.55392,
+      "longitude": 15.96
+    },
+    {
+      "id": 11049287,
+      "name": "Municipality of Karlobag",
+      "nativeName": "Karlobag",
+      "code": "HR-09-11049287",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-09",
+      "latitude": 44.52838,
+      "longitude": 15.07251
+    },
+    {
+      "id": 11049288,
+      "name": "Municipality of Lovinac",
+      "nativeName": "Lovinac",
+      "code": "HR-09-11049288",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-09",
+      "latitude": 44.39202,
+      "longitude": 15.68676
+    },
+    {
+      "id": 11049291,
+      "name": "Municipality of Perušić",
+      "nativeName": "Perušić",
+      "code": "HR-09-11049291",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-09",
+      "latitude": 44.64865,
+      "longitude": 15.38305
+    },
+    {
+      "id": 11049292,
+      "name": "Municipality of Plitvička Jezera",
+      "nativeName": "Plitvička Jezera",
+      "code": "HR-09-11049292",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-09",
+      "latitude": 44.88053,
+      "longitude": 15.62123
+    },
+    {
+      "id": 11049294,
+      "name": "Municipality of Udbina",
+      "nativeName": "Udbina",
+      "code": "HR-09-11049294",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-09",
+      "latitude": 44.53108,
+      "longitude": 15.76658
+    },
+    {
+      "id": 11049286,
+      "name": "Town of Gospić",
+      "nativeName": "Gospić",
+      "code": "HR-09-11049286",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-09",
+      "latitude": 44.54652,
+      "longitude": 15.37266
+    },
+    {
+      "id": 11049289,
+      "name": "Town of Novalja",
+      "nativeName": "Novalja",
+      "code": "HR-09-11049289",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-09",
+      "latitude": 44.55634,
+      "longitude": 14.88536
+    },
+    {
+      "id": 11049290,
+      "name": "Town of Otočac",
+      "nativeName": "Otočac",
+      "code": "HR-09-11049290",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-09",
+      "latitude": 44.86876,
+      "longitude": 15.23752
+    },
+    {
+      "id": 11049293,
+      "name": "Town of Senj",
+      "nativeName": "Senj",
+      "code": "HR-09-11049293",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-09",
+      "latitude": 44.98871,
+      "longitude": 14.9045
+    },
+    {
+      "id": 11049295,
+      "name": "Vrhovine",
+      "nativeName": "Općina Vrhovine",
+      "code": "HR-09-11049295",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-09",
+      "latitude": 44.85133,
+      "longitude": 15.42287
+    }
+  ]
+}

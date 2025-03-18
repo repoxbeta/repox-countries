@@ -1,0 +1,40 @@
+{
+  "stateId": 2374820,
+  "stateCode": "GW-BM",
+  "countryCode": "GW",
+  "cities": [
+    {
+      "id": 8335038,
+      "name": "Prabis",
+      "nativeName": "Prabis Sector",
+      "code": "GW-BM-8335038",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "stateCode": "GW-BM",
+      "latitude": 11.81493,
+      "longitude": -15.74341
+    },
+    {
+      "id": 8335043,
+      "name": "Quinhamel",
+      "nativeName": "Quinhamel Sector",
+      "code": "GW-BM-8335043",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "stateCode": "GW-BM",
+      "latitude": 11.87743,
+      "longitude": -15.85396
+    },
+    {
+      "id": 11995996,
+      "name": "Safim",
+      "nativeName": "Safim",
+      "code": "GW-BM-11995996",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "stateCode": "GW-BM",
+      "latitude": 11.94544,
+      "longitude": -15.64751
+    }
+  ]
+}

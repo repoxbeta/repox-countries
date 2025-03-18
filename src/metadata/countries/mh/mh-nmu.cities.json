@@ -1,0 +1,51 @@
+{
+  "stateId": 7303509,
+  "stateCode": "MH-NMU",
+  "countryCode": "MH",
+  "cities": [
+    {
+      "id": 7306521,
+      "name": "Loen",
+      "nativeName": "Loen",
+      "code": "MH-NMU-7306521",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-NMU",
+      "latitude": 7.76007,
+      "longitude": 168.23072
+    },
+    {
+      "id": 7303979,
+      "name": "Loen",
+      "nativeName": "Loen",
+      "code": "MH-NMU-7303979",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-NMU",
+      "latitude": 7.76296,
+      "longitude": 168.22731
+    },
+    {
+      "id": 7303980,
+      "name": "Mae",
+      "nativeName": "Mae",
+      "code": "MH-NMU-7303980",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-NMU",
+      "latitude": 7.82588,
+      "longitude": 168.30471
+    },
+    {
+      "id": 7303978,
+      "name": "Majkin",
+      "nativeName": "Majkin",
+      "code": "MH-NMU-7303978",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-NMU",
+      "latitude": 8.16073,
+      "longitude": 168.17858
+    }
+  ]
+}

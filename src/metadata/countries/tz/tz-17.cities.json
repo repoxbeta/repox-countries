@@ -1,0 +1,84 @@
+{
+  "stateId": 877744,
+  "stateCode": "TZ-17",
+  "countryCode": "TZ",
+  "cities": [
+    {
+      "id": 878057,
+      "name": "Masasi District",
+      "nativeName": "Masasi",
+      "code": "TZ-17-878057",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-17",
+      "latitude": -10.76162,
+      "longitude": 38.9829
+    },
+    {
+      "id": 9998154,
+      "name": "Masasi Town",
+      "nativeName": "Masasi Town",
+      "code": "TZ-17-9998154",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-17",
+      "latitude": -10.7218,
+      "longitude": 38.85011
+    },
+    {
+      "id": 877745,
+      "name": "Mtwara District Council",
+      "nativeName": "Mtwara",
+      "code": "TZ-17-877745",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-17",
+      "latitude": -10.47941,
+      "longitude": 39.98807
+    },
+    {
+      "id": 11204831,
+      "name": "Mtwara Urban",
+      "nativeName": "Mtwara Urban",
+      "code": "TZ-17-11204831",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-17",
+      "latitude": -10.2933,
+      "longitude": 40.16602
+    },
+    {
+      "id": 9072685,
+      "name": "Nanyumbu District",
+      "nativeName": "Nanyumbu District",
+      "code": "TZ-17-9072685",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-17",
+      "latitude": -11.06667,
+      "longitude": 38.32975
+    },
+    {
+      "id": 877533,
+      "name": "Newala District",
+      "nativeName": "Newala",
+      "code": "TZ-17-877533",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-17",
+      "latitude": -10.72487,
+      "longitude": 39.27979
+    },
+    {
+      "id": 9072692,
+      "name": "Tandahimba",
+      "nativeName": "Tandahimba",
+      "code": "TZ-17-9072692",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-17",
+      "latitude": -10.76232,
+      "longitude": 39.63077
+    }
+  ]
+}

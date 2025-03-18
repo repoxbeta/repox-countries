@@ -1,0 +1,117 @@
+{
+  "stateId": 2658563,
+  "stateCode": "CH-SO",
+  "countryCode": "CH",
+  "cities": [
+    {
+      "id": 6458904,
+      "name": "Bezirk Dorneck",
+      "nativeName": "Bezirk Dorneck",
+      "code": "CH-SO-6458904",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-SO",
+      "latitude": 47.48032,
+      "longitude": 7.61816
+    },
+    {
+      "id": 6458742,
+      "name": "Bezirk Gäu",
+      "nativeName": "Bezirk Gäu",
+      "code": "CH-SO-6458742",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-SO",
+      "latitude": 47.29606,
+      "longitude": 7.77503
+    },
+    {
+      "id": 6458874,
+      "name": "Bezirk Gösgen",
+      "nativeName": "Bezirk Gösgen",
+      "code": "CH-SO-6458874",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-SO",
+      "latitude": 47.37758,
+      "longitude": 7.9203
+    },
+    {
+      "id": 6458829,
+      "name": "Bezirk Lebern",
+      "nativeName": "Bezirk Lebern",
+      "code": "CH-SO-6458829",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-SO",
+      "latitude": 47.21798,
+      "longitude": 7.48053
+    },
+    {
+      "id": 6458893,
+      "name": "Bezirk Olten",
+      "nativeName": "Bezirk Olten",
+      "code": "CH-SO-6458893",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-SO",
+      "latitude": 47.34426,
+      "longitude": 7.90755
+    },
+    {
+      "id": 6458779,
+      "name": "Bezirk Solothurn",
+      "nativeName": "Bezirk Solothurn",
+      "code": "CH-SO-6458779",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-SO",
+      "latitude": 47.20818,
+      "longitude": 7.53084
+    },
+    {
+      "id": 6458869,
+      "name": "Bezirk Thal",
+      "nativeName": "Bezirk Thal",
+      "code": "CH-SO-6458869",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-SO",
+      "latitude": 47.31095,
+      "longitude": 7.63592
+    },
+    {
+      "id": 2658380,
+      "name": "Bezirk Thierstein",
+      "nativeName": "Bezirk Thierstein",
+      "code": "CH-SO-2658380",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-SO",
+      "latitude": 47.38333,
+      "longitude": 7.55
+    },
+    {
+      "id": 6458885,
+      "name": "Bezirk Wasseramt",
+      "nativeName": "Bezirk Wasseramt",
+      "code": "CH-SO-6458885",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-SO",
+      "latitude": 47.18911,
+      "longitude": 7.59157
+    },
+    {
+      "id": 6458841,
+      "name": "Bucheggberg District",
+      "nativeName": "Bezirk Bucheggberg",
+      "code": "CH-SO-6458841",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-SO",
+      "latitude": 47.13205,
+      "longitude": 7.47885
+    }
+  ]
+}

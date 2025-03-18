@@ -1,0 +1,205 @@
+{
+  "stateId": 785958,
+  "stateCode": "RS-SE",
+  "countryCode": "RS",
+  "cities": [
+    {
+      "id": 8199669,
+      "name": "Belgrade",
+      "nativeName": "Belgrade",
+      "code": "RS-SE-8199669",
+      "countryId": 6290252,
+      "countryCode": "RS",
+      "stateCode": "RS-SE",
+      "latitude": 44.79743,
+      "longitude": 20.47302
+    },
+    {
+      "id": 7581582,
+      "name": "Bor",
+      "nativeName": "Bor",
+      "code": "RS-SE-7581582",
+      "countryId": 6290252,
+      "countryCode": "RS",
+      "stateCode": "RS-SE",
+      "latitude": 44.36667,
+      "longitude": 22.25
+    },
+    {
+      "id": 7581794,
+      "name": "Branicevo",
+      "nativeName": "Branicevo",
+      "code": "RS-SE-7581794",
+      "countryId": 6290252,
+      "countryCode": "RS",
+      "stateCode": "RS-SE",
+      "latitude": 44.48028,
+      "longitude": 21.58611
+    },
+    {
+      "id": 7581795,
+      "name": "Jablanica",
+      "nativeName": "Jablanica",
+      "code": "RS-SE-7581795",
+      "countryId": 6290252,
+      "countryCode": "RS",
+      "stateCode": "RS-SE",
+      "latitude": 42.99528,
+      "longitude": 21.91778
+    },
+    {
+      "id": 7581798,
+      "name": "Kolubara",
+      "nativeName": "Kolubara",
+      "code": "RS-SE-7581798",
+      "countryId": 6290252,
+      "countryCode": "RS",
+      "stateCode": "RS-SE",
+      "latitude": 44.26333,
+      "longitude": 19.8875
+    },
+    {
+      "id": 7581799,
+      "name": "Mačva",
+      "nativeName": "Mačva",
+      "code": "RS-SE-7581799",
+      "countryId": 6290252,
+      "countryCode": "RS",
+      "stateCode": "RS-SE",
+      "latitude": 44.61472,
+      "longitude": 19.47222
+    },
+    {
+      "id": 7581800,
+      "name": "Morava",
+      "nativeName": "Morava",
+      "code": "RS-SE-7581800",
+      "countryId": 6290252,
+      "countryCode": "RS",
+      "stateCode": "RS-SE",
+      "latitude": 43.80389,
+      "longitude": 20.17806
+    },
+    {
+      "id": 7581801,
+      "name": "Nišava",
+      "nativeName": "Nišava",
+      "code": "RS-SE-7581801",
+      "countryId": 6290252,
+      "countryCode": "RS",
+      "stateCode": "RS-SE",
+      "latitude": 43.32306,
+      "longitude": 21.89444
+    },
+    {
+      "id": 7581803,
+      "name": "Pirot",
+      "nativeName": "Pirot",
+      "code": "RS-SE-7581803",
+      "countryId": 6290252,
+      "countryCode": "RS",
+      "stateCode": "RS-SE",
+      "latitude": 43.17528,
+      "longitude": 22.59278
+    },
+    {
+      "id": 7581804,
+      "name": "Podunavlje",
+      "nativeName": "Podunavlje District",
+      "code": "RS-SE-7581804",
+      "countryId": 6290252,
+      "countryCode": "RS",
+      "stateCode": "RS-SE",
+      "latitude": 44.48417,
+      "longitude": 20.91167
+    },
+    {
+      "id": 7581805,
+      "name": "Pomoravlje",
+      "nativeName": "Pomoravlje",
+      "code": "RS-SE-7581805",
+      "countryId": 6290252,
+      "countryCode": "RS",
+      "stateCode": "RS-SE",
+      "latitude": 43.93667,
+      "longitude": 21.40222
+    },
+    {
+      "id": 7581802,
+      "name": "Pčinja",
+      "nativeName": "Pčinja",
+      "code": "RS-SE-7581802",
+      "countryId": 6290252,
+      "countryCode": "RS",
+      "stateCode": "RS-SE",
+      "latitude": 42.56278,
+      "longitude": 21.8825
+    },
+    {
+      "id": 7581806,
+      "name": "Rasina",
+      "nativeName": "Rasina",
+      "code": "RS-SE-7581806",
+      "countryId": 6290252,
+      "countryCode": "RS",
+      "stateCode": "RS-SE",
+      "latitude": 43.55917,
+      "longitude": 21.21472
+    },
+    {
+      "id": 7581807,
+      "name": "Raška",
+      "nativeName": "Raška",
+      "code": "RS-SE-7581807",
+      "countryId": 6290252,
+      "countryCode": "RS",
+      "stateCode": "RS-SE",
+      "latitude": 43.26694,
+      "longitude": 20.65278
+    },
+    {
+      "id": 7581909,
+      "name": "Toplica",
+      "nativeName": "Toplica",
+      "code": "RS-SE-7581909",
+      "countryId": 6290252,
+      "countryCode": "RS",
+      "stateCode": "RS-SE",
+      "latitude": 43.14194,
+      "longitude": 21.27806
+    },
+    {
+      "id": 7581910,
+      "name": "Zaječar",
+      "nativeName": "Zaječar",
+      "code": "RS-SE-7581910",
+      "countryId": 6290252,
+      "countryCode": "RS",
+      "stateCode": "RS-SE",
+      "latitude": 43.69917,
+      "longitude": 21.98778
+    },
+    {
+      "id": 7581912,
+      "name": "Zlatibor",
+      "nativeName": "Zlatibor",
+      "code": "RS-SE-7581912",
+      "countryId": 6290252,
+      "countryCode": "RS",
+      "stateCode": "RS-SE",
+      "latitude": 43.70917,
+      "longitude": 19.67306
+    },
+    {
+      "id": 7581908,
+      "name": "Šumadija",
+      "nativeName": "Šumadija",
+      "code": "RS-SE-7581908",
+      "countryId": 6290252,
+      "countryCode": "RS",
+      "stateCode": "RS-SE",
+      "latitude": 44.00222,
+      "longitude": 20.91778
+    }
+  ]
+}

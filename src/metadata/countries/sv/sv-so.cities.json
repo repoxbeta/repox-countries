@@ -1,0 +1,51 @@
+{
+  "stateId": 3583101,
+  "stateCode": "SV-SO",
+  "countryCode": "SV",
+  "cities": [
+    {
+      "id": 12954167,
+      "name": "Municipio de Sonsonate Centro",
+      "nativeName": "Municipio de Sonsonate Centro",
+      "code": "SV-SO-12954167",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-SO",
+      "latitude": 13.69601,
+      "longitude": -89.75706
+    },
+    {
+      "id": 12954168,
+      "name": "Municipio de Sonsonate Oeste",
+      "nativeName": "Municipio de Sonsonate Oeste",
+      "code": "SV-SO-12954168",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-SO",
+      "latitude": 13.63757,
+      "longitude": -89.83619
+    },
+    {
+      "id": 12916949,
+      "name": "Sonsonate Este",
+      "nativeName": "Sonsonate Este",
+      "code": "SV-SO-12916949",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-SO",
+      "latitude": 13.71208,
+      "longitude": -89.58117
+    },
+    {
+      "id": 12916955,
+      "name": "Sonsonate Norte",
+      "nativeName": "Sonsonate Norte",
+      "code": "SV-SO-12916955",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-SO",
+      "latitude": 13.81984,
+      "longitude": -89.73122
+    }
+  ]
+}

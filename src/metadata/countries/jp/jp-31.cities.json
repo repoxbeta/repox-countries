@@ -1,0 +1,106 @@
+{
+  "stateId": 1849890,
+  "stateCode": "JP-31",
+  "countryCode": "JP",
+  "cities": [
+    {
+      "id": 1862590,
+      "name": "Hino Gun",
+      "nativeName": "Hino Gun",
+      "code": "JP-31-1862590",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-31",
+      "latitude": 35.19922,
+      "longitude": 133.34949
+    },
+    {
+      "id": 7392260,
+      "name": "Iwami-gun",
+      "nativeName": "Iwami-gun",
+      "code": "JP-31-7392260",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-31",
+      "latitude": 35.54617,
+      "longitude": 134.36246
+    },
+    {
+      "id": 7392255,
+      "name": "Kurayoshi Shi",
+      "nativeName": "Kurayoshi Shi",
+      "code": "JP-31-7392255",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-31",
+      "latitude": 35.3911,
+      "longitude": 133.74577
+    },
+    {
+      "id": 1853248,
+      "name": "Saihaku-gun",
+      "nativeName": "Saihaku-gun",
+      "code": "JP-31-1853248",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-31",
+      "latitude": 35.38183,
+      "longitude": 133.45482
+    },
+    {
+      "id": 1853173,
+      "name": "Sakaiminato Shi",
+      "nativeName": "Sakaiminato Shi",
+      "code": "JP-31-1853173",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-31",
+      "latitude": 35.52034,
+      "longitude": 133.22704
+    },
+    {
+      "id": 1849887,
+      "name": "Tottori Shi",
+      "nativeName": "Tottori Shi",
+      "code": "JP-31-1849887",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-31",
+      "latitude": 35.43255,
+      "longitude": 134.15576
+    },
+    {
+      "id": 1850247,
+      "name": "Tōhaku-gun",
+      "nativeName": "Tōhaku-gun",
+      "code": "JP-31-1850247",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-31",
+      "latitude": 35.38743,
+      "longitude": 133.92513
+    },
+    {
+      "id": 1848416,
+      "name": "Yazu-gun",
+      "nativeName": "Yazu-gun",
+      "code": "JP-31-1848416",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-31",
+      "latitude": 35.31935,
+      "longitude": 134.34058
+    },
+    {
+      "id": 1848276,
+      "name": "Yonago Shi",
+      "nativeName": "Yonago Shi",
+      "code": "JP-31-1848276",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-31",
+      "latitude": 35.43486,
+      "longitude": 133.35873
+    }
+  ]
+}

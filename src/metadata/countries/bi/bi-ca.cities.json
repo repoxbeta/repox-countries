@@ -1,0 +1,62 @@
+{
+  "stateId": 427700,
+  "stateCode": "BI-CA",
+  "countryCode": "BI",
+  "cities": [
+    {
+      "id": 7670593,
+      "name": "Cendajuru",
+      "nativeName": "Cendajuru",
+      "code": "BI-CA-7670593",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-CA",
+      "latitude": -3.3083,
+      "longitude": 30.60401
+    },
+    {
+      "id": 9072894,
+      "name": "Commune of Cankuzo",
+      "nativeName": "Commune of Cankuzo",
+      "code": "BI-CA-9072894",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-CA",
+      "latitude": -3.21944,
+      "longitude": 30.55278
+    },
+    {
+      "id": 9171837,
+      "name": "Gisagara",
+      "nativeName": "Gisagara",
+      "code": "BI-CA-9171837",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-CA",
+      "latitude": -3.21312,
+      "longitude": 30.7371
+    },
+    {
+      "id": 9171834,
+      "name": "Kigamba",
+      "nativeName": "Kigamba",
+      "code": "BI-CA-9171834",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-CA",
+      "latitude": -3.04278,
+      "longitude": 30.53185
+    },
+    {
+      "id": 9171816,
+      "name": "Mishiha",
+      "nativeName": "Mishiha",
+      "code": "BI-CA-9171816",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-CA",
+      "latitude": -3.06755,
+      "longitude": 30.7268
+    }
+  ]
+}

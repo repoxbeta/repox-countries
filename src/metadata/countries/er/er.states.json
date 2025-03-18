@@ -1,0 +1,72 @@
+{
+  "countryId": 338010,
+  "countryCode": "ER",
+  "states": [
+    {
+      "id": 448497,
+      "name": "Anseba",
+      "nativeName": "Anseba Region",
+      "code": "ER-AN",
+      "internalCode": "AN",
+      "countryId": 338010,
+      "countryCode": "ER",
+      "latitude": 16.5,
+      "longitude": 37.5
+    },
+    {
+      "id": 448498,
+      "name": "Debub",
+      "nativeName": "Debub Region",
+      "code": "ER-DU",
+      "internalCode": "DU",
+      "countryId": 338010,
+      "countryCode": "ER",
+      "latitude": 14.83333,
+      "longitude": 38.83333
+    },
+    {
+      "id": 448500,
+      "name": "Gash-Barka",
+      "nativeName": "Gash-Barka Region",
+      "code": "ER-GB",
+      "internalCode": "GB",
+      "countryId": 338010,
+      "countryCode": "ER",
+      "latitude": 15.25,
+      "longitude": 37.5
+    },
+    {
+      "id": 448501,
+      "name": "Maekel",
+      "nativeName": "Maekel Region",
+      "code": "ER-MA",
+      "internalCode": "MA",
+      "countryId": 338010,
+      "countryCode": "ER",
+      "latitude": 15.33333,
+      "longitude": 38.91667
+    },
+    {
+      "id": 448502,
+      "name": "Northern Red Sea",
+      "nativeName": "Northern Red Sea Region",
+      "code": "ER-SK",
+      "internalCode": "SK",
+      "countryId": 338010,
+      "countryCode": "ER",
+      "latitude": 16,
+      "longitude": 39
+    },
+    {
+      "id": 448499,
+      "name": "Southern Red Sea",
+      "nativeName": "Southern Red Sea Region",
+      "code": "ER-DK",
+      "internalCode": "DK",
+      "countryId": 338010,
+      "countryCode": "ER",
+      "latitude": 13.75,
+      "longitude": 41.5
+    }
+  ]
+}

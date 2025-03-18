@@ -1,0 +1,40 @@
+{
+  "stateId": 2250804,
+  "stateCode": "SN-KL",
+  "countryCode": "SN",
+  "cities": [
+    {
+      "id": 10778869,
+      "name": "Guinguineo",
+      "nativeName": "Département de Guinguinéo",
+      "code": "SN-KL-10778869",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "stateCode": "SN-KL",
+      "latitude": 14.29886,
+      "longitude": -15.92072
+    },
+    {
+      "id": 2250807,
+      "name": "Kaolack",
+      "nativeName": "Kaolack",
+      "code": "SN-KL-2250807",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "stateCode": "SN-KL",
+      "latitude": 14.05726,
+      "longitude": -16.07898
+    },
+    {
+      "id": 2247158,
+      "name": "Nioro du Rip",
+      "nativeName": "Nioro du Rip",
+      "code": "SN-KL-2247158",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "stateCode": "SN-KL",
+      "latitude": 13.73513,
+      "longitude": -15.83925
+    }
+  ]
+}

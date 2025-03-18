@@ -1,0 +1,117 @@
+{
+  "stateId": 3383329,
+  "stateCode": "SR-PM",
+  "countryCode": "SR",
+  "cities": [
+    {
+      "id": 12088717,
+      "name": "Beekhuizen",
+      "nativeName": "Beekhuizen",
+      "code": "SR-PM-12088717",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-PM",
+      "latitude": 5.80706,
+      "longitude": -55.18015
+    },
+    {
+      "id": 12088714,
+      "name": "Blauwgrond",
+      "nativeName": "Blauwgrond",
+      "code": "SR-PM-12088714",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-PM",
+      "latitude": 5.87454,
+      "longitude": -55.12522
+    },
+    {
+      "id": 12088721,
+      "name": "Flora",
+      "nativeName": "Flora",
+      "code": "SR-PM-12088721",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-PM",
+      "latitude": 5.81642,
+      "longitude": -55.19626
+    },
+    {
+      "id": 12088722,
+      "name": "Latour",
+      "nativeName": "Latour",
+      "code": "SR-PM-12088722",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-PM",
+      "latitude": 5.79545,
+      "longitude": -55.20531
+    },
+    {
+      "id": 12088724,
+      "name": "Livorno",
+      "nativeName": "Livorno",
+      "code": "SR-PM-12088724",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-PM",
+      "latitude": 5.77248,
+      "longitude": -55.16691
+    },
+    {
+      "id": 12088716,
+      "name": "Munder",
+      "nativeName": "Munder",
+      "code": "SR-PM-12088716",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-PM",
+      "latitude": 5.83854,
+      "longitude": -55.18242
+    },
+    {
+      "id": 12088713,
+      "name": "Rainville",
+      "nativeName": "Rainville",
+      "code": "SR-PM-12088713",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-PM",
+      "latitude": 5.86606,
+      "longitude": -55.15525
+    },
+    {
+      "id": 12088720,
+      "name": "Tammenga",
+      "nativeName": "Tammenga",
+      "code": "SR-PM-12088720",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-PM",
+      "latitude": 5.81371,
+      "longitude": -55.21479
+    },
+    {
+      "id": 12088718,
+      "name": "Weg naar Zee",
+      "nativeName": "Weg naar Zee",
+      "code": "SR-PM-12088718",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-PM",
+      "latitude": 5.844,
+      "longitude": -55.216
+    },
+    {
+      "id": 12088719,
+      "name": "Welgelegen",
+      "nativeName": "Welgelegen",
+      "code": "SR-PM-12088719",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-PM",
+      "latitude": 5.83766,
+      "longitude": -55.20713
+    }
+  ]
+}

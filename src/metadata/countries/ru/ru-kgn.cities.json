@@ -1,0 +1,293 @@
+{
+  "stateId": 1501312,
+  "stateCode": "RU-KGN",
+  "countryCode": "RU",
+  "cities": [
+    {
+      "id": 1511752,
+      "name": "Almenevsky District",
+      "nativeName": "Al’menevskiy Rayon",
+      "code": "RU-KGN-1511752",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KGN",
+      "latitude": 54.83333,
+      "longitude": 63.25
+    },
+    {
+      "id": 1510422,
+      "name": "Belozersky District",
+      "nativeName": "Belozërskiy Rayon",
+      "code": "RU-KGN-1510422",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KGN",
+      "latitude": 55.91667,
+      "longitude": 65.5
+    },
+    {
+      "id": 1508407,
+      "name": "Chastoozersky District",
+      "nativeName": "Chastoozerskiy Rayon",
+      "code": "RU-KGN-1508407",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KGN",
+      "latitude": 55.56667,
+      "longitude": 67.88333
+    },
+    {
+      "id": 1507564,
+      "name": "Dalmatovsky District",
+      "nativeName": "Dalmatovskiy Rayon",
+      "code": "RU-KGN-1507564",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KGN",
+      "latitude": 56.25,
+      "longitude": 63
+    },
+    {
+      "id": 1504384,
+      "name": "Kargapolsky District",
+      "nativeName": "Kargapol’skiy Rayon",
+      "code": "RU-KGN-1504384",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KGN",
+      "latitude": 55.83333,
+      "longitude": 64.33333
+    },
+    {
+      "id": 1504208,
+      "name": "Kataysky District",
+      "nativeName": "Katayskiy Rayon",
+      "code": "RU-KGN-1504208",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KGN",
+      "latitude": 56.25,
+      "longitude": 62.5
+    },
+    {
+      "id": 1503878,
+      "name": "Ketovskiy Rayon",
+      "nativeName": "Ketovskiy Rayon",
+      "code": "RU-KGN-1503878",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KGN",
+      "latitude": 55.5,
+      "longitude": 65
+    },
+    {
+      "id": 12626070,
+      "name": "Kurgan",
+      "nativeName": "Kurgan",
+      "code": "RU-KGN-12626070",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KGN",
+      "latitude": 55.45545,
+      "longitude": 65.36286
+    },
+    {
+      "id": 1501253,
+      "name": "Kurtamyshskiy Rayon",
+      "nativeName": "Kurtamyshskiy Rayon",
+      "code": "RU-KGN-1501253",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KGN",
+      "latitude": 54.91667,
+      "longitude": 64.5
+    },
+    {
+      "id": 1500740,
+      "name": "Lebyazhyevsky District",
+      "nativeName": "Lebyazh’yevskiy Rayon",
+      "code": "RU-KGN-1500740",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KGN",
+      "latitude": 55.33333,
+      "longitude": 66.5
+    },
+    {
+      "id": 1500033,
+      "name": "Makushinsky District",
+      "nativeName": "Makushinskiy Rayon",
+      "code": "RU-KGN-1500033",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KGN",
+      "latitude": 55.25,
+      "longitude": 67.25
+    },
+    {
+      "id": 1498632,
+      "name": "Mishkinsky District",
+      "nativeName": "Mishkinskiy Rayon",
+      "code": "RU-KGN-1498632",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KGN",
+      "latitude": 55.25,
+      "longitude": 63.91667
+    },
+    {
+      "id": 1498510,
+      "name": "Mokrousovsky District",
+      "nativeName": "Mokrousovskiy Rayon",
+      "code": "RU-KGN-1498510",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KGN",
+      "latitude": 55.75,
+      "longitude": 67
+    },
+    {
+      "id": 1495014,
+      "name": "Petukhovskiy Rayon",
+      "nativeName": "Petukhovskiy Rayon",
+      "code": "RU-KGN-1495014",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KGN",
+      "latitude": 55.08333,
+      "longitude": 68
+    },
+    {
+      "id": 1494512,
+      "name": "Polovinsky District",
+      "nativeName": "Polovinskiy Rayon",
+      "code": "RU-KGN-1494512",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KGN",
+      "latitude": 54.83333,
+      "longitude": 66
+    },
+    {
+      "id": 1494157,
+      "name": "Pritobol’nyy Rayon",
+      "nativeName": "Pritobol’nyy Rayon",
+      "code": "RU-KGN-1494157",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KGN",
+      "latitude": 55,
+      "longitude": 65.33333
+    },
+    {
+      "id": 1493266,
+      "name": "Safakulevsky District",
+      "nativeName": "Safakulevskiy Rayon",
+      "code": "RU-KGN-1493266",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KGN",
+      "latitude": 54.91667,
+      "longitude": 62.5
+    },
+    {
+      "id": 12625157,
+      "name": "Shadrinsk",
+      "nativeName": "Shadrinsk",
+      "code": "RU-KGN-12625157",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KGN",
+      "latitude": 56.0792,
+      "longitude": 63.61826
+    },
+    {
+      "id": 1492514,
+      "name": "Shadrinsky District",
+      "nativeName": "Shadrinskiy Rayon",
+      "code": "RU-KGN-1492514",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KGN",
+      "latitude": 56,
+      "longitude": 63.66667
+    },
+    {
+      "id": 1492387,
+      "name": "Shatrovsky District",
+      "nativeName": "Shatrovskiy Rayon",
+      "code": "RU-KGN-1492387",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KGN",
+      "latitude": 56.5,
+      "longitude": 64.75
+    },
+    {
+      "id": 1492326,
+      "name": "Shchuchansky District",
+      "nativeName": "Shchuchanskiy Rayon",
+      "code": "RU-KGN-1492326",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KGN",
+      "latitude": 55.16667,
+      "longitude": 62.75
+    },
+    {
+      "id": 1491988,
+      "name": "Shumikhinsky District",
+      "nativeName": "Shumikhinskiy Rayon",
+      "code": "RU-KGN-1491988",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KGN",
+      "latitude": 55.25,
+      "longitude": 63.25
+    },
+    {
+      "id": 1489127,
+      "name": "Tselinny District",
+      "nativeName": "Tselinnyy Rayon",
+      "code": "RU-KGN-1489127",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KGN",
+      "latitude": 54.5,
+      "longitude": 63.66667
+    },
+    {
+      "id": 1487781,
+      "name": "Vargashinsky District",
+      "nativeName": "Vargashinskiy Rayon",
+      "code": "RU-KGN-1487781",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KGN",
+      "latitude": 55.33333,
+      "longitude": 65.91667
+    },
+    {
+      "id": 1485718,
+      "name": "Yurgamyshsky District",
+      "nativeName": "Yurgamyshskiy Rayon",
+      "code": "RU-KGN-1485718",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KGN",
+      "latitude": 55.33333,
+      "longitude": 64.5
+    },
+    {
+      "id": 12625159,
+      "name": "Zverinogolovsky District",
+      "nativeName": "Zverinogolovsky District",
+      "code": "RU-KGN-12625159",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KGN",
+      "latitude": 54.45345,
+      "longitude": 64.85642
+    }
+  ]
+}

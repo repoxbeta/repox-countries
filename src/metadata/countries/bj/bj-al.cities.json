@@ -1,0 +1,73 @@
+{
+  "stateId": 2597271,
+  "stateCode": "BJ-AL",
+  "countryCode": "BJ",
+  "cities": [
+    {
+      "id": 7668935,
+      "name": "Banikoara",
+      "nativeName": "Commune of Banikoara",
+      "code": "BJ-AL-7668935",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-AL",
+      "latitude": 11.33966,
+      "longitude": 2.45915
+    },
+    {
+      "id": 10344469,
+      "name": "Gogounou",
+      "nativeName": "Gogounou",
+      "code": "BJ-AL-10344469",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-AL",
+      "latitude": 10.83861,
+      "longitude": 2.83611
+    },
+    {
+      "id": 7911056,
+      "name": "Kandi",
+      "nativeName": "Kandi",
+      "code": "BJ-AL-7911056",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-AL",
+      "latitude": 11.0706,
+      "longitude": 2.86743
+    },
+    {
+      "id": 7874155,
+      "name": "Karimama",
+      "nativeName": "Karimama",
+      "code": "BJ-AL-7874155",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-AL",
+      "latitude": 11.93816,
+      "longitude": 2.75703
+    },
+    {
+      "id": 7874170,
+      "name": "Malanville",
+      "nativeName": "Malanville",
+      "code": "BJ-AL-7874170",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-AL",
+      "latitude": 11.66636,
+      "longitude": 3.26373
+    },
+    {
+      "id": 10344468,
+      "name": "Segbana",
+      "nativeName": "Ségbana",
+      "code": "BJ-AL-10344468",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-AL",
+      "latitude": 10.92778,
+      "longitude": 3.69444
+    }
+  ]
+}

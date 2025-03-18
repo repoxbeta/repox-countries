@@ -1,0 +1,95 @@
+{
+  "stateId": 2210553,
+  "stateCode": "LY-SR",
+  "countryCode": "LY",
+  "cities": [
+    {
+      "id": 2210554,
+      "name": "Sirte",
+      "nativeName": "Sirte",
+      "code": "LY-SR-2210554",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-SR",
+      "latitude": 31.20892,
+      "longitude": 16.58866
+    },
+    {
+      "id": 2219589,
+      "name": "An Nawfalīyah",
+      "nativeName": "An Nawfalīyah",
+      "code": "LY-SR-2219589",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-SR",
+      "latitude": 30.77784,
+      "longitude": 17.83544
+    },
+    {
+      "id": 2219329,
+      "name": "As Sulţān",
+      "nativeName": "As Sulţān",
+      "code": "LY-SR-2219329",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-SR",
+      "latitude": 31.11445,
+      "longitude": 17.15018
+    },
+    {
+      "id": 2218562,
+      "name": "Bin Jawwād",
+      "nativeName": "Bin Jawwād",
+      "code": "LY-SR-2218562",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-SR",
+      "latitude": 30.80418,
+      "longitude": 18.0772
+    },
+    {
+      "id": 2218319,
+      "name": "Buwayrāt al Ḩasūn",
+      "nativeName": "Buwayrāt al Ḩasūn",
+      "code": "LY-SR-2218319",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-SR",
+      "latitude": 31.39937,
+      "longitude": 15.72576
+    },
+    {
+      "id": 2214899,
+      "name": "Minţaqat Wādī Harāwah",
+      "nativeName": "Minţaqat Wādī Harāwah",
+      "code": "LY-SR-2214899",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-SR",
+      "latitude": 31.05263,
+      "longitude": 17.28391
+    },
+    {
+      "id": 2220431,
+      "name": "Qaryat Bū Nujaym",
+      "nativeName": "Qaryat Bū Nujaym",
+      "code": "LY-SR-2220431",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-SR",
+      "latitude": 30.58165,
+      "longitude": 15.39579
+    },
+    {
+      "id": 8354477,
+      "name": "Qasr Abu Hadi",
+      "nativeName": "Qasr Abu Hadi",
+      "code": "LY-SR-8354477",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-SR",
+      "latitude": 31.05926,
+      "longitude": 16.65905
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "stateId": 3681344,
+  "stateCode": "CO-GUV",
+  "countryCode": "CO",
+  "cities": [
+    {
+      "id": 6798554,
+      "name": "Calamar",
+      "nativeName": "Calamar",
+      "code": "CO-GUV-6798554",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-GUV",
+      "latitude": 1.60178,
+      "longitude": -72.98243
+    },
+    {
+      "id": 9172390,
+      "name": "El Retorno",
+      "nativeName": "El Retorno",
+      "code": "CO-GUV-9172390",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-GUV",
+      "latitude": 1.92608,
+      "longitude": -71.57561
+    },
+    {
+      "id": 6976870,
+      "name": "Miraflores",
+      "nativeName": "Miraflores",
+      "code": "CO-GUV-6976870",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-GUV",
+      "latitude": 1.3098,
+      "longitude": -72.0419
+    },
+    {
+      "id": 6851384,
+      "name": "San José del Guaviare",
+      "nativeName": "San José del Guaviare",
+      "code": "CO-GUV-6851384",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-GUV",
+      "latitude": 2.55368,
+      "longitude": -72.07462
+    }
+  ]
+}

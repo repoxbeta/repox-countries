@@ -1,0 +1,139 @@
+{
+  "stateId": 1263207,
+  "stateCode": "IN-ML",
+  "countryCode": "IN",
+  "cities": [
+    {
+      "id": 1271512,
+      "name": "East Garo Hills District",
+      "nativeName": "East Gāro Hills",
+      "code": "IN-ML-1271512",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-ML",
+      "latitude": 25.61372,
+      "longitude": 90.62426
+    },
+    {
+      "id": 11875537,
+      "name": "East Jaintia Hills",
+      "nativeName": "East Jaintia Hills",
+      "code": "IN-ML-11875537",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-ML",
+      "latitude": 25.35976,
+      "longitude": 92.3668
+    },
+    {
+      "id": 1266857,
+      "name": "East Khasi Hills",
+      "nativeName": "East Khāsi Hills",
+      "code": "IN-ML-1266857",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-ML",
+      "latitude": 25.3805,
+      "longitude": 91.78905
+    },
+    {
+      "id": 12680245,
+      "name": "Eastern West Khasi Hills",
+      "nativeName": "Eastern West Khasi Hills",
+      "code": "IN-ML-12680245",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-ML",
+      "latitude": 25.60725,
+      "longitude": 91.57367
+    },
+    {
+      "id": 11875538,
+      "name": "North Garo Hills",
+      "nativeName": "North Garo Hills",
+      "code": "IN-ML-11875538",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-ML",
+      "latitude": 25.89682,
+      "longitude": 90.61602
+    },
+    {
+      "id": 7701507,
+      "name": "Ri Bhoi",
+      "nativeName": "Ri-Bhoi",
+      "code": "IN-ML-7701507",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-ML",
+      "latitude": 25.88997,
+      "longitude": 91.82707
+    },
+    {
+      "id": 9748015,
+      "name": "South Garo Hills",
+      "nativeName": "South Garo Hills",
+      "code": "IN-ML-9748015",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-ML",
+      "latitude": 25.30162,
+      "longitude": 90.5853
+    },
+    {
+      "id": 11875540,
+      "name": "South West Garo Hills",
+      "nativeName": "South West Garo Hills",
+      "code": "IN-ML-11875540",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-ML",
+      "latitude": 25.47245,
+      "longitude": 89.93399
+    },
+    {
+      "id": 11875539,
+      "name": "South West Khasi Hills",
+      "nativeName": "South West Khasi Hills",
+      "code": "IN-ML-11875539",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-ML",
+      "latitude": 25.32155,
+      "longitude": 91.29462
+    },
+    {
+      "id": 8986228,
+      "name": "West Garo Hills",
+      "nativeName": "West Garo Hills",
+      "code": "IN-ML-8986228",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-ML",
+      "latitude": 25.56794,
+      "longitude": 90.22447
+    },
+    {
+      "id": 1269523,
+      "name": "West Jaintia Hills District",
+      "nativeName": "West Jaintia Hills",
+      "code": "IN-ML-1269523",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-ML",
+      "latitude": 25.5,
+      "longitude": 92.25
+    },
+    {
+      "id": 7701511,
+      "name": "West Khasi Hills",
+      "nativeName": "West Khasi Hills",
+      "code": "IN-ML-7701511",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-ML",
+      "latitude": 25.54776,
+      "longitude": 91.26957
+    }
+  ]
+}

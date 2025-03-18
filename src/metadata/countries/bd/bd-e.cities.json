@@ -1,0 +1,95 @@
+{
+  "stateId": 1337166,
+  "stateCode": "BD-E",
+  "countryCode": "BD",
+  "cities": [
+    {
+      "id": 1337163,
+      "name": "Bogra",
+      "nativeName": "Bogra",
+      "code": "BD-E-1337163",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-E",
+      "latitude": 24.78333,
+      "longitude": 89.35
+    },
+    {
+      "id": 1337164,
+      "name": "Chapai Nababganj",
+      "nativeName": "Chapai Nababganj",
+      "code": "BD-E-1337164",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-E",
+      "latitude": 24.68333,
+      "longitude": 88.25
+    },
+    {
+      "id": 1337162,
+      "name": "Joypurhat",
+      "nativeName": "Joypurhat",
+      "code": "BD-E-1337162",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-E",
+      "latitude": 25.08333,
+      "longitude": 89.1
+    },
+    {
+      "id": 1337161,
+      "name": "Naogaon",
+      "nativeName": "Naogaon",
+      "code": "BD-E-1337161",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-E",
+      "latitude": 24.8118,
+      "longitude": 88.94657
+    },
+    {
+      "id": 1337167,
+      "name": "Natore",
+      "nativeName": "Natore",
+      "code": "BD-E-1337167",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-E",
+      "latitude": 24.35,
+      "longitude": 89.08333
+    },
+    {
+      "id": 1337169,
+      "name": "Pabna",
+      "nativeName": "Pabna",
+      "code": "BD-E-1337169",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-E",
+      "latitude": 24.00633,
+      "longitude": 89.33533
+    },
+    {
+      "id": 1337165,
+      "name": "Rajshahi",
+      "nativeName": "Rajshahi",
+      "code": "BD-E-1337165",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-E",
+      "latitude": 24.36962,
+      "longitude": 88.60748
+    },
+    {
+      "id": 1337168,
+      "name": "Sirajganj",
+      "nativeName": "Sirajganj",
+      "code": "BD-E-1337168",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-E",
+      "latitude": 24.33333,
+      "longitude": 89.61667
+    }
+  ]
+}

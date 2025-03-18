@@ -1,0 +1,73 @@
+{
+  "stateId": 3344904,
+  "stateCode": "SI-184",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3189227,
+      "name": "Tabor",
+      "nativeName": "Tabor",
+      "code": "SI-184-3189227",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-184",
+      "latitude": 46.23611,
+      "longitude": 15.01833
+    },
+    {
+      "id": 3338873,
+      "name": "Kapla",
+      "nativeName": "Kapla",
+      "code": "SI-184-3338873",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-184",
+      "latitude": 46.24833,
+      "longitude": 15.00944
+    },
+    {
+      "id": 3196264,
+      "name": "Loke",
+      "nativeName": "Loke",
+      "code": "SI-184-3196264",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-184",
+      "latitude": 46.22306,
+      "longitude": 15.00639
+    },
+    {
+      "id": 8987101,
+      "name": "Ojstriška Vas",
+      "nativeName": "Ojstriška Vas",
+      "code": "SI-184-8987101",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-184",
+      "latitude": 46.23988,
+      "longitude": 15.0246
+    },
+    {
+      "id": 8987429,
+      "name": "Pondor",
+      "nativeName": "Pondor",
+      "code": "SI-184-8987429",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-184",
+      "latitude": 46.24229,
+      "longitude": 14.99862
+    },
+    {
+      "id": 8987353,
+      "name": "Črni Vrh",
+      "nativeName": "Črni Vrh",
+      "code": "SI-184-8987353",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-184",
+      "latitude": 46.22141,
+      "longitude": 14.98329
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "stateId": 6418542,
+  "stateCode": "DK-83",
+  "countryCode": "DK",
+  "cities": [
+    {
+      "id": 2625068,
+      "name": "Aabenraa Kommune",
+      "nativeName": "Aabenraa Kommune",
+      "code": "DK-83-2625068",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-83",
+      "latitude": 54.9898,
+      "longitude": 9.31282
+    },
+    {
+      "id": 2624500,
+      "name": "Assens Kommune",
+      "nativeName": "Assens Kommune",
+      "code": "DK-83-2624500",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-83",
+      "latitude": 55.29958,
+      "longitude": 10.07952
+    },
+    {
+      "id": 2624143,
+      "name": "Billund Kommune",
+      "nativeName": "Billund Kommune",
+      "code": "DK-83-2624143",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-83",
+      "latitude": 55.73079,
+      "longitude": 8.96844
+    },
+    {
+      "id": 6543925,
+      "name": "Esbjerg Kommune",
+      "nativeName": "Esbjerg Kommune",
+      "code": "DK-83-6543925",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-83",
+      "latitude": 55.46893,
+      "longitude": 8.46222
+    },
+    {
+      "id": 6543936,
+      "name": "Faaborg-Midtfyn Kommune",
+      "nativeName": "Faaborg-Midtfyn Kommune",
+      "code": "DK-83-6543936",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-83",
+      "latitude": 55.22667,
+      "longitude": 10.40667
+    },
+    {
+      "id": 2622341,
+      "name": "Fanø Kommune",
+      "nativeName": "Fanø Kommune",
+      "code": "DK-83-2622341",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-83",
+      "latitude": 55.41667,
+      "longitude": 8.41667
+    },
+    {
+      "id": 2621950,
+      "name": "Fredericia Kommune",
+      "nativeName": "Fredericia Kommune",
+      "code": "DK-83-2621950",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-83",
+      "latitude": 55.57271,
+      "longitude": 9.69489
+    },
+    {
+      "id": 2620961,
+      "name": "Haderslev Kommune",
+      "nativeName": "Haderslev Kommune",
+      "code": "DK-83-2620961",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-83",
+      "latitude": 55.24441,
+      "longitude": 9.32261
+    },
+    {
+      "id": 2618941,
+      "name": "Kerteminde Kommune",
+      "nativeName": "Kerteminde Kommune",
+      "code": "DK-83-2618941",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-83",
+      "latitude": 55.45498,
+      "longitude": 10.6222
+    },
+    {
+      "id": 2618525,
+      "name": "Kolding Kommune",
+      "nativeName": "Kolding Kommune",
+      "code": "DK-83-2618525",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-83",
+      "latitude": 55.45006,
+      "longitude": 9.45807
+    },
+    {
+      "id": 6543942,
+      "name": "Langeland Kommune",
+      "nativeName": "Langeland Kommune",
+      "code": "DK-83-6543942",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-83",
+      "latitude": 54.9,
+      "longitude": 10.77222
+    },
+    {
+      "id": 2616932,
+      "name": "Middelfart Kommune",
+      "nativeName": "Middelfart Kommune",
+      "code": "DK-83-2616932",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-83",
+      "latitude": 55.45782,
+      "longitude": 9.881
+    },
+    {
+      "id": 6543929,
+      "name": "Nordfyns Kommune",
+      "nativeName": "Nordfyns Kommune",
+      "code": "DK-83-6543929",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-83",
+      "latitude": 55.52222,
+      "longitude": 10.22222
+    },
+    {
+      "id": 2616011,
+      "name": "Nyborg Kommune",
+      "nativeName": "Nyborg Kommune",
+      "code": "DK-83-2616011",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-83",
+      "latitude": 55.29473,
+      "longitude": 10.7031
+    },
+    {
+      "id": 2615872,
+      "name": "Odense Kommune",
+      "nativeName": "Odense Kommune",
+      "code": "DK-83-2615872",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-83",
+      "latitude": 55.3957,
+      "longitude": 10.37761
+    },
+    {
+      "id": 2612044,
+      "name": "Svendborg Kommune",
+      "nativeName": "Svendborg Kommune",
+      "code": "DK-83-2612044",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-83",
+      "latitude": 55.0841,
+      "longitude": 10.61391
+    },
+    {
+      "id": 2613221,
+      "name": "Sønderborg Kommune",
+      "nativeName": "Sønderborg Kommune",
+      "code": "DK-83-2613221",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-83",
+      "latitude": 54.91667,
+      "longitude": 9.8
+    },
+    {
+      "id": 2611516,
+      "name": "Tønder Kommune",
+      "nativeName": "Tønder Kommune",
+      "code": "DK-83-2611516",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-83",
+      "latitude": 55.07304,
+      "longitude": 8.87214
+    },
+    {
+      "id": 2622446,
+      "name": "Varde Kommune",
+      "nativeName": "Varde Kommune",
+      "code": "DK-83-2622446",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-83",
+      "latitude": 55.61667,
+      "longitude": 8.5
+    },
+    {
+      "id": 2610631,
+      "name": "Vejen Kommune",
+      "nativeName": "Vejen Kommune",
+      "code": "DK-83-2610631",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-83",
+      "latitude": 55.46312,
+      "longitude": 9.05004
+    },
+    {
+      "id": 2610601,
+      "name": "Vejle Kommune",
+      "nativeName": "Vejle Kommune",
+      "code": "DK-83-2610601",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-83",
+      "latitude": 55.74874,
+      "longitude": 9.40421
+    },
+    {
+      "id": 6543935,
+      "name": "Ærø Kommune",
+      "nativeName": "Ærø Kommune",
+      "code": "DK-83-6543935",
+      "countryId": 2623032,
+      "countryCode": "DK",
+      "stateCode": "DK-83",
+      "latitude": 54.85833,
+      "longitude": 10.43333
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "stateId": 7521938,
+  "stateCode": "TT-CTT",
+  "countryCode": "TT",
+  "cities": [
+    {
+      "id": 3574723,
+      "name": "Ward of Couva",
+      "nativeName": "Ward of Couva",
+      "code": "TT-CTT-3574723",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-CTT",
+      "latitude": 10.41667,
+      "longitude": -61.45
+    },
+    {
+      "id": 3574679,
+      "name": "Ward of Cunupia",
+      "nativeName": "Ward of Cunupia",
+      "code": "TT-CTT-3574679",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-CTT",
+      "latitude": 10.55,
+      "longitude": -61.33333
+    },
+    {
+      "id": 3574111,
+      "name": "Ward of Montserrat",
+      "nativeName": "Ward of Montserrat",
+      "code": "TT-CTT-3574111",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-CTT",
+      "latitude": 10.41667,
+      "longitude": -61.35
+    },
+    {
+      "id": 3573901,
+      "name": "Ward of Pointe-à-Pierre",
+      "nativeName": "Ward of Pointe-à-Pierre",
+      "code": "TT-CTT-3573901",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-CTT",
+      "latitude": 10.33333,
+      "longitude": -61.4
+    },
+    {
+      "id": 3573722,
+      "name": "Ward of San Rafael",
+      "nativeName": "Ward of San Rafael",
+      "code": "TT-CTT-3573722",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-CTT",
+      "latitude": 10.53333,
+      "longitude": -61.26667
+    }
+  ]
+}

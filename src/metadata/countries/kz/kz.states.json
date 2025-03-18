@@ -1,0 +1,237 @@
+{
+  "countryId": 1522867,
+  "countryCode": "KZ",
+  "states": [
+    {
+      "id": 12510143,
+      "name": "Abai Region",
+      "nativeName": "Abai Region",
+      "code": "KZ-10",
+      "internalCode": "10",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "latitude": 49.28961,
+      "longitude": 79.33354
+    },
+    {
+      "id": 610688,
+      "name": "Aktyubinskaya Oblast’",
+      "nativeName": "Aktyubinskaya Oblast’",
+      "code": "KZ-15",
+      "internalCode": "15",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "latitude": 48.58333,
+      "longitude": 58.58333
+    },
+    {
+      "id": 1526395,
+      "name": "Almaty",
+      "nativeName": "Almaty",
+      "code": "KZ-75",
+      "internalCode": "75",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "latitude": 43.26667,
+      "longitude": 76.9
+    },
+    {
+      "id": 1537162,
+      "name": "Almaty Oblysy",
+      "nativeName": "Almaty Oblysy",
+      "code": "KZ-19",
+      "internalCode": "19",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "latitude": 44,
+      "longitude": 76.28333
+    },
+    {
+      "id": 1518003,
+      "name": "Aqmola Oblysy",
+      "nativeName": "Aqmola Oblysy",
+      "code": "KZ-11",
+      "internalCode": "11",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "latitude": 51.83333,
+      "longitude": 69.91667
+    },
+    {
+      "id": 1538317,
+      "name": "Astana",
+      "nativeName": "Astana",
+      "code": "KZ-71",
+      "internalCode": "71",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "latitude": 51.13333,
+      "longitude": 71.43333
+    },
+    {
+      "id": 609862,
+      "name": "Atyrau Oblisi",
+      "nativeName": "Atyrau Region",
+      "code": "KZ-23",
+      "internalCode": "23",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "latitude": 47,
+      "longitude": 52
+    },
+    {
+      "id": 1538316,
+      "name": "Baikonur",
+      "nativeName": "Baikonur",
+      "code": "KZ-08",
+      "internalCode": "",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "latitude": 45.65,
+      "longitude": 63.28333
+    },
+    {
+      "id": 1517381,
+      "name": "East Kazakhstan",
+      "nativeName": "East Kazakhstan",
+      "code": "KZ-63",
+      "internalCode": "63",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "latitude": 48.83333,
+      "longitude": 84.5
+    },
+    {
+      "id": 12510144,
+      "name": "Jetisu Region",
+      "nativeName": "Jetisu Region",
+      "code": "KZ-33",
+      "internalCode": "33",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "latitude": 45.65465,
+      "longitude": 78.68622
+    },
+    {
+      "id": 1523401,
+      "name": "Karaganda",
+      "nativeName": "Qaraghandy Oblysy",
+      "code": "KZ-35",
+      "internalCode": "35",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "latitude": 48.7,
+      "longitude": 74
+    },
+    {
+      "id": 608879,
+      "name": "Mangistauskaya Oblast’",
+      "nativeName": "Mangistauskaya Oblast’",
+      "code": "KZ-47",
+      "internalCode": "47",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "latitude": 44,
+      "longitude": 54
+    },
+    {
+      "id": 1519367,
+      "name": "North Kazakhstan",
+      "nativeName": "North Kazakhstan",
+      "code": "KZ-59",
+      "internalCode": "59",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "latitude": 54.33333,
+      "longitude": 69.5
+    },
+    {
+      "id": 1520239,
+      "name": "Pavlodar Region",
+      "nativeName": "Pavlodar Region",
+      "code": "KZ-55",
+      "internalCode": "55",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "latitude": 52.08333,
+      "longitude": 76.25
+    },
+    {
+      "id": 1521671,
+      "name": "Qostanay Oblysy",
+      "nativeName": "Qostanay Oblysy",
+      "code": "KZ-39",
+      "internalCode": "39",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "latitude": 51.5,
+      "longitude": 64
+    },
+    {
+      "id": 1521406,
+      "name": "Qyzylorda Oblysy",
+      "nativeName": "Qyzylorda Oblysy",
+      "code": "KZ-43",
+      "internalCode": "43",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "latitude": 45,
+      "longitude": 65
+    },
+    {
+      "id": 1537272,
+      "name": "Shymkent",
+      "nativeName": "Shymkent",
+      "code": "KZ-79",
+      "internalCode": "79",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "latitude": 42.31667,
+      "longitude": 69.58333
+    },
+    {
+      "id": 1524787,
+      "name": "Turkistan",
+      "nativeName": "Turkistan",
+      "code": "KZ-61",
+      "internalCode": "61",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "latitude": 43.25,
+      "longitude": 68.66667
+    },
+    {
+      "id": 12510145,
+      "name": "Ulytau Region",
+      "nativeName": "Ulytau Region",
+      "code": "KZ-62",
+      "internalCode": "62",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "latitude": 48.13857,
+      "longitude": 68.74941
+    },
+    {
+      "id": 607847,
+      "name": "West Kazakhstan",
+      "nativeName": "West Kazakhstan",
+      "code": "KZ-27",
+      "internalCode": "27",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "latitude": 49.83333,
+      "longitude": 50.66667
+    },
+    {
+      "id": 1524444,
+      "name": "Zhambyl Oblysy",
+      "nativeName": "Zhambyl Oblysy",
+      "code": "KZ-31",
+      "internalCode": "31",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "latitude": 44.33333,
+      "longitude": 72.08333
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "stateId": 698738,
+  "stateCode": "UA-51",
+  "countryCode": "UA",
+  "cities": [
+    {
+      "id": 712271,
+      "name": "Berezivka Raion",
+      "nativeName": "Berezivka Raion",
+      "code": "UA-51-712271",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-51",
+      "latitude": 47.20033,
+      "longitude": 30.90702
+    },
+    {
+      "id": 712634,
+      "name": "Bilhorod-Dnistrovskyi Raion",
+      "nativeName": "Bilhorod-Dnistrovskyy Raion",
+      "code": "UA-51-712634",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-51",
+      "latitude": 46.19681,
+      "longitude": 30.35774
+    },
+    {
+      "id": 711842,
+      "name": "Bolhrad Raion",
+      "nativeName": "Bolhrad Raion",
+      "code": "UA-51-711842",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-51",
+      "latitude": 45.67756,
+      "longitude": 28.6138
+    },
+    {
+      "id": 707309,
+      "name": "Izmail Raion",
+      "nativeName": "Izmail Raion",
+      "code": "UA-51-707309",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-51",
+      "latitude": 45.35081,
+      "longitude": 28.83752
+    },
+    {
+      "id": 12189513,
+      "name": "Odeskyi Raion",
+      "nativeName": "Odeskyi Raion",
+      "code": "UA-51-12189513",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-51",
+      "latitude": 46.58,
+      "longitude": 30.59
+    },
+    {
+      "id": 704677,
+      "name": "Podilsk Raion",
+      "nativeName": "Podilsk Raion",
+      "code": "UA-51-704677",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-51",
+      "latitude": 47.74969,
+      "longitude": 29.53086
+    },
+    {
+      "id": 695745,
+      "name": "Rozdilna Raion",
+      "nativeName": "Rozdilna Raion",
+      "code": "UA-51-695745",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-51",
+      "latitude": 46.85277,
+      "longitude": 30.07416
+    }
+  ]
+}

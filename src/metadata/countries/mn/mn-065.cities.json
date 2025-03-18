@@ -1,0 +1,227 @@
+{
+  "stateId": 1515917,
+  "stateCode": "MN-065",
+  "countryCode": "MN",
+  "cities": [
+    {
+      "id": 6619095,
+      "name": "Altai District",
+      "nativeName": "Altay",
+      "code": "MN-065-6619095",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-065",
+      "latitude": 44.61381,
+      "longitude": 94.91668
+    },
+    {
+      "id": 6619083,
+      "name": "Bayan-Uul District",
+      "nativeName": "Bayan-Uul",
+      "code": "MN-065-6619083",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-065",
+      "latitude": 46.98892,
+      "longitude": 95.19962
+    },
+    {
+      "id": 6619097,
+      "name": "Biger District",
+      "nativeName": "Biger",
+      "code": "MN-065-6619097",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-065",
+      "latitude": 45.7015,
+      "longitude": 97.17665
+    },
+    {
+      "id": 6619091,
+      "name": "Bugat District",
+      "nativeName": "Bugat",
+      "code": "MN-065-6619091",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-065",
+      "latitude": 45.54928,
+      "longitude": 94.36466
+    },
+    {
+      "id": 6619098,
+      "name": "Chandmani District",
+      "nativeName": "Chandmanĭ",
+      "code": "MN-065-6619098",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-065",
+      "latitude": 45.32934,
+      "longitude": 97.99067
+    },
+    {
+      "id": 6619088,
+      "name": "Darvi District",
+      "nativeName": "Darvi",
+      "code": "MN-065-6619088",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-065",
+      "latitude": 46.43951,
+      "longitude": 94.11438
+    },
+    {
+      "id": 6619086,
+      "name": "Delger",
+      "nativeName": "Delger",
+      "code": "MN-065-6619086",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-065",
+      "latitude": 46.34314,
+      "longitude": 97.36668
+    },
+    {
+      "id": 6619087,
+      "name": "Delger District",
+      "nativeName": "Sharga",
+      "code": "MN-065-6619087",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-065",
+      "latitude": 46.24231,
+      "longitude": 95.26691
+    },
+    {
+      "id": 6619225,
+      "name": "Dörvöljin",
+      "nativeName": "Dörvöljin",
+      "code": "MN-065-6619225",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-065",
+      "latitude": 47.6381,
+      "longitude": 95.00256
+    },
+    {
+      "id": 6619099,
+      "name": "Erdene District",
+      "nativeName": "Erdene",
+      "code": "MN-065-6619099",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-065",
+      "latitude": 45.14113,
+      "longitude": 97.72408
+    },
+    {
+      "id": 6619084,
+      "name": "Jargalan District",
+      "nativeName": "Jargalan",
+      "code": "MN-065-6619084",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-065",
+      "latitude": 46.97217,
+      "longitude": 95.92781
+    },
+    {
+      "id": 6619093,
+      "name": "Khaliun District",
+      "nativeName": "Haliun",
+      "code": "MN-065-6619093",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-065",
+      "latitude": 45.92542,
+      "longitude": 96.16221
+    },
+    {
+      "id": 6619082,
+      "name": "Khökh morit District",
+      "nativeName": "Höhmorĭt",
+      "code": "MN-065-6619082",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-065",
+      "latitude": 47.3515,
+      "longitude": 94.52534
+    },
+    {
+      "id": 6619085,
+      "name": "Taishir District",
+      "nativeName": "Tayshir",
+      "code": "MN-065-6619085",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-065",
+      "latitude": 46.70185,
+      "longitude": 96.52536
+    },
+    {
+      "id": 6619089,
+      "name": "Tonkhil District",
+      "nativeName": "Tonhil",
+      "code": "MN-065-6619089",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-065",
+      "latitude": 46.29714,
+      "longitude": 93.9053
+    },
+    {
+      "id": 6619094,
+      "name": "Tseel District",
+      "nativeName": "Tseel",
+      "code": "MN-065-6619094",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-065",
+      "latitude": 45.56178,
+      "longitude": 95.86584
+    },
+    {
+      "id": 6619096,
+      "name": "Tsogt District",
+      "nativeName": "Tsogt",
+      "code": "MN-065-6619096",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-065",
+      "latitude": 45.33899,
+      "longitude": 96.64621
+    },
+    {
+      "id": 6619090,
+      "name": "Tögrög District",
+      "nativeName": "Tögrög",
+      "code": "MN-065-6619090",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-065",
+      "latitude": 45.8221,
+      "longitude": 94.81562
+    },
+    {
+      "id": 10375936,
+      "name": "Yesönbulag",
+      "nativeName": "Yesönbulag",
+      "code": "MN-065-10375936",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-065",
+      "latitude": 46.18499,
+      "longitude": 96.26916
+    },
+    {
+      "id": 6619092,
+      "name": "Yösönbulag",
+      "nativeName": "Yösönbulag",
+      "code": "MN-065-6619092",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-065",
+      "latitude": 46.36399,
+      "longitude": 96.25877
+    }
+  ]
+}

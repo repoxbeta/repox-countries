@@ -1,0 +1,150 @@
+{
+  "stateId": 3239175,
+  "stateCode": "SI-103",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3191839,
+      "name": "Ravne na Koroškem",
+      "nativeName": "Ravne na Koroškem",
+      "code": "SI-103-3191839",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-103",
+      "latitude": 46.54306,
+      "longitude": 14.96917
+    },
+    {
+      "id": 3203492,
+      "name": "Brdinje",
+      "nativeName": "Brdinje",
+      "code": "SI-103-3203492",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-103",
+      "latitude": 46.53333,
+      "longitude": 15
+    },
+    {
+      "id": 8986878,
+      "name": "Dobja Vas",
+      "nativeName": "Dobja Vas",
+      "code": "SI-103-8986878",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-103",
+      "latitude": 46.54326,
+      "longitude": 14.94261
+    },
+    {
+      "id": 3201940,
+      "name": "Dobrije",
+      "nativeName": "Dobrije",
+      "code": "SI-103-3201940",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-103",
+      "latitude": 46.55,
+      "longitude": 14.98333
+    },
+    {
+      "id": 8989808,
+      "name": "Koroški Selovec",
+      "nativeName": "Koroški Selovec",
+      "code": "SI-103-8989808",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-103",
+      "latitude": 46.55386,
+      "longitude": 15.00381
+    },
+    {
+      "id": 3197539,
+      "name": "Kotlje",
+      "nativeName": "Kotlje",
+      "code": "SI-103-3197539",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-103",
+      "latitude": 46.52139,
+      "longitude": 14.98694
+    },
+    {
+      "id": 3194573,
+      "name": "Navrški Vrh",
+      "nativeName": "Navrški Vrh",
+      "code": "SI-103-3194573",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-103",
+      "latitude": 46.53333,
+      "longitude": 14.96667
+    },
+    {
+      "id": 3193054,
+      "name": "Podgora",
+      "nativeName": "Podgora",
+      "code": "SI-103-3193054",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-103",
+      "latitude": 46.51667,
+      "longitude": 14.96667
+    },
+    {
+      "id": 8989769,
+      "name": "Preški Vrh",
+      "nativeName": "Preški Vrh",
+      "code": "SI-103-8989769",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-103",
+      "latitude": 46.52758,
+      "longitude": 14.97126
+    },
+    {
+      "id": 8989916,
+      "name": "Sele - Del",
+      "nativeName": "Sele - Del",
+      "code": "SI-103-8989916",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-103",
+      "latitude": 46.51506,
+      "longitude": 15.00695
+    },
+    {
+      "id": 3189689,
+      "name": "Strojna",
+      "nativeName": "Strojna",
+      "code": "SI-103-3189689",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-103",
+      "latitude": 46.59861,
+      "longitude": 14.91639
+    },
+    {
+      "id": 3189025,
+      "name": "Tolsti Vrh pri Ravnah na Koroškem",
+      "nativeName": "Tolsti Vrh pri Ravnah na Koroškem",
+      "code": "SI-103-3189025",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-103",
+      "latitude": 46.56667,
+      "longitude": 14.95
+    },
+    {
+      "id": 3188470,
+      "name": "Uršlja Gora",
+      "nativeName": "Uršlja Gora",
+      "code": "SI-103-3188470",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-103",
+      "latitude": 46.5,
+      "longitude": 14.93333
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "stateId": 98862,
+  "stateCode": "IQ-NA",
+  "countryCode": "IQ",
+  "cities": [
+    {
+      "id": 9166552,
+      "name": "Al-Manathera District",
+      "nativeName": "Al-Manathera District",
+      "code": "IQ-NA-9166552",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-NA",
+      "latitude": 31.79653,
+      "longitude": 44.41161
+    },
+    {
+      "id": 9166629,
+      "name": "Kufa",
+      "nativeName": "Kufa",
+      "code": "IQ-NA-9166629",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-NA",
+      "latitude": 32.03624,
+      "longitude": 44.43652
+    },
+    {
+      "id": 98861,
+      "name": "Najaf District",
+      "nativeName": "Najaf District",
+      "code": "IQ-NA-98861",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-NA",
+      "latitude": 31.0213,
+      "longitude": 43.71875
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "stateId": 1733035,
+  "stateCode": "MY-04",
+  "countryCode": "MY",
+  "cities": [
+    {
+      "id": 12231185,
+      "name": "Alor Gajah",
+      "nativeName": "Alor Gajah",
+      "code": "MY-04-12231185",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-04",
+      "latitude": 2.38344,
+      "longitude": 102.19792
+    },
+    {
+      "id": 12231329,
+      "name": "Jasin",
+      "nativeName": "Jasin",
+      "code": "MY-04-12231329",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-04",
+      "latitude": 2.29717,
+      "longitude": 102.43437
+    },
+    {
+      "id": 12231235,
+      "name": "Melaka Tengah",
+      "nativeName": "Melaka Tengah",
+      "code": "MY-04-12231235",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-04",
+      "latitude": 2.24019,
+      "longitude": 102.25232
+    }
+  ]
+}

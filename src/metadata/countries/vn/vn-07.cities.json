@@ -1,0 +1,84 @@
+{
+  "stateId": 1559976,
+  "stateCode": "VN-07",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 1905863,
+      "name": "Chiêm Hoá District",
+      "nativeName": "Huyện Chiêm Hóa",
+      "code": "VN-07-1905863",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-07",
+      "latitude": 22.17895,
+      "longitude": 105.27671
+    },
+    {
+      "id": 1905862,
+      "name": "Hàm Yên District",
+      "nativeName": "Huyện Hàm Yên",
+      "code": "VN-07-1905862",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-07",
+      "latitude": 22.10935,
+      "longitude": 105.0163
+    },
+    {
+      "id": 8523098,
+      "name": "Lâm Bình District",
+      "nativeName": "Huyện Lâm Bình",
+      "code": "VN-07-8523098",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-07",
+      "latitude": 22.46411,
+      "longitude": 105.21903
+    },
+    {
+      "id": 1905864,
+      "name": "Na Hang District",
+      "nativeName": "Huyện Na Hang",
+      "code": "VN-07-1905864",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-07",
+      "latitude": 22.44577,
+      "longitude": 105.45073
+    },
+    {
+      "id": 1905860,
+      "name": "Sơn Dương District",
+      "nativeName": "Huyện Sơn Dương",
+      "code": "VN-07-1905860",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-07",
+      "latitude": 21.65941,
+      "longitude": 105.36915
+    },
+    {
+      "id": 1905859,
+      "name": "Thành Phố Tuyên Quang",
+      "nativeName": "Thành Phố Tuyên Quang",
+      "code": "VN-07-1905859",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-07",
+      "latitude": 21.778,
+      "longitude": 105.23319
+    },
+    {
+      "id": 1905861,
+      "name": "Yên Sơn District",
+      "nativeName": "Huyện Yên Sơn",
+      "code": "VN-07-1905861",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-07",
+      "latitude": 21.88363,
+      "longitude": 105.27656
+    }
+  ]
+}

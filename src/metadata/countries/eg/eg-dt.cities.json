@@ -1,0 +1,40 @@
+{
+  "stateId": 358044,
+  "stateCode": "EG-DT",
+  "countryCode": "EG",
+  "cities": [
+    {
+      "id": 356943,
+      "name": "Markaz Fāriskūr",
+      "nativeName": "Markaz Fāriskūr",
+      "code": "EG-DT-356943",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-DT",
+      "latitude": 31.31835,
+      "longitude": 31.74842
+    },
+    {
+      "id": 8594167,
+      "name": "Markaz Kafr Sa‘d",
+      "nativeName": "Markaz Kafr Sa‘d",
+      "code": "EG-DT-8594167",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-DT",
+      "latitude": 31.34737,
+      "longitude": 31.60173
+    },
+    {
+      "id": 8559275,
+      "name": "Markaz az Zarqā",
+      "nativeName": "Markaz az Zarqā",
+      "code": "EG-DT-8559275",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-DT",
+      "latitude": 31.23227,
+      "longitude": 31.6789
+    }
+  ]
+}

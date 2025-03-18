@@ -1,0 +1,62 @@
+{
+  "stateId": 12510145,
+  "stateCode": "KZ-62",
+  "countryCode": "KZ",
+  "cities": [
+    {
+      "id": 1537256,
+      "name": "Karazhal Gorodskaya Administratsiya",
+      "nativeName": "Karazhal Gorodskaya Administratsiya",
+      "code": "KZ-62-1537256",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-62",
+      "latitude": 47.7984,
+      "longitude": 70.57521
+    },
+    {
+      "id": 1537257,
+      "name": "Satpayev Gorodskaya Administratsiya",
+      "nativeName": "Satpayev Gorodskaya Administratsiya",
+      "code": "KZ-62-1537257",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-62",
+      "latitude": 48.04554,
+      "longitude": 67.503
+    },
+    {
+      "id": 1517740,
+      "name": "Ulytau District",
+      "nativeName": "Ulytaū Aūdany",
+      "code": "KZ-62-1517740",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-62",
+      "latitude": 48.66667,
+      "longitude": 66.5
+    },
+    {
+      "id": 1516894,
+      "name": "Zhanaarka District",
+      "nativeName": "Zhangaarqa Aūdany",
+      "code": "KZ-62-1516894",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-62",
+      "latitude": 47.66667,
+      "longitude": 70.5
+    },
+    {
+      "id": 1537254,
+      "name": "Zhezkazgan Gorodskaya Administratsiya",
+      "nativeName": "Zhezkazgan Gorodskaya Administratsiya",
+      "code": "KZ-62-1537254",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-62",
+      "latitude": 48.07954,
+      "longitude": 67.94191
+    }
+  ]
+}

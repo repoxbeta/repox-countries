@@ -1,0 +1,106 @@
+{
+  "stateId": 7670913,
+  "stateCode": "MG-51",
+  "countryCode": "MG",
+  "cities": [
+    {
+      "id": 8693311,
+      "name": "Ampanihy District",
+      "nativeName": "Ampanihy District",
+      "code": "MG-51-8693311",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-51",
+      "latitude": -24.696,
+      "longitude": 44.746
+    },
+    {
+      "id": 8299295,
+      "name": "Ankazoabo District",
+      "nativeName": "Ankazoabo District",
+      "code": "MG-51-8299295",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-51",
+      "latitude": -22.18,
+      "longitude": 44.701
+    },
+    {
+      "id": 11072737,
+      "name": "Benenitra",
+      "nativeName": "Benenitra",
+      "code": "MG-51-11072737",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-51",
+      "latitude": -23.46563,
+      "longitude": 45.02016
+    },
+    {
+      "id": 8335352,
+      "name": "Beroroha District",
+      "nativeName": "Beroroha District",
+      "code": "MG-51-8335352",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-51",
+      "latitude": -21.514,
+      "longitude": 45.234
+    },
+    {
+      "id": 8693312,
+      "name": "Betioky District",
+      "nativeName": "Betioky District",
+      "code": "MG-51-8693312",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-51",
+      "latitude": -23.722,
+      "longitude": 44.3799
+    },
+    {
+      "id": 8299293,
+      "name": "Morombe District",
+      "nativeName": "Morombe District",
+      "code": "MG-51-8299293",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-51",
+      "latitude": -22.096,
+      "longitude": 43.774
+    },
+    {
+      "id": 8693310,
+      "name": "Sakaraha District",
+      "nativeName": "Sakaraha District",
+      "code": "MG-51-8693310",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-51",
+      "latitude": -22.91751,
+      "longitude": 44.52964
+    },
+    {
+      "id": 8299677,
+      "name": "Toliara I District",
+      "nativeName": "Toliara I District",
+      "code": "MG-51-8299677",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-51",
+      "latitude": -23.33162,
+      "longitude": 43.66559
+    },
+    {
+      "id": 8299676,
+      "name": "Toliara II District",
+      "nativeName": "Toliara II District",
+      "code": "MG-51-8299676",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-51",
+      "latitude": -23.036,
+      "longitude": 43.815
+    }
+  ]
+}

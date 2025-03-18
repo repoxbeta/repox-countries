@@ -1,0 +1,62 @@
+{
+  "stateId": 7603257,
+  "stateCode": "TD-SI",
+  "countryCode": "TD",
+  "cities": [
+    {
+      "id": 12186513,
+      "name": "Adé",
+      "nativeName": "Adé",
+      "code": "TD-SI-12186513",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-SI",
+      "latitude": 12.45615,
+      "longitude": 22.24073
+    },
+    {
+      "id": 12186547,
+      "name": "Djourf-Al-Ahmar",
+      "nativeName": "Djourf-Al-Ahmar",
+      "code": "TD-SI-12186547",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-SI",
+      "latitude": 12.6438,
+      "longitude": 20.55689
+    },
+    {
+      "id": 12186504,
+      "name": "Kimiti",
+      "nativeName": "Kimiti",
+      "code": "TD-SI-12186504",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-SI",
+      "latitude": 12.0101,
+      "longitude": 21.35168
+    },
+    {
+      "id": 12186514,
+      "name": "Koukou-Angarana",
+      "nativeName": "Koukou-Angarana",
+      "code": "TD-SI-12186514",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-SI",
+      "latitude": 11.99663,
+      "longitude": 21.69174
+    },
+    {
+      "id": 12186505,
+      "name": "Tissi",
+      "nativeName": "Tissi",
+      "code": "TD-SI-12186505",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-SI",
+      "latitude": 11.11128,
+      "longitude": 22.78111
+    }
+  ]
+}

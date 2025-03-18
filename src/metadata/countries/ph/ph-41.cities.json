@@ -1,0 +1,62 @@
+{
+  "stateId": 7521296,
+  "stateCode": "PH-41",
+  "countryCode": "PH",
+  "cities": [
+    {
+      "id": 1699586,
+      "name": "Occidental Mindoro",
+      "nativeName": "Occidental Mindoro",
+      "code": "PH-41-1699586",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-41",
+      "latitude": 13,
+      "longitude": 120.91667
+    },
+    {
+      "id": 1699585,
+      "name": "Oriental Mindoro",
+      "nativeName": "Oriental Mindoro",
+      "code": "PH-41-1699585",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-41",
+      "latitude": 13.15555,
+      "longitude": 121.26803
+    },
+    {
+      "id": 1700902,
+      "name": "Province of Marinduque",
+      "nativeName": "Province of Marinduque",
+      "code": "PH-41-1700902",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-41",
+      "latitude": 13.41667,
+      "longitude": 121.95
+    },
+    {
+      "id": 1696177,
+      "name": "Province of Palawan",
+      "nativeName": "Province of Palawan",
+      "code": "PH-41-1696177",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-41",
+      "latitude": 10,
+      "longitude": 118.75
+    },
+    {
+      "id": 1691537,
+      "name": "Province of Romblon",
+      "nativeName": "Province of Romblon",
+      "code": "PH-41-1691537",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-41",
+      "latitude": 12.55499,
+      "longitude": 122.28206
+    }
+  ]
+}

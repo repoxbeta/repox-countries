@@ -1,0 +1,73 @@
+{
+  "stateId": 2098593,
+  "stateCode": "PG-CPK",
+  "countryCode": "PG",
+  "cities": [
+    {
+      "id": 2098576,
+      "name": "Chuave District",
+      "nativeName": "Chuave",
+      "code": "PG-CPK-2098576",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-CPK",
+      "latitude": -6.16667,
+      "longitude": 145.08333
+    },
+    {
+      "id": 2096611,
+      "name": "Gumine District",
+      "nativeName": "Gumine",
+      "code": "PG-CPK-2096611",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-CPK",
+      "latitude": -6.25,
+      "longitude": 144.88333
+    },
+    {
+      "id": 2094554,
+      "name": "Karimui District",
+      "nativeName": "Karimui Nomane",
+      "code": "PG-CPK-2094554",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-CPK",
+      "latitude": -6.58333,
+      "longitude": 144.83333
+    },
+    {
+      "id": 2094124,
+      "name": "Kerowagi District",
+      "nativeName": "Kerowagi",
+      "code": "PG-CPK-2094124",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-CPK",
+      "latitude": -5.93333,
+      "longitude": 144.88333
+    },
+    {
+      "id": 8657200,
+      "name": "Kundiawa-Gembogl District",
+      "nativeName": "Kundiawa",
+      "code": "PG-CPK-8657200",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-CPK",
+      "latitude": -5.91667,
+      "longitude": 145.05
+    },
+    {
+      "id": 8657204,
+      "name": "Sinasina Yonggamugl District",
+      "nativeName": "Sinasina Yonggamugl",
+      "code": "PG-CPK-8657204",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-CPK",
+      "latitude": -6.08333,
+      "longitude": 145.01667
+    }
+  ]
+}

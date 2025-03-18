@@ -1,0 +1,73 @@
+{
+  "stateId": 71532,
+  "stateCode": "YE-RA",
+  "countryCode": "YE",
+  "cities": [
+    {
+      "id": 6940635,
+      "name": "Al Jabin District",
+      "nativeName": "Al Jabin",
+      "code": "YE-RA-6940635",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-RA",
+      "latitude": 14.6899,
+      "longitude": 43.6196
+    },
+    {
+      "id": 6940636,
+      "name": "Al Jafariyah District",
+      "nativeName": "Al Jafariyah",
+      "code": "YE-RA-6940636",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-RA",
+      "latitude": 14.5196,
+      "longitude": 43.5817
+    },
+    {
+      "id": 6940638,
+      "name": "As Salafiyah District",
+      "nativeName": "As Salafiyah",
+      "code": "YE-RA-6940638",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-RA",
+      "latitude": 14.6866,
+      "longitude": 43.8216
+    },
+    {
+      "id": 6940882,
+      "name": "Bilad At Ta'am District",
+      "nativeName": "Bilad At Ta'am",
+      "code": "YE-RA-6940882",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-RA",
+      "latitude": 14.8382,
+      "longitude": 43.6078
+    },
+    {
+      "id": 6940637,
+      "name": "Kusmah District",
+      "nativeName": "Kusmah",
+      "code": "YE-RA-6940637",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-RA",
+      "latitude": 14.5474,
+      "longitude": 43.6833
+    },
+    {
+      "id": 6940883,
+      "name": "Mazhar District",
+      "nativeName": "Mazhar",
+      "code": "YE-RA-6940883",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-RA",
+      "latitude": 14.5709,
+      "longitude": 43.7607
+    }
+  ]
+}

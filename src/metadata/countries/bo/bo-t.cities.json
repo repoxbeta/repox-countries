@@ -1,0 +1,73 @@
+{
+  "stateId": 3903319,
+  "stateCode": "BO-T",
+  "countryCode": "BO",
+  "cities": [
+    {
+      "id": 3923749,
+      "name": "Aniceto Arce",
+      "nativeName": "Provincia Arce",
+      "code": "BO-T-3923749",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-T",
+      "latitude": -22.19478,
+      "longitude": -64.39518
+    },
+    {
+      "id": 3923512,
+      "name": "Aviles",
+      "nativeName": "Provincia Avilés",
+      "code": "BO-T-3923512",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-T",
+      "latitude": -21.80722,
+      "longitude": -65.07871
+    },
+    {
+      "id": 3909412,
+      "name": "Burnet O'Connor",
+      "nativeName": "Provincia O’Connor",
+      "code": "BO-T-3909412",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-T",
+      "latitude": -21.43153,
+      "longitude": -64.09733
+    },
+    {
+      "id": 3921628,
+      "name": "Cercado",
+      "nativeName": "Cercado",
+      "code": "BO-T-3921628",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-T",
+      "latitude": -21.48963,
+      "longitude": -64.54585
+    },
+    {
+      "id": 3915555,
+      "name": "Gran Chaco",
+      "nativeName": "Provincia Gran Chaco",
+      "code": "BO-T-3915555",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-T",
+      "latitude": -21.54298,
+      "longitude": -63.10495
+    },
+    {
+      "id": 3910499,
+      "name": "Méndez",
+      "nativeName": "Provincia Méndez",
+      "code": "BO-T-3910499",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-T",
+      "latitude": -21.31659,
+      "longitude": -64.8998
+    }
+  ]
+}

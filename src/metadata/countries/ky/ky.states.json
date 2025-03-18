@@ -1,0 +1,72 @@
+{
+  "countryId": 3580718,
+  "countryCode": "KY",
+  "states": [
+    {
+      "id": 10375969,
+      "name": "Bodden Town",
+      "nativeName": "Bodden Town",
+      "code": "KY-10375969",
+      "internalCode": "",
+      "countryId": 3580718,
+      "countryCode": "KY",
+      "latitude": 19.2821,
+      "longitude": -81.25797
+    },
+    {
+      "id": 10375971,
+      "name": "East End",
+      "nativeName": "East End",
+      "code": "KY-10375971",
+      "internalCode": "",
+      "countryId": 3580718,
+      "countryCode": "KY",
+      "latitude": 19.29976,
+      "longitude": -81.11052
+    },
+    {
+      "id": 10346796,
+      "name": "George Town",
+      "nativeName": "George Town",
+      "code": "KY-10346796",
+      "internalCode": "",
+      "countryId": 3580718,
+      "countryCode": "KY",
+      "latitude": 19.28908,
+      "longitude": -81.36981
+    },
+    {
+      "id": 10375970,
+      "name": "North Side",
+      "nativeName": "North Side",
+      "code": "KY-10375970",
+      "internalCode": "",
+      "countryId": 3580718,
+      "countryCode": "KY",
+      "latitude": 19.34824,
+      "longitude": -81.20849
+    },
+    {
+      "id": 10375972,
+      "name": "Sister Island",
+      "nativeName": "Sister Island",
+      "code": "KY-10375972",
+      "internalCode": "",
+      "countryId": 3580718,
+      "countryCode": "KY",
+      "latitude": 19.72195,
+      "longitude": -79.78958
+    },
+    {
+      "id": 10375968,
+      "name": "West Bay",
+      "nativeName": "West Bay",
+      "code": "KY-10375968",
+      "internalCode": "",
+      "countryId": 3580718,
+      "countryCode": "KY",
+      "latitude": 19.38039,
+      "longitude": -81.38869
+    }
+  ]
+}

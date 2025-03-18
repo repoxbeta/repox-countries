@@ -1,0 +1,51 @@
+{
+  "stateId": 3371208,
+  "stateCode": "NA-OT",
+  "countryCode": "NA",
+  "cities": [
+    {
+      "id": 11257350,
+      "name": "Eengodi",
+      "nativeName": "Eengodi",
+      "code": "NA-OT-11257350",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "stateCode": "NA-OT",
+      "latitude": -18.22,
+      "longitude": 17.25861
+    },
+    {
+      "id": 11204947,
+      "name": "Olukonda Constituency",
+      "nativeName": "Olukonda Constituency",
+      "code": "NA-OT-11204947",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "stateCode": "NA-OT",
+      "latitude": -17.98333,
+      "longitude": 16.01667
+    },
+    {
+      "id": 11205505,
+      "name": "Omuntele Constituency",
+      "nativeName": "Omuntele Constituency",
+      "code": "NA-OT-11205505",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "stateCode": "NA-OT",
+      "latitude": -18.2333,
+      "longitude": 16.2333
+    },
+    {
+      "id": 11467812,
+      "name": "Onayena",
+      "nativeName": "Onayena",
+      "code": "NA-OT-11467812",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "stateCode": "NA-OT",
+      "latitude": -17.9496,
+      "longitude": 16.1916
+    }
+  ]
+}

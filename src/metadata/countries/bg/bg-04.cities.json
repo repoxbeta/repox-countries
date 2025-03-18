@@ -1,0 +1,117 @@
+{
+  "stateId": 864561,
+  "stateCode": "BG-04",
+  "countryCode": "BG",
+  "cities": [
+    {
+      "id": 731695,
+      "name": "Elena",
+      "nativeName": "Obshtina Elena",
+      "code": "BG-04-731695",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-04",
+      "latitude": 42.91667,
+      "longitude": 25.95
+    },
+    {
+      "id": 731232,
+      "name": "Gorna Oryahovitsa",
+      "nativeName": "Obshtina Gorna Oryahovitsa",
+      "code": "BG-04-731232",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-04",
+      "latitude": 43.21667,
+      "longitude": 25.75
+    },
+    {
+      "id": 729488,
+      "name": "Lyaskovets",
+      "nativeName": "Obshtina Lyaskovets",
+      "code": "BG-04-729488",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-04",
+      "latitude": 43.13333,
+      "longitude": 25.85
+    },
+    {
+      "id": 728384,
+      "name": "Pavlikeni",
+      "nativeName": "Obshtina Pavlikeni",
+      "code": "BG-04-728384",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-04",
+      "latitude": 43.28333,
+      "longitude": 25.35
+    },
+    {
+      "id": 728123,
+      "name": "Polski Trambesh",
+      "nativeName": "Obshtina Polski Trambesh",
+      "code": "BG-04-728123",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-04",
+      "latitude": 43.35,
+      "longitude": 25.58333
+    },
+    {
+      "id": 726725,
+      "name": "Strazhitsa",
+      "nativeName": "Obshtina Strazhitsa",
+      "code": "BG-04-726725",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-04",
+      "latitude": 43.26667,
+      "longitude": 25.98333
+    },
+    {
+      "id": 726642,
+      "name": "Suhindol",
+      "nativeName": "Obshtina Suhindol",
+      "code": "BG-04-726642",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-04",
+      "latitude": 43.16667,
+      "longitude": 25.2
+    },
+    {
+      "id": 726533,
+      "name": "Svishtov",
+      "nativeName": "Obshtina Svishtov",
+      "code": "BG-04-726533",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-04",
+      "latitude": 43.53333,
+      "longitude": 25.35
+    },
+    {
+      "id": 725992,
+      "name": "Veliko Tarnovo",
+      "nativeName": "Obshtina Veliko Tŭrnovo",
+      "code": "BG-04-725992",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-04",
+      "latitude": 43.08241,
+      "longitude": 25.63202
+    },
+    {
+      "id": 725293,
+      "name": "Zlataritsa",
+      "nativeName": "Obshtina Zlataritsa",
+      "code": "BG-04-725293",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-04",
+      "latitude": 43.06667,
+      "longitude": 25.98333
+    }
+  ]
+}

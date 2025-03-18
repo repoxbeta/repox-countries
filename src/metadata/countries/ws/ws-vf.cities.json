@@ -1,0 +1,40 @@
+{
+  "stateId": 4034943,
+  "stateCode": "WS-VF",
+  "countryCode": "WS",
+  "cities": [
+    {
+      "id": 4035078,
+      "name": "Samamea",
+      "nativeName": "Samamea",
+      "code": "WS-VF-4035078",
+      "countryId": 4034894,
+      "countryCode": "WS",
+      "stateCode": "WS-VF",
+      "latitude": -13.93375,
+      "longitude": -171.53122
+    },
+    {
+      "id": 4035185,
+      "name": "Musumusu",
+      "nativeName": "Musumusu",
+      "code": "WS-VF-4035185",
+      "countryId": 4034894,
+      "countryCode": "WS",
+      "stateCode": "WS-VF",
+      "latitude": -13.9303,
+      "longitude": -171.55875
+    },
+    {
+      "id": 4034962,
+      "name": "Uafato",
+      "nativeName": "Uafato",
+      "code": "WS-VF-4034962",
+      "countryId": 4034894,
+      "countryCode": "WS",
+      "stateCode": "WS-VF",
+      "latitude": -13.95202,
+      "longitude": -171.5154
+    }
+  ]
+}

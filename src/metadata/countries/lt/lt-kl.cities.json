@@ -1,0 +1,84 @@
+{
+  "stateId": 864478,
+  "stateCode": "LT-KL",
+  "countryCode": "LT",
+  "cities": [
+    {
+      "id": 598099,
+      "name": "Klaipėda City Municipality",
+      "nativeName": "Klaipėda",
+      "code": "LT-KL-598099",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-KL",
+      "latitude": 55.71667,
+      "longitude": 21.11667
+    },
+    {
+      "id": 598095,
+      "name": "Klaipėda District Municipality",
+      "nativeName": "Klaipėdos rajonas",
+      "code": "LT-KL-598095",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-KL",
+      "latitude": 55.71667,
+      "longitude": 21.4
+    },
+    {
+      "id": 864494,
+      "name": "Kretinga District Municipality",
+      "nativeName": "Kretinga",
+      "code": "LT-KL-864494",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-KL",
+      "latitude": 55.88333,
+      "longitude": 21.25
+    },
+    {
+      "id": 596644,
+      "name": "Neringa Municipality",
+      "nativeName": "Neringa",
+      "code": "LT-KL-596644",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-KL",
+      "latitude": 55.36667,
+      "longitude": 21.06667
+    },
+    {
+      "id": 596240,
+      "name": "Palanga City Municipality",
+      "nativeName": "Palanga",
+      "code": "LT-KL-596240",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-KL",
+      "latitude": 55.91667,
+      "longitude": 21.05
+    },
+    {
+      "id": 864495,
+      "name": "Skuodas District Municipality",
+      "nativeName": "Skuodas",
+      "code": "LT-KL-864495",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-KL",
+      "latitude": 56.26667,
+      "longitude": 21.53333
+    },
+    {
+      "id": 864496,
+      "name": "Šilutė District Municipality",
+      "nativeName": "Šilutė",
+      "code": "LT-KL-864496",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-KL",
+      "latitude": 55.35,
+      "longitude": 21.48333
+    }
+  ]
+}

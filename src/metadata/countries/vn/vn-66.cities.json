@@ -1,0 +1,117 @@
+{
+  "stateId": 1905699,
+  "stateCode": "VN-66",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 11497333,
+      "name": "Huyện Văn Giang",
+      "nativeName": "Huyện Văn Giang",
+      "code": "VN-66-11497333",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-66",
+      "latitude": 20.94299,
+      "longitude": 105.96279
+    },
+    {
+      "id": 11497489,
+      "name": "Huyện Văn Lâm",
+      "nativeName": "Huyện Văn Lâm",
+      "code": "VN-66-11497489",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-66",
+      "latitude": 20.97546,
+      "longitude": 106.03163
+    },
+    {
+      "id": 11497334,
+      "name": "Huyện Yên Mỹ",
+      "nativeName": "Huyện Yên Mỹ",
+      "code": "VN-66-11497334",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-66",
+      "latitude": 20.91124,
+      "longitude": 106.0239
+    },
+    {
+      "id": 1905704,
+      "name": "Khoái Châu District",
+      "nativeName": "Huyện Khoái Châu",
+      "code": "VN-66-1905704",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-66",
+      "latitude": 20.8217,
+      "longitude": 105.97455
+    },
+    {
+      "id": 1905701,
+      "name": "Kim Động District",
+      "nativeName": "Huyện Kim Động",
+      "code": "VN-66-1905701",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-66",
+      "latitude": 20.74645,
+      "longitude": 106.03632
+    },
+    {
+      "id": 1905705,
+      "name": "Mỹ Hào District",
+      "nativeName": "Huyện Mỹ Hào",
+      "code": "VN-66-1905705",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-66",
+      "latitude": 20.9321,
+      "longitude": 106.1063
+    },
+    {
+      "id": 1905702,
+      "name": "Phù Cừ District",
+      "nativeName": "Huyện Phù Cừ",
+      "code": "VN-66-1905702",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-66",
+      "latitude": 20.70997,
+      "longitude": 106.19744
+    },
+    {
+      "id": 1905854,
+      "name": "Thành Phố Hưng Yên",
+      "nativeName": "Thành Phố Hưng Yên",
+      "code": "VN-66-1905854",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-66",
+      "latitude": 20.65693,
+      "longitude": 106.05953
+    },
+    {
+      "id": 1905700,
+      "name": "Tiên Lữ District",
+      "nativeName": "Huyện Tiên Lữ",
+      "code": "VN-66-1905700",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-66",
+      "latitude": 20.6849,
+      "longitude": 106.12513
+    },
+    {
+      "id": 1905703,
+      "name": "Ân Thi District",
+      "nativeName": "Huyện Ân Thi",
+      "code": "VN-66-1905703",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-66",
+      "latitude": 20.81086,
+      "longitude": 106.09995
+    }
+  ]
+}

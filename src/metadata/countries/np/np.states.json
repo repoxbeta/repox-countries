@@ -1,0 +1,83 @@
+{
+  "countryId": 1282988,
+  "countryCode": "NP",
+  "states": [
+    {
+      "id": 12095449,
+      "name": "Bagmati Province",
+      "nativeName": "Bagmati Province",
+      "code": "NP-P3",
+      "internalCode": "P3",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "latitude": 27.65249,
+      "longitude": 85.39536
+    },
+    {
+      "id": 12095450,
+      "name": "Gandaki Pradesh",
+      "nativeName": "Gandaki Pradesh",
+      "code": "NP-P4",
+      "internalCode": "P4",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "latitude": 28.38431,
+      "longitude": 84.03806
+    },
+    {
+      "id": 12095452,
+      "name": "Karnali Pradesh",
+      "nativeName": "Karnali Province",
+      "code": "NP-P6",
+      "internalCode": "P6",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "latitude": 29.29913,
+      "longitude": 82.4769
+    },
+    {
+      "id": 12095447,
+      "name": "Koshi",
+      "nativeName": "Koshi",
+      "code": "NP-P1",
+      "internalCode": "P1",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "latitude": 27.23006,
+      "longitude": 87.18018
+    },
+    {
+      "id": 12095451,
+      "name": "Lumbini Province",
+      "nativeName": "Lumbini Province",
+      "code": "NP-P5",
+      "internalCode": "P5",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "latitude": 28.09952,
+      "longitude": 82.524
+    },
+    {
+      "id": 12095448,
+      "name": "Madhesh",
+      "nativeName": "Madhesh",
+      "code": "NP-P2",
+      "internalCode": "P2",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "latitude": 26.94242,
+      "longitude": 85.61
+    },
+    {
+      "id": 12095453,
+      "name": "Sudurpashchim Pradesh",
+      "nativeName": "Sudurpashchim Pradesh",
+      "code": "NP-P7",
+      "internalCode": "P7",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "latitude": 29.32055,
+      "longitude": 80.92063
+    }
+  ]
+}

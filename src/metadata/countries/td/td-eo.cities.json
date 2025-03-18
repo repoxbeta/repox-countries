@@ -1,0 +1,62 @@
+{
+  "stateId": 8604857,
+  "stateCode": "TD-EO",
+  "countryCode": "TD",
+  "cities": [
+    {
+      "id": 12186856,
+      "name": "Fada",
+      "nativeName": "Fada",
+      "code": "TD-EO-12186856",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-EO",
+      "latitude": 17.15212,
+      "longitude": 21.4996
+    },
+    {
+      "id": 12186858,
+      "name": "Lac-Ounianga",
+      "nativeName": "Lac-Ounianga",
+      "code": "TD-EO-12186858",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-EO",
+      "latitude": 18.99986,
+      "longitude": 20.67433
+    },
+    {
+      "id": 12186857,
+      "name": "Mourtcha",
+      "nativeName": "Mourtcha",
+      "code": "TD-EO-12186857",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-EO",
+      "latitude": 15.94391,
+      "longitude": 20.85132
+    },
+    {
+      "id": 12186860,
+      "name": "Tebi",
+      "nativeName": "Tebi",
+      "code": "TD-EO-12186860",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-EO",
+      "latitude": 17.11418,
+      "longitude": 21.97198
+    },
+    {
+      "id": 12186861,
+      "name": "Torbol",
+      "nativeName": "Torbol",
+      "code": "TD-EO-12186861",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-EO",
+      "latitude": 15.99752,
+      "longitude": 21.71246
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "stateId": 8521658,
+  "stateCode": "PG-HLA",
+  "countryCode": "PG",
+  "cities": [
+    {
+      "id": 8657216,
+      "name": "Komo Margarima",
+      "nativeName": "Komo Margarima",
+      "code": "PG-HLA-8657216",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-HLA",
+      "latitude": -6.11667,
+      "longitude": 143
+    },
+    {
+      "id": 8657201,
+      "name": "Koroba-Lake Kopiago District",
+      "nativeName": "Koroba-Lake Kopiago",
+      "code": "PG-HLA-8657201",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-HLA",
+      "latitude": -5.41667,
+      "longitude": 142.5
+    },
+    {
+      "id": 2085770,
+      "name": "Tari Pori District",
+      "nativeName": "Tari Pori",
+      "code": "PG-HLA-2085770",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-HLA",
+      "latitude": -6.28333,
+      "longitude": 142.83333
+    }
+  ]
+}

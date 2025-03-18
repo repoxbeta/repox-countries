@@ -1,0 +1,95 @@
+{
+  "stateId": 729560,
+  "stateCode": "BG-11",
+  "countryCode": "BG",
+  "cities": [
+    {
+      "id": 733648,
+      "name": "Apriltsi",
+      "nativeName": "Obshtina Apriltsi",
+      "code": "BG-11-733648",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-11",
+      "latitude": 42.83333,
+      "longitude": 24.91667
+    },
+    {
+      "id": 729645,
+      "name": "Letnitsa",
+      "nativeName": "Obshtina Letnitsa",
+      "code": "BG-11-729645",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-11",
+      "latitude": 43.28333,
+      "longitude": 25.08333
+    },
+    {
+      "id": 729558,
+      "name": "Lovech",
+      "nativeName": "Obshtina Lovech",
+      "code": "BG-11-729558",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-11",
+      "latitude": 43.16667,
+      "longitude": 24.8
+    },
+    {
+      "id": 729506,
+      "name": "Lukovit",
+      "nativeName": "Obshtina Lukovit",
+      "code": "BG-11-729506",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-11",
+      "latitude": 43.18333,
+      "longitude": 24.25
+    },
+    {
+      "id": 726463,
+      "name": "Teteven",
+      "nativeName": "Obshtina Teteven",
+      "code": "BG-11-726463",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-11",
+      "latitude": 42.91667,
+      "longitude": 24.26667
+    },
+    {
+      "id": 726319,
+      "name": "Troyan",
+      "nativeName": "Obshtina Troyan",
+      "code": "BG-11-726319",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-11",
+      "latitude": 42.88333,
+      "longitude": 24.71667
+    },
+    {
+      "id": 726113,
+      "name": "Ugarchin",
+      "nativeName": "Obshtina Ugarchin",
+      "code": "BG-11-726113",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-11",
+      "latitude": 43.1,
+      "longitude": 24.41667
+    },
+    {
+      "id": 725608,
+      "name": "Yablanitsa",
+      "nativeName": "Obshtina Yablanitsa",
+      "code": "BG-11-725608",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-11",
+      "latitude": 43.06667,
+      "longitude": 24.13333
+    }
+  ]
+}

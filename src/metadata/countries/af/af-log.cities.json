@@ -1,0 +1,84 @@
+{
+  "stateId": 1134561,
+  "stateCode": "AF-LOG",
+  "countryCode": "AF",
+  "cities": [
+    {
+      "id": 7053255,
+      "name": "Azra District",
+      "nativeName": "Azrah",
+      "code": "AF-LOG-7053255",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-LOG",
+      "latitude": 34.10904,
+      "longitude": 69.6245
+    },
+    {
+      "id": 7053256,
+      "name": "Barakī Barak  District",
+      "nativeName": "Barakī Barak",
+      "code": "AF-LOG-7053256",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-LOG",
+      "latitude": 33.92991,
+      "longitude": 68.88523
+    },
+    {
+      "id": 7053257,
+      "name": "Charkh District",
+      "nativeName": "Charkh",
+      "code": "AF-LOG-7053257",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-LOG",
+      "latitude": 33.81594,
+      "longitude": 68.91962
+    },
+    {
+      "id": 7053258,
+      "name": "Kharwar District",
+      "nativeName": "Kharwār",
+      "code": "AF-LOG-7053258",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-LOG",
+      "latitude": 33.69495,
+      "longitude": 68.8928
+    },
+    {
+      "id": 7053259,
+      "name": "Khoshi District",
+      "nativeName": "Khōshī",
+      "code": "AF-LOG-7053259",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-LOG",
+      "latitude": 34.00126,
+      "longitude": 69.27482
+    },
+    {
+      "id": 7053260,
+      "name": "Muḩammad Āghah District",
+      "nativeName": "Muḩammad Āghah",
+      "code": "AF-LOG-7053260",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-LOG",
+      "latitude": 34.20968,
+      "longitude": 69.17959
+    },
+    {
+      "id": 7053261,
+      "name": "Pul-i-Alam",
+      "nativeName": "Pul-e ‘Alam",
+      "code": "AF-LOG-7053261",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-LOG",
+      "latitude": 33.97229,
+      "longitude": 69.05348
+    }
+  ]
+}

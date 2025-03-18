@@ -1,0 +1,39 @@
+{
+  "countryId": 3578097,
+  "countryCode": "MS",
+  "states": [
+    {
+      "id": 3578045,
+      "name": "Parish of Saint Anthony",
+      "nativeName": "Parish of Saint Anthony",
+      "code": "MS-01",
+      "internalCode": "",
+      "countryId": 3578097,
+      "countryCode": "MS",
+      "latitude": 16.7,
+      "longitude": -62.2
+    },
+    {
+      "id": 3578044,
+      "name": "Parish of Saint Georges",
+      "nativeName": "Parish of Saint Georges",
+      "code": "MS-02",
+      "internalCode": "",
+      "countryId": 3578097,
+      "countryCode": "MS",
+      "latitude": 16.74432,
+      "longitude": -62.17161
+    },
+    {
+      "id": 3578039,
+      "name": "Parish of Saint Peter",
+      "nativeName": "Parish of Saint Peter",
+      "code": "MS-03",
+      "internalCode": "",
+      "countryId": 3578097,
+      "countryCode": "MS",
+      "latitude": 16.78333,
+      "longitude": -62.205
+    }
+  ]
+}

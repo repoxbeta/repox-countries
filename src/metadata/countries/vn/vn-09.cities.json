@@ -1,0 +1,128 @@
+{
+  "stateId": 1576632,
+  "stateCode": "VN-09",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 1905540,
+      "name": "Bình Gia District",
+      "nativeName": "Huyện Bình Gia",
+      "code": "VN-09-1905540",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-09",
+      "latitude": 22.07281,
+      "longitude": 106.3041
+    },
+    {
+      "id": 1905539,
+      "name": "Bắc Sơn District",
+      "nativeName": "Huyện Bắc Sơn",
+      "code": "VN-09-1905539",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-09",
+      "latitude": 21.83801,
+      "longitude": 106.2769
+    },
+    {
+      "id": 1905533,
+      "name": "Cao Lộc District",
+      "nativeName": "Huyện Cao Lộc",
+      "code": "VN-09-1905533",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-09",
+      "latitude": 21.90645,
+      "longitude": 106.83532
+    },
+    {
+      "id": 1905535,
+      "name": "Huyện Chi Lăng",
+      "nativeName": "Huyện Chi Lăng",
+      "code": "VN-09-1905535",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-09",
+      "latitude": 21.67602,
+      "longitude": 106.62925
+    },
+    {
+      "id": 1905538,
+      "name": "Hữu Lũng District",
+      "nativeName": "Huyện Hũu Lũng",
+      "code": "VN-09-1905538",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-09",
+      "latitude": 21.54474,
+      "longitude": 106.34386
+    },
+    {
+      "id": 1905536,
+      "name": "Lộc Bình District",
+      "nativeName": "Huyện Lộc Bình",
+      "code": "VN-09-1905536",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-09",
+      "latitude": 21.7076,
+      "longitude": 106.94387
+    },
+    {
+      "id": 1905531,
+      "name": "Thành Phố Lạng Sơn",
+      "nativeName": "Thành Phố Lạng Sơn",
+      "code": "VN-09-1905531",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-09",
+      "latitude": 21.8543,
+      "longitude": 106.74958
+    },
+    {
+      "id": 1905541,
+      "name": "Tràng Định District",
+      "nativeName": "Huyện Tràng Định",
+      "code": "VN-09-1905541",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-09",
+      "latitude": 22.28795,
+      "longitude": 106.44418
+    },
+    {
+      "id": 1905532,
+      "name": "Văn Lãng District",
+      "nativeName": "Huyện Văn Lãng",
+      "code": "VN-09-1905532",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-09",
+      "latitude": 22.06146,
+      "longitude": 106.59078
+    },
+    {
+      "id": 1905534,
+      "name": "Văn Quan District",
+      "nativeName": "Huyện Vặn Quan",
+      "code": "VN-09-1905534",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-09",
+      "latitude": 21.83333,
+      "longitude": 106.54942
+    },
+    {
+      "id": 1905537,
+      "name": "Đình Lập District Huyện Đình Lập",
+      "nativeName": "Huyện Đình Lập",
+      "code": "VN-09-1905537",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-09",
+      "latitude": 21.5421,
+      "longitude": 107.12925
+    }
+  ]
+}

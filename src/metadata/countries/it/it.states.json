@@ -1,0 +1,226 @@
+{
+  "countryId": 3175395,
+  "countryCode": "IT",
+  "states": [
+    {
+      "id": 3183560,
+      "name": "Abruzzo",
+      "nativeName": "Abruzzo",
+      "code": "IT-65",
+      "internalCode": "65",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "latitude": 42.25,
+      "longitude": 13.75
+    },
+    {
+      "id": 3164857,
+      "name": "Aosta Valley",
+      "nativeName": "Regione Autonoma Valle d'Aosta",
+      "code": "IT-23",
+      "internalCode": "23",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "latitude": 45.75,
+      "longitude": 7.25
+    },
+    {
+      "id": 3169778,
+      "name": "Apulia",
+      "nativeName": "Puglia",
+      "code": "IT-75",
+      "internalCode": "75",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "latitude": 41.00164,
+      "longitude": 16.73378
+    },
+    {
+      "id": 3182306,
+      "name": "Basilicate",
+      "nativeName": "Basilicata",
+      "code": "IT-77",
+      "internalCode": "77",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "latitude": 40.5041,
+      "longitude": 16.11396
+    },
+    {
+      "id": 2525468,
+      "name": "Calabria",
+      "nativeName": "Calabria",
+      "code": "IT-78",
+      "internalCode": "78",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "latitude": 39,
+      "longitude": 16.5
+    },
+    {
+      "id": 3181042,
+      "name": "Campania",
+      "nativeName": "Campania",
+      "code": "IT-72",
+      "internalCode": "72",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "latitude": 40.91056,
+      "longitude": 14.92053
+    },
+    {
+      "id": 3177401,
+      "name": "Emilia-Romagna",
+      "nativeName": "Emilia-Romagna",
+      "code": "IT-45",
+      "internalCode": "45",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "latitude": 44.5444,
+      "longitude": 10.98361
+    },
+    {
+      "id": 3176525,
+      "name": "Friuli Venezia Giulia",
+      "nativeName": "Friuli Venezia Giulia",
+      "code": "IT-36",
+      "internalCode": "36",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "latitude": 46,
+      "longitude": 13
+    },
+    {
+      "id": 3174976,
+      "name": "Lazio",
+      "nativeName": "Lazio",
+      "code": "IT-62",
+      "internalCode": "62",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "latitude": 42.07762,
+      "longitude": 12.77878
+    },
+    {
+      "id": 3174725,
+      "name": "Liguria",
+      "nativeName": "Liguria",
+      "code": "IT-42",
+      "internalCode": "42",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "latitude": 44.5,
+      "longitude": 8.83333
+    },
+    {
+      "id": 3174618,
+      "name": "Lombardy",
+      "nativeName": "Lombardia",
+      "code": "IT-25",
+      "internalCode": "25",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "latitude": 45.66667,
+      "longitude": 9.5
+    },
+    {
+      "id": 3173222,
+      "name": "Molise",
+      "nativeName": "Molise",
+      "code": "IT-67",
+      "internalCode": "67",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "latitude": 41.66667,
+      "longitude": 14.5
+    },
+    {
+      "id": 3170831,
+      "name": "Piedmont",
+      "nativeName": "Piemonte",
+      "code": "IT-21",
+      "internalCode": "21",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "latitude": 45,
+      "longitude": 8
+    },
+    {
+      "id": 2523228,
+      "name": "Sardinia",
+      "nativeName": "Sardegna",
+      "code": "IT-88",
+      "internalCode": "88",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "latitude": 40,
+      "longitude": 9
+    },
+    {
+      "id": 2523119,
+      "name": "Sicily",
+      "nativeName": "Sicilia",
+      "code": "IT-82",
+      "internalCode": "82",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "latitude": 37.75,
+      "longitude": 14.25
+    },
+    {
+      "id": 3174004,
+      "name": "The Marches",
+      "nativeName": "Marche",
+      "code": "IT-57",
+      "internalCode": "57",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "latitude": 43.5,
+      "longitude": 13.25
+    },
+    {
+      "id": 3165244,
+      "name": "Trentino-Alto Adige",
+      "nativeName": "Trentino-Alto Adige",
+      "code": "IT-32",
+      "internalCode": "32",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "latitude": 46.5,
+      "longitude": 11.33333
+    },
+    {
+      "id": 3165361,
+      "name": "Tuscany",
+      "nativeName": "Toscana",
+      "code": "IT-52",
+      "internalCode": "52",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "latitude": 43.41667,
+      "longitude": 11
+    },
+    {
+      "id": 3165048,
+      "name": "Umbria",
+      "nativeName": "Umbria",
+      "code": "IT-55",
+      "internalCode": "55",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "latitude": 43,
+      "longitude": 12.5
+    },
+    {
+      "id": 3164604,
+      "name": "Veneto",
+      "nativeName": "Veneto",
+      "code": "IT-34",
+      "internalCode": "34",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "latitude": 45.5,
+      "longitude": 11.75
+    }
+  ]
+}

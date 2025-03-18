@@ -1,0 +1,106 @@
+{
+  "stateId": 3837029,
+  "stateCode": "AR-D",
+  "countryCode": "AR",
+  "cities": [
+    {
+      "id": 3840260,
+      "name": "Coronel Pringles",
+      "nativeName": "Coronel Pringles",
+      "code": "AR-D-3840260",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-D",
+      "latitude": -33.08333,
+      "longitude": -65.83333
+    },
+    {
+      "id": 3865174,
+      "name": "Departamento de Ayacucho",
+      "nativeName": "Departamento de Ayacucho",
+      "code": "AR-D-3865174",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-D",
+      "latitude": -32.16667,
+      "longitude": -66.58333
+    },
+    {
+      "id": 3864411,
+      "name": "Departamento de Belgrano",
+      "nativeName": "Departamento de Belgrano",
+      "code": "AR-D-3864411",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-D",
+      "latitude": -32.75,
+      "longitude": -66.75
+    },
+    {
+      "id": 3861949,
+      "name": "Departamento de Chacabuco",
+      "nativeName": "Departamento de Chacabuco",
+      "code": "AR-D-3861949",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-D",
+      "latitude": -32.75,
+      "longitude": -65.25
+    },
+    {
+      "id": 3855076,
+      "name": "Departamento de General Pedernera",
+      "nativeName": "Departamento de General Pedernera",
+      "code": "AR-D-3855076",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-D",
+      "latitude": -33.83333,
+      "longitude": -65.58333
+    },
+    {
+      "id": 3854968,
+      "name": "Departamento de Gobernador Vicente Dupuy",
+      "nativeName": "Departamento de Gobernador Vicente Dupuy",
+      "code": "AR-D-3854968",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-D",
+      "latitude": -35.33333,
+      "longitude": -65.83333
+    },
+    {
+      "id": 3853353,
+      "name": "Departamento de Junín",
+      "nativeName": "Departamento de Junín",
+      "code": "AR-D-3853353",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-D",
+      "latitude": -32.25,
+      "longitude": -65.33333
+    },
+    {
+      "id": 3836983,
+      "name": "Departamento de Libertador General San Martín",
+      "nativeName": "Departamento de Libertador General San Martín",
+      "code": "AR-D-3836983",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-D",
+      "latitude": -32.66667,
+      "longitude": -65.66667
+    },
+    {
+      "id": 10231161,
+      "name": "Juan Martín de Pueyrredón",
+      "nativeName": "Juan Martín de Pueyrredón",
+      "code": "AR-D-10231161",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-D",
+      "latitude": -33.27544,
+      "longitude": -66.32017
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "stateId": 4036647,
+  "stateCode": "FJ-E",
+  "countryCode": "FJ",
+  "cities": [
+    {
+      "id": 8617786,
+      "name": "Kadavu",
+      "nativeName": "Kadavu Province",
+      "code": "FJ-E-8617786",
+      "countryId": 2205218,
+      "countryCode": "FJ",
+      "stateCode": "FJ-E",
+      "latitude": -18.99331,
+      "longitude": 178.22021
+    },
+    {
+      "id": 4036132,
+      "name": "Lau Province",
+      "nativeName": "Lau Province",
+      "code": "FJ-E-4036132",
+      "countryId": 2205218,
+      "countryCode": "FJ",
+      "stateCode": "FJ-E",
+      "latitude": -18.20488,
+      "longitude": -178.79251
+    },
+    {
+      "id": 2204318,
+      "name": "Lomaiviti Province",
+      "nativeName": "Lomaiviti Province",
+      "code": "FJ-E-2204318",
+      "countryId": 2205218,
+      "countryCode": "FJ",
+      "stateCode": "FJ-E",
+      "latitude": -17.66667,
+      "longitude": 178.8
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "stateId": 1657114,
+  "stateCode": "LA-HO",
+  "countryCode": "LA",
+  "cities": [
+    {
+      "id": 11550487,
+      "name": "Kuan",
+      "nativeName": "Kuan",
+      "code": "LA-HO-11550487",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-HO",
+      "latitude": 20.01735,
+      "longitude": 103.84419
+    },
+    {
+      "id": 7648343,
+      "name": "Muang Et",
+      "nativeName": "Muang Et",
+      "code": "LA-HO-7648343",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-HO",
+      "latitude": 20.71,
+      "longitude": 103.85
+    },
+    {
+      "id": 1657271,
+      "name": "Muang Hiam",
+      "nativeName": "Muang Hiam",
+      "code": "LA-HO-1657271",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-HO",
+      "latitude": 20.08333,
+      "longitude": 103.36667
+    },
+    {
+      "id": 1657120,
+      "name": "Muang Houamuang",
+      "nativeName": "Muang Houamuang",
+      "code": "LA-HO-1657120",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-HO",
+      "latitude": 20.06257,
+      "longitude": 103.84032
+    },
+    {
+      "id": 1904818,
+      "name": "Muang Viangxai",
+      "nativeName": "Muang Viangxai",
+      "code": "LA-HO-1904818",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-HO",
+      "latitude": 20.36113,
+      "longitude": 104.38887
+    },
+    {
+      "id": 1904817,
+      "name": "Muang Xam-Tai",
+      "nativeName": "Muang Xam-Tai",
+      "code": "LA-HO-1904817",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-HO",
+      "latitude": 19.93248,
+      "longitude": 104.54561
+    },
+    {
+      "id": 1652080,
+      "name": "Muang Xiengkhor",
+      "nativeName": "Muang Xiengkhor",
+      "code": "LA-HO-1652080",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-HO",
+      "latitude": 20.81667,
+      "longitude": 104.15
+    },
+    {
+      "id": 7648342,
+      "name": "Sopbao",
+      "nativeName": "Sopbao",
+      "code": "LA-HO-7648342",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-HO",
+      "latitude": 20.66,
+      "longitude": 104.38
+    },
+    {
+      "id": 11550486,
+      "name": "Viengxon",
+      "nativeName": "Viengxon",
+      "code": "LA-HO-11550486",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-HO",
+      "latitude": 20.76607,
+      "longitude": 104.10988
+    },
+    {
+      "id": 8948687,
+      "name": "Xam Neua",
+      "nativeName": "Xam Neua",
+      "code": "LA-HO-8948687",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-HO",
+      "latitude": 20.40764,
+      "longitude": 104.0656
+    }
+  ]
+}

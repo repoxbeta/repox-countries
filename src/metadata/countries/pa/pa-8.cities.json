@@ -1,0 +1,73 @@
+{
+  "stateId": 3703433,
+  "stateCode": "PA-8",
+  "countryCode": "PA",
+  "cities": [
+    {
+      "id": 3714424,
+      "name": "Balboa District",
+      "nativeName": "Distrito de Balboa",
+      "code": "PA-8-3714424",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-8",
+      "latitude": 8.46667,
+      "longitude": -79
+    },
+    {
+      "id": 3712502,
+      "name": "Chepo District",
+      "nativeName": "Distrito de Chepo",
+      "code": "PA-8-3712502",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-8",
+      "latitude": 9.17391,
+      "longitude": -78.70374
+    },
+    {
+      "id": 3712446,
+      "name": "Chimán District",
+      "nativeName": "Distrito de Chimán",
+      "code": "PA-8-3712446",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-8",
+      "latitude": 8.80252,
+      "longitude": -78.63686
+    },
+    {
+      "id": 3703439,
+      "name": "Panamá District",
+      "nativeName": "Distrito de Panamá",
+      "code": "PA-8-3703439",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-8",
+      "latitude": 9.24438,
+      "longitude": -79.4275
+    },
+    {
+      "id": 3701328,
+      "name": "San Miguelito District",
+      "nativeName": "Distrito de San Miguelito",
+      "code": "PA-8-3701328",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-8",
+      "latitude": 9.05657,
+      "longitude": -79.49343
+    },
+    {
+      "id": 3700799,
+      "name": "Taboga District",
+      "nativeName": "Distrito de Taboga",
+      "code": "PA-8-3700799",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-8",
+      "latitude": 8.78333,
+      "longitude": -79.55833
+    }
+  ]
+}

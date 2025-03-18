@@ -1,0 +1,51 @@
+{
+  "stateId": 2217350,
+  "stateCode": "LY-GT",
+  "countryCode": "LY",
+  "cities": [
+    {
+      "id": 2217351,
+      "name": "Ghat",
+      "nativeName": "Ghat",
+      "code": "LY-GT-2217351",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-GT",
+      "latitude": 24.96334,
+      "longitude": 10.18003
+    },
+    {
+      "id": 2220109,
+      "name": "Al Barakāt",
+      "nativeName": "Al Barakāt",
+      "code": "LY-GT-2220109",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-GT",
+      "latitude": 24.894,
+      "longitude": 10.18336
+    },
+    {
+      "id": 2219689,
+      "name": "Al ‘Awinat",
+      "nativeName": "Al ‘Awinat",
+      "code": "LY-GT-2219689",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-GT",
+      "latitude": 25.78123,
+      "longitude": 10.56133
+    },
+    {
+      "id": 11814599,
+      "name": "Faywīt",
+      "nativeName": "Faywīt",
+      "code": "LY-GT-11814599",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-GT",
+      "latitude": 24.95062,
+      "longitude": 10.08141
+    }
+  ]
+}

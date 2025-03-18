@@ -1,0 +1,260 @@
+{
+  "stateId": 128231,
+  "stateCode": "IR-08",
+  "countryCode": "IR",
+  "cities": [
+    {
+      "id": 449611,
+      "name": "Bam",
+      "nativeName": "Bam",
+      "code": "IR-08-449611",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-08",
+      "latitude": 29.06731,
+      "longitude": 58.204
+    },
+    {
+      "id": 9524452,
+      "name": "Fahraj",
+      "nativeName": "Fahraj",
+      "code": "IR-08-9524452",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-08",
+      "latitude": 29.09257,
+      "longitude": 59.14492
+    },
+    {
+      "id": 9524453,
+      "name": "Rīgān",
+      "nativeName": "Rīgān",
+      "code": "IR-08-9524453",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-08",
+      "latitude": 28.66855,
+      "longitude": 59.06163
+    },
+    {
+      "id": 9524445,
+      "name": "Shahrestān-e Anār",
+      "nativeName": "Shahrestān-e Anār",
+      "code": "IR-08-9524445",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-08",
+      "latitude": 30.84616,
+      "longitude": 55.29718
+    },
+    {
+      "id": 449610,
+      "name": "Shahrestān-e Bardsīr",
+      "nativeName": "Shahrestān-e Bardsīr",
+      "code": "IR-08-449610",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-08",
+      "latitude": 29.79442,
+      "longitude": 56.68365
+    },
+    {
+      "id": 449609,
+      "name": "Shahrestān-e Bāft",
+      "nativeName": "Shahrestān-e Bāft",
+      "code": "IR-08-449609",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-08",
+      "latitude": 29.01862,
+      "longitude": 56.47999
+    },
+    {
+      "id": 9524449,
+      "name": "Shahrestān-e Fāryāb",
+      "nativeName": "Shahrestān-e Fāryāb",
+      "code": "IR-08-9524449",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-08",
+      "latitude": 28.16904,
+      "longitude": 57.23266
+    },
+    {
+      "id": 449612,
+      "name": "Shahrestān-e Jīroft",
+      "nativeName": "Shahrestān-e Jīroft",
+      "code": "IR-08-449612",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-08",
+      "latitude": 28.7718,
+      "longitude": 57.50029
+    },
+    {
+      "id": 449620,
+      "name": "Shahrestān-e Kahnūj",
+      "nativeName": "Shahrestān-e Kahnūj",
+      "code": "IR-08-449620",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-08",
+      "latitude": 27.89013,
+      "longitude": 57.63829
+    },
+    {
+      "id": 449619,
+      "name": "Shahrestān-e Kermān",
+      "nativeName": "Shahrestān-e Kermān",
+      "code": "IR-08-449619",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-08",
+      "latitude": 30.32869,
+      "longitude": 58.13935
+    },
+    {
+      "id": 9524446,
+      "name": "Shahrestān-e Kūhbanān",
+      "nativeName": "Shahrestān-e Kūhbanān",
+      "code": "IR-08-9524446",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-08",
+      "latitude": 31.33631,
+      "longitude": 56.27288
+    },
+    {
+      "id": 449621,
+      "name": "Shahrestān-e Manūjān",
+      "nativeName": "Shahrestān-e Manūjān",
+      "code": "IR-08-449621",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-08",
+      "latitude": 27.34244,
+      "longitude": 57.64236
+    },
+    {
+      "id": 9524451,
+      "name": "Shahrestān-e Narmāshīr",
+      "nativeName": "Shahrestān-e Narmāshīr",
+      "code": "IR-08-9524451",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-08",
+      "latitude": 29.26667,
+      "longitude": 58.73333
+    },
+    {
+      "id": 9524448,
+      "name": "Shahrestān-e Orzū‘īyeh",
+      "nativeName": "Shahrestān-e Orzū‘īyeh",
+      "code": "IR-08-9524448",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-08",
+      "latitude": 28.42539,
+      "longitude": 56.50388
+    },
+    {
+      "id": 9524455,
+      "name": "Shahrestān-e Qal‘eh Ganj",
+      "nativeName": "Shahrestān-e Qal‘eh Ganj",
+      "code": "IR-08-9524455",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-08",
+      "latitude": 27.14558,
+      "longitude": 58.37823
+    },
+    {
+      "id": 449614,
+      "name": "Shahrestān-e Rafsanjān",
+      "nativeName": "Shahrestān-e Rafsanjān",
+      "code": "IR-08-449614",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-08",
+      "latitude": 30.52778,
+      "longitude": 55.89152
+    },
+    {
+      "id": 9524447,
+      "name": "Shahrestān-e Rābor",
+      "nativeName": "Shahrestān-e Rābor",
+      "code": "IR-08-9524447",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-08",
+      "latitude": 29.22644,
+      "longitude": 57.00576
+    },
+    {
+      "id": 449613,
+      "name": "Shahrestān-e Rāvar",
+      "nativeName": "Shahrestān-e Rāvar",
+      "code": "IR-08-449613",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-08",
+      "latitude": 31.32362,
+      "longitude": 57.13737
+    },
+    {
+      "id": 9524454,
+      "name": "Shahrestān-e Rūdbār-e Jonūbī",
+      "nativeName": "Shahrestān-e Rūdbār-e Jonūbī",
+      "code": "IR-08-9524454",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-08",
+      "latitude": 27.86845,
+      "longitude": 58.44458
+    },
+    {
+      "id": 449617,
+      "name": "Shahrestān-e Shahr-e Bābak",
+      "nativeName": "Shahrestān-e Shahr-e Bābak",
+      "code": "IR-08-449617",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-08",
+      "latitude": 30.21698,
+      "longitude": 54.99166
+    },
+    {
+      "id": 449618,
+      "name": "Shahrestān-e ‘Anbarābād",
+      "nativeName": "Shahrestān-e ‘Anbarābād",
+      "code": "IR-08-449618",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-08",
+      "latitude": 28.40435,
+      "longitude": 58.16304
+    },
+    {
+      "id": 66575,
+      "name": "Sirjan",
+      "nativeName": "Shahrestān-e Sīrjān",
+      "code": "IR-08-66575",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-08",
+      "latitude": 29.32391,
+      "longitude": 55.68239
+    },
+    {
+      "id": 449615,
+      "name": "Zarand",
+      "nativeName": "Zarand",
+      "code": "IR-08-449615",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-08",
+      "latitude": 30.85416,
+      "longitude": 56.29322
+    }
+  ]
+}

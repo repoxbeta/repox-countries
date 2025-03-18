@@ -1,0 +1,51 @@
+{
+  "stateId": 409421,
+  "stateCode": "AZ-XA",
+  "countryCode": "AZ",
+  "cities": [
+    {
+      "id": 388621,
+      "name": "Khanbagy",
+      "nativeName": "Khanbagy",
+      "code": "AZ-XA-388621",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-XA",
+      "latitude": 39.84375,
+      "longitude": 46.77272
+    },
+    {
+      "id": 146970,
+      "name": "Khankendi",
+      "nativeName": "Xankandi",
+      "code": "AZ-XA-146970",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-XA",
+      "latitude": 39.8177,
+      "longitude": 46.7528
+    },
+    {
+      "id": 147038,
+      "name": "Tukhnakal",
+      "nativeName": "Tukhnakal",
+      "code": "AZ-XA-147038",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-XA",
+      "latitude": 39.69014,
+      "longitude": 46.86986
+    },
+    {
+      "id": 147776,
+      "name": "Xocalı",
+      "nativeName": "Xocalı",
+      "code": "AZ-XA-147776",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-XA",
+      "latitude": 39.9,
+      "longitude": 46.86667
+    }
+  ]
+}

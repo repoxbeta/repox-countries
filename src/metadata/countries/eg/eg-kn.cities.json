@@ -1,0 +1,73 @@
+{
+  "stateId": 350546,
+  "stateCode": "EG-KN",
+  "countryCode": "EG",
+  "cities": [
+    {
+      "id": 361994,
+      "name": "Markaz Abū Tisht",
+      "nativeName": "Markaz Abū Tisht",
+      "code": "EG-KN-361994",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-KN",
+      "latitude": 26.1193,
+      "longitude": 32.0858
+    },
+    {
+      "id": 360166,
+      "name": "Markaz Armant",
+      "nativeName": "Markaz Armant",
+      "code": "EG-KN-360166",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-KN",
+      "latitude": 25.62981,
+      "longitude": 32.49916
+    },
+    {
+      "id": 358114,
+      "name": "Markaz Dishnā",
+      "nativeName": "Markaz Dishnā",
+      "code": "EG-KN-358114",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-KN",
+      "latitude": 26.1428,
+      "longitude": 32.45952
+    },
+    {
+      "id": 355447,
+      "name": "Markaz Isnā",
+      "nativeName": "Markaz Isnā",
+      "code": "EG-KN-355447",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-KN",
+      "latitude": 25.34153,
+      "longitude": 32.53948
+    },
+    {
+      "id": 351433,
+      "name": "Markaz Naj‘ Ḩammādī",
+      "nativeName": "Markaz Naj‘ Ḩammādī",
+      "code": "EG-KN-351433",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-KN",
+      "latitude": 26.04989,
+      "longitude": 32.28139
+    },
+    {
+      "id": 350547,
+      "name": "Markaz Qinā",
+      "nativeName": "Markaz Qinā",
+      "code": "EG-KN-350547",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-KN",
+      "latitude": 26.12823,
+      "longitude": 32.7153
+    }
+  ]
+}

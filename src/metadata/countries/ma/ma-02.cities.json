@@ -1,0 +1,95 @@
+{
+  "stateId": 11281875,
+  "stateCode": "MA-02",
+  "countryCode": "MA",
+  "cities": [
+    {
+      "id": 6547287,
+      "name": "Berkane Province",
+      "nativeName": "Berkane",
+      "code": "MA-02-6547287",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-02",
+      "latitude": 34.92622,
+      "longitude": -2.36415
+    },
+    {
+      "id": 11281974,
+      "name": "Driouch",
+      "nativeName": "Driouch Province",
+      "code": "MA-02-11281974",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-02",
+      "latitude": 34.9767,
+      "longitude": -3.38842
+    },
+    {
+      "id": 2548849,
+      "name": "Figuig Province",
+      "nativeName": "Figuig",
+      "code": "MA-02-2548849",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-02",
+      "latitude": 32.83333,
+      "longitude": -2.25
+    },
+    {
+      "id": 11281933,
+      "name": "Guercif Province",
+      "nativeName": "Guercif Province",
+      "code": "MA-02-11281933",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-02",
+      "latitude": 34.25041,
+      "longitude": -3.32542
+    },
+    {
+      "id": 6547288,
+      "name": "Jerada Province",
+      "nativeName": "Jerada",
+      "code": "MA-02-6547288",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-02",
+      "latitude": 34.23662,
+      "longitude": -2.04284
+    },
+    {
+      "id": 2541472,
+      "name": "Nador",
+      "nativeName": "Nador",
+      "code": "MA-02-2541472",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-02",
+      "latitude": 35,
+      "longitude": -3
+    },
+    {
+      "id": 2540482,
+      "name": "Oujda-Angad",
+      "nativeName": "Oujda-Angad",
+      "code": "MA-02-2540482",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-02",
+      "latitude": 34.68394,
+      "longitude": -1.90786
+    },
+    {
+      "id": 6547289,
+      "name": "Taourirt Province",
+      "nativeName": "Taourirt",
+      "code": "MA-02-6547289",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-02",
+      "latitude": 34.39829,
+      "longitude": -2.88572
+    }
+  ]
+}

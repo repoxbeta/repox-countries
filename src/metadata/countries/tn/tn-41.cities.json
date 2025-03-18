@@ -1,0 +1,128 @@
+{
+  "stateId": 2473451,
+  "stateCode": "TN-41",
+  "countryCode": "TN",
+  "cities": [
+    {
+      "id": 2465107,
+      "name": "Bouhajla",
+      "nativeName": "Bouhajla",
+      "code": "TN-41-2465107",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-41",
+      "latitude": 35.36838,
+      "longitude": 10.05495
+    },
+    {
+      "id": 2473418,
+      "name": "EL Ouslatia",
+      "nativeName": "Oueslatia",
+      "code": "TN-41-2473418",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-41",
+      "latitude": 35.90654,
+      "longitude": 9.67382
+    },
+    {
+      "id": 11106865,
+      "name": "Echebika",
+      "nativeName": "Chebika",
+      "code": "TN-41-11106865",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-41",
+      "latitude": 35.64991,
+      "longitude": 9.90904
+    },
+    {
+      "id": 11106864,
+      "name": "Echrarda",
+      "nativeName": "Cherarda",
+      "code": "TN-41-11106864",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-41",
+      "latitude": 35.15046,
+      "longitude": 10.07085
+    },
+    {
+      "id": 11106862,
+      "name": "El Alâa",
+      "nativeName": "El Ala",
+      "code": "TN-41-11106862",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-41",
+      "latitude": 35.65213,
+      "longitude": 9.45496
+    },
+    {
+      "id": 2470799,
+      "name": "Haffouz",
+      "nativeName": "Haffouz",
+      "code": "TN-41-2470799",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-41",
+      "latitude": 35.62283,
+      "longitude": 9.71492
+    },
+    {
+      "id": 2470749,
+      "name": "Hajeb el Ayoun",
+      "nativeName": "Hajeb El Ayoun",
+      "code": "TN-41-2470749",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-41",
+      "latitude": 35.42279,
+      "longitude": 9.57317
+    },
+    {
+      "id": 11106863,
+      "name": "Kairouan Nord",
+      "nativeName": "Kairouan Nord",
+      "code": "TN-41-11106863",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-41",
+      "latitude": 35.75186,
+      "longitude": 10.09236
+    },
+    {
+      "id": 2473450,
+      "name": "Kairouan Sud",
+      "nativeName": "Kairouan Sud",
+      "code": "TN-41-2473450",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-41",
+      "latitude": 35.5964,
+      "longitude": 10.11265
+    },
+    {
+      "id": 2466416,
+      "name": "Nasrallah",
+      "nativeName": "Nasrallah",
+      "code": "TN-41-2466416",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-41",
+      "latitude": 35.32683,
+      "longitude": 9.81157
+    },
+    {
+      "id": 2464980,
+      "name": "Sbikha",
+      "nativeName": "Sbikha",
+      "code": "TN-41-2464980",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-41",
+      "latitude": 35.92038,
+      "longitude": 10.03087
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "stateId": 153214,
+  "stateCode": "TZ-16",
+  "countryCode": "TZ",
+  "cities": [
+    {
+      "id": 9998153,
+      "name": "Gairo District Council",
+      "nativeName": "Gairo",
+      "code": "TZ-16-9998153",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-16",
+      "latitude": -6.13841,
+      "longitude": 36.88079
+    },
+    {
+      "id": 157408,
+      "name": "Kilombero District",
+      "nativeName": "Kilombero",
+      "code": "TZ-16-157408",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-16",
+      "latitude": -8.24137,
+      "longitude": 36.33492
+    },
+    {
+      "id": 157402,
+      "name": "Kilosa District Council",
+      "nativeName": "Kilosa",
+      "code": "TZ-16-157402",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-16",
+      "latitude": -6.89673,
+      "longitude": 36.97792
+    },
+    {
+      "id": 7647668,
+      "name": "Morogoro Rural",
+      "nativeName": "Morogoro Rural",
+      "code": "TZ-16-7647668",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-16",
+      "latitude": -6.75,
+      "longitude": 38.11667
+    },
+    {
+      "id": 153216,
+      "name": "Morogoro Urban",
+      "nativeName": "Morogoro Urban",
+      "code": "TZ-16-153216",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-16",
+      "latitude": -6.81667,
+      "longitude": 37.66667
+    },
+    {
+      "id": 8659171,
+      "name": "Mvomero District",
+      "nativeName": "Mvomero District",
+      "code": "TZ-16-8659171",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-16",
+      "latitude": -6.3,
+      "longitude": 37.45
+    },
+    {
+      "id": 149252,
+      "name": "Ulanga District Council",
+      "nativeName": "Ulanga",
+      "code": "TZ-16-149252",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-16",
+      "latitude": -8.98886,
+      "longitude": 36.61331
+    }
+  ]
+}

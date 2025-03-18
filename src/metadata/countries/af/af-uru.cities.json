@@ -1,0 +1,62 @@
+{
+  "stateId": 1131461,
+  "stateCode": "AF-URU",
+  "countryCode": "AF",
+  "cities": [
+    {
+      "id": 7054031,
+      "name": "Chōrah",
+      "nativeName": "Chōrah",
+      "code": "AF-URU-7054031",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-URU",
+      "latitude": 32.93005,
+      "longitude": 66.26271
+    },
+    {
+      "id": 7054032,
+      "name": "Deh Rāwud",
+      "nativeName": "Deh Rāwud",
+      "code": "AF-URU-7054032",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-URU",
+      "latitude": 32.5836,
+      "longitude": 65.46559
+    },
+    {
+      "id": 7054033,
+      "name": "Khas Uruzgan District",
+      "nativeName": "Khāş Uruzgān",
+      "code": "AF-URU-7054033",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-URU",
+      "latitude": 32.99674,
+      "longitude": 66.69359
+    },
+    {
+      "id": 7054034,
+      "name": "Shahīd-e Ḩasās",
+      "nativeName": "Shahīd-e Ḩasās",
+      "code": "AF-URU-7054034",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-URU",
+      "latitude": 32.92297,
+      "longitude": 65.4783
+    },
+    {
+      "id": 7054035,
+      "name": "Tarīn Kōṯ",
+      "nativeName": "Tarīn Kōṯ",
+      "code": "AF-URU-7054035",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-URU",
+      "latitude": 32.68217,
+      "longitude": 65.91696
+    }
+  ]
+}

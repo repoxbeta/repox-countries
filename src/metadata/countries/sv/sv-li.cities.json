@@ -1,0 +1,73 @@
+{
+  "stateId": 3585155,
+  "stateCode": "SV-LI",
+  "countryCode": "SV",
+  "cities": [
+    {
+      "id": 12916953,
+      "name": "La Libertad Centro",
+      "nativeName": "La Libertad Centro",
+      "code": "SV-LI-12916953",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-LI",
+      "latitude": 13.83342,
+      "longitude": -89.38166
+    },
+    {
+      "id": 12916959,
+      "name": "La Libertad Norte",
+      "nativeName": "La Libertad Norte",
+      "code": "SV-LI-12916959",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-LI",
+      "latitude": 13.9185,
+      "longitude": -89.2849
+    },
+    {
+      "id": 12916938,
+      "name": "La Libertad Oeste",
+      "nativeName": "La Libertad Oeste",
+      "code": "SV-LI-12916938",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-LI",
+      "latitude": 13.70412,
+      "longitude": -89.44339
+    },
+    {
+      "id": 12954154,
+      "name": "Municipio de La Libertad Costa",
+      "nativeName": "Municipio de La Libertad Costa",
+      "code": "SV-LI-12954154",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-LI",
+      "latitude": 13.54227,
+      "longitude": -89.44717
+    },
+    {
+      "id": 12954155,
+      "name": "Municipio de La Libertad Este",
+      "nativeName": "Municipio de La Libertad Este",
+      "code": "SV-LI-12954155",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-LI",
+      "latitude": 13.60267,
+      "longitude": -89.26275
+    },
+    {
+      "id": 12954156,
+      "name": "Municipio de La Libertad Sur",
+      "nativeName": "Municipio de La Libertad Sur",
+      "code": "SV-LI-12954156",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-LI",
+      "latitude": 13.62197,
+      "longitude": -89.36448
+    }
+  ]
+}

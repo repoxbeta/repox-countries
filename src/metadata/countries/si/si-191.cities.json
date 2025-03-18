@@ -1,0 +1,84 @@
+{
+  "stateId": 3344923,
+  "stateCode": "SI-191",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3186557,
+      "name": "Žetale",
+      "nativeName": "Žetale",
+      "code": "SI-191-3186557",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-191",
+      "latitude": 46.27356,
+      "longitude": 15.82658
+    },
+    {
+      "id": 3201936,
+      "name": "Dobrina",
+      "nativeName": "Dobrina",
+      "code": "SI-191-3201936",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-191",
+      "latitude": 46.28333,
+      "longitude": 15.8
+    },
+    {
+      "id": 8987117,
+      "name": "Kočice",
+      "nativeName": "Kočice",
+      "code": "SI-191-8987117",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-191",
+      "latitude": 46.30078,
+      "longitude": 15.79152
+    },
+    {
+      "id": 3216752,
+      "name": "Marina Vas",
+      "nativeName": "Marina Vas",
+      "code": "SI-191-3216752",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-191",
+      "latitude": 46.295,
+      "longitude": 15.77111
+    },
+    {
+      "id": 8987508,
+      "name": "Nadole",
+      "nativeName": "Nadole",
+      "code": "SI-191-8987508",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-191",
+      "latitude": 46.28764,
+      "longitude": 15.76728
+    },
+    {
+      "id": 3216744,
+      "name": "Zgornje Ravno",
+      "nativeName": "Zgornje Ravno",
+      "code": "SI-191-3216744",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-191",
+      "latitude": 46.28611,
+      "longitude": 15.8075
+    },
+    {
+      "id": 8987089,
+      "name": "Čermožiše",
+      "nativeName": "Čermožiše",
+      "code": "SI-191-8987089",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-191",
+      "latitude": 46.26822,
+      "longitude": 15.77216
+    }
+  ]
+}

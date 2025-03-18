@@ -1,0 +1,282 @@
+{
+  "stateId": 1278341,
+  "stateCode": "IN-AR",
+  "countryCode": "IN",
+  "cities": [
+    {
+      "id": 9747950,
+      "name": "Anjaw District",
+      "nativeName": "Anjaw",
+      "code": "IN-AR-9747950",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-AR",
+      "latitude": 28.06549,
+      "longitude": 96.82878
+    },
+    {
+      "id": 9747946,
+      "name": "Changlang",
+      "nativeName": "Changlang",
+      "code": "IN-AR-9747946",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-AR",
+      "latitude": 27.36265,
+      "longitude": 96.34518
+    },
+    {
+      "id": 1272651,
+      "name": "Dibang Valley District",
+      "nativeName": "Dibāng Valley",
+      "code": "IN-AR-1272651",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-AR",
+      "latitude": 28.7,
+      "longitude": 95.7
+    },
+    {
+      "id": 1272120,
+      "name": "East Kameng",
+      "nativeName": "East Kameng",
+      "code": "IN-AR-1272120",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-AR",
+      "latitude": 27.3,
+      "longitude": 93.05
+    },
+    {
+      "id": 1272115,
+      "name": "East Siang District",
+      "nativeName": "East Siang",
+      "code": "IN-AR-1272115",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-AR",
+      "latitude": 28.00844,
+      "longitude": 95.3045
+    },
+    {
+      "id": 12572553,
+      "name": "Kamle",
+      "nativeName": "Kamle",
+      "code": "IN-AR-12572553",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-AR",
+      "latitude": 27.72973,
+      "longitude": 94.09088
+    },
+    {
+      "id": 11875510,
+      "name": "Kra Daadi",
+      "nativeName": "Kra Daadi",
+      "code": "IN-AR-11875510",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-AR",
+      "latitude": 27.69489,
+      "longitude": 93.63373
+    },
+    {
+      "id": 9748007,
+      "name": "Kurung Kumey",
+      "nativeName": "Kurung Kumey",
+      "code": "IN-AR-9748007",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-AR",
+      "latitude": 27.99983,
+      "longitude": 93.3924
+    },
+    {
+      "id": 12572554,
+      "name": "Lepa Rada",
+      "nativeName": "Lepa Rada",
+      "code": "IN-AR-12572554",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-AR",
+      "latitude": 27.92641,
+      "longitude": 94.73293
+    },
+    {
+      "id": 1264818,
+      "name": "Lohit",
+      "nativeName": "Lohit District",
+      "code": "IN-AR-1264818",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-AR",
+      "latitude": 27.98576,
+      "longitude": 96.17549
+    },
+    {
+      "id": 11875575,
+      "name": "Longding District",
+      "nativeName": "Longding",
+      "code": "IN-AR-11875575",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-AR",
+      "latitude": 26.80416,
+      "longitude": 95.32292
+    },
+    {
+      "id": 9748012,
+      "name": "Lower Dibang Valley District",
+      "nativeName": "Lower Dibang Valley",
+      "code": "IN-AR-9748012",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-AR",
+      "latitude": 28.37258,
+      "longitude": 95.8804
+    },
+    {
+      "id": 11902898,
+      "name": "Lower Siang",
+      "nativeName": "Lower Siang",
+      "code": "IN-AR-11902898",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-AR",
+      "latitude": 27.72833,
+      "longitude": 94.5829
+    },
+    {
+      "id": 1264739,
+      "name": "Lower Subansiri",
+      "nativeName": "Lower Subansiri",
+      "code": "IN-AR-1264739",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-AR",
+      "latitude": 27.56478,
+      "longitude": 93.79433
+    },
+    {
+      "id": 11875509,
+      "name": "Namsai District",
+      "nativeName": "Namsai",
+      "code": "IN-AR-11875509",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-AR",
+      "latitude": 27.66731,
+      "longitude": 95.86178
+    },
+    {
+      "id": 12572547,
+      "name": "Pakke Kessang",
+      "nativeName": "Pakke Kessang",
+      "code": "IN-AR-12572547",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-AR",
+      "latitude": 27.10528,
+      "longitude": 93.03567
+    },
+    {
+      "id": 9748025,
+      "name": "Papum Pare District",
+      "nativeName": "Papum Pare",
+      "code": "IN-AR-9748025",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-AR",
+      "latitude": 27.28879,
+      "longitude": 93.59694
+    },
+    {
+      "id": 12572546,
+      "name": "Shi Yomi",
+      "nativeName": "Shi Yomi",
+      "code": "IN-AR-12572546",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-AR",
+      "latitude": 28.6786,
+      "longitude": 94.25916
+    },
+    {
+      "id": 11875511,
+      "name": "Siang",
+      "nativeName": "Siang",
+      "code": "IN-AR-11875511",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-AR",
+      "latitude": 28.21205,
+      "longitude": 94.9924
+    },
+    {
+      "id": 9748034,
+      "name": "Tawang",
+      "nativeName": "Tawang",
+      "code": "IN-AR-9748034",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-AR",
+      "latitude": 27.66186,
+      "longitude": 91.95358
+    },
+    {
+      "id": 1254418,
+      "name": "Tirap",
+      "nativeName": "Tirāp",
+      "code": "IN-AR-1254418",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-AR",
+      "latitude": 27.01917,
+      "longitude": 95.51788
+    },
+    {
+      "id": 9748035,
+      "name": "Upper Siang District",
+      "nativeName": "Upper Siang",
+      "code": "IN-AR-9748035",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-AR",
+      "latitude": 28.83355,
+      "longitude": 94.91806
+    },
+    {
+      "id": 1253720,
+      "name": "Upper Subansiri",
+      "nativeName": "Upper Subansiri",
+      "code": "IN-AR-1253720",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-AR",
+      "latitude": 28.3,
+      "longitude": 94
+    },
+    {
+      "id": 1252869,
+      "name": "West Kameng",
+      "nativeName": "West Kameng",
+      "code": "IN-AR-1252869",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-AR",
+      "latitude": 27.4,
+      "longitude": 92.35
+    },
+    {
+      "id": 1252865,
+      "name": "West Siang",
+      "nativeName": "West Siang",
+      "code": "IN-AR-1252865",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-AR",
+      "latitude": 28.14198,
+      "longitude": 94.51445
+    }
+  ]
+}

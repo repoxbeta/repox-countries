@@ -1,0 +1,40 @@
+{
+  "stateId": 2249781,
+  "stateCode": "SN-KD",
+  "countryCode": "SN",
+  "cities": [
+    {
+      "id": 7670821,
+      "name": "Kolda",
+      "nativeName": "Kolda Department",
+      "code": "SN-KD-7670821",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "stateCode": "SN-KD",
+      "latitude": 12.883,
+      "longitude": -14.95
+    },
+    {
+      "id": 10779433,
+      "name": "Medina Yoro Foulah",
+      "nativeName": "Département de Médina Yoro Foulah",
+      "code": "SN-KD-10779433",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "stateCode": "SN-KD",
+      "latitude": 13.22561,
+      "longitude": -14.85773
+    },
+    {
+      "id": 2244181,
+      "name": "Velingara",
+      "nativeName": "Velingara Department",
+      "code": "SN-KD-2244181",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "stateCode": "SN-KD",
+      "latitude": 12.986,
+      "longitude": -13.813
+    }
+  ]
+}

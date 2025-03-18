@@ -1,0 +1,51 @@
+{
+  "stateId": 6697804,
+  "stateCode": "GR-D",
+  "countryCode": "GR",
+  "cities": [
+    {
+      "id": 261777,
+      "name": "Ioannina",
+      "nativeName": "Nomós Ioannínon",
+      "code": "GR-D-261777",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-D",
+      "latitude": 39.75,
+      "longitude": 20.66667
+    },
+    {
+      "id": 254695,
+      "name": "Nomós Prevézis",
+      "nativeName": "Nomós Prevézis",
+      "code": "GR-D-254695",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-D",
+      "latitude": 39.16667,
+      "longitude": 20.66667
+    },
+    {
+      "id": 264545,
+      "name": "Nomós Ártas",
+      "nativeName": "Nomós Ártas",
+      "code": "GR-D-264545",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-D",
+      "latitude": 39.16667,
+      "longitude": 21
+    },
+    {
+      "id": 252941,
+      "name": "Thesprotia",
+      "nativeName": "Nomós Thesprotías",
+      "code": "GR-D-252941",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-D",
+      "latitude": 39.5,
+      "longitude": 20.33333
+    }
+  ]
+}

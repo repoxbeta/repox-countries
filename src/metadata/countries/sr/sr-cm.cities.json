@@ -1,0 +1,73 @@
+{
+  "stateId": 3384418,
+  "stateCode": "SR-CM",
+  "countryCode": "SR",
+  "cities": [
+    {
+      "id": 12088680,
+      "name": "Alkmaar",
+      "nativeName": "Alkmaar",
+      "code": "SR-CM-12088680",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-CM",
+      "latitude": 5.83717,
+      "longitude": -55.02005
+    },
+    {
+      "id": 12088677,
+      "name": "Bakkie",
+      "nativeName": "Bakkie",
+      "code": "SR-CM-12088677",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-CM",
+      "latitude": 5.89393,
+      "longitude": -54.88665
+    },
+    {
+      "id": 12088678,
+      "name": "Margaretha",
+      "nativeName": "Margaretha",
+      "code": "SR-CM-12088678",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-CM",
+      "latitude": 5.94713,
+      "longitude": -55.13201
+    },
+    {
+      "id": 13108209,
+      "name": "Meerzorg",
+      "nativeName": "Meerzorg",
+      "code": "SR-CM-13108209",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-CM",
+      "latitude": 5.60602,
+      "longitude": -54.88902
+    },
+    {
+      "id": 12088679,
+      "name": "Nieuw Amsterdam",
+      "nativeName": "Nieuw Amsterdam",
+      "code": "SR-CM-12088679",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-CM",
+      "latitude": 5.88186,
+      "longitude": -55.08121
+    },
+    {
+      "id": 12088681,
+      "name": "Tamanredjo",
+      "nativeName": "Tamanredjo",
+      "code": "SR-CM-12088681",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-CM",
+      "latitude": 5.78248,
+      "longitude": -55.01859
+    }
+  ]
+}

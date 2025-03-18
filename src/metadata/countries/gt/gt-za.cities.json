@@ -1,0 +1,128 @@
+{
+  "stateId": 3587586,
+  "stateCode": "GT-ZA",
+  "countryCode": "GT",
+  "cities": [
+    {
+      "id": 3599294,
+      "name": "Municipio de Cabañas",
+      "nativeName": "Municipio de Cabañas",
+      "code": "GT-ZA-3599294",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-ZA",
+      "latitude": 14.88857,
+      "longitude": -89.77603
+    },
+    {
+      "id": 3595755,
+      "name": "Municipio de Estanzuela",
+      "nativeName": "Municipio de Estanzuela",
+      "code": "GT-ZA-3595755",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-ZA",
+      "latitude": 14.98354,
+      "longitude": -89.61374
+    },
+    {
+      "id": 3595559,
+      "name": "Municipio de Gualán",
+      "nativeName": "Municipio de Gualán",
+      "code": "GT-ZA-3595559",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-ZA",
+      "latitude": 15.13,
+      "longitude": -89.37
+    },
+    {
+      "id": 3595402,
+      "name": "Municipio de Huité",
+      "nativeName": "Municipio de Huité",
+      "code": "GT-ZA-3595402",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-ZA",
+      "latitude": 14.92172,
+      "longitude": -89.692
+    },
+    {
+      "id": 3593488,
+      "name": "Municipio de La Unión",
+      "nativeName": "Municipio de La Unión",
+      "code": "GT-ZA-3593488",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-ZA",
+      "latitude": 14.95771,
+      "longitude": -89.27496
+    },
+    {
+      "id": 3590786,
+      "name": "Municipio de Río Hondo",
+      "nativeName": "Municipio de Río Hondo",
+      "code": "GT-ZA-3590786",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-ZA",
+      "latitude": 15.09526,
+      "longitude": -89.58998
+    },
+    {
+      "id": 3590305,
+      "name": "Municipio de San Diego",
+      "nativeName": "Municipio de San Diego",
+      "code": "GT-ZA-3590305",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-ZA",
+      "latitude": 14.79398,
+      "longitude": -89.75549
+    },
+    {
+      "id": 9975228,
+      "name": "Municipio de San Jorge",
+      "nativeName": "Municipio de San Jorge",
+      "code": "GT-ZA-9975228",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-ZA",
+      "latitude": 14.90688,
+      "longitude": -89.59645
+    },
+    {
+      "id": 3588468,
+      "name": "Municipio de Teculután",
+      "nativeName": "Municipio de Teculután",
+      "code": "GT-ZA-3588468",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-ZA",
+      "latitude": 15.05422,
+      "longitude": -89.75475
+    },
+    {
+      "id": 3588039,
+      "name": "Municipio de Usumatlán",
+      "nativeName": "Municipio de Usumatlán",
+      "code": "GT-ZA-3588039",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-ZA",
+      "latitude": 14.98905,
+      "longitude": -89.78831
+    },
+    {
+      "id": 3587585,
+      "name": "Municipio de Zacapa",
+      "nativeName": "Municipio de Zacapa",
+      "code": "GT-ZA-3587585",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-ZA",
+      "latitude": 14.97138,
+      "longitude": -89.46475
+    }
+  ]
+}

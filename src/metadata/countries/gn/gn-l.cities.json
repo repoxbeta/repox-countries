@@ -1,0 +1,62 @@
+{
+  "stateId": 8335089,
+  "stateCode": "GN-L",
+  "countryCode": "GN",
+  "cities": [
+    {
+      "id": 2418360,
+      "name": "Labe",
+      "nativeName": "Labe Prefecture",
+      "code": "GN-L-2418360",
+      "countryId": 2420477,
+      "countryCode": "GN",
+      "stateCode": "GN-L",
+      "latitude": 11.366,
+      "longitude": -12.3
+    },
+    {
+      "id": 2417885,
+      "name": "Mali",
+      "nativeName": "Mali Prefecture",
+      "code": "GN-L-2417885",
+      "countryId": 2420477,
+      "countryCode": "GN",
+      "stateCode": "GN-L",
+      "latitude": 12.08333,
+      "longitude": -12.08333
+    },
+    {
+      "id": 2595302,
+      "name": "Préfecture de Koubia",
+      "nativeName": "Koubia",
+      "code": "GN-L-2595302",
+      "countryId": 2420477,
+      "countryCode": "GN",
+      "stateCode": "GN-L",
+      "latitude": 11.58333,
+      "longitude": -11.83333
+    },
+    {
+      "id": 2595303,
+      "name": "Préfecture de Lélouma",
+      "nativeName": "Lelouma Prefecture",
+      "code": "GN-L-2595303",
+      "countryId": 2420477,
+      "countryCode": "GN",
+      "stateCode": "GN-L",
+      "latitude": 11.41667,
+      "longitude": -12.66667
+    },
+    {
+      "id": 2414544,
+      "name": "Tougue",
+      "nativeName": "Tougue Prefecture",
+      "code": "GN-L-2414544",
+      "countryId": 2420477,
+      "countryCode": "GN",
+      "stateCode": "GN-L",
+      "latitude": 11.46667,
+      "longitude": -11.6
+    }
+  ]
+}

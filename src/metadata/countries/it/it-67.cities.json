@@ -1,0 +1,29 @@
+{
+  "stateId": 3173222,
+  "stateCode": "IT-67",
+  "countryCode": "IT",
+  "cities": [
+    {
+      "id": 3180990,
+      "name": "Province of Campobasso",
+      "nativeName": "Provincia di Campobasso",
+      "code": "IT-67-3180990",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-67",
+      "latitude": 41.7007,
+      "longitude": 14.75848
+    },
+    {
+      "id": 3175444,
+      "name": "Province of Isernia",
+      "nativeName": "Provincia di Isernia",
+      "code": "IT-67-3175444",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-67",
+      "latitude": 41.66667,
+      "longitude": 14.25
+    }
+  ]
+}

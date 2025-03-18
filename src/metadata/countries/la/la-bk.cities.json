@@ -1,0 +1,62 @@
+{
+  "stateId": 1904616,
+  "stateCode": "LA-BK",
+  "countryCode": "LA",
+  "cities": [
+    {
+      "id": 1651946,
+      "name": "Muang Houayxay",
+      "nativeName": "Muang Houayxay",
+      "code": "LA-BK-1651946",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-BK",
+      "latitude": 20.38763,
+      "longitude": 100.62687
+    },
+    {
+      "id": 1904823,
+      "name": "Muang Meung",
+      "nativeName": "Muang Meung",
+      "code": "LA-BK-1904823",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-BK",
+      "latitude": 20.67585,
+      "longitude": 100.52639
+    },
+    {
+      "id": 1654385,
+      "name": "Muang Paktha",
+      "nativeName": "Muang Paktha",
+      "code": "LA-BK-1654385",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-BK",
+      "latitude": 20.09108,
+      "longitude": 100.5994
+    },
+    {
+      "id": 1904821,
+      "name": "Muang Pha Oudôm",
+      "nativeName": "Muang Pha Oudôm",
+      "code": "LA-BK-1904821",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-BK",
+      "latitude": 20.18744,
+      "longitude": 100.926
+    },
+    {
+      "id": 1904822,
+      "name": "Muang Tônpheung",
+      "nativeName": "Muang Tônpheung",
+      "code": "LA-BK-1904822",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-BK",
+      "latitude": 20.53465,
+      "longitude": 100.29624
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "stateId": 2593109,
+  "stateCode": "ES-AN",
+  "countryCode": "ES",
+  "cities": [
+    {
+      "id": 2521883,
+      "name": "Almeria",
+      "nativeName": "Almería",
+      "code": "ES-AN-2521883",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "stateCode": "ES-AN",
+      "latitude": 37.16667,
+      "longitude": -2.33333
+    },
+    {
+      "id": 2520597,
+      "name": "Cadiz",
+      "nativeName": "Provincia de Cádiz",
+      "code": "ES-AN-2520597",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "stateCode": "ES-AN",
+      "latitude": 36.5,
+      "longitude": -5.75
+    },
+    {
+      "id": 2519239,
+      "name": "Cordoba",
+      "nativeName": "Province of Córdoba",
+      "code": "ES-AN-2519239",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "stateCode": "ES-AN",
+      "latitude": 38,
+      "longitude": -4.83333
+    },
+    {
+      "id": 2517115,
+      "name": "Granada",
+      "nativeName": "Provincia de Granada",
+      "code": "ES-AN-2517115",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "stateCode": "ES-AN",
+      "latitude": 37.25,
+      "longitude": -3.25
+    },
+    {
+      "id": 2516547,
+      "name": "Huelva",
+      "nativeName": "Provincia de Huelva",
+      "code": "ES-AN-2516547",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "stateCode": "ES-AN",
+      "latitude": 37.66667,
+      "longitude": -7
+    },
+    {
+      "id": 2516394,
+      "name": "Jaen",
+      "nativeName": "Provincia de Jaén",
+      "code": "ES-AN-2516394",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "stateCode": "ES-AN",
+      "latitude": 38,
+      "longitude": -3.5
+    },
+    {
+      "id": 2514254,
+      "name": "Malaga",
+      "nativeName": "Provincia de Málaga",
+      "code": "ES-AN-2514254",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "stateCode": "ES-AN",
+      "latitude": 36.8,
+      "longitude": -4.75
+    },
+    {
+      "id": 2510910,
+      "name": "Seville",
+      "nativeName": "Provincia de Sevilla",
+      "code": "ES-AN-2510910",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "stateCode": "ES-AN",
+      "latitude": 37.44701,
+      "longitude": -5.69608
+    }
+  ]
+}

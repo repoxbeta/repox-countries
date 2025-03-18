@@ -1,0 +1,40 @@
+{
+  "stateId": 6930712,
+  "stateCode": "BF-11",
+  "countryCode": "BF",
+  "cities": [
+    {
+      "id": 2360627,
+      "name": "Ganzourgou Province",
+      "nativeName": "Province du Ganzourgou",
+      "code": "BF-11-2360627",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "stateCode": "BF-11",
+      "latitude": 12.26667,
+      "longitude": -0.76667
+    },
+    {
+      "id": 2597262,
+      "name": "Kourwéogo Province",
+      "nativeName": "Province du Kourwéogo",
+      "code": "BF-11-2597262",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "stateCode": "BF-11",
+      "latitude": 12.58333,
+      "longitude": -1.76667
+    },
+    {
+      "id": 2356983,
+      "name": "Oubritenga",
+      "nativeName": "Oubritenga",
+      "code": "BF-11-2356983",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "stateCode": "BF-11",
+      "latitude": 12.66667,
+      "longitude": -1.33333
+    }
+  ]
+}

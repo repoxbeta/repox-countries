@@ -1,0 +1,29 @@
+{
+  "stateId": 3572972,
+  "stateCode": "BM-WA",
+  "countryCode": "BM",
+  "cities": [
+    {
+      "id": 3573185,
+      "name": "Hill View",
+      "nativeName": "Hill View",
+      "code": "BM-WA-3573185",
+      "countryId": 3573345,
+      "countryCode": "BM",
+      "stateCode": "BM-WA",
+      "latitude": 32.26944,
+      "longitude": -64.80889
+    },
+    {
+      "id": 3572974,
+      "name": "Warwick Camp",
+      "nativeName": "Warwick Camp",
+      "code": "BM-WA-3572974",
+      "countryId": 3573345,
+      "countryCode": "BM",
+      "stateCode": "BM-WA",
+      "latitude": 32.25722,
+      "longitude": -64.81611
+    }
+  ]
+}

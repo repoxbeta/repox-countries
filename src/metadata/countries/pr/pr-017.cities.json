@@ -1,0 +1,51 @@
+{
+  "stateId": 4562771,
+  "stateCode": "PR-017",
+  "countryCode": "PR",
+  "cities": [
+    {
+      "id": 7268232,
+      "name": "Barceloneta Barrio-Pueblo",
+      "nativeName": "Barceloneta Barrio-Pueblo",
+      "code": "PR-017-7268232",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-017",
+      "latitude": 18.45464,
+      "longitude": -66.53853
+    },
+    {
+      "id": 7268394,
+      "name": "Florida Afuera Barrio",
+      "nativeName": "Florida Afuera Barrio",
+      "code": "PR-017-7268394",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-017",
+      "latitude": 18.42603,
+      "longitude": -66.56046
+    },
+    {
+      "id": 7268408,
+      "name": "Garrochales Barrio",
+      "nativeName": "Garrochales Barrio",
+      "code": "PR-017-7268408",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-017",
+      "latitude": 18.45891,
+      "longitude": -66.56519
+    },
+    {
+      "id": 7268721,
+      "name": "Palmas Altas Barrio",
+      "nativeName": "Palmas Altas Barrio",
+      "code": "PR-017-7268721",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-017",
+      "latitude": 18.47866,
+      "longitude": -66.55709
+    }
+  ]
+}

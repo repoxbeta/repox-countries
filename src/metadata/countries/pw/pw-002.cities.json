@@ -1,0 +1,84 @@
+{
+  "stateId": 1559964,
+  "stateCode": "PW-002",
+  "countryCode": "PW",
+  "cities": [
+    {
+      "id": 7732276,
+      "name": "Ngchemiangel",
+      "nativeName": "Ngchemiangel",
+      "code": "PW-002-7732276",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-002",
+      "latitude": 7.44613,
+      "longitude": 134.47678
+    },
+    {
+      "id": 1559890,
+      "name": "Eimelik Hamlet",
+      "nativeName": "Eimelik Hamlet",
+      "code": "PW-002-1559890",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-002",
+      "latitude": 7.3973,
+      "longitude": 134.51034
+    },
+    {
+      "id": 4037770,
+      "name": "Elauesachel Hamlet",
+      "nativeName": "Elauesachel Hamlet",
+      "code": "PW-002-4037770",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-002",
+      "latitude": 7.45743,
+      "longitude": 134.50616
+    },
+    {
+      "id": 1559674,
+      "name": "Elechui Hamlet",
+      "nativeName": "Elechui Hamlet",
+      "code": "PW-002-1559674",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-002",
+      "latitude": 7.43161,
+      "longitude": 134.47997
+    },
+    {
+      "id": 1559812,
+      "name": "Medorm Hamlet",
+      "nativeName": "Medorm Hamlet",
+      "code": "PW-002-1559812",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-002",
+      "latitude": 7.4565,
+      "longitude": 134.47901
+    },
+    {
+      "id": 1559480,
+      "name": "Ngchemiangel Hamlet",
+      "nativeName": "Ngchemiangel Hamlet",
+      "code": "PW-002-1559480",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-002",
+      "latitude": 7.446,
+      "longitude": 134.47596
+    },
+    {
+      "id": 1559488,
+      "name": "Ngerkeai Hamlet",
+      "nativeName": "Ngerkeai Hamlet",
+      "code": "PW-002-1559488",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-002",
+      "latitude": 7.42072,
+      "longitude": 134.49786
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "stateId": 2660717,
+  "stateCode": "CH-FR",
+  "countryCode": "CH",
+  "cities": [
+    {
+      "id": 6458754,
+      "name": "Broye District",
+      "nativeName": "Broye District",
+      "code": "CH-FR-6458754",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-FR",
+      "latitude": 46.82212,
+      "longitude": 6.90249
+    },
+    {
+      "id": 2660598,
+      "name": "Glâne District",
+      "nativeName": "Glâne District",
+      "code": "CH-FR-2660598",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-FR",
+      "latitude": 46.66667,
+      "longitude": 6.91667
+    },
+    {
+      "id": 6458796,
+      "name": "Gruyère District",
+      "nativeName": "Gruyère District",
+      "code": "CH-FR-6458796",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-FR",
+      "latitude": 46.60753,
+      "longitude": 7.10741
+    },
+    {
+      "id": 6458767,
+      "name": "Sarine District",
+      "nativeName": "Sarine District",
+      "code": "CH-FR-6458767",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-FR",
+      "latitude": 46.78435,
+      "longitude": 7.09993
+    },
+    {
+      "id": 6458820,
+      "name": "See",
+      "nativeName": "See District",
+      "code": "CH-FR-6458820",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-FR",
+      "latitude": 46.91016,
+      "longitude": 7.14088
+    },
+    {
+      "id": 6458898,
+      "name": "Sense District",
+      "nativeName": "Sense District",
+      "code": "CH-FR-6458898",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-FR",
+      "latitude": 46.80132,
+      "longitude": 7.26028
+    },
+    {
+      "id": 6458862,
+      "name": "Veveyse District",
+      "nativeName": "Veveyse District",
+      "code": "CH-FR-6458862",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-FR",
+      "latitude": 46.55083,
+      "longitude": 6.91085
+    }
+  ]
+}

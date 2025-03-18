@@ -1,0 +1,95 @@
+{
+  "stateId": 126878,
+  "stateCode": "IR-17",
+  "countryCode": "IR",
+  "cities": [
+    {
+      "id": 11963520,
+      "name": "Landeh County",
+      "nativeName": "Landeh",
+      "code": "IR-17-11963520",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-17",
+      "latitude": 30.97994,
+      "longitude": 50.42469
+    },
+    {
+      "id": 9532946,
+      "name": "Shahrestān-e Bahma’ī",
+      "nativeName": "Shahrestān-e Bahma’ī",
+      "code": "IR-17-9532946",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-17",
+      "latitude": 31.05,
+      "longitude": 50.08333
+    },
+    {
+      "id": 449634,
+      "name": "Shahrestān-e Bowyer Aḩmad",
+      "nativeName": "Shahrestān-e Bowyer Aḩmad",
+      "code": "IR-17-449634",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-17",
+      "latitude": 30.875,
+      "longitude": 51.13333
+    },
+    {
+      "id": 9532948,
+      "name": "Shahrestān-e Bāsht",
+      "nativeName": "Shahrestān-e Bāsht",
+      "code": "IR-17-9532948",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-17",
+      "latitude": 30.46004,
+      "longitude": 51.07451
+    },
+    {
+      "id": 9532947,
+      "name": "Shahrestān-e Charām",
+      "nativeName": "Shahrestān-e Charām",
+      "code": "IR-17-9532947",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-17",
+      "latitude": 30.77111,
+      "longitude": 50.8705
+    },
+    {
+      "id": 449635,
+      "name": "Shahrestān-e Danā",
+      "nativeName": "Shahrestān-e Danā",
+      "code": "IR-17-449635",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-17",
+      "latitude": 31.02933,
+      "longitude": 51.25
+    },
+    {
+      "id": 449637,
+      "name": "Shahrestān-e Gachsārān",
+      "nativeName": "Shahrestān-e Gachsārān",
+      "code": "IR-17-449637",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-17",
+      "latitude": 30.3,
+      "longitude": 50.73333
+    },
+    {
+      "id": 449636,
+      "name": "Shahrestān-e Kohgīlūyeh",
+      "nativeName": "Shahrestān-e Kohgīlūyeh",
+      "code": "IR-17-449636",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-17",
+      "latitude": 31.055,
+      "longitude": 50.599
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "stateId": 250092,
+  "stateCode": "JO-AZ",
+  "countryCode": "JO",
+  "cities": [
+    {
+      "id": 8621689,
+      "name": "Liwā’ Qaşabat az Zarqā’",
+      "nativeName": "Liwā’ Qaşabat az Zarqā’",
+      "code": "JO-AZ-8621689",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "stateCode": "JO-AZ",
+      "latitude": 31.81924,
+      "longitude": 36.57762
+    },
+    {
+      "id": 8621691,
+      "name": "Liwā’ al Hāshimīyah",
+      "nativeName": "Liwā’ al Hāshimīyah",
+      "code": "JO-AZ-8621691",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "stateCode": "JO-AZ",
+      "latitude": 32.13858,
+      "longitude": 36.10968
+    },
+    {
+      "id": 8621690,
+      "name": "Liwā’ ar Ruşayfah",
+      "nativeName": "Liwā’ ar Ruşayfah",
+      "code": "JO-AZ-8621690",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "stateCode": "JO-AZ",
+      "latitude": 32.01304,
+      "longitude": 36.04878
+    },
+    {
+      "id": 7910933,
+      "name": "Qasabat Az Zarqa",
+      "nativeName": "Qasabat Az Zarqa",
+      "code": "JO-AZ-7910933",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "stateCode": "JO-AZ",
+      "latitude": 32.079,
+      "longitude": 36.2
+    }
+  ]
+}

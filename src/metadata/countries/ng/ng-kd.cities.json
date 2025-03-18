@@ -1,0 +1,260 @@
+{
+  "stateId": 2335722,
+  "stateCode": "NG-KD",
+  "countryCode": "NG",
+  "cities": [
+    {
+      "id": 7910313,
+      "name": "Birnin Gwari",
+      "nativeName": "Birnin Gwari",
+      "code": "NG-KD-7910313",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KD",
+      "latitude": 10.82612,
+      "longitude": 6.65505
+    },
+    {
+      "id": 7871251,
+      "name": "Chikun",
+      "nativeName": "Chikun",
+      "code": "NG-KD-7871251",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KD",
+      "latitude": 10.315,
+      "longitude": 7.274
+    },
+    {
+      "id": 7932490,
+      "name": "Giwa",
+      "nativeName": "Giwa",
+      "code": "NG-KD-7932490",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KD",
+      "latitude": 11.12077,
+      "longitude": 7.40565
+    },
+    {
+      "id": 7871252,
+      "name": "Igabi",
+      "nativeName": "Igabi",
+      "code": "NG-KD-7871252",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KD",
+      "latitude": 10.781,
+      "longitude": 7.504
+    },
+    {
+      "id": 8634546,
+      "name": "Ikara",
+      "nativeName": "Ikara",
+      "code": "NG-KD-8634546",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KD",
+      "latitude": 11.24755,
+      "longitude": 8.20028
+    },
+    {
+      "id": 8634602,
+      "name": "Jaba",
+      "nativeName": "Jaba",
+      "code": "NG-KD-8634602",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KD",
+      "latitude": 9.48185,
+      "longitude": 8.04372
+    },
+    {
+      "id": 8634542,
+      "name": "Jema'A",
+      "nativeName": "Jema'A",
+      "code": "NG-KD-8634542",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KD",
+      "latitude": 9.38269,
+      "longitude": 8.26813
+    },
+    {
+      "id": 7871250,
+      "name": "Kachia",
+      "nativeName": "Kachia",
+      "code": "NG-KD-7871250",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KD",
+      "latitude": 9.85,
+      "longitude": 7.56
+    },
+    {
+      "id": 7871255,
+      "name": "Kaduna North",
+      "nativeName": "Kaduna North",
+      "code": "NG-KD-7871255",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KD",
+      "latitude": 10.568,
+      "longitude": 7.452
+    },
+    {
+      "id": 7871253,
+      "name": "Kaduna South",
+      "nativeName": "Kaduna South",
+      "code": "NG-KD-7871253",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KD",
+      "latitude": 10.468,
+      "longitude": 7.421
+    },
+    {
+      "id": 7871249,
+      "name": "Kagarko",
+      "nativeName": "Kagarko",
+      "code": "NG-KD-7871249",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KD",
+      "latitude": 9.437,
+      "longitude": 7.577
+    },
+    {
+      "id": 8634545,
+      "name": "Kajuru",
+      "nativeName": "Kajuru",
+      "code": "NG-KD-8634545",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KD",
+      "latitude": 10.27704,
+      "longitude": 7.85783
+    },
+    {
+      "id": 8634541,
+      "name": "Kaura",
+      "nativeName": "Kaura",
+      "code": "NG-KD-8634541",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KD",
+      "latitude": 9.61232,
+      "longitude": 8.46992
+    },
+    {
+      "id": 8634544,
+      "name": "Kauru",
+      "nativeName": "Kauru",
+      "code": "NG-KD-8634544",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KD",
+      "latitude": 10.22988,
+      "longitude": 8.29422
+    },
+    {
+      "id": 8634565,
+      "name": "Kuban",
+      "nativeName": "Kuban",
+      "code": "NG-KD-8634565",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KD",
+      "latitude": 10.87876,
+      "longitude": 8.38294
+    },
+    {
+      "id": 7871259,
+      "name": "Kudan",
+      "nativeName": "Kudan",
+      "code": "NG-KD-7871259",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KD",
+      "latitude": 11.273,
+      "longitude": 7.799
+    },
+    {
+      "id": 8634543,
+      "name": "Lere",
+      "nativeName": "Lere",
+      "code": "NG-KD-8634543",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KD",
+      "latitude": 10.34643,
+      "longitude": 8.56734
+    },
+    {
+      "id": 7871254,
+      "name": "Makarfi",
+      "nativeName": "Makarfi",
+      "code": "NG-KD-7871254",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KD",
+      "latitude": 11.29795,
+      "longitude": 7.96917
+    },
+    {
+      "id": 7871258,
+      "name": "Sabon Gari",
+      "nativeName": "Sabon Gari",
+      "code": "NG-KD-7871258",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KD",
+      "latitude": 11.164,
+      "longitude": 7.697
+    },
+    {
+      "id": 7910314,
+      "name": "Sanga",
+      "nativeName": "Sanga",
+      "code": "NG-KD-7910314",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KD",
+      "latitude": 9.25,
+      "longitude": 8.45
+    },
+    {
+      "id": 7910322,
+      "name": "Soba",
+      "nativeName": "Soba",
+      "code": "NG-KD-7910322",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KD",
+      "latitude": 10.87005,
+      "longitude": 7.96443
+    },
+    {
+      "id": 8634540,
+      "name": "Zangon Kataf",
+      "nativeName": "Zangon Kataf",
+      "code": "NG-KD-8634540",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KD",
+      "latitude": 9.841,
+      "longitude": 8.25491
+    },
+    {
+      "id": 7871257,
+      "name": "Zaria",
+      "nativeName": "Zaria",
+      "code": "NG-KD-7871257",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-KD",
+      "latitude": 10.98854,
+      "longitude": 7.69622
+    }
+  ]
+}

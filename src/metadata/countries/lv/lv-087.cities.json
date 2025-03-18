@@ -1,0 +1,29 @@
+{
+  "stateId": 7628323,
+  "stateCode": "LV-087",
+  "countryCode": "LV",
+  "cities": [
+    {
+      "id": 11352855,
+      "name": "Salaspils",
+      "nativeName": "Salaspils",
+      "code": "LV-087-11352855",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-087",
+      "latitude": 56.86613,
+      "longitude": 24.35669
+    },
+    {
+      "id": 11352886,
+      "name": "Salaspils pagasts",
+      "nativeName": "Salaspils pagasts",
+      "code": "LV-087-11352886",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-087",
+      "latitude": 56.89325,
+      "longitude": 24.31
+    }
+  ]
+}

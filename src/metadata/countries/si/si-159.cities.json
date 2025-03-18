@@ -1,0 +1,84 @@
+{
+  "stateId": 3344922,
+  "stateCode": "SI-159",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3186543,
+      "name": "Zgornja Hajdina",
+      "nativeName": "Zgornja Hajdina",
+      "code": "SI-159-3186543",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-159",
+      "latitude": 46.40611,
+      "longitude": 15.83861
+    },
+    {
+      "id": 3200675,
+      "name": "Gerečja Vas",
+      "nativeName": "Gerečja Vas",
+      "code": "SI-159-3200675",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-159",
+      "latitude": 46.43333,
+      "longitude": 15.81667
+    },
+    {
+      "id": 8986888,
+      "name": "Hajdoše",
+      "nativeName": "Hajdoše",
+      "code": "SI-159-8986888",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-159",
+      "latitude": 46.43289,
+      "longitude": 15.82614
+    },
+    {
+      "id": 3194476,
+      "name": "Njiverce",
+      "nativeName": "Njiverce",
+      "code": "SI-159-3194476",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-159",
+      "latitude": 46.40367,
+      "longitude": 15.80675
+    },
+    {
+      "id": 3190702,
+      "name": "Skorba",
+      "nativeName": "Skorba",
+      "code": "SI-159-3190702",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-159",
+      "latitude": 46.41667,
+      "longitude": 15.83333
+    },
+    {
+      "id": 3190537,
+      "name": "Slovenja Vas",
+      "nativeName": "Slovenja Vas",
+      "code": "SI-159-3190537",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-159",
+      "latitude": 46.45,
+      "longitude": 15.8
+    },
+    {
+      "id": 3190249,
+      "name": "Spodnja Hajdina",
+      "nativeName": "Spodnja Hajdina",
+      "code": "SI-159-3190249",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-159",
+      "latitude": 46.40889,
+      "longitude": 15.84694
+    }
+  ]
+}

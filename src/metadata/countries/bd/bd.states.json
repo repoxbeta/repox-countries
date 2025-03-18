@@ -1,0 +1,94 @@
+{
+  "countryId": 1210997,
+  "countryCode": "BD",
+  "states": [
+    {
+      "id": 1337229,
+      "name": "Barisal Division",
+      "nativeName": "Barisal Division",
+      "code": "BD-A",
+      "internalCode": "A",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "latitude": 22.5,
+      "longitude": 90.33333
+    },
+    {
+      "id": 1337200,
+      "name": "Chittagong",
+      "nativeName": "Chittagong",
+      "code": "BD-B",
+      "internalCode": "B",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "latitude": 22.91667,
+      "longitude": 91.5
+    },
+    {
+      "id": 1337179,
+      "name": "Dhaka Division",
+      "nativeName": "Dhaka Division",
+      "code": "BD-C",
+      "internalCode": "C",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "latitude": 23.83333,
+      "longitude": 90.25
+    },
+    {
+      "id": 1337210,
+      "name": "Khulna Division",
+      "nativeName": "Khulna Division",
+      "code": "BD-D",
+      "internalCode": "D",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "latitude": 22.91667,
+      "longitude": 89.33333
+    },
+    {
+      "id": 11287936,
+      "name": "Mymensingh Division",
+      "nativeName": "Mymensingh Division",
+      "code": "BD-H",
+      "internalCode": "H",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "latitude": 24.72937,
+      "longitude": 90.38109
+    },
+    {
+      "id": 1337166,
+      "name": "Rajshahi Division",
+      "nativeName": "Rājshāhi Division",
+      "code": "BD-E",
+      "internalCode": "E",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "latitude": 25,
+      "longitude": 89
+    },
+    {
+      "id": 7671048,
+      "name": "Rangpur Division",
+      "nativeName": "Rangpur Division",
+      "code": "BD-F",
+      "internalCode": "F",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "latitude": 25.83333,
+      "longitude": 89
+    },
+    {
+      "id": 1477362,
+      "name": "Sylhet Division",
+      "nativeName": "Sylhet Division",
+      "code": "BD-G",
+      "internalCode": "G",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "latitude": 24.66667,
+      "longitude": 91.66667
+    }
+  ]
+}

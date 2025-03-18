@@ -1,0 +1,282 @@
+{
+  "stateId": 1835847,
+  "stateCode": "KR-11",
+  "countryCode": "KR",
+  "cities": [
+    {
+      "id": 1834758,
+      "name": "Dobong-gu",
+      "nativeName": "Dobong-gu",
+      "code": "KR-11-1834758",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-11",
+      "latitude": 37.65066,
+      "longitude": 127.03011
+    },
+    {
+      "id": 1834328,
+      "name": "Dongdaemun",
+      "nativeName": "Dongdaemun-gu",
+      "code": "KR-11-1834328",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-11",
+      "latitude": 37.58189,
+      "longitude": 127.05408
+    },
+    {
+      "id": 1834245,
+      "name": "Dongjak-gu",
+      "nativeName": "Dongjak-gu",
+      "code": "KR-11-1834245",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-11",
+      "latitude": 37.50056,
+      "longitude": 126.95149
+    },
+    {
+      "id": 1833594,
+      "name": "Eunpyeong-gu",
+      "nativeName": "Eunpyeong-gu",
+      "code": "KR-11-1833594",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-11",
+      "latitude": 37.61846,
+      "longitude": 126.9278
+    },
+    {
+      "id": 1836339,
+      "name": "Gangbuk-gu",
+      "nativeName": "Gangbuk-gu",
+      "code": "KR-11-1836339",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-11",
+      "latitude": 37.6349,
+      "longitude": 127.02015
+    },
+    {
+      "id": 1836279,
+      "name": "Gangdong-gu",
+      "nativeName": "Gangdong-gu",
+      "code": "KR-11-1836279",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-11",
+      "latitude": 37.55274,
+      "longitude": 127.14546
+    },
+    {
+      "id": 1843140,
+      "name": "Gangnam-gu",
+      "nativeName": "Gangnam-gu",
+      "code": "KR-11-1843140",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-11",
+      "latitude": 37.4951,
+      "longitude": 127.06278
+    },
+    {
+      "id": 1843128,
+      "name": "Gangseo-gu",
+      "nativeName": "Gangseo-gu",
+      "code": "KR-11-1843128",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-11",
+      "latitude": 37.56227,
+      "longitude": 126.81622
+    },
+    {
+      "id": 8349534,
+      "name": "Geumcheon-gu",
+      "nativeName": "Geumcheon-gu",
+      "code": "KR-11-8349534",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-11",
+      "latitude": 37.47486,
+      "longitude": 126.89106
+    },
+    {
+      "id": 1841986,
+      "name": "Guro-gu",
+      "nativeName": "Guro-gu",
+      "code": "KR-11-1841986",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-11",
+      "latitude": 37.49447,
+      "longitude": 126.8502
+    },
+    {
+      "id": 1841893,
+      "name": "Gwanak-gu",
+      "nativeName": "Gwanak-gu",
+      "code": "KR-11-1841893",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-11",
+      "latitude": 37.47876,
+      "longitude": 126.95235
+    },
+    {
+      "id": 8349529,
+      "name": "Gwangjin-gu",
+      "nativeName": "Gwangjin-gu",
+      "code": "KR-11-8349529",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-11",
+      "latitude": 37.53913,
+      "longitude": 127.08366
+    },
+    {
+      "id": 1845581,
+      "name": "Jongno-gu",
+      "nativeName": "Jongno-gu",
+      "code": "KR-11-1845581",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-11",
+      "latitude": 37.5729,
+      "longitude": 126.97928
+    },
+    {
+      "id": 1845068,
+      "name": "Jung-gu",
+      "nativeName": "Jung-gu",
+      "code": "KR-11-1845068",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-11",
+      "latitude": 37.55986,
+      "longitude": 126.99398
+    },
+    {
+      "id": 8349530,
+      "name": "Jungnang-gu",
+      "nativeName": "Jungnang-gu",
+      "code": "KR-11-8349530",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-11",
+      "latitude": 37.60199,
+      "longitude": 127.10461
+    },
+    {
+      "id": 1841277,
+      "name": "Mapo-gu",
+      "nativeName": "Mapo-gu",
+      "code": "KR-11-1841277",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-11",
+      "latitude": 37.55438,
+      "longitude": 126.90926
+    },
+    {
+      "id": 8349531,
+      "name": "Nowon-gu",
+      "nativeName": "Nowon-gu",
+      "code": "KR-11-8349531",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-11",
+      "latitude": 37.66045,
+      "longitude": 127.06718
+    },
+    {
+      "id": 8349535,
+      "name": "Seocho-gu",
+      "nativeName": "Seocho-gu",
+      "code": "KR-11-8349535",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-11",
+      "latitude": 37.49447,
+      "longitude": 127.01088
+    },
+    {
+      "id": 1836701,
+      "name": "Seodaemun-gu",
+      "nativeName": "Seodaemun-gu",
+      "code": "KR-11-1836701",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-11",
+      "latitude": 37.57809,
+      "longitude": 126.93506
+    },
+    {
+      "id": 8349532,
+      "name": "Seongbuk-gu",
+      "nativeName": "Seongbuk-gu",
+      "code": "KR-11-8349532",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-11",
+      "latitude": 37.60267,
+      "longitude": 127.01448
+    },
+    {
+      "id": 8349528,
+      "name": "Seongdong-gu",
+      "nativeName": "Seongdong-gu",
+      "code": "KR-11-8349528",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-11",
+      "latitude": 37.54784,
+      "longitude": 127.02461
+    },
+    {
+      "id": 8349536,
+      "name": "Songpa-gu",
+      "nativeName": "Songpa-gu",
+      "code": "KR-11-8349536",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-11",
+      "latitude": 37.5021,
+      "longitude": 127.11113
+    },
+    {
+      "id": 8349533,
+      "name": "Yangcheon-gu",
+      "nativeName": "Yangcheon-gu",
+      "code": "KR-11-8349533",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-11",
+      "latitude": 37.52157,
+      "longitude": 126.85827
+    },
+    {
+      "id": 1832536,
+      "name": "Yeongdeungpo-gu",
+      "nativeName": "Yeongdeungpo-gu",
+      "code": "KR-11-1832536",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-11",
+      "latitude": 37.52606,
+      "longitude": 126.90308
+    },
+    {
+      "id": 1832311,
+      "name": "Yongsan-gu",
+      "nativeName": "Yongsan-gu",
+      "code": "KR-11-1832311",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-11",
+      "latitude": 37.53391,
+      "longitude": 126.9775
+    }
+  ]
+}

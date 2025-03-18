@@ -1,0 +1,128 @@
+{
+  "stateId": 1582720,
+  "stateCode": "VN-39",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 9075679,
+      "name": "Cẩm Mỹ District",
+      "nativeName": "Huyện Cẩm Mỹ",
+      "code": "VN-39-9075679",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-39",
+      "latitude": 10.80894,
+      "longitude": 107.25284
+    },
+    {
+      "id": 1905546,
+      "name": "Huyện Nhơn Trạch",
+      "nativeName": "Huyện Nhơn Trạch",
+      "code": "VN-39-1905546",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-39",
+      "latitude": 10.69692,
+      "longitude": 106.88205
+    },
+    {
+      "id": 1905548,
+      "name": "Huyện Xuân Lộc",
+      "nativeName": "Huyện Xuân Lộc",
+      "code": "VN-39-1905548",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-39",
+      "latitude": 10.92563,
+      "longitude": 107.42814
+    },
+    {
+      "id": 1905545,
+      "name": "Long Thành District",
+      "nativeName": "Huyện Long Thành",
+      "code": "VN-39-1905545",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-39",
+      "latitude": 10.76162,
+      "longitude": 107.02688
+    },
+    {
+      "id": 1905542,
+      "name": "Thành Phố Biên Hòa",
+      "nativeName": "Thành Phố Biên Hòa",
+      "code": "VN-39-1905542",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-39",
+      "latitude": 10.9575,
+      "longitude": 106.84264
+    },
+    {
+      "id": 1905547,
+      "name": "Thị Xã Long Khánh",
+      "nativeName": "Thị Xã Long Khánh",
+      "code": "VN-39-1905547",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-39",
+      "latitude": 10.9354,
+      "longitude": 107.23192
+    },
+    {
+      "id": 1905544,
+      "name": "Thống Nhất District",
+      "nativeName": "Huyện Thống Nhất",
+      "code": "VN-39-1905544",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-39",
+      "latitude": 10.97764,
+      "longitude": 107.15909
+    },
+    {
+      "id": 9075680,
+      "name": "Trảng Bom District",
+      "nativeName": "Huyện Trảng Bom",
+      "code": "VN-39-9075680",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-39",
+      "latitude": 10.96624,
+      "longitude": 107.03614
+    },
+    {
+      "id": 1905550,
+      "name": "Tân Phú District",
+      "nativeName": "Huyện Tân Phú",
+      "code": "VN-39-1905550",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-39",
+      "latitude": 11.39867,
+      "longitude": 107.39976
+    },
+    {
+      "id": 1905543,
+      "name": "Vĩnh Cửu District",
+      "nativeName": "Huyện Vĩnh Cửu",
+      "code": "VN-39-1905543",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-39",
+      "latitude": 11.19004,
+      "longitude": 107.05204
+    },
+    {
+      "id": 1905549,
+      "name": "Định Quán District",
+      "nativeName": "Huyện Định Quán",
+      "code": "VN-39-1905549",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-39",
+      "latitude": 11.21625,
+      "longitude": 107.28811
+    }
+  ]
+}

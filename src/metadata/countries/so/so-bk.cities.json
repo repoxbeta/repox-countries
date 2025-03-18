@@ -1,0 +1,73 @@
+{
+  "stateId": 64982,
+  "stateCode": "SO-BK",
+  "countryCode": "SO",
+  "cities": [
+    {
+      "id": 9179627,
+      "name": "El Barde District",
+      "nativeName": "Ceel Barde",
+      "code": "SO-BK-9179627",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-BK",
+      "latitude": 4.67388,
+      "longitude": 43.99833
+    },
+    {
+      "id": 9179988,
+      "name": "Hudur District",
+      "nativeName": "Hudur",
+      "code": "SO-BK-9179988",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-BK",
+      "latitude": 4.12,
+      "longitude": 43.88778
+    },
+    {
+      "id": 9179630,
+      "name": "Rabdhure District",
+      "nativeName": "Rab Dhuure",
+      "code": "SO-BK-9179630",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-BK",
+      "latitude": 4.24328,
+      "longitude": 43.21162
+    },
+    {
+      "id": 9179634,
+      "name": "Tiyeglow District",
+      "nativeName": "Tayeeglow",
+      "code": "SO-BK-9179634",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-BK",
+      "latitude": 3.83594,
+      "longitude": 44.52907
+    },
+    {
+      "id": 9179637,
+      "name": "Wajid District",
+      "nativeName": "Waajid",
+      "code": "SO-BK-9179637",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-BK",
+      "latitude": 3.81645,
+      "longitude": 43.43285
+    },
+    {
+      "id": 9179640,
+      "name": "Xudur",
+      "nativeName": "Xudur",
+      "code": "SO-BK-9179640",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-BK",
+      "latitude": 4.18891,
+      "longitude": 43.90622
+    }
+  ]
+}

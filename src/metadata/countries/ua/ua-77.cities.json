@@ -1,0 +1,40 @@
+{
+  "stateId": 710720,
+  "stateCode": "UA-77",
+  "countryCode": "UA",
+  "cities": [
+    {
+      "id": 12189534,
+      "name": "Chernivtsi Raion",
+      "nativeName": "Chernivestkyi Raion",
+      "code": "UA-77-12189534",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-77",
+      "latitude": 48.22166,
+      "longitude": 25.89845
+    },
+    {
+      "id": 12189533,
+      "name": "Dnistrovskyi Raion",
+      "nativeName": "Dnistrovskyi Raion",
+      "code": "UA-77-12189533",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-77",
+      "latitude": 48.47279,
+      "longitude": 26.76814
+    },
+    {
+      "id": 12156240,
+      "name": "Vyzhnytsia Raion",
+      "nativeName": "Vyzhnytsya Raion",
+      "code": "UA-77-12156240",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-77",
+      "latitude": 48.24828,
+      "longitude": 25.18951
+    }
+  ]
+}

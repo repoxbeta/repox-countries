@@ -1,0 +1,84 @@
+{
+  "stateId": 3947421,
+  "stateCode": "PE-APU",
+  "countryCode": "PE",
+  "cities": [
+    {
+      "id": 3948641,
+      "name": "Abancay Province",
+      "nativeName": "Provincia de Abancay",
+      "code": "PE-APU-3948641",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-APU",
+      "latitude": -13.72569,
+      "longitude": -72.8385
+    },
+    {
+      "id": 3947739,
+      "name": "Andahuaylas Province",
+      "nativeName": "Provincia de Andahuaylas",
+      "code": "PE-APU-3947739",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-APU",
+      "latitude": -13.77195,
+      "longitude": -73.40231
+    },
+    {
+      "id": 3947611,
+      "name": "Antabamba Province",
+      "nativeName": "Provincia de Antabamba",
+      "code": "PE-APU-3947611",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-APU",
+      "latitude": -14.45336,
+      "longitude": -72.72926
+    },
+    {
+      "id": 3946963,
+      "name": "Aymaraes Province",
+      "nativeName": "Provincia de Aymaraes",
+      "code": "PE-APU-3946963",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-APU",
+      "latitude": -14.35286,
+      "longitude": -73.24043
+    },
+    {
+      "id": 8349550,
+      "name": "Chincheros",
+      "nativeName": "Chincheros",
+      "code": "PE-APU-8349550",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-APU",
+      "latitude": -13.47005,
+      "longitude": -73.67162
+    },
+    {
+      "id": 3942083,
+      "name": "Cotabambas Province",
+      "nativeName": "Provincia de Cotabambas",
+      "code": "PE-APU-3942083",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-APU",
+      "latitude": -14.02393,
+      "longitude": -72.22393
+    },
+    {
+      "id": 3940641,
+      "name": "Grau Province",
+      "nativeName": "Provincia de Grau",
+      "code": "PE-APU-3940641",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-APU",
+      "latitude": -14.04786,
+      "longitude": -72.61683
+    }
+  ]
+}

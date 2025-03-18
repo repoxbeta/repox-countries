@@ -1,0 +1,84 @@
+{
+  "stateId": 53707,
+  "stateCode": "SO-MU",
+  "countryCode": "SO",
+  "cities": [
+    {
+      "id": 9179631,
+      "name": "Cadaado",
+      "nativeName": "Cadaado",
+      "code": "SO-MU-9179631",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-MU",
+      "latitude": 6.13069,
+      "longitude": 47.03673
+    },
+    {
+      "id": 9179667,
+      "name": "Galdogob District",
+      "nativeName": "Galdogob",
+      "code": "SO-MU-9179667",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-MU",
+      "latitude": 7.03917,
+      "longitude": 47.22166
+    },
+    {
+      "id": 9179661,
+      "name": "Galkayo District",
+      "nativeName": "Gaalkacyo",
+      "code": "SO-MU-9179661",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-MU",
+      "latitude": 6.93523,
+      "longitude": 47.68801
+    },
+    {
+      "id": 9179613,
+      "name": "Harardhere District",
+      "nativeName": "Xarardheere",
+      "code": "SO-MU-9179613",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-MU",
+      "latitude": 4.79177,
+      "longitude": 47.83519
+    },
+    {
+      "id": 9179670,
+      "name": "Hobyo District",
+      "nativeName": "Hobyo",
+      "code": "SO-MU-9179670",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-MU",
+      "latitude": 5.97081,
+      "longitude": 48.20473
+    },
+    {
+      "id": 9179674,
+      "name": "Jariban District",
+      "nativeName": "Jariiban",
+      "code": "SO-MU-9179674",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-MU",
+      "latitude": 7.16241,
+      "longitude": 49.00102
+    },
+    {
+      "id": 9180000,
+      "name": "Xarfo District",
+      "nativeName": "Xarfo District",
+      "code": "SO-MU-9180000",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-MU",
+      "latitude": 8.58389,
+      "longitude": 47.94639
+    }
+  ]
+}

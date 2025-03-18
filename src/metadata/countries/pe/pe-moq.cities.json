@@ -1,0 +1,40 @@
+{
+  "stateId": 3934607,
+  "stateCode": "PE-MOQ",
+  "countryCode": "PE",
+  "cities": [
+    {
+      "id": 3940771,
+      "name": "General Sánchez Cerro Province",
+      "nativeName": "Provincia de General Sánchez Cerro",
+      "code": "PE-MOQ-3940771",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-MOQ",
+      "latitude": -16.41593,
+      "longitude": -70.76727
+    },
+    {
+      "id": 3938414,
+      "name": "Ilo Province",
+      "nativeName": "Provincia de Ilo",
+      "code": "PE-MOQ-3938414",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-MOQ",
+      "latitude": -17.58377,
+      "longitude": -71.2127
+    },
+    {
+      "id": 3935255,
+      "name": "Mariscal Nieto Province",
+      "nativeName": "Provincia de Mariscal Nieto",
+      "code": "PE-MOQ-3935255",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-MOQ",
+      "latitude": -17.02573,
+      "longitude": -70.80488
+    }
+  ]
+}

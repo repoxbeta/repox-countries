@@ -1,0 +1,62 @@
+{
+  "stateId": 830704,
+  "stateCode": "FI-11",
+  "countryCode": "FI",
+  "cities": [
+    {
+      "id": 9610685,
+      "name": "Etelä-Pirkanmaa",
+      "nativeName": "Etelä-Pirkanmaa",
+      "code": "FI-11-9610685",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-11",
+      "latitude": 61.14637,
+      "longitude": 23.71874
+    },
+    {
+      "id": 9610687,
+      "name": "Lounais-Pirkanmaa",
+      "nativeName": "Lounais-Pirkanmaa",
+      "code": "FI-11-9610687",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-11",
+      "latitude": 61.36155,
+      "longitude": 22.92897
+    },
+    {
+      "id": 9610684,
+      "name": "Luoteis-Pirkanmaa",
+      "nativeName": "Luoteis-Pirkanmaa",
+      "code": "FI-11-9610684",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-11",
+      "latitude": 61.97729,
+      "longitude": 23.06801
+    },
+    {
+      "id": 9610686,
+      "name": "Tampere",
+      "nativeName": "Tampere",
+      "code": "FI-11-9610686",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-11",
+      "latitude": 61.57018,
+      "longitude": 23.92509
+    },
+    {
+      "id": 9610688,
+      "name": "Ylä-Pirkanmaa",
+      "nativeName": "Ylä-Pirkanmaa",
+      "code": "FI-11-9610688",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-11",
+      "latitude": 62.09625,
+      "longitude": 24.04921
+    }
+  ]
+}

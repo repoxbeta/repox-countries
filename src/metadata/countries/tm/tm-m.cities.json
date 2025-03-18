@@ -1,0 +1,29 @@
+{
+  "stateId": 1218666,
+  "stateCode": "TM-M",
+  "countryCode": "TM",
+  "cities": [
+    {
+      "id": 1218742,
+      "name": "Guşgy Etrap",
+      "nativeName": "Guşgy Etrap",
+      "code": "TM-M-1218742",
+      "countryId": 1218197,
+      "countryCode": "TM",
+      "stateCode": "TM-M",
+      "latitude": 35.26667,
+      "longitude": 62.33333
+    },
+    {
+      "id": 1218305,
+      "name": "Tagtabazar Etrap",
+      "nativeName": "Tagtabazar Etrap",
+      "code": "TM-M-1218305",
+      "countryId": 1218197,
+      "countryCode": "TM",
+      "stateCode": "TM-M",
+      "latitude": 36,
+      "longitude": 63
+    }
+  ]
+}

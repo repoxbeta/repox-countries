@@ -1,0 +1,83 @@
+{
+  "countryId": 294640,
+  "countryCode": "IL",
+  "states": [
+    {
+      "id": 294904,
+      "name": "Central District",
+      "nativeName": "Central District",
+      "code": "IL-M",
+      "internalCode": "M",
+      "countryId": 294640,
+      "countryCode": "IL",
+      "latitude": 32.08333,
+      "longitude": 34.91667
+    },
+    {
+      "id": 294800,
+      "name": "Haifa",
+      "nativeName": "Haifa",
+      "code": "IL-HA",
+      "internalCode": "HA",
+      "countryId": 294640,
+      "countryCode": "IL",
+      "latitude": 32.58333,
+      "longitude": 35
+    },
+    {
+      "id": 293198,
+      "name": "Jerusalem",
+      "nativeName": "Jerusalem",
+      "code": "IL-JM",
+      "internalCode": "JM",
+      "countryId": 294640,
+      "countryCode": "IL",
+      "latitude": 31.75,
+      "longitude": 35
+    },
+    {
+      "id": 11821181,
+      "name": "Judea and Samaria Area",
+      "nativeName": "Judea and Samaria Area",
+      "code": "IL-WE",
+      "internalCode": "",
+      "countryId": 294640,
+      "countryCode": "IL",
+      "latitude": 32.10578,
+      "longitude": 35.18635
+    },
+    {
+      "id": 294824,
+      "name": "Northern District",
+      "nativeName": "Northern District",
+      "code": "IL-Z",
+      "internalCode": "Z",
+      "countryId": 294640,
+      "countryCode": "IL",
+      "latitude": 32.86667,
+      "longitude": 35.46667
+    },
+    {
+      "id": 294952,
+      "name": "Southern District",
+      "nativeName": "Southern District",
+      "code": "IL-D",
+      "internalCode": "D",
+      "countryId": 294640,
+      "countryCode": "IL",
+      "latitude": 30.66667,
+      "longitude": 34.83333
+    },
+    {
+      "id": 293396,
+      "name": "Tel Aviv",
+      "nativeName": "Tel Aviv District",
+      "code": "IL-TA",
+      "internalCode": "TA",
+      "countryId": 294640,
+      "countryCode": "IL",
+      "latitude": 32.08414,
+      "longitude": 34.79995
+    }
+  ]
+}

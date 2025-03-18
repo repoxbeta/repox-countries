@@ -1,0 +1,106 @@
+{
+  "stateId": 3383062,
+  "stateCode": "SR-SI",
+  "countryCode": "SR",
+  "cities": [
+    {
+      "id": 12088735,
+      "name": "Boven Coppename",
+      "nativeName": "Boven Coppename",
+      "code": "SR-SI-12088735",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-SI",
+      "latitude": 4.41478,
+      "longitude": -56.52323
+    },
+    {
+      "id": 12088734,
+      "name": "Boven Saramacca",
+      "nativeName": "Boven Saramacca",
+      "code": "SR-SI-12088734",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-SI",
+      "latitude": 4.7817,
+      "longitude": -55.55429
+    },
+    {
+      "id": 12088733,
+      "name": "Boven Suriname",
+      "nativeName": "Boven Suriname",
+      "code": "SR-SI-12088733",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-SI",
+      "latitude": 3.90945,
+      "longitude": -55.57915
+    },
+    {
+      "id": 12088737,
+      "name": "Coeroeni",
+      "nativeName": "Coeroeni",
+      "code": "SR-SI-12088737",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-SI",
+      "latitude": 2.35736,
+      "longitude": -56.78602
+    },
+    {
+      "id": 12088736,
+      "name": "Kabalebo",
+      "nativeName": "Kabalebo",
+      "code": "SR-SI-12088736",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-SI",
+      "latitude": 4.40902,
+      "longitude": -57.22442
+    },
+    {
+      "id": 13108211,
+      "name": "Paramacca",
+      "nativeName": "Paramacca",
+      "code": "SR-SI-13108211",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-SI",
+      "latitude": 5.11404,
+      "longitude": -54.58685
+    },
+    {
+      "id": 13108212,
+      "name": "Ressort Boven-Coppename",
+      "nativeName": "Ressort Boven-Coppename",
+      "code": "SR-SI-13108212",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-SI",
+      "latitude": 4.38252,
+      "longitude": -56.26823
+    },
+    {
+      "id": 13108213,
+      "name": "Ressort Coeroeni",
+      "nativeName": "Ressort Coeroeni",
+      "code": "SR-SI-13108213",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-SI",
+      "latitude": 2.93739,
+      "longitude": -56.64109
+    },
+    {
+      "id": 12088731,
+      "name": "Tapanahony",
+      "nativeName": "Tapanahony",
+      "code": "SR-SI-12088731",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-SI",
+      "latitude": 3.50834,
+      "longitude": -55.05167
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "stateId": 1152221,
+  "stateCode": "TH-58",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 1152764,
+      "name": "Khun Yuam",
+      "nativeName": "Amphoe Khun Yuam",
+      "code": "TH-58-1152764",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-58",
+      "latitude": 18.82643,
+      "longitude": 97.93303
+    },
+    {
+      "id": 8308746,
+      "name": "Mae La Noi",
+      "nativeName": "Amphoe Mae La Noi",
+      "code": "TH-58-8308746",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-58",
+      "latitude": 18.47823,
+      "longitude": 97.98295
+    },
+    {
+      "id": 1152189,
+      "name": "Mae Sariang",
+      "nativeName": "Amphoe Mae Sariang",
+      "code": "TH-58-1152189",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-58",
+      "latitude": 18.26474,
+      "longitude": 97.77057
+    },
+    {
+      "id": 1151989,
+      "name": "Mueang Mae Hong Son",
+      "nativeName": "Amphoe Mueang Mae Hong Son",
+      "code": "TH-58-1151989",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-58",
+      "latitude": 19.28862,
+      "longitude": 98.00607
+    },
+    {
+      "id": 1151600,
+      "name": "Pai",
+      "nativeName": "Amphoe Pai",
+      "code": "TH-58-1151600",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-58",
+      "latitude": 19.36036,
+      "longitude": 98.40638
+    },
+    {
+      "id": 8304597,
+      "name": "Pang Mapha",
+      "nativeName": "Amphoe Pang Mapha",
+      "code": "TH-58-8304597",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-58",
+      "latitude": 19.60451,
+      "longitude": 98.2056
+    },
+    {
+      "id": 1150609,
+      "name": "Sop Moei",
+      "nativeName": "Amphoe Sop Moei",
+      "code": "TH-58-1150609",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-58",
+      "latitude": 17.96333,
+      "longitude": 97.93149
+    }
+  ]
+}

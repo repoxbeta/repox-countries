@@ -1,0 +1,62 @@
+{
+  "stateId": 6697800,
+  "stateCode": "GR-H",
+  "countryCode": "GR",
+  "cities": [
+    {
+      "id": 262564,
+      "name": "Euboea",
+      "nativeName": "Nomós Evvoías",
+      "code": "GR-H-262564",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-H",
+      "latitude": 38.5,
+      "longitude": 24
+    },
+    {
+      "id": 262572,
+      "name": "Nomós Evrytanías",
+      "nativeName": "Nomós Evrytanías",
+      "code": "GR-H-262572",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-H",
+      "latitude": 39,
+      "longitude": 21.66667
+    },
+    {
+      "id": 251851,
+      "name": "Nomós Voiotías",
+      "nativeName": "Nomós Voiotías",
+      "code": "GR-H-251851",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-H",
+      "latitude": 38.33333,
+      "longitude": 23
+    },
+    {
+      "id": 262322,
+      "name": "Phocis",
+      "nativeName": "Nomós Fokídos",
+      "code": "GR-H-262322",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-H",
+      "latitude": 38.5,
+      "longitude": 22.25
+    },
+    {
+      "id": 262187,
+      "name": "Phthiotis",
+      "nativeName": "Nomós Fthiótidos",
+      "code": "GR-H-262187",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-H",
+      "latitude": 38.83333,
+      "longitude": 22.41667
+    }
+  ]
+}

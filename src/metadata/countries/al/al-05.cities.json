@@ -1,0 +1,84 @@
+{
+  "stateId": 865733,
+  "stateCode": "AL-05",
+  "countryCode": "AL",
+  "cities": [
+    {
+      "id": 10944393,
+      "name": "Bashkia Dropull",
+      "nativeName": "Bashkia Dropull",
+      "code": "AL-05-10944393",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-05",
+      "latitude": 39.98584,
+      "longitude": 20.30529
+    },
+    {
+      "id": 10944394,
+      "name": "Bashkia Gjirokastër",
+      "nativeName": "Bashkia Gjirokastër",
+      "code": "AL-05-10944394",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-05",
+      "latitude": 40.12775,
+      "longitude": 20.07291
+    },
+    {
+      "id": 10944395,
+      "name": "Bashkia Kelcyrë",
+      "nativeName": "Bashkia Kelcyrë",
+      "code": "AL-05-10944395",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-05",
+      "latitude": 40.36196,
+      "longitude": 20.16476
+    },
+    {
+      "id": 10944396,
+      "name": "Bashkia Libohovë",
+      "nativeName": "Bashkia Libohovë",
+      "code": "AL-05-10944396",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-05",
+      "latitude": 40.10754,
+      "longitude": 20.25753
+    },
+    {
+      "id": 10944397,
+      "name": "Bashkia Memaliaj",
+      "nativeName": "Bashkia Memaliaj",
+      "code": "AL-05-10944397",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-05",
+      "latitude": 40.41524,
+      "longitude": 19.96911
+    },
+    {
+      "id": 10944398,
+      "name": "Bashkia Përmet",
+      "nativeName": "Bashkia Përmet",
+      "code": "AL-05-10944398",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-05",
+      "latitude": 40.23246,
+      "longitude": 20.41091
+    },
+    {
+      "id": 10944399,
+      "name": "Bashkia Tepelenë",
+      "nativeName": "Bashkia Tepelenë",
+      "code": "AL-05-10944399",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-05",
+      "latitude": 40.26736,
+      "longitude": 19.97003
+    }
+  ]
+}

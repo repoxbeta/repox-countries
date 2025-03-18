@@ -1,0 +1,62 @@
+{
+  "stateId": 1833742,
+  "stateCode": "KR-31",
+  "countryCode": "KR",
+  "cities": [
+    {
+      "id": 8605100,
+      "name": "Buk-gu",
+      "nativeName": "Buk-gu",
+      "code": "KR-31-8605100",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-31",
+      "latitude": 35.58243,
+      "longitude": 129.36049
+    },
+    {
+      "id": 8605090,
+      "name": "Dong-gu",
+      "nativeName": "Dong-gu",
+      "code": "KR-31-8605090",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-31",
+      "latitude": 35.5047,
+      "longitude": 129.4186
+    },
+    {
+      "id": 8605097,
+      "name": "Jung-gu",
+      "nativeName": "Jung-gu",
+      "code": "KR-31-8605097",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-31",
+      "latitude": 35.5684,
+      "longitude": 129.33226
+    },
+    {
+      "id": 8605089,
+      "name": "Nam-gu",
+      "nativeName": "Nam-gu",
+      "code": "KR-31-8605089",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-31",
+      "latitude": 35.54382,
+      "longitude": 129.32917
+    },
+    {
+      "id": 1833760,
+      "name": "Ulju-gun",
+      "nativeName": "Ulju-gun",
+      "code": "KR-31-1833760",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-31",
+      "latitude": 35.56233,
+      "longitude": 129.1269
+    }
+  ]
+}

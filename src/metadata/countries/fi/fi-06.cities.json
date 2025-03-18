@@ -1,0 +1,40 @@
+{
+  "stateId": 830705,
+  "stateCode": "FI-06",
+  "countryCode": "FI",
+  "cities": [
+    {
+      "id": 9610683,
+      "name": "Forssa",
+      "nativeName": "Forssa",
+      "code": "FI-06-9610683",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-06",
+      "latitude": 60.82916,
+      "longitude": 23.61286
+    },
+    {
+      "id": 9610681,
+      "name": "Hämeenlinna",
+      "nativeName": "Hämeenlinna",
+      "code": "FI-06-9610681",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-06",
+      "latitude": 61.03434,
+      "longitude": 24.57026
+    },
+    {
+      "id": 9610682,
+      "name": "Riihimäki",
+      "nativeName": "Riihimäki",
+      "code": "FI-06-9610682",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-06",
+      "latitude": 60.72611,
+      "longitude": 24.60037
+    }
+  ]
+}

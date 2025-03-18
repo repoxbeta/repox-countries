@@ -1,0 +1,84 @@
+{
+  "stateId": 448501,
+  "stateCode": "ER-MA",
+  "countryCode": "ER",
+  "cities": [
+    {
+      "id": 9166015,
+      "name": "Berikh",
+      "nativeName": "Berikh",
+      "code": "ER-MA-9166015",
+      "countryId": 338010,
+      "countryCode": "ER",
+      "stateCode": "ER-MA",
+      "latitude": 15.3321,
+      "longitude": 38.76714
+    },
+    {
+      "id": 9166018,
+      "name": "Ghala Nefhi",
+      "nativeName": "Ghala Nefhi",
+      "code": "ER-MA-9166018",
+      "countryId": 338010,
+      "countryCode": "ER",
+      "stateCode": "ER-MA",
+      "latitude": 15.24944,
+      "longitude": 38.78417
+    },
+    {
+      "id": 9166034,
+      "name": "North Eastern Subregion",
+      "nativeName": "North Eastern Subregion",
+      "code": "ER-MA-9166034",
+      "countryId": 338010,
+      "countryCode": "ER",
+      "stateCode": "ER-MA",
+      "latitude": 15.37314,
+      "longitude": 38.9338
+    },
+    {
+      "id": 12217621,
+      "name": "Semienawi Mibrak",
+      "nativeName": "Semienawi Mibrak",
+      "code": "ER-MA-12217621",
+      "countryId": 338010,
+      "countryCode": "ER",
+      "stateCode": "ER-MA",
+      "latitude": 15.3521,
+      "longitude": 38.95545
+    },
+    {
+      "id": 9166024,
+      "name": "Serejaka",
+      "nativeName": "Serejaka",
+      "code": "ER-MA-9166024",
+      "countryId": 338010,
+      "countryCode": "ER",
+      "stateCode": "ER-MA",
+      "latitude": 15.49709,
+      "longitude": 38.84374
+    },
+    {
+      "id": 9166027,
+      "name": "South Eastern Subregion",
+      "nativeName": "South Eastern Subregion",
+      "code": "ER-MA-9166027",
+      "countryId": 338010,
+      "countryCode": "ER",
+      "stateCode": "ER-MA",
+      "latitude": 15.32449,
+      "longitude": 38.94417
+    },
+    {
+      "id": 9166028,
+      "name": "South Western Subregion",
+      "nativeName": "South Western Subregion",
+      "code": "ER-MA-9166028",
+      "countryId": 338010,
+      "countryCode": "ER",
+      "stateCode": "ER-MA",
+      "latitude": 15.31487,
+      "longitude": 38.90925
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "stateId": 3617762,
+  "stateCode": "NI-MN",
+  "countryCode": "NI",
+  "cities": [
+    {
+      "id": 11002671,
+      "name": "Ciudad Sandino",
+      "nativeName": "Ciudad Sandino",
+      "code": "NI-MN-11002671",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-MN",
+      "latitude": 12.15659,
+      "longitude": -86.35649
+    },
+    {
+      "id": 11002673,
+      "name": "El Crucero",
+      "nativeName": "El Crucero",
+      "code": "NI-MN-11002673",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-MN",
+      "latitude": 11.98025,
+      "longitude": -86.31138
+    },
+    {
+      "id": 3617760,
+      "name": "Municipio de Managua",
+      "nativeName": "Municipio de Managua",
+      "code": "NI-MN-3617760",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-MN",
+      "latitude": 12.1125,
+      "longitude": -86.24241
+    },
+    {
+      "id": 3617696,
+      "name": "Municipio de Mateare",
+      "nativeName": "Municipio de Mateare",
+      "code": "NI-MN-3617696",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-MN",
+      "latitude": 12.20368,
+      "longitude": -86.40457
+    },
+    {
+      "id": 3616847,
+      "name": "Municipio de San Francisco Libre",
+      "nativeName": "Municipio de San Francisco Libre",
+      "code": "NI-MN-3616847",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-MN",
+      "latitude": 12.504,
+      "longitude": -86.20784
+    },
+    {
+      "id": 3616593,
+      "name": "Municipio de San Rafael del Sur",
+      "nativeName": "Municipio de San Rafael del Sur",
+      "code": "NI-MN-3616593",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-MN",
+      "latitude": 11.86209,
+      "longitude": -86.44196
+    },
+    {
+      "id": 3616034,
+      "name": "Municipio de Tipitapa",
+      "nativeName": "Municipio de Tipitapa",
+      "code": "NI-MN-3616034",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-MN",
+      "latitude": 12.36021,
+      "longitude": -86.0117
+    },
+    {
+      "id": 11002672,
+      "name": "Ticuantepe",
+      "nativeName": "Ticuantepe",
+      "code": "NI-MN-11002672",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-MN",
+      "latitude": 12.02049,
+      "longitude": -86.20525
+    },
+    {
+      "id": 3620472,
+      "name": "Villa El Carmen",
+      "nativeName": "Villa El Carmen",
+      "code": "NI-MN-3620472",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-MN",
+      "latitude": 12.0223,
+      "longitude": -86.52688
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "stateId": 2244800,
+  "stateCode": "SN-TH",
+  "countryCode": "SN",
+  "cities": [
+    {
+      "id": 2248478,
+      "name": "Mbour",
+      "nativeName": "Mbour",
+      "code": "SN-TH-2248478",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "stateCode": "SN-TH",
+      "latitude": 14.40569,
+      "longitude": -16.85559
+    },
+    {
+      "id": 2244804,
+      "name": "Thies",
+      "nativeName": "Thiès",
+      "code": "SN-TH-2244804",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "stateCode": "SN-TH",
+      "latitude": 14.73004,
+      "longitude": -16.86974
+    },
+    {
+      "id": 2244388,
+      "name": "Tivaouane",
+      "nativeName": "Tivaouane",
+      "code": "SN-TH-2244388",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "stateCode": "SN-TH",
+      "latitude": 15.08519,
+      "longitude": -16.71058
+    }
+  ]
+}

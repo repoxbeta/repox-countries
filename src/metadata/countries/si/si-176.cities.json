@@ -1,0 +1,62 @@
+{
+  "stateId": 3344941,
+  "stateCode": "SI-176",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3215453,
+      "name": "Razkrižje",
+      "nativeName": "Razkrižje",
+      "code": "SI-176-3215453",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-176",
+      "latitude": 46.52167,
+      "longitude": 16.28111
+    },
+    {
+      "id": 3200666,
+      "name": "Gibina",
+      "nativeName": "Gibina",
+      "code": "SI-176-3200666",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-176",
+      "latitude": 46.52167,
+      "longitude": 16.30028
+    },
+    {
+      "id": 3200583,
+      "name": "Globoka",
+      "nativeName": "Globoka",
+      "code": "SI-176-3200583",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-176",
+      "latitude": 46.51667,
+      "longitude": 16.25
+    },
+    {
+      "id": 8987001,
+      "name": "Veščica",
+      "nativeName": "Veščica",
+      "code": "SI-176-8987001",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-176",
+      "latitude": 46.52166,
+      "longitude": 16.25784
+    },
+    {
+      "id": 8987527,
+      "name": "Šprinc",
+      "nativeName": "Šprinc",
+      "code": "SI-176-8987527",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-176",
+      "latitude": 46.50756,
+      "longitude": 16.25825
+    }
+  ]
+}

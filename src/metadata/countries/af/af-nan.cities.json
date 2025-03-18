@@ -1,0 +1,249 @@
+{
+  "stateId": 1132366,
+  "stateCode": "AF-NAN",
+  "countryCode": "AF",
+  "cities": [
+    {
+      "id": 7053262,
+      "name": "Achin District",
+      "nativeName": "Achīn",
+      "code": "AF-NAN-7053262",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-NAN",
+      "latitude": 34.05692,
+      "longitude": 70.66126
+    },
+    {
+      "id": 7053263,
+      "name": "Bati Kot District",
+      "nativeName": "Batī Kōṯ",
+      "code": "AF-NAN-7053263",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-NAN",
+      "latitude": 34.28939,
+      "longitude": 70.75653
+    },
+    {
+      "id": 7053264,
+      "name": "Bihsud District",
+      "nativeName": "Bihsūd",
+      "code": "AF-NAN-7053264",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-NAN",
+      "latitude": 34.44276,
+      "longitude": 70.50899
+    },
+    {
+      "id": 7053281,
+      "name": "Bihsud District",
+      "nativeName": "Jalālābād",
+      "code": "AF-NAN-7053281",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-NAN",
+      "latitude": 34.42189,
+      "longitude": 70.46353
+    },
+    {
+      "id": 7053265,
+      "name": "Chaparhar District",
+      "nativeName": "Chaparhār",
+      "code": "AF-NAN-7053265",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-NAN",
+      "latitude": 34.2908,
+      "longitude": 70.37334
+    },
+    {
+      "id": 7053266,
+      "name": "Dare Noor",
+      "nativeName": "Darah-ye Nūr",
+      "code": "AF-NAN-7053266",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-NAN",
+      "latitude": 34.70654,
+      "longitude": 70.58589
+    },
+    {
+      "id": 7053267,
+      "name": "Deh Bālā",
+      "nativeName": "Deh Bālā",
+      "code": "AF-NAN-7053267",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-NAN",
+      "latitude": 34.08845,
+      "longitude": 70.44382
+    },
+    {
+      "id": 7053278,
+      "name": "Dur Baba District",
+      "nativeName": "Dur Bābā",
+      "code": "AF-NAN-7053278",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-NAN",
+      "latitude": 34.09797,
+      "longitude": 70.96303
+    },
+    {
+      "id": 7053279,
+      "name": "Goshta District",
+      "nativeName": "Gōshtah",
+      "code": "AF-NAN-7053279",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-NAN",
+      "latitude": 34.44844,
+      "longitude": 70.86699
+    },
+    {
+      "id": 7053280,
+      "name": "Hesarak District",
+      "nativeName": "Ḩişārak",
+      "code": "AF-NAN-7053280",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-NAN",
+      "latitude": 34.27948,
+      "longitude": 69.76872
+    },
+    {
+      "id": 7053282,
+      "name": "Kama District",
+      "nativeName": "Kāmah",
+      "code": "AF-NAN-7053282",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-NAN",
+      "latitude": 34.44301,
+      "longitude": 70.65625
+    },
+    {
+      "id": 7053283,
+      "name": "Khogyani District",
+      "nativeName": "Khūgyāṉī",
+      "code": "AF-NAN-7053283",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-NAN",
+      "latitude": 34.2315,
+      "longitude": 70.1494
+    },
+    {
+      "id": 7053284,
+      "name": "Kot District",
+      "nativeName": "Kōṯ",
+      "code": "AF-NAN-7053284",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-NAN",
+      "latitude": 34.15318,
+      "longitude": 70.59534
+    },
+    {
+      "id": 7053285,
+      "name": "Kuz Kunar District",
+      "nativeName": "Kūz Kunaṟ",
+      "code": "AF-NAN-7053285",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-NAN",
+      "latitude": 34.55927,
+      "longitude": 70.60681
+    },
+    {
+      "id": 7053286,
+      "name": "Lal Pur District",
+      "nativeName": "La‘lpūr",
+      "code": "AF-NAN-7053286",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-NAN",
+      "latitude": 34.33339,
+      "longitude": 71.02459
+    },
+    {
+      "id": 7053287,
+      "name": "Momand Dara District",
+      "nativeName": "Mohmand Darah",
+      "code": "AF-NAN-7053287",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-NAN",
+      "latitude": 34.20476,
+      "longitude": 70.98418
+    },
+    {
+      "id": 7053288,
+      "name": "Nāziyān District",
+      "nativeName": "Nāziyān",
+      "code": "AF-NAN-7053288",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-NAN",
+      "latitude": 34.05591,
+      "longitude": 70.82577
+    },
+    {
+      "id": 7053289,
+      "name": "Pachir Aw Agam District",
+      "nativeName": "Pachīr wa Āgām",
+      "code": "AF-NAN-7053289",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-NAN",
+      "latitude": 34.08776,
+      "longitude": 70.28059
+    },
+    {
+      "id": 7053290,
+      "name": "Rodat District",
+      "nativeName": "Rōdāt",
+      "code": "AF-NAN-7053290",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-NAN",
+      "latitude": 34.27301,
+      "longitude": 70.56822
+    },
+    {
+      "id": 7053292,
+      "name": "Shinwar District",
+      "nativeName": "Shīnwār",
+      "code": "AF-NAN-7053292",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-NAN",
+      "latitude": 34.20575,
+      "longitude": 70.79581
+    },
+    {
+      "id": 7053291,
+      "name": "Shērzād",
+      "nativeName": "Shērzād",
+      "code": "AF-NAN-7053291",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-NAN",
+      "latitude": 34.19418,
+      "longitude": 69.98013
+    },
+    {
+      "id": 7053293,
+      "name": "Surkh-Rōd District",
+      "nativeName": "Surkh Rōd",
+      "code": "AF-NAN-7053293",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-NAN",
+      "latitude": 34.39474,
+      "longitude": 70.27658
+    }
+  ]
+}

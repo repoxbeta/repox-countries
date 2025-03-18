@@ -1,0 +1,95 @@
+{
+  "stateId": 148679,
+  "stateCode": "TZ-05",
+  "countryCode": "TZ",
+  "cities": [
+    {
+      "id": 161153,
+      "name": "Biharamulo District",
+      "nativeName": "Biharamulo District",
+      "code": "TZ-05-161153",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-05",
+      "latitude": -2.766,
+      "longitude": 31.459
+    },
+    {
+      "id": 160960,
+      "name": "Bukoba District Council",
+      "nativeName": "Bukoba",
+      "code": "TZ-05-160960",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-05",
+      "latitude": -1.4157,
+      "longitude": 31.64538
+    },
+    {
+      "id": 9998074,
+      "name": "Bukoba Municipal",
+      "nativeName": "Bukoba Municipal",
+      "code": "TZ-05-9998074",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-05",
+      "latitude": -1.32076,
+      "longitude": 31.80428
+    },
+    {
+      "id": 158337,
+      "name": "Karagwe District",
+      "nativeName": "Karagwe",
+      "code": "TZ-05-158337",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-05",
+      "latitude": -1.69053,
+      "longitude": 31.04259
+    },
+    {
+      "id": 9998075,
+      "name": "Kyerwa District Council",
+      "nativeName": "Kyerwa",
+      "code": "TZ-05-9998075",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-05",
+      "latitude": -1.26036,
+      "longitude": 30.79555
+    },
+    {
+      "id": 9998076,
+      "name": "Missenyi District Council",
+      "nativeName": "Missenyi",
+      "code": "TZ-05-9998076",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-05",
+      "latitude": -1.13218,
+      "longitude": 31.43796
+    },
+    {
+      "id": 152569,
+      "name": "Muleba District Council",
+      "nativeName": "Muleba",
+      "code": "TZ-05-152569",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-05",
+      "latitude": -1.85664,
+      "longitude": 31.54392
+    },
+    {
+      "id": 151710,
+      "name": "Ngara District",
+      "nativeName": "Ngara",
+      "code": "TZ-05-151710",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-05",
+      "latitude": -2.64363,
+      "longitude": 30.66136
+    }
+  ]
+}

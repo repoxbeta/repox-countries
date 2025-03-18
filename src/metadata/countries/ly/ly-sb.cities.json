@@ -1,0 +1,73 @@
+{
+  "stateId": 2212774,
+  "stateCode": "LY-SB",
+  "countryCode": "LY",
+  "cities": [
+    {
+      "id": 2212775,
+      "name": "Sabha",
+      "nativeName": "Sabha",
+      "code": "LY-SB-2212775",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-SB",
+      "latitude": 27.03766,
+      "longitude": 14.42832
+    },
+    {
+      "id": 2219960,
+      "name": "Al Jadīd",
+      "nativeName": "Al Jadīd",
+      "code": "LY-SB-2219960",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-SB",
+      "latitude": 27.05,
+      "longitude": 14.4
+    },
+    {
+      "id": 2217434,
+      "name": "Ghaddūwah",
+      "nativeName": "Ghaddūwah",
+      "code": "LY-SB-2217434",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-SB",
+      "latitude": 26.43628,
+      "longitude": 14.27584
+    },
+    {
+      "id": 2212610,
+      "name": "Samnū",
+      "nativeName": "Samnū",
+      "code": "LY-SB-2212610",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-SB",
+      "latitude": 27.27459,
+      "longitude": 14.8819
+    },
+    {
+      "id": 2210329,
+      "name": "Tamanhint",
+      "nativeName": "Tamanhint",
+      "code": "LY-SB-2210329",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-SB",
+      "latitude": 27.20738,
+      "longitude": 14.62726
+    },
+    {
+      "id": 2216746,
+      "name": "Ḩijārah",
+      "nativeName": "Ḩijārah",
+      "code": "LY-SB-2216746",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-SB",
+      "latitude": 27.02301,
+      "longitude": 14.45642
+    }
+  ]
+}

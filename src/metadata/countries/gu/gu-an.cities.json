@@ -1,0 +1,29 @@
+{
+  "stateId": 4044019,
+  "stateCode": "GU-AN",
+  "countryCode": "GU",
+  "cities": [
+    {
+      "id": 4044012,
+      "name": "Hagåtña",
+      "nativeName": "Hagåtña",
+      "code": "GU-AN-4044012",
+      "countryId": 4043988,
+      "countryCode": "GU",
+      "stateCode": "GU-AN",
+      "latitude": 13.47567,
+      "longitude": 144.74886
+    },
+    {
+      "id": 7874008,
+      "name": "Hagåtña Village",
+      "nativeName": "Hagåtña Village",
+      "code": "GU-AN-7874008",
+      "countryId": 4043988,
+      "countryCode": "GU",
+      "stateCode": "GU-AN",
+      "latitude": 13.47279,
+      "longitude": 144.75802
+    }
+  ]
+}

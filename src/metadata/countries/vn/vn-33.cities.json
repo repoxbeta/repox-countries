@@ -1,0 +1,172 @@
+{
+  "stateId": 1584169,
+  "stateCode": "VN-33",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 1904989,
+      "name": "Buôn Đôn District",
+      "nativeName": "Huyện Buôn Đôn",
+      "code": "VN-33-1904989",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-33",
+      "latitude": 12.89187,
+      "longitude": 107.8203
+    },
+    {
+      "id": 2591730,
+      "name": "Ea H'leo District",
+      "nativeName": "Huyện Ea H'Leo",
+      "code": "VN-33-2591730",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-33",
+      "latitude": 13.31814,
+      "longitude": 108.07148
+    },
+    {
+      "id": 8724351,
+      "name": "Huyện Cư Kuin",
+      "nativeName": "Huyện Cư Kuin",
+      "code": "VN-33-8724351",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-33",
+      "latitude": 12.58658,
+      "longitude": 108.1806
+    },
+    {
+      "id": 2591727,
+      "name": "Huyện Cư M’Gar",
+      "nativeName": "Huyện Cư M’Gar",
+      "code": "VN-33-2591727",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-33",
+      "latitude": 12.88024,
+      "longitude": 108.07563
+    },
+    {
+      "id": 2591724,
+      "name": "Huyện Ea Kar",
+      "nativeName": "Huyện Ea Kar",
+      "code": "VN-33-2591724",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-33",
+      "latitude": 12.78609,
+      "longitude": 108.51529
+    },
+    {
+      "id": 1904990,
+      "name": "Huyện Ea Súp",
+      "nativeName": "Huyện Ea Súp",
+      "code": "VN-33-1904990",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-33",
+      "latitude": 13.18279,
+      "longitude": 107.79954
+    },
+    {
+      "id": 2591721,
+      "name": "Huyện Krông Ana",
+      "nativeName": "Huyện Krông Ana",
+      "code": "VN-33-2591721",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-33",
+      "latitude": 12.5,
+      "longitude": 108.08333
+    },
+    {
+      "id": 2591722,
+      "name": "Huyện Krông Bông",
+      "nativeName": "Huyện Krông Bông",
+      "code": "VN-33-2591722",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-33",
+      "latitude": 12.46423,
+      "longitude": 108.5054
+    },
+    {
+      "id": 2591728,
+      "name": "Huyện Krông Búk",
+      "nativeName": "Huyện Krông Búk",
+      "code": "VN-33-2591728",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-33",
+      "latitude": 13.02098,
+      "longitude": 108.20683
+    },
+    {
+      "id": 2591729,
+      "name": "Huyện Krông Năng",
+      "nativeName": "Huyện Krông Năng",
+      "code": "VN-33-2591729",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-33",
+      "latitude": 13,
+      "longitude": 108.41667
+    },
+    {
+      "id": 2591723,
+      "name": "Huyện Krông Pắk",
+      "nativeName": "Huyện Krông Pắk",
+      "code": "VN-33-2591723",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-33",
+      "latitude": 12.69292,
+      "longitude": 108.36453
+    },
+    {
+      "id": 2591717,
+      "name": "Huyện Lắk",
+      "nativeName": "Huyện Lắk",
+      "code": "VN-33-2591717",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-33",
+      "latitude": 12.31988,
+      "longitude": 108.21041
+    },
+    {
+      "id": 2591725,
+      "name": "Huyện M’Đrắk",
+      "nativeName": "Huyện M’Đrắk",
+      "code": "VN-33-2591725",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-33",
+      "latitude": 12.69833,
+      "longitude": 108.82262
+    },
+    {
+      "id": 1904985,
+      "name": "Thành Phố Buôn Ma Thuột",
+      "nativeName": "Thành Phố Buôn Ma Thuột",
+      "code": "VN-33-1904985",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-33",
+      "latitude": 12.65766,
+      "longitude": 108.02831
+    },
+    {
+      "id": 8724352,
+      "name": "Thị Xã Buôn Hồ",
+      "nativeName": "Thị Xã Buôn Hồ",
+      "code": "VN-33-8724352",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-33",
+      "latitude": 12.84456,
+      "longitude": 108.28366
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "stateId": 3440054,
+  "stateCode": "UY-SO",
+  "countryCode": "UY",
+  "cities": [
+    {
+      "id": 11820825,
+      "name": "Cardona",
+      "nativeName": "Cardona",
+      "code": "UY-SO-11820825",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-SO",
+      "latitude": -33.8589,
+      "longitude": -57.23823
+    },
+    {
+      "id": 11820822,
+      "name": "Dolores",
+      "nativeName": "Dolores",
+      "code": "UY-SO-11820822",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-SO",
+      "latitude": -33.56992,
+      "longitude": -58.2931
+    },
+    {
+      "id": 11820823,
+      "name": "Jose Enrique Rodo",
+      "nativeName": "Jose Enrique Rodo",
+      "code": "UY-SO-11820823",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-SO",
+      "latitude": -33.6435,
+      "longitude": -57.5279
+    },
+    {
+      "id": 11820877,
+      "name": "Palmitas",
+      "nativeName": "Palmitas",
+      "code": "UY-SO-11820877",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-SO",
+      "latitude": -33.46994,
+      "longitude": -57.79919
+    }
+  ]
+}

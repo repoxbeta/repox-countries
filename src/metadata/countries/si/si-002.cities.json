@@ -1,0 +1,95 @@
+{
+  "stateId": 3239282,
+  "stateCode": "SI-002",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3204303,
+      "name": "Beltinci",
+      "nativeName": "Beltinci",
+      "code": "SI-002-3204303",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-002",
+      "latitude": 46.60528,
+      "longitude": 16.24056
+    },
+    {
+      "id": 3203538,
+      "name": "Bratonci",
+      "nativeName": "Bratonci",
+      "code": "SI-002-3203538",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-002",
+      "latitude": 46.61806,
+      "longitude": 16.21917
+    },
+    {
+      "id": 3201880,
+      "name": "Dokležovje",
+      "nativeName": "Dokležovje",
+      "code": "SI-002-3201880",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-002",
+      "latitude": 46.60333,
+      "longitude": 16.17806
+    },
+    {
+      "id": 3200721,
+      "name": "Gančani",
+      "nativeName": "Gančani",
+      "code": "SI-002-3200721",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-002",
+      "latitude": 46.6325,
+      "longitude": 16.25111
+    },
+    {
+      "id": 3199026,
+      "name": "Ižakovci",
+      "nativeName": "Ižakovci",
+      "code": "SI-002-3199026",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-002",
+      "latitude": 46.58889,
+      "longitude": 16.22111
+    },
+    {
+      "id": 3196544,
+      "name": "Lipa",
+      "nativeName": "Lipa",
+      "code": "SI-002-3196544",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-002",
+      "latitude": 46.60694,
+      "longitude": 16.2875
+    },
+    {
+      "id": 3196496,
+      "name": "Lipovci",
+      "nativeName": "Lipovci",
+      "code": "SI-002-3196496",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-002",
+      "latitude": 46.62833,
+      "longitude": 16.22806
+    },
+    {
+      "id": 3195262,
+      "name": "Melinci",
+      "nativeName": "Melinci",
+      "code": "SI-002-3195262",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-002",
+      "latitude": 46.57361,
+      "longitude": 16.23667
+    }
+  ]
+}

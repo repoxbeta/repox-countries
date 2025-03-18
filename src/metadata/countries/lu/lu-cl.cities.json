@@ -1,0 +1,62 @@
+{
+  "stateId": 2960683,
+  "stateCode": "LU-CL",
+  "countryCode": "LU",
+  "cities": [
+    {
+      "id": 6693297,
+      "name": "Clervaux",
+      "nativeName": "Clervaux",
+      "code": "LU-CL-6693297",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-CL",
+      "latitude": 50.05472,
+      "longitude": 6.03139
+    },
+    {
+      "id": 11353099,
+      "name": "Parc Hosingen",
+      "nativeName": "Parc Hosingen",
+      "code": "LU-CL-11353099",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-CL",
+      "latitude": 49.99744,
+      "longitude": 6.09067
+    },
+    {
+      "id": 2960031,
+      "name": "Troisvierges",
+      "nativeName": "Troisvierges",
+      "code": "LU-CL-2960031",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-CL",
+      "latitude": 50.14377,
+      "longitude": 6.00201
+    },
+    {
+      "id": 6693302,
+      "name": "Weiswampach",
+      "nativeName": "Weiswampach",
+      "code": "LU-CL-6693302",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-CL",
+      "latitude": 50.13722,
+      "longitude": 6.075
+    },
+    {
+      "id": 6693296,
+      "name": "Wincrange",
+      "nativeName": "Wincrange",
+      "code": "LU-CL-6693296",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-CL",
+      "latitude": 50.05333,
+      "longitude": 5.91917
+    }
+  ]
+}

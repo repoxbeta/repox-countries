@@ -1,0 +1,51 @@
+{
+  "stateId": 2396925,
+  "stateCode": "GA-7",
+  "countryCode": "GA",
+  "cities": [
+    {
+      "id": 7870427,
+      "name": "Lolo Bouenguidi Department",
+      "nativeName": "Lolo Bouenguidi Department",
+      "code": "GA-7-7870427",
+      "countryId": 2400553,
+      "countryCode": "GA",
+      "stateCode": "GA-7",
+      "latitude": -0.89432,
+      "longitude": 12.27587
+    },
+    {
+      "id": 11996066,
+      "name": "Lombo-Bouenguidi",
+      "nativeName": "Lombo-Bouenguidi",
+      "code": "GA-7-11996066",
+      "countryId": 2400553,
+      "countryCode": "GA",
+      "stateCode": "GA-7",
+      "latitude": -1.45125,
+      "longitude": 12.63905
+    },
+    {
+      "id": 8260626,
+      "name": "Mouloundou Department",
+      "nativeName": "Mouloundou Department",
+      "code": "GA-7-8260626",
+      "countryId": 2400553,
+      "countryCode": "GA",
+      "stateCode": "GA-7",
+      "latitude": -0.541,
+      "longitude": 13.009
+    },
+    {
+      "id": 11996068,
+      "name": "Offoue-Onoye",
+      "nativeName": "Offoue-Onoye",
+      "code": "GA-7-11996068",
+      "countryId": 2400553,
+      "countryCode": "GA",
+      "stateCode": "GA-7",
+      "latitude": -0.99857,
+      "longitude": 11.83426
+    }
+  ]
+}

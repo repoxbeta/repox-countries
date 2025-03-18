@@ -1,0 +1,51 @@
+{
+  "stateId": 11153056,
+  "stateCode": "CI-LC",
+  "countryCode": "CI",
+  "cities": [
+    {
+      "id": 11153154,
+      "name": "Bélier",
+      "nativeName": "Bélier",
+      "code": "CI-LC-11153154",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "stateCode": "CI-LC",
+      "latitude": 7.02582,
+      "longitude": -5.06744
+    },
+    {
+      "id": 11153155,
+      "name": "Iffou",
+      "nativeName": "Iffou",
+      "code": "CI-LC-11153155",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "stateCode": "CI-LC",
+      "latitude": 7.11509,
+      "longitude": -3.95027
+    },
+    {
+      "id": 11153156,
+      "name": "Moronou",
+      "nativeName": "Moronou",
+      "code": "CI-LC-11153156",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "stateCode": "CI-LC",
+      "latitude": 6.6683,
+      "longitude": -4.13155
+    },
+    {
+      "id": 11153158,
+      "name": "N'Zi",
+      "nativeName": "N'Zi",
+      "code": "CI-LC-11153158",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "stateCode": "CI-LC",
+      "latitude": 6.82803,
+      "longitude": -4.5813
+    }
+  ]
+}

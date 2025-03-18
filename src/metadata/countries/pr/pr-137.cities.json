@@ -1,0 +1,62 @@
+{
+  "stateId": 4568408,
+  "stateCode": "PR-137",
+  "countryCode": "PR",
+  "cities": [
+    {
+      "id": 7268318,
+      "name": "Candelaria Barrio",
+      "nativeName": "Candelaria Barrio",
+      "code": "PR-137-7268318",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-137",
+      "latitude": 18.40821,
+      "longitude": -66.21705
+    },
+    {
+      "id": 7268646,
+      "name": "Media Luna Barrio",
+      "nativeName": "Media Luna Barrio",
+      "code": "PR-137-7268646",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-137",
+      "latitude": 18.42375,
+      "longitude": -66.24455
+    },
+    {
+      "id": 7268728,
+      "name": "Palo Seco Barrio",
+      "nativeName": "Palo Seco Barrio",
+      "code": "PR-137-7268728",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-137",
+      "latitude": 18.45639,
+      "longitude": -66.14756
+    },
+    {
+      "id": 7268946,
+      "name": "Sabana Seca Barrio",
+      "nativeName": "Sabana Seca Barrio",
+      "code": "PR-137-7268946",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-137",
+      "latitude": 18.44509,
+      "longitude": -66.19978
+    },
+    {
+      "id": 7269040,
+      "name": "Toa Baja Barrio-Pueblo",
+      "nativeName": "Toa Baja Barrio-Pueblo",
+      "code": "PR-137-7269040",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-137",
+      "latitude": 18.44235,
+      "longitude": -66.25396
+    }
+  ]
+}

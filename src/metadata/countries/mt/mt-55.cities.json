@@ -1,0 +1,95 @@
+{
+  "stateId": 8299754,
+  "stateCode": "MT-55",
+  "countryCode": "MT",
+  "cities": [
+    {
+      "id": 2562504,
+      "name": "Siġġiewi",
+      "nativeName": "Siġġiewi",
+      "code": "MT-55-2562504",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-55",
+      "latitude": 35.85556,
+      "longitude": 14.43639
+    },
+    {
+      "id": 2563090,
+      "name": "Għajn il-Kbira",
+      "nativeName": "Għajn il-Kbira",
+      "code": "MT-55-2563090",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-55",
+      "latitude": 35.85444,
+      "longitude": 14.40806
+    },
+    {
+      "id": 2563056,
+      "name": "Għar Mundu",
+      "nativeName": "Għar Mundu",
+      "code": "MT-55-2563056",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-55",
+      "latitude": 35.84944,
+      "longitude": 14.40611
+    },
+    {
+      "id": 2562959,
+      "name": "Il-Fawwara",
+      "nativeName": "Il-Fawwara",
+      "code": "MT-55-2562959",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-55",
+      "latitude": 35.84028,
+      "longitude": 14.40194
+    },
+    {
+      "id": 2562941,
+      "name": "Il-Ħamrija",
+      "nativeName": "Il-Ħamrija",
+      "code": "MT-55-2562941",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-55",
+      "latitude": 35.85889,
+      "longitude": 14.42333
+    },
+    {
+      "id": 2562429,
+      "name": "Tal-Bajjada",
+      "nativeName": "Tal-Bajjada",
+      "code": "MT-55-2562429",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-55",
+      "latitude": 35.83722,
+      "longitude": 14.42556
+    },
+    {
+      "id": 2562334,
+      "name": "Tas-Salvatur",
+      "nativeName": "Tas-Salvatur",
+      "code": "MT-55-2562334",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-55",
+      "latitude": 35.85083,
+      "longitude": 14.45194
+    },
+    {
+      "id": 2562443,
+      "name": "Ta’ Ħaxxluq",
+      "nativeName": "Ta’ Ħaxxluq",
+      "code": "MT-55-2562443",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-55",
+      "latitude": 35.84667,
+      "longitude": 14.445
+    }
+  ]
+}

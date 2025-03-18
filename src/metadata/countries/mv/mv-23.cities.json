@@ -1,0 +1,62 @@
+{
+  "stateId": 1282293,
+  "stateCode": "MV-23",
+  "countryCode": "MV",
+  "cities": [
+    {
+      "id": 1337613,
+      "name": "Kulhudhuffushi",
+      "nativeName": "Kulhudhuffushi",
+      "code": "MV-23-1337613",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-23",
+      "latitude": 6.62207,
+      "longitude": 73.06998
+    },
+    {
+      "id": 1282286,
+      "name": "Hanimaadhoo",
+      "nativeName": "Hanimaadhoo",
+      "code": "MV-23-1282286",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-23",
+      "latitude": 6.76485,
+      "longitude": 73.17564
+    },
+    {
+      "id": 6618478,
+      "name": "Nolhivaram",
+      "nativeName": "Nolhivaram",
+      "code": "MV-23-6618478",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-23",
+      "latitude": 6.6658,
+      "longitude": 73.08208
+    },
+    {
+      "id": 1337614,
+      "name": "Nolhivaranfaru",
+      "nativeName": "Nolhivaranfaru",
+      "code": "MV-23-1337614",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-23",
+      "latitude": 6.70178,
+      "longitude": 73.11848
+    },
+    {
+      "id": 11103673,
+      "name": "Vaikaradhoo",
+      "nativeName": "Vaikaradhoo",
+      "code": "MV-23-11103673",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-23",
+      "latitude": 6.55053,
+      "longitude": 72.95351
+    }
+  ]
+}

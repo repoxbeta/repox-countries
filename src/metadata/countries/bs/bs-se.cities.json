@@ -1,0 +1,95 @@
+{
+  "stateId": 8030557,
+  "stateCode": "BS-SE",
+  "countryCode": "BS",
+  "cities": [
+    {
+      "id": 3830953,
+      "name": "Davis Harbor",
+      "nativeName": "Davis Harbor",
+      "code": "BS-SE-3830953",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SE",
+      "latitude": 24.73095,
+      "longitude": -76.22016
+    },
+    {
+      "id": 3572514,
+      "name": "Deep Creek",
+      "nativeName": "Deep Creek",
+      "code": "BS-SE-3572514",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SE",
+      "latitude": 24.77333,
+      "longitude": -76.26959
+    },
+    {
+      "id": 3572511,
+      "name": "Delancey Town",
+      "nativeName": "Delancey Town",
+      "code": "BS-SE-3572511",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SE",
+      "latitude": 24.76667,
+      "longitude": -76.26667
+    },
+    {
+      "id": 3572279,
+      "name": "Green Castle",
+      "nativeName": "Green Castle",
+      "code": "BS-SE-3572279",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SE",
+      "latitude": 24.79834,
+      "longitude": -76.27378
+    },
+    {
+      "id": 3830951,
+      "name": "Kemps Point",
+      "nativeName": "Kemps Point",
+      "code": "BS-SE-3830951",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SE",
+      "latitude": 24.90698,
+      "longitude": -76.18216
+    },
+    {
+      "id": 3571332,
+      "name": "Tarpum Bay",
+      "nativeName": "Tarpum Bay",
+      "code": "BS-SE-3571332",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SE",
+      "latitude": 24.97,
+      "longitude": -76.18157
+    },
+    {
+      "id": 3571242,
+      "name": "Waterford",
+      "nativeName": "Waterford",
+      "code": "BS-SE-3571242",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SE",
+      "latitude": 24.75,
+      "longitude": -76.23333
+    },
+    {
+      "id": 3571230,
+      "name": "Wemyss Bight",
+      "nativeName": "Wemyss Bight",
+      "code": "BS-SE-3571230",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SE",
+      "latitude": 24.75,
+      "longitude": -76.25
+    }
+  ]
+}

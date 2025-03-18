@@ -1,0 +1,51 @@
+{
+  "stateId": 411737,
+  "stateCode": "OM-WU",
+  "countryCode": "OM",
+  "cities": [
+    {
+      "id": 12215981,
+      "name": "Ad Duqm",
+      "nativeName": "Ad Duqm",
+      "code": "OM-WU-12215981",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-WU",
+      "latitude": 19.223,
+      "longitude": 57.445
+    },
+    {
+      "id": 12215982,
+      "name": "Al Jāzir",
+      "nativeName": "Al Jāzir",
+      "code": "OM-WU-12215982",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-WU",
+      "latitude": 18.545,
+      "longitude": 56.36
+    },
+    {
+      "id": 12215979,
+      "name": "Haymā",
+      "nativeName": "Haymā",
+      "code": "OM-WU-12215979",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-WU",
+      "latitude": 20.243,
+      "longitude": 56.267
+    },
+    {
+      "id": 12215980,
+      "name": "Maḩūt",
+      "nativeName": "Maḩūt",
+      "code": "OM-WU-12215980",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-WU",
+      "latitude": 20.7,
+      "longitude": 57.922
+    }
+  ]
+}

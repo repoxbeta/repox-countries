@@ -1,0 +1,29 @@
+{
+  "stateId": 6930703,
+  "stateCode": "BF-02",
+  "countryCode": "BF",
+  "cities": [
+    {
+      "id": 2359209,
+      "name": "Comoé Province",
+      "nativeName": "Province de la Comoé",
+      "code": "BF-02-2359209",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "stateCode": "BF-02",
+      "latitude": 10.33333,
+      "longitude": -4.41667
+    },
+    {
+      "id": 2597263,
+      "name": "Léraba Province",
+      "nativeName": "Province de la Léraba",
+      "code": "BF-02-2597263",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "stateCode": "BF-02",
+      "latitude": 10.66667,
+      "longitude": -5.2
+    }
+  ]
+}

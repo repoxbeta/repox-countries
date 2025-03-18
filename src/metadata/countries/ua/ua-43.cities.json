@@ -1,0 +1,117 @@
+{
+  "stateId": 703883,
+  "stateCode": "UA-43",
+  "countryCode": "UA",
+  "cities": [
+    {
+      "id": 712968,
+      "name": "Bakhchysarai Raion",
+      "nativeName": "Bakhchysarai Raion",
+      "code": "UA-43-712968",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-43",
+      "latitude": 44.75002,
+      "longitude": 33.8633
+    },
+    {
+      "id": 712585,
+      "name": "Bilohirsk Raion",
+      "nativeName": "Belogorskiy rayon",
+      "code": "UA-43-712585",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-43",
+      "latitude": 45.063,
+      "longitude": 34.55675
+    },
+    {
+      "id": 709333,
+      "name": "Dzhankoyskiy rayon",
+      "nativeName": "Dzhankoyskiy rayon",
+      "code": "UA-43-709333",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-43",
+      "latitude": 45.78706,
+      "longitude": 34.39197
+    },
+    {
+      "id": 12189505,
+      "name": "Feodosia",
+      "nativeName": "Feodosiiskyi Raion",
+      "code": "UA-43-12189505",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-43",
+      "latitude": 45.14,
+      "longitude": 35.07
+    },
+    {
+      "id": 8449687,
+      "name": "Gorodskoy okrug Yalta",
+      "nativeName": "Gorodskoy okrug Yalta",
+      "code": "UA-43-8449687",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-43",
+      "latitude": 44.49638,
+      "longitude": 34.16336
+    },
+    {
+      "id": 8449692,
+      "name": "Kerchens'ka Mis'ka Rada",
+      "nativeName": "Kerchens'ka Mis'ka Rada",
+      "code": "UA-43-8449692",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-43",
+      "latitude": 45.35307,
+      "longitude": 36.47414
+    },
+    {
+      "id": 704383,
+      "name": "Krasnohvardiiske Raion",
+      "nativeName": "Krasnohvardiiske Raion",
+      "code": "UA-43-704383",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-43",
+      "latitude": 45.4023,
+      "longitude": 34.25464
+    },
+    {
+      "id": 704361,
+      "name": "Krasnoperekopsk Raion",
+      "nativeName": "Krasnoperekopsk Raion",
+      "code": "UA-43-704361",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-43",
+      "latitude": 45.96992,
+      "longitude": 33.8799
+    },
+    {
+      "id": 693803,
+      "name": "Simferopol Raion",
+      "nativeName": "Simferopol Raion",
+      "code": "UA-43-693803",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-43",
+      "latitude": 44.9569,
+      "longitude": 34.10225
+    },
+    {
+      "id": 12189506,
+      "name": "Yevpatoriiskyi Raion",
+      "nativeName": "Yevpatoriiskyi Raion",
+      "code": "UA-43-12189506",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-43",
+      "latitude": 45.36,
+      "longitude": 33.29
+    }
+  ]
+}

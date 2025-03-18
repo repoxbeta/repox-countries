@@ -1,0 +1,29 @@
+{
+  "stateId": 587245,
+  "stateCode": "AZ-ABS",
+  "countryCode": "AZ",
+  "cities": [
+    {
+      "id": 585882,
+      "name": "Kirovskiy Rayon",
+      "nativeName": "Kirovskiy Rayon",
+      "code": "AZ-ABS-585882",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-ABS",
+      "latitude": 40.5,
+      "longitude": 49.78333
+    },
+    {
+      "id": 585638,
+      "name": "Leninskiy Rayon",
+      "nativeName": "Leninskiy Rayon",
+      "code": "AZ-ABS-585638",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-ABS",
+      "latitude": 40.5,
+      "longitude": 49.91667
+    }
+  ]
+}

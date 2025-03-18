@@ -1,0 +1,62 @@
+{
+  "stateId": 7115989,
+  "stateCode": "PH-14",
+  "countryCode": "PH",
+  "cities": [
+    {
+      "id": 1726404,
+      "name": "Province of Basilan",
+      "nativeName": "Province of Basilan",
+      "code": "PH-14-1726404",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-14",
+      "latitude": 6.54729,
+      "longitude": 122.11853
+    },
+    {
+      "id": 1707667,
+      "name": "Province of Lanao del Sur",
+      "nativeName": "Province of Lanao del Sur",
+      "code": "PH-14-1707667",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-14",
+      "latitude": 7.8525,
+      "longitude": 124.45862
+    },
+    {
+      "id": 1703701,
+      "name": "Province of Maguindanao",
+      "nativeName": "Province of Maguindanao",
+      "code": "PH-14-1703701",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-14",
+      "latitude": 7.13333,
+      "longitude": 124.3
+    },
+    {
+      "id": 1685370,
+      "name": "Province of Sulu",
+      "nativeName": "Province of Sulu",
+      "code": "PH-14-1685370",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-14",
+      "latitude": 6,
+      "longitude": 121
+    },
+    {
+      "id": 1682671,
+      "name": "Province of Tawi-Tawi",
+      "nativeName": "Province of Tawi-Tawi",
+      "code": "PH-14-1682671",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-14",
+      "latitude": 5.2057,
+      "longitude": 120.0265
+    }
+  ]
+}

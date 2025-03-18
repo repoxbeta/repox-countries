@@ -1,0 +1,128 @@
+{
+  "stateId": 130801,
+  "stateCode": "IR-16",
+  "countryCode": "IR",
+  "cities": [
+    {
+      "id": 449458,
+      "name": "Abdanan County",
+      "nativeName": "Shahrestān-e Ābdānān",
+      "code": "IR-16-449458",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-16",
+      "latitude": 32.8783,
+      "longitude": 47.5218
+    },
+    {
+      "id": 112941,
+      "name": "Badreh",
+      "nativeName": "Badreh",
+      "code": "IR-16-112941",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-16",
+      "latitude": 33.31354,
+      "longitude": 47.02365
+    },
+    {
+      "id": 11963421,
+      "name": "Chardavol County",
+      "nativeName": "Chardavol County",
+      "code": "IR-16-11963421",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-16",
+      "latitude": 33.7591,
+      "longitude": 46.5698
+    },
+    {
+      "id": 12543583,
+      "name": "Chardāval",
+      "nativeName": "Chardāval",
+      "code": "IR-16-12543583",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-16",
+      "latitude": 33.67952,
+      "longitude": 46.89901
+    },
+    {
+      "id": 28354,
+      "name": "Darreh Shahr County",
+      "nativeName": "Darrehshahr",
+      "code": "IR-16-28354",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-16",
+      "latitude": 33.025,
+      "longitude": 47.57333
+    },
+    {
+      "id": 449462,
+      "name": "Shahrestān-e Dehlorān",
+      "nativeName": "Shahrestān-e Dehlorān",
+      "code": "IR-16-449462",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-16",
+      "latitude": 32.62926,
+      "longitude": 47.28063
+    },
+    {
+      "id": 449460,
+      "name": "Shahrestān-e Eyvān",
+      "nativeName": "Shahrestān-e Eyvān",
+      "code": "IR-16-449460",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-16",
+      "latitude": 33.88767,
+      "longitude": 46.15953
+    },
+    {
+      "id": 9524084,
+      "name": "Shahrestān-e Malekshāhī",
+      "nativeName": "Shahrestān-e Malekshāhī",
+      "code": "IR-16-9524084",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-16",
+      "latitude": 33.30081,
+      "longitude": 46.56191
+    },
+    {
+      "id": 449464,
+      "name": "Shahrestān-e Mehrān",
+      "nativeName": "Shahrestān-e Mehrān",
+      "code": "IR-16-449464",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-16",
+      "latitude": 33.29591,
+      "longitude": 46.21068
+    },
+    {
+      "id": 449459,
+      "name": "Shahrestān-e Īlām",
+      "nativeName": "Shahrestān-e Īlām",
+      "code": "IR-16-449459",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-16",
+      "latitude": 33.69591,
+      "longitude": 46.27515
+    },
+    {
+      "id": 11963422,
+      "name": "Sirvan County",
+      "nativeName": "Sirvan",
+      "code": "IR-16-11963422",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-16",
+      "latitude": 33.7546,
+      "longitude": 46.56651
+    }
+  ]
+}

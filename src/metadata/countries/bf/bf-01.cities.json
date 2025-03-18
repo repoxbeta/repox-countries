@@ -1,0 +1,73 @@
+{
+  "stateId": 6930701,
+  "stateCode": "BF-01",
+  "countryCode": "BF",
+  "cities": [
+    {
+      "id": 2597250,
+      "name": "Banwa Province",
+      "nativeName": "Province des Banwa",
+      "code": "BF-01-2597250",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "stateCode": "BF-01",
+      "latitude": 12.16667,
+      "longitude": -4.16667
+    },
+    {
+      "id": 2359027,
+      "name": "Kossi Province",
+      "nativeName": "Province de la Kossi",
+      "code": "BF-01-2359027",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "stateCode": "BF-01",
+      "latitude": 12.91667,
+      "longitude": -3.83333
+    },
+    {
+      "id": 2357858,
+      "name": "Mouhoun",
+      "nativeName": "Province du Mouhoun",
+      "code": "BF-01-2357858",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "stateCode": "BF-01",
+      "latitude": 12.25,
+      "longitude": -3.41667
+    },
+    {
+      "id": 2597265,
+      "name": "Nayala Province",
+      "nativeName": "Province du Nayala",
+      "code": "BF-01-2597265",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "stateCode": "BF-01",
+      "latitude": 12.66667,
+      "longitude": -3
+    },
+    {
+      "id": 2597248,
+      "name": "Province des Balé",
+      "nativeName": "Province des Balé",
+      "code": "BF-01-2597248",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "stateCode": "BF-01",
+      "latitude": 11.71667,
+      "longitude": -3.05
+    },
+    {
+      "id": 2355211,
+      "name": "Sourou Province",
+      "nativeName": "Province du Sourou",
+      "code": "BF-01-2355211",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "stateCode": "BF-01",
+      "latitude": 13.25,
+      "longitude": -3
+    }
+  ]
+}

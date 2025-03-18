@@ -1,0 +1,51 @@
+{
+  "stateId": 2087246,
+  "stateCode": "PG-SAN",
+  "countryCode": "PG",
+  "cities": [
+    {
+      "id": 8657198,
+      "name": "Aitape Lumi District",
+      "nativeName": "Aitape Lumi",
+      "code": "PG-SAN-8657198",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-SAN",
+      "latitude": -3.25,
+      "longitude": 142.08333
+    },
+    {
+      "id": 2089418,
+      "name": "Nuku District",
+      "nativeName": "Nuku",
+      "code": "PG-SAN-2089418",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-SAN",
+      "latitude": -3.66667,
+      "longitude": 142.41667
+    },
+    {
+      "id": 2085584,
+      "name": "Telefomin District",
+      "nativeName": "Telefomin",
+      "code": "PG-SAN-2085584",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-SAN",
+      "latitude": -4.91667,
+      "longitude": 141.66667
+    },
+    {
+      "id": 8657189,
+      "name": "Vanimo-Green District",
+      "nativeName": "Vanimo Green",
+      "code": "PG-SAN-8657189",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-SAN",
+      "latitude": -3.36667,
+      "longitude": 141.35
+    }
+  ]
+}

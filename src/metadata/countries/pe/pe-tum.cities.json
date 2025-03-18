@@ -1,0 +1,40 @@
+{
+  "stateId": 3691146,
+  "stateCode": "PE-TUM",
+  "countryCode": "PE",
+  "cities": [
+    {
+      "id": 3697834,
+      "name": "Provincia de Contralmirante Villar",
+      "nativeName": "Provincia de Contralmirante Villar",
+      "code": "PE-TUM-3697834",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-TUM",
+      "latitude": -3.98298,
+      "longitude": -80.72448
+    },
+    {
+      "id": 3691145,
+      "name": "Provincia de Tumbes",
+      "nativeName": "Provincia de Tumbes",
+      "code": "PE-TUM-3691145",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-TUM",
+      "latitude": -3.79254,
+      "longitude": -80.43368
+    },
+    {
+      "id": 3690615,
+      "name": "Provincia de Zarumilla",
+      "nativeName": "Provincia de Zarumilla",
+      "code": "PE-TUM-3690615",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-TUM",
+      "latitude": -3.68262,
+      "longitude": -80.24681
+    }
+  ]
+}

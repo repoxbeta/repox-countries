@@ -1,0 +1,292 @@
+{
+  "countryId": 203312,
+  "countryCode": "CD",
+  "states": [
+    {
+      "id": 219402,
+      "name": "Bas-Uele",
+      "nativeName": "Bas Uele",
+      "code": "CD-BU",
+      "internalCode": "BU",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "latitude": 2.8,
+      "longitude": 24.73333
+    },
+    {
+      "id": 11288213,
+      "name": "Haut-Katanga",
+      "nativeName": "Province du Haut-Katanga",
+      "code": "CD-HK",
+      "internalCode": "HK",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "latitude": -10.46667,
+      "longitude": 27.81667
+    },
+    {
+      "id": 216141,
+      "name": "Haut-Lomami",
+      "nativeName": "Haut-Lomani",
+      "code": "CD-HL",
+      "internalCode": "HL",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "latitude": -8.73333,
+      "longitude": 25
+    },
+    {
+      "id": 216140,
+      "name": "Haut-Uele",
+      "nativeName": "Haut Uele",
+      "code": "CD-HU",
+      "internalCode": "HU",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "latitude": 2.76667,
+      "longitude": 27.61667
+    },
+    {
+      "id": 215709,
+      "name": "Ituri",
+      "nativeName": "Ituri",
+      "code": "CD-IT",
+      "internalCode": "IT",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "latitude": 1.56667,
+      "longitude": 30.25
+    },
+    {
+      "id": 214140,
+      "name": "Kasai",
+      "nativeName": "Kasai Province",
+      "code": "CD-KS",
+      "internalCode": "KS",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "latitude": -5.35,
+      "longitude": 21.41667
+    },
+    {
+      "id": 210596,
+      "name": "Kasai-Central",
+      "nativeName": "Kasaï-Central",
+      "code": "CD-KC",
+      "internalCode": "KC",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "latitude": -6.292,
+      "longitude": 22.483
+    },
+    {
+      "id": 214138,
+      "name": "Kasai-Oriental",
+      "nativeName": "East Kasai",
+      "code": "CD-KE",
+      "internalCode": "KE",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "latitude": -6.18333,
+      "longitude": 23.51667
+    },
+    {
+      "id": 2314300,
+      "name": "Kinshasa",
+      "nativeName": "Kinshasa City",
+      "code": "CD-KN",
+      "internalCode": "KN",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "latitude": -4.375,
+      "longitude": 15.97
+    },
+    {
+      "id": 2317277,
+      "name": "Kongo-Central",
+      "nativeName": "Province du Kongo Central",
+      "code": "CD-BC",
+      "internalCode": "BC",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "latitude": -5.33333,
+      "longitude": 14.33333
+    },
+    {
+      "id": 2313860,
+      "name": "Kwango",
+      "nativeName": "Kwango",
+      "code": "CD-KG",
+      "internalCode": "KG",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "latitude": -6.542,
+      "longitude": 17.832
+    },
+    {
+      "id": 2313847,
+      "name": "Kwilu",
+      "nativeName": "Kwilu",
+      "code": "CD-KL",
+      "internalCode": "KL",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "latitude": -5.03333,
+      "longitude": 18.81667
+    },
+    {
+      "id": 11288214,
+      "name": "Lomami",
+      "nativeName": "Lomami",
+      "code": "CD-LO",
+      "internalCode": "LO",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "latitude": -6.21667,
+      "longitude": 24.66667
+    },
+    {
+      "id": 922727,
+      "name": "Lualaba",
+      "nativeName": "Lualaba",
+      "code": "CD-LU",
+      "internalCode": "LU",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "latitude": -10.71667,
+      "longitude": 25.46667
+    },
+    {
+      "id": 2313191,
+      "name": "Mai-Ndombe",
+      "nativeName": "Mai Ndombe",
+      "code": "CD-MN",
+      "internalCode": "MN",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "latitude": -2.591,
+      "longitude": 19.335
+    },
+    {
+      "id": 209610,
+      "name": "Maniema",
+      "nativeName": "Province du Maniema",
+      "code": "CD-MA",
+      "internalCode": "MA",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "latitude": -3,
+      "longitude": 26
+    },
+    {
+      "id": 208741,
+      "name": "Mongala",
+      "nativeName": "Mongala",
+      "code": "CD-MO",
+      "internalCode": "MO",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "latitude": 2.06667,
+      "longitude": 21.51667
+    },
+    {
+      "id": 206938,
+      "name": "Nord Kivu",
+      "nativeName": "Province du Nord-Kivu",
+      "code": "CD-NK",
+      "internalCode": "NK",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "latitude": -0.66667,
+      "longitude": 28.75
+    },
+    {
+      "id": 11288215,
+      "name": "Nord-Ubangi",
+      "nativeName": "Province du Nord-Ubangi",
+      "code": "CD-NU",
+      "internalCode": "NU",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "latitude": 3.65,
+      "longitude": 21.26667
+    },
+    {
+      "id": 205828,
+      "name": "Sankuru",
+      "nativeName": "Sankuru",
+      "code": "CD-SA",
+      "internalCode": "SA",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "latitude": -4.96667,
+      "longitude": 23.45
+    },
+    {
+      "id": 205413,
+      "name": "Sud-Kivu",
+      "nativeName": "South Kivu Province",
+      "code": "CD-SK",
+      "internalCode": "SK",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "latitude": -3.16667,
+      "longitude": 28.25
+    },
+    {
+      "id": 11288216,
+      "name": "Sud-Ubangi",
+      "nativeName": "Province du Sud-Ubangi",
+      "code": "CD-SU",
+      "internalCode": "SU",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "latitude": 3.08333,
+      "longitude": 19.35
+    },
+    {
+      "id": 205253,
+      "name": "Tanganyika",
+      "nativeName": "Tanganika",
+      "code": "CD-TA",
+      "internalCode": "TA",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "latitude": -5.93333,
+      "longitude": 29.2
+    },
+    {
+      "id": 204704,
+      "name": "Tshopo",
+      "nativeName": "Tshopo",
+      "code": "CD-TO",
+      "internalCode": "TO",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "latitude": 0.46667,
+      "longitude": 25.21667
+    },
+    {
+      "id": 204697,
+      "name": "Tshuapa",
+      "nativeName": "Tshuapa",
+      "code": "CD-TU",
+      "internalCode": "TU",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "latitude": -0.21667,
+      "longitude": 20.86667
+    },
+    {
+      "id": 216661,
+      "name": "Équateur",
+      "nativeName": "Province de l’Équateur",
+      "code": "CD-EQ",
+      "internalCode": "EQ",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "latitude": 0.2,
+      "longitude": 18.93333
+    }
+  ]
+}

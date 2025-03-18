@@ -1,0 +1,271 @@
+{
+  "stateId": 1484845,
+  "stateCode": "UZ-FA",
+  "countryCode": "UZ",
+  "cities": [
+    {
+      "id": 7668818,
+      "name": "Altyarik",
+      "nativeName": "Altyarik",
+      "code": "UZ-FA-7668818",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-FA",
+      "latitude": 40.38333,
+      "longitude": 71.5
+    },
+    {
+      "id": 7668819,
+      "name": "Bagdad",
+      "nativeName": "Bagdad",
+      "code": "UZ-FA-7668819",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-FA",
+      "latitude": 40.48557,
+      "longitude": 71.19567
+    },
+    {
+      "id": 1514482,
+      "name": "Bag‘dod Tumani",
+      "nativeName": "Bag‘dod Tumani",
+      "code": "UZ-FA-1514482",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-FA",
+      "latitude": 40.45,
+      "longitude": 71.2
+    },
+    {
+      "id": 1513547,
+      "name": "Beshariq Tumani",
+      "nativeName": "Beshariq Tumani",
+      "code": "UZ-FA-1513547",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-FA",
+      "latitude": 40.43333,
+      "longitude": 70.6
+    },
+    {
+      "id": 1514299,
+      "name": "Buvayda Tumani",
+      "nativeName": "Buvayda Tumani",
+      "code": "UZ-FA-1514299",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-FA",
+      "latitude": 40.58333,
+      "longitude": 71.16667
+    },
+    {
+      "id": 1514016,
+      "name": "Dang‘ara Tumani",
+      "nativeName": "Dang‘ara Tumani",
+      "code": "UZ-FA-1514016",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-FA",
+      "latitude": 40.60012,
+      "longitude": 70.89216
+    },
+    {
+      "id": 1538296,
+      "name": "Farg‘ona Shahri",
+      "nativeName": "Farg‘ona Shahri",
+      "code": "UZ-FA-1538296",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-FA",
+      "latitude": 40.38417,
+      "longitude": 71.78889
+    },
+    {
+      "id": 1514017,
+      "name": "Farg‘ona Tumani",
+      "nativeName": "Farg‘ona Tumani",
+      "code": "UZ-FA-1514017",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-FA",
+      "latitude": 40.25003,
+      "longitude": 71.75003
+    },
+    {
+      "id": 1538294,
+      "name": "Furqat District",
+      "nativeName": "Furqat Tumani",
+      "code": "UZ-FA-1538294",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-FA",
+      "latitude": 40.50206,
+      "longitude": 70.76189
+    },
+    {
+      "id": 1538300,
+      "name": "Marg‘ilon Shahri",
+      "nativeName": "Marg‘ilon Shahri",
+      "code": "UZ-FA-1538300",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-FA",
+      "latitude": 40.47111,
+      "longitude": 71.72472
+    },
+    {
+      "id": 1514616,
+      "name": "Oltiariq Tumani",
+      "nativeName": "Oltiariq Tumani",
+      "code": "UZ-FA-1514616",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-FA",
+      "latitude": 40.41667,
+      "longitude": 71.5
+    },
+    {
+      "id": 1514681,
+      "name": "Oxunboboyev Tumani",
+      "nativeName": "Oxunboboyev Tumani",
+      "code": "UZ-FA-1514681",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-FA",
+      "latitude": 40.53322,
+      "longitude": 71.57505
+    },
+    {
+      "id": 1512439,
+      "name": "O‘zbekiston Tumani",
+      "nativeName": "O‘zbekiston Tumani",
+      "code": "UZ-FA-1512439",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-FA",
+      "latitude": 40.33333,
+      "longitude": 70.83333
+    },
+    {
+      "id": 1538297,
+      "name": "Qo‘qon Shahri",
+      "nativeName": "Qo‘qon Shahri",
+      "code": "UZ-FA-1538297",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-FA",
+      "latitude": 40.53027,
+      "longitude": 70.9424
+    },
+    {
+      "id": 1538298,
+      "name": "Quva Shahri",
+      "nativeName": "Quva Shahri",
+      "code": "UZ-FA-1538298",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-FA",
+      "latitude": 40.52361,
+      "longitude": 72.06167
+    },
+    {
+      "id": 1513329,
+      "name": "Quva Tumani",
+      "nativeName": "Quva Tumani",
+      "code": "UZ-FA-1513329",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-FA",
+      "latitude": 40.5,
+      "longitude": 72.08333
+    },
+    {
+      "id": 1538299,
+      "name": "Quvasoy Shahri",
+      "nativeName": "Quvasoy Shahri",
+      "code": "UZ-FA-1538299",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-FA",
+      "latitude": 40.30787,
+      "longitude": 71.9697
+    },
+    {
+      "id": 7668820,
+      "name": "Rishtan",
+      "nativeName": "Rishtan",
+      "code": "UZ-FA-7668820",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-FA",
+      "latitude": 40.38501,
+      "longitude": 71.23453
+    },
+    {
+      "id": 1512956,
+      "name": "Rishton Tumani",
+      "nativeName": "Rishton Tumani",
+      "code": "UZ-FA-1512956",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-FA",
+      "latitude": 40.36667,
+      "longitude": 71.25
+    },
+    {
+      "id": 1538295,
+      "name": "So‘x Tumani",
+      "nativeName": "So‘x Tumani",
+      "code": "UZ-FA-1538295",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-FA",
+      "latitude": 40.04417,
+      "longitude": 71.09417
+    },
+    {
+      "id": 1512646,
+      "name": "Toshloq Tumani",
+      "nativeName": "Toshloq Tumani",
+      "code": "UZ-FA-1512646",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-FA",
+      "latitude": 40.5,
+      "longitude": 71.83333
+    },
+    {
+      "id": 1513272,
+      "name": "Uchko‘prik Tumani",
+      "nativeName": "Uchko‘prik Tumani",
+      "code": "UZ-FA-1513272",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-FA",
+      "latitude": 40.58333,
+      "longitude": 71
+    },
+    {
+      "id": 7668842,
+      "name": "Yazyavan",
+      "nativeName": "Yazyavan",
+      "code": "UZ-FA-7668842",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-FA",
+      "latitude": 40.65383,
+      "longitude": 71.61699
+    },
+    {
+      "id": 1512318,
+      "name": "Yozyovon Tumani",
+      "nativeName": "Yozyovon Tumani",
+      "code": "UZ-FA-1512318",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-FA",
+      "latitude": 40.65,
+      "longitude": 71.73333
+    }
+  ]
+}

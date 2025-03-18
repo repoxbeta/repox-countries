@@ -1,0 +1,72 @@
+{
+  "countryId": 223816,
+  "countryCode": "DJ",
+  "states": [
+    {
+      "id": 225282,
+      "name": "Ali Sabieh",
+      "nativeName": "Ali Sabieh Region",
+      "code": "DJ-AS",
+      "internalCode": "AS",
+      "countryId": 223816,
+      "countryCode": "DJ",
+      "latitude": 11.2,
+      "longitude": 42.94
+    },
+    {
+      "id": 449265,
+      "name": "Arta",
+      "nativeName": "Arta Region",
+      "code": "DJ-AR",
+      "internalCode": "AR",
+      "countryId": 223816,
+      "countryCode": "DJ",
+      "latitude": 11.5,
+      "longitude": 42.75
+    },
+    {
+      "id": 223889,
+      "name": "Dikhil",
+      "nativeName": "Dikhil",
+      "code": "DJ-DI",
+      "internalCode": "DI",
+      "countryId": 223816,
+      "countryCode": "DJ",
+      "latitude": 11.41667,
+      "longitude": 42.16667
+    },
+    {
+      "id": 223818,
+      "name": "Djibouti",
+      "nativeName": "Djibouti Region",
+      "code": "DJ-DJ",
+      "internalCode": "DJ",
+      "countryId": 223816,
+      "countryCode": "DJ",
+      "latitude": 11.56,
+      "longitude": 43.06
+    },
+    {
+      "id": 221525,
+      "name": "Obock",
+      "nativeName": "Obock",
+      "code": "DJ-OB",
+      "internalCode": "OB",
+      "countryId": 223816,
+      "countryCode": "DJ",
+      "latitude": 12.25007,
+      "longitude": 43.08369
+    },
+    {
+      "id": 220781,
+      "name": "Tadjourah",
+      "nativeName": "Tadjourah",
+      "code": "DJ-TA",
+      "internalCode": "TA",
+      "countryId": 223816,
+      "countryCode": "DJ",
+      "latitude": 12,
+      "longitude": 42.5
+    }
+  ]
+}

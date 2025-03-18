@@ -1,0 +1,62 @@
+{
+  "stateId": 1655561,
+  "stateCode": "LA-LM",
+  "countryCode": "LA",
+  "cities": [
+    {
+      "id": 1904826,
+      "name": "Muang Long",
+      "nativeName": "Muang Long",
+      "code": "LA-LM-1904826",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-LM",
+      "latitude": 20.98503,
+      "longitude": 100.83104
+    },
+    {
+      "id": 1655560,
+      "name": "Muang Louang Namtha",
+      "nativeName": "Muang Louang Namtha",
+      "code": "LA-LM-1655560",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-LM",
+      "latitude": 21.00424,
+      "longitude": 101.44785
+    },
+    {
+      "id": 1904824,
+      "name": "Muang Nalè",
+      "nativeName": "Muang Nalè",
+      "code": "LA-LM-1904824",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-LM",
+      "latitude": 20.5,
+      "longitude": 101.41667
+    },
+    {
+      "id": 1653142,
+      "name": "Muang Sing",
+      "nativeName": "Muang Sing",
+      "code": "LA-LM-1653142",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-LM",
+      "latitude": 21.26178,
+      "longitude": 101.10913
+    },
+    {
+      "id": 1904825,
+      "name": "Muang Viangphoukha",
+      "nativeName": "Muang Viangphoukha",
+      "code": "LA-LM-1904825",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-LM",
+      "latitude": 20.63194,
+      "longitude": 101.0784
+    }
+  ]
+}

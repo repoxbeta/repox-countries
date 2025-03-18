@@ -1,0 +1,183 @@
+{
+  "stateId": 2467450,
+  "stateCode": "TN-61",
+  "countryCode": "TN",
+  "cities": [
+    {
+      "id": 11105078,
+      "name": "Agareb",
+      "nativeName": "Agareb",
+      "code": "TN-61-11105078",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-61",
+      "latitude": 34.74406,
+      "longitude": 10.4611
+    },
+    {
+      "id": 2472378,
+      "name": "Bir ali Ben Kelifa",
+      "nativeName": "Bir Ali Ben Khalifa",
+      "code": "TN-61-2472378",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-61",
+      "latitude": 34.71718,
+      "longitude": 10.10645
+    },
+    {
+      "id": 2470258,
+      "name": "Djebeniana",
+      "nativeName": "Djebeniana",
+      "code": "TN-61-2470258",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-61",
+      "latitude": 35.08022,
+      "longitude": 10.89813
+    },
+    {
+      "id": 11105076,
+      "name": "El Amra",
+      "nativeName": "El Amra",
+      "code": "TN-61-11105076",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-61",
+      "latitude": 34.95186,
+      "longitude": 10.87016
+    },
+    {
+      "id": 11105077,
+      "name": "El Hencha",
+      "nativeName": "El Hencha",
+      "code": "TN-61-11105077",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-61",
+      "latitude": 35.09019,
+      "longitude": 10.72856
+    },
+    {
+      "id": 11105079,
+      "name": "Ghraiba",
+      "nativeName": "Ghraiba",
+      "code": "TN-61-11105079",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-61",
+      "latitude": 34.50085,
+      "longitude": 10.21986
+    },
+    {
+      "id": 2468247,
+      "name": "Kerkenah",
+      "nativeName": "Kerkennah",
+      "code": "TN-61-2468247",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-61",
+      "latitude": 34.70965,
+      "longitude": 11.18318
+    },
+    {
+      "id": 2473571,
+      "name": "Mahres",
+      "nativeName": "Mu‘tamadīyat al Maḩras",
+      "code": "TN-61-2473571",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-61",
+      "latitude": 34.54898,
+      "longitude": 10.48096
+    },
+    {
+      "id": 2469265,
+      "name": "Menzel Chaker",
+      "nativeName": "Menzel Chaker",
+      "code": "TN-61-2469265",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-61",
+      "latitude": 34.99583,
+      "longitude": 10.40223
+    },
+    {
+      "id": 11104962,
+      "name": "Sakiet Eddaïer",
+      "nativeName": "Sakiet Eddaier",
+      "code": "TN-61-11104962",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-61",
+      "latitude": 34.83271,
+      "longitude": 10.81816
+    },
+    {
+      "id": 11104961,
+      "name": "Sakiet Ezzit",
+      "nativeName": "Sakiet Ezzit",
+      "code": "TN-61-11104961",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-61",
+      "latitude": 34.85697,
+      "longitude": 10.74409
+    },
+    {
+      "id": 11104958,
+      "name": "Sfax Ouest",
+      "nativeName": "Sfax Ouest",
+      "code": "TN-61-11104958",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-61",
+      "latitude": 34.74044,
+      "longitude": 10.72196
+    },
+    {
+      "id": 11104960,
+      "name": "Sfax Sud",
+      "nativeName": "Sfax Sud",
+      "code": "TN-61-11104960",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-61",
+      "latitude": 34.8314,
+      "longitude": 10.66673
+    },
+    {
+      "id": 2467453,
+      "name": "Sfax Ville",
+      "nativeName": "Sfax Ville",
+      "code": "TN-61-2467453",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-61",
+      "latitude": 34.74388,
+      "longitude": 10.7631
+    },
+    {
+      "id": 11105080,
+      "name": "Skhira",
+      "nativeName": "Skhira",
+      "code": "TN-61-11105080",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-61",
+      "latitude": 34.34155,
+      "longitude": 9.97468
+    },
+    {
+      "id": 11104959,
+      "name": "Tina",
+      "nativeName": "Thyna",
+      "code": "TN-61-11104959",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-61",
+      "latitude": 34.68915,
+      "longitude": 10.67853
+    }
+  ]
+}

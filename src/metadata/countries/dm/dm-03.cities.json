@@ -1,0 +1,216 @@
+{
+  "stateId": 3575630,
+  "stateCode": "DM-03",
+  "countryCode": "DM",
+  "cities": [
+    {
+      "id": 3575639,
+      "name": "Rosalie",
+      "nativeName": "Rosalie",
+      "code": "DM-03-3575639",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-03",
+      "latitude": 15.36667,
+      "longitude": -61.26667
+    },
+    {
+      "id": 3575915,
+      "name": "Bataka",
+      "nativeName": "Bataka",
+      "code": "DM-03-3575915",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-03",
+      "latitude": 15.50646,
+      "longitude": -61.2663
+    },
+    {
+      "id": 3575870,
+      "name": "Castle Bruce",
+      "nativeName": "Castle Bruce",
+      "code": "DM-03-3575870",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-03",
+      "latitude": 15.44397,
+      "longitude": -61.25723
+    },
+    {
+      "id": 3575847,
+      "name": "Crayfish River",
+      "nativeName": "Crayfish River",
+      "code": "DM-03-3575847",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-03",
+      "latitude": 15.49702,
+      "longitude": -61.25755
+    },
+    {
+      "id": 3575804,
+      "name": "Gaulette",
+      "nativeName": "Gaulette",
+      "code": "DM-03-3575804",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-03",
+      "latitude": 15.48255,
+      "longitude": -61.25279
+    },
+    {
+      "id": 3575793,
+      "name": "Good Hope",
+      "nativeName": "Good Hope",
+      "code": "DM-03-3575793",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-03",
+      "latitude": 15.41168,
+      "longitude": -61.25406
+    },
+    {
+      "id": 3575784,
+      "name": "Grand Fond",
+      "nativeName": "Grand Fond",
+      "code": "DM-03-3575784",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-03",
+      "latitude": 15.35626,
+      "longitude": -61.28187
+    },
+    {
+      "id": 3575734,
+      "name": "Madjini",
+      "nativeName": "Madjini",
+      "code": "DM-03-3575734",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-03",
+      "latitude": 15.46766,
+      "longitude": -61.24937
+    },
+    {
+      "id": 3575704,
+      "name": "Monkey Hill",
+      "nativeName": "Monkey Hill",
+      "code": "DM-03-3575704",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-03",
+      "latitude": 15.49959,
+      "longitude": -61.26481
+    },
+    {
+      "id": 3575702,
+      "name": "Morne Aux Frégates",
+      "nativeName": "Morne Aux Frégates",
+      "code": "DM-03-3575702",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-03",
+      "latitude": 15.35741,
+      "longitude": -61.26206
+    },
+    {
+      "id": 3575700,
+      "name": "Morne Jaune",
+      "nativeName": "Morne Jaune",
+      "code": "DM-03-3575700",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-03",
+      "latitude": 15.35285,
+      "longitude": -61.26401
+    },
+    {
+      "id": 3575695,
+      "name": "Morpo",
+      "nativeName": "Morpo",
+      "code": "DM-03-3575695",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-03",
+      "latitude": 15.42663,
+      "longitude": -61.25556
+    },
+    {
+      "id": 3575667,
+      "name": "Petite Soufrière",
+      "nativeName": "Petite Soufrière",
+      "code": "DM-03-3575667",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-03",
+      "latitude": 15.39025,
+      "longitude": -61.25617
+    },
+    {
+      "id": 3575642,
+      "name": "Rivière Ciriques",
+      "nativeName": "Rivière Ciriques",
+      "code": "DM-03-3575642",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-03",
+      "latitude": 15.3599,
+      "longitude": -61.25835
+    },
+    {
+      "id": 3575631,
+      "name": "Saint Cyr",
+      "nativeName": "Saint Cyr",
+      "code": "DM-03-3575631",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-03",
+      "latitude": 15.49025,
+      "longitude": -61.25353
+    },
+    {
+      "id": 3575617,
+      "name": "Saint Sauveur",
+      "nativeName": "Saint Sauveur",
+      "code": "DM-03-3575617",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-03",
+      "latitude": 15.40258,
+      "longitude": -61.2547
+    },
+    {
+      "id": 3575614,
+      "name": "Salybia",
+      "nativeName": "Salybia",
+      "code": "DM-03-3575614",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-03",
+      "latitude": 15.49382,
+      "longitude": -61.25753
+    },
+    {
+      "id": 3575604,
+      "name": "Sineku",
+      "nativeName": "Sineku",
+      "code": "DM-03-3575604",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-03",
+      "latitude": 15.46632,
+      "longitude": -61.24825
+    },
+    {
+      "id": 3575588,
+      "name": "The Cross",
+      "nativeName": "The Cross",
+      "code": "DM-03-3575588",
+      "countryId": 3575830,
+      "countryCode": "DM",
+      "stateCode": "DM-03",
+      "latitude": 15.3636,
+      "longitude": -61.27371
+    }
+  ]
+}

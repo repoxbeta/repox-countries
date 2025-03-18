@@ -1,0 +1,128 @@
+{
+  "stateId": 205413,
+  "stateCode": "CD-SK",
+  "countryCode": "CD",
+  "cities": [
+    {
+      "id": 12278119,
+      "name": "Baraka",
+      "nativeName": "Baraka",
+      "code": "CD-SK-12278119",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-SK",
+      "latitude": -4.08973,
+      "longitude": 29.09151
+    },
+    {
+      "id": 9179197,
+      "name": "Bukavu",
+      "nativeName": "Bukavu",
+      "code": "CD-SK-9179197",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-SK",
+      "latitude": -2.5,
+      "longitude": 28.86667
+    },
+    {
+      "id": 9179483,
+      "name": "Fizi",
+      "nativeName": "Fizi",
+      "code": "CD-SK-9179483",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-SK",
+      "latitude": -4.30111,
+      "longitude": 28.94417
+    },
+    {
+      "id": 12278162,
+      "name": "Idjwi",
+      "nativeName": "Idjwi",
+      "code": "CD-SK-12278162",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-SK",
+      "latitude": -2.00917,
+      "longitude": 29.09262
+    },
+    {
+      "id": 9179531,
+      "name": "Kabare",
+      "nativeName": "Kabare",
+      "code": "CD-SK-9179531",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-SK",
+      "latitude": -2.48333,
+      "longitude": 28.8
+    },
+    {
+      "id": 9179463,
+      "name": "Kalehe",
+      "nativeName": "Kalehe",
+      "code": "CD-SK-9179463",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-SK",
+      "latitude": -2.1,
+      "longitude": 28.91667
+    },
+    {
+      "id": 12278062,
+      "name": "Kamituga",
+      "nativeName": "Kamituga",
+      "code": "CD-SK-12278062",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-SK",
+      "latitude": -3.06139,
+      "longitude": 28.19279
+    },
+    {
+      "id": 9179476,
+      "name": "Mwenga",
+      "nativeName": "Mwenga",
+      "code": "CD-SK-9179476",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-SK",
+      "latitude": -3.03333,
+      "longitude": 28.43333
+    },
+    {
+      "id": 12278023,
+      "name": "Shabunda",
+      "nativeName": "Shabunda",
+      "code": "CD-SK-12278023",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-SK",
+      "latitude": -2.91001,
+      "longitude": 27.57828
+    },
+    {
+      "id": 12278149,
+      "name": "Uvira",
+      "nativeName": "Uvira",
+      "code": "CD-SK-12278149",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-SK",
+      "latitude": -3.21468,
+      "longitude": 29.01462
+    },
+    {
+      "id": 12278076,
+      "name": "Walungu",
+      "nativeName": "Walungu",
+      "code": "CD-SK-12278076",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-SK",
+      "latitude": -2.72565,
+      "longitude": 28.67992
+    }
+  ]
+}

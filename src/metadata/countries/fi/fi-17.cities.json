@@ -1,0 +1,40 @@
+{
+  "stateId": 831041,
+  "stateCode": "FI-17",
+  "countryCode": "FI",
+  "cities": [
+    {
+      "id": 9610680,
+      "name": "Pohjois-Satakunta",
+      "nativeName": "Pohjois-Satakunta",
+      "code": "FI-17-9610680",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-17",
+      "latitude": 61.8703,
+      "longitude": 22.34786
+    },
+    {
+      "id": 9610679,
+      "name": "Pori",
+      "nativeName": "Pori",
+      "code": "FI-17-9610679",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-17",
+      "latitude": 61.50524,
+      "longitude": 22.01202
+    },
+    {
+      "id": 9610678,
+      "name": "Rauma",
+      "nativeName": "Rauma",
+      "code": "FI-17-9610678",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-17",
+      "latitude": 61.11017,
+      "longitude": 21.94188
+    }
+  ]
+}

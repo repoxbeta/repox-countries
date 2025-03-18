@@ -1,0 +1,73 @@
+{
+  "stateId": 2236355,
+  "stateCode": "AO-ZAI",
+  "countryCode": "AO",
+  "cities": [
+    {
+      "id": 2241620,
+      "name": "Cuimba",
+      "nativeName": "Cuimba",
+      "code": "AO-ZAI-2241620",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-ZAI",
+      "latitude": -6.20075,
+      "longitude": 14.67685
+    },
+    {
+      "id": 2239519,
+      "name": "Mbanza Congo",
+      "nativeName": "Mbanza Congo",
+      "code": "AO-ZAI-2239519",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-ZAI",
+      "latitude": -6.3145,
+      "longitude": 14.17795
+    },
+    {
+      "id": 2239000,
+      "name": "Nzeto",
+      "nativeName": "Nzeto",
+      "code": "AO-ZAI-2239000",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-ZAI",
+      "latitude": -7.3163,
+      "longitude": 13.40963
+    },
+    {
+      "id": 2239019,
+      "name": "Nóqui",
+      "nativeName": "Nóqui",
+      "code": "AO-ZAI-2239019",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-ZAI",
+      "latitude": -6.14287,
+      "longitude": 13.58125
+    },
+    {
+      "id": 2236966,
+      "name": "Soyo",
+      "nativeName": "Soyo",
+      "code": "AO-ZAI-2236966",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-ZAI",
+      "latitude": -6.24665,
+      "longitude": 12.8309
+    },
+    {
+      "id": 2236714,
+      "name": "Tomboco",
+      "nativeName": "Tomboco",
+      "code": "AO-ZAI-2236714",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-ZAI",
+      "latitude": -6.68169,
+      "longitude": 13.35575
+    }
+  ]
+}

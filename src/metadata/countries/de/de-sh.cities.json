@@ -1,0 +1,172 @@
+{
+  "stateId": 2838632,
+  "stateCode": "DE-SH",
+  "countryCode": "DE",
+  "cities": [
+    {
+      "id": 3249069,
+      "name": "Kreis Dithmarschen",
+      "nativeName": "Kreis Dithmarschen",
+      "code": "DE-SH-3249069",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-SH",
+      "latitude": 54.13167,
+      "longitude": 9.05556
+    },
+    {
+      "id": 2905434,
+      "name": "Kreis Herzogtum Lauenburg",
+      "nativeName": "Kreis Herzogtum Lauenburg",
+      "code": "DE-SH-2905434",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-SH",
+      "latitude": 53.6075,
+      "longitude": 10.625
+    },
+    {
+      "id": 3249073,
+      "name": "Kreis Nordfriesland",
+      "nativeName": "Kreis Nordfriesland",
+      "code": "DE-SH-3249073",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-SH",
+      "latitude": 54.58389,
+      "longitude": 8.9675
+    },
+    {
+      "id": 3249074,
+      "name": "Kreis Ostholstein",
+      "nativeName": "Kreis Ostholstein",
+      "code": "DE-SH-3249074",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-SH",
+      "latitude": 54.16111,
+      "longitude": 10.76972
+    },
+    {
+      "id": 2853657,
+      "name": "Kreis Pinneberg",
+      "nativeName": "Kreis Pinneberg",
+      "code": "DE-SH-2853657",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-SH",
+      "latitude": 53.73444,
+      "longitude": 9.75722
+    },
+    {
+      "id": 2853161,
+      "name": "Kreis Plön",
+      "nativeName": "Kreis Plön",
+      "code": "DE-SH-2853161",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-SH",
+      "latitude": 54.23361,
+      "longitude": 10.36972
+    },
+    {
+      "id": 3249075,
+      "name": "Kreis Rendsburg-Eckernförde",
+      "nativeName": "Kreis Rendsburg-Eckernförde",
+      "code": "DE-SH-3249075",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-SH",
+      "latitude": 54.32222,
+      "longitude": 9.76083
+    },
+    {
+      "id": 2838633,
+      "name": "Kreis Schleswig-Flensburg",
+      "nativeName": "Kreis Schleswig-Flensburg",
+      "code": "DE-SH-2838633",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-SH",
+      "latitude": 54.57778,
+      "longitude": 9.46917
+    },
+    {
+      "id": 3249076,
+      "name": "Kreis Segeberg",
+      "nativeName": "Kreis Segeberg",
+      "code": "DE-SH-3249076",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-SH",
+      "latitude": 53.95472,
+      "longitude": 10.18722
+    },
+    {
+      "id": 3249077,
+      "name": "Kreis Steinburg",
+      "nativeName": "Kreis Steinburg",
+      "code": "DE-SH-3249077",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-SH",
+      "latitude": 53.93306,
+      "longitude": 9.50361
+    },
+    {
+      "id": 3249078,
+      "name": "Kreis Stormarn",
+      "nativeName": "Kreis Stormarn",
+      "code": "DE-SH-3249078",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-SH",
+      "latitude": 53.76472,
+      "longitude": 10.33111
+    },
+    {
+      "id": 2926272,
+      "name": "Kreisfreie Stadt Flensburg",
+      "nativeName": "Kreisfreie Stadt Flensburg",
+      "code": "DE-SH-2926272",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-SH",
+      "latitude": 54.79004,
+      "longitude": 9.43684
+    },
+    {
+      "id": 3249070,
+      "name": "Kreisfreie Stadt Kiel",
+      "nativeName": "Kreisfreie Stadt Kiel",
+      "code": "DE-SH-3249070",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-SH",
+      "latitude": 54.32194,
+      "longitude": 10.13417
+    },
+    {
+      "id": 3249071,
+      "name": "Kreisfreie Stadt Lübeck",
+      "nativeName": "Kreisfreie Stadt Lübeck",
+      "code": "DE-SH-3249071",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-SH",
+      "latitude": 53.89333,
+      "longitude": 10.74361
+    },
+    {
+      "id": 3249072,
+      "name": "Kreisfreie Stadt Neumünster",
+      "nativeName": "Kreisfreie Stadt Neumünster",
+      "code": "DE-SH-3249072",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-SH",
+      "latitude": 54.09389,
+      "longitude": 9.98944
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "stateId": 236178,
+  "stateCode": "CF-VK",
+  "countryCode": "CF",
+  "cities": [
+    {
+      "id": 9143458,
+      "name": "Birao",
+      "nativeName": "Birao",
+      "code": "CF-VK-9143458",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-VK",
+      "latitude": 10.00316,
+      "longitude": 22.53517
+    },
+    {
+      "id": 9143495,
+      "name": "Ouanda-Djallé",
+      "nativeName": "Ouanda-Djallé",
+      "code": "CF-VK-9143495",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-VK",
+      "latitude": 9.05877,
+      "longitude": 22.42741
+    }
+  ]
+}

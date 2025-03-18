@@ -1,0 +1,29 @@
+{
+  "stateId": 830699,
+  "stateCode": "FI-02",
+  "countryCode": "FI",
+  "cities": [
+    {
+      "id": 9610693,
+      "name": "Imatra",
+      "nativeName": "Imatra",
+      "code": "FI-02-9610693",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-02",
+      "latitude": 61.44702,
+      "longitude": 29.14693
+    },
+    {
+      "id": 9610692,
+      "name": "Lappeenranta",
+      "nativeName": "Lappeenranta",
+      "code": "FI-02-9610692",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-02",
+      "latitude": 61.03804,
+      "longitude": 27.91635
+    }
+  ]
+}

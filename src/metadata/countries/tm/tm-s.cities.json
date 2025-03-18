@@ -1,0 +1,128 @@
+{
+  "stateId": 162182,
+  "stateCode": "TM-S",
+  "countryCode": "TM",
+  "cities": [
+    {
+      "id": 162183,
+      "name": "Ashgabat",
+      "nativeName": "Ashgabat",
+      "code": "TM-S-162183",
+      "countryId": 1218197,
+      "countryCode": "TM",
+      "stateCode": "TM-S",
+      "latitude": 37.95,
+      "longitude": 58.38333
+    },
+    {
+      "id": 410549,
+      "name": "Aktash",
+      "nativeName": "Aktash",
+      "code": "TM-S-410549",
+      "countryId": 1218197,
+      "countryCode": "TM",
+      "stateCode": "TM-S",
+      "latitude": 37.92889,
+      "longitude": 58.44194
+    },
+    {
+      "id": 410547,
+      "name": "Arzuv",
+      "nativeName": "Arzuv",
+      "code": "TM-S-410547",
+      "countryId": 1218197,
+      "countryCode": "TM",
+      "stateCode": "TM-S",
+      "latitude": 37.95111,
+      "longitude": 58.44472
+    },
+    {
+      "id": 410585,
+      "name": "Berzengi",
+      "nativeName": "Berzengi",
+      "code": "TM-S-410585",
+      "countryId": 1218197,
+      "countryCode": "TM",
+      "stateCode": "TM-S",
+      "latitude": 37.88527,
+      "longitude": 58.37379
+    },
+    {
+      "id": 410519,
+      "name": "Bikrava",
+      "nativeName": "Bikrava",
+      "code": "TM-S-410519",
+      "countryId": 1218197,
+      "countryCode": "TM",
+      "stateCode": "TM-S",
+      "latitude": 37.9284,
+      "longitude": 58.28901
+    },
+    {
+      "id": 410475,
+      "name": "Geokcha",
+      "nativeName": "Geokcha",
+      "code": "TM-S-410475",
+      "countryId": 1218197,
+      "countryCode": "TM",
+      "stateCode": "TM-S",
+      "latitude": 37.98082,
+      "longitude": 58.25146
+    },
+    {
+      "id": 161940,
+      "name": "Gyami",
+      "nativeName": "Gyami",
+      "code": "TM-S-161940",
+      "countryId": 1218197,
+      "countryCode": "TM",
+      "stateCode": "TM-S",
+      "latitude": 37.90735,
+      "longitude": 58.47039
+    },
+    {
+      "id": 161854,
+      "name": "Karadamak",
+      "nativeName": "Karadamak",
+      "code": "TM-S-161854",
+      "countryId": 1218197,
+      "countryCode": "TM",
+      "stateCode": "TM-S",
+      "latitude": 37.90369,
+      "longitude": 58.37027
+    },
+    {
+      "id": 161704,
+      "name": "Kurtli",
+      "nativeName": "Kurtli",
+      "code": "TM-S-161704",
+      "countryId": 1218197,
+      "countryCode": "TM",
+      "stateCode": "TM-S",
+      "latitude": 37.98818,
+      "longitude": 58.31827
+    },
+    {
+      "id": 410476,
+      "name": "Yalkim",
+      "nativeName": "Yalkim",
+      "code": "TM-S-410476",
+      "countryId": 1218197,
+      "countryCode": "TM",
+      "stateCode": "TM-S",
+      "latitude": 37.98865,
+      "longitude": 58.28855
+    },
+    {
+      "id": 410548,
+      "name": "Yekitut",
+      "nativeName": "Yekitut",
+      "code": "TM-S-410548",
+      "countryId": 1218197,
+      "countryCode": "TM",
+      "stateCode": "TM-S",
+      "latitude": 37.93774,
+      "longitude": 58.45247
+    }
+  ]
+}

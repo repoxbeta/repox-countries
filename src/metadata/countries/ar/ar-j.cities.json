@@ -1,0 +1,216 @@
+{
+  "stateId": 3837152,
+  "stateCode": "AR-J",
+  "countryCode": "AR",
+  "cities": [
+    {
+      "id": 3866424,
+      "name": "Departamento de Albardón",
+      "nativeName": "Departamento de Albardón",
+      "code": "AR-J-3866424",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-J",
+      "latitude": -31.28333,
+      "longitude": -68.41667
+    },
+    {
+      "id": 3865769,
+      "name": "Departamento de Angaco",
+      "nativeName": "Departamento de Angaco",
+      "code": "AR-J-3865769",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-J",
+      "latitude": -31.2,
+      "longitude": -68.13333
+    },
+    {
+      "id": 3863361,
+      "name": "Departamento de Calingasta",
+      "nativeName": "Departamento de Calingasta",
+      "code": "AR-J-3863361",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-J",
+      "latitude": -31.5,
+      "longitude": -69.75
+    },
+    {
+      "id": 3862743,
+      "name": "Departamento de Capital",
+      "nativeName": "Departamento de Capital",
+      "code": "AR-J-3862743",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-J",
+      "latitude": -31.53333,
+      "longitude": -68.53333
+    },
+    {
+      "id": 3862239,
+      "name": "Departamento de Caucete",
+      "nativeName": "Departamento de Caucete",
+      "code": "AR-J-3862239",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-J",
+      "latitude": -31.45,
+      "longitude": -67.66667
+    },
+    {
+      "id": 3861415,
+      "name": "Departamento de Chimbas",
+      "nativeName": "Departamento de Chimbas",
+      "code": "AR-J-3861415",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-J",
+      "latitude": -31.48738,
+      "longitude": -68.52691
+    },
+    {
+      "id": 3853596,
+      "name": "Departamento de Jáchal",
+      "nativeName": "Departamento de Jáchal",
+      "code": "AR-J-3853596",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-J",
+      "latitude": -30.5,
+      "longitude": -68.5
+    },
+    {
+      "id": 3842876,
+      "name": "Departamento de Nueve de Julio",
+      "nativeName": "Departamento de Nueve de Julio",
+      "code": "AR-J-3842876",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-J",
+      "latitude": -31.65072,
+      "longitude": -68.38925
+    },
+    {
+      "id": 3840858,
+      "name": "Departamento de Pocito",
+      "nativeName": "Departamento de Pocito",
+      "code": "AR-J-3840858",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-J",
+      "latitude": -31.80712,
+      "longitude": -68.58531
+    },
+    {
+      "id": 3839304,
+      "name": "Departamento de Rawson",
+      "nativeName": "Departamento de Rawson",
+      "code": "AR-J-3839304",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-J",
+      "latitude": -31.7,
+      "longitude": -68.46667
+    },
+    {
+      "id": 3838750,
+      "name": "Departamento de Rivadavia",
+      "nativeName": "Departamento de Rivadavia",
+      "code": "AR-J-3838750",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-J",
+      "latitude": -31.5645,
+      "longitude": -68.65219
+    },
+    {
+      "id": 3836985,
+      "name": "Departamento de San Martín",
+      "nativeName": "Departamento de San Martín",
+      "code": "AR-J-3836985",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-J",
+      "latitude": -31.5,
+      "longitude": -68.25
+    },
+    {
+      "id": 3836188,
+      "name": "Departamento de Santa Lucía",
+      "nativeName": "Departamento de Santa Lucía",
+      "code": "AR-J-3836188",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-J",
+      "latitude": -31.53333,
+      "longitude": -68.46667
+    },
+    {
+      "id": 3835706,
+      "name": "Departamento de Sarmiento",
+      "nativeName": "Departamento de Sarmiento",
+      "code": "AR-J-3835706",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-J",
+      "latitude": -32,
+      "longitude": -68.66667
+    },
+    {
+      "id": 3833446,
+      "name": "Departamento de Ullúm",
+      "nativeName": "Departamento de Ullúm",
+      "code": "AR-J-3833446",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-J",
+      "latitude": -31,
+      "longitude": -68.91667
+    },
+    {
+      "id": 3833221,
+      "name": "Departamento de Valle Fértil",
+      "nativeName": "Departamento de Valle Fértil",
+      "code": "AR-J-3833221",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-J",
+      "latitude": -30.58333,
+      "longitude": -67.5
+    },
+    {
+      "id": 3833107,
+      "name": "Departamento de Veinticinco de Mayo",
+      "nativeName": "Departamento de Veinticinco de Mayo",
+      "code": "AR-J-3833107",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-J",
+      "latitude": -31.83333,
+      "longitude": -67.83333
+    },
+    {
+      "id": 3832079,
+      "name": "Departamento de Zonda",
+      "nativeName": "Departamento de Zonda",
+      "code": "AR-J-3832079",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-J",
+      "latitude": -31.6826,
+      "longitude": -68.89938
+    },
+    {
+      "id": 3853914,
+      "name": "Iglesia Department",
+      "nativeName": "Departamento de Iglesia",
+      "code": "AR-J-3853914",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-J",
+      "latitude": -29.33333,
+      "longitude": -69.58333
+    }
+  ]
+}

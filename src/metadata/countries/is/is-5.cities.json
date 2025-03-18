@@ -1,0 +1,62 @@
+{
+  "stateId": 3337403,
+  "stateCode": "IS-5",
+  "countryCode": "IS",
+  "cities": [
+    {
+      "id": 12504066,
+      "name": "Húnabyggð",
+      "nativeName": "Húnabyggð",
+      "code": "IS-5-12504066",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-5",
+      "latitude": 65.6082,
+      "longitude": -20.24619
+    },
+    {
+      "id": 3426210,
+      "name": "Húnaþing Vestra",
+      "nativeName": "Húnaþing Vestra",
+      "code": "IS-5-3426210",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-5",
+      "latitude": 65.25,
+      "longitude": -20.91667
+    },
+    {
+      "id": 3413488,
+      "name": "Skagabyggð",
+      "nativeName": "Skagabyggð",
+      "code": "IS-5-3413488",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-5",
+      "latitude": 65.95,
+      "longitude": -20.25
+    },
+    {
+      "id": 3345263,
+      "name": "Sveitarfélagið Skagafjörður",
+      "nativeName": "Sveitarfélagið Skagafjörður",
+      "code": "IS-5-3345263",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-5",
+      "latitude": 65.50018,
+      "longitude": -19.44566
+    },
+    {
+      "id": 9192469,
+      "name": "Sveitarfélagið Skagaströnd",
+      "nativeName": "Sveitarfélagið Skagaströnd",
+      "code": "IS-5-9192469",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-5",
+      "latitude": 65.85811,
+      "longitude": -20.1633
+    }
+  ]
+}

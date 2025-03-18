@@ -1,0 +1,84 @@
+{
+  "stateId": 752014,
+  "stateCode": "TR-05",
+  "countryCode": "TR",
+  "cities": [
+    {
+      "id": 8631704,
+      "name": "Göynücek İlçesi",
+      "nativeName": "Göynücek İlçesi",
+      "code": "TR-05-8631704",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-05",
+      "latitude": 40.41008,
+      "longitude": 35.53104
+    },
+    {
+      "id": 8631705,
+      "name": "Gümüşhacıköy İlçesi",
+      "nativeName": "Gümüşhacıköy İlçesi",
+      "code": "TR-05-8631705",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-05",
+      "latitude": 40.88365,
+      "longitude": 35.22111
+    },
+    {
+      "id": 8631708,
+      "name": "Hamamözü İlçesi",
+      "nativeName": "Hamamözü İlçesi",
+      "code": "TR-05-8631708",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-05",
+      "latitude": 40.79539,
+      "longitude": 35.03367
+    },
+    {
+      "id": 7732078,
+      "name": "Merkez",
+      "nativeName": "Merkez",
+      "code": "TR-05-7732078",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-05",
+      "latitude": 40.61939,
+      "longitude": 35.87016
+    },
+    {
+      "id": 8631707,
+      "name": "Merzifon İlçesi",
+      "nativeName": "Merzifon İlçesi",
+      "code": "TR-05-8631707",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-05",
+      "latitude": 40.88348,
+      "longitude": 35.47116
+    },
+    {
+      "id": 8631706,
+      "name": "Suluova İlçesi",
+      "nativeName": "Suluova İlçesi",
+      "code": "TR-05-8631706",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-05",
+      "latitude": 40.84202,
+      "longitude": 35.65922
+    },
+    {
+      "id": 8631703,
+      "name": "Taşova İlçesi",
+      "nativeName": "Taşova İlçesi",
+      "code": "TR-05-8631703",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-05",
+      "latitude": 40.76998,
+      "longitude": 36.33092
+    }
+  ]
+}

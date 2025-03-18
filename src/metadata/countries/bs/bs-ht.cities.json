@@ -1,0 +1,40 @@
+{
+  "stateId": 8030548,
+  "stateCode": "BS-HT",
+  "countryCode": "BS",
+  "cities": [
+    {
+      "id": 3572272,
+      "name": "Green Turtle Cay",
+      "nativeName": "Green Turtle Cay",
+      "code": "BS-HT-3572272",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-HT",
+      "latitude": 26.75818,
+      "longitude": -77.32482
+    },
+    {
+      "id": 3572293,
+      "name": "Guano Cay",
+      "nativeName": "Great Guana Cay",
+      "code": "BS-HT-3572293",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-HT",
+      "latitude": 26.6666,
+      "longitude": -77.10782
+    },
+    {
+      "id": 3571930,
+      "name": "Man of War Cay Settlement",
+      "nativeName": "Man of War Cay Settlement",
+      "code": "BS-HT-3571930",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-HT",
+      "latitude": 26.59536,
+      "longitude": -77.00077
+    }
+  ]
+}

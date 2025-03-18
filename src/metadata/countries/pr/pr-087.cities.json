@@ -1,0 +1,73 @@
+{
+  "stateId": 4566025,
+  "stateCode": "PR-087",
+  "countryCode": "PR",
+  "cities": [
+    {
+      "id": 7268327,
+      "name": "Canóvanas Barrio",
+      "nativeName": "Canóvanas Barrio",
+      "code": "PR-087-7268327",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-087",
+      "latitude": 18.39055,
+      "longitude": -65.86406
+    },
+    {
+      "id": 7268571,
+      "name": "Loíza Barrio-Pueblo",
+      "nativeName": "Loíza Barrio-Pueblo",
+      "code": "PR-087-7268571",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-087",
+      "latitude": 18.43202,
+      "longitude": -65.87958
+    },
+    {
+      "id": 7268647,
+      "name": "Medianía Alta Barrio",
+      "nativeName": "Medianía Alta Barrio",
+      "code": "PR-087-7268647",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-087",
+      "latitude": 18.42395,
+      "longitude": -65.84062
+    },
+    {
+      "id": 7268648,
+      "name": "Medianía Baja Barrio",
+      "nativeName": "Medianía Baja Barrio",
+      "code": "PR-087-7268648",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-087",
+      "latitude": 18.42553,
+      "longitude": -65.85995
+    },
+    {
+      "id": 7269047,
+      "name": "Torrecilla Alta Barrio",
+      "nativeName": "Torrecilla Alta Barrio",
+      "code": "PR-087-7269047",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-087",
+      "latitude": 18.41888,
+      "longitude": -65.91477
+    },
+    {
+      "id": 7269048,
+      "name": "Torrecilla Baja Barrio",
+      "nativeName": "Torrecilla Baja Barrio",
+      "code": "PR-087-7269048",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-087",
+      "latitude": 18.44424,
+      "longitude": -65.93281
+    }
+  ]
+}

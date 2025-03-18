@@ -42,7 +42,7 @@ export interface State extends Option {
   id: number;               // Unique GeoNames ID
   name: string;             // Official state/province name
   nativeName: string;       // Native state/province name
-  code: string;             // Combine countryCode (ISO) - stateCode (internal) for unique identification
+  code: string;             // Combine countryCode (ISO) - Internal state/province code
   internalCode: string;     // Internal state/province code by ISO 3166-2 code
 
   countryId: number; // Unique GeoNames ID of the country
@@ -59,7 +59,7 @@ export interface City extends Option {
   id: number;               // Unique GeoNames ID
   name: string;             // Official city/district name
   nativeName: string;       // Native city/district name
-  code: string;             // Combine countryCode (ISO) - stateCode (internal) - GeoNames ID for unique identification
+  code: string;             // Combine Internal state/province code - GeoNames ID
 
   countryId: number;        // Unique GeoNames ID of the country
   countryCode: string;      // Country ISO code (e.g., "VN")
@@ -85,6 +85,7 @@ export interface CountryState {
 export interface StateCity {
   stateId: number;
   stateCode: string;
+  countryCode: string;
   cities: City[];
 }
 

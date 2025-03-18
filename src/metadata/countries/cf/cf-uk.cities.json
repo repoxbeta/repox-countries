@@ -1,0 +1,62 @@
+{
+  "stateId": 236887,
+  "stateCode": "CF-UK",
+  "countryCode": "CF",
+  "cities": [
+    {
+      "id": 9143471,
+      "name": "Bakala",
+      "nativeName": "Bakala",
+      "code": "CF-UK-9143471",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-UK",
+      "latitude": 6.56535,
+      "longitude": 20.39173
+    },
+    {
+      "id": 7732062,
+      "name": "Bambari",
+      "nativeName": "Bambari",
+      "code": "CF-UK-7732062",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-UK",
+      "latitude": 5.73633,
+      "longitude": 21.04956
+    },
+    {
+      "id": 7732377,
+      "name": "Grimari",
+      "nativeName": "Grimari",
+      "code": "CF-UK-7732377",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-UK",
+      "latitude": 5.73549,
+      "longitude": 19.91209
+    },
+    {
+      "id": 7732067,
+      "name": "Ippy",
+      "nativeName": "Ippy",
+      "code": "CF-UK-7732067",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-UK",
+      "latitude": 6.64468,
+      "longitude": 21.27696
+    },
+    {
+      "id": 7731893,
+      "name": "Kouango",
+      "nativeName": "Kouango",
+      "code": "CF-UK-7731893",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-UK",
+      "latitude": 5.11987,
+      "longitude": 20.42808
+    }
+  ]
+}

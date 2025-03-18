@@ -1,0 +1,282 @@
+{
+  "stateId": 862960,
+  "stateCode": "MK-205",
+  "countryCode": "MK",
+  "cities": [
+    {
+      "id": 789563,
+      "name": "Karbinci",
+      "nativeName": "Karbinci",
+      "code": "MK-205-789563",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-205",
+      "latitude": 41.81758,
+      "longitude": 22.23529
+    },
+    {
+      "id": 793096,
+      "name": "Argulica",
+      "nativeName": "Argulica",
+      "code": "MK-205-793096",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-205",
+      "latitude": 41.819,
+      "longitude": 22.27948
+    },
+    {
+      "id": 792837,
+      "name": "Batanje",
+      "nativeName": "Batanje",
+      "code": "MK-205-792837",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-205",
+      "latitude": 41.82223,
+      "longitude": 22.17795
+    },
+    {
+      "id": 791728,
+      "name": "Crvulevo",
+      "nativeName": "Crvulevo",
+      "code": "MK-205-791728",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-205",
+      "latitude": 41.81095,
+      "longitude": 22.29498
+    },
+    {
+      "id": 791362,
+      "name": "Dolni Balvan",
+      "nativeName": "Dolni Balvan",
+      "code": "MK-205-791362",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-205",
+      "latitude": 41.80589,
+      "longitude": 22.20172
+    },
+    {
+      "id": 791325,
+      "name": "Dolno Trogerci",
+      "nativeName": "Dolno Trogerci",
+      "code": "MK-205-791325",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-205",
+      "latitude": 41.83866,
+      "longitude": 22.17276
+    },
+    {
+      "id": 9269858,
+      "name": "Ebeplija",
+      "nativeName": "Ebeplija",
+      "code": "MK-205-9269858",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-205",
+      "latitude": 41.75998,
+      "longitude": 22.36965
+    },
+    {
+      "id": 835487,
+      "name": "Golem Gaber",
+      "nativeName": "Golem Gaber",
+      "code": "MK-205-835487",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-205",
+      "latitude": 41.75089,
+      "longitude": 22.30427
+    },
+    {
+      "id": 790527,
+      "name": "Gorni Balvan",
+      "nativeName": "Gorni Balvan",
+      "code": "MK-205-790527",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-205",
+      "latitude": 41.84217,
+      "longitude": 22.20116
+    },
+    {
+      "id": 790309,
+      "name": "Gorno Trogerci",
+      "nativeName": "Gorno Trogerci",
+      "code": "MK-205-790309",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-205",
+      "latitude": 41.85704,
+      "longitude": 22.17099
+    },
+    {
+      "id": 789736,
+      "name": "Junuzlija",
+      "nativeName": "Junuzlija",
+      "code": "MK-205-789736",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-205",
+      "latitude": 41.77502,
+      "longitude": 22.35184
+    },
+    {
+      "id": 789685,
+      "name": "Kalauzlija",
+      "nativeName": "Kalauzlija",
+      "code": "MK-205-789685",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-205",
+      "latitude": 41.78564,
+      "longitude": 22.33369
+    },
+    {
+      "id": 9269866,
+      "name": "Kepekčelija",
+      "nativeName": "Kepekčelija",
+      "code": "MK-205-9269866",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-205",
+      "latitude": 41.77968,
+      "longitude": 22.33715
+    },
+    {
+      "id": 789142,
+      "name": "Kozjak",
+      "nativeName": "Kozjak",
+      "code": "MK-205-789142",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-205",
+      "latitude": 41.80902,
+      "longitude": 22.27392
+    },
+    {
+      "id": 788986,
+      "name": "Krupište",
+      "nativeName": "Krupište",
+      "code": "MK-205-788986",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-205",
+      "latitude": 41.84194,
+      "longitude": 22.24972
+    },
+    {
+      "id": 788863,
+      "name": "Kurfalija",
+      "nativeName": "Kurfalija",
+      "code": "MK-205-788863",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-205",
+      "latitude": 41.76096,
+      "longitude": 22.32443
+    },
+    {
+      "id": 788935,
+      "name": "Kučica",
+      "nativeName": "Kučica",
+      "code": "MK-205-788935",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-205",
+      "latitude": 41.7415,
+      "longitude": 22.38173
+    },
+    {
+      "id": 835483,
+      "name": "Nov Karaorman",
+      "nativeName": "Nov Karaorman",
+      "code": "MK-205-835483",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-205",
+      "latitude": 41.79167,
+      "longitude": 22.21667
+    },
+    {
+      "id": 787498,
+      "name": "Odžalija",
+      "nativeName": "Odžalija",
+      "code": "MK-205-787498",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-205",
+      "latitude": 41.75472,
+      "longitude": 22.32889
+    },
+    {
+      "id": 786724,
+      "name": "Pripečani",
+      "nativeName": "Pripečani",
+      "code": "MK-205-786724",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-205",
+      "latitude": 41.80389,
+      "longitude": 22.36944
+    },
+    {
+      "id": 786705,
+      "name": "Prnalija",
+      "nativeName": "Prnalija",
+      "code": "MK-205-786705",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-205",
+      "latitude": 41.75554,
+      "longitude": 22.39089
+    },
+    {
+      "id": 786619,
+      "name": "Radanje",
+      "nativeName": "Radanje",
+      "code": "MK-205-786619",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-205",
+      "latitude": 41.78034,
+      "longitude": 22.27507
+    },
+    {
+      "id": 786178,
+      "name": "Ruljak",
+      "nativeName": "Ruljak",
+      "code": "MK-205-786178",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-205",
+      "latitude": 41.80278,
+      "longitude": 22.33028
+    },
+    {
+      "id": 785124,
+      "name": "Tarinci",
+      "nativeName": "Tarinci",
+      "code": "MK-205-785124",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-205",
+      "latitude": 41.79889,
+      "longitude": 22.23028
+    },
+    {
+      "id": 784121,
+      "name": "Vrteška",
+      "nativeName": "Vrteška",
+      "code": "MK-205-784121",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-205",
+      "latitude": 41.7593,
+      "longitude": 22.41896
+    }
+  ]
+}

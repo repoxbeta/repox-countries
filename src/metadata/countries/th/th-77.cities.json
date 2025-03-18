@@ -1,0 +1,95 @@
+{
+  "stateId": 1151073,
+  "stateCode": "TH-77",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 1157661,
+      "name": "Bang Saphan",
+      "nativeName": "Amphoe Bang Saphan",
+      "code": "TH-77-1157661",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-77",
+      "latitude": 11.29402,
+      "longitude": 99.44406
+    },
+    {
+      "id": 8534572,
+      "name": "Bang Saphan Noi",
+      "nativeName": "Amphoe Bang Saphan Noi",
+      "code": "TH-77-8534572",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-77",
+      "latitude": 11.07057,
+      "longitude": 99.34105
+    },
+    {
+      "id": 1153268,
+      "name": "Hua Hin",
+      "nativeName": "Amphoe Hua Hin",
+      "code": "TH-77-1153268",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-77",
+      "latitude": 12.53522,
+      "longitude": 99.70366
+    },
+    {
+      "id": 1152561,
+      "name": "Kui Buri",
+      "nativeName": "Amphoe Kui Buri",
+      "code": "TH-77-1152561",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-77",
+      "latitude": 12.11311,
+      "longitude": 99.75462
+    },
+    {
+      "id": 1151983,
+      "name": "Mueang Prachuap Khiri Khan",
+      "nativeName": "Amphoe Mueang Prachuap Khiri Khan",
+      "code": "TH-77-1151983",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-77",
+      "latitude": 11.87144,
+      "longitude": 99.73563
+    },
+    {
+      "id": 1151062,
+      "name": "Pran Buri",
+      "nativeName": "Amphoe Pran Buri",
+      "code": "TH-77-1151062",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-77",
+      "latitude": 12.3904,
+      "longitude": 99.6969
+    },
+    {
+      "id": 7510651,
+      "name": "Sam Roi Yot",
+      "nativeName": "Amphoe Sam Roi Yot",
+      "code": "TH-77-7510651",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-77",
+      "latitude": 12.25586,
+      "longitude": 99.7401
+    },
+    {
+      "id": 1150217,
+      "name": "Thap Sakae",
+      "nativeName": "Amphoe Thap Sakae",
+      "code": "TH-77-1150217",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-77",
+      "latitude": 11.54787,
+      "longitude": 99.57159
+    }
+  ]
+}

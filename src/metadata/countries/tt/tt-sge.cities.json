@@ -1,0 +1,73 @@
+{
+  "stateId": 7521944,
+  "stateCode": "TT-SGE",
+  "countryCode": "TT",
+  "cities": [
+    {
+      "id": 3574201,
+      "name": "Ward of Manzanilla",
+      "nativeName": "Ward of Manzanilla",
+      "code": "TT-SGE-3574201",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-SGE",
+      "latitude": 10.61667,
+      "longitude": -61.13333
+    },
+    {
+      "id": 3574167,
+      "name": "Ward of Matura",
+      "nativeName": "Ward of Matura",
+      "code": "TT-SGE-3574167",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-SGE",
+      "latitude": 10.7,
+      "longitude": -61.06667
+    },
+    {
+      "id": 3573635,
+      "name": "Ward of Tamana",
+      "nativeName": "Ward of Tamana",
+      "code": "TT-SGE-3573635",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-SGE",
+      "latitude": 10.53333,
+      "longitude": -61.18333
+    },
+    {
+      "id": 3573603,
+      "name": "Ward of Toco",
+      "nativeName": "Ward of Toco",
+      "code": "TT-SGE-3573603",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-SGE",
+      "latitude": 10.78333,
+      "longitude": -61.05
+    },
+    {
+      "id": 3573575,
+      "name": "Ward of Turure",
+      "nativeName": "Ward of Turure",
+      "code": "TT-SGE-3573575",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-SGE",
+      "latitude": 10.5,
+      "longitude": -61.11667
+    },
+    {
+      "id": 3573559,
+      "name": "Ward of Valencia",
+      "nativeName": "Ward of Valencia",
+      "code": "TT-SGE-3573559",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-SGE",
+      "latitude": 10.68233,
+      "longitude": -61.1668
+    }
+  ]
+}

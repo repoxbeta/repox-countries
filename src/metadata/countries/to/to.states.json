@@ -1,0 +1,61 @@
+{
+  "countryId": 4032283,
+  "countryCode": "TO",
+  "states": [
+    {
+      "id": 4032637,
+      "name": "Ha‘apai",
+      "nativeName": "Ha‘apai",
+      "code": "TO-02",
+      "internalCode": "02",
+      "countryId": 4032283,
+      "countryCode": "TO",
+      "latitude": -19.75134,
+      "longitude": -174.30656
+    },
+    {
+      "id": 7668055,
+      "name": "Niuas",
+      "nativeName": "Niuas",
+      "code": "TO-03",
+      "internalCode": "03",
+      "countryId": 4032283,
+      "countryCode": "TO",
+      "latitude": -15.9544,
+      "longitude": -173.78963
+    },
+    {
+      "id": 4032279,
+      "name": "Tongatapu",
+      "nativeName": "Tongatapu",
+      "code": "TO-04",
+      "internalCode": "04",
+      "countryId": 4032283,
+      "countryCode": "TO",
+      "latitude": -21.13333,
+      "longitude": -175.2
+    },
+    {
+      "id": 4032231,
+      "name": "Vava‘u",
+      "nativeName": "Vava‘u",
+      "code": "TO-05",
+      "internalCode": "05",
+      "countryId": 4032283,
+      "countryCode": "TO",
+      "latitude": -18.66667,
+      "longitude": -174
+    },
+    {
+      "id": 7668021,
+      "name": "ʻEua",
+      "nativeName": "Eua",
+      "code": "TO-01",
+      "internalCode": "01",
+      "countryId": 4032283,
+      "countryCode": "TO",
+      "latitude": -21.3632,
+      "longitude": -174.92972
+    }
+  ]
+}

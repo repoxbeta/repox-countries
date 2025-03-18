@@ -1,0 +1,95 @@
+{
+  "stateId": 1822676,
+  "stateCode": "KH-13",
+  "countryCode": "KH",
+  "cities": [
+    {
+      "id": 8403983,
+      "name": "Chey Saen",
+      "nativeName": "Srŏk Ch’êh Sên",
+      "code": "KH-13-8403983",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-13",
+      "latitude": 13.58215,
+      "longitude": 105.34533
+    },
+    {
+      "id": 1831603,
+      "name": "Chhaeb",
+      "nativeName": "Srŏk Chhêb",
+      "code": "KH-13-1831603",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-13",
+      "latitude": 13.91077,
+      "longitude": 105.4618
+    },
+    {
+      "id": 9253788,
+      "name": "Choam Khsant",
+      "nativeName": "Choam Khsant",
+      "code": "KH-13-9253788",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-13",
+      "latitude": 14.15889,
+      "longitude": 104.86166
+    },
+    {
+      "id": 8403987,
+      "name": "Krong Preah Vihear",
+      "nativeName": "Krŏng Preăh Vĭhéar",
+      "code": "KH-13-8403987",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-13",
+      "latitude": 13.74259,
+      "longitude": 104.98472
+    },
+    {
+      "id": 8403984,
+      "name": "Kuleaen",
+      "nativeName": "Srŏk Kulén",
+      "code": "KH-13-8403984",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-13",
+      "latitude": 13.78597,
+      "longitude": 104.61052
+    },
+    {
+      "id": 1822431,
+      "name": "Rovieng",
+      "nativeName": "Srŏk Rôviĕng",
+      "code": "KH-13-1822431",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-13",
+      "latitude": 13.35105,
+      "longitude": 105.09956
+    },
+    {
+      "id": 7873990,
+      "name": "Sangkum Thmei",
+      "nativeName": "Sangkom Thmei",
+      "code": "KH-13-7873990",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-13",
+      "latitude": 13.47395,
+      "longitude": 104.77051
+    },
+    {
+      "id": 8403986,
+      "name": "Tbaeng Mean Chey",
+      "nativeName": "Srŏk Tbêng Méanchey",
+      "code": "KH-13-8403986",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-13",
+      "latitude": 13.82756,
+      "longitude": 105.06826
+    }
+  ]
+}

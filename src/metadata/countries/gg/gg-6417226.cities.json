@@ -1,0 +1,51 @@
+{
+  "stateId": 6417226,
+  "stateCode": "GG-6417226",
+  "countryCode": "GG",
+  "cities": [
+    {
+      "id": 6692240,
+      "name": "Saint Andrew",
+      "nativeName": "Saint Andrew",
+      "code": "GG-6417226-6692240",
+      "countryId": 3042362,
+      "countryCode": "GG",
+      "stateCode": "GG-6417226",
+      "latitude": 49.44389,
+      "longitude": -2.58018
+    },
+    {
+      "id": 6424210,
+      "name": "Camptréhard",
+      "nativeName": "Camptréhard",
+      "code": "GG-6417226-6424210",
+      "countryId": 3042362,
+      "countryCode": "GG",
+      "stateCode": "GG-6417226",
+      "latitude": 49.44889,
+      "longitude": -2.58
+    },
+    {
+      "id": 6422027,
+      "name": "La Chaumière",
+      "nativeName": "La Chaumière",
+      "code": "GG-6417226-6422027",
+      "countryId": 3042362,
+      "countryCode": "GG",
+      "stateCode": "GG-6417226",
+      "latitude": 49.45722,
+      "longitude": -2.57306
+    },
+    {
+      "id": 6424211,
+      "name": "Les Niaux",
+      "nativeName": "Les Niaux",
+      "code": "GG-6417226-6424211",
+      "countryId": 3042362,
+      "countryCode": "GG",
+      "stateCode": "GG-6417226",
+      "latitude": 49.45111,
+      "longitude": -2.58194
+    }
+  ]
+}

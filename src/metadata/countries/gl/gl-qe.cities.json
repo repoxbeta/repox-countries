@@ -1,0 +1,238 @@
+{
+  "stateId": 7602006,
+  "stateCode": "GL-QE",
+  "countryCode": "GL",
+  "cities": [
+    {
+      "id": 3419842,
+      "name": "Sisimiut",
+      "nativeName": "Sisimiut",
+      "code": "GL-QE-3419842",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QE",
+      "latitude": 66.93946,
+      "longitude": -53.6735
+    },
+    {
+      "id": 3424517,
+      "name": "Appamiut",
+      "nativeName": "Appamiut",
+      "code": "GL-QE-3424517",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QE",
+      "latitude": 65.66667,
+      "longitude": -53.18333
+    },
+    {
+      "id": 3424436,
+      "name": "Assaqutaq",
+      "nativeName": "Assaqutaq",
+      "code": "GL-QE-3424436",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QE",
+      "latitude": 66.91667,
+      "longitude": -53.46667
+    },
+    {
+      "id": 3424424,
+      "name": "Atammik",
+      "nativeName": "Atammik",
+      "code": "GL-QE-3424424",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QE",
+      "latitude": 64.8,
+      "longitude": -52.21667
+    },
+    {
+      "id": 3424150,
+      "name": "Camp Lloyd",
+      "nativeName": "Camp Lloyd",
+      "code": "GL-QE-3424150",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QE",
+      "latitude": 66.97266,
+      "longitude": -50.92924
+    },
+    {
+      "id": 3423279,
+      "name": "Ikerasaarsuk",
+      "nativeName": "Ikerasaarsuk",
+      "code": "GL-QE-3423279",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QE",
+      "latitude": 66.81667,
+      "longitude": -53.1
+    },
+    {
+      "id": 3423262,
+      "name": "Ikerasak",
+      "nativeName": "Ikerasak",
+      "code": "GL-QE-3423262",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QE",
+      "latitude": 66.86667,
+      "longitude": -53.43333
+    },
+    {
+      "id": 3423263,
+      "name": "Ikerasak",
+      "nativeName": "Ikerasak",
+      "code": "GL-QE-3423263",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QE",
+      "latitude": 65.18333,
+      "longitude": -52.28333
+    },
+    {
+      "id": 3423220,
+      "name": "Ikkamiut",
+      "nativeName": "Ikkamiut",
+      "code": "GL-QE-3423220",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QE",
+      "latitude": 65.63333,
+      "longitude": -52.8
+    },
+    {
+      "id": 3422934,
+      "name": "Itilleq",
+      "nativeName": "Itilleq",
+      "code": "GL-QE-3422934",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QE",
+      "latitude": 66.58333,
+      "longitude": -53.5
+    },
+    {
+      "id": 3422700,
+      "name": "Kangaamiut",
+      "nativeName": "Kangaamiut",
+      "code": "GL-QE-3422700",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QE",
+      "latitude": 65.82503,
+      "longitude": -53.34279
+    },
+    {
+      "id": 3422618,
+      "name": "Kangerluarsuk",
+      "nativeName": "Kangerluarsuk",
+      "code": "GL-QE-3422618",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QE",
+      "latitude": 65.41667,
+      "longitude": -52.53333
+    },
+    {
+      "id": 3419714,
+      "name": "Kangerlussuaq",
+      "nativeName": "Kangerlussuaq",
+      "code": "GL-QE-3419714",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QE",
+      "latitude": 67.00876,
+      "longitude": -50.68937
+    },
+    {
+      "id": 3421982,
+      "name": "Maniitsoq",
+      "nativeName": "Maniitsoq",
+      "code": "GL-QE-3421982",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QE",
+      "latitude": 65.41506,
+      "longitude": -52.89822
+    },
+    {
+      "id": 3421750,
+      "name": "Napasoq",
+      "nativeName": "Napasoq",
+      "code": "GL-QE-3421750",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QE",
+      "latitude": 65.05,
+      "longitude": -52.4
+    },
+    {
+      "id": 3421707,
+      "name": "Narssarmiut",
+      "nativeName": "Narssarmiut",
+      "code": "GL-QE-3421707",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QE",
+      "latitude": 65.88333,
+      "longitude": -53.3
+    },
+    {
+      "id": 3420093,
+      "name": "Saqqarliit",
+      "nativeName": "Saqqarliit",
+      "code": "GL-QE-3420093",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QE",
+      "latitude": 66.86667,
+      "longitude": -52.46667
+    },
+    {
+      "id": 3420079,
+      "name": "Sarfannguit",
+      "nativeName": "Sarfannguit",
+      "code": "GL-QE-3420079",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QE",
+      "latitude": 66.89785,
+      "longitude": -52.85986
+    },
+    {
+      "id": 3419316,
+      "name": "Timerliit",
+      "nativeName": "Timerliit",
+      "code": "GL-QE-3419316",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QE",
+      "latitude": 65.83333,
+      "longitude": -53.25
+    },
+    {
+      "id": 3419263,
+      "name": "Toqqusaq",
+      "nativeName": "Toqqusaq",
+      "code": "GL-QE-3419263",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QE",
+      "latitude": 64.86667,
+      "longitude": -52.2
+    },
+    {
+      "id": 3418859,
+      "name": "Uummannaarsuk",
+      "nativeName": "Uummannaarsuk",
+      "code": "GL-QE-3418859",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QE",
+      "latitude": 66.85,
+      "longitude": -53.58333
+    }
+  ]
+}

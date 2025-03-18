@@ -1,0 +1,72 @@
+{
+  "countryId": 146669,
+  "countryCode": "CY",
+  "states": [
+    {
+      "id": 146615,
+      "name": "Ammochostos",
+      "nativeName": "Famagusta District",
+      "code": "CY-04",
+      "internalCode": "04",
+      "countryId": 146669,
+      "countryCode": "CY",
+      "latitude": 35.33333,
+      "longitude": 33.86667
+    },
+    {
+      "id": 146411,
+      "name": "Keryneia",
+      "nativeName": "Kyrenia District",
+      "code": "CY-06",
+      "internalCode": "06",
+      "countryId": 146669,
+      "countryCode": "CY",
+      "latitude": 35.28333,
+      "longitude": 33.25
+    },
+    {
+      "id": 146398,
+      "name": "Larnaka",
+      "nativeName": "Eparchía Lárnakas",
+      "code": "CY-03",
+      "internalCode": "03",
+      "countryId": 146669,
+      "countryCode": "CY",
+      "latitude": 34.91521,
+      "longitude": 33.52615
+    },
+    {
+      "id": 146383,
+      "name": "Lemesos",
+      "nativeName": "Limassol District",
+      "code": "CY-02",
+      "internalCode": "02",
+      "countryId": 146669,
+      "countryCode": "CY",
+      "latitude": 34.76667,
+      "longitude": 32.93333
+    },
+    {
+      "id": 146267,
+      "name": "Nicosia",
+      "nativeName": "Nicosia District",
+      "code": "CY-01",
+      "internalCode": "01",
+      "countryId": 146669,
+      "countryCode": "CY",
+      "latitude": 35.06667,
+      "longitude": 33.1
+    },
+    {
+      "id": 146213,
+      "name": "Pafos",
+      "nativeName": "Paphos District",
+      "code": "CY-05",
+      "internalCode": "05",
+      "countryId": 146669,
+      "countryCode": "CY",
+      "latitude": 34.9,
+      "longitude": 32.51667
+    }
+  ]
+}

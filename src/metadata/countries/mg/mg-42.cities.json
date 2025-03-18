@@ -1,0 +1,84 @@
+{
+  "stateId": 7670847,
+  "stateCode": "MG-42",
+  "countryCode": "MG",
+  "cities": [
+    {
+      "id": 11926425,
+      "name": "Analalava",
+      "nativeName": "Analalava",
+      "code": "MG-42-11926425",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-42",
+      "latitude": -14.72458,
+      "longitude": 47.78103
+    },
+    {
+      "id": 7670921,
+      "name": "Antsohihy",
+      "nativeName": "Antsohihy",
+      "code": "MG-42-7670921",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-42",
+      "latitude": -14.96255,
+      "longitude": 48.08651
+    },
+    {
+      "id": 8299294,
+      "name": "Bealanana District",
+      "nativeName": "Bealanana District",
+      "code": "MG-42-8299294",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-42",
+      "latitude": -14.57295,
+      "longitude": 48.77106
+    },
+    {
+      "id": 7670923,
+      "name": "Befandriana Nord",
+      "nativeName": "Befandriana Nord",
+      "code": "MG-42-7670923",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-42",
+      "latitude": -15.14456,
+      "longitude": 48.77951
+    },
+    {
+      "id": 11926426,
+      "name": "Mampikony",
+      "nativeName": "Mampikony",
+      "code": "MG-42-11926426",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-42",
+      "latitude": -16.16169,
+      "longitude": 47.6733
+    },
+    {
+      "id": 7670924,
+      "name": "Mandritsara",
+      "nativeName": "Mandritsara",
+      "code": "MG-42-7670924",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-42",
+      "latitude": -15.98786,
+      "longitude": 48.71647
+    },
+    {
+      "id": 11926424,
+      "name": "Port-Berge (Boriziny-Vaovao)",
+      "nativeName": "Port-Berge (Boriziny-Vaovao)",
+      "code": "MG-42-11926424",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-42",
+      "latitude": -15.71441,
+      "longitude": 47.72169
+    }
+  ]
+}

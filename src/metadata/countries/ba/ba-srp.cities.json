@@ -1,0 +1,95 @@
+{
+  "stateId": 3230000,
+  "stateCode": "BA-SRP",
+  "countryCode": "BA",
+  "cities": [
+    {
+      "id": 11169977,
+      "name": "Grad Istočno Sarajevo",
+      "nativeName": "Grad Istočno Sarajevo",
+      "code": "BA-SRP-11169977",
+      "countryId": 3277605,
+      "countryCode": "BA",
+      "stateCode": "BA-SRP",
+      "latitude": 43.89355,
+      "longitude": 18.63676
+    },
+    {
+      "id": 3344099,
+      "name": "Mrkonjic Grad Jug Opcina",
+      "nativeName": "Mrkonjic Grad Jug Opcina",
+      "code": "BA-SRP-3344099",
+      "countryId": 3277605,
+      "countryCode": "BA",
+      "stateCode": "BA-SRP",
+      "latitude": 44.23056,
+      "longitude": 16.88556
+    },
+    {
+      "id": 3344087,
+      "name": "Opština Krupa na Uni",
+      "nativeName": "Opština Krupa na Uni",
+      "code": "BA-SRP-3344087",
+      "countryId": 3277605,
+      "countryCode": "BA",
+      "stateCode": "BA-SRP",
+      "latitude": 44.92972,
+      "longitude": 16.27528
+    },
+    {
+      "id": 3294911,
+      "name": "Opština Modriča",
+      "nativeName": "Opština Modriča",
+      "code": "BA-SRP-3294911",
+      "countryId": 3277605,
+      "countryCode": "BA",
+      "stateCode": "BA-SRP",
+      "latitude": 44.91583,
+      "longitude": 18.25278
+    },
+    {
+      "id": 3294915,
+      "name": "Opština Novi Grad",
+      "nativeName": "Opština Novi Grad",
+      "code": "BA-SRP-3294915",
+      "countryId": 3277605,
+      "countryCode": "BA",
+      "stateCode": "BA-SRP",
+      "latitude": 45.03167,
+      "longitude": 16.49639
+    },
+    {
+      "id": 3344090,
+      "name": "Opština Vukosavlje",
+      "nativeName": "Opština Vukosavlje",
+      "code": "BA-SRP-3344090",
+      "countryId": 3277605,
+      "countryCode": "BA",
+      "stateCode": "BA-SRP",
+      "latitude": 45.00861,
+      "longitude": 18.24306
+    },
+    {
+      "id": 3344119,
+      "name": "Skelani Opština",
+      "nativeName": "Skelani Opština",
+      "code": "BA-SRP-3344119",
+      "countryId": 3277605,
+      "countryCode": "BA",
+      "stateCode": "BA-SRP",
+      "latitude": 43.99333,
+      "longitude": 19.47417
+    },
+    {
+      "id": 11170599,
+      "name": "Stanari",
+      "nativeName": "Stanari",
+      "code": "BA-SRP-11170599",
+      "countryId": 3277605,
+      "countryCode": "BA",
+      "stateCode": "BA-SRP",
+      "latitude": 44.76776,
+      "longitude": 17.8355
+    }
+  ]
+}

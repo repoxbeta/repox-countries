@@ -1,0 +1,29 @@
+{
+  "stateId": 2566979,
+  "stateCode": "GQ-BS",
+  "countryCode": "GQ",
+  "cities": [
+    {
+      "id": 11237872,
+      "name": "Luba",
+      "nativeName": "Luba",
+      "code": "GQ-BS-11237872",
+      "countryId": 2309096,
+      "countryCode": "GQ",
+      "stateCode": "GQ-BS",
+      "latitude": 3.45816,
+      "longitude": 8.5538
+    },
+    {
+      "id": 11237871,
+      "name": "Riaba",
+      "nativeName": "Riaba",
+      "code": "GQ-BS-11237871",
+      "countryId": 2309096,
+      "countryCode": "GQ",
+      "stateCode": "GQ-BS",
+      "latitude": 3.38464,
+      "longitude": 8.75911
+    }
+  ]
+}

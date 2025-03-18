@@ -1,0 +1,128 @@
+{
+  "stateId": 3598464,
+  "stateCode": "GT-CQ",
+  "countryCode": "GT",
+  "cities": [
+    {
+      "id": 3595780,
+      "name": "Esquipulas",
+      "nativeName": "Municipio de Esquipulas",
+      "code": "GT-CQ-3595780",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-CQ",
+      "latitude": 14.61403,
+      "longitude": -89.26971
+    },
+    {
+      "id": 3599180,
+      "name": "Municipio de Camotán",
+      "nativeName": "Municipio de Camotán",
+      "code": "GT-CQ-3599180",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-CQ",
+      "latitude": 14.8467,
+      "longitude": -89.28464
+    },
+    {
+      "id": 3598463,
+      "name": "Municipio de Chiquimula",
+      "nativeName": "Municipio de Chiquimula",
+      "code": "GT-CQ-3598463",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-CQ",
+      "latitude": 14.80376,
+      "longitude": -89.5809
+    },
+    {
+      "id": 3597984,
+      "name": "Municipio de Concepción Las Minas",
+      "nativeName": "Municipio de Concepción Las Minas",
+      "code": "GT-CQ-3597984",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-CQ",
+      "latitude": 14.49067,
+      "longitude": -89.44913
+    },
+    {
+      "id": 3595363,
+      "name": "Municipio de Ipala",
+      "nativeName": "Municipio de Ipala",
+      "code": "GT-CQ-3595363",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-CQ",
+      "latitude": 14.5823,
+      "longitude": -89.60483
+    },
+    {
+      "id": 3595180,
+      "name": "Municipio de Jocotán",
+      "nativeName": "Municipio de Jocotán",
+      "code": "GT-CQ-3595180",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-CQ",
+      "latitude": 14.7745,
+      "longitude": -89.38044
+    },
+    {
+      "id": 3592034,
+      "name": "Municipio de Olopa",
+      "nativeName": "Municipio de Olopa",
+      "code": "GT-CQ-3592034",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-CQ",
+      "latitude": 14.69788,
+      "longitude": -89.32035
+    },
+    {
+      "id": 3590972,
+      "name": "Municipio de Quezaltepeque",
+      "nativeName": "Municipio de Quezaltepeque",
+      "code": "GT-CQ-3590972",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-CQ",
+      "latitude": 14.61832,
+      "longitude": -89.45318
+    },
+    {
+      "id": 3590124,
+      "name": "Municipio de San Jacinto",
+      "nativeName": "Municipio de San Jacinto",
+      "code": "GT-CQ-3590124",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-CQ",
+      "latitude": 14.67465,
+      "longitude": -89.51699
+    },
+    {
+      "id": 3590016,
+      "name": "Municipio de San José La Arada",
+      "nativeName": "Municipio de San José La Arada",
+      "code": "GT-CQ-3590016",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-CQ",
+      "latitude": 14.71697,
+      "longitude": -89.6081
+    },
+    {
+      "id": 3589902,
+      "name": "Municipio de San Juan la Ermita",
+      "nativeName": "Municipio de San Juan la Ermita",
+      "code": "GT-CQ-3589902",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-CQ",
+      "latitude": 14.7376,
+      "longitude": -89.42821
+    }
+  ]
+}

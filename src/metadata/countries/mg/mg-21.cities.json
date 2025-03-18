@@ -1,0 +1,84 @@
+{
+  "stateId": 7670905,
+  "stateCode": "MG-21",
+  "countryCode": "MG",
+  "cities": [
+    {
+      "id": 11072812,
+      "name": "Ambalavao",
+      "nativeName": "Ambalavao",
+      "code": "MG-21-11072812",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-21",
+      "latitude": -21.92009,
+      "longitude": 46.68022
+    },
+    {
+      "id": 7670912,
+      "name": "Ambohimahasoa",
+      "nativeName": "Ambohimahasoa",
+      "code": "MG-21-7670912",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-21",
+      "latitude": -21.06814,
+      "longitude": 47.15172
+    },
+    {
+      "id": 7670903,
+      "name": "Fianarantsoa I",
+      "nativeName": "Fianarantsoa I",
+      "code": "MG-21-7670903",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-21",
+      "latitude": -21.46453,
+      "longitude": 47.08991
+    },
+    {
+      "id": 11072813,
+      "name": "Ikalamavony",
+      "nativeName": "Ikalamavony",
+      "code": "MG-21-11072813",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-21",
+      "latitude": -21.22674,
+      "longitude": 46.20964
+    },
+    {
+      "id": 11926415,
+      "name": "Isandra",
+      "nativeName": "Isandra",
+      "code": "MG-21-11926415",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-21",
+      "latitude": -21.28097,
+      "longitude": 46.89656
+    },
+    {
+      "id": 11926413,
+      "name": "Lalangina",
+      "nativeName": "Lalangina",
+      "code": "MG-21-11926413",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-21",
+      "latitude": -21.41014,
+      "longitude": 47.26626
+    },
+    {
+      "id": 11926414,
+      "name": "Vohibato",
+      "nativeName": "Vohibato",
+      "code": "MG-21-11926414",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-21",
+      "latitude": -21.66517,
+      "longitude": 47.08752
+    }
+  ]
+}

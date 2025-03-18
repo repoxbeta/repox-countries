@@ -1,0 +1,73 @@
+{
+  "stateId": 4566106,
+  "stateCode": "PR-089",
+  "countryCode": "PR",
+  "cities": [
+    {
+      "id": 7268530,
+      "name": "Juan Martín Barrio",
+      "nativeName": "Juan Martín Barrio",
+      "code": "PR-089-7268530",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-089",
+      "latitude": 18.3511,
+      "longitude": -65.68478
+    },
+    {
+      "id": 7268578,
+      "name": "Luquillo Barrio-Pueblo",
+      "nativeName": "Luquillo Barrio-Pueblo",
+      "code": "PR-089-7268578",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-089",
+      "latitude": 18.37519,
+      "longitude": -65.71585
+    },
+    {
+      "id": 7268608,
+      "name": "Mameyes I Barrio",
+      "nativeName": "Mameyes I Barrio",
+      "code": "PR-089-7268608",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-089",
+      "latitude": 18.35787,
+      "longitude": -65.75335
+    },
+    {
+      "id": 7268637,
+      "name": "Mata de Plátano Barrio",
+      "nativeName": "Mata de Plátano Barrio",
+      "code": "PR-089-7268637",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-089",
+      "latitude": 18.36733,
+      "longitude": -65.73271
+    },
+    {
+      "id": 7268763,
+      "name": "Pitahaya Barrio",
+      "nativeName": "Pitahaya Barrio",
+      "code": "PR-089-7268763",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-089",
+      "latitude": 18.3422,
+      "longitude": -65.70703
+    },
+    {
+      "id": 7268935,
+      "name": "Sabana Barrio",
+      "nativeName": "Sabana Barrio",
+      "code": "PR-089-7268935",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-089",
+      "latitude": 18.32027,
+      "longitude": -65.73507
+    }
+  ]
+}

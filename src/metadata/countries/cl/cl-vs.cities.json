@@ -1,0 +1,95 @@
+{
+  "stateId": 3868621,
+  "stateCode": "CL-VS",
+  "countryCode": "CL",
+  "cities": [
+    {
+      "id": 3876415,
+      "name": "Petorca Province",
+      "nativeName": "Petorca Province",
+      "code": "CL-VS-3876415",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-VS",
+      "latitude": -32.33333,
+      "longitude": -71
+    },
+    {
+      "id": 4030752,
+      "name": "Provincia de Isla de Pascua",
+      "nativeName": "Provincia de Isla de Pascua",
+      "code": "CL-VS-4030752",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-VS",
+      "latitude": -27.11048,
+      "longitude": -109.29749
+    },
+    {
+      "id": 3882432,
+      "name": "Provincia de Los Andes",
+      "nativeName": "Provincia de Los Andes",
+      "code": "CL-VS-3882432",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-VS",
+      "latitude": -32.82556,
+      "longitude": -70.33518
+    },
+    {
+      "id": 8181711,
+      "name": "Provincia de Marga Marga",
+      "nativeName": "Provincia de Marga Marga",
+      "code": "CL-VS-8181711",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-VS",
+      "latitude": -33.04378,
+      "longitude": -71.39465
+    },
+    {
+      "id": 3874118,
+      "name": "Provincia de Quillota",
+      "nativeName": "Provincia de Quillota",
+      "code": "CL-VS-3874118",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-VS",
+      "latitude": -32.80753,
+      "longitude": -71.17957
+    },
+    {
+      "id": 3872251,
+      "name": "Provincia de San Felipe de Aconcagua",
+      "nativeName": "Provincia de San Felipe de Aconcagua",
+      "code": "CL-VS-3872251",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-VS",
+      "latitude": -32.60401,
+      "longitude": -70.6593
+    },
+    {
+      "id": 3868623,
+      "name": "Provincia de Valparaíso",
+      "nativeName": "Provincia de Valparaíso",
+      "code": "CL-VS-3868623",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-VS",
+      "latitude": -33.06105,
+      "longitude": -71.59241
+    },
+    {
+      "id": 3872374,
+      "name": "San Antonio Province",
+      "nativeName": "San Antonio Province",
+      "code": "CL-VS-3872374",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-VS",
+      "latitude": -33.58333,
+      "longitude": -71.5
+    }
+  ]
+}

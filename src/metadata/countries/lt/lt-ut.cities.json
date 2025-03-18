@@ -1,0 +1,73 @@
+{
+  "stateId": 864484,
+  "stateCode": "LT-UT",
+  "countryCode": "LT",
+  "cities": [
+    {
+      "id": 864516,
+      "name": "Anykščiai District Municipality",
+      "nativeName": "Anykščiai",
+      "code": "LT-UT-864516",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-UT",
+      "latitude": 55.53333,
+      "longitude": 25.1
+    },
+    {
+      "id": 864517,
+      "name": "Ignalina District Municipality",
+      "nativeName": "Ignalina",
+      "code": "LT-UT-864517",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-UT",
+      "latitude": 55.35,
+      "longitude": 26.16667
+    },
+    {
+      "id": 864518,
+      "name": "Molėtai District Municipality",
+      "nativeName": "Moletai",
+      "code": "LT-UT-864518",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-UT",
+      "latitude": 55.23333,
+      "longitude": 25.41667
+    },
+    {
+      "id": 864514,
+      "name": "Utena District Municipality",
+      "nativeName": "Utena",
+      "code": "LT-UT-864514",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-UT",
+      "latitude": 55.5,
+      "longitude": 25.6
+    },
+    {
+      "id": 864515,
+      "name": "Visaginas Municipality",
+      "nativeName": "Visaginas",
+      "code": "LT-UT-864515",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-UT",
+      "latitude": 55.6,
+      "longitude": 26.41667
+    },
+    {
+      "id": 864519,
+      "name": "Zarasai District Municipality",
+      "nativeName": "Zarasai",
+      "code": "LT-UT-864519",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-UT",
+      "latitude": 55.73333,
+      "longitude": 26.25
+    }
+  ]
+}

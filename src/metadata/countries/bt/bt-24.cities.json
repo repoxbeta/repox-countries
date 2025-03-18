@@ -1,0 +1,40 @@
+{
+  "stateId": 1337295,
+  "stateCode": "BT-24",
+  "countryCode": "BT",
+  "cities": [
+    {
+      "id": 7646447,
+      "name": "Dangchu",
+      "nativeName": "Dangchu",
+      "code": "BT-24-7646447",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-24",
+      "latitude": 27.554,
+      "longitude": 90.206
+    },
+    {
+      "id": 7647809,
+      "name": "Nahi",
+      "nativeName": "Nahi",
+      "code": "BT-24-7647809",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-24",
+      "latitude": 27.42462,
+      "longitude": 89.82341
+    },
+    {
+      "id": 7647808,
+      "name": "Ruepaisa",
+      "nativeName": "Ruepaisa",
+      "code": "BT-24-7647808",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-24",
+      "latitude": 27.38292,
+      "longitude": 89.96707
+    }
+  ]
+}

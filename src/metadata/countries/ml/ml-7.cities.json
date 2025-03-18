@@ -1,0 +1,40 @@
+{
+  "stateId": 2457161,
+  "stateCode": "ML-7",
+  "countryCode": "ML",
+  "cities": [
+    {
+      "id": 8631538,
+      "name": "Ansongo Cercle",
+      "nativeName": "Ansongo Cercle",
+      "code": "ML-7-8631538",
+      "countryId": 2453866,
+      "countryCode": "ML",
+      "stateCode": "ML-7",
+      "latitude": 15.7369,
+      "longitude": 0.78008
+    },
+    {
+      "id": 8631537,
+      "name": "Bourem Cercle",
+      "nativeName": "Cercle de Bourem",
+      "code": "ML-7-8631537",
+      "countryId": 2453866,
+      "countryCode": "ML",
+      "stateCode": "ML-7",
+      "latitude": 17.71192,
+      "longitude": -0.34284
+    },
+    {
+      "id": 7670553,
+      "name": "Gao Cercle",
+      "nativeName": "Gao Cercle",
+      "code": "ML-7-7670553",
+      "countryId": 2453866,
+      "countryCode": "ML",
+      "stateCode": "ML-7",
+      "latitude": 16.72237,
+      "longitude": 0.43984
+    }
+  ]
+}

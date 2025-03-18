@@ -1,0 +1,73 @@
+{
+  "stateId": 411736,
+  "stateCode": "OM-BJ",
+  "countryCode": "OM",
+  "cities": [
+    {
+      "id": 12215964,
+      "name": "Al Muşanna‘ah",
+      "nativeName": "Al Muşanna‘ah",
+      "code": "OM-BJ-12215964",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-BJ",
+      "latitude": 23.687,
+      "longitude": 57.582
+    },
+    {
+      "id": 12215960,
+      "name": "Al ‘Awābī",
+      "nativeName": "Al ‘Awābī",
+      "code": "OM-BJ-12215960",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-BJ",
+      "latitude": 23.261,
+      "longitude": 57.54
+    },
+    {
+      "id": 12215959,
+      "name": "Ar Rustāq",
+      "nativeName": "Ar Rustāq",
+      "code": "OM-BJ-12215959",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-BJ",
+      "latitude": 23.424,
+      "longitude": 57.317
+    },
+    {
+      "id": 12215963,
+      "name": "Barkā’",
+      "nativeName": "Barkā’",
+      "code": "OM-BJ-12215963",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-BJ",
+      "latitude": 23.681,
+      "longitude": 57.575
+    },
+    {
+      "id": 12215961,
+      "name": "Nakhal",
+      "nativeName": "Nakhal",
+      "code": "OM-BJ-12215961",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-BJ",
+      "latitude": 23.412,
+      "longitude": 57.858
+    },
+    {
+      "id": 12215962,
+      "name": "Wadī al Ma‘āwil",
+      "nativeName": "Wadī al Ma‘āwil",
+      "code": "OM-BJ-12215962",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-BJ",
+      "latitude": 23.649,
+      "longitude": 57.858
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "stateId": 2194371,
+  "stateCode": "FJ-W",
+  "countryCode": "FJ",
+  "cities": [
+    {
+      "id": 2203798,
+      "name": "Ba Province",
+      "nativeName": "Ba Province",
+      "code": "FJ-W-2203798",
+      "countryId": 2205218,
+      "countryCode": "FJ",
+      "stateCode": "FJ-W",
+      "latitude": -17.66667,
+      "longitude": 177.66667
+    },
+    {
+      "id": 2201984,
+      "name": "Nandronga and Navosa Province",
+      "nativeName": "Nandronga and Navosa Province",
+      "code": "FJ-W-2201984",
+      "countryId": 2205218,
+      "countryCode": "FJ",
+      "stateCode": "FJ-W",
+      "latitude": -18,
+      "longitude": 177.66667
+    },
+    {
+      "id": 2198946,
+      "name": "Ra Province",
+      "nativeName": "Ra Province",
+      "code": "FJ-W-2198946",
+      "countryId": 2205218,
+      "countryCode": "FJ",
+      "stateCode": "FJ-W",
+      "latitude": -17.5,
+      "longitude": 178.16667
+    }
+  ]
+}

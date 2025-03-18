@@ -1,0 +1,183 @@
+{
+  "stateId": 1030006,
+  "stateCode": "MZ-A",
+  "countryCode": "MZ",
+  "cities": [
+    {
+      "id": 10651614,
+      "name": "Cidade de Lichinga",
+      "nativeName": "Cidade de Lichinga",
+      "code": "MZ-A-10651614",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-A",
+      "latitude": -13.29426,
+      "longitude": 35.2479
+    },
+    {
+      "id": 1027397,
+      "name": "Circunscrição de Sanga",
+      "nativeName": "Circunscrição de Sanga",
+      "code": "MZ-A-1027397",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-A",
+      "latitude": -12.1773,
+      "longitude": 35.55983
+    },
+    {
+      "id": 7732033,
+      "name": "Cuamba District",
+      "nativeName": "Cuamba",
+      "code": "MZ-A-7732033",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-A",
+      "latitude": -14.73292,
+      "longitude": 36.54218
+    },
+    {
+      "id": 7874414,
+      "name": "Lago District",
+      "nativeName": "Lago District",
+      "code": "MZ-A-7874414",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-A",
+      "latitude": -12.28278,
+      "longitude": 34.89984
+    },
+    {
+      "id": 7874115,
+      "name": "Lichinga District",
+      "nativeName": "Lichinga District",
+      "code": "MZ-A-7874115",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-A",
+      "latitude": -13.37184,
+      "longitude": 35.14302
+    },
+    {
+      "id": 7874117,
+      "name": "Majune District",
+      "nativeName": "Majune District",
+      "code": "MZ-A-7874117",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-A",
+      "latitude": -13.316,
+      "longitude": 36.472
+    },
+    {
+      "id": 1041189,
+      "name": "Mandimba District",
+      "nativeName": "Circunscrição de Mandimba",
+      "code": "MZ-A-1041189",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-A",
+      "latitude": -14.20394,
+      "longitude": 35.9044
+    },
+    {
+      "id": 8299276,
+      "name": "Marrupa District",
+      "nativeName": "Marrupa District",
+      "code": "MZ-A-8299276",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-A",
+      "latitude": -13.016,
+      "longitude": 37.543
+    },
+    {
+      "id": 9252721,
+      "name": "Mavago",
+      "nativeName": "Mavago",
+      "code": "MZ-A-9252721",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-A",
+      "latitude": -12.23525,
+      "longitude": 36.40638
+    },
+    {
+      "id": 7874416,
+      "name": "Maúa District",
+      "nativeName": "Maúa District",
+      "code": "MZ-A-7874416",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-A",
+      "latitude": -13.87208,
+      "longitude": 37.16606
+    },
+    {
+      "id": 7874417,
+      "name": "Mecanhelas District",
+      "nativeName": "Mecanhelas District",
+      "code": "MZ-A-7874417",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-A",
+      "latitude": -15.19889,
+      "longitude": 35.88487
+    },
+    {
+      "id": 1039135,
+      "name": "Mecula District",
+      "nativeName": "Mecula",
+      "code": "MZ-A-1039135",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-A",
+      "latitude": -11.95788,
+      "longitude": 37.56548
+    },
+    {
+      "id": 7874418,
+      "name": "Metarica District",
+      "nativeName": "Metarica District",
+      "code": "MZ-A-7874418",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-A",
+      "latitude": -14.32926,
+      "longitude": 36.80351
+    },
+    {
+      "id": 7874419,
+      "name": "Muembe District",
+      "nativeName": "Muembe District",
+      "code": "MZ-A-7874419",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-A",
+      "latitude": -13.08416,
+      "longitude": 35.64892
+    },
+    {
+      "id": 7874420,
+      "name": "Ngauma District",
+      "nativeName": "Ngauma District",
+      "code": "MZ-A-7874420",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-A",
+      "latitude": -13.90632,
+      "longitude": 35.29967
+    },
+    {
+      "id": 7874421,
+      "name": "Nipepe District",
+      "nativeName": "Nipepe District",
+      "code": "MZ-A-7874421",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-A",
+      "latitude": -14.02135,
+      "longitude": 37.86232
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "stateId": 864554,
+  "stateCode": "BG-10",
+  "countryCode": "BG",
+  "cities": [
+    {
+      "id": 733152,
+      "name": "Boboshevo",
+      "nativeName": "Obshtina Boboshevo",
+      "code": "BG-10-733152",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-10",
+      "latitude": 42.18333,
+      "longitude": 23.02731
+    },
+    {
+      "id": 733150,
+      "name": "Bobov Dol",
+      "nativeName": "Obshtina Bobov Dol",
+      "code": "BG-10-733150",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-10",
+      "latitude": 42.31667,
+      "longitude": 22.98333
+    },
+    {
+      "id": 726871,
+      "name": "Dupnitsa",
+      "nativeName": "Obshtina Dupnitsa",
+      "code": "BG-10-726871",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-10",
+      "latitude": 42.28333,
+      "longitude": 23.15
+    },
+    {
+      "id": 730267,
+      "name": "Kocherinovo",
+      "nativeName": "Obshtina Kocherinovo",
+      "code": "BG-10-730267",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-10",
+      "latitude": 42.09909,
+      "longitude": 23.02942
+    },
+    {
+      "id": 729729,
+      "name": "Kyustendil",
+      "nativeName": "Obshtina Kyustendil",
+      "code": "BG-10-729729",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-10",
+      "latitude": 42.28333,
+      "longitude": 22.68333
+    },
+    {
+      "id": 728815,
+      "name": "Nevestino",
+      "nativeName": "Obshtina Nevestino",
+      "code": "BG-10-728815",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-10",
+      "latitude": 42.16667,
+      "longitude": 22.83333
+    },
+    {
+      "id": 727627,
+      "name": "Rila",
+      "nativeName": "Obshtina Rila",
+      "code": "BG-10-727627",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-10",
+      "latitude": 42.15,
+      "longitude": 23.31667
+    },
+    {
+      "id": 727440,
+      "name": "Sapareva Banya",
+      "nativeName": "Obshtina Sapareva Banya",
+      "code": "BG-10-727440",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-10",
+      "latitude": 42.28333,
+      "longitude": 23.31667
+    },
+    {
+      "id": 726351,
+      "name": "Treklyano",
+      "nativeName": "Obshtina Treklyano",
+      "code": "BG-10-726351",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-10",
+      "latitude": 42.55,
+      "longitude": 22.6
+    }
+  ]
+}

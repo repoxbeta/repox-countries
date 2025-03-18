@@ -1,0 +1,216 @@
+{
+  "stateId": 2565340,
+  "stateCode": "NG-AB",
+  "countryCode": "NG",
+  "cities": [
+    {
+      "id": 7701336,
+      "name": "Aba North",
+      "nativeName": "Aba North",
+      "code": "NG-AB-7701336",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-AB",
+      "latitude": 5.09386,
+      "longitude": 7.39479
+    },
+    {
+      "id": 7701374,
+      "name": "Aba South",
+      "nativeName": "Aba South",
+      "code": "NG-AB-7701374",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-AB",
+      "latitude": 5.1,
+      "longitude": 7.35
+    },
+    {
+      "id": 8638389,
+      "name": "Arochukwu",
+      "nativeName": "Arochukwu",
+      "code": "NG-AB-8638389",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-AB",
+      "latitude": 5.48569,
+      "longitude": 7.7658
+    },
+    {
+      "id": 8638388,
+      "name": "Bende",
+      "nativeName": "Bende",
+      "code": "NG-AB-8638388",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-AB",
+      "latitude": 5.64971,
+      "longitude": 7.58999
+    },
+    {
+      "id": 7701376,
+      "name": "Ikwuano",
+      "nativeName": "Ikwuano",
+      "code": "NG-AB-7701376",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-AB",
+      "latitude": 5.43333,
+      "longitude": 7.56667
+    },
+    {
+      "id": 9485480,
+      "name": "Isiala Ngwa North Local Government Area",
+      "nativeName": "Isiala Ngwa North Local Government Area",
+      "code": "NG-AB-9485480",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-AB",
+      "latitude": 5.40305,
+      "longitude": 7.41986
+    },
+    {
+      "id": 9485481,
+      "name": "Isiala Ngwa South Local Government Area",
+      "nativeName": "Isiala Ngwa South Local Government Area",
+      "code": "NG-AB-9485481",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-AB",
+      "latitude": 5.32707,
+      "longitude": 7.39233
+    },
+    {
+      "id": 7932087,
+      "name": "Isiala-Ngwa North",
+      "nativeName": "Isiala-Ngwa North",
+      "code": "NG-AB-7932087",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-AB",
+      "latitude": 5.26783,
+      "longitude": 7.39057
+    },
+    {
+      "id": 7730382,
+      "name": "Isiala-Ngwa South",
+      "nativeName": "Isiala-Ngwa South",
+      "code": "NG-AB-7730382",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-AB",
+      "latitude": 5.36241,
+      "longitude": 7.39998
+    },
+    {
+      "id": 7873936,
+      "name": "Isuikwuato",
+      "nativeName": "Isuikwuato",
+      "code": "NG-AB-7873936",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-AB",
+      "latitude": 5.76185,
+      "longitude": 7.46446
+    },
+    {
+      "id": 7932088,
+      "name": "Obi Nwga",
+      "nativeName": "Obi Nwga",
+      "code": "NG-AB-7932088",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-AB",
+      "latitude": 5.12713,
+      "longitude": 7.45578
+    },
+    {
+      "id": 7729963,
+      "name": "Ohafia",
+      "nativeName": "Ohafia",
+      "code": "NG-AB-7729963",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-AB",
+      "latitude": 5.65835,
+      "longitude": 7.76939
+    },
+    {
+      "id": 8638391,
+      "name": "Osisioma Ngwa",
+      "nativeName": "Osisioma Ngwa",
+      "code": "NG-AB-8638391",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-AB",
+      "latitude": 5.19934,
+      "longitude": 7.33067
+    },
+    {
+      "id": 7730384,
+      "name": "Ugwunagbo",
+      "nativeName": "Ugwunagbo",
+      "code": "NG-AB-7730384",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-AB",
+      "latitude": 5.00628,
+      "longitude": 7.33943
+    },
+    {
+      "id": 7701380,
+      "name": "Ukwa East",
+      "nativeName": "Ukwa East",
+      "code": "NG-AB-7701380",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-AB",
+      "latitude": 4.9,
+      "longitude": 7.36667
+    },
+    {
+      "id": 7730386,
+      "name": "Ukwa West",
+      "nativeName": "Ukwa West",
+      "code": "NG-AB-7730386",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-AB",
+      "latitude": 4.95401,
+      "longitude": 7.23927
+    },
+    {
+      "id": 7932084,
+      "name": "Umu-Nneochi",
+      "nativeName": "Umu-Nneochi",
+      "code": "NG-AB-7932084",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-AB",
+      "latitude": 5.93998,
+      "longitude": 7.41034
+    },
+    {
+      "id": 7932085,
+      "name": "Umuahia North",
+      "nativeName": "Umuahia North",
+      "code": "NG-AB-7932085",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-AB",
+      "latitude": 5.558,
+      "longitude": 7.46869
+    },
+    {
+      "id": 7730388,
+      "name": "Umuahia South",
+      "nativeName": "Umuahia South",
+      "code": "NG-AB-7730388",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-AB",
+      "latitude": 5.46234,
+      "longitude": 7.43997
+    }
+  ]
+}

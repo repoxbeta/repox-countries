@@ -1,0 +1,62 @@
+{
+  "stateId": 2523228,
+  "stateCode": "IT-88",
+  "countryCode": "IT",
+  "cities": [
+    {
+      "id": 2525471,
+      "name": "Province of Cagliari",
+      "nativeName": "Provincia di Cagliari",
+      "code": "IT-88-2525471",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-88",
+      "latitude": 39.24502,
+      "longitude": 9.09119
+    },
+    {
+      "id": 3172153,
+      "name": "Province of Nuoro",
+      "nativeName": "Provincia di Nuoro",
+      "code": "IT-88-3172153",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-88",
+      "latitude": 40.21397,
+      "longitude": 9.37095
+    },
+    {
+      "id": 2523962,
+      "name": "Province of Oristano",
+      "nativeName": "Provincia di Oristano",
+      "code": "IT-88-2523962",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-88",
+      "latitude": 40.01682,
+      "longitude": 8.73131
+    },
+    {
+      "id": 3167094,
+      "name": "Province of Sassari",
+      "nativeName": "Provincia di Sassari",
+      "code": "IT-88-3167094",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-88",
+      "latitude": 40.77014,
+      "longitude": 8.75885
+    },
+    {
+      "id": 11550038,
+      "name": "South Sardinia",
+      "nativeName": "Provincia del Sud Sardegna",
+      "code": "IT-88-11550038",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-88",
+      "latitude": 39.27692,
+      "longitude": 8.56384
+    }
+  ]
+}

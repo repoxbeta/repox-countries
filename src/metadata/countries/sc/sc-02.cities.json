@@ -1,0 +1,29 @@
+{
+  "stateId": 241449,
+  "stateCode": "SC-02",
+  "countryCode": "SC",
+  "cities": [
+    {
+      "id": 241448,
+      "name": "Anse Boileau",
+      "nativeName": "Anse Boileau",
+      "code": "SC-02-241448",
+      "countryId": 241170,
+      "countryCode": "SC",
+      "stateCode": "SC-02",
+      "latitude": -4.71667,
+      "longitude": 55.48333
+    },
+    {
+      "id": 241287,
+      "name": "L’Espérance",
+      "nativeName": "L’Espérance",
+      "code": "SC-02-241287",
+      "countryId": 241170,
+      "countryCode": "SC",
+      "stateCode": "SC-02",
+      "latitude": -4.71667,
+      "longitude": 55.48333
+    }
+  ]
+}

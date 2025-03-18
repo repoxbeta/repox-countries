@@ -1,0 +1,117 @@
+{
+  "stateId": 1796480,
+  "stateCode": "CN-SN",
+  "countryCode": "CN",
+  "cities": [
+    {
+      "id": 1818037,
+      "name": "Ankang Shi",
+      "nativeName": "Ankang Shi",
+      "code": "CN-SN-1818037",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-SN",
+      "latitude": 32.81509,
+      "longitude": 108.87799
+    },
+    {
+      "id": 1816935,
+      "name": "Baoji",
+      "nativeName": "Baoji Shi",
+      "code": "CN-SN-1816935",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-SN",
+      "latitude": 34.36944,
+      "longitude": 107.13635
+    },
+    {
+      "id": 1796165,
+      "name": "Shangluo Shi",
+      "nativeName": "Shangluo Shi",
+      "code": "CN-SN-1796165",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-SN",
+      "latitude": 33.69333,
+      "longitude": 109.89111
+    },
+    {
+      "id": 1792691,
+      "name": "Tongchuan Shi",
+      "nativeName": "Tongchuan Shi",
+      "code": "CN-SN-1792691",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-SN",
+      "latitude": 35.22528,
+      "longitude": 109.04556
+    },
+    {
+      "id": 1790352,
+      "name": "Xianyang Shi",
+      "nativeName": "Xianyang Shi",
+      "code": "CN-SN-1790352",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-SN",
+      "latitude": 34.73417,
+      "longitude": 108.39361
+    },
+    {
+      "id": 1790384,
+      "name": "Xi’an Shi",
+      "nativeName": "Xi’an Shi",
+      "code": "CN-SN-1790384",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-SN",
+      "latitude": 34.06889,
+      "longitude": 108.78583
+    },
+    {
+      "id": 1787763,
+      "name": "Yan'an City",
+      "nativeName": "Yan’an Shi",
+      "code": "CN-SN-1787763",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-SN",
+      "latitude": 36.60556,
+      "longitude": 109.36083
+    },
+    {
+      "id": 1785769,
+      "name": "Yulin Shi",
+      "nativeName": "Yulin Shi",
+      "code": "CN-SN-1785769",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-SN",
+      "latitude": 38.05361,
+      "longitude": 109.67194
+    },
+    {
+      "id": 1808856,
+      "name": "hanzhong shi",
+      "nativeName": "Hanzhong Shi",
+      "code": "CN-SN-1808856",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-SN",
+      "latitude": 33.17112,
+      "longitude": 107.04501
+    },
+    {
+      "id": 1791635,
+      "name": "weinan shi",
+      "nativeName": "Weinan Shi",
+      "code": "CN-SN-1791635",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-SN",
+      "latitude": 34.93694,
+      "longitude": 109.735
+    }
+  ]
+}

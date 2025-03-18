@@ -1,0 +1,51 @@
+{
+  "stateId": 830682,
+  "stateCode": "FI-03",
+  "countryCode": "FI",
+  "cities": [
+    {
+      "id": 9610665,
+      "name": "Järviseutu",
+      "nativeName": "Järviseutu",
+      "code": "FI-03-9610665",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-03",
+      "latitude": 63.07346,
+      "longitude": 23.83537
+    },
+    {
+      "id": 9610664,
+      "name": "Kuusiokunnat",
+      "nativeName": "Kuusiokunnat",
+      "code": "FI-03-9610664",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-03",
+      "latitude": 62.61766,
+      "longitude": 23.78505
+    },
+    {
+      "id": 9610663,
+      "name": "Seinäjoki",
+      "nativeName": "Seinäjoki",
+      "code": "FI-03-9610663",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-03",
+      "latitude": 62.80915,
+      "longitude": 22.78795
+    },
+    {
+      "id": 9610661,
+      "name": "Suupohja",
+      "nativeName": "Suupohja",
+      "code": "FI-03-9610661",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-03",
+      "latitude": 62.33274,
+      "longitude": 22.02555
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "stateId": 4035313,
+  "stateCode": "WS-GI",
+  "countryCode": "WS",
+  "cities": [
+    {
+      "id": 4035118,
+      "name": "Safotu",
+      "nativeName": "Safotu",
+      "code": "WS-GI-4035118",
+      "countryId": 4034894,
+      "countryCode": "WS",
+      "stateCode": "WS-GI",
+      "latitude": -13.45132,
+      "longitude": -172.40177
+    },
+    {
+      "id": 4035414,
+      "name": "A’opo",
+      "nativeName": "A’opo",
+      "code": "WS-GI-4035414",
+      "countryId": 4034894,
+      "countryCode": "WS",
+      "stateCode": "WS-GI",
+      "latitude": -13.53975,
+      "longitude": -172.51931
+    },
+    {
+      "id": 7106405,
+      "name": "Faletagaloa",
+      "nativeName": "Faletagaloa",
+      "code": "WS-GI-7106405",
+      "countryId": 4034894,
+      "countryCode": "WS",
+      "stateCode": "WS-GI",
+      "latitude": -13.46972,
+      "longitude": -172.42649
+    },
+    {
+      "id": 7106406,
+      "name": "Lefagaoali’i",
+      "nativeName": "Lefagaoali’i",
+      "code": "WS-GI-7106406",
+      "countryId": 4034894,
+      "countryCode": "WS",
+      "stateCode": "WS-GI",
+      "latitude": -13.46752,
+      "longitude": -172.41869
+    },
+    {
+      "id": 4035231,
+      "name": "Manase",
+      "nativeName": "Manase",
+      "code": "WS-GI-4035231",
+      "countryId": 4034894,
+      "countryCode": "WS",
+      "stateCode": "WS-GI",
+      "latitude": -13.44796,
+      "longitude": -172.37647
+    },
+    {
+      "id": 4035209,
+      "name": "Matavai",
+      "nativeName": "Matavai",
+      "code": "WS-GI-4035209",
+      "countryId": 4034894,
+      "countryCode": "WS",
+      "stateCode": "WS-GI",
+      "latitude": -14.03208,
+      "longitude": -171.64768
+    },
+    {
+      "id": 7109494,
+      "name": "Safune",
+      "nativeName": "Safune",
+      "code": "WS-GI-7109494",
+      "countryId": 4034894,
+      "countryCode": "WS",
+      "stateCode": "WS-GI",
+      "latitude": -13.47169,
+      "longitude": -172.42279
+    },
+    {
+      "id": 4035062,
+      "name": "Sasina",
+      "nativeName": "Sasina",
+      "code": "WS-GI-4035062",
+      "countryId": 4034894,
+      "countryCode": "WS",
+      "stateCode": "WS-GI",
+      "latitude": -13.46995,
+      "longitude": -172.4492
+    }
+  ]
+}

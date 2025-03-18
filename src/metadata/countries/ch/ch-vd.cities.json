@@ -1,0 +1,117 @@
+{
+  "stateId": 2658182,
+  "stateCode": "CH-VD",
+  "countryCode": "CH",
+  "cities": [
+    {
+      "id": 6458896,
+      "name": "Aigle District",
+      "nativeName": "Aigle District",
+      "code": "CH-VD-6458896",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-VD",
+      "latitude": 46.30577,
+      "longitude": 7.02974
+    },
+    {
+      "id": 7285002,
+      "name": "Broye-Vully District",
+      "nativeName": "Broye-Vully District",
+      "code": "CH-VD-7285002",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-VD",
+      "latitude": 46.78082,
+      "longitude": 6.90161
+    },
+    {
+      "id": 7285003,
+      "name": "Gros-de-Vaud District",
+      "nativeName": "Gros-de-Vaud District",
+      "code": "CH-VD-7285003",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-VD",
+      "latitude": 46.6518,
+      "longitude": 6.65728
+    },
+    {
+      "id": 7285004,
+      "name": "Jura-Nord vaudois District",
+      "nativeName": "Jura-Nord vaudois District",
+      "code": "CH-VD-7285004",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-VD",
+      "latitude": 46.72981,
+      "longitude": 6.45429
+    },
+    {
+      "id": 6458866,
+      "name": "Lausanne District",
+      "nativeName": "Lausanne District",
+      "code": "CH-VD-6458866",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-VD",
+      "latitude": 46.52131,
+      "longitude": 6.63334
+    },
+    {
+      "id": 7285005,
+      "name": "Lavaux-Oron District",
+      "nativeName": "Lavaux-Oron District",
+      "code": "CH-VD-7285005",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-VD",
+      "latitude": 46.53618,
+      "longitude": 6.77086
+    },
+    {
+      "id": 6458855,
+      "name": "Morges District",
+      "nativeName": "Morges District",
+      "code": "CH-VD-6458855",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-VD",
+      "latitude": 46.53578,
+      "longitude": 6.48662
+    },
+    {
+      "id": 7285006,
+      "name": "Nyon District",
+      "nativeName": "Nyon District",
+      "code": "CH-VD-7285006",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-VD",
+      "latitude": 46.42004,
+      "longitude": 6.22177
+    },
+    {
+      "id": 7285007,
+      "name": "Ouest Lausannois District",
+      "nativeName": "Ouest Lausannois District",
+      "code": "CH-VD-7285007",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-VD",
+      "latitude": 46.54589,
+      "longitude": 6.56995
+    },
+    {
+      "id": 7285009,
+      "name": "Riviera-Pays-d'Enhaut District",
+      "nativeName": "Riviera-Pays-d'Enhaut District",
+      "code": "CH-VD-7285009",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-VD",
+      "latitude": 46.46459,
+      "longitude": 6.88499
+    }
+  ]
+}

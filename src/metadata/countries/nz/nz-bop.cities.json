@@ -1,0 +1,73 @@
+{
+  "stateId": 2182560,
+  "stateCode": "NZ-BOP",
+  "countryCode": "NZ",
+  "cities": [
+    {
+      "id": 2188943,
+      "name": "Kawerau District",
+      "nativeName": "Kawerau District",
+      "code": "NZ-BOP-2188943",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-BOP",
+      "latitude": -38.09114,
+      "longitude": 176.68751
+    },
+    {
+      "id": 2185506,
+      "name": "Opotiki District",
+      "nativeName": "Opotiki District",
+      "code": "NZ-BOP-2185506",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-BOP",
+      "latitude": -38,
+      "longitude": 177.28333
+    },
+    {
+      "id": 2183229,
+      "name": "Rotorua District",
+      "nativeName": "Rotorua District",
+      "code": "NZ-BOP-2183229",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-BOP",
+      "latitude": -38.16667,
+      "longitude": 176.33333
+    },
+    {
+      "id": 7910066,
+      "name": "Tauranga City",
+      "nativeName": "Tauranga City",
+      "code": "NZ-BOP-7910066",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-BOP",
+      "latitude": -37.69733,
+      "longitude": 176.2445
+    },
+    {
+      "id": 7910073,
+      "name": "Western Bay of Plenty District",
+      "nativeName": "Western Bay of Plenty District",
+      "code": "NZ-BOP-7910073",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-BOP",
+      "latitude": -37.77387,
+      "longitude": 176.1612
+    },
+    {
+      "id": 2179374,
+      "name": "Whakatane District",
+      "nativeName": "Whakatane District",
+      "code": "NZ-BOP-2179374",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-BOP",
+      "latitude": -38.32442,
+      "longitude": 176.78238
+    }
+  ]
+}

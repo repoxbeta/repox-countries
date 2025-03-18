@@ -1,0 +1,40 @@
+{
+  "stateId": 94823,
+  "stateCode": "IQ-KA",
+  "countryCode": "IQ",
+  "cities": [
+    {
+      "id": 9166603,
+      "name": "Ain Al-Tamur District",
+      "nativeName": "Ain Al-Tamur District",
+      "code": "IQ-KA-9166603",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-KA",
+      "latitude": 32.44144,
+      "longitude": 43.51528
+    },
+    {
+      "id": 99345,
+      "name": "Al-Hindiya District",
+      "nativeName": "Al-Hindiya District",
+      "code": "IQ-KA-99345",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-KA",
+      "latitude": 32.54409,
+      "longitude": 44.22019
+    },
+    {
+      "id": 94822,
+      "name": "Kerbala District",
+      "nativeName": "Kerbala District",
+      "code": "IQ-KA-94822",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-KA",
+      "latitude": 32.42631,
+      "longitude": 43.89025
+    }
+  ]
+}

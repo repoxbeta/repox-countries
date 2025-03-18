@@ -1,0 +1,62 @@
+{
+  "stateId": 1830306,
+  "stateCode": "KH-11",
+  "countryCode": "KH",
+  "cities": [
+    {
+      "id": 8405032,
+      "name": "Kaev Seima",
+      "nativeName": "Srŏk Kaev Seima",
+      "code": "KH-11-8405032",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-11",
+      "latitude": 12.41722,
+      "longitude": 106.77025
+    },
+    {
+      "id": 9253783,
+      "name": "Kaoh Nheaek",
+      "nativeName": "Khaoh Neaek",
+      "code": "KH-11-9253783",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-11",
+      "latitude": 13.10159,
+      "longitude": 106.96917
+    },
+    {
+      "id": 8405034,
+      "name": "Krong Saen Monourom",
+      "nativeName": "Krŏng Sênmônoŭrôm",
+      "code": "KH-11-8405034",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-11",
+      "latitude": 12.5048,
+      "longitude": 107.15525
+    },
+    {
+      "id": 9253785,
+      "name": "Ou Reang",
+      "nativeName": "Ou Reang",
+      "code": "KH-11-9253785",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-11",
+      "latitude": 12.39555,
+      "longitude": 107.32439
+    },
+    {
+      "id": 8405033,
+      "name": "Pech Chreada",
+      "nativeName": "Srŏk Pech Chreada",
+      "code": "KH-11-8405033",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-11",
+      "latitude": 12.7278,
+      "longitude": 107.0948
+    }
+  ]
+}

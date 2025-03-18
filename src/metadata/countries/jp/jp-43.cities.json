@@ -1,0 +1,260 @@
+{
+  "stateId": 1858419,
+  "stateCode": "JP-43",
+  "countryCode": "JP",
+  "cities": [
+    {
+      "id": 1865360,
+      "name": "Amakusa",
+      "nativeName": "Amakusa Gun",
+      "code": "JP-43-1865360",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-43",
+      "latitude": 32.48513,
+      "longitude": 130.0724
+    },
+    {
+      "id": 1865358,
+      "name": "Amakusa Shi",
+      "nativeName": "Amakusa Shi",
+      "code": "JP-43-1865358",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-43",
+      "latitude": 32.38515,
+      "longitude": 130.15014
+    },
+    {
+      "id": 1865168,
+      "name": "Arao Shi",
+      "nativeName": "Arao Shi",
+      "code": "JP-43-1865168",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-43",
+      "latitude": 32.97619,
+      "longitude": 130.47562
+    },
+    {
+      "id": 7412705,
+      "name": "Ashikita-gun",
+      "nativeName": "Ashikita-gun",
+      "code": "JP-43-7412705",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-43",
+      "latitude": 32.28998,
+      "longitude": 130.52863
+    },
+    {
+      "id": 1864975,
+      "name": "Aso-gun",
+      "nativeName": "Aso-gun",
+      "code": "JP-43-1864975",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-43",
+      "latitude": 32.83222,
+      "longitude": 131.10229
+    },
+    {
+      "id": 1864973,
+      "name": "Aso-shi",
+      "nativeName": "Aso-shi",
+      "code": "JP-43-1864973",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-43",
+      "latitude": 32.95608,
+      "longitude": 131.09458
+    },
+    {
+      "id": 1862350,
+      "name": "Hitoyoshi Shi",
+      "nativeName": "Hitoyoshi Shi",
+      "code": "JP-43-1862350",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-43",
+      "latitude": 32.17298,
+      "longitude": 130.74013
+    },
+    {
+      "id": 7413151,
+      "name": "Kamiamakusa Shi",
+      "nativeName": "Kamiamakusa Shi",
+      "code": "JP-43-7413151",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-43",
+      "latitude": 32.4955,
+      "longitude": 130.40816
+    },
+    {
+      "id": 7412706,
+      "name": "Kamimashiki-gun",
+      "nativeName": "Kamimashiki-gun",
+      "code": "JP-43-7412706",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-43",
+      "latitude": 32.71111,
+      "longitude": 130.98175
+    },
+    {
+      "id": 1859488,
+      "name": "Kikuchi Shi",
+      "nativeName": "Kikuchi Shi",
+      "code": "JP-43-1859488",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-43",
+      "latitude": 32.99107,
+      "longitude": 130.85523
+    },
+    {
+      "id": 1859490,
+      "name": "Kikuchi-gun",
+      "nativeName": "Kikuchi-gun",
+      "code": "JP-43-1859490",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-43",
+      "latitude": 32.88525,
+      "longitude": 130.88046
+    },
+    {
+      "id": 7412708,
+      "name": "Kuma-gun",
+      "nativeName": "Kuma-gun",
+      "code": "JP-43-7412708",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-43",
+      "latitude": 32.30597,
+      "longitude": 130.86092
+    },
+    {
+      "id": 1858418,
+      "name": "Kumamoto Shi",
+      "nativeName": "Kumamoto Shi",
+      "code": "JP-43-1858418",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-43",
+      "latitude": 32.79733,
+      "longitude": 130.69171
+    },
+    {
+      "id": 7413153,
+      "name": "Kōshi Shi",
+      "nativeName": "Kōshi Shi",
+      "code": "JP-43-7413153",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-43",
+      "latitude": 32.89305,
+      "longitude": 130.76867
+    },
+    {
+      "id": 1857206,
+      "name": "Minamata",
+      "nativeName": "Minamata Shi",
+      "code": "JP-43-1857206",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-43",
+      "latitude": 32.17055,
+      "longitude": 130.46211
+    },
+    {
+      "id": 7412709,
+      "name": "Shimomashiki-gun",
+      "nativeName": "Shimomashiki-gun",
+      "code": "JP-43-7412709",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-43",
+      "latitude": 32.61885,
+      "longitude": 130.87257
+    },
+    {
+      "id": 1850743,
+      "name": "Tamana Shi",
+      "nativeName": "Tamana Shi",
+      "code": "JP-43-1850743",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-43",
+      "latitude": 32.9155,
+      "longitude": 130.56018
+    },
+    {
+      "id": 1850744,
+      "name": "Tamana-gun",
+      "nativeName": "Tamana-gun",
+      "code": "JP-43-1850744",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-43",
+      "latitude": 33.01141,
+      "longitude": 130.58194
+    },
+    {
+      "id": 7413152,
+      "name": "Uki Shi",
+      "nativeName": "Uki Shi",
+      "code": "JP-43-7413152",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-43",
+      "latitude": 32.62669,
+      "longitude": 130.65491
+    },
+    {
+      "id": 1849062,
+      "name": "Uto Shi",
+      "nativeName": "Uto Shi",
+      "code": "JP-43-1849062",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-43",
+      "latitude": 32.68092,
+      "longitude": 130.61308
+    },
+    {
+      "id": 7413150,
+      "name": "Yamaga Shi",
+      "nativeName": "Yamaga Shi",
+      "code": "JP-43-7413150",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-43",
+      "latitude": 33.05587,
+      "longitude": 130.72309
+    },
+    {
+      "id": 1848441,
+      "name": "Yatsushiro Shi",
+      "nativeName": "Yatsushiro Shi",
+      "code": "JP-43-1848441",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-43",
+      "latitude": 32.49063,
+      "longitude": 130.74972
+    },
+    {
+      "id": 1848443,
+      "name": "Yatsushiro-gun",
+      "nativeName": "Yatsushiro-gun",
+      "code": "JP-43-1848443",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-43",
+      "latitude": 32.57429,
+      "longitude": 130.67256
+    }
+  ]
+}

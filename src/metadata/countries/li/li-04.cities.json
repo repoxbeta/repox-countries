@@ -1,0 +1,40 @@
+{
+  "stateId": 3042056,
+  "stateCode": "LI-04",
+  "countryCode": "LI",
+  "cities": [
+    {
+      "id": 3042055,
+      "name": "Mauren",
+      "nativeName": "Mauren",
+      "code": "LI-04-3042055",
+      "countryId": 3042058,
+      "countryCode": "LI",
+      "stateCode": "LI-04",
+      "latitude": 47.21805,
+      "longitude": 9.5442
+    },
+    {
+      "id": 10347565,
+      "name": "Betsche",
+      "nativeName": "Betsche",
+      "code": "LI-04-10347565",
+      "countryId": 3042058,
+      "countryCode": "LI",
+      "stateCode": "LI-04",
+      "latitude": 47.22708,
+      "longitude": 9.54814
+    },
+    {
+      "id": 3042040,
+      "name": "Schaanwald",
+      "nativeName": "Schaanwald",
+      "code": "LI-04-3042040",
+      "countryId": 3042058,
+      "countryCode": "LI",
+      "stateCode": "LI-04",
+      "latitude": 47.21187,
+      "longitude": 9.5624
+    }
+  ]
+}

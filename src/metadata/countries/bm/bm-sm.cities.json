@@ -1,0 +1,29 @@
+{
+  "stateId": 3573031,
+  "stateCode": "BM-SM",
+  "countryCode": "BM",
+  "cities": [
+    {
+      "id": 3740524,
+      "name": "Harrington Hundreds",
+      "nativeName": "Harrington Hundreds",
+      "code": "BM-SM-3740524",
+      "countryId": 3573345,
+      "countryCode": "BM",
+      "stateCode": "BM-SM",
+      "latitude": 32.31861,
+      "longitude": -64.72889
+    },
+    {
+      "id": 3573183,
+      "name": "Hinson Hall",
+      "nativeName": "Hinson Hall",
+      "code": "BM-SM-3573183",
+      "countryId": 3573345,
+      "countryCode": "BM",
+      "stateCode": "BM-SM",
+      "latitude": 32.31361,
+      "longitude": -64.74361
+    }
+  ]
+}

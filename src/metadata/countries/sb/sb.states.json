@@ -1,0 +1,116 @@
+{
+  "countryId": 2103350,
+  "countryCode": "SB",
+  "states": [
+    {
+      "id": 2109495,
+      "name": "Central Province",
+      "nativeName": "Central Province",
+      "code": "SB-CE",
+      "internalCode": "CE",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "latitude": -9.09667,
+      "longitude": 160.24109
+    },
+    {
+      "id": 7280292,
+      "name": "Choiseul Province",
+      "nativeName": "Choiseul",
+      "code": "SB-CH",
+      "internalCode": "CH",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "latitude": -6.99186,
+      "longitude": 156.86279
+    },
+    {
+      "id": 2108831,
+      "name": "Guadalcanal Province",
+      "nativeName": "Guadalcanal Province",
+      "code": "SB-GU",
+      "internalCode": "GU",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "latitude": -9.63333,
+      "longitude": 160.2
+    },
+    {
+      "id": 9259067,
+      "name": "Honiara",
+      "nativeName": "Honiara",
+      "code": "SB-CT",
+      "internalCode": "CT",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "latitude": -9.44167,
+      "longitude": 159.96667
+    },
+    {
+      "id": 2108262,
+      "name": "Isabel Province",
+      "nativeName": "Isabel Province",
+      "code": "SB-IS",
+      "internalCode": "IS",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "latitude": -8.05379,
+      "longitude": 159.13696
+    },
+    {
+      "id": 2178730,
+      "name": "Makira-Ulawa Province",
+      "nativeName": "Makira-Ulawa Province",
+      "code": "SB-MK",
+      "internalCode": "MK",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "latitude": -10.55751,
+      "longitude": 161.78517
+    },
+    {
+      "id": 2106552,
+      "name": "Malaita Province",
+      "nativeName": "Malaita Province",
+      "code": "SB-ML",
+      "internalCode": "ML",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "latitude": -9,
+      "longitude": 161
+    },
+    {
+      "id": 7280293,
+      "name": "Rennell and Bellona Province",
+      "nativeName": "Rennell and Bellona",
+      "code": "SB-RB",
+      "internalCode": "RB",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "latitude": -11.60516,
+      "longitude": 160.15457
+    },
+    {
+      "id": 2178472,
+      "name": "Temotu Province",
+      "nativeName": "Temotu Province",
+      "code": "SB-TE",
+      "internalCode": "TE",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "latitude": -10.72754,
+      "longitude": 165.93884
+    },
+    {
+      "id": 2101556,
+      "name": "Western Province",
+      "nativeName": "Western Province",
+      "code": "SB-WE",
+      "internalCode": "WE",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "latitude": -8,
+      "longitude": 157
+    }
+  ]
+}

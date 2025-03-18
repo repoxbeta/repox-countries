@@ -1,0 +1,73 @@
+{
+  "stateId": 422233,
+  "stateCode": "BI-MA",
+  "countryCode": "BI",
+  "cities": [
+    {
+      "id": 9072891,
+      "name": "Commune of Makamba",
+      "nativeName": "Commune of Makamba",
+      "code": "BI-MA-9072891",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-MA",
+      "latitude": -4.13472,
+      "longitude": 29.805
+    },
+    {
+      "id": 9171820,
+      "name": "Kayogoro",
+      "nativeName": "Kayogoro",
+      "code": "BI-MA-9171820",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-MA",
+      "latitude": -4.15,
+      "longitude": 30.02373
+    },
+    {
+      "id": 9171823,
+      "name": "Kibago",
+      "nativeName": "Kibago",
+      "code": "BI-MA-9171823",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-MA",
+      "latitude": -4.29021,
+      "longitude": 29.89114
+    },
+    {
+      "id": 7670603,
+      "name": "Mabanda",
+      "nativeName": "Mabanda",
+      "code": "BI-MA-7670603",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-MA",
+      "latitude": -4.30346,
+      "longitude": 29.76824
+    },
+    {
+      "id": 9171854,
+      "name": "Nyanza-Lac",
+      "nativeName": "Nyanza-Lac",
+      "code": "BI-MA-9171854",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-MA",
+      "latitude": -4.30252,
+      "longitude": 29.64663
+    },
+    {
+      "id": 9171810,
+      "name": "Vugizo",
+      "nativeName": "Vugizo",
+      "code": "BI-MA-9171810",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-MA",
+      "latitude": -4.15384,
+      "longitude": 29.67849
+    }
+  ]
+}

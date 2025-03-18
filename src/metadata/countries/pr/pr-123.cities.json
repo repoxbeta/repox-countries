@@ -1,0 +1,73 @@
+{
+  "stateId": 4568043,
+  "stateCode": "PR-123",
+  "countryCode": "PR",
+  "cities": [
+    {
+      "id": 7268174,
+      "name": "Aguirre Barrio",
+      "nativeName": "Aguirre Barrio",
+      "code": "PR-123-7268174",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-123",
+      "latitude": 17.95253,
+      "longitude": -66.25988
+    },
+    {
+      "id": 7268546,
+      "name": "Lapa Barrio",
+      "nativeName": "Lapa Barrio",
+      "code": "PR-123-7268546",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-123",
+      "latitude": 18.03668,
+      "longitude": -66.25429
+    },
+    {
+      "id": 7268725,
+      "name": "Palmas Barrio",
+      "nativeName": "Palmas Barrio",
+      "code": "PR-123-7268725",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-123",
+      "latitude": 18.06329,
+      "longitude": -66.22147
+    },
+    {
+      "id": 7268864,
+      "name": "Quebrada Yeguas Barrio",
+      "nativeName": "Quebrada Yeguas Barrio",
+      "code": "PR-123-7268864",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-123",
+      "latitude": 18.03738,
+      "longitude": -66.20299
+    },
+    {
+      "id": 7268912,
+      "name": "Río Jueyes Barrio",
+      "nativeName": "Río Jueyes Barrio",
+      "code": "PR-123-7268912",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-123",
+      "latitude": 17.99751,
+      "longitude": -66.31114
+    },
+    {
+      "id": 7268953,
+      "name": "Salinas Barrio-Pueblo",
+      "nativeName": "Salinas Barrio-Pueblo",
+      "code": "PR-123-7268953",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-123",
+      "latitude": 17.97919,
+      "longitude": -66.29663
+    }
+  ]
+}

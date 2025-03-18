@@ -1,0 +1,161 @@
+{
+  "stateId": 1568758,
+  "stateCode": "VN-13",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 1905114,
+      "name": "Ba Chẽ District",
+      "nativeName": "Huyện Ba Chẽ",
+      "code": "VN-13-1905114",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-13",
+      "latitude": 21.29503,
+      "longitude": 107.19298
+    },
+    {
+      "id": 1905116,
+      "name": "Bình Liêu District",
+      "nativeName": "Huyện Bình Liêu",
+      "code": "VN-13-1905116",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-13",
+      "latitude": 21.54389,
+      "longitude": 107.44047
+    },
+    {
+      "id": 1905120,
+      "name": "Cô Tô District",
+      "nativeName": "Huyện Cô Tô",
+      "code": "VN-13-1905120",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-13",
+      "latitude": 21.0205,
+      "longitude": 107.83109
+    },
+    {
+      "id": 1905109,
+      "name": "Cẩm Phả District",
+      "nativeName": "Cẩm Phả District",
+      "code": "VN-13-1905109",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-13",
+      "latitude": 21.08265,
+      "longitude": 107.3027
+    },
+    {
+      "id": 1905113,
+      "name": "Hoành Bồ District",
+      "nativeName": "Huyện Hoành Bồ",
+      "code": "VN-13-1905113",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-13",
+      "latitude": 21.11888,
+      "longitude": 107.03149
+    },
+    {
+      "id": 1905108,
+      "name": "Hạ Long District",
+      "nativeName": "Hạ Long District",
+      "code": "VN-13-1905108",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-13",
+      "latitude": 20.9612,
+      "longitude": 107.0496
+    },
+    {
+      "id": 1905117,
+      "name": "Hải Hà District",
+      "nativeName": "Huyện Hải Hà",
+      "code": "VN-13-1905117",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-13",
+      "latitude": 21.49537,
+      "longitude": 107.6679
+    },
+    {
+      "id": 1905118,
+      "name": "Thành Phố Móng Cái",
+      "nativeName": "Thành Phố Móng Cái",
+      "code": "VN-13-1905118",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-13",
+      "latitude": 21.50678,
+      "longitude": 107.86611
+    },
+    {
+      "id": 1905110,
+      "name": "Thành Phố Uông Bí",
+      "nativeName": "Thành Phố Uông Bí",
+      "code": "VN-13-1905110",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-13",
+      "latitude": 21.08389,
+      "longitude": 106.76773
+    },
+    {
+      "id": 1905112,
+      "name": "Thị Xã Quảng Yên",
+      "nativeName": "Thị Xã Quảng Yên",
+      "code": "VN-13-1905112",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-13",
+      "latitude": 20.93237,
+      "longitude": 106.83728
+    },
+    {
+      "id": 1905115,
+      "name": "Tiên Yên District",
+      "nativeName": "Huyện Tiên Yên",
+      "code": "VN-13-1905115",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-13",
+      "latitude": 21.37571,
+      "longitude": 107.37468
+    },
+    {
+      "id": 1905119,
+      "name": "Vân Đồn District",
+      "nativeName": "Huyện Vân Đồn",
+      "code": "VN-13-1905119",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-13",
+      "latitude": 21.05291,
+      "longitude": 107.51683
+    },
+    {
+      "id": 1905111,
+      "name": "Đông Triều District",
+      "nativeName": "Huyện Đông Triều",
+      "code": "VN-13-1905111",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-13",
+      "latitude": 21.11043,
+      "longitude": 106.59662
+    },
+    {
+      "id": 8595255,
+      "name": "Đầm Hà District",
+      "nativeName": "Huyện Đầm Hà",
+      "code": "VN-13-8595255",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-13",
+      "latitude": 21.39689,
+      "longitude": 107.56175
+    }
+  ]
+}

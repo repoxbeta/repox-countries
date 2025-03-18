@@ -1,0 +1,106 @@
+{
+  "stateId": 139677,
+  "stateCode": "IR-14",
+  "countryCode": "IR",
+  "cities": [
+    {
+      "id": 449517,
+      "name": "Ardal",
+      "nativeName": "Ardal",
+      "code": "IR-14-449517",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-14",
+      "latitude": 31.95949,
+      "longitude": 50.31029
+    },
+    {
+      "id": 11963425,
+      "name": "Ben County",
+      "nativeName": "Ben",
+      "code": "IR-14-11963425",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-14",
+      "latitude": 32.53556,
+      "longitude": 50.75201
+    },
+    {
+      "id": 11963426,
+      "name": "Saman County",
+      "nativeName": "Saman",
+      "code": "IR-14-11963426",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-14",
+      "latitude": 32.4498,
+      "longitude": 50.91379
+    },
+    {
+      "id": 449519,
+      "name": "Shahrekord",
+      "nativeName": "Shahrekord",
+      "code": "IR-14-449519",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-14",
+      "latitude": 32.33544,
+      "longitude": 50.75836
+    },
+    {
+      "id": 449518,
+      "name": "Shahrestān-e Borūjen",
+      "nativeName": "Shahrestān-e Borūjen",
+      "code": "IR-14-449518",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-14",
+      "latitude": 31.89647,
+      "longitude": 51.17299
+    },
+    {
+      "id": 449520,
+      "name": "Shahrestān-e Fārsān",
+      "nativeName": "Shahrestān-e Fārsān",
+      "code": "IR-14-449520",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-14",
+      "latitude": 32.22396,
+      "longitude": 50.56592
+    },
+    {
+      "id": 9519976,
+      "name": "Shahrestān-e Kīār",
+      "nativeName": "Shahrestān-e Kīār",
+      "code": "IR-14-9519976",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-14",
+      "latitude": 32,
+      "longitude": 50.76667
+    },
+    {
+      "id": 449521,
+      "name": "Shahrestān-e Kūhrang",
+      "nativeName": "Shahrestān-e Kūhrang",
+      "code": "IR-14-449521",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-14",
+      "latitude": 32.41455,
+      "longitude": 50.04152
+    },
+    {
+      "id": 449522,
+      "name": "Shahrestān-e Lordegān",
+      "nativeName": "Shahrestān-e Lordegān",
+      "code": "IR-14-449522",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-14",
+      "latitude": 31.46299,
+      "longitude": 50.88549
+    }
+  ]
+}

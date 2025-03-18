@@ -1,0 +1,106 @@
+{
+  "stateId": 1811017,
+  "stateCode": "CN-FJ",
+  "countryCode": "CN",
+  "cities": [
+    {
+      "id": 1810815,
+      "name": "Fuzhou Shi",
+      "nativeName": "Fuzhou Shi",
+      "code": "CN-FJ-1810815",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-FJ",
+      "latitude": 26.07925,
+      "longitude": 119.11205
+    },
+    {
+      "id": 1802274,
+      "name": "Longyan Shi",
+      "nativeName": "Longyan Shi",
+      "code": "CN-FJ-1802274",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-FJ",
+      "latitude": 25.29975,
+      "longitude": 116.6517
+    },
+    {
+      "id": 1799838,
+      "name": "Nanping Shi",
+      "nativeName": "Nanping Shi",
+      "code": "CN-FJ-1799838",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-FJ",
+      "latitude": 27.30397,
+      "longitude": 118.19806
+    },
+    {
+      "id": 1799392,
+      "name": "Ningde Shi",
+      "nativeName": "Ningde Shi",
+      "code": "CN-FJ-1799392",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-FJ",
+      "latitude": 27.01841,
+      "longitude": 119.52267
+    },
+    {
+      "id": 1798445,
+      "name": "Putian Shi",
+      "nativeName": "Putian Shi",
+      "code": "CN-FJ-1798445",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-FJ",
+      "latitude": 25.45887,
+      "longitude": 118.87673
+    },
+    {
+      "id": 1797350,
+      "name": "Quanzhou Shi",
+      "nativeName": "Quanzhou Shi",
+      "code": "CN-FJ-1797350",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-FJ",
+      "latitude": 25.2507,
+      "longitude": 118.21291
+    },
+    {
+      "id": 1796662,
+      "name": "Sanming Shi",
+      "nativeName": "Sanming Shi",
+      "code": "CN-FJ-1796662",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-FJ",
+      "latitude": 26.28538,
+      "longitude": 117.33669
+    },
+    {
+      "id": 1790638,
+      "name": "Xiamen Shi",
+      "nativeName": "Xiamen Shi",
+      "code": "CN-FJ-1790638",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-FJ",
+      "latitude": 24.70209,
+      "longitude": 118.11566
+    },
+    {
+      "id": 1785017,
+      "name": "Zhangzhou Shi",
+      "nativeName": "Zhangzhou Shi",
+      "code": "CN-FJ-1785017",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-FJ",
+      "latitude": 24.3563,
+      "longitude": 117.40836
+    }
+  ]
+}

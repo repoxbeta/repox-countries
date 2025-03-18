@@ -1,0 +1,29 @@
+{
+  "stateId": 2083546,
+  "stateCode": "PG-WBK",
+  "countryCode": "PG",
+  "cities": [
+    {
+      "id": 2094745,
+      "name": "Kandrian-Gloucester District",
+      "nativeName": "Kandrian Gloucester",
+      "code": "PG-WBK-2094745",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-WBK",
+      "latitude": -6.08333,
+      "longitude": 149.91667
+    },
+    {
+      "id": 2085943,
+      "name": "Talasea District",
+      "nativeName": "Talasea",
+      "code": "PG-WBK-2085943",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-WBK",
+      "latitude": -5.66667,
+      "longitude": 149.58333
+    }
+  ]
+}

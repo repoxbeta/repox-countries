@@ -1,0 +1,227 @@
+{
+  "stateId": 2347468,
+  "stateCode": "NG-BA",
+  "countryCode": "NG",
+  "cities": [
+    {
+      "id": 8634313,
+      "name": "Alkaleri",
+      "nativeName": "Alkaleri",
+      "code": "NG-BA-8634313",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-BA",
+      "latitude": 9.88979,
+      "longitude": 10.48004
+    },
+    {
+      "id": 7729984,
+      "name": "Bauchi",
+      "nativeName": "Bauchi",
+      "code": "NG-BA-7729984",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-BA",
+      "latitude": 10.31583,
+      "longitude": 9.84417
+    },
+    {
+      "id": 7729988,
+      "name": "Bogoro",
+      "nativeName": "Bogoro",
+      "code": "NG-BA-7729988",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-BA",
+      "latitude": 9.65,
+      "longitude": 9.61667
+    },
+    {
+      "id": 8634291,
+      "name": "Damban",
+      "nativeName": "Damban",
+      "code": "NG-BA-8634291",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-BA",
+      "latitude": 11.62592,
+      "longitude": 10.78622
+    },
+    {
+      "id": 7729992,
+      "name": "Darazo",
+      "nativeName": "Darazo",
+      "code": "NG-BA-7729992",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-BA",
+      "latitude": 11.16762,
+      "longitude": 10.65399
+    },
+    {
+      "id": 8634267,
+      "name": "Dass",
+      "nativeName": "Dass",
+      "code": "NG-BA-8634267",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-BA",
+      "latitude": 10.01852,
+      "longitude": 9.47803
+    },
+    {
+      "id": 8634305,
+      "name": "Gamawa",
+      "nativeName": "Gamawa",
+      "code": "NG-BA-8634305",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-BA",
+      "latitude": 12.073,
+      "longitude": 10.58616
+    },
+    {
+      "id": 8634288,
+      "name": "Ganjuwa",
+      "nativeName": "Ganjuwa",
+      "code": "NG-BA-8634288",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-BA",
+      "latitude": 10.74916,
+      "longitude": 9.99991
+    },
+    {
+      "id": 8634289,
+      "name": "Giade",
+      "nativeName": "Giade",
+      "code": "NG-BA-8634289",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-BA",
+      "latitude": 11.40646,
+      "longitude": 10.28336
+    },
+    {
+      "id": 8634303,
+      "name": "Itas/Gadau",
+      "nativeName": "Itas/Gadau",
+      "code": "NG-BA-8634303",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-BA",
+      "latitude": 11.89382,
+      "longitude": 10.04862
+    },
+    {
+      "id": 8634293,
+      "name": "Jama'Are",
+      "nativeName": "Jama'Are",
+      "code": "NG-BA-8634293",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-BA",
+      "latitude": 11.7216,
+      "longitude": 9.91293
+    },
+    {
+      "id": 8634300,
+      "name": "Katagum",
+      "nativeName": "Katagum",
+      "code": "NG-BA-8634300",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-BA",
+      "latitude": 11.7042,
+      "longitude": 10.32696
+    },
+    {
+      "id": 8634310,
+      "name": "Kirfi",
+      "nativeName": "Kirfi",
+      "code": "NG-BA-8634310",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-BA",
+      "latitude": 10.39427,
+      "longitude": 10.53223
+    },
+    {
+      "id": 7729993,
+      "name": "Misau",
+      "nativeName": "Misau",
+      "code": "NG-BA-7729993",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-BA",
+      "latitude": 11.3163,
+      "longitude": 10.4703
+    },
+    {
+      "id": 8634264,
+      "name": "Ningi",
+      "nativeName": "Ningi",
+      "code": "NG-BA-8634264",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-BA",
+      "latitude": 11.06228,
+      "longitude": 9.20491
+    },
+    {
+      "id": 8634290,
+      "name": "Shira",
+      "nativeName": "Shira",
+      "code": "NG-BA-8634290",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-BA",
+      "latitude": 11.50415,
+      "longitude": 10.01731
+    },
+    {
+      "id": 8634314,
+      "name": "Tafawa-Balewa",
+      "nativeName": "Tafawa-Balewa",
+      "code": "NG-BA-8634314",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-BA",
+      "latitude": 9.82542,
+      "longitude": 9.5824
+    },
+    {
+      "id": 8634266,
+      "name": "Toro",
+      "nativeName": "Toro",
+      "code": "NG-BA-8634266",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-BA",
+      "latitude": 10.44646,
+      "longitude": 9.22056
+    },
+    {
+      "id": 8634265,
+      "name": "Warji",
+      "nativeName": "Warji",
+      "code": "NG-BA-8634265",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-BA",
+      "latitude": 11.15796,
+      "longitude": 9.73897
+    },
+    {
+      "id": 8634304,
+      "name": "Zaki",
+      "nativeName": "Zaki",
+      "code": "NG-BA-8634304",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-BA",
+      "latitude": 12.29919,
+      "longitude": 10.30889
+    }
+  ]
+}

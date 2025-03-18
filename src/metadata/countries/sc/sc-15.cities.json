@@ -1,0 +1,29 @@
+{
+  "stateId": 241311,
+  "stateCode": "SC-15",
+  "countryCode": "SC",
+  "cities": [
+    {
+      "id": 11103219,
+      "name": "La Passe",
+      "nativeName": "La Passe",
+      "code": "SC-15-11103219",
+      "countryId": 241170,
+      "countryCode": "SC",
+      "stateCode": "SC-15",
+      "latitude": -4.34808,
+      "longitude": 55.83269
+    },
+    {
+      "id": 241303,
+      "name": "La Réunion",
+      "nativeName": "La Réunion",
+      "code": "SC-15-241303",
+      "countryId": 241170,
+      "countryCode": "SC",
+      "stateCode": "SC-15",
+      "latitude": -4.35544,
+      "longitude": 55.83527
+    }
+  ]
+}

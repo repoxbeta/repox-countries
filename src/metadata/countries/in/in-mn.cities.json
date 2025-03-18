@@ -1,0 +1,183 @@
+{
+  "stateId": 1263706,
+  "stateCode": "IN-MN",
+  "countryCode": "IN",
+  "cities": [
+    {
+      "id": 8740329,
+      "name": "Bishnupur",
+      "nativeName": "Bishnupur",
+      "code": "IN-MN-8740329",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-MN",
+      "latitude": 24.60769,
+      "longitude": 93.77998
+    },
+    {
+      "id": 9747955,
+      "name": "Chandel District",
+      "nativeName": "Chandel",
+      "code": "IN-MN-9747955",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-MN",
+      "latitude": 24.23549,
+      "longitude": 94.09318
+    },
+    {
+      "id": 9166020,
+      "name": "Churachandpur",
+      "nativeName": "Churachandpur",
+      "code": "IN-MN-9166020",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-MN",
+      "latitude": 24.33333,
+      "longitude": 93.68333
+    },
+    {
+      "id": 9747976,
+      "name": "Imphal East",
+      "nativeName": "Imphal East",
+      "code": "IN-MN-9747976",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-MN",
+      "latitude": 24.81655,
+      "longitude": 93.94212
+    },
+    {
+      "id": 9747977,
+      "name": "Imphal West",
+      "nativeName": "Imphal West",
+      "code": "IN-MN-9747977",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-MN",
+      "latitude": 24.79048,
+      "longitude": 93.8679
+    },
+    {
+      "id": 11875583,
+      "name": "Jiribam District",
+      "nativeName": "Jiribam",
+      "code": "IN-MN-11875583",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-MN",
+      "latitude": 24.80435,
+      "longitude": 93.12085
+    },
+    {
+      "id": 11875586,
+      "name": "Kakching",
+      "nativeName": "Kakching",
+      "code": "IN-MN-11875586",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-MN",
+      "latitude": 24.49579,
+      "longitude": 93.98461
+    },
+    {
+      "id": 11875587,
+      "name": "Kamjong District",
+      "nativeName": "Kamjong",
+      "code": "IN-MN-11875587",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-MN",
+      "latitude": 24.85262,
+      "longitude": 94.5148
+    },
+    {
+      "id": 11875584,
+      "name": "Kangpokpi District",
+      "nativeName": "Kangpokpi",
+      "code": "IN-MN-11875584",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-MN",
+      "latitude": 25.15114,
+      "longitude": 93.9695
+    },
+    {
+      "id": 11875585,
+      "name": "Noney",
+      "nativeName": "Noney",
+      "code": "IN-MN-11875585",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-MN",
+      "latitude": 24.65686,
+      "longitude": 93.38559
+    },
+    {
+      "id": 11875590,
+      "name": "Pherzawl",
+      "nativeName": "Pherzawl",
+      "code": "IN-MN-11875590",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-MN",
+      "latitude": 24.26125,
+      "longitude": 93.18834
+    },
+    {
+      "id": 8740334,
+      "name": "Senapati",
+      "nativeName": "Senapati",
+      "code": "IN-MN-8740334",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-MN",
+      "latitude": 25.26705,
+      "longitude": 94.02237
+    },
+    {
+      "id": 8740332,
+      "name": "Tamenglong",
+      "nativeName": "Tamenglong",
+      "code": "IN-MN-8740332",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-MN",
+      "latitude": 24.97548,
+      "longitude": 93.51563
+    },
+    {
+      "id": 11875595,
+      "name": "Tengnoupal",
+      "nativeName": "Tengnoupal",
+      "code": "IN-MN-11875595",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-MN",
+      "latitude": 24.40904,
+      "longitude": 94.21483
+    },
+    {
+      "id": 8740335,
+      "name": "Thoubal District",
+      "nativeName": "Thoubal",
+      "code": "IN-MN-8740335",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-MN",
+      "latitude": 24.62205,
+      "longitude": 94.01001
+    },
+    {
+      "id": 8740338,
+      "name": "Ukhrul",
+      "nativeName": "Ukhrul",
+      "code": "IN-MN-8740338",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-MN",
+      "latitude": 25.04828,
+      "longitude": 94.35883
+    }
+  ]
+}

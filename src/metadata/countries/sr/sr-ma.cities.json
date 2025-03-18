@@ -1,0 +1,73 @@
+{
+  "stateId": 3383560,
+  "stateCode": "SR-MA",
+  "countryCode": "SR",
+  "cities": [
+    {
+      "id": 12088702,
+      "name": "Albina",
+      "nativeName": "Albina",
+      "code": "SR-MA-12088702",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-MA",
+      "latitude": 5.49598,
+      "longitude": -54.05672
+    },
+    {
+      "id": 12088691,
+      "name": "Galibi",
+      "nativeName": "Galibi",
+      "code": "SR-MA-12088691",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-MA",
+      "latitude": 5.71421,
+      "longitude": -54.01659
+    },
+    {
+      "id": 12088683,
+      "name": "Moengo",
+      "nativeName": "Moengo",
+      "code": "SR-MA-12088683",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-MA",
+      "latitude": 5.6105,
+      "longitude": -54.39808
+    },
+    {
+      "id": 12088700,
+      "name": "Moengo Tapoe",
+      "nativeName": "Moengo Tapoe",
+      "code": "SR-MA-12088700",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-MA",
+      "latitude": 5.57283,
+      "longitude": -54.25021
+    },
+    {
+      "id": 12088703,
+      "name": "Patamacca",
+      "nativeName": "Patamacca",
+      "code": "SR-MA-12088703",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-MA",
+      "latitude": 5.40382,
+      "longitude": -54.43582
+    },
+    {
+      "id": 12088684,
+      "name": "Wanhatti",
+      "nativeName": "Wanhatti",
+      "code": "SR-MA-12088684",
+      "countryId": 3382998,
+      "countryCode": "SR",
+      "stateCode": "SR-MA",
+      "latitude": 5.78312,
+      "longitude": -54.45587
+    }
+  ]
+}

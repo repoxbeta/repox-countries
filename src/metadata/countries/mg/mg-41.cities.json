@@ -1,0 +1,73 @@
+{
+  "stateId": 7670849,
+  "stateCode": "MG-41",
+  "countryCode": "MG",
+  "cities": [
+    {
+      "id": 11926422,
+      "name": "Ambato Boeni",
+      "nativeName": "Ambato Boeni",
+      "code": "MG-41-11926422",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-41",
+      "latitude": -16.67074,
+      "longitude": 46.47551
+    },
+    {
+      "id": 11072817,
+      "name": "Mahajanga I",
+      "nativeName": "Mahajanga I",
+      "code": "MG-41-11072817",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-41",
+      "latitude": -15.66878,
+      "longitude": 46.35062
+    },
+    {
+      "id": 11072816,
+      "name": "Mahajanga II",
+      "nativeName": "Mahajanga II",
+      "code": "MG-41-11072816",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-41",
+      "latitude": -15.67936,
+      "longitude": 46.81137
+    },
+    {
+      "id": 7910100,
+      "name": "Marovoay District",
+      "nativeName": "Marovoay District",
+      "code": "MG-41-7910100",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-41",
+      "latitude": -16.15,
+      "longitude": 46.61667
+    },
+    {
+      "id": 11926423,
+      "name": "Mitsinjo",
+      "nativeName": "Mitsinjo",
+      "code": "MG-41-11926423",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-41",
+      "latitude": -16.08481,
+      "longitude": 45.92734
+    },
+    {
+      "id": 11926421,
+      "name": "Soalala",
+      "nativeName": "Soalala",
+      "code": "MG-41-11926421",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-41",
+      "latitude": -16.4967,
+      "longitude": 45.40883
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "stateId": 3493031,
+  "stateCode": "DO-23",
+  "countryCode": "DO",
+  "cities": [
+    {
+      "id": 11154560,
+      "name": "Consuelo",
+      "nativeName": "Consuelo",
+      "code": "DO-23-11154560",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-23",
+      "latitude": 18.58446,
+      "longitude": -69.2571
+    },
+    {
+      "id": 11154562,
+      "name": "Guayacanes",
+      "nativeName": "Guayacanes",
+      "code": "DO-23-11154562",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-23",
+      "latitude": 18.45063,
+      "longitude": -69.43347
+    },
+    {
+      "id": 3498193,
+      "name": "Los Llanos",
+      "nativeName": "Los Llanos",
+      "code": "DO-23-3498193",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-23",
+      "latitude": 18.63333,
+      "longitude": -69.5
+    },
+    {
+      "id": 11154561,
+      "name": "Quisqueya",
+      "nativeName": "Quisqueya",
+      "code": "DO-23-11154561",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-23",
+      "latitude": 18.53884,
+      "longitude": -69.4204
+    },
+    {
+      "id": 3494065,
+      "name": "Ramón Santana",
+      "nativeName": "Ramón Santana",
+      "code": "DO-23-3494065",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-23",
+      "latitude": 18.5,
+      "longitude": -69.16667
+    },
+    {
+      "id": 3493033,
+      "name": "San Pedro de Macorís",
+      "nativeName": "San Pedro de Macorís",
+      "code": "DO-23-3493033",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-23",
+      "latitude": 18.46919,
+      "longitude": -69.2894
+    }
+  ]
+}

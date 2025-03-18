@@ -1,0 +1,95 @@
+{
+  "stateId": 4037930,
+  "stateCode": "PW-212",
+  "countryCode": "PW",
+  "cities": [
+    {
+      "id": 8063361,
+      "name": "Ngerulmud",
+      "nativeName": "Ngerulmud",
+      "code": "PW-212-8063361",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-212",
+      "latitude": 7.50077,
+      "longitude": 134.6238
+    },
+    {
+      "id": 1559804,
+      "name": "Melekeok Village",
+      "nativeName": "Melekeok Village",
+      "code": "PW-212-1559804",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-212",
+      "latitude": 7.49567,
+      "longitude": 134.63671
+    },
+    {
+      "id": 1559635,
+      "name": "Ertong Hamlet",
+      "nativeName": "Ertong Hamlet",
+      "code": "PW-212-1559635",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-212",
+      "latitude": 7.50442,
+      "longitude": 134.6148
+    },
+    {
+      "id": 1559755,
+      "name": "Ngeburch Hamlet",
+      "nativeName": "Ngeburch Hamlet",
+      "code": "PW-212-1559755",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-212",
+      "latitude": 7.50762,
+      "longitude": 134.62932
+    },
+    {
+      "id": 7732314,
+      "name": "Ngeremecheluch Hamlet",
+      "nativeName": "Ngeremecheluch Hamlet",
+      "code": "PW-212-7732314",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-212",
+      "latitude": 7.49199,
+      "longitude": 134.63596
+    },
+    {
+      "id": 1559475,
+      "name": "Ngermelech Hamlet",
+      "nativeName": "Ngermelech Hamlet",
+      "code": "PW-212-1559475",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-212",
+      "latitude": 7.49966,
+      "longitude": 134.6347
+    },
+    {
+      "id": 4037805,
+      "name": "Ngerubesang Hamlet",
+      "nativeName": "Ngerubesang Hamlet",
+      "code": "PW-212-4037805",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-212",
+      "latitude": 7.48969,
+      "longitude": 134.63093
+    },
+    {
+      "id": 4038130,
+      "name": "Ngeruling Hamlet",
+      "nativeName": "Ngeruling Hamlet",
+      "code": "PW-212-4038130",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-212",
+      "latitude": 7.50535,
+      "longitude": 134.63249
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "stateId": 2454532,
+  "stateCode": "ML-2",
+  "countryCode": "ML",
+  "cities": [
+    {
+      "id": 8261492,
+      "name": "Banamba Cercle",
+      "nativeName": "Banamba Cercle",
+      "code": "ML-2-8261492",
+      "countryId": 2453866,
+      "countryCode": "ML",
+      "stateCode": "ML-2",
+      "latitude": 13.75,
+      "longitude": -7.333
+    },
+    {
+      "id": 7701200,
+      "name": "Dioila",
+      "nativeName": "Dioila",
+      "code": "ML-2-7701200",
+      "countryId": 2453866,
+      "countryCode": "ML",
+      "stateCode": "ML-2",
+      "latitude": 12.33043,
+      "longitude": -6.79164
+    },
+    {
+      "id": 8631413,
+      "name": "Kangaba Cercle",
+      "nativeName": "Cercle de Kangaba",
+      "code": "ML-2-8631413",
+      "countryId": 2453866,
+      "countryCode": "ML",
+      "stateCode": "ML-2",
+      "latitude": 11.96521,
+      "longitude": -8.60127
+    },
+    {
+      "id": 7701199,
+      "name": "Kati Cercle",
+      "nativeName": "Kati Cercle",
+      "code": "ML-2-7701199",
+      "countryId": 2453866,
+      "countryCode": "ML",
+      "stateCode": "ML-2",
+      "latitude": 12.5629,
+      "longitude": -8.19929
+    },
+    {
+      "id": 8261491,
+      "name": "Kolokani Cercle",
+      "nativeName": "Kolokani Cercle",
+      "code": "ML-2-8261491",
+      "countryId": 2453866,
+      "countryCode": "ML",
+      "stateCode": "ML-2",
+      "latitude": 13.75,
+      "longitude": -8.167
+    },
+    {
+      "id": 7701503,
+      "name": "Koulikoro",
+      "nativeName": "Koulikoro",
+      "code": "ML-2-7701503",
+      "countryId": 2453866,
+      "countryCode": "ML",
+      "stateCode": "ML-2",
+      "latitude": 13.2257,
+      "longitude": -7.30327
+    },
+    {
+      "id": 8261493,
+      "name": "Nara Cercle",
+      "nativeName": "Nara Cercle",
+      "code": "ML-2-8261493",
+      "countryId": 2453866,
+      "countryCode": "ML",
+      "stateCode": "ML-2",
+      "latitude": 15.16846,
+      "longitude": -7.29015
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "stateId": 11281876,
+  "stateCode": "MA-03",
+  "countryCode": "MA",
+  "cities": [
+    {
+      "id": 2554387,
+      "name": "Boulemane Province",
+      "nativeName": "Boulemane",
+      "code": "MA-03-2554387",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-03",
+      "latitude": 33.16667,
+      "longitude": -4
+    },
+    {
+      "id": 6547296,
+      "name": "El-Hajeb",
+      "nativeName": "El-Hajeb",
+      "code": "MA-03-6547296",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-03",
+      "latitude": 33.72883,
+      "longitude": -5.46119
+    },
+    {
+      "id": 6547300,
+      "name": "Fes",
+      "nativeName": "Fes",
+      "code": "MA-03-6547300",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-03",
+      "latitude": 34.03146,
+      "longitude": -4.98887
+    },
+    {
+      "id": 2546906,
+      "name": "Ifrane Province",
+      "nativeName": "Ifrane",
+      "code": "MA-03-2546906",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-03",
+      "latitude": 33.33333,
+      "longitude": -5.25
+    },
+    {
+      "id": 6547283,
+      "name": "Meknès Prefecture",
+      "nativeName": "Meknes",
+      "code": "MA-03-6547283",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-03",
+      "latitude": 33.97761,
+      "longitude": -5.52496
+    },
+    {
+      "id": 6547295,
+      "name": "Moulay-Yacoub",
+      "nativeName": "Moulay-Yacoub",
+      "code": "MA-03-6547295",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-03",
+      "latitude": 34.14558,
+      "longitude": -5.10259
+    },
+    {
+      "id": 6547286,
+      "name": "Sefrou",
+      "nativeName": "Sefrou",
+      "code": "MA-03-6547286",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-03",
+      "latitude": 33.79979,
+      "longitude": -4.68
+    },
+    {
+      "id": 2530153,
+      "name": "Taounate Province",
+      "nativeName": "Taounate",
+      "code": "MA-03-2530153",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-03",
+      "latitude": 34.5,
+      "longitude": -4.83333
+    },
+    {
+      "id": 2529313,
+      "name": "Taza",
+      "nativeName": "Taza",
+      "code": "MA-03-2529313",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-03",
+      "latitude": 34.27724,
+      "longitude": -4.03715
+    }
+  ]
+}

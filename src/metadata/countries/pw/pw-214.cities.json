@@ -1,0 +1,73 @@
+{
+  "stateId": 4037962,
+  "stateCode": "PW-214",
+  "countryCode": "PW",
+  "cities": [
+    {
+      "id": 1559543,
+      "name": "Ulimang",
+      "nativeName": "Ulimang",
+      "code": "PW-214-1559543",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-214",
+      "latitude": 7.62416,
+      "longitude": 134.64208
+    },
+    {
+      "id": 4037733,
+      "name": "Choll",
+      "nativeName": "Chol Hamlet",
+      "code": "PW-214-4037733",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-214",
+      "latitude": 7.67063,
+      "longitude": 134.63587
+    },
+    {
+      "id": 1559914,
+      "name": "Elab",
+      "nativeName": "Chelab Hamlet",
+      "code": "PW-214-1559914",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-214",
+      "latitude": 7.63575,
+      "longitude": 134.63885
+    },
+    {
+      "id": 7701398,
+      "name": "Ngebuked Hamlet",
+      "nativeName": "Ngebuked Hamlet",
+      "code": "PW-214-7701398",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-214",
+      "latitude": 7.64191,
+      "longitude": 134.63049
+    },
+    {
+      "id": 4038144,
+      "name": "Ngesang",
+      "nativeName": "Ngesang",
+      "code": "PW-214-4038144",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-214",
+      "latitude": 7.62695,
+      "longitude": 134.64373
+    },
+    {
+      "id": 4038174,
+      "name": "Ngkeklau Hamlet",
+      "nativeName": "Ngkeklau Hamlet",
+      "code": "PW-214-4038174",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-214",
+      "latitude": 7.59296,
+      "longitude": 134.6402
+    }
+  ]
+}

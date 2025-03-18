@@ -1,0 +1,51 @@
+{
+  "stateId": 361056,
+  "stateCode": "EG-IS",
+  "countryCode": "EG",
+  "cities": [
+    {
+      "id": 10371150,
+      "name": "Markaz Fāyid",
+      "nativeName": "Markaz Fāyid",
+      "code": "EG-IS-10371150",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-IS",
+      "latitude": 30.34697,
+      "longitude": 32.29648
+    },
+    {
+      "id": 10371148,
+      "name": "Markaz al Ismā‘īlīyah",
+      "nativeName": "Markaz al Ismā‘īlīyah",
+      "code": "EG-IS-10371148",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-IS",
+      "latitude": 30.53666,
+      "longitude": 32.20571
+    },
+    {
+      "id": 350768,
+      "name": "Markaz al Qanţarah Gharb",
+      "nativeName": "Markaz al Qanţarah Gharb",
+      "code": "EG-IS-350768",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-IS",
+      "latitude": 30.76042,
+      "longitude": 32.25312
+    },
+    {
+      "id": 10371149,
+      "name": "Markaz al Qanţarah Sharq",
+      "nativeName": "Markaz al Qanţarah Sharq",
+      "code": "EG-IS-10371149",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-IS",
+      "latitude": 30.5448,
+      "longitude": 32.34419
+    }
+  ]
+}

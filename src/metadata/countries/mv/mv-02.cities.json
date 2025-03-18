@@ -1,0 +1,84 @@
+{
+  "stateId": 1282497,
+  "stateCode": "MV-02",
+  "countryCode": "MV",
+  "cities": [
+    {
+      "id": 11103189,
+      "name": "Dhigurah",
+      "nativeName": "Dhigurah",
+      "code": "MV-02-11103189",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-02",
+      "latitude": 3.53514,
+      "longitude": 72.92896
+    },
+    {
+      "id": 11103191,
+      "name": "Feridhoo",
+      "nativeName": "Feridhoo",
+      "code": "MV-02-11103191",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-02",
+      "latitude": 4.0516,
+      "longitude": 72.72421
+    },
+    {
+      "id": 11103192,
+      "name": "Himandhoo",
+      "nativeName": "Himandhoo",
+      "code": "MV-02-11103192",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-02",
+      "latitude": 3.92086,
+      "longitude": 72.74415
+    },
+    {
+      "id": 6692742,
+      "name": "Kuramathi",
+      "nativeName": "Kuramathi",
+      "code": "MV-02-6692742",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-02",
+      "latitude": 4.25885,
+      "longitude": 72.98286
+    },
+    {
+      "id": 9179518,
+      "name": "Rasdhoo",
+      "nativeName": "Rasdhoo",
+      "code": "MV-02-9179518",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-02",
+      "latitude": 4.26249,
+      "longitude": 72.99209
+    },
+    {
+      "id": 10172994,
+      "name": "Thoddoo",
+      "nativeName": "Thoddoo",
+      "code": "MV-02-10172994",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-02",
+      "latitude": 4.43811,
+      "longitude": 72.95969
+    },
+    {
+      "id": 8594082,
+      "name": "Ukulhas",
+      "nativeName": "Ukulhas",
+      "code": "MV-02-8594082",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-02",
+      "latitude": 4.21507,
+      "longitude": 72.86455
+    }
+  ]
+}

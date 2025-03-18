@@ -1,0 +1,29 @@
+{
+  "stateId": 7303510,
+  "stateCode": "MH-RON",
+  "countryCode": "MH",
+  "cities": [
+    {
+      "id": 7306520,
+      "name": "Rongelap",
+      "nativeName": "Rongelap",
+      "code": "MH-RON-7306520",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-RON",
+      "latitude": 11.16351,
+      "longitude": 166.89408
+    },
+    {
+      "id": 7304002,
+      "name": "New Rongelap",
+      "nativeName": "New Rongelap",
+      "code": "MH-RON-7304002",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-RON",
+      "latitude": 11.1612,
+      "longitude": 166.89189
+    }
+  ]
+}

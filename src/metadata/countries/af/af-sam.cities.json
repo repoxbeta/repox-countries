@@ -1,0 +1,84 @@
+{
+  "stateId": 1127766,
+  "stateCode": "AF-SAM",
+  "countryCode": "AF",
+  "cities": [
+    {
+      "id": 7053818,
+      "name": "Aybak",
+      "nativeName": "Aībak",
+      "code": "AF-SAM-7053818",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-SAM",
+      "latitude": 36.20667,
+      "longitude": 67.98661
+    },
+    {
+      "id": 7053820,
+      "name": "Darah Sof District",
+      "nativeName": "Darah-ye Şūf-e Pā’īn",
+      "code": "AF-SAM-7053820",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-SAM",
+      "latitude": 36.02504,
+      "longitude": 67.34716
+    },
+    {
+      "id": 7053819,
+      "name": "Darah-ye Şūf-e Bālā",
+      "nativeName": "Darah-ye Şūf-e Bālā",
+      "code": "AF-SAM-7053819",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-SAM",
+      "latitude": 35.6807,
+      "longitude": 67.28246
+    },
+    {
+      "id": 7053821,
+      "name": "Fayrōz Nakhchīr District",
+      "nativeName": "Fayrōz Nakhchīr",
+      "code": "AF-SAM-7053821",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-SAM",
+      "latitude": 36.45637,
+      "longitude": 67.57733
+    },
+    {
+      "id": 7053823,
+      "name": "Khuram wa Sār Bāgh",
+      "nativeName": "Khuram wa Sār Bāgh",
+      "code": "AF-SAM-7053823",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-SAM",
+      "latitude": 35.98651,
+      "longitude": 68.12169
+    },
+    {
+      "id": 7053824,
+      "name": "Ruyi Du Ab District",
+      "nativeName": "Rūy Dūāb",
+      "code": "AF-SAM-7053824",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-SAM",
+      "latitude": 35.63549,
+      "longitude": 67.81726
+    },
+    {
+      "id": 7053822,
+      "name": "Ḩaẕrat-e Sulţān",
+      "nativeName": "Ḩaẕrat-e Sulţān",
+      "code": "AF-SAM-7053822",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-SAM",
+      "latitude": 36.38295,
+      "longitude": 67.86511
+    }
+  ]
+}

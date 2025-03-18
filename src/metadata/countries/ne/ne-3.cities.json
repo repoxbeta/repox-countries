@@ -1,0 +1,95 @@
+{
+  "stateId": 2445486,
+  "stateCode": "NE-3",
+  "countryCode": "NE",
+  "cities": [
+    {
+      "id": 11204211,
+      "name": "Boboye",
+      "nativeName": "Boboye Department",
+      "code": "NE-3-11204211",
+      "countryId": 2440476,
+      "countryCode": "NE",
+      "stateCode": "NE-3",
+      "latitude": 13.08167,
+      "longitude": 2.91083
+    },
+    {
+      "id": 11996008,
+      "name": "Dioundiou",
+      "nativeName": "Dioundiou",
+      "code": "NE-3-11996008",
+      "countryId": 2440476,
+      "countryCode": "NE",
+      "stateCode": "NE-3",
+      "latitude": 12.62923,
+      "longitude": 3.59526
+    },
+    {
+      "id": 2445552,
+      "name": "Dogondoutchi",
+      "nativeName": "Département de Dogondoutchi",
+      "code": "NE-3-2445552",
+      "countryId": 2440476,
+      "countryCode": "NE",
+      "stateCode": "NE-3",
+      "latitude": 13.5,
+      "longitude": 4
+    },
+    {
+      "id": 2445487,
+      "name": "Dosso",
+      "nativeName": "Département de Dosso",
+      "code": "NE-3-2445487",
+      "countryId": 2440476,
+      "countryCode": "NE",
+      "stateCode": "NE-3",
+      "latitude": 12.83333,
+      "longitude": 3.33333
+    },
+    {
+      "id": 11996020,
+      "name": "Falmey",
+      "nativeName": "Falmey",
+      "code": "NE-3-11996020",
+      "countryId": 2440476,
+      "countryCode": "NE",
+      "stateCode": "NE-3",
+      "latitude": 12.59947,
+      "longitude": 2.81074
+    },
+    {
+      "id": 2444487,
+      "name": "Gaya",
+      "nativeName": "Département de Gaya",
+      "code": "NE-3-2444487",
+      "countryId": 2440476,
+      "countryCode": "NE",
+      "stateCode": "NE-3",
+      "latitude": 11.9597,
+      "longitude": 3.46045
+    },
+    {
+      "id": 2441629,
+      "name": "Loga",
+      "nativeName": "Département de Loga",
+      "code": "NE-3-2441629",
+      "countryId": 2440476,
+      "countryCode": "NE",
+      "stateCode": "NE-3",
+      "latitude": 13.63333,
+      "longitude": 3.5
+    },
+    {
+      "id": 11996027,
+      "name": "Tibiri",
+      "nativeName": "Tibiri",
+      "code": "NE-3-11996027",
+      "countryId": 2440476,
+      "countryCode": "NE",
+      "stateCode": "NE-3",
+      "latitude": 13.07884,
+      "longitude": 3.89864
+    }
+  ]
+}

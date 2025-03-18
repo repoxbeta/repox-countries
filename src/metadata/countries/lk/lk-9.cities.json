@@ -1,0 +1,29 @@
+{
+  "stateId": 1228435,
+  "stateCode": "LK-9",
+  "countryCode": "LK",
+  "cities": [
+    {
+      "id": 1240722,
+      "name": "Kegalle District",
+      "nativeName": "Kegalle District",
+      "code": "LK-9-1240722",
+      "countryId": 1227603,
+      "countryCode": "LK",
+      "stateCode": "LK-9",
+      "latitude": 7.1167,
+      "longitude": 80.3333
+    },
+    {
+      "id": 1228729,
+      "name": "Ratnapura District",
+      "nativeName": "Ratnapura District",
+      "code": "LK-9-1228729",
+      "countryId": 1227603,
+      "countryCode": "LK",
+      "stateCode": "LK-9",
+      "latitude": 6.5831,
+      "longitude": 80.5833
+    }
+  ]
+}

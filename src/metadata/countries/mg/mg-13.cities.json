@@ -1,0 +1,40 @@
+{
+  "stateId": 7670855,
+  "stateCode": "MG-13",
+  "countryCode": "MG",
+  "cities": [
+    {
+      "id": 11072809,
+      "name": "Arivonimamo",
+      "nativeName": "Arivonimamo",
+      "code": "MG-13-11072809",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-13",
+      "latitude": -19.04604,
+      "longitude": 47.25955
+    },
+    {
+      "id": 11072810,
+      "name": "Miarinarivo",
+      "nativeName": "Miarinarivo",
+      "code": "MG-13-11072810",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-13",
+      "latitude": -18.87482,
+      "longitude": 46.81833
+    },
+    {
+      "id": 11072811,
+      "name": "Soavinandriana",
+      "nativeName": "Soavinandriana",
+      "code": "MG-13-11072811",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-13",
+      "latitude": -19.2259,
+      "longitude": 46.56167
+    }
+  ]
+}

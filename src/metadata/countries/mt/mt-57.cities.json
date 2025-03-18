@@ -1,0 +1,62 @@
+{
+  "stateId": 8299756,
+  "stateCode": "MT-57",
+  "countryCode": "MT",
+  "cities": [
+    {
+      "id": 2562850,
+      "name": "Swieqi",
+      "nativeName": "Swieqi",
+      "code": "MT-57-2562850",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-57",
+      "latitude": 35.9225,
+      "longitude": 14.48
+    },
+    {
+      "id": 2562781,
+      "name": "Il-Madliena",
+      "nativeName": "Il-Madliena",
+      "code": "MT-57-2562781",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-57",
+      "latitude": 35.9275,
+      "longitude": 14.46611
+    },
+    {
+      "id": 2562840,
+      "name": "Ix-Xgħajriet",
+      "nativeName": "Ix-Xgħajriet",
+      "code": "MT-57-2562840",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-57",
+      "latitude": 35.92139,
+      "longitude": 14.46278
+    },
+    {
+      "id": 2562398,
+      "name": "Tal-Ibraġ",
+      "nativeName": "Tal-Ibraġ",
+      "code": "MT-57-2562398",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-57",
+      "latitude": 35.91556,
+      "longitude": 14.46444
+    },
+    {
+      "id": 2562384,
+      "name": "Tal-Mejda",
+      "nativeName": "Tal-Mejda",
+      "code": "MT-57-2562384",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-57",
+      "latitude": 35.91611,
+      "longitude": 14.46889
+    }
+  ]
+}

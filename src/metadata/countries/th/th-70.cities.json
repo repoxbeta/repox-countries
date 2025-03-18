@@ -1,0 +1,117 @@
+{
+  "stateId": 1150953,
+  "stateCode": "TH-70",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 7510625,
+      "name": "Ban Kha",
+      "nativeName": "Amphoe Ban Kha",
+      "code": "TH-70-7510625",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-70",
+      "latitude": 13.32374,
+      "longitude": 99.37323
+    },
+    {
+      "id": 1155127,
+      "name": "Ban Pong",
+      "nativeName": "Amphoe Ban Pong",
+      "code": "TH-70-1155127",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-70",
+      "latitude": 13.8166,
+      "longitude": 99.82147
+    },
+    {
+      "id": 1157682,
+      "name": "Bang Phae",
+      "nativeName": "Amphoe Bang Phae",
+      "code": "TH-70-1157682",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-70",
+      "latitude": 13.68333,
+      "longitude": 99.98333
+    },
+    {
+      "id": 1153645,
+      "name": "Chom Bueng",
+      "nativeName": "Amphoe Chom Bueng",
+      "code": "TH-70-1153645",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-70",
+      "latitude": 13.6252,
+      "longitude": 99.5187
+    },
+    {
+      "id": 1610974,
+      "name": "Damnoen Saduak",
+      "nativeName": "Amphoe Damnoen Saduak",
+      "code": "TH-70-1610974",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-70",
+      "latitude": 13.56537,
+      "longitude": 99.97042
+    },
+    {
+      "id": 1151981,
+      "name": "Mueang Ratchaburi",
+      "nativeName": "Amphoe Mueang Ratchaburi",
+      "code": "TH-70-1151981",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-70",
+      "latitude": 13.54559,
+      "longitude": 99.77678
+    },
+    {
+      "id": 1151566,
+      "name": "Pak Tho",
+      "nativeName": "Amphoe Pak Tho",
+      "code": "TH-70-1151566",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-70",
+      "latitude": 13.38761,
+      "longitude": 99.677
+    },
+    {
+      "id": 1151339,
+      "name": "Photharam",
+      "nativeName": "Amphoe Photharam",
+      "code": "TH-70-1151339",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-70",
+      "latitude": 13.70707,
+      "longitude": 99.75622
+    },
+    {
+      "id": 7510627,
+      "name": "Suan Phueng",
+      "nativeName": "Amphoe Suan Phueng",
+      "code": "TH-70-7510627",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-70",
+      "latitude": 13.56361,
+      "longitude": 99.31133
+    },
+    {
+      "id": 1149891,
+      "name": "Wat Phleng",
+      "nativeName": "Amphoe Wat Phleng",
+      "code": "TH-70-1149891",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-70",
+      "latitude": 13.44705,
+      "longitude": 99.86959
+    }
+  ]
+}

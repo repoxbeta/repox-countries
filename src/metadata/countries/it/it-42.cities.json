@@ -1,0 +1,51 @@
+{
+  "stateId": 3174725,
+  "stateCode": "IT-42",
+  "countryCode": "IT",
+  "cities": [
+    {
+      "id": 3176217,
+      "name": "Province of Genoa",
+      "nativeName": "Provincia di Genova",
+      "code": "IT-42-3176217",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-42",
+      "latitude": 44.5,
+      "longitude": 9.06667
+    },
+    {
+      "id": 3175531,
+      "name": "Province of Imperia",
+      "nativeName": "Provincia di Imperia",
+      "code": "IT-42-3175531",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-42",
+      "latitude": 43.96667,
+      "longitude": 7.78333
+    },
+    {
+      "id": 3175080,
+      "name": "Province of La Spezia",
+      "nativeName": "Provincia di La Spezia",
+      "code": "IT-42-3175080",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-42",
+      "latitude": 44.25,
+      "longitude": 9.7
+    },
+    {
+      "id": 3167021,
+      "name": "Province of Savona",
+      "nativeName": "Provincia di Savona",
+      "code": "IT-42-3167021",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-42",
+      "latitude": 44.3,
+      "longitude": 8.26667
+    }
+  ]
+}

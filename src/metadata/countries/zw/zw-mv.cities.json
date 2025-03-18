@@ -1,0 +1,95 @@
+{
+  "stateId": 886761,
+  "stateCode": "ZW-MV",
+  "countryCode": "ZW",
+  "cities": [
+    {
+      "id": 895080,
+      "name": "Bikita District",
+      "nativeName": "Bikita District",
+      "code": "ZW-MV-895080",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MV",
+      "latitude": -20.13752,
+      "longitude": 31.93156
+    },
+    {
+      "id": 893482,
+      "name": "Chiredzi District",
+      "nativeName": "Chiredzi District",
+      "code": "ZW-MV-893482",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MV",
+      "latitude": -21.28585,
+      "longitude": 31.77039
+    },
+    {
+      "id": 893171,
+      "name": "Chivi District",
+      "nativeName": "Chivi District",
+      "code": "ZW-MV-893171",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MV",
+      "latitude": -20.5,
+      "longitude": 30.58333
+    },
+    {
+      "id": 890589,
+      "name": "Gutu District",
+      "nativeName": "Gutu District",
+      "code": "ZW-MV-890589",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MV",
+      "latitude": -19.60884,
+      "longitude": 31.25059
+    },
+    {
+      "id": 886762,
+      "name": "Masvingo District",
+      "nativeName": "Masvingo District",
+      "code": "ZW-MV-886762",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MV",
+      "latitude": -20.31481,
+      "longitude": 30.90008
+    },
+    {
+      "id": 884756,
+      "name": "Mwenezi District",
+      "nativeName": "Mwenezi District",
+      "code": "ZW-MV-884756",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MV",
+      "latitude": -21.35838,
+      "longitude": 30.70668
+    },
+    {
+      "id": 884594,
+      "name": "Zaka",
+      "nativeName": "Zaka",
+      "code": "ZW-MV-884594",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MV",
+      "latitude": -20.3601,
+      "longitude": 31.4267
+    },
+    {
+      "id": 10172877,
+      "name": "Zaka District",
+      "nativeName": "Zaka District",
+      "code": "ZW-MV-10172877",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MV",
+      "latitude": -20.05,
+      "longitude": 31.37
+    }
+  ]
+}

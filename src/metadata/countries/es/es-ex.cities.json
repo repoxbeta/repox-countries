@@ -1,0 +1,29 @@
+{
+  "stateId": 2593112,
+  "stateCode": "ES-EX",
+  "countryCode": "ES",
+  "cities": [
+    {
+      "id": 2521419,
+      "name": "Badajoz",
+      "nativeName": "Provincia de Badajoz",
+      "code": "ES-EX-2521419",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "stateCode": "ES-EX",
+      "latitude": 38.66667,
+      "longitude": -6.16667
+    },
+    {
+      "id": 2520610,
+      "name": "Caceres",
+      "nativeName": "Provincia de Cáceres",
+      "code": "ES-EX-2520610",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "stateCode": "ES-EX",
+      "latitude": 39.52205,
+      "longitude": -6.37482
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "stateId": 1520239,
+  "stateCode": "KZ-55",
+  "countryCode": "KZ",
+  "cities": [
+    {
+      "id": 1521382,
+      "name": "Akkuli District",
+      "nativeName": "Akkulinskiy Rayon",
+      "code": "KZ-55-1521382",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-55",
+      "latitude": 51.5,
+      "longitude": 78.16667
+    },
+    {
+      "id": 1517194,
+      "name": "Aksu Gorodskaya Administratsiya",
+      "nativeName": "Aksu Gorodskaya Administratsiya",
+      "code": "KZ-55-1517194",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-55",
+      "latitude": 52.08857,
+      "longitude": 76.91779
+    },
+    {
+      "id": 1522019,
+      "name": "Aktogay District",
+      "nativeName": "Aktogayskiy Rayon",
+      "code": "KZ-55-1522019",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-55",
+      "latitude": 52.75,
+      "longitude": 75.16667
+    },
+    {
+      "id": 1525651,
+      "name": "Bayanaul District",
+      "nativeName": "Bayanaul’skiy Rayon",
+      "code": "KZ-55-1525651",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-55",
+      "latitude": 50.91667,
+      "longitude": 75.5
+    },
+    {
+      "id": 1517745,
+      "name": "Bukhar Zhyrauskiy Rayon",
+      "nativeName": "Bukhar Zhyrauskiy Rayon",
+      "code": "KZ-55-1517745",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-55",
+      "latitude": 50,
+      "longitude": 74
+    },
+    {
+      "id": 1524322,
+      "name": "Ekibastuz Gorodskaya Administratsiya",
+      "nativeName": "Ekibastuz Gorodskaya Administratsiya",
+      "code": "KZ-55-1524322",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-55",
+      "latitude": 51.83333,
+      "longitude": 74.91667
+    },
+    {
+      "id": 1537292,
+      "name": "Ekibastuz Qalasy",
+      "nativeName": "Ekibastuz Qalasy",
+      "code": "KZ-55-1537292",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-55",
+      "latitude": 51.66667,
+      "longitude": 75.36667
+    },
+    {
+      "id": 1523767,
+      "name": "Ertis District",
+      "nativeName": "Irtyshskiy Rayon",
+      "code": "KZ-55-1523767",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-55",
+      "latitude": 53.25,
+      "longitude": 74.5
+    },
+    {
+      "id": 1523663,
+      "name": "Kashyr District",
+      "nativeName": "Terengköl Aūdany",
+      "code": "KZ-55-1523663",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-55",
+      "latitude": 53.25,
+      "longitude": 76.5
+    },
+    {
+      "id": 1521012,
+      "name": "May District",
+      "nativeName": "Mayskiy Rayon",
+      "code": "KZ-55-1521012",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-55",
+      "latitude": 51,
+      "longitude": 77.5
+    },
+    {
+      "id": 1520238,
+      "name": "Pavlodar District",
+      "nativeName": "Pavlodarskiy Rayon",
+      "code": "KZ-55-1520238",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-55",
+      "latitude": 52.41667,
+      "longitude": 77.5
+    },
+    {
+      "id": 1537290,
+      "name": "Pavlodar Gorodskaya Administratsiya",
+      "nativeName": "Pavlodar Gorodskaya Administratsiya",
+      "code": "KZ-55-1537290",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-55",
+      "latitude": 52.30229,
+      "longitude": 77.03423
+    },
+    {
+      "id": 1519247,
+      "name": "Sharbakty District",
+      "nativeName": "Shcherbaktinskiy Rayon",
+      "code": "KZ-55-1519247",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-55",
+      "latitude": 52.41667,
+      "longitude": 78.25
+    },
+    {
+      "id": 1517619,
+      "name": "Uspen District",
+      "nativeName": "Uspenskiy Rayon",
+      "code": "KZ-55-1517619",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-55",
+      "latitude": 53.08333,
+      "longitude": 77.5
+    },
+    {
+      "id": 1516632,
+      "name": "Zhelezin District",
+      "nativeName": "Zhelezinskiy Rayon",
+      "code": "KZ-55-1516632",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-55",
+      "latitude": 53.83333,
+      "longitude": 76
+    }
+  ]
+}

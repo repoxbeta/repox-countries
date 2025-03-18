@@ -1,0 +1,95 @@
+{
+  "stateId": 726419,
+  "stateCode": "BG-08",
+  "countryCode": "BG",
+  "cities": [
+    {
+      "id": 733513,
+      "name": "Balchik",
+      "nativeName": "Obshtina Balchik",
+      "code": "BG-08-733513",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-08",
+      "latitude": 43.5,
+      "longitude": 28.13333
+    },
+    {
+      "id": 726417,
+      "name": "Dobrich",
+      "nativeName": "Obshtina Dobrich",
+      "code": "BG-08-726417",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-08",
+      "latitude": 43.57763,
+      "longitude": 27.80628
+    },
+    {
+      "id": 864565,
+      "name": "Dobrich-Selska",
+      "nativeName": "Obshtina Dobrich-Selska",
+      "code": "BG-08-864565",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-08",
+      "latitude": 43.63333,
+      "longitude": 27.73333
+    },
+    {
+      "id": 731463,
+      "name": "General Toshevo",
+      "nativeName": "Obshtina General Toshevo",
+      "code": "BG-08-731463",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-08",
+      "latitude": 43.73333,
+      "longitude": 28.08333
+    },
+    {
+      "id": 730517,
+      "name": "Kavarna",
+      "nativeName": "Obshtina Kavarna",
+      "code": "BG-08-730517",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-08",
+      "latitude": 43.5,
+      "longitude": 28.38333
+    },
+    {
+      "id": 729879,
+      "name": "Krushari",
+      "nativeName": "Obshtina Krushari",
+      "code": "BG-08-729879",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-08",
+      "latitude": 43.88333,
+      "longitude": 27.75
+    },
+    {
+      "id": 727328,
+      "name": "Shabla",
+      "nativeName": "Obshtina Shabla",
+      "code": "BG-08-727328",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-08",
+      "latitude": 43.61667,
+      "longitude": 28.51667
+    },
+    {
+      "id": 726473,
+      "name": "Tervel",
+      "nativeName": "Obshtina Tervel",
+      "code": "BG-08-726473",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-08",
+      "latitude": 43.75,
+      "longitude": 27.4
+    }
+  ]
+}

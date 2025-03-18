@@ -1,0 +1,29 @@
+{
+  "stateId": 192064,
+  "stateCode": "KE-14",
+  "countryCode": "KE",
+  "cities": [
+    {
+      "id": 7667674,
+      "name": "Kisii Central",
+      "nativeName": "Kisii Central",
+      "code": "KE-14-7667674",
+      "countryId": 192950,
+      "countryCode": "KE",
+      "stateCode": "KE-14",
+      "latitude": -3.61,
+      "longitude": 39.85
+    },
+    {
+      "id": 7667639,
+      "name": "Malindi District",
+      "nativeName": "Malindi District",
+      "code": "KE-14-7667639",
+      "countryId": 192950,
+      "countryCode": "KE",
+      "stateCode": "KE-14",
+      "latitude": -2.921,
+      "longitude": 39.84
+    }
+  ]
+}

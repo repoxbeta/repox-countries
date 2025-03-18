@@ -1,0 +1,51 @@
+{
+  "stateId": 3183560,
+  "stateCode": "IT-65",
+  "countryCode": "IT",
+  "cities": [
+    {
+      "id": 3178795,
+      "name": "Province of Chieti",
+      "nativeName": "Provincia di Chieti",
+      "code": "IT-65-3178795",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-65",
+      "latitude": 42.11667,
+      "longitude": 14.35
+    },
+    {
+      "id": 3175120,
+      "name": "Province of L'Aquila",
+      "nativeName": "Provincia dell' Aquila",
+      "code": "IT-65-3175120",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-65",
+      "latitude": 42.08333,
+      "longitude": 13.66667
+    },
+    {
+      "id": 3171163,
+      "name": "Province of Pescara",
+      "nativeName": "Provincia di Pescara",
+      "code": "IT-65-3171163",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-65",
+      "latitude": 42.33333,
+      "longitude": 13.95
+    },
+    {
+      "id": 3165802,
+      "name": "Province of Teramo",
+      "nativeName": "Provincia di Teramo",
+      "code": "IT-65-3165802",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-65",
+      "latitude": 42.65,
+      "longitude": 13.68333
+    }
+  ]
+}

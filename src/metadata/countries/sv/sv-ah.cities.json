@@ -1,0 +1,40 @@
+{
+  "stateId": 3587425,
+  "stateCode": "SV-AH",
+  "countryCode": "SV",
+  "cities": [
+    {
+      "id": 12916946,
+      "name": "Ahuachapán Norte",
+      "nativeName": "Ahuachapán Norte",
+      "code": "SV-AH-12916946",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-AH",
+      "latitude": 13.98102,
+      "longitude": -89.74674
+    },
+    {
+      "id": 12954151,
+      "name": "Municipio de Ahuachapan Centro",
+      "nativeName": "Municipio de Ahuachapan Centro",
+      "code": "SV-AH-12954151",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-AH",
+      "latitude": 13.8601,
+      "longitude": -89.88085
+    },
+    {
+      "id": 12954152,
+      "name": "Municipio de Ahuachapan Sur",
+      "nativeName": "Municipio de Ahuachapan Sur",
+      "code": "SV-AH-12954152",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-AH",
+      "latitude": 13.7684,
+      "longitude": -89.90526
+    }
+  ]
+}

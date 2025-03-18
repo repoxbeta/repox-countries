@@ -1,0 +1,40 @@
+{
+  "stateId": 3371209,
+  "stateCode": "NA-OD",
+  "countryCode": "NA",
+  "cities": [
+    {
+      "id": 11204952,
+      "name": "Okahandja Constituency",
+      "nativeName": "Okahandja Constituency",
+      "code": "NA-OD-11204952",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "stateCode": "NA-OD",
+      "latitude": -21.98555,
+      "longitude": 16.91654
+    },
+    {
+      "id": 10400504,
+      "name": "Omatako Constituency",
+      "nativeName": "Omatako Constituency",
+      "code": "NA-OD-10400504",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "stateCode": "NA-OD",
+      "latitude": -21.03,
+      "longitude": 17.252
+    },
+    {
+      "id": 11428998,
+      "name": "Otavi",
+      "nativeName": "Otavi",
+      "code": "NA-OD-11428998",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "stateCode": "NA-OD",
+      "latitude": -19.63812,
+      "longitude": 17.33138
+    }
+  ]
+}

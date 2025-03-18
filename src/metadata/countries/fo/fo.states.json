@@ -1,0 +1,72 @@
+{
+  "countryId": 2622320,
+  "countryCode": "FO",
+  "states": [
+    {
+      "id": 2622387,
+      "name": "Eysturoy",
+      "nativeName": "Eysturoyar sýsla",
+      "code": "FO-OS",
+      "internalCode": "",
+      "countryId": 2622320,
+      "countryCode": "FO",
+      "latitude": 62.21667,
+      "longitude": -6.86667
+    },
+    {
+      "id": 2616145,
+      "name": "Norðoyar",
+      "nativeName": "Norðoyar sýsla",
+      "code": "FO-NO",
+      "internalCode": "",
+      "countryId": 2622320,
+      "countryCode": "FO",
+      "latitude": 62.28333,
+      "longitude": -6.58333
+    },
+    {
+      "id": 2614219,
+      "name": "Sandoy",
+      "nativeName": "Sandoyar Sýsla",
+      "code": "FO-SA",
+      "internalCode": "",
+      "countryId": 2622320,
+      "countryCode": "FO",
+      "latitude": 61.83333,
+      "longitude": -6.75
+    },
+    {
+      "id": 2612225,
+      "name": "Streymoy",
+      "nativeName": "Streymoyar Sýsla",
+      "code": "FO-ST",
+      "internalCode": "",
+      "countryId": 2622320,
+      "countryCode": "FO",
+      "latitude": 62.13333,
+      "longitude": -7
+    },
+    {
+      "id": 2612137,
+      "name": "Suðuroy",
+      "nativeName": "Suðuroyar sýsla",
+      "code": "FO-SU",
+      "internalCode": "",
+      "countryId": 2622320,
+      "countryCode": "FO",
+      "latitude": 61.48333,
+      "longitude": -6.81667
+    },
+    {
+      "id": 2610816,
+      "name": "Vágar",
+      "nativeName": "Vága Sýsla",
+      "code": "FO-VG",
+      "internalCode": "",
+      "countryId": 2622320,
+      "countryCode": "FO",
+      "latitude": 62.08333,
+      "longitude": -7.25
+    }
+  ]
+}

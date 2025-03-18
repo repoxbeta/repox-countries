@@ -1,0 +1,84 @@
+{
+  "stateId": 6413337,
+  "stateCode": "RW-02",
+  "countryCode": "RW",
+  "cities": [
+    {
+      "id": 7688803,
+      "name": "Bugesera District",
+      "nativeName": "Bugesera District",
+      "code": "RW-02-7688803",
+      "countryId": 49518,
+      "countryCode": "RW",
+      "stateCode": "RW-02",
+      "latitude": -2.23456,
+      "longitude": 30.14825
+    },
+    {
+      "id": 7688800,
+      "name": "Gatsibo District",
+      "nativeName": "Gatsibo District",
+      "code": "RW-02-7688800",
+      "countryId": 49518,
+      "countryCode": "RW",
+      "stateCode": "RW-02",
+      "latitude": -1.59185,
+      "longitude": 30.45535
+    },
+    {
+      "id": 7688801,
+      "name": "Kayonza District",
+      "nativeName": "Kayonza District",
+      "code": "RW-02-7688801",
+      "countryId": 49518,
+      "countryCode": "RW",
+      "stateCode": "RW-02",
+      "latitude": -1.85101,
+      "longitude": 30.65102
+    },
+    {
+      "id": 7688805,
+      "name": "Kirehe District",
+      "nativeName": "Kirehe District",
+      "code": "RW-02-7688805",
+      "countryId": 49518,
+      "countryCode": "RW",
+      "stateCode": "RW-02",
+      "latitude": -2.25659,
+      "longitude": 30.72617
+    },
+    {
+      "id": 7688804,
+      "name": "Ngoma District",
+      "nativeName": "Ngoma District",
+      "code": "RW-02-7688804",
+      "countryId": 49518,
+      "countryCode": "RW",
+      "stateCode": "RW-02",
+      "latitude": -2.18532,
+      "longitude": 30.46961
+    },
+    {
+      "id": 7688799,
+      "name": "Nyagatare District",
+      "nativeName": "Nyagatare District",
+      "code": "RW-02-7688799",
+      "countryId": 49518,
+      "countryCode": "RW",
+      "stateCode": "RW-02",
+      "latitude": -1.31455,
+      "longitude": 30.37242
+    },
+    {
+      "id": 7688802,
+      "name": "Rwamagana District",
+      "nativeName": "Rwamagana District",
+      "code": "RW-02-7688802",
+      "countryId": 49518,
+      "countryCode": "RW",
+      "stateCode": "RW-02",
+      "latitude": -1.97281,
+      "longitude": 30.35428
+    }
+  ]
+}

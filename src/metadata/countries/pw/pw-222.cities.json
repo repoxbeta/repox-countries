@@ -1,0 +1,29 @@
+{
+  "stateId": 4038043,
+  "stateCode": "PW-222",
+  "countryCode": "PW",
+  "cities": [
+    {
+      "id": 7732297,
+      "name": "Ngardmau",
+      "nativeName": "Ngardmau",
+      "code": "PW-222-7732297",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-222",
+      "latitude": 7.60986,
+      "longitude": 134.5744
+    },
+    {
+      "id": 4038316,
+      "name": "Ngardmau Village",
+      "nativeName": "Ngardmau Village",
+      "code": "PW-222-4038316",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-222",
+      "latitude": 7.60988,
+      "longitude": 134.57418
+    }
+  ]
+}

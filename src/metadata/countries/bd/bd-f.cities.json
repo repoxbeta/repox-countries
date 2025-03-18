@@ -1,0 +1,95 @@
+{
+  "stateId": 7671048,
+  "stateCode": "BD-F",
+  "countryCode": "BD",
+  "cities": [
+    {
+      "id": 1337155,
+      "name": "Dinajpur",
+      "nativeName": "Dinajpur",
+      "code": "BD-F-1337155",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-F",
+      "latitude": 25.61667,
+      "longitude": 88.75
+    },
+    {
+      "id": 1337160,
+      "name": "Gaibandha",
+      "nativeName": "Gaibandha",
+      "code": "BD-F-1337160",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-F",
+      "latitude": 25.25,
+      "longitude": 89.5
+    },
+    {
+      "id": 1337158,
+      "name": "Kurigram",
+      "nativeName": "Kurigram",
+      "code": "BD-F-1337158",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-F",
+      "latitude": 25.75,
+      "longitude": 89.66667
+    },
+    {
+      "id": 1337157,
+      "name": "Lalmonirhat",
+      "nativeName": "Lalmonirhat District",
+      "code": "BD-F-1337157",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-F",
+      "latitude": 26,
+      "longitude": 89.25
+    },
+    {
+      "id": 1337156,
+      "name": "Nilphamari",
+      "nativeName": "Nilphamari Zila",
+      "code": "BD-F-1337156",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-F",
+      "latitude": 25.96667,
+      "longitude": 88.95
+    },
+    {
+      "id": 1337153,
+      "name": "Panchagarh",
+      "nativeName": "Panchagarh",
+      "code": "BD-F-1337153",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-F",
+      "latitude": 26.33333,
+      "longitude": 88.56667
+    },
+    {
+      "id": 1337159,
+      "name": "Rangpur",
+      "nativeName": "Rangpur",
+      "code": "BD-F-1337159",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-F",
+      "latitude": 25.73333,
+      "longitude": 89.25
+    },
+    {
+      "id": 1337154,
+      "name": "Thakurgaon",
+      "nativeName": "Thakurgaon",
+      "code": "BD-F-1337154",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-F",
+      "latitude": 25.96667,
+      "longitude": 88.33333
+    }
+  ]
+}

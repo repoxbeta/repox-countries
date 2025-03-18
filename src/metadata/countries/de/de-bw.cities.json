@@ -1,0 +1,51 @@
+{
+  "stateId": 2953481,
+  "stateCode": "DE-BW",
+  "countryCode": "DE",
+  "cities": [
+    {
+      "id": 2925180,
+      "name": "Freiburg Region",
+      "nativeName": "Freiburg Region",
+      "code": "DE-BW-2925180",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-BW",
+      "latitude": 48.16667,
+      "longitude": 8.33333
+    },
+    {
+      "id": 3214104,
+      "name": "Karlsruhe Region",
+      "nativeName": "Karlsruhe Region",
+      "code": "DE-BW-3214104",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-BW",
+      "latitude": 49,
+      "longitude": 8.66667
+    },
+    {
+      "id": 3214105,
+      "name": "Regierungsbezirk Stuttgart",
+      "nativeName": "Regierungsbezirk Stuttgart",
+      "code": "DE-BW-3214105",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-BW",
+      "latitude": 49.08333,
+      "longitude": 9.66667
+    },
+    {
+      "id": 3214106,
+      "name": "Tübingen Region",
+      "nativeName": "Tübingen Region",
+      "code": "DE-BW-3214106",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-BW",
+      "latitude": 48.16667,
+      "longitude": 9.5
+    }
+  ]
+}

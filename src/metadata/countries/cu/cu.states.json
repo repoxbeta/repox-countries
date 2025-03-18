@@ -1,0 +1,182 @@
+{
+  "countryId": 3562981,
+  "countryCode": "CU",
+  "states": [
+    {
+      "id": 7668824,
+      "name": "Artemisa",
+      "nativeName": "Artemisa",
+      "code": "CU-15",
+      "internalCode": "15",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "latitude": 22.814,
+      "longitude": -82.75606
+    },
+    {
+      "id": 3564175,
+      "name": "Ciego de Ávila Province",
+      "nativeName": "Provincia de Ciego de Ávila",
+      "code": "CU-08",
+      "internalCode": "08",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "latitude": 21.96667,
+      "longitude": -78.63333
+    },
+    {
+      "id": 3564120,
+      "name": "Cienfuegos Province",
+      "nativeName": "Provincia de Cienfuegos",
+      "code": "CU-06",
+      "internalCode": "06",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "latitude": 22.26667,
+      "longitude": -80.45
+    },
+    {
+      "id": 3558052,
+      "name": "Granma Province",
+      "nativeName": "Provincia Granma",
+      "code": "CU-12",
+      "internalCode": "12",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "latitude": 20.28333,
+      "longitude": -76.86667
+    },
+    {
+      "id": 3557685,
+      "name": "Guantánamo Province",
+      "nativeName": "Provincia de Guantánamo",
+      "code": "CU-14",
+      "internalCode": "14",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "latitude": 20.21667,
+      "longitude": -74.86667
+    },
+    {
+      "id": 3564073,
+      "name": "Havana",
+      "nativeName": "La Habana",
+      "code": "CU-03",
+      "internalCode": "03",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "latitude": 23.08333,
+      "longitude": -82.3
+    },
+    {
+      "id": 3556965,
+      "name": "Holguín Province",
+      "nativeName": "Provincia de Holguín",
+      "code": "CU-11",
+      "internalCode": "11",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "latitude": 20.75,
+      "longitude": -75.91667
+    },
+    {
+      "id": 3550595,
+      "name": "Las Tunas Province",
+      "nativeName": "Las Tunas",
+      "code": "CU-10",
+      "internalCode": "10",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "latitude": 21.1,
+      "longitude": -76.9
+    },
+    {
+      "id": 3547394,
+      "name": "Matanzas Province",
+      "nativeName": "Provincia de Matanzas",
+      "code": "CU-04",
+      "internalCode": "04",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "latitude": 22.66667,
+      "longitude": -81.16667
+    },
+    {
+      "id": 7668827,
+      "name": "Mayabeque",
+      "nativeName": "Provincia Mayabeque",
+      "code": "CU-16",
+      "internalCode": "16",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "latitude": 22.96155,
+      "longitude": -82.14718
+    },
+    {
+      "id": 3556608,
+      "name": "Municipio Especial Isla de la Juventud",
+      "nativeName": "Municipio Especial Isla de la Juventud",
+      "code": "CU-99",
+      "internalCode": "99",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "latitude": 21.7,
+      "longitude": -82.81667
+    },
+    {
+      "id": 3566062,
+      "name": "Provincia de Camagüey",
+      "nativeName": "Provincia de Camagüey",
+      "code": "CU-09",
+      "internalCode": "09",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "latitude": 21.35,
+      "longitude": -77.85
+    },
+    {
+      "id": 3544088,
+      "name": "Provincia de Pinar del Río",
+      "nativeName": "Provincia de Pinar del Río",
+      "code": "CU-01",
+      "internalCode": "01",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "latitude": 22.41667,
+      "longitude": -83.83333
+    },
+    {
+      "id": 3540665,
+      "name": "Sancti Spíritus Province",
+      "nativeName": "Provincia de Sancti Spíritus",
+      "code": "CU-07",
+      "internalCode": "07",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "latitude": 21.91667,
+      "longitude": -79.41667
+    },
+    {
+      "id": 3536725,
+      "name": "Santiago de Cuba Province",
+      "nativeName": "Provincia de Santiago de Cuba",
+      "code": "CU-13",
+      "internalCode": "13",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "latitude": 20.2,
+      "longitude": -75.93333
+    },
+    {
+      "id": 3534168,
+      "name": "Villa Clara Province",
+      "nativeName": "Provincia de Villa Clara",
+      "code": "CU-05",
+      "internalCode": "05",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "latitude": 22.56667,
+      "longitude": -80
+    }
+  ]
+}

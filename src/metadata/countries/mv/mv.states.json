@@ -1,0 +1,237 @@
+{
+  "countryId": 1282028,
+  "countryCode": "MV",
+  "states": [
+    {
+      "id": 1281893,
+      "name": "Addu Atoll",
+      "nativeName": "Addu Atoll",
+      "code": "MV-01",
+      "internalCode": "01",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "latitude": -0.68694,
+      "longitude": 73.16841
+    },
+    {
+      "id": 1282478,
+      "name": "Baa Atholhu",
+      "nativeName": "Baa Atholhu",
+      "code": "MV-20",
+      "internalCode": "20",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "latitude": 4.89104,
+      "longitude": 72.97312
+    },
+    {
+      "id": 1282447,
+      "name": "Dhaalu Atholhu",
+      "nativeName": "Dhaalu Atholhu",
+      "code": "MV-17",
+      "internalCode": "17",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "latitude": 2.94875,
+      "longitude": 73.012
+    },
+    {
+      "id": 1282096,
+      "name": "Faadhippolhu Atoll",
+      "nativeName": "Lhaviyani Atholhu",
+      "code": "MV-03",
+      "internalCode": "03",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "latitude": 5.28055,
+      "longitude": 73.58416
+    },
+    {
+      "id": 1282393,
+      "name": "Faafu Atholhu",
+      "nativeName": "Faafu Atholhu",
+      "code": "MV-14",
+      "internalCode": "14",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "latitude": 3.10609,
+      "longitude": 72.97933
+    },
+    {
+      "id": 1282329,
+      "name": "Gaafu Alif Atoll",
+      "nativeName": "Gaafu Alifu Atholhu",
+      "code": "MV-27",
+      "internalCode": "27",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "latitude": 0.38569,
+      "longitude": 73.50921
+    },
+    {
+      "id": 1282328,
+      "name": "Gaafu Dhaalu Atoll",
+      "nativeName": "Gaafu Dhaalu Atholhu",
+      "code": "MV-28",
+      "internalCode": "28",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "latitude": 0.22028,
+      "longitude": 73.10162
+    },
+    {
+      "id": 1281945,
+      "name": "Gnyaviyani Atoll",
+      "nativeName": "Gnaviyani Atoll",
+      "code": "MV-29",
+      "internalCode": "29",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "latitude": -0.29693,
+      "longitude": 73.42491
+    },
+    {
+      "id": 1282294,
+      "name": "Haa Alifu Atholhu",
+      "nativeName": "Haa Alifu Atholhu",
+      "code": "MV-07",
+      "internalCode": "07",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "latitude": 7.0218,
+      "longitude": 72.97981
+    },
+    {
+      "id": 1282293,
+      "name": "Haa Dhaalu Atholhu",
+      "nativeName": "Haa Dhaalu Atholhu",
+      "code": "MV-23",
+      "internalCode": "23",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "latitude": 6.61099,
+      "longitude": 72.95337
+    },
+    {
+      "id": 1282208,
+      "name": "Kaafu Atoll",
+      "nativeName": "Kaafu Atoll",
+      "code": "MV-26",
+      "internalCode": "26",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "latitude": 4.16958,
+      "longitude": 73.49918
+    },
+    {
+      "id": 1282101,
+      "name": "Laamu Atholhu",
+      "nativeName": "Laamu Atholhu",
+      "code": "MV-05",
+      "internalCode": "05",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "latitude": 2.10347,
+      "longitude": 73.57291
+    },
+    {
+      "id": 1337624,
+      "name": "Male",
+      "nativeName": "Maale",
+      "code": "MV-MLE",
+      "internalCode": "MLE",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "latitude": 4.175,
+      "longitude": 73.50833
+    },
+    {
+      "id": 1281985,
+      "name": "Meemu Atholhu",
+      "nativeName": "Meemu Atholhu",
+      "code": "MV-12",
+      "internalCode": "12",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "latitude": 2.86668,
+      "longitude": 73.43354
+    },
+    {
+      "id": 1281937,
+      "name": "Noonu Atoll",
+      "nativeName": "Noonu Atoll",
+      "code": "MV-25",
+      "internalCode": "25",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "latitude": 5.96486,
+      "longitude": 73.38873
+    },
+    {
+      "id": 1282497,
+      "name": "Northern Ari Atoll",
+      "nativeName": "Alifu Atholhu",
+      "code": "MV-02",
+      "internalCode": "02",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "latitude": 4.265,
+      "longitude": 72.96933
+    },
+    {
+      "id": 1281918,
+      "name": "Raa Atoll",
+      "nativeName": "Raa Atholhu",
+      "code": "MV-13",
+      "internalCode": "13",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "latitude": 5.76347,
+      "longitude": 72.98495
+    },
+    {
+      "id": 1281892,
+      "name": "Shaviyani Atholhu",
+      "nativeName": "Shaviyani Atholhu",
+      "code": "MV-24",
+      "internalCode": "24",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "latitude": 6.32125,
+      "longitude": 73.19763
+    },
+    {
+      "id": 10346475,
+      "name": "Southern Ari Atoll",
+      "nativeName": "Southern Ari Atoll",
+      "code": "MV-00",
+      "internalCode": "00",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "latitude": 3.65,
+      "longitude": 72.83
+    },
+    {
+      "id": 1281881,
+      "name": "Thaa Atholhu",
+      "nativeName": "Thaa Atholhu",
+      "code": "MV-08",
+      "internalCode": "08",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "latitude": 2.1943,
+      "longitude": 73.11791
+    },
+    {
+      "id": 1281843,
+      "name": "Vaavu Atholhu",
+      "nativeName": "Vaavu Atholhu",
+      "code": "MV-04",
+      "internalCode": "04",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "latitude": 3.37014,
+      "longitude": 73.58535
+    }
+  ]
+}

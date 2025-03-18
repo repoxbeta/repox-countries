@@ -1,0 +1,29 @@
+{
+  "stateId": 9782168,
+  "stateCode": "IM-9782168",
+  "countryCode": "IM",
+  "cities": [
+    {
+      "id": 3042259,
+      "name": "Bride",
+      "nativeName": "Bride",
+      "code": "IM-9782168-3042259",
+      "countryId": 3042225,
+      "countryCode": "IM",
+      "stateCode": "IM-9782168",
+      "latitude": 54.38256,
+      "longitude": -4.38921
+    },
+    {
+      "id": 3042247,
+      "name": "Cranstal",
+      "nativeName": "Cranstal",
+      "code": "IM-9782168-3042247",
+      "countryId": 3042225,
+      "countryCode": "IM",
+      "stateCode": "IM-9782168",
+      "latitude": 54.3956,
+      "longitude": -4.36947
+    }
+  ]
+}

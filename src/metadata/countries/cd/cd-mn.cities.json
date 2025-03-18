@@ -1,0 +1,106 @@
+{
+  "stateId": 2313191,
+  "stateCode": "CD-MN",
+  "countryCode": "CD",
+  "cities": [
+    {
+      "id": 12278161,
+      "name": "Bolobo",
+      "nativeName": "Bolobo",
+      "code": "CD-MN-12278161",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-MN",
+      "latitude": -2.68258,
+      "longitude": 16.38079
+    },
+    {
+      "id": 12278136,
+      "name": "Inongo",
+      "nativeName": "Inongo",
+      "code": "CD-MN-12278136",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-MN",
+      "latitude": -1.92217,
+      "longitude": 18.15821
+    },
+    {
+      "id": 12278145,
+      "name": "Kiri",
+      "nativeName": "Kiri",
+      "code": "CD-MN-12278145",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-MN",
+      "latitude": -1.61623,
+      "longitude": 19.20741
+    },
+    {
+      "id": 12278094,
+      "name": "Kutu",
+      "nativeName": "Kutu",
+      "code": "CD-MN-12278094",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-MN",
+      "latitude": -2.98169,
+      "longitude": 18.23389
+    },
+    {
+      "id": 12278095,
+      "name": "Kwamouth",
+      "nativeName": "Kwamouth",
+      "code": "CD-MN-12278095",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-MN",
+      "latitude": -3.57943,
+      "longitude": 16.67796
+    },
+    {
+      "id": 12278116,
+      "name": "Mushie",
+      "nativeName": "Mushie",
+      "code": "CD-MN-12278116",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-MN",
+      "latitude": -2.51831,
+      "longitude": 17.18244
+    },
+    {
+      "id": 12278146,
+      "name": "Nioki",
+      "nativeName": "Nioki",
+      "code": "CD-MN-12278146",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-MN",
+      "latitude": -2.70245,
+      "longitude": 17.68267
+    },
+    {
+      "id": 12278131,
+      "name": "Oshwe",
+      "nativeName": "Oshwe",
+      "code": "CD-MN-12278131",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-MN",
+      "latitude": -3.10103,
+      "longitude": 19.96643
+    },
+    {
+      "id": 12278134,
+      "name": "Yumbi",
+      "nativeName": "Yumbi",
+      "code": "CD-MN-12278134",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-MN",
+      "latitude": -2.10559,
+      "longitude": 16.52003
+    }
+  ]
+}

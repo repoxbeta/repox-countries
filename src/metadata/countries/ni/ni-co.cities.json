@@ -1,0 +1,117 @@
+{
+  "stateId": 3620368,
+  "stateCode": "NI-CO",
+  "countryCode": "NI",
+  "cities": [
+    {
+      "id": 11002674,
+      "name": "El Coral",
+      "nativeName": "El Coral",
+      "code": "NI-CO-11002674",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-CO",
+      "latitude": 11.91651,
+      "longitude": -84.6476
+    },
+    {
+      "id": 3620977,
+      "name": "Municipio de Acoyapa",
+      "nativeName": "Municipio de Acoyapa",
+      "code": "NI-CO-3620977",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-CO",
+      "latitude": 11.8691,
+      "longitude": -85.12825
+    },
+    {
+      "id": 3620317,
+      "name": "Municipio de Comalapa",
+      "nativeName": "Municipio de Comalapa",
+      "code": "NI-CO-3620317",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-CO",
+      "latitude": 12.19382,
+      "longitude": -85.55993
+    },
+    {
+      "id": 3618907,
+      "name": "Municipio de Juigalpa",
+      "nativeName": "Municipio de Juigalpa",
+      "code": "NI-CO-3618907",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-CO",
+      "latitude": 12.06214,
+      "longitude": -85.39096
+    },
+    {
+      "id": 3618481,
+      "name": "Municipio de La Libertad",
+      "nativeName": "Municipio de La Libertad",
+      "code": "NI-CO-3618481",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-CO",
+      "latitude": 12.32617,
+      "longitude": -85.18852
+    },
+    {
+      "id": 8335434,
+      "name": "Municipio de San Francisco de Cuapa",
+      "nativeName": "Municipio de San Francisco de Cuapa",
+      "code": "NI-CO-8335434",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-CO",
+      "latitude": 12.26667,
+      "longitude": -85.38333
+    },
+    {
+      "id": 3616608,
+      "name": "Municipio de San Pedro de Lóvago",
+      "nativeName": "Municipio de San Pedro de Lóvago",
+      "code": "NI-CO-3616608",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-CO",
+      "latitude": 12.16645,
+      "longitude": -85.10519
+    },
+    {
+      "id": 3616347,
+      "name": "Municipio de Santo Tomás",
+      "nativeName": "Municipio de Santo Tomás",
+      "code": "NI-CO-3616347",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-CO",
+      "latitude": 12.12903,
+      "longitude": -85.00795
+    },
+    {
+      "id": 3615812,
+      "name": "Municipio de Villa Sandino",
+      "nativeName": "Municipio de Villa Sandino",
+      "code": "NI-CO-3615812",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-CO",
+      "latitude": 12.03709,
+      "longitude": -84.86711
+    },
+    {
+      "id": 3616351,
+      "name": "Santo Domingo Municipality",
+      "nativeName": "Municipio de Santo Domingo",
+      "code": "NI-CO-3616351",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-CO",
+      "latitude": 12.3616,
+      "longitude": -84.95562
+    }
+  ]
+}

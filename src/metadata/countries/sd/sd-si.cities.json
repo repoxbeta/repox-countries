@@ -1,0 +1,95 @@
+{
+  "stateId": 408669,
+  "stateCode": "SD-SI",
+  "countryCode": "SD",
+  "cities": [
+    {
+      "id": 12196619,
+      "name": "Abu Hugar",
+      "nativeName": "Abu Hujar Locality",
+      "code": "SD-SI-12196619",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-SI",
+      "latitude": 12.65929,
+      "longitude": 33.89312
+    },
+    {
+      "id": 378708,
+      "name": "Blue Nile Province",
+      "nativeName": "Blue Nile Province",
+      "code": "SD-SI-378708",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-SI",
+      "latitude": 12.5,
+      "longitude": 34
+    },
+    {
+      "id": 12196616,
+      "name": "East Sennar",
+      "nativeName": "East Sennar Locality",
+      "code": "SD-SI-12196616",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-SI",
+      "latitude": 13.78382,
+      "longitude": 33.83655
+    },
+    {
+      "id": 12196620,
+      "name": "El Dali Locality",
+      "nativeName": "El Dali Locality",
+      "code": "SD-SI-12196620",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-SI",
+      "latitude": 12.59084,
+      "longitude": 33.39462
+    },
+    {
+      "id": 12196618,
+      "name": "El Souki",
+      "nativeName": "Es Suki Locality",
+      "code": "SD-SI-12196618",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-SI",
+      "latitude": 12.99615,
+      "longitude": 34.10142
+    },
+    {
+      "id": 12196617,
+      "name": "Eldindir",
+      "nativeName": "Ed Dinder Locality",
+      "code": "SD-SI-12196617",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-SI",
+      "latitude": 12.88172,
+      "longitude": 34.72831
+    },
+    {
+      "id": 12196615,
+      "name": "Sennar Locality",
+      "nativeName": "Sennar Locality",
+      "code": "SD-SI-12196615",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-SI",
+      "latitude": 13.58537,
+      "longitude": 33.23343
+    },
+    {
+      "id": 12196614,
+      "name": "Singa",
+      "nativeName": "Singa Locality",
+      "code": "SD-SI-12196614",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-SI",
+      "latitude": 13.15183,
+      "longitude": 33.74941
+    }
+  ]
+}

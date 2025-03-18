@@ -1,0 +1,29 @@
+{
+  "stateId": 195271,
+  "stateCode": "KE-11",
+  "countryCode": "KE",
+  "cities": [
+    {
+      "id": 7667626,
+      "name": "Butere/Mumias District",
+      "nativeName": "Butere/Mumias District",
+      "code": "KE-11-7667626",
+      "countryId": 192950,
+      "countryCode": "KE",
+      "stateCode": "KE-11",
+      "latitude": 0.293,
+      "longitude": 34.513
+    },
+    {
+      "id": 7667629,
+      "name": "Lugari District",
+      "nativeName": "Lugari District",
+      "code": "KE-11-7667629",
+      "countryId": 192950,
+      "countryCode": "KE",
+      "stateCode": "KE-11",
+      "latitude": 0.688,
+      "longitude": 35.015
+    }
+  ]
+}

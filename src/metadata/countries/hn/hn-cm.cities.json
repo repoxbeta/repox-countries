@@ -1,0 +1,238 @@
+{
+  "stateId": 3613319,
+  "stateCode": "HN-CM",
+  "countryCode": "HN",
+  "cities": [
+    {
+      "id": 3615280,
+      "name": "Ajuterique",
+      "nativeName": "Ajuterique",
+      "code": "HN-CM-3615280",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CM",
+      "latitude": 14.39508,
+      "longitude": -87.71577
+    },
+    {
+      "id": 3613322,
+      "name": "Comayagua",
+      "nativeName": "Comayagua",
+      "code": "HN-CM-3613322",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CM",
+      "latitude": 14.48412,
+      "longitude": -87.6006
+    },
+    {
+      "id": 3610389,
+      "name": "El Rosario",
+      "nativeName": "El Rosario",
+      "code": "HN-CM-3610389",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CM",
+      "latitude": 14.575,
+      "longitude": -87.74306
+    },
+    {
+      "id": 3609743,
+      "name": "Esquías",
+      "nativeName": "Esquías",
+      "code": "HN-CM-3609743",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CM",
+      "latitude": 14.65,
+      "longitude": -87.41
+    },
+    {
+      "id": 3608880,
+      "name": "Humuya",
+      "nativeName": "Humuya",
+      "code": "HN-CM-3608880",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CM",
+      "latitude": 14.24679,
+      "longitude": -87.68831
+    },
+    {
+      "id": 3607545,
+      "name": "La Libertad",
+      "nativeName": "La Libertad",
+      "code": "HN-CM-3607545",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CM",
+      "latitude": 14.88,
+      "longitude": -87.55
+    },
+    {
+      "id": 3606192,
+      "name": "La Trinidad",
+      "nativeName": "La Trinidad",
+      "code": "HN-CM-3606192",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CM",
+      "latitude": 14.7,
+      "longitude": -87.66286
+    },
+    {
+      "id": 3607437,
+      "name": "Lamaní",
+      "nativeName": "Lamaní",
+      "code": "HN-CM-3607437",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CM",
+      "latitude": 14.16328,
+      "longitude": -87.62787
+    },
+    {
+      "id": 8062442,
+      "name": "Las Lajas",
+      "nativeName": "Las Lajas",
+      "code": "HN-CM-8062442",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CM",
+      "latitude": 14.9,
+      "longitude": -87.58333
+    },
+    {
+      "id": 3606070,
+      "name": "Lejamaní",
+      "nativeName": "Lejamaní",
+      "code": "HN-CM-3606070",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CM",
+      "latitude": 14.36,
+      "longitude": -87.69
+    },
+    {
+      "id": 3604895,
+      "name": "Meámbar",
+      "nativeName": "Meámbar",
+      "code": "HN-CM-3604895",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CM",
+      "latitude": 14.82047,
+      "longitude": -87.78424
+    },
+    {
+      "id": 3604796,
+      "name": "Minas de Oro",
+      "nativeName": "Minas de Oro",
+      "code": "HN-CM-3604796",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CM",
+      "latitude": 14.79878,
+      "longitude": -87.34835
+    },
+    {
+      "id": 3604269,
+      "name": "Ojos de Agua",
+      "nativeName": "Ojos de Agua",
+      "code": "HN-CM-3604269",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CM",
+      "latitude": 14.79498,
+      "longitude": -87.6501
+    },
+    {
+      "id": 3602208,
+      "name": "San Jerónimo",
+      "nativeName": "San Jerónimo",
+      "code": "HN-CM-3602208",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CM",
+      "latitude": 14.64043,
+      "longitude": -87.56768
+    },
+    {
+      "id": 3602095,
+      "name": "San José de Comayagua",
+      "nativeName": "San José de Comayagua",
+      "code": "HN-CM-3602095",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CM",
+      "latitude": 14.70977,
+      "longitude": -88.04831
+    },
+    {
+      "id": 3602072,
+      "name": "San José del Potrero",
+      "nativeName": "San José del Potrero",
+      "code": "HN-CM-3602072",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CM",
+      "latitude": 14.86203,
+      "longitude": -87.29049
+    },
+    {
+      "id": 3601943,
+      "name": "San Luis",
+      "nativeName": "San Luis",
+      "code": "HN-CM-3601943",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CM",
+      "latitude": 14.75,
+      "longitude": -87.41667
+    },
+    {
+      "id": 3601742,
+      "name": "San Sebastián",
+      "nativeName": "San Sebastián",
+      "code": "HN-CM-3601742",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CM",
+      "latitude": 14.23687,
+      "longitude": -87.63215
+    },
+    {
+      "id": 3601312,
+      "name": "Siguatepeque",
+      "nativeName": "Siguatepeque",
+      "code": "HN-CM-3601312",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CM",
+      "latitude": 14.63438,
+      "longitude": -87.84551
+    },
+    {
+      "id": 8062524,
+      "name": "Taulabé",
+      "nativeName": "Taulabé",
+      "code": "HN-CM-8062524",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CM",
+      "latitude": 14.67145,
+      "longitude": -87.98693
+    },
+    {
+      "id": 3600341,
+      "name": "Villa de San Antonio",
+      "nativeName": "Villa de San Antonio",
+      "code": "HN-CM-3600341",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CM",
+      "latitude": 14.30702,
+      "longitude": -87.54801
+    }
+  ]
+}

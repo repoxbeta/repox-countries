@@ -1,0 +1,161 @@
+{
+  "stateId": 6254926,
+  "stateCode": "US-MA",
+  "countryCode": "US",
+  "cities": [
+    {
+      "id": 4929772,
+      "name": "Barnstable",
+      "nativeName": "Barnstable County",
+      "code": "US-MA-4929772",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-MA",
+      "latitude": 41.68419,
+      "longitude": -70.27405
+    },
+    {
+      "id": 4930396,
+      "name": "Berkshire",
+      "nativeName": "Berkshire County",
+      "code": "US-MA-4930396",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-MA",
+      "latitude": 42.37067,
+      "longitude": -73.2064
+    },
+    {
+      "id": 4931378,
+      "name": "Bristol",
+      "nativeName": "Bristol County",
+      "code": "US-MA-4931378",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-MA",
+      "latitude": 41.75709,
+      "longitude": -71.08852
+    },
+    {
+      "id": 4935156,
+      "name": "Dukes",
+      "nativeName": "Dukes County",
+      "code": "US-MA-4935156",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-MA",
+      "latitude": 41.38877,
+      "longitude": -70.69877
+    },
+    {
+      "id": 4935951,
+      "name": "Essex",
+      "nativeName": "Essex County",
+      "code": "US-MA-4935951",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-MA",
+      "latitude": 42.63887,
+      "longitude": -70.86792
+    },
+    {
+      "id": 4937280,
+      "name": "Franklin",
+      "nativeName": "Franklin County",
+      "code": "US-MA-4937280",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-MA",
+      "latitude": 42.58312,
+      "longitude": -72.59187
+    },
+    {
+      "id": 4938741,
+      "name": "Hampden",
+      "nativeName": "Hampden County",
+      "code": "US-MA-4938741",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-MA",
+      "latitude": 42.13511,
+      "longitude": -72.63162
+    },
+    {
+      "id": 4938757,
+      "name": "Hampshire",
+      "nativeName": "Hampshire County",
+      "code": "US-MA-4938757",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-MA",
+      "latitude": 42.34014,
+      "longitude": -72.66377
+    },
+    {
+      "id": 4943909,
+      "name": "Middlesex",
+      "nativeName": "Middlesex County",
+      "code": "US-MA-4943909",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-MA",
+      "latitude": 42.48555,
+      "longitude": -71.39184
+    },
+    {
+      "id": 4944911,
+      "name": "Nantucket",
+      "nativeName": "Nantucket County",
+      "code": "US-MA-4944911",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-MA",
+      "latitude": 41.26955,
+      "longitude": -70.02171
+    },
+    {
+      "id": 4945455,
+      "name": "Norfolk",
+      "nativeName": "Norfolk County",
+      "code": "US-MA-4945455",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-MA",
+      "latitude": 42.17097,
+      "longitude": -71.18381
+    },
+    {
+      "id": 4947607,
+      "name": "Plymouth",
+      "nativeName": "Plymouth County",
+      "code": "US-MA-4947607",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-MA",
+      "latitude": 41.98743,
+      "longitude": -70.73707
+    },
+    {
+      "id": 4952349,
+      "name": "Suffolk",
+      "nativeName": "Suffolk County",
+      "code": "US-MA-4952349",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-MA",
+      "latitude": 42.3555,
+      "longitude": -71.06575
+    },
+    {
+      "id": 4956199,
+      "name": "Worcester",
+      "nativeName": "Worcester County",
+      "code": "US-MA-4956199",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-MA",
+      "latitude": 42.3514,
+      "longitude": -71.90774
+    }
+  ]
+}

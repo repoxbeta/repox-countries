@@ -1,0 +1,282 @@
+{
+  "stateId": 2565341,
+  "stateCode": "NG-DE",
+  "countryCode": "NG",
+  "cities": [
+    {
+      "id": 7873883,
+      "name": "Aniocha North",
+      "nativeName": "Aniocha North",
+      "code": "NG-DE-7873883",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-DE",
+      "latitude": 6.35447,
+      "longitude": 6.48737
+    },
+    {
+      "id": 7729915,
+      "name": "Aniocha South",
+      "nativeName": "Aniocha South",
+      "code": "NG-DE-7729915",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-DE",
+      "latitude": 6.12829,
+      "longitude": 6.48334
+    },
+    {
+      "id": 8638006,
+      "name": "Bomadi",
+      "nativeName": "Bomadi",
+      "code": "NG-DE-8638006",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-DE",
+      "latitude": 5.16914,
+      "longitude": 5.90424
+    },
+    {
+      "id": 8638005,
+      "name": "Burutu",
+      "nativeName": "Burutu",
+      "code": "NG-DE-8638005",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-DE",
+      "latitude": 5.21173,
+      "longitude": 5.60285
+    },
+    {
+      "id": 7729918,
+      "name": "Ethiope East",
+      "nativeName": "Ethiope East",
+      "code": "NG-DE-7729918",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-DE",
+      "latitude": 5.68799,
+      "longitude": 5.98414
+    },
+    {
+      "id": 7729917,
+      "name": "Ethiope West",
+      "nativeName": "Ethiope West",
+      "code": "NG-DE-7729917",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-DE",
+      "latitude": 5.91996,
+      "longitude": 5.72939
+    },
+    {
+      "id": 7729919,
+      "name": "Ika North East",
+      "nativeName": "Ika North East",
+      "code": "NG-DE-7729919",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-DE",
+      "latitude": 6.22865,
+      "longitude": 6.28963
+    },
+    {
+      "id": 7729921,
+      "name": "Ika South",
+      "nativeName": "Ika South",
+      "code": "NG-DE-7729921",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-DE",
+      "latitude": 6.17084,
+      "longitude": 6.12881
+    },
+    {
+      "id": 7729922,
+      "name": "Isoko North",
+      "nativeName": "Isoko North",
+      "code": "NG-DE-7729922",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-DE",
+      "latitude": 5.52493,
+      "longitude": 6.23414
+    },
+    {
+      "id": 7729923,
+      "name": "Isoko South",
+      "nativeName": "Isoko South",
+      "code": "NG-DE-7729923",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-DE",
+      "latitude": 5.38209,
+      "longitude": 6.21417
+    },
+    {
+      "id": 7729925,
+      "name": "Ndokwa East",
+      "nativeName": "Ndokwa East",
+      "code": "NG-DE-7729925",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-DE",
+      "latitude": 5.67029,
+      "longitude": 6.50771
+    },
+    {
+      "id": 7729927,
+      "name": "Ndokwa West",
+      "nativeName": "Ndokwa West",
+      "code": "NG-DE-7729927",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-DE",
+      "latitude": 5.77323,
+      "longitude": 6.39223
+    },
+    {
+      "id": 8637984,
+      "name": "Okpe",
+      "nativeName": "Okpe",
+      "code": "NG-DE-8637984",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-DE",
+      "latitude": 5.68625,
+      "longitude": 5.78333
+    },
+    {
+      "id": 7729931,
+      "name": "Oshimili North",
+      "nativeName": "Oshimili North",
+      "code": "NG-DE-7729931",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-DE",
+      "latitude": 6.32273,
+      "longitude": 6.64445
+    },
+    {
+      "id": 7729934,
+      "name": "Oshimili South",
+      "nativeName": "Oshimili South",
+      "code": "NG-DE-7729934",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-DE",
+      "latitude": 6.09213,
+      "longitude": 6.68172
+    },
+    {
+      "id": 8638007,
+      "name": "Patani",
+      "nativeName": "Patani",
+      "code": "NG-DE-8638007",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-DE",
+      "latitude": 5.17928,
+      "longitude": 6.09765
+    },
+    {
+      "id": 8637981,
+      "name": "Sapele",
+      "nativeName": "Sapele",
+      "code": "NG-DE-8637981",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-DE",
+      "latitude": 5.82618,
+      "longitude": 5.65354
+    },
+    {
+      "id": 7729936,
+      "name": "Udu",
+      "nativeName": "Udu",
+      "code": "NG-DE-7729936",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-DE",
+      "latitude": 5.47222,
+      "longitude": 5.82203
+    },
+    {
+      "id": 7729938,
+      "name": "Ughelli North",
+      "nativeName": "Ughelli North",
+      "code": "NG-DE-7729938",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-DE",
+      "latitude": 5.51122,
+      "longitude": 6.04821
+    },
+    {
+      "id": 7729939,
+      "name": "Ughelli South",
+      "nativeName": "Ughelli South",
+      "code": "NG-DE-7729939",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-DE",
+      "latitude": 5.3435,
+      "longitude": 5.95108
+    },
+    {
+      "id": 7729940,
+      "name": "Ukwuani",
+      "nativeName": "Ukwuani",
+      "code": "NG-DE-7729940",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-DE",
+      "latitude": 5.84481,
+      "longitude": 6.23741
+    },
+    {
+      "id": 7729945,
+      "name": "Uvwie",
+      "nativeName": "Uvwie",
+      "code": "NG-DE-7729945",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-DE",
+      "latitude": 5.57157,
+      "longitude": 5.77602
+    },
+    {
+      "id": 7729942,
+      "name": "Warri North",
+      "nativeName": "Warri North",
+      "code": "NG-DE-7729942",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-DE",
+      "latitude": 5.88243,
+      "longitude": 5.27687
+    },
+    {
+      "id": 7729943,
+      "name": "Warri South",
+      "nativeName": "Warri South",
+      "code": "NG-DE-7729943",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-DE",
+      "latitude": 5.61326,
+      "longitude": 5.61063
+    },
+    {
+      "id": 7729946,
+      "name": "Warri South-West",
+      "nativeName": "Warri South-West",
+      "code": "NG-DE-7729946",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-DE",
+      "latitude": 5.49686,
+      "longitude": 5.37418
+    }
+  ]
+}

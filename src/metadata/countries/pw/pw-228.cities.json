@@ -1,0 +1,29 @@
+{
+  "stateId": 4038179,
+  "stateCode": "PW-228",
+  "countryCode": "PW",
+  "cities": [
+    {
+      "id": 4038014,
+      "name": "Ngerkeai",
+      "nativeName": "Ngerkeai",
+      "code": "PW-228-4038014",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-228",
+      "latitude": 7.55456,
+      "longitude": 134.63612
+    },
+    {
+      "id": 1559720,
+      "name": "Ngerkeai",
+      "nativeName": "Ngerkeai",
+      "code": "PW-228-1559720",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-228",
+      "latitude": 7.55458,
+      "longitude": 134.63582
+    }
+  ]
+}

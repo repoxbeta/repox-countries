@@ -1,0 +1,84 @@
+{
+  "stateId": 7521305,
+  "stateCode": "PH-03",
+  "countryCode": "PH",
+  "cities": [
+    {
+      "id": 1729926,
+      "name": "Province of Aurora",
+      "nativeName": "Province of Aurora",
+      "code": "PH-03-1729926",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-03",
+      "latitude": 15.98773,
+      "longitude": 121.5802
+    },
+    {
+      "id": 1726347,
+      "name": "Province of Bataan",
+      "nativeName": "Province of Bataan",
+      "code": "PH-03-1726347",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-03",
+      "latitude": 14.66667,
+      "longitude": 120.41667
+    },
+    {
+      "id": 1723064,
+      "name": "Province of Bulacan",
+      "nativeName": "Province of Bulacan",
+      "code": "PH-03-1723064",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-03",
+      "latitude": 15,
+      "longitude": 121.08333
+    },
+    {
+      "id": 1697473,
+      "name": "Province of Nueva Ecija",
+      "nativeName": "Province of Nueva Ecija",
+      "code": "PH-03-1697473",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-03",
+      "latitude": 15.58333,
+      "longitude": 121
+    },
+    {
+      "id": 1695848,
+      "name": "Province of Pampanga",
+      "nativeName": "Province of Pampanga",
+      "code": "PH-03-1695848",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-03",
+      "latitude": 15.06667,
+      "longitude": 120.66667
+    },
+    {
+      "id": 1682811,
+      "name": "Province of Tarlac",
+      "nativeName": "Province of Tarlac",
+      "code": "PH-03-1682811",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-03",
+      "latitude": 15.5,
+      "longitude": 120.5
+    },
+    {
+      "id": 1679435,
+      "name": "Province of Zambales",
+      "nativeName": "Province of Zambales",
+      "code": "PH-03-1679435",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-03",
+      "latitude": 15.33333,
+      "longitude": 120.16667
+    }
+  ]
+}

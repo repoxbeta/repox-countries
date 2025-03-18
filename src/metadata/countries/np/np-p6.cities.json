@@ -1,0 +1,117 @@
+{
+  "stateId": 12095452,
+  "stateCode": "NP-P6",
+  "countryCode": "NP",
+  "cities": [
+    {
+      "id": 12095463,
+      "name": "Dailekh",
+      "nativeName": "Dailekh",
+      "code": "NP-P6-12095463",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "stateCode": "NP-P6",
+      "latitude": 28.87114,
+      "longitude": 81.70343
+    },
+    {
+      "id": 12095470,
+      "name": "Dolpa",
+      "nativeName": "Dolpa",
+      "code": "NP-P6-12095470",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "stateCode": "NP-P6",
+      "latitude": 29.21419,
+      "longitude": 83.03685
+    },
+    {
+      "id": 12095474,
+      "name": "Humla",
+      "nativeName": "Humla",
+      "code": "NP-P6-12095474",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "stateCode": "NP-P6",
+      "latitude": 30.02599,
+      "longitude": 81.83431
+    },
+    {
+      "id": 12095476,
+      "name": "Jajarkot",
+      "nativeName": "Jajarkot",
+      "code": "NP-P6-12095476",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "stateCode": "NP-P6",
+      "latitude": 28.86942,
+      "longitude": 82.16796
+    },
+    {
+      "id": 12095478,
+      "name": "Jumla",
+      "nativeName": "Jumla",
+      "code": "NP-P6-12095478",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "stateCode": "NP-P6",
+      "latitude": 29.2387,
+      "longitude": 82.19872
+    },
+    {
+      "id": 12095480,
+      "name": "Kalikot",
+      "nativeName": "Kalikot",
+      "code": "NP-P6-12095480",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "stateCode": "NP-P6",
+      "latitude": 29.21633,
+      "longitude": 81.68897
+    },
+    {
+      "id": 12095493,
+      "name": "Mugu",
+      "nativeName": "Mugu",
+      "code": "NP-P6-12095493",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "stateCode": "NP-P6",
+      "latitude": 29.67828,
+      "longitude": 82.53081
+    },
+    {
+      "id": 12095532,
+      "name": "Rukum",
+      "nativeName": "Rukum",
+      "code": "NP-P6-12095532",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "stateCode": "NP-P6",
+      "latitude": 28.75661,
+      "longitude": 82.42899
+    },
+    {
+      "id": 12095516,
+      "name": "Salyan",
+      "nativeName": "Salyan",
+      "code": "NP-P6-12095516",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "stateCode": "NP-P6",
+      "latitude": 28.3981,
+      "longitude": 82.17316
+    },
+    {
+      "id": 12095525,
+      "name": "Surkhet",
+      "nativeName": "Surkhet",
+      "code": "NP-P6-12095525",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "stateCode": "NP-P6",
+      "latitude": 28.65801,
+      "longitude": 81.51394
+    }
+  ]
+}

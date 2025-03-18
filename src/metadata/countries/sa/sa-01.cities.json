@@ -1,0 +1,227 @@
+{
+  "stateId": 108411,
+  "stateCode": "SA-01",
+  "countryCode": "SA",
+  "cities": [
+    {
+      "id": 10972310,
+      "name": "Ad Dawādimī",
+      "nativeName": "Ad Dawādimī",
+      "code": "SA-01-10972310",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-01",
+      "latitude": 24.66667,
+      "longitude": 44.16667
+    },
+    {
+      "id": 10972311,
+      "name": "Ad Dir‘īyah",
+      "nativeName": "Ad Dir‘īyah",
+      "code": "SA-01-10972311",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-01",
+      "latitude": 24.88333,
+      "longitude": 46.36667
+    },
+    {
+      "id": 10972313,
+      "name": "Al Aflāj",
+      "nativeName": "Al Aflāj",
+      "code": "SA-01-10972313",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-01",
+      "latitude": 22.08333,
+      "longitude": 46.83333
+    },
+    {
+      "id": 10972314,
+      "name": "Al Ghāţ",
+      "nativeName": "Al Ghāţ",
+      "code": "SA-01-10972314",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-01",
+      "latitude": 26,
+      "longitude": 44.9
+    },
+    {
+      "id": 10972316,
+      "name": "Al Kharj",
+      "nativeName": "Al Kharj",
+      "code": "SA-01-10972316",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-01",
+      "latitude": 23.91667,
+      "longitude": 47.5
+    },
+    {
+      "id": 10972317,
+      "name": "Al Majma‘ah",
+      "nativeName": "Al Majma‘ah",
+      "code": "SA-01-10972317",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-01",
+      "latitude": 26.41667,
+      "longitude": 45.66667
+    },
+    {
+      "id": 10972318,
+      "name": "Al Muzāḩimīyah",
+      "nativeName": "Al Muzāḩimīyah",
+      "code": "SA-01-10972318",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-01",
+      "latitude": 24.16667,
+      "longitude": 46.25
+    },
+    {
+      "id": 10972319,
+      "name": "Al Quway‘īyah",
+      "nativeName": "Al Quway‘īyah",
+      "code": "SA-01-10972319",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-01",
+      "latitude": 23.25,
+      "longitude": 44.66667
+    },
+    {
+      "id": 10972315,
+      "name": "Al Ḩarīq",
+      "nativeName": "Al Ḩarīq",
+      "code": "SA-01-10972315",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-01",
+      "latitude": 23.5,
+      "longitude": 46.1
+    },
+    {
+      "id": 10972320,
+      "name": "Ar Riyāḑ",
+      "nativeName": "Ar Riyāḑ",
+      "code": "SA-01-10972320",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-01",
+      "latitude": 24.66667,
+      "longitude": 47.08333
+    },
+    {
+      "id": 10972321,
+      "name": "As Sulayyil",
+      "nativeName": "As Sulayyil",
+      "code": "SA-01-10972321",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-01",
+      "latitude": 20.33333,
+      "longitude": 46.41667
+    },
+    {
+      "id": 10972322,
+      "name": "Az Zulfī",
+      "nativeName": "Az Zulfī",
+      "code": "SA-01-10972322",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-01",
+      "latitude": 26.53333,
+      "longitude": 44.7
+    },
+    {
+      "id": 10972324,
+      "name": "Hotat Bani Tamim",
+      "nativeName": "Ḩawţat Banī Tamīm",
+      "code": "SA-01-10972324",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-01",
+      "latitude": 23.2,
+      "longitude": 46.7
+    },
+    {
+      "id": 10972326,
+      "name": "Rumāḩ",
+      "nativeName": "Rumāḩ",
+      "code": "SA-01-10972326",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-01",
+      "latitude": 25.75,
+      "longitude": 47.08333
+    },
+    {
+      "id": 10972327,
+      "name": "Shaqrā’",
+      "nativeName": "Shaqrā’",
+      "code": "SA-01-10972327",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-01",
+      "latitude": 25.36667,
+      "longitude": 45.13333
+    },
+    {
+      "id": 10972328,
+      "name": "Thādiq",
+      "nativeName": "Thādiq",
+      "code": "SA-01-10972328",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-01",
+      "latitude": 25.46667,
+      "longitude": 46.08333
+    },
+    {
+      "id": 10972329,
+      "name": "Wādī ad Dawāsir",
+      "nativeName": "Wādī ad Dawāsir",
+      "code": "SA-01-10972329",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-01",
+      "latitude": 21,
+      "longitude": 44.43333
+    },
+    {
+      "id": 10972323,
+      "name": "Ḑurumā",
+      "nativeName": "Ḑurumā",
+      "code": "SA-01-10972323",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-01",
+      "latitude": 24.7,
+      "longitude": 46.06667
+    },
+    {
+      "id": 10972325,
+      "name": "Ḩuraymilā’",
+      "nativeName": "Ḩuraymilā’",
+      "code": "SA-01-10972325",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-01",
+      "latitude": 25.23333,
+      "longitude": 46.28333
+    },
+    {
+      "id": 10972312,
+      "name": "‘Afīf",
+      "nativeName": "‘Afīf",
+      "code": "SA-01-10972312",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-01",
+      "latitude": 23.66667,
+      "longitude": 42.75
+    }
+  ]
+}

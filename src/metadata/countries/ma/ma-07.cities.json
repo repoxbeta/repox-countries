@@ -1,0 +1,95 @@
+{
+  "stateId": 11281880,
+  "stateCode": "MA-07",
+  "countryCode": "MA",
+  "cities": [
+    {
+      "id": 6547292,
+      "name": "Al Haouz Province",
+      "nativeName": "Al-Haouz",
+      "code": "MA-07-6547292",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-07",
+      "latitude": 31.34083,
+      "longitude": -7.91076
+    },
+    {
+      "id": 6547284,
+      "name": "Chichaoua Province",
+      "nativeName": "Chichaoua",
+      "code": "MA-07-6547284",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-07",
+      "latitude": 31.26365,
+      "longitude": -8.84411
+    },
+    {
+      "id": 2549259,
+      "name": "Essaouira Province",
+      "nativeName": "Essaouira",
+      "code": "MA-07-2549259",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-07",
+      "latitude": 31.50675,
+      "longitude": -9.75655
+    },
+    {
+      "id": 2549978,
+      "name": "Kelaa-Des-Sraghna",
+      "nativeName": "Kelaa-Des-Sraghna",
+      "code": "MA-07-2549978",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-07",
+      "latitude": 32.16667,
+      "longitude": -7.75
+    },
+    {
+      "id": 6547285,
+      "name": "Marrakech",
+      "nativeName": "Marrakech",
+      "code": "MA-07-6547285",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-07",
+      "latitude": 31.63623,
+      "longitude": -8.01041
+    },
+    {
+      "id": 11282172,
+      "name": "Rehamna Province",
+      "nativeName": "Rehamna",
+      "code": "MA-07-11282172",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-07",
+      "latitude": 32.24581,
+      "longitude": -7.93144
+    },
+    {
+      "id": 2537878,
+      "name": "Safi Province",
+      "nativeName": "Safi",
+      "code": "MA-07-2537878",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-07",
+      "latitude": 32.16667,
+      "longitude": -8.83333
+    },
+    {
+      "id": 11282170,
+      "name": "Youssoufia Province",
+      "nativeName": "Youssoufia",
+      "code": "MA-07-11282170",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-07",
+      "latitude": 32.23541,
+      "longitude": -8.52402
+    }
+  ]
+}

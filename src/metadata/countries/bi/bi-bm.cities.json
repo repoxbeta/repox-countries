@@ -1,0 +1,40 @@
+{
+  "stateId": 7303939,
+  "stateCode": "BI-BM",
+  "countryCode": "BI",
+  "cities": [
+    {
+      "id": 12237756,
+      "name": "Muha",
+      "nativeName": "Muha",
+      "code": "BI-BM-12237756",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-BM",
+      "latitude": -3.40019,
+      "longitude": 29.36464
+    },
+    {
+      "id": 12237757,
+      "name": "Mukaza",
+      "nativeName": "Mukaza",
+      "code": "BI-BM-12237757",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-BM",
+      "latitude": -3.38086,
+      "longitude": 29.36558
+    },
+    {
+      "id": 12237758,
+      "name": "Ntahangwa",
+      "nativeName": "Ntahangwa",
+      "code": "BI-BM-12237758",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-BM",
+      "latitude": -3.34638,
+      "longitude": 29.38352
+    }
+  ]
+}

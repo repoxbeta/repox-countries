@@ -1,0 +1,83 @@
+{
+  "countryId": 290557,
+  "countryCode": "AE",
+  "states": [
+    {
+      "id": 292969,
+      "name": "Abu Dhabi",
+      "nativeName": "Abu Dhabi",
+      "code": "AE-AZ",
+      "internalCode": "AZ",
+      "countryId": 290557,
+      "countryCode": "AE",
+      "latitude": 23.66667,
+      "longitude": 54
+    },
+    {
+      "id": 292933,
+      "name": "Ajman",
+      "nativeName": "Imārat ‘Ajmān",
+      "code": "AE-AJ",
+      "internalCode": "AJ",
+      "countryId": 290557,
+      "countryCode": "AE",
+      "latitude": 25.38333,
+      "longitude": 55.51667
+    },
+    {
+      "id": 292224,
+      "name": "Dubai",
+      "nativeName": "Dubai",
+      "code": "AE-DU",
+      "internalCode": "DU",
+      "countryId": 290557,
+      "countryCode": "AE",
+      "latitude": 25,
+      "longitude": 55.33333
+    },
+    {
+      "id": 292879,
+      "name": "Fujairah",
+      "nativeName": "Imārat al Fujayrah",
+      "code": "AE-FU",
+      "internalCode": "FU",
+      "countryId": 290557,
+      "countryCode": "AE",
+      "latitude": 25.13333,
+      "longitude": 56.25
+    },
+    {
+      "id": 291075,
+      "name": "Imārat Ra’s al Khaymah",
+      "nativeName": "Imārat Ra’s al Khaymah",
+      "code": "AE-RK",
+      "internalCode": "RK",
+      "countryId": 290557,
+      "countryCode": "AE",
+      "latitude": 25.66667,
+      "longitude": 56
+    },
+    {
+      "id": 290595,
+      "name": "Imārat Umm al Qaywayn",
+      "nativeName": "Imārat Umm al Qaywayn",
+      "code": "AE-UQ",
+      "internalCode": "UQ",
+      "countryId": 290557,
+      "countryCode": "AE",
+      "latitude": 25.5,
+      "longitude": 55.75
+    },
+    {
+      "id": 292673,
+      "name": "Sharjah",
+      "nativeName": "Ash Shāriqah",
+      "code": "AE-SH",
+      "internalCode": "SH",
+      "countryId": 290557,
+      "countryCode": "AE",
+      "latitude": 25.31763,
+      "longitude": 55.44057
+    }
+  ]
+}

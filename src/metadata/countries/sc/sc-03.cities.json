@@ -1,0 +1,40 @@
+{
+  "stateId": 241447,
+  "stateCode": "SC-03",
+  "countryCode": "SC",
+  "cities": [
+    {
+      "id": 241357,
+      "name": "De Quincey Village",
+      "nativeName": "De Quincey Village",
+      "code": "SC-03-241357",
+      "countryId": 241170,
+      "countryCode": "SC",
+      "stateCode": "SC-03",
+      "latitude": -4.6026,
+      "longitude": 55.45692
+    },
+    {
+      "id": 11694884,
+      "name": "La Gouge",
+      "nativeName": "La Gouge",
+      "code": "SC-03-11694884",
+      "countryId": 241170,
+      "countryCode": "SC",
+      "stateCode": "SC-03",
+      "latitude": -4.59093,
+      "longitude": 55.4462
+    },
+    {
+      "id": 11694885,
+      "name": "Maldive Village",
+      "nativeName": "Maldive Village",
+      "code": "SC-03-11694885",
+      "countryId": 241170,
+      "countryCode": "SC",
+      "stateCode": "SC-03",
+      "latitude": -4.59093,
+      "longitude": 55.45225
+    }
+  ]
+}

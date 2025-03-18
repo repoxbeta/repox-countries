@@ -1,0 +1,29 @@
+{
+  "stateId": 12902703,
+  "stateCode": "KP-19",
+  "countryCode": "KP",
+  "cities": [
+    {
+      "id": 1879105,
+      "name": "Changp’ung-gun",
+      "nativeName": "Changp’ung-gun",
+      "code": "KP-19-1879105",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-19",
+      "latitude": 38.08235,
+      "longitude": 126.67078
+    },
+    {
+      "id": 1876370,
+      "name": "Kaesŏng-si",
+      "nativeName": "Kaesŏng-si",
+      "code": "KP-19-1876370",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-19",
+      "latitude": 37.94826,
+      "longitude": 126.60301
+    }
+  ]
+}

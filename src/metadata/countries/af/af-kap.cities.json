@@ -1,0 +1,84 @@
+{
+  "stateId": 1138255,
+  "stateCode": "AF-KAP",
+  "countryCode": "AF",
+  "cities": [
+    {
+      "id": 7053084,
+      "name": "Alasay District",
+      "nativeName": "Alah Sāy",
+      "code": "AF-KAP-7053084",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-KAP",
+      "latitude": 34.9256,
+      "longitude": 69.80913
+    },
+    {
+      "id": 7053087,
+      "name": "Koh Band District",
+      "nativeName": "Kōh Band",
+      "code": "AF-KAP-7053087",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-KAP",
+      "latitude": 35.10575,
+      "longitude": 69.47342
+    },
+    {
+      "id": 7053088,
+      "name": "Mahmud Raqi District",
+      "nativeName": "Maḩmūd-e Rāqī",
+      "code": "AF-KAP-7053088",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-KAP",
+      "latitude": 35.00482,
+      "longitude": 69.42092
+    },
+    {
+      "id": 7053089,
+      "name": "Nijrāb District",
+      "nativeName": "Nijrāb",
+      "code": "AF-KAP-7053089",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-KAP",
+      "latitude": 35.04628,
+      "longitude": 69.64598
+    },
+    {
+      "id": 7053090,
+      "name": "Tagab District",
+      "nativeName": "Tagāb",
+      "code": "AF-KAP-7053090",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-KAP",
+      "latitude": 34.79456,
+      "longitude": 69.6793
+    },
+    {
+      "id": 7053085,
+      "name": "Ḩişah-ye Awal-e Kōhistān District",
+      "nativeName": "Ḩişah-ye Awal-e Kōhistān",
+      "code": "AF-KAP-7053085",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-KAP",
+      "latitude": 35.13864,
+      "longitude": 69.34481
+    },
+    {
+      "id": 7053086,
+      "name": "Ḩişah-ye Duwum-e Kōhistān",
+      "nativeName": "Ḩişah-ye Duwum-e Kōhistān",
+      "code": "AF-KAP-7053086",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-KAP",
+      "latitude": 35.07342,
+      "longitude": 69.33249
+    }
+  ]
+}

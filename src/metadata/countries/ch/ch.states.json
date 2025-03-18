@@ -1,0 +1,292 @@
+{
+  "countryId": 2658434,
+  "countryCode": "CH",
+  "states": [
+    {
+      "id": 2661876,
+      "name": "Aargau",
+      "nativeName": "Kanton Aargau",
+      "code": "CH-AG",
+      "internalCode": "AG",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "latitude": 47.39557,
+      "longitude": 8.17214
+    },
+    {
+      "id": 2661739,
+      "name": "Appenzell Ausserrhoden",
+      "nativeName": "Kanton Appenzell Ausserrhoden",
+      "code": "CH-AR",
+      "internalCode": "AR",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "latitude": 47.36293,
+      "longitude": 9.28283
+    },
+    {
+      "id": 2661741,
+      "name": "Appenzell Innerrhoden",
+      "nativeName": "Kanton Appenzell Innerrhoden",
+      "code": "CH-AI",
+      "internalCode": "AI",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "latitude": 47.31262,
+      "longitude": 9.40562
+    },
+    {
+      "id": 2661602,
+      "name": "Basel-City",
+      "nativeName": "Kanton Basel-Stadt",
+      "code": "CH-BS",
+      "internalCode": "BS",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "latitude": 47.5669,
+      "longitude": 7.61519
+    },
+    {
+      "id": 2661603,
+      "name": "Basel-Landschaft",
+      "nativeName": "Kanton Basel-Landschaft",
+      "code": "CH-BL",
+      "internalCode": "BL",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "latitude": 47.50438,
+      "longitude": 7.70444
+    },
+    {
+      "id": 2661551,
+      "name": "Bern",
+      "nativeName": "Canton de Berne",
+      "code": "CH-BE",
+      "internalCode": "BE",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "latitude": 46.87251,
+      "longitude": 7.59563
+    },
+    {
+      "id": 2660717,
+      "name": "Fribourg",
+      "nativeName": "Canton de Fribourg",
+      "code": "CH-FR",
+      "internalCode": "FR",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "latitude": 46.70834,
+      "longitude": 7.10311
+    },
+    {
+      "id": 2660645,
+      "name": "Geneva",
+      "nativeName": "Canton de Genève",
+      "code": "CH-GE",
+      "internalCode": "GE",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "latitude": 46.19673,
+      "longitude": 6.11044
+    },
+    {
+      "id": 2660593,
+      "name": "Glarus",
+      "nativeName": "Kanton Glarus",
+      "code": "CH-GL",
+      "internalCode": "GL",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "latitude": 46.97559,
+      "longitude": 9.07318
+    },
+    {
+      "id": 2660522,
+      "name": "Grisons",
+      "nativeName": "Kanton Graubünden",
+      "code": "CH-GR",
+      "internalCode": "GR",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "latitude": 46.6587,
+      "longitude": 9.62296
+    },
+    {
+      "id": 2660207,
+      "name": "Jura",
+      "nativeName": "Canton de Jura",
+      "code": "CH-JU",
+      "internalCode": "JU",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "latitude": 47.37266,
+      "longitude": 7.16802
+    },
+    {
+      "id": 2659810,
+      "name": "Lucerne",
+      "nativeName": "Kanton Luzern",
+      "code": "CH-LU",
+      "internalCode": "LU",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "latitude": 47.16667,
+      "longitude": 8.16667
+    },
+    {
+      "id": 2659495,
+      "name": "Neuchâtel",
+      "nativeName": "Canton de Neuchâtel",
+      "code": "CH-NE",
+      "internalCode": "NE",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "latitude": 46.99087,
+      "longitude": 6.79767
+    },
+    {
+      "id": 2659471,
+      "name": "Nidwalden",
+      "nativeName": "Kanton Nidwalden",
+      "code": "CH-NW",
+      "internalCode": "NW",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "latitude": 46.92739,
+      "longitude": 8.41028
+    },
+    {
+      "id": 2659315,
+      "name": "Obwalden",
+      "nativeName": "Kanton Obwalden",
+      "code": "CH-OW",
+      "internalCode": "OW",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "latitude": 46.85867,
+      "longitude": 8.20984
+    },
+    {
+      "id": 2658821,
+      "name": "Saint Gallen",
+      "nativeName": "Kanton St. Gallen",
+      "code": "CH-SG",
+      "internalCode": "SG",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "latitude": 47.25,
+      "longitude": 9.25
+    },
+    {
+      "id": 2658760,
+      "name": "Schaffhausen",
+      "nativeName": "Kanton Schaffhausen",
+      "code": "CH-SH",
+      "internalCode": "SH",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "latitude": 47.71034,
+      "longitude": 8.63388
+    },
+    {
+      "id": 2658664,
+      "name": "Schwyz",
+      "nativeName": "Kanton Schwyz",
+      "code": "CH-SZ",
+      "internalCode": "SZ",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "latitude": 47.0405,
+      "longitude": 8.74101
+    },
+    {
+      "id": 2658563,
+      "name": "Solothurn",
+      "nativeName": "Kanton Solothurn",
+      "code": "CH-SO",
+      "internalCode": "SO",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "latitude": 47.21071,
+      "longitude": 7.52048
+    },
+    {
+      "id": 2658372,
+      "name": "Thurgau",
+      "nativeName": "Kanton Thurgau",
+      "code": "CH-TG",
+      "internalCode": "TG",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "latitude": 47.5562,
+      "longitude": 9.07686
+    },
+    {
+      "id": 2658370,
+      "name": "Ticino",
+      "nativeName": "Cantone Ticino",
+      "code": "CH-TI",
+      "internalCode": "TI",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "latitude": 46.28455,
+      "longitude": 8.79065
+    },
+    {
+      "id": 2658226,
+      "name": "Uri",
+      "nativeName": "Kanton Uri",
+      "code": "CH-UR",
+      "internalCode": "UR",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "latitude": 46.7847,
+      "longitude": 8.64175
+    },
+    {
+      "id": 2658205,
+      "name": "Valais",
+      "nativeName": "Canton du Valais",
+      "code": "CH-VS",
+      "internalCode": "VS",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "latitude": 46.22925,
+      "longitude": 7.45972
+    },
+    {
+      "id": 2658182,
+      "name": "Vaud",
+      "nativeName": "Canton de Vaud",
+      "code": "CH-VD",
+      "internalCode": "VD",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "latitude": 46.61671,
+      "longitude": 6.64496
+    },
+    {
+      "id": 2657907,
+      "name": "Zug",
+      "nativeName": "Kanton Zug",
+      "code": "CH-ZG",
+      "internalCode": "ZG",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "latitude": 47.15886,
+      "longitude": 8.53866
+    },
+    {
+      "id": 2657895,
+      "name": "Zurich",
+      "nativeName": "Kanton Zürich",
+      "code": "CH-ZH",
+      "internalCode": "ZH",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "latitude": 47.41667,
+      "longitude": 8.66667
+    }
+  ]
+}

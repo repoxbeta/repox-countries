@@ -1,0 +1,73 @@
+{
+  "stateId": 7628341,
+  "stateCode": "LV-056",
+  "countryCode": "LV",
+  "cities": [
+    {
+      "id": 11352737,
+      "name": "Jersikas pagasts",
+      "nativeName": "Jersikas pagasts",
+      "code": "LV-056-11352737",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-056",
+      "latitude": 56.27184,
+      "longitude": 26.24433
+    },
+    {
+      "id": 11352738,
+      "name": "Līvāni",
+      "nativeName": "Līvāni",
+      "code": "LV-056-11352738",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-056",
+      "latitude": 56.35586,
+      "longitude": 26.17884
+    },
+    {
+      "id": 11352739,
+      "name": "Rožupes pagasts",
+      "nativeName": "Rožupes pagasts",
+      "code": "LV-056-11352739",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-056",
+      "latitude": 56.36671,
+      "longitude": 26.34096
+    },
+    {
+      "id": 11352732,
+      "name": "Rudzātu pagasts",
+      "nativeName": "Rudzātu pagasts",
+      "code": "LV-056-11352732",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-056",
+      "latitude": 56.43761,
+      "longitude": 26.47861
+    },
+    {
+      "id": 11352653,
+      "name": "Sutru pagasts",
+      "nativeName": "Sutru pagasts",
+      "code": "LV-056-11352653",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-056",
+      "latitude": 56.30612,
+      "longitude": 26.50228
+    },
+    {
+      "id": 11352736,
+      "name": "Turku pagasts",
+      "nativeName": "Turku pagasts",
+      "code": "LV-056-11352736",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-056",
+      "latitude": 56.44682,
+      "longitude": 26.23892
+    }
+  ]
+}

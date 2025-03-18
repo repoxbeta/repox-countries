@@ -1,0 +1,62 @@
+{
+  "stateId": 3181042,
+  "stateCode": "IT-72",
+  "countryCode": "IT",
+  "cities": [
+    {
+      "id": 3172391,
+      "name": "Naples",
+      "nativeName": "Napoli",
+      "code": "IT-72-3172391",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-72",
+      "latitude": 40.88333,
+      "longitude": 14.41667
+    },
+    {
+      "id": 3182649,
+      "name": "Province of Avellino",
+      "nativeName": "Provincia di Avellino",
+      "code": "IT-72-3182649",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-72",
+      "latitude": 40.98333,
+      "longitude": 15.15
+    },
+    {
+      "id": 3182178,
+      "name": "Province of Benevento",
+      "nativeName": "Provincia di Benevento",
+      "code": "IT-72-3182178",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-72",
+      "latitude": 41.21792,
+      "longitude": 14.7464
+    },
+    {
+      "id": 3179865,
+      "name": "Province of Caserta",
+      "nativeName": "Provincia di Caserta",
+      "code": "IT-72-3179865",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-72",
+      "latitude": 41.23333,
+      "longitude": 14.16667
+    },
+    {
+      "id": 3168670,
+      "name": "Province of Salerno",
+      "nativeName": "Provincia di Salerno",
+      "code": "IT-72-3168670",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-72",
+      "latitude": 40.45,
+      "longitude": 15.26667
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "stateId": 3143188,
+  "stateCode": "NO-01",
+  "countryCode": "NO",
+  "cities": [
+    {
+      "id": 3162957,
+      "name": "Aremark",
+      "nativeName": "Aremark",
+      "code": "NO-01-3162957",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-01",
+      "latitude": 59.22198,
+      "longitude": 11.69582
+    },
+    {
+      "id": 6453392,
+      "name": "Fredrikstad",
+      "nativeName": "Fredrikstad",
+      "code": "NO-01-6453392",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-01",
+      "latitude": 59.21759,
+      "longitude": 10.93787
+    },
+    {
+      "id": 6453395,
+      "name": "Halden",
+      "nativeName": "Halden",
+      "code": "NO-01-6453395",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-01",
+      "latitude": 59.12258,
+      "longitude": 11.38709
+    },
+    {
+      "id": 3151309,
+      "name": "Hvaler",
+      "nativeName": "Hvaler",
+      "code": "NO-01-3151309",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-01",
+      "latitude": 59.02809,
+      "longitude": 11.0311
+    },
+    {
+      "id": 12110620,
+      "name": "Indre Østfold",
+      "nativeName": "Indre Østfold",
+      "code": "NO-01-12110620",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-01",
+      "latitude": 59.59654,
+      "longitude": 11.21635
+    },
+    {
+      "id": 6453380,
+      "name": "Marker",
+      "nativeName": "Marker",
+      "code": "NO-01-6453380",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-01",
+      "latitude": 59.47952,
+      "longitude": 11.65917
+    },
+    {
+      "id": 6453384,
+      "name": "Moss",
+      "nativeName": "Moss",
+      "code": "NO-01-6453384",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-01",
+      "latitude": 59.43436,
+      "longitude": 10.65968
+    },
+    {
+      "id": 3142518,
+      "name": "Rakkestad",
+      "nativeName": "Rakkestad",
+      "code": "NO-01-3142518",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-01",
+      "latitude": 59.42822,
+      "longitude": 11.3435
+    },
+    {
+      "id": 3142567,
+      "name": "Råde",
+      "nativeName": "Råde",
+      "code": "NO-01-3142567",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-01",
+      "latitude": 59.35162,
+      "longitude": 10.87135
+    },
+    {
+      "id": 6453388,
+      "name": "Sarpsborg",
+      "nativeName": "Sarpsborg",
+      "code": "NO-01-6453388",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-01",
+      "latitude": 59.28148,
+      "longitude": 11.11167
+    },
+    {
+      "id": 3139014,
+      "name": "Skiptvet",
+      "nativeName": "Skiptvet",
+      "code": "NO-01-3139014",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-01",
+      "latitude": 59.47751,
+      "longitude": 11.16171
+    },
+    {
+      "id": 6453385,
+      "name": "Våler",
+      "nativeName": "Våler",
+      "code": "NO-01-6453385",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "stateCode": "NO-01",
+      "latitude": 59.4887,
+      "longitude": 10.86551
+    }
+  ]
+}

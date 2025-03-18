@@ -1,0 +1,205 @@
+{
+  "stateId": 1153668,
+  "stateCode": "TH-57",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 1611196,
+      "name": "Chiang Khong",
+      "nativeName": "Amphoe Chiang Khong",
+      "code": "TH-57-1611196",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-57",
+      "latitude": 20.13587,
+      "longitude": 100.36527
+    },
+    {
+      "id": 1611186,
+      "name": "Chiang Saen",
+      "nativeName": "Amphoe Chiang Saen",
+      "code": "TH-57-1611186",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-57",
+      "latitude": 20.23572,
+      "longitude": 100.15537
+    },
+    {
+      "id": 7325690,
+      "name": "Doi Luang",
+      "nativeName": "Amphoe Doi Luang",
+      "code": "TH-57-7325690",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-57",
+      "latitude": 20.14496,
+      "longitude": 100.15712
+    },
+    {
+      "id": 7382204,
+      "name": "Khun Tan",
+      "nativeName": "Amphoe Khun Tan",
+      "code": "TH-57-7382204",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-57",
+      "latitude": 19.86481,
+      "longitude": 100.28731
+    },
+    {
+      "id": 1152226,
+      "name": "Mae Chan",
+      "nativeName": "Amphoe Mae Chan",
+      "code": "TH-57-1152226",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-57",
+      "latitude": 20.1991,
+      "longitude": 99.88468
+    },
+    {
+      "id": 7322940,
+      "name": "Mae Fa Luang",
+      "nativeName": "Amphoe Mae Fa Luang",
+      "code": "TH-57-7322940",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-57",
+      "latitude": 20.22228,
+      "longitude": 99.64147
+    },
+    {
+      "id": 7421325,
+      "name": "Mae Lao",
+      "nativeName": "Amphoe Mae Lao",
+      "code": "TH-57-7421325",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-57",
+      "latitude": 19.77223,
+      "longitude": 99.71128
+    },
+    {
+      "id": 1152193,
+      "name": "Mae Sai",
+      "nativeName": "Amphoe Mae Sai",
+      "code": "TH-57-1152193",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-57",
+      "latitude": 20.365,
+      "longitude": 99.92604
+    },
+    {
+      "id": 1152185,
+      "name": "Mae Suai",
+      "nativeName": "Amphoe Mae Suai",
+      "code": "TH-57-1152185",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-57",
+      "latitude": 19.69037,
+      "longitude": 99.48459
+    },
+    {
+      "id": 1151999,
+      "name": "Mueang Chiang Rai",
+      "nativeName": "Amphoe Mueang Chiang Rai",
+      "code": "TH-57-1151999",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-57",
+      "latitude": 19.90824,
+      "longitude": 99.77299
+    },
+    {
+      "id": 1116329,
+      "name": "Pa Daet",
+      "nativeName": "Amphoe Pa Daet",
+      "code": "TH-57-1116329",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-57",
+      "latitude": 19.50643,
+      "longitude": 99.97615
+    },
+    {
+      "id": 1151476,
+      "name": "Phan",
+      "nativeName": "Amphoe Phan",
+      "code": "TH-57-1151476",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-57",
+      "latitude": 19.5745,
+      "longitude": 99.77299
+    },
+    {
+      "id": 7382782,
+      "name": "Phaya Mengrai",
+      "nativeName": "Amphoe Phaya Mengrai",
+      "code": "TH-57-7382782",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-57",
+      "latitude": 19.8732,
+      "longitude": 100.16257
+    },
+    {
+      "id": 1605408,
+      "name": "Thoeng",
+      "nativeName": "Amphoe Thoeng",
+      "code": "TH-57-1605408",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-57",
+      "latitude": 19.6765,
+      "longitude": 100.20095
+    },
+    {
+      "id": 7420283,
+      "name": "Wiang Chai",
+      "nativeName": "Amphoe Wiang Chai",
+      "code": "TH-57-7420283",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-57",
+      "latitude": 19.8636,
+      "longitude": 100.00065
+    },
+    {
+      "id": 7325689,
+      "name": "Wiang Chiang Rung",
+      "nativeName": "Amphoe Wiang Chiang Rung",
+      "code": "TH-57-7325689",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-57",
+      "latitude": 20.02208,
+      "longitude": 100.07472
+    },
+    {
+      "id": 7325780,
+      "name": "Wiang Kaen",
+      "nativeName": "Amphoe Wiang Kaen",
+      "code": "TH-57-7325780",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-57",
+      "latitude": 20.00874,
+      "longitude": 100.48641
+    },
+    {
+      "id": 1149880,
+      "name": "Wiang Pa Pao",
+      "nativeName": "Amphoe Wiang Pa Pao",
+      "code": "TH-57-1149880",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-57",
+      "latitude": 19.3046,
+      "longitude": 99.44925
+    }
+  ]
+}

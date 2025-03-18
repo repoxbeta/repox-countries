@@ -1,0 +1,51 @@
+{
+  "stateId": 3339578,
+  "stateCode": "CZ-72",
+  "countryCode": "CZ",
+  "cities": [
+    {
+      "id": 3072648,
+      "name": "Kroměříž District",
+      "nativeName": "Okres Kroměříž",
+      "code": "CZ-72-3072648",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-72",
+      "latitude": 49.33333,
+      "longitude": 17.5
+    },
+    {
+      "id": 3063738,
+      "name": "Uherské Hradiště District",
+      "nativeName": "Okres Uherské Hradiště",
+      "code": "CZ-72-3063738",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-72",
+      "latitude": 49.01667,
+      "longitude": 17.55
+    },
+    {
+      "id": 3062338,
+      "name": "Vsetín District",
+      "nativeName": "Okres Vsetín",
+      "code": "CZ-72-3062338",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-72",
+      "latitude": 49.36667,
+      "longitude": 18.08333
+    },
+    {
+      "id": 3076093,
+      "name": "Zlín District",
+      "nativeName": "Okres Zlín",
+      "code": "CZ-72-3076093",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-72",
+      "latitude": 49.21667,
+      "longitude": 17.78333
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "stateId": 4568924,
+  "stateCode": "PR-147",
+  "countryCode": "PR",
+  "cities": [
+    {
+      "id": 7268396,
+      "name": "Florida Barrio",
+      "nativeName": "Florida Barrio",
+      "code": "PR-147-7268396",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-147",
+      "latitude": 18.13495,
+      "longitude": -65.46265
+    },
+    {
+      "id": 7268495,
+      "name": "Isabel Segunda",
+      "nativeName": "Isabel Segunda",
+      "code": "PR-147-7268495",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-147",
+      "latitude": 18.14721,
+      "longitude": -65.44282
+    },
+    {
+      "id": 7268570,
+      "name": "Llave Barrio",
+      "nativeName": "Llave Barrio",
+      "code": "PR-147-7268570",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-147",
+      "latitude": 18.09566,
+      "longitude": -65.52347
+    },
+    {
+      "id": 7268684,
+      "name": "Mosquito Barrio",
+      "nativeName": "Mosquito Barrio",
+      "code": "PR-147-7268684",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-147",
+      "latitude": 18.1257,
+      "longitude": -65.51938
+    },
+    {
+      "id": 7268825,
+      "name": "Puerto Diablo Barrio",
+      "nativeName": "Puerto Diablo Barrio",
+      "code": "PR-147-7268825",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-147",
+      "latitude": 18.13848,
+      "longitude": -65.35538
+    },
+    {
+      "id": 7268826,
+      "name": "Puerto Ferro Barrio",
+      "nativeName": "Puerto Ferro Barrio",
+      "code": "PR-147-7268826",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-147",
+      "latitude": 18.1161,
+      "longitude": -65.41757
+    },
+    {
+      "id": 7268829,
+      "name": "Puerto Real Barrio",
+      "nativeName": "Puerto Real Barrio",
+      "code": "PR-147-7268829",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-147",
+      "latitude": 18.10603,
+      "longitude": -65.46942
+    },
+    {
+      "id": 7268836,
+      "name": "Punta Arenas Barrio",
+      "nativeName": "Punta Arenas Barrio",
+      "code": "PR-147-7268836",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-147",
+      "latitude": 18.1063,
+      "longitude": -65.56038
+    }
+  ]
+}

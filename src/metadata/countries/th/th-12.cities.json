@@ -1,0 +1,73 @@
+{
+  "stateId": 1608132,
+  "stateCode": "TH-12",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 1619601,
+      "name": "Bang Bua Thong",
+      "nativeName": "Amphoe Bang Bua Thong",
+      "code": "TH-12-1619601",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-12",
+      "latitude": 13.92641,
+      "longitude": 100.3936
+    },
+    {
+      "id": 1619433,
+      "name": "Bang Kruai",
+      "nativeName": "Amphoe Bang Kruai",
+      "code": "TH-12-1619433",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-12",
+      "latitude": 13.80249,
+      "longitude": 100.41525
+    },
+    {
+      "id": 1619197,
+      "name": "Bang Yai",
+      "nativeName": "Amphoe Bang Yai",
+      "code": "TH-12-1619197",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-12",
+      "latitude": 13.85385,
+      "longitude": 100.37318
+    },
+    {
+      "id": 1608640,
+      "name": "Mueang Nonthaburi",
+      "nativeName": "Amphoe Mueang Nonthaburi",
+      "code": "TH-12-1608640",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-12",
+      "latitude": 13.85581,
+      "longitude": 100.49264
+    },
+    {
+      "id": 1608047,
+      "name": "Pak Kret",
+      "nativeName": "Amphoe Pak Kret",
+      "code": "TH-12-1608047",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-12",
+      "latitude": 13.91626,
+      "longitude": 100.50397
+    },
+    {
+      "id": 1606836,
+      "name": "Sai Noi",
+      "nativeName": "Amphoe Sai Noi",
+      "code": "TH-12-1606836",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-12",
+      "latitude": 14.00627,
+      "longitude": 100.31072
+    }
+  ]
+}

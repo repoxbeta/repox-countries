@@ -1,0 +1,95 @@
+{
+  "stateId": 205828,
+  "stateCode": "CD-SA",
+  "countryCode": "CD",
+  "cities": [
+    {
+      "id": 12278084,
+      "name": "Bena-Dibele",
+      "nativeName": "Bena-Dibele",
+      "code": "CD-SA-12278084",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-SA",
+      "latitude": -4.22625,
+      "longitude": 22.90896
+    },
+    {
+      "id": 12278071,
+      "name": "Katako-Kombe",
+      "nativeName": "Katako-Kombe",
+      "code": "CD-SA-12278071",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-SA",
+      "latitude": -3.28891,
+      "longitude": 24.39813
+    },
+    {
+      "id": 12278019,
+      "name": "Kole",
+      "nativeName": "Kole",
+      "code": "CD-SA-12278019",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-SA",
+      "latitude": -3.62124,
+      "longitude": 22.60714
+    },
+    {
+      "id": 12278168,
+      "name": "Lodja",
+      "nativeName": "Lodja",
+      "code": "CD-SA-12278168",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-SA",
+      "latitude": -3.5622,
+      "longitude": 23.45213
+    },
+    {
+      "id": 12278100,
+      "name": "Lomela",
+      "nativeName": "Lomela",
+      "code": "CD-SA-12278100",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-SA",
+      "latitude": -2.332,
+      "longitude": 23.30315
+    },
+    {
+      "id": 12278102,
+      "name": "Lubefu",
+      "nativeName": "Lubefu",
+      "code": "CD-SA-12278102",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-SA",
+      "latitude": -4.68606,
+      "longitude": 24.32277
+    },
+    {
+      "id": 12278110,
+      "name": "Lusambo",
+      "nativeName": "Lusambo",
+      "code": "CD-SA-12278110",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-SA",
+      "latitude": -5.00298,
+      "longitude": 23.57836
+    },
+    {
+      "id": 12278147,
+      "name": "Tshumbe",
+      "nativeName": "Tshumbe",
+      "code": "CD-SA-12278147",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-SA",
+      "latitude": -4.04604,
+      "longitude": 22.6968
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "stateId": 2397466,
+  "stateCode": "GA-4",
+  "countryCode": "GA",
+  "cities": [
+    {
+      "id": 11996065,
+      "name": "Boumi-Louetsi",
+      "nativeName": "Boumi-Louetsi",
+      "code": "GA-4-11996065",
+      "countryId": 2400553,
+      "countryCode": "GA",
+      "stateCode": "GA-4",
+      "latitude": -1.9923,
+      "longitude": 11.85407
+    },
+    {
+      "id": 8260628,
+      "name": "Dola Department",
+      "nativeName": "Dola Department",
+      "code": "GA-4-8260628",
+      "countryId": 2400553,
+      "countryCode": "GA",
+      "stateCode": "GA-4",
+      "latitude": -2.349,
+      "longitude": 11.362
+    },
+    {
+      "id": 7870328,
+      "name": "Douya-Onoye Department",
+      "nativeName": "Douya-Onoye Department",
+      "code": "GA-4-7870328",
+      "countryId": 2400553,
+      "countryCode": "GA",
+      "stateCode": "GA-4",
+      "latitude": -1.69,
+      "longitude": 11.105
+    },
+    {
+      "id": 11996064,
+      "name": "Louetsi-Bibaka",
+      "nativeName": "Louetsi-Bibaka",
+      "code": "GA-4-11996064",
+      "countryId": 2400553,
+      "countryCode": "GA",
+      "stateCode": "GA-4",
+      "latitude": -2.17333,
+      "longitude": 12.28667
+    },
+    {
+      "id": 8260629,
+      "name": "Louetsi-Wano Department",
+      "nativeName": "Louetsi-Wano Department",
+      "code": "GA-4-8260629",
+      "countryId": 2400553,
+      "countryCode": "GA",
+      "stateCode": "GA-4",
+      "latitude": -2.18,
+      "longitude": 11.516
+    },
+    {
+      "id": 11996076,
+      "name": "Mougalaba",
+      "nativeName": "Mougalaba",
+      "code": "GA-4-11996076",
+      "countryId": 2400553,
+      "countryCode": "GA",
+      "stateCode": "GA-4",
+      "latitude": -2.07753,
+      "longitude": 10.74991
+    },
+    {
+      "id": 7870330,
+      "name": "Ndolou Department",
+      "nativeName": "Ndolou Department",
+      "code": "GA-4-7870330",
+      "countryId": 2400553,
+      "countryCode": "GA",
+      "stateCode": "GA-4",
+      "latitude": -1.526,
+      "longitude": 10.266
+    },
+    {
+      "id": 7870428,
+      "name": "Ogoulou Department",
+      "nativeName": "Ogoulou Department",
+      "code": "GA-4-7870428",
+      "countryId": 2400553,
+      "countryCode": "GA",
+      "stateCode": "GA-4",
+      "latitude": -1.407,
+      "longitude": 11.517
+    },
+    {
+      "id": 8260610,
+      "name": "Tsamba-Magotsi Department",
+      "nativeName": "Tsamba-Magotsi Department",
+      "code": "GA-4-8260610",
+      "countryId": 2400553,
+      "countryCode": "GA",
+      "stateCode": "GA-4",
+      "latitude": -1.16,
+      "longitude": 10.71
+    }
+  ]
+}

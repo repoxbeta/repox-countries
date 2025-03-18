@@ -1,0 +1,40 @@
+{
+  "stateId": 4035434,
+  "stateCode": "WS-AA",
+  "countryCode": "WS",
+  "cities": [
+    {
+      "id": 7669209,
+      "name": "Aana Alofi I",
+      "nativeName": "Aana Alofi I",
+      "code": "WS-AA-7669209",
+      "countryId": 4034894,
+      "countryCode": "WS",
+      "stateCode": "WS-AA",
+      "latitude": -13.84777,
+      "longitude": -171.92411
+    },
+    {
+      "id": 7669210,
+      "name": "Aana Alofi II",
+      "nativeName": "Aana Alofi II",
+      "code": "WS-AA-7669210",
+      "countryId": 4034894,
+      "countryCode": "WS",
+      "stateCode": "WS-AA",
+      "latitude": -13.8543,
+      "longitude": -171.94997
+    },
+    {
+      "id": 7669212,
+      "name": "Aana Alofi III",
+      "nativeName": "Aana Alofi III",
+      "code": "WS-AA-7669212",
+      "countryId": 4034894,
+      "countryCode": "WS",
+      "stateCode": "WS-AA",
+      "latitude": -13.85262,
+      "longitude": -171.99071
+    }
+  ]
+}

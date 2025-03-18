@@ -1,0 +1,84 @@
+{
+  "stateId": 865732,
+  "stateCode": "AL-03",
+  "countryCode": "AL",
+  "cities": [
+    {
+      "id": 10944381,
+      "name": "Bashkia Belsh",
+      "nativeName": "Bashkia Belsh",
+      "code": "AL-03-10944381",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-03",
+      "latitude": 40.93144,
+      "longitude": 19.88369
+    },
+    {
+      "id": 10944382,
+      "name": "Bashkia Cërrik",
+      "nativeName": "Bashkia Cërrik",
+      "code": "AL-03-10944382",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-03",
+      "latitude": 40.97552,
+      "longitude": 19.99759
+    },
+    {
+      "id": 10944380,
+      "name": "Bashkia Elbasan",
+      "nativeName": "Bashkia Elbasan",
+      "code": "AL-03-10944380",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-03",
+      "latitude": 41.10412,
+      "longitude": 20.09679
+    },
+    {
+      "id": 10944383,
+      "name": "Bashkia Gramsh",
+      "nativeName": "Bashkia Gramsh",
+      "code": "AL-03-10944383",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-03",
+      "latitude": 40.84694,
+      "longitude": 20.2364
+    },
+    {
+      "id": 10944384,
+      "name": "Bashkia Librazhd",
+      "nativeName": "Bashkia Librazhd",
+      "code": "AL-03-10944384",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-03",
+      "latitude": 41.22903,
+      "longitude": 20.35397
+    },
+    {
+      "id": 10944385,
+      "name": "Bashkia Peqin",
+      "nativeName": "Bashkia Peqin",
+      "code": "AL-03-10944385",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-03",
+      "latitude": 41.07105,
+      "longitude": 19.80654
+    },
+    {
+      "id": 10944386,
+      "name": "Bashkia Prrenjas",
+      "nativeName": "Bashkia Prrenjas",
+      "code": "AL-03-10944386",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-03",
+      "latitude": 41.05635,
+      "longitude": 20.44214
+    }
+  ]
+}

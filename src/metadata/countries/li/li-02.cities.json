@@ -1,0 +1,40 @@
+{
+  "stateId": 3042069,
+  "stateCode": "LI-02",
+  "countryCode": "LI",
+  "cities": [
+    {
+      "id": 3042068,
+      "name": "Eschen",
+      "nativeName": "Eschen",
+      "code": "LI-02-3042068",
+      "countryId": 3042058,
+      "countryCode": "LI",
+      "stateCode": "LI-02",
+      "latitude": 47.21071,
+      "longitude": 9.52223
+    },
+    {
+      "id": 10367031,
+      "name": "Berg",
+      "nativeName": "Berg",
+      "code": "LI-02-10367031",
+      "countryId": 3042058,
+      "countryCode": "LI",
+      "stateCode": "LI-02",
+      "latitude": 47.22307,
+      "longitude": 9.53871
+    },
+    {
+      "id": 3042052,
+      "name": "Nendeln",
+      "nativeName": "Nendeln",
+      "code": "LI-02-3042052",
+      "countryId": 3042058,
+      "countryCode": "LI",
+      "stateCode": "LI-02",
+      "latitude": 47.19846,
+      "longitude": 9.543
+    }
+  ]
+}

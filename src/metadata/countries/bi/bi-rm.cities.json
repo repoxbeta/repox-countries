@@ -1,0 +1,62 @@
+{
+  "stateId": 11184798,
+  "stateCode": "BI-RM",
+  "countryCode": "BI",
+  "cities": [
+    {
+      "id": 9171803,
+      "name": "Bugarama",
+      "nativeName": "Bugarama",
+      "code": "BI-RM-9171803",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-RM",
+      "latitude": -3.69048,
+      "longitude": 29.40041
+    },
+    {
+      "id": 7670592,
+      "name": "Buyengero",
+      "nativeName": "Buyengero",
+      "code": "BI-RM-7670592",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-RM",
+      "latitude": -3.85041,
+      "longitude": 29.52747
+    },
+    {
+      "id": 9881326,
+      "name": "Commune of Burambi",
+      "nativeName": "Commune of Burambi",
+      "code": "BI-RM-9881326",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-RM",
+      "latitude": -3.81722,
+      "longitude": 29.37778
+    },
+    {
+      "id": 9158023,
+      "name": "Commune of Rumonge",
+      "nativeName": "Commune of Rumonge",
+      "code": "BI-RM-9158023",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-RM",
+      "latitude": -3.96667,
+      "longitude": 29.43333
+    },
+    {
+      "id": 7670606,
+      "name": "Muhuta",
+      "nativeName": "Muhuta",
+      "code": "BI-RM-7670606",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-RM",
+      "latitude": -3.62233,
+      "longitude": 29.41828
+    }
+  ]
+}

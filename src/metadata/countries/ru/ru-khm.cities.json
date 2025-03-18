@@ -1,0 +1,282 @@
+{
+  "stateId": 1503773,
+  "stateCode": "RU-KHM",
+  "countryCode": "RU",
+  "cities": [
+    {
+      "id": 12625191,
+      "name": "Beloyarsky District",
+      "nativeName": "Beloyarsky District",
+      "code": "RU-KHM-12625191",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KHM",
+      "latitude": 63.7088,
+      "longitude": 66.66666
+    },
+    {
+      "id": 12640018,
+      "name": "Beryozovsky District",
+      "nativeName": "Beryozovsky District",
+      "code": "RU-KHM-12640018",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KHM",
+      "latitude": 63.93672,
+      "longitude": 65.03937
+    },
+    {
+      "id": 13043420,
+      "name": "Gorodskoy Okrug Nefteyugansk",
+      "nativeName": "Gorodskoy Okrug Nefteyugansk",
+      "code": "RU-KHM-13043420",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KHM",
+      "latitude": 61.10032,
+      "longitude": 72.56225
+    },
+    {
+      "id": 13043425,
+      "name": "Gorodskoy Okrug Nizhnevartovsk",
+      "nativeName": "Gorodskoy Okrug Nizhnevartovsk",
+      "code": "RU-KHM-13043425",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KHM",
+      "latitude": 60.93091,
+      "longitude": 76.55958
+    },
+    {
+      "id": 13043419,
+      "name": "Gorodskoy Okrug Surgut",
+      "nativeName": "Gorodskoy Okrug Surgut",
+      "code": "RU-KHM-13043419",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KHM",
+      "latitude": 61.29442,
+      "longitude": 73.51131
+    },
+    {
+      "id": 12625169,
+      "name": "Khanty-Mansiysk Urban Okrug",
+      "nativeName": "Khanty-Mansiysk Urban Okrug",
+      "code": "RU-KHM-12625169",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KHM",
+      "latitude": 61.00485,
+      "longitude": 69.02287
+    },
+    {
+      "id": 12625180,
+      "name": "Khanty-Mansiysky District",
+      "nativeName": "Khanty-Mansiysky District",
+      "code": "RU-KHM-12625180",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KHM",
+      "latitude": 61.00562,
+      "longitude": 69.02996
+    },
+    {
+      "id": 12625173,
+      "name": "Kogalym Urban District",
+      "nativeName": "Kogalym Urban District",
+      "code": "RU-KHM-12625173",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KHM",
+      "latitude": 62.25813,
+      "longitude": 74.48339
+    },
+    {
+      "id": 1502699,
+      "name": "Kondinsky District",
+      "nativeName": "Kondinsky District",
+      "code": "RU-KHM-1502699",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KHM",
+      "latitude": 60,
+      "longitude": 66
+    },
+    {
+      "id": 12625186,
+      "name": "Langepas",
+      "nativeName": "Langepas",
+      "code": "RU-KHM-12625186",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KHM",
+      "latitude": 61.25532,
+      "longitude": 75.1848
+    },
+    {
+      "id": 12625188,
+      "name": "Megion",
+      "nativeName": "Megion",
+      "code": "RU-KHM-12625188",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KHM",
+      "latitude": 61.03204,
+      "longitude": 76.09149
+    },
+    {
+      "id": 12625190,
+      "name": "Nefteyugans Urban District",
+      "nativeName": "Nefteyugans Urban District",
+      "code": "RU-KHM-12625190",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KHM",
+      "latitude": 61.10633,
+      "longitude": 72.57919
+    },
+    {
+      "id": 12625175,
+      "name": "Nefteyugansky District",
+      "nativeName": "Nefteyugansky District",
+      "code": "RU-KHM-12625175",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KHM",
+      "latitude": 61.08442,
+      "longitude": 72.61832
+    },
+    {
+      "id": 12625178,
+      "name": "Nizhnevarto Urban District",
+      "nativeName": "Nizhnevarto Urban District",
+      "code": "RU-KHM-12625178",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KHM",
+      "latitude": 60.95467,
+      "longitude": 76.54527
+    },
+    {
+      "id": 1497542,
+      "name": "Nizhnevartovsky District",
+      "nativeName": "Nizhnevartovsky District",
+      "code": "RU-KHM-1497542",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KHM",
+      "latitude": 61.66667,
+      "longitude": 81
+    },
+    {
+      "id": 12625171,
+      "name": "Nyagan Urban District",
+      "nativeName": "Nyagan Urban District",
+      "code": "RU-KHM-12625171",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KHM",
+      "latitude": 62.13666,
+      "longitude": 65.39965
+    },
+    {
+      "id": 12640019,
+      "name": "Oktyabrsky District",
+      "nativeName": "Oktyabrsky District",
+      "code": "RU-KHM-12640019",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KHM",
+      "latitude": 62.45704,
+      "longitude": 66.03631
+    },
+    {
+      "id": 12625184,
+      "name": "Pokachi Urban District",
+      "nativeName": "Pokachi Urban District",
+      "code": "RU-KHM-12625184",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KHM",
+      "latitude": 61.71637,
+      "longitude": 75.35859
+    },
+    {
+      "id": 12625192,
+      "name": "Pyt-Yakh",
+      "nativeName": "Pyt-Yakh",
+      "code": "RU-KHM-12625192",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KHM",
+      "latitude": 60.74963,
+      "longitude": 72.83235
+    },
+    {
+      "id": 12625187,
+      "name": "Raduzhny Urban District",
+      "nativeName": "Raduzhny Urban District",
+      "code": "RU-KHM-12625187",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KHM",
+      "latitude": 62.09911,
+      "longitude": 77.45598
+    },
+    {
+      "id": 1491226,
+      "name": "Sovetsky District",
+      "nativeName": "Sovetsky District",
+      "code": "RU-KHM-1491226",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KHM",
+      "latitude": 61.41667,
+      "longitude": 63.5
+    },
+    {
+      "id": 12625164,
+      "name": "Surgut District",
+      "nativeName": "Surgut District",
+      "code": "RU-KHM-12625164",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KHM",
+      "latitude": 61.24367,
+      "longitude": 73.38275
+    },
+    {
+      "id": 1490620,
+      "name": "Surgutsky District",
+      "nativeName": "Surgutsky District",
+      "code": "RU-KHM-1490620",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KHM",
+      "latitude": 61,
+      "longitude": 74
+    },
+    {
+      "id": 12625189,
+      "name": "Urai Urban District",
+      "nativeName": "Urai Urban District",
+      "code": "RU-KHM-12625189",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KHM",
+      "latitude": 60.12252,
+      "longitude": 64.79088
+    },
+    {
+      "id": 12625163,
+      "name": "Yugorsk District",
+      "nativeName": "Yugorsk District",
+      "code": "RU-KHM-12625163",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KHM",
+      "latitude": 61.30561,
+      "longitude": 63.34393
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "stateId": 7602866,
+  "stateCode": "TD-BO",
+  "countryCode": "TD",
+  "cities": [
+    {
+      "id": 12186862,
+      "name": "Borkou",
+      "nativeName": "Borkou",
+      "code": "TD-BO-12186862",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-BO",
+      "latitude": 17.08095,
+      "longitude": 19.90589
+    },
+    {
+      "id": 12186863,
+      "name": "Borkou-Yala",
+      "nativeName": "Borkou-Yala",
+      "code": "TD-BO-12186863",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-BO",
+      "latitude": 18.40284,
+      "longitude": 18.39738
+    },
+    {
+      "id": 12186865,
+      "name": "Emi-Koussi",
+      "nativeName": "Emi-Koussi",
+      "code": "TD-BO-12186865",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-BO",
+      "latitude": 20.36159,
+      "longitude": 18.14312
+    },
+    {
+      "id": 12186859,
+      "name": "Gouro",
+      "nativeName": "Gouro",
+      "code": "TD-BO-12186859",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-BO",
+      "latitude": 19.53033,
+      "longitude": 19.62077
+    },
+    {
+      "id": 12186864,
+      "name": "Kouba",
+      "nativeName": "Kouba",
+      "code": "TD-BO-12186864",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-BO",
+      "latitude": 15.70289,
+      "longitude": 18.27523
+    }
+  ]
+}

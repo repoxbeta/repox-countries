@@ -1,0 +1,29 @@
+{
+  "stateId": 3345304,
+  "stateCode": "SM-06",
+  "countryCode": "SM",
+  "cities": [
+    {
+      "id": 3181793,
+      "name": "Borgo Maggiore",
+      "nativeName": "Borgo Maggiore",
+      "code": "SM-06-3181793",
+      "countryId": 3168068,
+      "countryCode": "SM",
+      "stateCode": "SM-06",
+      "latitude": 43.94193,
+      "longitude": 12.44738
+    },
+    {
+      "id": 8199073,
+      "name": "Cà Rigo",
+      "nativeName": "Cà Rigo",
+      "code": "SM-06-8199073",
+      "countryId": 3168068,
+      "countryCode": "SM",
+      "stateCode": "SM-06",
+      "latitude": 43.94278,
+      "longitude": 12.44548
+    }
+  ]
+}

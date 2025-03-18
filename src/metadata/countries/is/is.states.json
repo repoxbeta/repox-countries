@@ -1,0 +1,94 @@
+{
+  "countryId": 2629691,
+  "countryCode": "IS",
+  "states": [
+    {
+      "id": 3426182,
+      "name": "Capital Region",
+      "nativeName": "Höfuðborgarsvæði",
+      "code": "IS-1",
+      "internalCode": "1",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "latitude": 64.16667,
+      "longitude": -21.66667
+    },
+    {
+      "id": 3337405,
+      "name": "East",
+      "nativeName": "Austurland",
+      "code": "IS-7",
+      "internalCode": "7",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "latitude": 65,
+      "longitude": -15
+    },
+    {
+      "id": 3337404,
+      "name": "Northeast",
+      "nativeName": "Norðurland Eystra",
+      "code": "IS-6",
+      "internalCode": "6",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "latitude": 65.5,
+      "longitude": -17
+    },
+    {
+      "id": 3337403,
+      "name": "Northwest",
+      "nativeName": "Norðurland Vestra",
+      "code": "IS-5",
+      "internalCode": "5",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "latitude": 65.33333,
+      "longitude": -20
+    },
+    {
+      "id": 3337406,
+      "name": "South",
+      "nativeName": "Suðurland",
+      "code": "IS-8",
+      "internalCode": "8",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "latitude": 64,
+      "longitude": -19
+    },
+    {
+      "id": 3426183,
+      "name": "Southern Peninsula",
+      "nativeName": "Suðurnes",
+      "code": "IS-2",
+      "internalCode": "2",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "latitude": 63.91667,
+      "longitude": -22.25
+    },
+    {
+      "id": 3426184,
+      "name": "West",
+      "nativeName": "Vesturland",
+      "code": "IS-3",
+      "internalCode": "3",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "latitude": 64.75,
+      "longitude": -21.83333
+    },
+    {
+      "id": 3426185,
+      "name": "Westfjords",
+      "nativeName": "Vestfirðir",
+      "code": "IS-4",
+      "internalCode": "4",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "latitude": 65.66667,
+      "longitude": -22.5
+    }
+  ]
+}

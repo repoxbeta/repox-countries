@@ -1,0 +1,29 @@
+{
+  "stateId": 3573195,
+  "stateCode": "BM-HA",
+  "countryCode": "BM",
+  "cities": [
+    {
+      "id": 3573001,
+      "name": "Flatt’s Village",
+      "nativeName": "Flatt’s Village",
+      "code": "BM-HA-3573001",
+      "countryId": 3573345,
+      "countryCode": "BM",
+      "stateCode": "BM-HA",
+      "latitude": 32.32094,
+      "longitude": -64.74016
+    },
+    {
+      "id": 3573008,
+      "name": "Sunnyside",
+      "nativeName": "Sunnyside",
+      "code": "BM-HA-3573008",
+      "countryId": 3573345,
+      "countryCode": "BM",
+      "stateCode": "BM-HA",
+      "latitude": 32.32639,
+      "longitude": -64.74111
+    }
+  ]
+}

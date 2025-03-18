@@ -1,0 +1,238 @@
+{
+  "stateId": 858791,
+  "stateCode": "PL-28",
+  "countryCode": "PL",
+  "cities": [
+    {
+      "id": 7530798,
+      "name": "Bartoszyce County",
+      "nativeName": "Powiat bartoszycki",
+      "code": "PL-28-7530798",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-28",
+      "latitude": 54.21253,
+      "longitude": 20.74076
+    },
+    {
+      "id": 7530783,
+      "name": "Braniewo County",
+      "nativeName": "Powiat braniewski",
+      "code": "PL-28-7530783",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-28",
+      "latitude": 54.27782,
+      "longitude": 20.0063
+    },
+    {
+      "id": 7530936,
+      "name": "Działdowo County",
+      "nativeName": "Powiat działdowski",
+      "code": "PL-28-7530936",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-28",
+      "latitude": 53.28883,
+      "longitude": 20.04817
+    },
+    {
+      "id": 7531083,
+      "name": "Elbląg",
+      "nativeName": "Elbląg",
+      "code": "PL-28-7531083",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-28",
+      "latitude": 54.19882,
+      "longitude": 19.43443
+    },
+    {
+      "id": 7530784,
+      "name": "Elbląg County",
+      "nativeName": "Powiat elbląski",
+      "code": "PL-28-7530784",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-28",
+      "latitude": 54.15928,
+      "longitude": 19.63768
+    },
+    {
+      "id": 7531012,
+      "name": "Ełk County",
+      "nativeName": "Powiat ełcki",
+      "code": "PL-28-7531012",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-28",
+      "latitude": 53.81673,
+      "longitude": 22.40465
+    },
+    {
+      "id": 7530799,
+      "name": "Giżycko County",
+      "nativeName": "Powiat giżycki",
+      "code": "PL-28-7530799",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-28",
+      "latitude": 54.01808,
+      "longitude": 21.82191
+    },
+    {
+      "id": 7531014,
+      "name": "Gołdap County",
+      "nativeName": "Powiat gołdapski",
+      "code": "PL-28-7531014",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-28",
+      "latitude": 54.2609,
+      "longitude": 22.37192
+    },
+    {
+      "id": 7530937,
+      "name": "Iława County",
+      "nativeName": "Powiat iławski",
+      "code": "PL-28-7530937",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-28",
+      "latitude": 53.67477,
+      "longitude": 19.53792
+    },
+    {
+      "id": 7530860,
+      "name": "Kętrzyn County",
+      "nativeName": "Powiat kętrzyński",
+      "code": "PL-28-7530860",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-28",
+      "latitude": 54.13651,
+      "longitude": 21.31217
+    },
+    {
+      "id": 7530800,
+      "name": "Lidzbark County",
+      "nativeName": "Powiat lidzbarski",
+      "code": "PL-28-7530800",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-28",
+      "latitude": 54.10581,
+      "longitude": 20.38045
+    },
+    {
+      "id": 7531072,
+      "name": "Mrągowo County",
+      "nativeName": "Powiat mrągowski",
+      "code": "PL-28-7531072",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-28",
+      "latitude": 53.81063,
+      "longitude": 21.39758
+    },
+    {
+      "id": 7531000,
+      "name": "Nidzica County",
+      "nativeName": "Powiat nidzicki",
+      "code": "PL-28-7531000",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-28",
+      "latitude": 53.3724,
+      "longitude": 20.49858
+    },
+    {
+      "id": 7530938,
+      "name": "Nowe Miasto County",
+      "nativeName": "Powiat nowomiejski",
+      "code": "PL-28-7530938",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-28",
+      "latitude": 53.43572,
+      "longitude": 19.54662
+    },
+    {
+      "id": 7531013,
+      "name": "Olecko County",
+      "nativeName": "Powiat olecki",
+      "code": "PL-28-7531013",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-28",
+      "latitude": 54.05129,
+      "longitude": 22.41695
+    },
+    {
+      "id": 7530990,
+      "name": "Olsztyn",
+      "nativeName": "Olsztyn",
+      "code": "PL-28-7530990",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-28",
+      "latitude": 53.77657,
+      "longitude": 20.46657
+    },
+    {
+      "id": 6619358,
+      "name": "Olsztyn County",
+      "nativeName": "Powiat olsztyński",
+      "code": "PL-28-6619358",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-28",
+      "latitude": 53.72922,
+      "longitude": 20.56641
+    },
+    {
+      "id": 7530753,
+      "name": "Ostróda County",
+      "nativeName": "Powiat ostródzki",
+      "code": "PL-28-7530753",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-28",
+      "latitude": 53.72906,
+      "longitude": 19.9144
+    },
+    {
+      "id": 7531001,
+      "name": "Pisz County",
+      "nativeName": "Powiat piski",
+      "code": "PL-28-7531001",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-28",
+      "latitude": 53.68076,
+      "longitude": 21.85723
+    },
+    {
+      "id": 7530803,
+      "name": "Szczytno County",
+      "nativeName": "Powiat szczycieński",
+      "code": "PL-28-7530803",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-28",
+      "latitude": 53.54176,
+      "longitude": 21.07034
+    },
+    {
+      "id": 7530859,
+      "name": "Węgorzewo County",
+      "nativeName": "Powiat węgorzewski",
+      "code": "PL-28-7530859",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-28",
+      "latitude": 54.20728,
+      "longitude": 21.77861
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "stateId": 8030553,
+  "stateCode": "BS-NE",
+  "countryCode": "BS",
+  "cities": [
+    {
+      "id": 3572925,
+      "name": "Alice Town",
+      "nativeName": "Alice Town",
+      "code": "BS-NE-3572925",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-NE",
+      "latitude": 25.34604,
+      "longitude": -76.48531
+    },
+    {
+      "id": 3572544,
+      "name": "Current",
+      "nativeName": "Current",
+      "code": "BS-NE-3572544",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-NE",
+      "latitude": 25.408,
+      "longitude": -76.78397
+    },
+    {
+      "id": 3572541,
+      "name": "Current Island Settlement",
+      "nativeName": "Current Island Settlement",
+      "code": "BS-NE-3572541",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-NE",
+      "latitude": 25.34494,
+      "longitude": -76.81622
+    },
+    {
+      "id": 3572269,
+      "name": "Gregory Town",
+      "nativeName": "Gregory Town",
+      "code": "BS-NE-3572269",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-NE",
+      "latitude": 25.39086,
+      "longitude": -76.55715
+    },
+    {
+      "id": 3572135,
+      "name": "James Cistern",
+      "nativeName": "James Cistern",
+      "code": "BS-NE-3572135",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-NE",
+      "latitude": 25.32566,
+      "longitude": -76.36181
+    },
+    {
+      "id": 3572071,
+      "name": "Little Bay Settlement",
+      "nativeName": "Little Bay Settlement",
+      "code": "BS-NE-3572071",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-NE",
+      "latitude": 25.33333,
+      "longitude": -76.83333
+    },
+    {
+      "id": 3571985,
+      "name": "Lower Bogue",
+      "nativeName": "Lower Bogue",
+      "code": "BS-NE-3571985",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-NE",
+      "latitude": 25.46667,
+      "longitude": -76.71667
+    },
+    {
+      "id": 3571318,
+      "name": "The Bluff",
+      "nativeName": "The Bluff",
+      "code": "BS-NE-3571318",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-NE",
+      "latitude": 25.49907,
+      "longitude": -76.72337
+    },
+    {
+      "id": 3571275,
+      "name": "Upper Bogue",
+      "nativeName": "Upper Bogue",
+      "code": "BS-NE-3571275",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-NE",
+      "latitude": 25.45,
+      "longitude": -76.66667
+    }
+  ]
+}

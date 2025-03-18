@@ -1,0 +1,127 @@
+{
+  "countryId": 286963,
+  "countryCode": "OM",
+  "states": [
+    {
+      "id": 411735,
+      "name": "Ad Dakhiliyah",
+      "nativeName": "Muḩāfaz̧at ad Dākhilīyah",
+      "code": "OM-DA",
+      "internalCode": "DA",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "latitude": 22.5,
+      "longitude": 57.33333
+    },
+    {
+      "id": 411739,
+      "name": "Ad Dhahirah",
+      "nativeName": "Az̧ Z̧āhirah",
+      "code": "OM-ZA",
+      "internalCode": "ZA",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "latitude": 22.9,
+      "longitude": 55.95
+    },
+    {
+      "id": 8394434,
+      "name": "Al Batinah North",
+      "nativeName": "Al Batinah North Governorate",
+      "code": "OM-BS",
+      "internalCode": "BS",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "latitude": 24,
+      "longitude": 56.75
+    },
+    {
+      "id": 411736,
+      "name": "Al Batinah South",
+      "nativeName": "Al Batinah South Governorate",
+      "code": "OM-BJ",
+      "internalCode": "BJ",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "latitude": 23.45,
+      "longitude": 57.7
+    },
+    {
+      "id": 7110710,
+      "name": "Al Buraimi",
+      "nativeName": "Muḩāfaz̧at al Buraymī",
+      "code": "OM-BU",
+      "internalCode": "BU",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "latitude": 24.21667,
+      "longitude": 56.11667
+    },
+    {
+      "id": 411737,
+      "name": "Al Wusta Governorate",
+      "nativeName": "Muḩāfaz̧at al Wusţá",
+      "code": "OM-WU",
+      "internalCode": "WU",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "latitude": 20.16667,
+      "longitude": 56.61667
+    },
+    {
+      "id": 411742,
+      "name": "Dhofar",
+      "nativeName": "Dhofar Governorate",
+      "code": "OM-ZU",
+      "internalCode": "ZU",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "latitude": 18.48333,
+      "longitude": 54.18333
+    },
+    {
+      "id": 411741,
+      "name": "Musandam Governorate",
+      "nativeName": "Musandam",
+      "code": "OM-MU",
+      "internalCode": "MU",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "latitude": 26.03333,
+      "longitude": 56.3
+    },
+    {
+      "id": 411740,
+      "name": "Muscat",
+      "nativeName": "Muḩāfaz̧at Masqaţ",
+      "code": "OM-MA",
+      "internalCode": "MA",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "latitude": 23.5835,
+      "longitude": 58.40366
+    },
+    {
+      "id": 8394433,
+      "name": "Northeastern Governorate",
+      "nativeName": "Ash Sharqiyah North Governorate",
+      "code": "OM-SS",
+      "internalCode": "SS",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "latitude": 22.1,
+      "longitude": 58.43333
+    },
+    {
+      "id": 411738,
+      "name": "Southeastern Governorate",
+      "nativeName": "Ash Sharqiyah South",
+      "code": "OM-SJ",
+      "internalCode": "SJ",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "latitude": 21.65,
+      "longitude": 59.1
+    }
+  ]
+}

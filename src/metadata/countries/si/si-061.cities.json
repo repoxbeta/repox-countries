@@ -1,0 +1,150 @@
+{
+  "stateId": 3239318,
+  "stateCode": "SI-061",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3196357,
+      "name": "Bežigrad District",
+      "nativeName": "Opčina Ljubljana-Bežigrad",
+      "code": "SI-061-3196357",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-061",
+      "latitude": 46.08333,
+      "longitude": 14.53333
+    },
+    {
+      "id": 3196356,
+      "name": "Center District",
+      "nativeName": "Opština Ljubljana-Center",
+      "code": "SI-061-3196356",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-061",
+      "latitude": 46.05,
+      "longitude": 14.53333
+    },
+    {
+      "id": 9794375,
+      "name": "Dravlje District",
+      "nativeName": "Dravlje District",
+      "code": "SI-061-9794375",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-061",
+      "latitude": 46.0729,
+      "longitude": 14.44741
+    },
+    {
+      "id": 9794376,
+      "name": "Golovec District",
+      "nativeName": "Golovec District",
+      "code": "SI-061-9794376",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-061",
+      "latitude": 46.03969,
+      "longitude": 14.5507
+    },
+    {
+      "id": 9794377,
+      "name": "Jarše District",
+      "nativeName": "Jarše District",
+      "code": "SI-061-9794377",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-061",
+      "latitude": 46.07345,
+      "longitude": 14.55431
+    },
+    {
+      "id": 3196355,
+      "name": "Polje District",
+      "nativeName": "Opština Ljubljana-Moste-Polje",
+      "code": "SI-061-3196355",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-061",
+      "latitude": 46.06667,
+      "longitude": 14.61667
+    },
+    {
+      "id": 9794378,
+      "name": "Posavje District",
+      "nativeName": "Posavje District",
+      "code": "SI-061-9794378",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-061",
+      "latitude": 46.09412,
+      "longitude": 14.50539
+    },
+    {
+      "id": 9794379,
+      "name": "Rožnik District",
+      "nativeName": "Rožnik District",
+      "code": "SI-061-9794379",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-061",
+      "latitude": 46.05999,
+      "longitude": 14.46779
+    },
+    {
+      "id": 9794380,
+      "name": "Sostro District",
+      "nativeName": "Sostro District",
+      "code": "SI-061-9794380",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-061",
+      "latitude": 46.04341,
+      "longitude": 14.67293
+    },
+    {
+      "id": 9794384,
+      "name": "Trnovo",
+      "nativeName": "Trnovo District",
+      "code": "SI-061-9794384",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-061",
+      "latitude": 46.02412,
+      "longitude": 14.48891
+    },
+    {
+      "id": 9794386,
+      "name": "Vič District",
+      "nativeName": "Vič District",
+      "code": "SI-061-9794386",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-061",
+      "latitude": 46.00779,
+      "longitude": 14.46968
+    },
+    {
+      "id": 9794381,
+      "name": "Šentvid District",
+      "nativeName": "Šentvid District",
+      "code": "SI-061-9794381",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-061",
+      "latitude": 46.10559,
+      "longitude": 14.43329
+    },
+    {
+      "id": 9794382,
+      "name": "Šmarna Gora",
+      "nativeName": "Šmarna Gora District",
+      "code": "SI-061-9794382",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-061",
+      "latitude": 46.12499,
+      "longitude": 14.47037
+    }
+  ]
+}

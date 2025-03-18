@@ -1,0 +1,205 @@
+{
+  "stateId": 2597367,
+  "stateCode": "NG-YO",
+  "countryCode": "NG",
+  "cities": [
+    {
+      "id": 8659866,
+      "name": "Barde",
+      "nativeName": "Barde",
+      "code": "NG-YO-8659866",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-YO",
+      "latitude": 12.71613,
+      "longitude": 10.64338
+    },
+    {
+      "id": 7730050,
+      "name": "Borsari",
+      "nativeName": "Borsari",
+      "code": "NG-YO-7730050",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-YO",
+      "latitude": 12.69929,
+      "longitude": 11.42578
+    },
+    {
+      "id": 9485484,
+      "name": "Bursari Local Government Area",
+      "nativeName": "Bursari Local Government Area",
+      "code": "NG-YO-9485484",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-YO",
+      "latitude": 12.71578,
+      "longitude": 11.41272
+    },
+    {
+      "id": 8659870,
+      "name": "Damaturu",
+      "nativeName": "Damaturu",
+      "code": "NG-YO-8659870",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-YO",
+      "latitude": 11.78032,
+      "longitude": 11.97864
+    },
+    {
+      "id": 8659874,
+      "name": "Fika",
+      "nativeName": "Fika",
+      "code": "NG-YO-8659874",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-YO",
+      "latitude": 11.377,
+      "longitude": 11.23746
+    },
+    {
+      "id": 8659871,
+      "name": "Fune",
+      "nativeName": "Fune",
+      "code": "NG-YO-8659871",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-YO",
+      "latitude": 11.85212,
+      "longitude": 11.44862
+    },
+    {
+      "id": 8659867,
+      "name": "Geidam",
+      "nativeName": "Geidam",
+      "code": "NG-YO-8659867",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-YO",
+      "latitude": 12.65454,
+      "longitude": 12.06733
+    },
+    {
+      "id": 7730053,
+      "name": "Gujba",
+      "nativeName": "Gujba",
+      "code": "NG-YO-7730053",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-YO",
+      "latitude": 11.38333,
+      "longitude": 11.96667
+    },
+    {
+      "id": 7730056,
+      "name": "Gulani",
+      "nativeName": "Gulani",
+      "code": "NG-YO-7730056",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-YO",
+      "latitude": 11,
+      "longitude": 11.71667
+    },
+    {
+      "id": 8659868,
+      "name": "Jakusko",
+      "nativeName": "Jakusko",
+      "code": "NG-YO-8659868",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-YO",
+      "latitude": 12.45605,
+      "longitude": 10.91226
+    },
+    {
+      "id": 8659865,
+      "name": "Karasuwa",
+      "nativeName": "Karasuwa",
+      "code": "NG-YO-8659865",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-YO",
+      "latitude": 12.96284,
+      "longitude": 10.78345
+    },
+    {
+      "id": 8659861,
+      "name": "Machina",
+      "nativeName": "Machina",
+      "code": "NG-YO-8659861",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-YO",
+      "latitude": 13.04519,
+      "longitude": 9.98526
+    },
+    {
+      "id": 8659872,
+      "name": "Nangere",
+      "nativeName": "Nangere",
+      "code": "NG-YO-8659872",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-YO",
+      "latitude": 11.82044,
+      "longitude": 10.97139
+    },
+    {
+      "id": 8659862,
+      "name": "Nguru",
+      "nativeName": "Nguru",
+      "code": "NG-YO-8659862",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-YO",
+      "latitude": 12.97973,
+      "longitude": 10.39914
+    },
+    {
+      "id": 8659873,
+      "name": "Potiskum",
+      "nativeName": "Potiskum",
+      "code": "NG-YO-8659873",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-YO",
+      "latitude": 11.71064,
+      "longitude": 11.15721
+    },
+    {
+      "id": 8659869,
+      "name": "Tarmua",
+      "nativeName": "Tarmua",
+      "code": "NG-YO-8659869",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-YO",
+      "latitude": 12.17837,
+      "longitude": 11.80232
+    },
+    {
+      "id": 8659864,
+      "name": "Yunusari",
+      "nativeName": "Yunusari",
+      "code": "NG-YO-8659864",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-YO",
+      "latitude": 13.10432,
+      "longitude": 11.78648
+    },
+    {
+      "id": 8659863,
+      "name": "Yusufari",
+      "nativeName": "Yusufari",
+      "code": "NG-YO-8659863",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-YO",
+      "latitude": 13.22046,
+      "longitude": 10.8827
+    }
+  ]
+}

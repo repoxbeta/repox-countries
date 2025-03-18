@@ -1,0 +1,29 @@
+{
+  "stateId": 408665,
+  "stateCode": "SS-BN",
+  "countryCode": "SS",
+  "cities": [
+    {
+      "id": 9409700,
+      "name": "Aweil East County",
+      "nativeName": "Aweil East",
+      "code": "SS-BN-9409700",
+      "countryId": 7909807,
+      "countryCode": "SS",
+      "stateCode": "SS-BN",
+      "latitude": 9,
+      "longitude": 27.6
+    },
+    {
+      "id": 377888,
+      "name": "Mudīrīyat Baḩr al Ghazāl ash Sharqīyah",
+      "nativeName": "Mudīrīyat Baḩr al Ghazāl ash Sharqīyah",
+      "code": "SS-BN-377888",
+      "countryId": 7909807,
+      "countryCode": "SS",
+      "stateCode": "SS-BN",
+      "latitude": 9,
+      "longitude": 27.5
+    }
+  ]
+}

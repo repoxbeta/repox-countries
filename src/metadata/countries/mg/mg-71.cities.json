@@ -1,0 +1,62 @@
+{
+  "stateId": 7670842,
+  "stateCode": "MG-71",
+  "countryCode": "MG",
+  "cities": [
+    {
+      "id": 11926402,
+      "name": "Ambanja",
+      "nativeName": "Ambanja",
+      "code": "MG-71-11926402",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-71",
+      "latitude": -13.86948,
+      "longitude": 48.46558
+    },
+    {
+      "id": 11427437,
+      "name": "Ambilobe",
+      "nativeName": "Ambilobe",
+      "code": "MG-71-11427437",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-71",
+      "latitude": -13.20261,
+      "longitude": 49.05141
+    },
+    {
+      "id": 9534953,
+      "name": "Antsiranana I",
+      "nativeName": "Antsiranana I",
+      "code": "MG-71-9534953",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-71",
+      "latitude": -12.31049,
+      "longitude": 49.2778
+    },
+    {
+      "id": 9534954,
+      "name": "Antsiranana II",
+      "nativeName": "Antsiranana II",
+      "code": "MG-71-9534954",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-71",
+      "latitude": -12.46071,
+      "longitude": 49.23935
+    },
+    {
+      "id": 11072841,
+      "name": "Nosy Be",
+      "nativeName": "Nosy Be",
+      "code": "MG-71-11072841",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-71",
+      "latitude": -13.34196,
+      "longitude": 48.25779
+    }
+  ]
+}

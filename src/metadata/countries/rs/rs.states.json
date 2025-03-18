@@ -1,0 +1,28 @@
+{
+  "countryId": 6290252,
+  "countryCode": "RS",
+  "states": [
+    {
+      "id": 785958,
+      "name": "Central Serbia",
+      "nativeName": "Central Serbia",
+      "code": "RS-SE",
+      "internalCode": "",
+      "countryId": 6290252,
+      "countryCode": "RS",
+      "latitude": 44,
+      "longitude": 21
+    },
+    {
+      "id": 784272,
+      "name": "Vojvodina",
+      "nativeName": "Autonomna Pokrajina Vojvodina",
+      "code": "RS-VO",
+      "internalCode": "VO",
+      "countryId": 6290252,
+      "countryCode": "RS",
+      "latitude": 45,
+      "longitude": 20
+    }
+  ]
+}

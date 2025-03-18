@@ -1,0 +1,238 @@
+{
+  "stateId": 1559969,
+  "stateCode": "VN-22",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 1905058,
+      "name": "Anh Sơn District",
+      "nativeName": "Huyện Anh Sơn",
+      "code": "VN-22-1905058",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-22",
+      "latitude": 18.92902,
+      "longitude": 105.08294
+    },
+    {
+      "id": 1905059,
+      "name": "Con Cuông District",
+      "nativeName": "Huyện Con Cuông",
+      "code": "VN-22-1905059",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-22",
+      "latitude": 19.05757,
+      "longitude": 104.82034
+    },
+    {
+      "id": 1905054,
+      "name": "Diễn Châu District",
+      "nativeName": "Huyện Diễn Châu",
+      "code": "VN-22-1905054",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-22",
+      "latitude": 18.98892,
+      "longitude": 105.57625
+    },
+    {
+      "id": 1905050,
+      "name": "Hưng Nguyên District",
+      "nativeName": "Huyện Hưng Nguyên",
+      "code": "VN-22-1905050",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-22",
+      "latitude": 18.66514,
+      "longitude": 105.63058
+    },
+    {
+      "id": 1905067,
+      "name": "Kỳ Sơn District",
+      "nativeName": "Huyện Kỳ Sơn",
+      "code": "VN-22-1905067",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-22",
+      "latitude": 19.42397,
+      "longitude": 104.22199
+    },
+    {
+      "id": 1905051,
+      "name": "Nam Đàn District",
+      "nativeName": "Huyện Nam Đàn",
+      "code": "VN-22-1905051",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-22",
+      "latitude": 18.67041,
+      "longitude": 105.52575
+    },
+    {
+      "id": 1905052,
+      "name": "Nghi Lộc District",
+      "nativeName": "Huyện Nghi Lộc",
+      "code": "VN-22-1905052",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-22",
+      "latitude": 18.83131,
+      "longitude": 105.62411
+    },
+    {
+      "id": 1905062,
+      "name": "Nghĩa Đàn District",
+      "nativeName": "Huyện Nghĩa Đàn",
+      "code": "VN-22-1905062",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-22",
+      "latitude": 19.35957,
+      "longitude": 105.41031
+    },
+    {
+      "id": 1905065,
+      "name": "Quế Phong District",
+      "nativeName": "Huyện Quế Phong",
+      "code": "VN-22-1905065",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-22",
+      "latitude": 19.70177,
+      "longitude": 104.87913
+    },
+    {
+      "id": 1905064,
+      "name": "Quỳ Châu District",
+      "nativeName": "Huyện Quỳ Châu",
+      "code": "VN-22-1905064",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-22",
+      "latitude": 19.53567,
+      "longitude": 105.08831
+    },
+    {
+      "id": 1905063,
+      "name": "Quỳ Hợp District",
+      "nativeName": "Huyện Quỳ Hợp",
+      "code": "VN-22-1905063",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-22",
+      "latitude": 19.32514,
+      "longitude": 105.16009
+    },
+    {
+      "id": 1905061,
+      "name": "Quỳnh Lưu District",
+      "nativeName": "Huyện Quỳnh Lưu",
+      "code": "VN-22-1905061",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-22",
+      "latitude": 19.20274,
+      "longitude": 105.62623
+    },
+    {
+      "id": 1905057,
+      "name": "Thanh Chương District",
+      "nativeName": "Huyện Thanh Chương",
+      "code": "VN-22-1905057",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-22",
+      "latitude": 18.73929,
+      "longitude": 105.24053
+    },
+    {
+      "id": 1905049,
+      "name": "Thành Phố Vinh",
+      "nativeName": "Thành Phố Vinh",
+      "code": "VN-22-1905049",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-22",
+      "latitude": 18.69182,
+      "longitude": 105.68097
+    },
+    {
+      "id": 1905053,
+      "name": "Thị Xã Cửa Lò",
+      "nativeName": "Thị Xã Cửa Lò",
+      "code": "VN-22-1905053",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-22",
+      "latitude": 18.78672,
+      "longitude": 105.72512
+    },
+    {
+      "id": 8624083,
+      "name": "Thị Xã Hoàng Mai",
+      "nativeName": "Thị Xã Hoàng Mai",
+      "code": "VN-22-8624083",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-22",
+      "latitude": 19.26186,
+      "longitude": 105.70655
+    },
+    {
+      "id": 8624034,
+      "name": "Thị Xã Thái Hòa",
+      "nativeName": "Thị Xã Thái Hòa",
+      "code": "VN-22-8624034",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-22",
+      "latitude": 19.28464,
+      "longitude": 105.44759
+    },
+    {
+      "id": 1905060,
+      "name": "Tân Kỳ District",
+      "nativeName": "Huyện Tân Kỳ",
+      "code": "VN-22-1905060",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-22",
+      "latitude": 19.11045,
+      "longitude": 105.21111
+    },
+    {
+      "id": 1905066,
+      "name": "Tương Dương District",
+      "nativeName": "Huyện Tương Dương",
+      "code": "VN-22-1905066",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-22",
+      "latitude": 19.30979,
+      "longitude": 104.57788
+    },
+    {
+      "id": 1905055,
+      "name": "Yên Thành District",
+      "nativeName": "Huyện Yên Thành",
+      "code": "VN-22-1905055",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-22",
+      "latitude": 19.02724,
+      "longitude": 105.43649
+    },
+    {
+      "id": 1905056,
+      "name": "Đô Lương District",
+      "nativeName": "Huyện Đô Lương",
+      "code": "VN-22-1905056",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-22",
+      "latitude": 18.89259,
+      "longitude": 105.34027
+    }
+  ]
+}

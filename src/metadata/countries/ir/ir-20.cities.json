@@ -1,0 +1,95 @@
+{
+  "stateId": 116401,
+  "stateCode": "IR-20",
+  "countryCode": "IR",
+  "cities": [
+    {
+      "id": 124337,
+      "name": "Mahdishahr",
+      "nativeName": "Mahdishahr",
+      "code": "IR-20-124337",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-20",
+      "latitude": 35.70806,
+      "longitude": 53.35083
+    },
+    {
+      "id": 449569,
+      "name": "Shahrestān-e Dāmghān",
+      "nativeName": "Shahrestān-e Dāmghān",
+      "code": "IR-20-449569",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-20",
+      "latitude": 35.5,
+      "longitude": 54.33333
+    },
+    {
+      "id": 449572,
+      "name": "Shahrestān-e Garmsār",
+      "nativeName": "Shahrestān-e Garmsār",
+      "code": "IR-20-449572",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-20",
+      "latitude": 34.92583,
+      "longitude": 52.16297
+    },
+    {
+      "id": 9533331,
+      "name": "Shahrestān-e Mayāmey",
+      "nativeName": "Shahrestān-e Mayāmey",
+      "code": "IR-20-9533331",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-20",
+      "latitude": 36.61719,
+      "longitude": 56.06062
+    },
+    {
+      "id": 449570,
+      "name": "Shahrestān-e Semnān",
+      "nativeName": "Shahrestān-e Semnān",
+      "code": "IR-20-449570",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-20",
+      "latitude": 35.05193,
+      "longitude": 53.80126
+    },
+    {
+      "id": 449571,
+      "name": "Shahrestān-e Shāhrūd",
+      "nativeName": "Shahrestān-e Shāhrūd",
+      "code": "IR-20-449571",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-20",
+      "latitude": 35.44239,
+      "longitude": 55.60404
+    },
+    {
+      "id": 9533333,
+      "name": "Shahrestān-e Ārādān",
+      "nativeName": "Shahrestān-e Ārādān",
+      "code": "IR-20-9533333",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-20",
+      "latitude": 34.89958,
+      "longitude": 52.63352
+    },
+    {
+      "id": 9533334,
+      "name": "Sorkheh",
+      "nativeName": "Sorkheh",
+      "code": "IR-20-9533334",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-20",
+      "latitude": 34.9214,
+      "longitude": 53.14802
+    }
+  ]
+}

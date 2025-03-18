@@ -1,0 +1,29 @@
+{
+  "stateId": 3584767,
+  "stateCode": "SV-UN",
+  "countryCode": "SV",
+  "cities": [
+    {
+      "id": 12916948,
+      "name": "La Unión Norte",
+      "nativeName": "La Unión Norte",
+      "code": "SV-UN-12916948",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-UN",
+      "latitude": 13.70723,
+      "longitude": -87.84364
+    },
+    {
+      "id": 12954157,
+      "name": "Municipio de La Unión Sur",
+      "nativeName": "Municipio de La Unión Sur",
+      "code": "SV-UN-12954157",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-UN",
+      "latitude": 13.34783,
+      "longitude": -87.92814
+    }
+  ]
+}

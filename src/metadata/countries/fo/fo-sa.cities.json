@@ -1,0 +1,62 @@
+{
+  "stateId": 2614219,
+  "stateCode": "FO-SA",
+  "countryCode": "FO",
+  "cities": [
+    {
+      "id": 2619613,
+      "name": "Húsavík",
+      "nativeName": "Húsavík",
+      "code": "FO-SA-2619613",
+      "countryId": 2622320,
+      "countryCode": "FO",
+      "stateCode": "FO-SA",
+      "latitude": 61.81207,
+      "longitude": -6.68037
+    },
+    {
+      "id": 2614213,
+      "name": "Sandur",
+      "nativeName": "Sandur",
+      "code": "FO-SA-2614213",
+      "countryId": 2622320,
+      "countryCode": "FO",
+      "stateCode": "FO-SA",
+      "latitude": 61.84449,
+      "longitude": -6.80603
+    },
+    {
+      "id": 2613661,
+      "name": "Skopun",
+      "nativeName": "Skopun",
+      "code": "FO-SA-2613661",
+      "countryId": 2622320,
+      "countryCode": "FO",
+      "stateCode": "FO-SA",
+      "latitude": 61.90372,
+      "longitude": -6.88671
+    },
+    {
+      "id": 2613922,
+      "name": "Skálavík",
+      "nativeName": "Skálavík",
+      "code": "FO-SA-2613922",
+      "countryId": 2622320,
+      "countryCode": "FO",
+      "stateCode": "FO-SA",
+      "latitude": 61.83055,
+      "longitude": -6.67557
+    },
+    {
+      "id": 2613479,
+      "name": "Skúvoy",
+      "nativeName": "Skúvoy",
+      "code": "FO-SA-2613479",
+      "countryId": 2622320,
+      "countryCode": "FO",
+      "stateCode": "FO-SA",
+      "latitude": 61.76825,
+      "longitude": -6.82457
+    }
+  ]
+}

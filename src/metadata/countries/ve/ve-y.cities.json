@@ -1,0 +1,51 @@
+{
+  "stateId": 3644541,
+  "stateCode": "VE-Y",
+  "countryCode": "VE",
+  "cities": [
+    {
+      "id": 8131431,
+      "name": "Casacoima Municipality",
+      "nativeName": "Municipio Casacoima",
+      "code": "VE-Y-8131431",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-Y",
+      "latitude": 8.44011,
+      "longitude": -62.45968
+    },
+    {
+      "id": 3649210,
+      "name": "Municipio Antonio Díaz",
+      "nativeName": "Municipio Antonio Díaz",
+      "code": "VE-Y-3649210",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-Y",
+      "latitude": 8.5,
+      "longitude": -60.83333
+    },
+    {
+      "id": 8129232,
+      "name": "Pedernales Municipality",
+      "nativeName": "Municipio Pedernales",
+      "code": "VE-Y-8129232",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-Y",
+      "latitude": 9.96982,
+      "longitude": -62.25408
+    },
+    {
+      "id": 3625927,
+      "name": "Tucupita Municipality",
+      "nativeName": "Municipio Tucupita",
+      "code": "VE-Y-3625927",
+      "countryId": 3625428,
+      "countryCode": "VE",
+      "stateCode": "VE-Y",
+      "latitude": 9.30889,
+      "longitude": -61.7134
+    }
+  ]
+}

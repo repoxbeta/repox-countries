@@ -1,0 +1,84 @@
+{
+  "stateId": 300821,
+  "stateCode": "TR-56",
+  "countryCode": "TR",
+  "cities": [
+    {
+      "id": 8630839,
+      "name": "Baykan İlçesi",
+      "nativeName": "Baykan İlçesi",
+      "code": "TR-56-8630839",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-56",
+      "latitude": 38.16315,
+      "longitude": 41.78407
+    },
+    {
+      "id": 8630838,
+      "name": "Eruh",
+      "nativeName": "Eruh İlçesi",
+      "code": "TR-56-8630838",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-56",
+      "latitude": 37.74606,
+      "longitude": 42.17507
+    },
+    {
+      "id": 440906,
+      "name": "Kurtalan İlçesi",
+      "nativeName": "Kurtalan İlçesi",
+      "code": "TR-56-440906",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-56",
+      "latitude": 37.9244,
+      "longitude": 41.70083
+    },
+    {
+      "id": 438624,
+      "name": "Pervari İlçesi",
+      "nativeName": "Pervari İlçesi",
+      "code": "TR-56-438624",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-56",
+      "latitude": 37.87222,
+      "longitude": 42.57111
+    },
+    {
+      "id": 440907,
+      "name": "Siirt Merkez",
+      "nativeName": "Siirt Merkez",
+      "code": "TR-56-440907",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-56",
+      "latitude": 37.92028,
+      "longitude": 41.91472
+    },
+    {
+      "id": 438519,
+      "name": "Tillo İlçesi",
+      "nativeName": "Tillo İlçesi",
+      "code": "TR-56-438519",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-56",
+      "latitude": 37.94962,
+      "longitude": 42.01147
+    },
+    {
+      "id": 8630840,
+      "name": "Şirvan İlçesi",
+      "nativeName": "Şirvan İlçesi",
+      "code": "TR-56-8630840",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-56",
+      "latitude": 38.06289,
+      "longitude": 42.02778
+    }
+  ]
+}

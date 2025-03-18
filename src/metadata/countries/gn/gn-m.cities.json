@@ -1,0 +1,40 @@
+{
+  "stateId": 8335090,
+  "stateCode": "GN-M",
+  "countryCode": "GN",
+  "cities": [
+    {
+      "id": 2422377,
+      "name": "Dalaba",
+      "nativeName": "Dalaba",
+      "code": "GN-M-2422377",
+      "countryId": 2420477,
+      "countryCode": "GN",
+      "stateCode": "GN-M",
+      "latitude": 10.75,
+      "longitude": -12.3
+    },
+    {
+      "id": 2417831,
+      "name": "Mamou",
+      "nativeName": "Mamou Prefecture",
+      "code": "GN-M-2417831",
+      "countryId": 2420477,
+      "countryCode": "GN",
+      "stateCode": "GN-M",
+      "latitude": 10.459,
+      "longitude": -11.815
+    },
+    {
+      "id": 2416440,
+      "name": "Pita",
+      "nativeName": "Pita",
+      "code": "GN-M-2416440",
+      "countryId": 2420477,
+      "countryCode": "GN",
+      "stateCode": "GN-M",
+      "latitude": 10.83333,
+      "longitude": -12.58333
+    }
+  ]
+}

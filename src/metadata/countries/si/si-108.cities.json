@@ -1,0 +1,106 @@
+{
+  "stateId": 3239211,
+  "stateCode": "SI-108",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3191401,
+      "name": "Ruše",
+      "nativeName": "Ruše",
+      "code": "SI-108-3191401",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-108",
+      "latitude": 46.53944,
+      "longitude": 15.51583
+    },
+    {
+      "id": 8986914,
+      "name": "Bezena",
+      "nativeName": "Bezena",
+      "code": "SI-108-8986914",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-108",
+      "latitude": 46.54798,
+      "longitude": 15.53334
+    },
+    {
+      "id": 8989727,
+      "name": "Bistrica ob Dravi",
+      "nativeName": "Bistrica ob Dravi",
+      "code": "SI-108-8989727",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-108",
+      "latitude": 46.55419,
+      "longitude": 15.54855
+    },
+    {
+      "id": 3204043,
+      "name": "Bistrica pri Limbušu",
+      "nativeName": "Bistrica pri Limbušu",
+      "code": "SI-108-3204043",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-108",
+      "latitude": 46.55389,
+      "longitude": 15.55083
+    },
+    {
+      "id": 3196303,
+      "name": "Lobnica",
+      "nativeName": "Lobnica",
+      "code": "SI-108-3196303",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-108",
+      "latitude": 46.51667,
+      "longitude": 15.51667
+    },
+    {
+      "id": 8986995,
+      "name": "Log",
+      "nativeName": "Log",
+      "code": "SI-108-8986995",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-108",
+      "latitude": 46.5248,
+      "longitude": 15.54368
+    },
+    {
+      "id": 3196273,
+      "name": "Loka",
+      "nativeName": "Loka",
+      "code": "SI-108-3196273",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-108",
+      "latitude": 46.51667,
+      "longitude": 15.51667
+    },
+    {
+      "id": 3200874,
+      "name": "Fala",
+      "nativeName": "Fala",
+      "code": "SI-108-3200874",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-108",
+      "latitude": 46.54389,
+      "longitude": 15.44722
+    },
+    {
+      "id": 3190451,
+      "name": "Smolnik",
+      "nativeName": "Smolnik",
+      "code": "SI-108-3190451",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-108",
+      "latitude": 46.5225,
+      "longitude": 15.45417
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "stateId": 11281879,
+  "stateCode": "MA-06",
+  "countryCode": "MA",
+  "cities": [
+    {
+      "id": 2555517,
+      "name": "Benslimane Province",
+      "nativeName": "Benslimane",
+      "code": "MA-06-2555517",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-06",
+      "latitude": 33.5,
+      "longitude": -7.16667
+    },
+    {
+      "id": 11281973,
+      "name": "Berrechid Province",
+      "nativeName": "Berrechid Province",
+      "code": "MA-06-11281973",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-06",
+      "latitude": 33.26582,
+      "longitude": -7.58142
+    },
+    {
+      "id": 6547294,
+      "name": "Casablanca",
+      "nativeName": "Casablanca",
+      "code": "MA-06-6547294",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-06",
+      "latitude": 33.5884,
+      "longitude": -7.55785
+    },
+    {
+      "id": 2550076,
+      "name": "El-Jadida",
+      "nativeName": "El-Jadida",
+      "code": "MA-06-2550076",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-06",
+      "latitude": 32.9,
+      "longitude": -8.5
+    },
+    {
+      "id": 6547301,
+      "name": "Mohammedia",
+      "nativeName": "Mohammedia",
+      "code": "MA-06-6547301",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-06",
+      "latitude": 33.69,
+      "longitude": -7.4
+    },
+    {
+      "id": 6547303,
+      "name": "Médiouna Province",
+      "nativeName": "Mediouna",
+      "code": "MA-06-6547303",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-06",
+      "latitude": 33.52012,
+      "longitude": -7.5035
+    },
+    {
+      "id": 6547299,
+      "name": "Nouaceur Province",
+      "nativeName": "Nouaceur",
+      "code": "MA-06-6547299",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-06",
+      "latitude": 33.45839,
+      "longitude": -7.64726
+    },
+    {
+      "id": 2537405,
+      "name": "Settat Province",
+      "nativeName": "Settat Province",
+      "code": "MA-06-2537405",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-06",
+      "latitude": 33.08333,
+      "longitude": -7.41667
+    },
+    {
+      "id": 11282168,
+      "name": "Sidi Bennour Province",
+      "nativeName": "Sidi Bennour",
+      "code": "MA-06-11282168",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-06",
+      "latitude": 32.64896,
+      "longitude": -8.42686
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "stateId": 1327132,
+  "stateCode": "MM-14",
+  "countryCode": "MM",
+  "cities": [
+    {
+      "id": 11154014,
+      "name": "Falam",
+      "nativeName": "Falam",
+      "code": "MM-14-11154014",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-14",
+      "latitude": 23.42199,
+      "longitude": 93.71488
+    },
+    {
+      "id": 11154015,
+      "name": "Hakha",
+      "nativeName": "Hakha",
+      "code": "MM-14-11154015",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-14",
+      "latitude": 22.51244,
+      "longitude": 93.56355
+    },
+    {
+      "id": 11154016,
+      "name": "Mindat",
+      "nativeName": "Mindat",
+      "code": "MM-14-11154016",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-14",
+      "latitude": 21.48455,
+      "longitude": 93.39837
+    }
+  ]
+}

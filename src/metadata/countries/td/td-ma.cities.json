@@ -1,0 +1,40 @@
+{
+  "stateId": 7603252,
+  "stateCode": "TD-MA",
+  "countryCode": "TD",
+  "cities": [
+    {
+      "id": 12186535,
+      "name": "Goundi",
+      "nativeName": "Goundi",
+      "code": "TD-MA-12186535",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-MA",
+      "latitude": 9.41251,
+      "longitude": 17.37201
+    },
+    {
+      "id": 12186537,
+      "name": "La Moula",
+      "nativeName": "La Moula",
+      "code": "TD-MA-12186537",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-MA",
+      "latitude": 8.1679,
+      "longitude": 18.03629
+    },
+    {
+      "id": 12186536,
+      "name": "Taralnass",
+      "nativeName": "Taralnass",
+      "code": "TD-MA-12186536",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-MA",
+      "latitude": 9.04555,
+      "longitude": 17.27809
+    }
+  ]
+}

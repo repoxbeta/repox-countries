@@ -1,0 +1,50 @@
+{
+  "countryId": 2635167,
+  "countryCode": "GB",
+  "states": [
+    {
+      "id": 6269131,
+      "name": "England",
+      "nativeName": "England",
+      "code": "GB-ENG",
+      "internalCode": "ENG",
+      "countryId": 2635167,
+      "countryCode": "GB",
+      "latitude": 52.16045,
+      "longitude": -0.70312
+    },
+    {
+      "id": 2641364,
+      "name": "Northern Ireland",
+      "nativeName": "Northern Ireland",
+      "code": "GB-NIR",
+      "internalCode": "NIR",
+      "countryId": 2635167,
+      "countryCode": "GB",
+      "latitude": 54.5,
+      "longitude": -6.5
+    },
+    {
+      "id": 2638360,
+      "name": "Scotland",
+      "nativeName": "Scotland",
+      "code": "GB-SCT",
+      "internalCode": "SCT",
+      "countryId": 2635167,
+      "countryCode": "GB",
+      "latitude": 56,
+      "longitude": -4
+    },
+    {
+      "id": 2634895,
+      "name": "Wales",
+      "nativeName": "Wales",
+      "code": "GB-WLS",
+      "internalCode": "WLS",
+      "countryId": 2635167,
+      "countryCode": "GB",
+      "latitude": 52.5,
+      "longitude": -3.5
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "stateId": 3693525,
+  "stateCode": "PE-PIU",
+  "countryCode": "PE",
+  "cities": [
+    {
+      "id": 3699501,
+      "name": "Ayabaca Province",
+      "nativeName": "Provincia de Ayabaca",
+      "code": "PE-PIU-3699501",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-PIU",
+      "latitude": -4.71384,
+      "longitude": -79.80356
+    },
+    {
+      "id": 3696465,
+      "name": "Huancabamba Province",
+      "nativeName": "Provincia de Huancabamba",
+      "code": "PE-PIU-3696465",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-PIU",
+      "latitude": -5.4681,
+      "longitude": -79.51314
+    },
+    {
+      "id": 3694581,
+      "name": "Morropón Province",
+      "nativeName": "Provincia de Morropón",
+      "code": "PE-PIU-3694581",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-PIU",
+      "latitude": -5.2383,
+      "longitude": -80.00638
+    },
+    {
+      "id": 3694110,
+      "name": "Paita Province",
+      "nativeName": "Provincia de Paita",
+      "code": "PE-PIU-3694110",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-PIU",
+      "latitude": -5.10189,
+      "longitude": -81.09695
+    },
+    {
+      "id": 3693524,
+      "name": "Piura Province",
+      "nativeName": "Provincia de Piura",
+      "code": "PE-PIU-3693524",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-PIU",
+      "latitude": -5.21416,
+      "longitude": -80.40617
+    },
+    {
+      "id": 3691580,
+      "name": "Provincia de Talara",
+      "nativeName": "Provincia de Talara",
+      "code": "PE-PIU-3691580",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-PIU",
+      "latitude": -4.46346,
+      "longitude": -81.08759
+    },
+    {
+      "id": 8349569,
+      "name": "Sechura",
+      "nativeName": "Sechura",
+      "code": "PE-PIU-8349569",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-PIU",
+      "latitude": -5.87051,
+      "longitude": -80.67181
+    },
+    {
+      "id": 3691673,
+      "name": "Sullana Province",
+      "nativeName": "Provincia de Sullana",
+      "code": "PE-PIU-3691673",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-PIU",
+      "latitude": -4.57657,
+      "longitude": -80.63051
+    }
+  ]
+}

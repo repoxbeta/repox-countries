@@ -1,0 +1,40 @@
+{
+  "stateId": 3336903,
+  "stateCode": "ES-PV",
+  "countryCode": "ES",
+  "cities": [
+    {
+      "id": 3130717,
+      "name": "Araba / Álava",
+      "nativeName": "Araba / Álava",
+      "code": "ES-PV-3130717",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "stateCode": "ES-PV",
+      "latitude": 42.83333,
+      "longitude": -2.75
+    },
+    {
+      "id": 3104469,
+      "name": "Biscay",
+      "nativeName": "Bizkaia",
+      "code": "ES-PV-3104469",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "stateCode": "ES-PV",
+      "latitude": 43.25,
+      "longitude": -2.91667
+    },
+    {
+      "id": 3120935,
+      "name": "Gipuzkoa",
+      "nativeName": "Gipuzkoa",
+      "code": "ES-PV-3120935",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "stateCode": "ES-PV",
+      "latitude": 43.16667,
+      "longitude": -2.16667
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "stateId": 1905637,
+  "stateCode": "VN-63",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 1905642,
+      "name": "Bình Lục District",
+      "nativeName": "Huyện Bình Lục",
+      "code": "VN-63-1905642",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-63",
+      "latitude": 20.50126,
+      "longitude": 106.02959
+    },
+    {
+      "id": 1905639,
+      "name": "Duy Tiên District",
+      "nativeName": "Thị Xã Duy Tiên",
+      "code": "VN-63-1905639",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-63",
+      "latitude": 20.62803,
+      "longitude": 105.96193
+    },
+    {
+      "id": 1905640,
+      "name": "Kim Bảng District",
+      "nativeName": "Huyện Kim Bảng",
+      "code": "VN-63-1905640",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-63",
+      "latitude": 20.57254,
+      "longitude": 105.85043
+    },
+    {
+      "id": 1905643,
+      "name": "Lý Nhân District",
+      "nativeName": "Huyện Lý Nhân",
+      "code": "VN-63-1905643",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-63",
+      "latitude": 20.56422,
+      "longitude": 106.09455
+    },
+    {
+      "id": 1905641,
+      "name": "Thanh Liêm District",
+      "nativeName": "Huyện Thanh Liêm",
+      "code": "VN-63-1905641",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-63",
+      "latitude": 20.4471,
+      "longitude": 105.91702
+    },
+    {
+      "id": 1905638,
+      "name": "Thành Phố Phủ Lý",
+      "nativeName": "Thành Phố Phủ Lý",
+      "code": "VN-63-1905638",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-63",
+      "latitude": 20.54018,
+      "longitude": 105.91897
+    }
+  ]
+}

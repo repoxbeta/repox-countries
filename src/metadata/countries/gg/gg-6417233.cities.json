@@ -1,0 +1,62 @@
+{
+  "stateId": 6417233,
+  "stateCode": "GG-6417233",
+  "countryCode": "GG",
+  "cities": [
+    {
+      "id": 3042286,
+      "name": "St. Sampson",
+      "nativeName": "Saint Sampson",
+      "code": "GG-6417233-3042286",
+      "countryId": 3042362,
+      "countryCode": "GG",
+      "stateCode": "GG-6417233",
+      "latitude": 49.48389,
+      "longitude": -2.52333
+    },
+    {
+      "id": 6420668,
+      "name": "Braye du Valle",
+      "nativeName": "Braye du Valle",
+      "code": "GG-6417233-6420668",
+      "countryId": 3042362,
+      "countryCode": "GG",
+      "stateCode": "GG-6417233",
+      "latitude": 49.48722,
+      "longitude": -2.53528
+    },
+    {
+      "id": 6420675,
+      "name": "La Tonelle",
+      "nativeName": "La Tonelle",
+      "code": "GG-6417233-6420675",
+      "countryId": 3042362,
+      "countryCode": "GG",
+      "stateCode": "GG-6417233",
+      "latitude": 49.47417,
+      "longitude": -2.53056
+    },
+    {
+      "id": 6421847,
+      "name": "Le Vaugrat",
+      "nativeName": "Le Vaugrat",
+      "code": "GG-6417233-6421847",
+      "countryId": 3042362,
+      "countryCode": "GG",
+      "stateCode": "GG-6417233",
+      "latitude": 49.49056,
+      "longitude": -2.56111
+    },
+    {
+      "id": 6421846,
+      "name": "Rousse",
+      "nativeName": "Rousse",
+      "code": "GG-6417233-6421846",
+      "countryId": 3042362,
+      "countryCode": "GG",
+      "stateCode": "GG-6417233",
+      "latitude": 49.49694,
+      "longitude": -2.555
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "stateId": 695592,
+  "stateCode": "UA-56",
+  "countryCode": "UA",
+  "cities": [
+    {
+      "id": 9289934,
+      "name": "Dubenska Miskrada",
+      "nativeName": "Dubenska Miskrada",
+      "code": "UA-56-9289934",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-56",
+      "latitude": 50.40155,
+      "longitude": 25.74404
+    },
+    {
+      "id": 9289988,
+      "name": "Rivne",
+      "nativeName": "Rivne Raion",
+      "code": "UA-56-9289988",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-56",
+      "latitude": 50.613,
+      "longitude": 26.24588
+    },
+    {
+      "id": 694800,
+      "name": "Sarny Raion",
+      "nativeName": "Sarnenskyi Raion",
+      "code": "UA-56-694800",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-56",
+      "latitude": 51.43,
+      "longitude": 26.88
+    },
+    {
+      "id": 12189508,
+      "name": "Varaskyi Raion",
+      "nativeName": "Varaskyi Raion",
+      "code": "UA-56-12189508",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-56",
+      "latitude": 51.59,
+      "longitude": 26
+    }
+  ]
+}

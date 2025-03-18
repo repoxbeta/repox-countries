@@ -1,0 +1,40 @@
+{
+  "stateId": 7521316,
+  "stateCode": "IE-U",
+  "countryCode": "IE",
+  "cities": [
+    {
+      "id": 2965534,
+      "name": "Cavan",
+      "nativeName": "An Cabhán",
+      "code": "IE-U-2965534",
+      "countryId": 2963597,
+      "countryCode": "IE",
+      "stateCode": "IE-U",
+      "latitude": 53.91667,
+      "longitude": -7.25
+    },
+    {
+      "id": 2962567,
+      "name": "County Monaghan",
+      "nativeName": "County Monaghan",
+      "code": "IE-U-2962567",
+      "countryId": 2963597,
+      "countryCode": "IE",
+      "stateCode": "IE-U",
+      "latitude": 54.25,
+      "longitude": -7
+    },
+    {
+      "id": 2964751,
+      "name": "Donegal",
+      "nativeName": "County Donegal",
+      "code": "IE-U-2964751",
+      "countryId": 2963597,
+      "countryCode": "IE",
+      "stateCode": "IE-U",
+      "latitude": 54.91667,
+      "longitude": -8
+    }
+  ]
+}

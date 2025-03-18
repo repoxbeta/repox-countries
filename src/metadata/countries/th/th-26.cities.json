@@ -1,0 +1,51 @@
+{
+  "stateId": 1608538,
+  "stateCode": "TH-26",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 1616494,
+      "name": "Ban Na",
+      "nativeName": "Amphoe Ban Na",
+      "code": "TH-26-1616494",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-26",
+      "latitude": 14.26799,
+      "longitude": 101.06445
+    },
+    {
+      "id": 1608649,
+      "name": "Mueang Nakhon Nayok",
+      "nativeName": "Amphoe Mueang Nakhon Nayok",
+      "code": "TH-26-1608649",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-26",
+      "latitude": 14.2773,
+      "longitude": 101.23379
+    },
+    {
+      "id": 1608079,
+      "name": "Ongkharak",
+      "nativeName": "Amphoe Ongkharak",
+      "code": "TH-26-1608079",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-26",
+      "latitude": 14.07554,
+      "longitude": 101.00891
+    },
+    {
+      "id": 1608025,
+      "name": "Pak Phli",
+      "nativeName": "Amphoe Pak Phli",
+      "code": "TH-26-1608025",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-26",
+      "latitude": 14.22499,
+      "longitude": 101.34482
+    }
+  ]
+}

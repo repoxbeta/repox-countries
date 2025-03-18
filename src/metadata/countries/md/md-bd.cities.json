@@ -1,0 +1,29 @@
+{
+  "stateId": 861487,
+  "stateCode": "MD-BD",
+  "countryCode": "MD",
+  "cities": [
+    {
+      "id": 618577,
+      "name": "Tighina",
+      "nativeName": "Bender",
+      "code": "MD-BD-618577",
+      "countryId": 617790,
+      "countryCode": "MD",
+      "stateCode": "MD-BD",
+      "latitude": 46.83156,
+      "longitude": 29.47769
+    },
+    {
+      "id": 618198,
+      "name": "Gîsca",
+      "nativeName": "Gîsca",
+      "code": "MD-BD-618198",
+      "countryId": 617790,
+      "countryCode": "MD",
+      "stateCode": "MD-BD",
+      "latitude": 46.78156,
+      "longitude": 29.42826
+    }
+  ]
+}

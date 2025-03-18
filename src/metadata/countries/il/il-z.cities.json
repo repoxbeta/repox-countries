@@ -1,0 +1,62 @@
+{
+  "stateId": 294824,
+  "stateCode": "IL-Z",
+  "countryCode": "IL",
+  "cities": [
+    {
+      "id": 12046854,
+      "name": "Nafat HaGolan",
+      "nativeName": "Nafat HaGolan",
+      "code": "IL-Z-12046854",
+      "countryId": 294640,
+      "countryCode": "IL",
+      "stateCode": "IL-Z",
+      "latitude": 33.03333,
+      "longitude": 35.75
+    },
+    {
+      "id": 12046855,
+      "name": "Nefat Kinneret",
+      "nativeName": "Nefat Kinneret",
+      "code": "IL-Z-12046855",
+      "countryId": 294640,
+      "countryCode": "IL",
+      "stateCode": "IL-Z",
+      "latitude": 32.76667,
+      "longitude": 35.53333
+    },
+    {
+      "id": 12046853,
+      "name": "Nefat Tsefat",
+      "nativeName": "Nefat Tsefat",
+      "code": "IL-Z-12046853",
+      "countryId": 294640,
+      "countryCode": "IL",
+      "stateCode": "IL-Z",
+      "latitude": 33.05,
+      "longitude": 35.55
+    },
+    {
+      "id": 12046852,
+      "name": "Nefat Yizre‘el",
+      "nativeName": "Nefat Yizre‘el",
+      "code": "IL-Z-12046852",
+      "countryId": 294640,
+      "countryCode": "IL",
+      "stateCode": "IL-Z",
+      "latitude": 32.61667,
+      "longitude": 35.33333
+    },
+    {
+      "id": 295719,
+      "name": "‘Akko",
+      "nativeName": "‘Akko",
+      "code": "IL-Z-295719",
+      "countryId": 294640,
+      "countryCode": "IL",
+      "stateCode": "IL-Z",
+      "latitude": 32.95,
+      "longitude": 35.23333
+    }
+  ]
+}

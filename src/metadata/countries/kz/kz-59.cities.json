@@ -1,0 +1,260 @@
+{
+  "stateId": 1519367,
+  "stateCode": "KZ-59",
+  "countryCode": "KZ",
+  "cities": [
+    {
+      "id": 1518835,
+      "name": "Akkayin District",
+      "nativeName": "Akkayynskiy Rayon",
+      "code": "KZ-59-1518835",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-59",
+      "latitude": 54.5,
+      "longitude": 69.75
+    },
+    {
+      "id": 1526177,
+      "name": "Aryqbalyq Aūdany",
+      "nativeName": "Aryqbalyq Aūdany",
+      "code": "KZ-59-1526177",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-59",
+      "latitude": 52.83333,
+      "longitude": 68.25
+    },
+    {
+      "id": 1517412,
+      "name": "Ayyrtauskiy Rayon",
+      "nativeName": "Ayyrtauskiy Rayon",
+      "code": "KZ-59-1517412",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-59",
+      "latitude": 53.33333,
+      "longitude": 68
+    },
+    {
+      "id": 1524749,
+      "name": "Chkalov Aūdany",
+      "nativeName": "Chkalov Aūdany",
+      "code": "KZ-59-1524749",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-59",
+      "latitude": 53.66667,
+      "longitude": 70.5
+    },
+    {
+      "id": 1524766,
+      "name": "Chīstopol’e Aūdany",
+      "nativeName": "Chīstopol’e Aūdany",
+      "code": "KZ-59-1524766",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-59",
+      "latitude": 52.5,
+      "longitude": 67
+    },
+    {
+      "id": 1521352,
+      "name": "Esil District",
+      "nativeName": "Esil District",
+      "code": "KZ-59-1521352",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-59",
+      "latitude": 54.33333,
+      "longitude": 68.25
+    },
+    {
+      "id": 1521634,
+      "name": "Gabit Musirepov District",
+      "nativeName": "Rayon Imeni Gabita Musrepova",
+      "code": "KZ-59-1521634",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-59",
+      "latitude": 53,
+      "longitude": 66.5
+    },
+    {
+      "id": 1522808,
+      "name": "Kellerovka Aūdany",
+      "nativeName": "Kellerovka Aūdany",
+      "code": "KZ-59-1522808",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-59",
+      "latitude": 53.83333,
+      "longitude": 69.25
+    },
+    {
+      "id": 1525293,
+      "name": "Kyzylzhar District",
+      "nativeName": "Qyzylzhar Aūdany",
+      "code": "KZ-59-1525293",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-59",
+      "latitude": 54.66667,
+      "longitude": 68.75
+    },
+    {
+      "id": 1521375,
+      "name": "Lenīngrad Aūdany",
+      "nativeName": "Lenīngrad Aūdany",
+      "code": "KZ-59-1521375",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-59",
+      "latitude": 53.83333,
+      "longitude": 71.25
+    },
+    {
+      "id": 1525010,
+      "name": "Magzhan Zhumabaev District",
+      "nativeName": "Rayon Magzhana Zhumabayeva",
+      "code": "KZ-59-1525010",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-59",
+      "latitude": 55,
+      "longitude": 70.5
+    },
+    {
+      "id": 1521151,
+      "name": "Mamlyut District",
+      "nativeName": "Mamlyutskiy Rayon",
+      "code": "KZ-59-1521151",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-59",
+      "latitude": 54.83333,
+      "longitude": 68.25
+    },
+    {
+      "id": 1520854,
+      "name": "Moskovskiy Rayon",
+      "nativeName": "Moskovskiy Rayon",
+      "code": "KZ-59-1520854",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-59",
+      "latitude": 54.01667,
+      "longitude": 68.45
+    },
+    {
+      "id": 1520047,
+      "name": "Presnov Aūyldyq Okrūgi",
+      "nativeName": "Presnov Aūyldyq Okrūgi",
+      "code": "KZ-59-1520047",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-59",
+      "latitude": 54.66667,
+      "longitude": 67.16667
+    },
+    {
+      "id": 1521400,
+      "name": "Qyzyltū Aūdany",
+      "nativeName": "Qyzyltū Aūdany",
+      "code": "KZ-59-1521400",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-59",
+      "latitude": 53.5,
+      "longitude": 72.75
+    },
+    {
+      "id": 1519834,
+      "name": "Rūzaevka Aūdany",
+      "nativeName": "Rūzaevka Aūdany",
+      "code": "KZ-59-1519834",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-59",
+      "latitude": 53,
+      "longitude": 67
+    },
+    {
+      "id": 1519383,
+      "name": "Shal akyn District",
+      "nativeName": "Rayon Shal Akyna",
+      "code": "KZ-59-1519383",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-59",
+      "latitude": 53.83333,
+      "longitude": 67.5
+    },
+    {
+      "id": 1518912,
+      "name": "Sokolovka Aūdany",
+      "nativeName": "Sokolovka Aūdany",
+      "code": "KZ-59-1518912",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-59",
+      "latitude": 55.16667,
+      "longitude": 69.25
+    },
+    {
+      "id": 1522032,
+      "name": "Taiynsha District",
+      "nativeName": "Tayynshinskiy Rayon",
+      "code": "KZ-59-1522032",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-59",
+      "latitude": 54.00252,
+      "longitude": 70.00084
+    },
+    {
+      "id": 1518161,
+      "name": "Timiryazev District",
+      "nativeName": "Timiryazevskiy Rayon",
+      "code": "KZ-59-1518161",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-59",
+      "latitude": 53.83333,
+      "longitude": 67
+    },
+    {
+      "id": 1517502,
+      "name": "Ualikhanov District",
+      "nativeName": "Ūälīkhanov Aūdany",
+      "code": "KZ-59-1517502",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-59",
+      "latitude": 53.62591,
+      "longitude": 72.33536
+    },
+    {
+      "id": 1517353,
+      "name": "Vozvyshenka Aūdany",
+      "nativeName": "Vozvyshenka Aūdany",
+      "code": "KZ-59-1517353",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-59",
+      "latitude": 54.38333,
+      "longitude": 70.75
+    },
+    {
+      "id": 1524440,
+      "name": "Zhambylskiy Rayon",
+      "nativeName": "Zhambylskiy Rayon",
+      "code": "KZ-59-1524440",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-59",
+      "latitude": 54.33333,
+      "longitude": 66.5
+    }
+  ]
+}

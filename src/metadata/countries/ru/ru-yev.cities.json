@@ -1,0 +1,73 @@
+{
+  "stateId": 2026639,
+  "stateCode": "RU-YEV",
+  "countryCode": "RU",
+  "cities": [
+    {
+      "id": 12640249,
+      "name": "Birobidzhan",
+      "nativeName": "Birobidzhan",
+      "code": "RU-YEV-12640249",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-YEV",
+      "latitude": 48.78726,
+      "longitude": 132.93227
+    },
+    {
+      "id": 2026641,
+      "name": "Birobidzhanskiy Rayon",
+      "nativeName": "Birobidzhanskiy Rayon",
+      "code": "RU-YEV-2026641",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-YEV",
+      "latitude": 48.5,
+      "longitude": 132.75
+    },
+    {
+      "id": 2020845,
+      "name": "Leninskiy Rayon",
+      "nativeName": "Leninskiy Rayon",
+      "code": "RU-YEV-2020845",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-YEV",
+      "latitude": 48.16667,
+      "longitude": 132.25
+    },
+    {
+      "id": 2018720,
+      "name": "Obluchenskiy Rayon",
+      "nativeName": "Obluchenskiy Rayon",
+      "code": "RU-YEV-2018720",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-YEV",
+      "latitude": 49,
+      "longitude": 132
+    },
+    {
+      "id": 2018609,
+      "name": "Oktyabr’skiy Rayon",
+      "nativeName": "Oktyabr’skiy Rayon",
+      "code": "RU-YEV-2018609",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-YEV",
+      "latitude": 48.16667,
+      "longitude": 131.41667
+    },
+    {
+      "id": 2016411,
+      "name": "Smidovichskiy Rayon",
+      "nativeName": "Smidovichskiy Rayon",
+      "code": "RU-YEV-2016411",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-YEV",
+      "latitude": 48.5,
+      "longitude": 134
+    }
+  ]
+}

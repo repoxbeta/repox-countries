@@ -1,0 +1,183 @@
+{
+  "stateId": 2597366,
+  "stateCode": "NG-TA",
+  "countryCode": "NG",
+  "cities": [
+    {
+      "id": 8659776,
+      "name": "Ardo-Kola",
+      "nativeName": "Ardo-Kola",
+      "code": "NG-TA-8659776",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-TA",
+      "latitude": 8.80359,
+      "longitude": 11.16707
+    },
+    {
+      "id": 8659779,
+      "name": "Bali",
+      "nativeName": "Bali",
+      "code": "NG-TA-8659779",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-TA",
+      "latitude": 8.15541,
+      "longitude": 10.96853
+    },
+    {
+      "id": 8659781,
+      "name": "Donga",
+      "nativeName": "Donga",
+      "code": "NG-TA-8659781",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-TA",
+      "latitude": 7.59094,
+      "longitude": 10.2133
+    },
+    {
+      "id": 8659786,
+      "name": "Gashaka",
+      "nativeName": "Gashaka",
+      "code": "NG-TA-8659786",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-TA",
+      "latitude": 7.49945,
+      "longitude": 11.38896
+    },
+    {
+      "id": 8659778,
+      "name": "Gassol",
+      "nativeName": "Gassol",
+      "code": "NG-TA-8659778",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-TA",
+      "latitude": 8.47269,
+      "longitude": 10.5442
+    },
+    {
+      "id": 8659777,
+      "name": "Ibi",
+      "nativeName": "Ibi",
+      "code": "NG-TA-8659777",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-TA",
+      "latitude": 8.35088,
+      "longitude": 9.88731
+    },
+    {
+      "id": 8659775,
+      "name": "Jalingo",
+      "nativeName": "Jalingo",
+      "code": "NG-TA-8659775",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-TA",
+      "latitude": 8.9195,
+      "longitude": 11.32642
+    },
+    {
+      "id": 8659771,
+      "name": "Karim Lamido",
+      "nativeName": "Karim Lamido",
+      "code": "NG-TA-8659771",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-TA",
+      "latitude": 9.22208,
+      "longitude": 10.86536
+    },
+    {
+      "id": 8659784,
+      "name": "Kurmi",
+      "nativeName": "Kurmi",
+      "code": "NG-TA-8659784",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-TA",
+      "latitude": 7.28534,
+      "longitude": 10.58702
+    },
+    {
+      "id": 8659772,
+      "name": "Lau",
+      "nativeName": "Lau",
+      "code": "NG-TA-8659772",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-TA",
+      "latitude": 9.18704,
+      "longitude": 11.42011
+    },
+    {
+      "id": 8659785,
+      "name": "Sardauna",
+      "nativeName": "Sardauna",
+      "code": "NG-TA-8659785",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-TA",
+      "latitude": 6.87463,
+      "longitude": 11.21184
+    },
+    {
+      "id": 8659782,
+      "name": "Takum",
+      "nativeName": "Takum",
+      "code": "NG-TA-8659782",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-TA",
+      "latitude": 7.41158,
+      "longitude": 10.04478
+    },
+    {
+      "id": 8659783,
+      "name": "Ussa",
+      "nativeName": "Ussa",
+      "code": "NG-TA-8659783",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-TA",
+      "latitude": 7.0868,
+      "longitude": 10.03811
+    },
+    {
+      "id": 8659780,
+      "name": "Wukari",
+      "nativeName": "Wukari",
+      "code": "NG-TA-8659780",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-TA",
+      "latitude": 7.96327,
+      "longitude": 9.84767
+    },
+    {
+      "id": 8659774,
+      "name": "Yorro",
+      "nativeName": "Yorro",
+      "code": "NG-TA-8659774",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-TA",
+      "latitude": 8.9087,
+      "longitude": 11.48434
+    },
+    {
+      "id": 8659773,
+      "name": "Zing",
+      "nativeName": "Zing",
+      "code": "NG-TA-8659773",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-TA",
+      "latitude": 8.88339,
+      "longitude": 11.74517
+    }
+  ]
+}

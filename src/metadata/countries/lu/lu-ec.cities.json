@@ -1,0 +1,95 @@
+{
+  "stateId": 2960629,
+  "stateCode": "LU-EC",
+  "countryCode": "LU",
+  "cities": [
+    {
+      "id": 6693334,
+      "name": "Beaufort",
+      "nativeName": "Beaufort",
+      "code": "LU-EC-6693334",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-EC",
+      "latitude": 49.83583,
+      "longitude": 6.29167
+    },
+    {
+      "id": 6693335,
+      "name": "Bech",
+      "nativeName": "Bech",
+      "code": "LU-EC-6693335",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-EC",
+      "latitude": 49.74611,
+      "longitude": 6.36361
+    },
+    {
+      "id": 6693336,
+      "name": "Berdorf",
+      "nativeName": "Berdorf",
+      "code": "LU-EC-6693336",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-EC",
+      "latitude": 49.81361,
+      "longitude": 6.35028
+    },
+    {
+      "id": 6693337,
+      "name": "Consdorf",
+      "nativeName": "Consdorf",
+      "code": "LU-EC-6693337",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-EC",
+      "latitude": 49.77306,
+      "longitude": 6.33833
+    },
+    {
+      "id": 2960631,
+      "name": "Echternach",
+      "nativeName": "Echternach",
+      "code": "LU-EC-2960631",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-EC",
+      "latitude": 49.81307,
+      "longitude": 6.42185
+    },
+    {
+      "id": 6693338,
+      "name": "Mompach",
+      "nativeName": "Mompach",
+      "code": "LU-EC-6693338",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-EC",
+      "latitude": 49.74611,
+      "longitude": 6.465
+    },
+    {
+      "id": 6693339,
+      "name": "Rosport",
+      "nativeName": "Rosport",
+      "code": "LU-EC-6693339",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-EC",
+      "latitude": 49.79778,
+      "longitude": 6.50417
+    },
+    {
+      "id": 6693340,
+      "name": "Waldbillig",
+      "nativeName": "Waldbillig",
+      "code": "LU-EC-6693340",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-EC",
+      "latitude": 49.78889,
+      "longitude": 6.28667
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "stateId": 4033013,
+  "stateCode": "NZ-CIT",
+  "countryCode": "NZ",
+  "cities": [
+    {
+      "id": 4032804,
+      "name": "Waitangi",
+      "nativeName": "Waitangi",
+      "code": "NZ-CIT-4032804",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-CIT",
+      "latitude": -43.95353,
+      "longitude": -176.55973
+    },
+    {
+      "id": 4032966,
+      "name": "Karewa",
+      "nativeName": "Karewa",
+      "code": "NZ-CIT-4032966",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-CIT",
+      "latitude": -43.8,
+      "longitude": -176.46667
+    },
+    {
+      "id": 4032937,
+      "name": "Matarakau",
+      "nativeName": "Matarakau",
+      "code": "NZ-CIT-4032937",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-CIT",
+      "latitude": -43.73333,
+      "longitude": -176.35
+    },
+    {
+      "id": 4032896,
+      "name": "Ouwenga",
+      "nativeName": "Ouwenga",
+      "code": "NZ-CIT-4032896",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-CIT",
+      "latitude": -44.03333,
+      "longitude": -176.36667
+    },
+    {
+      "id": 4032879,
+      "name": "Rakautahi",
+      "nativeName": "Rakautahi",
+      "code": "NZ-CIT-4032879",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-CIT",
+      "latitude": -43.81667,
+      "longitude": -176.58333
+    },
+    {
+      "id": 4032850,
+      "name": "Tahatika",
+      "nativeName": "Tahatika",
+      "code": "NZ-CIT-4032850",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-CIT",
+      "latitude": -43.75,
+      "longitude": -176.66667
+    },
+    {
+      "id": 4032822,
+      "name": "Tupuangi",
+      "nativeName": "Tupuangi",
+      "code": "NZ-CIT-4032822",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-CIT",
+      "latitude": -43.75,
+      "longitude": -176.8
+    },
+    {
+      "id": 4032815,
+      "name": "Waikanai",
+      "nativeName": "Waikanai",
+      "code": "NZ-CIT-4032815",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-CIT",
+      "latitude": -43.81667,
+      "longitude": -176.7
+    },
+    {
+      "id": 4032800,
+      "name": "Waitangi West",
+      "nativeName": "Waitangi West",
+      "code": "NZ-CIT-4032800",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-CIT",
+      "latitude": -43.78333,
+      "longitude": -176.81667
+    },
+    {
+      "id": 4032794,
+      "name": "Whakekauri",
+      "nativeName": "Whakekauri",
+      "code": "NZ-CIT-4032794",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-CIT",
+      "latitude": -43.71004,
+      "longitude": -176.58394
+    },
+    {
+      "id": 4032789,
+      "name": "Whareama",
+      "nativeName": "Whareama",
+      "code": "NZ-CIT-4032789",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-CIT",
+      "latitude": -43.93333,
+      "longitude": -176.48333
+    }
+  ]
+}

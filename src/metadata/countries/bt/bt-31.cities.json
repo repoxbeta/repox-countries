@@ -1,0 +1,73 @@
+{
+  "stateId": 1337282,
+  "stateCode": "BT-31",
+  "countryCode": "BT",
+  "cities": [
+    {
+      "id": 1252460,
+      "name": "Sarpang",
+      "nativeName": "Sarpang",
+      "code": "BT-31-1252460",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-31",
+      "latitude": 26.86395,
+      "longitude": 90.26745
+    },
+    {
+      "id": 1252617,
+      "name": "Changchukha Dzong",
+      "nativeName": "Changchukha Dzong",
+      "code": "BT-31-1252617",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-31",
+      "latitude": 27.13333,
+      "longitude": 90.35
+    },
+    {
+      "id": 1252560,
+      "name": "Gelephu",
+      "nativeName": "Geylegphug",
+      "code": "BT-31-1252560",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-31",
+      "latitude": 26.86833,
+      "longitude": 90.48778
+    },
+    {
+      "id": 1337359,
+      "name": "Kalikhola",
+      "nativeName": "Kalikhola",
+      "code": "BT-31-1337359",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-31",
+      "latitude": 26.71667,
+      "longitude": 90.85
+    },
+    {
+      "id": 1337354,
+      "name": "Lalai",
+      "nativeName": "Lalai",
+      "code": "BT-31-1337354",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-31",
+      "latitude": 26.78333,
+      "longitude": 90.51667
+    },
+    {
+      "id": 1252487,
+      "name": "Pinkhua",
+      "nativeName": "Pinkhua",
+      "code": "BT-31-1252487",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-31",
+      "latitude": 26.71667,
+      "longitude": 90.05
+    }
+  ]
+}

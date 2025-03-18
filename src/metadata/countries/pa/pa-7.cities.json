@@ -1,0 +1,84 @@
+{
+  "stateId": 3704961,
+  "stateCode": "PA-7",
+  "countryCode": "PA",
+  "cities": [
+    {
+      "id": 3708907,
+      "name": "Guararé District",
+      "nativeName": "Distrito de Guararé",
+      "code": "PA-7-3708907",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-7",
+      "latitude": 7.77021,
+      "longitude": -80.37515
+    },
+    {
+      "id": 3706205,
+      "name": "Las Tablas District",
+      "nativeName": "Distrito de Las Tablas",
+      "code": "PA-7-3706205",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-7",
+      "latitude": 7.64843,
+      "longitude": -80.29933
+    },
+    {
+      "id": 3704962,
+      "name": "Los Santos District",
+      "nativeName": "Distrito de Los Santos",
+      "code": "PA-7-3704962",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-7",
+      "latitude": 7.88333,
+      "longitude": -80.45
+    },
+    {
+      "id": 3704872,
+      "name": "Macaracas District",
+      "nativeName": "Distrito de Macaracas",
+      "code": "PA-7-3704872",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-7",
+      "latitude": 7.65817,
+      "longitude": -80.53526
+    },
+    {
+      "id": 3703237,
+      "name": "Pedasí District",
+      "nativeName": "Distrito de Pedasí",
+      "code": "PA-7-3703237",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-7",
+      "latitude": 7.48528,
+      "longitude": -80.12747
+    },
+    {
+      "id": 3702627,
+      "name": "Pocrí District",
+      "nativeName": "Distrito de Pocrí",
+      "code": "PA-7-3702627",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-7",
+      "latitude": 7.63721,
+      "longitude": -80.1647
+    },
+    {
+      "id": 3700535,
+      "name": "Tonosí District",
+      "nativeName": "Distrito de Tonosí",
+      "code": "PA-7-3700535",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-7",
+      "latitude": 7.42119,
+      "longitude": -80.5174
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "stateId": 88904,
+  "stateCode": "LY-MJ",
+  "countryCode": "LY",
+  "cities": [
+    {
+      "id": 88903,
+      "name": "Al Marj",
+      "nativeName": "Al Marj",
+      "code": "LY-MJ-88903",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-MJ",
+      "latitude": 32.49257,
+      "longitude": 20.82909
+    },
+    {
+      "id": 89087,
+      "name": "Al Abyār",
+      "nativeName": "Al Abyār",
+      "code": "LY-MJ-89087",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-MJ",
+      "latitude": 32.19,
+      "longitude": 20.59653
+    },
+    {
+      "id": 88898,
+      "name": "Al Masīl",
+      "nativeName": "Al Masīl",
+      "code": "LY-MJ-88898",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-MJ",
+      "latitude": 32.26667,
+      "longitude": 20.96667
+    },
+    {
+      "id": 88819,
+      "name": "Al ‘Uwaylīyah ash Sharqīyah",
+      "nativeName": "Al ‘Uwaylīyah ash Sharqīyah",
+      "code": "LY-MJ-88819",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-MJ",
+      "latitude": 32.56667,
+      "longitude": 21.03333
+    },
+    {
+      "id": 87022,
+      "name": "Farzūghah",
+      "nativeName": "Farzūghah",
+      "code": "LY-MJ-87022",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-MJ",
+      "latitude": 32.49929,
+      "longitude": 20.70297
+    },
+    {
+      "id": 86001,
+      "name": "Jardas al Aḩrār",
+      "nativeName": "Jardas al Aḩrār",
+      "code": "LY-MJ-86001",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-MJ",
+      "latitude": 32.28333,
+      "longitude": 20.98333
+    },
+    {
+      "id": 86002,
+      "name": "Jardas al ‘Abīd",
+      "nativeName": "Jardas al ‘Abīd",
+      "code": "LY-MJ-86002",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-MJ",
+      "latitude": 32.30337,
+      "longitude": 20.98615
+    },
+    {
+      "id": 89183,
+      "name": "Madīnat Ţulmaythah",
+      "nativeName": "Madīnat Ţulmaythah",
+      "code": "LY-MJ-89183",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-MJ",
+      "latitude": 32.70359,
+      "longitude": 20.93868
+    },
+    {
+      "id": 80623,
+      "name": "Msus",
+      "nativeName": "Zāwiyat Masūs",
+      "code": "LY-MJ-80623",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-MJ",
+      "latitude": 31.57917,
+      "longitude": 21.00968
+    },
+    {
+      "id": 88205,
+      "name": "Qaryat Baţţah",
+      "nativeName": "Qaryat Baţţah",
+      "code": "LY-MJ-88205",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-MJ",
+      "latitude": 32.65988,
+      "longitude": 21.10961
+    },
+    {
+      "id": 82094,
+      "name": "Qaryat Sīdī Mahyūb",
+      "nativeName": "Qaryat Sīdī Mahyūb",
+      "code": "LY-MJ-82094",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-MJ",
+      "latitude": 32.24665,
+      "longitude": 20.73795
+    },
+    {
+      "id": 84131,
+      "name": "Qaryat Sīdī Shāhir ad Dīn",
+      "nativeName": "Qaryat Sīdī Shāhir ad Dīn",
+      "code": "LY-MJ-84131",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-MJ",
+      "latitude": 32.66107,
+      "longitude": 20.85422
+    },
+    {
+      "id": 89053,
+      "name": "Qaryat al Bayyāḑah",
+      "nativeName": "Qaryat al Bayyāḑah",
+      "code": "LY-MJ-89053",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-MJ",
+      "latitude": 32.56501,
+      "longitude": 21.25415
+    },
+    {
+      "id": 81533,
+      "name": "Tāknis",
+      "nativeName": "Tāknis",
+      "code": "LY-MJ-81533",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-MJ",
+      "latitude": 32.48013,
+      "longitude": 21.12458
+    },
+    {
+      "id": 88834,
+      "name": "Tūkrah",
+      "nativeName": "Tūkrah",
+      "code": "LY-MJ-88834",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-MJ",
+      "latitude": 32.53414,
+      "longitude": 20.57911
+    }
+  ]
+}

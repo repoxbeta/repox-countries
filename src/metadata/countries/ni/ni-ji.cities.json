@@ -1,0 +1,95 @@
+{
+  "stateId": 3618928,
+  "stateCode": "NI-JI",
+  "countryCode": "NI",
+  "cities": [
+    {
+      "id": 8015544,
+      "name": "Municipio El Cua",
+      "nativeName": "Municipio El Cua",
+      "code": "NI-JI-8015544",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-JI",
+      "latitude": 13.80741,
+      "longitude": -85.24429
+    },
+    {
+      "id": 3618927,
+      "name": "Municipio de Jinotega",
+      "nativeName": "Municipio de Jinotega",
+      "code": "NI-JI-3618927",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-JI",
+      "latitude": 13.1,
+      "longitude": -86
+    },
+    {
+      "id": 3618636,
+      "name": "Municipio de La Concordia",
+      "nativeName": "Municipio de La Concordia",
+      "code": "NI-JI-3618636",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-JI",
+      "latitude": 13.20128,
+      "longitude": -86.17798
+    },
+    {
+      "id": 8335428,
+      "name": "Municipio de San José de Bocay",
+      "nativeName": "Municipio de San José de Bocay",
+      "code": "NI-JI-8335428",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-JI",
+      "latitude": 13.53333,
+      "longitude": -85.53333
+    },
+    {
+      "id": 3616596,
+      "name": "Municipio de San Rafael del Norte",
+      "nativeName": "Municipio de San Rafael del Norte",
+      "code": "NI-JI-3616596",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-JI",
+      "latitude": 13.24213,
+      "longitude": -86.08352
+    },
+    {
+      "id": 3616571,
+      "name": "Municipio de San Sebastián de Yalí",
+      "nativeName": "Municipio de San Sebastián de Yalí",
+      "code": "NI-JI-3616571",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-JI",
+      "latitude": 13.37562,
+      "longitude": -86.14285
+    },
+    {
+      "id": 8335429,
+      "name": "Municipio de Santa María de Pantasma",
+      "nativeName": "Municipio de Santa María de Pantasma",
+      "code": "NI-JI-8335429",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-JI",
+      "latitude": 13.2,
+      "longitude": -85.81666
+    },
+    {
+      "id": 8335430,
+      "name": "Wiwilí de Jinotega",
+      "nativeName": "Wiwilí de Jinotega",
+      "code": "NI-JI-8335430",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-JI",
+      "latitude": 13.61245,
+      "longitude": -85.81957
+    }
+  ]
+}

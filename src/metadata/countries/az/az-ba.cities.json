@@ -1,0 +1,95 @@
+{
+  "stateId": 587081,
+  "stateCode": "AZ-BA",
+  "countryCode": "AZ",
+  "cities": [
+    {
+      "id": 586209,
+      "name": "Garadagh region",
+      "nativeName": "Garadagh region",
+      "code": "AZ-BA-586209",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-BA",
+      "latitude": 40.33333,
+      "longitude": 49.66667
+    },
+    {
+      "id": 586342,
+      "name": "Imeni Dvadtsati Shesti Bakinskikh Komissarov Rayon",
+      "nativeName": "Imeni Dvadtsati Shesti Bakinskikh Komissarov Rayon",
+      "code": "AZ-BA-586342",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-BA",
+      "latitude": 40.33333,
+      "longitude": 49.8
+    },
+    {
+      "id": 7669203,
+      "name": "Khatai raion",
+      "nativeName": "Khatai raion",
+      "code": "AZ-BA-7669203",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-BA",
+      "latitude": 40.37852,
+      "longitude": 49.9451
+    },
+    {
+      "id": 8572651,
+      "name": "Nizami Rayonu",
+      "nativeName": "Nizami Rayonu",
+      "code": "AZ-BA-8572651",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-BA",
+      "latitude": 40.4097,
+      "longitude": 49.91926
+    },
+    {
+      "id": 585358,
+      "name": "Nizaminskiy Rayon",
+      "nativeName": "Nizaminskiy Rayon",
+      "code": "AZ-BA-585358",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-BA",
+      "latitude": 40.38333,
+      "longitude": 49.83333
+    },
+    {
+      "id": 585328,
+      "name": "Oktyabr'skiy Rayon",
+      "nativeName": "Oktyabr'skiy Rayon",
+      "code": "AZ-BA-585328",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-BA",
+      "latitude": 40.38333,
+      "longitude": 49.8
+    },
+    {
+      "id": 585320,
+      "name": "Ordzhonikidzevskiy Rayon))",
+      "nativeName": "Ordzhonikidzevskiy Rayon))",
+      "code": "AZ-BA-585320",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-BA",
+      "latitude": 40.4,
+      "longitude": 50.03333
+    },
+    {
+      "id": 585039,
+      "name": "Shaumyanovskiy Rayon",
+      "nativeName": "Shaumyanovskiy Rayon",
+      "code": "AZ-BA-585039",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-BA",
+      "latitude": 40.38333,
+      "longitude": 49.91667
+    }
+  ]
+}

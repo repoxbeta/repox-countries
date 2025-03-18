@@ -1,0 +1,40 @@
+{
+  "stateId": 3440780,
+  "stateCode": "UY-RV",
+  "countryCode": "UY",
+  "cities": [
+    {
+      "id": 11820831,
+      "name": "Minas De Corrales",
+      "nativeName": "Minas De Corrales",
+      "code": "UY-RV-11820831",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-RV",
+      "latitude": -31.5103,
+      "longitude": -55.49982
+    },
+    {
+      "id": 11820808,
+      "name": "Tranqueras",
+      "nativeName": "Tranqueras",
+      "code": "UY-RV-11820808",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-RV",
+      "latitude": -31.21274,
+      "longitude": -55.84563
+    },
+    {
+      "id": 11820830,
+      "name": "Vichadero",
+      "nativeName": "Vichadero",
+      "code": "UY-RV-11820830",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-RV",
+      "latitude": -31.79629,
+      "longitude": -54.60219
+    }
+  ]
+}

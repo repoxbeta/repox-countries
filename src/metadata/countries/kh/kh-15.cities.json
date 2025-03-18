@@ -1,0 +1,73 @@
+{
+  "stateId": 1821301,
+  "stateCode": "KH-15",
+  "countryCode": "KH",
+  "cities": [
+    {
+      "id": 7647215,
+      "name": "Bakan",
+      "nativeName": "Bakan",
+      "code": "KH-15-7647215",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-15",
+      "latitude": 12.78,
+      "longitude": 103.79
+    },
+    {
+      "id": 8405251,
+      "name": "Kandieng",
+      "nativeName": "Srŏk Kândiĕng",
+      "code": "KH-15-8405251",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-15",
+      "latitude": 12.71245,
+      "longitude": 104.02592
+    },
+    {
+      "id": 7647217,
+      "name": "Krakor",
+      "nativeName": "Krakor",
+      "code": "KH-15-7647217",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-15",
+      "latitude": 12.48,
+      "longitude": 104.19
+    },
+    {
+      "id": 7647216,
+      "name": "Krong Pursat",
+      "nativeName": "Pursat",
+      "code": "KH-15-7647216",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-15",
+      "latitude": 12.47055,
+      "longitude": 103.91817
+    },
+    {
+      "id": 9253798,
+      "name": "Phnum Kravanh",
+      "nativeName": "Phnum Kravanh",
+      "code": "KH-15-9253798",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-15",
+      "latitude": 12.17632,
+      "longitude": 103.82614
+    },
+    {
+      "id": 8405253,
+      "name": "Veal Veaeng",
+      "nativeName": "Srŏk Véal Vêng",
+      "code": "KH-15-8405253",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-15",
+      "latitude": 12.2423,
+      "longitude": 103.13444
+    }
+  ]
+}

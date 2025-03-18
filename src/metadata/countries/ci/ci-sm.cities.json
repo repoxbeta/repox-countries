@@ -1,0 +1,29 @@
+{
+  "stateId": 11153059,
+  "stateCode": "CI-SM",
+  "countryCode": "CI",
+  "cities": [
+    {
+      "id": 11153166,
+      "name": "Haut-Sassandra",
+      "nativeName": "Haut-Sassandra",
+      "code": "CI-SM-11153166",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "stateCode": "CI-SM",
+      "latitude": 6.66961,
+      "longitude": -6.50116
+    },
+    {
+      "id": 11153167,
+      "name": "Région de la Marahoué",
+      "nativeName": "Marahoué",
+      "code": "CI-SM-11153167",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "stateCode": "CI-SM",
+      "latitude": 7.03252,
+      "longitude": -5.80215
+    }
+  ]
+}

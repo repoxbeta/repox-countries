@@ -1,0 +1,84 @@
+{
+  "stateId": 1105845,
+  "stateCode": "MZ-MPM",
+  "countryCode": "MZ",
+  "cities": [
+    {
+      "id": 10685827,
+      "name": "KaMavota",
+      "nativeName": "KaMavota",
+      "code": "MZ-MPM-10685827",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-MPM",
+      "latitude": -25.88719,
+      "longitude": 32.63601
+    },
+    {
+      "id": 10685829,
+      "name": "KaMaxakeni",
+      "nativeName": "KaMaxakeni",
+      "code": "MZ-MPM-10685829",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-MPM",
+      "latitude": -25.93797,
+      "longitude": 32.59732
+    },
+    {
+      "id": 10685830,
+      "name": "KaMpfumo",
+      "nativeName": "KaMpfumo",
+      "code": "MZ-MPM-10685830",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-MPM",
+      "latitude": -25.9654,
+      "longitude": 32.58295
+    },
+    {
+      "id": 10683815,
+      "name": "KaMubukwana",
+      "nativeName": "KaMubukwana",
+      "code": "MZ-MPM-10683815",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-MPM",
+      "latitude": -25.8868,
+      "longitude": 32.57261
+    },
+    {
+      "id": 10685832,
+      "name": "KaNyaka",
+      "nativeName": "KaNyaka",
+      "code": "MZ-MPM-10685832",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-MPM",
+      "latitude": -26.01731,
+      "longitude": 32.94305
+    },
+    {
+      "id": 10685831,
+      "name": "KaTembe",
+      "nativeName": "KaTembe",
+      "code": "MZ-MPM-10685831",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-MPM",
+      "latitude": -26.02985,
+      "longitude": 32.53204
+    },
+    {
+      "id": 10685828,
+      "name": "Nhlamankulo",
+      "nativeName": "Nhlamankulo",
+      "code": "MZ-MPM-10685828",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-MPM",
+      "latitude": -25.94516,
+      "longitude": 32.5572
+    }
+  ]
+}

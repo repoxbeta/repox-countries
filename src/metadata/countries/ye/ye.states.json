@@ -1,0 +1,248 @@
+{
+  "countryId": 69543,
+  "countryCode": "YE",
+  "states": [
+    {
+      "id": 80425,
+      "name": "Abyan Governorate",
+      "nativeName": "Muḩāfaz̧at Abyan",
+      "code": "YE-AB",
+      "internalCode": "AB",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "latitude": 13.6291,
+      "longitude": 46.126
+    },
+    {
+      "id": 80412,
+      "name": "Aden",
+      "nativeName": "Governorate Number One",
+      "code": "YE-AD",
+      "internalCode": "AD",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "latitude": 12.83333,
+      "longitude": 44.91667
+    },
+    {
+      "id": 79838,
+      "name": "Al Bayda",
+      "nativeName": "Al Bayda Governorate",
+      "code": "YE-BA",
+      "internalCode": "BA",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "latitude": 14.34166,
+      "longitude": 45.39442
+    },
+    {
+      "id": 79416,
+      "name": "Al Hudaydah",
+      "nativeName": "Muḩāfaz̧at al Ḩudaydah",
+      "code": "YE-HU",
+      "internalCode": "HU",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "latitude": 14.91732,
+      "longitude": 43.19279
+    },
+    {
+      "id": 74222,
+      "name": "Al Jawf",
+      "nativeName": "Muḩāfaz̧at al Jawf",
+      "code": "YE-JA",
+      "internalCode": "JA",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "latitude": 16.5974,
+      "longitude": 45.5243
+    },
+    {
+      "id": 78985,
+      "name": "Al Mahrah Governorate",
+      "nativeName": "Al Mahrah",
+      "code": "YE-MR",
+      "internalCode": "MR",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "latitude": 17,
+      "longitude": 51.5
+    },
+    {
+      "id": 73200,
+      "name": "Al Mahwit Governorate",
+      "nativeName": "Al Maḩwīt",
+      "code": "YE-MW",
+      "internalCode": "MW",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "latitude": 15.39198,
+      "longitude": 43.53616
+    },
+    {
+      "id": 6940571,
+      "name": "Amanat Alasimah",
+      "nativeName": "Amanat alasimah",
+      "code": "YE-SA",
+      "internalCode": "SA",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "latitude": 15.45037,
+      "longitude": 44.221
+    },
+    {
+      "id": 6201193,
+      "name": "Aḑ Ḑāli‘",
+      "nativeName": "Muḩāfaz̧at aḑ Ḑāli‘",
+      "code": "YE-DA",
+      "internalCode": "DA",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "latitude": 13.8924,
+      "longitude": 44.7625
+    },
+    {
+      "id": 76183,
+      "name": "Dhamār",
+      "nativeName": "Muḩāfaz̧at Dhamār",
+      "code": "YE-DH",
+      "internalCode": "DH",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "latitude": 14.68296,
+      "longitude": 44.27294
+    },
+    {
+      "id": 75411,
+      "name": "Hadramaout",
+      "nativeName": "Hadhramaut Governorate",
+      "code": "YE-HD",
+      "internalCode": "HD",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "latitude": 16,
+      "longitude": 49
+    },
+    {
+      "id": 6201196,
+      "name": "Ibb Governorate",
+      "nativeName": "Ibb",
+      "code": "YE-IB",
+      "internalCode": "IB",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "latitude": 14,
+      "longitude": 44.16667
+    },
+    {
+      "id": 6201197,
+      "name": "Laḩij",
+      "nativeName": "Muḩāfaz̧at Laḩij",
+      "code": "YE-LA",
+      "internalCode": "LA",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "latitude": 13.16667,
+      "longitude": 44.58333
+    },
+    {
+      "id": 72966,
+      "name": "Ma’rib",
+      "nativeName": "Muḩāfaz̧at Ma’rib",
+      "code": "YE-MA",
+      "internalCode": "MA",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "latitude": 15.4591,
+      "longitude": 45.32534
+    },
+    {
+      "id": 6201194,
+      "name": "Omran",
+      "nativeName": "Muḩāfaz̧at ‘Amrān",
+      "code": "YE-AM",
+      "internalCode": "AM",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "latitude": 16.23022,
+      "longitude": 43.90983
+    },
+    {
+      "id": 71532,
+      "name": "Raymah",
+      "nativeName": "Muḩāfaz̧at Raymah",
+      "code": "YE-RA",
+      "internalCode": "RA",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "latitude": 14.63333,
+      "longitude": 43.66667
+    },
+    {
+      "id": 71132,
+      "name": "Sanaa Governorate",
+      "nativeName": "Sanaa",
+      "code": "YE-SN",
+      "internalCode": "SN",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "latitude": 15.26069,
+      "longitude": 44.42489
+    },
+    {
+      "id": 70935,
+      "name": "Shabwah",
+      "nativeName": "Shabwah",
+      "code": "YE-SH",
+      "internalCode": "SH",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "latitude": 15,
+      "longitude": 47
+    },
+    {
+      "id": 9645387,
+      "name": "Soqatra",
+      "nativeName": "Socotra",
+      "code": "YE-SU",
+      "internalCode": "SU",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "latitude": 12.50228,
+      "longitude": 53.82065
+    },
+    {
+      "id": 70222,
+      "name": "Ta‘izz",
+      "nativeName": "Muḩāfaz̧at Ta‘izz",
+      "code": "YE-TA",
+      "internalCode": "TA",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "latitude": 13.5,
+      "longitude": 44
+    },
+    {
+      "id": 71333,
+      "name": "Şa‘dah",
+      "nativeName": "Muḩāfaz̧at Şa‘dah",
+      "code": "YE-SD",
+      "internalCode": "SD",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "latitude": 17.0634,
+      "longitude": 43.91488
+    },
+    {
+      "id": 6201195,
+      "name": "Ḩajjah",
+      "nativeName": "Muḩāfaz̧at Ḩajjah",
+      "code": "YE-HJ",
+      "internalCode": "HJ",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "latitude": 16,
+      "longitude": 43.25
+    }
+  ]
+}

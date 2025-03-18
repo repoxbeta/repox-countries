@@ -1,0 +1,29 @@
+{
+  "stateId": 5854922,
+  "stateCode": "UM-84",
+  "countryCode": "UM",
+  "cities": [
+    {
+      "id": 5854924,
+      "name": "Itascatown pre-WW2",
+      "nativeName": "Itascatown pre-WW2",
+      "code": "UM-84-5854924",
+      "countryId": 5854968,
+      "countryCode": "UM",
+      "stateCode": "UM-84",
+      "latitude": 0.80776,
+      "longitude": -176.6185
+    },
+    {
+      "id": 11695320,
+      "name": "Kamakaiwi Field",
+      "nativeName": "Kamakaiwi Field",
+      "code": "UM-84-11695320",
+      "countryId": 5854968,
+      "countryCode": "UM",
+      "stateCode": "UM-84",
+      "latitude": 0.80343,
+      "longitude": -176.61698
+    }
+  ]
+}

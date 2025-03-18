@@ -1,0 +1,40 @@
+{
+  "stateId": 11919533,
+  "stateCode": "SL-NW",
+  "countryCode": "SL",
+  "cities": [
+    {
+      "id": 2408083,
+      "name": "Kambia District",
+      "nativeName": "Kambia District",
+      "code": "SL-NW-2408083",
+      "countryId": 2403846,
+      "countryCode": "SL",
+      "stateCode": "SL-NW",
+      "latitude": 9.18251,
+      "longitude": -12.81309
+    },
+    {
+      "id": 11876019,
+      "name": "Karene District",
+      "nativeName": "Karene District",
+      "code": "SL-NW-11876019",
+      "countryId": 2403846,
+      "countryCode": "SL",
+      "stateCode": "SL-NW",
+      "latitude": 9.66393,
+      "longitude": -12.22183
+    },
+    {
+      "id": 2404431,
+      "name": "Port Loko District",
+      "nativeName": "Port Loko District",
+      "code": "SL-NW-2404431",
+      "countryId": 2403846,
+      "countryCode": "SL",
+      "stateCode": "SL-NW",
+      "latitude": 8.72386,
+      "longitude": -12.75904
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "stateId": 6697801,
+  "stateCode": "GR-B",
+  "countryCode": "GR",
+  "cities": [
+    {
+      "id": 735804,
+      "name": "Chalkidikí",
+      "nativeName": "Nomós Chalkidikís",
+      "code": "GR-B-735804",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-B",
+      "latitude": 40.41667,
+      "longitude": 23.5
+    },
+    {
+      "id": 736120,
+      "name": "Imathia",
+      "nativeName": "Nomós Imathías",
+      "code": "GR-B-736120",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-B",
+      "latitude": 40.5,
+      "longitude": 22.25
+    },
+    {
+      "id": 735735,
+      "name": "Nomós Kilkís",
+      "nativeName": "Nomós Kilkís",
+      "code": "GR-B-735735",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-B",
+      "latitude": 41,
+      "longitude": 22.66667
+    },
+    {
+      "id": 734725,
+      "name": "Pella",
+      "nativeName": "Nomós Péllis",
+      "code": "GR-B-734725",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-B",
+      "latitude": 40.83333,
+      "longitude": 22.25
+    },
+    {
+      "id": 734649,
+      "name": "Pieria",
+      "nativeName": "Nomós Pierías",
+      "code": "GR-B-734649",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-B",
+      "latitude": 40.25,
+      "longitude": 22.41667
+    },
+    {
+      "id": 734329,
+      "name": "Sérres",
+      "nativeName": "Nomós Serrón",
+      "code": "GR-B-734329",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-B",
+      "latitude": 41.16667,
+      "longitude": 23.5
+    },
+    {
+      "id": 734075,
+      "name": "Thessaloniki",
+      "nativeName": "Nomós Thessaloníkis",
+      "code": "GR-B-734075",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-B",
+      "latitude": 40.66667,
+      "longitude": 23
+    }
+  ]
+}

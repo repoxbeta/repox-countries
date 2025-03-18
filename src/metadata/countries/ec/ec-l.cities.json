@@ -1,0 +1,183 @@
+{
+  "stateId": 3654665,
+  "stateCode": "EC-L",
+  "countryCode": "EC",
+  "cities": [
+    {
+      "id": 3659882,
+      "name": "Calvas",
+      "nativeName": "Calvas",
+      "code": "EC-L-3659882",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-L",
+      "latitude": -4.3353,
+      "longitude": -79.60249
+    },
+    {
+      "id": 3659543,
+      "name": "Cantón Celica",
+      "nativeName": "Cantón Celica",
+      "code": "EC-L-3659543",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-L",
+      "latitude": -4.15536,
+      "longitude": -80.00725
+    },
+    {
+      "id": 3657777,
+      "name": "Cantón Gonzanamá",
+      "nativeName": "Cantón Gonzanamá",
+      "code": "EC-L-3657777",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-L",
+      "latitude": -4.15446,
+      "longitude": -79.45279
+    },
+    {
+      "id": 3654544,
+      "name": "Cantón Macará",
+      "nativeName": "Cantón Macará",
+      "code": "EC-L-3654544",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-L",
+      "latitude": -4.31423,
+      "longitude": -79.92275
+    },
+    {
+      "id": 3659598,
+      "name": "Catamayo",
+      "nativeName": "Catamayo",
+      "code": "EC-L-3659598",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-L",
+      "latitude": -3.98045,
+      "longitude": -79.37892
+    },
+    {
+      "id": 10792457,
+      "name": "Chaguarpamba",
+      "nativeName": "Chaguarpamba",
+      "code": "EC-L-10792457",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-L",
+      "latitude": -3.85595,
+      "longitude": -79.67225
+    },
+    {
+      "id": 3657967,
+      "name": "Espíndola",
+      "nativeName": "Espíndola",
+      "code": "EC-L-3657967",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-L",
+      "latitude": -4.56244,
+      "longitude": -79.41171
+    },
+    {
+      "id": 3654666,
+      "name": "Loja",
+      "nativeName": "Loja",
+      "code": "EC-L-3654666",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-L",
+      "latitude": -4.03728,
+      "longitude": -79.1891
+    },
+    {
+      "id": 10792498,
+      "name": "Olmedo",
+      "nativeName": "Olmedo",
+      "code": "EC-L-10792498",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-L",
+      "latitude": -3.93045,
+      "longitude": -79.62508
+    },
+    {
+      "id": 3653515,
+      "name": "Paltas",
+      "nativeName": "Paltas",
+      "code": "EC-L-3653515",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-L",
+      "latitude": -4.0281,
+      "longitude": -79.74314
+    },
+    {
+      "id": 10792496,
+      "name": "Pindal",
+      "nativeName": "Pindal",
+      "code": "EC-L-10792496",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-L",
+      "latitude": -4.08074,
+      "longitude": -80.10644
+    },
+    {
+      "id": 3652587,
+      "name": "Puyango",
+      "nativeName": "Puyango",
+      "code": "EC-L-3652587",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-L",
+      "latitude": -3.97569,
+      "longitude": -80.07216
+    },
+    {
+      "id": 10792497,
+      "name": "Quilanga",
+      "nativeName": "Quilanga",
+      "code": "EC-L-10792497",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-L",
+      "latitude": -4.34159,
+      "longitude": -79.37862
+    },
+    {
+      "id": 3651244,
+      "name": "Saraguro",
+      "nativeName": "Saraguro",
+      "code": "EC-L-3651244",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-L",
+      "latitude": -3.54566,
+      "longitude": -79.32086
+    },
+    {
+      "id": 3650979,
+      "name": "Sozoranga",
+      "nativeName": "Sozoranga",
+      "code": "EC-L-3650979",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-L",
+      "latitude": -4.31625,
+      "longitude": -79.78645
+    },
+    {
+      "id": 10792495,
+      "name": "Zapotillo",
+      "nativeName": "Zapotillo",
+      "code": "EC-L-10792495",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-L",
+      "latitude": -4.22038,
+      "longitude": -80.32116
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "stateId": 241336,
+  "stateCode": "SC-12",
+  "countryCode": "SC",
+  "cities": [
+    {
+      "id": 241276,
+      "name": "Machabee",
+      "nativeName": "Machabee",
+      "code": "SC-12-241276",
+      "countryId": 241170,
+      "countryCode": "SC",
+      "stateCode": "SC-12",
+      "latitude": -4.56523,
+      "longitude": 55.4457
+    },
+    {
+      "id": 11395546,
+      "name": "Vista do Mar",
+      "nativeName": "Vista do Mar",
+      "code": "SC-12-11395546",
+      "countryId": 241170,
+      "countryCode": "SC",
+      "stateCode": "SC-12",
+      "latitude": -4.57578,
+      "longitude": 55.4368
+    }
+  ]
+}

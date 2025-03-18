@@ -1,0 +1,84 @@
+{
+  "stateId": 6417214,
+  "stateCode": "GG-6417214",
+  "countryCode": "GG",
+  "cities": [
+    {
+      "id": 3042274,
+      "name": "Torteval",
+      "nativeName": "Torteval",
+      "code": "GG-6417214-3042274",
+      "countryId": 3042362,
+      "countryCode": "GG",
+      "stateCode": "GG-6417214",
+      "latitude": 49.43333,
+      "longitude": -2.65
+    },
+    {
+      "id": 6420130,
+      "name": "Les Falles",
+      "nativeName": "Les Falles",
+      "code": "GG-6417214-6420130",
+      "countryId": 3042362,
+      "countryCode": "GG",
+      "stateCode": "GG-6417214",
+      "latitude": 49.43278,
+      "longitude": -2.63111
+    },
+    {
+      "id": 6420097,
+      "name": "Les Fontaines",
+      "nativeName": "Les Fontaines",
+      "code": "GG-6417214-6420097",
+      "countryId": 3042362,
+      "countryCode": "GG",
+      "stateCode": "GG-6417214",
+      "latitude": 49.43083,
+      "longitude": -2.65806
+    },
+    {
+      "id": 6420119,
+      "name": "Les Galliennes",
+      "nativeName": "Les Galliennes",
+      "code": "GG-6417214-6420119",
+      "countryId": 3042362,
+      "countryCode": "GG",
+      "stateCode": "GG-6417214",
+      "latitude": 49.43139,
+      "longitude": -2.65111
+    },
+    {
+      "id": 6420129,
+      "name": "Les Jehans",
+      "nativeName": "Les Jehans",
+      "code": "GG-6417214-6420129",
+      "countryId": 3042362,
+      "countryCode": "GG",
+      "stateCode": "GG-6417214",
+      "latitude": 49.43028,
+      "longitude": -2.63389
+    },
+    {
+      "id": 6424175,
+      "name": "Les Martins",
+      "nativeName": "Les Martins",
+      "code": "GG-6417214-6424175",
+      "countryId": 3042362,
+      "countryCode": "GG",
+      "stateCode": "GG-6417214",
+      "latitude": 49.42972,
+      "longitude": -2.62667
+    },
+    {
+      "id": 6417282,
+      "name": "Pleinmont",
+      "nativeName": "Pleinmont",
+      "code": "GG-6417214-6417282",
+      "countryId": 3042362,
+      "countryCode": "GG",
+      "stateCode": "GG-6417214",
+      "latitude": 49.43194,
+      "longitude": -2.66722
+    }
+  ]
+}

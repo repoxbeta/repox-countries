@@ -1,0 +1,106 @@
+{
+  "stateId": 9611692,
+  "stateCode": "AX-212",
+  "countryCode": "AX",
+  "cities": [
+    {
+      "id": 3041809,
+      "name": "Eckerö",
+      "nativeName": "Eckerö",
+      "code": "AX-212-3041809",
+      "countryId": 661882,
+      "countryCode": "AX",
+      "stateCode": "AX-212",
+      "latitude": 60.22294,
+      "longitude": 19.55498
+    },
+    {
+      "id": 3041799,
+      "name": "Finström",
+      "nativeName": "Finström",
+      "code": "AX-212-3041799",
+      "countryId": 661882,
+      "countryCode": "AX",
+      "stateCode": "AX-212",
+      "latitude": 60.25,
+      "longitude": 19.91667
+    },
+    {
+      "id": 3041793,
+      "name": "Geta",
+      "nativeName": "Geta",
+      "code": "AX-212-3041793",
+      "countryId": 661882,
+      "countryCode": "AX",
+      "stateCode": "AX-212",
+      "latitude": 60.41667,
+      "longitude": 19.83333
+    },
+    {
+      "id": 3041777,
+      "name": "Hammarland",
+      "nativeName": "Hammarland",
+      "code": "AX-212-3041777",
+      "countryId": 661882,
+      "countryCode": "AX",
+      "stateCode": "AX-212",
+      "latitude": 60.25,
+      "longitude": 19.75
+    },
+    {
+      "id": 3041761,
+      "name": "Jomala",
+      "nativeName": "Jomala",
+      "code": "AX-212-3041761",
+      "countryId": 661882,
+      "countryCode": "AX",
+      "stateCode": "AX-212",
+      "latitude": 60.16667,
+      "longitude": 19.91667
+    },
+    {
+      "id": 648384,
+      "name": "Lemland",
+      "nativeName": "Lemland",
+      "code": "AX-212-648384",
+      "countryId": 661882,
+      "countryCode": "AX",
+      "stateCode": "AX-212",
+      "latitude": 60.08333,
+      "longitude": 20.08333
+    },
+    {
+      "id": 647457,
+      "name": "Lumparland",
+      "nativeName": "Lumparland",
+      "code": "AX-212-647457",
+      "countryId": 661882,
+      "countryCode": "AX",
+      "stateCode": "AX-212",
+      "latitude": 60.1156,
+      "longitude": 20.26217
+    },
+    {
+      "id": 637880,
+      "name": "Saltvik",
+      "nativeName": "Saltvik",
+      "code": "AX-212-637880",
+      "countryId": 661882,
+      "countryCode": "AX",
+      "stateCode": "AX-212",
+      "latitude": 60.27978,
+      "longitude": 20.05481
+    },
+    {
+      "id": 635817,
+      "name": "Sund",
+      "nativeName": "Sund",
+      "code": "AX-212-635817",
+      "countryId": 661882,
+      "countryCode": "AX",
+      "stateCode": "AX-212",
+      "latitude": 60.24439,
+      "longitude": 20.11942
+    }
+  ]
+}

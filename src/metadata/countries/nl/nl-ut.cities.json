@@ -1,0 +1,293 @@
+{
+  "stateId": 2745909,
+  "stateCode": "NL-UT",
+  "countryCode": "NL",
+  "cities": [
+    {
+      "id": 2759820,
+      "name": "Amersfoort Municipality",
+      "nativeName": "Gemeente Amersfoort",
+      "code": "NL-UT-2759820",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-UT",
+      "latitude": 52.17375,
+      "longitude": 5.38954
+    },
+    {
+      "id": 2759543,
+      "name": "Baarn Municipality",
+      "nativeName": "Gemeente Baarn",
+      "code": "NL-UT-2759543",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-UT",
+      "latitude": 52.20602,
+      "longitude": 5.27144
+    },
+    {
+      "id": 2758105,
+      "name": "Bunnik Municipality",
+      "nativeName": "Gemeente Bunnik",
+      "code": "NL-UT-2758105",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-UT",
+      "latitude": 52.04228,
+      "longitude": 5.21664
+    },
+    {
+      "id": 2757782,
+      "name": "De Bilt Municipality",
+      "nativeName": "Gemeente De Bilt",
+      "code": "NL-UT-2757782",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-UT",
+      "latitude": 52.14137,
+      "longitude": 5.16828
+    },
+    {
+      "id": 2758103,
+      "name": "Gemeente Bunschoten",
+      "nativeName": "Gemeente Bunschoten",
+      "code": "NL-UT-2758103",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-UT",
+      "latitude": 52.24249,
+      "longitude": 5.35837
+    },
+    {
+      "id": 6544250,
+      "name": "Gemeente De Ronde Venen",
+      "nativeName": "Gemeente De Ronde Venen",
+      "code": "NL-UT-6544250",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-UT",
+      "latitude": 52.21515,
+      "longitude": 4.90123
+    },
+    {
+      "id": 2756393,
+      "name": "Gemeente Eemnes",
+      "nativeName": "Gemeente Eemnes",
+      "code": "NL-UT-2756393",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-UT",
+      "latitude": 52.25253,
+      "longitude": 5.28391
+    },
+    {
+      "id": 2753556,
+      "name": "Gemeente Houten",
+      "nativeName": "Gemeente Houten",
+      "code": "NL-UT-2753556",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-UT",
+      "latitude": 52.02683,
+      "longitude": 5.16941
+    },
+    {
+      "id": 2753354,
+      "name": "Gemeente IJsselstein",
+      "nativeName": "Gemeente IJsselstein",
+      "code": "NL-UT-2753354",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-UT",
+      "latitude": 52.02912,
+      "longitude": 5.02868
+    },
+    {
+      "id": 2751688,
+      "name": "Gemeente Leusden",
+      "nativeName": "Gemeente Leusden",
+      "code": "NL-UT-2751688",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-UT",
+      "latitude": 52.12418,
+      "longitude": 5.41245
+    },
+    {
+      "id": 2751435,
+      "name": "Gemeente Lopik",
+      "nativeName": "Gemeente Lopik",
+      "code": "NL-UT-2751435",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-UT",
+      "latitude": 51.98991,
+      "longitude": 4.94851
+    },
+    {
+      "id": 2745911,
+      "name": "Gemeente Utrecht",
+      "nativeName": "Gemeente Utrecht",
+      "code": "NL-UT-2745911",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-UT",
+      "latitude": 52.09675,
+      "longitude": 5.03708
+    },
+    {
+      "id": 2756685,
+      "name": "Gemeente Utrechtse Heuvelrug",
+      "nativeName": "Gemeente Utrechtse Heuvelrug",
+      "code": "NL-UT-2756685",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-UT",
+      "latitude": 52.03486,
+      "longitude": 5.35738
+    },
+    {
+      "id": 2744482,
+      "name": "Gemeente Wijk bij Duurstede",
+      "nativeName": "Gemeente Wijk bij Duurstede",
+      "code": "NL-UT-2744482",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-UT",
+      "latitude": 51.97452,
+      "longitude": 5.33661
+    },
+    {
+      "id": 2744247,
+      "name": "Gemeente Woerden",
+      "nativeName": "Gemeente Woerden",
+      "code": "NL-UT-2744247",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-UT",
+      "latitude": 52.10675,
+      "longitude": 4.90066
+    },
+    {
+      "id": 2744162,
+      "name": "Gemeente Woudenberg",
+      "nativeName": "Gemeente Woudenberg",
+      "code": "NL-UT-2744162",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-UT",
+      "latitude": 52.08055,
+      "longitude": 5.3981
+    },
+    {
+      "id": 2743976,
+      "name": "Gemeente Zeist",
+      "nativeName": "Gemeente Zeist",
+      "code": "NL-UT-2743976",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-UT",
+      "latitude": 52.08847,
+      "longitude": 5.23275
+    },
+    {
+      "id": 2750625,
+      "name": "Montfoort Municipality",
+      "nativeName": "Gemeente Montfoort",
+      "code": "NL-UT-2750625",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-UT",
+      "latitude": 52.04767,
+      "longitude": 4.94844
+    },
+    {
+      "id": 2750324,
+      "name": "Nieuwegein Municipality",
+      "nativeName": "Gemeente Nieuwegein",
+      "code": "NL-UT-2750324",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-UT",
+      "latitude": 52.02843,
+      "longitude": 5.09539
+    },
+    {
+      "id": 2748978,
+      "name": "Oudewater Municipality",
+      "nativeName": "Gemeente Oudewater",
+      "code": "NL-UT-2748978",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-UT",
+      "latitude": 52.0284,
+      "longitude": 4.86243
+    },
+    {
+      "id": 2748227,
+      "name": "Renswoude Municipality",
+      "nativeName": "Gemeente Renswoude",
+      "code": "NL-UT-2748227",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-UT",
+      "latitude": 52.07294,
+      "longitude": 5.53352
+    },
+    {
+      "id": 2748184,
+      "name": "Rhenen Municipality",
+      "nativeName": "Gemeente Rhenen",
+      "code": "NL-UT-2748184",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-UT",
+      "latitude": 51.96151,
+      "longitude": 5.57058
+    },
+    {
+      "id": 2747033,
+      "name": "Soest Municipality",
+      "nativeName": "Gemeente Soest",
+      "code": "NL-UT-2747033",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-UT",
+      "latitude": 52.15636,
+      "longitude": 5.29854
+    },
+    {
+      "id": 8260047,
+      "name": "Stichtse Vecht",
+      "nativeName": "Stichtse Vecht",
+      "code": "NL-UT-8260047",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-UT",
+      "latitude": 52.17679,
+      "longitude": 5.01259
+    },
+    {
+      "id": 2745773,
+      "name": "Veenendaal Municipality",
+      "nativeName": "Gemeente Veenendaal",
+      "code": "NL-UT-2745773",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-UT",
+      "latitude": 52.02459,
+      "longitude": 5.55562
+    },
+    {
+      "id": 2745538,
+      "name": "Vijfheerenlanden Municipality",
+      "nativeName": "Vijfheerenlanden",
+      "code": "NL-UT-2745538",
+      "countryId": 2750405,
+      "countryCode": "NL",
+      "stateCode": "NL-UT",
+      "latitude": 51.91667,
+      "longitude": 5.08333
+    }
+  ]
+}

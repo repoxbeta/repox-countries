@@ -1,0 +1,204 @@
+{
+  "countryId": 51537,
+  "countryCode": "SO",
+  "states": [
+    {
+      "id": 6268943,
+      "name": "Awdal",
+      "nativeName": "Gobolka Awdal",
+      "code": "SO-AW",
+      "internalCode": "AW",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "latitude": 10.5,
+      "longitude": 43.5
+    },
+    {
+      "id": 64982,
+      "name": "Bakool",
+      "nativeName": "Gobolka Bakool",
+      "code": "SO-BK",
+      "internalCode": "BK",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "latitude": 4,
+      "longitude": 44
+    },
+    {
+      "id": 64833,
+      "name": "Banaadir",
+      "nativeName": "Gobolka Banaadir",
+      "code": "SO-BN",
+      "internalCode": "BN",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "latitude": 2.11667,
+      "longitude": 45.4
+    },
+    {
+      "id": 64661,
+      "name": "Bari",
+      "nativeName": "Gobolka Bari",
+      "code": "SO-BR",
+      "internalCode": "BR",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "latitude": 10,
+      "longitude": 50
+    },
+    {
+      "id": 64538,
+      "name": "Bay",
+      "nativeName": "Gobolka Bay",
+      "code": "SO-BY",
+      "internalCode": "BY",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "latitude": 3,
+      "longitude": 43.5
+    },
+    {
+      "id": 59362,
+      "name": "Galguduud",
+      "nativeName": "Gobolka Galguduud",
+      "code": "SO-GA",
+      "internalCode": "GA",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "latitude": 5,
+      "longitude": 47
+    },
+    {
+      "id": 58802,
+      "name": "Gedo",
+      "nativeName": "Gobolka Gedo",
+      "code": "SO-GE",
+      "internalCode": "GE",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "latitude": 3,
+      "longitude": 42
+    },
+    {
+      "id": 57060,
+      "name": "Hiiraan",
+      "nativeName": "Gobolka Hiiraan",
+      "code": "SO-HI",
+      "internalCode": "HI",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "latitude": 4,
+      "longitude": 45.5
+    },
+    {
+      "id": 56083,
+      "name": "Lower Juba",
+      "nativeName": "Gobolka Jubbada Hoose",
+      "code": "SO-JH",
+      "internalCode": "JH",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "latitude": 0,
+      "longitude": 42
+    },
+    {
+      "id": 51966,
+      "name": "Lower Shabeelle",
+      "nativeName": "Gobolka Shabeellaha Hoose",
+      "code": "SO-SH",
+      "internalCode": "SH",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "latitude": 1.83333,
+      "longitude": 44.41667
+    },
+    {
+      "id": 56084,
+      "name": "Middle Juba",
+      "nativeName": "Gobolka Jubbada Dhexe",
+      "code": "SO-JD",
+      "internalCode": "JD",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "latitude": 1.33333,
+      "longitude": 42.66667
+    },
+    {
+      "id": 51967,
+      "name": "Middle Shabele",
+      "nativeName": "Gobolka Shabeellaha Dhexe",
+      "code": "SO-SD",
+      "internalCode": "SD",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "latitude": 3,
+      "longitude": 46
+    },
+    {
+      "id": 53707,
+      "name": "Mudug",
+      "nativeName": "Gobolka Mudug",
+      "code": "SO-MU",
+      "internalCode": "MU",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "latitude": 7,
+      "longitude": 48
+    },
+    {
+      "id": 53477,
+      "name": "Nugaal",
+      "nativeName": "Gobolka Nugaal",
+      "code": "SO-NU",
+      "internalCode": "NU",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "latitude": 8.16667,
+      "longitude": 49
+    },
+    {
+      "id": 52187,
+      "name": "Sanaag",
+      "nativeName": "Gobolka Sanaag",
+      "code": "SO-SA",
+      "internalCode": "SA",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "latitude": 10.5,
+      "longitude": 48
+    },
+    {
+      "id": 6268947,
+      "name": "Sool",
+      "nativeName": "Gobolka Sool",
+      "code": "SO-SO",
+      "internalCode": "SO",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "latitude": 8.66667,
+      "longitude": 47.5
+    },
+    {
+      "id": 51230,
+      "name": "Togdheer",
+      "nativeName": "Gobolka Togdheer",
+      "code": "SO-TO",
+      "internalCode": "TO",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "latitude": 9.33333,
+      "longitude": 45.41667
+    },
+    {
+      "id": 50360,
+      "name": "Woqooyi Galbeed",
+      "nativeName": "Gobolka Woqooyi Galbeed",
+      "code": "SO-WO",
+      "internalCode": "WO",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "latitude": 10,
+      "longitude": 44.5
+    }
+  ]
+}

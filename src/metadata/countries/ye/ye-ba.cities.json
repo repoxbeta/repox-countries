@@ -1,0 +1,227 @@
+{
+  "stateId": 79838,
+  "stateCode": "YE-BA",
+  "countryCode": "YE",
+  "cities": [
+    {
+      "id": 6940680,
+      "name": "Al A'rsh District",
+      "nativeName": "Al A'rsh",
+      "code": "YE-BA-6940680",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-BA",
+      "latitude": 14.3656,
+      "longitude": 44.7778
+    },
+    {
+      "id": 6940677,
+      "name": "Al Bayda City",
+      "nativeName": "Al Bayda City",
+      "code": "YE-BA-6940677",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-BA",
+      "latitude": 13.9849,
+      "longitude": 45.5566
+    },
+    {
+      "id": 77026,
+      "name": "Al Bayḑā’",
+      "nativeName": "Al Bayḑā’",
+      "code": "YE-BA-77026",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-BA",
+      "latitude": 13.93666,
+      "longitude": 45.54822
+    },
+    {
+      "id": 6940678,
+      "name": "Al Malagim District",
+      "nativeName": "Al Malagim",
+      "code": "YE-BA-6940678",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-BA",
+      "latitude": 14.3654,
+      "longitude": 45.3851
+    },
+    {
+      "id": 6940668,
+      "name": "Al Quraishyah District",
+      "nativeName": "Al Quraishyah",
+      "code": "YE-BA-6940668",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-BA",
+      "latitude": 14.605,
+      "longitude": 44.8896
+    },
+    {
+      "id": 6940669,
+      "name": "Ar Ryashyyah District",
+      "nativeName": "Ar Ryashyyah",
+      "code": "YE-BA-6940669",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-BA",
+      "latitude": 14.2424,
+      "longitude": 44.7754
+    },
+    {
+      "id": 6940673,
+      "name": "As Sawadiyah District",
+      "nativeName": "As Sawadiyah",
+      "code": "YE-BA-6940673",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-BA",
+      "latitude": 14.45198,
+      "longitude": 45.36973
+    },
+    {
+      "id": 6940681,
+      "name": "As Sawma'ah District",
+      "nativeName": "As Sawma'ah",
+      "code": "YE-BA-6940681",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-BA",
+      "latitude": 14.1667,
+      "longitude": 45.8311
+    },
+    {
+      "id": 70825,
+      "name": "Ash Sharyah District",
+      "nativeName": "Ash Sharafayn",
+      "code": "YE-BA-70825",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-BA",
+      "latitude": 14.30697,
+      "longitude": 45.12634
+    },
+    {
+      "id": 6940674,
+      "name": "At Taffah District",
+      "nativeName": "At Taffah",
+      "code": "YE-BA-6940674",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-BA",
+      "latitude": 14.1983,
+      "longitude": 45.3581
+    },
+    {
+      "id": 6940682,
+      "name": "Az Zahir District",
+      "nativeName": "Az Zahir",
+      "code": "YE-BA-6940682",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-BA",
+      "latitude": 13.9918,
+      "longitude": 45.4218
+    },
+    {
+      "id": 6940676,
+      "name": "Dhi Na'im District",
+      "nativeName": "Dhi Na'im",
+      "code": "YE-BA-6940676",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-BA",
+      "latitude": 14.1111,
+      "longitude": 45.4642
+    },
+    {
+      "id": 6940679,
+      "name": "Maswarah District",
+      "nativeName": "Maswarah",
+      "code": "YE-BA-6940679",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-BA",
+      "latitude": 14.4027,
+      "longitude": 45.7033
+    },
+    {
+      "id": 6940671,
+      "name": "Mukayras District",
+      "nativeName": "Mukayras",
+      "code": "YE-BA-6940671",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-BA",
+      "latitude": 14.032,
+      "longitude": 45.7964
+    },
+    {
+      "id": 6940670,
+      "name": "Na'man District",
+      "nativeName": "Na'man",
+      "code": "YE-BA-6940670",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-BA",
+      "latitude": 14.5939,
+      "longitude": 45.5286
+    },
+    {
+      "id": 6940672,
+      "name": "Nati' District",
+      "nativeName": "Nati'",
+      "code": "YE-BA-6940672",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-BA",
+      "latitude": 14.5539,
+      "longitude": 45.585
+    },
+    {
+      "id": 71489,
+      "name": "Radda District",
+      "nativeName": "Radā‘",
+      "code": "YE-BA-71489",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-BA",
+      "latitude": 14.34,
+      "longitude": 44.90874
+    },
+    {
+      "id": 6940675,
+      "name": "Radman District",
+      "nativeName": "Radman Al Awad",
+      "code": "YE-BA-6940675",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-BA",
+      "latitude": 14.4836,
+      "longitude": 45.2744
+    },
+    {
+      "id": 6940666,
+      "name": "Sabah District",
+      "nativeName": "Sabah",
+      "code": "YE-BA-6940666",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-BA",
+      "latitude": 14.2759,
+      "longitude": 44.67
+    },
+    {
+      "id": 6940667,
+      "name": "Wald Rabi' District",
+      "nativeName": "Wald Rabi'",
+      "code": "YE-BA-6940667",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-BA",
+      "latitude": 14.649,
+      "longitude": 45.037
+    }
+  ]
+}

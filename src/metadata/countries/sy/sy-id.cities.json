@@ -1,0 +1,62 @@
+{
+  "stateId": 169387,
+  "stateCode": "SY-ID",
+  "countryCode": "SY",
+  "cities": [
+    {
+      "id": 8537261,
+      "name": "Ariha District",
+      "nativeName": "Ariha District",
+      "code": "SY-ID-8537261",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-ID",
+      "latitude": 35.76284,
+      "longitude": 36.55204
+    },
+    {
+      "id": 169865,
+      "name": "Harem District",
+      "nativeName": "Harem District",
+      "code": "SY-ID-169865",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-ID",
+      "latitude": 36.14014,
+      "longitude": 36.56535
+    },
+    {
+      "id": 169388,
+      "name": "Idlib District",
+      "nativeName": "Idlib District",
+      "code": "SY-ID-169388",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-ID",
+      "latitude": 35.90691,
+      "longitude": 36.75677
+    },
+    {
+      "id": 169022,
+      "name": "Jisr al-Shughur District",
+      "nativeName": "Jisr al-Shughur District",
+      "code": "SY-ID-169022",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-ID",
+      "latitude": 35.87756,
+      "longitude": 36.32901
+    },
+    {
+      "id": 167610,
+      "name": "Maarrat al-Nu'man District",
+      "nativeName": "Maarrat al-Nu'man District",
+      "code": "SY-ID-167610",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-ID",
+      "latitude": 35.53858,
+      "longitude": 36.79193
+    }
+  ]
+}

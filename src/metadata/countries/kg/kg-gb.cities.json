@@ -1,0 +1,51 @@
+{
+  "stateId": 1528334,
+  "stateCode": "KG-GB",
+  "countryCode": "KG",
+  "cities": [
+    {
+      "id": 1527686,
+      "name": "Leninskiy District",
+      "nativeName": "Leninskiy Rayon",
+      "code": "KG-GB-1527686",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-GB",
+      "latitude": 42.85491,
+      "longitude": 74.58405
+    },
+    {
+      "id": 8220960,
+      "name": "Oktyabr’skiy District",
+      "nativeName": "Oktyabr’skiy Rayon",
+      "code": "KG-GB-8220960",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-GB",
+      "latitude": 42.85961,
+      "longitude": 74.62033
+    },
+    {
+      "id": 1527506,
+      "name": "Pervomayskiy District",
+      "nativeName": "Pervomayskiy Rayon",
+      "code": "KG-GB-1527506",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-GB",
+      "latitude": 42.88704,
+      "longitude": 74.58213
+    },
+    {
+      "id": 1527315,
+      "name": "Sverdlovskiy Rayon",
+      "nativeName": "Sverdlovskiy Rayon",
+      "code": "KG-GB-1527315",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-GB",
+      "latitude": 42.90276,
+      "longitude": 74.60013
+    }
+  ]
+}

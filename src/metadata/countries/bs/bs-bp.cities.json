@@ -1,0 +1,40 @@
+{
+  "stateId": 8030541,
+  "stateCode": "BS-BP",
+  "countryCode": "BS",
+  "cities": [
+    {
+      "id": 3572796,
+      "name": "Black Point",
+      "nativeName": "Black Point",
+      "code": "BS-BP-3572796",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-BP",
+      "latitude": 24.1,
+      "longitude": -76.38333
+    },
+    {
+      "id": 3572797,
+      "name": "Black Point",
+      "nativeName": "Black Point",
+      "code": "BS-BP-3572797",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-BP",
+      "latitude": 23.98333,
+      "longitude": -77.55
+    },
+    {
+      "id": 3572057,
+      "name": "Little Farmers Cay",
+      "nativeName": "Little Farmers Cay",
+      "code": "BS-BP-3572057",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-BP",
+      "latitude": 23.95,
+      "longitude": -76.31667
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "stateId": 12226390,
+  "stateCode": "DZ-55",
+  "countryCode": "DZ",
+  "cities": [
+    {
+      "id": 2475473,
+      "name": "Daïra de Touggourt",
+      "nativeName": "Daïra de Touggourt",
+      "code": "DZ-55-2475473",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-55",
+      "latitude": 33.09631,
+      "longitude": 6.06641
+    },
+    {
+      "id": 12952791,
+      "name": "El-Hadjira",
+      "nativeName": "El-Hadjira",
+      "code": "DZ-55-12952791",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-55",
+      "latitude": 32.92668,
+      "longitude": 5.44499
+    },
+    {
+      "id": 12952436,
+      "name": "Megarine",
+      "nativeName": "Megarine",
+      "code": "DZ-55-12952436",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-55",
+      "latitude": 33.29648,
+      "longitude": 5.93216
+    },
+    {
+      "id": 12952817,
+      "name": "Taibet",
+      "nativeName": "Taibet",
+      "code": "DZ-55-12952817",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-55",
+      "latitude": 32.8821,
+      "longitude": 6.42102
+    },
+    {
+      "id": 12952440,
+      "name": "Temacine",
+      "nativeName": "Temacine",
+      "code": "DZ-55-12952440",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-55",
+      "latitude": 32.97228,
+      "longitude": 6.0409
+    }
+  ]
+}

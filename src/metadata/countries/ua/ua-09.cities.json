@@ -1,0 +1,95 @@
+{
+  "stateId": 702657,
+  "stateCode": "UA-09",
+  "countryCode": "UA",
+  "cities": [
+    {
+      "id": 12189519,
+      "name": "Alchevsk Raion",
+      "nativeName": "Alchevskyi Raion",
+      "code": "UA-09-12189519",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-09",
+      "latitude": 48.51,
+      "longitude": 38.74
+    },
+    {
+      "id": 692104,
+      "name": "Dovzhansk Raion",
+      "nativeName": "Dovzhanskyy Rayon",
+      "code": "UA-09-692104",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-09",
+      "latitude": 48,
+      "longitude": 39.66667
+    },
+    {
+      "id": 12189520,
+      "name": "Luhansk Raion",
+      "nativeName": "Luhanskyi Raion",
+      "code": "UA-09-12189520",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-09",
+      "latitude": 48.44,
+      "longitude": 39.33
+    },
+    {
+      "id": 12189521,
+      "name": "Rovenky Raion",
+      "nativeName": "Rovenkivskyi Raion",
+      "code": "UA-09-12189521",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-09",
+      "latitude": 48.11,
+      "longitude": 39.07
+    },
+    {
+      "id": 12189523,
+      "name": "Shchastia Raion",
+      "nativeName": "Shchastynskyi Raion",
+      "code": "UA-09-12189523",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-09",
+      "latitude": 48.91464,
+      "longitude": 39.27871
+    },
+    {
+      "id": 12189522,
+      "name": "Sievierodonetsk Raion",
+      "nativeName": "Sievierodonetskyi Raion",
+      "code": "UA-09-12189522",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-09",
+      "latitude": 48.91,
+      "longitude": 38.44
+    },
+    {
+      "id": 692830,
+      "name": "Starobilsk Raion",
+      "nativeName": "Starobilskyi Raion",
+      "code": "UA-09-692830",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-09",
+      "latitude": 49.39,
+      "longitude": 39.38
+    },
+    {
+      "id": 692117,
+      "name": "Svatove Raion",
+      "nativeName": "Svativskyi Raion",
+      "code": "UA-09-692117",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-09",
+      "latitude": 49.6,
+      "longitude": 38.37
+    }
+  ]
+}

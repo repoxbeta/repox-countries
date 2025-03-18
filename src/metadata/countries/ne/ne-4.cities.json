@@ -1,0 +1,106 @@
+{
+  "stateId": 2441289,
+  "stateCode": "NE-4",
+  "countryCode": "NE",
+  "cities": [
+    {
+      "id": 8624179,
+      "name": "Aguié",
+      "nativeName": "Département d’ Aguié",
+      "code": "NE-4-8624179",
+      "countryId": 2440476,
+      "countryCode": "NE",
+      "stateCode": "NE-4",
+      "latitude": 13.46976,
+      "longitude": 7.74219
+    },
+    {
+      "id": 11996004,
+      "name": "Bermo",
+      "nativeName": "Bermo",
+      "code": "NE-4-11996004",
+      "countryId": 2440476,
+      "countryCode": "NE",
+      "stateCode": "NE-4",
+      "latitude": 15.08252,
+      "longitude": 6.95091
+    },
+    {
+      "id": 2446266,
+      "name": "Dakoro",
+      "nativeName": "Département de Dakoro",
+      "code": "NE-4-2446266",
+      "countryId": 2440476,
+      "countryCode": "NE",
+      "stateCode": "NE-4",
+      "latitude": 14.75,
+      "longitude": 7
+    },
+    {
+      "id": 11996006,
+      "name": "Gazaoua",
+      "nativeName": "Gazaoua",
+      "code": "NE-4-11996006",
+      "countryId": 2440476,
+      "countryCode": "NE",
+      "stateCode": "NE-4",
+      "latitude": 13.42134,
+      "longitude": 7.94439
+    },
+    {
+      "id": 8299475,
+      "name": "Guidan Roumdji",
+      "nativeName": "Guidan Roumdji Department",
+      "code": "NE-4-8299475",
+      "countryId": 2440476,
+      "countryCode": "NE",
+      "stateCode": "NE-4",
+      "latitude": 13.6575,
+      "longitude": 6.69583
+    },
+    {
+      "id": 8624180,
+      "name": "Madarounfa",
+      "nativeName": "Madarounfa",
+      "code": "NE-4-8624180",
+      "countryId": 2440476,
+      "countryCode": "NE",
+      "stateCode": "NE-4",
+      "latitude": 13.28253,
+      "longitude": 7.15495
+    },
+    {
+      "id": 2441193,
+      "name": "Mayahi",
+      "nativeName": "Département de Mayahi",
+      "code": "NE-4-2441193",
+      "countryId": 2440476,
+      "countryCode": "NE",
+      "stateCode": "NE-4",
+      "latitude": 14.1,
+      "longitude": 7.6
+    },
+    {
+      "id": 2438821,
+      "name": "Tessaoua",
+      "nativeName": "Département de Tessaoua",
+      "code": "NE-4-2438821",
+      "countryId": 2440476,
+      "countryCode": "NE",
+      "stateCode": "NE-4",
+      "latitude": 13.6,
+      "longitude": 7.9
+    },
+    {
+      "id": 2441290,
+      "name": "Ville de Maradi",
+      "nativeName": "Ville de Maradi",
+      "code": "NE-4-2441290",
+      "countryId": 2440476,
+      "countryCode": "NE",
+      "stateCode": "NE-4",
+      "latitude": 13.49466,
+      "longitude": 7.11512
+    }
+  ]
+}

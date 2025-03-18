@@ -1,0 +1,62 @@
+{
+  "stateId": 710734,
+  "stateCode": "UA-74",
+  "countryCode": "UA",
+  "cities": [
+    {
+      "id": 710736,
+      "name": "Chernihiv Raion",
+      "nativeName": "Chernihiv Raion",
+      "code": "UA-74-710736",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-74",
+      "latitude": 51.58333,
+      "longitude": 31.33333
+    },
+    {
+      "id": 704838,
+      "name": "Koriukivka Raion",
+      "nativeName": "Koriukivskyi Raion",
+      "code": "UA-74-704838",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-74",
+      "latitude": 51.73,
+      "longitude": 32.24
+    },
+    {
+      "id": 9806344,
+      "name": "Nizhyn Raion",
+      "nativeName": "Nizhyns’ka Mis’krada",
+      "code": "UA-74-9806344",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-74",
+      "latitude": 51.04675,
+      "longitude": 31.88108
+    },
+    {
+      "id": 9806345,
+      "name": "Novhorod-Sivers’ka Mis’krada",
+      "nativeName": "Novhorod-Sivers’ka Mis’krada",
+      "code": "UA-74-9806345",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-74",
+      "latitude": 52.01279,
+      "longitude": 33.25398
+    },
+    {
+      "id": 696294,
+      "name": "Prylutskyi Raion",
+      "nativeName": "Prylutskyi Raion",
+      "code": "UA-74-696294",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-74",
+      "latitude": 50.69,
+      "longitude": 32.55
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "stateId": 307513,
+  "stateCode": "TR-40",
+  "countryCode": "TR",
+  "cities": [
+    {
+      "id": 8631937,
+      "name": "Akpınar İlçesi",
+      "nativeName": "Akpınar İlçesi",
+      "code": "TR-40-8631937",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-40",
+      "latitude": 39.45879,
+      "longitude": 33.96975
+    },
+    {
+      "id": 8631935,
+      "name": "Akçakent İlçesi",
+      "nativeName": "Akçakent İlçesi",
+      "code": "TR-40-8631935",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-40",
+      "latitude": 39.63184,
+      "longitude": 34.08468
+    },
+    {
+      "id": 8631939,
+      "name": "Boztepe İlçesi",
+      "nativeName": "Boztepe İlçesi",
+      "code": "TR-40-8631939",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-40",
+      "latitude": 39.27979,
+      "longitude": 34.26657
+    },
+    {
+      "id": 8631938,
+      "name": "Kaman İlçesi",
+      "nativeName": "Kaman İlçesi",
+      "code": "TR-40-8631938",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-40",
+      "latitude": 39.36717,
+      "longitude": 33.72784
+    },
+    {
+      "id": 8631940,
+      "name": "Mucur İlçesi",
+      "nativeName": "Mucur İlçesi",
+      "code": "TR-40-8631940",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-40",
+      "latitude": 39.07146,
+      "longitude": 34.3867
+    },
+    {
+      "id": 8631936,
+      "name": "Çiçekdağı İlçesi",
+      "nativeName": "Çiçekdağı İlçesi",
+      "code": "TR-40-8631936",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-40",
+      "latitude": 39.61643,
+      "longitude": 34.41834
+    }
+  ]
+}

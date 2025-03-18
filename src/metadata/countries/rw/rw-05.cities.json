@@ -1,0 +1,95 @@
+{
+  "stateId": 6413341,
+  "stateCode": "RW-05",
+  "countryCode": "RW",
+  "cities": [
+    {
+      "id": 7690220,
+      "name": "Gisagara District",
+      "nativeName": "Gisagara District",
+      "code": "RW-05-7690220",
+      "countryId": 49518,
+      "countryCode": "RW",
+      "stateCode": "RW-05",
+      "latitude": -2.61811,
+      "longitude": 29.85022
+    },
+    {
+      "id": 7690219,
+      "name": "Huye District",
+      "nativeName": "Huye District",
+      "code": "RW-05-7690219",
+      "countryId": 49518,
+      "countryCode": "RW",
+      "stateCode": "RW-05",
+      "latitude": -2.51704,
+      "longitude": 29.69603
+    },
+    {
+      "id": 7690215,
+      "name": "Kamonyi District",
+      "nativeName": "Kamonyi District",
+      "code": "RW-05-7690215",
+      "countryId": 49518,
+      "countryCode": "RW",
+      "stateCode": "RW-05",
+      "latitude": -2.00521,
+      "longitude": 29.89817
+    },
+    {
+      "id": 7690214,
+      "name": "Muhanga District",
+      "nativeName": "Muhanga District",
+      "code": "RW-05-7690214",
+      "countryId": 49518,
+      "countryCode": "RW",
+      "stateCode": "RW-05",
+      "latitude": -1.93912,
+      "longitude": 29.71805
+    },
+    {
+      "id": 7690218,
+      "name": "Nyamagabe District",
+      "nativeName": "Nyamagabe District",
+      "code": "RW-05-7690218",
+      "countryId": 49518,
+      "countryCode": "RW",
+      "stateCode": "RW-05",
+      "latitude": -2.40819,
+      "longitude": 29.46797
+    },
+    {
+      "id": 7690217,
+      "name": "Nyanza District",
+      "nativeName": "Nyanza District",
+      "code": "RW-05-7690217",
+      "countryId": 49518,
+      "countryCode": "RW",
+      "stateCode": "RW-05",
+      "latitude": -2.33692,
+      "longitude": 29.79451
+    },
+    {
+      "id": 7690221,
+      "name": "Nyaruguru District",
+      "nativeName": "Nyaruguru District",
+      "code": "RW-05-7690221",
+      "countryId": 49518,
+      "countryCode": "RW",
+      "stateCode": "RW-05",
+      "latitude": -2.69845,
+      "longitude": 29.52369
+    },
+    {
+      "id": 7690216,
+      "name": "Ruhango District",
+      "nativeName": "Ruhango District",
+      "code": "RW-05-7690216",
+      "countryId": 49518,
+      "countryCode": "RW",
+      "stateCode": "RW-05",
+      "latitude": -2.19957,
+      "longitude": 29.76989
+    }
+  ]
+}

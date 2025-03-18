@@ -1,0 +1,40 @@
+{
+  "stateId": 3724613,
+  "stateCode": "HT-GA",
+  "countryCode": "HT",
+  "cities": [
+    {
+      "id": 3731116,
+      "name": "Ansdeno",
+      "nativeName": "Ansdeno",
+      "code": "HT-GA-3731116",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "stateCode": "HT-GA",
+      "latitude": 18.46645,
+      "longitude": -74.39134
+    },
+    {
+      "id": 3727381,
+      "name": "Arrondissement de Corail",
+      "nativeName": "Arrondissement de Corail",
+      "code": "HT-GA-3727381",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "stateCode": "HT-GA",
+      "latitude": 18.51827,
+      "longitude": -73.92804
+    },
+    {
+      "id": 3723592,
+      "name": "Jeremi",
+      "nativeName": "Jeremi",
+      "code": "HT-GA-3723592",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "stateCode": "HT-GA",
+      "latitude": 18.54145,
+      "longitude": -74.22034
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "stateId": 1906687,
+  "stateCode": "TH-25",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 1613406,
+      "name": "Ban Sang",
+      "nativeName": "Amphoe Ban Sang",
+      "code": "TH-25-1613406",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-25",
+      "latitude": 13.95005,
+      "longitude": 101.25063
+    },
+    {
+      "id": 1610537,
+      "name": "Kabin Buri",
+      "nativeName": "Amphoe Kabin Buri",
+      "code": "TH-25-1610537",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-25",
+      "latitude": 13.9,
+      "longitude": 101.8
+    },
+    {
+      "id": 1608629,
+      "name": "Mueang Prachin Buri",
+      "nativeName": "Amphoe Mueang Prachin Buri",
+      "code": "TH-25-1608629",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-25",
+      "latitude": 14.09335,
+      "longitude": 101.39776
+    },
+    {
+      "id": 7510726,
+      "name": "Na Di",
+      "nativeName": "Amphoe Na Di",
+      "code": "TH-25-7510726",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-25",
+      "latitude": 14.19253,
+      "longitude": 101.84557
+    },
+    {
+      "id": 1607282,
+      "name": "Prachantakham",
+      "nativeName": "Amphoe Prachantakham",
+      "code": "TH-25-1607282",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-25",
+      "latitude": 14.22813,
+      "longitude": 101.5744
+    },
+    {
+      "id": 1606290,
+      "name": "Si Maha Phot",
+      "nativeName": "Amphoe Si Maha Phot",
+      "code": "TH-25-1606290",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-25",
+      "latitude": 13.89041,
+      "longitude": 101.54181
+    },
+    {
+      "id": 7510706,
+      "name": "Si Mahosot",
+      "nativeName": "Amphoe Si Mahosot",
+      "code": "TH-25-7510706",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-25",
+      "latitude": 13.87669,
+      "longitude": 101.42499
+    }
+  ]
+}

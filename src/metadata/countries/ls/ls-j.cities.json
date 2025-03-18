@@ -1,0 +1,62 @@
+{
+  "stateId": 932418,
+  "stateCode": "LS-J",
+  "countryCode": "LS",
+  "cities": [
+    {
+      "id": 932416,
+      "name": "Mokhotlong",
+      "nativeName": "Mokhotlong",
+      "code": "LS-J-932416",
+      "countryId": 932692,
+      "countryCode": "LS",
+      "stateCode": "LS-J",
+      "latitude": -29.28939,
+      "longitude": 29.06751
+    },
+    {
+      "id": 11280712,
+      "name": "Linakeng Ha Mphosi",
+      "nativeName": "Linakeng Ha Mphosi",
+      "code": "LS-J-11280712",
+      "countryId": 932692,
+      "countryCode": "LS",
+      "stateCode": "LS-J",
+      "latitude": -29.5297,
+      "longitude": 28.78491
+    },
+    {
+      "id": 7303560,
+      "name": "Liqhobong",
+      "nativeName": "Liqhobong",
+      "code": "LS-J-7303560",
+      "countryId": 932692,
+      "countryCode": "LS",
+      "stateCode": "LS-J",
+      "latitude": -28.9876,
+      "longitude": 28.59866
+    },
+    {
+      "id": 11352294,
+      "name": "Mangaung",
+      "nativeName": "Mangaung",
+      "code": "LS-J-11352294",
+      "countryId": 932692,
+      "countryCode": "LS",
+      "stateCode": "LS-J",
+      "latitude": -29.2895,
+      "longitude": 29.0412
+    },
+    {
+      "id": 12687291,
+      "name": "Mapholaneng",
+      "nativeName": "Mapholaneng",
+      "code": "LS-J-12687291",
+      "countryId": 932692,
+      "countryCode": "LS",
+      "stateCode": "LS-J",
+      "latitude": -29.20026,
+      "longitude": 28.86802
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "stateId": 2383765,
+  "stateCode": "CF-MP",
+  "countryCode": "CF",
+  "cities": [
+    {
+      "id": 7731896,
+      "name": "Bimbo Sub-Prefecture",
+      "nativeName": "Bimbo Sub-Prefecture",
+      "code": "CF-MP-7731896",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-MP",
+      "latitude": 4.32433,
+      "longitude": 18.50962
+    },
+    {
+      "id": 8299285,
+      "name": "Boali Sub-Prefecture",
+      "nativeName": "Boali Sub-Prefecture",
+      "code": "CF-MP-8299285",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-MP",
+      "latitude": 4.784,
+      "longitude": 18.106
+    },
+    {
+      "id": 9143490,
+      "name": "Bogangolo",
+      "nativeName": "Bogangolo",
+      "code": "CF-MP-9143490",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-MP",
+      "latitude": 5.51405,
+      "longitude": 18.21001
+    },
+    {
+      "id": 7732723,
+      "name": "Bossembele Sub-Prefecture",
+      "nativeName": "Bossembele Sub-Prefecture",
+      "code": "CF-MP-7732723",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-MP",
+      "latitude": 5.24147,
+      "longitude": 17.60866
+    },
+    {
+      "id": 7731895,
+      "name": "Damara",
+      "nativeName": "Damara",
+      "code": "CF-MP-7731895",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-MP",
+      "latitude": 5.09961,
+      "longitude": 18.69022
+    },
+    {
+      "id": 7732372,
+      "name": "Yaloke Sub-Prefecture",
+      "nativeName": "Yaloke Sub-Prefecture",
+      "code": "CF-MP-7732372",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-MP",
+      "latitude": 5.41797,
+      "longitude": 16.96877
+    }
+  ]
+}

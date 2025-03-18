@@ -1,0 +1,29 @@
+{
+  "stateId": 1308528,
+  "stateCode": "MM-15",
+  "countryCode": "MM",
+  "cities": [
+    {
+      "id": 8238822,
+      "name": "Mawlamyine District",
+      "nativeName": "Mawlamyine District",
+      "code": "MM-15-8238822",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-15",
+      "latitude": 15.76141,
+      "longitude": 97.85175
+    },
+    {
+      "id": 1292287,
+      "name": "Thaton District",
+      "nativeName": "Thaton District",
+      "code": "MM-15-1292287",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-15",
+      "latitude": 17.1325,
+      "longitude": 97.2747
+    }
+  ]
+}

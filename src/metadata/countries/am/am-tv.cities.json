@@ -1,0 +1,51 @@
+{
+  "stateId": 828265,
+  "stateCode": "AM-TV",
+  "countryCode": "AM",
+  "cities": [
+    {
+      "id": 13156182,
+      "name": "Berd Municipality",
+      "nativeName": "Berd Municipality",
+      "code": "AM-TV-13156182",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-TV",
+      "latitude": 40.81626,
+      "longitude": 45.42075
+    },
+    {
+      "id": 13156180,
+      "name": "Dilijan Municipality",
+      "nativeName": "Dilijan Municipality",
+      "code": "AM-TV-13156180",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-TV",
+      "latitude": 40.76269,
+      "longitude": 44.93042
+    },
+    {
+      "id": 13156181,
+      "name": "Ijevan Municipality",
+      "nativeName": "Ijevan Municipality",
+      "code": "AM-TV-13156181",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-TV",
+      "latitude": 40.89204,
+      "longitude": 45.13154
+    },
+    {
+      "id": 13156183,
+      "name": "Noyemberyan Municipality",
+      "nativeName": "Noyemberyan Municipality",
+      "code": "AM-TV-13156183",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-TV",
+      "latitude": 41.18086,
+      "longitude": 44.98459
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "stateId": 864483,
+  "stateCode": "LT-TE",
+  "countryCode": "LT",
+  "cities": [
+    {
+      "id": 864512,
+      "name": "Mažeikiai District Municipality",
+      "nativeName": "Mažeikiai",
+      "code": "LT-TE-864512",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-TE",
+      "latitude": 56.31667,
+      "longitude": 22.33333
+    },
+    {
+      "id": 864513,
+      "name": "Plungė District Municipality",
+      "nativeName": "Plungė",
+      "code": "LT-TE-864513",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-TE",
+      "latitude": 55.91667,
+      "longitude": 21.85
+    },
+    {
+      "id": 9610126,
+      "name": "Rietavas Municipality",
+      "nativeName": "Rietavas",
+      "code": "LT-TE-9610126",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-TE",
+      "latitude": 55.72375,
+      "longitude": 21.93266
+    },
+    {
+      "id": 864511,
+      "name": "Telšiai District Municipality",
+      "nativeName": "Telšiai",
+      "code": "LT-TE-864511",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-TE",
+      "latitude": 55.98333,
+      "longitude": 22.25
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "stateId": 3042613,
+  "stateCode": "HU-ZA",
+  "countryCode": "HU",
+  "cities": [
+    {
+      "id": 9644171,
+      "name": "Keszthelyi Járás",
+      "nativeName": "Keszthelyi Járás",
+      "code": "HU-ZA-9644171",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-ZA",
+      "latitude": 46.78356,
+      "longitude": 17.22381
+    },
+    {
+      "id": 9644168,
+      "name": "Lenti Járás",
+      "nativeName": "Lenti Járás",
+      "code": "HU-ZA-9644168",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-ZA",
+      "latitude": 46.65649,
+      "longitude": 16.57443
+    },
+    {
+      "id": 9644169,
+      "name": "Letenyei Járás",
+      "nativeName": "Letenyei Járás",
+      "code": "HU-ZA-9644169",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-ZA",
+      "latitude": 46.50552,
+      "longitude": 16.76503
+    },
+    {
+      "id": 9644172,
+      "name": "Nagykanizsai Járás",
+      "nativeName": "Nagykanizsai Járás",
+      "code": "HU-ZA-9644172",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-ZA",
+      "latitude": 46.51873,
+      "longitude": 17.04433
+    },
+    {
+      "id": 9644167,
+      "name": "Zalaegerszegi Járás",
+      "nativeName": "Zalaegerszegi Járás",
+      "code": "HU-ZA-9644167",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-ZA",
+      "latitude": 46.8,
+      "longitude": 16.83
+    },
+    {
+      "id": 9644170,
+      "name": "Zalaszentgróti Járás",
+      "nativeName": "Zalaszentgróti Járás",
+      "code": "HU-ZA-9644170",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-ZA",
+      "latitude": 46.9207,
+      "longitude": 17.10095
+    }
+  ]
+}

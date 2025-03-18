@@ -1,0 +1,106 @@
+{
+  "stateId": 875996,
+  "stateCode": "AO-MOX",
+  "countryCode": "AO",
+  "cities": [
+    {
+      "id": 876723,
+      "name": "Alto Zambeze",
+      "nativeName": "Alto Zambeze",
+      "code": "AO-MOX-876723",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-MOX",
+      "latitude": -12.2799,
+      "longitude": 23.02113
+    },
+    {
+      "id": 876129,
+      "name": "Bundas",
+      "nativeName": "Bundas",
+      "code": "AO-MOX-876129",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-MOX",
+      "latitude": -14.19476,
+      "longitude": 21.3611
+    },
+    {
+      "id": 876631,
+      "name": "Camanongue",
+      "nativeName": "Camanongue",
+      "code": "AO-MOX-876631",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-MOX",
+      "latitude": -11.40984,
+      "longitude": 20.18525
+    },
+    {
+      "id": 876125,
+      "name": "Cameia",
+      "nativeName": "Cameia",
+      "code": "AO-MOX-876125",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-MOX",
+      "latitude": -11.56345,
+      "longitude": 20.83145
+    },
+    {
+      "id": 876198,
+      "name": "Luacano",
+      "nativeName": "Luacano",
+      "code": "AO-MOX-876198",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-MOX",
+      "latitude": -11.23633,
+      "longitude": 21.67191
+    },
+    {
+      "id": 876176,
+      "name": "Luau",
+      "nativeName": "Luau",
+      "code": "AO-MOX-876176",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-MOX",
+      "latitude": -10.91838,
+      "longitude": 21.97997
+    },
+    {
+      "id": 3347741,
+      "name": "Luchazes",
+      "nativeName": "Luchazes",
+      "code": "AO-MOX-3347741",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-MOX",
+      "latitude": -13.6851,
+      "longitude": 19.48265
+    },
+    {
+      "id": 875997,
+      "name": "Luena",
+      "nativeName": "Luena",
+      "code": "AO-MOX-875997",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-MOX",
+      "latitude": -12.23621,
+      "longitude": 19.73384
+    },
+    {
+      "id": 876232,
+      "name": "Léua",
+      "nativeName": "Léua",
+      "code": "AO-MOX-876232",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-MOX",
+      "latitude": -11.74475,
+      "longitude": 20.57841
+    }
+  ]
+}

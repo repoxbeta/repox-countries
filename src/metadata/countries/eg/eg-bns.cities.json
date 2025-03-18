@@ -1,0 +1,95 @@
+{
+  "stateId": 359171,
+  "stateCode": "EG-BNS",
+  "countryCode": "EG",
+  "cities": [
+    {
+      "id": 359172,
+      "name": "Markaz Banī Suwayf",
+      "nativeName": "Markaz Banī Suwayf",
+      "code": "EG-BNS-359172",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-BNS",
+      "latitude": 29.09122,
+      "longitude": 31.07098
+    },
+    {
+      "id": 358869,
+      "name": "Markaz Bibā",
+      "nativeName": "Markaz Bibā",
+      "code": "EG-BNS-358869",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-BNS",
+      "latitude": 28.94863,
+      "longitude": 30.9724
+    },
+    {
+      "id": 358599,
+      "name": "Markaz Būsh",
+      "nativeName": "Markaz Būsh",
+      "code": "EG-BNS-358599",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-BNS",
+      "latitude": 29.15,
+      "longitude": 31.11667
+    },
+    {
+      "id": 355594,
+      "name": "Markaz Ihnāsiyā al Madīnah",
+      "nativeName": "Markaz Ihnāsiyā al Madīnah",
+      "code": "EG-BNS-355594",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-BNS",
+      "latitude": 29.09069,
+      "longitude": 30.94091
+    },
+    {
+      "id": 10371146,
+      "name": "Markaz Nāşir",
+      "nativeName": "Markaz Nāşir",
+      "code": "EG-BNS-10371146",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-BNS",
+      "latitude": 29.17198,
+      "longitude": 31.10058
+    },
+    {
+      "id": 347750,
+      "name": "Markaz Sumusţā al Waqf",
+      "nativeName": "Markaz Sumusţā al Waqf",
+      "code": "EG-BNS-347750",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-BNS",
+      "latitude": 28.95452,
+      "longitude": 30.84821
+    },
+    {
+      "id": 361330,
+      "name": "Markaz al Fashn",
+      "nativeName": "Markaz al Fashn",
+      "code": "EG-BNS-361330",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-BNS",
+      "latitude": 28.79737,
+      "longitude": 30.85068
+    },
+    {
+      "id": 360466,
+      "name": "Markaz al Wāsiţá",
+      "nativeName": "Markaz al Wāsiţá",
+      "code": "EG-BNS-360466",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-BNS",
+      "latitude": 29.30962,
+      "longitude": 31.17455
+    }
+  ]
+}

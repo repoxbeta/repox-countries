@@ -1,0 +1,83 @@
+{
+  "countryId": 3041565,
+  "countryCode": "AD",
+  "states": [
+    {
+      "id": 3041566,
+      "name": "Andorra la Vella",
+      "nativeName": "Andorra la Vella",
+      "code": "AD-07",
+      "internalCode": "07",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "latitude": 42.5045,
+      "longitude": 1.49414
+    },
+    {
+      "id": 3041203,
+      "name": "Canillo",
+      "nativeName": "Canillo",
+      "code": "AD-02",
+      "internalCode": "02",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "latitude": 42.58333,
+      "longitude": 1.65833
+    },
+    {
+      "id": 3040684,
+      "name": "Encamp",
+      "nativeName": "Encamp",
+      "code": "AD-03",
+      "internalCode": "03",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "latitude": 42.53333,
+      "longitude": 1.63333
+    },
+    {
+      "id": 3338529,
+      "name": "Escaldes-Engordany",
+      "nativeName": "Escaldes-Engordany",
+      "code": "AD-08",
+      "internalCode": "08",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "latitude": 42.5,
+      "longitude": 1.56667
+    },
+    {
+      "id": 3040131,
+      "name": "La Massana",
+      "nativeName": "La Massana",
+      "code": "AD-04",
+      "internalCode": "04",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "latitude": 42.55417,
+      "longitude": 1.48333
+    },
+    {
+      "id": 3039676,
+      "name": "Ordino",
+      "nativeName": "Ordino",
+      "code": "AD-05",
+      "internalCode": "05",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "latitude": 42.59758,
+      "longitude": 1.52573
+    },
+    {
+      "id": 3039162,
+      "name": "Sant Julià de Loria",
+      "nativeName": "Sant Julià de Lòria",
+      "code": "AD-06",
+      "internalCode": "06",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "latitude": 42.46247,
+      "longitude": 1.48247
+    }
+  ]
+}

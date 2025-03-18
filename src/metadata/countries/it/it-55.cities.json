@@ -1,0 +1,29 @@
+{
+  "stateId": 3165048,
+  "stateCode": "IT-55",
+  "countryCode": "IT",
+  "cities": [
+    {
+      "id": 3171179,
+      "name": "Province of Perugia",
+      "nativeName": "Provincia di Perugia",
+      "code": "IT-55-3171179",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-55",
+      "latitude": 43.05,
+      "longitude": 12.55
+    },
+    {
+      "id": 3165770,
+      "name": "Province of Terni",
+      "nativeName": "Provincia di Terni",
+      "code": "IT-55-3165770",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-55",
+      "latitude": 42.68333,
+      "longitude": 12.31667
+    }
+  ]
+}

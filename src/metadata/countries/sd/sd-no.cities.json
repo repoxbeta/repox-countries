@@ -1,0 +1,29 @@
+{
+  "stateId": 378389,
+  "stateCode": "SD-NO",
+  "countryCode": "SD",
+  "cities": [
+    {
+      "id": 363412,
+      "name": "Al Mudīrīyah ash Shamālīyah",
+      "nativeName": "Al Mudīrīyah ash Shamālīyah",
+      "code": "SD-NO-363412",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-NO",
+      "latitude": 19,
+      "longitude": 30
+    },
+    {
+      "id": 8051145,
+      "name": "Merawi",
+      "nativeName": "Merawi",
+      "code": "SD-NO-8051145",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-NO",
+      "latitude": 18.31,
+      "longitude": 31.94
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "stateId": 7628342,
+  "stateCode": "LV-102",
+  "countryCode": "LV",
+  "cities": [
+    {
+      "id": 11352934,
+      "name": "Murmastienes pagasts",
+      "nativeName": "Murmastienes pagasts",
+      "code": "LV-102-11352934",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-102",
+      "latitude": 56.65172,
+      "longitude": 26.57196
+    },
+    {
+      "id": 11352968,
+      "name": "Varakļāni",
+      "nativeName": "Varakļāni",
+      "code": "LV-102-11352968",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-102",
+      "latitude": 56.6061,
+      "longitude": 26.75932
+    },
+    {
+      "id": 11352969,
+      "name": "Varakļānu pagasts",
+      "nativeName": "Varakļānu pagasts",
+      "code": "LV-102-11352969",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-102",
+      "latitude": 56.59339,
+      "longitude": 26.68123
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "stateId": 1651539,
+  "stateCode": "TL-OE",
+  "countryCode": "TL",
+  "cities": [
+    {
+      "id": 8628963,
+      "name": "Nitibe",
+      "nativeName": "Nitibe",
+      "code": "TL-OE-8628963",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-OE",
+      "latitude": -9.34796,
+      "longitude": 124.23333
+    },
+    {
+      "id": 8628965,
+      "name": "Oesilo",
+      "nativeName": "Oesilo",
+      "code": "TL-OE-8628965",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-OE",
+      "latitude": -9.36667,
+      "longitude": 124.35
+    },
+    {
+      "id": 8629270,
+      "name": "Pante Makasar",
+      "nativeName": "Pante Makasar",
+      "code": "TL-OE-8629270",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-OE",
+      "latitude": -9.20022,
+      "longitude": 124.38081
+    },
+    {
+      "id": 8628964,
+      "name": "Passabe",
+      "nativeName": "Passabe",
+      "code": "TL-OE-8628964",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-OE",
+      "latitude": -9.46701,
+      "longitude": 124.34978
+    }
+  ]
+}

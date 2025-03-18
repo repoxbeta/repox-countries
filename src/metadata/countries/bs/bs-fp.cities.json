@@ -1,0 +1,62 @@
+{
+  "stateId": 3572374,
+  "stateCode": "BS-FP",
+  "countryCode": "BS",
+  "cities": [
+    {
+      "id": 3572375,
+      "name": "Freeport",
+      "nativeName": "Freeport",
+      "code": "BS-FP-3572375",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-FP",
+      "latitude": 26.53333,
+      "longitude": -78.7
+    },
+    {
+      "id": 3571971,
+      "name": "Lucaya",
+      "nativeName": "Lucaya",
+      "code": "BS-FP-3571971",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-FP",
+      "latitude": 26.53333,
+      "longitude": -78.66667
+    },
+    {
+      "id": 3571680,
+      "name": "Pinders Point",
+      "nativeName": "Pinders Point",
+      "code": "BS-FP-3571680",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-FP",
+      "latitude": 26.48333,
+      "longitude": -78.68333
+    },
+    {
+      "id": 3571434,
+      "name": "Smith Point",
+      "nativeName": "Smith Point",
+      "code": "BS-FP-3571434",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-FP",
+      "latitude": 26.5,
+      "longitude": -78.61667
+    },
+    {
+      "id": 3571189,
+      "name": "Williams Town",
+      "nativeName": "Williams Town",
+      "code": "BS-FP-3571189",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-FP",
+      "latitude": 26.48333,
+      "longitude": -78.66667
+    }
+  ]
+}

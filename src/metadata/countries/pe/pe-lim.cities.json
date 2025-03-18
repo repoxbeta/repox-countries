@@ -1,0 +1,117 @@
+{
+  "stateId": 3936452,
+  "stateCode": "PE-LIM",
+  "countryCode": "PE",
+  "cities": [
+    {
+      "id": 8349564,
+      "name": "Barranca",
+      "nativeName": "Barranca",
+      "code": "PE-LIM-8349564",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-LIM",
+      "latitude": -10.66599,
+      "longitude": -77.65707
+    },
+    {
+      "id": 3946262,
+      "name": "Cajatambo Province",
+      "nativeName": "Provincia de Cajatambo",
+      "code": "PE-LIM-3946262",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-LIM",
+      "latitude": -10.52469,
+      "longitude": -77.02233
+    },
+    {
+      "id": 3945748,
+      "name": "Canta Province",
+      "nativeName": "Provincia de Canta",
+      "code": "PE-LIM-3945748",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-LIM",
+      "latitude": -11.46667,
+      "longitude": -76.61667
+    },
+    {
+      "id": 3945799,
+      "name": "Cañete Province",
+      "nativeName": "Provincia de Cañete",
+      "code": "PE-LIM-3945799",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-LIM",
+      "latitude": -12.77871,
+      "longitude": -76.38438
+    },
+    {
+      "id": 3939284,
+      "name": "Huaral Province",
+      "nativeName": "Provincia de Huaral",
+      "code": "PE-LIM-3939284",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-LIM",
+      "latitude": -11.25,
+      "longitude": -76.91667
+    },
+    {
+      "id": 3939153,
+      "name": "Huarochirí Province",
+      "nativeName": "Provincia de Huarochirí",
+      "code": "PE-LIM-3939153",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-LIM",
+      "latitude": -11.93421,
+      "longitude": -76.42305
+    },
+    {
+      "id": 8349565,
+      "name": "Huaura Province",
+      "nativeName": "Huaura",
+      "code": "PE-LIM-8349565",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-LIM",
+      "latitude": -11.03363,
+      "longitude": -77.23795
+    },
+    {
+      "id": 8349601,
+      "name": "Lima",
+      "nativeName": "Lima",
+      "code": "PE-LIM-8349601",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-LIM",
+      "latitude": -12.0179,
+      "longitude": -76.90432
+    },
+    {
+      "id": 8349566,
+      "name": "Oyón Province",
+      "nativeName": "Oyon",
+      "code": "PE-LIM-8349566",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-LIM",
+      "latitude": -10.75869,
+      "longitude": -76.87634
+    },
+    {
+      "id": 3925567,
+      "name": "Provincia de Yauyos",
+      "nativeName": "Provincia de Yauyos",
+      "code": "PE-LIM-3925567",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-LIM",
+      "latitude": -12.50281,
+      "longitude": -75.9011
+    }
+  ]
+}

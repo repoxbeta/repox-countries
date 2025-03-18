@@ -1,0 +1,73 @@
+{
+  "stateId": 2392716,
+  "stateCode": "BJ-MO",
+  "countryCode": "BJ",
+  "cities": [
+    {
+      "id": 7668926,
+      "name": "Athieme",
+      "nativeName": "Commune of Athieme",
+      "code": "BJ-MO-7668926",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-MO",
+      "latitude": 6.56924,
+      "longitude": 1.70259
+    },
+    {
+      "id": 8335019,
+      "name": "Bopa",
+      "nativeName": "Commune of Bopa",
+      "code": "BJ-MO-8335019",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-MO",
+      "latitude": 6.657,
+      "longitude": 1.945
+    },
+    {
+      "id": 9166076,
+      "name": "Come",
+      "nativeName": "Comé",
+      "code": "BJ-MO-9166076",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-MO",
+      "latitude": 6.4,
+      "longitude": 1.88333
+    },
+    {
+      "id": 9166075,
+      "name": "Grand-Popo",
+      "nativeName": "Grand-Popo",
+      "code": "BJ-MO-9166075",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-MO",
+      "latitude": 6.28333,
+      "longitude": 1.83333
+    },
+    {
+      "id": 8335018,
+      "name": "Houeyogbe",
+      "nativeName": "Commune of Houeyogbe",
+      "code": "BJ-MO-8335018",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-MO",
+      "latitude": 6.544,
+      "longitude": 1.852
+    },
+    {
+      "id": 7668924,
+      "name": "Lokossa",
+      "nativeName": "Lokossa",
+      "code": "BJ-MO-7668924",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-MO",
+      "latitude": 6.69802,
+      "longitude": 1.74161
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "stateId": 2390719,
+  "stateCode": "BJ-ZO",
+  "countryCode": "BJ",
+  "cities": [
+    {
+      "id": 8260652,
+      "name": "Abomey",
+      "nativeName": "Commune of Abomey",
+      "code": "BJ-ZO-8260652",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-ZO",
+      "latitude": 7.188,
+      "longitude": 1.973
+    },
+    {
+      "id": 8260653,
+      "name": "Agbangnizoun",
+      "nativeName": "Commune of Agbangnizoun",
+      "code": "BJ-ZO-8260653",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-ZO",
+      "latitude": 7.076,
+      "longitude": 1.961
+    },
+    {
+      "id": 7668931,
+      "name": "Bohicon",
+      "nativeName": "Commune of Bohicon",
+      "code": "BJ-ZO-7668931",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-ZO",
+      "latitude": 7.163,
+      "longitude": 2.094
+    },
+    {
+      "id": 7668907,
+      "name": "Cove",
+      "nativeName": "Commune of Cove",
+      "code": "BJ-ZO-7668907",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-ZO",
+      "latitude": 7.345,
+      "longitude": 2.273
+    },
+    {
+      "id": 8260654,
+      "name": "Djidja",
+      "nativeName": "Commune of Djidja",
+      "code": "BJ-ZO-8260654",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-ZO",
+      "latitude": 7.431,
+      "longitude": 1.938
+    },
+    {
+      "id": 7668908,
+      "name": "Ouinhi",
+      "nativeName": "Commune of Ouinhi",
+      "code": "BJ-ZO-7668908",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-ZO",
+      "latitude": 7.068,
+      "longitude": 2.468
+    },
+    {
+      "id": 7668932,
+      "name": "Za-Kpota",
+      "nativeName": "Commune of Za-Kpota",
+      "code": "BJ-ZO-7668932",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-ZO",
+      "latitude": 7.228,
+      "longitude": 2.201
+    },
+    {
+      "id": 7668909,
+      "name": "Zagnanado",
+      "nativeName": "Commune of Zangnanado",
+      "code": "BJ-ZO-7668909",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-ZO",
+      "latitude": 7.254,
+      "longitude": 2.392
+    },
+    {
+      "id": 7668934,
+      "name": "Zogbodomey",
+      "nativeName": "Commune of Zogbodome",
+      "code": "BJ-ZO-7668934",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-ZO",
+      "latitude": 7.018,
+      "longitude": 2.183
+    }
+  ]
+}

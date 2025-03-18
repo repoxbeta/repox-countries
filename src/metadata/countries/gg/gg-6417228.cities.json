@@ -1,0 +1,40 @@
+{
+  "stateId": 6417228,
+  "stateCode": "GG-6417228",
+  "countryCode": "GG",
+  "cities": [
+    {
+      "id": 3042287,
+      "name": "St Peter Port",
+      "nativeName": "Saint Peter Port",
+      "code": "GG-6417228-3042287",
+      "countryId": 3042362,
+      "countryCode": "GG",
+      "stateCode": "GG-6417228",
+      "latitude": 49.45981,
+      "longitude": -2.53527
+    },
+    {
+      "id": 6420687,
+      "name": "Bouet",
+      "nativeName": "Bouet",
+      "code": "GG-6417228-6420687",
+      "countryId": 3042362,
+      "countryCode": "GG",
+      "stateCode": "GG-6417228",
+      "latitude": 49.46806,
+      "longitude": -2.54111
+    },
+    {
+      "id": 6420689,
+      "name": "Saint Johns",
+      "nativeName": "Saint Johns",
+      "code": "GG-6417228-6420689",
+      "countryId": 3042362,
+      "countryCode": "GG",
+      "stateCode": "GG-6417228",
+      "latitude": 49.465,
+      "longitude": -2.54
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "stateId": 736572,
+  "stateCode": "GR-69",
+  "countryCode": "GR",
+  "cities": [
+    {
+      "id": 735972,
+      "name": "Karyes",
+      "nativeName": "Karyes",
+      "code": "GR-69-735972",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-69",
+      "latitude": 40.25715,
+      "longitude": 24.24498
+    },
+    {
+      "id": 736482,
+      "name": "Dáfni",
+      "nativeName": "Dáfni",
+      "code": "GR-69-736482",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-69",
+      "latitude": 40.21395,
+      "longitude": 24.22245
+    },
+    {
+      "id": 736329,
+      "name": "Eliá",
+      "nativeName": "Eliá",
+      "code": "GR-69-736329",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-69",
+      "latitude": 40.42048,
+      "longitude": 24.00477
+    },
+    {
+      "id": 735047,
+      "name": "Monoxilítai",
+      "nativeName": "Monoxilítai",
+      "code": "GR-69-735047",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-69",
+      "latitude": 40.3,
+      "longitude": 24.06667
+    },
+    {
+      "id": 734068,
+      "name": "Thivaḯs",
+      "nativeName": "Thivaḯs",
+      "code": "GR-69-734068",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-69",
+      "latitude": 40.29483,
+      "longitude": 24.05307
+    }
+  ]
+}

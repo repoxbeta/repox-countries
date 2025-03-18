@@ -1,0 +1,95 @@
+{
+  "stateId": 99592,
+  "stateCode": "IQ-AN",
+  "countryCode": "IQ",
+  "cities": [
+    {
+      "id": 9166576,
+      "name": "Al-Ka'im District",
+      "nativeName": "Al-Ka'im District",
+      "code": "IQ-AN-9166576",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-AN",
+      "latitude": 34.23774,
+      "longitude": 41.05757
+    },
+    {
+      "id": 98678,
+      "name": "Al-Rutba District",
+      "nativeName": "Al-Rutba District",
+      "code": "IQ-AN-98678",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-AN",
+      "latitude": 33,
+      "longitude": 41
+    },
+    {
+      "id": 98884,
+      "name": "Anah District",
+      "nativeName": "Anah District",
+      "code": "IQ-AN-98884",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-AN",
+      "latitude": 34.27071,
+      "longitude": 41.81234
+    },
+    {
+      "id": 99455,
+      "name": "Falluja District",
+      "nativeName": "Falluja District",
+      "code": "IQ-AN-99455",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-AN",
+      "latitude": 33.3,
+      "longitude": 43.8
+    },
+    {
+      "id": 6765480,
+      "name": "Haditha District",
+      "nativeName": "Haditha District",
+      "code": "IQ-AN-6765480",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-AN",
+      "latitude": 34.12866,
+      "longitude": 42.358
+    },
+    {
+      "id": 9166579,
+      "name": "Hīt District",
+      "nativeName": "Hīt District",
+      "code": "IQ-AN-9166579",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-AN",
+      "latitude": 33.73482,
+      "longitude": 42.68228
+    },
+    {
+      "id": 98718,
+      "name": "Ramadi District",
+      "nativeName": "Ramadi District",
+      "code": "IQ-AN-98718",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-AN",
+      "latitude": 33.41667,
+      "longitude": 43.3
+    },
+    {
+      "id": 9166650,
+      "name": "Rawah District",
+      "nativeName": "Rawah District",
+      "code": "IQ-AN-9166650",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-AN",
+      "latitude": 34.46892,
+      "longitude": 41.91649
+    }
+  ]
+}

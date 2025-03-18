@@ -1,0 +1,183 @@
+{
+  "stateId": 1852553,
+  "stateCode": "JP-25",
+  "countryCode": "JP",
+  "cities": [
+    {
+      "id": 1864254,
+      "name": "Echi",
+      "nativeName": "Echi-gun",
+      "code": "JP-25-1864254",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-25",
+      "latitude": 35.16667,
+      "longitude": 136.25
+    },
+    {
+      "id": 1863686,
+      "name": "Gamō",
+      "nativeName": "Gamō-gun",
+      "code": "JP-25-1863686",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-25",
+      "latitude": 35.02524,
+      "longitude": 136.2225
+    },
+    {
+      "id": 6822197,
+      "name": "Higashiōmi-shi",
+      "nativeName": "Higashiōmi-shi",
+      "code": "JP-25-6822197",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-25",
+      "latitude": 35.1089,
+      "longitude": 136.1792
+    },
+    {
+      "id": 1862635,
+      "name": "Hikone",
+      "nativeName": "Hikone Shi",
+      "code": "JP-25-1862635",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-25",
+      "latitude": 35.23036,
+      "longitude": 136.2076
+    },
+    {
+      "id": 7394806,
+      "name": "Inukami",
+      "nativeName": "Inukami-gun",
+      "code": "JP-25-7394806",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-25",
+      "latitude": 35.21055,
+      "longitude": 136.33338
+    },
+    {
+      "id": 1858984,
+      "name": "Koka-Shi",
+      "nativeName": "Kōka-shi",
+      "code": "JP-25-1858984",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-25",
+      "latitude": 34.91667,
+      "longitude": 136.16667
+    },
+    {
+      "id": 1858739,
+      "name": "Konan-shi",
+      "nativeName": "Konan-shi",
+      "code": "JP-25-1858739",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-25",
+      "latitude": 35.01667,
+      "longitude": 136.08333
+    },
+    {
+      "id": 1858063,
+      "name": "Kusatsu Shi",
+      "nativeName": "Kusatsu Shi",
+      "code": "JP-25-1858063",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-25",
+      "latitude": 35.02758,
+      "longitude": 135.9384
+    },
+    {
+      "id": 7394802,
+      "name": "Maibara-shi",
+      "nativeName": "Maibara-shi",
+      "code": "JP-25-7394802",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-25",
+      "latitude": 35.38457,
+      "longitude": 136.37741
+    },
+    {
+      "id": 1856568,
+      "name": "Moriyama Shi",
+      "nativeName": "Moriyama Shi",
+      "code": "JP-25-1856568",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-25",
+      "latitude": 35.08815,
+      "longitude": 135.96869
+    },
+    {
+      "id": 1856237,
+      "name": "Nagahama Shi",
+      "nativeName": "Nagahama Shi",
+      "code": "JP-25-1856237",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-25",
+      "latitude": 35.51021,
+      "longitude": 136.23962
+    },
+    {
+      "id": 1853408,
+      "name": "Rittō-shi",
+      "nativeName": "Rittō-shi",
+      "code": "JP-25-1853408",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-25",
+      "latitude": 34.99603,
+      "longitude": 136.01412
+    },
+    {
+      "id": 8740424,
+      "name": "Takashima-shi",
+      "nativeName": "Takashima-shi",
+      "code": "JP-25-8740424",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-25",
+      "latitude": 35.35448,
+      "longitude": 136.02859
+    },
+    {
+      "id": 1848489,
+      "name": "Yasu-shi",
+      "nativeName": "Yasu-shi",
+      "code": "JP-25-1848489",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-25",
+      "latitude": 35.06801,
+      "longitude": 136.02327
+    },
+    {
+      "id": 1854152,
+      "name": "Ōmi-hachiman Shi",
+      "nativeName": "Ōmi-hachiman Shi",
+      "code": "JP-25-1854152",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-25",
+      "latitude": 35.15251,
+      "longitude": 136.06964
+    },
+    {
+      "id": 1853552,
+      "name": "Ōtsu Shi",
+      "nativeName": "Ōtsu Shi",
+      "code": "JP-25-1853552",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-25",
+      "latitude": 35.09887,
+      "longitude": 135.86866
+    }
+  ]
+}

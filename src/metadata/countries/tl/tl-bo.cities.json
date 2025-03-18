@@ -1,0 +1,73 @@
+{
+  "stateId": 1648513,
+  "stateCode": "TL-BO",
+  "countryCode": "TL",
+  "cities": [
+    {
+      "id": 8617807,
+      "name": "Atabae",
+      "nativeName": "Atabae",
+      "code": "TL-BO-8617807",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-BO",
+      "latitude": -8.80954,
+      "longitude": 125.1585
+    },
+    {
+      "id": 8617808,
+      "name": "Balibo",
+      "nativeName": "Balibo",
+      "code": "TL-BO-8617808",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-BO",
+      "latitude": -8.97145,
+      "longitude": 125.043
+    },
+    {
+      "id": 8617809,
+      "name": "Bobonaro",
+      "nativeName": "Bobonaro",
+      "code": "TL-BO-8617809",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-BO",
+      "latitude": -9.03194,
+      "longitude": 125.325
+    },
+    {
+      "id": 8617810,
+      "name": "Cailaco",
+      "nativeName": "Cailaco",
+      "code": "TL-BO-8617810",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-BO",
+      "latitude": -8.9,
+      "longitude": 125.28
+    },
+    {
+      "id": 8617811,
+      "name": "Lolotoe",
+      "nativeName": "Lolotoe",
+      "code": "TL-BO-8617811",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-BO",
+      "latitude": -9.16667,
+      "longitude": 125.26667
+    },
+    {
+      "id": 8617768,
+      "name": "Maliana",
+      "nativeName": "Maliana",
+      "code": "TL-BO-8617768",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-BO",
+      "latitude": -8.98333,
+      "longitude": 125.21667
+    }
+  ]
+}

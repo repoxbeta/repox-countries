@@ -1,0 +1,40 @@
+{
+  "stateId": 706370,
+  "stateCode": "UA-68",
+  "countryCode": "UA",
+  "cities": [
+    {
+      "id": 707076,
+      "name": "Kamyanets-Podilskyy Raion",
+      "nativeName": "Kamyanets-Podilskyy Raion",
+      "code": "UA-68-707076",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-68",
+      "latitude": 48.67337,
+      "longitude": 26.57177
+    },
+    {
+      "id": 706375,
+      "name": "Khmelnytskyi Raion",
+      "nativeName": "Khmelnytskyy Raion",
+      "code": "UA-68-706375",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-68",
+      "latitude": 49.40262,
+      "longitude": 26.96074
+    },
+    {
+      "id": 694213,
+      "name": "Shepetivka Raion",
+      "nativeName": "Shepetivka Raion",
+      "code": "UA-68-694213",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-68",
+      "latitude": 50.18048,
+      "longitude": 27.06813
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "stateId": 51966,
+  "stateCode": "SO-SH",
+  "countryCode": "SO",
+  "cities": [
+    {
+      "id": 9179684,
+      "name": "Afgooye District",
+      "nativeName": "Afgooye",
+      "code": "SO-SH-9179684",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-SH",
+      "latitude": 2.23547,
+      "longitude": 45.07702
+    },
+    {
+      "id": 9179618,
+      "name": "Barawa District",
+      "nativeName": "Baraawe",
+      "code": "SO-SH-9179618",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-SH",
+      "latitude": 1.10836,
+      "longitude": 43.84487
+    },
+    {
+      "id": 9179984,
+      "name": "Darkenley",
+      "nativeName": "Darkenley",
+      "code": "SO-SH-9179984",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-SH",
+      "latitude": 2.48017,
+      "longitude": 45.26468
+    },
+    {
+      "id": 9179622,
+      "name": "Kurtunwarey District",
+      "nativeName": "Kurtunwaarey",
+      "code": "SO-SH-9179622",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-SH",
+      "latitude": 1.67461,
+      "longitude": 44.06695
+    },
+    {
+      "id": 9179625,
+      "name": "Merca District",
+      "nativeName": "Marka",
+      "code": "SO-SH-9179625",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-SH",
+      "latitude": 1.74022,
+      "longitude": 44.72234
+    },
+    {
+      "id": 9179629,
+      "name": "Qoriyoley District",
+      "nativeName": "Qoryooley",
+      "code": "SO-SH-9179629",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-SH",
+      "latitude": 1.93456,
+      "longitude": 44.44943
+    },
+    {
+      "id": 9179633,
+      "name": "Sablale District",
+      "nativeName": "Sablaale",
+      "code": "SO-SH-9179633",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-SH",
+      "latitude": 1.38326,
+      "longitude": 43.52054
+    },
+    {
+      "id": 9179635,
+      "name": "Wanlaweyn District",
+      "nativeName": "Wanla Weyn",
+      "code": "SO-SH-9179635",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-SH",
+      "latitude": 2.79164,
+      "longitude": 44.90647
+    }
+  ]
+}

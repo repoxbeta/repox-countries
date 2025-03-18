@@ -1,0 +1,73 @@
+{
+  "stateId": 3609583,
+  "stateCode": "HN-GD",
+  "countryCode": "HN",
+  "cities": [
+    {
+      "id": 8062437,
+      "name": "Ahuas",
+      "nativeName": "Ahuas",
+      "code": "HN-GD-8062437",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-GD",
+      "latitude": 15.46923,
+      "longitude": -84.34479
+    },
+    {
+      "id": 3614664,
+      "name": "Brus Laguna",
+      "nativeName": "Brus Laguna",
+      "code": "HN-GD-3614664",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-GD",
+      "latitude": 15.48509,
+      "longitude": -84.69939
+    },
+    {
+      "id": 8062435,
+      "name": "Juan Francisco Bulnes",
+      "nativeName": "Juan Francisco Bulnes",
+      "code": "HN-GD-8062435",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-GD",
+      "latitude": 15.91676,
+      "longitude": -84.9099
+    },
+    {
+      "id": 3603158,
+      "name": "Puerto Lempira",
+      "nativeName": "Puerto Lempira",
+      "code": "HN-GD-3603158",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-GD",
+      "latitude": 15.1145,
+      "longitude": -83.93056
+    },
+    {
+      "id": 8062436,
+      "name": "Villeda Morales",
+      "nativeName": "Villeda Morales",
+      "code": "HN-GD-8062436",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-GD",
+      "latitude": 15.08472,
+      "longitude": -83.35361
+    },
+    {
+      "id": 3600295,
+      "name": "Wampusirpi",
+      "nativeName": "Wampusirpi",
+      "code": "HN-GD-3600295",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-GD",
+      "latitude": 15.18333,
+      "longitude": -84.61667
+    }
+  ]
+}

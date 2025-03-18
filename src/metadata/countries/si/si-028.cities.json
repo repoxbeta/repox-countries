@@ -1,0 +1,128 @@
+{
+  "stateId": 3239245,
+  "stateCode": "SI-028",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3200307,
+      "name": "Gorišnica",
+      "nativeName": "Gorišnica",
+      "code": "SI-028-3200307",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-028",
+      "latitude": 46.41472,
+      "longitude": 16.01389
+    },
+    {
+      "id": 3200823,
+      "name": "Formin",
+      "nativeName": "Formin",
+      "code": "SI-028-3200823",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-028",
+      "latitude": 46.41056,
+      "longitude": 16.03528
+    },
+    {
+      "id": 3200754,
+      "name": "Gajevci",
+      "nativeName": "Gajevci",
+      "code": "SI-028-3200754",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-028",
+      "latitude": 46.40306,
+      "longitude": 16.02472
+    },
+    {
+      "id": 8987111,
+      "name": "Mala Vas",
+      "nativeName": "Mala Vas",
+      "code": "SI-028-8987111",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-028",
+      "latitude": 46.38983,
+      "longitude": 16.00999
+    },
+    {
+      "id": 3194850,
+      "name": "Moškanjci",
+      "nativeName": "Moškanjci",
+      "code": "SI-028-3194850",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-028",
+      "latitude": 46.42028,
+      "longitude": 15.99333
+    },
+    {
+      "id": 3194651,
+      "name": "Muretinci",
+      "nativeName": "Muretinci",
+      "code": "SI-028-3194651",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-028",
+      "latitude": 46.38528,
+      "longitude": 15.99444
+    },
+    {
+      "id": 8987346,
+      "name": "Placerovci",
+      "nativeName": "Placerovci",
+      "code": "SI-028-8987346",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-028",
+      "latitude": 46.39644,
+      "longitude": 16.0286
+    },
+    {
+      "id": 3190410,
+      "name": "Sobetinci",
+      "nativeName": "Sobetinci",
+      "code": "SI-028-3190410",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-028",
+      "latitude": 46.40416,
+      "longitude": 15.96748
+    },
+    {
+      "id": 3215475,
+      "name": "Tibolci",
+      "nativeName": "Tibolci",
+      "code": "SI-028-3215475",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-028",
+      "latitude": 46.43167,
+      "longitude": 16.00333
+    },
+    {
+      "id": 3216655,
+      "name": "Zagojiči",
+      "nativeName": "Zagojiči",
+      "code": "SI-028-3216655",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-028",
+      "latitude": 46.40306,
+      "longitude": 15.98111
+    },
+    {
+      "id": 8986911,
+      "name": "Zamušani",
+      "nativeName": "Zamušani",
+      "code": "SI-028-8986911",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-028",
+      "latitude": 46.42204,
+      "longitude": 16.02938
+    }
+  ]
+}

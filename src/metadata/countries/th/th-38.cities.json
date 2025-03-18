@@ -1,0 +1,95 @@
+{
+  "stateId": 8133594,
+  "stateCode": "TH-38",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 1611474,
+      "name": "Bueng Kan",
+      "nativeName": "Amphoe Mueang Bueng Kan",
+      "code": "TH-38-1611474",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-38",
+      "latitude": 18.2995,
+      "longitude": 103.64016
+    },
+    {
+      "id": 7510845,
+      "name": "Bueng Khong Long",
+      "nativeName": "Amphoe Bueng Khong Long",
+      "code": "TH-38-7510845",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-38",
+      "latitude": 18.00899,
+      "longitude": 104.07302
+    },
+    {
+      "id": 7510821,
+      "name": "Bung Khla",
+      "nativeName": "Amphoe Bung Khla",
+      "code": "TH-38-7510821",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-38",
+      "latitude": 18.24726,
+      "longitude": 103.99427
+    },
+    {
+      "id": 7510800,
+      "name": "Pak Khat",
+      "nativeName": "Amphoe Pak Khat",
+      "code": "TH-38-7510800",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-38",
+      "latitude": 18.27738,
+      "longitude": 103.3414
+    },
+    {
+      "id": 8181808,
+      "name": "Phon Charoen",
+      "nativeName": "Amphoe Phon Charoen",
+      "code": "TH-38-8181808",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-38",
+      "latitude": 18.07967,
+      "longitude": 103.65453
+    },
+    {
+      "id": 1606342,
+      "name": "Seka",
+      "nativeName": "Amphoe Seka",
+      "code": "TH-38-1606342",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-38",
+      "latitude": 17.98734,
+      "longitude": 103.89616
+    },
+    {
+      "id": 7510822,
+      "name": "Si Wilai",
+      "nativeName": "Amphoe Si Wilai",
+      "code": "TH-38-7510822",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-38",
+      "latitude": 18.15528,
+      "longitude": 103.77975
+    },
+    {
+      "id": 7510801,
+      "name": "So Phisai",
+      "nativeName": "Amphoe So Phisai",
+      "code": "TH-38-7510801",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-38",
+      "latitude": 18.14176,
+      "longitude": 103.44923
+    }
+  ]
+}

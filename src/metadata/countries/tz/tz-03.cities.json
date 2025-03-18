@@ -1,0 +1,84 @@
+{
+  "stateId": 160192,
+  "stateCode": "TZ-03",
+  "countryCode": "TZ",
+  "cities": [
+    {
+      "id": 7628451,
+      "name": "Bahi District",
+      "nativeName": "Bahi District",
+      "code": "TZ-03-7628451",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-03",
+      "latitude": -5.93792,
+      "longitude": 35.28886
+    },
+    {
+      "id": 7628450,
+      "name": "Chamwino",
+      "nativeName": "Chamwino",
+      "code": "TZ-03-7628450",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-03",
+      "latitude": -6.11325,
+      "longitude": 36.09558
+    },
+    {
+      "id": 9998004,
+      "name": "Chemba District Council",
+      "nativeName": "Chemba",
+      "code": "TZ-03-9998004",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-03",
+      "latitude": -5.33774,
+      "longitude": 35.69138
+    },
+    {
+      "id": 7731058,
+      "name": "Dodoma Urban District",
+      "nativeName": "Dodoma Urban District",
+      "code": "TZ-03-7731058",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-03",
+      "latitude": -6.15973,
+      "longitude": 35.798
+    },
+    {
+      "id": 156509,
+      "name": "Kondoa District Council",
+      "nativeName": "Kondoa",
+      "code": "TZ-03-156509",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-03",
+      "latitude": -4.70931,
+      "longitude": 35.86227
+    },
+    {
+      "id": 7647659,
+      "name": "Kongwa",
+      "nativeName": "Kongwa",
+      "code": "TZ-03-7647659",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-03",
+      "latitude": -6.2,
+      "longitude": 36.417
+    },
+    {
+      "id": 153093,
+      "name": "Mpwapwa District Council",
+      "nativeName": "Mpwapwa",
+      "code": "TZ-03-153093",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-03",
+      "latitude": -6.68257,
+      "longitude": 36.32145
+    }
+  ]
+}

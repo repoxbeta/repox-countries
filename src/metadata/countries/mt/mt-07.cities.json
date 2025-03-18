@@ -1,0 +1,51 @@
+{
+  "stateId": 8299706,
+  "stateCode": "MT-07",
+  "countryCode": "MT",
+  "cities": [
+    {
+      "id": 2563140,
+      "name": "Dingli",
+      "nativeName": "Dingli",
+      "code": "MT-07-2563140",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-07",
+      "latitude": 35.86139,
+      "longitude": 14.38222
+    },
+    {
+      "id": 2562712,
+      "name": "Misraħ Suffara",
+      "nativeName": "Misraħ Suffara",
+      "code": "MT-07-2562712",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-07",
+      "latitude": 35.86861,
+      "longitude": 14.37361
+    },
+    {
+      "id": 2562373,
+      "name": "Tal-Pitkal",
+      "nativeName": "Tal-Pitkal",
+      "code": "MT-07-2562373",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-07",
+      "latitude": 35.86,
+      "longitude": 14.37056
+    },
+    {
+      "id": 2562369,
+      "name": "Tal-Veċċa",
+      "nativeName": "Tal-Veċċa",
+      "code": "MT-07-2562369",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-07",
+      "latitude": 35.85611,
+      "longitude": 14.37694
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "stateId": 6091530,
+  "stateCode": "CA-NS",
+  "countryCode": "CA",
+  "cities": [
+    {
+      "id": 5885415,
+      "name": "Annapolis",
+      "nativeName": "Annapolis County",
+      "code": "CA-NS-5885415",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NS",
+      "latitude": 44.58345,
+      "longitude": -65.16551
+    },
+    {
+      "id": 5886183,
+      "name": "Antigonish County",
+      "nativeName": "Antigonish County",
+      "code": "CA-NS-5886183",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NS",
+      "latitude": 45.66685,
+      "longitude": -61.91528
+    },
+    {
+      "id": 5915565,
+      "name": "Cape Breton County",
+      "nativeName": "Cape Breton County",
+      "code": "CA-NS-5915565",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NS",
+      "latitude": 46.00014,
+      "longitude": -60.31516
+    },
+    {
+      "id": 5924982,
+      "name": "Colchester",
+      "nativeName": "Colchester",
+      "code": "CA-NS-5924982",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NS",
+      "latitude": 45.33345,
+      "longitude": -63.24868
+    },
+    {
+      "id": 5933880,
+      "name": "Cumberland County",
+      "nativeName": "Cumberland County",
+      "code": "CA-NS-5933880",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NS",
+      "latitude": 45.75015,
+      "longitude": -64.16543
+    },
+    {
+      "id": 5939237,
+      "name": "Digby County",
+      "nativeName": "Digby County",
+      "code": "CA-NS-5939237",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NS",
+      "latitude": 44.36685,
+      "longitude": -65.69884
+    },
+    {
+      "id": 5968620,
+      "name": "Guysborough County",
+      "nativeName": "Guysborough County",
+      "code": "CA-NS-5968620",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NS",
+      "latitude": 45.38345,
+      "longitude": -61.49854
+    },
+    {
+      "id": 5969424,
+      "name": "Halifax Regional Municipality",
+      "nativeName": "Halifax Regional Municipality",
+      "code": "CA-NS-5969424",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NS",
+      "latitude": 44.86685,
+      "longitude": -63.71541
+    },
+    {
+      "id": 5970408,
+      "name": "Hants",
+      "nativeName": "Hants",
+      "code": "CA-NS-5970408",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NS",
+      "latitude": 45.03345,
+      "longitude": -63.86542
+    },
+    {
+      "id": 5983629,
+      "name": "Inverness County",
+      "nativeName": "Inverness County",
+      "code": "CA-NS-5983629",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NS",
+      "latitude": 46.33344,
+      "longitude": -61.0818
+    },
+    {
+      "id": 5992377,
+      "name": "Kings County",
+      "nativeName": "Kings County",
+      "code": "CA-NS-5992377",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NS",
+      "latitude": 45.03345,
+      "longitude": -64.66547
+    },
+    {
+      "id": 6062070,
+      "name": "Lunenburg County",
+      "nativeName": "Lunenburg County",
+      "code": "CA-NS-6062070",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NS",
+      "latitude": 44.43345,
+      "longitude": -64.59877
+    },
+    {
+      "id": 6104222,
+      "name": "Pictou County",
+      "nativeName": "Pictou County",
+      "code": "CA-NS-6104222",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NS",
+      "latitude": 45.50015,
+      "longitude": -62.58193
+    },
+    {
+      "id": 6115099,
+      "name": "Queens County",
+      "nativeName": "Queens County",
+      "code": "CA-NS-6115099",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NS",
+      "latitude": 44.23346,
+      "longitude": -64.99879
+    },
+    {
+      "id": 6122075,
+      "name": "Richmond County",
+      "nativeName": "Richmond County",
+      "code": "CA-NS-6122075",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NS",
+      "latitude": 45.65015,
+      "longitude": -60.76519
+    },
+    {
+      "id": 6145888,
+      "name": "Shelburne County",
+      "nativeName": "Shelburne County",
+      "code": "CA-NS-6145888",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NS",
+      "latitude": 43.85016,
+      "longitude": -65.28212
+    },
+    {
+      "id": 6174034,
+      "name": "Victoria County",
+      "nativeName": "Victoria County",
+      "code": "CA-NS-6174034",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NS",
+      "latitude": 46.50014,
+      "longitude": -60.58177
+    },
+    {
+      "id": 6185218,
+      "name": "Yarmouth County",
+      "nativeName": "Yarmouth County",
+      "code": "CA-NS-6185218",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NS",
+      "latitude": 43.95015,
+      "longitude": -66.03216
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "stateId": 2268404,
+  "stateCode": "PT-07",
+  "countryCode": "PT",
+  "cities": [
+    {
+      "id": 8010498,
+      "name": "Alandroal Municipality",
+      "nativeName": "Alandroal",
+      "code": "PT-07-8010498",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "stateCode": "PT-07",
+      "latitude": 38.62924,
+      "longitude": -7.36599
+    },
+    {
+      "id": 8010499,
+      "name": "Arraiolos Municipality",
+      "nativeName": "Arraiolos",
+      "code": "PT-07-8010499",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "stateCode": "PT-07",
+      "latitude": 38.76774,
+      "longitude": -7.95831
+    },
+    {
+      "id": 8010500,
+      "name": "Borba Municipality",
+      "nativeName": "Borba",
+      "code": "PT-07-8010500",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "stateCode": "PT-07",
+      "latitude": 38.81412,
+      "longitude": -7.46721
+    },
+    {
+      "id": 8010501,
+      "name": "Estremoz Municipality",
+      "nativeName": "Estremoz",
+      "code": "PT-07-8010501",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "stateCode": "PT-07",
+      "latitude": 38.84996,
+      "longitude": -7.60117
+    },
+    {
+      "id": 8010503,
+      "name": "Montemor-o-Novo Municipality",
+      "nativeName": "Montemor-O-Novo",
+      "code": "PT-07-8010503",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "stateCode": "PT-07",
+      "latitude": 38.64795,
+      "longitude": -8.21289
+    },
+    {
+      "id": 8010504,
+      "name": "Mora Municipality",
+      "nativeName": "Mora",
+      "code": "PT-07-8010504",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "stateCode": "PT-07",
+      "latitude": 38.92174,
+      "longitude": -8.09972
+    },
+    {
+      "id": 8010505,
+      "name": "Mourão Municipality",
+      "nativeName": "Mourão",
+      "code": "PT-07-8010505",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "stateCode": "PT-07",
+      "latitude": 38.29778,
+      "longitude": -7.2223
+    },
+    {
+      "id": 8010506,
+      "name": "Portel Municipality",
+      "nativeName": "Portel",
+      "code": "PT-07-8010506",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "stateCode": "PT-07",
+      "latitude": 38.29385,
+      "longitude": -7.72762
+    },
+    {
+      "id": 8010507,
+      "name": "Redondo Municipality",
+      "nativeName": "Redondo",
+      "code": "PT-07-8010507",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "stateCode": "PT-07",
+      "latitude": 38.5801,
+      "longitude": -7.59659
+    },
+    {
+      "id": 8010508,
+      "name": "Reguengos de Monsaraz Municipality",
+      "nativeName": "Reguengos de Monsaraz",
+      "code": "PT-07-8010508",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "stateCode": "PT-07",
+      "latitude": 38.398,
+      "longitude": -7.467
+    },
+    {
+      "id": 8010509,
+      "name": "Vendas Novas Municipality",
+      "nativeName": "Vendas Novas",
+      "code": "PT-07-8010509",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "stateCode": "PT-07",
+      "latitude": 38.63975,
+      "longitude": -8.54702
+    },
+    {
+      "id": 8010510,
+      "name": "Viana do Alentejo Municipality",
+      "nativeName": "Viana do Alentejo",
+      "code": "PT-07-8010510",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "stateCode": "PT-07",
+      "latitude": 38.33645,
+      "longitude": -8.00011
+    },
+    {
+      "id": 8010511,
+      "name": "Vila Viçosa Municipality",
+      "nativeName": "Vila Viçosa",
+      "code": "PT-07-8010511",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "stateCode": "PT-07",
+      "latitude": 38.77591,
+      "longitude": -7.41607
+    },
+    {
+      "id": 8010502,
+      "name": "Évora Municipality",
+      "nativeName": "Évora",
+      "code": "PT-07-8010502",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "stateCode": "PT-07",
+      "latitude": 38.5665,
+      "longitude": -7.8946
+    }
+  ]
+}

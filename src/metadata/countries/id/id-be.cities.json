@@ -1,0 +1,117 @@
+{
+  "stateId": 1649147,
+  "stateCode": "ID-BE",
+  "countryCode": "ID",
+  "cities": [
+    {
+      "id": 9821946,
+      "name": "Central Bengkulu Regency",
+      "nativeName": "Kabupaten Bengkulu Tengah",
+      "code": "ID-BE-9821946",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-BE",
+      "latitude": -3.67775,
+      "longitude": 102.39648
+    },
+    {
+      "id": 9828030,
+      "name": "Kaur Regency",
+      "nativeName": "Kabupaten Kaur",
+      "code": "ID-BE-9828030",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-BE",
+      "latitude": -4.78179,
+      "longitude": 103.36109
+    },
+    {
+      "id": 9828032,
+      "name": "Kepahiang Regency",
+      "nativeName": "Kabupaten Kepahiang",
+      "code": "ID-BE-9828032",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-BE",
+      "latitude": -3.60194,
+      "longitude": 102.56424
+    },
+    {
+      "id": 1649148,
+      "name": "Kota Bengkulu",
+      "nativeName": "Kota Bengkulu",
+      "code": "ID-BE-1649148",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-BE",
+      "latitude": -3.83333,
+      "longitude": 102.31667
+    },
+    {
+      "id": 9828041,
+      "name": "Lebong Regency",
+      "nativeName": "Kabupaten Lebong",
+      "code": "ID-BE-9828041",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-BE",
+      "latitude": -3.24278,
+      "longitude": 102.3349
+    },
+    {
+      "id": 9828963,
+      "name": "Mukomuko Regency",
+      "nativeName": "Kabupaten Mukomuko",
+      "code": "ID-BE-9828963",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-BE",
+      "latitude": -3.07438,
+      "longitude": 101.54766
+    },
+    {
+      "id": 1649145,
+      "name": "North Bengkulu Regency",
+      "nativeName": "Kabupaten Bengkulu Utara",
+      "code": "ID-BE-1649145",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-BE",
+      "latitude": -3.23333,
+      "longitude": 102
+    },
+    {
+      "id": 1629764,
+      "name": "Rejang Lebong Regency",
+      "nativeName": "Kabupaten Rejang Lebong",
+      "code": "ID-BE-1629764",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-BE",
+      "latitude": -3.41667,
+      "longitude": 102.71667
+    },
+    {
+      "id": 9845356,
+      "name": "Seluma Regency",
+      "nativeName": "Kabupaten Seluma",
+      "code": "ID-BE-9845356",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-BE",
+      "latitude": -3.96644,
+      "longitude": 102.47429
+    },
+    {
+      "id": 1649146,
+      "name": "South Bengkulu Regency",
+      "nativeName": "Kabupaten Bengkulu Selatan",
+      "code": "ID-BE-1649146",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-BE",
+      "latitude": -4.36667,
+      "longitude": 103.01667
+    }
+  ]
+}

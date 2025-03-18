@@ -1,0 +1,95 @@
+{
+  "stateId": 828260,
+  "stateCode": "AM-AV",
+  "countryCode": "AM",
+  "cities": [
+    {
+      "id": 13156556,
+      "name": "Araks Municipality",
+      "nativeName": "Araks Municipality",
+      "code": "AM-AV-13156556",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-AV",
+      "latitude": 40.10798,
+      "longitude": 44.28593
+    },
+    {
+      "id": 13156558,
+      "name": "Armavir Municipality",
+      "nativeName": "Armavir Municipality",
+      "code": "AM-AV-13156558",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-AV",
+      "latitude": 40.1748,
+      "longitude": 43.96894
+    },
+    {
+      "id": 13156559,
+      "name": "Baghramyan Municipality",
+      "nativeName": "Baghramyan Municipality",
+      "code": "AM-AV-13156559",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-AV",
+      "latitude": 40.15927,
+      "longitude": 43.80143
+    },
+    {
+      "id": 13156552,
+      "name": "Ferik Municipality",
+      "nativeName": "Ferik Municipality",
+      "code": "AM-AV-13156552",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-AV",
+      "latitude": 40.18621,
+      "longitude": 44.20856
+    },
+    {
+      "id": 13156555,
+      "name": "Khoy Municipality",
+      "nativeName": "Khoy Municipality",
+      "code": "AM-AV-13156555",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-AV",
+      "latitude": 40.20708,
+      "longitude": 44.26033
+    },
+    {
+      "id": 13156557,
+      "name": "Metsamor Municipality",
+      "nativeName": "Metsamor Municipality",
+      "code": "AM-AV-13156557",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-AV",
+      "latitude": 40.0661,
+      "longitude": 44.02806
+    },
+    {
+      "id": 13156554,
+      "name": "Parakar Municipality",
+      "nativeName": "Parakar Municipality",
+      "code": "AM-AV-13156554",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-AV",
+      "latitude": 40.18035,
+      "longitude": 44.37721
+    },
+    {
+      "id": 13156553,
+      "name": "Vagharshapat Municipality",
+      "nativeName": "Vagharshapat Municipality",
+      "code": "AM-AV-13156553",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-AV",
+      "latitude": 40.15442,
+      "longitude": 44.31336
+    }
+  ]
+}

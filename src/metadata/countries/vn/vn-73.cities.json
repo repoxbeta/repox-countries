@@ -1,0 +1,95 @@
+{
+  "stateId": 7506719,
+  "stateCode": "VN-73",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 9072543,
+      "name": "Châu Thành A District",
+      "nativeName": "Huyện Châu Thành A",
+      "code": "VN-73-9072543",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-73",
+      "latitude": 9.93056,
+      "longitude": 105.64194
+    },
+    {
+      "id": 1904929,
+      "name": "Huyện Châu Thành",
+      "nativeName": "Huyện Châu Thành",
+      "code": "VN-73-1904929",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-73",
+      "latitude": 9.92058,
+      "longitude": 105.81717
+    },
+    {
+      "id": 1904934,
+      "name": "Huyện Long Mỹ",
+      "nativeName": "Huyện Long Mỹ",
+      "code": "VN-73-1904934",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-73",
+      "latitude": 9.65998,
+      "longitude": 105.51945
+    },
+    {
+      "id": 1904932,
+      "name": "Huyện Phụng Hiệp",
+      "nativeName": "Huyện Phụng Hiệp",
+      "code": "VN-73-1904932",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-73",
+      "latitude": 9.80063,
+      "longitude": 105.69984
+    },
+    {
+      "id": 9534524,
+      "name": "Thành Phố Ngã Bảy",
+      "nativeName": "Thành Phố Ngã Bảy",
+      "code": "VN-73-9534524",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-73",
+      "latitude": 9.8319,
+      "longitude": 105.81923
+    },
+    {
+      "id": 9534525,
+      "name": "Thành Phố Vị Thanh",
+      "nativeName": "Thành Phố Vị Thanh",
+      "code": "VN-73-9534525",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-73",
+      "latitude": 9.74176,
+      "longitude": 105.43406
+    },
+    {
+      "id": 11497339,
+      "name": "Thị xã Long Mỹ",
+      "nativeName": "Thị xã Long Mỹ",
+      "code": "VN-73-11497339",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-73",
+      "latitude": 9.6702,
+      "longitude": 105.5784
+    },
+    {
+      "id": 1904933,
+      "name": "Vị Thủy District",
+      "nativeName": "Vị Thủy District",
+      "code": "VN-73-1904933",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-73",
+      "latitude": 9.82274,
+      "longitude": 105.56282
+    }
+  ]
+}

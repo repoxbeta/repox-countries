@@ -1,0 +1,51 @@
+{
+  "stateId": 6692632,
+  "stateCode": "GR-I",
+  "countryCode": "GR",
+  "cities": [
+    {
+      "id": 264353,
+      "name": "Attica",
+      "nativeName": "Nomós Attikís",
+      "code": "GR-I-264353",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-I",
+      "latitude": 38.08333,
+      "longitude": 23.5
+    },
+    {
+      "id": 445406,
+      "name": "Nomarchía Anatolikís Attikís",
+      "nativeName": "Nomarchía Anatolikís Attikís",
+      "code": "GR-I-445406",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-I",
+      "latitude": 38.03352,
+      "longitude": 23.88856
+    },
+    {
+      "id": 445408,
+      "name": "Nomarchía Athínas",
+      "nativeName": "Nomarchía Athínas",
+      "code": "GR-I-445408",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-I",
+      "latitude": 37.96667,
+      "longitude": 23.75
+    },
+    {
+      "id": 406101,
+      "name": "Nomós Piraiós",
+      "nativeName": "Nomós Piraiós",
+      "code": "GR-I-406101",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-I",
+      "latitude": 37.5,
+      "longitude": 23.41667
+    }
+  ]
+}

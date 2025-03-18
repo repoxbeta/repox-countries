@@ -1,0 +1,138 @@
+{
+  "countryId": 2960313,
+  "countryCode": "LU",
+  "states": [
+    {
+      "id": 2960696,
+      "name": "Capellen",
+      "nativeName": "Capellen",
+      "code": "LU-CA",
+      "internalCode": "CA",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "latitude": 49.63678,
+      "longitude": 5.97031
+    },
+    {
+      "id": 2960683,
+      "name": "Clervaux",
+      "nativeName": "Clervaux",
+      "code": "LU-CL",
+      "internalCode": "CL",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "latitude": 50.07852,
+      "longitude": 6.02236
+    },
+    {
+      "id": 2960656,
+      "name": "Diekirch",
+      "nativeName": "Diekirch",
+      "code": "LU-DI",
+      "internalCode": "DI",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "latitude": 49.86155,
+      "longitude": 6.1475
+    },
+    {
+      "id": 2960629,
+      "name": "Echternach",
+      "nativeName": "Canton d'Echternach",
+      "code": "LU-EC",
+      "internalCode": "EC",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "latitude": 49.78872,
+      "longitude": 6.39024
+    },
+    {
+      "id": 2960599,
+      "name": "Esch-sur-Alzette",
+      "nativeName": "Canton d'Esch-sur-Alzette",
+      "code": "LU-ES",
+      "internalCode": "ES",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "latitude": 49.5,
+      "longitude": 6.03333
+    },
+    {
+      "id": 2960514,
+      "name": "Grevenmacher",
+      "nativeName": "Grevenmacher",
+      "code": "LU-GR",
+      "internalCode": "GR",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "latitude": 49.68341,
+      "longitude": 6.34307
+    },
+    {
+      "id": 2960315,
+      "name": "Luxembourg",
+      "nativeName": "Luxembourg",
+      "code": "LU-LU",
+      "internalCode": "LU",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "latitude": 49.61427,
+      "longitude": 6.17289
+    },
+    {
+      "id": 2960275,
+      "name": "Mersch",
+      "nativeName": "Mersch",
+      "code": "LU-ME",
+      "internalCode": "ME",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "latitude": 49.75636,
+      "longitude": 6.12717
+    },
+    {
+      "id": 2960161,
+      "name": "Redange",
+      "nativeName": "Redange",
+      "code": "LU-RD",
+      "internalCode": "RD",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "latitude": 49.79716,
+      "longitude": 5.88731
+    },
+    {
+      "id": 2960152,
+      "name": "Remich",
+      "nativeName": "Remich",
+      "code": "LU-RM",
+      "internalCode": "RM",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "latitude": 49.54323,
+      "longitude": 6.31779
+    },
+    {
+      "id": 2960020,
+      "name": "Vianden",
+      "nativeName": "Vianden",
+      "code": "LU-VD",
+      "internalCode": "VD",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "latitude": 49.93256,
+      "longitude": 6.16618
+    },
+    {
+      "id": 2959975,
+      "name": "Wiltz",
+      "nativeName": "Wiltz",
+      "code": "LU-WI",
+      "internalCode": "WI",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "latitude": 49.94698,
+      "longitude": 5.907
+    }
+  ]
+}

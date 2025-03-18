@@ -1,0 +1,183 @@
+{
+  "stateId": 1524444,
+  "stateCode": "KZ-31",
+  "countryCode": "KZ",
+  "cities": [
+    {
+      "id": 8739769,
+      "name": "Bayzak District",
+      "nativeName": "Bayzak District",
+      "code": "KZ-31-8739769",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-31",
+      "latitude": 43.43393,
+      "longitude": 71.66733
+    },
+    {
+      "id": 1518673,
+      "name": "Bayzakskiy Rayon",
+      "nativeName": "Bayzakskiy Rayon",
+      "code": "KZ-31-1518673",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-31",
+      "latitude": 43.40477,
+      "longitude": 71.78869
+    },
+    {
+      "id": 1524333,
+      "name": "Jualy District",
+      "nativeName": "Zhūaly Aūdany",
+      "code": "KZ-31-1524333",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-31",
+      "latitude": 42.66667,
+      "longitude": 70.75
+    },
+    {
+      "id": 8739777,
+      "name": "Korday District",
+      "nativeName": "Korday",
+      "code": "KZ-31-8739777",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-31",
+      "latitude": 43.03878,
+      "longitude": 74.71802
+    },
+    {
+      "id": 1521754,
+      "name": "Kordayskiy Rayon",
+      "nativeName": "Kordayskiy Rayon",
+      "code": "KZ-31-1521754",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-31",
+      "latitude": 43.47029,
+      "longitude": 74.90912
+    },
+    {
+      "id": 1520965,
+      "name": "Merki District",
+      "nativeName": "Merke Aūdany",
+      "code": "KZ-31-1520965",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-31",
+      "latitude": 43.16667,
+      "longitude": 73.25
+    },
+    {
+      "id": 1520845,
+      "name": "Moiynkum District",
+      "nativeName": "Moyynkumskiy Rayon",
+      "code": "KZ-31-1520845",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-31",
+      "latitude": 44.8688,
+      "longitude": 72.69168
+    },
+    {
+      "id": 1537279,
+      "name": "Qarataū Qalasy",
+      "nativeName": "Qarataū Qalasy",
+      "code": "KZ-31-1537279",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-31",
+      "latitude": 43.16667,
+      "longitude": 70.46667
+    },
+    {
+      "id": 1519552,
+      "name": "Sarysu District",
+      "nativeName": "Sarysū Aūdany",
+      "code": "KZ-31-1519552",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-31",
+      "latitude": 44.83333,
+      "longitude": 70.5
+    },
+    {
+      "id": 1524678,
+      "name": "Shu District",
+      "nativeName": "Shū Aūdany",
+      "code": "KZ-31-1524678",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-31",
+      "latitude": 43.66667,
+      "longitude": 74.25
+    },
+    {
+      "id": 1537280,
+      "name": "Shū Qalasy",
+      "nativeName": "Shū Qalasy",
+      "code": "KZ-31-1537280",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-31",
+      "latitude": 43.6,
+      "longitude": 73.7
+    },
+    {
+      "id": 1518589,
+      "name": "Talas District",
+      "nativeName": "Talas Aūdany",
+      "code": "KZ-31-1518589",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-31",
+      "latitude": 43.58333,
+      "longitude": 70.66667
+    },
+    {
+      "id": 1537277,
+      "name": "Taraz Gorodskaya Administratsiya",
+      "nativeName": "Taraz Gorodskaya Administratsiya",
+      "code": "KZ-31-1537277",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-31",
+      "latitude": 42.89878,
+      "longitude": 71.38743
+    },
+    {
+      "id": 1521288,
+      "name": "Turar Ryskulov District",
+      "nativeName": "Rayon Turara Ryskulova",
+      "code": "KZ-31-1521288",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-31",
+      "latitude": 43.08061,
+      "longitude": 72.48153
+    },
+    {
+      "id": 1524439,
+      "name": "Zhambylskiy Rayon",
+      "nativeName": "Zhambylskiy Rayon",
+      "code": "KZ-31-1524439",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-31",
+      "latitude": 43.00852,
+      "longitude": 71.16878
+    },
+    {
+      "id": 1537278,
+      "name": "Zhangatas Qalasy",
+      "nativeName": "Zhangatas Qalasy",
+      "code": "KZ-31-1537278",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-31",
+      "latitude": 43.56667,
+      "longitude": 69.75
+    }
+  ]
+}

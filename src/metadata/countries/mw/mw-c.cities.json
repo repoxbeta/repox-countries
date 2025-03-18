@@ -1,0 +1,106 @@
+{
+  "stateId": 931597,
+  "stateCode": "MW-C",
+  "countryCode": "MW",
+  "cities": [
+    {
+      "id": 930023,
+      "name": "Dedza District",
+      "nativeName": "Dedza District",
+      "code": "MW-C-930023",
+      "countryId": 927384,
+      "countryCode": "MW",
+      "stateCode": "MW-C",
+      "latitude": -14.26273,
+      "longitude": 34.18559
+    },
+    {
+      "id": 929975,
+      "name": "Dowa District",
+      "nativeName": "Dowa District",
+      "code": "MW-C-929975",
+      "countryId": 927384,
+      "countryCode": "MW",
+      "stateCode": "MW-C",
+      "latitude": -13.60098,
+      "longitude": 33.82378
+    },
+    {
+      "id": 928531,
+      "name": "Kasungu District",
+      "nativeName": "Kasungu District",
+      "code": "MW-C-928531",
+      "countryId": 927384,
+      "countryCode": "MW",
+      "stateCode": "MW-C",
+      "latitude": -13,
+      "longitude": 33.41667
+    },
+    {
+      "id": 927964,
+      "name": "Lilongwe District",
+      "nativeName": "Lilongwe District",
+      "code": "MW-C-927964",
+      "countryId": 927384,
+      "countryCode": "MW",
+      "stateCode": "MW-C",
+      "latitude": -14.01962,
+      "longitude": 33.68407
+    },
+    {
+      "id": 926745,
+      "name": "Mchinji District",
+      "nativeName": "Mchinji District",
+      "code": "MW-C-926745",
+      "countryId": 927384,
+      "countryCode": "MW",
+      "stateCode": "MW-C",
+      "latitude": -13.7623,
+      "longitude": 33.07998
+    },
+    {
+      "id": 924703,
+      "name": "Nkhotakota District",
+      "nativeName": "Nkhotakota District",
+      "code": "MW-C-924703",
+      "countryId": 927384,
+      "countryCode": "MW",
+      "stateCode": "MW-C",
+      "latitude": -12.80417,
+      "longitude": 34.08298
+    },
+    {
+      "id": 925072,
+      "name": "Ntcheu District",
+      "nativeName": "Ntcheu District",
+      "code": "MW-C-925072",
+      "countryId": 927384,
+      "countryCode": "MW",
+      "stateCode": "MW-C",
+      "latitude": -14.75,
+      "longitude": 34.75
+    },
+    {
+      "id": 924490,
+      "name": "Ntchisi District",
+      "nativeName": "Ntchisi District",
+      "code": "MW-C-924490",
+      "countryId": 927384,
+      "countryCode": "MW",
+      "stateCode": "MW-C",
+      "latitude": -13.29574,
+      "longitude": 33.90798
+    },
+    {
+      "id": 924053,
+      "name": "Salima District",
+      "nativeName": "Salima District",
+      "code": "MW-C-924053",
+      "countryId": 927384,
+      "countryCode": "MW",
+      "stateCode": "MW-C",
+      "latitude": -13.71959,
+      "longitude": 34.40184
+    }
+  ]
+}

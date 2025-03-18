@@ -1,0 +1,293 @@
+{
+  "stateId": 3860255,
+  "stateCode": "AR-X",
+  "countryCode": "AR",
+  "cities": [
+    {
+      "id": 3863430,
+      "name": "Departamento de Calamuchita",
+      "nativeName": "Departamento de Calamuchita",
+      "code": "AR-X-3863430",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-X",
+      "latitude": -32.25,
+      "longitude": -64.58333
+    },
+    {
+      "id": 3862744,
+      "name": "Departamento de Capital",
+      "nativeName": "Departamento de Capital",
+      "code": "AR-X-3862744",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-X",
+      "latitude": -31.41667,
+      "longitude": -64.2
+    },
+    {
+      "id": 3860825,
+      "name": "Departamento de Colón",
+      "nativeName": "Departamento de Colón",
+      "code": "AR-X-3860825",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-X",
+      "latitude": -31.16667,
+      "longitude": -64.16667
+    },
+    {
+      "id": 3859827,
+      "name": "Departamento de Cruz del Eje",
+      "nativeName": "Departamento de Cruz del Eje",
+      "code": "AR-X-3859827",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-X",
+      "latitude": -30.75,
+      "longitude": -65
+    },
+    {
+      "id": 3855062,
+      "name": "Departamento de General Roca",
+      "nativeName": "Departamento de General Roca",
+      "code": "AR-X-3855062",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-X",
+      "latitude": -34.66667,
+      "longitude": -64.25
+    },
+    {
+      "id": 3855053,
+      "name": "Departamento de General San Martín",
+      "nativeName": "Departamento de General San Martín",
+      "code": "AR-X-3855053",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-X",
+      "latitude": -32.5,
+      "longitude": -63.33333
+    },
+    {
+      "id": 3853686,
+      "name": "Departamento de Ischilín",
+      "nativeName": "Departamento de Ischilín",
+      "code": "AR-X-3853686",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-X",
+      "latitude": -30.5,
+      "longitude": -64.58333
+    },
+    {
+      "id": 3853410,
+      "name": "Departamento de Juárez Celman",
+      "nativeName": "Departamento de Juárez Celman",
+      "code": "AR-X-3853410",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-X",
+      "latitude": -33.33333,
+      "longitude": -63.66667
+    },
+    {
+      "id": 3844898,
+      "name": "Departamento de Marcos Juárez",
+      "nativeName": "Departamento de Marcos Juárez",
+      "code": "AR-X-3844898",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-X",
+      "latitude": -33,
+      "longitude": -62.25
+    },
+    {
+      "id": 3844209,
+      "name": "Departamento de Minas",
+      "nativeName": "Departamento de Minas",
+      "code": "AR-X-3844209",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-X",
+      "latitude": -31,
+      "longitude": -65.33333
+    },
+    {
+      "id": 3840865,
+      "name": "Departamento de Pocho",
+      "nativeName": "Departamento de Pocho",
+      "code": "AR-X-3840865",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-X",
+      "latitude": -31.5,
+      "longitude": -65.5
+    },
+    {
+      "id": 3840292,
+      "name": "Departamento de Presidente Roque Sáenz Peña",
+      "nativeName": "Departamento de Presidente Roque Sáenz Peña",
+      "code": "AR-X-3840292",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-X",
+      "latitude": -34.25,
+      "longitude": -63.5
+    },
+    {
+      "id": 3839996,
+      "name": "Departamento de Punilla",
+      "nativeName": "Departamento de Punilla",
+      "code": "AR-X-3839996",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-X",
+      "latitude": -31.16667,
+      "longitude": -64.66667
+    },
+    {
+      "id": 3838873,
+      "name": "Departamento de Río Cuarto",
+      "nativeName": "Departamento de Río Cuarto",
+      "code": "AR-X-3838873",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-X",
+      "latitude": -33.33333,
+      "longitude": -64.5
+    },
+    {
+      "id": 3838822,
+      "name": "Departamento de Río Primero",
+      "nativeName": "Departamento de Río Primero",
+      "code": "AR-X-3838822",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-X",
+      "latitude": -31.08333,
+      "longitude": -63.5
+    },
+    {
+      "id": 3838801,
+      "name": "Departamento de Río Seco",
+      "nativeName": "Departamento de Río Seco",
+      "code": "AR-X-3838801",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-X",
+      "latitude": -30.08333,
+      "longitude": -63
+    },
+    {
+      "id": 3838796,
+      "name": "Departamento de Río Segundo",
+      "nativeName": "Departamento de Río Segundo",
+      "code": "AR-X-3838796",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-X",
+      "latitude": -31.75,
+      "longitude": -63.5
+    },
+    {
+      "id": 3838154,
+      "name": "Departamento de San Alberto",
+      "nativeName": "Departamento de San Alberto",
+      "code": "AR-X-3838154",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-X",
+      "latitude": -31.75,
+      "longitude": -65.25
+    },
+    {
+      "id": 3837475,
+      "name": "Departamento de San Javier",
+      "nativeName": "Departamento de San Javier",
+      "code": "AR-X-3837475",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-X",
+      "latitude": -32.08333,
+      "longitude": -65.16667
+    },
+    {
+      "id": 3836128,
+      "name": "Departamento de Santa María",
+      "nativeName": "Departamento de Santa María",
+      "code": "AR-X-3836128",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-X",
+      "latitude": -31.66667,
+      "longitude": -64.33333
+    },
+    {
+      "id": 3835180,
+      "name": "Departamento de Sobremonte",
+      "nativeName": "Departamento de Sobremonte",
+      "code": "AR-X-3835180",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-X",
+      "latitude": -29.66667,
+      "longitude": -64.08333
+    },
+    {
+      "id": 3834506,
+      "name": "Departamento de Tercero Arriba",
+      "nativeName": "Departamento de Tercero Arriba",
+      "code": "AR-X-3834506",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-X",
+      "latitude": -32.33333,
+      "longitude": -63.75
+    },
+    {
+      "id": 3834008,
+      "name": "Departamento de Totoral",
+      "nativeName": "Departamento de Totoral",
+      "code": "AR-X-3834008",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-X",
+      "latitude": -30.83333,
+      "longitude": -63.91667
+    },
+    {
+      "id": 3833419,
+      "name": "Departamento de Unión",
+      "nativeName": "Departamento de Unión",
+      "code": "AR-X-3833419",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-X",
+      "latitude": -32.83333,
+      "longitude": -62.75
+    },
+    {
+      "id": 3837121,
+      "name": "San Justo Department",
+      "nativeName": "Departamento de San Justo",
+      "code": "AR-X-3837121",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-X",
+      "latitude": -31.33333,
+      "longitude": -62.66667
+    },
+    {
+      "id": 3833554,
+      "name": "Tulumba Department",
+      "nativeName": "Departamento de Tulumba",
+      "code": "AR-X-3833554",
+      "countryId": 3865483,
+      "countryCode": "AR",
+      "stateCode": "AR-X",
+      "latitude": -30.25,
+      "longitude": -63.91667
+    }
+  ]
+}

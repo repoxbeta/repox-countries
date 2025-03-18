@@ -1,0 +1,29 @@
+{
+  "stateId": 1282096,
+  "stateCode": "MV-03",
+  "countryCode": "MV",
+  "cities": [
+    {
+      "id": 1337616,
+      "name": "Naifaru",
+      "nativeName": "Naifaru",
+      "code": "MV-03-1337616",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-03",
+      "latitude": 5.44438,
+      "longitude": 73.36571
+    },
+    {
+      "id": 11103188,
+      "name": "Kurendhoo",
+      "nativeName": "Kurendhoo",
+      "code": "MV-03-11103188",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-03",
+      "latitude": 5.33387,
+      "longitude": 73.46366
+    }
+  ]
+}

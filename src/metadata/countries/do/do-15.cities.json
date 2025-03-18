@@ -1,0 +1,73 @@
+{
+  "stateId": 3496200,
+  "stateCode": "DO-15",
+  "countryCode": "DO",
+  "cities": [
+    {
+      "id": 3510084,
+      "name": "Castañuelas",
+      "nativeName": "Castañuelas",
+      "code": "DO-15-3510084",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-15",
+      "latitude": 19.71667,
+      "longitude": -71.48333
+    },
+    {
+      "id": 3504946,
+      "name": "Guayubín",
+      "nativeName": "Guayubín",
+      "code": "DO-15-3504946",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-15",
+      "latitude": 19.61667,
+      "longitude": -71.33333
+    },
+    {
+      "id": 3500369,
+      "name": "Las Matas de Santa Cruz",
+      "nativeName": "Las Matas de Santa Cruz",
+      "code": "DO-15-3500369",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-15",
+      "latitude": 19.63333,
+      "longitude": -71.5
+    },
+    {
+      "id": 3496204,
+      "name": "Monte Cristi",
+      "nativeName": "Monte Cristi",
+      "code": "DO-15-3496204",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-15",
+      "latitude": 19.83333,
+      "longitude": -71.61667
+    },
+    {
+      "id": 3495025,
+      "name": "Pepillo Salcedo",
+      "nativeName": "Pepillo Salcedo",
+      "code": "DO-15-3495025",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-15",
+      "latitude": 19.66667,
+      "longitude": -71.66667
+    },
+    {
+      "id": 3491906,
+      "name": "Villa Vásquez",
+      "nativeName": "Villa Vásquez",
+      "code": "DO-15-3491906",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-15",
+      "latitude": 19.80791,
+      "longitude": -71.44
+    }
+  ]
+}

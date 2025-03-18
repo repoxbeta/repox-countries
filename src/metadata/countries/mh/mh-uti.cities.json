@@ -1,0 +1,29 @@
+{
+  "stateId": 7303516,
+  "stateCode": "MH-UTI",
+  "countryCode": "MH",
+  "cities": [
+    {
+      "id": 7306518,
+      "name": "Utrik",
+      "nativeName": "Utrik",
+      "code": "MH-UTI-7306518",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-UTI",
+      "latitude": 11.22778,
+      "longitude": 169.84739
+    },
+    {
+      "id": 7304005,
+      "name": "Utrik",
+      "nativeName": "Utrik",
+      "code": "MH-UTI-7304005",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-UTI",
+      "latitude": 11.22509,
+      "longitude": 169.84662
+    }
+  ]
+}

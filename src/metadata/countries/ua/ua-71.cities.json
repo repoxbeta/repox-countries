@@ -1,0 +1,51 @@
+{
+  "stateId": 710802,
+  "stateCode": "UA-71",
+  "countryCode": "UA",
+  "cities": [
+    {
+      "id": 710795,
+      "name": "Cherkasy Raion",
+      "nativeName": "Cherkasy Raion",
+      "code": "UA-71-710795",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-71",
+      "latitude": 49.41763,
+      "longitude": 32.06947
+    },
+    {
+      "id": 690686,
+      "name": "Uman Raion",
+      "nativeName": "Uman Raion",
+      "code": "UA-71-690686",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-71",
+      "latitude": 48.7504,
+      "longitude": 30.21955
+    },
+    {
+      "id": 686871,
+      "name": "Zolotonosha Raion",
+      "nativeName": "Zolotonosha Raion",
+      "code": "UA-71-686871",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-71",
+      "latitude": 49.66898,
+      "longitude": 32.03756
+    },
+    {
+      "id": 686801,
+      "name": "Zvenyhorodka Raion",
+      "nativeName": "Zvenihorodka Raion",
+      "code": "UA-71-686801",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-71",
+      "latitude": 49.07647,
+      "longitude": 30.96185
+    }
+  ]
+}

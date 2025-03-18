@@ -1,0 +1,106 @@
+{
+  "stateId": 347794,
+  "stateCode": "EG-SHG",
+  "countryCode": "EG",
+  "cities": [
+    {
+      "id": 361660,
+      "name": "Markaz Akhmīm",
+      "nativeName": "Markaz Akhmīm",
+      "code": "EG-SHG-361660",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-SHG",
+      "latitude": 26.57211,
+      "longitude": 31.78508
+    },
+    {
+      "id": 359588,
+      "name": "Markaz Awlād Ţawq Sharq",
+      "nativeName": "Markaz Awlād Ţawq Sharq",
+      "code": "EG-SHG-359588",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-SHG",
+      "latitude": 26.28333,
+      "longitude": 32.05
+    },
+    {
+      "id": 10371120,
+      "name": "Markaz Dār as Salām",
+      "nativeName": "Markaz Dār as Salām",
+      "code": "EG-SHG-10371120",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-SHG",
+      "latitude": 26.31275,
+      "longitude": 31.97864
+    },
+    {
+      "id": 355025,
+      "name": "Markaz Jirjā",
+      "nativeName": "Markaz Jirjā",
+      "code": "EG-SHG-355025",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-SHG",
+      "latitude": 26.30683,
+      "longitude": 31.84574
+    },
+    {
+      "id": 10371119,
+      "name": "Markaz Juhaynah al Gharbīyah",
+      "nativeName": "Markaz Juhaynah al Gharbīyah",
+      "code": "EG-SHG-10371119",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-SHG",
+      "latitude": 26.67817,
+      "longitude": 31.47071
+    },
+    {
+      "id": 347795,
+      "name": "Markaz Sūhāj",
+      "nativeName": "Markaz Sūhāj",
+      "code": "EG-SHG-347795",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-SHG",
+      "latitude": 26.53948,
+      "longitude": 31.67524
+    },
+    {
+      "id": 361436,
+      "name": "Markaz al Balyanā",
+      "nativeName": "Markaz al Balyanā",
+      "code": "EG-SHG-361436",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-SHG",
+      "latitude": 26.2286,
+      "longitude": 31.9562
+    },
+    {
+      "id": 360749,
+      "name": "Markaz al Marāghah",
+      "nativeName": "Markaz al Marāghah",
+      "code": "EG-SHG-360749",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-SHG",
+      "latitude": 26.65479,
+      "longitude": 31.57844
+    },
+    {
+      "id": 360699,
+      "name": "Markaz al Munsha’ah",
+      "nativeName": "Markaz al Munsha’ah",
+      "code": "EG-SHG-360699",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-SHG",
+      "latitude": 26.42723,
+      "longitude": 31.77056
+    }
+  ]
+}

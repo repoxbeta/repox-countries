@@ -1,0 +1,149 @@
+{
+  "countryId": 6251999,
+  "countryCode": "CA",
+  "states": [
+    {
+      "id": 5883102,
+      "name": "Alberta",
+      "nativeName": "Alberta",
+      "code": "CA-AB",
+      "internalCode": "AB",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "latitude": 52.28333,
+      "longitude": -117.469
+    },
+    {
+      "id": 5909050,
+      "name": "British Columbia",
+      "nativeName": "British Columbia",
+      "code": "CA-BC",
+      "internalCode": "BC",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "latitude": 53.99983,
+      "longitude": -125.0032
+    },
+    {
+      "id": 6065171,
+      "name": "Manitoba",
+      "nativeName": "Manitoba",
+      "code": "CA-MB",
+      "internalCode": "MB",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "latitude": 55.00019,
+      "longitude": -97.00049
+    },
+    {
+      "id": 6087430,
+      "name": "New Brunswick",
+      "nativeName": "New Brunswick/Nouveau-Brunswick",
+      "code": "CA-NB",
+      "internalCode": "NB",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "latitude": 46.5001,
+      "longitude": -65.99878
+    },
+    {
+      "id": 6354959,
+      "name": "Newfoundland and Labrador",
+      "nativeName": "Newfoundland and Labrador",
+      "code": "CA-NL",
+      "internalCode": "NL",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "latitude": 52,
+      "longitude": -56
+    },
+    {
+      "id": 6091069,
+      "name": "Northwest Territories",
+      "nativeName": "Northwest Territories",
+      "code": "CA-NT",
+      "internalCode": "NT",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "latitude": 69.50061,
+      "longitude": -121.50445
+    },
+    {
+      "id": 6091530,
+      "name": "Nova Scotia",
+      "nativeName": "Nova Scotia",
+      "code": "CA-NS",
+      "internalCode": "NS",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "latitude": 45.00015,
+      "longitude": -62.99865
+    },
+    {
+      "id": 6091732,
+      "name": "Nunavut",
+      "nativeName": "Nunavut",
+      "code": "CA-NU",
+      "internalCode": "NU",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "latitude": 66.03478,
+      "longitude": -100.07813
+    },
+    {
+      "id": 6093943,
+      "name": "Ontario",
+      "nativeName": "Ontario",
+      "code": "CA-ON",
+      "internalCode": "ON",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "latitude": 49.25014,
+      "longitude": -84.49983
+    },
+    {
+      "id": 6113358,
+      "name": "Prince Edward Island",
+      "nativeName": "Prince Edward Island",
+      "code": "CA-PE",
+      "internalCode": "PE",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "latitude": 46.39808,
+      "longitude": -63.29844
+    },
+    {
+      "id": 6115047,
+      "name": "Quebec",
+      "nativeName": "Québec",
+      "code": "CA-QC",
+      "internalCode": "QC",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "latitude": 52.00017,
+      "longitude": -71.99907
+    },
+    {
+      "id": 6141242,
+      "name": "Saskatchewan",
+      "nativeName": "Saskatchewan",
+      "code": "CA-SK",
+      "internalCode": "SK",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "latitude": 54.0001,
+      "longitude": -106.00099
+    },
+    {
+      "id": 6185811,
+      "name": "Yukon",
+      "nativeName": "Yukon",
+      "code": "CA-YT",
+      "internalCode": "YT",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "latitude": 62.99962,
+      "longitude": -135.00404
+    }
+  ]
+}

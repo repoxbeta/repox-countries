@@ -1,0 +1,73 @@
+{
+  "stateId": 454571,
+  "stateCode": "LV-101",
+  "countryCode": "LV",
+  "cities": [
+    {
+      "id": 11352929,
+      "name": "Kārķu pagasts",
+      "nativeName": "Kārķu pagasts",
+      "code": "LV-101-11352929",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-101",
+      "latitude": 57.81948,
+      "longitude": 25.61953
+    },
+    {
+      "id": 11352990,
+      "name": "Valka",
+      "nativeName": "Valka",
+      "code": "LV-101-11352990",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-101",
+      "latitude": 57.77463,
+      "longitude": 26.00565
+    },
+    {
+      "id": 11352964,
+      "name": "Valkas pagasts",
+      "nativeName": "Valkas pagasts",
+      "code": "LV-101-11352964",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-101",
+      "latitude": 57.74282,
+      "longitude": 25.99774
+    },
+    {
+      "id": 11352965,
+      "name": "Vijciema pagasts",
+      "nativeName": "Vijciema pagasts",
+      "code": "LV-101-11352965",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-101",
+      "latitude": 57.59779,
+      "longitude": 26.00906
+    },
+    {
+      "id": 11352967,
+      "name": "Zvārtavas pagasts",
+      "nativeName": "Zvārtavas pagasts",
+      "code": "LV-101-11352967",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-101",
+      "latitude": 57.58902,
+      "longitude": 26.21851
+    },
+    {
+      "id": 11352963,
+      "name": "Ērģemes pagasts",
+      "nativeName": "Ērģemes pagasts",
+      "code": "LV-101-11352963",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-101",
+      "latitude": 57.81846,
+      "longitude": 25.77847
+    }
+  ]
+}

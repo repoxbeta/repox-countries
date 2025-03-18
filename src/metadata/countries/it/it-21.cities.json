@@ -1,0 +1,95 @@
+{
+  "stateId": 3170831,
+  "stateCode": "IT-21",
+  "countryCode": "IT",
+  "cities": [
+    {
+      "id": 3183298,
+      "name": "Province of Alessandria",
+      "nativeName": "Provincia di Alessandria",
+      "code": "IT-21-3183298",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-21",
+      "latitude": 44.81667,
+      "longitude": 8.7
+    },
+    {
+      "id": 3182712,
+      "name": "Province of Asti",
+      "nativeName": "Provincia di Asti",
+      "code": "IT-21-3182712",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-21",
+      "latitude": 44.91667,
+      "longitude": 8.16667
+    },
+    {
+      "id": 6457397,
+      "name": "Province of Biella",
+      "nativeName": "Provincia di Biella",
+      "code": "IT-21-6457397",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-21",
+      "latitude": 45.58713,
+      "longitude": 8.08594
+    },
+    {
+      "id": 3177699,
+      "name": "Province of Cuneo",
+      "nativeName": "Provincia di Cuneo",
+      "code": "IT-21-3177699",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-21",
+      "latitude": 44.51667,
+      "longitude": 7.56667
+    },
+    {
+      "id": 3172188,
+      "name": "Province of Novara",
+      "nativeName": "Provincia di Novara",
+      "code": "IT-21-3172188",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-21",
+      "latitude": 45.58533,
+      "longitude": 8.57781
+    },
+    {
+      "id": 3164564,
+      "name": "Province of Vercelli",
+      "nativeName": "Provincia di Vercelli",
+      "code": "IT-21-3164564",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-21",
+      "latitude": 45.33188,
+      "longitude": 8.41415
+    },
+    {
+      "id": 3165523,
+      "name": "Turin",
+      "nativeName": "Torino",
+      "code": "IT-21-3165523",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-21",
+      "latitude": 45.13333,
+      "longitude": 7.36667
+    },
+    {
+      "id": 3164567,
+      "name": "Verbania",
+      "nativeName": "Provincia Verbano-Cusio-Ossola",
+      "code": "IT-21-3164567",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-21",
+      "latitude": 45.93333,
+      "longitude": 8.55
+    }
+  ]
+}

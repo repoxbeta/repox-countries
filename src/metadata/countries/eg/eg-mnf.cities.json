@@ -1,0 +1,62 @@
+{
+  "stateId": 360689,
+  "stateCode": "EG-MNF",
+  "countryCode": "EG",
+  "cities": [
+    {
+      "id": 360047,
+      "name": "Markaz Ashmūn",
+      "nativeName": "Markaz Ashmūn",
+      "code": "EG-MNF-360047",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-MNF",
+      "latitude": 30.303,
+      "longitude": 30.98423
+    },
+    {
+      "id": 10371118,
+      "name": "Markaz Birkat as Sab‘",
+      "nativeName": "Markaz Birkat as Sab‘",
+      "code": "EG-MNF-10371118",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-MNF",
+      "latitude": 30.64859,
+      "longitude": 31.08527
+    },
+    {
+      "id": 350368,
+      "name": "Markaz Quwaysinā",
+      "nativeName": "Markaz Quwaysinā",
+      "code": "EG-MNF-350368",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-MNF",
+      "latitude": 30.56493,
+      "longitude": 31.16015
+    },
+    {
+      "id": 345955,
+      "name": "Markaz al Bājūr",
+      "nativeName": "Markaz al Bājūr",
+      "code": "EG-MNF-345955",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-MNF",
+      "latitude": 30.42254,
+      "longitude": 31.05698
+    },
+    {
+      "id": 359954,
+      "name": "Markaz ash Shuhadā’",
+      "nativeName": "Markaz ash Shuhadā’",
+      "code": "EG-MNF-359954",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-MNF",
+      "latitude": 30.59737,
+      "longitude": 30.87124
+    }
+  ]
+}

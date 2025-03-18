@@ -1,0 +1,51 @@
+{
+  "stateId": 98410,
+  "stateCode": "IQ-KI",
+  "countryCode": "IQ",
+  "cities": [
+    {
+      "id": 6770659,
+      "name": "Al-Hawija District",
+      "nativeName": "Al-Hawija District",
+      "code": "IQ-KI-6770659",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-KI",
+      "latitude": 35.32698,
+      "longitude": 43.75421
+    },
+    {
+      "id": 9171727,
+      "name": "Dabes",
+      "nativeName": "Dabes",
+      "code": "IQ-KI-9171727",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-KI",
+      "latitude": 35.80371,
+      "longitude": 44.23645
+    },
+    {
+      "id": 9166581,
+      "name": "Daquq District",
+      "nativeName": "Daquq District",
+      "code": "IQ-KI-9166581",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-KI",
+      "latitude": 35.0845,
+      "longitude": 44.32366
+    },
+    {
+      "id": 94786,
+      "name": "Kirkuk District",
+      "nativeName": "Kirkuk District",
+      "code": "IQ-KI-94786",
+      "countryId": 99237,
+      "countryCode": "IQ",
+      "stateCode": "IQ-KI",
+      "latitude": 35.5,
+      "longitude": 44.3
+    }
+  ]
+}

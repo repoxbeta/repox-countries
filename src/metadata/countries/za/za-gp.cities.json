@@ -1,0 +1,62 @@
+{
+  "stateId": 1085594,
+  "stateCode": "ZA-GP",
+  "countryCode": "ZA",
+  "cities": [
+    {
+      "id": 8347354,
+      "name": "City of Johannesburg Metropolitan Municipality",
+      "nativeName": "City of Johannesburg Metropolitan Municipality",
+      "code": "ZA-GP-8347354",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "stateCode": "ZA-GP",
+      "latitude": -26.17673,
+      "longitude": 27.96353
+    },
+    {
+      "id": 8347355,
+      "name": "City of Tshwane Metropolitan Municipality",
+      "nativeName": "City of Tshwane Metropolitan Municipality",
+      "code": "ZA-GP-8347355",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "stateCode": "ZA-GP",
+      "latitude": -25.65985,
+      "longitude": 28.44343
+    },
+    {
+      "id": 8347353,
+      "name": "Ekurhuleni",
+      "nativeName": "Ekurhuleni Metropolitan Municipality",
+      "code": "ZA-GP-8347353",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "stateCode": "ZA-GP",
+      "latitude": -26.1989,
+      "longitude": 28.31262
+    },
+    {
+      "id": 8347377,
+      "name": "Sedibeng District Municipality",
+      "nativeName": "Sedibeng District Municipality",
+      "code": "ZA-GP-8347377",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "stateCode": "ZA-GP",
+      "latitude": -26.56686,
+      "longitude": 28.18277
+    },
+    {
+      "id": 8347381,
+      "name": "West Rand District Municipality",
+      "nativeName": "West Rand District Municipality",
+      "code": "ZA-GP-8347381",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "stateCode": "ZA-GP",
+      "latitude": -26.24565,
+      "longitude": 27.55538
+    }
+  ]
+}

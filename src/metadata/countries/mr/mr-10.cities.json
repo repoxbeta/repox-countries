@@ -1,0 +1,29 @@
+{
+  "stateId": 2379216,
+  "stateCode": "MR-10",
+  "countryCode": "MR",
+  "cities": [
+    {
+      "id": 9212620,
+      "name": "Ould Yenge",
+      "nativeName": "Ould Yenge",
+      "code": "MR-10-9212620",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-10",
+      "latitude": 15.67602,
+      "longitude": -11.88969
+    },
+    {
+      "id": 9212601,
+      "name": "Selibaby",
+      "nativeName": "Selibaby",
+      "code": "MR-10-9212601",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-10",
+      "latitude": 15.20744,
+      "longitude": -12.23916
+    }
+  ]
+}

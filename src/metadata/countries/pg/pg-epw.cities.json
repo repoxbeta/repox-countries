@@ -1,0 +1,62 @@
+{
+  "stateId": 2097655,
+  "stateCode": "PG-EPW",
+  "countryCode": "PG",
+  "cities": [
+    {
+      "id": 2094755,
+      "name": "Kandep District",
+      "nativeName": "Kandep",
+      "code": "PG-EPW-2094755",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-EPW",
+      "latitude": -5.83333,
+      "longitude": 143.55
+    },
+    {
+      "id": 2093564,
+      "name": "Kompiam District",
+      "nativeName": "Kompiam Ambum",
+      "code": "PG-EPW-2093564",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-EPW",
+      "latitude": -5.25,
+      "longitude": 144
+    },
+    {
+      "id": 8657193,
+      "name": "Lagaip Porgera District",
+      "nativeName": "Lagaip Porgera",
+      "code": "PG-EPW-8657193",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-EPW",
+      "latitude": -5.38333,
+      "longitude": 143.16667
+    },
+    {
+      "id": 2084245,
+      "name": "Wabag District",
+      "nativeName": "Wabag",
+      "code": "PG-EPW-2084245",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-EPW",
+      "latitude": -5.33333,
+      "longitude": 143.65
+    },
+    {
+      "id": 2083851,
+      "name": "Wapenamanda District",
+      "nativeName": "Wapenamanda",
+      "code": "PG-EPW-2083851",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-EPW",
+      "latitude": -5.66667,
+      "longitude": 143.91667
+    }
+  ]
+}

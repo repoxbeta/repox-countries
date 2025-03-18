@@ -1,0 +1,84 @@
+{
+  "stateId": 7267904,
+  "stateCode": "VI-T",
+  "countryCode": "VI",
+  "cities": [
+    {
+      "id": 9252028,
+      "name": "Charlotte Amalie",
+      "nativeName": "Charlotte Amalie",
+      "code": "VI-T-9252028",
+      "countryId": 4796775,
+      "countryCode": "VI",
+      "stateCode": "VI-T",
+      "latitude": 18.33955,
+      "longitude": -64.94947
+    },
+    {
+      "id": 9252029,
+      "name": "East End",
+      "nativeName": "East End",
+      "code": "VI-T-9252029",
+      "countryId": 4796775,
+      "countryCode": "VI",
+      "stateCode": "VI-T",
+      "latitude": 18.33232,
+      "longitude": -64.86185
+    },
+    {
+      "id": 9252030,
+      "name": "Northside",
+      "nativeName": "Northside",
+      "code": "VI-T-9252030",
+      "countryId": 4796775,
+      "countryCode": "VI",
+      "stateCode": "VI-T",
+      "latitude": 18.36089,
+      "longitude": -64.93562
+    },
+    {
+      "id": 9252031,
+      "name": "Southside",
+      "nativeName": "Southside",
+      "code": "VI-T-9252031",
+      "countryId": 4796775,
+      "countryCode": "VI",
+      "stateCode": "VI-T",
+      "latitude": 18.32069,
+      "longitude": -64.89762
+    },
+    {
+      "id": 9252032,
+      "name": "Tutu",
+      "nativeName": "Tutu",
+      "code": "VI-T-9252032",
+      "countryId": 4796775,
+      "countryCode": "VI",
+      "stateCode": "VI-T",
+      "latitude": 18.34072,
+      "longitude": -64.88846
+    },
+    {
+      "id": 9252033,
+      "name": "Water Island",
+      "nativeName": "Water Island",
+      "code": "VI-T-9252033",
+      "countryId": 4796775,
+      "countryCode": "VI",
+      "stateCode": "VI-T",
+      "latitude": 18.32816,
+      "longitude": -64.93383
+    },
+    {
+      "id": 9252034,
+      "name": "West End",
+      "nativeName": "West End",
+      "code": "VI-T-9252034",
+      "countryId": 4796775,
+      "countryCode": "VI",
+      "stateCode": "VI-T",
+      "latitude": 18.35522,
+      "longitude": -65.01243
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "stateId": 2126099,
+  "stateCode": "RU-CHU",
+  "countryCode": "RU",
+  "cities": [
+    {
+      "id": 12624987,
+      "name": "Anadyr Urban Okrug",
+      "nativeName": "Anadyr Urban Okrug",
+      "code": "RU-CHU-12624987",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CHU",
+      "latitude": 64.72769,
+      "longitude": 177.49718
+    },
+    {
+      "id": 2127198,
+      "name": "Anadyrsky District",
+      "nativeName": "Anadyrskiy Rayon",
+      "code": "RU-CHU-2127198",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CHU",
+      "latitude": 65.00342,
+      "longitude": 173.00342
+    },
+    {
+      "id": 2126681,
+      "name": "Bilibinsky District",
+      "nativeName": "Bilibinskiy Rayon",
+      "code": "RU-CHU-2126681",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CHU",
+      "latitude": 67.0175,
+      "longitude": 164.0175
+    },
+    {
+      "id": 2126275,
+      "name": "Chaunsky District",
+      "nativeName": "Chaunskiy Rayon",
+      "code": "RU-CHU-2126275",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CHU",
+      "latitude": 68.21146,
+      "longitude": 171.17575
+    },
+    {
+      "id": 4031750,
+      "name": "Chukotskiy Rayon",
+      "nativeName": "Chukotskiy Rayon",
+      "code": "RU-CHU-4031750",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CHU",
+      "latitude": 66.31316,
+      "longitude": -172.66919
+    },
+    {
+      "id": 13131974,
+      "name": "Gorodskoy Okrug Pevek",
+      "nativeName": "Gorodskoy Okrug Pevek",
+      "code": "RU-CHU-13131974",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CHU",
+      "latitude": 69.70047,
+      "longitude": 170.30446
+    },
+    {
+      "id": 4031694,
+      "name": "Iul’tinskiy Rayon",
+      "nativeName": "Iul’tinskiy Rayon",
+      "code": "RU-CHU-4031694",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CHU",
+      "latitude": 67.77958,
+      "longitude": 179.06752
+    },
+    {
+      "id": 12624988,
+      "name": "Pevek Urban District",
+      "nativeName": "Pevek Urban District",
+      "code": "RU-CHU-12624988",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CHU",
+      "latitude": 69.70142,
+      "longitude": 170.30347
+    },
+    {
+      "id": 13131975,
+      "name": "Providenskiy Gorodskoy Okrug",
+      "nativeName": "Providenskiy Gorodskoy Okrug",
+      "code": "RU-CHU-13131975",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CHU",
+      "latitude": 64.43102,
+      "longitude": -173.21633
+    },
+    {
+      "id": 4031572,
+      "name": "Providenskiy Rayon",
+      "nativeName": "Providenskiy Rayon",
+      "code": "RU-CHU-4031572",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CHU",
+      "latitude": 65.25523,
+      "longitude": -175.00232
+    }
+  ]
+}

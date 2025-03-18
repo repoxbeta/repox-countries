@@ -1,0 +1,62 @@
+{
+  "stateId": 3339542,
+  "stateCode": "CZ-71",
+  "countryCode": "CZ",
+  "cities": [
+    {
+      "id": 3337501,
+      "name": "Jeseník District",
+      "nativeName": "Okres Jeseník",
+      "code": "CZ-71-3337501",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-71",
+      "latitude": 50.25,
+      "longitude": 17.16667
+    },
+    {
+      "id": 3069010,
+      "name": "Olomouc District",
+      "nativeName": "Okres Olomouc",
+      "code": "CZ-71-3069010",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-71",
+      "latitude": 49.66667,
+      "longitude": 17.25
+    },
+    {
+      "id": 3067420,
+      "name": "Prostějov District",
+      "nativeName": "Okres Prostějov",
+      "code": "CZ-71-3067420",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-71",
+      "latitude": 49.5,
+      "longitude": 17.03333
+    },
+    {
+      "id": 3067578,
+      "name": "Přerov District",
+      "nativeName": "Okres Přerov",
+      "code": "CZ-71-3067578",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-71",
+      "latitude": 49.5,
+      "longitude": 17.55
+    },
+    {
+      "id": 3064672,
+      "name": "Šumperk District",
+      "nativeName": "Okres Šumperk",
+      "code": "CZ-71-3064672",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-71",
+      "latitude": 50,
+      "longitude": 17
+    }
+  ]
+}

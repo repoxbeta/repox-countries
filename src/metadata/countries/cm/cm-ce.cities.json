@@ -1,0 +1,117 @@
+{
+  "stateId": 2233376,
+  "stateCode": "CM-CE",
+  "countryCode": "CM",
+  "cities": [
+    {
+      "id": 2230817,
+      "name": "Haute-Sanaga",
+      "nativeName": "Haute-Sanaga",
+      "code": "CM-CE-2230817",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-CE",
+      "latitude": 4.6,
+      "longitude": 12.4
+    },
+    {
+      "id": 2229546,
+      "name": "Lekie",
+      "nativeName": "Département de la Lékié",
+      "code": "CM-CE-2229546",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-CE",
+      "latitude": 4.2,
+      "longitude": 11.4
+    },
+    {
+      "id": 9224948,
+      "name": "Mbam-et-Inoubou",
+      "nativeName": "Mbam-Et-Inoubou",
+      "code": "CM-CE-9224948",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-CE",
+      "latitude": 4.73754,
+      "longitude": 10.96972
+    },
+    {
+      "id": 7730793,
+      "name": "Mbam-et-Kim",
+      "nativeName": "Mbam-et-Kim",
+      "code": "CM-CE-7730793",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-CE",
+      "latitude": 4.44157,
+      "longitude": 11.64104
+    },
+    {
+      "id": 7731690,
+      "name": "Mefou-et-Afamba",
+      "nativeName": "Méfou-et-Afamba",
+      "code": "CM-CE-7731690",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-CE",
+      "latitude": 3.96,
+      "longitude": 11.93
+    },
+    {
+      "id": 9165815,
+      "name": "Mefou-et-Akono",
+      "nativeName": "Mefou-et-Akono",
+      "code": "CM-CE-9165815",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-CE",
+      "latitude": 3.58706,
+      "longitude": 11.36089
+    },
+    {
+      "id": 8693008,
+      "name": "Mfoundi",
+      "nativeName": "Mfoundi",
+      "code": "CM-CE-8693008",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-CE",
+      "latitude": 3.8667,
+      "longitude": 11.5167
+    },
+    {
+      "id": 2223330,
+      "name": "Nyong-et-Kelle",
+      "nativeName": "Département du Nyong-et-Kéllé",
+      "code": "CM-CE-2223330",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-CE",
+      "latitude": 3.83333,
+      "longitude": 10.83333
+    },
+    {
+      "id": 2223329,
+      "name": "Nyong-et-Mfoumou",
+      "nativeName": "Nyong-et-Mfoumou",
+      "code": "CM-CE-2223329",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-CE",
+      "latitude": 4,
+      "longitude": 12.4
+    },
+    {
+      "id": 2223327,
+      "name": "Nyong-et-Soo",
+      "nativeName": "Nyong-et-Soo",
+      "code": "CM-CE-2223327",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-CE",
+      "latitude": 3.4,
+      "longitude": 11.5
+    }
+  ]
+}

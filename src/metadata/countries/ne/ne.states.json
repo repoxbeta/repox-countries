@@ -1,0 +1,94 @@
+{
+  "countryId": 2440476,
+  "countryCode": "NE",
+  "states": [
+    {
+      "id": 2448083,
+      "name": "Agadez",
+      "nativeName": "Agadez",
+      "code": "NE-1",
+      "internalCode": "1",
+      "countryId": 2440476,
+      "countryCode": "NE",
+      "latitude": 19.75,
+      "longitude": 10.25
+    },
+    {
+      "id": 2445702,
+      "name": "Diffa",
+      "nativeName": "Diffa",
+      "code": "NE-2",
+      "internalCode": "2",
+      "countryId": 2440476,
+      "countryCode": "NE",
+      "latitude": 16,
+      "longitude": 13.5
+    },
+    {
+      "id": 2445486,
+      "name": "Dosso Region",
+      "nativeName": "Dosso Region",
+      "code": "NE-3",
+      "internalCode": "3",
+      "countryId": 2440476,
+      "countryCode": "NE",
+      "latitude": 13.2,
+      "longitude": 3.6
+    },
+    {
+      "id": 2441289,
+      "name": "Maradi Region",
+      "nativeName": "Maradi",
+      "code": "NE-4",
+      "internalCode": "4",
+      "countryId": 2440476,
+      "countryCode": "NE",
+      "latitude": 14.25,
+      "longitude": 7.25
+    },
+    {
+      "id": 2595294,
+      "name": "Niamey",
+      "nativeName": "Niamey",
+      "code": "NE-8",
+      "internalCode": "8",
+      "countryId": 2440476,
+      "countryCode": "NE",
+      "latitude": 13.52139,
+      "longitude": 2.10528
+    },
+    {
+      "id": 2439374,
+      "name": "Tahoua Region",
+      "nativeName": "Tahoua",
+      "code": "NE-5",
+      "internalCode": "5",
+      "countryId": 2440476,
+      "countryCode": "NE",
+      "latitude": 16,
+      "longitude": 5.5
+    },
+    {
+      "id": 2595293,
+      "name": "Tillabéri Region",
+      "nativeName": "Tillaberi Region",
+      "code": "NE-6",
+      "internalCode": "6",
+      "countryId": 2440476,
+      "countryCode": "NE",
+      "latitude": 14.33333,
+      "longitude": 2.08333
+    },
+    {
+      "id": 2437797,
+      "name": "Zinder Region",
+      "nativeName": "Zinder",
+      "code": "NE-7",
+      "internalCode": "7",
+      "countryId": 2440476,
+      "countryCode": "NE",
+      "latitude": 15,
+      "longitude": 10.5
+    }
+  ]
+}

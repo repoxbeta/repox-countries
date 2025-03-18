@@ -1,0 +1,40 @@
+{
+  "stateId": 6417224,
+  "stateCode": "GG-6417224",
+  "countryCode": "GG",
+  "cities": [
+    {
+      "id": 6696773,
+      "name": "St Martin",
+      "nativeName": "St Martin",
+      "code": "GG-6417224-6696773",
+      "countryId": 3042362,
+      "countryCode": "GG",
+      "stateCode": "GG-6417224",
+      "latitude": 49.43713,
+      "longitude": -2.55479
+    },
+    {
+      "id": 6420356,
+      "name": "Jerbourg",
+      "nativeName": "Jerbourg",
+      "code": "GG-6417224-6420356",
+      "countryId": 3042362,
+      "countryCode": "GG",
+      "stateCode": "GG-6417224",
+      "latitude": 49.42472,
+      "longitude": -2.53361
+    },
+    {
+      "id": 6420224,
+      "name": "Les Pieces",
+      "nativeName": "Les Pieces",
+      "code": "GG-6417224-6420224",
+      "countryId": 3042362,
+      "countryCode": "GG",
+      "stateCode": "GG-6417224",
+      "latitude": 49.43333,
+      "longitude": -2.58306
+    }
+  ]
+}

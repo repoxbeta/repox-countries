@@ -1,0 +1,161 @@
+{
+  "stateId": 3591410,
+  "stateCode": "GT-PE",
+  "countryCode": "GT",
+  "cities": [
+    {
+      "id": 9253824,
+      "name": "Las Cruces",
+      "nativeName": "Las Cruces",
+      "code": "GT-PE-9253824",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-PE",
+      "latitude": 16.63611,
+      "longitude": -90.18389
+    },
+    {
+      "id": 3597716,
+      "name": "Municipio de Dolores",
+      "nativeName": "Municipio de Dolores",
+      "code": "GT-PE-3597716",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-PE",
+      "latitude": 16.58136,
+      "longitude": -89.35197
+    },
+    {
+      "id": 9975229,
+      "name": "Municipio de El Chal",
+      "nativeName": "Municipio de El Chal",
+      "code": "GT-PE-9975229",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-PE",
+      "latitude": 16.53025,
+      "longitude": -89.72731
+    },
+    {
+      "id": 3595722,
+      "name": "Municipio de Flores",
+      "nativeName": "Municipio de Flores",
+      "code": "GT-PE-3595722",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-PE",
+      "latitude": 16.92381,
+      "longitude": -89.89709
+    },
+    {
+      "id": 3594418,
+      "name": "Municipio de La Libertad",
+      "nativeName": "Municipio de La Libertad",
+      "code": "GT-PE-3594418",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-PE",
+      "latitude": 17.00399,
+      "longitude": -90.58223
+    },
+    {
+      "id": 3592595,
+      "name": "Municipio de Melchor de Mencos",
+      "nativeName": "Municipio de Melchor de Mencos",
+      "code": "GT-PE-3592595",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-PE",
+      "latitude": 17.21338,
+      "longitude": -89.24753
+    },
+    {
+      "id": 3591180,
+      "name": "Municipio de Poptún",
+      "nativeName": "Municipio de Poptún",
+      "code": "GT-PE-3591180",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-PE",
+      "latitude": 16.35687,
+      "longitude": -89.58912
+    },
+    {
+      "id": 3590534,
+      "name": "Municipio de San Andrés",
+      "nativeName": "Municipio de San Andrés",
+      "code": "GT-PE-3590534",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-PE",
+      "latitude": 17.49541,
+      "longitude": -90.39883
+    },
+    {
+      "id": 3590386,
+      "name": "Municipio de San Benito",
+      "nativeName": "Municipio de San Benito",
+      "code": "GT-PE-3590386",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-PE",
+      "latitude": 16.91289,
+      "longitude": -89.90979
+    },
+    {
+      "id": 3590233,
+      "name": "Municipio de San Francisco",
+      "nativeName": "Municipio de San Francisco",
+      "code": "GT-PE-3590233",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-PE",
+      "latitude": 16.72425,
+      "longitude": -89.90877
+    },
+    {
+      "id": 3590058,
+      "name": "Municipio de San José",
+      "nativeName": "Municipio de San José",
+      "code": "GT-PE-3590058",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-PE",
+      "latitude": 16.98661,
+      "longitude": -89.90499
+    },
+    {
+      "id": 3589835,
+      "name": "Municipio de San Luis",
+      "nativeName": "Municipio de San Luis",
+      "code": "GT-PE-3589835",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-PE",
+      "latitude": 16.13671,
+      "longitude": -89.47948
+    },
+    {
+      "id": 3589501,
+      "name": "Municipio de Santa Ana",
+      "nativeName": "Municipio de Santa Ana",
+      "code": "GT-PE-3589501",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-PE",
+      "latitude": 16.77305,
+      "longitude": -89.66878
+    },
+    {
+      "id": 3588983,
+      "name": "Municipio de Sayaxché",
+      "nativeName": "Municipio de Sayaxché",
+      "code": "GT-PE-3588983",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-PE",
+      "latitude": 16.3316,
+      "longitude": -90.16339
+    }
+  ]
+}

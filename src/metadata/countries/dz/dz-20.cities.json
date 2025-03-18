@@ -1,0 +1,73 @@
+{
+  "stateId": 2482557,
+  "stateCode": "DZ-20",
+  "countryCode": "DZ",
+  "cities": [
+    {
+      "id": 12952786,
+      "name": "Ain El Hadjar",
+      "nativeName": "Ain El Hadjar",
+      "code": "DZ-20-12952786",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-20",
+      "latitude": 34.58766,
+      "longitude": 0.11527
+    },
+    {
+      "id": 2482569,
+      "name": "Daïra de Saïda",
+      "nativeName": "Daïra de Saïda",
+      "code": "DZ-20-2482569",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-20",
+      "latitude": 34.84312,
+      "longitude": 0.13205
+    },
+    {
+      "id": 12952787,
+      "name": "El Hassasna",
+      "nativeName": "El Hassasna",
+      "code": "DZ-20-12952787",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-20",
+      "latitude": 34.63705,
+      "longitude": 0.54389
+    },
+    {
+      "id": 12952784,
+      "name": "Ouled Brahim",
+      "nativeName": "Ouled Brahim",
+      "code": "DZ-20-12952784",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-20",
+      "latitude": 34.98416,
+      "longitude": 0.51772
+    },
+    {
+      "id": 12952788,
+      "name": "Sidi Boubekeur",
+      "nativeName": "Sidi Boubekeur",
+      "code": "DZ-20-12952788",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-20",
+      "latitude": 34.99759,
+      "longitude": 0.0446
+    },
+    {
+      "id": 12952790,
+      "name": "Youb",
+      "nativeName": "Youb",
+      "code": "DZ-20-12952790",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-20",
+      "latitude": 34.89906,
+      "longitude": -0.14823
+    }
+  ]
+}

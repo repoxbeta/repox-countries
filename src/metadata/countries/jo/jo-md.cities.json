@@ -1,0 +1,29 @@
+{
+  "stateId": 443123,
+  "stateCode": "JO-MD",
+  "countryCode": "JO",
+  "cities": [
+    {
+      "id": 8621693,
+      "name": "Liwā’ Dhībān",
+      "nativeName": "Liwā’ Dhībān",
+      "code": "JO-MD-8621693",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "stateCode": "JO-MD",
+      "latitude": 31.53855,
+      "longitude": 35.71033
+    },
+    {
+      "id": 8621692,
+      "name": "Liwā’ Qaşabat Mādabā",
+      "nativeName": "Liwā’ Qaşabat Mādabā",
+      "code": "JO-MD-8621692",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "stateCode": "JO-MD",
+      "latitude": 31.70578,
+      "longitude": 35.71624
+    }
+  ]
+}

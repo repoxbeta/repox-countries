@@ -11,15 +11,19 @@ import {
 } from '../types';
 import Metadata from './../metadata';
 
-export const getCountries = Metadata.getCountries;
+const countries = Metadata.getCountries();
+const phoneCodes = Metadata.getPhoneCodes();
+const currencies = Metadata.getCurrencies();
+const languages = Metadata.getLanguages();
+
+export const getCountries = (): Country[] => countries;
 export const getStates = Metadata.getStates;
 export const getCities = Metadata.getCities;
-export const getPhoneCodes = Metadata.getPhoneCodes;
-export const getCurrencies = Metadata.getCurrencies;
-export const getLanguages = Metadata.getLanguages;
+export const getPhoneCodes = (): PhoneCode[] => phoneCodes;
+export const getCurrencies = (): Currency[] => currencies;
+export const getLanguages = (): Language[] => languages;
 
 export const CountryOptions = async (): Promise<Option[]> => {
-  const countries = await getCountries();
   return countries.map((e) => ({
     id: e.id,
     code: e.name,
@@ -29,87 +33,74 @@ export const CountryOptions = async (): Promise<Option[]> => {
   })) as Option[];
 };
 
-export const CountryById = async (id: number): Promise<Country | undefined> => {
-  const countries = await getCountries();
+export const CountryById = (id: number): Country | undefined => {
   return countries.find((e) => e.id === id);
 };
 
-export const CountryByCode = async (code: string): Promise<Country | undefined> => {
-  const countries = await getCountries();
+export const CountryByCode = (code: string): Country | undefined => {
   return countries.find((e) => e.code === code);
 };
 
-export const StatesByCountryId = async (countryId: number): Promise<State[]> => {
-  const countryStates = await getStates();
-  const countryState = countryStates.find((e) => e.countryId === countryId);
+export const StatesByCountryId = (countryId: number): State[] => {
+  const countryById = CountryById(countryId);
+  if (!countryById) return [];
+
+  const countryState = getStates(countryById.code);
   return (countryState && countryState.states) ?? [];
 };
 
-export const StatesByCountryCode = async (countryCode: string): Promise<State[]> => {
-  const countryStates = await getStates();
-  const countryState = countryStates.find((e) => e.countryCode === countryCode);
+export const StatesByCountryCode = (countryCode: string): State[] => {
+  const countryState = getStates(countryCode);
   return (countryState && countryState.states) ?? [];
 };
 
-export const CitiesByStateId = async (stateId: number): Promise<City[]> => {
-  const stateCities = await getCities();
-  const stateCity = stateCities.find((e) => e.stateId === stateId);
+export const CitiesByStateCode = (countryCode: string, stateCode: string): City[] => {
+  const stateCity = getCities(countryCode, stateCode);
   return (stateCity && stateCity.cities) ?? [];
 };
 
-export const CitiesByStateCode = async (stateCode: string): Promise<City[]> => {
-  const stateCities = await getCities();
-  const stateCity = stateCities.find((e) => e.stateCode === stateCode);
-  return (stateCity && stateCity.cities) ?? [];
+/** 
+ * Get all info contains country, states and cities of specific country code.
+ */
+export const CountryStateCities = (countryCode: string): CountryStateCity | undefined => {
+  const countryState = getStates(countryCode);
+  if (!countryState) return undefined;
+
+  const stateCities = countryState.states.map((state) => {
+    const cities = CitiesByStateCode(state.countryCode, state.code);
+    return {
+      stateId: state.id,
+      stateCode: state.code,
+      cities,
+    } as StateCity;
+  });
+
+  return {
+    countryId: countryState.countryId,
+    countryCode: countryState.countryCode,
+    states: stateCities,
+  } as CountryStateCity;
 };
 
-export const CountryStateCities = async (): Promise<CountryStateCity[]> => {
-  const countryStates = await getStates();
-
-  return Promise.all(
-    countryStates.map(async (countryState) => {
-      const states = await Promise.all(
-        countryState.states.map(async (state) => {
-          const cities = await CitiesByStateId(state.id);
-          return {
-            stateId: state.id,
-            stateCode: state.code,
-            cities,
-          } as StateCity;
-        })
-      );
-
-      return {
-        countryId: countryState.countryId,
-        countryCode: countryState.countryCode,
-        states,
-      } as CountryStateCity;
-    })
-  );
+export const CountryStateCitiesByCountryId = (countryId: number): CountryStateCity | undefined => {
+  const countryById = CountryById(countryId);
+  if (!countryById) return undefined;
+  return CountryStateCities(countryById.code);
 };
 
-export const CountryStateCitiesByCountryId = async (countryId: number): Promise<CountryStateCity | undefined> => {
-  const countryStateCities = await CountryStateCities();
-  return countryStateCities.find((e) => e.countryId === countryId);
-};
-
-export const PhoneCodeByCountryCode = async (countryCode: string): Promise<PhoneCode | undefined> => {
-  const phoneCodes = await getPhoneCodes();
+export const PhoneCodeByCountryCode = (countryCode: string): PhoneCode | undefined => {
   return phoneCodes.find((e) => e.countryCode === countryCode);
 };
 
-export const CurrencyByCountryCode = async (countryCode: string): Promise<Currency | undefined> => {
-  const currencies = await getCurrencies();
+export const CurrencyByCountryCode = (countryCode: string): Currency | undefined => {
   return currencies.find((e) => e.countryCode === countryCode);
 };
 
-export const CurrencyByCode = async (code: string): Promise<Currency | undefined> => {
-  const currencies = await getCurrencies();
+export const CurrencyByCode = (code: string): Currency | undefined => {
   return currencies.find((e) => e.code === code);
 };
 
-export const LanguageByCode = async (code: string): Promise<Language | undefined> => {
-  const languages = await getLanguages();
+export const LanguageByCode = (code: string): Language | undefined => {
   return languages.find((e) => e.code === code);
 };
 

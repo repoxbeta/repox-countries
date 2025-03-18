@@ -1,0 +1,40 @@
+{
+  "stateId": 3496274,
+  "stateCode": "DO-28",
+  "countryCode": "DO",
+  "cities": [
+    {
+      "id": 3511235,
+      "name": "Bonao",
+      "nativeName": "Bonao",
+      "code": "DO-28-3511235",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-28",
+      "latitude": 18.91667,
+      "longitude": -70.46667
+    },
+    {
+      "id": 3497224,
+      "name": "Maimón",
+      "nativeName": "Maimón",
+      "code": "DO-28-3497224",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-28",
+      "latitude": 18.88333,
+      "longitude": -70.3
+    },
+    {
+      "id": 11154578,
+      "name": "Piedra Blanca",
+      "nativeName": "Piedra Blanca",
+      "code": "DO-28-11154578",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-28",
+      "latitude": 18.81217,
+      "longitude": -70.34031
+    }
+  ]
+}

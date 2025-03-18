@@ -1,0 +1,62 @@
+{
+  "stateId": 3716952,
+  "stateCode": "HT-SD",
+  "countryCode": "HT",
+  "cities": [
+    {
+      "id": 3731094,
+      "name": "Arrondissement d'Aquin",
+      "nativeName": "Arrondissement d'Aquin",
+      "code": "HT-SD-3731094",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "stateCode": "HT-SD",
+      "latitude": 18.29754,
+      "longitude": -73.38046
+    },
+    {
+      "id": 3718404,
+      "name": "Arrondissement de Port-Salut",
+      "nativeName": "Arrondissement de Port-Salut",
+      "code": "HT-SD-3718404",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "stateCode": "HT-SD",
+      "latitude": 18.10671,
+      "longitude": -73.88946
+    },
+    {
+      "id": 3728096,
+      "name": "Arrondissement des Cayes",
+      "nativeName": "Arrondissement des Cayes",
+      "code": "HT-SD-3728096",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "stateCode": "HT-SD",
+      "latitude": 18.26221,
+      "longitude": -73.82047
+    },
+    {
+      "id": 3727900,
+      "name": "Chadonyè",
+      "nativeName": "Chadonyè",
+      "code": "HT-SD-3727900",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "stateCode": "HT-SD",
+      "latitude": 18.34114,
+      "longitude": -74.21886
+    },
+    {
+      "id": 3727295,
+      "name": "Koto",
+      "nativeName": "Koto",
+      "code": "HT-SD-3727295",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "stateCode": "HT-SD",
+      "latitude": 18.24266,
+      "longitude": -74.02337
+    }
+  ]
+}

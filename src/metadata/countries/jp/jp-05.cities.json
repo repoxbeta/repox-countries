@@ -1,0 +1,216 @@
+{
+  "stateId": 2113124,
+  "stateCode": "JP-05",
+  "countryCode": "JP",
+  "cities": [
+    {
+      "id": 2113122,
+      "name": "Akita Shi",
+      "nativeName": "Akita Shi",
+      "code": "JP-05-2113122",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-05",
+      "latitude": 39.71043,
+      "longitude": 140.23207
+    },
+    {
+      "id": 7443149,
+      "name": "Daisen Shi",
+      "nativeName": "Daisen Shi",
+      "code": "JP-05-7443149",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-05",
+      "latitude": 39.5371,
+      "longitude": 140.44139
+    },
+    {
+      "id": 7443155,
+      "name": "Katagami Shi",
+      "nativeName": "Katagami Shi",
+      "code": "JP-05-7443155",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-05",
+      "latitude": 39.87209,
+      "longitude": 140.0491
+    },
+    {
+      "id": 2129594,
+      "name": "Kazuno District",
+      "nativeName": "Kazuno-gun",
+      "code": "JP-05-2129594",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-05",
+      "latitude": 40.39781,
+      "longitude": 140.77263
+    },
+    {
+      "id": 2129593,
+      "name": "Kazuno Shi",
+      "nativeName": "Kazuno Shi",
+      "code": "JP-05-2129593",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-05",
+      "latitude": 40.21035,
+      "longitude": 140.8303
+    },
+    {
+      "id": 2112235,
+      "name": "Kitaakita-gun",
+      "nativeName": "Kitaakita-gun",
+      "code": "JP-05-2112235",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-05",
+      "latitude": 39.95,
+      "longitude": 140.3186
+    },
+    {
+      "id": 7443156,
+      "name": "Kitaakita-shi",
+      "nativeName": "Kitaakita-shi",
+      "code": "JP-05-7443156",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-05",
+      "latitude": 40.23446,
+      "longitude": 140.39978
+    },
+    {
+      "id": 2111935,
+      "name": "Minamiakita-gun",
+      "nativeName": "Minamiakita-gun",
+      "code": "JP-05-2111935",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-05",
+      "latitude": 39.95466,
+      "longitude": 140.11372
+    },
+    {
+      "id": 1855401,
+      "name": "Nikaho-shi",
+      "nativeName": "Nikaho-shi",
+      "code": "JP-05-1855401",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-05",
+      "latitude": 39.19677,
+      "longitude": 139.97305
+    },
+    {
+      "id": 2128864,
+      "name": "Noshiro Shi",
+      "nativeName": "Noshiro Shi",
+      "code": "JP-05-2128864",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-05",
+      "latitude": 40.20289,
+      "longitude": 140.14486
+    },
+    {
+      "id": 1854681,
+      "name": "Oga Shi",
+      "nativeName": "Oga Shi",
+      "code": "JP-05-1854681",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-05",
+      "latitude": 39.93793,
+      "longitude": 139.83611
+    },
+    {
+      "id": 7443147,
+      "name": "Ogachi-gun",
+      "nativeName": "Ogachi-gun",
+      "code": "JP-05-7443147",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-05",
+      "latitude": 39.17328,
+      "longitude": 140.36312
+    },
+    {
+      "id": 2111153,
+      "name": "Semboku-gun",
+      "nativeName": "Semboku-gun",
+      "code": "JP-05-2111153",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-05",
+      "latitude": 39.427,
+      "longitude": 140.59592
+    },
+    {
+      "id": 9035660,
+      "name": "Semboku-shi",
+      "nativeName": "Semboku-shi",
+      "code": "JP-05-9035660",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-05",
+      "latitude": 39.75709,
+      "longitude": 140.66998
+    },
+    {
+      "id": 2127468,
+      "name": "Yamamoto-gun",
+      "nativeName": "Yamamoto-gun",
+      "code": "JP-05-2127468",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-05",
+      "latitude": 40.36014,
+      "longitude": 140.26527
+    },
+    {
+      "id": 2110504,
+      "name": "Yokote Shi",
+      "nativeName": "Yokote Shi",
+      "code": "JP-05-2110504",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-05",
+      "latitude": 39.28369,
+      "longitude": 140.54432
+    },
+    {
+      "id": 7443160,
+      "name": "Yuri-honjō Shi",
+      "nativeName": "Yuri-honjō Shi",
+      "code": "JP-05-7443160",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-05",
+      "latitude": 39.29336,
+      "longitude": 140.16498
+    },
+    {
+      "id": 2110459,
+      "name": "Yuzawa Shi",
+      "nativeName": "Yuzawa Shi",
+      "code": "JP-05-2110459",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-05",
+      "latitude": 39.03658,
+      "longitude": 140.54267
+    },
+    {
+      "id": 2128783,
+      "name": "Ōdate-shi",
+      "nativeName": "Ōdate-shi",
+      "code": "JP-05-2128783",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-05",
+      "latitude": 40.3,
+      "longitude": 140.55
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "stateId": 1153555,
+  "stateCode": "TH-86",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 7510623,
+      "name": "Lamae",
+      "nativeName": "Amphoe Lamae",
+      "code": "TH-86-7510623",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-86",
+      "latitude": 9.75567,
+      "longitude": 99.04378
+    },
+    {
+      "id": 1152431,
+      "name": "Lang Suan",
+      "nativeName": "Amphoe Lang Suan",
+      "code": "TH-86-1152431",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-86",
+      "latitude": 9.93386,
+      "longitude": 99.05292
+    },
+    {
+      "id": 1151998,
+      "name": "Mueang Chumphon",
+      "nativeName": "Amphoe Mueang Chumphon",
+      "code": "TH-86-1151998",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-86",
+      "latitude": 10.46077,
+      "longitude": 99.10608
+    },
+    {
+      "id": 1151522,
+      "name": "Pathio",
+      "nativeName": "Amphoe Pathio",
+      "code": "TH-86-1151522",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-86",
+      "latitude": 10.81008,
+      "longitude": 99.33938
+    },
+    {
+      "id": 1151428,
+      "name": "Phato",
+      "nativeName": "Amphoe Phato",
+      "code": "TH-86-1151428",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-86",
+      "latitude": 9.81066,
+      "longitude": 98.80178
+    },
+    {
+      "id": 1150677,
+      "name": "Sawi",
+      "nativeName": "Amphoe Sawi",
+      "code": "TH-86-1150677",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-86",
+      "latitude": 10.24008,
+      "longitude": 99.01865
+    },
+    {
+      "id": 1150202,
+      "name": "Tha Sae",
+      "nativeName": "Amphoe Tha Sae",
+      "code": "TH-86-1150202",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-86",
+      "latitude": 10.76864,
+      "longitude": 99.09878
+    },
+    {
+      "id": 7510624,
+      "name": "Thung Tako",
+      "nativeName": "Amphoe Thung Tako",
+      "code": "TH-86-7510624",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-86",
+      "latitude": 10.09223,
+      "longitude": 99.05337
+    }
+  ]
+}

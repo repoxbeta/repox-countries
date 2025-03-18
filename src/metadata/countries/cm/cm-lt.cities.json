@@ -1,0 +1,51 @@
+{
+  "stateId": 2229336,
+  "stateCode": "CM-LT",
+  "countryCode": "CM",
+  "cities": [
+    {
+      "id": 2225744,
+      "name": "Moungo",
+      "nativeName": "Département du Mungo",
+      "code": "CM-LT-2225744",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-LT",
+      "latitude": 4.67295,
+      "longitude": 9.76855
+    },
+    {
+      "id": 2224165,
+      "name": "Nkam",
+      "nativeName": "Nkam",
+      "code": "CM-LT-2224165",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-LT",
+      "latitude": 4.5,
+      "longitude": 10.16667
+    },
+    {
+      "id": 2222269,
+      "name": "Sanaga-Maritime",
+      "nativeName": "Sanaga-Maritime",
+      "code": "CM-LT-2222269",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-LT",
+      "latitude": 4,
+      "longitude": 10.33333
+    },
+    {
+      "id": 2221059,
+      "name": "Wouri",
+      "nativeName": "Wouri",
+      "code": "CM-LT-2221059",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-LT",
+      "latitude": 4,
+      "longitude": 9.66667
+    }
+  ]
+}

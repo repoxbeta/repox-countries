@@ -1,0 +1,73 @@
+{
+  "stateId": 2375255,
+  "stateCode": "GW-BA",
+  "countryCode": "GW",
+  "cities": [
+    {
+      "id": 8335074,
+      "name": "Bafata Sector",
+      "nativeName": "Bafata Sector",
+      "code": "GW-BA-8335074",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "stateCode": "GW-BA",
+      "latitude": 12.173,
+      "longitude": -14.593
+    },
+    {
+      "id": 11995994,
+      "name": "Bambadinca",
+      "nativeName": "Bambadinca",
+      "code": "GW-BA-11995994",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "stateCode": "GW-BA",
+      "latitude": 12.02131,
+      "longitude": -14.86068
+    },
+    {
+      "id": 8335076,
+      "name": "Contuboel",
+      "nativeName": "Contuboel Sector",
+      "code": "GW-BA-8335076",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "stateCode": "GW-BA",
+      "latitude": 12.555,
+      "longitude": -14.641
+    },
+    {
+      "id": 8335072,
+      "name": "Galomaro/Cosse",
+      "nativeName": "Galomaro Sector",
+      "code": "GW-BA-8335072",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "stateCode": "GW-BA",
+      "latitude": 11.956,
+      "longitude": -14.571
+    },
+    {
+      "id": 8335071,
+      "name": "Gamamudo/Ganadu",
+      "nativeName": "Gamamundo Sector",
+      "code": "GW-BA-8335071",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "stateCode": "GW-BA",
+      "latitude": 12.285,
+      "longitude": -14.818
+    },
+    {
+      "id": 8335054,
+      "name": "Xitole",
+      "nativeName": "Xitole Sector",
+      "code": "GW-BA-8335054",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "stateCode": "GW-BA",
+      "latitude": 11.763,
+      "longitude": -14.693
+    }
+  ]
+}

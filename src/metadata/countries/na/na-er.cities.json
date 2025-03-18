@@ -1,0 +1,62 @@
+{
+  "stateId": 3371199,
+  "stateCode": "NA-ER",
+  "countryCode": "NA",
+  "cities": [
+    {
+      "id": 7931906,
+      "name": "Arandis Constituency",
+      "nativeName": "Arandis Constituency",
+      "code": "NA-ER-7931906",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "stateCode": "NA-ER",
+      "latitude": -22.38303,
+      "longitude": 14.8305
+    },
+    {
+      "id": 7931905,
+      "name": "Daures Constituency",
+      "nativeName": "Daures Constituency",
+      "code": "NA-ER-7931905",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "stateCode": "NA-ER",
+      "latitude": -21.01785,
+      "longitude": 14.1394
+    },
+    {
+      "id": 7931907,
+      "name": "Swakopmund Constituency",
+      "nativeName": "Swakopmund Constituency",
+      "code": "NA-ER-7931907",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "stateCode": "NA-ER",
+      "latitude": -22.63199,
+      "longitude": 14.60119
+    },
+    {
+      "id": 7931909,
+      "name": "Walvis Bay Rural Constituency",
+      "nativeName": "Walvis Bay Rural Constituency",
+      "code": "NA-ER-7931909",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "stateCode": "NA-ER",
+      "latitude": -23.32983,
+      "longitude": 15.11216
+    },
+    {
+      "id": 7931908,
+      "name": "Walvis Bay Urban Constituency",
+      "nativeName": "Walvis Bay Urban Constituency",
+      "code": "NA-ER-7931908",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "stateCode": "NA-ER",
+      "latitude": -22.96011,
+      "longitude": 14.50135
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "stateId": 1463580,
+  "stateCode": "KG-B",
+  "countryCode": "KG",
+  "cities": [
+    {
+      "id": 1222703,
+      "name": "Batken Rayon",
+      "nativeName": "Batkenskiy Rayon",
+      "code": "KG-B-1222703",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-B",
+      "latitude": 39.75,
+      "longitude": 71
+    },
+    {
+      "id": 1222671,
+      "name": "Kadamjaiskiy Raion",
+      "nativeName": "Kadamjaiskiy Raion",
+      "code": "KG-B-1222671",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-B",
+      "latitude": 40,
+      "longitude": 71.58333
+    },
+    {
+      "id": 1222597,
+      "name": "Leylek Rayon",
+      "nativeName": "Leylekskiy Rayon",
+      "code": "KG-B-1222597",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-B",
+      "latitude": 39.83333,
+      "longitude": 69.75
+    }
+  ]
+}

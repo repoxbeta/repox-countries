@@ -1,0 +1,40 @@
+{
+  "stateId": 3935619,
+  "stateCode": "PE-MDD",
+  "countryCode": "PE",
+  "cities": [
+    {
+      "id": 3935423,
+      "name": "Manú Province",
+      "nativeName": "Provincia de Manu",
+      "code": "PE-MDD-3935423",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-MDD",
+      "latitude": -12.26595,
+      "longitude": -71.29033
+    },
+    {
+      "id": 3928091,
+      "name": "Tahuamanu Province",
+      "nativeName": "Tahuamanu",
+      "code": "PE-MDD-3928091",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-MDD",
+      "latitude": -11.23086,
+      "longitude": -70.25752
+    },
+    {
+      "id": 3927937,
+      "name": "Tambopata Province",
+      "nativeName": "Provincia de Tambopata",
+      "code": "PE-MDD-3927937",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-MDD",
+      "latitude": -12.19948,
+      "longitude": -70.05006
+    }
+  ]
+}

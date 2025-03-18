@@ -1,0 +1,29 @@
+{
+  "stateId": 2310307,
+  "stateCode": "GQ-AN",
+  "countryCode": "GQ",
+  "cities": [
+    {
+      "id": 11237875,
+      "name": "Mabana",
+      "nativeName": "Mabana",
+      "code": "GQ-AN-11237875",
+      "countryId": 2309096,
+      "countryCode": "GQ",
+      "stateCode": "GQ-AN",
+      "latitude": -1.45695,
+      "longitude": 5.63554
+    },
+    {
+      "id": 11237876,
+      "name": "San Antonio de Palé",
+      "nativeName": "San Antonio de Palé",
+      "code": "GQ-AN-11237876",
+      "countryId": 2309096,
+      "countryCode": "GQ",
+      "stateCode": "GQ-AN",
+      "latitude": -1.40809,
+      "longitude": 5.63174
+    }
+  ]
+}

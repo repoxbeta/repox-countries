@@ -1,0 +1,194 @@
+{
+  "stateId": 1529047,
+  "stateCode": "CN-XJ",
+  "countryCode": "CN",
+  "cities": [
+    {
+      "id": 1529658,
+      "name": "Aksu Prefecture",
+      "nativeName": "Aksu Diqu",
+      "code": "CN-XJ-1529658",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-XJ",
+      "latitude": 41.166,
+      "longitude": 80.425
+    },
+    {
+      "id": 1529650,
+      "name": "Aletai Diqu",
+      "nativeName": "Aletai Diqu",
+      "code": "CN-XJ-1529650",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-XJ",
+      "latitude": 47.14621,
+      "longitude": 88.74035
+    },
+    {
+      "id": 1529604,
+      "name": "Bayingolin Mongol Autonomous Prefecture",
+      "nativeName": "Bayinguoleng Menggu Zizhizhou",
+      "code": "CN-XJ-1529604",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-XJ",
+      "latitude": 39.59135,
+      "longitude": 87.80201
+    },
+    {
+      "id": 1529581,
+      "name": "Bortala",
+      "nativeName": "Bortala",
+      "code": "CN-XJ-1529581",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-XJ",
+      "latitude": 44.77363,
+      "longitude": 82.04477
+    },
+    {
+      "id": 1529568,
+      "name": "Changji Hui Autonomous Prefecture",
+      "nativeName": "Changji Huizu Zizhizhou",
+      "code": "CN-XJ-1529568",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-XJ",
+      "latitude": 44.43802,
+      "longitude": 88.28429
+    },
+    {
+      "id": 1529483,
+      "name": "Hami",
+      "nativeName": "Hami",
+      "code": "CN-XJ-1529483",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-XJ",
+      "latitude": 42.96134,
+      "longitude": 93.70747
+    },
+    {
+      "id": 1281018,
+      "name": "Hetian",
+      "nativeName": "Hetian",
+      "code": "CN-XJ-1281018",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-XJ",
+      "latitude": 37.22423,
+      "longitude": 81.51233
+    },
+    {
+      "id": 1529434,
+      "name": "Ili Kazakh Autonomous Prefecture",
+      "nativeName": "Yili",
+      "code": "CN-XJ-1529434",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-XJ",
+      "latitude": 43.45111,
+      "longitude": 82.02697
+    },
+    {
+      "id": 1280848,
+      "name": "Kashgar Prefecture",
+      "nativeName": "Kashi Diqu",
+      "code": "CN-XJ-1280848",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-XJ",
+      "latitude": 38.46299,
+      "longitude": 77.10982
+    },
+    {
+      "id": 1529400,
+      "name": "Kelamayi Shi",
+      "nativeName": "Kelamayi Shi",
+      "code": "CN-XJ-1529400",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-XJ",
+      "latitude": 45.53059,
+      "longitude": 85.19056
+    },
+    {
+      "id": 1280828,
+      "name": "Kezilesu",
+      "nativeName": "Kezilesu",
+      "code": "CN-XJ-1280828",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-XJ",
+      "latitude": 39.73086,
+      "longitude": 75.14384
+    },
+    {
+      "id": 12324192,
+      "name": "Shihezi",
+      "nativeName": "Shihezi",
+      "code": "CN-XJ-12324192",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-XJ",
+      "latitude": 44.26859,
+      "longitude": 86.03301
+    },
+    {
+      "id": 1529166,
+      "name": "Tacheng Diqu",
+      "nativeName": "Tacheng Diqu",
+      "code": "CN-XJ-1529166",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-XJ",
+      "latitude": 45.7563,
+      "longitude": 84.59968
+    },
+    {
+      "id": 1529113,
+      "name": "Tulufan",
+      "nativeName": "Tulufan",
+      "code": "CN-XJ-1529113",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-XJ",
+      "latitude": 42.47137,
+      "longitude": 89.81997
+    },
+    {
+      "id": 8080762,
+      "name": "Tumushuke",
+      "nativeName": "Tumxuk",
+      "code": "CN-XJ-8080762",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-XJ",
+      "latitude": 39.87201,
+      "longitude": 79.10874
+    },
+    {
+      "id": 1529101,
+      "name": "Urumqi Shi",
+      "nativeName": "Urumqi Shi",
+      "code": "CN-XJ-1529101",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-XJ",
+      "latitude": 43.8,
+      "longitude": 87.58333
+    },
+    {
+      "id": 8079473,
+      "name": "Wujiaqu Shi",
+      "nativeName": "Wujiaqu Shi",
+      "code": "CN-XJ-8079473",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-XJ",
+      "latitude": 44.35626,
+      "longitude": 87.55966
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "stateId": 864480,
+  "stateCode": "LT-PN",
+  "countryCode": "LT",
+  "cities": [
+    {
+      "id": 864499,
+      "name": "Biržai District Municipality",
+      "nativeName": "Biržai",
+      "code": "LT-PN-864499",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-PN",
+      "latitude": 56.2,
+      "longitude": 24.75
+    },
+    {
+      "id": 864500,
+      "name": "Kupiškis District Municipality",
+      "nativeName": "Kupiškis",
+      "code": "LT-PN-864500",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-PN",
+      "latitude": 55.83333,
+      "longitude": 24.96667
+    },
+    {
+      "id": 596132,
+      "name": "Panevėžys City",
+      "nativeName": "Panevėžys City",
+      "code": "LT-PN-596132",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-PN",
+      "latitude": 55.736,
+      "longitude": 24.34347
+    },
+    {
+      "id": 596130,
+      "name": "Panevėžys District Municipality",
+      "nativeName": "Panevėžys District Municipality",
+      "code": "LT-PN-596130",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-PN",
+      "latitude": 55.72779,
+      "longitude": 24.43038
+    },
+    {
+      "id": 864501,
+      "name": "Pasvalys District Municipality",
+      "nativeName": "Pasvalys",
+      "code": "LT-PN-864501",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-PN",
+      "latitude": 56.06667,
+      "longitude": 24.4
+    },
+    {
+      "id": 864502,
+      "name": "Rokiškis District Municipality",
+      "nativeName": "Rokiškis",
+      "code": "LT-PN-864502",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-PN",
+      "latitude": 55.96667,
+      "longitude": 25.58333
+    }
+  ]
+}

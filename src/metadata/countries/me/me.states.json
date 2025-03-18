@@ -1,0 +1,281 @@
+{
+  "countryId": 3194884,
+  "countryCode": "ME",
+  "states": [
+    {
+      "id": 3343959,
+      "name": "Andrijevica",
+      "nativeName": "Andrijevica",
+      "code": "ME-01",
+      "internalCode": "01",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "latitude": 42.71833,
+      "longitude": 19.75861
+    },
+    {
+      "id": 3204508,
+      "name": "Bar",
+      "nativeName": "Bar",
+      "code": "ME-02",
+      "internalCode": "02",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "latitude": 42.16667,
+      "longitude": 19.16667
+    },
+    {
+      "id": 3199070,
+      "name": "Berane",
+      "nativeName": "Berane",
+      "code": "ME-03",
+      "internalCode": "03",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "latitude": 42.83907,
+      "longitude": 19.87066
+    },
+    {
+      "id": 3204173,
+      "name": "Bijelo Polje",
+      "nativeName": "Bijelo Polje",
+      "code": "ME-04",
+      "internalCode": "04",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "latitude": 43.04472,
+      "longitude": 19.74333
+    },
+    {
+      "id": 3203104,
+      "name": "Budva",
+      "nativeName": "Budva",
+      "code": "ME-05",
+      "internalCode": "05",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "latitude": 42.3,
+      "longitude": 18.84139
+    },
+    {
+      "id": 3202640,
+      "name": "Cetinje",
+      "nativeName": "Cetinje",
+      "code": "ME-06",
+      "internalCode": "06",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "latitude": 42.4,
+      "longitude": 18.91972
+    },
+    {
+      "id": 3202193,
+      "name": "Danilovgrad",
+      "nativeName": "Danilovgrad",
+      "code": "ME-07",
+      "internalCode": "07",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "latitude": 42.55861,
+      "longitude": 19.09111
+    },
+    {
+      "id": 11497642,
+      "name": "Gusinje Municipality",
+      "nativeName": "Gusinje",
+      "code": "ME-22",
+      "internalCode": "22",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "latitude": 42.55714,
+      "longitude": 19.83368
+    },
+    {
+      "id": 3199393,
+      "name": "Herceg Novi",
+      "nativeName": "Herceg Novi",
+      "code": "ME-08",
+      "internalCode": "08",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "latitude": 42.50667,
+      "longitude": 18.5375
+    },
+    {
+      "id": 3197537,
+      "name": "Kotor",
+      "nativeName": "Kotor",
+      "code": "ME-10",
+      "internalCode": "10",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "latitude": 42.43333,
+      "longitude": 18.76667
+    },
+    {
+      "id": 3194925,
+      "name": "Mojkovac",
+      "nativeName": "Mojkovac",
+      "code": "ME-11",
+      "internalCode": "11",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "latitude": 42.95917,
+      "longitude": 19.58833
+    },
+    {
+      "id": 3197895,
+      "name": "Opština Kolašin",
+      "nativeName": "Opština Kolašin",
+      "code": "ME-09",
+      "internalCode": "09",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "latitude": 42.83722,
+      "longitude": 19.51556
+    },
+    {
+      "id": 3194493,
+      "name": "Opština Nikšić",
+      "nativeName": "Opština Nikšić",
+      "code": "ME-12",
+      "internalCode": "12",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "latitude": 42.79944,
+      "longitude": 18.92028
+    },
+    {
+      "id": 3193227,
+      "name": "Opština Plav",
+      "nativeName": "Opština Plav",
+      "code": "ME-13",
+      "internalCode": "13",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "latitude": 42.58611,
+      "longitude": 19.92833
+    },
+    {
+      "id": 3193129,
+      "name": "Opština Plužine",
+      "nativeName": "Opština Plužine",
+      "code": "ME-15",
+      "internalCode": "15",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "latitude": 43.17417,
+      "longitude": 18.81694
+    },
+    {
+      "id": 3191221,
+      "name": "Opština Šavnik",
+      "nativeName": "Opština Šavnik",
+      "code": "ME-18",
+      "internalCode": "18",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "latitude": 42.95639,
+      "longitude": 19.09389
+    },
+    {
+      "id": 3186995,
+      "name": "Opština Žabljak",
+      "nativeName": "Opština Žabljak",
+      "code": "ME-21",
+      "internalCode": "21",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "latitude": 43.15722,
+      "longitude": 19.12333
+    },
+    {
+      "id": 11497643,
+      "name": "Petnjica Municipality",
+      "nativeName": "Petnjica",
+      "code": "ME-23",
+      "internalCode": "23",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "latitude": 42.947,
+      "longitude": 20.01397
+    },
+    {
+      "id": 3193160,
+      "name": "Pljevlja",
+      "nativeName": "Pljevlja",
+      "code": "ME-14",
+      "internalCode": "14",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "latitude": 43.33333,
+      "longitude": 19.33333
+    },
+    {
+      "id": 3189077,
+      "name": "Podgorica",
+      "nativeName": "Podgorica",
+      "code": "ME-16",
+      "internalCode": "16",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "latitude": 42.5,
+      "longitude": 19.33333
+    },
+    {
+      "id": 786233,
+      "name": "Rožaje Municipality",
+      "nativeName": "Opština Rožaje",
+      "code": "ME-17",
+      "internalCode": "17",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "latitude": 42.84278,
+      "longitude": 20.15028
+    },
+    {
+      "id": 3189071,
+      "name": "Tivat",
+      "nativeName": "Tivat",
+      "code": "ME-19",
+      "internalCode": "19",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "latitude": 42.40556,
+      "longitude": 18.65306
+    },
+    {
+      "id": 12104729,
+      "name": "Tuzi Municipality",
+      "nativeName": "Tuzi",
+      "code": "ME-24",
+      "internalCode": "24",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "latitude": 42.36355,
+      "longitude": 19.32931
+    },
+    {
+      "id": 3188514,
+      "name": "Ulcinj",
+      "nativeName": "Ulcinj",
+      "code": "ME-20",
+      "internalCode": "20",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "latitude": 41.95528,
+      "longitude": 19.26833
+    },
+    {
+      "id": 12640530,
+      "name": "Zeta",
+      "nativeName": "Zeta",
+      "code": "ME-25",
+      "internalCode": "",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "latitude": 42.3299,
+      "longitude": 19.24558
+    }
+  ]
+}

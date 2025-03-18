@@ -1,0 +1,227 @@
+{
+  "stateId": 7521423,
+  "stateCode": "YT-97603",
+  "countryCode": "YT",
+  "cities": [
+    {
+      "id": 1090397,
+      "name": "Bandrele",
+      "nativeName": "Bandrele",
+      "code": "YT-97603-1090397",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97603",
+      "latitude": -12.91276,
+      "longitude": 45.19256
+    },
+    {
+      "id": 922008,
+      "name": "Amoro",
+      "nativeName": "Amoro",
+      "code": "YT-97603-922008",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97603",
+      "latitude": -12.88333,
+      "longitude": 45.23333
+    },
+    {
+      "id": 922002,
+      "name": "Anguebacao",
+      "nativeName": "Anguebacao",
+      "code": "YT-97603-922002",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97603",
+      "latitude": -12.88333,
+      "longitude": 45.23333
+    },
+    {
+      "id": 921993,
+      "name": "Balembo",
+      "nativeName": "Balembo",
+      "code": "YT-97603-921993",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97603",
+      "latitude": -12.98333,
+      "longitude": 45.18333
+    },
+    {
+      "id": 1090407,
+      "name": "Bambo Est",
+      "nativeName": "Bambo Est",
+      "code": "YT-97603-1090407",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97603",
+      "latitude": -12.92888,
+      "longitude": 45.17673
+    },
+    {
+      "id": 1090434,
+      "name": "Dapani",
+      "nativeName": "Dapani",
+      "code": "YT-97603-1090434",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97603",
+      "latitude": -12.97129,
+      "longitude": 45.16084
+    },
+    {
+      "id": 1090387,
+      "name": "Hamouro",
+      "nativeName": "Hamouro",
+      "code": "YT-97603-1090387",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97603",
+      "latitude": -12.8813,
+      "longitude": 45.21494
+    },
+    {
+      "id": 1090396,
+      "name": "Kavani",
+      "nativeName": "Kavani",
+      "code": "YT-97603-1090396",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97603",
+      "latitude": -12.91497,
+      "longitude": 45.19564
+    },
+    {
+      "id": 921760,
+      "name": "M'Samouni",
+      "nativeName": "M'Samouni",
+      "code": "YT-97603-921760",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97603",
+      "latitude": -12.88333,
+      "longitude": 45.16667
+    },
+    {
+      "id": 10631767,
+      "name": "Mgnambani",
+      "nativeName": "Mgnambani",
+      "code": "YT-97603-10631767",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97603",
+      "latitude": -12.93585,
+      "longitude": 45.16638
+    },
+    {
+      "id": 921798,
+      "name": "Miambani",
+      "nativeName": "Miambani",
+      "code": "YT-97603-921798",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97603",
+      "latitude": -12.95,
+      "longitude": 45.2
+    },
+    {
+      "id": 921791,
+      "name": "Mirereni",
+      "nativeName": "Mirereni",
+      "code": "YT-97603-921791",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97603",
+      "latitude": -12.91667,
+      "longitude": 45.18333
+    },
+    {
+      "id": 921769,
+      "name": "Mouramedoudou",
+      "nativeName": "Mouramedoudou",
+      "code": "YT-97603-921769",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97603",
+      "latitude": -12.93333,
+      "longitude": 45.16667
+    },
+    {
+      "id": 921766,
+      "name": "Mouroni Sanga",
+      "nativeName": "Mouroni Sanga",
+      "code": "YT-97603-921766",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97603",
+      "latitude": -13,
+      "longitude": 45.16667
+    },
+    {
+      "id": 10631740,
+      "name": "Mraféni",
+      "nativeName": "Mraféni",
+      "code": "YT-97603-10631740",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97603",
+      "latitude": -12.89255,
+      "longitude": 45.20592
+    },
+    {
+      "id": 1090425,
+      "name": "Mtsamoudou",
+      "nativeName": "Mtsamoudou",
+      "code": "YT-97603-1090425",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97603",
+      "latitude": -12.96232,
+      "longitude": 45.17449
+    },
+    {
+      "id": 1090405,
+      "name": "Mtsatoundou",
+      "nativeName": "Mtsatoundou",
+      "code": "YT-97603-1090405",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97603",
+      "latitude": -12.9179,
+      "longitude": 45.18494
+    },
+    {
+      "id": 1090402,
+      "name": "Nyambadao",
+      "nativeName": "Nyambadao",
+      "code": "YT-97603-1090402",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97603",
+      "latitude": -12.89346,
+      "longitude": 45.20214
+    },
+    {
+      "id": 10631739,
+      "name": "Sakouli",
+      "nativeName": "Sakouli",
+      "code": "YT-97603-10631739",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97603",
+      "latitude": -12.89059,
+      "longitude": 45.21077
+    },
+    {
+      "id": 1090432,
+      "name": "Saziley",
+      "nativeName": "Saziley",
+      "code": "YT-97603-1090432",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97603",
+      "latitude": -12.98436,
+      "longitude": 45.18119
+    }
+  ]
+}

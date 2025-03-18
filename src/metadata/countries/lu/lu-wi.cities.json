@@ -1,0 +1,84 @@
+{
+  "stateId": 2959975,
+  "stateCode": "LU-WI",
+  "countryCode": "LU",
+  "cities": [
+    {
+      "id": 6693322,
+      "name": "Boulaide",
+      "nativeName": "Boulaide",
+      "code": "LU-WI-6693322",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-WI",
+      "latitude": 49.88778,
+      "longitude": 5.81639
+    },
+    {
+      "id": 6693323,
+      "name": "Esch-sur-Sûre",
+      "nativeName": "Esch-sur-Sûre",
+      "code": "LU-WI-6693323",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-WI",
+      "latitude": 49.91139,
+      "longitude": 5.93639
+    },
+    {
+      "id": 6693325,
+      "name": "Goesdorf",
+      "nativeName": "Goesdorf",
+      "code": "LU-WI-6693325",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-WI",
+      "latitude": 49.92167,
+      "longitude": 5.96833
+    },
+    {
+      "id": 8641289,
+      "name": "Kiischpelt",
+      "nativeName": "Kiischpelt",
+      "code": "LU-WI-8641289",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-WI",
+      "latitude": 49.97835,
+      "longitude": 6.0076
+    },
+    {
+      "id": 3285198,
+      "name": "Lac de la Haute-Sûre",
+      "nativeName": "Lac de la Haute-Sûre",
+      "code": "LU-WI-3285198",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-WI",
+      "latitude": 49.91667,
+      "longitude": 5.83333
+    },
+    {
+      "id": 2959978,
+      "name": "Wiltz",
+      "nativeName": "Wiltz",
+      "code": "LU-WI-2959978",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-WI",
+      "latitude": 49.97888,
+      "longitude": 5.9398
+    },
+    {
+      "id": 6693330,
+      "name": "Winseler",
+      "nativeName": "Winseler",
+      "code": "LU-WI-6693330",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-WI",
+      "latitude": 49.96778,
+      "longitude": 5.89028
+    }
+  ]
+}

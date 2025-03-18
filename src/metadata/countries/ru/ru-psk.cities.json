@@ -1,0 +1,293 @@
+{
+  "stateId": 504338,
+  "stateCode": "RU-PSK",
+  "countryCode": "RU",
+  "cities": [
+    {
+      "id": 576573,
+      "name": "Bezhanitskiy Rayon",
+      "nativeName": "Bezhanitskiy Rayon",
+      "code": "RU-PSK-576573",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-PSK",
+      "latitude": 57,
+      "longitude": 30
+    },
+    {
+      "id": 566867,
+      "name": "Dedovichsky District",
+      "nativeName": "Dedovichsky District",
+      "code": "RU-PSK-566867",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-PSK",
+      "latitude": 57.5,
+      "longitude": 30.16667
+    },
+    {
+      "id": 565884,
+      "name": "Dnovsky District",
+      "nativeName": "Dnovsky District",
+      "code": "RU-PSK-565884",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-PSK",
+      "latitude": 57.83333,
+      "longitude": 30
+    },
+    {
+      "id": 561678,
+      "name": "Gdovsky District",
+      "nativeName": "Gdovskiy Rayon",
+      "code": "RU-PSK-561678",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-PSK",
+      "latitude": 58.75,
+      "longitude": 28
+    },
+    {
+      "id": 12538073,
+      "name": "Gorodskoy Okrug Pskov",
+      "nativeName": "Gorodskoy Okrug Pskov",
+      "code": "RU-PSK-12538073",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-PSK",
+      "latitude": 57.82086,
+      "longitude": 28.37985
+    },
+    {
+      "id": 12538074,
+      "name": "Gorodskoy Okrug Velikiye Luki",
+      "nativeName": "Gorodskoy Okrug Velikiye Luki",
+      "code": "RU-PSK-12538074",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-PSK",
+      "latitude": 56.34036,
+      "longitude": 30.56367
+    },
+    {
+      "id": 542379,
+      "name": "Krasnogorodsky District",
+      "nativeName": "Krasnogorodsky District",
+      "code": "RU-PSK-542379",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-PSK",
+      "latitude": 56.83333,
+      "longitude": 28.25
+    },
+    {
+      "id": 539128,
+      "name": "Kunyinsky District",
+      "nativeName": "Kun’inskiy Rayon",
+      "code": "RU-PSK-539128",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-PSK",
+      "latitude": 56.25,
+      "longitude": 31
+    },
+    {
+      "id": 534416,
+      "name": "Loknyansky District",
+      "nativeName": "Loknyansky District",
+      "code": "RU-PSK-534416",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-PSK",
+      "latitude": 56.75,
+      "longitude": 30.08333
+    },
+    {
+      "id": 12640132,
+      "name": "Nevelsky District",
+      "nativeName": "Nevelsky District",
+      "code": "RU-PSK-12640132",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-PSK",
+      "latitude": 56.01516,
+      "longitude": 29.92086
+    },
+    {
+      "id": 518234,
+      "name": "Novorzhevsky District",
+      "nativeName": "Novorzhevskiy Rayon",
+      "code": "RU-PSK-518234",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-PSK",
+      "latitude": 57.08333,
+      "longitude": 29.41667
+    },
+    {
+      "id": 517923,
+      "name": "Novosokolnichesky District",
+      "nativeName": "Novosokol’nicheskiy Rayon",
+      "code": "RU-PSK-517923",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-PSK",
+      "latitude": 56.41667,
+      "longitude": 30
+    },
+    {
+      "id": 515157,
+      "name": "Opochetsky District",
+      "nativeName": "Opochetskiy Rayon",
+      "code": "RU-PSK-515157",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-PSK",
+      "latitude": 56.66667,
+      "longitude": 28.83333
+    },
+    {
+      "id": 514057,
+      "name": "Ostrovsky District",
+      "nativeName": "Ostrovskiy Rayon",
+      "code": "RU-PSK-514057",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-PSK",
+      "latitude": 57.25,
+      "longitude": 28.33333
+    },
+    {
+      "id": 513043,
+      "name": "Palkinsky District",
+      "nativeName": "Palkinskiy Rayon",
+      "code": "RU-PSK-513043",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-PSK",
+      "latitude": 57.5,
+      "longitude": 27.99966
+    },
+    {
+      "id": 511788,
+      "name": "Pechorsky District",
+      "nativeName": "Pechorskiy Rayon",
+      "code": "RU-PSK-511788",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-PSK",
+      "latitude": 57.75,
+      "longitude": 27.74933
+    },
+    {
+      "id": 12538072,
+      "name": "Plyussky District",
+      "nativeName": "Plyusskiy Rayon",
+      "code": "RU-PSK-12538072",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-PSK",
+      "latitude": 58.54622,
+      "longitude": 29.12038
+    },
+    {
+      "id": 506274,
+      "name": "Porkhovsky District",
+      "nativeName": "Porkhovskiy Rayon",
+      "code": "RU-PSK-506274",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-PSK",
+      "latitude": 57.75,
+      "longitude": 29.5
+    },
+    {
+      "id": 504335,
+      "name": "Pskovsky District",
+      "nativeName": "Pskovskiy Rayon",
+      "code": "RU-PSK-504335",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-PSK",
+      "latitude": 57.75,
+      "longitude": 28.25
+    },
+    {
+      "id": 503970,
+      "name": "Pushkinogorsky District",
+      "nativeName": "Pushkino-Gorskiy Rayon",
+      "code": "RU-PSK-503970",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-PSK",
+      "latitude": 57,
+      "longitude": 28.75
+    },
+    {
+      "id": 503857,
+      "name": "Pustoshkinskiy Rayon",
+      "nativeName": "Pustoshkinskiy Rayon",
+      "code": "RU-PSK-503857",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-PSK",
+      "latitude": 56.41667,
+      "longitude": 29.41667
+    },
+    {
+      "id": 503373,
+      "name": "Pytalovsky District",
+      "nativeName": "Pytalovskiy Rayon",
+      "code": "RU-PSK-503373",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-PSK",
+      "latitude": 57,
+      "longitude": 28
+    },
+    {
+      "id": 497999,
+      "name": "Sebezhsky District",
+      "nativeName": "Sebezhskiy Rayon",
+      "code": "RU-PSK-497999",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-PSK",
+      "latitude": 56.25,
+      "longitude": 28.5
+    },
+    {
+      "id": 487109,
+      "name": "Strugo-Krasnensky District",
+      "nativeName": "Strugo-Krasnenskiy Rayon",
+      "code": "RU-PSK-487109",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-PSK",
+      "latitude": 58.33333,
+      "longitude": 29
+    },
+    {
+      "id": 477776,
+      "name": "Usvyatsky District",
+      "nativeName": "Usvyatsky District",
+      "code": "RU-PSK-477776",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-PSK",
+      "latitude": 55.75,
+      "longitude": 30.75
+    },
+    {
+      "id": 476048,
+      "name": "Velikoluksky District",
+      "nativeName": "Velikolukskiy Rayon",
+      "code": "RU-PSK-476048",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-PSK",
+      "latitude": 56.5,
+      "longitude": 30.58333
+    }
+  ]
+}

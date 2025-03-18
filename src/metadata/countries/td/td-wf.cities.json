@@ -1,0 +1,95 @@
+{
+  "stateId": 244877,
+  "stateCode": "TD-WF",
+  "countryCode": "TD",
+  "cities": [
+    {
+      "id": 12186849,
+      "name": "Al-Biher",
+      "nativeName": "Al-Biher",
+      "code": "TD-WF-12186849",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-WF",
+      "latitude": 14.98051,
+      "longitude": 20.6262
+    },
+    {
+      "id": 12186832,
+      "name": "Biltine",
+      "nativeName": "Biltine",
+      "code": "TD-WF-12186832",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-WF",
+      "latitude": 14.58445,
+      "longitude": 20.89073
+    },
+    {
+      "id": 12186850,
+      "name": "Dar-Alfawakih",
+      "nativeName": "Dar-Alfawakih",
+      "code": "TD-WF-12186850",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-WF",
+      "latitude": 14.3296,
+      "longitude": 21.28146
+    },
+    {
+      "id": 12186833,
+      "name": "Dar-Tama",
+      "nativeName": "Dar-Tama",
+      "code": "TD-WF-12186833",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-WF",
+      "latitude": 14.45032,
+      "longitude": 21.98413
+    },
+    {
+      "id": 12186848,
+      "name": "Iriba",
+      "nativeName": "Iriba",
+      "code": "TD-WF-12186848",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-WF",
+      "latitude": 15.12854,
+      "longitude": 22.42217
+    },
+    {
+      "id": 10377074,
+      "name": "Kobe",
+      "nativeName": "Kobé",
+      "code": "TD-WF-10377074",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-WF",
+      "latitude": 15.12806,
+      "longitude": 22.24972
+    },
+    {
+      "id": 12186834,
+      "name": "Mégri",
+      "nativeName": "Mégri",
+      "code": "TD-WF-12186834",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-WF",
+      "latitude": 15.53558,
+      "longitude": 21.85406
+    },
+    {
+      "id": 12186852,
+      "name": "Wadi-Hawar",
+      "nativeName": "Wadi-Hawar",
+      "code": "TD-WF-12186852",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-WF",
+      "latitude": 15.58729,
+      "longitude": 22.93016
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "stateId": 629631,
+  "stateCode": "BY-BR",
+  "countryCode": "BY",
+  "cities": [
+    {
+      "id": 828883,
+      "name": "Baranovichy District",
+      "nativeName": "Horad Baranavichy",
+      "code": "BY-BR-828883",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-BR",
+      "latitude": 53.13492,
+      "longitude": 25.97059
+    },
+    {
+      "id": 630420,
+      "name": "Baranovichy District",
+      "nativeName": "Baranovichskiy Rayon",
+      "code": "BY-BR-630420",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-BR",
+      "latitude": 53.16692,
+      "longitude": 25.90962
+    },
+    {
+      "id": 629630,
+      "name": "Brest District",
+      "nativeName": "Brestskiy Rayon",
+      "code": "BY-BR-629630",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-BR",
+      "latitude": 51.95266,
+      "longitude": 23.76268
+    },
+    {
+      "id": 630155,
+      "name": "Byaroza District",
+      "nativeName": "Byarozawski Rayon",
+      "code": "BY-BR-630155",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-BR",
+      "latitude": 52.51227,
+      "longitude": 25.03616
+    },
+    {
+      "id": 628882,
+      "name": "Drahichyn District",
+      "nativeName": "Drogichinskiy Rayon",
+      "code": "BY-BR-628882",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-BR",
+      "latitude": 52.18099,
+      "longitude": 25.08442
+    },
+    {
+      "id": 628532,
+      "name": "Hantsavichy",
+      "nativeName": "Gantsevichskiy Rayon",
+      "code": "BY-BR-628532",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-BR",
+      "latitude": 52.68888,
+      "longitude": 26.50917
+    },
+    {
+      "id": 828881,
+      "name": "Horad Brest",
+      "nativeName": "Horad Brest",
+      "code": "BY-BR-828881",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-BR",
+      "latitude": 52.11087,
+      "longitude": 23.71208
+    },
+    {
+      "id": 627799,
+      "name": "Ivacevicki Rajon",
+      "nativeName": "Ivacevicki rajon",
+      "code": "BY-BR-627799",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-BR",
+      "latitude": 52.68782,
+      "longitude": 25.57413
+    },
+    {
+      "id": 627807,
+      "name": "Ivanava",
+      "nativeName": "Ivanovskiy Rayon",
+      "code": "BY-BR-627807",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-BR",
+      "latitude": 52.18156,
+      "longitude": 25.5778
+    },
+    {
+      "id": 627709,
+      "name": "Kamenets District",
+      "nativeName": "Kamianiecki rajon",
+      "code": "BY-BR-627709",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-BR",
+      "latitude": 52.45066,
+      "longitude": 23.67736
+    },
+    {
+      "id": 627146,
+      "name": "Kobryn District",
+      "nativeName": "Kobrinskiy Rayon",
+      "code": "BY-BR-627146",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-BR",
+      "latitude": 52.1887,
+      "longitude": 24.52641
+    },
+    {
+      "id": 625820,
+      "name": "Luninets",
+      "nativeName": "Luninetskiy Rayon",
+      "code": "BY-BR-625820",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-BR",
+      "latitude": 52.36658,
+      "longitude": 26.95345
+    },
+    {
+      "id": 625765,
+      "name": "Lyakhavichy",
+      "nativeName": "Lyakhovichskiy Rayon",
+      "code": "BY-BR-625765",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-BR",
+      "latitude": 52.93006,
+      "longitude": 26.18249
+    },
+    {
+      "id": 625538,
+      "name": "Malaryta",
+      "nativeName": "Maloritskiy Rayon",
+      "code": "BY-BR-625538",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-BR",
+      "latitude": 51.83812,
+      "longitude": 24.11719
+    },
+    {
+      "id": 623548,
+      "name": "Pinsk District",
+      "nativeName": "Pinskiy Rayon",
+      "code": "BY-BR-623548",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-BR",
+      "latitude": 52.20728,
+      "longitude": 26.17671
+    },
+    {
+      "id": 622998,
+      "name": "Pruzhany District",
+      "nativeName": "Pruzhanskiy Rayon",
+      "code": "BY-BR-622998",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-BR",
+      "latitude": 52.60505,
+      "longitude": 24.42735
+    },
+    {
+      "id": 621276,
+      "name": "Stolin",
+      "nativeName": "Stolinskiy Rayon",
+      "code": "BY-BR-621276",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-BR",
+      "latitude": 51.93736,
+      "longitude": 27.06079
+    },
+    {
+      "id": 618911,
+      "name": "Žabinkaŭski Rajon",
+      "nativeName": "Žabinkaŭski rajon",
+      "code": "BY-BR-618911",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-BR",
+      "latitude": 52.2128,
+      "longitude": 24.06993
+    }
+  ]
+}

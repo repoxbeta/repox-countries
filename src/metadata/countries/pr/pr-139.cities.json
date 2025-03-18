@@ -1,0 +1,95 @@
+{
+  "stateId": 4568452,
+  "stateCode": "PR-139",
+  "countryCode": "PR",
+  "cities": [
+    {
+      "id": 7268347,
+      "name": "Carraízo Barrio",
+      "nativeName": "Carraízo Barrio",
+      "code": "PR-139-7268347",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-139",
+      "latitude": 18.33494,
+      "longitude": -66.02367
+    },
+    {
+      "id": 7268133,
+      "name": "Cuevas Barrio",
+      "nativeName": "Cuevas Barrio",
+      "code": "PR-139-7268133",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-139",
+      "latitude": 18.36428,
+      "longitude": -66.01993
+    },
+    {
+      "id": 7268156,
+      "name": "Dos Bocas Barrio",
+      "nativeName": "Dos Bocas Barrio",
+      "code": "PR-139-7268156",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-139",
+      "latitude": 18.34685,
+      "longitude": -65.98586
+    },
+    {
+      "id": 7268538,
+      "name": "La Gloria Barrio",
+      "nativeName": "La Gloria Barrio",
+      "code": "PR-139-7268538",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-139",
+      "latitude": 18.32574,
+      "longitude": -66.00592
+    },
+    {
+      "id": 7268855,
+      "name": "Quebrada Grande Barrio",
+      "nativeName": "Quebrada Grande Barrio",
+      "code": "PR-139-7268855",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-139",
+      "latitude": 18.31367,
+      "longitude": -65.96073
+    },
+    {
+      "id": 7268861,
+      "name": "Quebrada Negrito Barrio",
+      "nativeName": "Quebrada Negrito Barrio",
+      "code": "PR-139-7268861",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-139",
+      "latitude": 18.31936,
+      "longitude": -65.98845
+    },
+    {
+      "id": 7269013,
+      "name": "St. Just Barrio",
+      "nativeName": "St. Just Barrio",
+      "code": "PR-139-7269013",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-139",
+      "latitude": 18.36984,
+      "longitude": -66.00245
+    },
+    {
+      "id": 7269052,
+      "name": "Trujillo Alto Barrio-Pueblo",
+      "nativeName": "Trujillo Alto Barrio-Pueblo",
+      "code": "PR-139-7269052",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-139",
+      "latitude": 18.35439,
+      "longitude": -66.00712
+    }
+  ]
+}

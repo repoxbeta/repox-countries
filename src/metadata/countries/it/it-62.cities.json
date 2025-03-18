@@ -1,0 +1,62 @@
+{
+  "stateId": 3174976,
+  "stateCode": "IT-62",
+  "countryCode": "IT",
+  "cities": [
+    {
+      "id": 3176513,
+      "name": "Province of Frosinone",
+      "nativeName": "Provincia di Frosinone",
+      "code": "IT-62-3176513",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-62",
+      "latitude": 41.61667,
+      "longitude": 13.45
+    },
+    {
+      "id": 3169411,
+      "name": "Province of Rieti",
+      "nativeName": "Provincia di Rieti",
+      "code": "IT-62-3169411",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-62",
+      "latitude": 42.39133,
+      "longitude": 12.95072
+    },
+    {
+      "id": 3164038,
+      "name": "Province of Viterbo",
+      "nativeName": "Provincia di Viterbo",
+      "code": "IT-62-3164038",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-62",
+      "latitude": 42.41667,
+      "longitude": 12.08333
+    },
+    {
+      "id": 3175057,
+      "name": "Provincia di Latina",
+      "nativeName": "Provincia di Latina",
+      "code": "IT-62-3175057",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-62",
+      "latitude": 41.45918,
+      "longitude": 12.90102
+    },
+    {
+      "id": 3169069,
+      "name": "Rome",
+      "nativeName": "Città metropolitana di Roma Capitale",
+      "code": "IT-62-3169069",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-62",
+      "latitude": 41.96667,
+      "longitude": 12.66667
+    }
+  ]
+}

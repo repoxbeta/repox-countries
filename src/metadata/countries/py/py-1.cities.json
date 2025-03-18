@@ -1,0 +1,106 @@
+{
+  "stateId": 3438833,
+  "stateCode": "PY-1",
+  "countryCode": "PY",
+  "cities": [
+    {
+      "id": 11840098,
+      "name": "Azotey",
+      "nativeName": "Azotey",
+      "code": "PY-1-11840098",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-1",
+      "latitude": -23.32344,
+      "longitude": -56.50114
+    },
+    {
+      "id": 11840069,
+      "name": "Belen",
+      "nativeName": "Belen",
+      "code": "PY-1-11840069",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-1",
+      "latitude": -23.4278,
+      "longitude": -57.23169
+    },
+    {
+      "id": 11840042,
+      "name": "Concepcion",
+      "nativeName": "Concepcion",
+      "code": "PY-1-11840042",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-1",
+      "latitude": -22.87931,
+      "longitude": -57.36778
+    },
+    {
+      "id": 11840139,
+      "name": "Horqueta",
+      "nativeName": "Horqueta",
+      "code": "PY-1-11840139",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-1",
+      "latitude": -23.25651,
+      "longitude": -56.838
+    },
+    {
+      "id": 11840081,
+      "name": "Loreto",
+      "nativeName": "Loreto",
+      "code": "PY-1-11840081",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-1",
+      "latitude": -23.18896,
+      "longitude": -57.15119
+    },
+    {
+      "id": 11840114,
+      "name": "San Carlos",
+      "nativeName": "San Carlos",
+      "code": "PY-1-11840114",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-1",
+      "latitude": -22.39295,
+      "longitude": -57.29779
+    },
+    {
+      "id": 11840109,
+      "name": "San Lazaro",
+      "nativeName": "San Lazaro",
+      "code": "PY-1-11840109",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-1",
+      "latitude": -22.24718,
+      "longitude": -57.73504
+    },
+    {
+      "id": 11840007,
+      "name": "Sgto. Jose Felix Lopez",
+      "nativeName": "Sgto. Jose Felix Lopez",
+      "code": "PY-1-11840007",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-1",
+      "latitude": -22.53258,
+      "longitude": -56.94168
+    },
+    {
+      "id": 11840024,
+      "name": "Yvy Ya´U",
+      "nativeName": "Yvy Ya´U",
+      "code": "PY-1-11840024",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-1",
+      "latitude": -22.99614,
+      "longitude": -56.38143
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "stateId": 2951839,
+  "stateCode": "DE-BY",
+  "countryCode": "DE",
+  "cities": [
+    {
+      "id": 2863622,
+      "name": "Lower Bavaria",
+      "nativeName": "Lower Bavaria",
+      "code": "DE-BY-2863622",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-BY",
+      "latitude": 48.75,
+      "longitude": 12.83333
+    },
+    {
+      "id": 2819564,
+      "name": "Lower Franconia",
+      "nativeName": "Regierungsbezirk Unterfranken",
+      "code": "DE-BY-2819564",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-BY",
+      "latitude": 50,
+      "longitude": 10
+    },
+    {
+      "id": 2870736,
+      "name": "Middle Franconia",
+      "nativeName": "Regierungsbezirk Mittelfranken",
+      "code": "DE-BY-2870736",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-BY",
+      "latitude": 49.33333,
+      "longitude": 10.83333
+    },
+    {
+      "id": 2835521,
+      "name": "Swabia",
+      "nativeName": "Swabia",
+      "code": "DE-BY-2835521",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-BY",
+      "latitude": 48.33333,
+      "longitude": 10.5
+    },
+    {
+      "id": 2861322,
+      "name": "Upper Bavaria",
+      "nativeName": "Upper Bavaria",
+      "code": "DE-BY-2861322",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-BY",
+      "latitude": 48,
+      "longitude": 11
+    },
+    {
+      "id": 2860681,
+      "name": "Upper Franconia",
+      "nativeName": "Upper Franconia",
+      "code": "DE-BY-2860681",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-BY",
+      "latitude": 49.83333,
+      "longitude": 11.33333
+    },
+    {
+      "id": 2859444,
+      "name": "Upper Palatinate",
+      "nativeName": "Upper Palatinate",
+      "code": "DE-BY-2859444",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-BY",
+      "latitude": 49.5,
+      "longitude": 12
+    }
+  ]
+}

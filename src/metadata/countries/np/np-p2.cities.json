@@ -1,0 +1,95 @@
+{
+  "stateId": 12095448,
+  "stateCode": "NP-P2",
+  "countryCode": "NP",
+  "cities": [
+    {
+      "id": 12095457,
+      "name": "Bara",
+      "nativeName": "Bara",
+      "code": "NP-P2-12095457",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "stateCode": "NP-P2",
+      "latitude": 27.10735,
+      "longitude": 85.06933
+    },
+    {
+      "id": 12095468,
+      "name": "Dhanusa",
+      "nativeName": "Dhanusa",
+      "code": "NP-P2-12095468",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "stateCode": "NP-P2",
+      "latitude": 26.85116,
+      "longitude": 86.03592
+    },
+    {
+      "id": 12095489,
+      "name": "Mahottari",
+      "nativeName": "Mahottari",
+      "code": "NP-P2-12095489",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "stateCode": "NP-P2",
+      "latitude": 26.88494,
+      "longitude": 85.7975
+    },
+    {
+      "id": 12095502,
+      "name": "Parsa",
+      "nativeName": "Parsa",
+      "code": "NP-P2-12095502",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "stateCode": "NP-P2",
+      "latitude": 27.22345,
+      "longitude": 84.82706
+    },
+    {
+      "id": 12095512,
+      "name": "Rautahat",
+      "nativeName": "Rautahat",
+      "code": "NP-P2-12095512",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "stateCode": "NP-P2",
+      "latitude": 26.98898,
+      "longitude": 85.28308
+    },
+    {
+      "id": 12095518,
+      "name": "Saptari",
+      "nativeName": "Saptari",
+      "code": "NP-P2-12095518",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "stateCode": "NP-P2",
+      "latitude": 26.60681,
+      "longitude": 86.74941
+    },
+    {
+      "id": 12095519,
+      "name": "Sarlahi",
+      "nativeName": "Sarlahi",
+      "code": "NP-P2-12095519",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "stateCode": "NP-P2",
+      "latitude": 26.96867,
+      "longitude": 85.5639
+    },
+    {
+      "id": 12095522,
+      "name": "Siraha",
+      "nativeName": "Siraha",
+      "code": "NP-P2-12095522",
+      "countryId": 1282988,
+      "countryCode": "NP",
+      "stateCode": "NP-P2",
+      "latitude": 26.74253,
+      "longitude": 86.34984
+    }
+  ]
+}

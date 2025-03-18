@@ -1,0 +1,51 @@
+{
+  "stateId": 3440771,
+  "stateCode": "UY-RO",
+  "countryCode": "UY",
+  "cities": [
+    {
+      "id": 11820850,
+      "name": "Castillos",
+      "nativeName": "Castillos",
+      "code": "UY-RO-11820850",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-RO",
+      "latitude": -34.01738,
+      "longitude": -53.87891
+    },
+    {
+      "id": 11820872,
+      "name": "Chuy",
+      "nativeName": "Chuy",
+      "code": "UY-RO-11820872",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-RO",
+      "latitude": -33.73128,
+      "longitude": -53.50001
+    },
+    {
+      "id": 11820803,
+      "name": "La Paloma",
+      "nativeName": "La Paloma",
+      "code": "UY-RO-11820803",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-RO",
+      "latitude": -34.56823,
+      "longitude": -54.17842
+    },
+    {
+      "id": 11820804,
+      "name": "Lascano",
+      "nativeName": "Lascano",
+      "code": "UY-RO-11820804",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-RO",
+      "latitude": -33.7651,
+      "longitude": -54.26093
+    }
+  ]
+}

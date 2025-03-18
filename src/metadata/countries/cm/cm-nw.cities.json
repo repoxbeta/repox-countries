@@ -1,0 +1,84 @@
+{
+  "stateId": 2223602,
+  "stateCode": "CM-NW",
+  "countryCode": "CM",
+  "cities": [
+    {
+      "id": 9224959,
+      "name": "Boyo",
+      "nativeName": "Boyo",
+      "code": "CM-NW-9224959",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-NW",
+      "latitude": 6.36365,
+      "longitude": 10.3554
+    },
+    {
+      "id": 2233408,
+      "name": "Bui",
+      "nativeName": "Bui Division",
+      "code": "CM-NW-2233408",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-NW",
+      "latitude": 6.25,
+      "longitude": 10.75
+    },
+    {
+      "id": 2232640,
+      "name": "Donga-Mantung",
+      "nativeName": "Donga and Mantung Division",
+      "code": "CM-NW-2232640",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-NW",
+      "latitude": 6.66667,
+      "longitude": 10.83333
+    },
+    {
+      "id": 2226947,
+      "name": "Menchum",
+      "nativeName": "Metchum Division",
+      "code": "CM-NW-2226947",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-NW",
+      "latitude": 6.5,
+      "longitude": 10.16667
+    },
+    {
+      "id": 2226830,
+      "name": "Mezam",
+      "nativeName": "Mezam Division",
+      "code": "CM-NW-2226830",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-NW",
+      "latitude": 5.97851,
+      "longitude": 10.14779
+    },
+    {
+      "id": 2226140,
+      "name": "Momo",
+      "nativeName": "Momo Division",
+      "code": "CM-NW-2226140",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-NW",
+      "latitude": 5.90053,
+      "longitude": 9.97445
+    },
+    {
+      "id": 10289311,
+      "name": "Ngo-ketunjia",
+      "nativeName": "Ngo-Ketunjia",
+      "code": "CM-NW-10289311",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-NW",
+      "latitude": 6.00729,
+      "longitude": 10.57462
+    }
+  ]
+}

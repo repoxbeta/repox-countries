@@ -1,0 +1,39 @@
+{
+  "countryId": 3370751,
+  "countryCode": "SH",
+  "states": [
+    {
+      "id": 2411430,
+      "name": "Ascension",
+      "nativeName": "Ascension",
+      "code": "SH-AC",
+      "internalCode": "AC",
+      "countryId": 3370751,
+      "countryCode": "SH",
+      "latitude": -7.94167,
+      "longitude": -14.3625
+    },
+    {
+      "id": 6930057,
+      "name": "St. Helena",
+      "nativeName": "Saint Helena",
+      "code": "SH-HL",
+      "internalCode": "HL",
+      "countryId": 3370751,
+      "countryCode": "SH",
+      "latitude": -15.93183,
+      "longitude": -5.71817
+    },
+    {
+      "id": 3370684,
+      "name": "Tristan da Cunha",
+      "nativeName": "Tristan da Cunha",
+      "code": "SH-TA",
+      "internalCode": "TA",
+      "countryId": 3370751,
+      "countryCode": "SH",
+      "latitude": -37.11284,
+      "longitude": -12.28343
+    }
+  ]
+}

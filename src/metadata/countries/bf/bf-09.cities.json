@@ -1,0 +1,40 @@
+{
+  "stateId": 6930710,
+  "stateCode": "BF-09",
+  "countryCode": "BF",
+  "cities": [
+    {
+      "id": 2360075,
+      "name": "Houet Province",
+      "nativeName": "Province du Houet",
+      "code": "BF-09-2360075",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "stateCode": "BF-09",
+      "latitude": 11.33333,
+      "longitude": -4.25
+    },
+    {
+      "id": 2359569,
+      "name": "Kénédougou Province",
+      "nativeName": "Province du Kénédougou",
+      "code": "BF-09-2359569",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "stateCode": "BF-09",
+      "latitude": 11.41667,
+      "longitude": -5
+    },
+    {
+      "id": 2597267,
+      "name": "Province du Tuy",
+      "nativeName": "Province du Tuy",
+      "code": "BF-09-2597267",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "stateCode": "BF-09",
+      "latitude": 11.41667,
+      "longitude": -3.41667
+    }
+  ]
+}

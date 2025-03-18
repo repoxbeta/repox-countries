@@ -1,0 +1,51 @@
+{
+  "stateId": 2385836,
+  "stateCode": "CF-KG",
+  "countryCode": "CF",
+  "cities": [
+    {
+      "id": 9143484,
+      "name": "Dékoua",
+      "nativeName": "Dékoa",
+      "code": "CF-KG-9143484",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-KG",
+      "latitude": 6.27532,
+      "longitude": 19.14971
+    },
+    {
+      "id": 9143485,
+      "name": "Mala",
+      "nativeName": "Mala",
+      "code": "CF-KG-9143485",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-KG",
+      "latitude": 6.2104,
+      "longitude": 19.63128
+    },
+    {
+      "id": 7731894,
+      "name": "Ndjoukou",
+      "nativeName": "Ndjoukou",
+      "code": "CF-KG-7731894",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-KG",
+      "latitude": 5.30643,
+      "longitude": 19.42412
+    },
+    {
+      "id": 7732483,
+      "name": "Sibut",
+      "nativeName": "Sibut",
+      "code": "CF-KG-7732483",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-KG",
+      "latitude": 5.73333,
+      "longitude": 19.08333
+    }
+  ]
+}

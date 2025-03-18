@@ -1,0 +1,95 @@
+{
+  "stateId": 1821992,
+  "stateCode": "KH-20",
+  "countryCode": "KH",
+  "cities": [
+    {
+      "id": 9253811,
+      "name": "Chantrea",
+      "nativeName": "Chantrea",
+      "code": "KH-20-9253811",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-20",
+      "latitude": 10.94563,
+      "longitude": 106.11459
+    },
+    {
+      "id": 9253820,
+      "name": "Kampong Rou",
+      "nativeName": "Kampong Rou",
+      "code": "KH-20-9253820",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-20",
+      "latitude": 10.94305,
+      "longitude": 105.94126
+    },
+    {
+      "id": 8406206,
+      "name": "Krong Bavet",
+      "nativeName": "Krŏng Bavĕt",
+      "code": "KH-20-8406206",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-20",
+      "latitude": 11.06499,
+      "longitude": 106.09188
+    },
+    {
+      "id": 12205133,
+      "name": "Krong Svay Rieng",
+      "nativeName": "Krong Svay Rieng",
+      "code": "KH-20-12205133",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-20",
+      "latitude": 11.0955,
+      "longitude": 105.8101
+    },
+    {
+      "id": 9253812,
+      "name": "Romeas Haek",
+      "nativeName": "Romeas Haek",
+      "code": "KH-20-9253812",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-20",
+      "latitude": 11.42326,
+      "longitude": 105.77231
+    },
+    {
+      "id": 9253813,
+      "name": "Rumduol",
+      "nativeName": "Rumduol",
+      "code": "KH-20-9253813",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-20",
+      "latitude": 11.22161,
+      "longitude": 105.82978
+    },
+    {
+      "id": 8403503,
+      "name": "Svay Chrum",
+      "nativeName": "Srŏk Svay Chrŭm",
+      "code": "KH-20-8403503",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-20",
+      "latitude": 11.1116,
+      "longitude": 105.69814
+    },
+    {
+      "id": 12205130,
+      "name": "Svay Teab",
+      "nativeName": "Svay Teab",
+      "code": "KH-20-12205130",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-20",
+      "latitude": 11.1082,
+      "longitude": 105.94186
+    }
+  ]
+}

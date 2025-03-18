@@ -1,0 +1,106 @@
+{
+  "stateId": 1650535,
+  "stateCode": "ID-BA",
+  "countryCode": "ID",
+  "cities": [
+    {
+      "id": 1650818,
+      "name": "Badung Regency",
+      "nativeName": "Kabupaten Badung",
+      "code": "ID-BA-1650818",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-BA",
+      "latitude": -8.56667,
+      "longitude": 115.2
+    },
+    {
+      "id": 1650263,
+      "name": "Bangli Regency",
+      "nativeName": "Kabupaten Bangli",
+      "code": "ID-BA-1650263",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-BA",
+      "latitude": -8.26667,
+      "longitude": 115.35
+    },
+    {
+      "id": 1647803,
+      "name": "Buleleng Regency",
+      "nativeName": "Kabupaten Buleleng",
+      "code": "ID-BA-1647803",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-BA",
+      "latitude": -8.25,
+      "longitude": 114.95
+    },
+    {
+      "id": 1644098,
+      "name": "Gianyar Regency",
+      "nativeName": "Kabupaten Gianyar",
+      "code": "ID-BA-1644098",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-BA",
+      "latitude": -8.48333,
+      "longitude": 115.28333
+    },
+    {
+      "id": 1642584,
+      "name": "Jembrana Regency",
+      "nativeName": "Kabupaten Jembrana",
+      "code": "ID-BA-1642584",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-BA",
+      "latitude": -8.31667,
+      "longitude": 114.68333
+    },
+    {
+      "id": 1639849,
+      "name": "Kabupaten Klungkung",
+      "nativeName": "Kabupaten Klungkung",
+      "code": "ID-BA-1639849",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-BA",
+      "latitude": -8.55,
+      "longitude": 115.41667
+    },
+    {
+      "id": 1625707,
+      "name": "Kabupaten Tabanan",
+      "nativeName": "Kabupaten Tabanan",
+      "code": "ID-BA-1625707",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-BA",
+      "latitude": -8.43333,
+      "longitude": 115.08333
+    },
+    {
+      "id": 7086954,
+      "name": "Karangasem",
+      "nativeName": "Kabupaten Karang Asem",
+      "code": "ID-BA-7086954",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-BA",
+      "latitude": -8.3891,
+      "longitude": 115.5393
+    },
+    {
+      "id": 1645527,
+      "name": "Kota Denpasar",
+      "nativeName": "Kota Denpasar",
+      "code": "ID-BA-1645527",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-BA",
+      "latitude": -8.66667,
+      "longitude": 115.21667
+    }
+  ]
+}

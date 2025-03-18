@@ -1,0 +1,106 @@
+{
+  "stateId": 2523119,
+  "stateCode": "IT-82",
+  "countryCode": "IT",
+  "cities": [
+    {
+      "id": 2525065,
+      "name": "Catania",
+      "nativeName": "Catania",
+      "code": "IT-82-2525065",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-82",
+      "latitude": 37.47169,
+      "longitude": 14.84731
+    },
+    {
+      "id": 2525763,
+      "name": "Province of Agrigento",
+      "nativeName": "Agrigento",
+      "code": "IT-82-2525763",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-82",
+      "latitude": 37.45,
+      "longitude": 13.5
+    },
+    {
+      "id": 2525447,
+      "name": "Province of Caltanissetta",
+      "nativeName": "Provincia di Caltanissetta",
+      "code": "IT-82-2525447",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-82",
+      "latitude": 37.37448,
+      "longitude": 14.06421
+    },
+    {
+      "id": 2524818,
+      "name": "Province of Enna",
+      "nativeName": "Enna",
+      "code": "IT-82-2524818",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-82",
+      "latitude": 37.58333,
+      "longitude": 14.43333
+    },
+    {
+      "id": 2524169,
+      "name": "Province of Messina",
+      "nativeName": "Messina",
+      "code": "IT-82-2524169",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-82",
+      "latitude": 38.05,
+      "longitude": 14.86667
+    },
+    {
+      "id": 2523918,
+      "name": "Province of Palermo",
+      "nativeName": "Palermo",
+      "code": "IT-82-2523918",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-82",
+      "latitude": 37.81667,
+      "longitude": 13.58333
+    },
+    {
+      "id": 2523649,
+      "name": "Province of Ragusa",
+      "nativeName": "Ragusa",
+      "code": "IT-82-2523649",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-82",
+      "latitude": 36.91667,
+      "longitude": 14.6
+    },
+    {
+      "id": 2522875,
+      "name": "Province of Trapani",
+      "nativeName": "Trapani",
+      "code": "IT-82-2522875",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-82",
+      "latitude": 37.83333,
+      "longitude": 12.66667
+    },
+    {
+      "id": 2523082,
+      "name": "Syracuse",
+      "nativeName": "Provincia di Siracusa",
+      "code": "IT-82-2523082",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-82",
+      "latitude": 37.08805,
+      "longitude": 15.27924
+    }
+  ]
+}

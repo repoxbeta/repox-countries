@@ -1,0 +1,40 @@
+{
+  "stateId": 2182501,
+  "stateCode": "NZ-STL",
+  "countryCode": "NZ",
+  "cities": [
+    {
+      "id": 2190612,
+      "name": "Gore District",
+      "nativeName": "Gore District",
+      "code": "NZ-STL-2190612",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-STL",
+      "latitude": -46.08333,
+      "longitude": 168.93333
+    },
+    {
+      "id": 7910045,
+      "name": "Invercargill City",
+      "nativeName": "Invercargill City",
+      "code": "NZ-STL-7910045",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-STL",
+      "latitude": -46.48786,
+      "longitude": 168.37003
+    },
+    {
+      "id": 7910061,
+      "name": "Southland District",
+      "nativeName": "Southland District",
+      "code": "NZ-STL-7910061",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-STL",
+      "latitude": -45.77256,
+      "longitude": 167.85266
+    }
+  ]
+}

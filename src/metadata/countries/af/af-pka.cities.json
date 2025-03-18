@@ -1,0 +1,216 @@
+{
+  "stateId": 1131256,
+  "stateCode": "AF-PKA",
+  "countryCode": "AF",
+  "cities": [
+    {
+      "id": 7053774,
+      "name": "Barmal District",
+      "nativeName": "Bêrmal",
+      "code": "AF-PKA-7053774",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-PKA",
+      "latitude": 32.71433,
+      "longitude": 69.27505
+    },
+    {
+      "id": 7053775,
+      "name": "Dila District",
+      "nativeName": "Ḏīlah",
+      "code": "AF-PKA-7053775",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-PKA",
+      "latitude": 32.56376,
+      "longitude": 68.13115
+    },
+    {
+      "id": 7053776,
+      "name": "Giyān District",
+      "nativeName": "Giyān",
+      "code": "AF-PKA-7053776",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-PKA",
+      "latitude": 32.97516,
+      "longitude": 69.3993
+    },
+    {
+      "id": 7053777,
+      "name": "Gomal District",
+      "nativeName": "Gōmal",
+      "code": "AF-PKA-7053777",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-PKA",
+      "latitude": 32.38889,
+      "longitude": 68.94665
+    },
+    {
+      "id": 7053778,
+      "name": "Janikhel District",
+      "nativeName": "Jānī Khēl",
+      "code": "AF-PKA-7053778",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-PKA",
+      "latitude": 32.66512,
+      "longitude": 68.4805
+    },
+    {
+      "id": 7053791,
+      "name": "Khamyāb District",
+      "nativeName": "Zarghūn Shahr",
+      "code": "AF-PKA-7053791",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-PKA",
+      "latitude": 32.85368,
+      "longitude": 68.47782
+    },
+    {
+      "id": 7053779,
+      "name": "Maidan Shar District",
+      "nativeName": "Mutā Khān",
+      "code": "AF-PKA-7053779",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-PKA",
+      "latitude": 33.29705,
+      "longitude": 68.88611
+    },
+    {
+      "id": 7053780,
+      "name": "Nika District",
+      "nativeName": "Nīkêh",
+      "code": "AF-PKA-7053780",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-PKA",
+      "latitude": 33.20652,
+      "longitude": 69.24003
+    },
+    {
+      "id": 7053781,
+      "name": "Omna District",
+      "nativeName": "Ōmnah",
+      "code": "AF-PKA-7053781",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-PKA",
+      "latitude": 32.8942,
+      "longitude": 68.81326
+    },
+    {
+      "id": 7053783,
+      "name": "Sar Rowẕah District",
+      "nativeName": "Sar Rowẕah",
+      "code": "AF-PKA-7053783",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-PKA",
+      "latitude": 33.06296,
+      "longitude": 69.03925
+    },
+    {
+      "id": 7053785,
+      "name": "Sharana District",
+      "nativeName": "Sharan",
+      "code": "AF-PKA-7053785",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-PKA",
+      "latitude": 33.20018,
+      "longitude": 68.7285
+    },
+    {
+      "id": 7053784,
+      "name": "Surobi District",
+      "nativeName": "Saṟōbī",
+      "code": "AF-PKA-7053784",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-PKA",
+      "latitude": 32.75221,
+      "longitude": 69.04587
+    },
+    {
+      "id": 7053786,
+      "name": "Terwa District",
+      "nativeName": "Têrwō",
+      "code": "AF-PKA-7053786",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-PKA",
+      "latitude": 31.9062,
+      "longitude": 68.31367
+    },
+    {
+      "id": 7053782,
+      "name": "Urgun District",
+      "nativeName": "Urgun District",
+      "code": "AF-PKA-7053782",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-PKA",
+      "latitude": 32.87036,
+      "longitude": 69.1301
+    },
+    {
+      "id": 7053788,
+      "name": "Wor Mamay District",
+      "nativeName": "Wuṟ Mamay",
+      "code": "AF-PKA-7053788",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-PKA",
+      "latitude": 31.93358,
+      "longitude": 68.83488
+    },
+    {
+      "id": 7053787,
+      "name": "Wāzah Khwāh District",
+      "nativeName": "Wāzah Khwāh",
+      "code": "AF-PKA-7053787",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-PKA",
+      "latitude": 32.24901,
+      "longitude": 68.32733
+    },
+    {
+      "id": 7053789,
+      "name": "Yahyakhel District",
+      "nativeName": "Yaḩyá Khēl",
+      "code": "AF-PKA-7053789",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-PKA",
+      "latitude": 32.92307,
+      "longitude": 68.66235
+    },
+    {
+      "id": 7053790,
+      "name": "Yusufkhel District",
+      "nativeName": "Yōsuf Khēl",
+      "code": "AF-PKA-7053790",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-PKA",
+      "latitude": 33.04993,
+      "longitude": 68.64575
+    },
+    {
+      "id": 7053792,
+      "name": "Zerok District",
+      "nativeName": "Zīṟūk",
+      "code": "AF-PKA-7053792",
+      "countryId": 1149361,
+      "countryCode": "AF",
+      "stateCode": "AF-PKA",
+      "latitude": 33.15582,
+      "longitude": 69.32683
+    }
+  ]
+}

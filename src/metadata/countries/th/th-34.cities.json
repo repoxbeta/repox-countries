@@ -1,0 +1,282 @@
+{
+  "stateId": 1906688,
+  "stateCode": "TH-34",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 1611460,
+      "name": "Buntharik",
+      "nativeName": "Amphoe Buntharik",
+      "code": "TH-34-1611460",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-34",
+      "latitude": 14.70495,
+      "longitude": 105.40444
+    },
+    {
+      "id": 1610939,
+      "name": "Det Udom",
+      "nativeName": "Amphoe Det Udom",
+      "code": "TH-34-1610939",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-34",
+      "latitude": 14.85153,
+      "longitude": 105.07511
+    },
+    {
+      "id": 7510863,
+      "name": "Don Mot Daeng",
+      "nativeName": "Amphoe Don Mot Daeng",
+      "code": "TH-34-7510863",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-34",
+      "latitude": 15.37694,
+      "longitude": 105.02107
+    },
+    {
+      "id": 1609969,
+      "name": "Khemarat",
+      "nativeName": "Amphoe Khemmarat",
+      "code": "TH-34-1609969",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-34",
+      "latitude": 15.97114,
+      "longitude": 105.15168
+    },
+    {
+      "id": 1620052,
+      "name": "Khong Chiam",
+      "nativeName": "Amphoe Khong Chiam",
+      "code": "TH-34-1620052",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-34",
+      "latitude": 15.45432,
+      "longitude": 105.50363
+    },
+    {
+      "id": 1609719,
+      "name": "Khueang Nai",
+      "nativeName": "Amphoe Khueang Nai",
+      "code": "TH-34-1609719",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-34",
+      "latitude": 15.39097,
+      "longitude": 104.54363
+    },
+    {
+      "id": 7510855,
+      "name": "Kut Khaopun",
+      "nativeName": "Amphoe Kut Khaopun",
+      "code": "TH-34-7510855",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-34",
+      "latitude": 15.81907,
+      "longitude": 105.04066
+    },
+    {
+      "id": 7510852,
+      "name": "Lao Suea Kok",
+      "nativeName": "Amphoe Lao Suea Kok",
+      "code": "TH-34-7510852",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-34",
+      "latitude": 15.43952,
+      "longitude": 104.91662
+    },
+    {
+      "id": 1608624,
+      "name": "Muang Sam Sip",
+      "nativeName": "Amphoe Muang Sam Sip",
+      "code": "TH-34-1608624",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-34",
+      "latitude": 15.52637,
+      "longitude": 104.71661
+    },
+    {
+      "id": 1608609,
+      "name": "Mueang Ubon Ratchathani",
+      "nativeName": "Amphoe Mueang Ubon Ratchathani",
+      "code": "TH-34-1608609",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-34",
+      "latitude": 15.29662,
+      "longitude": 104.83052
+    },
+    {
+      "id": 8304650,
+      "name": "Na Chaluai",
+      "nativeName": "Amphoe Na Chaluai",
+      "code": "TH-34-8304650",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-34",
+      "latitude": 14.56695,
+      "longitude": 105.22367
+    },
+    {
+      "id": 7510866,
+      "name": "Na Tan",
+      "nativeName": "Amphoe Na Tan",
+      "code": "TH-34-7510866",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-34",
+      "latitude": 15.93485,
+      "longitude": 105.28454
+    },
+    {
+      "id": 7510862,
+      "name": "Na Yia",
+      "nativeName": "Amphoe Na Yia",
+      "code": "TH-34-7510862",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-34",
+      "latitude": 15.0414,
+      "longitude": 105.05729
+    },
+    {
+      "id": 7510848,
+      "name": "Nam Khun",
+      "nativeName": "Amphoe Nam Khun",
+      "code": "TH-34-7510848",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-34",
+      "latitude": 14.55508,
+      "longitude": 104.89872
+    },
+    {
+      "id": 11496467,
+      "name": "Nam Yuen",
+      "nativeName": "Amphoe Nam Yuen",
+      "code": "TH-34-11496467",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-34",
+      "latitude": 14.48671,
+      "longitude": 105.00269
+    },
+    {
+      "id": 1607729,
+      "name": "Phibun Mangsahan",
+      "nativeName": "Amphoe Phibun Mangsahan",
+      "code": "TH-34-1607729",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-34",
+      "latitude": 15.14589,
+      "longitude": 105.24094
+    },
+    {
+      "id": 7510865,
+      "name": "Pho Sai",
+      "nativeName": "Amphoe Pho Sai",
+      "code": "TH-34-7510865",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-34",
+      "latitude": 15.76739,
+      "longitude": 105.34339
+    },
+    {
+      "id": 7510853,
+      "name": "Samrong",
+      "nativeName": "Amphoe Samrong",
+      "code": "TH-34-7510853",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-34",
+      "latitude": 14.98532,
+      "longitude": 104.79139
+    },
+    {
+      "id": 7510861,
+      "name": "Sawang Wirawong",
+      "nativeName": "Amphoe Sawang Wirawong",
+      "code": "TH-34-7510861",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-34",
+      "latitude": 15.23439,
+      "longitude": 105.076
+    },
+    {
+      "id": 1609782,
+      "name": "Si Mueang Mai",
+      "nativeName": "Amphoe Si Mueang Mai",
+      "code": "TH-34-1609782",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-34",
+      "latitude": 15.56297,
+      "longitude": 105.3483
+    },
+    {
+      "id": 7511043,
+      "name": "Sirindhorn",
+      "nativeName": "Amphoe Sirindhorn",
+      "code": "TH-34-7511043",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-34",
+      "latitude": 15.11249,
+      "longitude": 105.42837
+    },
+    {
+      "id": 7510864,
+      "name": "Tan Sum",
+      "nativeName": "Amphoe Tan Sum",
+      "code": "TH-34-7510864",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-34",
+      "latitude": 15.39035,
+      "longitude": 105.16273
+    },
+    {
+      "id": 7510847,
+      "name": "Thung Si Udom",
+      "nativeName": "Amphoe Thung Si Udom",
+      "code": "TH-34-7510847",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-34",
+      "latitude": 14.73936,
+      "longitude": 104.91731
+    },
+    {
+      "id": 1605280,
+      "name": "Trakan Phuet Phon",
+      "nativeName": "Amphoe Trakan Phuet Phon",
+      "code": "TH-34-1605280",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-34",
+      "latitude": 15.6136,
+      "longitude": 105.06444
+    },
+    {
+      "id": 1605068,
+      "name": "Warin Chamrap",
+      "nativeName": "Amphoe Warin Chamrap",
+      "code": "TH-34-1605068",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-34",
+      "latitude": 15.12394,
+      "longitude": 104.87499
+    }
+  ]
+}

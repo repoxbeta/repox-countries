@@ -1,0 +1,106 @@
+{
+  "stateId": 719637,
+  "stateCode": "HU-JN",
+  "countryCode": "HU",
+  "cities": [
+    {
+      "id": 9644780,
+      "name": "Jászapáti Járás",
+      "nativeName": "Jászapáti Járás",
+      "code": "HU-JN-9644780",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-JN",
+      "latitude": 47.46126,
+      "longitude": 20.06567
+    },
+    {
+      "id": 9644779,
+      "name": "Jászberényi Járás",
+      "nativeName": "Jászberényi Járás",
+      "code": "HU-JN-9644779",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-JN",
+      "latitude": 47.565,
+      "longitude": 19.86887
+    },
+    {
+      "id": 9644785,
+      "name": "Karcagi Járás",
+      "nativeName": "Karcagi Járás",
+      "code": "HU-JN-9644785",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-JN",
+      "latitude": 47.28583,
+      "longitude": 20.84218
+    },
+    {
+      "id": 9644787,
+      "name": "Kunhegyes District",
+      "nativeName": "Kunhegyesi Járás",
+      "code": "HU-JN-9644787",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-JN",
+      "latitude": 47.40329,
+      "longitude": 20.59199
+    },
+    {
+      "id": 9644783,
+      "name": "Kunszentmártoni Járás",
+      "nativeName": "Kunszentmártoni Járás",
+      "code": "HU-JN-9644783",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-JN",
+      "latitude": 46.87698,
+      "longitude": 20.25179
+    },
+    {
+      "id": 9644784,
+      "name": "Mezőtúri Járás",
+      "nativeName": "Mezőtúri Járás",
+      "code": "HU-JN-9644784",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-JN",
+      "latitude": 47.02495,
+      "longitude": 20.59046
+    },
+    {
+      "id": 9644781,
+      "name": "Szolnoki Járás",
+      "nativeName": "Szolnoki Járás",
+      "code": "HU-JN-9644781",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-JN",
+      "latitude": 47.2248,
+      "longitude": 20.19839
+    },
+    {
+      "id": 9644786,
+      "name": "Tiszafüredi Járás",
+      "nativeName": "Tiszafüredi Járás",
+      "code": "HU-JN-9644786",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-JN",
+      "latitude": 47.53907,
+      "longitude": 20.78879
+    },
+    {
+      "id": 9644782,
+      "name": "Törökszentmiklósi Járás",
+      "nativeName": "Törökszentmiklósi Járás",
+      "code": "HU-JN-9644782",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-JN",
+      "latitude": 47.18209,
+      "longitude": 20.44859
+    }
+  ]
+}

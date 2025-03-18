@@ -1,0 +1,40 @@
+{
+  "stateId": 3899537,
+  "stateCode": "CL-AN",
+  "countryCode": "CL",
+  "cities": [
+    {
+      "id": 3899538,
+      "name": "Provincia de Antofagasta",
+      "nativeName": "Provincia de Antofagasta",
+      "code": "CL-AN-3899538",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-AN",
+      "latitude": -24.31122,
+      "longitude": -69.57084
+    },
+    {
+      "id": 3891149,
+      "name": "Provincia de El Loa",
+      "nativeName": "Provincia de El Loa",
+      "code": "CL-AN-3891149",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-AN",
+      "latitude": -22.96764,
+      "longitude": -68.18716
+    },
+    {
+      "id": 3869715,
+      "name": "Provincia de Tocopilla",
+      "nativeName": "Provincia de Tocopilla",
+      "code": "CL-AN-3869715",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-AN",
+      "latitude": -22.02949,
+      "longitude": -69.64006
+    }
+  ]
+}

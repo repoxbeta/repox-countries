@@ -1,0 +1,183 @@
+{
+  "stateId": 2125072,
+  "stateCode": "RU-KAM",
+  "countryCode": "RU",
+  "cities": [
+    {
+      "id": 2127270,
+      "name": "Aleutsky District",
+      "nativeName": "Aleutskiy Rayon",
+      "code": "RU-KAM-2127270",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KAM",
+      "latitude": 55.02455,
+      "longitude": 166.26572
+    },
+    {
+      "id": 2126347,
+      "name": "Bystrinsky District",
+      "nativeName": "Bystrinskiy Rayon",
+      "code": "RU-KAM-2126347",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KAM",
+      "latitude": 55.73248,
+      "longitude": 158.32336
+    },
+    {
+      "id": 13139227,
+      "name": "Gorodskoy Okrug Petropavlovsk-Kamchatskiy",
+      "nativeName": "Gorodskoy Okrug Petropavlovsk-Kamchatskiy",
+      "code": "RU-KAM-13139227",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KAM",
+      "latitude": 53.06002,
+      "longitude": 158.63075
+    },
+    {
+      "id": 2124988,
+      "name": "Karaginsky District",
+      "nativeName": "Karaginsky District",
+      "code": "RU-KAM-2124988",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KAM",
+      "latitude": 58,
+      "longitude": 159.83333
+    },
+    {
+      "id": 2123277,
+      "name": "Mil’kovskiy Rayon",
+      "nativeName": "Mil’kovskiy Rayon",
+      "code": "RU-KAM-2123277",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KAM",
+      "latitude": 55.02458,
+      "longitude": 159.16454
+    },
+    {
+      "id": 2122518,
+      "name": "Olyutorskiy Rayon",
+      "nativeName": "Olyutorskiy Rayon",
+      "code": "RU-KAM-2122518",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KAM",
+      "latitude": 61.39769,
+      "longitude": 169.81978
+    },
+    {
+      "id": 12625108,
+      "name": "Palana Urban District",
+      "nativeName": "Palana Urban District",
+      "code": "RU-KAM-12625108",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KAM",
+      "latitude": 59.08387,
+      "longitude": 159.94845
+    },
+    {
+      "id": 2122180,
+      "name": "Penzhinskiy Rayon",
+      "nativeName": "Penzhinskiy Rayon",
+      "code": "RU-KAM-2122180",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KAM",
+      "latitude": 63.25409,
+      "longitude": 166.34553
+    },
+    {
+      "id": 12625372,
+      "name": "Petropavlovsk-Kamchatsky",
+      "nativeName": "Petropavlovsk-Kamchatsky",
+      "code": "RU-KAM-12625372",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KAM",
+      "latitude": 53.06999,
+      "longitude": 158.5929
+    },
+    {
+      "id": 2121113,
+      "name": "Sobolevsky District",
+      "nativeName": "Sobolevskiy Rayon",
+      "code": "RU-KAM-2121113",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KAM",
+      "latitude": 54.58333,
+      "longitude": 156.5
+    },
+    {
+      "id": 2120608,
+      "name": "Tigilsky District",
+      "nativeName": "Tigil’skiy Rayon",
+      "code": "RU-KAM-2120608",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KAM",
+      "latitude": 57.76046,
+      "longitude": 158.68687
+    },
+    {
+      "id": 2120062,
+      "name": "Ust-Bolsheretsky District",
+      "nativeName": "Ust’-Bol’sheretskiy Rayon",
+      "code": "RU-KAM-2120062",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KAM",
+      "latitude": 52.66667,
+      "longitude": 157
+    },
+    {
+      "id": 2120058,
+      "name": "Ust-Kamchatsky District",
+      "nativeName": "Ust’-Kamchatskiy Rayon",
+      "code": "RU-KAM-2120058",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KAM",
+      "latitude": 56.2923,
+      "longitude": 161.22936
+    },
+    {
+      "id": 13139229,
+      "name": "Vilyuchinskiy Gorodskoy Okrug",
+      "nativeName": "Vilyuchinskiy Gorodskoy Okrug",
+      "code": "RU-KAM-13139229",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KAM",
+      "latitude": 52.93186,
+      "longitude": 158.39837
+    },
+    {
+      "id": 13139228,
+      "name": "Yelizovskoye Gorodskoye Poseleniye",
+      "nativeName": "Yelizovskoye Gorodskoye Poseleniye",
+      "code": "RU-KAM-13139228",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KAM",
+      "latitude": 53.18462,
+      "longitude": 158.37962
+    },
+    {
+      "id": 2119537,
+      "name": "Yelizovsky District",
+      "nativeName": "Yelizovskiy Rayon",
+      "code": "RU-KAM-2119537",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-KAM",
+      "latitude": 53.66667,
+      "longitude": 159
+    }
+  ]
+}

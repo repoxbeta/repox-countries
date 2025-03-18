@@ -1,0 +1,95 @@
+{
+  "stateId": 3624368,
+  "stateCode": "CR-C",
+  "countryCode": "CR",
+  "cities": [
+    {
+      "id": 3624924,
+      "name": "Alvarado",
+      "nativeName": "Alvarado",
+      "code": "CR-C-3624924",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-C",
+      "latitude": 9.93333,
+      "longitude": -83.80352
+    },
+    {
+      "id": 3624369,
+      "name": "Cartago",
+      "nativeName": "Cartago",
+      "code": "CR-C-3624369",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-C",
+      "latitude": 9.81614,
+      "longitude": -83.91394
+    },
+    {
+      "id": 3623834,
+      "name": "El Guarco",
+      "nativeName": "El Guarco",
+      "code": "CR-C-3623834",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-C",
+      "latitude": 9.73931,
+      "longitude": -83.92735
+    },
+    {
+      "id": 3623341,
+      "name": "Jiménez",
+      "nativeName": "Jiménez",
+      "code": "CR-C-3623341",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-C",
+      "latitude": 9.75,
+      "longitude": -83.68333
+    },
+    {
+      "id": 3623105,
+      "name": "La Unión",
+      "nativeName": "La Unión",
+      "code": "CR-C-3623105",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-C",
+      "latitude": 9.91667,
+      "longitude": -83.98333
+    },
+    {
+      "id": 3622669,
+      "name": "Oreamuno",
+      "nativeName": "Oreamuno",
+      "code": "CR-C-3622669",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-C",
+      "latitude": 9.9636,
+      "longitude": -83.8523
+    },
+    {
+      "id": 3622543,
+      "name": "Paraíso",
+      "nativeName": "Paraíso",
+      "code": "CR-C-3622543",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-C",
+      "latitude": 9.75,
+      "longitude": -83.8
+    },
+    {
+      "id": 3621183,
+      "name": "Turrialba",
+      "nativeName": "Turrialba",
+      "code": "CR-C-3621183",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "stateCode": "CR-C",
+      "latitude": 9.81406,
+      "longitude": -83.51575
+    }
+  ]
+}

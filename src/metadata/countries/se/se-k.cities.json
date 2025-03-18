@@ -1,0 +1,62 @@
+{
+  "stateId": 2721357,
+  "stateCode": "SE-K",
+  "countryCode": "SE",
+  "cities": [
+    {
+      "id": 2701725,
+      "name": "Karlshamn Municipality",
+      "nativeName": "Karlshamns kommun",
+      "code": "SE-K-2701725",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-K",
+      "latitude": 56.25,
+      "longitude": 14.86667
+    },
+    {
+      "id": 2701712,
+      "name": "Karlskrona Municipality",
+      "nativeName": "Karlskrona Kommun",
+      "code": "SE-K-2701712",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-K",
+      "latitude": 56.28167,
+      "longitude": 15.66848
+    },
+    {
+      "id": 2687061,
+      "name": "Olofström Municipality",
+      "nativeName": "Olofströms Kommun",
+      "code": "SE-K-2687061",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-K",
+      "latitude": 56.32305,
+      "longitude": 14.56561
+    },
+    {
+      "id": 2681821,
+      "name": "Ronneby Municipality",
+      "nativeName": "Ronneby Kommun",
+      "code": "SE-K-2681821",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-K",
+      "latitude": 56.31031,
+      "longitude": 15.24038
+    },
+    {
+      "id": 2675364,
+      "name": "Sölvesborg Municipality",
+      "nativeName": "Sölvesborgs kommun",
+      "code": "SE-K-2675364",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-K",
+      "latitude": 56.0891,
+      "longitude": 14.64518
+    }
+  ]
+}

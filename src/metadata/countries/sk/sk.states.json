@@ -1,0 +1,94 @@
+{
+  "countryId": 3057568,
+  "countryCode": "SK",
+  "states": [
+    {
+      "id": 3343954,
+      "name": "Banská Bystrica Region",
+      "nativeName": "Banska Bystrica",
+      "code": "SK-BC",
+      "internalCode": "BC",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "latitude": 48.5,
+      "longitude": 19.5
+    },
+    {
+      "id": 3343955,
+      "name": "Bratislava Region",
+      "nativeName": "Bratislava",
+      "code": "SK-BL",
+      "internalCode": "BL",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "latitude": 48.33333,
+      "longitude": 17.16667
+    },
+    {
+      "id": 865084,
+      "name": "Košice Region",
+      "nativeName": "Kosice",
+      "code": "SK-KI",
+      "internalCode": "KI",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "latitude": 48.66667,
+      "longitude": 21.33333
+    },
+    {
+      "id": 3343956,
+      "name": "Nitra Region",
+      "nativeName": "Nitra",
+      "code": "SK-NI",
+      "internalCode": "NI",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "latitude": 48.16667,
+      "longitude": 18.33333
+    },
+    {
+      "id": 865085,
+      "name": "Prešov Region",
+      "nativeName": "Presov",
+      "code": "SK-PV",
+      "internalCode": "PV",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "latitude": 49.16667,
+      "longitude": 21.25
+    },
+    {
+      "id": 3343957,
+      "name": "Trenčín Region",
+      "nativeName": "Trencin",
+      "code": "SK-TC",
+      "internalCode": "TC",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "latitude": 48.83333,
+      "longitude": 18.25
+    },
+    {
+      "id": 3343958,
+      "name": "Trnava Region",
+      "nativeName": "Trnava",
+      "code": "SK-TA",
+      "internalCode": "TA",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "latitude": 48.41667,
+      "longitude": 17.66667
+    },
+    {
+      "id": 3056506,
+      "name": "Žilina Region",
+      "nativeName": "Zilina",
+      "code": "SK-ZI",
+      "internalCode": "ZI",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "latitude": 49.16667,
+      "longitude": 19.16667
+    }
+  ]
+}

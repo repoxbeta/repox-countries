@@ -1,0 +1,40 @@
+{
+  "stateId": 3582882,
+  "stateCode": "SV-US",
+  "countryCode": "SV",
+  "cities": [
+    {
+      "id": 12954169,
+      "name": "Municipio de Usulután Este",
+      "nativeName": "Municipio de Usulután Este",
+      "code": "SV-US-12954169",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-US",
+      "latitude": 13.33893,
+      "longitude": -88.4143
+    },
+    {
+      "id": 12916954,
+      "name": "Usulután Norte",
+      "nativeName": "Usulután Norte",
+      "code": "SV-US-12916954",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-US",
+      "latitude": 13.55974,
+      "longitude": -88.47816
+    },
+    {
+      "id": 12916945,
+      "name": "Usulután Oeste",
+      "nativeName": "Usulután Oeste",
+      "code": "SV-US-12916945",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-US",
+      "latitude": 13.34883,
+      "longitude": -88.62901
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "stateId": 7303505,
+  "stateCode": "MH-MAJ",
+  "countryCode": "MH",
+  "cities": [
+    {
+      "id": 2113779,
+      "name": "Majuro",
+      "nativeName": "Majuro",
+      "code": "MH-MAJ-2113779",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-MAJ",
+      "latitude": 7.08971,
+      "longitude": 171.38027
+    },
+    {
+      "id": 4038884,
+      "name": "Ajeltake",
+      "nativeName": "Ajeltake",
+      "code": "MH-MAJ-4038884",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-MAJ",
+      "latitude": 7.07466,
+      "longitude": 171.17137
+    },
+    {
+      "id": 7304319,
+      "name": "Arrak",
+      "nativeName": "Arrak",
+      "code": "MH-MAJ-7304319",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-MAJ",
+      "latitude": 7.12253,
+      "longitude": 171.05215
+    },
+    {
+      "id": 7304330,
+      "name": "Ejit - relocation of Bikini inhabitants",
+      "nativeName": "Ejit - relocation of Bikini inhabitants",
+      "code": "MH-MAJ-7304330",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-MAJ",
+      "latitude": 7.12361,
+      "longitude": 171.34988
+    },
+    {
+      "id": 7304295,
+      "name": "Jelter",
+      "nativeName": "Jelter",
+      "code": "MH-MAJ-7304295",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-MAJ",
+      "latitude": 7.21897,
+      "longitude": 171.06133
+    },
+    {
+      "id": 7304298,
+      "name": "Laura",
+      "nativeName": "Laura",
+      "code": "MH-MAJ-7304298",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-MAJ",
+      "latitude": 7.14654,
+      "longitude": 171.03704
+    },
+    {
+      "id": 2080016,
+      "name": "Rairok",
+      "nativeName": "Rairik",
+      "code": "MH-MAJ-2080016",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-MAJ",
+      "latitude": 7.07185,
+      "longitude": 171.31132
+    },
+    {
+      "id": 7304318,
+      "name": "Rita",
+      "nativeName": "Rita",
+      "code": "MH-MAJ-7304318",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-MAJ",
+      "latitude": 7.12442,
+      "longitude": 171.35739
+    },
+    {
+      "id": 2080208,
+      "name": "Woja",
+      "nativeName": "Woja",
+      "code": "MH-MAJ-2080208",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-MAJ",
+      "latitude": 7.10051,
+      "longitude": 171.09811
+    }
+  ]
+}

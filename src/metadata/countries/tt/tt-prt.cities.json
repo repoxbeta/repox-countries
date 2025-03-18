@@ -1,0 +1,40 @@
+{
+  "stateId": 7521942,
+  "stateCode": "TT-PRT",
+  "countryCode": "TT",
+  "cities": [
+    {
+      "id": 3574086,
+      "name": "Ward of Moruga",
+      "nativeName": "Ward of Moruga",
+      "code": "TT-PRT-3574086",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-PRT",
+      "latitude": 10.11173,
+      "longitude": -61.28585
+    },
+    {
+      "id": 3574008,
+      "name": "Ward of Ortoire",
+      "nativeName": "Ward of Ortoire",
+      "code": "TT-PRT-3574008",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-PRT",
+      "latitude": 10.26667,
+      "longitude": -61.31667
+    },
+    {
+      "id": 3573709,
+      "name": "Ward of Savana Grande",
+      "nativeName": "Ward of Savana Grande",
+      "code": "TT-PRT-3573709",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-PRT",
+      "latitude": 10.3,
+      "longitude": -61.36667
+    }
+  ]
+}

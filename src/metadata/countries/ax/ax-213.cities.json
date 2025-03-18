@@ -1,0 +1,73 @@
+{
+  "stateId": 9611694,
+  "stateCode": "AX-213",
+  "countryCode": "AX",
+  "cities": [
+    {
+      "id": 660528,
+      "name": "Brändö",
+      "nativeName": "Brändö",
+      "code": "AX-213-660528",
+      "countryId": 661882,
+      "countryCode": "AX",
+      "stateCode": "AX-213",
+      "latitude": 60.41238,
+      "longitude": 21.0445
+    },
+    {
+      "id": 659951,
+      "name": "Föglö",
+      "nativeName": "Föglö",
+      "code": "AX-213-659951",
+      "countryId": 661882,
+      "countryCode": "AX",
+      "stateCode": "AX-213",
+      "latitude": 60.01035,
+      "longitude": 20.427
+    },
+    {
+      "id": 650397,
+      "name": "Kumlinge",
+      "nativeName": "Kumlinge",
+      "code": "AX-213-650397",
+      "countryId": 661882,
+      "countryCode": "AX",
+      "stateCode": "AX-213",
+      "latitude": 60.26124,
+      "longitude": 20.777
+    },
+    {
+      "id": 651989,
+      "name": "Kökar",
+      "nativeName": "Kökar",
+      "code": "AX-213-651989",
+      "countryId": 661882,
+      "countryCode": "AX",
+      "stateCode": "AX-213",
+      "latitude": 59.91667,
+      "longitude": 21
+    },
+    {
+      "id": 636159,
+      "name": "Sottunga",
+      "nativeName": "Sottunga",
+      "code": "AX-213-636159",
+      "countryId": 661882,
+      "countryCode": "AX",
+      "stateCode": "AX-213",
+      "latitude": 60.11667,
+      "longitude": 20.75
+    },
+    {
+      "id": 632425,
+      "name": "Vårdö",
+      "nativeName": "Vårdö",
+      "code": "AX-213-632425",
+      "countryId": 661882,
+      "countryCode": "AX",
+      "stateCode": "AX-213",
+      "latitude": 60.24675,
+      "longitude": 20.38176
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "stateId": 1644865,
+  "stateCode": "TL-ER",
+  "countryCode": "TL",
+  "cities": [
+    {
+      "id": 8617853,
+      "name": "Atsabe",
+      "nativeName": "Atsabe",
+      "code": "TL-ER-8617853",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-ER",
+      "latitude": -8.93058,
+      "longitude": 125.3968
+    },
+    {
+      "id": 8617931,
+      "name": "Ermera Villa",
+      "nativeName": "Ermera Villa",
+      "code": "TL-ER-8617931",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-ER",
+      "latitude": -8.75222,
+      "longitude": 125.39694
+    },
+    {
+      "id": 8629076,
+      "name": "Hatulia",
+      "nativeName": "Hatulia",
+      "code": "TL-ER-8629076",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-ER",
+      "latitude": -8.81667,
+      "longitude": 125.31667
+    },
+    {
+      "id": 8628960,
+      "name": "Letefoho",
+      "nativeName": "Letefoho",
+      "code": "TL-ER-8628960",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-ER",
+      "latitude": -8.83444,
+      "longitude": 125.42639
+    },
+    {
+      "id": 8617920,
+      "name": "Railaco",
+      "nativeName": "Railaco",
+      "code": "TL-ER-8617920",
+      "countryId": 1966436,
+      "countryCode": "TL",
+      "stateCode": "TL-ER",
+      "latitude": -8.67237,
+      "longitude": 125.42546
+    }
+  ]
+}

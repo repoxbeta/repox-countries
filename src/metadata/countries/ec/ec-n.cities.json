@@ -1,0 +1,62 @@
+{
+  "stateId": 3653890,
+  "stateCode": "EC-N",
+  "countryCode": "EC",
+  "cities": [
+    {
+      "id": 3660572,
+      "name": "Archidona",
+      "nativeName": "Archidona",
+      "code": "EC-N-3660572",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-N",
+      "latitude": -0.75805,
+      "longitude": -77.96713
+    },
+    {
+      "id": 10792483,
+      "name": "Carlos Julio Arosemena Tola",
+      "nativeName": "Carlos Julio Arosemena Tola",
+      "code": "EC-N-10792483",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-N",
+      "latitude": -1.13969,
+      "longitude": -77.94902
+    },
+    {
+      "id": 8472358,
+      "name": "El Chaco",
+      "nativeName": "El Chaco",
+      "code": "EC-N-8472358",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-N",
+      "latitude": -0.25084,
+      "longitude": -77.69435
+    },
+    {
+      "id": 3652561,
+      "name": "Quijos",
+      "nativeName": "Quijos",
+      "code": "EC-N-3652561",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-N",
+      "latitude": -0.48954,
+      "longitude": -77.97542
+    },
+    {
+      "id": 3650720,
+      "name": "Tena",
+      "nativeName": "Tena",
+      "code": "EC-N-3650720",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-N",
+      "latitude": -1.02071,
+      "longitude": -77.81044
+    }
+  ]
+}

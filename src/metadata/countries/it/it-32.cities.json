@@ -1,0 +1,29 @@
+{
+  "stateId": 3165244,
+  "stateCode": "IT-32",
+  "countryCode": "IT",
+  "cities": [
+    {
+      "id": 3165241,
+      "name": "Province of Trente",
+      "nativeName": "Provincia autonoma di Trento",
+      "code": "IT-32-3165241",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-32",
+      "latitude": 46.06966,
+      "longitude": 11.12177
+    },
+    {
+      "id": 3181912,
+      "name": "South Tyrol",
+      "nativeName": "Bolzano",
+      "code": "IT-32-3181912",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-32",
+      "latitude": 46.71667,
+      "longitude": 11.5
+    }
+  ]
+}

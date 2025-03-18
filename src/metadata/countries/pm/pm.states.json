@@ -1,0 +1,28 @@
+{
+  "countryId": 3424932,
+  "countryCode": "PM",
+  "states": [
+    {
+      "id": 3424935,
+      "name": "Commune de Saint-Pierre",
+      "nativeName": "Commune de Saint-Pierre",
+      "code": "PM-P",
+      "internalCode": "P",
+      "countryId": 3424932,
+      "countryCode": "PM",
+      "latitude": 46.78333,
+      "longitude": -56.2
+    },
+    {
+      "id": 3424938,
+      "name": "Miquelon-Langlade",
+      "nativeName": "Miquelon-Langlade",
+      "code": "PM-M",
+      "internalCode": "M",
+      "countryId": 3424932,
+      "countryCode": "PM",
+      "latitude": 46.95612,
+      "longitude": -56.32656
+    }
+  ]
+}

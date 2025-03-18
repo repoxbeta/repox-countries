@@ -1,0 +1,249 @@
+{
+  "stateId": 858786,
+  "stateCode": "PL-12",
+  "countryCode": "PL",
+  "cities": [
+    {
+      "id": 6690149,
+      "name": "Bochnia County",
+      "nativeName": "Powiat bocheński",
+      "code": "PL-12-6690149",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-12",
+      "latitude": 49.96911,
+      "longitude": 20.43078
+    },
+    {
+      "id": 6690150,
+      "name": "Brzesko County",
+      "nativeName": "Powiat brzeski",
+      "code": "PL-12-6690150",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-12",
+      "latitude": 49.9717,
+      "longitude": 20.60572
+    },
+    {
+      "id": 6690151,
+      "name": "Chrzanów County",
+      "nativeName": "Powiat chrzanowski",
+      "code": "PL-12-6690151",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-12",
+      "latitude": 50.13565,
+      "longitude": 19.40434
+    },
+    {
+      "id": 6690152,
+      "name": "Dąbrowa County",
+      "nativeName": "Powiat dąbrowski",
+      "code": "PL-12-6690152",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-12",
+      "latitude": 50.17572,
+      "longitude": 20.97895
+    },
+    {
+      "id": 6690153,
+      "name": "Gorlice County",
+      "nativeName": "Powiat gorlicki",
+      "code": "PL-12-6690153",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-12",
+      "latitude": 49.66452,
+      "longitude": 21.16842
+    },
+    {
+      "id": 6690154,
+      "name": "Kraków",
+      "nativeName": "Kraków",
+      "code": "PL-12-6690154",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-12",
+      "latitude": 50.07262,
+      "longitude": 19.9325
+    },
+    {
+      "id": 7530768,
+      "name": "Kraków County",
+      "nativeName": "Powiat krakowski",
+      "code": "PL-12-7530768",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-12",
+      "latitude": 50.14347,
+      "longitude": 19.91409
+    },
+    {
+      "id": 6690155,
+      "name": "Limanowa County",
+      "nativeName": "Powiat limanowski",
+      "code": "PL-12-6690155",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-12",
+      "latitude": 49.70761,
+      "longitude": 20.42444
+    },
+    {
+      "id": 6690130,
+      "name": "Miechów County",
+      "nativeName": "Powiat miechowski",
+      "code": "PL-12-6690130",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-12",
+      "latitude": 50.35715,
+      "longitude": 20.0329
+    },
+    {
+      "id": 6690156,
+      "name": "Myślenice County",
+      "nativeName": "Powiat myślenicki",
+      "code": "PL-12-6690156",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-12",
+      "latitude": 49.83394,
+      "longitude": 19.94482
+    },
+    {
+      "id": 6690157,
+      "name": "Nowy Sącz",
+      "nativeName": "Nowy Sącz",
+      "code": "PL-12-6690157",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-12",
+      "latitude": 49.63467,
+      "longitude": 20.69824
+    },
+    {
+      "id": 7530824,
+      "name": "Nowy Sącz County",
+      "nativeName": "Powiat nowosądecki",
+      "code": "PL-12-7530824",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-12",
+      "latitude": 49.55132,
+      "longitude": 20.73001
+    },
+    {
+      "id": 6690158,
+      "name": "Nowy Targ County",
+      "nativeName": "Powiat nowotarski",
+      "code": "PL-12-6690158",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-12",
+      "latitude": 49.47663,
+      "longitude": 20.04305
+    },
+    {
+      "id": 6690159,
+      "name": "Olkusz County",
+      "nativeName": "Powiat olkuski",
+      "code": "PL-12-6690159",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-12",
+      "latitude": 50.27932,
+      "longitude": 19.55772
+    },
+    {
+      "id": 6690160,
+      "name": "Oświęcim County",
+      "nativeName": "Powiat oświęcimski",
+      "code": "PL-12-6690160",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-12",
+      "latitude": 50.03796,
+      "longitude": 19.22771
+    },
+    {
+      "id": 6690161,
+      "name": "Proszowice County",
+      "nativeName": "Powiat proszowicki",
+      "code": "PL-12-6690161",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-12",
+      "latitude": 50.19241,
+      "longitude": 20.28413
+    },
+    {
+      "id": 6690162,
+      "name": "Sucha County",
+      "nativeName": "Powiat suski",
+      "code": "PL-12-6690162",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-12",
+      "latitude": 49.74462,
+      "longitude": 19.59103
+    },
+    {
+      "id": 6690163,
+      "name": "Tarnów",
+      "nativeName": "Tarnów",
+      "code": "PL-12-6690163",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-12",
+      "latitude": 50.01546,
+      "longitude": 20.97857
+    },
+    {
+      "id": 7530825,
+      "name": "Tarnów County",
+      "nativeName": "Powiat tarnowski",
+      "code": "PL-12-7530825",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-12",
+      "latitude": 50.05449,
+      "longitude": 20.90527
+    },
+    {
+      "id": 6690164,
+      "name": "Tatra County",
+      "nativeName": "Powiat tatrzański",
+      "code": "PL-12-6690164",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-12",
+      "latitude": 49.3042,
+      "longitude": 19.948
+    },
+    {
+      "id": 6690165,
+      "name": "Wadowice County",
+      "nativeName": "Powiat wadowicki",
+      "code": "PL-12-6690165",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-12",
+      "latitude": 49.89032,
+      "longitude": 19.48374
+    },
+    {
+      "id": 6690166,
+      "name": "Wieliczka County",
+      "nativeName": "Powiat wielicki",
+      "code": "PL-12-6690166",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-12",
+      "latitude": 49.9857,
+      "longitude": 20.05494
+    }
+  ]
+}

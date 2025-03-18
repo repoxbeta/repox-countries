@@ -1,0 +1,95 @@
+{
+  "stateId": 3923172,
+  "stateCode": "BO-B",
+  "countryCode": "BO",
+  "cities": [
+    {
+      "id": 3921631,
+      "name": "Cercado",
+      "nativeName": "Provincia Cercado",
+      "code": "BO-B-3921631",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-B",
+      "latitude": -14.53748,
+      "longitude": -64.47576
+    },
+    {
+      "id": 3913898,
+      "name": "Itenez",
+      "nativeName": "Provincia Iténez",
+      "code": "BO-B-3913898",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-B",
+      "latitude": -13.4504,
+      "longitude": -63.38756
+    },
+    {
+      "id": 3915596,
+      "name": "José Ballivián",
+      "nativeName": "Provincia General José Ballivián",
+      "code": "BO-B-3915596",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-B",
+      "latitude": -14.01499,
+      "longitude": -66.97464
+    },
+    {
+      "id": 3910823,
+      "name": "Mamore",
+      "nativeName": "Provincia Mamoré",
+      "code": "BO-B-3910823",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-B",
+      "latitude": -13.15372,
+      "longitude": -64.68121
+    },
+    {
+      "id": 3910725,
+      "name": "Marban",
+      "nativeName": "Provincia Marbán",
+      "code": "BO-B-3910725",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-B",
+      "latitude": -15.46427,
+      "longitude": -64.55822
+    },
+    {
+      "id": 3909868,
+      "name": "Moxos",
+      "nativeName": "Provincia Moxos",
+      "code": "BO-B-3909868",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-B",
+      "latitude": -15.50025,
+      "longitude": -65.67616
+    },
+    {
+      "id": 3901896,
+      "name": "Vaca Diez",
+      "nativeName": "Provincia Vaca Diez",
+      "code": "BO-B-3901896",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-B",
+      "latitude": -11.46802,
+      "longitude": -65.78636
+    },
+    {
+      "id": 3901175,
+      "name": "Yacuma",
+      "nativeName": "Provincia Yacuma",
+      "code": "BO-B-3901175",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-B",
+      "latitude": -13.57496,
+      "longitude": -65.92504
+    }
+  ]
+}

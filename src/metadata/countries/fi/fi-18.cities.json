@@ -1,0 +1,51 @@
+{
+  "stateId": 830709,
+  "stateCode": "FI-18",
+  "countryCode": "FI",
+  "cities": [
+    {
+      "id": 9610677,
+      "name": "Helsinki sub-region",
+      "nativeName": "Helsinki sub-region",
+      "code": "FI-18-9610677",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-18",
+      "latitude": 60.3694,
+      "longitude": 24.60851
+    },
+    {
+      "id": 9610697,
+      "name": "Loviisa",
+      "nativeName": "Loviisa",
+      "code": "FI-18-9610697",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-18",
+      "latitude": 60.49076,
+      "longitude": 26.19313
+    },
+    {
+      "id": 9610696,
+      "name": "Porvoo",
+      "nativeName": "Porvoo",
+      "code": "FI-18-9610696",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-18",
+      "latitude": 60.43829,
+      "longitude": 25.69312
+    },
+    {
+      "id": 9610695,
+      "name": "Raseborg",
+      "nativeName": "Raaseporin",
+      "code": "FI-18-9610695",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-18",
+      "latitude": 60.00273,
+      "longitude": 23.55499
+    }
+  ]
+}

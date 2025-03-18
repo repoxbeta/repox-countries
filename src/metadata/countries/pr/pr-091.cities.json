@@ -1,0 +1,106 @@
+{
+  "stateId": 4566138,
+  "stateCode": "PR-091",
+  "countryCode": "PR",
+  "cities": [
+    {
+      "id": 7268224,
+      "name": "Bajura Adentro Barrio",
+      "nativeName": "Bajura Adentro Barrio",
+      "code": "PR-091-7268224",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-091",
+      "latitude": 18.4105,
+      "longitude": -66.52578
+    },
+    {
+      "id": 7268225,
+      "name": "Bajura Afuera Barrio",
+      "nativeName": "Bajura Afuera Barrio",
+      "code": "PR-091-7268225",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-091",
+      "latitude": 18.43228,
+      "longitude": -66.51167
+    },
+    {
+      "id": 7268116,
+      "name": "Coto Norte Barrio",
+      "nativeName": "Coto Norte Barrio",
+      "code": "PR-091-7268116",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-091",
+      "latitude": 18.437,
+      "longitude": -66.46094
+    },
+    {
+      "id": 7268117,
+      "name": "Coto Sur Barrio",
+      "nativeName": "Coto Sur Barrio",
+      "code": "PR-091-7268117",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-091",
+      "latitude": 18.41269,
+      "longitude": -66.46599
+    },
+    {
+      "id": 7268611,
+      "name": "Manatí Barrio-Pueblo",
+      "nativeName": "Manatí Barrio-Pueblo",
+      "code": "PR-091-7268611",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-091",
+      "latitude": 18.43104,
+      "longitude": -66.4863
+    },
+    {
+      "id": 7268893,
+      "name": "Río Arriba Poniente Barrio",
+      "nativeName": "Río Arriba Poniente Barrio",
+      "code": "PR-091-7268893",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-091",
+      "latitude": 18.38251,
+      "longitude": -66.51138
+    },
+    {
+      "id": 7268894,
+      "name": "Río Arriba Saliente Barrio",
+      "nativeName": "Río Arriba Saliente Barrio",
+      "code": "PR-091-7268894",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-091",
+      "latitude": 18.38684,
+      "longitude": -66.47132
+    },
+    {
+      "id": 7269036,
+      "name": "Tierras Nuevas Poniente Barrio",
+      "nativeName": "Tierras Nuevas Poniente Barrio",
+      "code": "PR-091-7269036",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-091",
+      "latitude": 18.46338,
+      "longitude": -66.51479
+    },
+    {
+      "id": 7269037,
+      "name": "Tierras Nuevas Saliente Barrio",
+      "nativeName": "Tierras Nuevas Saliente Barrio",
+      "code": "PR-091-7269037",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-091",
+      "latitude": 18.45882,
+      "longitude": -66.46977
+    }
+  ]
+}

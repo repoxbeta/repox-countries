@@ -1,0 +1,40 @@
+{
+  "stateId": 1278647,
+  "stateCode": "IN-AN",
+  "countryCode": "IN",
+  "cities": [
+    {
+      "id": 1261448,
+      "name": "Nicobars",
+      "nativeName": "Nicobar",
+      "code": "IN-AN-1261448",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-AN",
+      "latitude": 7.03002,
+      "longitude": 93.79028
+    },
+    {
+      "id": 9748018,
+      "name": "North and Middle Andaman",
+      "nativeName": "North  & Middle Andaman",
+      "code": "IN-AN-9748018",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-AN",
+      "latitude": 12.8379,
+      "longitude": 92.86752
+    },
+    {
+      "id": 1278648,
+      "name": "South Andaman District",
+      "nativeName": "South Andaman",
+      "code": "IN-AN-1278648",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-AN",
+      "latitude": 10.75776,
+      "longitude": 92.52136
+    }
+  ]
+}

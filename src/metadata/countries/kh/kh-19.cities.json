@@ -1,0 +1,62 @@
+{
+  "stateId": 1822028,
+  "stateCode": "KH-19",
+  "countryCode": "KH",
+  "cities": [
+    {
+      "id": 7647528,
+      "name": "Krong Stueng Traeng",
+      "nativeName": "Stueng Traeng",
+      "code": "KH-19-7647528",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-19",
+      "latitude": 13.65,
+      "longitude": 106.07
+    },
+    {
+      "id": 8404435,
+      "name": "Sesan",
+      "nativeName": "Srŏk Srêsén",
+      "code": "KH-19-8404435",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-19",
+      "latitude": 13.6053,
+      "longitude": 106.35819
+    },
+    {
+      "id": 9253808,
+      "name": "Siem Bouk",
+      "nativeName": "Siem Bouk",
+      "code": "KH-19-9253808",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-19",
+      "latitude": 13.30424,
+      "longitude": 105.81812
+    },
+    {
+      "id": 9253809,
+      "name": "Siem Pang",
+      "nativeName": "Siem Pang",
+      "code": "KH-19-9253809",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-19",
+      "latitude": 14.17608,
+      "longitude": 106.42437
+    },
+    {
+      "id": 9253810,
+      "name": "Thala Barivat",
+      "nativeName": "Thala Barivat",
+      "code": "KH-19-9253810",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-19",
+      "latitude": 13.67228,
+      "longitude": 105.79132
+    }
+  ]
+}

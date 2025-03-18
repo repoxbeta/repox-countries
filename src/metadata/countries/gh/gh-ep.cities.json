@@ -1,0 +1,293 @@
+{
+  "stateId": 2301360,
+  "stateCode": "GH-EP",
+  "countryCode": "GH",
+  "cities": [
+    {
+      "id": 7648935,
+      "name": "Akuapim North",
+      "nativeName": "Akuapim North",
+      "code": "GH-EP-7648935",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-EP",
+      "latitude": 5.96667,
+      "longitude": -0.08333
+    },
+    {
+      "id": 7648936,
+      "name": "Akuapim South",
+      "nativeName": "Akuapim South",
+      "code": "GH-EP-7648936",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-EP",
+      "latitude": 5.86634,
+      "longitude": -0.23356
+    },
+    {
+      "id": 7648937,
+      "name": "Akyemansa",
+      "nativeName": "Akyemansa",
+      "code": "GH-EP-7648937",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-EP",
+      "latitude": 6.16667,
+      "longitude": -1.15
+    },
+    {
+      "id": 7648949,
+      "name": "Asuogyaman",
+      "nativeName": "Asuogyaman",
+      "code": "GH-EP-7648949",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-EP",
+      "latitude": 6.20308,
+      "longitude": 0.08167
+    },
+    {
+      "id": 7647530,
+      "name": "Atiwa",
+      "nativeName": "Atiwa",
+      "code": "GH-EP-7647530",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-EP",
+      "latitude": 6.2797,
+      "longitude": -0.63937
+    },
+    {
+      "id": 12105107,
+      "name": "Ayensuano",
+      "nativeName": "Ayensuano",
+      "code": "GH-EP-12105107",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-EP",
+      "latitude": 5.94454,
+      "longitude": -0.47516
+    },
+    {
+      "id": 7648963,
+      "name": "Birim Central",
+      "nativeName": "Birim Central",
+      "code": "GH-EP-7648963",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-EP",
+      "latitude": 5.91667,
+      "longitude": -0.98333
+    },
+    {
+      "id": 7648964,
+      "name": "Birim North",
+      "nativeName": "Birim North",
+      "code": "GH-EP-7648964",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-EP",
+      "latitude": 6.33856,
+      "longitude": -0.99564
+    },
+    {
+      "id": 7648965,
+      "name": "Birim South",
+      "nativeName": "Birim South",
+      "code": "GH-EP-7648965",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-EP",
+      "latitude": 5.9,
+      "longitude": -1.01667
+    },
+    {
+      "id": 12105108,
+      "name": "Denkyembour",
+      "nativeName": "Denkyembour",
+      "code": "GH-EP-12105108",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-EP",
+      "latitude": 6.05424,
+      "longitude": -0.84444
+    },
+    {
+      "id": 7648974,
+      "name": "East Akim",
+      "nativeName": "East Akim",
+      "code": "GH-EP-7648974",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-EP",
+      "latitude": 6.21587,
+      "longitude": -0.44367
+    },
+    {
+      "id": 7648979,
+      "name": "Fanteakwa",
+      "nativeName": "Fanteakwa",
+      "code": "GH-EP-7648979",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-EP",
+      "latitude": 6.38333,
+      "longitude": -0.38333
+    },
+    {
+      "id": 7649002,
+      "name": "Kwaebibirem",
+      "nativeName": "Kwaebibirem",
+      "code": "GH-EP-7649002",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-EP",
+      "latitude": 6.08333,
+      "longitude": -0.83333
+    },
+    {
+      "id": 12105109,
+      "name": "Kwahu Afram Plains South",
+      "nativeName": "Kwahu Afram Plains South",
+      "code": "GH-EP-12105109",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-EP",
+      "latitude": 6.89557,
+      "longitude": -0.36528
+    },
+    {
+      "id": 7649003,
+      "name": "Kwahu East",
+      "nativeName": "Kwahu East",
+      "code": "GH-EP-7649003",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-EP",
+      "latitude": 6.66667,
+      "longitude": -0.75
+    },
+    {
+      "id": 7649004,
+      "name": "Kwahu North",
+      "nativeName": "Kwahu North",
+      "code": "GH-EP-7649004",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-EP",
+      "latitude": 7.04446,
+      "longitude": -0.07935
+    },
+    {
+      "id": 7649009,
+      "name": "Kwahu South",
+      "nativeName": "Kwahu South",
+      "code": "GH-EP-7649009",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-EP",
+      "latitude": 6.64378,
+      "longitude": -0.64804
+    },
+    {
+      "id": 7649005,
+      "name": "Kwahu West",
+      "nativeName": "Kwahu West",
+      "code": "GH-EP-7649005",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-EP",
+      "latitude": 6.55,
+      "longitude": -0.76667
+    },
+    {
+      "id": 7649011,
+      "name": "Lower Manya Krobo",
+      "nativeName": "Lower Manya Krobo",
+      "code": "GH-EP-7649011",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-EP",
+      "latitude": 6.16682,
+      "longitude": 0.01484
+    },
+    {
+      "id": 7649015,
+      "name": "New Juaben",
+      "nativeName": "New Juaben",
+      "code": "GH-EP-7649015",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-EP",
+      "latitude": 6.08333,
+      "longitude": -0.25
+    },
+    {
+      "id": 12105098,
+      "name": "Nsawam Adoagyiri",
+      "nativeName": "Nsawam Adoagyiri",
+      "code": "GH-EP-12105098",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-EP",
+      "latitude": 5.82736,
+      "longitude": -0.34685
+    },
+    {
+      "id": 7649045,
+      "name": "Suhum/Kraboa/Coaltar",
+      "nativeName": "Suhum/Kraboa/Coaltar",
+      "code": "GH-EP-7649045",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-EP",
+      "latitude": 6.03333,
+      "longitude": -0.45
+    },
+    {
+      "id": 7649061,
+      "name": "Upper Manya Krobo",
+      "nativeName": "Upper Manya Krobo",
+      "code": "GH-EP-7649061",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-EP",
+      "latitude": 6.38333,
+      "longitude": -0.13333
+    },
+    {
+      "id": 12105086,
+      "name": "Upper West Akim",
+      "nativeName": "Upper West Akim",
+      "code": "GH-EP-12105086",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-EP",
+      "latitude": 5.80029,
+      "longitude": -0.55998
+    },
+    {
+      "id": 7649068,
+      "name": "West Akim",
+      "nativeName": "West Akim",
+      "code": "GH-EP-7649068",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-EP",
+      "latitude": 5.86667,
+      "longitude": -0.66667
+    },
+    {
+      "id": 7649073,
+      "name": "Yilo Krobo",
+      "nativeName": "Yilo Krobo",
+      "code": "GH-EP-7649073",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-EP",
+      "latitude": 6.17737,
+      "longitude": -0.1765
+    }
+  ]
+}

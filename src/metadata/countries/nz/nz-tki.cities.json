@@ -1,0 +1,40 @@
+{
+  "stateId": 2181872,
+  "stateCode": "NZ-TKI",
+  "countryCode": "NZ",
+  "cities": [
+    {
+      "id": 2186240,
+      "name": "New Plymouth District",
+      "nativeName": "New Plymouth District",
+      "code": "NZ-TKI-2186240",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-TKI",
+      "latitude": -39.05865,
+      "longitude": 174.10309
+    },
+    {
+      "id": 7910062,
+      "name": "South Taranaki District",
+      "nativeName": "South Taranaki District",
+      "code": "NZ-TKI-7910062",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-TKI",
+      "latitude": -39.52156,
+      "longitude": 174.3716
+    },
+    {
+      "id": 2182236,
+      "name": "Stratford District",
+      "nativeName": "Stratford District",
+      "code": "NZ-TKI-2182236",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-TKI",
+      "latitude": -39.33333,
+      "longitude": 174.28333
+    }
+  ]
+}

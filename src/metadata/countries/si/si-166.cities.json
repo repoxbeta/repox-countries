@@ -1,0 +1,194 @@
+{
+  "stateId": 3344932,
+  "stateCode": "SI-166",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3197226,
+      "name": "Križevci pri Ljutomeru",
+      "nativeName": "Križevci pri Ljutomeru",
+      "code": "SI-166-3197226",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-166",
+      "latitude": 46.56833,
+      "longitude": 16.13861
+    },
+    {
+      "id": 3204271,
+      "name": "Berkovci",
+      "nativeName": "Berkovci",
+      "code": "SI-166-3204271",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-166",
+      "latitude": 46.55278,
+      "longitude": 16.08306
+    },
+    {
+      "id": 8988775,
+      "name": "Berkovski Prelogi",
+      "nativeName": "Berkovski Prelogi",
+      "code": "SI-166-8988775",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-166",
+      "latitude": 46.55896,
+      "longitude": 16.08637
+    },
+    {
+      "id": 3203724,
+      "name": "Boreci",
+      "nativeName": "Boreci",
+      "code": "SI-166-3203724",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-166",
+      "latitude": 46.55917,
+      "longitude": 16.14139
+    },
+    {
+      "id": 3203553,
+      "name": "Branoslavci",
+      "nativeName": "Branoslavci",
+      "code": "SI-166-3203553",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-166",
+      "latitude": 46.52208,
+      "longitude": 16.13186
+    },
+    {
+      "id": 3203165,
+      "name": "Bučečovci",
+      "nativeName": "Bučečovci",
+      "code": "SI-166-3203165",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-166",
+      "latitude": 46.58833,
+      "longitude": 16.10667
+    },
+    {
+      "id": 8988244,
+      "name": "Dobrava",
+      "nativeName": "Dobrava",
+      "code": "SI-166-8988244",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-166",
+      "latitude": 46.57226,
+      "longitude": 16.10203
+    },
+    {
+      "id": 8988351,
+      "name": "Gajševci",
+      "nativeName": "Gajševci",
+      "code": "SI-166-8988351",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-166",
+      "latitude": 46.5344,
+      "longitude": 16.1099
+    },
+    {
+      "id": 3215440,
+      "name": "Grabe pri Ljutomeru",
+      "nativeName": "Grabe pri Ljutomeru",
+      "code": "SI-166-3215440",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-166",
+      "latitude": 46.53583,
+      "longitude": 16.12944
+    },
+    {
+      "id": 3199129,
+      "name": "Iljaševci",
+      "nativeName": "Iljaševci",
+      "code": "SI-166-3199129",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-166",
+      "latitude": 46.57444,
+      "longitude": 16.13056
+    },
+    {
+      "id": 3198046,
+      "name": "Ključarovci pri Ljutomeru",
+      "nativeName": "Ključarovci pri Ljutomeru",
+      "code": "SI-166-3198046",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-166",
+      "latitude": 46.55278,
+      "longitude": 16.13778
+    },
+    {
+      "id": 3197912,
+      "name": "Kokoriči",
+      "nativeName": "Kokoriči",
+      "code": "SI-166-3197912",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-166",
+      "latitude": 46.55528,
+      "longitude": 16.09861
+    },
+    {
+      "id": 3196074,
+      "name": "Lukavci",
+      "nativeName": "Lukavci",
+      "code": "SI-166-3196074",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-166",
+      "latitude": 46.54333,
+      "longitude": 16.15278
+    },
+    {
+      "id": 3190002,
+      "name": "Stara Nova Vas",
+      "nativeName": "Stara Nova Vas",
+      "code": "SI-166-3190002",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-166",
+      "latitude": 46.58417,
+      "longitude": 16.12278
+    },
+    {
+      "id": 3187083,
+      "name": "Vučja Vas",
+      "nativeName": "Vučja Vas",
+      "code": "SI-166-3187083",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-166",
+      "latitude": 46.59944,
+      "longitude": 16.1075
+    },
+    {
+      "id": 8988352,
+      "name": "Zasadi",
+      "nativeName": "Zasadi",
+      "code": "SI-166-8988352",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-166",
+      "latitude": 46.58998,
+      "longitude": 16.08021
+    },
+    {
+      "id": 3196291,
+      "name": "Logarovci",
+      "nativeName": "Logarovci",
+      "code": "SI-166-3196291",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-166",
+      "latitude": 46.54722,
+      "longitude": 16.10556
+    }
+  ]
+}

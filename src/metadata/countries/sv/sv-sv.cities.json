@@ -1,0 +1,29 @@
+{
+  "stateId": 3583176,
+  "stateCode": "SV-SV",
+  "countryCode": "SV",
+  "cities": [
+    {
+      "id": 12954166,
+      "name": "Municipio de San Vicente Sur",
+      "nativeName": "Municipio de San Vicente Sur",
+      "code": "SV-SV-12954166",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-SV",
+      "latitude": 13.57796,
+      "longitude": -88.81576
+    },
+    {
+      "id": 12916960,
+      "name": "San Vicente Norte",
+      "nativeName": "San Vicente Norte",
+      "code": "SV-SV-12916960",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-SV",
+      "latitude": 13.70781,
+      "longitude": -88.7092
+    }
+  ]
+}

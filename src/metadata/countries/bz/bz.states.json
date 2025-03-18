@@ -1,0 +1,72 @@
+{
+  "countryId": 3582678,
+  "countryCode": "BZ",
+  "states": [
+    {
+      "id": 3582676,
+      "name": "Belize District",
+      "nativeName": "Belize District",
+      "code": "BZ-BZ",
+      "internalCode": "BZ",
+      "countryId": 3582678,
+      "countryCode": "BZ",
+      "latitude": 17.55,
+      "longitude": -88.41667
+    },
+    {
+      "id": 3582429,
+      "name": "Cayo District",
+      "nativeName": "Cayo District",
+      "code": "BZ-CY",
+      "internalCode": "CY",
+      "countryId": 3582678,
+      "countryCode": "BZ",
+      "latitude": 17,
+      "longitude": -88.9
+    },
+    {
+      "id": 3582302,
+      "name": "Corozal District",
+      "nativeName": "Corozal District",
+      "code": "BZ-CZL",
+      "internalCode": "CZL",
+      "countryId": 3582678,
+      "countryCode": "BZ",
+      "latitude": 18.21667,
+      "longitude": -88.31667
+    },
+    {
+      "id": 3581511,
+      "name": "Orange Walk District",
+      "nativeName": "Orange Walk District",
+      "code": "BZ-OW",
+      "internalCode": "OW",
+      "countryId": 3582678,
+      "countryCode": "BZ",
+      "latitude": 17.76667,
+      "longitude": -88.8
+    },
+    {
+      "id": 3580975,
+      "name": "Southern District",
+      "nativeName": "Stann Creek District",
+      "code": "BZ-SC",
+      "internalCode": "SC",
+      "countryId": 3582678,
+      "countryCode": "BZ",
+      "latitude": 16.83333,
+      "longitude": -88.46667
+    },
+    {
+      "id": 3580913,
+      "name": "Toledo District",
+      "nativeName": "Toledo District",
+      "code": "BZ-TOL",
+      "internalCode": "TOL",
+      "countryId": 3582678,
+      "countryCode": "BZ",
+      "latitude": 16.33333,
+      "longitude": -88.86667
+    }
+  ]
+}

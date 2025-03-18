@@ -1,0 +1,62 @@
+{
+  "stateId": 11288216,
+  "stateCode": "CD-SU",
+  "countryCode": "CD",
+  "cities": [
+    {
+      "id": 12278045,
+      "name": "Budjala",
+      "nativeName": "Budjala",
+      "code": "CD-SU-12278045",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-SU",
+      "latitude": 2.53344,
+      "longitude": 19.96028
+    },
+    {
+      "id": 12278049,
+      "name": "Gemena",
+      "nativeName": "Gemena",
+      "code": "CD-SU-12278049",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-SU",
+      "latitude": 3.39963,
+      "longitude": 19.69331
+    },
+    {
+      "id": 12278093,
+      "name": "Kungu",
+      "nativeName": "Kungu",
+      "code": "CD-SU-12278093",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-SU",
+      "latitude": 2.47967,
+      "longitude": 18.75076
+    },
+    {
+      "id": 12278096,
+      "name": "Libenge",
+      "nativeName": "Libenge",
+      "code": "CD-SU-12278096",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-SU",
+      "latitude": 3.87572,
+      "longitude": 18.98389
+    },
+    {
+      "id": 2310762,
+      "name": "Ville de Zongo",
+      "nativeName": "Ville de Zongo",
+      "code": "CD-SU-2310762",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-SU",
+      "latitude": 4.35,
+      "longitude": 18.6
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "stateId": 1168878,
+  "stateCode": "PK-GB",
+  "countryCode": "PK",
+  "cities": [
+    {
+      "id": 8309748,
+      "name": "Astor",
+      "nativeName": "Astor",
+      "code": "PK-GB-8309748",
+      "countryId": 1168579,
+      "countryCode": "PK",
+      "stateCode": "PK-GB",
+      "latitude": 35.31352,
+      "longitude": 74.92388
+    },
+    {
+      "id": 8358421,
+      "name": "Diamer",
+      "nativeName": "Diamīr",
+      "code": "PK-GB-8358421",
+      "countryId": 1168579,
+      "countryCode": "PK",
+      "stateCode": "PK-GB",
+      "latitude": 35.53409,
+      "longitude": 74.03287
+    },
+    {
+      "id": 7419077,
+      "name": "Ghanche",
+      "nativeName": "Ghanche District",
+      "code": "PK-GB-7419077",
+      "countryId": 1168579,
+      "countryCode": "PK",
+      "stateCode": "PK-GB",
+      "latitude": 35.21695,
+      "longitude": 76.42429
+    },
+    {
+      "id": 11594770,
+      "name": "Ghizer District",
+      "nativeName": "Ghizer District",
+      "code": "PK-GB-11594770",
+      "countryId": 1168579,
+      "countryCode": "PK",
+      "stateCode": "PK-GB",
+      "latitude": 36.1667,
+      "longitude": 73.75
+    },
+    {
+      "id": 8358419,
+      "name": "Gilgit",
+      "nativeName": "Gilgit",
+      "code": "PK-GB-8358419",
+      "countryId": 1168579,
+      "countryCode": "PK",
+      "stateCode": "PK-GB",
+      "latitude": 35.88013,
+      "longitude": 74.41232
+    },
+    {
+      "id": 1178336,
+      "name": "Gilgit District",
+      "nativeName": "Gilgit District",
+      "code": "PK-GB-1178336",
+      "countryId": 1168579,
+      "countryCode": "PK",
+      "stateCode": "PK-GB",
+      "latitude": 36.25,
+      "longitude": 74.25
+    },
+    {
+      "id": 1176775,
+      "name": "Hunza-Nagar",
+      "nativeName": "Hunza-Nagar District",
+      "code": "PK-GB-1176775",
+      "countryId": 1168579,
+      "countryCode": "PK",
+      "stateCode": "PK-GB",
+      "latitude": 36.49721,
+      "longitude": 75.00414
+    },
+    {
+      "id": 11744834,
+      "name": "Kharmang District",
+      "nativeName": "Kharmang District",
+      "code": "PK-GB-11744834",
+      "countryId": 1168579,
+      "countryCode": "PK",
+      "stateCode": "PK-GB",
+      "latitude": 34.90302,
+      "longitude": 76.0805
+    },
+    {
+      "id": 11744838,
+      "name": "Nagar District",
+      "nativeName": "Nagar District",
+      "code": "PK-GB-11744838",
+      "countryId": 1168579,
+      "countryCode": "PK",
+      "stateCode": "PK-GB",
+      "latitude": 36.27332,
+      "longitude": 74.62348
+    },
+    {
+      "id": 11744839,
+      "name": "Shigar District",
+      "nativeName": "Shigar District",
+      "code": "PK-GB-11744839",
+      "countryId": 1168579,
+      "countryCode": "PK",
+      "stateCode": "PK-GB",
+      "latitude": 35.76145,
+      "longitude": 75.75074
+    },
+    {
+      "id": 1183615,
+      "name": "Skardu",
+      "nativeName": "Skardu",
+      "code": "PK-GB-1183615",
+      "countryId": 1168579,
+      "countryCode": "PK",
+      "stateCode": "PK-GB",
+      "latitude": 35.40116,
+      "longitude": 75.62633
+    }
+  ]
+}

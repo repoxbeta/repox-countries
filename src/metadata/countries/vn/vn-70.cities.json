@@ -1,0 +1,106 @@
+{
+  "stateId": 1905856,
+  "stateCode": "VN-70",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 8609068,
+      "name": "Bình Xuyên District",
+      "nativeName": "Huyện Bình Xuyên",
+      "code": "VN-70-8609068",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-70",
+      "latitude": 21.30561,
+      "longitude": 105.66225
+    },
+    {
+      "id": 8608648,
+      "name": "Huyện Sông Lô",
+      "nativeName": "Huyện Sông Lô",
+      "code": "VN-70-8608648",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-70",
+      "latitude": 21.43918,
+      "longitude": 105.40744
+    },
+    {
+      "id": 1905575,
+      "name": "Huyện Vĩnh Tường",
+      "nativeName": "Huyện Vĩnh Tường",
+      "code": "VN-70-1905575",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-70",
+      "latitude": 21.24433,
+      "longitude": 105.49683
+    },
+    {
+      "id": 1905576,
+      "name": "Lập Thạch District",
+      "nativeName": "Huyện Lập Thạch",
+      "code": "VN-70-1905576",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-70",
+      "latitude": 21.41878,
+      "longitude": 105.48496
+    },
+    {
+      "id": 8609067,
+      "name": "Tam Dương District",
+      "nativeName": "Huyện Tam Dương",
+      "code": "VN-70-8609067",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-70",
+      "latitude": 21.36189,
+      "longitude": 105.5569
+    },
+    {
+      "id": 1905572,
+      "name": "Tam Đảo District",
+      "nativeName": "Huyện Tam Đảo",
+      "code": "VN-70-1905572",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-70",
+      "latitude": 21.4569,
+      "longitude": 105.5946
+    },
+    {
+      "id": 1905571,
+      "name": "Thành Phố Vĩnh Yên",
+      "nativeName": "Thành Phố Vĩnh Yên",
+      "code": "VN-70-1905571",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-70",
+      "latitude": 21.30538,
+      "longitude": 105.5947
+    },
+    {
+      "id": 11497337,
+      "name": "Thị xã Phúc Yên",
+      "nativeName": "Thị xã Phúc Yên",
+      "code": "VN-70-11497337",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-70",
+      "latitude": 21.23412,
+      "longitude": 105.70208
+    },
+    {
+      "id": 1905574,
+      "name": "Yên Lạc District",
+      "nativeName": "Huyện Yên Lạc",
+      "code": "VN-70-1905574",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-70",
+      "latitude": 21.21845,
+      "longitude": 105.57586
+    }
+  ]
+}

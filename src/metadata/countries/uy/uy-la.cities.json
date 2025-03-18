@@ -1,0 +1,51 @@
+{
+  "stateId": 3442007,
+  "stateCode": "UY-LA",
+  "countryCode": "UY",
+  "cities": [
+    {
+      "id": 11820790,
+      "name": "Jose Batlle Y Ordoñez",
+      "nativeName": "Jose Batlle Y Ordoñez",
+      "code": "UY-LA-11820790",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-LA",
+      "latitude": -33.52753,
+      "longitude": -55.06213
+    },
+    {
+      "id": 11820832,
+      "name": "Jose Pedro Varela",
+      "nativeName": "Jose Pedro Varela",
+      "code": "UY-LA-11820832",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-LA",
+      "latitude": -33.48716,
+      "longitude": -54.49845
+    },
+    {
+      "id": 13107362,
+      "name": "Mariscala",
+      "nativeName": "Mariscala",
+      "code": "UY-LA-13107362",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-LA",
+      "latitude": -33.98242,
+      "longitude": -54.79634
+    },
+    {
+      "id": 11820833,
+      "name": "Solis De Mataojo",
+      "nativeName": "Solis De Mataojo",
+      "code": "UY-LA-11820833",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-LA",
+      "latitude": -34.59378,
+      "longitude": -55.41355
+    }
+  ]
+}

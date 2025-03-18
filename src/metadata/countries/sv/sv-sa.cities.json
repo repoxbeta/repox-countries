@@ -1,0 +1,51 @@
+{
+  "stateId": 3583332,
+  "stateCode": "SV-SA",
+  "countryCode": "SV",
+  "cities": [
+    {
+      "id": 12954164,
+      "name": "Municipio de Santa Ana Centro",
+      "nativeName": "Municipio de Santa Ana Centro",
+      "code": "SV-SA-12954164",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-SA",
+      "latitude": 14,
+      "longitude": -89.5
+    },
+    {
+      "id": 12954165,
+      "name": "Municipio de Santa Ana Este",
+      "nativeName": "Municipio de Santa Ana Este",
+      "code": "SV-SA-12954165",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-SA",
+      "latitude": 13.88501,
+      "longitude": -89.49374
+    },
+    {
+      "id": 12916943,
+      "name": "Santa Ana Norte",
+      "nativeName": "Santa Ana Norte",
+      "code": "SV-SA-12916943",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-SA",
+      "latitude": 14.21553,
+      "longitude": -89.42278
+    },
+    {
+      "id": 12916942,
+      "name": "Santa Ana Oeste",
+      "nativeName": "Santa Ana Oeste",
+      "code": "SV-SA-12916942",
+      "countryId": 3585968,
+      "countryCode": "SV",
+      "stateCode": "SV-SA",
+      "latitude": 14.07536,
+      "longitude": -89.66658
+    }
+  ]
+}

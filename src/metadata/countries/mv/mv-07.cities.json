@@ -1,0 +1,40 @@
+{
+  "stateId": 1282294,
+  "stateCode": "MV-07",
+  "countryCode": "MV",
+  "cities": [
+    {
+      "id": 1337612,
+      "name": "Dhihdhoo",
+      "nativeName": "Dhihdhoo",
+      "code": "MV-07-1337612",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-07",
+      "latitude": 6.88744,
+      "longitude": 73.11402
+    },
+    {
+      "id": 11550509,
+      "name": "Hoarafushi",
+      "nativeName": "Hoarafushi",
+      "code": "MV-07-11550509",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-07",
+      "latitude": 6.98249,
+      "longitude": 72.89585
+    },
+    {
+      "id": 11103186,
+      "name": "Kelaa",
+      "nativeName": "Kelaa",
+      "code": "MV-07-11103186",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-07",
+      "latitude": 6.95437,
+      "longitude": 73.21615
+    }
+  ]
+}

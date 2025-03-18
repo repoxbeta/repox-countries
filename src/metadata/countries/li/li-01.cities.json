@@ -1,0 +1,29 @@
+{
+  "stateId": 3042074,
+  "stateCode": "LI-01",
+  "countryCode": "LI",
+  "cities": [
+    {
+      "id": 3042073,
+      "name": "Balzers",
+      "nativeName": "Balzers",
+      "code": "LI-01-3042073",
+      "countryId": 3042058,
+      "countryCode": "LI",
+      "stateCode": "LI-01",
+      "latitude": 47.06665,
+      "longitude": 9.50251
+    },
+    {
+      "id": 3315349,
+      "name": "Mäls",
+      "nativeName": "Mäls",
+      "code": "LI-01-3315349",
+      "countryId": 3042058,
+      "countryCode": "LI",
+      "stateCode": "LI-01",
+      "latitude": 47.06105,
+      "longitude": 9.49568
+    }
+  ]
+}

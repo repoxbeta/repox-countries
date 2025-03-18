@@ -1,0 +1,150 @@
+{
+  "stateId": 3343954,
+  "stateCode": "SK-BC",
+  "countryCode": "SK",
+  "cities": [
+    {
+      "id": 3061185,
+      "name": "Banská Bystrica District",
+      "nativeName": "Okres Banská Bystrica",
+      "code": "SK-BC-3061185",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-BC",
+      "latitude": 48.73333,
+      "longitude": 19.15
+    },
+    {
+      "id": 8986281,
+      "name": "Banská Štiavnica District",
+      "nativeName": "Okres Banská Štiavnica",
+      "code": "SK-BC-8986281",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-BC",
+      "latitude": 48.44961,
+      "longitude": 18.9082
+    },
+    {
+      "id": 3060949,
+      "name": "Brezno District",
+      "nativeName": "Okres Brezno",
+      "code": "SK-BC-3060949",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-BC",
+      "latitude": 48.8,
+      "longitude": 19.75
+    },
+    {
+      "id": 8986285,
+      "name": "Detva District",
+      "nativeName": "Okres Detva",
+      "code": "SK-BC-8986285",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-BC",
+      "latitude": 48.55985,
+      "longitude": 19.42044
+    },
+    {
+      "id": 8986289,
+      "name": "Krupina District",
+      "nativeName": "Okres Krupina",
+      "code": "SK-BC-8986289",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-BC",
+      "latitude": 48.35736,
+      "longitude": 19.06334
+    },
+    {
+      "id": 3058984,
+      "name": "Lučenec District",
+      "nativeName": "Okres Lučenec",
+      "code": "SK-BC-3058984",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-BC",
+      "latitude": 48.33333,
+      "longitude": 19.66667
+    },
+    {
+      "id": 723735,
+      "name": "Okres Rimavská Sobota",
+      "nativeName": "Okres Rimavská Sobota",
+      "code": "SK-BC-723735",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-BC",
+      "latitude": 48.38333,
+      "longitude": 20.03333
+    },
+    {
+      "id": 3056522,
+      "name": "Okres Žiar nad Hronom",
+      "nativeName": "Okres Žiar nad Hronom",
+      "code": "SK-BC-3056522",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-BC",
+      "latitude": 48.58333,
+      "longitude": 18.86667
+    },
+    {
+      "id": 8986296,
+      "name": "Poltár District",
+      "nativeName": "Okres Poltár",
+      "code": "SK-BC-8986296",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-BC",
+      "latitude": 48.42895,
+      "longitude": 19.79488
+    },
+    {
+      "id": 8986299,
+      "name": "Revúca District",
+      "nativeName": "Okres Revúca",
+      "code": "SK-BC-8986299",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-BC",
+      "latitude": 48.683,
+      "longitude": 20.11568
+    },
+    {
+      "id": 3056824,
+      "name": "Veľký Krtíš District",
+      "nativeName": "Okres Veľký Krtíš",
+      "code": "SK-BC-3056824",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-BC",
+      "latitude": 48.2,
+      "longitude": 19.35
+    },
+    {
+      "id": 3056458,
+      "name": "Zvolen District",
+      "nativeName": "Okres Zvolen",
+      "code": "SK-BC-3056458",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-BC",
+      "latitude": 48.58333,
+      "longitude": 19.13333
+    },
+    {
+      "id": 8986334,
+      "name": "Žarnovica District",
+      "nativeName": "Okres Žarnovica",
+      "code": "SK-BC-8986334",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-BC",
+      "latitude": 48.48438,
+      "longitude": 18.72076
+    }
+  ]
+}

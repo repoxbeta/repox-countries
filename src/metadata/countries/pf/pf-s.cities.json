@@ -1,0 +1,84 @@
+{
+  "stateId": 4034364,
+  "stateCode": "PF-S",
+  "countryCode": "PF",
+  "cities": [
+    {
+      "id": 10295377,
+      "name": "Bora-Bora",
+      "nativeName": "Bora-Bora",
+      "code": "PF-S-10295377",
+      "countryId": 4030656,
+      "countryCode": "PF",
+      "stateCode": "PF-S",
+      "latitude": -16.4948,
+      "longitude": -151.74359
+    },
+    {
+      "id": 10295378,
+      "name": "Huahine",
+      "nativeName": "Huahine",
+      "code": "PF-S-10295378",
+      "countryId": 4030656,
+      "countryCode": "PF",
+      "stateCode": "PF-S",
+      "latitude": -16.75208,
+      "longitude": -151.02961
+    },
+    {
+      "id": 10295379,
+      "name": "Maupiti",
+      "nativeName": "Maupiti",
+      "code": "PF-S-10295379",
+      "countryId": 4030656,
+      "countryCode": "PF",
+      "stateCode": "PF-S",
+      "latitude": -16.44606,
+      "longitude": -152.256
+    },
+    {
+      "id": 10295380,
+      "name": "Tahaa",
+      "nativeName": "Tahaa",
+      "code": "PF-S-10295380",
+      "countryId": 4030656,
+      "countryCode": "PF",
+      "stateCode": "PF-S",
+      "latitude": -16.63041,
+      "longitude": -151.50164
+    },
+    {
+      "id": 10297427,
+      "name": "Taputapuatea",
+      "nativeName": "Taputapuatea",
+      "code": "PF-S-10297427",
+      "countryId": 4030656,
+      "countryCode": "PF",
+      "stateCode": "PF-S",
+      "latitude": -16.8465,
+      "longitude": -151.3801
+    },
+    {
+      "id": 10297428,
+      "name": "Tumaraa",
+      "nativeName": "Tumaraa",
+      "code": "PF-S-10297428",
+      "countryId": 4030656,
+      "countryCode": "PF",
+      "stateCode": "PF-S",
+      "latitude": -16.79112,
+      "longitude": -151.4867
+    },
+    {
+      "id": 10295384,
+      "name": "Uturoa",
+      "nativeName": "Uturoa",
+      "code": "PF-S-10295384",
+      "countryId": 4030656,
+      "countryCode": "PF",
+      "stateCode": "PF-S",
+      "latitude": -16.73145,
+      "longitude": -151.44615
+    }
+  ]
+}

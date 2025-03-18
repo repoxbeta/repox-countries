@@ -1,0 +1,106 @@
+{
+  "stateId": 147435,
+  "stateCode": "AZ-NX",
+  "countryCode": "AZ",
+  "cities": [
+    {
+      "id": 7669114,
+      "name": "Babek Rayon",
+      "nativeName": "Babek Rayon",
+      "code": "AZ-NX-7669114",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-NX",
+      "latitude": 39.29,
+      "longitude": 45.39
+    },
+    {
+      "id": 148132,
+      "name": "Julfa Rayon",
+      "nativeName": "Julfa Rayon",
+      "code": "AZ-NX-148132",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-NX",
+      "latitude": 39.16667,
+      "longitude": 45.66667
+    },
+    {
+      "id": 8014931,
+      "name": "Kangarli Rayon",
+      "nativeName": "Kangarli Rayon",
+      "code": "AZ-NX-8014931",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-NX",
+      "latitude": 39.42081,
+      "longitude": 45.13527
+    },
+    {
+      "id": 8411069,
+      "name": "Nakhchivan",
+      "nativeName": "Nakhchivan",
+      "code": "AZ-NX-8411069",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-NX",
+      "latitude": 39.2,
+      "longitude": 45.41667
+    },
+    {
+      "id": 148412,
+      "name": "Nakhchivan City",
+      "nativeName": "Nakhchivan City",
+      "code": "AZ-NX-148412",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-NX",
+      "latitude": 39.20938,
+      "longitude": 45.41748
+    },
+    {
+      "id": 147365,
+      "name": "Ordubad Rayon",
+      "nativeName": "Ordubad Rayon",
+      "code": "AZ-NX-147365",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-NX",
+      "latitude": 39.08333,
+      "longitude": 45.91667
+    },
+    {
+      "id": 409387,
+      "name": "Sadarak Rayon",
+      "nativeName": "Sadarak Rayon",
+      "code": "AZ-NX-409387",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-NX",
+      "latitude": 39.7,
+      "longitude": 44.86667
+    },
+    {
+      "id": 147212,
+      "name": "Shahbuz Rayon",
+      "nativeName": "Shahbuz Rayon",
+      "code": "AZ-NX-147212",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-NX",
+      "latitude": 39.41667,
+      "longitude": 45.58333
+    },
+    {
+      "id": 147997,
+      "name": "Sharur Rayon",
+      "nativeName": "Sharur Rayon",
+      "code": "AZ-NX-147997",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-NX",
+      "latitude": 39.5,
+      "longitude": 45.08333
+    }
+  ]
+}

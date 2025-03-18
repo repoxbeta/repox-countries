@@ -1,0 +1,84 @@
+{
+  "stateId": 1621034,
+  "stateCode": "TH-15",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 1611404,
+      "name": "Chaiyo",
+      "nativeName": "Amphoe Chaiyo",
+      "code": "TH-15-1611404",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-15",
+      "latitude": 14.67225,
+      "longitude": 100.46786
+    },
+    {
+      "id": 1608665,
+      "name": "Mueang Ang Thong",
+      "nativeName": "Amphoe Mueang Ang Thong",
+      "code": "TH-15-1608665",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-15",
+      "latitude": 14.57815,
+      "longitude": 100.44393
+    },
+    {
+      "id": 1608010,
+      "name": "Pa Mok",
+      "nativeName": "Amphoe Pa Mok",
+      "code": "TH-15-1608010",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-15",
+      "latitude": 14.4862,
+      "longitude": 100.4573
+    },
+    {
+      "id": 1607578,
+      "name": "Pho Thong",
+      "nativeName": "Amphoe Pho Thong",
+      "code": "TH-15-1607578",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-15",
+      "latitude": 14.67344,
+      "longitude": 100.34569
+    },
+    {
+      "id": 1606683,
+      "name": "Samko",
+      "nativeName": "Amphoe Sam Ko",
+      "code": "TH-15-1606683",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-15",
+      "latitude": 14.59982,
+      "longitude": 100.25404
+    },
+    {
+      "id": 1606373,
+      "name": "Sawaeng Ha",
+      "nativeName": "Amphoe Sawaeng Ha",
+      "code": "TH-15-1606373",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-15",
+      "latitude": 14.74635,
+      "longitude": 100.28963
+    },
+    {
+      "id": 1605017,
+      "name": "Wiset Chai Chan",
+      "nativeName": "Amphoe Wiset Chai Chan",
+      "code": "TH-15-1605017",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-15",
+      "latitude": 14.5499,
+      "longitude": 100.31743
+    }
+  ]
+}

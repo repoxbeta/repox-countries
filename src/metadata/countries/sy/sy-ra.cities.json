@@ -1,0 +1,40 @@
+{
+  "stateId": 172957,
+  "stateCode": "SY-RA",
+  "countryCode": "SY",
+  "cities": [
+    {
+      "id": 8276864,
+      "name": "Al-Thawrah District",
+      "nativeName": "Al-Thawrah District",
+      "code": "SY-RA-8276864",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-RA",
+      "latitude": 35.79843,
+      "longitude": 38.3455
+    },
+    {
+      "id": 172956,
+      "name": "Ar-Raqqah District",
+      "nativeName": "Ar-Raqqah District",
+      "code": "SY-RA-172956",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-RA",
+      "latitude": 35.87204,
+      "longitude": 39.04706
+    },
+    {
+      "id": 7905857,
+      "name": "Tell Abyad District",
+      "nativeName": "Tell Abyad District",
+      "code": "SY-RA-7905857",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-RA",
+      "latitude": 36.4828,
+      "longitude": 39.2136
+    }
+  ]
+}

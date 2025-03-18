@@ -1,0 +1,62 @@
+{
+  "stateId": 3239272,
+  "stateCode": "SI-056",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3196842,
+      "name": "Kuzma",
+      "nativeName": "Kuzma",
+      "code": "SI-056-3196842",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-056",
+      "latitude": 46.83694,
+      "longitude": 16.08333
+    },
+    {
+      "id": 3201803,
+      "name": "Dolič",
+      "nativeName": "Dolič",
+      "code": "SI-056-3201803",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-056",
+      "latitude": 46.83655,
+      "longitude": 16.10722
+    },
+    {
+      "id": 3199921,
+      "name": "Gornji Slaveči",
+      "nativeName": "Gornji Slaveči",
+      "code": "SI-056-3199921",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-056",
+      "latitude": 46.81667,
+      "longitude": 16.06667
+    },
+    {
+      "id": 3195370,
+      "name": "Matjaševci",
+      "nativeName": "Matjaševci",
+      "code": "SI-056-3195370",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-056",
+      "latitude": 46.85,
+      "longitude": 16.1
+    },
+    {
+      "id": 3188907,
+      "name": "Trdkova",
+      "nativeName": "Trdkova",
+      "code": "SI-056-3188907",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-056",
+      "latitude": 46.85327,
+      "longitude": 16.12767
+    }
+  ]
+}

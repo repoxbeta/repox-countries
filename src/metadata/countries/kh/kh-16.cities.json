@@ -1,0 +1,106 @@
+{
+  "stateId": 1822449,
+  "stateCode": "KH-16",
+  "countryCode": "KH",
+  "cities": [
+    {
+      "id": 8405025,
+      "name": "Andoung Meas",
+      "nativeName": "Srŏk Ândong Méas",
+      "code": "KH-16-8405025",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-16",
+      "latitude": 13.93352,
+      "longitude": 107.31155
+    },
+    {
+      "id": 8405027,
+      "name": "Bar Kaev",
+      "nativeName": "Srŏk Bâ Kêv",
+      "code": "KH-16-8405027",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-16",
+      "latitude": 13.70749,
+      "longitude": 107.19442
+    },
+    {
+      "id": 8405028,
+      "name": "Koun Mom",
+      "nativeName": "Srŏk Koun Mom",
+      "code": "KH-16-8405028",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-16",
+      "latitude": 13.51772,
+      "longitude": 106.75142
+    },
+    {
+      "id": 8405026,
+      "name": "Krong Ban Lung",
+      "nativeName": "Srŏk Ban Lŭng",
+      "code": "KH-16-8405026",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-16",
+      "latitude": 13.682,
+      "longitude": 107.03025
+    },
+    {
+      "id": 9253799,
+      "name": "Lumphat",
+      "nativeName": "Lumphat",
+      "code": "KH-16-9253799",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-16",
+      "latitude": 13.42306,
+      "longitude": 107.08465
+    },
+    {
+      "id": 8405029,
+      "name": "Ou Chum",
+      "nativeName": "Srŏk Ou Chum",
+      "code": "KH-16-8405029",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-16",
+      "latitude": 13.84069,
+      "longitude": 107.03469
+    },
+    {
+      "id": 8405030,
+      "name": "Ou Ya Dav",
+      "nativeName": "Srŏk Ou Ya Dav",
+      "code": "KH-16-8405030",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-16",
+      "latitude": 13.54328,
+      "longitude": 107.44636
+    },
+    {
+      "id": 8405031,
+      "name": "Ta Veaeng",
+      "nativeName": "Srŏk Ta Vêng",
+      "code": "KH-16-8405031",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-16",
+      "latitude": 14.29192,
+      "longitude": 107.24031
+    },
+    {
+      "id": 9253800,
+      "name": "Veun Sai",
+      "nativeName": "Veun Sai",
+      "code": "KH-16-9253800",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-16",
+      "latitude": 14.0502,
+      "longitude": 106.85891
+    }
+  ]
+}

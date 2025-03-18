@@ -1,0 +1,205 @@
+{
+  "stateId": 7280291,
+  "stateCode": "TW-04",
+  "countryCode": "TW",
+  "cities": [
+    {
+      "id": 1679134,
+      "name": "Changhua",
+      "nativeName": "Changhua",
+      "code": "TW-04-1679134",
+      "countryId": 1668284,
+      "countryCode": "TW",
+      "stateCode": "TW-04",
+      "latitude": 23.95361,
+      "longitude": 120.49083
+    },
+    {
+      "id": 1678834,
+      "name": "Chiayi",
+      "nativeName": "Chiayi",
+      "code": "TW-04-1678834",
+      "countryId": 1668284,
+      "countryCode": "TW",
+      "stateCode": "TW-04",
+      "latitude": 23.47722,
+      "longitude": 120.44527
+    },
+    {
+      "id": 1678835,
+      "name": "Chiyayi County",
+      "nativeName": "Chiayi County",
+      "code": "TW-04-1678835",
+      "countryId": 1668284,
+      "countryCode": "TW",
+      "stateCode": "TW-04",
+      "latitude": 23.46333,
+      "longitude": 120.58166
+    },
+    {
+      "id": 1675103,
+      "name": "Hsinchu City",
+      "nativeName": "Hsinchu",
+      "code": "TW-04-1675103",
+      "countryId": 1668284,
+      "countryCode": "TW",
+      "stateCode": "TW-04",
+      "latitude": 24.81472,
+      "longitude": 120.96722
+    },
+    {
+      "id": 1675107,
+      "name": "Hsinchu County",
+      "nativeName": "Hsinchu County",
+      "code": "TW-04-1675107",
+      "countryId": 1668284,
+      "countryCode": "TW",
+      "stateCode": "TW-04",
+      "latitude": 24.67416,
+      "longitude": 121.16111
+    },
+    {
+      "id": 1674502,
+      "name": "Hualien County",
+      "nativeName": "Hualien",
+      "code": "TW-04-1674502",
+      "countryId": 1668284,
+      "countryCode": "TW",
+      "stateCode": "TW-04",
+      "latitude": 23.78166,
+      "longitude": 121.39333
+    },
+    {
+      "id": 6724654,
+      "name": "Keelung City",
+      "nativeName": "Keelung",
+      "code": "TW-04-6724654",
+      "countryId": 1668284,
+      "countryCode": "TW",
+      "stateCode": "TW-04",
+      "latitude": 25.11486,
+      "longitude": 121.68987
+    },
+    {
+      "id": 1671968,
+      "name": "Miaoli",
+      "nativeName": "Miaoli",
+      "code": "TW-04-1671968",
+      "countryId": 1668284,
+      "countryCode": "TW",
+      "stateCode": "TW-04",
+      "latitude": 24.48972,
+      "longitude": 120.90638
+    },
+    {
+      "id": 1671564,
+      "name": "Nantou",
+      "nativeName": "Nantou",
+      "code": "TW-04-1671564",
+      "countryId": 1668284,
+      "countryCode": "TW",
+      "stateCode": "TW-04",
+      "latitude": 23.83419,
+      "longitude": 120.92704
+    },
+    {
+      "id": 1670651,
+      "name": "Penghu County",
+      "nativeName": "Penghu County",
+      "code": "TW-04-1670651",
+      "countryId": 1668284,
+      "countryCode": "TW",
+      "stateCode": "TW-04",
+      "latitude": 23.57111,
+      "longitude": 119.61138
+    },
+    {
+      "id": 1670479,
+      "name": "Pingtung",
+      "nativeName": "Pingtung",
+      "code": "TW-04-1670479",
+      "countryId": 1668284,
+      "countryCode": "TW",
+      "stateCode": "TW-04",
+      "latitude": 22.49555,
+      "longitude": 120.61444
+    },
+    {
+      "id": 9613500,
+      "name": "Taichung City",
+      "nativeName": "Taichung City",
+      "code": "TW-04-9613500",
+      "countryId": 1668284,
+      "countryCode": "TW",
+      "stateCode": "TW-04",
+      "latitude": 24.15472,
+      "longitude": 120.67297
+    },
+    {
+      "id": 1668352,
+      "name": "Tainan",
+      "nativeName": "Tainan",
+      "code": "TW-04-1668352",
+      "countryId": 1668284,
+      "countryCode": "TW",
+      "stateCode": "TW-04",
+      "latitude": 23.00002,
+      "longitude": 120.18876
+    },
+    {
+      "id": 1668338,
+      "name": "Taipei City",
+      "nativeName": "Taipei City",
+      "code": "TW-04-1668338",
+      "countryId": 1668284,
+      "countryCode": "TW",
+      "stateCode": "TW-04",
+      "latitude": 25.083,
+      "longitude": 121.55331
+    },
+    {
+      "id": 1668292,
+      "name": "Taitung",
+      "nativeName": "Taitung",
+      "code": "TW-04-1668292",
+      "countryId": 1668284,
+      "countryCode": "TW",
+      "stateCode": "TW-04",
+      "latitude": 22.88361,
+      "longitude": 121.04833
+    },
+    {
+      "id": 1667900,
+      "name": "Taoyuan",
+      "nativeName": "Taoyuan",
+      "code": "TW-04-1667900",
+      "countryId": 1668284,
+      "countryCode": "TW",
+      "stateCode": "TW-04",
+      "latitude": 24.895,
+      "longitude": 121.24611
+    },
+    {
+      "id": 1674197,
+      "name": "Yilan County",
+      "nativeName": "Yilan",
+      "code": "TW-04-1674197",
+      "countryId": 1668284,
+      "countryCode": "TW",
+      "stateCode": "TW-04",
+      "latitude": 24.5425,
+      "longitude": 121.63361
+    },
+    {
+      "id": 1665194,
+      "name": "Yunlin",
+      "nativeName": "Yunlin",
+      "code": "TW-04-1665194",
+      "countryId": 1668284,
+      "countryCode": "TW",
+      "stateCode": "TW-04",
+      "latitude": 23.70701,
+      "longitude": 120.38481
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "stateId": 7521945,
+  "stateCode": "TT-SIP",
+  "countryCode": "TT",
+  "cities": [
+    {
+      "id": 3574824,
+      "name": "Ward of Cedros",
+      "nativeName": "Ward of Cedros",
+      "code": "TT-SIP-3574824",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-SIP",
+      "latitude": 10.09802,
+      "longitude": -61.79996
+    },
+    {
+      "id": 3574590,
+      "name": "Ward of Erin",
+      "nativeName": "Ward of Erin",
+      "code": "TT-SIP-3574590",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-SIP",
+      "latitude": 10.08333,
+      "longitude": -61.63333
+    },
+    {
+      "id": 3574352,
+      "name": "Ward of La Brea",
+      "nativeName": "Ward of La Brea",
+      "code": "TT-SIP-3574352",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-SIP",
+      "latitude": 10.16667,
+      "longitude": -61.65
+    },
+    {
+      "id": 3573680,
+      "name": "Ward of Siparia",
+      "nativeName": "Ward of Siparia",
+      "code": "TT-SIP-3573680",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-SIP",
+      "latitude": 10.15,
+      "longitude": -61.46667
+    }
+  ]
+}

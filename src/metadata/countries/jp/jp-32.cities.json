@@ -1,0 +1,150 @@
+{
+  "stateId": 1852442,
+  "stateCode": "JP-32",
+  "countryCode": "JP",
+  "cities": [
+    {
+      "id": 1863519,
+      "name": "Gōtsu Shi",
+      "nativeName": "Gōtsu Shi",
+      "code": "JP-32-1863519",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-32",
+      "latitude": 34.98095,
+      "longitude": 132.29488
+    },
+    {
+      "id": 1863308,
+      "name": "Hamada Shi",
+      "nativeName": "Hamada Shi",
+      "code": "JP-32-1863308",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-32",
+      "latitude": 34.82809,
+      "longitude": 132.13914
+    },
+    {
+      "id": 7392547,
+      "name": "Ishii Gun",
+      "nativeName": "Ishii Gun",
+      "code": "JP-32-7392547",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-32",
+      "latitude": 35.06171,
+      "longitude": 132.73326
+    },
+    {
+      "id": 1861082,
+      "name": "Izumo Shi",
+      "nativeName": "Izumo Shi",
+      "code": "JP-32-1861082",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-32",
+      "latitude": 35.33858,
+      "longitude": 132.73903
+    },
+    {
+      "id": 7392549,
+      "name": "Kanoashi Gun",
+      "nativeName": "Kanoashi Gun",
+      "code": "JP-32-7392549",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-32",
+      "latitude": 34.45316,
+      "longitude": 131.84784
+    },
+    {
+      "id": 1857590,
+      "name": "Masuda Shi",
+      "nativeName": "Masuda Shi",
+      "code": "JP-32-1857590",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-32",
+      "latitude": 34.62909,
+      "longitude": 131.9459
+    },
+    {
+      "id": 1857549,
+      "name": "Matsue Shi",
+      "nativeName": "Matsue Shi",
+      "code": "JP-32-1857549",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-32",
+      "latitude": 35.47702,
+      "longitude": 133.05917
+    },
+    {
+      "id": 7392548,
+      "name": "Nita Gun",
+      "nativeName": "Nita Gun",
+      "code": "JP-32-7392548",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-32",
+      "latitude": 35.16,
+      "longitude": 133.03898
+    },
+    {
+      "id": 1854361,
+      "name": "Oki District",
+      "nativeName": "Oki-gun",
+      "code": "JP-32-1854361",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-32",
+      "latitude": 36.20134,
+      "longitude": 133.22056
+    },
+    {
+      "id": 7392557,
+      "name": "Unnan Shi",
+      "nativeName": "Unnan Shi",
+      "code": "JP-32-7392557",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-32",
+      "latitude": 35.24918,
+      "longitude": 132.89478
+    },
+    {
+      "id": 7392558,
+      "name": "Yasugi Shi",
+      "nativeName": "Yasugi Shi",
+      "code": "JP-32-7392558",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-32",
+      "latitude": 35.3357,
+      "longitude": 133.19761
+    },
+    {
+      "id": 1854781,
+      "name": "Ōchi Gun",
+      "nativeName": "Ōchi Gun",
+      "code": "JP-32-1854781",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-32",
+      "latitude": 34.94634,
+      "longitude": 132.53138
+    },
+    {
+      "id": 1854750,
+      "name": "Ōda Shi",
+      "nativeName": "Ōda Shi",
+      "code": "JP-32-1854750",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-32",
+      "latitude": 35.13958,
+      "longitude": 132.48811
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "stateId": 1848938,
+  "stateCode": "JP-30",
+  "countryCode": "JP",
+  "cities": [
+    {
+      "id": 1865121,
+      "name": "Arida Shi",
+      "nativeName": "Arida Shi",
+      "code": "JP-30-1865121",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-30",
+      "latitude": 34.07937,
+      "longitude": 135.1423
+    },
+    {
+      "id": 1865123,
+      "name": "Arida-gun",
+      "nativeName": "Arida-gun",
+      "code": "JP-30-1865123",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-30",
+      "latitude": 34.06154,
+      "longitude": 135.33422
+    },
+    {
+      "id": 7411112,
+      "name": "Gobō Shi",
+      "nativeName": "Gobō Shi",
+      "code": "JP-30-7411112",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-30",
+      "latitude": 33.88043,
+      "longitude": 135.17607
+    },
+    {
+      "id": 1863079,
+      "name": "Hashimoto Shi",
+      "nativeName": "Hashimoto Shi",
+      "code": "JP-30-1863079",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-30",
+      "latitude": 34.32417,
+      "longitude": 135.61045
+    },
+    {
+      "id": 1862875,
+      "name": "Hidaka-gun",
+      "nativeName": "Hidaka-gun",
+      "code": "JP-30-1862875",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-30",
+      "latitude": 33.9173,
+      "longitude": 135.31108
+    },
+    {
+      "id": 1862767,
+      "name": "Higashimuro-gun",
+      "nativeName": "Higashimuro-gun",
+      "code": "JP-30-1862767",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-30",
+      "latitude": 33.62473,
+      "longitude": 135.79688
+    },
+    {
+      "id": 1861287,
+      "name": "Ito-gun",
+      "nativeName": "Ito-gun",
+      "code": "JP-30-1861287",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-30",
+      "latitude": 34.23163,
+      "longitude": 135.56146
+    },
+    {
+      "id": 7411113,
+      "name": "Iwade Shi",
+      "nativeName": "Iwade Shi",
+      "code": "JP-30-7411113",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-30",
+      "latitude": 34.28089,
+      "longitude": 135.3056
+    },
+    {
+      "id": 1860782,
+      "name": "Kainan Shi",
+      "nativeName": "Kainan Shi",
+      "code": "JP-30-1860782",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-30",
+      "latitude": 34.14182,
+      "longitude": 135.224
+    },
+    {
+      "id": 1860774,
+      "name": "Kaisō-gun",
+      "nativeName": "Kaisō-gun",
+      "code": "JP-30-1860774",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-30",
+      "latitude": 34.15679,
+      "longitude": 135.38729
+    },
+    {
+      "id": 7411114,
+      "name": "Kinokawa Shi",
+      "nativeName": "Kinokawa Shi",
+      "code": "JP-30-7411114",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-30",
+      "latitude": 34.254,
+      "longitude": 135.39412
+    },
+    {
+      "id": 1855225,
+      "name": "Nishimuro-gun",
+      "nativeName": "Nishimuro-gun",
+      "code": "JP-30-1855225",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-30",
+      "latitude": 33.62201,
+      "longitude": 135.51112
+    },
+    {
+      "id": 1852105,
+      "name": "Shingū Shi",
+      "nativeName": "Shingū Shi",
+      "code": "JP-30-1852105",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-30",
+      "latitude": 33.76663,
+      "longitude": 135.85863
+    },
+    {
+      "id": 1850706,
+      "name": "Tanabe Shi",
+      "nativeName": "Tanabe Shi",
+      "code": "JP-30-1850706",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-30",
+      "latitude": 33.82731,
+      "longitude": 135.57786
+    },
+    {
+      "id": 1848936,
+      "name": "Wakayama Shi",
+      "nativeName": "Wakayama Shi",
+      "code": "JP-30-1848936",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-30",
+      "latitude": 34.24252,
+      "longitude": 135.19595
+    }
+  ]
+}

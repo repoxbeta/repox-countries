@@ -1,0 +1,84 @@
+{
+  "stateId": 721589,
+  "stateCode": "HU-CS",
+  "countryCode": "HU",
+  "cities": [
+    {
+      "id": 9644279,
+      "name": "Csongrádi Járás",
+      "nativeName": "Csongrádi Járás",
+      "code": "HU-CS-9644279",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-CS",
+      "latitude": 46.66146,
+      "longitude": 20.08792
+    },
+    {
+      "id": 9644278,
+      "name": "Hódmezővásárhelyi Járás",
+      "nativeName": "Hódmezővásárhelyi Járás",
+      "code": "HU-CS-9644278",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-CS",
+      "latitude": 46.43301,
+      "longitude": 20.37598
+    },
+    {
+      "id": 9644277,
+      "name": "Kisteleki Járás",
+      "nativeName": "Kisteleki Járás",
+      "code": "HU-CS-9644277",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-CS",
+      "latitude": 46.48835,
+      "longitude": 19.99568
+    },
+    {
+      "id": 9644276,
+      "name": "Makói Járás",
+      "nativeName": "Makói Járás",
+      "code": "HU-CS-9644276",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-CS",
+      "latitude": 46.26698,
+      "longitude": 20.542
+    },
+    {
+      "id": 9644274,
+      "name": "Mórahalmi Járás",
+      "nativeName": "Mórahalmi Járás",
+      "code": "HU-CS-9644274",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-CS",
+      "latitude": 46.2684,
+      "longitude": 19.82256
+    },
+    {
+      "id": 9644275,
+      "name": "Szegedi Járás",
+      "nativeName": "Szegedi Járás",
+      "code": "HU-CS-9644275",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-CS",
+      "latitude": 46.29536,
+      "longitude": 20.13758
+    },
+    {
+      "id": 9644280,
+      "name": "Szentesi Járás",
+      "nativeName": "Szentesi Járás",
+      "code": "HU-CS-9644280",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-CS",
+      "latitude": 46.66005,
+      "longitude": 20.37314
+    }
+  ]
+}

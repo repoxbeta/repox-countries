@@ -1,0 +1,106 @@
+{
+  "stateId": 1899273,
+  "stateCode": "KH-1",
+  "countryCode": "KH",
+  "cities": [
+    {
+      "id": 8403890,
+      "name": "Krong Paoy Paet",
+      "nativeName": "Krŏng Paôy Pêt",
+      "code": "KH-1-8403890",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-1",
+      "latitude": 13.65685,
+      "longitude": 102.59921
+    },
+    {
+      "id": 8740323,
+      "name": "Krong Serei Saophoan",
+      "nativeName": "Serei Saophoan",
+      "code": "KH-1-8740323",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-1",
+      "latitude": 13.62114,
+      "longitude": 102.96327
+    },
+    {
+      "id": 8403557,
+      "name": "Malai",
+      "nativeName": "Srŏk Malai",
+      "code": "KH-1-8403557",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-1",
+      "latitude": 13.49902,
+      "longitude": 102.60164
+    },
+    {
+      "id": 9253711,
+      "name": "Mongkol Borei",
+      "nativeName": "Mongkol Borei",
+      "code": "KH-1-9253711",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-1",
+      "latitude": 13.45531,
+      "longitude": 102.99186
+    },
+    {
+      "id": 8740317,
+      "name": "Ou Chrov",
+      "nativeName": "Ou Chrov District",
+      "code": "KH-1-8740317",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-1",
+      "latitude": 13.66724,
+      "longitude": 102.82004
+    },
+    {
+      "id": 9253715,
+      "name": "Phnum Srok",
+      "nativeName": "Phnom Srok",
+      "code": "KH-1-9253715",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-1",
+      "latitude": 13.82046,
+      "longitude": 103.32064
+    },
+    {
+      "id": 9253716,
+      "name": "Preah Netr Preah",
+      "nativeName": "Preah Netr Preah",
+      "code": "KH-1-9253716",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-1",
+      "latitude": 13.57271,
+      "longitude": 103.24747
+    },
+    {
+      "id": 8403556,
+      "name": "Svay Chek",
+      "nativeName": "Srŏk Svay Chék",
+      "code": "KH-1-8403556",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-1",
+      "latitude": 13.81305,
+      "longitude": 102.95269
+    },
+    {
+      "id": 1821743,
+      "name": "Thma Puok",
+      "nativeName": "Srŏk Thmâ Pôk",
+      "code": "KH-1-1821743",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-1",
+      "latitude": 13.95,
+      "longitude": 103
+    }
+  ]
+}

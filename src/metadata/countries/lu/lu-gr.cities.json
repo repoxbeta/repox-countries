@@ -1,0 +1,95 @@
+{
+  "stateId": 2960514,
+  "stateCode": "LU-GR",
+  "countryCode": "LU",
+  "cities": [
+    {
+      "id": 6693341,
+      "name": "Betzdorf",
+      "nativeName": "Betzdorf",
+      "code": "LU-GR-6693341",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-GR",
+      "latitude": 49.68333,
+      "longitude": 6.35
+    },
+    {
+      "id": 6693342,
+      "name": "Biwer",
+      "nativeName": "Biwer",
+      "code": "LU-GR-6693342",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-GR",
+      "latitude": 49.70278,
+      "longitude": 6.37472
+    },
+    {
+      "id": 6693343,
+      "name": "Flaxweiler",
+      "nativeName": "Flaxweiler",
+      "code": "LU-GR-6693343",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-GR",
+      "latitude": 49.66167,
+      "longitude": 6.34361
+    },
+    {
+      "id": 2960516,
+      "name": "Grevenmacher",
+      "nativeName": "Grevenmacher",
+      "code": "LU-GR-2960516",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-GR",
+      "latitude": 49.67459,
+      "longitude": 6.41269
+    },
+    {
+      "id": 6693344,
+      "name": "Junglinster",
+      "nativeName": "Junglinster",
+      "code": "LU-GR-6693344",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-GR",
+      "latitude": 49.70722,
+      "longitude": 6.25306
+    },
+    {
+      "id": 6693345,
+      "name": "Manternach",
+      "nativeName": "Manternach",
+      "code": "LU-GR-6693345",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-GR",
+      "latitude": 49.70278,
+      "longitude": 6.42639
+    },
+    {
+      "id": 6693346,
+      "name": "Mertert",
+      "nativeName": "Mertert",
+      "code": "LU-GR-6693346",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-GR",
+      "latitude": 49.701,
+      "longitude": 6.48043
+    },
+    {
+      "id": 6693347,
+      "name": "Wormeldange",
+      "nativeName": "Wormeldange",
+      "code": "LU-GR-6693347",
+      "countryId": 2960313,
+      "countryCode": "LU",
+      "stateCode": "LU-GR",
+      "latitude": 49.61199,
+      "longitude": 6.40531
+    }
+  ]
+}

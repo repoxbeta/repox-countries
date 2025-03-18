@@ -1,0 +1,128 @@
+{
+  "stateId": 2468351,
+  "stateCode": "TN-71",
+  "countryCode": "TN",
+  "cities": [
+    {
+      "id": 11106652,
+      "name": "Belkhir",
+      "nativeName": "Belkhir",
+      "code": "TN-71-11106652",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-71",
+      "latitude": 34.33201,
+      "longitude": 9.40447
+    },
+    {
+      "id": 2468046,
+      "name": "EL Guetar",
+      "nativeName": "El Guetar",
+      "code": "TN-71-2468046",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-71",
+      "latitude": 34.28949,
+      "longitude": 9.02349
+    },
+    {
+      "id": 11106651,
+      "name": "El Ksar",
+      "nativeName": "El Ksar",
+      "code": "TN-71-11106651",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-71",
+      "latitude": 34.40263,
+      "longitude": 8.88303
+    },
+    {
+      "id": 11106656,
+      "name": "Gafsa Nord",
+      "nativeName": "Gafsa Nord",
+      "code": "TN-71-11106656",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-71",
+      "latitude": 34.55555,
+      "longitude": 8.97048
+    },
+    {
+      "id": 11204905,
+      "name": "Gafsa Sud",
+      "nativeName": "Gafsa Sud",
+      "code": "TN-71-11204905",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-71",
+      "latitude": 34.37832,
+      "longitude": 8.6631
+    },
+    {
+      "id": 11106593,
+      "name": "Mdhila",
+      "nativeName": "Mdhila",
+      "code": "TN-71-11106593",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-71",
+      "latitude": 34.20294,
+      "longitude": 8.69783
+    },
+    {
+      "id": 2468963,
+      "name": "Metlaoui",
+      "nativeName": "Metlaoui",
+      "code": "TN-71-2468963",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-71",
+      "latitude": 34.23889,
+      "longitude": 8.40223
+    },
+    {
+      "id": 11106594,
+      "name": "Oum El Araies",
+      "nativeName": "Délégation d’ Om El Araïes",
+      "code": "TN-71-11106594",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-71",
+      "latitude": 34.549,
+      "longitude": 8.37421
+    },
+    {
+      "id": 2467576,
+      "name": "Redeyef",
+      "nativeName": "Mu‘tamadīyat ar Rudayyif",
+      "code": "TN-71-2467576",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-71",
+      "latitude": 34.40081,
+      "longitude": 8.17057
+    },
+    {
+      "id": 11106657,
+      "name": "Sidi Aïch",
+      "nativeName": "Délégation de Sidi Aïch",
+      "code": "TN-71-11106657",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-71",
+      "latitude": 34.68556,
+      "longitude": 8.81428
+    },
+    {
+      "id": 11106653,
+      "name": "Sned",
+      "nativeName": "Sned",
+      "code": "TN-71-11106653",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-71",
+      "latitude": 34.53684,
+      "longitude": 9.16503
+    }
+  ]
+}

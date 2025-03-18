@@ -1,0 +1,95 @@
+{
+  "stateId": 828259,
+  "stateCode": "AM-AG",
+  "countryCode": "AM",
+  "cities": [
+    {
+      "id": 13156511,
+      "name": "Alagyaz Municipality",
+      "nativeName": "Alagyaz Municipality",
+      "code": "AM-AG-13156511",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-AG",
+      "latitude": 40.69149,
+      "longitude": 44.36754
+    },
+    {
+      "id": 13156512,
+      "name": "Aparan Municipality",
+      "nativeName": "Aparan Municipality",
+      "code": "AM-AG-13156512",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-AG",
+      "latitude": 40.5154,
+      "longitude": 44.35304
+    },
+    {
+      "id": 13156515,
+      "name": "Arevut Municipality",
+      "nativeName": "Arevut Municipality",
+      "code": "AM-AG-13156515",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-AG",
+      "latitude": 40.39485,
+      "longitude": 43.7474
+    },
+    {
+      "id": 13156513,
+      "name": "Ashtarak Municipality",
+      "nativeName": "Ashtarak Municipality",
+      "code": "AM-AG-13156513",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-AG",
+      "latitude": 40.35997,
+      "longitude": 44.26529
+    },
+    {
+      "id": 13156516,
+      "name": "Metsadzor Municipality",
+      "nativeName": "Metsadzor Municipality",
+      "code": "AM-AG-13156516",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-AG",
+      "latitude": 40.37287,
+      "longitude": 44.05178
+    },
+    {
+      "id": 13156517,
+      "name": "Shamiram Municipality",
+      "nativeName": "Shamiram Municipality",
+      "code": "AM-AG-13156517",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-AG",
+      "latitude": 40.27257,
+      "longitude": 44.10004
+    },
+    {
+      "id": 13156514,
+      "name": "Talin Municipality",
+      "nativeName": "Talin Municipality",
+      "code": "AM-AG-13156514",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-AG",
+      "latitude": 40.38795,
+      "longitude": 43.85397
+    },
+    {
+      "id": 13156510,
+      "name": "Tsaghkahovit Municipality",
+      "nativeName": "Tsaghkahovit Municipality",
+      "code": "AM-AG-13156510",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-AG",
+      "latitude": 40.67244,
+      "longitude": 44.20152
+    }
+  ]
+}

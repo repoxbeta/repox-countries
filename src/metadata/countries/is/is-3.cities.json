@@ -1,0 +1,106 @@
+{
+  "stateId": 3426184,
+  "stateCode": "IS-3",
+  "countryCode": "IS",
+  "cities": [
+    {
+      "id": 3418655,
+      "name": "Akraneskaupstaður",
+      "nativeName": "Akraneskaupstaður",
+      "code": "IS-3-3418655",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-3",
+      "latitude": 64.3241,
+      "longitude": -22.04373
+    },
+    {
+      "id": 3418080,
+      "name": "Borgarbyggð",
+      "nativeName": "Borgarbyggð",
+      "code": "IS-3-3418080",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-3",
+      "latitude": 64.71446,
+      "longitude": -21.23788
+    },
+    {
+      "id": 3426206,
+      "name": "Dalabyggð",
+      "nativeName": "Dalabyggð",
+      "code": "IS-3-3426206",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-3",
+      "latitude": 65.10121,
+      "longitude": -21.72871
+    },
+    {
+      "id": 3417538,
+      "name": "Eyja- og Miklaholtshreppur",
+      "nativeName": "Eyja- og Miklaholtshreppur",
+      "code": "IS-3-3417538",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-3",
+      "latitude": 64.85846,
+      "longitude": -22.54557
+    },
+    {
+      "id": 3426207,
+      "name": "Grundarfjarðarbær",
+      "nativeName": "Grundarfjarðarbær",
+      "code": "IS-3-3426207",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-3",
+      "latitude": 64.92164,
+      "longitude": -23.19501
+    },
+    {
+      "id": 9192471,
+      "name": "Hvalfjarðarsveit",
+      "nativeName": "Hvalfjarðarsveit",
+      "code": "IS-3-9192471",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-3",
+      "latitude": 64.44265,
+      "longitude": -21.61086
+    },
+    {
+      "id": 3413282,
+      "name": "Skorradalshreppur",
+      "nativeName": "Skorradalshreppur",
+      "code": "IS-3-3413282",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-3",
+      "latitude": 64.51667,
+      "longitude": -21.5
+    },
+    {
+      "id": 3426209,
+      "name": "Snæfellsbær",
+      "nativeName": "Snæfellsbær",
+      "code": "IS-3-3426209",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-3",
+      "latitude": 64.86667,
+      "longitude": -23.5
+    },
+    {
+      "id": 12508725,
+      "name": "Stykkishólmur-Helgafellssveit",
+      "nativeName": "Stykkishólmur-Helgafellssveit",
+      "code": "IS-3-12508725",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-3",
+      "latitude": 65.00068,
+      "longitude": -22.72056
+    }
+  ]
+}

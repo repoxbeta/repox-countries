@@ -1,0 +1,271 @@
+{
+  "stateId": 2029546,
+  "stateCode": "MN-055",
+  "countryCode": "MN",
+  "cities": [
+    {
+      "id": 6619048,
+      "name": "Arvayheer",
+      "nativeName": "Arvayheer",
+      "code": "MN-055-6619048",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-055",
+      "latitude": 46.25893,
+      "longitude": 102.77538
+    },
+    {
+      "id": 10375951,
+      "name": "Baruun Bayan-Ulaan",
+      "nativeName": "Baruun Bayan-Ulaan",
+      "code": "MN-055-10375951",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-055",
+      "latitude": 45.17782,
+      "longitude": 101.42007
+    },
+    {
+      "id": 6619051,
+      "name": "Baruun Bayan-Ulaan District",
+      "nativeName": "Baruunbayan-Ulaan",
+      "code": "MN-055-6619051",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-055",
+      "latitude": 45.16449,
+      "longitude": 101.41823
+    },
+    {
+      "id": 6619044,
+      "name": "Bat-Öldziy",
+      "nativeName": "Bat-Öldziy",
+      "code": "MN-055-6619044",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-055",
+      "latitude": 46.81322,
+      "longitude": 102.24941
+    },
+    {
+      "id": 10375952,
+      "name": "Bat-Ölzii",
+      "nativeName": "Bat-Ölzii",
+      "code": "MN-055-10375952",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-055",
+      "latitude": 46.81944,
+      "longitude": 102.24056
+    },
+    {
+      "id": 6619058,
+      "name": "Bayan-Öndör",
+      "nativeName": "Bayan-Öndör",
+      "code": "MN-055-6619058",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-055",
+      "latitude": 46.49118,
+      "longitude": 104.11863
+    },
+    {
+      "id": 6619056,
+      "name": "Bayangol",
+      "nativeName": "Bayangol",
+      "code": "MN-055-6619056",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-055",
+      "latitude": 45.9703,
+      "longitude": 103.25895
+    },
+    {
+      "id": 6619053,
+      "name": "Bogd",
+      "nativeName": "Bogd",
+      "code": "MN-055-6619053",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-055",
+      "latitude": 44.6653,
+      "longitude": 102.17525
+    },
+    {
+      "id": 6619061,
+      "name": "Bürd District",
+      "nativeName": "Bürd",
+      "code": "MN-055-6619061",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-055",
+      "latitude": 46.97814,
+      "longitude": 103.78355
+    },
+    {
+      "id": 6619046,
+      "name": "Dzüünbayan-Ulaan",
+      "nativeName": "Dzüünbayan-Ulaan",
+      "code": "MN-055-6619046",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-055",
+      "latitude": 46.51919,
+      "longitude": 102.59441
+    },
+    {
+      "id": 6619052,
+      "name": "Guchin-Us District",
+      "nativeName": "Guchin-Us",
+      "code": "MN-055-6619052",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-055",
+      "latitude": 45.45832,
+      "longitude": 102.4209
+    },
+    {
+      "id": 6619042,
+      "name": "Harhorin",
+      "nativeName": "Harhorin",
+      "code": "MN-055-6619042",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-055",
+      "latitude": 47.19251,
+      "longitude": 102.82396
+    },
+    {
+      "id": 6619049,
+      "name": "Hayrhandulaan",
+      "nativeName": "Hayrhandulaan",
+      "code": "MN-055-6619049",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-055",
+      "latitude": 45.94065,
+      "longitude": 102.04994
+    },
+    {
+      "id": 6619043,
+      "name": "Hujirt",
+      "nativeName": "Hujirt",
+      "code": "MN-055-6619043",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-055",
+      "latitude": 46.88918,
+      "longitude": 102.78191
+    },
+    {
+      "id": 6619050,
+      "name": "Nariynteel",
+      "nativeName": "Nariynteel",
+      "code": "MN-055-6619050",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-055",
+      "latitude": 45.9595,
+      "longitude": 101.45977
+    },
+    {
+      "id": 6619057,
+      "name": "Sant",
+      "nativeName": "Sant",
+      "code": "MN-055-6619057",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-055",
+      "latitude": 46.08609,
+      "longitude": 103.83934
+    },
+    {
+      "id": 6619047,
+      "name": "Taragt",
+      "nativeName": "Taragt",
+      "code": "MN-055-6619047",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-055",
+      "latitude": 46.29915,
+      "longitude": 102.44579
+    },
+    {
+      "id": 6619054,
+      "name": "Tögrög District",
+      "nativeName": "Tögrög",
+      "code": "MN-055-6619054",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-055",
+      "latitude": 45.52836,
+      "longitude": 102.98378
+    },
+    {
+      "id": 6619045,
+      "name": "Uyanga",
+      "nativeName": "Uyanga",
+      "code": "MN-055-6619045",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-055",
+      "latitude": 46.45666,
+      "longitude": 102.281
+    },
+    {
+      "id": 10375953,
+      "name": "Yesönzüil",
+      "nativeName": "Yesönzüil",
+      "code": "MN-055-10375953",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-055",
+      "latitude": 46.7575,
+      "longitude": 103.51944
+    },
+    {
+      "id": 2028174,
+      "name": "Yesönzüil District",
+      "nativeName": "Yösöndzüyl Sum",
+      "code": "MN-055-2028174",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-055",
+      "latitude": 46.61733,
+      "longitude": 103.64586
+    },
+    {
+      "id": 6619060,
+      "name": "Yösöndzüyl",
+      "nativeName": "Yösöndzüyl",
+      "code": "MN-055-6619060",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-055",
+      "latitude": 46.74598,
+      "longitude": 103.52503
+    },
+    {
+      "id": 10375954,
+      "name": "Züünbayan-Ulaan",
+      "nativeName": "Züünbayan-Ulaan",
+      "code": "MN-055-10375954",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-055",
+      "latitude": 46.52222,
+      "longitude": 102.59583
+    },
+    {
+      "id": 6619059,
+      "name": "Ölziit District",
+      "nativeName": "Öldziyt",
+      "code": "MN-055-6619059",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-055",
+      "latitude": 46.64413,
+      "longitude": 103.31646
+    }
+  ]
+}

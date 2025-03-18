@@ -1,0 +1,260 @@
+{
+  "stateId": 4562605,
+  "stateCode": "PR-011",
+  "countryCode": "PR",
+  "cities": [
+    {
+      "id": 7268194,
+      "name": "Añasco Abajo Barrio",
+      "nativeName": "Añasco Abajo Barrio",
+      "code": "PR-011-7268194",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-011",
+      "latitude": 18.27503,
+      "longitude": -67.17411
+    },
+    {
+      "id": 7268195,
+      "name": "Añasco Arriba Barrio",
+      "nativeName": "Añasco Arriba Barrio",
+      "code": "PR-011-7268195",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-011",
+      "latitude": 18.27597,
+      "longitude": -67.14704
+    },
+    {
+      "id": 7268196,
+      "name": "Añasco Barrio-Pueblo",
+      "nativeName": "Añasco Barrio-Pueblo",
+      "code": "PR-011-7268196",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-011",
+      "latitude": 18.28291,
+      "longitude": -67.14137
+    },
+    {
+      "id": 7268285,
+      "name": "Caguabo Barrio",
+      "nativeName": "Caguabo Barrio",
+      "code": "PR-011-7268285",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-011",
+      "latitude": 18.29756,
+      "longitude": -67.21047
+    },
+    {
+      "id": 7268341,
+      "name": "Caracol Barrio",
+      "nativeName": "Caracol Barrio",
+      "code": "PR-011-7268341",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-011",
+      "latitude": 18.30058,
+      "longitude": -67.15937
+    },
+    {
+      "id": 7268348,
+      "name": "Carreras Barrio",
+      "nativeName": "Carreras Barrio",
+      "code": "PR-011-7268348",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-011",
+      "latitude": 18.28682,
+      "longitude": -67.12427
+    },
+    {
+      "id": 7268353,
+      "name": "Casey Abajo Barrio",
+      "nativeName": "Casey Abajo Barrio",
+      "code": "PR-011-7268353",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-011",
+      "latitude": 18.26818,
+      "longitude": -67.10313
+    },
+    {
+      "id": 7268354,
+      "name": "Casey Arriba Barrio",
+      "nativeName": "Casey Arriba Barrio",
+      "code": "PR-011-7268354",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-011",
+      "latitude": 18.26094,
+      "longitude": -67.08611
+    },
+    {
+      "id": 7268064,
+      "name": "Cerro Gordo Barrio",
+      "nativeName": "Cerro Gordo Barrio",
+      "code": "PR-011-7268064",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-011",
+      "latitude": 18.30271,
+      "longitude": -67.08103
+    },
+    {
+      "id": 7268079,
+      "name": "Cidra Barrio",
+      "nativeName": "Cidra Barrio",
+      "code": "PR-011-7268079",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-011",
+      "latitude": 18.28221,
+      "longitude": -67.10268
+    },
+    {
+      "id": 7268107,
+      "name": "Corcovada Barrio",
+      "nativeName": "Corcovada Barrio",
+      "code": "PR-011-7268107",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-011",
+      "latitude": 18.2941,
+      "longitude": -67.05667
+    },
+    {
+      "id": 7268143,
+      "name": "Dagüey Barrio",
+      "nativeName": "Dagüey Barrio",
+      "code": "PR-011-7268143",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-011",
+      "latitude": 18.30541,
+      "longitude": -67.12783
+    },
+    {
+      "id": 7268378,
+      "name": "Espino Barrio",
+      "nativeName": "Espino Barrio",
+      "code": "PR-011-7268378",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-011",
+      "latitude": 18.28019,
+      "longitude": -67.11535
+    },
+    {
+      "id": 7268451,
+      "name": "Hatillo Barrio",
+      "nativeName": "Hatillo Barrio",
+      "code": "PR-011-7268451",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-011",
+      "latitude": 18.2993,
+      "longitude": -67.18833
+    },
+    {
+      "id": 7268487,
+      "name": "Humatas Barrio",
+      "nativeName": "Humatas Barrio",
+      "code": "PR-011-7268487",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-011",
+      "latitude": 18.30936,
+      "longitude": -67.10668
+    },
+    {
+      "id": 7268621,
+      "name": "Marías Barrio",
+      "nativeName": "Marías Barrio",
+      "code": "PR-011-7268621",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-011",
+      "latitude": 18.29997,
+      "longitude": -67.14003
+    },
+    {
+      "id": 7268659,
+      "name": "Miraflores Barrio",
+      "nativeName": "Miraflores Barrio",
+      "code": "PR-011-7268659",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-011",
+      "latitude": 18.27882,
+      "longitude": -67.08022
+    },
+    {
+      "id": 7268712,
+      "name": "Ovejas Barrio",
+      "nativeName": "Ovejas Barrio",
+      "code": "PR-011-7268712",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-011",
+      "latitude": 18.26154,
+      "longitude": -67.11371
+    },
+    {
+      "id": 7268759,
+      "name": "Piñales Barrio",
+      "nativeName": "Piñales Barrio",
+      "code": "PR-011-7268759",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-011",
+      "latitude": 18.30033,
+      "longitude": -67.17267
+    },
+    {
+      "id": 7268768,
+      "name": "Playa Barrio",
+      "nativeName": "Playa Barrio",
+      "code": "PR-011-7268768",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-011",
+      "latitude": 18.28339,
+      "longitude": -67.1905
+    },
+    {
+      "id": 7268859,
+      "name": "Quebrada Larga Barrio",
+      "nativeName": "Quebrada Larga Barrio",
+      "code": "PR-011-7268859",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-011",
+      "latitude": 18.30694,
+      "longitude": -67.14921
+    },
+    {
+      "id": 7268889,
+      "name": "Río Arriba Barrio",
+      "nativeName": "Río Arriba Barrio",
+      "code": "PR-011-7268889",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-011",
+      "latitude": 18.27708,
+      "longitude": -67.05048
+    },
+    {
+      "id": 7268902,
+      "name": "Río Cañas Barrio",
+      "nativeName": "Río Cañas Barrio",
+      "code": "PR-011-7268902",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-011",
+      "latitude": 18.2532,
+      "longitude": -67.12584
+    }
+  ]
+}

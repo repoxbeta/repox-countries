@@ -1,0 +1,51 @@
+{
+  "stateId": 8299742,
+  "stateCode": "MT-43",
+  "countryCode": "MT",
+  "cities": [
+    {
+      "id": 2562629,
+      "name": "Qormi",
+      "nativeName": "Qormi",
+      "code": "MT-43-2562629",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-43",
+      "latitude": 35.87601,
+      "longitude": 14.472
+    },
+    {
+      "id": 2562943,
+      "name": "Il-Ħammieri",
+      "nativeName": "Il-Ħammieri",
+      "code": "MT-43-2562943",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-43",
+      "latitude": 35.88222,
+      "longitude": 14.46083
+    },
+    {
+      "id": 2562406,
+      "name": "Tal-Ħandaq",
+      "nativeName": "Tal-Ħandaq",
+      "code": "MT-43-2562406",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-43",
+      "latitude": 35.87083,
+      "longitude": 14.46806
+    },
+    {
+      "id": 2562343,
+      "name": "Ta’ San Ġwakkin",
+      "nativeName": "Ta’ San Ġwakkin",
+      "code": "MT-43-2562343",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-43",
+      "latitude": 35.88667,
+      "longitude": 14.46583
+    }
+  ]
+}

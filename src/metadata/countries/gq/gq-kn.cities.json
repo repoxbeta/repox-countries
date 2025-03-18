@@ -1,0 +1,73 @@
+{
+  "stateId": 2566981,
+  "stateCode": "GQ-KN",
+  "countryCode": "GQ",
+  "cities": [
+    {
+      "id": 11237877,
+      "name": "Bidjabidjan",
+      "nativeName": "Bidjabidjan",
+      "code": "GQ-KN-11237877",
+      "countryId": 2309096,
+      "countryCode": "GQ",
+      "stateCode": "GQ-KN",
+      "latitude": 2.16301,
+      "longitude": 11.14906
+    },
+    {
+      "id": 2309335,
+      "name": "Distrito de Ebebiyin",
+      "nativeName": "Distrito de Ebebiyin",
+      "code": "GQ-KN-2309335",
+      "countryId": 2309096,
+      "countryCode": "GQ",
+      "stateCode": "GQ-KN",
+      "latitude": 2.0392,
+      "longitude": 11.2353
+    },
+    {
+      "id": 2308017,
+      "name": "Micomiseng",
+      "nativeName": "Micomiseng",
+      "code": "GQ-KN-2308017",
+      "countryId": 2309096,
+      "countryCode": "GQ",
+      "stateCode": "GQ-KN",
+      "latitude": 2.1076,
+      "longitude": 10.6829
+    },
+    {
+      "id": 11237869,
+      "name": "Ncue",
+      "nativeName": "Ncue",
+      "code": "GQ-KN-11237869",
+      "countryId": 2309096,
+      "countryCode": "GQ",
+      "stateCode": "GQ-KN",
+      "latitude": 2.01244,
+      "longitude": 10.46976
+    },
+    {
+      "id": 11237868,
+      "name": "Nsang",
+      "nativeName": "Nsang",
+      "code": "GQ-KN-11237868",
+      "countryId": 2309096,
+      "countryCode": "GQ",
+      "stateCode": "GQ-KN",
+      "latitude": 2.02376,
+      "longitude": 10.93946
+    },
+    {
+      "id": 12168386,
+      "name": "Nsok-Nsomo",
+      "nativeName": "Nsok-Nsomo",
+      "code": "GQ-KN-12168386",
+      "countryId": 2309096,
+      "countryCode": "GQ",
+      "stateCode": "GQ-KN",
+      "latitude": 1.82588,
+      "longitude": 11.05946
+    }
+  ]
+}

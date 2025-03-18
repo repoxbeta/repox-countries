@@ -1,0 +1,128 @@
+{
+  "stateId": 453753,
+  "stateCode": "BG-12",
+  "countryCode": "BG",
+  "cities": [
+    {
+      "id": 733263,
+      "name": "Berkovitsa",
+      "nativeName": "Obshtina Berkovitsa",
+      "code": "BG-12-733263",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-12",
+      "latitude": 43.26667,
+      "longitude": 23.15
+    },
+    {
+      "id": 732984,
+      "name": "Boychinovtsi",
+      "nativeName": "Obshtina Boychinovtsi",
+      "code": "BG-12-732984",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-12",
+      "latitude": 43.53333,
+      "longitude": 23.43333
+    },
+    {
+      "id": 732861,
+      "name": "Brusartsi",
+      "nativeName": "Obshtina Brusartsi",
+      "code": "BG-12-732861",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-12",
+      "latitude": 43.66667,
+      "longitude": 23.06667
+    },
+    {
+      "id": 732455,
+      "name": "Chiprovtsi",
+      "nativeName": "Obshtina Chiprovtsi",
+      "code": "BG-12-732455",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-12",
+      "latitude": 43.41667,
+      "longitude": 22.9
+    },
+    {
+      "id": 731457,
+      "name": "Georgi Damyanovo",
+      "nativeName": "Obshtina Georgi Damyanovo",
+      "code": "BG-12-731457",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-12",
+      "latitude": 43.35,
+      "longitude": 23
+    },
+    {
+      "id": 729579,
+      "name": "Lom",
+      "nativeName": "Obshtina Lom",
+      "code": "BG-12-729579",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-12",
+      "latitude": 43.81667,
+      "longitude": 23.23333
+    },
+    {
+      "id": 729173,
+      "name": "Medkovets",
+      "nativeName": "Obshtina Medkovets",
+      "code": "BG-12-729173",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-12",
+      "latitude": 43.65,
+      "longitude": 23.18333
+    },
+    {
+      "id": 729113,
+      "name": "Montana",
+      "nativeName": "Obshtina Montana",
+      "code": "BG-12-729113",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-12",
+      "latitude": 43.46667,
+      "longitude": 23.2
+    },
+    {
+      "id": 725682,
+      "name": "Valchedram",
+      "nativeName": "Obshtina Valchedram",
+      "code": "BG-12-725682",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-12",
+      "latitude": 43.71667,
+      "longitude": 23.51667
+    },
+    {
+      "id": 725622,
+      "name": "Varshets",
+      "nativeName": "Obshtina Varshets",
+      "code": "BG-12-725622",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-12",
+      "latitude": 43.21667,
+      "longitude": 23.33333
+    },
+    {
+      "id": 725587,
+      "name": "Yakimovo",
+      "nativeName": "Obshtina Yakimovo",
+      "code": "BG-12-725587",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-12",
+      "latitude": 43.63333,
+      "longitude": 23.33333
+    }
+  ]
+}

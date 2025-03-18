@@ -1,0 +1,106 @@
+{
+  "stateId": 3239187,
+  "stateCode": "SI-125",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3190498,
+      "name": "Šmartno ob Paki",
+      "nativeName": "Šmartno ob Paki",
+      "code": "SI-125-3190498",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-125",
+      "latitude": 46.33333,
+      "longitude": 15.03333
+    },
+    {
+      "id": 8986980,
+      "name": "Gavce",
+      "nativeName": "Gavce",
+      "code": "SI-125-8986980",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-125",
+      "latitude": 46.34085,
+      "longitude": 15.02812
+    },
+    {
+      "id": 3200374,
+      "name": "Gorenje",
+      "nativeName": "Gorenje",
+      "code": "SI-125-3200374",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-125",
+      "latitude": 46.34694,
+      "longitude": 15.00861
+    },
+    {
+      "id": 3195600,
+      "name": "Mali Vrh",
+      "nativeName": "Mali Vrh",
+      "code": "SI-125-3195600",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-125",
+      "latitude": 46.33333,
+      "longitude": 15.05
+    },
+    {
+      "id": 3193604,
+      "name": "Paška Vas",
+      "nativeName": "Paška Vas",
+      "code": "SI-125-3193604",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-125",
+      "latitude": 46.33333,
+      "longitude": 15.01667
+    },
+    {
+      "id": 3193055,
+      "name": "Podgora",
+      "nativeName": "Podgora",
+      "code": "SI-125-3193055",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-125",
+      "latitude": 46.31667,
+      "longitude": 15.05
+    },
+    {
+      "id": 3219978,
+      "name": "Rečica ob Paki",
+      "nativeName": "Rečica ob Paki",
+      "code": "SI-125-3219978",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-125",
+      "latitude": 46.32444,
+      "longitude": 15.04333
+    },
+    {
+      "id": 3190698,
+      "name": "Skorno",
+      "nativeName": "Skorno",
+      "code": "SI-125-3190698",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-125",
+      "latitude": 46.36667,
+      "longitude": 15
+    },
+    {
+      "id": 8987208,
+      "name": "Slatina",
+      "nativeName": "Slatina",
+      "code": "SI-125-8987208",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-125",
+      "latitude": 46.33155,
+      "longitude": 15.02023
+    }
+  ]
+}

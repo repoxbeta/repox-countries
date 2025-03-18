@@ -1,0 +1,73 @@
+{
+  "stateId": 2258738,
+  "stateCode": "CG-5",
+  "countryCode": "CG",
+  "cities": [
+    {
+      "id": 11996206,
+      "name": "Hinda",
+      "nativeName": "Hinda",
+      "code": "CG-5-11996206",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-5",
+      "latitude": -4.62004,
+      "longitude": 11.98311
+    },
+    {
+      "id": 7870563,
+      "name": "Kakamoeka",
+      "nativeName": "Kakamoeka",
+      "code": "CG-5-7870563",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-5",
+      "latitude": -4.11428,
+      "longitude": 11.93538
+    },
+    {
+      "id": 7870561,
+      "name": "Madingo-Kayes",
+      "nativeName": "Madingo-Kayes",
+      "code": "CG-5-7870561",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-5",
+      "latitude": -4.3344,
+      "longitude": 11.64438
+    },
+    {
+      "id": 7870579,
+      "name": "Mvouti",
+      "nativeName": "Mvouti",
+      "code": "CG-5-7870579",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-5",
+      "latitude": -4.37671,
+      "longitude": 12.34643
+    },
+    {
+      "id": 11996203,
+      "name": "Nzambi",
+      "nativeName": "Nzambi",
+      "code": "CG-5-11996203",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-5",
+      "latitude": -3.88415,
+      "longitude": 11.4291
+    },
+    {
+      "id": 11996233,
+      "name": "Tchiamba-Nzassi",
+      "nativeName": "Tchiamba-Nzassi",
+      "code": "CG-5-11996233",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-5",
+      "latitude": -4.87751,
+      "longitude": 12.08893
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "stateId": 877416,
+  "stateCode": "TZ-21",
+  "countryCode": "TZ",
+  "cities": [
+    {
+      "id": 877996,
+      "name": "Mbinga District Council",
+      "nativeName": "Mbinga",
+      "code": "TZ-21-877996",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-21",
+      "latitude": -10.75056,
+      "longitude": 34.96912
+    },
+    {
+      "id": 7648510,
+      "name": "Namtumbo",
+      "nativeName": "Namtumbo",
+      "code": "TZ-21-7648510",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-21",
+      "latitude": -10.46642,
+      "longitude": 36.13009
+    },
+    {
+      "id": 9998181,
+      "name": "Nyasa District Council",
+      "nativeName": "Nyasa",
+      "code": "TZ-21-9998181",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-21",
+      "latitude": -11.15743,
+      "longitude": 34.76578
+    },
+    {
+      "id": 877400,
+      "name": "Songea District Council",
+      "nativeName": "Songea",
+      "code": "TZ-21-877400",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-21",
+      "latitude": -10.39061,
+      "longitude": 35.40004
+    },
+    {
+      "id": 9998183,
+      "name": "Songea Municipal Council",
+      "nativeName": "Songea Municipal",
+      "code": "TZ-21-9998183",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-21",
+      "latitude": -10.65701,
+      "longitude": 35.62045
+    },
+    {
+      "id": 877377,
+      "name": "Tunduru District Council",
+      "nativeName": "Tunduru",
+      "code": "TZ-21-877377",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-21",
+      "latitude": -10.9519,
+      "longitude": 37.30018
+    }
+  ]
+}

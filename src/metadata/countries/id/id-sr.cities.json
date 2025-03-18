@@ -1,0 +1,73 @@
+{
+  "stateId": 1996550,
+  "stateCode": "ID-SR",
+  "countryCode": "ID",
+  "cities": [
+    {
+      "id": 9827966,
+      "name": "Central Mamuju Regency",
+      "nativeName": "Kabupaten Mamuju Tengah",
+      "code": "ID-SR-9827966",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SR",
+      "latitude": -2.0216,
+      "longitude": 119.54054
+    },
+    {
+      "id": 1636805,
+      "name": "Majene Regency",
+      "nativeName": "Kabupaten Majene",
+      "code": "ID-SR-1636805",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SR",
+      "latitude": -3.13139,
+      "longitude": 118.87139
+    },
+    {
+      "id": 7910939,
+      "name": "Mamasa Regency",
+      "nativeName": "Kabupaten Mamasa",
+      "code": "ID-SR-7910939",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SR",
+      "latitude": -2.96492,
+      "longitude": 119.30631
+    },
+    {
+      "id": 1636555,
+      "name": "Mamuju Regency",
+      "nativeName": "Kabupaten Mamuju",
+      "code": "ID-SR-1636555",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SR",
+      "latitude": -2.46667,
+      "longitude": 119.4
+    },
+    {
+      "id": 9828890,
+      "name": "North Mamuju Regency",
+      "nativeName": "Kabupaten Mamuju Utara",
+      "code": "ID-SR-9828890",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SR",
+      "latitude": -1.51639,
+      "longitude": 119.42139
+    },
+    {
+      "id": 1630933,
+      "name": "Polewali Mandar Regency",
+      "nativeName": "Kabupaten Polewali Mandar",
+      "code": "ID-SR-1630933",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SR",
+      "latitude": -3.31667,
+      "longitude": 119.15
+    }
+  ]
+}

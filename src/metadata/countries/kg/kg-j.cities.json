@@ -1,0 +1,95 @@
+{
+  "stateId": 1529778,
+  "stateCode": "KG-J",
+  "countryCode": "KG",
+  "cities": [
+    {
+      "id": 8139375,
+      "name": "Aksy",
+      "nativeName": "Aksy",
+      "code": "KG-J-8139375",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-J",
+      "latitude": 41.49634,
+      "longitude": 71.9975
+    },
+    {
+      "id": 9165682,
+      "name": "Ala-Buka",
+      "nativeName": "Ala-Buka",
+      "code": "KG-J-9165682",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-J",
+      "latitude": 41.40806,
+      "longitude": 71.46306
+    },
+    {
+      "id": 9165680,
+      "name": "Bazar-Korgon",
+      "nativeName": "Bazar-Korgon",
+      "code": "KG-J-9165680",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-J",
+      "latitude": 41.02806,
+      "longitude": 72.74361
+    },
+    {
+      "id": 8139376,
+      "name": "Chatkal",
+      "nativeName": "Chatkal",
+      "code": "KG-J-8139376",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-J",
+      "latitude": 41.87043,
+      "longitude": 71.00866
+    },
+    {
+      "id": 9165780,
+      "name": "Kazarman",
+      "nativeName": "Kazarman",
+      "code": "KG-J-9165780",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-J",
+      "latitude": 41.405,
+      "longitude": 74.037
+    },
+    {
+      "id": 9165683,
+      "name": "Nooken",
+      "nativeName": "Nooken",
+      "code": "KG-J-9165683",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-J",
+      "latitude": 41.062,
+      "longitude": 72.6321
+    },
+    {
+      "id": 7910407,
+      "name": "Suzak",
+      "nativeName": "Suzak",
+      "code": "KG-J-7910407",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-J",
+      "latitude": 41.08,
+      "longitude": 73.28
+    },
+    {
+      "id": 1527194,
+      "name": "Toktogul District",
+      "nativeName": "Toktogul District",
+      "code": "KG-J-1527194",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-J",
+      "latitude": 41.75,
+      "longitude": 73
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "countryId": 2542007,
+  "countryCode": "MA",
+  "states": [
+    {
+      "id": 11281878,
+      "name": "Béni Mellal-Khénifra",
+      "nativeName": "Béni Mellal-Khénifra",
+      "code": "MA-05",
+      "internalCode": "05",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "latitude": 32.3264,
+      "longitude": -6.3089
+    },
+    {
+      "id": 11281879,
+      "name": "Casablanca-Settat",
+      "nativeName": "Casablanca-Settat",
+      "code": "MA-06",
+      "internalCode": "06",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "latitude": 33.47804,
+      "longitude": -7.43225
+    },
+    {
+      "id": 11281886,
+      "name": "Dakhla-Oued Ed-Dahab",
+      "nativeName": "Dakhla-Oued Ed-Dahab",
+      "code": "MA-12",
+      "internalCode": "12",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "latitude": 23.75128,
+      "longitude": -15.91782
+    },
+    {
+      "id": 11281881,
+      "name": "Drâa-Tafilalet",
+      "nativeName": "Drâa-Tafilalet",
+      "code": "MA-08",
+      "internalCode": "08",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "latitude": 31.69156,
+      "longitude": -4.41925
+    },
+    {
+      "id": 11281876,
+      "name": "Fès-Meknès",
+      "nativeName": "Fès-Meknès",
+      "code": "MA-03",
+      "internalCode": "03",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "latitude": 34.02831,
+      "longitude": -5.00565
+    },
+    {
+      "id": 11281884,
+      "name": "Guelmim-Oued Noun",
+      "nativeName": "Guelmim-Oued Noun",
+      "code": "MA-10",
+      "internalCode": "10",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "latitude": 29.00173,
+      "longitude": -10.0391
+    },
+    {
+      "id": 11281885,
+      "name": "Laâyoune-Sakia El Hamra",
+      "nativeName": "Laâyoune-Sakia El Hamra",
+      "code": "MA-11",
+      "internalCode": "11",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "latitude": 27.8583,
+      "longitude": -12.20787
+    },
+    {
+      "id": 11281880,
+      "name": "Marrakesh-Safi",
+      "nativeName": "Marrakesh-Safi",
+      "code": "MA-07",
+      "internalCode": "07",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "latitude": 31.63488,
+      "longitude": -7.98569
+    },
+    {
+      "id": 11281875,
+      "name": "Oriental",
+      "nativeName": "Oriental",
+      "code": "MA-02",
+      "internalCode": "02",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "latitude": 34.82696,
+      "longitude": -2.12585
+    },
+    {
+      "id": 11281877,
+      "name": "Rabat-Salé-Kénitra",
+      "nativeName": "Rabat-Salé-Kénitra",
+      "code": "MA-04",
+      "internalCode": "04",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "latitude": 34.00106,
+      "longitude": -6.78028
+    },
+    {
+      "id": 11281882,
+      "name": "Souss-Massa",
+      "nativeName": "Souss-Massa",
+      "code": "MA-09",
+      "internalCode": "09",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "latitude": 30.42539,
+      "longitude": -9.56566
+    },
+    {
+      "id": 11281874,
+      "name": "Tanger-Tetouan-Al Hoceima",
+      "nativeName": "Tanger-Tetouan-Al Hoceima",
+      "code": "MA-01",
+      "internalCode": "01",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "latitude": 35.72626,
+      "longitude": -5.774
+    }
+  ]
+}

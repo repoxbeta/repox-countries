@@ -1,0 +1,84 @@
+{
+  "stateId": 3719543,
+  "stateCode": "HT-ND",
+  "countryCode": "HT",
+  "cities": [
+    {
+      "id": 3718665,
+      "name": "Arrondissement de Plaisance",
+      "nativeName": "Arrondissement de Plaisance",
+      "code": "HT-ND-3718665",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "stateCode": "HT-ND",
+      "latitude": 19.66756,
+      "longitude": -72.54908
+    },
+    {
+      "id": 3731232,
+      "name": "Arrondissement de l'Acul du Nord",
+      "nativeName": "Arrondissement de l'Acul du Nord",
+      "code": "HT-ND-3731232",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "stateCode": "HT-ND",
+      "latitude": 19.65595,
+      "longitude": -72.28772
+    },
+    {
+      "id": 3724438,
+      "name": "Grann Rivyè di Nò",
+      "nativeName": "Grann Rivyè di Nò",
+      "code": "HT-ND-3724438",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "stateCode": "HT-ND",
+      "latitude": 19.51701,
+      "longitude": -72.14727
+    },
+    {
+      "id": 3722122,
+      "name": "Lenbe",
+      "nativeName": "Lenbe",
+      "code": "HT-ND-3722122",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "stateCode": "HT-ND",
+      "latitude": 19.69137,
+      "longitude": -72.40506
+    },
+    {
+      "id": 3729454,
+      "name": "Oboy",
+      "nativeName": "Oboy",
+      "code": "HT-ND-3729454",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "stateCode": "HT-ND",
+      "latitude": 19.7838,
+      "longitude": -72.5311
+    },
+    {
+      "id": 3728473,
+      "name": "Okap",
+      "nativeName": "Okap",
+      "code": "HT-ND-3728473",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "stateCode": "HT-ND",
+      "latitude": 19.69047,
+      "longitude": -72.14457
+    },
+    {
+      "id": 3717545,
+      "name": "Sen Rafayèl",
+      "nativeName": "Sen Rafayèl",
+      "code": "HT-ND-3717545",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "stateCode": "HT-ND",
+      "latitude": 19.41667,
+      "longitude": -72.18333
+    }
+  ]
+}

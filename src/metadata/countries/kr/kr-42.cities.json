@@ -1,0 +1,205 @@
+{
+  "stateId": 1843125,
+  "stateCode": "KR-42",
+  "countryCode": "KR",
+  "cities": [
+    {
+      "id": 1845344,
+      "name": "Cheorwon-gun",
+      "nativeName": "Cheorwon-gun",
+      "code": "KR-42-1845344",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-42",
+      "latitude": 38.24391,
+      "longitude": 127.44522
+    },
+    {
+      "id": 1845134,
+      "name": "Chuncheon-si",
+      "nativeName": "Chuncheon-si",
+      "code": "KR-42-1845134",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-42",
+      "latitude": 37.88048,
+      "longitude": 127.72776
+    },
+    {
+      "id": 1834262,
+      "name": "Donghae-si",
+      "nativeName": "Donghae-si",
+      "code": "KR-42-1834262",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-42",
+      "latitude": 37.52345,
+      "longitude": 129.11357
+    },
+    {
+      "id": 1843136,
+      "name": "Gangneung-si",
+      "nativeName": "Gangneung-si",
+      "code": "KR-42-1843136",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-42",
+      "latitude": 37.7519,
+      "longitude": 128.87825
+    },
+    {
+      "id": 1842514,
+      "name": "Goseong-gun",
+      "nativeName": "Goseong-gun",
+      "code": "KR-42-1842514",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-42",
+      "latitude": 38.37945,
+      "longitude": 128.46755
+    },
+    {
+      "id": 1844239,
+      "name": "Hoengseong-gun",
+      "nativeName": "Hoengseong-gun",
+      "code": "KR-42-1844239",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-42",
+      "latitude": 37.48817,
+      "longitude": 127.9857
+    },
+    {
+      "id": 1844190,
+      "name": "Hongcheon-gun",
+      "nativeName": "Hongcheon-gun",
+      "code": "KR-42-1844190",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-42",
+      "latitude": 37.76058,
+      "longitude": 128.02823
+    },
+    {
+      "id": 8393538,
+      "name": "Hwacheon-gun",
+      "nativeName": "Hwacheon-gun",
+      "code": "KR-42-8393538",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-42",
+      "latitude": 38.14212,
+      "longitude": 127.67615
+    },
+    {
+      "id": 1843543,
+      "name": "Inje-gun",
+      "nativeName": "Inje-gun",
+      "code": "KR-42-1843543",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-42",
+      "latitude": 38.04416,
+      "longitude": 128.27876
+    },
+    {
+      "id": 1845515,
+      "name": "Jeongseon-gun",
+      "nativeName": "Jeongseon-gun",
+      "code": "KR-42-1845515",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-42",
+      "latitude": 37.38911,
+      "longitude": 128.72995
+    },
+    {
+      "id": 1838467,
+      "name": "Pyeongchang-gun",
+      "nativeName": "Pyeongchang-gun",
+      "code": "KR-42-1838467",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-42",
+      "latitude": 37.3682,
+      "longitude": 128.3955
+    },
+    {
+      "id": 8604737,
+      "name": "Samcheok-si",
+      "nativeName": "Samcheok-si",
+      "code": "KR-42-8604737",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-42",
+      "latitude": 37.45013,
+      "longitude": 129.16626
+    },
+    {
+      "id": 1836534,
+      "name": "Sokcho-si",
+      "nativeName": "Sokcho-si",
+      "code": "KR-42-1836534",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-42",
+      "latitude": 38.20725,
+      "longitude": 128.59275
+    },
+    {
+      "id": 8393711,
+      "name": "Taebaek-si",
+      "nativeName": "Taebaek-si",
+      "code": "KR-42-8393711",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-42",
+      "latitude": 37.1652,
+      "longitude": 128.9857
+    },
+    {
+      "id": 1833099,
+      "name": "Wonju-si",
+      "nativeName": "Wonju-si",
+      "code": "KR-42-1833099",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-42",
+      "latitude": 37.32104,
+      "longitude": 127.92132
+    },
+    {
+      "id": 1832908,
+      "name": "Yanggu-gun",
+      "nativeName": "Yanggu-gun",
+      "code": "KR-42-1832908",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-42",
+      "latitude": 38.1016,
+      "longitude": 127.98555
+    },
+    {
+      "id": 1832808,
+      "name": "Yangyang-gun",
+      "nativeName": "Yangyang-gun",
+      "code": "KR-42-1832808",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-42",
+      "latitude": 38.06215,
+      "longitude": 128.61471
+    },
+    {
+      "id": 1832256,
+      "name": "Yeongwol-gun",
+      "nativeName": "Yeongwol-gun",
+      "code": "KR-42-1832256",
+      "countryId": 1835841,
+      "countryCode": "KR",
+      "stateCode": "KR-42",
+      "latitude": 37.1833,
+      "longitude": 128.4615
+    }
+  ]
+}

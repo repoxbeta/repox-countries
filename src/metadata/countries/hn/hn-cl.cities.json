@@ -1,0 +1,117 @@
+{
+  "stateId": 3613358,
+  "stateCode": "HN-CL",
+  "countryCode": "HN",
+  "cities": [
+    {
+      "id": 3614905,
+      "name": "Balfate",
+      "nativeName": "Balfate",
+      "code": "HN-CL-3614905",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CL",
+      "latitude": 15.75709,
+      "longitude": -86.29048
+    },
+    {
+      "id": 8062523,
+      "name": "Bonito Oriental",
+      "nativeName": "Bonito Oriental",
+      "code": "HN-CL-8062523",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CL",
+      "latitude": 15.74641,
+      "longitude": -85.7361
+    },
+    {
+      "id": 3608823,
+      "name": "Iriona",
+      "nativeName": "Iriona",
+      "code": "HN-CL-3608823",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CL",
+      "latitude": 15.59079,
+      "longitude": -85.20549
+    },
+    {
+      "id": 3606014,
+      "name": "Limón",
+      "nativeName": "Limón",
+      "code": "HN-CL-3606014",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CL",
+      "latitude": 15.79664,
+      "longitude": -85.50805
+    },
+    {
+      "id": 3601404,
+      "name": "Municipio de Sabá",
+      "nativeName": "Municipio de Sabá",
+      "code": "HN-CL-3601404",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CL",
+      "latitude": 15.48654,
+      "longitude": -86.16322
+    },
+    {
+      "id": 3601601,
+      "name": "Santa Fe",
+      "nativeName": "Santa Fe",
+      "code": "HN-CL-3601601",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CL",
+      "latitude": 15.85424,
+      "longitude": -86.11083
+    },
+    {
+      "id": 3601497,
+      "name": "Santa Rosa de Aguán",
+      "nativeName": "Santa Rosa de Aguán",
+      "code": "HN-CL-3601497",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CL",
+      "latitude": 15.90051,
+      "longitude": -85.68663
+    },
+    {
+      "id": 3601212,
+      "name": "Sonaguera",
+      "nativeName": "Sonaguera",
+      "code": "HN-CL-3601212",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CL",
+      "latitude": 15.64,
+      "longitude": -86.26
+    },
+    {
+      "id": 3600705,
+      "name": "Tocoa",
+      "nativeName": "Tocoa",
+      "code": "HN-CL-3600705",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CL",
+      "latitude": 15.58904,
+      "longitude": -85.95057
+    },
+    {
+      "id": 3600592,
+      "name": "Trujillo",
+      "nativeName": "Trujillo",
+      "code": "HN-CL-3600592",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "stateCode": "HN-CL",
+      "latitude": 15.8263,
+      "longitude": -85.94644
+    }
+  ]
+}

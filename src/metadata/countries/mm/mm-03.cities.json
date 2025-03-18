@@ -1,0 +1,62 @@
+{
+  "stateId": 1312604,
+  "stateCode": "MM-03",
+  "countryCode": "MM",
+  "cities": [
+    {
+      "id": 8238823,
+      "name": "Gangaw District",
+      "nativeName": "Gangaw District",
+      "code": "MM-03-8238823",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-03",
+      "latitude": 21.79498,
+      "longitude": 94.17954
+    },
+    {
+      "id": 1312605,
+      "name": "Magway District",
+      "nativeName": "Magway District",
+      "code": "MM-03-1312605",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-03",
+      "latitude": 20.25,
+      "longitude": 95.25
+    },
+    {
+      "id": 1309286,
+      "name": "Minbu District",
+      "nativeName": "Minbu District",
+      "code": "MM-03-1309286",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-03",
+      "latitude": 20.37964,
+      "longitude": 94.49025
+    },
+    {
+      "id": 1302438,
+      "name": "Pakokku District",
+      "nativeName": "Pakokku District",
+      "code": "MM-03-1302438",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-03",
+      "latitude": 21.55903,
+      "longitude": 94.52089
+    },
+    {
+      "id": 1292036,
+      "name": "Thayet District",
+      "nativeName": "Thayet District",
+      "code": "MM-03-1292036",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-03",
+      "latitude": 19.41673,
+      "longitude": 95.06472
+    }
+  ]
+}

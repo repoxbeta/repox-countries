@@ -1,0 +1,260 @@
+{
+  "stateId": 1252881,
+  "stateCode": "IN-WB",
+  "countryCode": "IN",
+  "cities": [
+    {
+      "id": 11875573,
+      "name": "Alipurduar",
+      "nativeName": "Alipurduar",
+      "code": "IN-WB-11875573",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-WB",
+      "latitude": 26.49136,
+      "longitude": 89.52796
+    },
+    {
+      "id": 1275525,
+      "name": "Birbhum",
+      "nativeName": "Bīrbhūm",
+      "code": "IN-WB-1275525",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-WB",
+      "latitude": 24,
+      "longitude": 87.58333
+    },
+    {
+      "id": 1277265,
+      "name": "Bānkura District",
+      "nativeName": "Bānkurā",
+      "code": "IN-WB-1277265",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-WB",
+      "latitude": 23.25,
+      "longitude": 87.25
+    },
+    {
+      "id": 1266437,
+      "name": "Cooch Behar",
+      "nativeName": "Koch Bihār",
+      "code": "IN-WB-1266437",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-WB",
+      "latitude": 26.25,
+      "longitude": 89.5
+    },
+    {
+      "id": 8299687,
+      "name": "Dakshin Dinajpur district",
+      "nativeName": "Dakshin Dinajpur",
+      "code": "IN-WB-8299687",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-WB",
+      "latitude": 25.22,
+      "longitude": 88.76
+    },
+    {
+      "id": 1273468,
+      "name": "Darjeeling",
+      "nativeName": "Darjiling",
+      "code": "IN-WB-1273468",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-WB",
+      "latitude": 26.75,
+      "longitude": 88.25
+    },
+    {
+      "id": 8335142,
+      "name": "Dinajpur Uttar",
+      "nativeName": "Uttar Dinajpur",
+      "code": "IN-WB-8335142",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-WB",
+      "latitude": 25.614,
+      "longitude": 88.126
+    },
+    {
+      "id": 1269911,
+      "name": "Hooghly",
+      "nativeName": "Hugli",
+      "code": "IN-WB-1269911",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-WB",
+      "latitude": 22.82893,
+      "longitude": 88.20099
+    },
+    {
+      "id": 1270397,
+      "name": "Howrah",
+      "nativeName": "Hāora",
+      "code": "IN-WB-1270397",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-WB",
+      "latitude": 22.6,
+      "longitude": 88.25
+    },
+    {
+      "id": 1269389,
+      "name": "Jalpaiguri",
+      "nativeName": "Jalpāiguri",
+      "code": "IN-WB-1269389",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-WB",
+      "latitude": 26.51974,
+      "longitude": 88.7146
+    },
+    {
+      "id": 11875572,
+      "name": "Jhargram",
+      "nativeName": "Jhargram",
+      "code": "IN-WB-11875572",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-WB",
+      "latitude": 22.45184,
+      "longitude": 86.99448
+    },
+    {
+      "id": 11875570,
+      "name": "Kalimpong",
+      "nativeName": "Kalimpong",
+      "code": "IN-WB-11875570",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-WB",
+      "latitude": 27.05914,
+      "longitude": 88.4695
+    },
+    {
+      "id": 1275005,
+      "name": "Kolkata",
+      "nativeName": "Kolkata",
+      "code": "IN-WB-1275005",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-WB",
+      "latitude": 22.54733,
+      "longitude": 88.37368
+    },
+    {
+      "id": 1264122,
+      "name": "Malda",
+      "nativeName": "Māldah",
+      "code": "IN-WB-1264122",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-WB",
+      "latitude": 25,
+      "longitude": 88
+    },
+    {
+      "id": 8335139,
+      "name": "Medinipur East",
+      "nativeName": "Purba Medinipur",
+      "code": "IN-WB-8335139",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-WB",
+      "latitude": 21.93732,
+      "longitude": 87.77633
+    },
+    {
+      "id": 8335137,
+      "name": "Medinipur West",
+      "nativeName": "Paschim Medinipur",
+      "code": "IN-WB-8335137",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-WB",
+      "latitude": 22.40813,
+      "longitude": 87.38107
+    },
+    {
+      "id": 7627237,
+      "name": "Murshidabad",
+      "nativeName": "Murshidabad",
+      "code": "IN-WB-7627237",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-WB",
+      "latitude": 24.1,
+      "longitude": 88.25
+    },
+    {
+      "id": 1262293,
+      "name": "Nadia",
+      "nativeName": "Nadia",
+      "code": "IN-WB-1262293",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-WB",
+      "latitude": 23.25,
+      "longitude": 88.5
+    },
+    {
+      "id": 8335144,
+      "name": "North 24 Parganas District",
+      "nativeName": "North 24 Parganas",
+      "code": "IN-WB-8335144",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-WB",
+      "latitude": 22.71,
+      "longitude": 88.7108
+    },
+    {
+      "id": 11875580,
+      "name": "Paschim Bardhaman",
+      "nativeName": "Paschim Bardhaman",
+      "code": "IN-WB-11875580",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-WB",
+      "latitude": 23.68127,
+      "longitude": 86.97852
+    },
+    {
+      "id": 1277030,
+      "name": "Purba Bardhaman",
+      "nativeName": "Barddhamān",
+      "code": "IN-WB-1277030",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-WB",
+      "latitude": 23.25,
+      "longitude": 87.75
+    },
+    {
+      "id": 1259164,
+      "name": "Purulia",
+      "nativeName": "Puruliya",
+      "code": "IN-WB-1259164",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-WB",
+      "latitude": 23.33333,
+      "longitude": 86.41667
+    },
+    {
+      "id": 8335041,
+      "name": "South Twenty Four Parganas",
+      "nativeName": "South 24 Parganas",
+      "code": "IN-WB-8335041",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-WB",
+      "latitude": 22.16197,
+      "longitude": 88.4317
+    }
+  ]
+}

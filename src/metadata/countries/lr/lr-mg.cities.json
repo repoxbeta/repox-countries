@@ -1,0 +1,40 @@
+{
+  "stateId": 2588491,
+  "stateCode": "LR-MG",
+  "countryCode": "LR",
+  "cities": [
+    {
+      "id": 7670839,
+      "name": "Firestone",
+      "nativeName": "Firestone",
+      "code": "LR-MG-7670839",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-MG",
+      "latitude": 6.37708,
+      "longitude": -10.3636
+    },
+    {
+      "id": 2276853,
+      "name": "Gibi",
+      "nativeName": "Gibi",
+      "code": "LR-MG-2276853",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-MG",
+      "latitude": 6.57676,
+      "longitude": -10.01771
+    },
+    {
+      "id": 2275179,
+      "name": "Mambah Kaba",
+      "nativeName": "Mambah Kaba",
+      "code": "LR-MG-2275179",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-MG",
+      "latitude": 6.26646,
+      "longitude": -10.51032
+    }
+  ]
+}

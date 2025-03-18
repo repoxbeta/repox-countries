@@ -1,0 +1,62 @@
+{
+  "stateId": 11071621,
+  "stateCode": "FR-NOR",
+  "countryCode": "FR",
+  "cities": [
+    {
+      "id": 3029094,
+      "name": "Calvados",
+      "nativeName": "Calvados",
+      "code": "FR-NOR-3029094",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-NOR",
+      "latitude": 49.09011,
+      "longitude": -0.30608
+    },
+    {
+      "id": 3019317,
+      "name": "Eure",
+      "nativeName": "Eure",
+      "code": "FR-NOR-3019317",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-NOR",
+      "latitude": 49.16667,
+      "longitude": 1
+    },
+    {
+      "id": 2996268,
+      "name": "Manche",
+      "nativeName": "Manche",
+      "code": "FR-NOR-2996268",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-NOR",
+      "latitude": 49.03822,
+      "longitude": -1.31865
+    },
+    {
+      "id": 2989247,
+      "name": "Orne",
+      "nativeName": "Orne",
+      "code": "FR-NOR-2989247",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-NOR",
+      "latitude": 48.66667,
+      "longitude": 0.08333
+    },
+    {
+      "id": 2975248,
+      "name": "Seine-Maritime",
+      "nativeName": "Seine-Maritime",
+      "code": "FR-NOR-2975248",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-NOR",
+      "latitude": 49.67278,
+      "longitude": 1.12519
+    }
+  ]
+}

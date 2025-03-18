@@ -1,0 +1,84 @@
+{
+  "stateId": 250625,
+  "stateCode": "JO-KA",
+  "countryCode": "JO",
+  "cities": [
+    {
+      "id": 8621694,
+      "name": "Liwā’ Fuqū‘",
+      "nativeName": "Liwā’ Fuqū‘",
+      "code": "JO-KA-8621694",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "stateCode": "JO-KA",
+      "latitude": 31.36539,
+      "longitude": 35.69498
+    },
+    {
+      "id": 8621697,
+      "name": "Liwā’ Qaşabat al Karak",
+      "nativeName": "Liwā’ Qaşabat al Karak",
+      "code": "JO-KA-8621697",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "stateCode": "JO-KA",
+      "latitude": 31.16121,
+      "longitude": 35.82527
+    },
+    {
+      "id": 8621721,
+      "name": "Liwā’ al Aghwār al Janūbīyah",
+      "nativeName": "Liwā’ al Aghwār al Janūbīyah",
+      "code": "JO-KA-8621721",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "stateCode": "JO-KA",
+      "latitude": 31.11919,
+      "longitude": 35.54262
+    },
+    {
+      "id": 8621720,
+      "name": "Liwā’ al Mazār al Janūbī",
+      "nativeName": "Liwā’ al Mazār al Janūbī",
+      "code": "JO-KA-8621720",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "stateCode": "JO-KA",
+      "latitude": 31.00813,
+      "longitude": 35.75605
+    },
+    {
+      "id": 8621695,
+      "name": "Liwā’ al Qaşr",
+      "nativeName": "Liwā’ al Qaşr",
+      "code": "JO-KA-8621695",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "stateCode": "JO-KA",
+      "latitude": 31.35553,
+      "longitude": 35.78007
+    },
+    {
+      "id": 8621719,
+      "name": "Liwā’ al Qaţrānah",
+      "nativeName": "Liwā’ al Qaţrānah",
+      "code": "JO-KA-8621719",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "stateCode": "JO-KA",
+      "latitude": 31.1407,
+      "longitude": 36.04509
+    },
+    {
+      "id": 8621696,
+      "name": "Liwā’ ‘Ayy",
+      "nativeName": "Liwā’ ‘Ayy",
+      "code": "JO-KA-8621696",
+      "countryId": 248816,
+      "countryCode": "JO",
+      "stateCode": "JO-KA",
+      "latitude": 31.14093,
+      "longitude": 35.62951
+    }
+  ]
+}

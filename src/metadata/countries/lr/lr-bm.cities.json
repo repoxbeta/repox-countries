@@ -1,0 +1,73 @@
+{
+  "stateId": 2278324,
+  "stateCode": "LR-BM",
+  "countryCode": "LR",
+  "cities": [
+    {
+      "id": 2277849,
+      "name": "Dei",
+      "nativeName": "Dei",
+      "code": "LR-BM-2277849",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-BM",
+      "latitude": 6.53333,
+      "longitude": -10.91667
+    },
+    {
+      "id": 9645006,
+      "name": "Dowein District",
+      "nativeName": "Dowein District",
+      "code": "LR-BM-9645006",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-BM",
+      "latitude": 6.58879,
+      "longitude": -10.94974
+    },
+    {
+      "id": 2276737,
+      "name": "Gola",
+      "nativeName": "Gola",
+      "code": "LR-BM-2276737",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-BM",
+      "latitude": 6.71528,
+      "longitude": -10.91333
+    },
+    {
+      "id": 8714531,
+      "name": "Klay District",
+      "nativeName": "Klay District",
+      "code": "LR-BM-8714531",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-BM",
+      "latitude": 6.69417,
+      "longitude": -10.87444
+    },
+    {
+      "id": 9645005,
+      "name": "Senjeh District",
+      "nativeName": "Senjeh District",
+      "code": "LR-BM-9645005",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-BM",
+      "latitude": 6.85254,
+      "longitude": -10.88638
+    },
+    {
+      "id": 2275016,
+      "name": "Suehn Mecca District",
+      "nativeName": "Suehn Mecca District",
+      "code": "LR-BM-2275016",
+      "countryId": 2275384,
+      "countryCode": "LR",
+      "stateCode": "LR-BM",
+      "latitude": 6.72331,
+      "longitude": -10.64097
+    }
+  ]
+}

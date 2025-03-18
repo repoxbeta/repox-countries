@@ -1,0 +1,62 @@
+{
+  "stateId": 8030543,
+  "stateCode": "BS-CS",
+  "countryCode": "BS",
+  "cities": [
+    {
+      "id": 3572851,
+      "name": "Behring Point",
+      "nativeName": "Behring Point",
+      "code": "BS-CS-3572851",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-CS",
+      "latitude": 24.48004,
+      "longitude": -77.72355
+    },
+    {
+      "id": 3572746,
+      "name": "Bowen Sound",
+      "nativeName": "Bowen Sound",
+      "code": "BS-CS-3572746",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-CS",
+      "latitude": 24.58333,
+      "longitude": -77.73333
+    },
+    {
+      "id": 3572692,
+      "name": "Cargill Creek",
+      "nativeName": "Cargill Creek",
+      "code": "BS-CS-3572692",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-CS",
+      "latitude": 24.49863,
+      "longitude": -77.71995
+    },
+    {
+      "id": 3571926,
+      "name": "Man of War Sound",
+      "nativeName": "Man of War Sound",
+      "code": "BS-CS-3571926",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-CS",
+      "latitude": 24.55,
+      "longitude": -77.75
+    },
+    {
+      "id": 3830932,
+      "name": "Markey",
+      "nativeName": "Markey",
+      "code": "BS-CS-3830932",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-CS",
+      "latitude": 24.48806,
+      "longitude": -77.72111
+    }
+  ]
+}

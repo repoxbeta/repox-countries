@@ -1,0 +1,117 @@
+{
+  "stateId": 2429058,
+  "stateCode": "TD-LR",
+  "countryCode": "TD",
+  "cities": [
+    {
+      "id": 7732980,
+      "name": "Doba",
+      "nativeName": "Doba",
+      "code": "TD-LR-7732980",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-LR",
+      "latitude": 8.6505,
+      "longitude": 16.94294
+    },
+    {
+      "id": 12186529,
+      "name": "Kouh-Est",
+      "nativeName": "Kouh-Est",
+      "code": "TD-LR-12186529",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-LR",
+      "latitude": 8.41425,
+      "longitude": 17.06593
+    },
+    {
+      "id": 12186530,
+      "name": "Kouh-Ouest",
+      "nativeName": "Kouh-Ouest",
+      "code": "TD-LR-12186530",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-LR",
+      "latitude": 8.15544,
+      "longitude": 16.87436
+    },
+    {
+      "id": 8250833,
+      "name": "La Nya Pende",
+      "nativeName": "La Nya Pende",
+      "code": "TD-LR-8250833",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-LR",
+      "latitude": 7.99,
+      "longitude": 16.55
+    },
+    {
+      "id": 12186531,
+      "name": "La Pendé",
+      "nativeName": "La Pendé",
+      "code": "TD-LR-12186531",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-LR",
+      "latitude": 8.91331,
+      "longitude": 16.88354
+    },
+    {
+      "id": 7731695,
+      "name": "Lanya",
+      "nativeName": "Lanya",
+      "code": "TD-LR-7731695",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-LR",
+      "latitude": 8.57856,
+      "longitude": 16.65847
+    },
+    {
+      "id": 8693074,
+      "name": "Mamdi Department",
+      "nativeName": "Mamdi Department",
+      "code": "TD-LR-8693074",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-LR",
+      "latitude": 13.4741,
+      "longitude": 14.70529
+    },
+    {
+      "id": 7731693,
+      "name": "Monts de Lam",
+      "nativeName": "Monts de Lam",
+      "code": "TD-LR-7731693",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-LR",
+      "latitude": 7.90822,
+      "longitude": 15.89286
+    },
+    {
+      "id": 7731694,
+      "name": "Nya Pendé",
+      "nativeName": "Nya Pendé",
+      "code": "TD-LR-7731694",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-LR",
+      "latitude": 8.16929,
+      "longitude": 16.43508
+    },
+    {
+      "id": 7731696,
+      "name": "Pendé",
+      "nativeName": "Pendé",
+      "code": "TD-LR-7731696",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-LR",
+      "latitude": 8.62412,
+      "longitude": 16.95869
+    }
+  ]
+}

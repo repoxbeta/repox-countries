@@ -1,0 +1,84 @@
+{
+  "stateId": 7670854,
+  "stateCode": "MG-12",
+  "countryCode": "MG",
+  "cities": [
+    {
+      "id": 7670920,
+      "name": "Ambatolampy",
+      "nativeName": "Ambatolampy",
+      "code": "MG-12-7670920",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-12",
+      "latitude": -19.46179,
+      "longitude": 47.55007
+    },
+    {
+      "id": 7670918,
+      "name": "Antanifotsy",
+      "nativeName": "Antanifotsy",
+      "code": "MG-12-7670918",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-12",
+      "latitude": -19.74469,
+      "longitude": 47.4813
+    },
+    {
+      "id": 7670916,
+      "name": "Antsirabe I District",
+      "nativeName": "Antsirabe I District",
+      "code": "MG-12-7670916",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-12",
+      "latitude": -19.85559,
+      "longitude": 47.03756
+    },
+    {
+      "id": 7670915,
+      "name": "Antsirabe II",
+      "nativeName": "Antsirabe II",
+      "code": "MG-12-7670915",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-12",
+      "latitude": -19.86894,
+      "longitude": 47.14844
+    },
+    {
+      "id": 8299296,
+      "name": "Betafo District",
+      "nativeName": "Betafo District",
+      "code": "MG-12-8299296",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-12",
+      "latitude": -19.75378,
+      "longitude": 46.50238
+    },
+    {
+      "id": 11072806,
+      "name": "Faratsiho",
+      "nativeName": "Faratsiho",
+      "code": "MG-12-11072806",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-12",
+      "latitude": -19.43046,
+      "longitude": 46.91978
+    },
+    {
+      "id": 11926412,
+      "name": "Mandoto",
+      "nativeName": "Mandoto",
+      "code": "MG-12-11926412",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-12",
+      "latitude": -19.68273,
+      "longitude": 46.19767
+    }
+  ]
+}

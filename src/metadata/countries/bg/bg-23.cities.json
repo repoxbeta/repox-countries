@@ -1,0 +1,249 @@
+{
+  "stateId": 727012,
+  "stateCode": "BG-23",
+  "countryCode": "BG",
+  "cities": [
+    {
+      "id": 864576,
+      "name": "Anton",
+      "nativeName": "Obshtina Anton",
+      "code": "BG-23-864576",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-23",
+      "latitude": 42.76667,
+      "longitude": 24.3
+    },
+    {
+      "id": 733013,
+      "name": "Botevgrad",
+      "nativeName": "Obshtina Botevgrad",
+      "code": "BG-23-733013",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-23",
+      "latitude": 42.95,
+      "longitude": 23.75
+    },
+    {
+      "id": 732953,
+      "name": "Bozhurishte",
+      "nativeName": "Obshtina Bozhurishte",
+      "code": "BG-23-732953",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-23",
+      "latitude": 42.78333,
+      "longitude": 23.11667
+    },
+    {
+      "id": 864573,
+      "name": "Chavdar",
+      "nativeName": "Obshtina Chavdar",
+      "code": "BG-23-864573",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-23",
+      "latitude": 42.61667,
+      "longitude": 24.08333
+    },
+    {
+      "id": 864574,
+      "name": "Chelopech",
+      "nativeName": "Obshtina Chelopech",
+      "code": "BG-23-864574",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-23",
+      "latitude": 42.71667,
+      "longitude": 24.06667
+    },
+    {
+      "id": 732144,
+      "name": "Dolna Banya",
+      "nativeName": "Obshtina Dolna Banya",
+      "code": "BG-23-732144",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-23",
+      "latitude": 42.3,
+      "longitude": 23.76667
+    },
+    {
+      "id": 731960,
+      "name": "Dragoman",
+      "nativeName": "Obshtina Dragoman",
+      "code": "BG-23-731960",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-23",
+      "latitude": 42.93333,
+      "longitude": 22.93333
+    },
+    {
+      "id": 731674,
+      "name": "Elin Pelin",
+      "nativeName": "Obshtina Elin Pelin",
+      "code": "BG-23-731674",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-23",
+      "latitude": 42.66667,
+      "longitude": 23.6
+    },
+    {
+      "id": 731625,
+      "name": "Etropole",
+      "nativeName": "Obshtina Etropole",
+      "code": "BG-23-731625",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-23",
+      "latitude": 42.85,
+      "longitude": 24.03333
+    },
+    {
+      "id": 731383,
+      "name": "Godech",
+      "nativeName": "Obshtina Godech",
+      "code": "BG-23-731383",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-23",
+      "latitude": 43.06667,
+      "longitude": 23.06667
+    },
+    {
+      "id": 731238,
+      "name": "Gorna Malina",
+      "nativeName": "Obshtina Gorna Malina",
+      "code": "BG-23-731238",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-23",
+      "latitude": 42.71667,
+      "longitude": 23.8
+    },
+    {
+      "id": 730918,
+      "name": "Ihtiman",
+      "nativeName": "Ihtiman",
+      "code": "BG-23-730918",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-23",
+      "latitude": 42.43333,
+      "longitude": 23.81667
+    },
+    {
+      "id": 730158,
+      "name": "Koprivshtitsa",
+      "nativeName": "Obshtina Koprivshtitsa",
+      "code": "BG-23-730158",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-23",
+      "latitude": 42.61667,
+      "longitude": 24.38333
+    },
+    {
+      "id": 730092,
+      "name": "Kostenets",
+      "nativeName": "Obshtina Kostenets",
+      "code": "BG-23-730092",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-23",
+      "latitude": 42.3,
+      "longitude": 23.86667
+    },
+    {
+      "id": 730083,
+      "name": "Kostinbrod",
+      "nativeName": "Obshtina Kostinbrod",
+      "code": "BG-23-730083",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-23",
+      "latitude": 42.88333,
+      "longitude": 23.2
+    },
+    {
+      "id": 864572,
+      "name": "Mirkovo",
+      "nativeName": "Obshtina Mirkovo",
+      "code": "BG-23-864572",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-23",
+      "latitude": 42.66667,
+      "longitude": 23.96667
+    },
+    {
+      "id": 864575,
+      "name": "Pirdop",
+      "nativeName": "Obshtina Pirdop",
+      "code": "BG-23-864575",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-23",
+      "latitude": 42.7,
+      "longitude": 24.23333
+    },
+    {
+      "id": 864577,
+      "name": "Pravets",
+      "nativeName": "Obshtina Pravets",
+      "code": "BG-23-864577",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-23",
+      "latitude": 42.96667,
+      "longitude": 23.98333
+    },
+    {
+      "id": 727461,
+      "name": "Samokov",
+      "nativeName": "Obshtina Samokov",
+      "code": "BG-23-727461",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-23",
+      "latitude": 42.33333,
+      "longitude": 23.55
+    },
+    {
+      "id": 727068,
+      "name": "Slivnitsa",
+      "nativeName": "Obshtina Slivnitsa",
+      "code": "BG-23-727068",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-23",
+      "latitude": 42.85,
+      "longitude": 22.98333
+    },
+    {
+      "id": 726523,
+      "name": "Svoge",
+      "nativeName": "Obshtina Svoge",
+      "code": "BG-23-726523",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-23",
+      "latitude": 43,
+      "longitude": 23.4
+    },
+    {
+      "id": 726917,
+      "name": "Zlatitsa",
+      "nativeName": "Obshtina Zlatitsa",
+      "code": "BG-23-726917",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-23",
+      "latitude": 42.7,
+      "longitude": 24.13333
+    }
+  ]
+}

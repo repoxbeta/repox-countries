@@ -1,0 +1,95 @@
+{
+  "stateId": 444187,
+  "stateCode": "ET-TI",
+  "countryCode": "ET",
+  "cities": [
+    {
+      "id": 7869875,
+      "name": "Central Tigray Zone",
+      "nativeName": "Central Tigray Zone",
+      "code": "ET-TI-7869875",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-TI",
+      "latitude": 13.78507,
+      "longitude": 38.82055
+    },
+    {
+      "id": 7869879,
+      "name": "Eastern Tigray Zone",
+      "nativeName": "Eastern Tigray Zone",
+      "code": "ET-TI-7869879",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-TI",
+      "latitude": 14.1154,
+      "longitude": 39.58699
+    },
+    {
+      "id": 8643579,
+      "name": "Mekelle",
+      "nativeName": "Mekelle",
+      "code": "ET-TI-8643579",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-TI",
+      "latitude": 13.49781,
+      "longitude": 39.54391
+    },
+    {
+      "id": 8643826,
+      "name": "Mi'irabawi Zone",
+      "nativeName": "Mi'irabawi Zone",
+      "code": "ET-TI-8643826",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-TI",
+      "latitude": 13.75,
+      "longitude": 37
+    },
+    {
+      "id": 7869945,
+      "name": "North Western Tigray",
+      "nativeName": "North Western Tigray",
+      "code": "ET-TI-7869945",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-TI",
+      "latitude": 14.02038,
+      "longitude": 38.1639
+    },
+    {
+      "id": 11153778,
+      "name": "Southeastern Tigray Zone",
+      "nativeName": "Southeastern Tigray Zone",
+      "code": "ET-TI-11153778",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-TI",
+      "latitude": 13.24797,
+      "longitude": 39.53156
+    },
+    {
+      "id": 7667868,
+      "name": "Southern Tigray Zone",
+      "nativeName": "Southern Tigray Zone",
+      "code": "ET-TI-7667868",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-TI",
+      "latitude": 12.96033,
+      "longitude": 39.52831
+    },
+    {
+      "id": 11750806,
+      "name": "Western",
+      "nativeName": "Western",
+      "code": "ET-TI-11750806",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-TI",
+      "latitude": 13.85681,
+      "longitude": 37.10707
+    }
+  ]
+}

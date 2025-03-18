@@ -1,0 +1,139 @@
+{
+  "stateId": 1629652,
+  "stateCode": "ID-RI",
+  "countryCode": "ID",
+  "cities": [
+    {
+      "id": 8597074,
+      "name": "Bengkalis Regency",
+      "nativeName": "Kabupaten Bengkalis",
+      "code": "ID-RI-8597074",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-RI",
+      "latitude": 1.29882,
+      "longitude": 101.54527
+    },
+    {
+      "id": 1643082,
+      "name": "Indragiri Hilir Regency",
+      "nativeName": "Kabupaten Indragiri Hilir",
+      "code": "ID-RI-1643082",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-RI",
+      "latitude": -0.22056,
+      "longitude": 103.12167
+    },
+    {
+      "id": 1643081,
+      "name": "Indragiri Hulu Regency",
+      "nativeName": "Kabupaten Indragiri Hulu",
+      "code": "ID-RI-1643081",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-RI",
+      "latitude": -0.53333,
+      "longitude": 102.33333
+    },
+    {
+      "id": 6724202,
+      "name": "Kampar Regency",
+      "nativeName": "Kabupaten Kampar",
+      "code": "ID-RI-6724202",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-RI",
+      "latitude": 0.2344,
+      "longitude": 101.2131
+    },
+    {
+      "id": 9828033,
+      "name": "Kepulauan Meranti Regency",
+      "nativeName": "Kabupaten Kepulauan Meranti",
+      "code": "ID-RI-9828033",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-RI",
+      "latitude": 0.97488,
+      "longitude": 102.69539
+    },
+    {
+      "id": 9821955,
+      "name": "Kota Dumai",
+      "nativeName": "Kota Dumai",
+      "code": "ID-RI-9821955",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-RI",
+      "latitude": 1.61592,
+      "longitude": 101.4917
+    },
+    {
+      "id": 1631760,
+      "name": "Kota Pekanbaru",
+      "nativeName": "Kota Pekanbaru",
+      "code": "ID-RI-1631760",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-RI",
+      "latitude": 0.55,
+      "longitude": 101.48333
+    },
+    {
+      "id": 9163118,
+      "name": "Kuantan Singingi Regency",
+      "nativeName": "Kabupaten Kuantan Singingi",
+      "code": "ID-RI-9163118",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-RI",
+      "latitude": -0.47532,
+      "longitude": 101.45857
+    },
+    {
+      "id": 9163207,
+      "name": "Pelalawan Regency",
+      "nativeName": "Kabupaten Pelalawan",
+      "code": "ID-RI-9163207",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-RI",
+      "latitude": 0.20822,
+      "longitude": 102.18607
+    },
+    {
+      "id": 9844900,
+      "name": "Rokan Hilir Regency",
+      "nativeName": "Kabupaten Rokan Hilir",
+      "code": "ID-RI-9844900",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-RI",
+      "latitude": 2.16599,
+      "longitude": 100.82514
+    },
+    {
+      "id": 6722476,
+      "name": "Rokan Hulu Regency",
+      "nativeName": "Kabupaten Rokan Hulu",
+      "code": "ID-RI-6722476",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-RI",
+      "latitude": 0.88333,
+      "longitude": 100.48333
+    },
+    {
+      "id": 9844901,
+      "name": "Siak Regency",
+      "nativeName": "Kabupaten Siak",
+      "code": "ID-RI-9844901",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-RI",
+      "latitude": 0.97453,
+      "longitude": 102.01355
+    }
+  ]
+}

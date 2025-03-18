@@ -1,0 +1,40 @@
+{
+  "stateId": 279894,
+  "stateCode": "LB-JA",
+  "countryCode": "LB",
+  "cities": [
+    {
+      "id": 273359,
+      "name": "Jezzine",
+      "nativeName": "Caza de Jezzîne",
+      "code": "LB-JA-273359",
+      "countryId": 272103,
+      "countryCode": "LB",
+      "stateCode": "LB-JA",
+      "latitude": 33.50286,
+      "longitude": 35.56009
+    },
+    {
+      "id": 7735345,
+      "name": "Saida",
+      "nativeName": "Caza de Saida",
+      "code": "LB-JA-7735345",
+      "countryId": 272103,
+      "countryCode": "LB",
+      "stateCode": "LB-JA",
+      "latitude": 33.44716,
+      "longitude": 35.32797
+    },
+    {
+      "id": 267006,
+      "name": "Tyre",
+      "nativeName": "Caza de Tyr",
+      "code": "LB-JA-267006",
+      "countryId": 272103,
+      "countryCode": "LB",
+      "stateCode": "LB-JA",
+      "latitude": 33.21358,
+      "longitude": 35.26965
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "countryId": 783754,
+  "countryCode": "AL",
+  "states": [
+    {
+      "id": 865730,
+      "name": "Berat County",
+      "nativeName": "Qarku i Beratit",
+      "code": "AL-01",
+      "internalCode": "01",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "latitude": 40.63333,
+      "longitude": 20.08333
+    },
+    {
+      "id": 865731,
+      "name": "Dibër County",
+      "nativeName": "Qarku i Dibrës",
+      "code": "AL-09",
+      "internalCode": "09",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "latitude": 41.6,
+      "longitude": 20.23333
+    },
+    {
+      "id": 3344947,
+      "name": "Durrës County",
+      "nativeName": "Qarku i Durrësit",
+      "code": "AL-02",
+      "internalCode": "02",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "latitude": 41.48333,
+      "longitude": 19.61667
+    },
+    {
+      "id": 865732,
+      "name": "Elbasan County",
+      "nativeName": "Qarku i Elbasanit",
+      "code": "AL-03",
+      "internalCode": "03",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "latitude": 41.06667,
+      "longitude": 20.2
+    },
+    {
+      "id": 3344948,
+      "name": "Fier County",
+      "nativeName": "Qarku i Fierit",
+      "code": "AL-04",
+      "internalCode": "04",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "latitude": 40.76667,
+      "longitude": 19.61667
+    },
+    {
+      "id": 865733,
+      "name": "Gjirokastër County",
+      "nativeName": "Qarku i Gjirokastrës",
+      "code": "AL-05",
+      "internalCode": "05",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "latitude": 40.21667,
+      "longitude": 20.2
+    },
+    {
+      "id": 865734,
+      "name": "Korçë County",
+      "nativeName": "Qarku i Korçës",
+      "code": "AL-06",
+      "internalCode": "06",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "latitude": 40.61667,
+      "longitude": 20.66667
+    },
+    {
+      "id": 865735,
+      "name": "Kukës County",
+      "nativeName": "Qarku i Kukësit",
+      "code": "AL-07",
+      "internalCode": "07",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "latitude": 42.2,
+      "longitude": 20.36667
+    },
+    {
+      "id": 3344949,
+      "name": "Lezhë County",
+      "nativeName": "Qarku i Lezhës",
+      "code": "AL-08",
+      "internalCode": "08",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "latitude": 41.8,
+      "longitude": 19.86667
+    },
+    {
+      "id": 3344950,
+      "name": "Shkodër County",
+      "nativeName": "Qarku i Shkodrës",
+      "code": "AL-10",
+      "internalCode": "10",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "latitude": 42.18333,
+      "longitude": 19.75
+    },
+    {
+      "id": 3344951,
+      "name": "Tirana",
+      "nativeName": "Tirana",
+      "code": "AL-11",
+      "internalCode": "11",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "latitude": 41.26667,
+      "longitude": 19.78333
+    },
+    {
+      "id": 3344952,
+      "name": "Vlorë County",
+      "nativeName": "Qarku i Vlorës",
+      "code": "AL-12",
+      "internalCode": "12",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "latitude": 40.16667,
+      "longitude": 19.8
+    }
+  ]
+}

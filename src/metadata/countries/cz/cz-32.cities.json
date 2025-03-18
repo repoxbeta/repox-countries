@@ -1,0 +1,84 @@
+{
+  "stateId": 3339575,
+  "stateCode": "CZ-32",
+  "countryCode": "CZ",
+  "cities": [
+    {
+      "id": 3076586,
+      "name": "Domažlice District",
+      "nativeName": "Okres Domažlice",
+      "code": "CZ-32-3076586",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-32",
+      "latitude": 49.5,
+      "longitude": 12.91667
+    },
+    {
+      "id": 3073659,
+      "name": "Klatovy District",
+      "nativeName": "Okres Klatovy",
+      "code": "CZ-32-3073659",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-32",
+      "latitude": 49.25,
+      "longitude": 13.41667
+    },
+    {
+      "id": 3068159,
+      "name": "Okres Plzeň-jih",
+      "nativeName": "Okres Plzeň-jih",
+      "code": "CZ-32-3068159",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-32",
+      "latitude": 49.58333,
+      "longitude": 13.5
+    },
+    {
+      "id": 3068158,
+      "name": "Okres Plzeň-město",
+      "nativeName": "Okres Plzeň-město",
+      "code": "CZ-32-3068158",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-32",
+      "latitude": 49.75,
+      "longitude": 13.36667
+    },
+    {
+      "id": 3068157,
+      "name": "Okres Plzeň-sever",
+      "nativeName": "Okres Plzeň-sever",
+      "code": "CZ-32-3068157",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-32",
+      "latitude": 49.91667,
+      "longitude": 13.25
+    },
+    {
+      "id": 3066793,
+      "name": "Rokycany District",
+      "nativeName": "Okres Rokycany",
+      "code": "CZ-32-3066793",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-32",
+      "latitude": 49.78333,
+      "longitude": 13.66667
+    },
+    {
+      "id": 3064370,
+      "name": "Tachov District",
+      "nativeName": "Okres Tachov",
+      "code": "CZ-32-3064370",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-32",
+      "latitude": 49.76667,
+      "longitude": 12.75
+    }
+  ]
+}

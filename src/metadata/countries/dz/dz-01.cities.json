@@ -1,0 +1,73 @@
+{
+  "stateId": 2508807,
+  "stateCode": "DZ-01",
+  "countryCode": "DZ",
+  "cities": [
+    {
+      "id": 2508809,
+      "name": "Adrar District",
+      "nativeName": "Daïra d’Adrar",
+      "code": "DZ-01-2508809",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-01",
+      "latitude": 27.86724,
+      "longitude": -0.32719
+    },
+    {
+      "id": 12952545,
+      "name": "Aoulef",
+      "nativeName": "Aoulef",
+      "code": "DZ-01-12952545",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-01",
+      "latitude": 27.49287,
+      "longitude": 1.15591
+    },
+    {
+      "id": 12952518,
+      "name": "Fenoughil",
+      "nativeName": "Fenoughil",
+      "code": "DZ-01-12952518",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-01",
+      "latitude": 27.70205,
+      "longitude": -0.79924
+    },
+    {
+      "id": 12952519,
+      "name": "Reggane",
+      "nativeName": "Reggane",
+      "code": "DZ-01-12952519",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-01",
+      "latitude": 25.69909,
+      "longitude": -1.44844
+    },
+    {
+      "id": 12952474,
+      "name": "Tsabit",
+      "nativeName": "Tsabit",
+      "code": "DZ-01-12952474",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-01",
+      "latitude": 28.43662,
+      "longitude": -1.25758
+    },
+    {
+      "id": 12952467,
+      "name": "Zaouiat Kounta",
+      "nativeName": "Zaouiat Kounta",
+      "code": "DZ-01-12952467",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-01",
+      "latitude": 27.13992,
+      "longitude": -1.39589
+    }
+  ]
+}

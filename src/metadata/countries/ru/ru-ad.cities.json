@@ -1,0 +1,106 @@
+{
+  "stateId": 584222,
+  "stateCode": "RU-AD",
+  "countryCode": "RU",
+  "cities": [
+    {
+      "id": 11205695,
+      "name": "Adygeysk Republican Urban Okrug",
+      "nativeName": "Adygeysk Republican Urban Okrug",
+      "code": "RU-AD-11205695",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-AD",
+      "latitude": 44.8785,
+      "longitude": 39.19167
+    },
+    {
+      "id": 561514,
+      "name": "Giaginsky District",
+      "nativeName": "Giaginskiy Rayon",
+      "code": "RU-AD-561514",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-AD",
+      "latitude": 44.84511,
+      "longitude": 40.18282
+    },
+    {
+      "id": 544261,
+      "name": "Koshekhablsky District",
+      "nativeName": "Koshekhabl’skiy Rayon",
+      "code": "RU-AD-544261",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-AD",
+      "latitude": 44.77662,
+      "longitude": 40.58199
+    },
+    {
+      "id": 542340,
+      "name": "Krasnogvardeysky District",
+      "nativeName": "Krasnogvardeyskiy Rayon",
+      "code": "RU-AD-542340",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-AD",
+      "latitude": 45.10186,
+      "longitude": 39.66838
+    },
+    {
+      "id": 11205694,
+      "name": "Maykop Republican Urban Okrug",
+      "nativeName": "Maykop Republican Urban Okrug",
+      "code": "RU-AD-11205694",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-AD",
+      "latitude": 44.611,
+      "longitude": 40.12344
+    },
+    {
+      "id": 528290,
+      "name": "Maykopsky District",
+      "nativeName": "Maykopskiy Rayon",
+      "code": "RU-AD-528290",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-AD",
+      "latitude": 44.2903,
+      "longitude": 40.22848
+    },
+    {
+      "id": 493720,
+      "name": "Shovgenovsky District",
+      "nativeName": "Shovgenovskiy Rayon",
+      "code": "RU-AD-493720",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-AD",
+      "latitude": 45.04384,
+      "longitude": 40.14498
+    },
+    {
+      "id": 824962,
+      "name": "Takhtamukaysky District",
+      "nativeName": "Takhtamukayskiy Rayon",
+      "code": "RU-AD-824962",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-AD",
+      "latitude": 44.95227,
+      "longitude": 38.92329
+    },
+    {
+      "id": 483141,
+      "name": "Teuchezhsky District",
+      "nativeName": "Teuchezhskiy Rayon",
+      "code": "RU-AD-483141",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-AD",
+      "latitude": 44.91432,
+      "longitude": 39.368
+    }
+  ]
+}

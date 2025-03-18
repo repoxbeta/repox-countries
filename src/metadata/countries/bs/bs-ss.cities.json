@@ -1,0 +1,260 @@
+{
+  "stateId": 3571493,
+  "stateCode": "BS-SS",
+  "countryCode": "BS",
+  "cities": [
+    {
+      "id": 3572627,
+      "name": "Cockburn Town",
+      "nativeName": "Cockburn Town",
+      "code": "BS-SS-3572627",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SS",
+      "latitude": 24.05179,
+      "longitude": -74.53138
+    },
+    {
+      "id": 3572922,
+      "name": "Allen",
+      "nativeName": "Allen",
+      "code": "BS-SS-3572922",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SS",
+      "latitude": 23.95,
+      "longitude": -74.51667
+    },
+    {
+      "id": 3572742,
+      "name": "Brandy Hill",
+      "nativeName": "Brandy Hill",
+      "code": "BS-SS-3572742",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SS",
+      "latitude": 24.08333,
+      "longitude": -74.43333
+    },
+    {
+      "id": 3572494,
+      "name": "Dixons",
+      "nativeName": "Dixons",
+      "code": "BS-SS-3572494",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SS",
+      "latitude": 24.1,
+      "longitude": -74.45
+    },
+    {
+      "id": 3572417,
+      "name": "Farquharson",
+      "nativeName": "Farquharson",
+      "code": "BS-SS-3572417",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SS",
+      "latitude": 24,
+      "longitude": -74.46667
+    },
+    {
+      "id": 3572382,
+      "name": "Fortune Hill",
+      "nativeName": "Fortune Hill",
+      "code": "BS-SS-3572382",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SS",
+      "latitude": 24.01667,
+      "longitude": -74.45
+    },
+    {
+      "id": 3572244,
+      "name": "Halls Landing",
+      "nativeName": "Halls Landing",
+      "code": "BS-SS-3572244",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SS",
+      "latitude": 24,
+      "longitude": -74.51667
+    },
+    {
+      "id": 3572240,
+      "name": "Harbour Estate",
+      "nativeName": "Harbour Estate",
+      "code": "BS-SS-3572240",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SS",
+      "latitude": 24.1,
+      "longitude": -74.51667
+    },
+    {
+      "id": 3572235,
+      "name": "Hard Bargain",
+      "nativeName": "Hard Bargain",
+      "code": "BS-SS-3572235",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SS",
+      "latitude": 24.06667,
+      "longitude": -74.45
+    },
+    {
+      "id": 3572171,
+      "name": "Holdiday Track",
+      "nativeName": "Holdiday Track",
+      "code": "BS-SS-3572171",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SS",
+      "latitude": 24.01667,
+      "longitude": -74.45
+    },
+    {
+      "id": 3572016,
+      "name": "Long Bay",
+      "nativeName": "Long Bay",
+      "code": "BS-SS-3572016",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SS",
+      "latitude": 24.01151,
+      "longitude": -74.52542
+    },
+    {
+      "id": 3571855,
+      "name": "Montreal",
+      "nativeName": "Montreal",
+      "code": "BS-SS-3571855",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SS",
+      "latitude": 23.95637,
+      "longitude": -74.49443
+    },
+    {
+      "id": 3571739,
+      "name": "Old Place",
+      "nativeName": "Old Place",
+      "code": "BS-SS-3571739",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SS",
+      "latitude": 23.96667,
+      "longitude": -74.48333
+    },
+    {
+      "id": 3571663,
+      "name": "Polly Hill",
+      "nativeName": "Polly Hill",
+      "code": "BS-SS-3571663",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SS",
+      "latitude": 24.08333,
+      "longitude": -74.43333
+    },
+    {
+      "id": 3571636,
+      "name": "Quarters",
+      "nativeName": "Quarters",
+      "code": "BS-SS-3571636",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SS",
+      "latitude": 24.10382,
+      "longitude": -74.51899
+    },
+    {
+      "id": 3571617,
+      "name": "Reckley Hill",
+      "nativeName": "Reckley Hill",
+      "code": "BS-SS-3571617",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SS",
+      "latitude": 24.1,
+      "longitude": -74.45
+    },
+    {
+      "id": 3571387,
+      "name": "South Victoria Hill",
+      "nativeName": "South Victoria Hill",
+      "code": "BS-SS-3571387",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SS",
+      "latitude": 24,
+      "longitude": -74.46667
+    },
+    {
+      "id": 3740293,
+      "name": "Sugar Loaf",
+      "nativeName": "Sugar Loaf",
+      "code": "BS-SS-3740293",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SS",
+      "latitude": 24.0017,
+      "longitude": -74.53516
+    },
+    {
+      "id": 3571342,
+      "name": "Sugar Loaf",
+      "nativeName": "Sugar Loaf",
+      "code": "BS-SS-3571342",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SS",
+      "latitude": 23.65,
+      "longitude": -74.51667
+    },
+    {
+      "id": 3571294,
+      "name": "Trial Farm",
+      "nativeName": "Trial Farm",
+      "code": "BS-SS-3571294",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SS",
+      "latitude": 23.96667,
+      "longitude": -74.48333
+    },
+    {
+      "id": 3571276,
+      "name": "United Estates",
+      "nativeName": "United Estates",
+      "code": "BS-SS-3571276",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SS",
+      "latitude": 24.1,
+      "longitude": -74.45
+    },
+    {
+      "id": 3571264,
+      "name": "Victoria Hill",
+      "nativeName": "Victoria Hill",
+      "code": "BS-SS-3571264",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SS",
+      "latitude": 24.0935,
+      "longitude": -74.52338
+    },
+    {
+      "id": 3571265,
+      "name": "Victoria Hill",
+      "nativeName": "Victoria Hill",
+      "code": "BS-SS-3571265",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-SS",
+      "latitude": 24.03333,
+      "longitude": -74.46667
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "stateId": 361294,
+  "stateCode": "EG-GH",
+  "countryCode": "EG",
+  "cities": [
+    {
+      "id": 358969,
+      "name": "Markaz Basyūn",
+      "nativeName": "Markaz Basyūn",
+      "code": "EG-GH-358969",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-GH",
+      "latitude": 30.95436,
+      "longitude": 30.83018
+    },
+    {
+      "id": 350373,
+      "name": "Markaz Quţūr",
+      "nativeName": "Markaz Quţūr",
+      "code": "EG-GH-350373",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-GH",
+      "latitude": 30.96661,
+      "longitude": 30.97298
+    },
+    {
+      "id": 8561528,
+      "name": "Markaz Sammanūd",
+      "nativeName": "Markaz Sammanūd",
+      "code": "EG-GH-8561528",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-GH",
+      "latitude": 30.91108,
+      "longitude": 31.21005
+    },
+    {
+      "id": 346029,
+      "name": "Markaz Ziftá",
+      "nativeName": "Markaz Ziftá",
+      "code": "EG-GH-346029",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-GH",
+      "latitude": 30.7265,
+      "longitude": 31.2184
+    },
+    {
+      "id": 360830,
+      "name": "Markaz al Maḩallah al Kubrá",
+      "nativeName": "Markaz al Maḩallah al Kubrá",
+      "code": "EG-GH-360830",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-GH",
+      "latitude": 31.02071,
+      "longitude": 31.1338
+    },
+    {
+      "id": 359850,
+      "name": "Markaz as Sanţah",
+      "nativeName": "Markaz as Sanţah",
+      "code": "EG-GH-359850",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-GH",
+      "latitude": 30.76525,
+      "longitude": 31.11383
+    },
+    {
+      "id": 347496,
+      "name": "Markaz Ţanţā",
+      "nativeName": "Markaz Ţanţā",
+      "code": "EG-GH-347496",
+      "countryId": 357994,
+      "countryCode": "EG",
+      "stateCode": "EG-GH",
+      "latitude": 30.81099,
+      "longitude": 30.98086
+    }
+  ]
+}

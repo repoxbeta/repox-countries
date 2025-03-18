@@ -1,0 +1,106 @@
+{
+  "stateId": 1521406,
+  "stateCode": "KZ-43",
+  "countryCode": "KZ",
+  "cities": [
+    {
+      "id": 1526248,
+      "name": "Aral District",
+      "nativeName": "Aral’skiy Rayon",
+      "code": "KZ-43-1526248",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-43",
+      "latitude": 46.21588,
+      "longitude": 61.26357
+    },
+    {
+      "id": 1517322,
+      "name": "Janakorgan District",
+      "nativeName": "Zhanokorganskiy Rayon",
+      "code": "KZ-43-1517322",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-43",
+      "latitude": 43.5,
+      "longitude": 67.25
+    },
+    {
+      "id": 1522998,
+      "name": "Karmakshinskiy Rayon",
+      "nativeName": "Karmakshinskiy Rayon",
+      "code": "KZ-43-1522998",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-43",
+      "latitude": 45.28917,
+      "longitude": 63.45484
+    },
+    {
+      "id": 1522859,
+      "name": "Kazaly District",
+      "nativeName": "Kazalinskiy Rayon",
+      "code": "KZ-43-1522859",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-43",
+      "latitude": 45.33333,
+      "longitude": 62.5
+    },
+    {
+      "id": 12530995,
+      "name": "Kyzylorda Gorodskaya Administratsiya",
+      "nativeName": "Kyzylorda Gorodskaya Administratsiya",
+      "code": "KZ-43-12530995",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-43",
+      "latitude": 44.95191,
+      "longitude": 65.51535
+    },
+    {
+      "id": 1524798,
+      "name": "Shieli District",
+      "nativeName": "Shīeli Aūdany",
+      "code": "KZ-43-1524798",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-43",
+      "latitude": 44.16667,
+      "longitude": 66.75
+    },
+    {
+      "id": 1518650,
+      "name": "Syrdariya District",
+      "nativeName": "Syrdar’inskiy Rayon",
+      "code": "KZ-43-1518650",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-43",
+      "latitude": 45.19413,
+      "longitude": 65.51075
+    },
+    {
+      "id": 1518202,
+      "name": "Terengözek Aūdany",
+      "nativeName": "Terengözek Aūdany",
+      "code": "KZ-43-1518202",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-43",
+      "latitude": 45,
+      "longitude": 65
+    },
+    {
+      "id": 1524477,
+      "name": "Zhalaghash Aūdany",
+      "nativeName": "Zhalaghash Aūdany",
+      "code": "KZ-43-1524477",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-43",
+      "latitude": 45.08333,
+      "longitude": 64.66667
+    }
+  ]
+}

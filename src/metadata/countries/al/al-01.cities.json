@@ -1,0 +1,62 @@
+{
+  "stateId": 865730,
+  "stateCode": "AL-01",
+  "countryCode": "AL",
+  "cities": [
+    {
+      "id": 10944368,
+      "name": "Bashkia Berat",
+      "nativeName": "Bashkia Berat",
+      "code": "AL-01-10944368",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-01",
+      "latitude": 40.69997,
+      "longitude": 19.94983
+    },
+    {
+      "id": 10944369,
+      "name": "Bashkia Kuçovë",
+      "nativeName": "Bashkia Kuçovë",
+      "code": "AL-01-10944369",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-01",
+      "latitude": 40.82489,
+      "longitude": 19.9535
+    },
+    {
+      "id": 10944370,
+      "name": "Bashkia Poliçan",
+      "nativeName": "Bashkia Poliçan",
+      "code": "AL-01-10944370",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-01",
+      "latitude": 40.58608,
+      "longitude": 20.04535
+    },
+    {
+      "id": 10944371,
+      "name": "Bashkia Skrapar",
+      "nativeName": "Bashkia Skrapar",
+      "code": "AL-01-10944371",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-01",
+      "latitude": 40.56036,
+      "longitude": 20.25477
+    },
+    {
+      "id": 10944372,
+      "name": "Bashkia Ura Vajgurore",
+      "nativeName": "Bashkia Ura Vajgurore",
+      "code": "AL-01-10944372",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-01",
+      "latitude": 40.76611,
+      "longitude": 19.81021
+    }
+  ]
+}

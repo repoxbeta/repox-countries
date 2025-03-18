@@ -1,0 +1,182 @@
+{
+  "countryId": 1733045,
+  "countryCode": "MY",
+  "states": [
+    {
+      "id": 1733049,
+      "name": "Johor",
+      "nativeName": "Johor",
+      "code": "MY-01",
+      "internalCode": "01",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "latitude": 2,
+      "longitude": 103.5
+    },
+    {
+      "id": 1733048,
+      "name": "Kedah",
+      "nativeName": "Kedah",
+      "code": "MY-02",
+      "internalCode": "02",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "latitude": 6,
+      "longitude": 100.66667
+    },
+    {
+      "id": 1733044,
+      "name": "Kelantan",
+      "nativeName": "Kelantan",
+      "code": "MY-03",
+      "internalCode": "03",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "latitude": 5.33333,
+      "longitude": 102
+    },
+    {
+      "id": 1733046,
+      "name": "Kuala Lumpur",
+      "nativeName": "Kuala Lumpur",
+      "code": "MY-14",
+      "internalCode": "14",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "latitude": 3.14309,
+      "longitude": 101.68653
+    },
+    {
+      "id": 1734240,
+      "name": "Labuan",
+      "nativeName": "Labuan",
+      "code": "MY-15",
+      "internalCode": "15",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "latitude": 5.33333,
+      "longitude": 115.2
+    },
+    {
+      "id": 1733035,
+      "name": "Melaka",
+      "nativeName": "Melaka",
+      "code": "MY-04",
+      "internalCode": "04",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "latitude": 2.25,
+      "longitude": 102.25
+    },
+    {
+      "id": 1733043,
+      "name": "Negeri Sembilan",
+      "nativeName": "Negeri Sembilan",
+      "code": "MY-05",
+      "internalCode": "05",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "latitude": 2.75,
+      "longitude": 102.16667
+    },
+    {
+      "id": 1733042,
+      "name": "Pahang",
+      "nativeName": "Pahang",
+      "code": "MY-06",
+      "internalCode": "06",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "latitude": 3.5,
+      "longitude": 102.75
+    },
+    {
+      "id": 1733047,
+      "name": "Penang",
+      "nativeName": "Pulau Pinang",
+      "code": "MY-07",
+      "internalCode": "07",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "latitude": 5.37677,
+      "longitude": 100.25848
+    },
+    {
+      "id": 1733041,
+      "name": "Perak",
+      "nativeName": "Perak",
+      "code": "MY-08",
+      "internalCode": "08",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "latitude": 5,
+      "longitude": 101
+    },
+    {
+      "id": 1733040,
+      "name": "Perlis",
+      "nativeName": "Perlis",
+      "code": "MY-09",
+      "internalCode": "09",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "latitude": 6.5,
+      "longitude": 100.25
+    },
+    {
+      "id": 1996552,
+      "name": "Putrajaya",
+      "nativeName": "Putrajaya",
+      "code": "MY-16",
+      "internalCode": "16",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "latitude": 2.91667,
+      "longitude": 101.7
+    },
+    {
+      "id": 1733039,
+      "name": "Sabah",
+      "nativeName": "Sabah",
+      "code": "MY-12",
+      "internalCode": "12",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "latitude": 5.5,
+      "longitude": 117
+    },
+    {
+      "id": 1733038,
+      "name": "Sarawak",
+      "nativeName": "Sarawak",
+      "code": "MY-13",
+      "internalCode": "13",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "latitude": 2.5,
+      "longitude": 113.5
+    },
+    {
+      "id": 1733037,
+      "name": "Selangor",
+      "nativeName": "Selangor",
+      "code": "MY-10",
+      "internalCode": "10",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "latitude": 3.16667,
+      "longitude": 101.5
+    },
+    {
+      "id": 1733036,
+      "name": "Terengganu",
+      "nativeName": "Terengganu",
+      "code": "MY-11",
+      "internalCode": "11",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "latitude": 5,
+      "longitude": 103
+    }
+  ]
+}

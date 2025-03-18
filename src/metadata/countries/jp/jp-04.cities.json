@@ -1,0 +1,271 @@
+{
+  "stateId": 2111888,
+  "stateCode": "JP-04",
+  "countryCode": "JP",
+  "cities": [
+    {
+      "id": 7446990,
+      "name": "Higashimatsushima Shi",
+      "nativeName": "Higashimatsushima Shi",
+      "code": "JP-04-7446990",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-04",
+      "latitude": 38.41089,
+      "longitude": 141.17717
+    },
+    {
+      "id": 7446984,
+      "name": "Igu-gun",
+      "nativeName": "Igu-gun",
+      "code": "JP-04-7446984",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-04",
+      "latitude": 37.87347,
+      "longitude": 140.75522
+    },
+    {
+      "id": 2112574,
+      "name": "Ishinomaki Shi",
+      "nativeName": "Ishinomaki Shi",
+      "code": "JP-04-2112574",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-04",
+      "latitude": 38.47918,
+      "longitude": 141.37226
+    },
+    {
+      "id": 2112525,
+      "name": "Iwanuma-shi",
+      "nativeName": "Iwanuma-shi",
+      "code": "JP-04-2112525",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-04",
+      "latitude": 38.11667,
+      "longitude": 140.88333
+    },
+    {
+      "id": 7446991,
+      "name": "Kakuda Shi",
+      "nativeName": "Kakuda Shi",
+      "code": "JP-04-7446991",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-04",
+      "latitude": 37.98828,
+      "longitude": 140.77903
+    },
+    {
+      "id": 7446985,
+      "name": "Kami-gun",
+      "nativeName": "Kami-gun",
+      "code": "JP-04-7446985",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-04",
+      "latitude": 38.58382,
+      "longitude": 140.71099
+    },
+    {
+      "id": 2112306,
+      "name": "Katta-gun",
+      "nativeName": "Katta-gun",
+      "code": "JP-04-2112306",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-04",
+      "latitude": 38.04997,
+      "longitude": 140.47455
+    },
+    {
+      "id": 2112261,
+      "name": "Kesennuma Shi",
+      "nativeName": "Kesennuma Shi",
+      "code": "JP-04-2112261",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-04",
+      "latitude": 38.91377,
+      "longitude": 141.55711
+    },
+    {
+      "id": 2112092,
+      "name": "Kurihara Shi",
+      "nativeName": "Kurihara Shi",
+      "code": "JP-04-2112092",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-04",
+      "latitude": 38.80895,
+      "longitude": 140.94034
+    },
+    {
+      "id": 2112074,
+      "name": "Kurokawa-gun",
+      "nativeName": "Kurokawa-gun",
+      "code": "JP-04-2112074",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-04",
+      "latitude": 38.43234,
+      "longitude": 140.8717
+    },
+    {
+      "id": 2111889,
+      "name": "Miyagi Gun",
+      "nativeName": "Miyagi Gun",
+      "code": "JP-04-2111889",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-04",
+      "latitude": 38.364,
+      "longitude": 141.0361
+    },
+    {
+      "id": 2111817,
+      "name": "Motoyoshi Gun",
+      "nativeName": "Motoyoshi Gun",
+      "code": "JP-04-2111817",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-04",
+      "latitude": 38.68055,
+      "longitude": 141.43839
+    },
+    {
+      "id": 8303940,
+      "name": "Natori Shi",
+      "nativeName": "Natori Shi",
+      "code": "JP-04-8303940",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-04",
+      "latitude": 38.16729,
+      "longitude": 140.86666
+    },
+    {
+      "id": 7446986,
+      "name": "Oshika Gun",
+      "nativeName": "Oshika Gun",
+      "code": "JP-04-7446986",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-04",
+      "latitude": 38.43268,
+      "longitude": 141.43204
+    },
+    {
+      "id": 2111147,
+      "name": "Sendai Shi",
+      "nativeName": "Sendai Shi",
+      "code": "JP-04-2111147",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-04",
+      "latitude": 38.24711,
+      "longitude": 140.87977
+    },
+    {
+      "id": 2111130,
+      "name": "Shibata-gun",
+      "nativeName": "Shibata-gun",
+      "code": "JP-04-2111130",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-04",
+      "latitude": 38.16265,
+      "longitude": 140.65003
+    },
+    {
+      "id": 2111045,
+      "name": "Shiogama Shi",
+      "nativeName": "Shiogama Shi",
+      "code": "JP-04-2111045",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-04",
+      "latitude": 38.32651,
+      "longitude": 141.03992
+    },
+    {
+      "id": 2111014,
+      "name": "Shiroishi Shi",
+      "nativeName": "Shiroishi Shi",
+      "code": "JP-04-2111014",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-04",
+      "latitude": 37.99691,
+      "longitude": 140.57944
+    },
+    {
+      "id": 8303941,
+      "name": "Tagajō Shi",
+      "nativeName": "Tagajō Shi",
+      "code": "JP-04-8303941",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-04",
+      "latitude": 38.29535,
+      "longitude": 140.9991
+    },
+    {
+      "id": 2110755,
+      "name": "Tome Shi",
+      "nativeName": "Tome Shi",
+      "code": "JP-04-2110755",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-04",
+      "latitude": 38.68583,
+      "longitude": 141.25745
+    },
+    {
+      "id": 12324190,
+      "name": "Tomiya-shi",
+      "nativeName": "Tomiya-shi",
+      "code": "JP-04-12324190",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-04",
+      "latitude": 38.37316,
+      "longitude": 140.89872
+    },
+    {
+      "id": 7446987,
+      "name": "Tōda Gun",
+      "nativeName": "Tōda Gun",
+      "code": "JP-04-7446987",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-04",
+      "latitude": 38.54503,
+      "longitude": 141.12108
+    },
+    {
+      "id": 7446988,
+      "name": "Watari-gun",
+      "nativeName": "Watari-gun",
+      "code": "JP-04-7446988",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-04",
+      "latitude": 37.9964,
+      "longitude": 140.87909
+    },
+    {
+      "id": 7447001,
+      "name": "Ōsaki Shi",
+      "nativeName": "Ōsaki Shi",
+      "code": "JP-04-7447001",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-04",
+      "latitude": 38.68005,
+      "longitude": 140.84669
+    }
+  ]
+}

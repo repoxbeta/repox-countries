@@ -1,0 +1,84 @@
+{
+  "stateId": 276780,
+  "stateCode": "LB-BA",
+  "countryCode": "LB",
+  "cities": [
+    {
+      "id": 276781,
+      "name": "Beirut",
+      "nativeName": "Beirut",
+      "code": "LB-BA-276781",
+      "countryId": 272103,
+      "countryCode": "LB",
+      "stateCode": "LB-BA",
+      "latitude": 33.89332,
+      "longitude": 35.50157
+    },
+    {
+      "id": 7839270,
+      "name": "Adleih",
+      "nativeName": "Adleih",
+      "code": "LB-BA-7839270",
+      "countryId": 272103,
+      "countryCode": "LB",
+      "stateCode": "LB-BA",
+      "latitude": 33.8791,
+      "longitude": 35.51988
+    },
+    {
+      "id": 7839273,
+      "name": "Furn Al Hayek",
+      "nativeName": "Furn Al Hayek",
+      "code": "LB-BA-7839273",
+      "countryId": 272103,
+      "countryCode": "LB",
+      "stateCode": "LB-BA",
+      "latitude": 33.89026,
+      "longitude": 35.51447
+    },
+    {
+      "id": 7838991,
+      "name": "Furn el Chebbak",
+      "nativeName": "Furn el Chebbak",
+      "code": "LB-BA-7838991",
+      "countryId": 272103,
+      "countryCode": "LB",
+      "stateCode": "LB-BA",
+      "latitude": 33.8716,
+      "longitude": 35.52552
+    },
+    {
+      "id": 7838995,
+      "name": "Haddad",
+      "nativeName": "Haddad",
+      "code": "LB-BA-7838995",
+      "countryId": 272103,
+      "countryCode": "LB",
+      "stateCode": "LB-BA",
+      "latitude": 33.89559,
+      "longitude": 35.51487
+    },
+    {
+      "id": 6274905,
+      "name": "Hamra",
+      "nativeName": "Hamra",
+      "code": "LB-BA-6274905",
+      "countryId": 272103,
+      "countryCode": "LB",
+      "stateCode": "LB-BA",
+      "latitude": 33.89583,
+      "longitude": 35.48306
+    },
+    {
+      "id": 6275265,
+      "name": "Ramlet el Bayda",
+      "nativeName": "Ramlet el Bayda",
+      "code": "LB-BA-6275265",
+      "countryId": 272103,
+      "countryCode": "LB",
+      "stateCode": "LB-BA",
+      "latitude": 33.86972,
+      "longitude": 35.48278
+    }
+  ]
+}

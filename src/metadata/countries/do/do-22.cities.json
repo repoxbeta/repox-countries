@@ -1,0 +1,73 @@
+{
+  "stateId": 3493091,
+  "stateCode": "DO-22",
+  "countryCode": "DO",
+  "cities": [
+    {
+      "id": 3511263,
+      "name": "Bohechío",
+      "nativeName": "Bohechío",
+      "code": "DO-22-3511263",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-22",
+      "latitude": 18.83333,
+      "longitude": -71
+    },
+    {
+      "id": 3508017,
+      "name": "El Cercado",
+      "nativeName": "El Cercado",
+      "code": "DO-22-3508017",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-22",
+      "latitude": 18.7,
+      "longitude": -71.46667
+    },
+    {
+      "id": 11154559,
+      "name": "Juan De Herrera",
+      "nativeName": "Juan De Herrera",
+      "code": "DO-22-11154559",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-22",
+      "latitude": 18.87439,
+      "longitude": -71.20271
+    },
+    {
+      "id": 3500371,
+      "name": "Las Matas de Farfán",
+      "nativeName": "Las Matas de Farfán",
+      "code": "DO-22-3500371",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-22",
+      "latitude": 18.91667,
+      "longitude": -71.5
+    },
+    {
+      "id": 3493083,
+      "name": "San Juan de la Maguana",
+      "nativeName": "San Juan de la Maguana",
+      "code": "DO-22-3493083",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-22",
+      "latitude": 18.83333,
+      "longitude": -71.16667
+    },
+    {
+      "id": 3492124,
+      "name": "Vallejuelo",
+      "nativeName": "Vallejuelo",
+      "code": "DO-22-3492124",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-22",
+      "latitude": 18.66667,
+      "longitude": -71.28333
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "stateId": 3599602,
+  "stateCode": "GT-BV",
+  "countryCode": "GT",
+  "cities": [
+    {
+      "id": 3597836,
+      "name": "Municipio de Cubulco",
+      "nativeName": "Municipio de Cubulco",
+      "code": "GT-BV-3597836",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-BV",
+      "latitude": 15.15445,
+      "longitude": -90.67126
+    },
+    {
+      "id": 3597300,
+      "name": "Municipio de El Chol",
+      "nativeName": "Municipio de El Chol",
+      "code": "GT-BV-3597300",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-BV",
+      "latitude": 14.95266,
+      "longitude": -90.48728
+    },
+    {
+      "id": 3595630,
+      "name": "Municipio de Granados",
+      "nativeName": "Municipio de Granados",
+      "code": "GT-BV-3595630",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-BV",
+      "latitude": 14.9314,
+      "longitude": -90.57559
+    },
+    {
+      "id": 3591027,
+      "name": "Municipio de Purulhá",
+      "nativeName": "Municipio de Purulhá",
+      "code": "GT-BV-3591027",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-BV",
+      "latitude": 15.21518,
+      "longitude": -90.03844
+    },
+    {
+      "id": 3590923,
+      "name": "Municipio de Rabinal",
+      "nativeName": "Municipio de Rabinal",
+      "code": "GT-BV-3590923",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-BV",
+      "latitude": 15.11238,
+      "longitude": -90.50706
+    },
+    {
+      "id": 3590615,
+      "name": "Municipio de Salamá",
+      "nativeName": "Municipio de Salamá",
+      "code": "GT-BV-3590615",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-BV",
+      "latitude": 15.08094,
+      "longitude": -90.3227
+    },
+    {
+      "id": 3590106,
+      "name": "Municipio de San Jerónimo",
+      "nativeName": "Municipio de San Jerónimo",
+      "code": "GT-BV-3590106",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-BV",
+      "latitude": 15.06515,
+      "longitude": -90.18997
+    },
+    {
+      "id": 3589729,
+      "name": "Municipio de San Miguel Chicaj",
+      "nativeName": "Municipio de San Miguel Chicaj",
+      "code": "GT-BV-3589729",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-BV",
+      "latitude": 15.15981,
+      "longitude": -90.41303
+    }
+  ]
+}

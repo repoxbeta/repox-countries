@@ -1,0 +1,106 @@
+{
+  "stateId": 12510143,
+  "stateCode": "KZ-10",
+  "countryCode": "KZ",
+  "cities": [
+    {
+      "id": 1526967,
+      "name": "Abay District",
+      "nativeName": "Abayskiy Rayon",
+      "code": "KZ-10-1526967",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-10",
+      "latitude": 49,
+      "longitude": 79.25
+    },
+    {
+      "id": 1525986,
+      "name": "Ayagoz Gorodskaya Administratsiya",
+      "nativeName": "Ayagoz Gorodskaya Administratsiya",
+      "code": "KZ-10-1525986",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-10",
+      "latitude": 47.93333,
+      "longitude": 80.38333
+    },
+    {
+      "id": 12483025,
+      "name": "Ayagozskiy Rayon",
+      "nativeName": "Ayagozskiy Rayon",
+      "code": "KZ-10-12483025",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-10",
+      "latitude": 47.94428,
+      "longitude": 79.48756
+    },
+    {
+      "id": 1525406,
+      "name": "Beskaragay District",
+      "nativeName": "Beskaragayskiy Rayon",
+      "code": "KZ-10-1525406",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-10",
+      "latitude": 51,
+      "longitude": 79.25
+    },
+    {
+      "id": 1525133,
+      "name": "Borodulikha District",
+      "nativeName": "Borodulikhinskiy Rayon",
+      "code": "KZ-10-1525133",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-10",
+      "latitude": 50.83333,
+      "longitude": 80.75
+    },
+    {
+      "id": 1522504,
+      "name": "Kokpekti District",
+      "nativeName": "Kokpektinskiy Rayon",
+      "code": "KZ-10-1522504",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-10",
+      "latitude": 48.5,
+      "longitude": 82.75
+    },
+    {
+      "id": 12483022,
+      "name": "Kurchatov Gorodskaya Administratsiya",
+      "nativeName": "Kurchatov Gorodskaya Administratsiya",
+      "code": "KZ-10-12483022",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-10",
+      "latitude": 50.72346,
+      "longitude": 78.54446
+    },
+    {
+      "id": 1516846,
+      "name": "Semey Gorodskaya Administratsiya",
+      "nativeName": "Semey Gorodskaya Administratsiya",
+      "code": "KZ-10-1516846",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-10",
+      "latitude": 50.01635,
+      "longitude": 78.90559
+    },
+    {
+      "id": 1517718,
+      "name": "Urzhar District",
+      "nativeName": "Urdzharskiy Rayon",
+      "code": "KZ-10-1517718",
+      "countryId": 1522867,
+      "countryCode": "KZ",
+      "stateCode": "KZ-10",
+      "latitude": 47.08333,
+      "longitude": 81.63333
+    }
+  ]
+}

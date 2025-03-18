@@ -1,4 +1,5 @@
 import fs from 'fs/promises';
+import path from 'path';
 
 /**
  * Loads a JSON file and converts it into a Set<T>.
@@ -23,14 +24,18 @@ export const loadingFile = async <T = unknown>(path: string): Promise<Set<T>> =>
  * If the file exists, it overwrites it with the new data.
  *
  * @template T - The type of elements stored in the file.
- * @param {string} path - The file path where data should be saved.
- * @param {T[]} data - The array of data to be saved.
+ * @param {string} filePath - The file path where data should be saved.
+ * @param {T} data - The array of data to be saved.
  * @returns {Promise<void>} - A promise that resolves once the data is written successfully.
  */
-export const savingFile = async <T = unknown>(path: string, data: T[]): Promise<void> => {
+export const savingFile = async <T = unknown>(filePath: string, data: T): Promise<void> => {
   try {
-    await fs.writeFile(path, JSON.stringify(data, null, 2), 'utf-8');
+    // Ensure exists folder
+    const dirPath = path.dirname(filePath);
+    await fs.mkdir(dirPath, { recursive: true });
+
+    await fs.writeFile(filePath, JSON.stringify(data, null, 2), 'utf-8');
   } catch (error) {
-    console.error(`Failed to save data to ${path}:`, error);
+    console.error(`Failed to save data to ${filePath}:`, error);
   }
 };

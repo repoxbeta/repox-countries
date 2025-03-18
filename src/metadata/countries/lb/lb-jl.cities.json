@@ -1,0 +1,95 @@
+{
+  "stateId": 273607,
+  "stateCode": "LB-JL",
+  "countryCode": "LB",
+  "cities": [
+    {
+      "id": 280424,
+      "name": "Caza de Aaley",
+      "nativeName": "Caza de Aaley",
+      "code": "LB-JL-280424",
+      "countryId": 272103,
+      "countryCode": "LB",
+      "stateCode": "LB-JL",
+      "latitude": 33.77565,
+      "longitude": 35.59297
+    },
+    {
+      "id": 277225,
+      "name": "Caza de Baabda",
+      "nativeName": "Caza de Baabda",
+      "code": "LB-JL-277225",
+      "countryId": 272103,
+      "countryCode": "LB",
+      "stateCode": "LB-JL",
+      "latitude": 33.84592,
+      "longitude": 35.66791
+    },
+    {
+      "id": 278156,
+      "name": "Caza du Chouf",
+      "nativeName": "Caza du Chouf",
+      "code": "LB-JL-278156",
+      "countryId": 272103,
+      "countryCode": "LB",
+      "stateCode": "LB-JL",
+      "latitude": 33.65041,
+      "longitude": 35.53239
+    },
+    {
+      "id": 272300,
+      "name": "Caza du Kesrouane",
+      "nativeName": "Caza du Kesrouane",
+      "code": "LB-JL-272300",
+      "countryId": 272103,
+      "countryCode": "LB",
+      "stateCode": "LB-JL",
+      "latitude": 34.03243,
+      "longitude": 35.79718
+    },
+    {
+      "id": 273201,
+      "name": "Jbeil District",
+      "nativeName": "Caza de Jbayl",
+      "code": "LB-JL-273201",
+      "countryId": 272103,
+      "countryCode": "LB",
+      "stateCode": "LB-JL",
+      "latitude": 34.12521,
+      "longitude": 35.79907
+    },
+    {
+      "id": 10119971,
+      "name": "Keserwan District",
+      "nativeName": "Keserwan District",
+      "code": "LB-JL-10119971",
+      "countryId": 272103,
+      "countryCode": "LB",
+      "stateCode": "LB-JL",
+      "latitude": 33.96972,
+      "longitude": 35.61556
+    },
+    {
+      "id": 279440,
+      "name": "Matn",
+      "nativeName": "Caza du Matn",
+      "code": "LB-JL-279440",
+      "countryId": 272103,
+      "countryCode": "LB",
+      "stateCode": "LB-JL",
+      "latitude": 33.91852,
+      "longitude": 35.69368
+    },
+    {
+      "id": 7838967,
+      "name": "Metn District",
+      "nativeName": "Metn District",
+      "code": "LB-JL-7838967",
+      "countryId": 272103,
+      "countryCode": "LB",
+      "stateCode": "LB-JL",
+      "latitude": 33.89417,
+      "longitude": 35.73639
+    }
+  ]
+}

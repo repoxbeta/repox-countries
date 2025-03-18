@@ -1,0 +1,171 @@
+{
+  "countryId": 453733,
+  "countryCode": "EE",
+  "states": [
+    {
+      "id": 592170,
+      "name": "Harjumaa",
+      "nativeName": "Harjumaa",
+      "code": "EE-37",
+      "internalCode": "37",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "latitude": 59.33333,
+      "longitude": 24.83333
+    },
+    {
+      "id": 592133,
+      "name": "Hiiumaa",
+      "nativeName": "Hiiumaa",
+      "code": "EE-39",
+      "internalCode": "39",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "latitude": 58.9,
+      "longitude": 22.63333
+    },
+    {
+      "id": 592075,
+      "name": "Ida-Virumaa",
+      "nativeName": "Ida-Virumaa",
+      "code": "EE-45",
+      "internalCode": "45",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "latitude": 59.25,
+      "longitude": 27.41667
+    },
+    {
+      "id": 591961,
+      "name": "Järvamaa",
+      "nativeName": "Järvamaa",
+      "code": "EE-52",
+      "internalCode": "52",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "latitude": 58.91667,
+      "longitude": 25.66667
+    },
+    {
+      "id": 591901,
+      "name": "Jõgevamaa",
+      "nativeName": "Jõgevamaa",
+      "code": "EE-50",
+      "internalCode": "50",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "latitude": 58.73333,
+      "longitude": 26.46667
+    },
+    {
+      "id": 590856,
+      "name": "Lääne",
+      "nativeName": "Läänemaa",
+      "code": "EE-56",
+      "internalCode": "56",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "latitude": 58.93333,
+      "longitude": 23.55
+    },
+    {
+      "id": 590854,
+      "name": "Lääne-Virumaa",
+      "nativeName": "Lääne-Virumaa",
+      "code": "EE-60",
+      "internalCode": "60",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "latitude": 59.25,
+      "longitude": 26.33333
+    },
+    {
+      "id": 589576,
+      "name": "Pärnumaa",
+      "nativeName": "Pärnumaa",
+      "code": "EE-68",
+      "internalCode": "68",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "latitude": 58.46667,
+      "longitude": 24.56667
+    },
+    {
+      "id": 589373,
+      "name": "Põlvamaa",
+      "nativeName": "Põlvamaa",
+      "code": "EE-64",
+      "internalCode": "64",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "latitude": 58.08333,
+      "longitude": 27.16667
+    },
+    {
+      "id": 589115,
+      "name": "Raplamaa",
+      "nativeName": "Raplamaa",
+      "code": "EE-71",
+      "internalCode": "71",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "latitude": 58.96667,
+      "longitude": 24.7
+    },
+    {
+      "id": 588879,
+      "name": "Saare",
+      "nativeName": "Saaremaa",
+      "code": "EE-74",
+      "internalCode": "74",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "latitude": 58.41667,
+      "longitude": 22.58333
+    },
+    {
+      "id": 588334,
+      "name": "Tartu",
+      "nativeName": "Tartumaa",
+      "code": "EE-79",
+      "internalCode": "79",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "latitude": 58.38065,
+      "longitude": 26.72496
+    },
+    {
+      "id": 587875,
+      "name": "Valgamaa",
+      "nativeName": "Valgamaa",
+      "code": "EE-81",
+      "internalCode": "81",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "latitude": 57.91667,
+      "longitude": 26.16667
+    },
+    {
+      "id": 587590,
+      "name": "Viljandimaa",
+      "nativeName": "Viljandimaa",
+      "code": "EE-84",
+      "internalCode": "84",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "latitude": 58.33333,
+      "longitude": 25.56667
+    },
+    {
+      "id": 587448,
+      "name": "Võrumaa",
+      "nativeName": "Võrumaa",
+      "code": "EE-87",
+      "internalCode": "87",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "latitude": 57.76667,
+      "longitude": 26.93333
+    }
+  ]
+}

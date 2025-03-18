@@ -1,0 +1,183 @@
+{
+  "stateId": 3590686,
+  "stateCode": "GT-SA",
+  "countryCode": "GT",
+  "cities": [
+    {
+      "id": 3599786,
+      "name": "Municipio de Alotenango",
+      "nativeName": "Municipio de Alotenango",
+      "code": "GT-SA-3599786",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-SA",
+      "latitude": 14.46485,
+      "longitude": -90.82773
+    },
+    {
+      "id": 3599698,
+      "name": "Municipio de Antigua Guatemala",
+      "nativeName": "Municipio de Antigua Guatemala",
+      "code": "GT-SA-3599698",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-SA",
+      "latitude": 14.54313,
+      "longitude": -90.72683
+    },
+    {
+      "id": 3598127,
+      "name": "Municipio de Ciudad Vieja",
+      "nativeName": "Municipio de Ciudad Vieja",
+      "code": "GT-SA-3598127",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-SA",
+      "latitude": 14.508,
+      "longitude": -90.77028
+    },
+    {
+      "id": 3595170,
+      "name": "Municipio de Jocotenango",
+      "nativeName": "Municipio de Jocotenango",
+      "code": "GT-SA-3595170",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-SA",
+      "latitude": 14.58658,
+      "longitude": -90.73579
+    },
+    {
+      "id": 3592769,
+      "name": "Municipio de Magdalena Milpas Altas",
+      "nativeName": "Municipio de Magdalena Milpas Altas",
+      "code": "GT-SA-3592769",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-SA",
+      "latitude": 14.54206,
+      "longitude": -90.67553
+    },
+    {
+      "id": 3591573,
+      "name": "Municipio de Pastores",
+      "nativeName": "Municipio de Pastores",
+      "code": "GT-SA-3591573",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-SA",
+      "latitude": 14.59581,
+      "longitude": -90.77036
+    },
+    {
+      "id": 3590474,
+      "name": "Municipio de San Antonio Aguas Calientes",
+      "nativeName": "Municipio de San Antonio Aguas Calientes",
+      "code": "GT-SA-3590474",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-SA",
+      "latitude": 14.54562,
+      "longitude": -90.77803
+    },
+    {
+      "id": 3590392,
+      "name": "Municipio de San Bartolomé Milpas Altas",
+      "nativeName": "Municipio de San Bartolomé Milpas Altas",
+      "code": "GT-SA-3590392",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-SA",
+      "latitude": 14.59964,
+      "longitude": -90.68369
+    },
+    {
+      "id": 3589851,
+      "name": "Municipio de San Lucas Sacatepéquez",
+      "nativeName": "Municipio de San Lucas Sacatepéquez",
+      "code": "GT-SA-3589851",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-SA",
+      "latitude": 14.59763,
+      "longitude": -90.64968
+    },
+    {
+      "id": 3589726,
+      "name": "Municipio de San Miguel Dueñas",
+      "nativeName": "Municipio de San Miguel Dueñas",
+      "code": "GT-SA-3589726",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-SA",
+      "latitude": 14.52608,
+      "longitude": -90.83194
+    },
+    {
+      "id": 3589459,
+      "name": "Municipio de Santa Catarina Barahona",
+      "nativeName": "Municipio de Santa Catarina Barahona",
+      "code": "GT-SA-3589459",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-SA",
+      "latitude": 14.55512,
+      "longitude": -90.80595
+    },
+    {
+      "id": 3589284,
+      "name": "Municipio de Santa Lucía Milpas Altas",
+      "nativeName": "Municipio de Santa Lucía Milpas Altas",
+      "code": "GT-SA-3589284",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-SA",
+      "latitude": 14.56753,
+      "longitude": -90.67551
+    },
+    {
+      "id": 3589251,
+      "name": "Municipio de Santa María de Jesús",
+      "nativeName": "Municipio de Santa María de Jesús",
+      "code": "GT-SA-3589251",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-SA",
+      "latitude": 14.47849,
+      "longitude": -90.69989
+    },
+    {
+      "id": 3589100,
+      "name": "Municipio de Santiago Sacatepéquez",
+      "nativeName": "Municipio de Santiago Sacatepéquez",
+      "code": "GT-SA-3589100",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-SA",
+      "latitude": 14.63784,
+      "longitude": -90.68067
+    },
+    {
+      "id": 3589071,
+      "name": "Municipio de Santo Domingo Xenacoj",
+      "nativeName": "Municipio de Santo Domingo Xenacoj",
+      "code": "GT-SA-3589071",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-SA",
+      "latitude": 14.67832,
+      "longitude": -90.70138
+    },
+    {
+      "id": 3588652,
+      "name": "Municipio de Sumpango",
+      "nativeName": "Municipio de Sumpango",
+      "code": "GT-SA-3588652",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-SA",
+      "latitude": 14.65573,
+      "longitude": -90.74623
+    }
+  ]
+}

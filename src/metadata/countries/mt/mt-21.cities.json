@@ -1,0 +1,62 @@
+{
+  "stateId": 8299725,
+  "stateCode": "MT-21",
+  "countryCode": "MT",
+  "cities": [
+    {
+      "id": 2562830,
+      "name": "Kalkara",
+      "nativeName": "Kalkara",
+      "code": "MT-21-2562830",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-21",
+      "latitude": 35.88917,
+      "longitude": 14.53278
+    },
+    {
+      "id": 2564765,
+      "name": "Bighi",
+      "nativeName": "Bighi",
+      "code": "MT-21-2564765",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-21",
+      "latitude": 35.89235,
+      "longitude": 14.52459
+    },
+    {
+      "id": 2562514,
+      "name": "Santu Rokku",
+      "nativeName": "Santu Rokku",
+      "code": "MT-21-2562514",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-21",
+      "latitude": 35.89083,
+      "longitude": 14.54056
+    },
+    {
+      "id": 10401834,
+      "name": "Smart City",
+      "nativeName": "Smart City",
+      "code": "MT-21-10401834",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-21",
+      "latitude": 35.8903,
+      "longitude": 14.54032
+    },
+    {
+      "id": 2562287,
+      "name": "Wied Għammieq",
+      "nativeName": "Wied Għammieq",
+      "code": "MT-21-2562287",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-21",
+      "latitude": 35.89694,
+      "longitude": 14.52944
+    }
+  ]
+}

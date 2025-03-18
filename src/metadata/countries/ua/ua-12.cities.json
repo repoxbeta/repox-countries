@@ -1,0 +1,84 @@
+{
+  "stateId": 709929,
+  "stateCode": "UA-12",
+  "countryCode": "UA",
+  "cities": [
+    {
+      "id": 709961,
+      "name": "Dnipro rural raion",
+      "nativeName": "Dnipro rural raion",
+      "code": "UA-12-709961",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-12",
+      "latitude": 48.53083,
+      "longitude": 35.08325
+    },
+    {
+      "id": 12189532,
+      "name": "Kamianskyi Raion",
+      "nativeName": "Kamianskyi Raion",
+      "code": "UA-12-12189532",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-12",
+      "latitude": 48.47,
+      "longitude": 34.06
+    },
+    {
+      "id": 704025,
+      "name": "Kryvyi Rih Raion",
+      "nativeName": "Kryvyy Rih Raion",
+      "code": "UA-12-704025",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-12",
+      "latitude": 47.90056,
+      "longitude": 33.3611
+    },
+    {
+      "id": 700049,
+      "name": "Nikopol Raion",
+      "nativeName": "Nikopol Raion",
+      "code": "UA-12-700049",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-12",
+      "latitude": 47.5671,
+      "longitude": 34.39827
+    },
+    {
+      "id": 699442,
+      "name": "Novomoskovsk Raion",
+      "nativeName": "Novomoskovsk Raion",
+      "code": "UA-12-699442",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-12",
+      "latitude": 48.62727,
+      "longitude": 35.25853
+    },
+    {
+      "id": 697888,
+      "name": "Pavlohrad Raion",
+      "nativeName": "Pavlohrad Raion",
+      "code": "UA-12-697888",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-12",
+      "latitude": 48.52635,
+      "longitude": 35.87008
+    },
+    {
+      "id": 693793,
+      "name": "Synelnykove Raion",
+      "nativeName": "Synelnykove Raion",
+      "code": "UA-12-693793",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-12",
+      "latitude": 48.32583,
+      "longitude": 35.52955
+    }
+  ]
+}

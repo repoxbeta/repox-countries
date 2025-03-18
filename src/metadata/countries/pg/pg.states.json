@@ -1,0 +1,248 @@
+{
+  "countryId": 2088628,
+  "countryCode": "PG",
+  "states": [
+    {
+      "id": 2089470,
+      "name": "Bougainville",
+      "nativeName": "Bougainville",
+      "code": "PG-NSB",
+      "internalCode": "NSB",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "latitude": -6,
+      "longitude": 155
+    },
+    {
+      "id": 2133763,
+      "name": "Central Province",
+      "nativeName": "Central Province",
+      "code": "PG-CPM",
+      "internalCode": "CPM",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "latitude": -10,
+      "longitude": 148
+    },
+    {
+      "id": 2098593,
+      "name": "Chimbu Province",
+      "nativeName": "Chimbu Province",
+      "code": "PG-CPK",
+      "internalCode": "CPK",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "latitude": -6.25,
+      "longitude": 144.83333
+    },
+    {
+      "id": 2097853,
+      "name": "East New Britain Province",
+      "nativeName": "East New Britain Province",
+      "code": "PG-EBR",
+      "internalCode": "EBR",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "latitude": -4.61283,
+      "longitude": 151.88775
+    },
+    {
+      "id": 2097846,
+      "name": "East Sepik Province",
+      "nativeName": "East Sepik Province",
+      "code": "PG-ESW",
+      "internalCode": "ESW",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "latitude": -4,
+      "longitude": 143.75
+    },
+    {
+      "id": 2097855,
+      "name": "Eastern Highlands Province",
+      "nativeName": "Eastern Highlands Province",
+      "code": "PG-EHG",
+      "internalCode": "EHG",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "latitude": -6.5,
+      "longitude": 145.58333
+    },
+    {
+      "id": 2097655,
+      "name": "Enga Province",
+      "nativeName": "Enga Province",
+      "code": "PG-EPW",
+      "internalCode": "EPW",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "latitude": -5.5,
+      "longitude": 143.5
+    },
+    {
+      "id": 2096633,
+      "name": "Gulf Province",
+      "nativeName": "Gulf Province",
+      "code": "PG-GPK",
+      "internalCode": "GPK",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "latitude": -7.7246,
+      "longitude": 145.08545
+    },
+    {
+      "id": 8521658,
+      "name": "Hela Province",
+      "nativeName": "Hela",
+      "code": "PG-HLA",
+      "internalCode": "HLA",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "latitude": -6.29824,
+      "longitude": 142.84424
+    },
+    {
+      "id": 8521660,
+      "name": "Jiwaka Province",
+      "nativeName": "Jiwaka",
+      "code": "PG-JWK",
+      "internalCode": "JWK",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "latitude": -5.90224,
+      "longitude": 144.67278
+    },
+    {
+      "id": 2091993,
+      "name": "Madang Province",
+      "nativeName": "Madang Province",
+      "code": "PG-MPM",
+      "internalCode": "MPM",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "latitude": -5,
+      "longitude": 145.5
+    },
+    {
+      "id": 2091495,
+      "name": "Manus Province",
+      "nativeName": "Manus Province",
+      "code": "PG-MRL",
+      "internalCode": "MRL",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "latitude": -2,
+      "longitude": 147
+    },
+    {
+      "id": 2132895,
+      "name": "Milne Bay Province",
+      "nativeName": "Milne Bay Province",
+      "code": "PG-MBA",
+      "internalCode": "MBA",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "latitude": -10.55262,
+      "longitude": 150.31494
+    },
+    {
+      "id": 2090468,
+      "name": "Morobe Province",
+      "nativeName": "Morobe Province",
+      "code": "PG-MPL",
+      "internalCode": "MPL",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "latitude": -7.0106,
+      "longitude": 146.9672
+    },
+    {
+      "id": 2089856,
+      "name": "National Capital",
+      "nativeName": "National Capital District",
+      "code": "PG-NCD",
+      "internalCode": "NCD",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "latitude": -9.41667,
+      "longitude": 147.16667
+    },
+    {
+      "id": 2089693,
+      "name": "New Ireland",
+      "nativeName": "New Ireland Province",
+      "code": "PG-NIK",
+      "internalCode": "NIK",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "latitude": -3,
+      "longitude": 151.5
+    },
+    {
+      "id": 2089478,
+      "name": "Oro Province",
+      "nativeName": "Northern Province",
+      "code": "PG-NPP",
+      "internalCode": "NPP",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "latitude": -9,
+      "longitude": 148.5
+    },
+    {
+      "id": 2087246,
+      "name": "Sandaun Province",
+      "nativeName": "West Sepik Province",
+      "code": "PG-SAN",
+      "internalCode": "SAN",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "latitude": -3.5,
+      "longitude": 142
+    },
+    {
+      "id": 2086331,
+      "name": "Southern Highlands Province",
+      "nativeName": "Southern Highlands Province",
+      "code": "PG-SHM",
+      "internalCode": "SHM",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "latitude": -6.5,
+      "longitude": 143.58333
+    },
+    {
+      "id": 2083546,
+      "name": "West New Britain Province",
+      "nativeName": "West New Britain Province",
+      "code": "PG-WBK",
+      "internalCode": "WBK",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "latitude": -5.87833,
+      "longitude": 149.82605
+    },
+    {
+      "id": 2083551,
+      "name": "Western Highlands Province",
+      "nativeName": "Western Highlands Province",
+      "code": "PG-WHM",
+      "internalCode": "WHM",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "latitude": -5.75,
+      "longitude": 144.25
+    },
+    {
+      "id": 2083549,
+      "name": "Western Province",
+      "nativeName": "Western Province",
+      "code": "PG-WPD",
+      "internalCode": "WPD",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "latitude": -7.5,
+      "longitude": 142
+    }
+  ]
+}

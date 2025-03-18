@@ -1,0 +1,117 @@
+{
+  "stateId": 1656538,
+  "stateCode": "LA-KH",
+  "countryCode": "LA",
+  "cities": [
+    {
+      "id": 11550495,
+      "name": "Kounkham",
+      "nativeName": "Kounkham",
+      "code": "LA-KH-11550495",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-KH",
+      "latitude": 17.20393,
+      "longitude": 105.53123
+    },
+    {
+      "id": 1904791,
+      "name": "Muang Boualapha",
+      "nativeName": "Muang Boualapha",
+      "code": "LA-KH-1904791",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-KH",
+      "latitude": 17.30329,
+      "longitude": 105.94077
+    },
+    {
+      "id": 1657260,
+      "name": "Muang Hinboun",
+      "nativeName": "Muang Hinboun",
+      "code": "LA-KH-1657260",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-KH",
+      "latitude": 17.87674,
+      "longitude": 104.59526
+    },
+    {
+      "id": 1655492,
+      "name": "Muang Mahaxai",
+      "nativeName": "Muang Mahaxai",
+      "code": "LA-KH-1655492",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-KH",
+      "latitude": 17.36317,
+      "longitude": 105.31497
+    },
+    {
+      "id": 1904793,
+      "name": "Muang Na Kay",
+      "nativeName": "Muang Na Kay",
+      "code": "LA-KH-1904793",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-KH",
+      "latitude": 17.86886,
+      "longitude": 105.29147
+    },
+    {
+      "id": 1904788,
+      "name": "Muang Nongbôk",
+      "nativeName": "Muang Nongbôk",
+      "code": "LA-KH-1904788",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-KH",
+      "latitude": 17.06133,
+      "longitude": 104.8239
+    },
+    {
+      "id": 1656537,
+      "name": "Muang Thakhèk",
+      "nativeName": "Muang Thakhèk",
+      "code": "LA-KH-1656537",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-KH",
+      "latitude": 17.4088,
+      "longitude": 104.82639
+    },
+    {
+      "id": 1904790,
+      "name": "Muang Xaibouathong",
+      "nativeName": "Muang Xaibouathong",
+      "code": "LA-KH-1904790",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-KH",
+      "latitude": 17.18114,
+      "longitude": 105.55175
+    },
+    {
+      "id": 1904789,
+      "name": "Muang Xebangfai",
+      "nativeName": "Muang Xebangfai",
+      "code": "LA-KH-1904789",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-KH",
+      "latitude": 17.1762,
+      "longitude": 105.1259
+    },
+    {
+      "id": 1657427,
+      "name": "Nhommalath",
+      "nativeName": "Muang Gnômmarat",
+      "code": "LA-KH-1657427",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-KH",
+      "latitude": 17.55983,
+      "longitude": 105.26487
+    }
+  ]
+}

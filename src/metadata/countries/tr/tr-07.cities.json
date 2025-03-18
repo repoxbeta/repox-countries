@@ -1,0 +1,227 @@
+{
+  "stateId": 323776,
+  "stateCode": "TR-07",
+  "countryCode": "TR",
+  "cities": [
+    {
+      "id": 8632154,
+      "name": "Akseki İlçesi",
+      "nativeName": "Akseki İlçesi",
+      "code": "TR-07-8632154",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-07",
+      "latitude": 37.0582,
+      "longitude": 31.80153
+    },
+    {
+      "id": 9535333,
+      "name": "Aksu",
+      "nativeName": "Aksu",
+      "code": "TR-07-9535333",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-07",
+      "latitude": 36.92794,
+      "longitude": 30.82352
+    },
+    {
+      "id": 7732185,
+      "name": "Alanya",
+      "nativeName": "Alanya",
+      "code": "TR-07-7732185",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-07",
+      "latitude": 36.56173,
+      "longitude": 32.02309
+    },
+    {
+      "id": 8632162,
+      "name": "Demre İlçesi",
+      "nativeName": "Demre İlçesi",
+      "code": "TR-07-8632162",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-07",
+      "latitude": 36.2551,
+      "longitude": 29.99788
+    },
+    {
+      "id": 9535332,
+      "name": "Döşemealtı İlçesi",
+      "nativeName": "Döşemealtı İlçesi",
+      "code": "TR-07-9535332",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-07",
+      "latitude": 37.02366,
+      "longitude": 30.5904
+    },
+    {
+      "id": 8632165,
+      "name": "Elmalı İlçesi",
+      "nativeName": "Elmalı İlçesi",
+      "code": "TR-07-8632165",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-07",
+      "latitude": 36.74641,
+      "longitude": 29.92324
+    },
+    {
+      "id": 7732189,
+      "name": "Finike",
+      "nativeName": "Finike",
+      "code": "TR-07-7732189",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-07",
+      "latitude": 36.42355,
+      "longitude": 30.06645
+    },
+    {
+      "id": 8632151,
+      "name": "Gazipaşa İlçesi",
+      "nativeName": "Gazipaşa İlçesi",
+      "code": "TR-07-8632151",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-07",
+      "latitude": 36.28012,
+      "longitude": 32.3057
+    },
+    {
+      "id": 8632153,
+      "name": "Gündoğmuş İlçesi",
+      "nativeName": "Gündoğmuş İlçesi",
+      "code": "TR-07-8632153",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-07",
+      "latitude": 36.82446,
+      "longitude": 32.00679
+    },
+    {
+      "id": 8632166,
+      "name": "Kaş İlçesi",
+      "nativeName": "Kaş İlçesi",
+      "code": "TR-07-8632166",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-07",
+      "latitude": 36.21207,
+      "longitude": 29.65605
+    },
+    {
+      "id": 7732191,
+      "name": "Kemer İlçesi",
+      "nativeName": "Kemer İlçesi",
+      "code": "TR-07-7732191",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-07",
+      "latitude": 36.60249,
+      "longitude": 30.48039
+    },
+    {
+      "id": 9535336,
+      "name": "Kepez İlçesi",
+      "nativeName": "Kepez İlçesi",
+      "code": "TR-07-9535336",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-07",
+      "latitude": 37.01187,
+      "longitude": 30.75966
+    },
+    {
+      "id": 9535334,
+      "name": "Konyaaltı",
+      "nativeName": "Konyaaltı",
+      "code": "TR-07-9535334",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-07",
+      "latitude": 36.86424,
+      "longitude": 30.62714
+    },
+    {
+      "id": 8632164,
+      "name": "Korkuteli İlçesi",
+      "nativeName": "Korkuteli İlçesi",
+      "code": "TR-07-8632164",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-07",
+      "latitude": 37.07581,
+      "longitude": 30.20293
+    },
+    {
+      "id": 7911038,
+      "name": "Kumluca",
+      "nativeName": "Kumluca",
+      "code": "TR-07-7911038",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-07",
+      "latitude": 36.58,
+      "longitude": 30.3
+    },
+    {
+      "id": 7732193,
+      "name": "Manavgat İlçesi",
+      "nativeName": "Manavgat İlçesi",
+      "code": "TR-07-7732193",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-07",
+      "latitude": 36.79008,
+      "longitude": 31.46286
+    },
+    {
+      "id": 7732194,
+      "name": "Merkez",
+      "nativeName": "Merkez",
+      "code": "TR-07-7732194",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-07",
+      "latitude": 37.00696,
+      "longitude": 30.62051
+    },
+    {
+      "id": 9535335,
+      "name": "Muratpaşa İlçesi",
+      "nativeName": "Muratpaşa İlçesi",
+      "code": "TR-07-9535335",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-07",
+      "latitude": 36.87907,
+      "longitude": 30.76859
+    },
+    {
+      "id": 7732195,
+      "name": "Serik",
+      "nativeName": "Serik",
+      "code": "TR-07-7732195",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-07",
+      "latitude": 37.07743,
+      "longitude": 31.00677
+    },
+    {
+      "id": 8632156,
+      "name": "İbradı İlçesi",
+      "nativeName": "İbradı İlçesi",
+      "code": "TR-07-8632156",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-07",
+      "latitude": 37.10757,
+      "longitude": 31.60969
+    }
+  ]
+}

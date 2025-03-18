@@ -1,0 +1,128 @@
+{
+  "stateId": 1559972,
+  "stateCode": "VN-52",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 11497492,
+      "name": "Châu Thành District",
+      "nativeName": "Huyện Châu Thành",
+      "code": "VN-52-11497492",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-52",
+      "latitude": 9.70263,
+      "longitude": 105.89773
+    },
+    {
+      "id": 9534763,
+      "name": "Huyện Cù Lao Dung",
+      "nativeName": "Huyện Cù Lao Dung",
+      "code": "VN-52-9534763",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-52",
+      "latitude": 9.62429,
+      "longitude": 106.18517
+    },
+    {
+      "id": 9534762,
+      "name": "Huyện Trần Đề",
+      "nativeName": "Huyện Trần Đề",
+      "code": "VN-52-9534762",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-52",
+      "latitude": 9.49515,
+      "longitude": 106.09386
+    },
+    {
+      "id": 1904923,
+      "name": "Kế Sách District",
+      "nativeName": "Huyện Kế Sách",
+      "code": "VN-52-1904923",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-52",
+      "latitude": 9.81771,
+      "longitude": 105.9419
+    },
+    {
+      "id": 1904922,
+      "name": "Long Phú District",
+      "nativeName": "Huyện Long Phú",
+      "code": "VN-52-1904922",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-52",
+      "latitude": 9.63715,
+      "longitude": 106.08226
+    },
+    {
+      "id": 1904924,
+      "name": "Mỹ Tú District",
+      "nativeName": "Huyện Mỹ Tú",
+      "code": "VN-52-1904924",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-52",
+      "latitude": 9.60849,
+      "longitude": 105.80681
+    },
+    {
+      "id": 1904925,
+      "name": "Mỹ Xuyên District",
+      "nativeName": "Huyện Mỹ Xuyên",
+      "code": "VN-52-1904925",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-52",
+      "latitude": 9.442,
+      "longitude": 105.88546
+    },
+    {
+      "id": 8728273,
+      "name": "Ngã Năm District",
+      "nativeName": "Huyen Nga Nam",
+      "code": "VN-52-8728273",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-52",
+      "latitude": 9.56127,
+      "longitude": 105.59476
+    },
+    {
+      "id": 1904921,
+      "name": "Thành Phố Sóc Trăng",
+      "nativeName": "Thành Phố Sóc Trăng",
+      "code": "VN-52-1904921",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-52",
+      "latitude": 9.60654,
+      "longitude": 105.98457
+    },
+    {
+      "id": 1904926,
+      "name": "Thạnh Trị District",
+      "nativeName": "Huyện Thạnh Trị",
+      "code": "VN-52-1904926",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-52",
+      "latitude": 9.46939,
+      "longitude": 105.71196
+    },
+    {
+      "id": 1904927,
+      "name": "Thị Xã Vĩnh Châu",
+      "nativeName": "Thị Xã Vĩnh Châu",
+      "code": "VN-52-1904927",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-52",
+      "latitude": 9.36228,
+      "longitude": 106.00304
+    }
+  ]
+}

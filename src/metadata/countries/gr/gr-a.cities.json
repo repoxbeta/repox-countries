@@ -1,0 +1,62 @@
+{
+  "stateId": 6697803,
+  "stateCode": "GR-A",
+  "countryCode": "GR",
+  "cities": [
+    {
+      "id": 736287,
+      "name": "Evros",
+      "nativeName": "Nomós Évrou",
+      "code": "GR-A-736287",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-A",
+      "latitude": 41,
+      "longitude": 26
+    },
+    {
+      "id": 735857,
+      "name": "Kavala",
+      "nativeName": "Nomós Kaválas",
+      "code": "GR-A-735857",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-A",
+      "latitude": 40.95207,
+      "longitude": 24.40956
+    },
+    {
+      "id": 736363,
+      "name": "Nomós Drámas",
+      "nativeName": "Nomós Drámas",
+      "code": "GR-A-736363",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-A",
+      "latitude": 41.25,
+      "longitude": 24.25
+    },
+    {
+      "id": 734375,
+      "name": "Nomós Rodópis",
+      "nativeName": "Nomós Rodópis",
+      "code": "GR-A-734375",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-A",
+      "latitude": 41.08333,
+      "longitude": 25.5
+    },
+    {
+      "id": 733839,
+      "name": "Xanthi",
+      "nativeName": "Nomós Xánthis",
+      "code": "GR-A-733839",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-A",
+      "latitude": 41.16667,
+      "longitude": 24.83333
+    }
+  ]
+}

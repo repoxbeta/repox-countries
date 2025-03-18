@@ -1,0 +1,128 @@
+{
+  "stateId": 11351387,
+  "stateCode": "LC-12",
+  "countryCode": "LC",
+  "cities": [
+    {
+      "id": 11351634,
+      "name": "Anse Cochon",
+      "nativeName": "Anse Cochon",
+      "code": "LC-12-11351634",
+      "countryId": 3576468,
+      "countryCode": "LC",
+      "stateCode": "LC-12",
+      "latitude": 13.92261,
+      "longitude": -61.0525
+    },
+    {
+      "id": 11351637,
+      "name": "Anse Galet",
+      "nativeName": "Anse Galet",
+      "code": "LC-12-11351637",
+      "countryId": 3576468,
+      "countryCode": "LC",
+      "stateCode": "LC-12",
+      "latitude": 13.93221,
+      "longitude": -61.0429
+    },
+    {
+      "id": 11351458,
+      "name": "Anse La Verdue",
+      "nativeName": "Anse La Verdue",
+      "code": "LC-12-11351458",
+      "countryId": 3576468,
+      "countryCode": "LC",
+      "stateCode": "LC-12",
+      "latitude": 13.90964,
+      "longitude": -61.04755
+    },
+    {
+      "id": 11351639,
+      "name": "Belvedere",
+      "nativeName": "Belvedere",
+      "code": "LC-12-11351639",
+      "countryId": 3576468,
+      "countryCode": "LC",
+      "stateCode": "LC-12",
+      "latitude": 13.89122,
+      "longitude": -61.0555
+    },
+    {
+      "id": 11351641,
+      "name": "Chalon",
+      "nativeName": "Chalon",
+      "code": "LC-12-11351641",
+      "countryId": 3576468,
+      "countryCode": "LC",
+      "stateCode": "LC-12",
+      "latitude": 13.92018,
+      "longitude": -61.04412
+    },
+    {
+      "id": 11351643,
+      "name": "Chatin",
+      "nativeName": "Chatin",
+      "code": "LC-12-11351643",
+      "countryId": 3576468,
+      "countryCode": "LC",
+      "stateCode": "LC-12",
+      "latitude": 13.9184,
+      "longitude": -61.03896
+    },
+    {
+      "id": 11351645,
+      "name": "Des Bottes",
+      "nativeName": "Des Bottes",
+      "code": "LC-12-11351645",
+      "countryId": 3576468,
+      "countryCode": "LC",
+      "stateCode": "LC-12",
+      "latitude": 13.88055,
+      "longitude": -61.03409
+    },
+    {
+      "id": 11351648,
+      "name": "Morne Siquot",
+      "nativeName": "Morne Siquot",
+      "code": "LC-12-11351648",
+      "countryId": 3576468,
+      "countryCode": "LC",
+      "stateCode": "LC-12",
+      "latitude": 13.89102,
+      "longitude": -61.06407
+    },
+    {
+      "id": 11351649,
+      "name": "Riverside Road",
+      "nativeName": "Riverside Road",
+      "code": "LC-12-11351649",
+      "countryId": 3576468,
+      "countryCode": "LC",
+      "stateCode": "LC-12",
+      "latitude": 13.89408,
+      "longitude": -61.04989
+    },
+    {
+      "id": 11351430,
+      "name": "Theodrine",
+      "nativeName": "Theodrine",
+      "code": "LC-12-11351430",
+      "countryId": 3576468,
+      "countryCode": "LC",
+      "stateCode": "LC-12",
+      "latitude": 13.92878,
+      "longitude": -61.04972
+    },
+    {
+      "id": 11351403,
+      "name": "Village",
+      "nativeName": "Village",
+      "code": "LC-12-11351403",
+      "countryId": 3576468,
+      "countryCode": "LC",
+      "stateCode": "LC-12",
+      "latitude": 13.90526,
+      "longitude": -61.06108
+    }
+  ]
+}

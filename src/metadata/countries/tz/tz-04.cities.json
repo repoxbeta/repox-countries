@@ -1,0 +1,62 @@
+{
+  "stateId": 159067,
+  "stateCode": "TZ-04",
+  "countryCode": "TZ",
+  "cities": [
+    {
+      "id": 159070,
+      "name": "Iringa Rural District",
+      "nativeName": "Iringa Rural District",
+      "code": "TZ-04-159070",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-04",
+      "latitude": -7.56399,
+      "longitude": 34.88159
+    },
+    {
+      "id": 7731037,
+      "name": "Iringa Urban District",
+      "nativeName": "Iringa Urban District",
+      "code": "TZ-04-7731037",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-04",
+      "latitude": -7.77,
+      "longitude": 35.69
+    },
+    {
+      "id": 7647452,
+      "name": "Kilolo District",
+      "nativeName": "Kilolo District",
+      "code": "TZ-04-7647452",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-04",
+      "latitude": -8,
+      "longitude": 35.85
+    },
+    {
+      "id": 9998068,
+      "name": "Mafinga Township Authority",
+      "nativeName": "Mafinga Town Council",
+      "code": "TZ-04-9998068",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-04",
+      "latitude": -8.35287,
+      "longitude": 35.22356
+    },
+    {
+      "id": 152698,
+      "name": "Mufindi District Council",
+      "nativeName": "Mufindi",
+      "code": "TZ-04-152698",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-04",
+      "latitude": -8.59529,
+      "longitude": 35.2082
+    }
+  ]
+}

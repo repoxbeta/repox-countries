@@ -1,0 +1,139 @@
+{
+  "stateId": 3349234,
+  "stateCode": "AO-CUS",
+  "countryCode": "AO",
+  "cities": [
+    {
+      "id": 3351905,
+      "name": "Amboim",
+      "nativeName": "Amboim",
+      "code": "AO-CUS-3351905",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-CUS",
+      "latitude": -10.89829,
+      "longitude": 14.40732
+    },
+    {
+      "id": 3350385,
+      "name": "Cassongue",
+      "nativeName": "Cassongue",
+      "code": "AO-CUS-3350385",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-CUS",
+      "latitude": -11.81807,
+      "longitude": 14.96898
+    },
+    {
+      "id": 3345496,
+      "name": "Cela",
+      "nativeName": "Cela",
+      "code": "AO-CUS-3345496",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-CUS",
+      "latitude": -11.28733,
+      "longitude": 15.31679
+    },
+    {
+      "id": 3349321,
+      "name": "Conda",
+      "nativeName": "Conda",
+      "code": "AO-CUS-3349321",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-CUS",
+      "latitude": -11.17912,
+      "longitude": 14.4537
+    },
+    {
+      "id": 3348792,
+      "name": "Ebo",
+      "nativeName": "Ebo",
+      "code": "AO-CUS-3348792",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-CUS",
+      "latitude": -10.92921,
+      "longitude": 14.74483
+    },
+    {
+      "id": 3347989,
+      "name": "Libolo",
+      "nativeName": "Libolo",
+      "code": "AO-CUS-3347989",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-CUS",
+      "latitude": -10.01459,
+      "longitude": 14.99474
+    },
+    {
+      "id": 3347070,
+      "name": "Mussende",
+      "nativeName": "Mussende",
+      "code": "AO-CUS-3347070",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-CUS",
+      "latitude": -10.21297,
+      "longitude": 15.97635
+    },
+    {
+      "id": 3346659,
+      "name": "Porto Amboim",
+      "nativeName": "Porto Amboim",
+      "code": "AO-CUS-3346659",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-CUS",
+      "latitude": -10.61489,
+      "longitude": 13.95903
+    },
+    {
+      "id": 3346597,
+      "name": "Quibala",
+      "nativeName": "Quibala",
+      "code": "AO-CUS-3346597",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-CUS",
+      "latitude": -10.71279,
+      "longitude": 15.2936
+    },
+    {
+      "id": 3346558,
+      "name": "Quilenda",
+      "nativeName": "Quilenda",
+      "code": "AO-CUS-3346558",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-CUS",
+      "latitude": -10.50668,
+      "longitude": 14.35322
+    },
+    {
+      "id": 3346113,
+      "name": "Seles",
+      "nativeName": "Seles",
+      "code": "AO-CUS-3346113",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-CUS",
+      "latitude": -11.49859,
+      "longitude": 14.48977
+    },
+    {
+      "id": 3346014,
+      "name": "Sumbe",
+      "nativeName": "Sumbe",
+      "code": "AO-CUS-3346014",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-CUS",
+      "latitude": -11.44707,
+      "longitude": 13.93584
+    }
+  ]
+}

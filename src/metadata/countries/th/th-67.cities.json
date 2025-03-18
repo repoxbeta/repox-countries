@@ -1,0 +1,128 @@
+{
+  "stateId": 1607736,
+  "stateCode": "TH-67",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 7510716,
+      "name": "Bueng Sam Phan",
+      "nativeName": "Amphoe Bueng Sam Phan",
+      "code": "TH-67-7510716",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-67",
+      "latitude": 15.8165,
+      "longitude": 101.00399
+    },
+    {
+      "id": 1611105,
+      "name": "Chon Daen",
+      "nativeName": "Amphoe Chon Daen",
+      "code": "TH-67-1611105",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-67",
+      "latitude": 16.10735,
+      "longitude": 100.83572
+    },
+    {
+      "id": 7511031,
+      "name": "Khao Kho",
+      "nativeName": "Amphoe Khao Kho",
+      "code": "TH-67-7511031",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-67",
+      "latitude": 16.66313,
+      "longitude": 100.9945
+    },
+    {
+      "id": 1609047,
+      "name": "Lom Kao",
+      "nativeName": "Amphoe Lom Kao",
+      "code": "TH-67-1609047",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-67",
+      "latitude": 16.97209,
+      "longitude": 101.26185
+    },
+    {
+      "id": 1609042,
+      "name": "Lom Sak",
+      "nativeName": "Amphoe Lom Sak",
+      "code": "TH-67-1609042",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-67",
+      "latitude": 16.72837,
+      "longitude": 101.31139
+    },
+    {
+      "id": 1608635,
+      "name": "Mueang Phetchabun",
+      "nativeName": "Amphoe Mueang Phetchabun",
+      "code": "TH-67-1608635",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-67",
+      "latitude": 16.38215,
+      "longitude": 101.17652
+    },
+    {
+      "id": 7510730,
+      "name": "Nam Nao",
+      "nativeName": "Amphoe Nam Nao",
+      "code": "TH-67-7510730",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-67",
+      "latitude": 16.84489,
+      "longitude": 101.6008
+    },
+    {
+      "id": 1608190,
+      "name": "Nong Phai",
+      "nativeName": "Amphoe Nong Phai",
+      "code": "TH-67-1608190",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-67",
+      "latitude": 16.01162,
+      "longitude": 101.15042
+    },
+    {
+      "id": 8304632,
+      "name": "Si Thep",
+      "nativeName": "Amphoe Si Thep",
+      "code": "TH-67-8304632",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-67",
+      "latitude": 15.44253,
+      "longitude": 101.14767
+    },
+    {
+      "id": 7510691,
+      "name": "Wang Pong",
+      "nativeName": "Amphoe Wang Pong",
+      "code": "TH-67-7510691",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-67",
+      "latitude": 16.35049,
+      "longitude": 100.80772
+    },
+    {
+      "id": 1605023,
+      "name": "Wichian Buri",
+      "nativeName": "Amphoe Wichian Buri",
+      "code": "TH-67-1605023",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-67",
+      "latitude": 15.65,
+      "longitude": 101.1
+    }
+  ]
+}

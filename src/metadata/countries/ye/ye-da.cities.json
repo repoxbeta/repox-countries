@@ -1,0 +1,106 @@
+{
+  "stateId": 6201193,
+  "stateCode": "YE-DA",
+  "countryCode": "YE",
+  "cities": [
+    {
+      "id": 6940879,
+      "name": "Al Azariq District",
+      "nativeName": "Al Azariq",
+      "code": "YE-DA-6940879",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-DA",
+      "latitude": 13.6468,
+      "longitude": 44.637
+    },
+    {
+      "id": 6940633,
+      "name": "Al Husha",
+      "nativeName": "Al Husha",
+      "code": "YE-DA-6940633",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-DA",
+      "latitude": 13.7495,
+      "longitude": 44.4685
+    },
+    {
+      "id": 6940876,
+      "name": "Al Hussein District",
+      "nativeName": "Al Hussein",
+      "code": "YE-DA-6940876",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-DA",
+      "latitude": 13.789,
+      "longitude": 44.8284
+    },
+    {
+      "id": 6940881,
+      "name": "Ash Shu'ayb District",
+      "nativeName": "Ash Shu'ayb",
+      "code": "YE-DA-6940881",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-DA",
+      "latitude": 13.8347,
+      "longitude": 44.9654
+    },
+    {
+      "id": 6940878,
+      "name": "Damt District",
+      "nativeName": "Damt",
+      "code": "YE-DA-6940878",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-DA",
+      "latitude": 14.1021,
+      "longitude": 44.6788
+    },
+    {
+      "id": 6940875,
+      "name": "Dhale Districte",
+      "nativeName": "Ad Dhale'e",
+      "code": "YE-DA-6940875",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-DA",
+      "latitude": 13.71403,
+      "longitude": 44.71445
+    },
+    {
+      "id": 6940877,
+      "name": "Jahaf District",
+      "nativeName": "Jahaf",
+      "code": "YE-DA-6940877",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-DA",
+      "latitude": 13.7257,
+      "longitude": 44.6576
+    },
+    {
+      "id": 6940880,
+      "name": "Juban District",
+      "nativeName": "Juban",
+      "code": "YE-DA-6940880",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-DA",
+      "latitude": 14.05,
+      "longitude": 44.9636
+    },
+    {
+      "id": 6940634,
+      "name": "Qa'atabah District",
+      "nativeName": "Qa'atabah",
+      "code": "YE-DA-6940634",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-DA",
+      "latitude": 13.9298,
+      "longitude": 44.6277
+    }
+  ]
+}

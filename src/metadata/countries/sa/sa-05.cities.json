@@ -1,0 +1,128 @@
+{
+  "stateId": 108933,
+  "stateCode": "SA-05",
+  "countryCode": "SA",
+  "cities": [
+    {
+      "id": 10972299,
+      "name": "Al Asyāḩ",
+      "nativeName": "Al Asyāḩ",
+      "code": "SA-05-10972299",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-05",
+      "latitude": 26.95,
+      "longitude": 44.16667
+    },
+    {
+      "id": 10972300,
+      "name": "Al Badayea",
+      "nativeName": "Al Badā’i‘",
+      "code": "SA-05-10972300",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-05",
+      "latitude": 25.8,
+      "longitude": 43.73333
+    },
+    {
+      "id": 10972301,
+      "name": "Al Bukayrīyah",
+      "nativeName": "Al Bukayrīyah",
+      "code": "SA-05-10972301",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-05",
+      "latitude": 26.43333,
+      "longitude": 43.16667
+    },
+    {
+      "id": 10972302,
+      "name": "Al Midhnab",
+      "nativeName": "Al Midhnab",
+      "code": "SA-05-10972302",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-05",
+      "latitude": 25.8,
+      "longitude": 44.26667
+    },
+    {
+      "id": 10972303,
+      "name": "An Nabhānīyah",
+      "nativeName": "An Nabhānīyah",
+      "code": "SA-05-10972303",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-05",
+      "latitude": 25.46667,
+      "longitude": 42.7
+    },
+    {
+      "id": 10972304,
+      "name": "Ar Rass",
+      "nativeName": "Ar Rass",
+      "code": "SA-05-10972304",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-05",
+      "latitude": 25.56667,
+      "longitude": 43.55
+    },
+    {
+      "id": 10972305,
+      "name": "Ash Shimāsīyah",
+      "nativeName": "Ash Shimāsīyah",
+      "code": "SA-05-10972305",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-05",
+      "latitude": 26.03333,
+      "longitude": 44.46667
+    },
+    {
+      "id": 10972306,
+      "name": "Buraydah",
+      "nativeName": "Buraydah",
+      "code": "SA-05-10972306",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-05",
+      "latitude": 27.36667,
+      "longitude": 43.63333
+    },
+    {
+      "id": 10972308,
+      "name": "Governorate of Unaizah",
+      "nativeName": "Governorate of Unaizah",
+      "code": "SA-05-10972308",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-05",
+      "latitude": 25.93333,
+      "longitude": 43.95
+    },
+    {
+      "id": 10972307,
+      "name": "Riyāḑ al Khabrā’",
+      "nativeName": "Riyāḑ al Khabrā’",
+      "code": "SA-05-10972307",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-05",
+      "latitude": 26.06667,
+      "longitude": 43.51667
+    },
+    {
+      "id": 10972309,
+      "name": "‘Uyūn al Jiwā’",
+      "nativeName": "‘Uyūn al Jiwā’",
+      "code": "SA-05-10972309",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-05",
+      "latitude": 26.5,
+      "longitude": 43.58333
+    }
+  ]
+}

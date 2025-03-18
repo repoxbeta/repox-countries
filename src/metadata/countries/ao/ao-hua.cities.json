@@ -1,0 +1,128 @@
+{
+  "stateId": 3348310,
+  "stateCode": "AO-HUA",
+  "countryCode": "AO",
+  "cities": [
+    {
+      "id": 3351782,
+      "name": "Bailundo",
+      "nativeName": "Bailundo",
+      "code": "AO-HUA-3351782",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-HUA",
+      "latitude": -12.00711,
+      "longitude": 15.77928
+    },
+    {
+      "id": 3348093,
+      "name": "Cachiungo",
+      "nativeName": "Cachiungo",
+      "code": "AO-HUA-3348093",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-HUA",
+      "latitude": -12.78634,
+      "longitude": 16.32331
+    },
+    {
+      "id": 3351497,
+      "name": "Caála",
+      "nativeName": "Caála",
+      "code": "AO-HUA-3351497",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-HUA",
+      "latitude": -13.20684,
+      "longitude": 15.54883
+    },
+    {
+      "id": 3345923,
+      "name": "Chicala-Choloanga",
+      "nativeName": "Chicala-Choloanga",
+      "code": "AO-HUA-3345923",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-HUA",
+      "latitude": -12.83861,
+      "longitude": 16.07624
+    },
+    {
+      "id": 3345909,
+      "name": "Chinjenje",
+      "nativeName": "Chinjenje",
+      "code": "AO-HUA-3345909",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-HUA",
+      "latitude": -12.81723,
+      "longitude": 14.93115
+    },
+    {
+      "id": 3348773,
+      "name": "Ecunha",
+      "nativeName": "Ecunha",
+      "code": "AO-HUA-3348773",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-HUA",
+      "latitude": -12.5,
+      "longitude": 15.5
+    },
+    {
+      "id": 3348311,
+      "name": "Huambo",
+      "nativeName": "Huambo",
+      "code": "AO-HUA-3348311",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-HUA",
+      "latitude": -12.79347,
+      "longitude": 15.79115
+    },
+    {
+      "id": 3347879,
+      "name": "Londuimbali",
+      "nativeName": "Londuimbali",
+      "code": "AO-HUA-3347879",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-HUA",
+      "latitude": -12.21855,
+      "longitude": 15.28513
+    },
+    {
+      "id": 3347852,
+      "name": "Longonjo",
+      "nativeName": "Longonjo",
+      "code": "AO-HUA-3347852",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-HUA",
+      "latitude": -13.0548,
+      "longitude": 15.29938
+    },
+    {
+      "id": 3347110,
+      "name": "Mungo",
+      "nativeName": "Mungo",
+      "code": "AO-HUA-3347110",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-HUA",
+      "latitude": -11.74816,
+      "longitude": 16.17364
+    },
+    {
+      "id": 3345667,
+      "name": "Ucuma",
+      "nativeName": "Ucuma",
+      "code": "AO-HUA-3345667",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-HUA",
+      "latitude": -12.73883,
+      "longitude": 15.12358
+    }
+  ]
+}

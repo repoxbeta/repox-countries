@@ -1,0 +1,29 @@
+{
+  "stateId": 9782171,
+  "stateCode": "IM-9782171",
+  "countryCode": "IM",
+  "cities": [
+    {
+      "id": 11591723,
+      "name": "Cronk-y-Voddy",
+      "nativeName": "Cronk-y-Voddy",
+      "code": "IM-9782171-11591723",
+      "countryId": 3042225,
+      "countryCode": "IM",
+      "stateCode": "IM-9782171",
+      "latitude": 54.24093,
+      "longitude": -4.60894
+    },
+    {
+      "id": 3042186,
+      "name": "Saint Johns",
+      "nativeName": "Saint Johns",
+      "code": "IM-9782171-3042186",
+      "countryId": 3042225,
+      "countryCode": "IM",
+      "stateCode": "IM-9782171",
+      "latitude": 54.2,
+      "longitude": -4.63333
+    }
+  ]
+}

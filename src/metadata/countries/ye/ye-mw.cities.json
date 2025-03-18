@@ -1,0 +1,106 @@
+{
+  "stateId": 73200,
+  "stateCode": "YE-MW",
+  "countryCode": "YE",
+  "cities": [
+    {
+      "id": 6940847,
+      "name": "Al Khabt District",
+      "nativeName": "Al Khabt",
+      "code": "YE-MW-6940847",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-MW",
+      "latitude": 15.4817,
+      "longitude": 43.3677
+    },
+    {
+      "id": 6940845,
+      "name": "Al Mahwait",
+      "nativeName": "Al Mahwait",
+      "code": "YE-MW-6940845",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-MW",
+      "latitude": 15.4117,
+      "longitude": 43.5663
+    },
+    {
+      "id": 6940849,
+      "name": "Al Mahwait City",
+      "nativeName": "Al Mahwait City",
+      "code": "YE-MW-6940849",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-MW",
+      "latitude": 15.4635,
+      "longitude": 43.5463
+    },
+    {
+      "id": 6940848,
+      "name": "Ar Rujum District",
+      "nativeName": "Ar Rujum",
+      "code": "YE-MW-6940848",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-MW",
+      "latitude": 15.4101,
+      "longitude": 43.6606
+    },
+    {
+      "id": 70135,
+      "name": "Aţ Ţawīlah",
+      "nativeName": "Aţ Ţawīlah",
+      "code": "YE-MW-70135",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-MW",
+      "latitude": 15.44165,
+      "longitude": 43.77484
+    },
+    {
+      "id": 6940846,
+      "name": "Bani Sa'd District",
+      "nativeName": "Bani Sa'd",
+      "code": "YE-MW-6940846",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-MW",
+      "latitude": 15.2355,
+      "longitude": 43.5156
+    },
+    {
+      "id": 6940850,
+      "name": "Hufash District",
+      "nativeName": "Hufash",
+      "code": "YE-MW-6940850",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-MW",
+      "latitude": 15.3747,
+      "longitude": 43.4265
+    },
+    {
+      "id": 6940851,
+      "name": "Milhan District",
+      "nativeName": "Milhan",
+      "code": "YE-MW-6940851",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-MW",
+      "latitude": 15.3224,
+      "longitude": 43.3318
+    },
+    {
+      "id": 73956,
+      "name": "Shibam Kawkaban District",
+      "nativeName": "Shibām Kawkabān",
+      "code": "YE-MW-73956",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-MW",
+      "latitude": 15.50277,
+      "longitude": 43.84237
+    }
+  ]
+}

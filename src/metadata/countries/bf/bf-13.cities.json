@@ -1,0 +1,51 @@
+{
+  "stateId": 6930714,
+  "stateCode": "BF-13",
+  "countryCode": "BF",
+  "cities": [
+    {
+      "id": 2362047,
+      "name": "Bougouriba Province",
+      "nativeName": "Province de la Bougouriba",
+      "code": "BF-13-2362047",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "stateCode": "BF-13",
+      "latitude": 10.83333,
+      "longitude": -3.41667
+    },
+    {
+      "id": 2597266,
+      "name": "Noumbiel Province",
+      "nativeName": "Province du Noumbièl",
+      "code": "BF-13-2597266",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "stateCode": "BF-13",
+      "latitude": 9.83333,
+      "longitude": -3
+    },
+    {
+      "id": 2597251,
+      "name": "Province du Ioba",
+      "nativeName": "Province du Ioba",
+      "code": "BF-13-2597251",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "stateCode": "BF-13",
+      "latitude": 11.08333,
+      "longitude": -3.08333
+    },
+    {
+      "id": 2356386,
+      "name": "Province du Poni",
+      "nativeName": "Province du Poni",
+      "code": "BF-13-2356386",
+      "countryId": 2361809,
+      "countryCode": "BF",
+      "stateCode": "BF-13",
+      "latitude": 10.25,
+      "longitude": -3.41667
+    }
+  ]
+}

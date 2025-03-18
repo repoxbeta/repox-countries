@@ -1,0 +1,95 @@
+{
+  "stateId": 2179538,
+  "stateCode": "NZ-WGN",
+  "countryCode": "NZ",
+  "cities": [
+    {
+      "id": 2192570,
+      "name": "Carterton District",
+      "nativeName": "Carterton District",
+      "code": "NZ-WGN-2192570",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-WGN",
+      "latitude": -41.01667,
+      "longitude": 175.51667
+    },
+    {
+      "id": 7910048,
+      "name": "Kapiti Coast District",
+      "nativeName": "Kapiti Coast District",
+      "code": "NZ-WGN-7910048",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-WGN",
+      "latitude": -40.85682,
+      "longitude": 175.1469
+    },
+    {
+      "id": 7910049,
+      "name": "Lower Hutt City",
+      "nativeName": "Lower Hutt City",
+      "code": "NZ-WGN-7910049",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-WGN",
+      "latitude": -41.28479,
+      "longitude": 174.96747
+    },
+    {
+      "id": 2187238,
+      "name": "Masterton",
+      "nativeName": "Masterton District",
+      "code": "NZ-WGN-2187238",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-WGN",
+      "latitude": -40.95,
+      "longitude": 175.66667
+    },
+    {
+      "id": 7910057,
+      "name": "Porirua City",
+      "nativeName": "Porirua City",
+      "code": "NZ-WGN-7910057",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-WGN",
+      "latitude": -41.08403,
+      "longitude": 174.88316
+    },
+    {
+      "id": 7910064,
+      "name": "South Wairarapa District",
+      "nativeName": "South Wairarapa District",
+      "code": "NZ-WGN-7910064",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-WGN",
+      "latitude": -41.26731,
+      "longitude": 175.38442
+    },
+    {
+      "id": 7910067,
+      "name": "Upper Hutt City",
+      "nativeName": "Upper Hutt City",
+      "code": "NZ-WGN-7910067",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-WGN",
+      "latitude": -41.08777,
+      "longitude": 175.13286
+    },
+    {
+      "id": 7910072,
+      "name": "Wellington City",
+      "nativeName": "Wellington City",
+      "code": "NZ-WGN-7910072",
+      "countryId": 2186224,
+      "countryCode": "NZ",
+      "stateCode": "NZ-WGN",
+      "latitude": -41.253,
+      "longitude": 174.75424
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "stateId": 2370360,
+  "stateCode": "GW-QU",
+  "countryCode": "GW",
+  "cities": [
+    {
+      "id": 7909709,
+      "name": "Buba",
+      "nativeName": "Buba",
+      "code": "GW-QU-7909709",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "stateCode": "GW-QU",
+      "latitude": 11.57555,
+      "longitude": -15
+    },
+    {
+      "id": 10376583,
+      "name": "Empada",
+      "nativeName": "Empada",
+      "code": "GW-QU-10376583",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "stateCode": "GW-QU",
+      "latitude": 11.55,
+      "longitude": -15.23333
+    },
+    {
+      "id": 7909708,
+      "name": "Fulacunda",
+      "nativeName": "Fulacunda",
+      "code": "GW-QU-7909708",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "stateCode": "GW-QU",
+      "latitude": 11.8,
+      "longitude": -15.16667
+    },
+    {
+      "id": 10376960,
+      "name": "Tite",
+      "nativeName": "Tite",
+      "code": "GW-QU-10376960",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "stateCode": "GW-QU",
+      "latitude": 11.78333,
+      "longitude": -15.4
+    }
+  ]
+}

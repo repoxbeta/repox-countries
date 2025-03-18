@@ -1,0 +1,73 @@
+{
+  "stateId": 1321850,
+  "stateCode": "MM-07",
+  "countryCode": "MM",
+  "cities": [
+    {
+      "id": 1325210,
+      "name": "Hinthada District",
+      "nativeName": "Hinthada District",
+      "code": "MM-07-1325210",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-07",
+      "latitude": 17.8532,
+      "longitude": 95.20172
+    },
+    {
+      "id": 8238693,
+      "name": "Labutta District",
+      "nativeName": "Labutta District",
+      "code": "MM-07-8238693",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-07",
+      "latitude": 16.25406,
+      "longitude": 95.04221
+    },
+    {
+      "id": 1310354,
+      "name": "Ma-ubin District",
+      "nativeName": "Ma-ubin District",
+      "code": "MM-07-1310354",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-07",
+      "latitude": 16.96037,
+      "longitude": 95.55621
+    },
+    {
+      "id": 1308077,
+      "name": "Myaungmya District",
+      "nativeName": "Myaungmya District",
+      "code": "MM-07-1308077",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-07",
+      "latitude": 16.63724,
+      "longitude": 95.09575
+    },
+    {
+      "id": 1328420,
+      "name": "Pathein District",
+      "nativeName": "Pathein District",
+      "code": "MM-07-1328420",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-07",
+      "latitude": 16.87954,
+      "longitude": 94.71487
+    },
+    {
+      "id": 1299235,
+      "name": "Pyapon District",
+      "nativeName": "Pyapon District",
+      "code": "MM-07-1299235",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-07",
+      "latitude": 16.18031,
+      "longitude": 95.55134
+    }
+  ]
+}

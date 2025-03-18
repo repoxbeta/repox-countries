@@ -1,0 +1,182 @@
+{
+  "countryId": 2300660,
+  "countryCode": "GH",
+  "states": [
+    {
+      "id": 12105072,
+      "name": "Ahafo",
+      "nativeName": "Ahafo",
+      "code": "GH-AF",
+      "internalCode": "AF",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "latitude": 7,
+      "longitude": -2.45
+    },
+    {
+      "id": 2304116,
+      "name": "Ashanti Region",
+      "nativeName": "Ashanti Region",
+      "code": "GH-AH",
+      "internalCode": "AH",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "latitude": 6.75,
+      "longitude": -1.5
+    },
+    {
+      "id": 12105069,
+      "name": "Bono",
+      "nativeName": "Bono",
+      "code": "GH-BO",
+      "internalCode": "BO",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "latitude": 7.65,
+      "longitude": -2.5
+    },
+    {
+      "id": 12105073,
+      "name": "Bono East",
+      "nativeName": "Bono East",
+      "code": "GH-BE",
+      "internalCode": "BE",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "latitude": 7.75,
+      "longitude": -1.05
+    },
+    {
+      "id": 2302353,
+      "name": "Central Region",
+      "nativeName": "Central Region",
+      "code": "GH-CP",
+      "internalCode": "CP",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "latitude": 5.5,
+      "longitude": -1
+    },
+    {
+      "id": 2301360,
+      "name": "Eastern Region",
+      "nativeName": "Eastern Region",
+      "code": "GH-EP",
+      "internalCode": "EP",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "latitude": 6.5,
+      "longitude": -0.5
+    },
+    {
+      "id": 2300569,
+      "name": "Greater Accra Region",
+      "nativeName": "Greater Accra Region",
+      "code": "GH-AA",
+      "internalCode": "AA",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "latitude": 5.75,
+      "longitude": 0
+    },
+    {
+      "id": 12105071,
+      "name": "North East",
+      "nativeName": "North East",
+      "code": "GH-NE",
+      "internalCode": "NE",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "latitude": 10.4,
+      "longitude": -0.6
+    },
+    {
+      "id": 2297169,
+      "name": "Northern Region",
+      "nativeName": "Northern Region",
+      "code": "GH-NP",
+      "internalCode": "NP",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "latitude": 9.45,
+      "longitude": -0.1
+    },
+    {
+      "id": 12105070,
+      "name": "Oti",
+      "nativeName": "Oti",
+      "code": "GH-OT",
+      "internalCode": "OT",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "latitude": 7.9,
+      "longitude": 0.3
+    },
+    {
+      "id": 12105074,
+      "name": "Savannah",
+      "nativeName": "Savannah",
+      "code": "GH-SV",
+      "internalCode": "SV",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "latitude": 9.15,
+      "longitude": -1.6
+    },
+    {
+      "id": 2294291,
+      "name": "Upper East Region",
+      "nativeName": "Upper East Region",
+      "code": "GH-UE",
+      "internalCode": "UE",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "latitude": 10.75,
+      "longitude": -0.75
+    },
+    {
+      "id": 2294286,
+      "name": "Upper West Region",
+      "nativeName": "Upper West Region",
+      "code": "GH-UW",
+      "internalCode": "UW",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "latitude": 10.33333,
+      "longitude": -2.25
+    },
+    {
+      "id": 2294234,
+      "name": "Volta Region",
+      "nativeName": "Volta Region",
+      "code": "GH-TV",
+      "internalCode": "TV",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "latitude": 6.4,
+      "longitude": 0.5
+    },
+    {
+      "id": 12105075,
+      "name": "Western North",
+      "nativeName": "Western North",
+      "code": "GH-WN",
+      "internalCode": "WN",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "latitude": 6.3,
+      "longitude": -2.8
+    },
+    {
+      "id": 2294076,
+      "name": "Western Region",
+      "nativeName": "Western Region",
+      "code": "GH-WP",
+      "internalCode": "WP",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "latitude": 5.45,
+      "longitude": -2.25
+    }
+  ]
+}

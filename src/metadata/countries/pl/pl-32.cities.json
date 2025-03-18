@@ -1,0 +1,238 @@
+{
+  "stateId": 3337499,
+  "stateCode": "PL-32",
+  "countryCode": "PL",
+  "cities": [
+    {
+      "id": 7530972,
+      "name": "Białogard County",
+      "nativeName": "Powiat białogardzki",
+      "code": "PL-32-7530972",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-32",
+      "latitude": 53.97686,
+      "longitude": 16.08855
+    },
+    {
+      "id": 7530959,
+      "name": "Choszczno County",
+      "nativeName": "Powiat choszczeński",
+      "code": "PL-32-7530959",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-32",
+      "latitude": 53.14277,
+      "longitude": 15.62112
+    },
+    {
+      "id": 7530861,
+      "name": "Drawsko County",
+      "nativeName": "Powiat drawski",
+      "code": "PL-32-7530861",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-32",
+      "latitude": 53.44743,
+      "longitude": 16.02132
+    },
+    {
+      "id": 7530794,
+      "name": "Goleniów County",
+      "nativeName": "Powiat goleniowski",
+      "code": "PL-32-7530794",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-32",
+      "latitude": 53.61035,
+      "longitude": 14.85421
+    },
+    {
+      "id": 7530795,
+      "name": "Gryfice County",
+      "nativeName": "Powiat gryficki",
+      "code": "PL-32-7530795",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-32",
+      "latitude": 53.94293,
+      "longitude": 15.19082
+    },
+    {
+      "id": 7530989,
+      "name": "Gryfino County",
+      "nativeName": "Powiat gryfiński",
+      "code": "PL-32-7530989",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-32",
+      "latitude": 53.02298,
+      "longitude": 14.49912
+    },
+    {
+      "id": 7530842,
+      "name": "Kamień County",
+      "nativeName": "Powiat kamieński",
+      "code": "PL-32-7530842",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-32",
+      "latitude": 53.91096,
+      "longitude": 14.7442
+    },
+    {
+      "id": 7530983,
+      "name": "Koszalin",
+      "nativeName": "Koszalin",
+      "code": "PL-32-7530983",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-32",
+      "latitude": 54.20719,
+      "longitude": 16.21661
+    },
+    {
+      "id": 7530754,
+      "name": "Koszalin County",
+      "nativeName": "Powiat koszaliński",
+      "code": "PL-32-7530754",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-32",
+      "latitude": 54.1097,
+      "longitude": 16.30231
+    },
+    {
+      "id": 7530843,
+      "name": "Kołobrzeg County",
+      "nativeName": "Powiat kołobrzeski",
+      "code": "PL-32-7530843",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-32",
+      "latitude": 54.05013,
+      "longitude": 15.61394
+    },
+    {
+      "id": 7531005,
+      "name": "Myślibórz County",
+      "nativeName": "Powiat myśliborski",
+      "code": "PL-32-7531005",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-32",
+      "latitude": 52.85474,
+      "longitude": 14.88454
+    },
+    {
+      "id": 7530844,
+      "name": "Police County",
+      "nativeName": "Powiat policki",
+      "code": "PL-32-7530844",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-32",
+      "latitude": 53.53114,
+      "longitude": 14.45104
+    },
+    {
+      "id": 7530845,
+      "name": "Pyrzyce County",
+      "nativeName": "Powiat pyrzycki",
+      "code": "PL-32-7530845",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-32",
+      "latitude": 53.12558,
+      "longitude": 14.94045
+    },
+    {
+      "id": 7530793,
+      "name": "Stargard County",
+      "nativeName": "Powiat stargardzki",
+      "code": "PL-32-7530793",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-32",
+      "latitude": 53.3152,
+      "longitude": 15.22684
+    },
+    {
+      "id": 7530840,
+      "name": "Szczecin",
+      "nativeName": "Szczecin",
+      "code": "PL-32-7530840",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-32",
+      "latitude": 53.4297,
+      "longitude": 14.62422
+    },
+    {
+      "id": 7530756,
+      "name": "Szczecinek County",
+      "nativeName": "Powiat szczecinecki",
+      "code": "PL-32-7530756",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-32",
+      "latitude": 53.73766,
+      "longitude": 16.58957
+    },
+    {
+      "id": 7530755,
+      "name": "Sławno County",
+      "nativeName": "Powiat sławieński",
+      "code": "PL-32-7530755",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-32",
+      "latitude": 54.3791,
+      "longitude": 16.53986
+    },
+    {
+      "id": 7530960,
+      "name": "Wałcz County",
+      "nativeName": "Powiat wałecki",
+      "code": "PL-32-7530960",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-32",
+      "latitude": 53.23633,
+      "longitude": 16.33851
+    },
+    {
+      "id": 7531059,
+      "name": "Łobez County",
+      "nativeName": "Powiat łobeski",
+      "code": "PL-32-7531059",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-32",
+      "latitude": 53.67294,
+      "longitude": 15.47237
+    },
+    {
+      "id": 7531011,
+      "name": "Świdwin County",
+      "nativeName": "Powiat świdwiński",
+      "code": "PL-32-7531011",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-32",
+      "latitude": 53.80758,
+      "longitude": 15.89859
+    },
+    {
+      "id": 7530749,
+      "name": "Świnoujście",
+      "nativeName": "Świnoujście",
+      "code": "PL-32-7530749",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-32",
+      "latitude": 53.8502,
+      "longitude": 14.31313
+    }
+  ]
+}

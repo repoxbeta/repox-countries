@@ -1,0 +1,50 @@
+{
+  "countryId": 1820814,
+  "countryCode": "BN",
+  "states": [
+    {
+      "id": 1820869,
+      "name": "Belait",
+      "nativeName": "Belait",
+      "code": "BN-BE",
+      "internalCode": "BE",
+      "countryId": 1820814,
+      "countryCode": "BN",
+      "latitude": 4.31667,
+      "longitude": 114.58333
+    },
+    {
+      "id": 1820818,
+      "name": "Brunei-Muara District",
+      "nativeName": "Daerah Brunei dan Muara",
+      "code": "BN-BM",
+      "internalCode": "BM",
+      "countryId": 1820814,
+      "countryCode": "BN",
+      "latitude": 4.91667,
+      "longitude": 114.91667
+    },
+    {
+      "id": 1820106,
+      "name": "Temburong",
+      "nativeName": "Temburong",
+      "code": "BN-TE",
+      "internalCode": "TE",
+      "countryId": 1820814,
+      "countryCode": "BN",
+      "latitude": 4.58333,
+      "longitude": 115.16667
+    },
+    {
+      "id": 1820068,
+      "name": "Tutong",
+      "nativeName": "Tutong",
+      "code": "BN-TU",
+      "internalCode": "TU",
+      "countryId": 1820814,
+      "countryCode": "BN",
+      "latitude": 4.63333,
+      "longitude": 114.71667
+    }
+  ]
+}

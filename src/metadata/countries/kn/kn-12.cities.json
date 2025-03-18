@@ -1,0 +1,84 @@
+{
+  "stateId": 3575165,
+  "stateCode": "KN-12",
+  "countryCode": "KN",
+  "cities": [
+    {
+      "id": 3575458,
+      "name": "Cotton Ground",
+      "nativeName": "Cotton Ground",
+      "code": "KN-12-3575458",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-12",
+      "latitude": 17.16667,
+      "longitude": -62.61667
+    },
+    {
+      "id": 3575552,
+      "name": "Barnes Ghaut",
+      "nativeName": "Barnes Ghaut",
+      "code": "KN-12-3575552",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-12",
+      "latitude": 17.16779,
+      "longitude": -62.61087
+    },
+    {
+      "id": 3575469,
+      "name": "Cliftons",
+      "nativeName": "Cliftons",
+      "code": "KN-12-3575469",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-12",
+      "latitude": 17.18333,
+      "longitude": -62.6
+    },
+    {
+      "id": 3575344,
+      "name": "Jessup",
+      "nativeName": "Jessup",
+      "code": "KN-12-3575344",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-12",
+      "latitude": 17.16209,
+      "longitude": -62.62061
+    },
+    {
+      "id": 3575129,
+      "name": "Stuart’s",
+      "nativeName": "Stuart’s",
+      "code": "KN-12-3575129",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-12",
+      "latitude": 17.15787,
+      "longitude": -62.6149
+    },
+    {
+      "id": 3575106,
+      "name": "Vaughans",
+      "nativeName": "Vaughans",
+      "code": "KN-12-3575106",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-12",
+      "latitude": 17.16365,
+      "longitude": -62.62451
+    },
+    {
+      "id": 3575097,
+      "name": "Westbury",
+      "nativeName": "Westbury",
+      "code": "KN-12-3575097",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-12",
+      "latitude": 17.1825,
+      "longitude": -62.60725
+    }
+  ]
+}

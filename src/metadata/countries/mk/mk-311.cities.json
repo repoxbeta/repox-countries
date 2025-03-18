@@ -1,0 +1,51 @@
+{
+  "stateId": 863887,
+  "stateCode": "MK-311",
+  "countryCode": "MK",
+  "cities": [
+    {
+      "id": 787016,
+      "name": "Plasnica",
+      "nativeName": "Plasnica",
+      "code": "MK-311-787016",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-311",
+      "latitude": 41.46722,
+      "longitude": 21.12306
+    },
+    {
+      "id": 790866,
+      "name": "Dvorci",
+      "nativeName": "Dvorci",
+      "code": "MK-311-790866",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-311",
+      "latitude": 41.46472,
+      "longitude": 21.09278
+    },
+    {
+      "id": 788610,
+      "name": "Lisičani",
+      "nativeName": "Lisičani",
+      "code": "MK-311-788610",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-311",
+      "latitude": 41.46139,
+      "longitude": 21.05444
+    },
+    {
+      "id": 786801,
+      "name": "Preglovo",
+      "nativeName": "Preglovo",
+      "code": "MK-311-786801",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-311",
+      "latitude": 41.46544,
+      "longitude": 21.11939
+    }
+  ]
+}

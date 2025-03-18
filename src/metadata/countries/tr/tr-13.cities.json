@@ -1,0 +1,84 @@
+{
+  "stateId": 321022,
+  "stateCode": "TR-13",
+  "countryCode": "TR",
+  "cities": [
+    {
+      "id": 8630856,
+      "name": "Adilcevaz İlçesi",
+      "nativeName": "Adilcevaz İlçesi",
+      "code": "TR-13-8630856",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-13",
+      "latitude": 38.80582,
+      "longitude": 42.73654
+    },
+    {
+      "id": 8630855,
+      "name": "Ahlat İlçesi",
+      "nativeName": "Ahlat İlçesi",
+      "code": "TR-13-8630855",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-13",
+      "latitude": 38.75452,
+      "longitude": 42.48809
+    },
+    {
+      "id": 8630852,
+      "name": "Güroymak İlçesi",
+      "nativeName": "Güroymak İlçesi",
+      "code": "TR-13-8630852",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-13",
+      "latitude": 38.57743,
+      "longitude": 42.01997
+    },
+    {
+      "id": 8630853,
+      "name": "Hizan İlçesi",
+      "nativeName": "Hizan İlçesi",
+      "code": "TR-13-8630853",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-13",
+      "latitude": 38.226,
+      "longitude": 42.42491
+    },
+    {
+      "id": 7732206,
+      "name": "Merkez",
+      "nativeName": "Merkez",
+      "code": "TR-13-7732206",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-13",
+      "latitude": 38.31702,
+      "longitude": 42.10065
+    },
+    {
+      "id": 8630857,
+      "name": "Mutki İlçesi",
+      "nativeName": "Mutki İlçesi",
+      "code": "TR-13-8630857",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-13",
+      "latitude": 38.40978,
+      "longitude": 41.92298
+    },
+    {
+      "id": 8630854,
+      "name": "Tatvan İlçesi",
+      "nativeName": "Tatvan İlçesi",
+      "code": "TR-13-8630854",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-13",
+      "latitude": 38.49535,
+      "longitude": 42.28578
+    }
+  ]
+}

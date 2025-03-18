@@ -1,0 +1,62 @@
+{
+  "stateId": 830708,
+  "stateCode": "FI-19",
+  "countryCode": "FI",
+  "cities": [
+    {
+      "id": 9610676,
+      "name": "Loimaa",
+      "nativeName": "Loimaa",
+      "code": "FI-19-9610676",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-19",
+      "latitude": 60.78687,
+      "longitude": 22.80867
+    },
+    {
+      "id": 9610643,
+      "name": "Salo",
+      "nativeName": "Salo",
+      "code": "FI-19-9610643",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-19",
+      "latitude": 60.41242,
+      "longitude": 23.32223
+    },
+    {
+      "id": 9610674,
+      "name": "Turku",
+      "nativeName": "Turku",
+      "code": "FI-19-9610674",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-19",
+      "latitude": 60.50913,
+      "longitude": 22.21251
+    },
+    {
+      "id": 9610675,
+      "name": "Vakka-Suomi",
+      "nativeName": "Vakka-Suomi",
+      "code": "FI-19-9610675",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-19",
+      "latitude": 60.76871,
+      "longitude": 21.51775
+    },
+    {
+      "id": 9610642,
+      "name": "Åboland-Turunmaa",
+      "nativeName": "Åboland-Turunmaa",
+      "code": "FI-19-9610642",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-19",
+      "latitude": 60.11861,
+      "longitude": 22.0202
+    }
+  ]
+}

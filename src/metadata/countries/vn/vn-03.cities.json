@@ -1,0 +1,128 @@
+{
+  "stateId": 1581030,
+  "stateCode": "VN-03",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 1905027,
+      "name": "Bắc Mê District",
+      "nativeName": "Huyện Bắc Mê",
+      "code": "VN-03-1905027",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-03",
+      "latitude": 22.75477,
+      "longitude": 105.29023
+    },
+    {
+      "id": 1905034,
+      "name": "Huyện Bắc Quang",
+      "nativeName": "Huyện Bắc Quang",
+      "code": "VN-03-1905034",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-03",
+      "latitude": 22.4215,
+      "longitude": 104.87451
+    },
+    {
+      "id": 1905033,
+      "name": "Huyện Hoàng Su Phì",
+      "nativeName": "Huyện Hoàng Su Phì",
+      "code": "VN-03-1905033",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-03",
+      "latitude": 22.68388,
+      "longitude": 104.68332
+    },
+    {
+      "id": 1905031,
+      "name": "Huyện Mèo Vạc",
+      "nativeName": "Huyện Mèo Vạc",
+      "code": "VN-03-1905031",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-03",
+      "latitude": 23.14075,
+      "longitude": 105.43843
+    },
+    {
+      "id": 1905029,
+      "name": "Huyện Quản Bạ",
+      "nativeName": "Huyện Quản Bạ",
+      "code": "VN-03-1905029",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-03",
+      "latitude": 23.08011,
+      "longitude": 104.97241
+    },
+    {
+      "id": 1905026,
+      "name": "Huyện Vị Xuyên",
+      "nativeName": "Huyện Vị Xuyên",
+      "code": "VN-03-1905026",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-03",
+      "latitude": 22.73923,
+      "longitude": 104.94436
+    },
+    {
+      "id": 1905032,
+      "name": "Huyện Xín Mần",
+      "nativeName": "Huyện Xín Mần",
+      "code": "VN-03-1905032",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-03",
+      "latitude": 22.64148,
+      "longitude": 104.52089
+    },
+    {
+      "id": 1905028,
+      "name": "Huyện Yên Minh",
+      "nativeName": "Huyện Yên Minh",
+      "code": "VN-03-1905028",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-03",
+      "latitude": 23.06992,
+      "longitude": 105.17865
+    },
+    {
+      "id": 1905030,
+      "name": "Huyện Đồng Văn",
+      "nativeName": "Huyện Đồng Văn",
+      "code": "VN-03-1905030",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-03",
+      "latitude": 23.23795,
+      "longitude": 105.27282
+    },
+    {
+      "id": 8473912,
+      "name": "Quảng Bình District",
+      "nativeName": "Huyện Quang Bình",
+      "code": "VN-03-8473912",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-03",
+      "latitude": 22.41507,
+      "longitude": 104.66018
+    },
+    {
+      "id": 1905025,
+      "name": "Thành Phố Hà Giang",
+      "nativeName": "Thành Phố Hà Giang",
+      "code": "VN-03-1905025",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-03",
+      "latitude": 22.81931,
+      "longitude": 104.95693
+    }
+  ]
+}

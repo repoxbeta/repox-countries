@@ -1,0 +1,248 @@
+{
+  "countryId": 2029969,
+  "countryCode": "MN",
+  "states": [
+    {
+      "id": 2032855,
+      "name": "Arkhangai Province",
+      "nativeName": "Arhangay Aymag",
+      "code": "MN-073",
+      "internalCode": "073",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "latitude": 48,
+      "longitude": 101.5
+    },
+    {
+      "id": 1516278,
+      "name": "Bayan-Ölgii Province",
+      "nativeName": "Bayan-Ölgiy Aymag",
+      "code": "MN-071",
+      "internalCode": "071",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "latitude": 48.5,
+      "longitude": 90
+    },
+    {
+      "id": 1516290,
+      "name": "Bayanhongor Aymag",
+      "nativeName": "Bayanhongor Aymag",
+      "code": "MN-069",
+      "internalCode": "069",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "latitude": 45.5,
+      "longitude": 99.5
+    },
+    {
+      "id": 2032199,
+      "name": "Bulgan",
+      "nativeName": "Bulgan",
+      "code": "MN-067",
+      "internalCode": "067",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "latitude": 49,
+      "longitude": 103.5
+    },
+    {
+      "id": 2028849,
+      "name": "Central",
+      "nativeName": "Central Aymag",
+      "code": "MN-047",
+      "internalCode": "047",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "latitude": 47.5,
+      "longitude": 106.5
+    },
+    {
+      "id": 2055111,
+      "name": "Darhan-Uul Aymag",
+      "nativeName": "Darhan-Uul Aymag",
+      "code": "MN-037",
+      "internalCode": "037",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "latitude": 49.28056,
+      "longitude": 106.11867
+    },
+    {
+      "id": 1516012,
+      "name": "Dzavhan Aymag",
+      "nativeName": "Dzavhan Aymag",
+      "code": "MN-057",
+      "internalCode": "057",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "latitude": 48,
+      "longitude": 96
+    },
+    {
+      "id": 2031798,
+      "name": "East Gobi Aymag",
+      "nativeName": "East Gobi Aymag",
+      "code": "MN-063",
+      "internalCode": "063",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "latitude": 44.5,
+      "longitude": 110
+    },
+    {
+      "id": 2031799,
+      "name": "Eastern",
+      "nativeName": "Dornod Aymag",
+      "code": "MN-061",
+      "internalCode": "061",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "latitude": 48,
+      "longitude": 115
+    },
+    {
+      "id": 1515917,
+      "name": "Govi-Altai Province",
+      "nativeName": "Govĭ-Altay Aymag",
+      "code": "MN-065",
+      "internalCode": "065",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "latitude": 45.5,
+      "longitude": 96
+    },
+    {
+      "id": 2055112,
+      "name": "Govĭ-Sumber",
+      "nativeName": "Govĭ-Sumber",
+      "code": "MN-064",
+      "internalCode": "064",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "latitude": 46.5,
+      "longitude": 108.5
+    },
+    {
+      "id": 2030783,
+      "name": "Hentiy Aymag",
+      "nativeName": "Hentiy Aymag",
+      "code": "MN-039",
+      "internalCode": "039",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "latitude": 48,
+      "longitude": 110.5
+    },
+    {
+      "id": 1515696,
+      "name": "Hovd",
+      "nativeName": "Hovd",
+      "code": "MN-043",
+      "internalCode": "043",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "latitude": 47,
+      "longitude": 92.5
+    },
+    {
+      "id": 2030469,
+      "name": "Khövsgöl Province",
+      "nativeName": "Hövsgöl Aymag",
+      "code": "MN-041",
+      "internalCode": "041",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "latitude": 50,
+      "longitude": 100
+    },
+    {
+      "id": 2031740,
+      "name": "Middle Govĭ",
+      "nativeName": "Dundgovĭ Aymag",
+      "code": "MN-059",
+      "internalCode": "059",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "latitude": 45.5,
+      "longitude": 106.5
+    },
+    {
+      "id": 2055113,
+      "name": "Orhon Aymag",
+      "nativeName": "Orhon Aymag",
+      "code": "MN-035",
+      "internalCode": "035",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "latitude": 49.06306,
+      "longitude": 104.1627
+    },
+    {
+      "id": 2029432,
+      "name": "Selenge Province",
+      "nativeName": "Selenge Aymag",
+      "code": "MN-049",
+      "internalCode": "049",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "latitude": 49.66667,
+      "longitude": 106.41667
+    },
+    {
+      "id": 2029155,
+      "name": "Sühbaatar Aymag",
+      "nativeName": "Sühbaatar Aymag",
+      "code": "MN-051",
+      "internalCode": "051",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "latitude": 46.25,
+      "longitude": 113.5
+    },
+    {
+      "id": 2028461,
+      "name": "Ulaanbaatar",
+      "nativeName": "Ulaanbaatar Hot",
+      "code": "MN-1",
+      "internalCode": "1",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "latitude": 47.91667,
+      "longitude": 106.91667
+    },
+    {
+      "id": 1514967,
+      "name": "Uvs Province",
+      "nativeName": "Uvs Aymag",
+      "code": "MN-046",
+      "internalCode": "046",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "latitude": 49.5,
+      "longitude": 93
+    },
+    {
+      "id": 2029669,
+      "name": "Ömnögovĭ",
+      "nativeName": "Ömnögovi Province",
+      "code": "MN-053",
+      "internalCode": "053",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "latitude": 43,
+      "longitude": 104
+    },
+    {
+      "id": 2029546,
+      "name": "Övörhangay",
+      "nativeName": "South Khangay",
+      "code": "MN-055",
+      "internalCode": "055",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "latitude": 46,
+      "longitude": 102.5
+    }
+  ]
+}

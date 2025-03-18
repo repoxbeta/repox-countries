@@ -1,0 +1,227 @@
+{
+  "stateId": 6201194,
+  "stateCode": "YE-AM",
+  "countryCode": "YE",
+  "cities": [
+    {
+      "id": 6940862,
+      "name": "Al Ashah",
+      "nativeName": "Al Ashah",
+      "code": "YE-AM-6940862",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-AM",
+      "latitude": 16.324,
+      "longitude": 43.7874
+    },
+    {
+      "id": 6940865,
+      "name": "Al Madan",
+      "nativeName": "Al Madan",
+      "code": "YE-AM-6940865",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-AM",
+      "latitude": 16.2328,
+      "longitude": 43.639
+    },
+    {
+      "id": 6940871,
+      "name": "As Sawd District",
+      "nativeName": "As Sawd",
+      "code": "YE-AM-6940871",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-AM",
+      "latitude": 15.8134,
+      "longitude": 43.777
+    },
+    {
+      "id": 6940867,
+      "name": "As Sudah District",
+      "nativeName": "As Sudah",
+      "code": "YE-AM-6940867",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-AM",
+      "latitude": 15.9664,
+      "longitude": 43.7756
+    },
+    {
+      "id": 6940864,
+      "name": "Bani Suraim",
+      "nativeName": "Bani Suraim",
+      "code": "YE-AM-6940864",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-AM",
+      "latitude": 16.1253,
+      "longitude": 43.9602
+    },
+    {
+      "id": 6940874,
+      "name": "Dhi Bin District",
+      "nativeName": "Dhi Bin",
+      "code": "YE-AM-6940874",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-AM",
+      "latitude": 16.0276,
+      "longitude": 44.1515
+    },
+    {
+      "id": 6940868,
+      "name": "Habur Zulaymah District",
+      "nativeName": "Habur Zulaymah",
+      "code": "YE-AM-6940868",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-AM",
+      "latitude": 16.035,
+      "longitude": 43.7338
+    },
+    {
+      "id": 6940626,
+      "name": "Harf Sufyan District",
+      "nativeName": "Harf Sufyan",
+      "code": "YE-AM-6940626",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-AM",
+      "latitude": 16.41389,
+      "longitude": 43.98571
+    },
+    {
+      "id": 6940873,
+      "name": "Iyal Surayh District",
+      "nativeName": "Iyal Surayh",
+      "code": "YE-AM-6940873",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-AM",
+      "latitude": 15.7146,
+      "longitude": 43.9974
+    },
+    {
+      "id": 6940861,
+      "name": "Jabal Iyal Yazid",
+      "nativeName": "Jabal Iyal Yazid",
+      "code": "YE-AM-6940861",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-AM",
+      "latitude": 15.7717,
+      "longitude": 43.9051
+    },
+    {
+      "id": 73865,
+      "name": "Khamir District",
+      "nativeName": "Khamir",
+      "code": "YE-AM-73865",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-AM",
+      "latitude": 15.97653,
+      "longitude": 43.93371
+    },
+    {
+      "id": 6940872,
+      "name": "Kharif District",
+      "nativeName": "Kharif",
+      "code": "YE-AM-6940872",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-AM",
+      "latitude": 15.847,
+      "longitude": 44.0822
+    },
+    {
+      "id": 6940870,
+      "name": "Maswar District",
+      "nativeName": "Maswar",
+      "code": "YE-AM-6940870",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-AM",
+      "latitude": 15.5986,
+      "longitude": 43.6925
+    },
+    {
+      "id": 6940869,
+      "name": "Qaflat Othor District",
+      "nativeName": "Al Qaflah",
+      "code": "YE-AM-6940869",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-AM",
+      "latitude": 16.33859,
+      "longitude": 43.70361
+    },
+    {
+      "id": 6940627,
+      "name": "Raydah",
+      "nativeName": "Raydah",
+      "code": "YE-AM-6940627",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-AM",
+      "latitude": 15.74056,
+      "longitude": 44.05634
+    },
+    {
+      "id": 70908,
+      "name": "Shaharah District",
+      "nativeName": "Shahārah",
+      "code": "YE-AM-70908",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-AM",
+      "latitude": 16.18,
+      "longitude": 43.70942
+    },
+    {
+      "id": 6940863,
+      "name": "Suwayr",
+      "nativeName": "Suwayr",
+      "code": "YE-AM-6940863",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-AM",
+      "latitude": 16.0611,
+      "longitude": 43.6212
+    },
+    {
+      "id": 6940866,
+      "name": "Thula",
+      "nativeName": "Thula",
+      "code": "YE-AM-6940866",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-AM",
+      "latitude": 15.601,
+      "longitude": 43.8252
+    },
+    {
+      "id": 74489,
+      "name": "Ḩūth",
+      "nativeName": "Ḩūth",
+      "code": "YE-AM-74489",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-AM",
+      "latitude": 16.28397,
+      "longitude": 43.97811
+    },
+    {
+      "id": 78427,
+      "name": "‘Amrān",
+      "nativeName": "‘Amrān",
+      "code": "YE-AM-78427",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "stateCode": "YE-AM",
+      "latitude": 15.67746,
+      "longitude": 43.9343
+    }
+  ]
+}

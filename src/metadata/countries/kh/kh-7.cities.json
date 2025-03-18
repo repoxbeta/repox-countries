@@ -1,0 +1,95 @@
+{
+  "stateId": 1831111,
+  "stateCode": "KH-7",
+  "countryCode": "KH",
+  "cities": [
+    {
+      "id": 9072881,
+      "name": "Angkor Chey",
+      "nativeName": "Angkor Chey",
+      "code": "KH-7-9072881",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-7",
+      "latitude": 10.76667,
+      "longitude": 104.65
+    },
+    {
+      "id": 9034994,
+      "name": "Banteay Meas",
+      "nativeName": "Banteay Meas",
+      "code": "KH-7-9034994",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-7",
+      "latitude": 10.61667,
+      "longitude": 104.53333
+    },
+    {
+      "id": 9072882,
+      "name": "Chhuk",
+      "nativeName": "Chhouk District",
+      "code": "KH-7-9072882",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-7",
+      "latitude": 10.81667,
+      "longitude": 104.45
+    },
+    {
+      "id": 8405988,
+      "name": "Chum Kiri",
+      "nativeName": "Srŏk Chŭm Kiri",
+      "code": "KH-7-8405988",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-7",
+      "latitude": 11.0054,
+      "longitude": 104.44207
+    },
+    {
+      "id": 8405989,
+      "name": "Dang Tong",
+      "nativeName": "Srŏk Dângtóng",
+      "code": "KH-7-8405989",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-7",
+      "latitude": 10.70733,
+      "longitude": 104.42229
+    },
+    {
+      "id": 9034991,
+      "name": "Kampong Trach",
+      "nativeName": "Kampong Tranch",
+      "code": "KH-7-9034991",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-7",
+      "latitude": 10.55,
+      "longitude": 104.46667
+    },
+    {
+      "id": 9034950,
+      "name": "Krong Kampot",
+      "nativeName": "Kampong Bay",
+      "code": "KH-7-9034950",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-7",
+      "latitude": 10.59554,
+      "longitude": 104.17136
+    },
+    {
+      "id": 8405990,
+      "name": "Tuek Chhou",
+      "nativeName": "Srŏk Tœ̆k Chhu",
+      "code": "KH-7-8405990",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-7",
+      "latitude": 10.74557,
+      "longitude": 104.11013
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "stateId": 87204,
+  "stateCode": "LY-DR",
+  "countryCode": "LY",
+  "cities": [
+    {
+      "id": 87205,
+      "name": "Darnah",
+      "nativeName": "Darnah",
+      "code": "LY-DR-87205",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-DR",
+      "latitude": 32.76704,
+      "longitude": 22.63669
+    },
+    {
+      "id": 89069,
+      "name": "Al Athrūn",
+      "nativeName": "Al Athrūn",
+      "code": "LY-DR-89069",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-DR",
+      "latitude": 32.86666,
+      "longitude": 22.27866
+    },
+    {
+      "id": 88329,
+      "name": "Al Būmbah",
+      "nativeName": "Al Būmbah",
+      "code": "LY-DR-88329",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-DR",
+      "latitude": 32.43861,
+      "longitude": 23.06723
+    },
+    {
+      "id": 11867582,
+      "name": "Al Ghazālah",
+      "nativeName": "Al Ghazālah",
+      "code": "LY-DR-11867582",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-DR",
+      "latitude": 32.14617,
+      "longitude": 23.35691
+    },
+    {
+      "id": 11846280,
+      "name": "Al Hilāl",
+      "nativeName": "Al Hilāl",
+      "code": "LY-DR-11846280",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-DR",
+      "latitude": 32.88452,
+      "longitude": 22.18422
+    },
+    {
+      "id": 88835,
+      "name": "Al Qubbah",
+      "nativeName": "Al Qubbah",
+      "code": "LY-DR-88835",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-DR",
+      "latitude": 32.75684,
+      "longitude": 22.24106
+    },
+    {
+      "id": 88558,
+      "name": "At Tamīmī",
+      "nativeName": "At Tamīmī",
+      "code": "LY-DR-88558",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-DR",
+      "latitude": 32.33637,
+      "longitude": 23.05758
+    },
+    {
+      "id": 87897,
+      "name": "Bū ath Thāmir",
+      "nativeName": "Bū ath Thāmir",
+      "code": "LY-DR-87897",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-DR",
+      "latitude": 32.78838,
+      "longitude": 22.30387
+    },
+    {
+      "id": 85771,
+      "name": "Karsah",
+      "nativeName": "Karsah",
+      "code": "LY-DR-85771",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-DR",
+      "latitude": 32.8472,
+      "longitude": 22.4199
+    },
+    {
+      "id": 85496,
+      "name": "Kuhūf Bū Qalbūţ",
+      "nativeName": "Kuhūf Bū Qalbūţ",
+      "code": "LY-DR-85496",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-DR",
+      "latitude": 32.7599,
+      "longitude": 22.24884
+    },
+    {
+      "id": 85446,
+      "name": "Lamlūdah",
+      "nativeName": "Lamlūdah",
+      "code": "LY-DR-85446",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-DR",
+      "latitude": 32.78072,
+      "longitude": 22.14291
+    },
+    {
+      "id": 85074,
+      "name": "Martūbah",
+      "nativeName": "Martūbah",
+      "code": "LY-DR-85074",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-DR",
+      "latitude": 32.57421,
+      "longitude": 22.76353
+    },
+    {
+      "id": 80635,
+      "name": "Mechili",
+      "nativeName": "Mukhaylá",
+      "code": "LY-DR-80635",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-DR",
+      "latitude": 32.16005,
+      "longitude": 22.27845
+    },
+    {
+      "id": 81071,
+      "name": "Umm ar Rizam",
+      "nativeName": "Umm ar Rizam",
+      "code": "LY-DR-81071",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-DR",
+      "latitude": 32.53332,
+      "longitude": 23.00904
+    },
+    {
+      "id": 80751,
+      "name": "Zahrah",
+      "nativeName": "Zahrah",
+      "code": "LY-DR-80751",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-DR",
+      "latitude": 32.86667,
+      "longitude": 22.28333
+    },
+    {
+      "id": 80626,
+      "name": "Zāwiyat Bishārah",
+      "nativeName": "Zāwiyat Bishārah",
+      "code": "LY-DR-80626",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-DR",
+      "latitude": 32.76695,
+      "longitude": 22.22032
+    },
+    {
+      "id": 80641,
+      "name": "Zāwiyat al Ḩabīb",
+      "nativeName": "Zāwiyat al Ḩabīb",
+      "code": "LY-DR-80641",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-DR",
+      "latitude": 32.81368,
+      "longitude": 22.29343
+    },
+    {
+      "id": 80639,
+      "name": "Zāwiyat al ‘Izzīyāt",
+      "nativeName": "Zāwiyat al ‘Izzīyāt",
+      "code": "LY-DR-80639",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-DR",
+      "latitude": 32.25458,
+      "longitude": 22.66618
+    },
+    {
+      "id": 80628,
+      "name": "Zāwiyat at Tarīt",
+      "nativeName": "Zāwiyat at Tarīt",
+      "code": "LY-DR-80628",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-DR",
+      "latitude": 32.78701,
+      "longitude": 22.07717
+    },
+    {
+      "id": 88498,
+      "name": "‘Ayn Mārrah",
+      "nativeName": "‘Ayn Mārrah",
+      "code": "LY-DR-88498",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-DR",
+      "latitude": 32.75,
+      "longitude": 22.38333
+    }
+  ]
+}

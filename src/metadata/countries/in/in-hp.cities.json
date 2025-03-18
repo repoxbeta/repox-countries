@@ -1,0 +1,139 @@
+{
+  "stateId": 1270101,
+  "stateCode": "IN-HP",
+  "countryCode": "IN",
+  "cities": [
+    {
+      "id": 1275638,
+      "name": "Bilaspur District",
+      "nativeName": "Bilāspur",
+      "code": "IN-HP-1275638",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-HP",
+      "latitude": 31.33333,
+      "longitude": 76.75
+    },
+    {
+      "id": 1274849,
+      "name": "Chamba",
+      "nativeName": "Chamba",
+      "code": "IN-HP-1274849",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-HP",
+      "latitude": 32.57147,
+      "longitude": 76.10229
+    },
+    {
+      "id": 1270456,
+      "name": "Hamirpur",
+      "nativeName": "Hamīrpur",
+      "code": "IN-HP-1270456",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-HP",
+      "latitude": 31.75,
+      "longitude": 76.5
+    },
+    {
+      "id": 1268085,
+      "name": "Kangra",
+      "nativeName": "Kāngra",
+      "code": "IN-HP-1268085",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-HP",
+      "latitude": 32.16667,
+      "longitude": 76.25
+    },
+    {
+      "id": 1266519,
+      "name": "Kinnaur",
+      "nativeName": "Kinnaur",
+      "code": "IN-HP-1266519",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-HP",
+      "latitude": 31.58333,
+      "longitude": 78.41667
+    },
+    {
+      "id": 1265710,
+      "name": "Kullu",
+      "nativeName": "Kulu",
+      "code": "IN-HP-1265710",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-HP",
+      "latitude": 32,
+      "longitude": 77.25
+    },
+    {
+      "id": 1265292,
+      "name": "Lahaul and Spiti District",
+      "nativeName": "Lāhul and Spiti",
+      "code": "IN-HP-1265292",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-HP",
+      "latitude": 32.5,
+      "longitude": 77.83333
+    },
+    {
+      "id": 1263863,
+      "name": "Mandi",
+      "nativeName": "Mandi",
+      "code": "IN-HP-1263863",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-HP",
+      "latitude": 31.75,
+      "longitude": 77
+    },
+    {
+      "id": 1256238,
+      "name": "Shimla district",
+      "nativeName": "Shimla",
+      "code": "IN-HP-1256238",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-HP",
+      "latitude": 31.16667,
+      "longitude": 77.58333
+    },
+    {
+      "id": 1256073,
+      "name": "Sirmaur",
+      "nativeName": "Sirmaur",
+      "code": "IN-HP-1256073",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-HP",
+      "latitude": 30.75,
+      "longitude": 77.5
+    },
+    {
+      "id": 1255851,
+      "name": "Solan",
+      "nativeName": "Solan",
+      "code": "IN-HP-1255851",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-HP",
+      "latitude": 31.08333,
+      "longitude": 76.83333
+    },
+    {
+      "id": 7701379,
+      "name": "Una",
+      "nativeName": "Una",
+      "code": "IN-HP-7701379",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-HP",
+      "latitude": 31.58369,
+      "longitude": 76.19283
+    }
+  ]
+}

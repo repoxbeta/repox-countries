@@ -1,0 +1,183 @@
+{
+  "stateId": 1606146,
+  "stateCode": "TH-90",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 7510672,
+      "name": "Bang Klam",
+      "nativeName": "Amphoe Bang Klam",
+      "code": "TH-90-7510672",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-90",
+      "latitude": 7.06404,
+      "longitude": 100.40664
+    },
+    {
+      "id": 1611323,
+      "name": "Chana",
+      "nativeName": "Amphoe Chana",
+      "code": "TH-90-1611323",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-90",
+      "latitude": 6.89584,
+      "longitude": 100.70126
+    },
+    {
+      "id": 1610779,
+      "name": "Hat Yai",
+      "nativeName": "Amphoe Hat Yai",
+      "code": "TH-90-1610779",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-90",
+      "latitude": 6.98092,
+      "longitude": 100.46539
+    },
+    {
+      "id": 7465824,
+      "name": "Khlong Hoi Khong",
+      "nativeName": "Amphoe Khlong Hoi Khong",
+      "code": "TH-90-7465824",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-90",
+      "latitude": 6.86623,
+      "longitude": 100.35353
+    },
+    {
+      "id": 7510671,
+      "name": "Khuan Niang",
+      "nativeName": "Amphoe Khuan Niang",
+      "code": "TH-90-7510671",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-90",
+      "latitude": 7.18231,
+      "longitude": 100.37403
+    },
+    {
+      "id": 7603496,
+      "name": "Krasae Sin",
+      "nativeName": "Amphoe Krasae Sin",
+      "code": "TH-90-7603496",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-90",
+      "latitude": 7.61254,
+      "longitude": 100.32827
+    },
+    {
+      "id": 1608615,
+      "name": "Mueang Songkhla",
+      "nativeName": "Amphoe Mueang Songkhla",
+      "code": "TH-90-1608615",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-90",
+      "latitude": 7.11075,
+      "longitude": 100.60814
+    },
+    {
+      "id": 7095964,
+      "name": "Na Mom",
+      "nativeName": "Amphoe Na Mom",
+      "code": "TH-90-7095964",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-90",
+      "latitude": 6.9599,
+      "longitude": 100.57161
+    },
+    {
+      "id": 1608401,
+      "name": "Na Thawi",
+      "nativeName": "Amphoe Na Thawi",
+      "code": "TH-90-1608401",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-90",
+      "latitude": 6.63849,
+      "longitude": 100.68173
+    },
+    {
+      "id": 1607067,
+      "name": "Ranot",
+      "nativeName": "Amphoe Ranot",
+      "code": "TH-90-1607067",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-90",
+      "latitude": 7.8139,
+      "longitude": 100.28323
+    },
+    {
+      "id": 1607027,
+      "name": "Rattaphum",
+      "nativeName": "Amphoe Rattaphum",
+      "code": "TH-90-1607027",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-90",
+      "latitude": 7.07488,
+      "longitude": 100.19515
+    },
+    {
+      "id": 1606943,
+      "name": "Saba Yoi",
+      "nativeName": "Amphoe Saba Yoi",
+      "code": "TH-90-1606943",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-90",
+      "latitude": 6.52971,
+      "longitude": 100.91232
+    },
+    {
+      "id": 1606938,
+      "name": "Sadao",
+      "nativeName": "Amphoe Sadao",
+      "code": "TH-90-1606938",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-90",
+      "latitude": 6.67135,
+      "longitude": 100.42409
+    },
+    {
+      "id": 1606393,
+      "name": "Sathing Phra",
+      "nativeName": "Amphoe Sathing Phra",
+      "code": "TH-90-1606393",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-90",
+      "latitude": 7.47963,
+      "longitude": 100.42227
+    },
+    {
+      "id": 6791114,
+      "name": "Singhanakhon",
+      "nativeName": "Amphoe Singhanakhon",
+      "code": "TH-90-6791114",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-90",
+      "latitude": 7.28453,
+      "longitude": 100.48809
+    },
+    {
+      "id": 1605460,
+      "name": "Thepha",
+      "nativeName": "Amphoe Thepha",
+      "code": "TH-90-1605460",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-90",
+      "latitude": 6.79726,
+      "longitude": 100.91025
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "stateId": 426699,
+  "stateCode": "BI-RY",
+  "countryCode": "BI",
+  "cities": [
+    {
+      "id": 11819937,
+      "name": "Butaganzwa",
+      "nativeName": "Butaganzwa",
+      "code": "BI-RY-11819937",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-RY",
+      "latitude": -3.53137,
+      "longitude": 30.14559
+    },
+    {
+      "id": 9171856,
+      "name": "Butezi",
+      "nativeName": "Butezi",
+      "code": "BI-RY-9171856",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-RY",
+      "latitude": -3.35392,
+      "longitude": 30.19745
+    },
+    {
+      "id": 9171859,
+      "name": "Bweru",
+      "nativeName": "Bweru",
+      "code": "BI-RY-9171859",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-RY",
+      "latitude": -3.29666,
+      "longitude": 30.38269
+    },
+    {
+      "id": 9171841,
+      "name": "Gisuru",
+      "nativeName": "Gisuru",
+      "code": "BI-RY-9171841",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-RY",
+      "latitude": -3.44592,
+      "longitude": 30.49793
+    },
+    {
+      "id": 9171844,
+      "name": "Kinyinya",
+      "nativeName": "Kinyinya",
+      "code": "BI-RY-9171844",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-RY",
+      "latitude": -3.6241,
+      "longitude": 30.3642
+    },
+    {
+      "id": 9171851,
+      "name": "Nyabitsinda",
+      "nativeName": "Nyabitsinda",
+      "code": "BI-RY-9171851",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-RY",
+      "latitude": -3.57813,
+      "longitude": 30.27037
+    },
+    {
+      "id": 7670616,
+      "name": "Ruyigi",
+      "nativeName": "Ruyigi",
+      "code": "BI-RY-7670616",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-RY",
+      "latitude": -3.43319,
+      "longitude": 30.27474
+    }
+  ]
+}

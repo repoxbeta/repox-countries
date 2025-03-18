@@ -1,0 +1,84 @@
+{
+  "stateId": 886843,
+  "stateCode": "ZW-MC",
+  "countryCode": "ZW",
+  "cities": [
+    {
+      "id": 895060,
+      "name": "Bindura District",
+      "nativeName": "Bindura District",
+      "code": "ZW-MC-895060",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MC",
+      "latitude": -17.2123,
+      "longitude": 31.303
+    },
+    {
+      "id": 894459,
+      "name": "Centenary District",
+      "nativeName": "Centenary District",
+      "code": "ZW-MC-894459",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MC",
+      "latitude": -16.41667,
+      "longitude": 31.16667
+    },
+    {
+      "id": 892597,
+      "name": "Darwin District",
+      "nativeName": "Mount Darwin",
+      "code": "ZW-MC-892597",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MC",
+      "latitude": -16.60792,
+      "longitude": 31.68578
+    },
+    {
+      "id": 890599,
+      "name": "Guruve District",
+      "nativeName": "Guruve District",
+      "code": "ZW-MC-890599",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MC",
+      "latitude": -16.37206,
+      "longitude": 30.60607
+    },
+    {
+      "id": 886383,
+      "name": "Mazowe District",
+      "nativeName": "Mazowe District",
+      "code": "ZW-MC-886383",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MC",
+      "latitude": -17.2808,
+      "longitude": 30.93231
+    },
+    {
+      "id": 882083,
+      "name": "Rushinga District",
+      "nativeName": "Rushinga District",
+      "code": "ZW-MC-882083",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MC",
+      "latitude": -16.60792,
+      "longitude": 32.31434
+    },
+    {
+      "id": 881344,
+      "name": "Shamva District",
+      "nativeName": "Shamva District",
+      "code": "ZW-MC-881344",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MC",
+      "latitude": -17.12366,
+      "longitude": 31.64146
+    }
+  ]
+}

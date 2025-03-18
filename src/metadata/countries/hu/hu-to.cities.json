@@ -1,0 +1,73 @@
+{
+  "stateId": 3043845,
+  "stateCode": "HU-TO",
+  "countryCode": "HU",
+  "cities": [
+    {
+      "id": 9644774,
+      "name": "Bonyhádi járás",
+      "nativeName": "Bonyhádi járás",
+      "code": "HU-TO-9644774",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-TO",
+      "latitude": 46.33998,
+      "longitude": 18.49739
+    },
+    {
+      "id": 9644773,
+      "name": "Dombóvár District",
+      "nativeName": "Dombóvári járás",
+      "code": "HU-TO-9644773",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-TO",
+      "latitude": 46.45592,
+      "longitude": 18.19076
+    },
+    {
+      "id": 9644777,
+      "name": "Paksi járás",
+      "nativeName": "Paksi járás",
+      "code": "HU-TO-9644777",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-TO",
+      "latitude": 46.66035,
+      "longitude": 18.78572
+    },
+    {
+      "id": 9644776,
+      "name": "Szekszárdi járás",
+      "nativeName": "Szekszárdi járás",
+      "code": "HU-TO-9644776",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-TO",
+      "latitude": 46.33998,
+      "longitude": 18.67893
+    },
+    {
+      "id": 9644772,
+      "name": "Tamási Járás",
+      "nativeName": "Tamási Járás",
+      "code": "HU-TO-9644772",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-TO",
+      "latitude": 46.65424,
+      "longitude": 18.35857
+    },
+    {
+      "id": 9644775,
+      "name": "Tolnai járás",
+      "nativeName": "Tolnai járás",
+      "code": "HU-TO-9644775",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-TO",
+      "latitude": 46.42541,
+      "longitude": 18.82691
+    }
+  ]
+}

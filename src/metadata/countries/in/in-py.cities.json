@@ -1,0 +1,51 @@
+{
+  "stateId": 1259424,
+  "stateCode": "IN-PY",
+  "countryCode": "IN",
+  "cities": [
+    {
+      "id": 1267888,
+      "name": "Karaikal",
+      "nativeName": "Kāraikāl",
+      "code": "IN-PY-1267888",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-PY",
+      "latitude": 10.92209,
+      "longitude": 79.83353
+    },
+    {
+      "id": 1264404,
+      "name": "Mahe",
+      "nativeName": "Mahe",
+      "code": "IN-PY-1264404",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-PY",
+      "latitude": 11.7,
+      "longitude": 75.53333
+    },
+    {
+      "id": 1259426,
+      "name": "Pondicherry",
+      "nativeName": "Puducherry",
+      "code": "IN-PY-1259426",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-PY",
+      "latitude": 11.91667,
+      "longitude": 79.75
+    },
+    {
+      "id": 1252796,
+      "name": "Yanam",
+      "nativeName": "Yanam",
+      "code": "IN-PY-1252796",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-PY",
+      "latitude": 16.73463,
+      "longitude": 82.21773
+    }
+  ]
+}

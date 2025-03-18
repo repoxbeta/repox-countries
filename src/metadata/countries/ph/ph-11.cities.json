@@ -1,0 +1,62 @@
+{
+  "stateId": 7521309,
+  "stateCode": "PH-11",
+  "countryCode": "PH",
+  "cities": [
+    {
+      "id": 11189141,
+      "name": "Davao Occidental",
+      "nativeName": "Davao Occidental",
+      "code": "PH-11-11189141",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-11",
+      "latitude": 6.08,
+      "longitude": 125.67
+    },
+    {
+      "id": 1717055,
+      "name": "Davao de Oro",
+      "nativeName": "Davao de Oro",
+      "code": "PH-11-1717055",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-11",
+      "latitude": 7.68333,
+      "longitude": 126.11667
+    },
+    {
+      "id": 1715347,
+      "name": "Davao del Norte",
+      "nativeName": "Province of Davao del Norte",
+      "code": "PH-11-1715347",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-11",
+      "latitude": 7.45099,
+      "longitude": 125.81543
+    },
+    {
+      "id": 1715342,
+      "name": "Province of Davao Oriental",
+      "nativeName": "Province of Davao Oriental",
+      "code": "PH-11-1715342",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-11",
+      "latitude": 7.16667,
+      "longitude": 126.33333
+    },
+    {
+      "id": 1715345,
+      "name": "Province of Davao del Sur",
+      "nativeName": "Province of Davao del Sur",
+      "code": "PH-11-1715345",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-11",
+      "latitude": 6.79281,
+      "longitude": 125.30182
+    }
+  ]
+}

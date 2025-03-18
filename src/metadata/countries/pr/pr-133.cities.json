@@ -1,0 +1,95 @@
+{
+  "stateId": 4568213,
+  "stateCode": "PR-133",
+  "countryCode": "PR",
+  "cities": [
+    {
+      "id": 7268258,
+      "name": "Boca Velázquez Barrio",
+      "nativeName": "Boca Velázquez Barrio",
+      "code": "PR-133-7268258",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-133",
+      "latitude": 17.96651,
+      "longitude": -66.42092
+    },
+    {
+      "id": 7268148,
+      "name": "Descalabrado Barrio",
+      "nativeName": "Descalabrado Barrio",
+      "code": "PR-133-7268148",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-133",
+      "latitude": 17.99684,
+      "longitude": -66.4247
+    },
+    {
+      "id": 7268387,
+      "name": "Felicia 1 Barrio",
+      "nativeName": "Felicia 1 Barrio",
+      "code": "PR-133-7268387",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-133",
+      "latitude": 17.95651,
+      "longitude": -66.38973
+    },
+    {
+      "id": 7268388,
+      "name": "Felicia 2 Barrio",
+      "nativeName": "Felicia 2 Barrio",
+      "code": "PR-133-7268388",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-133",
+      "latitude": 17.99369,
+      "longitude": -66.3861
+    },
+    {
+      "id": 7268519,
+      "name": "Jauca 1 Barrio",
+      "nativeName": "Jauca 1 Barrio",
+      "code": "PR-133-7268519",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-133",
+      "latitude": 17.96772,
+      "longitude": -66.36978
+    },
+    {
+      "id": 7268520,
+      "name": "Jauca 2 Barrio",
+      "nativeName": "Jauca 2 Barrio",
+      "code": "PR-133-7268520",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-133",
+      "latitude": 18.00671,
+      "longitude": -66.35842
+    },
+    {
+      "id": 7268771,
+      "name": "Playa Barrio",
+      "nativeName": "Playa Barrio",
+      "code": "PR-133-7268771",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-133",
+      "latitude": 17.95445,
+      "longitude": -66.40884
+    },
+    {
+      "id": 7268989,
+      "name": "Santa Isabel Barrio-Pueblo",
+      "nativeName": "Santa Isabel Barrio-Pueblo",
+      "code": "PR-133-7268989",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-133",
+      "latitude": 17.96848,
+      "longitude": -66.40494
+    }
+  ]
+}

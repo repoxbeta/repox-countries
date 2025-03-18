@@ -1,0 +1,29 @@
+{
+  "stateId": 11778172,
+  "stateCode": "BW-SP",
+  "countryCode": "BW",
+  "cities": [
+    {
+      "id": 10941922,
+      "name": "Botshabelo North",
+      "nativeName": "Botshabelo North",
+      "code": "BW-SP-10941922",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "stateCode": "BW-SP",
+      "latitude": -21.98219,
+      "longitude": 27.841
+    },
+    {
+      "id": 933099,
+      "name": "Selebi-Phikwe",
+      "nativeName": "Selebi-Phikwe",
+      "code": "BW-SP-933099",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "stateCode": "BW-SP",
+      "latitude": -21.97895,
+      "longitude": 27.84296
+    }
+  ]
+}

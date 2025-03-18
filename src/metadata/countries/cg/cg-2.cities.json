@@ -1,0 +1,62 @@
+{
+  "stateId": 2258534,
+  "stateCode": "CG-2",
+  "countryCode": "CG",
+  "cities": [
+    {
+      "id": 7870607,
+      "name": "Bambama",
+      "nativeName": "Bambama",
+      "code": "CG-2-7870607",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-2",
+      "latitude": -2.53893,
+      "longitude": 13.54658
+    },
+    {
+      "id": 7870608,
+      "name": "Komono",
+      "nativeName": "Komono",
+      "code": "CG-2-7870608",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-2",
+      "latitude": -2.93719,
+      "longitude": 13.26635
+    },
+    {
+      "id": 11996221,
+      "name": "Mayeye",
+      "nativeName": "Mayeye",
+      "code": "CG-2-11996221",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-2",
+      "latitude": -3.62036,
+      "longitude": 13.63767
+    },
+    {
+      "id": 7870613,
+      "name": "Sibiti",
+      "nativeName": "Sibiti",
+      "code": "CG-2-7870613",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-2",
+      "latitude": -3.65125,
+      "longitude": 13.3464
+    },
+    {
+      "id": 7870614,
+      "name": "Zanaga",
+      "nativeName": "Zanaga",
+      "code": "CG-2-7870614",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-2",
+      "latitude": -2.85138,
+      "longitude": 13.8255
+    }
+  ]
+}

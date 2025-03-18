@@ -1,0 +1,40 @@
+{
+  "stateId": 7670850,
+  "stateCode": "MG-43",
+  "countryCode": "MG",
+  "cities": [
+    {
+      "id": 11926427,
+      "name": "Kandreho",
+      "nativeName": "Kandreho",
+      "code": "MG-43-11926427",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-43",
+      "latitude": -17.40943,
+      "longitude": 46.05162
+    },
+    {
+      "id": 11072831,
+      "name": "Maevatanana",
+      "nativeName": "Maevatanana",
+      "code": "MG-43-11072831",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-43",
+      "latitude": -17.22802,
+      "longitude": 46.81273
+    },
+    {
+      "id": 11072833,
+      "name": "Tsaratanana",
+      "nativeName": "Tsaratanana",
+      "code": "MG-43-11072833",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-43",
+      "latitude": -17.14301,
+      "longitude": 47.64676
+    }
+  ]
+}

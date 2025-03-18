@@ -1,0 +1,117 @@
+{
+  "stateId": 1606032,
+  "stateCode": "TH-72",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 1619297,
+      "name": "Bang Pla Ma",
+      "nativeName": "Amphoe Bang Pla Ma",
+      "code": "TH-72-1619297",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-72",
+      "latitude": 14.34985,
+      "longitude": 100.14479
+    },
+    {
+      "id": 7510658,
+      "name": "Dan Chang",
+      "nativeName": "Amphoe Dan Chang",
+      "code": "TH-72-7510658",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-72",
+      "latitude": 14.88388,
+      "longitude": 99.51642
+    },
+    {
+      "id": 1610910,
+      "name": "Doem Bang Nang Buat",
+      "nativeName": "Amphoe Doembang Nangbuat",
+      "code": "TH-72-1610910",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-72",
+      "latitude": 14.87394,
+      "longitude": 100.04669
+    },
+    {
+      "id": 1610899,
+      "name": "Don Chedi",
+      "nativeName": "Amphoe Don Chedi",
+      "code": "TH-72-1610899",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-72",
+      "latitude": 14.64804,
+      "longitude": 99.94734
+    },
+    {
+      "id": 1608613,
+      "name": "Mueang Suphan Buri",
+      "nativeName": "Amphoe Mueang Suphan Buri",
+      "code": "TH-72-1608613",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-72",
+      "latitude": 14.49189,
+      "longitude": 100.07458
+    },
+    {
+      "id": 7510655,
+      "name": "Nong Ya Sai",
+      "nativeName": "Amphoe Nong Yasai",
+      "code": "TH-72-7510655",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-72",
+      "latitude": 14.77644,
+      "longitude": 99.85751
+    },
+    {
+      "id": 1150807,
+      "name": "Sam Chuk",
+      "nativeName": "Amphoe Sam Chuk",
+      "code": "TH-72-1150807",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-72",
+      "latitude": 14.75598,
+      "longitude": 100.0648
+    },
+    {
+      "id": 1606256,
+      "name": "Si Prachan",
+      "nativeName": "Amphoe Si Prachan",
+      "code": "TH-72-1606256",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-72",
+      "latitude": 14.6381,
+      "longitude": 100.1505
+    },
+    {
+      "id": 1606138,
+      "name": "Song Phi Nong",
+      "nativeName": "Amphoe Song Phi Nong",
+      "code": "TH-72-1606138",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-72",
+      "latitude": 14.18895,
+      "longitude": 99.9758
+    },
+    {
+      "id": 1149963,
+      "name": "U Thong",
+      "nativeName": "Amphoe U Thong",
+      "code": "TH-72-1149963",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-72",
+      "latitude": 14.41093,
+      "longitude": 99.88949
+    }
+  ]
+}

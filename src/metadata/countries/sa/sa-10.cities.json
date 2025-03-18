@@ -1,0 +1,95 @@
+{
+  "stateId": 103628,
+  "stateCode": "SA-10",
+  "countryCode": "SA",
+  "cities": [
+    {
+      "id": 10972371,
+      "name": "Al Kharkhīr",
+      "nativeName": "Al Kharkhīr",
+      "code": "SA-10-10972371",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-10",
+      "latitude": 19.13333,
+      "longitude": 50.95
+    },
+    {
+      "id": 10972372,
+      "name": "Badr al Janūb",
+      "nativeName": "Badr al Janūb",
+      "code": "SA-10-10972372",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-10",
+      "latitude": 17.8,
+      "longitude": 43.73333
+    },
+    {
+      "id": 10972374,
+      "name": "Khubāsh",
+      "nativeName": "Khubāsh",
+      "code": "SA-10-10972374",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-10",
+      "latitude": 17.66667,
+      "longitude": 45.25
+    },
+    {
+      "id": 10972375,
+      "name": "Najrān",
+      "nativeName": "Najrān",
+      "code": "SA-10-10972375",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-10",
+      "latitude": 17.55,
+      "longitude": 44.08333
+    },
+    {
+      "id": 10972376,
+      "name": "Sharūrah",
+      "nativeName": "Sharūrah",
+      "code": "SA-10-10972376",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-10",
+      "latitude": 18,
+      "longitude": 47.5
+    },
+    {
+      "id": 10972377,
+      "name": "Thār",
+      "nativeName": "Thār",
+      "code": "SA-10-10972377",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-10",
+      "latitude": 18.16667,
+      "longitude": 44.6
+    },
+    {
+      "id": 10972378,
+      "name": "Yadamah",
+      "nativeName": "Yadamah",
+      "code": "SA-10-10972378",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-10",
+      "latitude": 18.83333,
+      "longitude": 44.66667
+    },
+    {
+      "id": 10972373,
+      "name": "Ḩubūnā",
+      "nativeName": "Ḩubūnā",
+      "code": "SA-10-10972373",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-10",
+      "latitude": 17.78333,
+      "longitude": 44.2
+    }
+  ]
+}

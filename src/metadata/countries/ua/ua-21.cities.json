@@ -1,0 +1,73 @@
+{
+  "stateId": 687869,
+  "stateCode": "UA-21",
+  "countryCode": "UA",
+  "cities": [
+    {
+      "id": 712424,
+      "name": "Berehove Raion",
+      "nativeName": "Berehove Raion",
+      "code": "UA-21-712424",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-21",
+      "latitude": 48.20695,
+      "longitude": 22.64683
+    },
+    {
+      "id": 706162,
+      "name": "Khust Raion",
+      "nativeName": "Khust Raion",
+      "code": "UA-21-706162",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-21",
+      "latitude": 48.1762,
+      "longitude": 23.29189
+    },
+    {
+      "id": 700644,
+      "name": "Mukachevo Raion",
+      "nativeName": "Mukachevo Raion",
+      "code": "UA-21-700644",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-21",
+      "latitude": 48.43701,
+      "longitude": 22.72313
+    },
+    {
+      "id": 695857,
+      "name": "Rakhiv Raion",
+      "nativeName": "Rakhiv Raion",
+      "code": "UA-21-695857",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-21",
+      "latitude": 48.0549,
+      "longitude": 24.20476
+    },
+    {
+      "id": 690904,
+      "name": "Tyachiv Raion",
+      "nativeName": "Tyachiv Raion",
+      "code": "UA-21-690904",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-21",
+      "latitude": 48.01125,
+      "longitude": 23.57186
+    },
+    {
+      "id": 690549,
+      "name": "Uzhhorod Raion",
+      "nativeName": "Uzhhorod Raion",
+      "code": "UA-21-690549",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-21",
+      "latitude": 48.62959,
+      "longitude": 22.28079
+    }
+  ]
+}

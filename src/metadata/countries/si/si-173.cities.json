@@ -1,0 +1,106 @@
+{
+  "stateId": 3344906,
+  "stateCode": "SI-173",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3192762,
+      "name": "Polzela",
+      "nativeName": "Polzela",
+      "code": "SI-173-3192762",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-173",
+      "latitude": 46.28333,
+      "longitude": 15.06667
+    },
+    {
+      "id": 8986866,
+      "name": "Breg pri Polzeli",
+      "nativeName": "Breg pri Polzeli",
+      "code": "SI-173-8986866",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-173",
+      "latitude": 46.26958,
+      "longitude": 15.08763
+    },
+    {
+      "id": 3201944,
+      "name": "Dobrič",
+      "nativeName": "Dobrič",
+      "code": "SI-173-3201944",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-173",
+      "latitude": 46.31926,
+      "longitude": 15.06778
+    },
+    {
+      "id": 8986872,
+      "name": "Ločica ob Savinji",
+      "nativeName": "Ločica ob Savinji",
+      "code": "SI-173-8986872",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-173",
+      "latitude": 46.26362,
+      "longitude": 15.09713
+    },
+    {
+      "id": 3194004,
+      "name": "Orla Vas",
+      "nativeName": "Orla Vas",
+      "code": "SI-173-3194004",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-173",
+      "latitude": 46.26188,
+      "longitude": 15.07714
+    },
+    {
+      "id": 8989799,
+      "name": "Orova Vas",
+      "nativeName": "Orova Vas",
+      "code": "SI-173-8989799",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-173",
+      "latitude": 46.27914,
+      "longitude": 15.09234
+    },
+    {
+      "id": 3217234,
+      "name": "Podvin pri Polzeli",
+      "nativeName": "Podvin pri Polzeli",
+      "code": "SI-173-3217234",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-173",
+      "latitude": 46.3,
+      "longitude": 15.05722
+    },
+    {
+      "id": 8986974,
+      "name": "Založe",
+      "nativeName": "Založe",
+      "code": "SI-173-8986974",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-173",
+      "latitude": 46.29174,
+      "longitude": 15.10052
+    },
+    {
+      "id": 3204821,
+      "name": "Andraž nad Polzelo",
+      "nativeName": "Andraž nad Polzelo",
+      "code": "SI-173-3204821",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-173",
+      "latitude": 46.325,
+      "longitude": 15.0925
+    }
+  ]
+}

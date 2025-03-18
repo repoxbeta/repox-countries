@@ -1,0 +1,40 @@
+{
+  "stateId": 8299765,
+  "stateCode": "MT-67",
+  "countryCode": "MT",
+  "cities": [
+    {
+      "id": 2562258,
+      "name": "Żejtun",
+      "nativeName": "Żejtun",
+      "code": "MT-67-2562258",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-67",
+      "latitude": 35.85583,
+      "longitude": 14.53306
+    },
+    {
+      "id": 2562713,
+      "name": "Misraħ Strejnu",
+      "nativeName": "Misraħ Strejnu",
+      "code": "MT-67-2562713",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-67",
+      "latitude": 35.85056,
+      "longitude": 14.54528
+    },
+    {
+      "id": 2562424,
+      "name": "Tal-Barrani",
+      "nativeName": "Tal-Barrani",
+      "code": "MT-67-2562424",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-67",
+      "latitude": 35.85639,
+      "longitude": 14.52028
+    }
+  ]
+}

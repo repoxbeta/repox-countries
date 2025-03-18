@@ -1,0 +1,29 @@
+{
+  "stateId": 3571809,
+  "stateCode": "BS-BY",
+  "countryCode": "BS",
+  "cities": [
+    {
+      "id": 3572716,
+      "name": "Bullocks Harbour",
+      "nativeName": "Bullocks Harbour",
+      "code": "BS-BY-3572716",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-BY",
+      "latitude": 25.75205,
+      "longitude": -77.86895
+    },
+    {
+      "id": 3572651,
+      "name": "Chub Cay",
+      "nativeName": "Chub Cay",
+      "code": "BS-BY-3572651",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-BY",
+      "latitude": 25.41254,
+      "longitude": -77.90264
+    }
+  ]
+}

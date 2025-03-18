@@ -1,0 +1,182 @@
+{
+  "countryId": 3895114,
+  "countryCode": "CL",
+  "states": [
+    {
+      "id": 3899537,
+      "name": "Antofagasta",
+      "nativeName": "Región de Antofagasta",
+      "code": "CL-AN",
+      "internalCode": "AN",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "latitude": -23.5,
+      "longitude": -69
+    },
+    {
+      "id": 6693562,
+      "name": "Arica y Parinacota Region",
+      "nativeName": "Región de Arica y Parinacota",
+      "code": "CL-AP",
+      "internalCode": "AP",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "latitude": -18.57336,
+      "longitude": -69.46106
+    },
+    {
+      "id": 3899191,
+      "name": "Atacama",
+      "nativeName": "Región de Atacama",
+      "code": "CL-AT",
+      "internalCode": "AT",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "latitude": -27.5,
+      "longitude": -70
+    },
+    {
+      "id": 3900333,
+      "name": "Aysén",
+      "nativeName": "Región Aysén",
+      "code": "CL-AI",
+      "internalCode": "AI",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "latitude": -46.5,
+      "longitude": -73.5
+    },
+    {
+      "id": 3893623,
+      "name": "Coquimbo Region",
+      "nativeName": "Región de Coquimbo",
+      "code": "CL-CO",
+      "internalCode": "CO",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "latitude": -30.75,
+      "longitude": -71
+    },
+    {
+      "id": 3881974,
+      "name": "Los Lagos Region",
+      "nativeName": "Región de los Lagos",
+      "code": "CL-LL",
+      "internalCode": "LL",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "latitude": -42.59889,
+      "longitude": -73.96048
+    },
+    {
+      "id": 6693563,
+      "name": "Los Ríos Region",
+      "nativeName": "Región de los Ríos",
+      "code": "CL-LR",
+      "internalCode": "LR",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "latitude": -40.01499,
+      "longitude": -72.51526
+    },
+    {
+      "id": 3880306,
+      "name": "Maule Region",
+      "nativeName": "Región del Maule",
+      "code": "CL-ML",
+      "internalCode": "ML",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "latitude": -35.5,
+      "longitude": -71.5
+    },
+    {
+      "id": 3883281,
+      "name": "O'Higgins Region",
+      "nativeName": "Región del Libertador General Bernardo O’Higgins",
+      "code": "CL-LI",
+      "internalCode": "LI",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "latitude": -34.5,
+      "longitude": -71
+    },
+    {
+      "id": 4036650,
+      "name": "Region of Magallanes",
+      "nativeName": "Región de Magallanes y Antártica Chilena",
+      "code": "CL-MA",
+      "internalCode": "MA",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "latitude": -52.50026,
+      "longitude": -73.00067
+    },
+    {
+      "id": 3868621,
+      "name": "Región de Valparaíso",
+      "nativeName": "Región de Valparaíso",
+      "code": "CL-VS",
+      "internalCode": "VS",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "latitude": -32.75,
+      "longitude": -71.33333
+    },
+    {
+      "id": 3899463,
+      "name": "Región de la Araucanía",
+      "nativeName": "Región de la Araucanía",
+      "code": "CL-AR",
+      "internalCode": "AR",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "latitude": -38.5,
+      "longitude": -72
+    },
+    {
+      "id": 3898380,
+      "name": "Región del Biobío",
+      "nativeName": "Región del Biobío",
+      "code": "CL-BI",
+      "internalCode": "BI",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "latitude": -37.375,
+      "longitude": -72.45
+    },
+    {
+      "id": 3873544,
+      "name": "Santiago Metropolitan",
+      "nativeName": "Región Metropolitana",
+      "code": "CL-RM",
+      "internalCode": "RM",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "latitude": -33.47269,
+      "longitude": -70.64724
+    },
+    {
+      "id": 3870116,
+      "name": "Tarapacá",
+      "nativeName": "Región de Tarapacá",
+      "code": "CL-TA",
+      "internalCode": "TA",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "latitude": -20,
+      "longitude": -69.33333
+    },
+    {
+      "id": 11979367,
+      "name": "Ñuble",
+      "nativeName": "Región de Ñuble",
+      "code": "CL-NB",
+      "internalCode": "NB",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "latitude": -36.62291,
+      "longitude": -72.21643
+    }
+  ]
+}

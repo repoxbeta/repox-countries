@@ -1,0 +1,95 @@
+{
+  "stateId": 170062,
+  "stateCode": "SY-HL",
+  "countryCode": "SY",
+  "cities": [
+    {
+      "id": 174184,
+      "name": "Afrin District",
+      "nativeName": "Afrin District",
+      "code": "SY-HL-174184",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-HL",
+      "latitude": 36.54891,
+      "longitude": 36.79295
+    },
+    {
+      "id": 174019,
+      "name": "Al-Bab District",
+      "nativeName": "Al-Bab District",
+      "code": "SY-HL-174019",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-HL",
+      "latitude": 36.30946,
+      "longitude": 37.53277
+    },
+    {
+      "id": 8276861,
+      "name": "Al-Safira District",
+      "nativeName": "Al-Safira District",
+      "code": "SY-HL-8276861",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-HL",
+      "latitude": 35.83309,
+      "longitude": 37.46345
+    },
+    {
+      "id": 172255,
+      "name": "Ayn al-Arab District",
+      "nativeName": "Ayn al-Arab District",
+      "code": "SY-HL-172255",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-HL",
+      "latitude": 36.60224,
+      "longitude": 38.34816
+    },
+    {
+      "id": 172081,
+      "name": "Azaz District",
+      "nativeName": "Azaz District",
+      "code": "SY-HL-172081",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-HL",
+      "latitude": 36.49986,
+      "longitude": 37.18382
+    },
+    {
+      "id": 169178,
+      "name": "Jarabulus District",
+      "nativeName": "Jarabulus District",
+      "code": "SY-HL-169178",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-HL",
+      "latitude": 36.69092,
+      "longitude": 37.81411
+    },
+    {
+      "id": 167355,
+      "name": "Manbij District",
+      "nativeName": "Manbij District",
+      "code": "SY-HL-167355",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-HL",
+      "latitude": 36.06687,
+      "longitude": 37.91735
+    },
+    {
+      "id": 169326,
+      "name": "Mount Simeon District",
+      "nativeName": "Mount Simeon District",
+      "code": "SY-HL-169326",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-HL",
+      "latitude": 35.99956,
+      "longitude": 37.08473
+    }
+  ]
+}

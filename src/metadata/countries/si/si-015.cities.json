@@ -1,0 +1,73 @@
+{
+  "stateId": 3239286,
+  "stateCode": "SI-015",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3202524,
+      "name": "Črenšovci",
+      "nativeName": "Črenšovci",
+      "code": "SI-015-3202524",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-015",
+      "latitude": 46.55794,
+      "longitude": 16.3041
+    },
+    {
+      "id": 3219941,
+      "name": "Dolnja Bistrica",
+      "nativeName": "Dolnja Bistrica",
+      "code": "SI-015-3219941",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-015",
+      "latitude": 46.54,
+      "longitude": 16.28861
+    },
+    {
+      "id": 3200285,
+      "name": "Gornja Bistrica",
+      "nativeName": "Gornja Bistrica",
+      "code": "SI-015-3200285",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-015",
+      "latitude": 46.56667,
+      "longitude": 16.26667
+    },
+    {
+      "id": 3190148,
+      "name": "Srednja Bistrica",
+      "nativeName": "Srednja Bistrica",
+      "code": "SI-015-3190148",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-015",
+      "latitude": 46.55417,
+      "longitude": 16.27889
+    },
+    {
+      "id": 3188799,
+      "name": "Trnje",
+      "nativeName": "Trnje",
+      "code": "SI-015-3188799",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-015",
+      "latitude": 46.5875,
+      "longitude": 16.30833
+    },
+    {
+      "id": 8986892,
+      "name": "Žižki",
+      "nativeName": "Žižki",
+      "code": "SI-015-8986892",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-015",
+      "latitude": 46.56721,
+      "longitude": 16.31499
+    }
+  ]
+}

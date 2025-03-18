@@ -1,0 +1,95 @@
+{
+  "stateId": 3045226,
+  "stateCode": "HU-SO",
+  "countryCode": "HU",
+  "cities": [
+    {
+      "id": 9644177,
+      "name": "Barcsi Járás",
+      "nativeName": "Barcsi Járás",
+      "code": "HU-SO-9644177",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-SO",
+      "latitude": 46.03687,
+      "longitude": 17.47434
+    },
+    {
+      "id": 9644179,
+      "name": "Csurgói Járás",
+      "nativeName": "Csurgói Járás",
+      "code": "HU-SO-9644179",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-SO",
+      "latitude": 46.29502,
+      "longitude": 17.10021
+    },
+    {
+      "id": 9644182,
+      "name": "Fonyódi Járás",
+      "nativeName": "Fonyódi Járás",
+      "code": "HU-SO-9644182",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-SO",
+      "latitude": 46.67289,
+      "longitude": 17.7
+    },
+    {
+      "id": 9644180,
+      "name": "Kaposvári Járás",
+      "nativeName": "Kaposvári Járás",
+      "code": "HU-SO-9644180",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-SO",
+      "latitude": 46.39791,
+      "longitude": 17.7699
+    },
+    {
+      "id": 9644181,
+      "name": "Marcali Járás",
+      "nativeName": "Marcali Járás",
+      "code": "HU-SO-9644181",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-SO",
+      "latitude": 46.54382,
+      "longitude": 17.39203
+    },
+    {
+      "id": 9644178,
+      "name": "Nagyatádi Járás",
+      "nativeName": "Nagyatádi Járás",
+      "code": "HU-SO-9644178",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-SO",
+      "latitude": 46.252,
+      "longitude": 17.3752
+    },
+    {
+      "id": 9644187,
+      "name": "Siófoki Járás",
+      "nativeName": "Siófoki Járás",
+      "code": "HU-SO-9644187",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-SO",
+      "latitude": 46.8506,
+      "longitude": 17.99625
+    },
+    {
+      "id": 9644188,
+      "name": "Tabi Járás",
+      "nativeName": "Tabi Járás",
+      "code": "HU-SO-9644188",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "stateCode": "HU-SO",
+      "latitude": 46.68037,
+      "longitude": 18.0056
+    }
+  ]
+}

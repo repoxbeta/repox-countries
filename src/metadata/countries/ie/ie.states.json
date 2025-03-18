@@ -1,0 +1,50 @@
+{
+  "countryId": 2963597,
+  "countryCode": "IE",
+  "states": [
+    {
+      "id": 7521313,
+      "name": "Connacht",
+      "nativeName": "Connacht",
+      "code": "IE-C",
+      "internalCode": "C",
+      "countryId": 2963597,
+      "countryCode": "IE",
+      "latitude": 53.87,
+      "longitude": -8.63333
+    },
+    {
+      "id": 7521314,
+      "name": "Leinster",
+      "nativeName": "Leinster",
+      "code": "IE-L",
+      "internalCode": "L",
+      "countryId": 2963597,
+      "countryCode": "IE",
+      "latitude": 53.16667,
+      "longitude": -7.02121
+    },
+    {
+      "id": 7521315,
+      "name": "Munster",
+      "nativeName": "Munster",
+      "code": "IE-M",
+      "internalCode": "M",
+      "countryId": 2963597,
+      "countryCode": "IE",
+      "latitude": 52.34333,
+      "longitude": -8.71667
+    },
+    {
+      "id": 7521316,
+      "name": "Ulster",
+      "nativeName": "Ulster",
+      "code": "IE-U",
+      "internalCode": "U",
+      "countryId": 2963597,
+      "countryCode": "IE",
+      "latitude": 54.92732,
+      "longitude": -7.9395
+    }
+  ]
+}

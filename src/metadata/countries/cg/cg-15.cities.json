@@ -1,0 +1,73 @@
+{
+  "stateId": 2593118,
+  "stateCode": "CG-15",
+  "countryCode": "CG",
+  "cities": [
+    {
+      "id": 11996195,
+      "name": "Etoumbi",
+      "nativeName": "Etoumbi",
+      "code": "CG-15-11996195",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-15",
+      "latitude": -0.23109,
+      "longitude": 14.71175
+    },
+    {
+      "id": 11996201,
+      "name": "Ewo",
+      "nativeName": "Ewo",
+      "code": "CG-15-11996201",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-15",
+      "latitude": -0.95946,
+      "longitude": 14.735
+    },
+    {
+      "id": 11996191,
+      "name": "Kelle",
+      "nativeName": "Kelle",
+      "code": "CG-15-11996191",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-15",
+      "latitude": -0.0548,
+      "longitude": 14.26523
+    },
+    {
+      "id": 11996196,
+      "name": "Mbama",
+      "nativeName": "Mbama",
+      "code": "CG-15-11996196",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-15",
+      "latitude": -0.50714,
+      "longitude": 14.88038
+    },
+    {
+      "id": 11996193,
+      "name": "Mbomo",
+      "nativeName": "Mbomo",
+      "code": "CG-15-11996193",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-15",
+      "latitude": 0.60853,
+      "longitude": 14.68415
+    },
+    {
+      "id": 8051157,
+      "name": "Okoyo",
+      "nativeName": "Okoyo",
+      "code": "CG-15-8051157",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-15",
+      "latitude": -1.409,
+      "longitude": 14.765
+    }
+  ]
+}

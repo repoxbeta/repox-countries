@@ -1,0 +1,106 @@
+{
+  "stateId": 3199016,
+  "stateCode": "SI-040",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3199017,
+      "name": "Izola",
+      "nativeName": "Izola",
+      "code": "SI-040-3199017",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-040",
+      "latitude": 45.53694,
+      "longitude": 13.66194
+    },
+    {
+      "id": 8989778,
+      "name": "Baredi",
+      "nativeName": "Baredi",
+      "code": "SI-040-8989778",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-040",
+      "latitude": 45.51597,
+      "longitude": 13.67915
+    },
+    {
+      "id": 8987576,
+      "name": "Cetore",
+      "nativeName": "Cetore",
+      "code": "SI-040-8987576",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-040",
+      "latitude": 45.50095,
+      "longitude": 13.65425
+    },
+    {
+      "id": 8987164,
+      "name": "Dobrava",
+      "nativeName": "Dobrava",
+      "code": "SI-040-8987164",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-040",
+      "latitude": 45.52939,
+      "longitude": 13.62515
+    },
+    {
+      "id": 3343518,
+      "name": "Jagodje",
+      "nativeName": "Jagodje",
+      "code": "SI-040-3343518",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-040",
+      "latitude": 45.52845,
+      "longitude": 13.64721
+    },
+    {
+      "id": 3216098,
+      "name": "Korte",
+      "nativeName": "Korte",
+      "code": "SI-040-3216098",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-040",
+      "latitude": 45.49056,
+      "longitude": 13.67056
+    },
+    {
+      "id": 3195702,
+      "name": "Malija",
+      "nativeName": "Malija",
+      "code": "SI-040-3195702",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-040",
+      "latitude": 45.50528,
+      "longitude": 13.63833
+    },
+    {
+      "id": 8988291,
+      "name": "Nožed",
+      "nativeName": "Nožed",
+      "code": "SI-040-8988291",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-040",
+      "latitude": 45.49704,
+      "longitude": 13.63634
+    },
+    {
+      "id": 3216100,
+      "name": "Šared",
+      "nativeName": "Šared",
+      "code": "SI-040-3216100",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-040",
+      "latitude": 45.51122,
+      "longitude": 13.65377
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "countryId": 6254930,
+  "countryCode": "PS",
+  "states": [
+    {
+      "id": 281132,
+      "name": "Gaza Strip",
+      "nativeName": "Gaza Strip",
+      "code": "PS-GZ",
+      "internalCode": "",
+      "countryId": 6254930,
+      "countryCode": "PS",
+      "latitude": 31.41667,
+      "longitude": 34.33333
+    },
+    {
+      "id": 285153,
+      "name": "West Bank",
+      "nativeName": "West Bank",
+      "code": "PS-WE",
+      "internalCode": "",
+      "countryId": 6254930,
+      "countryCode": "PS",
+      "latitude": 31.66667,
+      "longitude": 35.25
+    }
+  ]
+}

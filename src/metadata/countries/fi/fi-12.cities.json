@@ -1,0 +1,40 @@
+{
+  "stateId": 830676,
+  "stateCode": "FI-12",
+  "countryCode": "FI",
+  "cities": [
+    {
+      "id": 9610669,
+      "name": "Jakobstadsregionen",
+      "nativeName": "Jakobstadsregionen",
+      "code": "FI-12-9610669",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-12",
+      "latitude": 63.57041,
+      "longitude": 22.93205
+    },
+    {
+      "id": 9610576,
+      "name": "Sydösterbotten",
+      "nativeName": "Sydösterbotten",
+      "code": "FI-12-9610576",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-12",
+      "latitude": 62.39744,
+      "longitude": 21.40441
+    },
+    {
+      "id": 9610668,
+      "name": "Vaasa",
+      "nativeName": "Vaasa",
+      "code": "FI-12-9610668",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-12",
+      "latitude": 63.11569,
+      "longitude": 21.7303
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "stateId": 2246451,
+  "stateCode": "SN-SL",
+  "countryCode": "SN",
+  "cities": [
+    {
+      "id": 2253376,
+      "name": "Dagana",
+      "nativeName": "Dagana Department",
+      "code": "SN-SL-2253376",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "stateCode": "SN-SL",
+      "latitude": 16.334,
+      "longitude": -15.839
+    },
+    {
+      "id": 2246656,
+      "name": "Podor",
+      "nativeName": "Podor",
+      "code": "SN-SL-2246656",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "stateCode": "SN-SL",
+      "latitude": 16.2502,
+      "longitude": -14.59767
+    },
+    {
+      "id": 11429067,
+      "name": "Saint Louis",
+      "nativeName": "Saint-Louis Department",
+      "code": "SN-SL-11429067",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "stateCode": "SN-SL",
+      "latitude": 16.028,
+      "longitude": -16.40808
+    }
+  ]
+}

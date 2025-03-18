@@ -1,0 +1,62 @@
+{
+  "stateId": 2449066,
+  "stateCode": "ML-6",
+  "countryCode": "ML",
+  "cities": [
+    {
+      "id": 7701473,
+      "name": "Diré Cercle",
+      "nativeName": "Dire",
+      "code": "ML-6-7701473",
+      "countryId": 2453866,
+      "countryCode": "ML",
+      "stateCode": "ML-6",
+      "latitude": 16.28017,
+      "longitude": -3.31302
+    },
+    {
+      "id": 8631536,
+      "name": "Goundam Cercle",
+      "nativeName": "Cercle de Goundam",
+      "code": "ML-6-8631536",
+      "countryId": 2453866,
+      "countryCode": "ML",
+      "stateCode": "ML-6",
+      "latitude": 18.60035,
+      "longitude": -4.99306
+    },
+    {
+      "id": 7670552,
+      "name": "Gourma-Rharous Cercle",
+      "nativeName": "Gourma-Rharous Cercle",
+      "code": "ML-6-7670552",
+      "countryId": 2453866,
+      "countryCode": "ML",
+      "stateCode": "ML-6",
+      "latitude": 16.07979,
+      "longitude": -1.76981
+    },
+    {
+      "id": 8299588,
+      "name": "Niafunke Cercle",
+      "nativeName": "Niafunke Cercle",
+      "code": "ML-6-8299588",
+      "countryId": 2453866,
+      "countryCode": "ML",
+      "stateCode": "ML-6",
+      "latitude": 15.889,
+      "longitude": -3.821
+    },
+    {
+      "id": 7701470,
+      "name": "Tombouctou",
+      "nativeName": "Tombouctou",
+      "code": "ML-6-7701470",
+      "countryId": 2453866,
+      "countryCode": "ML",
+      "stateCode": "ML-6",
+      "latitude": 19.14857,
+      "longitude": -3.0855
+    }
+  ]
+}

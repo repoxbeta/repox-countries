@@ -1,0 +1,127 @@
+{
+  "countryId": 174982,
+  "countryCode": "AM",
+  "states": [
+    {
+      "id": 828259,
+      "name": "Aragatsotn",
+      "nativeName": "Aragatsotn",
+      "code": "AM-AG",
+      "internalCode": "AG",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "latitude": 40.41667,
+      "longitude": 44.16667
+    },
+    {
+      "id": 409313,
+      "name": "Ararat",
+      "nativeName": "Ararat",
+      "code": "AM-AR",
+      "internalCode": "AR",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "latitude": 39.91667,
+      "longitude": 44.83333
+    },
+    {
+      "id": 828260,
+      "name": "Armavir",
+      "nativeName": "Armavir",
+      "code": "AM-AV",
+      "internalCode": "AV",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "latitude": 40.11667,
+      "longitude": 44
+    },
+    {
+      "id": 828261,
+      "name": "Gegharkunik",
+      "nativeName": "Gegharkunik",
+      "code": "AM-GR",
+      "internalCode": "GR",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "latitude": 40.25,
+      "longitude": 45.41667
+    },
+    {
+      "id": 828262,
+      "name": "Kotayk",
+      "nativeName": "Kotayk",
+      "code": "AM-KT",
+      "internalCode": "KT",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "latitude": 40.41667,
+      "longitude": 44.75
+    },
+    {
+      "id": 828263,
+      "name": "Lori",
+      "nativeName": "Lori",
+      "code": "AM-LO",
+      "internalCode": "LO",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "latitude": 41,
+      "longitude": 44.5
+    },
+    {
+      "id": 828264,
+      "name": "Shirak",
+      "nativeName": "Shirak",
+      "code": "AM-SH",
+      "internalCode": "SH",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "latitude": 40.75,
+      "longitude": 43.83333
+    },
+    {
+      "id": 409314,
+      "name": "Syunik",
+      "nativeName": "Syunik",
+      "code": "AM-SU",
+      "internalCode": "SU",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "latitude": 39.33333,
+      "longitude": 46.25
+    },
+    {
+      "id": 828265,
+      "name": "Tavush",
+      "nativeName": "Tavush",
+      "code": "AM-TV",
+      "internalCode": "TV",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "latitude": 40.91667,
+      "longitude": 45.16667
+    },
+    {
+      "id": 409315,
+      "name": "Vayots Dzor",
+      "nativeName": "Vayots Dzor",
+      "code": "AM-VD",
+      "internalCode": "VD",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "latitude": 39.75,
+      "longitude": 45.41667
+    },
+    {
+      "id": 616051,
+      "name": "Yerevan",
+      "nativeName": "Yerevan",
+      "code": "AM-ER",
+      "internalCode": "ER",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "latitude": 40.18333,
+      "longitude": 44.5
+    }
+  ]
+}

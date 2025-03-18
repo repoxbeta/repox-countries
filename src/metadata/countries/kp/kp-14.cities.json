@@ -1,0 +1,40 @@
+{
+  "stateId": 12902702,
+  "stateCode": "KP-14",
+  "countryCode": "KP",
+  "cities": [
+    {
+      "id": 1883585,
+      "name": "Hanggu",
+      "nativeName": "Hanggu",
+      "code": "KP-14-1883585",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-14",
+      "latitude": 38.75807,
+      "longitude": 125.46044
+    },
+    {
+      "id": 12902805,
+      "name": "Nampo City",
+      "nativeName": "Nampo City",
+      "code": "KP-14-12902805",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-14",
+      "latitude": 38.73222,
+      "longitude": 125.39291
+    },
+    {
+      "id": 1883586,
+      "name": "Waudo",
+      "nativeName": "Waudo",
+      "code": "KP-14-1883586",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "stateCode": "KP-14",
+      "latitude": 38.74163,
+      "longitude": 125.30456
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "stateId": 7602688,
+  "stateCode": "LY-BU",
+  "countryCode": "LY",
+  "cities": [
+    {
+      "id": 81302,
+      "name": "Tobruk",
+      "nativeName": "Tobruk",
+      "code": "LY-BU-81302",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-BU",
+      "latitude": 32.08963,
+      "longitude": 23.95385
+    },
+    {
+      "id": 89070,
+      "name": "Al Ashhab",
+      "nativeName": "Al Ashhab",
+      "code": "LY-BU-89070",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-BU",
+      "latitude": 31.8887,
+      "longitude": 24.65719
+    },
+    {
+      "id": 89043,
+      "name": "Al Burdī",
+      "nativeName": "Al Burdī",
+      "code": "LY-BU-89043",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-BU",
+      "latitude": 31.76667,
+      "longitude": 25.08333
+    },
+    {
+      "id": 88967,
+      "name": "Al Jaghbūb",
+      "nativeName": "Al Jaghbūb",
+      "code": "LY-BU-88967",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-BU",
+      "latitude": 29.74262,
+      "longitude": 24.51676
+    },
+    {
+      "id": 88849,
+      "name": "Al Qarz̧abah",
+      "nativeName": "Al Qarz̧abah",
+      "code": "LY-BU-88849",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-BU",
+      "latitude": 32.1375,
+      "longitude": 23.48047
+    },
+    {
+      "id": 88852,
+      "name": "Al Qa‘rah",
+      "nativeName": "Al Qa‘rah",
+      "code": "LY-BU-88852",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-BU",
+      "latitude": 31.95389,
+      "longitude": 24.20218
+    },
+    {
+      "id": 89085,
+      "name": "Al ‘Adam",
+      "nativeName": "Al ‘Adam",
+      "code": "LY-BU-89085",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-BU",
+      "latitude": 31.86644,
+      "longitude": 23.92577
+    },
+    {
+      "id": 88386,
+      "name": "Az Zāwiyah",
+      "nativeName": "Az Zāwiyah",
+      "code": "LY-BU-88386",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-BU",
+      "latitude": 31.9811,
+      "longitude": 24.6572
+    },
+    {
+      "id": 80509,
+      "name": "Bardia",
+      "nativeName": "Al Bardīyah",
+      "code": "LY-BU-80509",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-BU",
+      "latitude": 31.75601,
+      "longitude": 25.0853
+    },
+    {
+      "id": 88102,
+      "name": "Bi’r al Ashhab",
+      "nativeName": "Bi’r al Ashhab",
+      "code": "LY-BU-88102",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-BU",
+      "latitude": 31.91667,
+      "longitude": 24.7
+    },
+    {
+      "id": 85819,
+      "name": "Kambūt",
+      "nativeName": "Kambūt",
+      "code": "LY-BU-85819",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-BU",
+      "latitude": 31.90434,
+      "longitude": 24.4784
+    },
+    {
+      "id": 85350,
+      "name": "Madīnat Bayāḑ",
+      "nativeName": "Madīnat Bayāḑ",
+      "code": "LY-BU-85350",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-BU",
+      "latitude": 32.00911,
+      "longitude": 23.97753
+    },
+    {
+      "id": 84637,
+      "name": "Musā‘id",
+      "nativeName": "Musā‘id",
+      "code": "LY-BU-84637",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-BU",
+      "latitude": 31.60937,
+      "longitude": 25.04972
+    },
+    {
+      "id": 84381,
+      "name": "Nuqţat al Khaţţābīyah",
+      "nativeName": "Nuqţat al Khaţţābīyah",
+      "code": "LY-BU-84381",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-BU",
+      "latitude": 31.7705,
+      "longitude": 25.0419
+    },
+    {
+      "id": 84141,
+      "name": "Qaryat Maqrūn",
+      "nativeName": "Qaryat Maqrūn",
+      "code": "LY-BU-84141",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-BU",
+      "latitude": 32.10883,
+      "longitude": 23.83478
+    },
+    {
+      "id": 84167,
+      "name": "Qaryat al ‘Imāmah",
+      "nativeName": "Qaryat al ‘Imāmah",
+      "code": "LY-BU-84167",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-BU",
+      "latitude": 32.09823,
+      "longitude": 23.89006
+    },
+    {
+      "id": 84155,
+      "name": "Qaryat aţ Ţayrah",
+      "nativeName": "Qaryat aţ Ţayrah",
+      "code": "LY-BU-84155",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-BU",
+      "latitude": 32.06142,
+      "longitude": 23.98003
+    },
+    {
+      "id": 84154,
+      "name": "Qaryat ‘Ā’ilat Zaydān",
+      "nativeName": "Qaryat ‘Ā’ilat Zaydān",
+      "code": "LY-BU-84154",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-BU",
+      "latitude": 32.09034,
+      "longitude": 23.90283
+    },
+    {
+      "id": 84051,
+      "name": "Qaşr al Jady",
+      "nativeName": "Qaşr al Jady",
+      "code": "LY-BU-84051",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-BU",
+      "latitude": 31.85287,
+      "longitude": 24.7878
+    },
+    {
+      "id": 81597,
+      "name": "Sūq al ‘Ajāj",
+      "nativeName": "Sūq al ‘Ajāj",
+      "code": "LY-BU-81597",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-BU",
+      "latitude": 32.07686,
+      "longitude": 23.94734
+    },
+    {
+      "id": 12687307,
+      "name": "Umm Sā'ad",
+      "nativeName": "Umm Sā'ad",
+      "code": "LY-BU-12687307",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-BU",
+      "latitude": 31.60968,
+      "longitude": 25.04999
+    },
+    {
+      "id": 80613,
+      "name": "Zāwiyat Janzūr",
+      "nativeName": "Zāwiyat Janzūr",
+      "code": "LY-BU-80613",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-BU",
+      "latitude": 31.97067,
+      "longitude": 24.74814
+    },
+    {
+      "id": 80614,
+      "name": "Zāwiyat Umm Rukbah",
+      "nativeName": "Zāwiyat Umm Rukbah",
+      "code": "LY-BU-80614",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-BU",
+      "latitude": 31.92714,
+      "longitude": 24.91906
+    },
+    {
+      "id": 80636,
+      "name": "Zāwiyat al Manastīr",
+      "nativeName": "Zāwiyat al Manastīr",
+      "code": "LY-BU-80636",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-BU",
+      "latitude": 31.7973,
+      "longitude": 24.93395
+    },
+    {
+      "id": 80634,
+      "name": "Zāwiyat al Muraşşaş",
+      "nativeName": "Zāwiyat al Muraşşaş",
+      "code": "LY-BU-80634",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-BU",
+      "latitude": 32.12927,
+      "longitude": 23.66934
+    },
+    {
+      "id": 89096,
+      "name": "‘Akramah",
+      "nativeName": "‘Akramah",
+      "code": "LY-BU-89096",
+      "countryId": 2215636,
+      "countryCode": "LY",
+      "stateCode": "LY-BU",
+      "latitude": 32.03333,
+      "longitude": 23.68333
+    }
+  ]
+}

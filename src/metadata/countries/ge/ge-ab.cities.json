@@ -1,0 +1,84 @@
+{
+  "stateId": 6643410,
+  "stateCode": "GE-AB",
+  "countryCode": "GE",
+  "cities": [
+    {
+      "id": 9021892,
+      "name": "Gagra",
+      "nativeName": "Gagra District",
+      "code": "GE-AB-9021892",
+      "countryId": 614540,
+      "countryCode": "GE",
+      "stateCode": "GE-AB",
+      "latitude": 43.32282,
+      "longitude": 40.25312
+    },
+    {
+      "id": 614611,
+      "name": "Gali District",
+      "nativeName": "Gali District",
+      "code": "GE-AB-614611",
+      "countryId": 614540,
+      "countryCode": "GE",
+      "stateCode": "GE-AB",
+      "latitude": 42.66667,
+      "longitude": 41.75
+    },
+    {
+      "id": 614407,
+      "name": "Gudauta",
+      "nativeName": "Gudauta District",
+      "code": "GE-AB-614407",
+      "countryId": 614540,
+      "countryCode": "GE",
+      "stateCode": "GE-AB",
+      "latitude": 43.25,
+      "longitude": 40.66667
+    },
+    {
+      "id": 614378,
+      "name": "Gulripshi district",
+      "nativeName": "Gulripshi district",
+      "code": "GE-AB-614378",
+      "countryId": 614540,
+      "countryCode": "GE",
+      "stateCode": "GE-AB",
+      "latitude": 42.93732,
+      "longitude": 41.13419
+    },
+    {
+      "id": 612651,
+      "name": "Ochamchira District",
+      "nativeName": "Ochamchira District",
+      "code": "GE-AB-612651",
+      "countryId": 614540,
+      "countryCode": "GE",
+      "stateCode": "GE-AB",
+      "latitude": 42.74802,
+      "longitude": 41.48438
+    },
+    {
+      "id": 611818,
+      "name": "Sukhumi",
+      "nativeName": "Sukhumi District",
+      "code": "GE-AB-611818",
+      "countryId": 614540,
+      "countryCode": "GE",
+      "stateCode": "GE-AB",
+      "latitude": 43.25,
+      "longitude": 41
+    },
+    {
+      "id": 9883703,
+      "name": "Tkvarcheli",
+      "nativeName": "Tkvarcheli district",
+      "code": "GE-AB-9883703",
+      "countryId": 614540,
+      "countryCode": "GE",
+      "stateCode": "GE-AB",
+      "latitude": 42.87294,
+      "longitude": 41.67526
+    }
+  ]
+}

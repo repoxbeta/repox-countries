@@ -1,0 +1,51 @@
+{
+  "stateId": 3344928,
+  "stateCode": "SI-182",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3187575,
+      "name": "Vitomarci",
+      "nativeName": "Vitomarci",
+      "code": "SI-182-3187575",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-182",
+      "latitude": 46.5275,
+      "longitude": 15.93944
+    },
+    {
+      "id": 8988009,
+      "name": "Gibina",
+      "nativeName": "Gibina",
+      "code": "SI-182-8988009",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-182",
+      "latitude": 46.52626,
+      "longitude": 15.98446
+    },
+    {
+      "id": 8987247,
+      "name": "Novinci",
+      "nativeName": "Novinci",
+      "code": "SI-182-8987247",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-182",
+      "latitude": 46.53286,
+      "longitude": 15.96073
+    },
+    {
+      "id": 3217924,
+      "name": "Rjavci",
+      "nativeName": "Rjavci",
+      "code": "SI-182-3217924",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-182",
+      "latitude": 46.52583,
+      "longitude": 15.96806
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "stateId": 3617722,
+  "stateCode": "NI-MS",
+  "countryCode": "NI",
+  "cities": [
+    {
+      "id": 3620438,
+      "name": "Municipio de Catarina",
+      "nativeName": "Municipio de Catarina",
+      "code": "NI-MS-3620438",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-MS",
+      "latitude": 11.92196,
+      "longitude": -86.07176
+    },
+    {
+      "id": 3618641,
+      "name": "Municipio de La Concepción",
+      "nativeName": "Municipio de La Concepción",
+      "code": "NI-MS-3618641",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-MS",
+      "latitude": 11.95282,
+      "longitude": -86.21874
+    },
+    {
+      "id": 3617724,
+      "name": "Municipio de Masatepe",
+      "nativeName": "Municipio de Masatepe",
+      "code": "NI-MS-3617724",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-MS",
+      "latitude": 11.90567,
+      "longitude": -86.14946
+    },
+    {
+      "id": 3617720,
+      "name": "Municipio de Masaya",
+      "nativeName": "Municipio de Masaya",
+      "code": "NI-MS-3617720",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-MS",
+      "latitude": 11.99919,
+      "longitude": -86.06877
+    },
+    {
+      "id": 3617509,
+      "name": "Municipio de Nandasmo",
+      "nativeName": "Municipio de Nandasmo",
+      "code": "NI-MS-3617509",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-MS",
+      "latitude": 11.93333,
+      "longitude": -86.11667
+    },
+    {
+      "id": 3617472,
+      "name": "Municipio de Nindirí",
+      "nativeName": "Municipio de Nindirí",
+      "code": "NI-MS-3617472",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-MS",
+      "latitude": 12.04895,
+      "longitude": -86.13907
+    },
+    {
+      "id": 3617469,
+      "name": "Municipio de Niquinohomo",
+      "nativeName": "Municipio de Niquinohomo",
+      "code": "NI-MS-3617469",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-MS",
+      "latitude": 11.88228,
+      "longitude": -86.10035
+    },
+    {
+      "id": 3616722,
+      "name": "Municipio de San Juan de Oriente",
+      "nativeName": "Municipio de San Juan de Oriente",
+      "code": "NI-MS-3616722",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-MS",
+      "latitude": 11.90517,
+      "longitude": -86.0746
+    },
+    {
+      "id": 3616026,
+      "name": "Municipio de Tisma",
+      "nativeName": "Municipio de Tisma",
+      "code": "NI-MS-3616026",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-MS",
+      "latitude": 12.08554,
+      "longitude": -86.02207
+    }
+  ]
+}

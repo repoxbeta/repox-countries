@@ -1,0 +1,84 @@
+{
+  "stateId": 3339536,
+  "stateCode": "CZ-64",
+  "countryCode": "CZ",
+  "cities": [
+    {
+      "id": 3079270,
+      "name": "Blansko District",
+      "nativeName": "Okres Blansko",
+      "code": "CZ-64-3079270",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-64",
+      "latitude": 49.37399,
+      "longitude": 16.6436
+    },
+    {
+      "id": 3078772,
+      "name": "Břeclav District",
+      "nativeName": "Okres Břeclav",
+      "code": "CZ-64-3078772",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-64",
+      "latitude": 48.75958,
+      "longitude": 16.8726
+    },
+    {
+      "id": 3075651,
+      "name": "Hodonín District",
+      "nativeName": "Okres Hodonín",
+      "code": "CZ-64-3075651",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-64",
+      "latitude": 48.86471,
+      "longitude": 17.13284
+    },
+    {
+      "id": 3078609,
+      "name": "Město Brno",
+      "nativeName": "Město Brno",
+      "code": "CZ-64-3078609",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-64",
+      "latitude": 49.19954,
+      "longitude": 16.60755
+    },
+    {
+      "id": 3078607,
+      "name": "Okres Brno-venkov",
+      "nativeName": "Okres Brno-venkov",
+      "code": "CZ-64-3078607",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-64",
+      "latitude": 49.16667,
+      "longitude": 16.5
+    },
+    {
+      "id": 3062280,
+      "name": "Vyškov District",
+      "nativeName": "Okres Vyškov",
+      "code": "CZ-64-3062280",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-64",
+      "latitude": 49.27844,
+      "longitude": 16.99362
+    },
+    {
+      "id": 3061343,
+      "name": "Znojmo District",
+      "nativeName": "Okres Znojmo",
+      "code": "CZ-64-3061343",
+      "countryId": 3077311,
+      "countryCode": "CZ",
+      "stateCode": "CZ-64",
+      "latitude": 48.862,
+      "longitude": 16.0627
+    }
+  ]
+}

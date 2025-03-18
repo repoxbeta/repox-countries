@@ -1,0 +1,40 @@
+{
+  "stateId": 408653,
+  "stateCode": "SD-NW",
+  "countryCode": "SD",
+  "cities": [
+    {
+      "id": 8051149,
+      "name": "Al Jabalian",
+      "nativeName": "Al Jabalian",
+      "code": "SD-NW-8051149",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-NW",
+      "latitude": 12.95,
+      "longitude": 32.96
+    },
+    {
+      "id": 8051148,
+      "name": "Kosti",
+      "nativeName": "Kosti",
+      "code": "SD-NW-8051148",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-NW",
+      "latitude": 12.73,
+      "longitude": 32.31
+    },
+    {
+      "id": 379655,
+      "name": "Mudīrīyat al Baḩr al Abyaḑ",
+      "nativeName": "Mudīrīyat al Baḩr al Abyaḑ",
+      "code": "SD-NW-379655",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-NW",
+      "latitude": 13.5,
+      "longitude": 32.5
+    }
+  ]
+}

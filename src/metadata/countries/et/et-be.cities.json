@@ -1,0 +1,62 @@
+{
+  "stateId": 444181,
+  "stateCode": "ET-BE",
+  "countryCode": "ET",
+  "cities": [
+    {
+      "id": 343291,
+      "name": "Asosa",
+      "nativeName": "Asosa",
+      "code": "ET-BE-343291",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-BE",
+      "latitude": 10,
+      "longitude": 34.5
+    },
+    {
+      "id": 10303651,
+      "name": "Kamashi Zone",
+      "nativeName": "Kamashi Zone",
+      "code": "ET-BE-10303651",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-BE",
+      "latitude": 9.75,
+      "longitude": 35.83333
+    },
+    {
+      "id": 11750813,
+      "name": "Kemashi",
+      "nativeName": "Kemashi",
+      "code": "ET-BE-11750813",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-BE",
+      "latitude": 9.84,
+      "longitude": 35.78035
+    },
+    {
+      "id": 7874607,
+      "name": "Metekel",
+      "nativeName": "Metekel",
+      "code": "ET-BE-7874607",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-BE",
+      "latitude": 10.42673,
+      "longitude": 35.71975
+    },
+    {
+      "id": 330790,
+      "name": "Metekel Āwraja",
+      "nativeName": "Metekel Āwraja",
+      "code": "ET-BE-330790",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-BE",
+      "latitude": 11,
+      "longitude": 36
+    }
+  ]
+}

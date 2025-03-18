@@ -1,0 +1,40 @@
+{
+  "stateId": 7115999,
+  "stateCode": "HT-NI",
+  "countryCode": "HT",
+  "cities": [
+    {
+      "id": 3731122,
+      "name": "Ansavo",
+      "nativeName": "Ansavo",
+      "code": "HT-NI-3731122",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "stateCode": "HT-NI",
+      "latitude": 18.43972,
+      "longitude": -73.4511
+    },
+    {
+      "id": 3730801,
+      "name": "Arrondissement de Baradères",
+      "nativeName": "Arrondissement de Baradères",
+      "code": "HT-NI-3730801",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "stateCode": "HT-NI",
+      "latitude": 18.45,
+      "longitude": -73.66667
+    },
+    {
+      "id": 3720823,
+      "name": "Arrondissement de Miragoâne",
+      "nativeName": "Arrondissement de Miragoâne",
+      "code": "HT-NI-3720823",
+      "countryId": 3723988,
+      "countryCode": "HT",
+      "stateCode": "HT-NI",
+      "latitude": 18.40424,
+      "longitude": -73.12551
+    }
+  ]
+}

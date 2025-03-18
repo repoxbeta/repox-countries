@@ -1,0 +1,40 @@
+{
+  "stateId": 160260,
+  "stateCode": "TZ-02",
+  "countryCode": "TZ",
+  "cities": [
+    {
+      "id": 159239,
+      "name": "Ilala Municipal Council",
+      "nativeName": "Ilala",
+      "code": "TZ-02-159239",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-02",
+      "latitude": -6.91805,
+      "longitude": 39.16254
+    },
+    {
+      "id": 157253,
+      "name": "Kinondoni Municipal Council",
+      "nativeName": "Kinondoni",
+      "code": "TZ-02-157253",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-02",
+      "latitude": -6.71666,
+      "longitude": 39.14437
+    },
+    {
+      "id": 149542,
+      "name": "Temeke District",
+      "nativeName": "Temeke",
+      "code": "TZ-02-149542",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-02",
+      "latitude": -6.92452,
+      "longitude": 39.42177
+    }
+  ]
+}

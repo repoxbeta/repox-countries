@@ -1,0 +1,62 @@
+{
+  "stateId": 587448,
+  "stateCode": "EE-87",
+  "countryCode": "EE",
+  "cities": [
+    {
+      "id": 7522444,
+      "name": "Antsla vald",
+      "nativeName": "Antsla vald",
+      "code": "EE-87-7522444",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-87",
+      "latitude": 57.77738,
+      "longitude": 26.5952
+    },
+    {
+      "id": 7522407,
+      "name": "Rõuge vald",
+      "nativeName": "Rõuge vald",
+      "code": "EE-87-7522407",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-87",
+      "latitude": 57.7278,
+      "longitude": 26.88033
+    },
+    {
+      "id": 11776871,
+      "name": "Setomaa vald",
+      "nativeName": "Setomaa vald",
+      "code": "EE-87-11776871",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-87",
+      "latitude": 57.8842,
+      "longitude": 27.61963
+    },
+    {
+      "id": 7522483,
+      "name": "Võru Parish",
+      "nativeName": "Võru vald",
+      "code": "EE-87-7522483",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-87",
+      "latitude": 57.86618,
+      "longitude": 26.97418
+    },
+    {
+      "id": 7522484,
+      "name": "Võru linn",
+      "nativeName": "Võru linn",
+      "code": "EE-87-7522484",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-87",
+      "latitude": 57.83553,
+      "longitude": 27.00119
+    }
+  ]
+}

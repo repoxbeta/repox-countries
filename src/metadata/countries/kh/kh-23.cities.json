@@ -1,0 +1,29 @@
+{
+  "stateId": 1830937,
+  "stateCode": "KH-23",
+  "countryCode": "KH",
+  "cities": [
+    {
+      "id": 8405987,
+      "name": "Damnak Chang'aeur",
+      "nativeName": "Srŏk Dâmnăk Châng’aeur",
+      "code": "KH-23-8405987",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-23",
+      "latitude": 10.53394,
+      "longitude": 104.34855
+    },
+    {
+      "id": 12205134,
+      "name": "Krong Kaeb",
+      "nativeName": "Krong Kaeb",
+      "code": "KH-23-12205134",
+      "countryId": 1831722,
+      "countryCode": "KH",
+      "stateCode": "KH-23",
+      "latitude": 10.5227,
+      "longitude": 104.317
+    }
+  ]
+}

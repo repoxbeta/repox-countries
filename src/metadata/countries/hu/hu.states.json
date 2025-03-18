@@ -1,0 +1,226 @@
+{
+  "countryId": 719819,
+  "countryCode": "HU",
+  "states": [
+    {
+      "id": 3055399,
+      "name": "Baranya",
+      "nativeName": "Baranya county",
+      "code": "HU-BA",
+      "internalCode": "BA",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "latitude": 46.08333,
+      "longitude": 18.25
+    },
+    {
+      "id": 722433,
+      "name": "Bekes County",
+      "nativeName": "Bekes County",
+      "code": "HU-BE",
+      "internalCode": "BE",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "latitude": 46.8,
+      "longitude": 21
+    },
+    {
+      "id": 722064,
+      "name": "Borsod-Abaúj-Zemplén",
+      "nativeName": "Borsod-Abauj Zemplen county",
+      "code": "HU-BZ",
+      "internalCode": "BZ",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "latitude": 48.25,
+      "longitude": 21
+    },
+    {
+      "id": 3054638,
+      "name": "Budapest",
+      "nativeName": "Budapest",
+      "code": "HU-BU",
+      "internalCode": "BU",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "latitude": 47.5,
+      "longitude": 19.08333
+    },
+    {
+      "id": 3055744,
+      "name": "Bács-Kiskun",
+      "nativeName": "Bács-Kiskun county",
+      "code": "HU-BK",
+      "internalCode": "BK",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "latitude": 46.5,
+      "longitude": 19.41667
+    },
+    {
+      "id": 721589,
+      "name": "Csongrád megye",
+      "nativeName": "Csongrád megye",
+      "code": "HU-CS",
+      "internalCode": "CS",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "latitude": 46.41667,
+      "longitude": 20.25
+    },
+    {
+      "id": 3053028,
+      "name": "Fejér",
+      "nativeName": "Fejér megye",
+      "code": "HU-FE",
+      "internalCode": "FE",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "latitude": 47.16667,
+      "longitude": 18.58333
+    },
+    {
+      "id": 3051977,
+      "name": "Győr-Moson-Sopron",
+      "nativeName": "Győr-Moson-Sopron megye",
+      "code": "HU-GS",
+      "internalCode": "GS",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "latitude": 47.66667,
+      "longitude": 17.25
+    },
+    {
+      "id": 720293,
+      "name": "Hajdú-Bihar",
+      "nativeName": "Hajdú-Bihar",
+      "code": "HU-HB",
+      "internalCode": "HB",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "latitude": 47.41667,
+      "longitude": 21.5
+    },
+    {
+      "id": 720002,
+      "name": "Heves County",
+      "nativeName": "Heves megye",
+      "code": "HU-HE",
+      "internalCode": "HE",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "latitude": 47.83333,
+      "longitude": 20.25
+    },
+    {
+      "id": 719637,
+      "name": "Jász-Nagykun-Szolnok",
+      "nativeName": "Jász-Nagykun-Szolnok",
+      "code": "HU-JN",
+      "internalCode": "JN",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "latitude": 47.25,
+      "longitude": 20.5
+    },
+    {
+      "id": 3049518,
+      "name": "Komárom-Esztergom",
+      "nativeName": "Komárom-Esztergom",
+      "code": "HU-KE",
+      "internalCode": "KE",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "latitude": 47.58333,
+      "longitude": 18.33333
+    },
+    {
+      "id": 3047348,
+      "name": "Nógrád megye",
+      "nativeName": "Nógrád megye",
+      "code": "HU-NO",
+      "internalCode": "NO",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "latitude": 48,
+      "longitude": 19.58333
+    },
+    {
+      "id": 3046431,
+      "name": "Pest County",
+      "nativeName": "Pest megye",
+      "code": "HU-PE",
+      "internalCode": "PE",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "latitude": 47.41667,
+      "longitude": 19.33333
+    },
+    {
+      "id": 3045226,
+      "name": "Somogy County",
+      "nativeName": "Somogy megye",
+      "code": "HU-SO",
+      "internalCode": "SO",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "latitude": 46.41667,
+      "longitude": 17.58333
+    },
+    {
+      "id": 715593,
+      "name": "Szabolcs-Szatmár-Bereg",
+      "nativeName": "Szabolcs-Szatmár-Bereg",
+      "code": "HU-SZ",
+      "internalCode": "SZ",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "latitude": 48,
+      "longitude": 22.16667
+    },
+    {
+      "id": 3043845,
+      "name": "Tolna County",
+      "nativeName": "Tolna megye",
+      "code": "HU-TO",
+      "internalCode": "TO",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "latitude": 46.5,
+      "longitude": 18.58333
+    },
+    {
+      "id": 3043047,
+      "name": "Vas County",
+      "nativeName": "Vas megye",
+      "code": "HU-VA",
+      "internalCode": "VA",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "latitude": 47.16667,
+      "longitude": 16.75
+    },
+    {
+      "id": 3042925,
+      "name": "Veszprém megye",
+      "nativeName": "Veszprém megye",
+      "code": "HU-VE",
+      "internalCode": "VE",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "latitude": 47.16667,
+      "longitude": 17.66667
+    },
+    {
+      "id": 3042613,
+      "name": "Zala County",
+      "nativeName": "Zala megye",
+      "code": "HU-ZA",
+      "internalCode": "ZA",
+      "countryId": 719819,
+      "countryCode": "HU",
+      "latitude": 46.66667,
+      "longitude": 16.83333
+    }
+  ]
+}

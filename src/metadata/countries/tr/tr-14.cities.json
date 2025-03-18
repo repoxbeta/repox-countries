@@ -1,0 +1,95 @@
+{
+  "stateId": 750510,
+  "stateCode": "TR-14",
+  "countryCode": "TR",
+  "cities": [
+    {
+      "id": 8632495,
+      "name": "Dörtdivan İlçesi",
+      "nativeName": "Dörtdivan İlçesi",
+      "code": "TR-14-8632495",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-14",
+      "latitude": 40.7304,
+      "longitude": 32.07079
+    },
+    {
+      "id": 7732652,
+      "name": "Gerede",
+      "nativeName": "Gerede",
+      "code": "TR-14-7732652",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-14",
+      "latitude": 40.71364,
+      "longitude": 32.31263
+    },
+    {
+      "id": 8632496,
+      "name": "Göynük İlçesi",
+      "nativeName": "Göynük İlçesi",
+      "code": "TR-14-8632496",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-14",
+      "latitude": 40.41056,
+      "longitude": 30.79181
+    },
+    {
+      "id": 8632497,
+      "name": "Kıbrıscık İlçesi",
+      "nativeName": "Kıbrıscık İlçesi",
+      "code": "TR-14-8632497",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-14",
+      "latitude": 40.41777,
+      "longitude": 31.85584
+    },
+    {
+      "id": 8632492,
+      "name": "Mengen İlçesi",
+      "nativeName": "Mengen İlçesi",
+      "code": "TR-14-8632492",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-14",
+      "latitude": 40.94849,
+      "longitude": 32.06535
+    },
+    {
+      "id": 8632499,
+      "name": "Mudurnu İlçesi",
+      "nativeName": "Mudurnu İlçesi",
+      "code": "TR-14-8632499",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-14",
+      "latitude": 40.48344,
+      "longitude": 31.21412
+    },
+    {
+      "id": 8632498,
+      "name": "Seben İlçesi",
+      "nativeName": "Seben İlçesi",
+      "code": "TR-14-8632498",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-14",
+      "latitude": 40.42162,
+      "longitude": 31.58299
+    },
+    {
+      "id": 8632493,
+      "name": "Yeniçağa İlçesi",
+      "nativeName": "Yeniçağa İlçesi",
+      "code": "TR-14-8632493",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-14",
+      "latitude": 40.77767,
+      "longitude": 32.0492
+    }
+  ]
+}

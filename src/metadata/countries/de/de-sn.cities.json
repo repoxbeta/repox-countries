@@ -1,0 +1,150 @@
+{
+  "stateId": 2842566,
+  "stateCode": "DE-SN",
+  "countryCode": "DE",
+  "cities": [
+    {
+      "id": 3305808,
+      "name": "Erzgebirgskreis",
+      "nativeName": "Erzgebirgskreis",
+      "code": "DE-SN-3305808",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-SN",
+      "latitude": 50.68333,
+      "longitude": 13.18944
+    },
+    {
+      "id": 2892916,
+      "name": "Kreisfreie Stadt Chemnitz",
+      "nativeName": "Kreisfreie Stadt Chemnitz",
+      "code": "DE-SN-2892916",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-SN",
+      "latitude": 50.83194,
+      "longitude": 12.93611
+    },
+    {
+      "id": 2935020,
+      "name": "Kreisfreie Stadt Dresden",
+      "nativeName": "Kreisfreie Stadt Dresden",
+      "code": "DE-SN-2935020",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-SN",
+      "latitude": 51.0833,
+      "longitude": 13.7666
+    },
+    {
+      "id": 2879137,
+      "name": "Kreisfreie Stadt Leipzig",
+      "nativeName": "Kreisfreie Stadt Leipzig",
+      "code": "DE-SN-2879137",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-SN",
+      "latitude": 51.35,
+      "longitude": 12.3833
+    },
+    {
+      "id": 2951880,
+      "name": "Landkreis Bautzen",
+      "nativeName": "Landkreis Bautzen",
+      "code": "DE-SN-2951880",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-SN",
+      "latitude": 51.26513,
+      "longitude": 14.24573
+    },
+    {
+      "id": 2918985,
+      "name": "Landkreis Görlitz",
+      "nativeName": "Landkreis Görlitz",
+      "code": "DE-SN-2918985",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-SN",
+      "latitude": 51.14889,
+      "longitude": 14.975
+    },
+    {
+      "id": 2879138,
+      "name": "Landkreis Leipzig",
+      "nativeName": "Landkreis Leipzig",
+      "code": "DE-SN-2879138",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-SN",
+      "latitude": 51.22143,
+      "longitude": 12.5995
+    },
+    {
+      "id": 2872153,
+      "name": "Landkreis Meißen",
+      "nativeName": "Landkreis Meißen",
+      "code": "DE-SN-2872153",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-SN",
+      "latitude": 51.22501,
+      "longitude": 13.50776
+    },
+    {
+      "id": 2925190,
+      "name": "Landkreis Mittelsachsen",
+      "nativeName": "Landkreis Mittelsachsen",
+      "code": "DE-SN-2925190",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-SN",
+      "latitude": 50.83333,
+      "longitude": 13.33333
+    },
+    {
+      "id": 2821806,
+      "name": "Landkreis Nordsachsen",
+      "nativeName": "Landkreis Nordsachsen",
+      "code": "DE-SN-2821806",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-SN",
+      "latitude": 51.42556,
+      "longitude": 13.04472
+    },
+    {
+      "id": 3305812,
+      "name": "Sächsische Schweiz-Osterzgebirge",
+      "nativeName": "Landkreis Sächsische Schweiz",
+      "code": "DE-SN-3305812",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-SN",
+      "latitude": 50.95056,
+      "longitude": 14.08056
+    },
+    {
+      "id": 6547384,
+      "name": "Vogtlandkreis",
+      "nativeName": "Vogtlandkreis",
+      "code": "DE-SN-6547384",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-SN",
+      "latitude": 50.47198,
+      "longitude": 12.23711
+    },
+    {
+      "id": 2803558,
+      "name": "Zwickau",
+      "nativeName": "Zwickau",
+      "code": "DE-SN-2803558",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "stateCode": "DE-SN",
+      "latitude": 50.71667,
+      "longitude": 12.48333
+    }
+  ]
+}

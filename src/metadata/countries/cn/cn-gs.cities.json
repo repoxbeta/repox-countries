@@ -1,0 +1,161 @@
+{
+  "stateId": 1810676,
+  "stateCode": "CN-GS",
+  "countryCode": "CN",
+  "cities": [
+    {
+      "id": 1817238,
+      "name": "Baiyin Prefecture",
+      "nativeName": "Baiyin Prefecture",
+      "code": "CN-GS-1817238",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-GS",
+      "latitude": 36.53646,
+      "longitude": 104.78495
+    },
+    {
+      "id": 1812743,
+      "name": "Dingxi Shi",
+      "nativeName": "Dingxi Shi",
+      "code": "CN-GS-1812743",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-GS",
+      "latitude": 35.0371,
+      "longitude": 104.38623
+    },
+    {
+      "id": 1810686,
+      "name": "Gannan Tibetan Autonomous Prefecture",
+      "nativeName": "Gannan Zangzu Zizhizhou",
+      "code": "CN-GS-1810686",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-GS",
+      "latitude": 34.51779,
+      "longitude": 102.65909
+    },
+    {
+      "id": 1280956,
+      "name": "Jiayuguan Shi",
+      "nativeName": "Jiayuguan Shi",
+      "code": "CN-GS-1280956",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-GS",
+      "latitude": 39.83984,
+      "longitude": 98.23227
+    },
+    {
+      "id": 1805747,
+      "name": "Jinchang Shi",
+      "nativeName": "Jinchang Shi",
+      "code": "CN-GS-1805747",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-GS",
+      "latitude": 38.44969,
+      "longitude": 102.05839
+    },
+    {
+      "id": 1280931,
+      "name": "Jiuquan Shi",
+      "nativeName": "Jiuquan Shi",
+      "code": "CN-GS-1280931",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-GS",
+      "latitude": 40.64879,
+      "longitude": 96.66479
+    },
+    {
+      "id": 1804429,
+      "name": "Lanzhou Shi",
+      "nativeName": "Lanzhou Shi",
+      "code": "CN-GS-1804429",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-GS",
+      "latitude": 36.47444,
+      "longitude": 103.73322
+    },
+    {
+      "id": 1803330,
+      "name": "Linxia Hui Autonomous Prefecture",
+      "nativeName": "Linxia Huizu Zizhizhou",
+      "code": "CN-GS-1803330",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-GS",
+      "latitude": 35.66597,
+      "longitude": 103.2408
+    },
+    {
+      "id": 1802494,
+      "name": "Longnan Shi",
+      "nativeName": "Longnan Shi",
+      "code": "CN-GS-1802494",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-GS",
+      "latitude": 33.53451,
+      "longitude": 105.34947
+    },
+    {
+      "id": 1798759,
+      "name": "Pingliang Shi",
+      "nativeName": "Pingliang Shi",
+      "code": "CN-GS-1798759",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-GS",
+      "latitude": 35.22678,
+      "longitude": 106.49565
+    },
+    {
+      "id": 1797652,
+      "name": "Qingyang",
+      "nativeName": "Qingyang Shi",
+      "code": "CN-GS-1797652",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-GS",
+      "latitude": 36.23598,
+      "longitude": 107.58113
+    },
+    {
+      "id": 1792891,
+      "name": "Tianshui Shi",
+      "nativeName": "Tianshui Shi",
+      "code": "CN-GS-1792891",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-GS",
+      "latitude": 34.65222,
+      "longitude": 105.80699
+    },
+    {
+      "id": 1790930,
+      "name": "Wuwei Shi",
+      "nativeName": "Wuwei Shi",
+      "code": "CN-GS-1790930",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-GS",
+      "latitude": 38.00857,
+      "longitude": 103.12409
+    },
+    {
+      "id": 1785035,
+      "name": "Zhangye Shi",
+      "nativeName": "Zhangye Shi",
+      "code": "CN-GS-1785035",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-GS",
+      "latitude": 39.12183,
+      "longitude": 99.92495
+    }
+  ]
+}

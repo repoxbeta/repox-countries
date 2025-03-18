@@ -28,7 +28,7 @@ export const crawlCountries = async (): Promise<Country[]> => {
   const countries = response.geonames;
   console.log('Countries crawled: ', countries.length);
 
-  const countriesAdditional = await getCountriesAdditional() as CountryAdditional[];
+  const countriesAdditional = getCountriesAdditional() as CountryAdditional[];
   const phoneCodes: PhoneCode[] = [];
   const currencies: Currency[] = [];
   const list = countries.map((country) => {
@@ -111,12 +111,12 @@ export const crawlStates = async (countries: Country[]): Promise<CountryState[]>
             id: state.geonameId,
             name: state.name,
             nativeName: state.toponymName,
-            code: `${country.code}-${state.adminCode1}`,
+            code: `${country.code}-${state.adminCodes1?.ISO3166_2 || state.adminCode1}`,
             internalCode: state.adminCodes1?.ISO3166_2 ?? '',
             countryId: country.id,
             countryCode: country.code,
-            latitude: parseFloat(state.latitude.toString()) as number,
-            longitude: parseFloat(state.longitude.toString()) as number,
+            latitude: parseFloat(state.lat) as number,
+            longitude: parseFloat(state.lng) as number,
           })),
         } as CountryState;
       } catch (error) {
@@ -134,16 +134,20 @@ export const crawlStates = async (countries: Country[]): Promise<CountryState[]>
 
   console.log('States crawled: ', states.length);
 
-  await savingFile(META_DATA_FOLDER + '/states.json', states);
+  // Save separately in each folder by country code
+  for (const countryStates of states) {
+    const countryCode = countryStates.countryCode.toLowerCase();
+    await savingFile(`${META_DATA_FOLDER}/countries/${countryCode}/${countryCode}.states.json`, countryStates);
+  }
+
+  // await savingFile(META_DATA_FOLDER + '/states.json', states);
   console.log('States crawled and saved.');
 
   return states;
 };
 
 /**
- * Crawl cities from the API.
- * Then map the response to the City type.
- * Write the list of cities to the /metadata/cities.json file.
+ * Crawl cities and save them separately per state
  */
 export const crawlCities = async (countryStates: CountryState[]): Promise<StateCity[]> => {
   console.log('Crawling cities...');
@@ -168,6 +172,7 @@ export const crawlCities = async (countryStates: CountryState[]): Promise<StateC
         return {
           stateId: state.id,
           stateCode: state.code,
+          countryCode: state.countryCode,
           cities: citiesCrawled.map((city) => ({
             id: city.geonameId,
             name: city.name,
@@ -176,8 +181,8 @@ export const crawlCities = async (countryStates: CountryState[]): Promise<StateC
             countryId: state.countryId,
             countryCode: state.countryCode,
             stateCode: state.code,
-            latitude: parseFloat(city.lat.toString()) as number,
-            longitude: parseFloat(city.lng.toString()) as number,
+            latitude: parseFloat(city.lat) as number,
+            longitude: parseFloat(city.lng) as number,
           })),
         } as StateCity;
       } catch (error) {
@@ -195,7 +200,14 @@ export const crawlCities = async (countryStates: CountryState[]): Promise<StateC
 
   console.log('Cities crawled: ', cities.length);
 
-  await savingFile(META_DATA_FOLDER + '/cities.json', cities);
+  // Save separately in each folder by country code-internal state code
+  for (const stateCities of cities) {
+    const countryCode = stateCities.countryCode.toLowerCase();
+    const stateCode = stateCities.stateCode.toLowerCase();
+    await savingFile(`${META_DATA_FOLDER}/countries/${countryCode}/${stateCode}.cities.json`, stateCities);
+  }
+
+  // await savingFile(META_DATA_FOLDER + '/cities.json', cities);
   console.log('Cities crawled and saved.');
 
   return cities;

@@ -1,0 +1,29 @@
+{
+  "stateId": 3575052,
+  "stateCode": "TT-ARI",
+  "countryCode": "TT",
+  "cities": [
+    {
+      "id": 3575051,
+      "name": "Arima",
+      "nativeName": "Arima",
+      "code": "TT-ARI-3575051",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-ARI",
+      "latitude": 10.63737,
+      "longitude": -61.28228
+    },
+    {
+      "id": 3574219,
+      "name": "Malabar Settlement",
+      "nativeName": "Malabar Settlement",
+      "code": "TT-ARI-3574219",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-ARI",
+      "latitude": 10.62531,
+      "longitude": -61.2814
+    }
+  ]
+}

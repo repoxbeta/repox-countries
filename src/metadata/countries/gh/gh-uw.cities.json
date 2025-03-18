@@ -1,0 +1,128 @@
+{
+  "stateId": 2294286,
+  "stateCode": "GH-UW",
+  "countryCode": "GH",
+  "cities": [
+    {
+      "id": 10303481,
+      "name": "Daffiama Bussie Issa District",
+      "nativeName": "Daffiama Bussie Issa District",
+      "code": "GH-UW-10303481",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-UW",
+      "latitude": 10.39158,
+      "longitude": -2.33412
+    },
+    {
+      "id": 7647393,
+      "name": "Jirapa",
+      "nativeName": "Jirapa",
+      "code": "GH-UW-7647393",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-UW",
+      "latitude": 10.53333,
+      "longitude": -2.7
+    },
+    {
+      "id": 7647658,
+      "name": "Lambussie Karni",
+      "nativeName": "Lambussie Karni",
+      "code": "GH-UW-7647658",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-UW",
+      "latitude": 10.83333,
+      "longitude": -2.7
+    },
+    {
+      "id": 7647392,
+      "name": "Lawra",
+      "nativeName": "Lawra",
+      "code": "GH-UW-7647392",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-UW",
+      "latitude": 10.72454,
+      "longitude": -2.79977
+    },
+    {
+      "id": 7647177,
+      "name": "Nadowli",
+      "nativeName": "Nadowli",
+      "code": "GH-UW-7647177",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-UW",
+      "latitude": 10.28835,
+      "longitude": -2.60889
+    },
+    {
+      "id": 12105117,
+      "name": "Nandom",
+      "nativeName": "Nandom",
+      "code": "GH-UW-12105117",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-UW",
+      "latitude": 10.85396,
+      "longitude": -2.79315
+    },
+    {
+      "id": 7647380,
+      "name": "Sissala East",
+      "nativeName": "Sissala East",
+      "code": "GH-UW-7647380",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-UW",
+      "latitude": 10.70489,
+      "longitude": -1.75388
+    },
+    {
+      "id": 7647179,
+      "name": "Sissala West",
+      "nativeName": "Sissala West",
+      "code": "GH-UW-7647179",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-UW",
+      "latitude": 10.80768,
+      "longitude": -2.2785
+    },
+    {
+      "id": 7649063,
+      "name": "Wa",
+      "nativeName": "Wa",
+      "code": "GH-UW-7649063",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-UW",
+      "latitude": 10.05,
+      "longitude": -2.48333
+    },
+    {
+      "id": 7647181,
+      "name": "Wa East",
+      "nativeName": "Wa East",
+      "code": "GH-UW-7647181",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-UW",
+      "latitude": 9.92933,
+      "longitude": -1.86848
+    },
+    {
+      "id": 7647182,
+      "name": "Wa West",
+      "nativeName": "Wa West",
+      "code": "GH-UW-7647182",
+      "countryId": 2300660,
+      "countryCode": "GH",
+      "stateCode": "GH-UW",
+      "latitude": 9.96559,
+      "longitude": -2.63098
+    }
+  ]
+}

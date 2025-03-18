@@ -1,0 +1,73 @@
+{
+  "stateId": 746423,
+  "stateCode": "TR-29",
+  "countryCode": "TR",
+  "cities": [
+    {
+      "id": 8631619,
+      "name": "Kelkit İlçesi",
+      "nativeName": "Kelkit İlçesi",
+      "code": "TR-29-8631619",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-29",
+      "latitude": 40.12952,
+      "longitude": 39.4371
+    },
+    {
+      "id": 8631615,
+      "name": "Köse District",
+      "nativeName": "Köse İlçesi",
+      "code": "TR-29-8631615",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-29",
+      "latitude": 40.21025,
+      "longitude": 39.65402
+    },
+    {
+      "id": 8631617,
+      "name": "Kürtün İlçesi",
+      "nativeName": "Kürtün İlçesi",
+      "code": "TR-29-8631617",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-29",
+      "latitude": 40.69966,
+      "longitude": 39.09801
+    },
+    {
+      "id": 7732375,
+      "name": "Merkez",
+      "nativeName": "Merkez",
+      "code": "TR-29-7732375",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-29",
+      "latitude": 40.46843,
+      "longitude": 39.67441
+    },
+    {
+      "id": 8631616,
+      "name": "Torul İlçesi",
+      "nativeName": "Torul İlçesi",
+      "code": "TR-29-8631616",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-29",
+      "latitude": 40.56034,
+      "longitude": 39.29671
+    },
+    {
+      "id": 8631618,
+      "name": "Şiran İlçesi",
+      "nativeName": "Şiran İlçesi",
+      "code": "TR-29-8631618",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-29",
+      "latitude": 40.19084,
+      "longitude": 39.12484
+    }
+  ]
+}

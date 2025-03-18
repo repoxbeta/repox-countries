@@ -1,0 +1,84 @@
+{
+  "stateId": 2240444,
+  "stateCode": "AO-LUA",
+  "countryCode": "AO",
+  "cities": [
+    {
+      "id": 10440865,
+      "name": "Belas",
+      "nativeName": "Belas",
+      "code": "AO-LUA-10440865",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-LUA",
+      "latitude": -9.06875,
+      "longitude": 13.16072
+    },
+    {
+      "id": 2243171,
+      "name": "Cacuaco Municipality",
+      "nativeName": "Cacuaco Municipality",
+      "code": "AO-LUA-2243171",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-LUA",
+      "latitude": -8.75683,
+      "longitude": 13.50082
+    },
+    {
+      "id": 2240756,
+      "name": "Icolo e Bengo",
+      "nativeName": "Icolo e Bengo",
+      "code": "AO-LUA-2240756",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-LUA",
+      "latitude": -9.24191,
+      "longitude": 13.73549
+    },
+    {
+      "id": 2240445,
+      "name": "Luanda Municipality",
+      "nativeName": "Luanda Municipality",
+      "code": "AO-LUA-2240445",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-LUA",
+      "latitude": -8.84708,
+      "longitude": 13.27148
+    },
+    {
+      "id": 10401828,
+      "name": "Município Cazenga",
+      "nativeName": "Município Cazenga",
+      "code": "AO-LUA-10401828",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-LUA",
+      "latitude": -8.82139,
+      "longitude": 13.29111
+    },
+    {
+      "id": 2238564,
+      "name": "Quissama",
+      "nativeName": "Quissama",
+      "code": "AO-LUA-2238564",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-LUA",
+      "latitude": -9.81765,
+      "longitude": 13.82481
+    },
+    {
+      "id": 2236499,
+      "name": "Viana",
+      "nativeName": "Viana",
+      "code": "AO-LUA-2236499",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-LUA",
+      "latitude": -8.9987,
+      "longitude": 13.3976
+    }
+  ]
+}

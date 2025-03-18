@@ -1,0 +1,62 @@
+{
+  "stateId": 6413339,
+  "stateCode": "RW-03",
+  "countryCode": "RW",
+  "cities": [
+    {
+      "id": 7688808,
+      "name": "Burera District",
+      "nativeName": "Burera District",
+      "code": "RW-03-7688808",
+      "countryId": 49518,
+      "countryCode": "RW",
+      "stateCode": "RW-03",
+      "latitude": -1.47394,
+      "longitude": 29.83468
+    },
+    {
+      "id": 7688810,
+      "name": "Gakenke District",
+      "nativeName": "Gakenke District",
+      "code": "RW-03-7688810",
+      "countryId": 49518,
+      "countryCode": "RW",
+      "stateCode": "RW-03",
+      "latitude": -1.6981,
+      "longitude": 29.78543
+    },
+    {
+      "id": 7688806,
+      "name": "Gicumbi District",
+      "nativeName": "Gicumbi District",
+      "code": "RW-03-7688806",
+      "countryId": 49518,
+      "countryCode": "RW",
+      "stateCode": "RW-03",
+      "latitude": -1.61647,
+      "longitude": 30.12104
+    },
+    {
+      "id": 7688809,
+      "name": "Musanze District",
+      "nativeName": "Musanze District",
+      "code": "RW-03-7688809",
+      "countryId": 49518,
+      "countryCode": "RW",
+      "stateCode": "RW-03",
+      "latitude": -1.50763,
+      "longitude": 29.60662
+    },
+    {
+      "id": 7688807,
+      "name": "Rulindo District",
+      "nativeName": "Rulindo District",
+      "code": "RW-03-7688807",
+      "countryId": 49518,
+      "countryCode": "RW",
+      "stateCode": "RW-03",
+      "latitude": -1.73828,
+      "longitude": 29.99794
+    }
+  ]
+}

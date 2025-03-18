@@ -1,0 +1,73 @@
+{
+  "stateId": 2255329,
+  "stateCode": "CG-13",
+  "countryCode": "CG",
+  "cities": [
+    {
+      "id": 11996228,
+      "name": "Mokeko",
+      "nativeName": "Mokeko",
+      "code": "CG-13-11996228",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-13",
+      "latitude": 1.31733,
+      "longitude": 15.87204
+    },
+    {
+      "id": 11996197,
+      "name": "Ngbala",
+      "nativeName": "Ngbala",
+      "code": "CG-13-11996197",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-13",
+      "latitude": 1.94828,
+      "longitude": 14.95552
+    },
+    {
+      "id": 7731853,
+      "name": "Ouesso",
+      "nativeName": "Ouesso",
+      "code": "CG-13-7731853",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-13",
+      "latitude": 1.61398,
+      "longitude": 16.05238
+    },
+    {
+      "id": 11996194,
+      "name": "Pikounda",
+      "nativeName": "Pikounda",
+      "code": "CG-13-11996194",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-13",
+      "latitude": 0.63266,
+      "longitude": 16.44231
+    },
+    {
+      "id": 7731852,
+      "name": "Sembe",
+      "nativeName": "Sembe",
+      "code": "CG-13-7731852",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-13",
+      "latitude": 1.73163,
+      "longitude": 14.86882
+    },
+    {
+      "id": 7731851,
+      "name": "Souanke",
+      "nativeName": "Souanke",
+      "code": "CG-13-7731851",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-13",
+      "latitude": 1.7138,
+      "longitude": 13.68068
+    }
+  ]
+}

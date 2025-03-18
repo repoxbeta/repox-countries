@@ -1,0 +1,51 @@
+{
+  "stateId": 10096859,
+  "stateCode": "XK-10096859",
+  "countryCode": "XK",
+  "cities": [
+    {
+      "id": 791579,
+      "name": "Komuna e Deçanit",
+      "nativeName": "Komuna e Deçanit",
+      "code": "XK-10096859-791579",
+      "countryId": 831053,
+      "countryCode": "XK",
+      "stateCode": "XK-10096859",
+      "latitude": 42.5391,
+      "longitude": 20.28816
+    },
+    {
+      "id": 791645,
+      "name": "Komuna e Gjakovës",
+      "nativeName": "Komuna e Gjakovës",
+      "code": "XK-10096859-791645",
+      "countryId": 831053,
+      "countryCode": "XK",
+      "stateCode": "XK-10096859",
+      "latitude": 42.38333,
+      "longitude": 20.38333
+    },
+    {
+      "id": 8299770,
+      "name": "Komuna e Junikut",
+      "nativeName": "Komuna e Junikut",
+      "code": "XK-10096859-8299770",
+      "countryId": 831053,
+      "countryCode": "XK",
+      "stateCode": "XK-10096859",
+      "latitude": 42.50529,
+      "longitude": 20.21261
+    },
+    {
+      "id": 787455,
+      "name": "Orahovac",
+      "nativeName": "Orahovac",
+      "code": "XK-10096859-787455",
+      "countryId": 831053,
+      "countryCode": "XK",
+      "stateCode": "XK-10096859",
+      "latitude": 42.38333,
+      "longitude": 20.61667
+    }
+  ]
+}

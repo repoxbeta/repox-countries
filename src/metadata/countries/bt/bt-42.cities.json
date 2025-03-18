@@ -1,0 +1,51 @@
+{
+  "stateId": 1337285,
+  "stateCode": "BT-42",
+  "countryCode": "BT",
+  "cities": [
+    {
+      "id": 1252514,
+      "name": "Mongar",
+      "nativeName": "Mongar",
+      "code": "BT-42-1252514",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-42",
+      "latitude": 27.27471,
+      "longitude": 91.23963
+    },
+    {
+      "id": 1252600,
+      "name": "Dametsi",
+      "nativeName": "Dametsi",
+      "code": "BT-42-1252600",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-42",
+      "latitude": 27.3,
+      "longitude": 91.45
+    },
+    {
+      "id": 1337376,
+      "name": "Gyepozhing",
+      "nativeName": "Gyepozhing",
+      "code": "BT-42-1337376",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-42",
+      "latitude": 27.18333,
+      "longitude": 91.16667
+    },
+    {
+      "id": 1252443,
+      "name": "Shongar Dzong",
+      "nativeName": "Shongar Dzong",
+      "code": "BT-42-1252443",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-42",
+      "latitude": 27.25,
+      "longitude": 91.08333
+    }
+  ]
+}

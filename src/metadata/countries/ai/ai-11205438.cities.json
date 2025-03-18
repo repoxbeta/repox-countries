@@ -1,0 +1,29 @@
+{
+  "stateId": 11205438,
+  "stateCode": "AI-11205438",
+  "countryCode": "AI",
+  "cities": [
+    {
+      "id": 3573385,
+      "name": "South Hill Village",
+      "nativeName": "South Hill Village",
+      "code": "AI-11205438-3573385",
+      "countryId": 3573511,
+      "countryCode": "AI",
+      "stateCode": "AI-11205438",
+      "latitude": 18.19201,
+      "longitude": -63.08779
+    },
+    {
+      "id": 3573440,
+      "name": "Long Bay Village",
+      "nativeName": "Long Bay Village",
+      "code": "AI-11205438-3573440",
+      "countryId": 3573511,
+      "countryCode": "AI",
+      "stateCode": "AI-11205438",
+      "latitude": 18.1876,
+      "longitude": -63.12879
+    }
+  ]
+}

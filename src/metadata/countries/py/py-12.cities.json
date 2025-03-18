@@ -1,0 +1,183 @@
+{
+  "stateId": 3437677,
+  "stateCode": "PY-12",
+  "countryCode": "PY",
+  "cities": [
+    {
+      "id": 11839933,
+      "name": "Alberdi",
+      "nativeName": "Alberdi",
+      "code": "PY-12-11839933",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-12",
+      "latitude": -26.18992,
+      "longitude": -58.0709
+    },
+    {
+      "id": 11840108,
+      "name": "Cerrito",
+      "nativeName": "Cerrito",
+      "code": "PY-12-11840108",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-12",
+      "latitude": -27.32128,
+      "longitude": -57.54116
+    },
+    {
+      "id": 11839959,
+      "name": "Desmochados",
+      "nativeName": "Desmochados",
+      "code": "PY-12-11839959",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-12",
+      "latitude": -27.08796,
+      "longitude": -58.12406
+    },
+    {
+      "id": 11839958,
+      "name": "General Diaz",
+      "nativeName": "General Diaz",
+      "code": "PY-12-11839958",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-12",
+      "latitude": -27.1679,
+      "longitude": -58.34399
+    },
+    {
+      "id": 11840153,
+      "name": "Guazu Cua",
+      "nativeName": "Guazu Cua",
+      "code": "PY-12-11840153",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-12",
+      "latitude": -26.92643,
+      "longitude": -57.99032
+    },
+    {
+      "id": 11840018,
+      "name": "Humaita",
+      "nativeName": "Humaita",
+      "code": "PY-12-11840018",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-12",
+      "latitude": -27.10975,
+      "longitude": -58.50556
+    },
+    {
+      "id": 11839973,
+      "name": "Isla Umbu",
+      "nativeName": "Isla Umbu",
+      "code": "PY-12-11839973",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-12",
+      "latitude": -26.97827,
+      "longitude": -58.31763
+    },
+    {
+      "id": 11840045,
+      "name": "Los Laureles",
+      "nativeName": "Los Laureles",
+      "code": "PY-12-11840045",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-12",
+      "latitude": -27.17636,
+      "longitude": -57.58299
+    },
+    {
+      "id": 11840063,
+      "name": "Mayor Martinez",
+      "nativeName": "Mayor Martinez",
+      "code": "PY-12-11840063",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-12",
+      "latitude": -27.20089,
+      "longitude": -58.14559
+    },
+    {
+      "id": 11839932,
+      "name": "Paso De Patria",
+      "nativeName": "Paso De Patria",
+      "code": "PY-12-11839932",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-12",
+      "latitude": -27.22734,
+      "longitude": -58.51454
+    },
+    {
+      "id": 11840145,
+      "name": "Pilar",
+      "nativeName": "Pilar",
+      "code": "PY-12-11840145",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-12",
+      "latitude": -26.90314,
+      "longitude": -58.2168
+    },
+    {
+      "id": 11840044,
+      "name": "San Juan Bautista De Ñeembucu",
+      "nativeName": "San Juan Bautista De Ñeembucu",
+      "code": "PY-12-11840044",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-12",
+      "latitude": -26.61016,
+      "longitude": -57.85772
+    },
+    {
+      "id": 11839954,
+      "name": "Tacuaras",
+      "nativeName": "Tacuaras",
+      "code": "PY-12-11839954",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-12",
+      "latitude": -26.90378,
+      "longitude": -57.7497
+    },
+    {
+      "id": 11840088,
+      "name": "Villa Franca",
+      "nativeName": "Villa Franca",
+      "code": "PY-12-11840088",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-12",
+      "latitude": -26.34735,
+      "longitude": -57.96024
+    },
+    {
+      "id": 11840095,
+      "name": "Villa Oliva",
+      "nativeName": "Villa Oliva",
+      "code": "PY-12-11840095",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-12",
+      "latitude": -26.04415,
+      "longitude": -57.72756
+    },
+    {
+      "id": 11840128,
+      "name": "Villalbin",
+      "nativeName": "Villalbin",
+      "code": "PY-12-11840128",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-12",
+      "latitude": -27.17859,
+      "longitude": -57.91511
+    }
+  ]
+}

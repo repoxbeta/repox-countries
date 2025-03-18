@@ -1,0 +1,139 @@
+{
+  "stateId": 3695781,
+  "stateCode": "PE-LAL",
+  "countryCode": "PE",
+  "cities": [
+    {
+      "id": 8349559,
+      "name": "Ascope",
+      "nativeName": "Ascope",
+      "code": "PE-LAL-8349559",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-LAL",
+      "latitude": -7.72414,
+      "longitude": -79.15151
+    },
+    {
+      "id": 3699282,
+      "name": "Bolívar Province",
+      "nativeName": "Provincia de Bolívar",
+      "code": "PE-LAL-3699282",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-LAL",
+      "latitude": -7.30143,
+      "longitude": -77.73086
+    },
+    {
+      "id": 8349560,
+      "name": "Chepén Province",
+      "nativeName": "Chepen",
+      "code": "PE-LAL-8349560",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-LAL",
+      "latitude": -7.14367,
+      "longitude": -79.45674
+    },
+    {
+      "id": 8349562,
+      "name": "Gran Chimú Province",
+      "nativeName": "Gran Chimu",
+      "code": "PE-LAL-8349562",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-LAL",
+      "latitude": -7.57976,
+      "longitude": -78.64718
+    },
+    {
+      "id": 8349561,
+      "name": "Julcán Province",
+      "nativeName": "Julcan",
+      "code": "PE-LAL-8349561",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-LAL",
+      "latitude": -8.17238,
+      "longitude": -78.46356
+    },
+    {
+      "id": 3694211,
+      "name": "Otuzco Province",
+      "nativeName": "Provincia de Otuzco",
+      "code": "PE-LAL-3694211",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-LAL",
+      "latitude": -7.90457,
+      "longitude": -78.56362
+    },
+    {
+      "id": 3694175,
+      "name": "Pacasmayo Province",
+      "nativeName": "Provincia de Pacasmayo",
+      "code": "PE-LAL-3694175",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-LAL",
+      "latitude": -7.42654,
+      "longitude": -79.44151
+    },
+    {
+      "id": 3693821,
+      "name": "Pataz Province",
+      "nativeName": "Provincia de Pataz",
+      "code": "PE-LAL-3693821",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-LAL",
+      "latitude": -8.20959,
+      "longitude": -77.32908
+    },
+    {
+      "id": 3692071,
+      "name": "Provincia de Santiago de Chuco",
+      "nativeName": "Provincia de Santiago de Chuco",
+      "code": "PE-LAL-3692071",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-LAL",
+      "latitude": -8.16636,
+      "longitude": -78.15429
+    },
+    {
+      "id": 3691174,
+      "name": "Provincia de Trujillo",
+      "nativeName": "Provincia de Trujillo",
+      "code": "PE-LAL-3691174",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-LAL",
+      "latitude": -8.07004,
+      "longitude": -78.90444
+    },
+    {
+      "id": 7807970,
+      "name": "Sánchez Carrión Province",
+      "nativeName": "Sanchez Carrion",
+      "code": "PE-LAL-7807970",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-LAL",
+      "latitude": -7.78538,
+      "longitude": -77.92586
+    },
+    {
+      "id": 8349563,
+      "name": "Virú Province",
+      "nativeName": "Viru",
+      "code": "PE-LAL-8349563",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-LAL",
+      "latitude": -8.52199,
+      "longitude": -78.60355
+    }
+  ]
+}

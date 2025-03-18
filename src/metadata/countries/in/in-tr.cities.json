@@ -1,0 +1,95 @@
+{
+  "stateId": 1254169,
+  "stateCode": "IN-TR",
+  "countryCode": "IN",
+  "cities": [
+    {
+      "id": 9747971,
+      "name": "Dhalai",
+      "nativeName": "Dhalai",
+      "code": "IN-TR-9747971",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-TR",
+      "latitude": 23.84307,
+      "longitude": 91.92591
+    },
+    {
+      "id": 11875562,
+      "name": "Gomati",
+      "nativeName": "Gomati",
+      "code": "IN-TR-11875562",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-TR",
+      "latitude": 23.53399,
+      "longitude": 91.48122
+    },
+    {
+      "id": 11875565,
+      "name": "Khowai",
+      "nativeName": "Khowai",
+      "code": "IN-TR-11875565",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-TR",
+      "latitude": 24.06702,
+      "longitude": 91.60506
+    },
+    {
+      "id": 1261174,
+      "name": "North Tripura",
+      "nativeName": "North Tripura",
+      "code": "IN-TR-1261174",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-TR",
+      "latitude": 24.35539,
+      "longitude": 92.17104
+    },
+    {
+      "id": 11875564,
+      "name": "Sepahijala",
+      "nativeName": "Sepahijala",
+      "code": "IN-TR-11875564",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-TR",
+      "latitude": 23.60635,
+      "longitude": 91.34328
+    },
+    {
+      "id": 1255671,
+      "name": "South Tripura District",
+      "nativeName": "South Tripura",
+      "code": "IN-TR-1255671",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-TR",
+      "latitude": 23.1671,
+      "longitude": 91.60953
+    },
+    {
+      "id": 11875563,
+      "name": "Unakoti",
+      "nativeName": "Unakoti",
+      "code": "IN-TR-11875563",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-TR",
+      "latitude": 24.32781,
+      "longitude": 92.00377
+    },
+    {
+      "id": 1252864,
+      "name": "West Tripura",
+      "nativeName": "West Tripura",
+      "code": "IN-TR-1252864",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-TR",
+      "latitude": 23.91667,
+      "longitude": 91.5
+    }
+  ]
+}

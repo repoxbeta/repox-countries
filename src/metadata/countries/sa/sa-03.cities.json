@@ -1,0 +1,84 @@
+{
+  "stateId": 109224,
+  "stateCode": "SA-03",
+  "countryCode": "SA",
+  "cities": [
+    {
+      "id": 10972293,
+      "name": "Al Madīnah al Munawwarah",
+      "nativeName": "Al Madīnah al Munawwarah",
+      "code": "SA-03-10972293",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-03",
+      "latitude": 24.3,
+      "longitude": 39.6
+    },
+    {
+      "id": 10972294,
+      "name": "Al Mahd",
+      "nativeName": "Al Mahd",
+      "code": "SA-03-10972294",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-03",
+      "latitude": 23.5,
+      "longitude": 40.75
+    },
+    {
+      "id": 10972292,
+      "name": "Al Ḩinākīyah",
+      "nativeName": "Al Ḩinākīyah",
+      "code": "SA-03-10972292",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-03",
+      "latitude": 24.75,
+      "longitude": 41
+    },
+    {
+      "id": 10972295,
+      "name": "Al ‘Ulā",
+      "nativeName": "Al ‘Ulā",
+      "code": "SA-03-10972295",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-03",
+      "latitude": 26.5,
+      "longitude": 37.91667
+    },
+    {
+      "id": 10972296,
+      "name": "Badr",
+      "nativeName": "Badr",
+      "code": "SA-03-10972296",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-03",
+      "latitude": 23.75,
+      "longitude": 38.95
+    },
+    {
+      "id": 10972297,
+      "name": "Khaybar",
+      "nativeName": "Khaybar",
+      "code": "SA-03-10972297",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-03",
+      "latitude": 25.83333,
+      "longitude": 39.33333
+    },
+    {
+      "id": 10972298,
+      "name": "Yanbu‘ al Baḩr",
+      "nativeName": "Yanbu‘ al Baḩr",
+      "code": "SA-03-10972298",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-03",
+      "latitude": 24.75,
+      "longitude": 38.33333
+    }
+  ]
+}

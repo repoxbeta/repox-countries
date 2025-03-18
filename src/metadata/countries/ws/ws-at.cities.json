@@ -1,0 +1,40 @@
+{
+  "stateId": 4035402,
+  "stateCode": "WS-AT",
+  "countryCode": "WS",
+  "cities": [
+    {
+      "id": 4035421,
+      "name": "Aleipata Itupa i Lalo",
+      "nativeName": "Aleipata Itupa i Lalo",
+      "code": "WS-AT-4035421",
+      "countryId": 4034894,
+      "countryCode": "WS",
+      "stateCode": "WS-AT",
+      "latitude": -14.00844,
+      "longitude": -171.42867
+    },
+    {
+      "id": 7668017,
+      "name": "Aleipata Itupa i Luga",
+      "nativeName": "Aleipata Itupa i Luga",
+      "code": "WS-AT-7668017",
+      "countryId": 4034894,
+      "countryCode": "WS",
+      "stateCode": "WS-AT",
+      "latitude": -14.03425,
+      "longitude": -171.4635
+    },
+    {
+      "id": 7668018,
+      "name": "Lepa",
+      "nativeName": "Lepa",
+      "code": "WS-AT-7668018",
+      "countryId": 4034894,
+      "countryCode": "WS",
+      "stateCode": "WS-AT",
+      "latitude": -14.01927,
+      "longitude": -171.51631
+    }
+  ]
+}

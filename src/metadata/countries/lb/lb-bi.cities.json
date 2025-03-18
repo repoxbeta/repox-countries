@@ -1,0 +1,40 @@
+{
+  "stateId": 280282,
+  "stateCode": "LB-BI",
+  "countryCode": "LB",
+  "cities": [
+    {
+      "id": 268737,
+      "name": "Rachaya",
+      "nativeName": "Caza de Rachaïya",
+      "code": "LB-BI-268737",
+      "countryId": 272103,
+      "countryCode": "LB",
+      "stateCode": "LB-BI",
+      "latitude": 33.53333,
+      "longitude": 35.83333
+    },
+    {
+      "id": 280280,
+      "name": "West Bekaa",
+      "nativeName": "Caza de la Beqâa-Ouest",
+      "code": "LB-BI-280280",
+      "countryId": 272103,
+      "countryCode": "LB",
+      "stateCode": "LB-BI",
+      "latitude": 33.63161,
+      "longitude": 35.74286
+    },
+    {
+      "id": 266042,
+      "name": "Zahle",
+      "nativeName": "Caza de Zahleh",
+      "code": "LB-BI-266042",
+      "countryId": 272103,
+      "countryCode": "LB",
+      "stateCode": "LB-BI",
+      "latitude": 33.83333,
+      "longitude": 35.9
+    }
+  ]
+}

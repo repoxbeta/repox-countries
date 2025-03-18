@@ -1,0 +1,95 @@
+{
+  "stateId": 1653333,
+  "stateCode": "LA-SL",
+  "countryCode": "LA",
+  "cities": [
+    {
+      "id": 1656324,
+      "name": "Muang Khôngxédôn",
+      "nativeName": "Muang Khôngxédôn",
+      "code": "LA-SL-1656324",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-SL",
+      "latitude": 15.54626,
+      "longitude": 105.77051
+    },
+    {
+      "id": 1655961,
+      "name": "Muang Lakhonphéng",
+      "nativeName": "Muang Lakhonphéng",
+      "code": "LA-SL-1655961",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-SL",
+      "latitude": 15.83308,
+      "longitude": 105.59745
+    },
+    {
+      "id": 1655850,
+      "name": "Muang Laongam",
+      "nativeName": "Muang Laongam",
+      "code": "LA-SL-1655850",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-SL",
+      "latitude": 15.47745,
+      "longitude": 106.14111
+    },
+    {
+      "id": 1904781,
+      "name": "Muang Samouay",
+      "nativeName": "Muang Samouay",
+      "code": "LA-SL-1904781",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-SL",
+      "latitude": 16.35868,
+      "longitude": 106.8748
+    },
+    {
+      "id": 1653332,
+      "name": "Muang Saravan",
+      "nativeName": "Muang Saravan",
+      "code": "LA-SL-1653332",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-SL",
+      "latitude": 15.71587,
+      "longitude": 106.36158
+    },
+    {
+      "id": 1652935,
+      "name": "Muang Ta-Ôy",
+      "nativeName": "Muang Ta-Ôy",
+      "code": "LA-SL-1652935",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-SL",
+      "latitude": 16.07765,
+      "longitude": 106.70304
+    },
+    {
+      "id": 1904719,
+      "name": "Muang Toumlan",
+      "nativeName": "Muang Toumlan",
+      "code": "LA-SL-1904719",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-SL",
+      "latitude": 16.02236,
+      "longitude": 106.23837
+    },
+    {
+      "id": 1652275,
+      "name": "Muang Vapi",
+      "nativeName": "Muang Vapi",
+      "code": "LA-SL-1652275",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-SL",
+      "latitude": 15.75005,
+      "longitude": 105.95529
+    }
+  ]
+}

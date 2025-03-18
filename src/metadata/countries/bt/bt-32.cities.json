@@ -1,0 +1,29 @@
+{
+  "stateId": 1337294,
+  "stateCode": "BT-32",
+  "countryCode": "BT",
+  "cities": [
+    {
+      "id": 7647634,
+      "name": "Bjakteng",
+      "nativeName": "Bjakteng",
+      "code": "BT-32-7647634",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-32",
+      "latitude": 27.41241,
+      "longitude": 90.53263
+    },
+    {
+      "id": 7647633,
+      "name": "Nubi",
+      "nativeName": "Nubi",
+      "code": "BT-32-7647633",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-32",
+      "latitude": 27.57324,
+      "longitude": 90.47333
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "stateId": 3540665,
+  "stateCode": "CU-07",
+  "countryCode": "CU",
+  "cities": [
+    {
+      "id": 11288241,
+      "name": "La Sierpe",
+      "nativeName": "La Sierpe",
+      "code": "CU-07-11288241",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "stateCode": "CU-07",
+      "latitude": 21.77112,
+      "longitude": -79.26807
+    },
+    {
+      "id": 3566602,
+      "name": "Municipio de Cabaiguán",
+      "nativeName": "Municipio de Cabaiguán",
+      "code": "CU-07-3566602",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "stateCode": "CU-07",
+      "latitude": 22.08333,
+      "longitude": -79.5
+    },
+    {
+      "id": 3558742,
+      "name": "Municipio de Fomento",
+      "nativeName": "Municipio de Fomento",
+      "code": "CU-07-3558742",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "stateCode": "CU-07",
+      "latitude": 21.98156,
+      "longitude": -79.6945
+    },
+    {
+      "id": 3556333,
+      "name": "Municipio de Jatibonico",
+      "nativeName": "Municipio de Jatibonico",
+      "code": "CU-07-3556333",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "stateCode": "CU-07",
+      "latitude": 21.93333,
+      "longitude": -79.16667
+    },
+    {
+      "id": 3540666,
+      "name": "Municipio de Sancti Spíritus",
+      "nativeName": "Municipio de Sancti Spíritus",
+      "code": "CU-07-3540666",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "stateCode": "CU-07",
+      "latitude": 21.82176,
+      "longitude": -79.51036
+    },
+    {
+      "id": 3534905,
+      "name": "Municipio de Trinidad",
+      "nativeName": "Municipio de Trinidad",
+      "code": "CU-07-3534905",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "stateCode": "CU-07",
+      "latitude": 21.83195,
+      "longitude": -79.88362
+    },
+    {
+      "id": 3533822,
+      "name": "Municipio de Yaguajay",
+      "nativeName": "Municipio de Yaguajay",
+      "code": "CU-07-3533822",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "stateCode": "CU-07",
+      "latitude": 22.31667,
+      "longitude": -79.23333
+    },
+    {
+      "id": 11288242,
+      "name": "Taguasco",
+      "nativeName": "Taguasco",
+      "code": "CU-07-11288242",
+      "countryId": 3562981,
+      "countryCode": "CU",
+      "stateCode": "CU-07",
+      "latitude": 22.04212,
+      "longitude": -79.28764
+    }
+  ]
+}

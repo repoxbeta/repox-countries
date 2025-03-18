@@ -1,0 +1,51 @@
+{
+  "stateId": 7603255,
+  "stateCode": "TD-BG",
+  "countryCode": "TD",
+  "cities": [
+    {
+      "id": 12186898,
+      "name": "Barh-El-Gazel Nord",
+      "nativeName": "Barh-El-Gazel Nord",
+      "code": "TD-BG-12186898",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-BG",
+      "latitude": 14.87011,
+      "longitude": 17.11449
+    },
+    {
+      "id": 12186900,
+      "name": "Barh-El-Gazel Ouest",
+      "nativeName": "Barh-El-Gazel Ouest",
+      "code": "TD-BG-12186900",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-BG",
+      "latitude": 13.40905,
+      "longitude": 16.19186
+    },
+    {
+      "id": 12186899,
+      "name": "Barh-El-Gazel Sud",
+      "nativeName": "Barh-El-Gazel Sud",
+      "code": "TD-BG-12186899",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-BG",
+      "latitude": 13.49022,
+      "longitude": 16.73029
+    },
+    {
+      "id": 12186902,
+      "name": "Kléta",
+      "nativeName": "Kléta",
+      "code": "TD-BG-12186902",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-BG",
+      "latitude": 13.82076,
+      "longitude": 15.77347
+    }
+  ]
+}

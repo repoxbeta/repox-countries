@@ -1,0 +1,117 @@
+{
+  "stateId": 4566209,
+  "stateCode": "PR-095",
+  "countryCode": "PR",
+  "cities": [
+    {
+      "id": 7268303,
+      "name": "Calzada Barrio",
+      "nativeName": "Calzada Barrio",
+      "code": "PR-095-7268303",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-095",
+      "latitude": 17.9937,
+      "longitude": -65.9141
+    },
+    {
+      "id": 7268370,
+      "name": "Emajagua Barrio",
+      "nativeName": "Emajagua Barrio",
+      "code": "PR-095-7268370",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-095",
+      "latitude": 18.00483,
+      "longitude": -65.87669
+    },
+    {
+      "id": 7268563,
+      "name": "Lizas Barrio",
+      "nativeName": "Lizas Barrio",
+      "code": "PR-095-7268563",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-095",
+      "latitude": 18.02167,
+      "longitude": -65.9388
+    },
+    {
+      "id": 7268640,
+      "name": "Matuyas Alto Barrio",
+      "nativeName": "Matuyas Alto Barrio",
+      "code": "PR-095-7268640",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-095",
+      "latitude": 18.04331,
+      "longitude": -65.9703
+    },
+    {
+      "id": 7268641,
+      "name": "Matuyas Bajo Barrio",
+      "nativeName": "Matuyas Bajo Barrio",
+      "code": "PR-095-7268641",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-095",
+      "latitude": 18.03338,
+      "longitude": -65.94748
+    },
+    {
+      "id": 7268642,
+      "name": "Maunabo Barrio-Pueblo",
+      "nativeName": "Maunabo Barrio-Pueblo",
+      "code": "PR-095-7268642",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-095",
+      "latitude": 18.00782,
+      "longitude": -65.90071
+    },
+    {
+      "id": 7268727,
+      "name": "Palo Seco Barrio",
+      "nativeName": "Palo Seco Barrio",
+      "code": "PR-095-7268727",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-095",
+      "latitude": 18.00407,
+      "longitude": -65.93795
+    },
+    {
+      "id": 7268841,
+      "name": "Quebrada Arenas Barrio",
+      "nativeName": "Quebrada Arenas Barrio",
+      "code": "PR-095-7268841",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-095",
+      "latitude": 18.02182,
+      "longitude": -65.89323
+    },
+    {
+      "id": 7269022,
+      "name": "Talante Barrio",
+      "nativeName": "Talante Barrio",
+      "code": "PR-095-7269022",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-095",
+      "latitude": 18.01908,
+      "longitude": -65.90819
+    },
+    {
+      "id": 7269433,
+      "name": "Tumbao Barrio",
+      "nativeName": "Tumbao Barrio",
+      "code": "PR-095-7269433",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-095",
+      "latitude": 18.02079,
+      "longitude": -65.92119
+    }
+  ]
+}

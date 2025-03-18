@@ -1,0 +1,128 @@
+{
+  "stateId": 2593105,
+  "stateCode": "PT-30",
+  "countryCode": "PT",
+  "cities": [
+    {
+      "id": 8010673,
+      "name": "Calheta Municipality",
+      "nativeName": "Calheta",
+      "code": "PT-30-8010673",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "stateCode": "PT-30",
+      "latitude": 32.76367,
+      "longitude": -17.19765
+    },
+    {
+      "id": 8010674,
+      "name": "Câmara de Lobos Municipality",
+      "nativeName": "Câmara de Lobos",
+      "code": "PT-30-8010674",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "stateCode": "PT-30",
+      "latitude": 32.68722,
+      "longitude": -16.98567
+    },
+    {
+      "id": 8010675,
+      "name": "Funchal Municipality",
+      "nativeName": "Funchal",
+      "code": "PT-30-8010675",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "stateCode": "PT-30",
+      "latitude": 32.67617,
+      "longitude": -16.91722
+    },
+    {
+      "id": 8010676,
+      "name": "Machico Municipality",
+      "nativeName": "Machico",
+      "code": "PT-30-8010676",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "stateCode": "PT-30",
+      "latitude": 32.74472,
+      "longitude": -16.70772
+    },
+    {
+      "id": 8010677,
+      "name": "Ponta do Sol Municipality",
+      "nativeName": "Ponta do Sol",
+      "code": "PT-30-8010677",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "stateCode": "PT-30",
+      "latitude": 32.70856,
+      "longitude": -17.10373
+    },
+    {
+      "id": 8010678,
+      "name": "Porto Moniz Municipality",
+      "nativeName": "Porto Moniz",
+      "code": "PT-30-8010678",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "stateCode": "PT-30",
+      "latitude": 32.85959,
+      "longitude": -17.17575
+    },
+    {
+      "id": 8010683,
+      "name": "Porto Santo",
+      "nativeName": "Porto Santo",
+      "code": "PT-30-8010683",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "stateCode": "PT-30",
+      "latitude": 33.07145,
+      "longitude": -16.34304
+    },
+    {
+      "id": 8010679,
+      "name": "Ribeira Brava Municipality",
+      "nativeName": "Ribeira Brava",
+      "code": "PT-30-8010679",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "stateCode": "PT-30",
+      "latitude": 32.70589,
+      "longitude": -17.03578
+    },
+    {
+      "id": 8010680,
+      "name": "Santa Cruz Municipality",
+      "nativeName": "Santa Cruz",
+      "code": "PT-30-8010680",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "stateCode": "PT-30",
+      "latitude": 32.67495,
+      "longitude": -16.83088
+    },
+    {
+      "id": 8010681,
+      "name": "Santana Municipality",
+      "nativeName": "Santana",
+      "code": "PT-30-8010681",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "stateCode": "PT-30",
+      "latitude": 32.79658,
+      "longitude": -16.90444
+    },
+    {
+      "id": 8010682,
+      "name": "São Vicente Municipality",
+      "nativeName": "São Vicente",
+      "code": "PT-30-8010682",
+      "countryId": 2264397,
+      "countryCode": "PT",
+      "stateCode": "PT-30",
+      "latitude": 32.81728,
+      "longitude": -16.98347
+    }
+  ]
+}

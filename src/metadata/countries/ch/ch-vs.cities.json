@@ -1,0 +1,150 @@
+{
+  "stateId": 2658205,
+  "stateCode": "CH-VS",
+  "countryCode": "CH",
+  "cities": [
+    {
+      "id": 6458821,
+      "name": "Brig District",
+      "nativeName": "Brig District",
+      "code": "CH-VS-6458821",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-VS",
+      "latitude": 46.28255,
+      "longitude": 8.01185
+    },
+    {
+      "id": 6458850,
+      "name": "Conthey District",
+      "nativeName": "Conthey District",
+      "code": "CH-VS-6458850",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-VS",
+      "latitude": 46.20485,
+      "longitude": 7.27857
+    },
+    {
+      "id": 6458768,
+      "name": "Entremont District",
+      "nativeName": "Entremont District",
+      "code": "CH-VS-6458768",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-VS",
+      "latitude": 46.02099,
+      "longitude": 7.2126
+    },
+    {
+      "id": 6458766,
+      "name": "Goms District",
+      "nativeName": "Goms District",
+      "code": "CH-VS-6458766",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-VS",
+      "latitude": 46.46161,
+      "longitude": 8.2219
+    },
+    {
+      "id": 6458872,
+      "name": "Hérens District",
+      "nativeName": "Hérens District",
+      "code": "CH-VS-6458872",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-VS",
+      "latitude": 46.19407,
+      "longitude": 7.42391
+    },
+    {
+      "id": 6458753,
+      "name": "Leuk District",
+      "nativeName": "Leuk District",
+      "code": "CH-VS-6458753",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-VS",
+      "latitude": 46.31439,
+      "longitude": 7.67291
+    },
+    {
+      "id": 2659752,
+      "name": "Martigny District",
+      "nativeName": "Martigny District",
+      "code": "CH-VS-2659752",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-VS",
+      "latitude": 46.12386,
+      "longitude": 7.10354
+    },
+    {
+      "id": 6458845,
+      "name": "Monthey District",
+      "nativeName": "Monthey District",
+      "code": "CH-VS-6458845",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-VS",
+      "latitude": 46.27043,
+      "longitude": 6.90274
+    },
+    {
+      "id": 2659097,
+      "name": "Raron District",
+      "nativeName": "Raron District",
+      "code": "CH-VS-2659097",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-VS",
+      "latitude": 46.3,
+      "longitude": 7.8
+    },
+    {
+      "id": 6458832,
+      "name": "Saint-Maurice District",
+      "nativeName": "Saint-Maurice District",
+      "code": "CH-VS-6458832",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-VS",
+      "latitude": 46.15384,
+      "longitude": 6.99823
+    },
+    {
+      "id": 6458795,
+      "name": "Sierre District",
+      "nativeName": "Sierre District",
+      "code": "CH-VS-6458795",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-VS",
+      "latitude": 46.27052,
+      "longitude": 7.5157
+    },
+    {
+      "id": 6458745,
+      "name": "Sion District",
+      "nativeName": "Sion District",
+      "code": "CH-VS-6458745",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-VS",
+      "latitude": 46.23343,
+      "longitude": 7.34939
+    },
+    {
+      "id": 6458844,
+      "name": "Visp District",
+      "nativeName": "Visp District",
+      "code": "CH-VS-6458844",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-VS",
+      "latitude": 46.17612,
+      "longitude": 7.85609
+    }
+  ]
+}

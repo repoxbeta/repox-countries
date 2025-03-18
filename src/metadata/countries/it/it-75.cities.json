@@ -1,0 +1,73 @@
+{
+  "stateId": 3169778,
+  "stateCode": "IT-75",
+  "countryCode": "IT",
+  "cities": [
+    {
+      "id": 3182350,
+      "name": "Bari",
+      "nativeName": "Bari",
+      "code": "IT-75-3182350",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-75",
+      "latitude": 40.93333,
+      "longitude": 16.66667
+    },
+    {
+      "id": 6955699,
+      "name": "Province of Barletta-Andria-Trani",
+      "nativeName": "Provincia di Barletta - Andria - Trani",
+      "code": "IT-75-6955699",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-75",
+      "latitude": 41.25097,
+      "longitude": 16.17599
+    },
+    {
+      "id": 3181526,
+      "name": "Province of Brindisi",
+      "nativeName": "Provincia di Brindisi",
+      "code": "IT-75-3181526",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-75",
+      "latitude": 40.58333,
+      "longitude": 17.66667
+    },
+    {
+      "id": 3165924,
+      "name": "Province of Taranto",
+      "nativeName": "Provincia di Taranto",
+      "code": "IT-75-3165924",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-75",
+      "latitude": 40.61667,
+      "longitude": 17.25
+    },
+    {
+      "id": 3176884,
+      "name": "Provincia di Foggia",
+      "nativeName": "Provincia di Foggia",
+      "code": "IT-75-3176884",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-75",
+      "latitude": 41.45,
+      "longitude": 15.53333
+    },
+    {
+      "id": 3174952,
+      "name": "Provincia di Lecce",
+      "nativeName": "Provincia di Lecce",
+      "code": "IT-75-3174952",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-75",
+      "latitude": 40.21667,
+      "longitude": 18.16667
+    }
+  ]
+}

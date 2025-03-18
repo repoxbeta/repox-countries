@@ -1,0 +1,40 @@
+{
+  "stateId": 2089470,
+  "stateCode": "PG-NSB",
+  "countryCode": "PG",
+  "cities": [
+    {
+      "id": 8714537,
+      "name": "Central Bougainville",
+      "nativeName": "Central Bougainville",
+      "code": "PG-NSB-8714537",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-NSB",
+      "latitude": -6.22806,
+      "longitude": 155.56583
+    },
+    {
+      "id": 8740754,
+      "name": "North Bougainville District",
+      "nativeName": "North Bougainville",
+      "code": "PG-NSB-8740754",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-NSB",
+      "latitude": -5.42194,
+      "longitude": 154.67278
+    },
+    {
+      "id": 8714538,
+      "name": "South Bougainville",
+      "nativeName": "South Bougainville",
+      "code": "PG-NSB-8714538",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-NSB",
+      "latitude": -6.74593,
+      "longitude": 155.6964
+    }
+  ]
+}

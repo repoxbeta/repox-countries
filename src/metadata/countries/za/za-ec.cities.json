@@ -1,0 +1,95 @@
+{
+  "stateId": 1085593,
+  "stateCode": "ZA-EC",
+  "countryCode": "ZA",
+  "cities": [
+    {
+      "id": 8347351,
+      "name": "Alfred Nzo District Municipality",
+      "nativeName": "Alfred Nzo District Municipality",
+      "code": "ZA-EC-8347351",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "stateCode": "ZA-EC",
+      "latitude": -30.66803,
+      "longitude": 29.1549
+    },
+    {
+      "id": 8347342,
+      "name": "Amathole District Municipality",
+      "nativeName": "Amathole District Municipality",
+      "code": "ZA-EC-8347342",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "stateCode": "ZA-EC",
+      "latitude": -32.55895,
+      "longitude": 27.45919
+    },
+    {
+      "id": 8347340,
+      "name": "Buffalo City Metropolitan Municipality",
+      "nativeName": "Buffalo City Metropolitan Municipality",
+      "code": "ZA-EC-8347340",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "stateCode": "ZA-EC",
+      "latitude": -32.95141,
+      "longitude": 27.61164
+    },
+    {
+      "id": 8347343,
+      "name": "Chris Hani District Municipality",
+      "nativeName": "Chris Hani District Municipality",
+      "code": "ZA-EC-8347343",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "stateCode": "ZA-EC",
+      "latitude": -31.79033,
+      "longitude": 26.43965
+    },
+    {
+      "id": 8347357,
+      "name": "Joe Gqabi District Municipality",
+      "nativeName": "Joe Gqabi District Municipality",
+      "code": "ZA-EC-8347357",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "stateCode": "ZA-EC",
+      "latitude": -30.94178,
+      "longitude": 27.06053
+    },
+    {
+      "id": 8347387,
+      "name": "Nelson Mandela Bay Metropolitan Municipality",
+      "nativeName": "Nelson Mandela Bay Metropolitan Municipality",
+      "code": "ZA-EC-8347387",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "stateCode": "ZA-EC",
+      "latitude": -33.80399,
+      "longitude": 25.49213
+    },
+    {
+      "id": 8347358,
+      "name": "OR Tambo District Municipality",
+      "nativeName": "OR Tambo District Municipality",
+      "code": "ZA-EC-8347358",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "stateCode": "ZA-EC",
+      "latitude": -31.4674,
+      "longitude": 29.05247
+    },
+    {
+      "id": 8347341,
+      "name": "Sarah Baartman District Municipality",
+      "nativeName": "Sarah Baartman District Municipality",
+      "code": "ZA-EC-8347341",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "stateCode": "ZA-EC",
+      "latitude": -33.06583,
+      "longitude": 24.77583
+    }
+  ]
+}

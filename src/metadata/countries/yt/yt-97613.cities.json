@@ -1,0 +1,73 @@
+{
+  "stateId": 7521433,
+  "stateCode": "YT-97613",
+  "countryCode": "YT",
+  "cities": [
+    {
+      "id": 1090161,
+      "name": "M'Tsangamouji",
+      "nativeName": "M'Tsangamouji",
+      "code": "YT-97613-1090161",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97613",
+      "latitude": -12.75944,
+      "longitude": 45.08361
+    },
+    {
+      "id": 1090155,
+      "name": "Chembényoumba",
+      "nativeName": "Chembényoumba",
+      "code": "YT-97613-1090155",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97613",
+      "latitude": -12.76472,
+      "longitude": 45.07793
+    },
+    {
+      "id": 921840,
+      "name": "Keledjou",
+      "nativeName": "Keledjou",
+      "code": "YT-97613-921840",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97613",
+      "latitude": -12.98333,
+      "longitude": 45.21667
+    },
+    {
+      "id": 1090151,
+      "name": "Mliha",
+      "nativeName": "Mliha",
+      "code": "YT-97613-1090151",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97613",
+      "latitude": -12.75056,
+      "longitude": 45.05519
+    },
+    {
+      "id": 1090150,
+      "name": "Moutsoumbatsou",
+      "nativeName": "Moutsoumbatsou",
+      "code": "YT-97613-1090150",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97613",
+      "latitude": -12.75132,
+      "longitude": 45.0496
+    },
+    {
+      "id": 1090153,
+      "name": "Tanaraki",
+      "nativeName": "Tanaraki",
+      "code": "YT-97613-1090153",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97613",
+      "latitude": -12.75907,
+      "longitude": 45.07015
+    }
+  ]
+}

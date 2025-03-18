@@ -1,0 +1,62 @@
+{
+  "stateId": 3371206,
+  "stateCode": "NA-OS",
+  "countryCode": "NA",
+  "cities": [
+    {
+      "id": 11495912,
+      "name": "Anamulenge Constituency",
+      "nativeName": "Anamulenge Constituency",
+      "code": "NA-OS-11495912",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "stateCode": "NA-OS",
+      "latitude": -17.496,
+      "longitude": 15
+    },
+    {
+      "id": 11257223,
+      "name": "Etayi",
+      "nativeName": "Etayi",
+      "code": "NA-OS-11257223",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "stateCode": "NA-OS",
+      "latitude": -17.55,
+      "longitude": 15.51667
+    },
+    {
+      "id": 11979320,
+      "name": "Okahao",
+      "nativeName": "Okahao",
+      "code": "NA-OS-11979320",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "stateCode": "NA-OS",
+      "latitude": -17.89218,
+      "longitude": 15.0715
+    },
+    {
+      "id": 11428097,
+      "name": "Oshikuku",
+      "nativeName": "Oshikuku",
+      "code": "NA-OS-11428097",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "stateCode": "NA-OS",
+      "latitude": -17.65555,
+      "longitude": 15.473
+    },
+    {
+      "id": 11256953,
+      "name": "Tsandi",
+      "nativeName": "Tsandi",
+      "code": "NA-OS-11256953",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "stateCode": "NA-OS",
+      "latitude": -17.75,
+      "longitude": 14.88333
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "stateId": 2243266,
+  "stateCode": "AO-CAB",
+  "countryCode": "AO",
+  "cities": [
+    {
+      "id": 2243645,
+      "name": "Belize",
+      "nativeName": "Belize",
+      "code": "AO-CAB-2243645",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-CAB",
+      "latitude": -4.58379,
+      "longitude": 12.83037
+    },
+    {
+      "id": 2243457,
+      "name": "Buco Zau",
+      "nativeName": "Buco Zau",
+      "code": "AO-CAB-2243457",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-CAB",
+      "latitude": -4.79507,
+      "longitude": 12.54675
+    },
+    {
+      "id": 2243267,
+      "name": "Cabinda",
+      "nativeName": "Cabinda",
+      "code": "AO-CAB-2243267",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-CAB",
+      "latitude": -5.45348,
+      "longitude": 12.3731
+    },
+    {
+      "id": 2240660,
+      "name": "Cacongo",
+      "nativeName": "Cacongo",
+      "code": "AO-CAB-2240660",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-CAB",
+      "latitude": -5.03817,
+      "longitude": 12.23852
+    }
+  ]
+}

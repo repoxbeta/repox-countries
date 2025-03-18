@@ -1,0 +1,51 @@
+{
+  "stateId": 522652,
+  "stateCode": "RU-NEN",
+  "countryCode": "RU",
+  "cities": [
+    {
+      "id": 12837966,
+      "name": "Gorodskoy Okrug Nar'yan Mar",
+      "nativeName": "Gorodskoy Okrug Nar'yan Mar",
+      "code": "RU-NEN-12837966",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-NEN",
+      "latitude": 67.65027,
+      "longitude": 53.08951
+    },
+    {
+      "id": 12625487,
+      "name": "Naryan-Mar",
+      "nativeName": "Naryan-Mar",
+      "code": "RU-NEN-12625487",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-NEN",
+      "latitude": 67.63577,
+      "longitude": 53.00598
+    },
+    {
+      "id": 12640028,
+      "name": "Zapolyarny District",
+      "nativeName": "Zapolyarny District",
+      "code": "RU-NEN-12640028",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-NEN",
+      "latitude": 67.67998,
+      "longitude": 53.14379
+    },
+    {
+      "id": 12837965,
+      "name": "Zapolyarnyy Rayon",
+      "nativeName": "Zapolyarnyy Rayon",
+      "code": "RU-NEN-12837965",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-NEN",
+      "latitude": 67.57301,
+      "longitude": 55.57
+    }
+  ]
+}

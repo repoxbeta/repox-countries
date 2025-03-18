@@ -1,0 +1,183 @@
+{
+  "stateId": 4971068,
+  "stateCode": "US-ME",
+  "countryCode": "US",
+  "cities": [
+    {
+      "id": 4956755,
+      "name": "Androscoggin",
+      "nativeName": "Androscoggin County",
+      "code": "US-ME-4956755",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-ME",
+      "latitude": 44.16585,
+      "longitude": -70.20645
+    },
+    {
+      "id": 4956873,
+      "name": "Aroostook",
+      "nativeName": "Aroostook County",
+      "code": "US-ME-4956873",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-ME",
+      "latitude": 46.65881,
+      "longitude": -68.59889
+    },
+    {
+      "id": 4961900,
+      "name": "Cumberland",
+      "nativeName": "Cumberland County",
+      "code": "US-ME-4961900",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-ME",
+      "latitude": 43.80608,
+      "longitude": -70.3302
+    },
+    {
+      "id": 4964821,
+      "name": "Franklin",
+      "nativeName": "Franklin County",
+      "code": "US-ME-4964821",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-ME",
+      "latitude": 44.97417,
+      "longitude": -70.4441
+    },
+    {
+      "id": 4966407,
+      "name": "Hancock",
+      "nativeName": "Hancock County",
+      "code": "US-ME-4966407",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-ME",
+      "latitude": 44.56289,
+      "longitude": -68.36821
+    },
+    {
+      "id": 4968714,
+      "name": "Kennebec",
+      "nativeName": "Kennebec County",
+      "code": "US-ME-4968714",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-ME",
+      "latitude": 44.40916,
+      "longitude": -69.76726
+    },
+    {
+      "id": 4968996,
+      "name": "Knox",
+      "nativeName": "Knox County",
+      "code": "US-ME-4968996",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-ME",
+      "latitude": 44.07575,
+      "longitude": -69.12598
+    },
+    {
+      "id": 4969555,
+      "name": "Lincoln",
+      "nativeName": "Lincoln County",
+      "code": "US-ME-4969555",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-ME",
+      "latitude": 43.99779,
+      "longitude": -69.52576
+    },
+    {
+      "id": 4974522,
+      "name": "Oxford",
+      "nativeName": "Oxford County",
+      "code": "US-ME-4974522",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-ME",
+      "latitude": 44.49977,
+      "longitude": -70.75657
+    },
+    {
+      "id": 4974977,
+      "name": "Penobscot",
+      "nativeName": "Penobscot County",
+      "code": "US-ME-4974977",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-ME",
+      "latitude": 45.40051,
+      "longitude": -68.64943
+    },
+    {
+      "id": 4975418,
+      "name": "Piscataquis",
+      "nativeName": "Piscataquis County",
+      "code": "US-ME-4975418",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-ME",
+      "latitude": 45.83736,
+      "longitude": -69.28452
+    },
+    {
+      "id": 4977278,
+      "name": "Sagadahoc",
+      "nativeName": "Sagadahoc County",
+      "code": "US-ME-4977278",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-ME",
+      "latitude": 43.91173,
+      "longitude": -69.83931
+    },
+    {
+      "id": 4978972,
+      "name": "Somerset",
+      "nativeName": "Somerset County",
+      "code": "US-ME-4978972",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-ME",
+      "latitude": 45.51385,
+      "longitude": -69.95882
+    },
+    {
+      "id": 4982040,
+      "name": "Waldo",
+      "nativeName": "Waldo County",
+      "code": "US-ME-4982040",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-ME",
+      "latitude": 44.48525,
+      "longitude": -69.12188
+    },
+    {
+      "id": 4982182,
+      "name": "Washington",
+      "nativeName": "Washington County",
+      "code": "US-ME-4982182",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-ME",
+      "latitude": 44.96946,
+      "longitude": -67.60906
+    },
+    {
+      "id": 4983621,
+      "name": "York",
+      "nativeName": "York County",
+      "code": "US-ME-4983621",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-ME",
+      "latitude": 43.42923,
+      "longitude": -70.67015
+    }
+  ]
+}

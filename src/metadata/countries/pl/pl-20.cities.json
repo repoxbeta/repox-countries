@@ -1,0 +1,194 @@
+{
+  "stateId": 858789,
+  "stateCode": "PL-20",
+  "countryCode": "PL",
+  "cities": [
+    {
+      "id": 7530772,
+      "name": "Białystok",
+      "nativeName": "Białystok",
+      "code": "PL-20-7530772",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-20",
+      "latitude": 53.12744,
+      "longitude": 23.15649
+    },
+    {
+      "id": 7531060,
+      "name": "Białystok County",
+      "nativeName": "Powiat białostocki",
+      "code": "PL-20-7531060",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-20",
+      "latitude": 53.09897,
+      "longitude": 23.59314
+    },
+    {
+      "id": 7531061,
+      "name": "Bielsk County",
+      "nativeName": "Powiat bielski",
+      "code": "PL-20-7531061",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-20",
+      "latitude": 52.74629,
+      "longitude": 23.00669
+    },
+    {
+      "id": 7531062,
+      "name": "Grajewo County",
+      "nativeName": "Powiat grajewski",
+      "code": "PL-20-7531062",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-20",
+      "latitude": 53.55509,
+      "longitude": 22.48995
+    },
+    {
+      "id": 7531063,
+      "name": "Hajnówka County",
+      "nativeName": "Powiat hajnowski",
+      "code": "PL-20-7531063",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-20",
+      "latitude": 52.70845,
+      "longitude": 23.55719
+    },
+    {
+      "id": 7530826,
+      "name": "Kolno County",
+      "nativeName": "Powiat kolneński",
+      "code": "PL-20-7530826",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-20",
+      "latitude": 53.39186,
+      "longitude": 21.93631
+    },
+    {
+      "id": 7531064,
+      "name": "Mońki County",
+      "nativeName": "Powiat moniecki",
+      "code": "PL-20-7531064",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-20",
+      "latitude": 53.44561,
+      "longitude": 22.78144
+    },
+    {
+      "id": 7530841,
+      "name": "Powiat augustowski",
+      "nativeName": "Powiat augustowski",
+      "code": "PL-20-7530841",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-20",
+      "latitude": 53.79742,
+      "longitude": 23.14275
+    },
+    {
+      "id": 7531067,
+      "name": "Powiat suwalski",
+      "nativeName": "Powiat suwalski",
+      "code": "PL-20-7531067",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-20",
+      "latitude": 54.16655,
+      "longitude": 22.81818
+    },
+    {
+      "id": 7531065,
+      "name": "Sejny County",
+      "nativeName": "Powiat sejneński",
+      "code": "PL-20-7531065",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-20",
+      "latitude": 54.09561,
+      "longitude": 23.30425
+    },
+    {
+      "id": 7530900,
+      "name": "Siemiatycze County",
+      "nativeName": "Powiat siemiatycki",
+      "code": "PL-20-7530900",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-20",
+      "latitude": 52.48842,
+      "longitude": 22.88642
+    },
+    {
+      "id": 7531066,
+      "name": "Sokółka County",
+      "nativeName": "Powiat sokólski",
+      "code": "PL-20-7531066",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-20",
+      "latitude": 53.43511,
+      "longitude": 23.41864
+    },
+    {
+      "id": 7530941,
+      "name": "Suwałki",
+      "nativeName": "Suwałki",
+      "code": "PL-20-7530941",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-20",
+      "latitude": 54.10272,
+      "longitude": 22.92914
+    },
+    {
+      "id": 7531042,
+      "name": "Wysokie Mazowieckie County",
+      "nativeName": "Powiat wysokomazowiecki",
+      "code": "PL-20-7531042",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-20",
+      "latitude": 52.86458,
+      "longitude": 22.55541
+    },
+    {
+      "id": 7530828,
+      "name": "Zambrów County",
+      "nativeName": "Powiat zambrowski",
+      "code": "PL-20-7530828",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-20",
+      "latitude": 53.02256,
+      "longitude": 22.28505
+    },
+    {
+      "id": 7530773,
+      "name": "Łomża",
+      "nativeName": "Łomża",
+      "code": "PL-20-7530773",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-20",
+      "latitude": 53.18267,
+      "longitude": 22.05888
+    },
+    {
+      "id": 7530827,
+      "name": "Łomża County",
+      "nativeName": "Powiat Łomżyński",
+      "code": "PL-20-7530827",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-20",
+      "latitude": 53.20686,
+      "longitude": 22.08252
+    }
+  ]
+}

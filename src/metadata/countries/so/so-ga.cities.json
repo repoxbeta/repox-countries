@@ -1,0 +1,73 @@
+{
+  "stateId": 59362,
+  "stateCode": "SO-GA",
+  "countryCode": "SO",
+  "cities": [
+    {
+      "id": 9179626,
+      "name": "Abudwak District",
+      "nativeName": "Cabudwaaq",
+      "code": "SO-GA-9179626",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-GA",
+      "latitude": 5.82608,
+      "longitude": 46.125
+    },
+    {
+      "id": 9179982,
+      "name": "Adado District",
+      "nativeName": "Adado",
+      "code": "SO-GA-9179982",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-GA",
+      "latitude": 6.137,
+      "longitude": 46.6259
+    },
+    {
+      "id": 9179641,
+      "name": "Ceel Buur",
+      "nativeName": "Ceel Buur",
+      "code": "SO-GA-9179641",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-GA",
+      "latitude": 4.76049,
+      "longitude": 46.84157
+    },
+    {
+      "id": 9179646,
+      "name": "Ceel Dheer",
+      "nativeName": "Ceel Dheer",
+      "code": "SO-GA-9179646",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-GA",
+      "latitude": 4.0519,
+      "longitude": 47.05096
+    },
+    {
+      "id": 9179650,
+      "name": "Dhusamareb District",
+      "nativeName": "Dhuusamarreeb",
+      "code": "SO-GA-9179650",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-GA",
+      "latitude": 5.44113,
+      "longitude": 46.68405
+    },
+    {
+      "id": 9180013,
+      "name": "El Buur District",
+      "nativeName": "Ceelbuur",
+      "code": "SO-GA-9180013",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-GA",
+      "latitude": 4.68457,
+      "longitude": 46.61956
+    }
+  ]
+}

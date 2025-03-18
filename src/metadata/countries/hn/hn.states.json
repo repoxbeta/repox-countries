@@ -1,0 +1,204 @@
+{
+  "countryId": 3608932,
+  "countryCode": "HN",
+  "states": [
+    {
+      "id": 3615027,
+      "name": "Atlántida Department",
+      "nativeName": "Departamento de Atlántida",
+      "code": "HN-AT",
+      "internalCode": "AT",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "latitude": 15.66667,
+      "longitude": -87
+    },
+    {
+      "id": 3608814,
+      "name": "Bay Islands",
+      "nativeName": "Departamento de Islas de la Bahía",
+      "code": "HN-IB",
+      "internalCode": "IB",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "latitude": 16.09597,
+      "longitude": -86.93291
+    },
+    {
+      "id": 3613527,
+      "name": "Choluteca Department",
+      "nativeName": "Departamento de Choluteca",
+      "code": "HN-CH",
+      "internalCode": "CH",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "latitude": 13.33333,
+      "longitude": -87.08333
+    },
+    {
+      "id": 3613358,
+      "name": "Colón Department",
+      "nativeName": "Departamento de Colón",
+      "code": "HN-CL",
+      "internalCode": "CL",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "latitude": 15.75,
+      "longitude": -85.66667
+    },
+    {
+      "id": 3613319,
+      "name": "Comayagua Department",
+      "nativeName": "Departamento de Comayagua",
+      "code": "HN-CM",
+      "internalCode": "CM",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "latitude": 14.58333,
+      "longitude": -87.66667
+    },
+    {
+      "id": 3613229,
+      "name": "Copán Department",
+      "nativeName": "Departamento de Copán",
+      "code": "HN-CP",
+      "internalCode": "CP",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "latitude": 14.91667,
+      "longitude": -88.91667
+    },
+    {
+      "id": 3613140,
+      "name": "Cortés Department",
+      "nativeName": "Departamento de Cortés",
+      "code": "HN-CR",
+      "internalCode": "CR",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "latitude": 15.41667,
+      "longitude": -88
+    },
+    {
+      "id": 3610942,
+      "name": "El Paraíso Department",
+      "nativeName": "Departamento de El Paraíso",
+      "code": "HN-EP",
+      "internalCode": "EP",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "latitude": 14.08333,
+      "longitude": -86.5
+    },
+    {
+      "id": 3609672,
+      "name": "Francisco Morazán Department",
+      "nativeName": "Departamento de Francisco Morazán",
+      "code": "HN-FM",
+      "internalCode": "FM",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "latitude": 14.25,
+      "longitude": -87.16667
+    },
+    {
+      "id": 3609583,
+      "name": "Gracias a Dios Department",
+      "nativeName": "Departamento de Gracias a Dios",
+      "code": "HN-GD",
+      "internalCode": "GD",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "latitude": 15.25,
+      "longitude": -84.33333
+    },
+    {
+      "id": 3608833,
+      "name": "Intibucá Department",
+      "nativeName": "Departamento de Intibucá",
+      "code": "HN-IN",
+      "internalCode": "IN",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "latitude": 14.33333,
+      "longitude": -88.16667
+    },
+    {
+      "id": 3607251,
+      "name": "La Paz Department",
+      "nativeName": "Departamento de La Paz",
+      "code": "HN-LP",
+      "internalCode": "LP",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "latitude": 14.08333,
+      "longitude": -87.91667
+    },
+    {
+      "id": 3606066,
+      "name": "Lempira Department",
+      "nativeName": "Departamento de Lempira",
+      "code": "HN-LE",
+      "internalCode": "LE",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "latitude": 14.5,
+      "longitude": -88.58333
+    },
+    {
+      "id": 3604318,
+      "name": "Ocotepeque Department",
+      "nativeName": "Departamento de Ocotepeque",
+      "code": "HN-OC",
+      "internalCode": "OC",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "latitude": 14.5,
+      "longitude": -89
+    },
+    {
+      "id": 3604249,
+      "name": "Olancho Department",
+      "nativeName": "Departamento de Olancho",
+      "code": "HN-OL",
+      "internalCode": "OL",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "latitude": 14.83333,
+      "longitude": -86
+    },
+    {
+      "id": 3601689,
+      "name": "Santa Bárbara Department",
+      "nativeName": "Departamento de Santa Bárbara",
+      "code": "HN-SB",
+      "internalCode": "SB",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "latitude": 15.08333,
+      "longitude": -88.33333
+    },
+    {
+      "id": 3600456,
+      "name": "Valle Department",
+      "nativeName": "Departamento de Valle",
+      "code": "HN-VA",
+      "internalCode": "VA",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "latitude": 13.58333,
+      "longitude": -87.58333
+    },
+    {
+      "id": 3600193,
+      "name": "Yoro Department",
+      "nativeName": "Departamento de Yoro",
+      "code": "HN-YO",
+      "internalCode": "YO",
+      "countryId": 3608932,
+      "countryCode": "HN",
+      "latitude": 15.25,
+      "longitude": -87.16667
+    }
+  ]
+}

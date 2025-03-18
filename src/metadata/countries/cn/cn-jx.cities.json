@@ -1,0 +1,128 @@
+{
+  "stateId": 1806222,
+  "stateCode": "CN-JX",
+  "countryCode": "CN",
+  "cities": [
+    {
+      "id": 1810818,
+      "name": "Fuzhou Shi",
+      "nativeName": "Fuzhou Shi",
+      "code": "CN-JX-1810818",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-JX",
+      "latitude": 27.50223,
+      "longitude": 116.41518
+    },
+    {
+      "id": 1810636,
+      "name": "Ganzhou Shi",
+      "nativeName": "Ganzhou Shi",
+      "code": "CN-JX-1810636",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-JX",
+      "latitude": 25.70387,
+      "longitude": 115.34822
+    },
+    {
+      "id": 1805679,
+      "name": "Jingdezhen Shi",
+      "nativeName": "Jingdezhen Shi",
+      "code": "CN-JX-1805679",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-JX",
+      "latitude": 29.31682,
+      "longitude": 117.24688
+    },
+    {
+      "id": 1805178,
+      "name": "Jiujiang Shi",
+      "nativeName": "Jiujiang Shi",
+      "code": "CN-JX-1805178",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-JX",
+      "latitude": 29.38542,
+      "longitude": 115.36533
+    },
+    {
+      "id": 1806430,
+      "name": "Ji’an Shi",
+      "nativeName": "Ji’an Shi",
+      "code": "CN-JX-1806430",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-JX",
+      "latitude": 27.03795,
+      "longitude": 114.80283
+    },
+    {
+      "id": 1800160,
+      "name": "Nanchang Shi",
+      "nativeName": "Nanchang Shi",
+      "code": "CN-JX-1800160",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-JX",
+      "latitude": 28.93155,
+      "longitude": 115.9747
+    },
+    {
+      "id": 1798652,
+      "name": "Pingxiang Shi",
+      "nativeName": "Pingxiang Shi",
+      "code": "CN-JX-1798652",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-JX",
+      "latitude": 27.57813,
+      "longitude": 113.87009
+    },
+    {
+      "id": 1796129,
+      "name": "Shangrao Shi",
+      "nativeName": "Shangrao Shi",
+      "code": "CN-JX-1796129",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-JX",
+      "latitude": 28.67426,
+      "longitude": 117.47098
+    },
+    {
+      "id": 9072903,
+      "name": "Xinyu",
+      "nativeName": "Xinyu",
+      "code": "CN-JX-9072903",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-JX",
+      "latitude": 27.795,
+      "longitude": 114.92417
+    },
+    {
+      "id": 1786745,
+      "name": "Yichun Shi",
+      "nativeName": "Yichun Shi",
+      "code": "CN-JX-1786745",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-JX",
+      "latitude": 28.38765,
+      "longitude": 114.9442
+    },
+    {
+      "id": 1786576,
+      "name": "Yingtan Shi",
+      "nativeName": "Yingtan Shi",
+      "code": "CN-JX-1786576",
+      "countryId": 1814991,
+      "countryCode": "CN",
+      "stateCode": "CN-JX",
+      "latitude": 28.2099,
+      "longitude": 117.10565
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "stateId": 11288213,
+  "stateCode": "CD-HK",
+  "countryCode": "CD",
+  "cities": [
+    {
+      "id": 9179191,
+      "name": "Kambove Ville",
+      "nativeName": "Kambove Ville",
+      "code": "CD-HK-9179191",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-HK",
+      "latitude": -10.8666,
+      "longitude": 26.6333
+    },
+    {
+      "id": 12278068,
+      "name": "Kasenga",
+      "nativeName": "Kasenga",
+      "code": "CD-HK-12278068",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-HK",
+      "latitude": -10.44769,
+      "longitude": 27.97096
+    },
+    {
+      "id": 9179188,
+      "name": "Kipushi Ville",
+      "nativeName": "Kipushi Ville",
+      "code": "CD-HK-9179188",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-HK",
+      "latitude": -11.7665,
+      "longitude": 27.2335
+    },
+    {
+      "id": 9179195,
+      "name": "Likasi",
+      "nativeName": "Likasi",
+      "code": "CD-HK-9179195",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-HK",
+      "latitude": -10.98333,
+      "longitude": 26.73333
+    },
+    {
+      "id": 9165800,
+      "name": "Lubumbashi (city)",
+      "nativeName": "Lubumbashi (city)",
+      "code": "CD-HK-9165800",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-HK",
+      "latitude": -11.72207,
+      "longitude": 27.5173
+    },
+    {
+      "id": 12278130,
+      "name": "Mitwaba",
+      "nativeName": "Mitwaba",
+      "code": "CD-HK-12278130",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-HK",
+      "latitude": -9.20272,
+      "longitude": 27.1939
+    },
+    {
+      "id": 12278141,
+      "name": "Pweto",
+      "nativeName": "Pweto",
+      "code": "CD-HK-12278141",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-HK",
+      "latitude": -8.64674,
+      "longitude": 28.51075
+    },
+    {
+      "id": 12278143,
+      "name": "Sakania",
+      "nativeName": "Sakania",
+      "code": "CD-HK-12278143",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-HK",
+      "latitude": -12.56976,
+      "longitude": 28.92348
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "stateId": 292673,
+  "stateCode": "AE-SH",
+  "countryCode": "AE",
+  "cities": [
+    {
+      "id": 12060404,
+      "name": "Al Batayih",
+      "nativeName": "Al Batayih",
+      "code": "AE-SH-12060404",
+      "countryId": 290557,
+      "countryCode": "AE",
+      "stateCode": "AE-SH",
+      "latitude": 25.22317,
+      "longitude": 55.74272
+    },
+    {
+      "id": 12060401,
+      "name": "Al Hamriyah",
+      "nativeName": "Al Hamriyah",
+      "code": "AE-SH-12060401",
+      "countryId": 290557,
+      "countryCode": "AE",
+      "stateCode": "AE-SH",
+      "latitude": 25.46121,
+      "longitude": 55.54813
+    },
+    {
+      "id": 12060399,
+      "name": "Al Madam",
+      "nativeName": "Al Madam",
+      "code": "AE-SH-12060399",
+      "countryId": 290557,
+      "countryCode": "AE",
+      "stateCode": "AE-SH",
+      "latitude": 24.95536,
+      "longitude": 55.7682
+    },
+    {
+      "id": 12060391,
+      "name": "Dhaid",
+      "nativeName": "Dhaid",
+      "code": "AE-SH-12060391",
+      "countryId": 290557,
+      "countryCode": "AE",
+      "stateCode": "AE-SH",
+      "latitude": 25.26951,
+      "longitude": 55.92024
+    },
+    {
+      "id": 12060394,
+      "name": "Dibba Al Hesn",
+      "nativeName": "Dibba Al Hesn",
+      "code": "AE-SH-12060394",
+      "countryId": 290557,
+      "countryCode": "AE",
+      "stateCode": "AE-SH",
+      "latitude": 25.61593,
+      "longitude": 56.26899
+    },
+    {
+      "id": 12060395,
+      "name": "Kalba",
+      "nativeName": "Kalba",
+      "code": "AE-SH-12060395",
+      "countryId": 290557,
+      "countryCode": "AE",
+      "stateCode": "AE-SH",
+      "latitude": 24.99816,
+      "longitude": 56.27207
+    },
+    {
+      "id": 12060393,
+      "name": "Khor Fakkan",
+      "nativeName": "Khor Fakkan",
+      "code": "AE-SH-12060393",
+      "countryId": 290557,
+      "countryCode": "AE",
+      "stateCode": "AE-SH",
+      "latitude": 25.33966,
+      "longitude": 56.3028
+    },
+    {
+      "id": 12060398,
+      "name": "Milehah",
+      "nativeName": "Milehah",
+      "code": "AE-SH-12060398",
+      "countryId": 290557,
+      "countryCode": "AE",
+      "stateCode": "AE-SH",
+      "latitude": 25.10097,
+      "longitude": 55.91282
+    },
+    {
+      "id": 12060400,
+      "name": "Sharjah",
+      "nativeName": "Sharjah",
+      "code": "AE-SH-12060400",
+      "countryId": 290557,
+      "countryCode": "AE",
+      "stateCode": "AE-SH",
+      "latitude": 25.33446,
+      "longitude": 55.50852
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "stateId": 1569805,
+  "stateCode": "VN-32",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 11497328,
+      "name": "Huyện Phú Hoà",
+      "nativeName": "Huyện Phú Hoà",
+      "code": "VN-32-11497328",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-32",
+      "latitude": 13.09668,
+      "longitude": 109.2271
+    },
+    {
+      "id": 11497330,
+      "name": "Huyện Tây Hoà",
+      "nativeName": "Huyện Tây Hoà",
+      "code": "VN-32-11497330",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-32",
+      "latitude": 12.9465,
+      "longitude": 109.24393
+    },
+    {
+      "id": 1905655,
+      "name": "Sông Hinh District",
+      "nativeName": "Huyện Sông Hinh",
+      "code": "VN-32-1905655",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-32",
+      "latitude": 12.91667,
+      "longitude": 108.91667
+    },
+    {
+      "id": 1905656,
+      "name": "Sơn Hòa District",
+      "nativeName": "Huyện Sơn Hòa",
+      "code": "VN-32-1905656",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-32",
+      "latitude": 13.15868,
+      "longitude": 108.97281
+    },
+    {
+      "id": 1905653,
+      "name": "Thành Phố Tuy Hòa",
+      "nativeName": "Thành Phố Tuy Hòa",
+      "code": "VN-32-1905653",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-32",
+      "latitude": 13.10451,
+      "longitude": 109.28177
+    },
+    {
+      "id": 1905658,
+      "name": "Thị Xã Sông Cầu",
+      "nativeName": "Thị Xã Sông Cầu",
+      "code": "VN-32-1905658",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-32",
+      "latitude": 13.5261,
+      "longitude": 109.18634
+    },
+    {
+      "id": 1905657,
+      "name": "Tuy An District",
+      "nativeName": "Huyện Tuy An",
+      "code": "VN-32-1905657",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-32",
+      "latitude": 13.25067,
+      "longitude": 109.206
+    },
+    {
+      "id": 8719342,
+      "name": "Đông Hòa District",
+      "nativeName": "Thị Xã Đông Hòa",
+      "code": "VN-32-8719342",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-32",
+      "latitude": 12.94521,
+      "longitude": 109.35225
+    },
+    {
+      "id": 1905659,
+      "name": "Đồng Xuân District",
+      "nativeName": "Huyện Đồng Xuân",
+      "code": "VN-32-1905659",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-32",
+      "latitude": 13.41484,
+      "longitude": 108.98458
+    }
+  ]
+}

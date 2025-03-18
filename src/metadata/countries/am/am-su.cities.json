@@ -1,0 +1,84 @@
+{
+  "stateId": 409314,
+  "stateCode": "AM-SU",
+  "countryCode": "AM",
+  "cities": [
+    {
+      "id": 13133005,
+      "name": "Goris Municipality",
+      "nativeName": "Goris Municipality",
+      "code": "AM-SU-13133005",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-SU",
+      "latitude": 39.48222,
+      "longitude": 46.37757
+    },
+    {
+      "id": 13133008,
+      "name": "Kajaran Municipality",
+      "nativeName": "Kajaran Municipality",
+      "code": "AM-SU-13133008",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-SU",
+      "latitude": 39.16835,
+      "longitude": 46.16619
+    },
+    {
+      "id": 13133004,
+      "name": "Kapan Municipality",
+      "nativeName": "Kapan Municipality",
+      "code": "AM-SU-13133004",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-SU",
+      "latitude": 39.17157,
+      "longitude": 46.41229
+    },
+    {
+      "id": 13133006,
+      "name": "Meghri Municipality",
+      "nativeName": "Meghri Municipality",
+      "code": "AM-SU-13133006",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-SU",
+      "latitude": 38.97504,
+      "longitude": 46.30841
+    },
+    {
+      "id": 13133007,
+      "name": "Sisian Municipality",
+      "nativeName": "Sisian Municipality",
+      "code": "AM-SU-13133007",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-SU",
+      "latitude": 39.5692,
+      "longitude": 45.96927
+    },
+    {
+      "id": 13133009,
+      "name": "Tatev Municipality",
+      "nativeName": "Tatev Municipality",
+      "code": "AM-SU-13133009",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-SU",
+      "latitude": 39.41159,
+      "longitude": 46.2393
+    },
+    {
+      "id": 13133010,
+      "name": "Tegh Municipality",
+      "nativeName": "Tegh Municipality",
+      "code": "AM-SU-13133010",
+      "countryId": 174982,
+      "countryCode": "AM",
+      "stateCode": "AM-SU",
+      "latitude": 39.56394,
+      "longitude": 46.42752
+    }
+  ]
+}

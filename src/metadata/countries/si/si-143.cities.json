@@ -1,0 +1,106 @@
+{
+  "stateId": 3239247,
+  "stateCode": "SI-143",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3186705,
+      "name": "Zavrč",
+      "nativeName": "Zavrč",
+      "code": "SI-143-3186705",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-143",
+      "latitude": 46.39167,
+      "longitude": 16.04972
+    },
+    {
+      "id": 8989802,
+      "name": "Belski Vrh",
+      "nativeName": "Belski Vrh",
+      "code": "SI-143-8989802",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-143",
+      "latitude": 46.36488,
+      "longitude": 16.02386
+    },
+    {
+      "id": 8988243,
+      "name": "Drenovec",
+      "nativeName": "Drenovec",
+      "code": "SI-143-8988243",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-143",
+      "latitude": 46.34616,
+      "longitude": 16.07155
+    },
+    {
+      "id": 8987991,
+      "name": "Gorenjski Vrh",
+      "nativeName": "Gorenjski Vrh",
+      "code": "SI-143-8987991",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-143",
+      "latitude": 46.35882,
+      "longitude": 16.03469
+    },
+    {
+      "id": 8987276,
+      "name": "Goričak",
+      "nativeName": "Goričak",
+      "code": "SI-143-8987276",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-143",
+      "latitude": 46.36539,
+      "longitude": 16.06523
+    },
+    {
+      "id": 3199293,
+      "name": "Hrastovec",
+      "nativeName": "Hrastovec",
+      "code": "SI-143-3199293",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-143",
+      "latitude": 46.37472,
+      "longitude": 16.03722
+    },
+    {
+      "id": 8987673,
+      "name": "Korenjak",
+      "nativeName": "Korenjak",
+      "code": "SI-143-8987673",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-143",
+      "latitude": 46.34186,
+      "longitude": 16.04442
+    },
+    {
+      "id": 8987594,
+      "name": "Pestike",
+      "nativeName": "Pestike",
+      "code": "SI-143-8987594",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-143",
+      "latitude": 46.34903,
+      "longitude": 16.03596
+    },
+    {
+      "id": 8986964,
+      "name": "Turški Vrh",
+      "nativeName": "Turški Vrh",
+      "code": "SI-143-8986964",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-143",
+      "latitude": 46.35543,
+      "longitude": 16.05759
+    }
+  ]
+}

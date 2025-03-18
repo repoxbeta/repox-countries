@@ -1,0 +1,106 @@
+{
+  "stateId": 170652,
+  "stateCode": "SY-RD",
+  "countryCode": "SY",
+  "cities": [
+    {
+      "id": 173194,
+      "name": "Al-Nabk District",
+      "nativeName": "Al-Nabk District",
+      "code": "SY-RD-173194",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-RD",
+      "latitude": 34.08307,
+      "longitude": 36.71223
+    },
+    {
+      "id": 173313,
+      "name": "Al-Qutayfah District",
+      "nativeName": "Al-Qutayfah District",
+      "code": "SY-RD-173313",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-RD",
+      "latitude": 33.80798,
+      "longitude": 36.86081
+    },
+    {
+      "id": 172350,
+      "name": "Al-Tall District",
+      "nativeName": "Al-Tall District",
+      "code": "SY-RD-172350",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-RD",
+      "latitude": 33.71795,
+      "longitude": 36.32785
+    },
+    {
+      "id": 172060,
+      "name": "Al-Zabadani District",
+      "nativeName": "Al-Zabadani District",
+      "code": "SY-RD-172060",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-RD",
+      "latitude": 33.70819,
+      "longitude": 36.11198
+    },
+    {
+      "id": 8276862,
+      "name": "Darayya District",
+      "nativeName": "Darayya District",
+      "code": "SY-RD-8276862",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-RD",
+      "latitude": 33.4991,
+      "longitude": 36.19116
+    },
+    {
+      "id": 170590,
+      "name": "Douma District",
+      "nativeName": "Douma District",
+      "code": "SY-RD-170590",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-RD",
+      "latitude": 33.43262,
+      "longitude": 37.63855
+    },
+    {
+      "id": 8540234,
+      "name": "Markaz Rif Dimashq District",
+      "nativeName": "Markaz Rif Dimashq District",
+      "code": "SY-RD-8540234",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-RD",
+      "latitude": 33.34658,
+      "longitude": 36.28752
+    },
+    {
+      "id": 165928,
+      "name": "Qatana District",
+      "nativeName": "Qatana District",
+      "code": "SY-RD-165928",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-RD",
+      "latitude": 33.38916,
+      "longitude": 36.0036
+    },
+    {
+      "id": 7895152,
+      "name": "Yabrud District",
+      "nativeName": "Yabrud District",
+      "code": "SY-RD-7895152",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-RD",
+      "latitude": 33.95305,
+      "longitude": 36.44595
+    }
+  ]
+}

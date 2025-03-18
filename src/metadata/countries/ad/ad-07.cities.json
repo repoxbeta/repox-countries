@@ -1,0 +1,62 @@
+{
+  "stateId": 3041566,
+  "stateCode": "AD-07",
+  "countryCode": "AD",
+  "cities": [
+    {
+      "id": 3041563,
+      "name": "Andorra la Vella",
+      "nativeName": "Andorra la Vella",
+      "code": "AD-07-3041563",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-07",
+      "latitude": 42.50779,
+      "longitude": 1.52109
+    },
+    {
+      "id": 11945537,
+      "name": "La Comella",
+      "nativeName": "La Comella",
+      "code": "AD-07-11945537",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-07",
+      "latitude": 42.50117,
+      "longitude": 1.52879
+    },
+    {
+      "id": 7302102,
+      "name": "La Margineda",
+      "nativeName": "La Margineda",
+      "code": "AD-07-7302102",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-07",
+      "latitude": 42.48599,
+      "longitude": 1.49024
+    },
+    {
+      "id": 3039181,
+      "name": "Santa Coloma",
+      "nativeName": "Santa Coloma",
+      "code": "AD-07-3039181",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-07",
+      "latitude": 42.49454,
+      "longitude": 1.49897
+    },
+    {
+      "id": 3038899,
+      "name": "Tossalet i Vinyals",
+      "nativeName": "Tossalet i Vinyals",
+      "code": "AD-07-3038899",
+      "countryId": 3041565,
+      "countryCode": "AD",
+      "stateCode": "AD-07",
+      "latitude": 42.48597,
+      "longitude": 1.4891
+    }
+  ]
+}

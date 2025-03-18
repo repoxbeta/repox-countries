@@ -1,0 +1,29 @@
+{
+  "stateId": 933230,
+  "stateCode": "BW-NW",
+  "countryCode": "BW",
+  "cities": [
+    {
+      "id": 11819284,
+      "name": "Ngamiland East",
+      "nativeName": "Ngamiland East",
+      "code": "BW-NW-11819284",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "stateCode": "BW-NW",
+      "latitude": -19.73734,
+      "longitude": 23.68934
+    },
+    {
+      "id": 11819296,
+      "name": "Ngamiland West",
+      "nativeName": "Ngamiland West",
+      "code": "BW-NW-11819296",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "stateCode": "BW-NW",
+      "latitude": -19.49883,
+      "longitude": 21.94861
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "stateId": 7521415,
+  "stateCode": "NC-L",
+  "countryCode": "NC",
+  "cities": [
+    {
+      "id": 2140391,
+      "name": "Lifou",
+      "nativeName": "Lifou",
+      "code": "NC-L-2140391",
+      "countryId": 2139685,
+      "countryCode": "NC",
+      "stateCode": "NC-L",
+      "latitude": -20.96667,
+      "longitude": 167.25
+    },
+    {
+      "id": 2140297,
+      "name": "Maré",
+      "nativeName": "Maré",
+      "code": "NC-L-2140297",
+      "countryId": 2139685,
+      "countryCode": "NC",
+      "stateCode": "NC-L",
+      "latitude": -21.49109,
+      "longitude": 167.99744
+    },
+    {
+      "id": 2139030,
+      "name": "Ouvéa",
+      "nativeName": "Ouvéa",
+      "code": "NC-L-2139030",
+      "countryId": 2139685,
+      "countryCode": "NC",
+      "stateCode": "NC-L",
+      "latitude": -20.6617,
+      "longitude": 166.55308
+    }
+  ]
+}

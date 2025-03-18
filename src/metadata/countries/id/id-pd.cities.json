@@ -1,0 +1,73 @@
+{
+  "stateId": 12503510,
+  "stateCode": "ID-PD",
+  "countryCode": "ID",
+  "cities": [
+    {
+      "id": 9828956,
+      "name": "Maybrat Regency",
+      "nativeName": "Kabupaten Maybrat",
+      "code": "ID-PD-9828956",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-PD",
+      "latitude": -1.2155,
+      "longitude": 132.35092
+    },
+    {
+      "id": 1630210,
+      "name": "Raja Ampat Regency",
+      "nativeName": "Kabupaten Raja Ampat",
+      "code": "ID-PD-1630210",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-PD",
+      "latitude": -1.86521,
+      "longitude": 130.06648
+    },
+    {
+      "id": 9845465,
+      "name": "Sorong City",
+      "nativeName": "Kota Sorong",
+      "code": "ID-PD-9845465",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-PD",
+      "latitude": -0.86507,
+      "longitude": 131.25152
+    },
+    {
+      "id": 1626541,
+      "name": "Sorong Regency",
+      "nativeName": "Kabupaten Sorong",
+      "code": "ID-PD-1626541",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-PD",
+      "latitude": -1.1,
+      "longitude": 131.51667
+    },
+    {
+      "id": 7910924,
+      "name": "South Sorong Regency",
+      "nativeName": "Kabupaten Sorong Selatan",
+      "code": "ID-PD-7910924",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-PD",
+      "latitude": -1.50495,
+      "longitude": 132.28638
+    },
+    {
+      "id": 9845477,
+      "name": "Tambrauw Regency",
+      "nativeName": "Kabupaten Tambrauw",
+      "code": "ID-PD-9845477",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-PD",
+      "latitude": -0.60515,
+      "longitude": 132.48962
+    }
+  ]
+}

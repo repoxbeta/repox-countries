@@ -1,0 +1,62 @@
+{
+  "stateId": 7521303,
+  "stateCode": "PH-40",
+  "countryCode": "PH",
+  "cities": [
+    {
+      "id": 1726279,
+      "name": "Province of Batangas",
+      "nativeName": "Province of Batangas",
+      "code": "PH-40-1726279",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-40",
+      "latitude": 13.91667,
+      "longitude": 121.08333
+    },
+    {
+      "id": 1717639,
+      "name": "Province of Cavite",
+      "nativeName": "Province of Cavite",
+      "code": "PH-40-1717639",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-40",
+      "latitude": 14.25,
+      "longitude": 120.83333
+    },
+    {
+      "id": 1708026,
+      "name": "Province of Laguna",
+      "nativeName": "Province of Laguna",
+      "code": "PH-40-1708026",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-40",
+      "latitude": 14.16667,
+      "longitude": 121.33333
+    },
+    {
+      "id": 1691591,
+      "name": "Province of Rizal",
+      "nativeName": "Province of Rizal",
+      "code": "PH-40-1691591",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-40",
+      "latitude": 14.58333,
+      "longitude": 121.16667
+    },
+    {
+      "id": 1692194,
+      "name": "Quezon",
+      "nativeName": "Province of Quezon",
+      "code": "PH-40-1692194",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-40",
+      "latitude": 14.66667,
+      "longitude": 121.5
+    }
+  ]
+}

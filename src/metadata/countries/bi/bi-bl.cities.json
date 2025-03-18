@@ -1,0 +1,106 @@
+{
+  "stateId": 7303940,
+  "stateCode": "BI-BL",
+  "countryCode": "BI",
+  "cities": [
+    {
+      "id": 7670608,
+      "name": "Commune of Mutimbuzi",
+      "nativeName": "Commune of Mutimbuzi",
+      "code": "BI-BL-7670608",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-BL",
+      "latitude": -3.293,
+      "longitude": 29.325
+    },
+    {
+      "id": 9171821,
+      "name": "Isale",
+      "nativeName": "Isale",
+      "code": "BI-BL-9171821",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-BL",
+      "latitude": -3.36344,
+      "longitude": 29.47045
+    },
+    {
+      "id": 9171806,
+      "name": "Kabezi",
+      "nativeName": "Kabezi",
+      "code": "BI-BL-9171806",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-BL",
+      "latitude": -3.5311,
+      "longitude": 29.36997
+    },
+    {
+      "id": 9171805,
+      "name": "Kanyosha1",
+      "nativeName": "Kanyosha1",
+      "code": "BI-BL-9171805",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-BL",
+      "latitude": -3.43097,
+      "longitude": 29.41531
+    },
+    {
+      "id": 9171825,
+      "name": "Mubimbi",
+      "nativeName": "Mubimbi",
+      "code": "BI-BL-9171825",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-BL",
+      "latitude": -3.29574,
+      "longitude": 29.48403
+    },
+    {
+      "id": 9171815,
+      "name": "Mugongomanga",
+      "nativeName": "Mugongomanga",
+      "code": "BI-BL-9171815",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-BL",
+      "latitude": -3.44141,
+      "longitude": 29.54853
+    },
+    {
+      "id": 9171807,
+      "name": "Mukike",
+      "nativeName": "Mukike",
+      "code": "BI-BL-9171807",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-BL",
+      "latitude": -3.56457,
+      "longitude": 29.51392
+    },
+    {
+      "id": 9171808,
+      "name": "Mutambu",
+      "nativeName": "Mutambu",
+      "code": "BI-BL-9171808",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-BL",
+      "latitude": -3.5285,
+      "longitude": 29.43279
+    },
+    {
+      "id": 9171809,
+      "name": "Nyabiraba",
+      "nativeName": "Nyabiraba",
+      "code": "BI-BL-9171809",
+      "countryId": 433561,
+      "countryCode": "BI",
+      "stateCode": "BI-BL",
+      "latitude": -3.45759,
+      "longitude": 29.47524
+    }
+  ]
+}

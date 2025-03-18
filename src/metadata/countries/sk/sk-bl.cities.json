@@ -1,0 +1,95 @@
+{
+  "stateId": 3343955,
+  "stateCode": "SK-BL",
+  "countryCode": "SK",
+  "cities": [
+    {
+      "id": 8986291,
+      "name": "Malacky District",
+      "nativeName": "Okres Malacky",
+      "code": "SK-BL-8986291",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-BL",
+      "latitude": 48.43458,
+      "longitude": 17.02166
+    },
+    {
+      "id": 8986283,
+      "name": "Okres Bratislava I",
+      "nativeName": "Okres Bratislava I",
+      "code": "SK-BL-8986283",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-BL",
+      "latitude": 48.14653,
+      "longitude": 17.10584
+    },
+    {
+      "id": 8986339,
+      "name": "Okres Bratislava II",
+      "nativeName": "Okres Bratislava II",
+      "code": "SK-BL-8986339",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-BL",
+      "latitude": 48.1528,
+      "longitude": 17.17764
+    },
+    {
+      "id": 8986340,
+      "name": "Okres Bratislava III",
+      "nativeName": "Okres Bratislava III",
+      "code": "SK-BL-8986340",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-BL",
+      "latitude": 48.18543,
+      "longitude": 17.1379
+    },
+    {
+      "id": 8986341,
+      "name": "Okres Bratislava IV",
+      "nativeName": "Okres Bratislava IV",
+      "code": "SK-BL-8986341",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-BL",
+      "latitude": 48.22787,
+      "longitude": 16.99722
+    },
+    {
+      "id": 8986342,
+      "name": "Okres Bratislava V",
+      "nativeName": "Okres Bratislava V",
+      "code": "SK-BL-8986342",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-BL",
+      "latitude": 48.11122,
+      "longitude": 17.09444
+    },
+    {
+      "id": 8986294,
+      "name": "Pezinok District",
+      "nativeName": "Okres Pezinok",
+      "code": "SK-BL-8986294",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-BL",
+      "latitude": 48.28785,
+      "longitude": 17.26799
+    },
+    {
+      "id": 8986302,
+      "name": "Senec District",
+      "nativeName": "Okres Senec",
+      "code": "SK-BL-8986302",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-BL",
+      "latitude": 48.22187,
+      "longitude": 17.40328
+    }
+  ]
+}

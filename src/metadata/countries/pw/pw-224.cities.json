@@ -1,0 +1,29 @@
+{
+  "stateId": 1559532,
+  "stateCode": "PW-224",
+  "countryCode": "PW",
+  "cities": [
+    {
+      "id": 1559820,
+      "name": "Ngereklmadel",
+      "nativeName": "Ngereklmadel",
+      "code": "PW-224-1559820",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-224",
+      "latitude": 7.48826,
+      "longitude": 134.48562
+    },
+    {
+      "id": 4038053,
+      "name": "Ngereklmadel",
+      "nativeName": "Ngereklmadel",
+      "code": "PW-224-4038053",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-224",
+      "latitude": 7.48822,
+      "longitude": 134.4848
+    }
+  ]
+}

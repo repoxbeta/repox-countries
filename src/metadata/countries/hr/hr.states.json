@@ -1,0 +1,237 @@
+{
+  "countryId": 3202326,
+  "countryCode": "HR",
+  "states": [
+    {
+      "id": 3337511,
+      "name": "Bjelovar-Bilogora",
+      "nativeName": "Bjelovar-Bilogora County",
+      "code": "HR-07",
+      "internalCode": "07",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "latitude": 45.66667,
+      "longitude": 17
+    },
+    {
+      "id": 3337512,
+      "name": "Brod-Posavina",
+      "nativeName": "Brod-Posavina County",
+      "code": "HR-12",
+      "internalCode": "12",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "latitude": 45.16667,
+      "longitude": 17.75
+    },
+    {
+      "id": 3337522,
+      "name": "County of Osijek-Baranja",
+      "nativeName": "Osijek-Baranja County",
+      "code": "HR-14",
+      "internalCode": "14",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "latitude": 45.53997,
+      "longitude": 18.62977
+    },
+    {
+      "id": 3337513,
+      "name": "Dubrovnik-Neretva",
+      "nativeName": "Dubrovnik-Neretva County",
+      "code": "HR-19",
+      "internalCode": "19",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "latitude": 42.65361,
+      "longitude": 18.09472
+    },
+    {
+      "id": 3337514,
+      "name": "Istria",
+      "nativeName": "Istria County",
+      "code": "HR-18",
+      "internalCode": "18",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "latitude": 45.25,
+      "longitude": 13.91667
+    },
+    {
+      "id": 3337515,
+      "name": "Karlovac",
+      "nativeName": "Karlovac County",
+      "code": "HR-04",
+      "internalCode": "04",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "latitude": 45.33333,
+      "longitude": 15.58333
+    },
+    {
+      "id": 3337518,
+      "name": "Koprivnica-Križevci",
+      "nativeName": "Koprivnica-Križevci County",
+      "code": "HR-06",
+      "internalCode": "06",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "latitude": 46.16667,
+      "longitude": 16.83333
+    },
+    {
+      "id": 3337519,
+      "name": "Krapina-Zagorje",
+      "nativeName": "Krapina-Zagorje County",
+      "code": "HR-02",
+      "internalCode": "02",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "latitude": 46.08333,
+      "longitude": 16
+    },
+    {
+      "id": 3337520,
+      "name": "Lika-Senj",
+      "nativeName": "Lika-Senj County",
+      "code": "HR-09",
+      "internalCode": "09",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "latitude": 44.66667,
+      "longitude": 15.41667
+    },
+    {
+      "id": 3337521,
+      "name": "Međimurje",
+      "nativeName": "Međimurje County",
+      "code": "HR-20",
+      "internalCode": "20",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "latitude": 46.41667,
+      "longitude": 16.5
+    },
+    {
+      "id": 3337523,
+      "name": "Požega-Slavonia",
+      "nativeName": "Požega-Slavonia County",
+      "code": "HR-11",
+      "internalCode": "11",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "latitude": 45.41667,
+      "longitude": 17.66667
+    },
+    {
+      "id": 3337524,
+      "name": "Primorje-Gorski Kotar",
+      "nativeName": "Primorje-Gorski Kotar County",
+      "code": "HR-08",
+      "internalCode": "08",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "latitude": 45.454,
+      "longitude": 14.594
+    },
+    {
+      "id": 3337526,
+      "name": "Sisak-Moslavina",
+      "nativeName": "Sisak-Moslavina County",
+      "code": "HR-03",
+      "internalCode": "03",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "latitude": 45.41667,
+      "longitude": 16.5
+    },
+    {
+      "id": 3337527,
+      "name": "Split-Dalmatia",
+      "nativeName": "Split-Dalmatia County",
+      "code": "HR-17",
+      "internalCode": "17",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "latitude": 43.16667,
+      "longitude": 16.5
+    },
+    {
+      "id": 3337528,
+      "name": "Varaždin",
+      "nativeName": "Varaždin County",
+      "code": "HR-05",
+      "internalCode": "05",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "latitude": 46.25,
+      "longitude": 16.33333
+    },
+    {
+      "id": 3337533,
+      "name": "Virovitica-Podravina",
+      "nativeName": "Virovitica-Podravina County",
+      "code": "HR-10",
+      "internalCode": "10",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "latitude": 45.75,
+      "longitude": 17.58333
+    },
+    {
+      "id": 3337529,
+      "name": "Vukovar-Srijem",
+      "nativeName": "Vukovar-Srijem County",
+      "code": "HR-16",
+      "internalCode": "16",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "latitude": 45.16667,
+      "longitude": 18.91667
+    },
+    {
+      "id": 3337530,
+      "name": "Zadar",
+      "nativeName": "Zadar County",
+      "code": "HR-13",
+      "internalCode": "13",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "latitude": 44.08333,
+      "longitude": 15.33333
+    },
+    {
+      "id": 3337532,
+      "name": "Zagreb",
+      "nativeName": "City of Zagreb",
+      "code": "HR-21",
+      "internalCode": "21",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "latitude": 45.81307,
+      "longitude": 15.9773
+    },
+    {
+      "id": 3337531,
+      "name": "Zagreb County",
+      "nativeName": "Zagreb County",
+      "code": "HR-01",
+      "internalCode": "01",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "latitude": 45.75,
+      "longitude": 16.08333
+    },
+    {
+      "id": 3337525,
+      "name": "Šibenik-Knin",
+      "nativeName": "Šibenik-Knin County",
+      "code": "HR-15",
+      "internalCode": "15",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "latitude": 43.83333,
+      "longitude": 15.91667
+    }
+  ]
+}

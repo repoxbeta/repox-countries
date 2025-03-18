@@ -1,0 +1,73 @@
+{
+  "stateId": 689559,
+  "stateCode": "UA-05",
+  "countryCode": "UA",
+  "cities": [
+    {
+      "id": 708899,
+      "name": "Haisyn Raion",
+      "nativeName": "Haysyn Raion",
+      "code": "UA-05-708899",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-05",
+      "latitude": 48.81054,
+      "longitude": 29.38866
+    },
+    {
+      "id": 706374,
+      "name": "Khmilnyk Raion",
+      "nativeName": "Khmilnyk Raion",
+      "code": "UA-05-706374",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-05",
+      "latitude": 49.55868,
+      "longitude": 27.9554
+    },
+    {
+      "id": 700917,
+      "name": "Mohyliv-Podilskyi Raion",
+      "nativeName": "Mohyliv-Podilskyy Raion",
+      "code": "UA-05-700917",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-05",
+      "latitude": 48.44189,
+      "longitude": 27.79995
+    },
+    {
+      "id": 691015,
+      "name": "Tulchyn Raion",
+      "nativeName": "Tulchyn Raion",
+      "code": "UA-05-691015",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-05",
+      "latitude": 48.67406,
+      "longitude": 28.86904
+    },
+    {
+      "id": 689560,
+      "name": "Vinnytsya Raion",
+      "nativeName": "Vinnytsya Raion",
+      "code": "UA-05-689560",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-05",
+      "latitude": 49.23338,
+      "longitude": 28.44363
+    },
+    {
+      "id": 687114,
+      "name": "Zhmerynka Raion",
+      "nativeName": "Zhmerynka Raion",
+      "code": "UA-05-687114",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-05",
+      "latitude": 49.03367,
+      "longitude": 28.11488
+    }
+  ]
+}

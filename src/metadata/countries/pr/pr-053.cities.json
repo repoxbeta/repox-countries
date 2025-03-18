@@ -1,0 +1,106 @@
+{
+  "stateId": 4564949,
+  "stateCode": "PR-053",
+  "countryCode": "PR",
+  "cities": [
+    {
+      "id": 7268277,
+      "name": "Cabezas Barrio",
+      "nativeName": "Cabezas Barrio",
+      "code": "PR-053-7268277",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-053",
+      "latitude": 18.36772,
+      "longitude": -65.63278
+    },
+    {
+      "id": 7268147,
+      "name": "Demajagua Barrio",
+      "nativeName": "Demajagua Barrio",
+      "code": "PR-053-7268147",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-053",
+      "latitude": 18.28797,
+      "longitude": -65.65164
+    },
+    {
+      "id": 7268385,
+      "name": "Fajardo Barrio-Pueblo",
+      "nativeName": "Fajardo Barrio-Pueblo",
+      "code": "PR-053-7268385",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-053",
+      "latitude": 18.32891,
+      "longitude": -65.64967
+    },
+    {
+      "id": 7268392,
+      "name": "Florencio Barrio",
+      "nativeName": "Florencio Barrio",
+      "code": "PR-053-7268392",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-053",
+      "latitude": 18.3133,
+      "longitude": -65.67105
+    },
+    {
+      "id": 7268697,
+      "name": "Naranjo Barrio",
+      "nativeName": "Naranjo Barrio",
+      "code": "PR-053-7268697",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-053",
+      "latitude": 18.31588,
+      "longitude": -65.69334
+    },
+    {
+      "id": 7268852,
+      "name": "Quebrada Fajardo Barrio",
+      "nativeName": "Quebrada Fajardo Barrio",
+      "code": "PR-053-7268852",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-053",
+      "latitude": 18.34677,
+      "longitude": -65.66154
+    },
+    {
+      "id": 7268863,
+      "name": "Quebrada Vueltas Barrio",
+      "nativeName": "Quebrada Vueltas Barrio",
+      "code": "PR-053-7268863",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-053",
+      "latitude": 18.30641,
+      "longitude": -65.64475
+    },
+    {
+      "id": 7268891,
+      "name": "Río Arriba Barrio",
+      "nativeName": "Río Arriba Barrio",
+      "code": "PR-053-7268891",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-053",
+      "latitude": 18.28988,
+      "longitude": -65.708
+    },
+    {
+      "id": 7269003,
+      "name": "Sardinera Barrio",
+      "nativeName": "Sardinera Barrio",
+      "code": "PR-053-7269003",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-053",
+      "latitude": 18.34676,
+      "longitude": -65.63963
+    }
+  ]
+}

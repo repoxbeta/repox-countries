@@ -1,0 +1,40 @@
+{
+  "stateId": 7670907,
+  "stateCode": "MG-24",
+  "countryCode": "MG",
+  "cities": [
+    {
+      "id": 11926399,
+      "name": "Iakora",
+      "nativeName": "Iakora",
+      "code": "MG-24-11926399",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-24",
+      "latitude": -23.15346,
+      "longitude": 46.63457
+    },
+    {
+      "id": 11926419,
+      "name": "Ihosy",
+      "nativeName": "Ihosy",
+      "code": "MG-24-11926419",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-24",
+      "latitude": -22.34354,
+      "longitude": 45.8234
+    },
+    {
+      "id": 11926432,
+      "name": "Ivohibe",
+      "nativeName": "Ivohibe",
+      "code": "MG-24-11926432",
+      "countryId": 1062947,
+      "countryCode": "MG",
+      "stateCode": "MG-24",
+      "latitude": -22.52082,
+      "longitude": 46.91601
+    }
+  ]
+}

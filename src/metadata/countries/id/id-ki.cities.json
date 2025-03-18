@@ -1,0 +1,117 @@
+{
+  "stateId": 1641897,
+  "stateCode": "ID-KI",
+  "countryCode": "ID",
+  "cities": [
+    {
+      "id": 9846668,
+      "name": "East Kutai Regency",
+      "nativeName": "Kabupaten Kutai Timur",
+      "code": "ID-KI-9846668",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KI",
+      "latitude": 1.03769,
+      "longitude": 117.83112
+    },
+    {
+      "id": 1649040,
+      "name": "Kabupaten Berau",
+      "nativeName": "Kabupaten Berau",
+      "code": "ID-KI-1649040",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KI",
+      "latitude": 2.02889,
+      "longitude": 117.11833
+    },
+    {
+      "id": 1650526,
+      "name": "Kota Balikpapan",
+      "nativeName": "Kota Balikpapan",
+      "code": "ID-KI-1650526",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KI",
+      "latitude": -1.15,
+      "longitude": 116.86667
+    },
+    {
+      "id": 9821952,
+      "name": "Kota Bontang",
+      "nativeName": "Kota Bontang",
+      "code": "ID-KI-9821952",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KI",
+      "latitude": 0.12526,
+      "longitude": 117.49603
+    },
+    {
+      "id": 1629000,
+      "name": "Kota Samarinda",
+      "nativeName": "Kota Samarinda",
+      "code": "ID-KI-1629000",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KI",
+      "latitude": -0.5,
+      "longitude": 117.14
+    },
+    {
+      "id": 9828039,
+      "name": "Kutai Kartanegara Regency",
+      "nativeName": "Kabupaten Kutai Kartanegara",
+      "code": "ID-KI-9828039",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KI",
+      "latitude": -0.44019,
+      "longitude": 116.98139
+    },
+    {
+      "id": 9849855,
+      "name": "Mahakam Ulu Regency",
+      "nativeName": "Kabupaten Mahakam Hulu",
+      "code": "ID-KI-9849855",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KI",
+      "latitude": 0.37822,
+      "longitude": 115.38048
+    },
+    {
+      "id": 9165729,
+      "name": "North Penajam Paser Regency",
+      "nativeName": "Kabupaten Penajam Paser Utara",
+      "code": "ID-KI-9165729",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KI",
+      "latitude": -1.20333,
+      "longitude": 116.57169
+    },
+    {
+      "id": 9843600,
+      "name": "Paser Regency",
+      "nativeName": "Kabupaten Paser",
+      "code": "ID-KI-9843600",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KI",
+      "latitude": -1.43517,
+      "longitude": 116.23535
+    },
+    {
+      "id": 9828038,
+      "name": "West Kutai Regency",
+      "nativeName": "Kabupaten Kutai Barat",
+      "code": "ID-KI-9828038",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KI",
+      "latitude": -0.59417,
+      "longitude": 115.51575
+    }
+  ]
+}

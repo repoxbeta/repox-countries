@@ -1,0 +1,84 @@
+{
+  "stateId": 886747,
+  "stateCode": "ZW-MS",
+  "countryCode": "ZW",
+  "cities": [
+    {
+      "id": 895268,
+      "name": "Beitbridge District",
+      "nativeName": "Beitbridge District",
+      "code": "ZW-MS-895268",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MS",
+      "latitude": -21.89829,
+      "longitude": 30.07409
+    },
+    {
+      "id": 10800403,
+      "name": "Bulilima District",
+      "nativeName": "Bulilima District",
+      "code": "ZW-MS-10800403",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MS",
+      "latitude": -20.2324,
+      "longitude": 27.651
+    },
+    {
+      "id": 890515,
+      "name": "Gwanda District",
+      "nativeName": "Gwanda District",
+      "code": "ZW-MS-890515",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MS",
+      "latitude": -21.20929,
+      "longitude": 29.17557
+    },
+    {
+      "id": 889793,
+      "name": "Insiza District",
+      "nativeName": "Insiza District",
+      "code": "ZW-MS-889793",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MS",
+      "latitude": -20.26431,
+      "longitude": 29.47392
+    },
+    {
+      "id": 894702,
+      "name": "Mangwe District",
+      "nativeName": "Mangwe District",
+      "code": "ZW-MS-894702",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MS",
+      "latitude": -20.95545,
+      "longitude": 27.98292
+    },
+    {
+      "id": 886636,
+      "name": "Matobo",
+      "nativeName": "Matobo",
+      "code": "ZW-MS-886636",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MS",
+      "latitude": -20.95545,
+      "longitude": 28.49463
+    },
+    {
+      "id": 879611,
+      "name": "Umzingwane District",
+      "nativeName": "Umzingwane District",
+      "code": "ZW-MS-879611",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MS",
+      "latitude": -20.34704,
+      "longitude": 28.94994
+    }
+  ]
+}

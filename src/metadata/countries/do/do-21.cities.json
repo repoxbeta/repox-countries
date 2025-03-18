@@ -1,0 +1,95 @@
+{
+  "stateId": 3493186,
+  "stateCode": "DO-21",
+  "countryCode": "DO",
+  "cities": [
+    {
+      "id": 3512129,
+      "name": "Bajos de Haina",
+      "nativeName": "Bajos de Haina",
+      "code": "DO-21-3512129",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-21",
+      "latitude": 18.41667,
+      "longitude": -70.03333
+    },
+    {
+      "id": 3510638,
+      "name": "Cambita Garabitos",
+      "nativeName": "Cambita Garabitos",
+      "code": "DO-21-3510638",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-21",
+      "latitude": 18.5,
+      "longitude": -70.23333
+    },
+    {
+      "id": 11154558,
+      "name": "Los Cacaos",
+      "nativeName": "Los Cacaos",
+      "code": "DO-21-11154558",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-21",
+      "latitude": 18.59313,
+      "longitude": -70.32508
+    },
+    {
+      "id": 11154556,
+      "name": "Sabana Grande De Palenque",
+      "nativeName": "Sabana Grande De Palenque",
+      "code": "DO-21-11154556",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-21",
+      "latitude": 18.25931,
+      "longitude": -70.16149
+    },
+    {
+      "id": 3493190,
+      "name": "San Cristóbal",
+      "nativeName": "San Cristóbal",
+      "code": "DO-21-3493190",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-21",
+      "latitude": 18.41667,
+      "longitude": -70.13333
+    },
+    {
+      "id": 11154557,
+      "name": "San Gregorio De Nigua",
+      "nativeName": "San Gregorio De Nigua",
+      "code": "DO-21-11154557",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-21",
+      "latitude": 18.35934,
+      "longitude": -70.08223
+    },
+    {
+      "id": 3491953,
+      "name": "Villa Altagracia",
+      "nativeName": "Villa Altagracia",
+      "code": "DO-21-3491953",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-21",
+      "latitude": 18.63333,
+      "longitude": -70.25
+    },
+    {
+      "id": 3491808,
+      "name": "Yaguate",
+      "nativeName": "Yaguate",
+      "code": "DO-21-3491808",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-21",
+      "latitude": 18.33333,
+      "longitude": -70.18333
+    }
+  ]
+}

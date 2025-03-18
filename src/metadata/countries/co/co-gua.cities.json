@@ -1,0 +1,106 @@
+{
+  "stateId": 3681652,
+  "stateCode": "CO-GUA",
+  "countryCode": "CO",
+  "cities": [
+    {
+      "id": 9172378,
+      "name": "Barranco Minas",
+      "nativeName": "Barranco Minas",
+      "code": "CO-GUA-9172378",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-GUA",
+      "latitude": 3.09899,
+      "longitude": -69.58297
+    },
+    {
+      "id": 9172380,
+      "name": "Cacahual",
+      "nativeName": "Cacahual",
+      "code": "CO-GUA-9172380",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-GUA",
+      "latitude": 3.32533,
+      "longitude": -67.62397
+    },
+    {
+      "id": 9172381,
+      "name": "Inírida",
+      "nativeName": "Inírida",
+      "code": "CO-GUA-9172381",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-GUA",
+      "latitude": 2.92409,
+      "longitude": -68.93526
+    },
+    {
+      "id": 9178698,
+      "name": "La Guadalupe",
+      "nativeName": "La Guadalupe",
+      "code": "CO-GUA-9178698",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-GUA",
+      "latitude": 1.39579,
+      "longitude": -67.0015
+    },
+    {
+      "id": 9609521,
+      "name": "Mapiripana",
+      "nativeName": "Mapiripana",
+      "code": "CO-GUA-9609521",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-GUA",
+      "latitude": 2.81003,
+      "longitude": -70.28568
+    },
+    {
+      "id": 9609523,
+      "name": "Morichal",
+      "nativeName": "Morichal",
+      "code": "CO-GUA-9609523",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-GUA",
+      "latitude": 2.4298,
+      "longitude": -69.83284
+    },
+    {
+      "id": 9172382,
+      "name": "Pana Pana",
+      "nativeName": "Pana Pana",
+      "code": "CO-GUA-9172382",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-GUA",
+      "latitude": 1.96249,
+      "longitude": -69.126
+    },
+    {
+      "id": 9172271,
+      "name": "Puerto Colombia",
+      "nativeName": "Puerto Colombia",
+      "code": "CO-GUA-9172271",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-GUA",
+      "latitude": 2.43903,
+      "longitude": -68.16419
+    },
+    {
+      "id": 9609522,
+      "name": "San Felipe",
+      "nativeName": "San Felipe",
+      "code": "CO-GUA-9609522",
+      "countryId": 3686110,
+      "countryCode": "CO",
+      "stateCode": "CO-GUA",
+      "latitude": 2.14321,
+      "longitude": -67.34122
+    }
+  ]
+}

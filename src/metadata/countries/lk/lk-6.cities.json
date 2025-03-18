@@ -1,0 +1,29 @@
+{
+  "stateId": 1232860,
+  "stateCode": "LK-6",
+  "countryCode": "LK",
+  "cities": [
+    {
+      "id": 1237978,
+      "name": "Kurunegala District",
+      "nativeName": "Kurunegala District",
+      "code": "LK-6-1237978",
+      "countryId": 1227603,
+      "countryCode": "LK",
+      "stateCode": "LK-6",
+      "latitude": 7.75,
+      "longitude": 80.25
+    },
+    {
+      "id": 1229292,
+      "name": "Puttalam District",
+      "nativeName": "Puttalam District",
+      "code": "LK-6-1229292",
+      "countryId": 1227603,
+      "countryCode": "LK",
+      "stateCode": "LK-6",
+      "latitude": 8.0454,
+      "longitude": 79.9319
+    }
+  ]
+}

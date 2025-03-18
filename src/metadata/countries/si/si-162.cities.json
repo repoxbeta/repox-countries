@@ -1,0 +1,95 @@
+{
+  "stateId": 3344897,
+  "stateCode": "SI-162",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3199347,
+      "name": "Horjul",
+      "nativeName": "Horjul",
+      "code": "SI-162-3199347",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-162",
+      "latitude": 46.02361,
+      "longitude": 14.29917
+    },
+    {
+      "id": 3197695,
+      "name": "Koreno nad Horjulom",
+      "nativeName": "Koreno nad Horjulom",
+      "code": "SI-162-3197695",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-162",
+      "latitude": 46.03333,
+      "longitude": 14.3
+    },
+    {
+      "id": 8987393,
+      "name": "Ljubgojna",
+      "nativeName": "Ljubgojna",
+      "code": "SI-162-8987393",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-162",
+      "latitude": 46.02242,
+      "longitude": 14.28448
+    },
+    {
+      "id": 3192957,
+      "name": "Podolnica",
+      "nativeName": "Podolnica",
+      "code": "SI-162-3192957",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-162",
+      "latitude": 46.03333,
+      "longitude": 14.33333
+    },
+    {
+      "id": 8988193,
+      "name": "Samotorica",
+      "nativeName": "Samotorica",
+      "code": "SI-162-8988193",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-162",
+      "latitude": 46.03544,
+      "longitude": 14.26285
+    },
+    {
+      "id": 3187111,
+      "name": "Vrzdenec",
+      "nativeName": "Vrzdenec",
+      "code": "SI-162-3187111",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-162",
+      "latitude": 46.02028,
+      "longitude": 14.27083
+    },
+    {
+      "id": 8987227,
+      "name": "Zaklanec",
+      "nativeName": "Zaklanec",
+      "code": "SI-162-8987227",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-162",
+      "latitude": 46.02867,
+      "longitude": 14.318
+    },
+    {
+      "id": 3186697,
+      "name": "Žažar",
+      "nativeName": "Žažar",
+      "code": "SI-162-3186697",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-162",
+      "latitude": 46.00917,
+      "longitude": 14.25806
+    }
+  ]
+}

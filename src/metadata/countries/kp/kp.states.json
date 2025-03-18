@@ -1,0 +1,149 @@
+{
+  "countryId": 1873107,
+  "countryCode": "KP",
+  "states": [
+    {
+      "id": 2045265,
+      "name": "Chagang",
+      "nativeName": "Chagang-do",
+      "code": "KP-04",
+      "internalCode": "04",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "latitude": 40.75,
+      "longitude": 126.5
+    },
+    {
+      "id": 12902703,
+      "name": "Kaesong",
+      "nativeName": "Kaesong",
+      "code": "KP-19",
+      "internalCode": "",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "latitude": 37.98998,
+      "longitude": 126.56732
+    },
+    {
+      "id": 1876101,
+      "name": "Kangwŏn-do",
+      "nativeName": "Kangwŏn-do",
+      "code": "KP-07",
+      "internalCode": "07",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "latitude": 38.73333,
+      "longitude": 127.45
+    },
+    {
+      "id": 12902702,
+      "name": "Nampo",
+      "nativeName": "Nampo",
+      "code": "KP-14",
+      "internalCode": "",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "latitude": 38.75505,
+      "longitude": 125.36389
+    },
+    {
+      "id": 2044245,
+      "name": "North Hamgyong",
+      "nativeName": "North Hamgyong Province",
+      "code": "KP-09",
+      "internalCode": "09",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "latitude": 41.83333,
+      "longitude": 129.41667
+    },
+    {
+      "id": 1876888,
+      "name": "North Hwanghae",
+      "nativeName": "Hwanghae-bukto",
+      "code": "KP-06",
+      "internalCode": "06",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "latitude": 38.56667,
+      "longitude": 126.3
+    },
+    {
+      "id": 1871954,
+      "name": "North Pyongan",
+      "nativeName": "North Pyongan",
+      "code": "KP-03",
+      "internalCode": "03",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "latitude": 40.05,
+      "longitude": 125.26667
+    },
+    {
+      "id": 1871856,
+      "name": "Pyongyang",
+      "nativeName": "Pyongyang",
+      "code": "KP-01",
+      "internalCode": "01",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "latitude": 39.13333,
+      "longitude": 125.91667
+    },
+    {
+      "id": 2054927,
+      "name": "Rason",
+      "nativeName": "Rason",
+      "code": "KP-13",
+      "internalCode": "13",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "latitude": 42.33611,
+      "longitude": 130.36639
+    },
+    {
+      "id": 2039332,
+      "name": "Ryanggang",
+      "nativeName": "Ryanggang",
+      "code": "KP-10",
+      "internalCode": "10",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "latitude": 41.2,
+      "longitude": 128.2
+    },
+    {
+      "id": 1877450,
+      "name": "South Hamgyong",
+      "nativeName": "South Hamgyong",
+      "code": "KP-08",
+      "internalCode": "08",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "latitude": 40.23333,
+      "longitude": 127.75
+    },
+    {
+      "id": 1876884,
+      "name": "South Hwanghae",
+      "nativeName": "Hwanghae-namdo",
+      "code": "KP-05",
+      "internalCode": "05",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "latitude": 38.2,
+      "longitude": 125.53333
+    },
+    {
+      "id": 1871952,
+      "name": "South Pyongan",
+      "nativeName": "South Pyongan",
+      "code": "KP-02",
+      "internalCode": "02",
+      "countryId": 1873107,
+      "countryCode": "KP",
+      "latitude": 39.5,
+      "longitude": 126.16667
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "stateId": 3239237,
+  "stateCode": "SI-107",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3191578,
+      "name": "Rogatec",
+      "nativeName": "Rogatec",
+      "code": "SI-107-3191578",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-107",
+      "latitude": 46.22944,
+      "longitude": 15.70028
+    },
+    {
+      "id": 8988407,
+      "name": "Brezovec pri Rogatcu",
+      "nativeName": "Brezovec pri Rogatcu",
+      "code": "SI-107-8988407",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-107",
+      "latitude": 46.23413,
+      "longitude": 15.68293
+    },
+    {
+      "id": 3201728,
+      "name": "Donačka Gora",
+      "nativeName": "Donačka Gora",
+      "code": "SI-107-3201728",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-107",
+      "latitude": 46.25832,
+      "longitude": 15.7346
+    },
+    {
+      "id": 3196293,
+      "name": "Log",
+      "nativeName": "Log",
+      "code": "SI-107-3196293",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-107",
+      "latitude": 46.23333,
+      "longitude": 15.76667
+    },
+    {
+      "id": 3192939,
+      "name": "Podplat",
+      "nativeName": "Podplat",
+      "code": "SI-107-3192939",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-107",
+      "latitude": 46.25,
+      "longitude": 15.7
+    },
+    {
+      "id": 8987564,
+      "name": "Sv. Jurij",
+      "nativeName": "Sv. Jurij",
+      "code": "SI-107-8987564",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-107",
+      "latitude": 46.25106,
+      "longitude": 15.74492
+    },
+    {
+      "id": 8987031,
+      "name": "Tlake",
+      "nativeName": "Tlake",
+      "code": "SI-107-8987031",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-107",
+      "latitude": 46.24964,
+      "longitude": 15.70687
+    },
+    {
+      "id": 8989681,
+      "name": "Trlično",
+      "nativeName": "Trlično",
+      "code": "SI-107-8989681",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-107",
+      "latitude": 46.21453,
+      "longitude": 15.77894
+    },
+    {
+      "id": 3216540,
+      "name": "Vićna Vas",
+      "nativeName": "Vićna Vas",
+      "code": "SI-107-3216540",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-107",
+      "latitude": 46.24611,
+      "longitude": 15.69917
+    },
+    {
+      "id": 8987107,
+      "name": "Žahenberc",
+      "nativeName": "Žahenberc",
+      "code": "SI-107-8987107",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-107",
+      "latitude": 46.23853,
+      "longitude": 15.72675
+    }
+  ]
+}

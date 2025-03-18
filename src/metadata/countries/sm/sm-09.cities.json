@@ -1,0 +1,51 @@
+{
+  "stateId": 3166650,
+  "stateCode": "SM-09",
+  "countryCode": "SM",
+  "cities": [
+    {
+      "id": 3166645,
+      "name": "Serravalle",
+      "nativeName": "Serravalle",
+      "code": "SM-09-3166645",
+      "countryId": 3168068,
+      "countryCode": "SM",
+      "stateCode": "SM-09",
+      "latitude": 43.96897,
+      "longitude": 12.48167
+    },
+    {
+      "id": 3177564,
+      "name": "Dogana",
+      "nativeName": "Dogana",
+      "code": "SM-09-3177564",
+      "countryId": 3168068,
+      "countryCode": "SM",
+      "stateCode": "SM-09",
+      "latitude": 43.98034,
+      "longitude": 12.49051
+    },
+    {
+      "id": 3177260,
+      "name": "Falciano",
+      "nativeName": "Falciano",
+      "code": "SM-09-3177260",
+      "countryId": 3168068,
+      "countryCode": "SM",
+      "stateCode": "SM-09",
+      "latitude": 43.98333,
+      "longitude": 12.5
+    },
+    {
+      "id": 6941147,
+      "name": "Fiorina",
+      "nativeName": "Fiorina",
+      "code": "SM-09-6941147",
+      "countryId": 3168068,
+      "countryCode": "SM",
+      "stateCode": "SM-09",
+      "latitude": 43.95798,
+      "longitude": 12.47686
+    }
+  ]
+}

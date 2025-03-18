@@ -1,0 +1,62 @@
+{
+  "stateId": 2372533,
+  "stateCode": "GW-GA",
+  "countryCode": "GW",
+  "cities": [
+    {
+      "id": 11995999,
+      "name": "Boe",
+      "nativeName": "Boe",
+      "code": "GW-GA-11995999",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "stateCode": "GW-GA",
+      "latitude": 11.7466,
+      "longitude": -14.21126
+    },
+    {
+      "id": 8335075,
+      "name": "Gabu Sector",
+      "nativeName": "Gabu Sector",
+      "code": "GW-GA-8335075",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "stateCode": "GW-GA",
+      "latitude": 12.122,
+      "longitude": -14.241
+    },
+    {
+      "id": 11995997,
+      "name": "Pirada",
+      "nativeName": "Pirada",
+      "code": "GW-GA-11995997",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "stateCode": "GW-GA",
+      "latitude": 12.66688,
+      "longitude": -14.15491
+    },
+    {
+      "id": 11995998,
+      "name": "Pitche",
+      "nativeName": "Pitche",
+      "code": "GW-GA-11995998",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "stateCode": "GW-GA",
+      "latitude": 12.32511,
+      "longitude": -13.95215
+    },
+    {
+      "id": 8335053,
+      "name": "Sonaco",
+      "nativeName": "Sonaco Sector",
+      "code": "GW-GA-8335053",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "stateCode": "GW-GA",
+      "latitude": 12.412,
+      "longitude": -14.403
+    }
+  ]
+}

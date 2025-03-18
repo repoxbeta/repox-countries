@@ -1,0 +1,29 @@
+{
+  "stateId": 223889,
+  "stateCode": "DJ-DI",
+  "countryCode": "DJ",
+  "cities": [
+    {
+      "id": 9611312,
+      "name": "As Eyla",
+      "nativeName": "As Eyla",
+      "code": "DJ-DI-9611312",
+      "countryId": 223816,
+      "countryCode": "DJ",
+      "stateCode": "DJ-DI",
+      "latitude": 11.01,
+      "longitude": 42.11
+    },
+    {
+      "id": 9611302,
+      "name": "Yoboki",
+      "nativeName": "Yoboki",
+      "code": "DJ-DI-9611302",
+      "countryId": 223816,
+      "countryCode": "DJ",
+      "stateCode": "DJ-DI",
+      "latitude": 11.56,
+      "longitude": 42.11
+    }
+  ]
+}

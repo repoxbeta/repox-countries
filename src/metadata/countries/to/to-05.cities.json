@@ -1,0 +1,73 @@
+{
+  "stateId": 4032231,
+  "stateCode": "TO-05",
+  "countryCode": "TO",
+  "cities": [
+    {
+      "id": 12041929,
+      "name": "Hahake",
+      "nativeName": "Hahake",
+      "code": "TO-05-12041929",
+      "countryId": 4032283,
+      "countryCode": "TO",
+      "stateCode": "TO-05",
+      "latitude": -18.60683,
+      "longitude": -173.93584
+    },
+    {
+      "id": 12041930,
+      "name": "Hihifo",
+      "nativeName": "Hihifo",
+      "code": "TO-05-12041930",
+      "countryId": 4032283,
+      "countryCode": "TO",
+      "stateCode": "TO-05",
+      "latitude": -18.63757,
+      "longitude": -174.04589
+    },
+    {
+      "id": 12041935,
+      "name": "Leimatu'a",
+      "nativeName": "Leimatu'a",
+      "code": "TO-05-12041935",
+      "countryId": 4032283,
+      "countryCode": "TO",
+      "stateCode": "TO-05",
+      "latitude": -18.59593,
+      "longitude": -173.97801
+    },
+    {
+      "id": 12041937,
+      "name": "Motu",
+      "nativeName": "Motu",
+      "code": "TO-05-12041937",
+      "countryId": 4032283,
+      "countryCode": "TO",
+      "stateCode": "TO-05",
+      "latitude": -18.74508,
+      "longitude": -174.09988
+    },
+    {
+      "id": 12041939,
+      "name": "Neiafu",
+      "nativeName": "Neiafu",
+      "code": "TO-05-12041939",
+      "countryId": 4032283,
+      "countryCode": "TO",
+      "stateCode": "TO-05",
+      "latitude": -18.65168,
+      "longitude": -173.98121
+    },
+    {
+      "id": 12041942,
+      "name": "Pangaimotu",
+      "nativeName": "Pangaimotu",
+      "code": "TO-05-12041942",
+      "countryId": 4032283,
+      "countryCode": "TO",
+      "stateCode": "TO-05",
+      "latitude": -18.68235,
+      "longitude": -173.99859
+    }
+  ]
+}

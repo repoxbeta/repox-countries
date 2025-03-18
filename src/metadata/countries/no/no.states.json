@@ -1,0 +1,171 @@
+{
+  "countryId": 3144096,
+  "countryCode": "NO",
+  "states": [
+    {
+      "id": 12110596,
+      "name": "Agder",
+      "nativeName": "Agder",
+      "code": "NO-42",
+      "internalCode": "42",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "latitude": 58.69829,
+      "longitude": 7.62322
+    },
+    {
+      "id": 3163480,
+      "name": "Akershus",
+      "nativeName": "Akershus fylke",
+      "code": "NO-02",
+      "internalCode": "02",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "latitude": 60,
+      "longitude": 11.16667
+    },
+    {
+      "id": 3159665,
+      "name": "Buskerud",
+      "nativeName": "Buskerud fylke",
+      "code": "NO-06",
+      "internalCode": "06",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "latitude": 59.7484,
+      "longitude": 10.1891
+    },
+    {
+      "id": 780166,
+      "name": "Finnmark",
+      "nativeName": "Finnmark Fylke",
+      "code": "NO-20",
+      "internalCode": "20",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "latitude": 70.0815,
+      "longitude": 29.7358
+    },
+    {
+      "id": 12110598,
+      "name": "Innlandet",
+      "nativeName": "Innlandet",
+      "code": "NO-34",
+      "internalCode": "34",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "latitude": 61.43367,
+      "longitude": 10.4272
+    },
+    {
+      "id": 3145495,
+      "name": "Møre og Romsdal",
+      "nativeName": "Møre og Romsdal fylke",
+      "code": "NO-15",
+      "internalCode": "15",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "latitude": 62.7345,
+      "longitude": 7.1506
+    },
+    {
+      "id": 3144301,
+      "name": "Nordland",
+      "nativeName": "Nordland Fylke",
+      "code": "NO-18",
+      "internalCode": "18",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "latitude": 66.914,
+      "longitude": 14.76254
+    },
+    {
+      "id": 3143242,
+      "name": "Oslo County",
+      "nativeName": "Oslo County",
+      "code": "NO-03",
+      "internalCode": "03",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "latitude": 59.9119,
+      "longitude": 10.7336
+    },
+    {
+      "id": 3141558,
+      "name": "Rogaland",
+      "nativeName": "Rogaland Fylke",
+      "code": "NO-11",
+      "internalCode": "11",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "latitude": 59.09608,
+      "longitude": 6.20442
+    },
+    {
+      "id": 3134723,
+      "name": "Telemark",
+      "nativeName": "Telemark fylke",
+      "code": "NO-08",
+      "internalCode": "08",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "latitude": 59.2161,
+      "longitude": 9.6112
+    },
+    {
+      "id": 3133897,
+      "name": "Troms",
+      "nativeName": "Troms Fylke",
+      "code": "NO-19",
+      "internalCode": "19",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "latitude": 69.26591,
+      "longitude": 19.51504
+    },
+    {
+      "id": 11862827,
+      "name": "Trøndelag",
+      "nativeName": "Trøndelag",
+      "code": "NO-50",
+      "internalCode": "50",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "latitude": 64.02475,
+      "longitude": 11.58001
+    },
+    {
+      "id": 3132015,
+      "name": "Vestfold",
+      "nativeName": "Vestfold fylke",
+      "code": "NO-07",
+      "internalCode": "07",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "latitude": 59.2654,
+      "longitude": 10.4159
+    },
+    {
+      "id": 12110600,
+      "name": "Vestland",
+      "nativeName": "Vestland",
+      "code": "NO-46",
+      "internalCode": "46",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "latitude": 60.93024,
+      "longitude": 6.43261
+    },
+    {
+      "id": 3143188,
+      "name": "Østfold",
+      "nativeName": "Østfold fylke",
+      "code": "NO-01",
+      "internalCode": "01",
+      "countryId": 3144096,
+      "countryCode": "NO",
+      "latitude": 59.2752,
+      "longitude": 11.1058
+    }
+  ]
+}

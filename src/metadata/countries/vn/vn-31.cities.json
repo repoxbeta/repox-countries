@@ -1,0 +1,128 @@
+{
+  "stateId": 1587871,
+  "stateCode": "VN-31",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 1905561,
+      "name": "An Lão District",
+      "nativeName": "Huyện An Lão",
+      "code": "VN-31-1905561",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-31",
+      "latitude": 14.55676,
+      "longitude": 108.801
+    },
+    {
+      "id": 1905558,
+      "name": "Hoài Nhơn District",
+      "nativeName": "Thị Xã Hoài Nhơn",
+      "code": "VN-31-1905558",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-31",
+      "latitude": 14.50535,
+      "longitude": 109.02315
+    },
+    {
+      "id": 1905560,
+      "name": "Hoài Ân District",
+      "nativeName": "Huyện Hoài Ân",
+      "code": "VN-31-1905560",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-31",
+      "latitude": 14.33875,
+      "longitude": 108.90412
+    },
+    {
+      "id": 1905556,
+      "name": "Phu Cat District",
+      "nativeName": "Phu Cat District",
+      "code": "VN-31-1905556",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-31",
+      "latitude": 14.04954,
+      "longitude": 109.08063
+    },
+    {
+      "id": 1905557,
+      "name": "Phù Mỹ District",
+      "nativeName": "Huyện Phù Mỹ",
+      "code": "VN-31-1905557",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-31",
+      "latitude": 14.22304,
+      "longitude": 109.08611
+    },
+    {
+      "id": 1905551,
+      "name": "Thành Phố Quy Nhơn",
+      "nativeName": "Thành Phố Quy Nhơn",
+      "code": "VN-31-1905551",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-31",
+      "latitude": 13.75163,
+      "longitude": 109.1957
+    },
+    {
+      "id": 1905553,
+      "name": "Thị Xã An Nhơn",
+      "nativeName": "Thị Xã An Nhơn",
+      "code": "VN-31-1905553",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-31",
+      "latitude": 13.86955,
+      "longitude": 109.06333
+    },
+    {
+      "id": 1905552,
+      "name": "Tuy Phước District",
+      "nativeName": "Huyện Tuy Phước",
+      "code": "VN-31-1905552",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-31",
+      "latitude": 13.84564,
+      "longitude": 109.15275
+    },
+    {
+      "id": 1905555,
+      "name": "Tây Sơn District",
+      "nativeName": "Huyện Tây Sơn",
+      "code": "VN-31-1905555",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-31",
+      "latitude": 13.94306,
+      "longitude": 108.87999
+    },
+    {
+      "id": 1905554,
+      "name": "Vân Canh District",
+      "nativeName": "Huyện Vân Canh",
+      "code": "VN-31-1905554",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-31",
+      "latitude": 13.66365,
+      "longitude": 108.96218
+    },
+    {
+      "id": 1905559,
+      "name": "Vĩnh Thạnh District",
+      "nativeName": "Huyện Vĩnh Thạnh",
+      "code": "VN-31-1905559",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-31",
+      "latitude": 14.211,
+      "longitude": 108.74389
+    }
+  ]
+}

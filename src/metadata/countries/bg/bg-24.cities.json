@@ -1,0 +1,128 @@
+{
+  "stateId": 864559,
+  "stateCode": "BG-24",
+  "countryCode": "BG",
+  "cities": [
+    {
+      "id": 732919,
+      "name": "Bratya Daskalovi",
+      "nativeName": "Obshtina Bratya Daskalovi",
+      "code": "BG-24-732919",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-24",
+      "latitude": 42.3,
+      "longitude": 25.21667
+    },
+    {
+      "id": 732451,
+      "name": "Chirpan",
+      "nativeName": "Obshtina Chirpan",
+      "code": "BG-24-732451",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-24",
+      "latitude": 42.23333,
+      "longitude": 25.38333
+    },
+    {
+      "id": 730984,
+      "name": "Galabovo",
+      "nativeName": "Obshtina Galabovo",
+      "code": "BG-24-730984",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-24",
+      "latitude": 42.15,
+      "longitude": 25.96667
+    },
+    {
+      "id": 730965,
+      "name": "Gurkovo",
+      "nativeName": "Obshtina Gurkovo",
+      "code": "BG-24-730965",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-24",
+      "latitude": 42.71667,
+      "longitude": 25.8
+    },
+    {
+      "id": 730495,
+      "name": "Kazanlak",
+      "nativeName": "Obshtina Kazanlŭk",
+      "code": "BG-24-730495",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-24",
+      "latitude": 42.61943,
+      "longitude": 25.39885
+    },
+    {
+      "id": 728927,
+      "name": "Maglizh",
+      "nativeName": "Obshtina Maglizh",
+      "code": "BG-24-728927",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-24",
+      "latitude": 42.63333,
+      "longitude": 25.61667
+    },
+    {
+      "id": 864599,
+      "name": "Nikolaevo",
+      "nativeName": "Obshtina Nikolaevo",
+      "code": "BG-24-864599",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-24",
+      "latitude": 42.6,
+      "longitude": 25.78333
+    },
+    {
+      "id": 728626,
+      "name": "Opan",
+      "nativeName": "Obshtina Opan",
+      "code": "BG-24-728626",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-24",
+      "latitude": 42.21667,
+      "longitude": 25.7
+    },
+    {
+      "id": 728388,
+      "name": "Pavel Banya",
+      "nativeName": "Obshtina Pavel Banya",
+      "code": "BG-24-728388",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-24",
+      "latitude": 42.63333,
+      "longitude": 25.13333
+    },
+    {
+      "id": 727837,
+      "name": "Radnevo",
+      "nativeName": "Obshtina Radnevo",
+      "code": "BG-24-727837",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-24",
+      "latitude": 42.3,
+      "longitude": 25.93333
+    },
+    {
+      "id": 726847,
+      "name": "Stara Zagora",
+      "nativeName": "Obshtina Stara Zagora",
+      "code": "BG-24-726847",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-24",
+      "latitude": 42.41667,
+      "longitude": 25.63333
+    }
+  ]
+}

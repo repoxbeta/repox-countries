@@ -1,0 +1,29 @@
+{
+  "stateId": 7303519,
+  "stateCode": "MH-JAB",
+  "countryCode": "MH",
+  "cities": [
+    {
+      "id": 7306526,
+      "name": "Jabat",
+      "nativeName": "Jabat",
+      "code": "MH-JAB-7306526",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-JAB",
+      "latitude": 7.75003,
+      "longitude": 168.97513
+    },
+    {
+      "id": 7304038,
+      "name": "Jabat",
+      "nativeName": "Jabat",
+      "code": "MH-JAB-7304038",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-JAB",
+      "latitude": 7.75207,
+      "longitude": 168.97483
+    }
+  ]
+}

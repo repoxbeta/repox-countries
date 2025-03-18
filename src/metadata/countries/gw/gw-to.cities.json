@@ -1,0 +1,62 @@
+{
+  "stateId": 2368955,
+  "stateCode": "GW-TO",
+  "countryCode": "GW",
+  "cities": [
+    {
+      "id": 7909706,
+      "name": "Badanda",
+      "nativeName": "Bedanda",
+      "code": "GW-TO-7909706",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "stateCode": "GW-TO",
+      "latitude": 11.35,
+      "longitude": -15.11667
+    },
+    {
+      "id": 7911001,
+      "name": "Cacine",
+      "nativeName": "Cacine",
+      "code": "GW-TO-7911001",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "stateCode": "GW-TO",
+      "latitude": 11.11667,
+      "longitude": -15.01667
+    },
+    {
+      "id": 11996001,
+      "name": "Catio",
+      "nativeName": "Catio",
+      "code": "GW-TO-11996001",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "stateCode": "GW-TO",
+      "latitude": 11.27756,
+      "longitude": -15.25649
+    },
+    {
+      "id": 11996002,
+      "name": "Komo",
+      "nativeName": "Komo",
+      "code": "GW-TO-11996002",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "stateCode": "GW-TO",
+      "latitude": 11.20063,
+      "longitude": -15.34123
+    },
+    {
+      "id": 7909713,
+      "name": "Quebo",
+      "nativeName": "Quebo",
+      "code": "GW-TO-7909713",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "stateCode": "GW-TO",
+      "latitude": 11.545,
+      "longitude": -14.8
+    }
+  ]
+}

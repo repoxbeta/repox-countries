@@ -1,0 +1,29 @@
+{
+  "stateId": 3411926,
+  "stateCode": "CV-SD",
+  "countryCode": "CV",
+  "cities": [
+    {
+      "id": 11996046,
+      "name": "Nossa Senhora da Luz",
+      "nativeName": "Nossa Senhora da Luz",
+      "code": "CV-SD-11996046",
+      "countryId": 3374766,
+      "countryCode": "CV",
+      "stateCode": "CV-SD",
+      "latitude": 15.02266,
+      "longitude": -23.47796
+    },
+    {
+      "id": 11468611,
+      "name": "Sao Nicolau Tolentino",
+      "nativeName": "Sao Nicolau Tolentino",
+      "code": "CV-SD-11468611",
+      "countryId": 3374766,
+      "countryCode": "CV",
+      "stateCode": "CV-SD",
+      "latitude": 15.01279,
+      "longitude": -23.57054
+    }
+  ]
+}

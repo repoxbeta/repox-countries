@@ -1,0 +1,84 @@
+{
+  "stateId": 149653,
+  "stateCode": "TZ-24",
+  "countryCode": "TZ",
+  "cities": [
+    {
+      "id": 159384,
+      "name": "Igunga District Council",
+      "nativeName": "Igunga",
+      "code": "TZ-24-159384",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-24",
+      "latitude": -4.3514,
+      "longitude": 33.70371
+    },
+    {
+      "id": 9998228,
+      "name": "Kaliua District Council",
+      "nativeName": "Kaliua",
+      "code": "TZ-24-9998228",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-24",
+      "latitude": -4.90756,
+      "longitude": 31.66403
+    },
+    {
+      "id": 150929,
+      "name": "Nzega District Council",
+      "nativeName": "Nzega",
+      "code": "TZ-24-150929",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-24",
+      "latitude": -4.33859,
+      "longitude": 33.04794
+    },
+    {
+      "id": 9072686,
+      "name": "Sikonge District",
+      "nativeName": "Sikonge District",
+      "code": "TZ-24-9072686",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-24",
+      "latitude": -5.63333,
+      "longitude": 32.76667
+    },
+    {
+      "id": 149654,
+      "name": "Tabora Urban",
+      "nativeName": "Tabora Urban",
+      "code": "TZ-24-149654",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-24",
+      "latitude": -5.02,
+      "longitude": 32.83
+    },
+    {
+      "id": 149171,
+      "name": "Urambo District Council",
+      "nativeName": "Urambo",
+      "code": "TZ-24-149171",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-24",
+      "latitude": -5.17501,
+      "longitude": 32.13148
+    },
+    {
+      "id": 7647455,
+      "name": "Uyui District",
+      "nativeName": "Uyui District",
+      "code": "TZ-24-7647455",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-24",
+      "latitude": -5.06906,
+      "longitude": 33.34351
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "stateId": 4563921,
+  "stateCode": "PR-045",
+  "countryCode": "PR",
+  "cities": [
+    {
+      "id": 7268360,
+      "name": "Cedrito Barrio",
+      "nativeName": "Cedrito Barrio",
+      "code": "PR-045-7268360",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-045",
+      "latitude": 18.25425,
+      "longitude": -66.19635
+    },
+    {
+      "id": 7268057,
+      "name": "Cejas Barrio",
+      "nativeName": "Cejas Barrio",
+      "code": "PR-045-7268057",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-045",
+      "latitude": 18.20879,
+      "longitude": -66.18949
+    },
+    {
+      "id": 7268100,
+      "name": "Comerío Barrio-Pueblo",
+      "nativeName": "Comerío Barrio-Pueblo",
+      "code": "PR-045-7268100",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-045",
+      "latitude": 18.22027,
+      "longitude": -66.22442
+    },
+    {
+      "id": 7268153,
+      "name": "Doña Elena Barrio",
+      "nativeName": "Doña Elena Barrio",
+      "code": "PR-045-7268153",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-045",
+      "latitude": 18.25251,
+      "longitude": -66.22289
+    },
+    {
+      "id": 7268696,
+      "name": "Naranjo Barrio",
+      "nativeName": "Naranjo Barrio",
+      "code": "PR-045-7268696",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-045",
+      "latitude": 18.22884,
+      "longitude": -66.19207
+    },
+    {
+      "id": 7268729,
+      "name": "Palomas Barrio",
+      "nativeName": "Palomas Barrio",
+      "code": "PR-045-7268729",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-045",
+      "latitude": 18.23307,
+      "longitude": -66.24293
+    },
+    {
+      "id": 7268760,
+      "name": "Piñas Barrio",
+      "nativeName": "Piñas Barrio",
+      "code": "PR-045-7268760",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-045",
+      "latitude": 18.19509,
+      "longitude": -66.22627
+    },
+    {
+      "id": 7268910,
+      "name": "Río Hondo Barrio",
+      "nativeName": "Río Hondo Barrio",
+      "code": "PR-045-7268910",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-045",
+      "latitude": 18.20819,
+      "longitude": -66.2514
+    },
+    {
+      "id": 7269069,
+      "name": "Vega Redonda Barrio",
+      "nativeName": "Vega Redonda Barrio",
+      "code": "PR-045-7269069",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-045",
+      "latitude": 18.20638,
+      "longitude": -66.20951
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "stateId": 7521428,
+  "stateCode": "YT-97608",
+  "countryCode": "YT",
+  "cities": [
+    {
+      "id": 921900,
+      "name": "Dzaoudzi",
+      "nativeName": "Dzaoudzi",
+      "code": "YT-97608-921900",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97608",
+      "latitude": -12.78339,
+      "longitude": 45.25693
+    },
+    {
+      "id": 1090273,
+      "name": "Foungoujou",
+      "nativeName": "Foungoujou",
+      "code": "YT-97608-1090273",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97608",
+      "latitude": -12.78651,
+      "longitude": 45.26162
+    },
+    {
+      "id": 1090275,
+      "name": "Labattoir",
+      "nativeName": "Labattoir",
+      "code": "YT-97608-1090275",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97608",
+      "latitude": -12.77698,
+      "longitude": 45.28234
+    },
+    {
+      "id": 1090274,
+      "name": "Mronyombéni",
+      "nativeName": "Mronyombéni",
+      "code": "YT-97608-1090274",
+      "countryId": 1024031,
+      "countryCode": "YT",
+      "stateCode": "YT-97608",
+      "latitude": -12.78792,
+      "longitude": 45.26443
+    }
+  ]
+}

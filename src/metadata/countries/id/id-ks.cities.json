@@ -1,0 +1,150 @@
+{
+  "stateId": 1641899,
+  "stateCode": "ID-KS",
+  "countryCode": "ID",
+  "cities": [
+    {
+      "id": 9165684,
+      "name": "Balangan Regency",
+      "nativeName": "Kabupaten Balangan",
+      "code": "ID-KS-9165684",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KS",
+      "latitude": -2.32314,
+      "longitude": 115.62922
+    },
+    {
+      "id": 1650231,
+      "name": "Banjar Regency",
+      "nativeName": "Kabupaten Banjar",
+      "code": "ID-KS-1650231",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KS",
+      "latitude": -3.38333,
+      "longitude": 115.08333
+    },
+    {
+      "id": 1649992,
+      "name": "Barito Kuala Regency",
+      "nativeName": "Kabupaten Barito Kuala",
+      "code": "ID-KS-1649992",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KS",
+      "latitude": -3.08333,
+      "longitude": 114.68333
+    },
+    {
+      "id": 1643245,
+      "name": "Central Hulu Sungai Regency",
+      "nativeName": "Kabupaten Hulu Sungai Tengah",
+      "code": "ID-KS-1643245",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KS",
+      "latitude": -2.6,
+      "longitude": 115.51667
+    },
+    {
+      "id": 1625714,
+      "name": "Kabupaten Tabalong",
+      "nativeName": "Kabupaten Tabalong",
+      "code": "ID-KS-1625714",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KS",
+      "latitude": -1.83333,
+      "longitude": 115.55
+    },
+    {
+      "id": 9780988,
+      "name": "Kabupaten Tanah Bumbu",
+      "nativeName": "Kabupaten Tanah Bumbu",
+      "code": "ID-KS-9780988",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KS",
+      "latitude": -3.45413,
+      "longitude": 115.70372
+    },
+    {
+      "id": 1650216,
+      "name": "Kota Banjar Baru",
+      "nativeName": "Kota Banjar Baru",
+      "code": "ID-KS-1650216",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KS",
+      "latitude": -3.48304,
+      "longitude": 114.81162
+    },
+    {
+      "id": 1650211,
+      "name": "Kota Banjarmasin",
+      "nativeName": "Kota Banjarmasin",
+      "code": "ID-KS-1650211",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KS",
+      "latitude": -3.32444,
+      "longitude": 114.59102
+    },
+    {
+      "id": 1639532,
+      "name": "Kotabaru Regency",
+      "nativeName": "Kabupaten Kota Baru",
+      "code": "ID-KS-1639532",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KS",
+      "latitude": -2.76667,
+      "longitude": 116
+    },
+    {
+      "id": 1643244,
+      "name": "North Hulu Sungai Regency",
+      "nativeName": "Kabupaten Hulu Sungai Utara",
+      "code": "ID-KS-1643244",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KS",
+      "latitude": -2.43333,
+      "longitude": 115.16667
+    },
+    {
+      "id": 1643246,
+      "name": "South Hulu Sungai Regency",
+      "nativeName": "Kabupaten Hulu Sungai Selatan",
+      "code": "ID-KS-1643246",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KS",
+      "latitude": -2.76667,
+      "longitude": 115.21667
+    },
+    {
+      "id": 1625166,
+      "name": "Tanah Laut Regency",
+      "nativeName": "Kabupaten Tanah Laut",
+      "code": "ID-KS-1625166",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KS",
+      "latitude": -3.85,
+      "longitude": 114.83333
+    },
+    {
+      "id": 1624750,
+      "name": "Tapin Regency",
+      "nativeName": "Kabupaten Tapin",
+      "code": "ID-KS-1624750",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KS",
+      "latitude": -2.96667,
+      "longitude": 115.03333
+    }
+  ]
+}

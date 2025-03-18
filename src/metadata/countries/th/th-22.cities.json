@@ -1,0 +1,117 @@
+{
+  "stateId": 1611268,
+  "stateCode": "TH-22",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 7510723,
+      "name": "Kaeng Hang Maeo",
+      "nativeName": "Amphoe Kaeng Hang Maeo",
+      "code": "TH-22-7510723",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-22",
+      "latitude": 13.0969,
+      "longitude": 101.88543
+    },
+    {
+      "id": 7510734,
+      "name": "Khao Khitchakut",
+      "nativeName": "Amphoe Khao Khitchakut",
+      "code": "TH-22-7510734",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-22",
+      "latitude": 12.93726,
+      "longitude": 102.09762
+    },
+    {
+      "id": 1609857,
+      "name": "Khlung",
+      "nativeName": "Amphoe Khlung",
+      "code": "TH-22-1609857",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-22",
+      "latitude": 12.57246,
+      "longitude": 102.30783
+    },
+    {
+      "id": 1609277,
+      "name": "Laem Sing",
+      "nativeName": "Amphoe Laem Sing",
+      "code": "TH-22-1609277",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-22",
+      "latitude": 12.45689,
+      "longitude": 102.14262
+    },
+    {
+      "id": 1608807,
+      "name": "Makham",
+      "nativeName": "Amphoe Makham",
+      "code": "TH-22-1608807",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-22",
+      "latitude": 12.73333,
+      "longitude": 102.21667
+    },
+    {
+      "id": 1608660,
+      "name": "Mueang Chanthaburi",
+      "nativeName": "Amphoe Mueang Chanthaburi",
+      "code": "TH-22-1608660",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-22",
+      "latitude": 12.59542,
+      "longitude": 102.12263
+    },
+    {
+      "id": 7510720,
+      "name": "Na Yai Am",
+      "nativeName": "Amphoe Na Yai Am",
+      "code": "TH-22-7510720",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-22",
+      "latitude": 12.73833,
+      "longitude": 101.87502
+    },
+    {
+      "id": 1607305,
+      "name": "Pong Nam Ron",
+      "nativeName": "Amphoe Pong Nam Ron",
+      "code": "TH-22-1607305",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-22",
+      "latitude": 12.93467,
+      "longitude": 102.37189
+    },
+    {
+      "id": 7510735,
+      "name": "Soi Dao",
+      "nativeName": "Amphoe Soi Dao",
+      "code": "TH-22-7510735",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-22",
+      "latitude": 13.17034,
+      "longitude": 102.22796
+    },
+    {
+      "id": 1605600,
+      "name": "Tha Mai",
+      "nativeName": "Amphoe Tha Mai",
+      "code": "TH-22-1605600",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-22",
+      "latitude": 12.73848,
+      "longitude": 101.97696
+    }
+  ]
+}

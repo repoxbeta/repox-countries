@@ -1,0 +1,51 @@
+{
+  "stateId": 294904,
+  "stateCode": "IL-M",
+  "countryCode": "IL",
+  "cities": [
+    {
+      "id": 12046849,
+      "name": "Nefat HaSharon",
+      "nativeName": "Nefat HaSharon",
+      "code": "IL-M-12046849",
+      "countryId": 294640,
+      "countryCode": "IL",
+      "stateCode": "IL-M",
+      "latitude": 32.31667,
+      "longitude": 34.91667
+    },
+    {
+      "id": 12046848,
+      "name": "Nefat Petaẖ Tiqvva",
+      "nativeName": "Nefat Petaẖ Tiqvva",
+      "code": "IL-M-12046848",
+      "countryId": 294640,
+      "countryCode": "IL",
+      "stateCode": "IL-M",
+      "latitude": 32.11667,
+      "longitude": 34.91667
+    },
+    {
+      "id": 12046847,
+      "name": "Nefat Ramla",
+      "nativeName": "Nefat Ramla",
+      "code": "IL-M-12046847",
+      "countryId": 294640,
+      "countryCode": "IL",
+      "stateCode": "IL-M",
+      "latitude": 31.93333,
+      "longitude": 34.91667
+    },
+    {
+      "id": 12046845,
+      "name": "Nefat Reẖovot",
+      "nativeName": "Nefat Reẖovot",
+      "code": "IL-M-12046845",
+      "countryId": 294640,
+      "countryCode": "IL",
+      "stateCode": "IL-M",
+      "latitude": 31.9,
+      "longitude": 34.76667
+    }
+  ]
+}

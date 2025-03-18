@@ -1,0 +1,62 @@
+{
+  "stateId": 3344951,
+  "stateCode": "AL-11",
+  "countryCode": "AL",
+  "cities": [
+    {
+      "id": 10944417,
+      "name": "Bashkia Kamëz",
+      "nativeName": "Bashkia Kamëz",
+      "code": "AL-11-10944417",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-11",
+      "latitude": 41.37232,
+      "longitude": 19.78542
+    },
+    {
+      "id": 10944418,
+      "name": "Bashkia Kavajë",
+      "nativeName": "Bashkia Kavajë",
+      "code": "AL-11-10944418",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-11",
+      "latitude": 41.18127,
+      "longitude": 19.55579
+    },
+    {
+      "id": 10944419,
+      "name": "Bashkia Rrogozhinë",
+      "nativeName": "Bashkia Rrogozhinë",
+      "code": "AL-11-10944419",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-11",
+      "latitude": 41.09034,
+      "longitude": 19.5861
+    },
+    {
+      "id": 10944420,
+      "name": "Bashkia Tiranë",
+      "nativeName": "Bashkia Tiranë",
+      "code": "AL-11-10944420",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-11",
+      "latitude": 41.29884,
+      "longitude": 19.8938
+    },
+    {
+      "id": 10944421,
+      "name": "Bashkia Vorë",
+      "nativeName": "Bashkia Vorë",
+      "code": "AL-11-10944421",
+      "countryId": 783754,
+      "countryCode": "AL",
+      "stateCode": "AL-11",
+      "latitude": 41.39804,
+      "longitude": 19.67703
+    }
+  ]
+}

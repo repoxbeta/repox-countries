@@ -1,0 +1,62 @@
+{
+  "stateId": 9782182,
+  "stateCode": "IM-9782182",
+  "countryCode": "IM",
+  "cities": [
+    {
+      "id": 3042264,
+      "name": "Ballasalla",
+      "nativeName": "Ballasalla",
+      "code": "IM-9782182-3042264",
+      "countryId": 3042225,
+      "countryCode": "IM",
+      "stateCode": "IM-9782182",
+      "latitude": 54.0959,
+      "longitude": -4.62962
+    },
+    {
+      "id": 3042241,
+      "name": "Derbyhaven",
+      "nativeName": "Derbyhaven",
+      "code": "IM-9782182-3042241",
+      "countryId": 3042225,
+      "countryCode": "IM",
+      "stateCode": "IM-9782182",
+      "latitude": 54.07646,
+      "longitude": -4.62353
+    },
+    {
+      "id": 3042231,
+      "name": "Foxdale",
+      "nativeName": "Foxdale",
+      "code": "IM-9782182-3042231",
+      "countryId": 3042225,
+      "countryCode": "IM",
+      "stateCode": "IM-9782182",
+      "latitude": 54.16667,
+      "longitude": -4.61667
+    },
+    {
+      "id": 3042189,
+      "name": "Ronaldsway",
+      "nativeName": "Ronaldsway",
+      "code": "IM-9782182-3042189",
+      "countryId": 3042225,
+      "countryCode": "IM",
+      "stateCode": "IM-9782182",
+      "latitude": 54.08333,
+      "longitude": -4.61667
+    },
+    {
+      "id": 3042185,
+      "name": "Saint Marks",
+      "nativeName": "Saint Marks",
+      "code": "IM-9782182-3042185",
+      "countryId": 3042225,
+      "countryCode": "IM",
+      "stateCode": "IM-9782182",
+      "latitude": 54.13333,
+      "longitude": -4.6
+    }
+  ]
+}

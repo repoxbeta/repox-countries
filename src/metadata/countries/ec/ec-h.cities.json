@@ -1,0 +1,117 @@
+{
+  "stateId": 3659237,
+  "stateCode": "EC-H",
+  "countryCode": "EC",
+  "cities": [
+    {
+      "id": 3660797,
+      "name": "Cantón Alausí",
+      "nativeName": "Cantón Alausí",
+      "code": "EC-H-3660797",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-H",
+      "latitude": -2.2646,
+      "longitude": -78.7207
+    },
+    {
+      "id": 10792509,
+      "name": "Chambo",
+      "nativeName": "Chambo",
+      "code": "EC-H-10792509",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-H",
+      "latitude": -1.75149,
+      "longitude": -78.54528
+    },
+    {
+      "id": 3659071,
+      "name": "Chunchi",
+      "nativeName": "Chunchi",
+      "code": "EC-H-3659071",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-H",
+      "latitude": -2.33748,
+      "longitude": -78.89005
+    },
+    {
+      "id": 3658919,
+      "name": "Colta",
+      "nativeName": "Colta",
+      "code": "EC-H-3658919",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-H",
+      "latitude": -1.81781,
+      "longitude": -78.83937
+    },
+    {
+      "id": 9155063,
+      "name": "Cumanda",
+      "nativeName": "Cumanda",
+      "code": "EC-H-9155063",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-H",
+      "latitude": -2.20788,
+      "longitude": -79.13504
+    },
+    {
+      "id": 3657620,
+      "name": "Guamote",
+      "nativeName": "Guamote",
+      "code": "EC-H-3657620",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-H",
+      "latitude": -2.03214,
+      "longitude": -78.6273
+    },
+    {
+      "id": 3657593,
+      "name": "Guano",
+      "nativeName": "Guano",
+      "code": "EC-H-3657593",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-H",
+      "latitude": -1.56959,
+      "longitude": -78.64474
+    },
+    {
+      "id": 10792443,
+      "name": "Pallatanga",
+      "nativeName": "Pallatanga",
+      "code": "EC-H-10792443",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-H",
+      "latitude": -2.01392,
+      "longitude": -78.92697
+    },
+    {
+      "id": 10792444,
+      "name": "Penipe",
+      "nativeName": "Penipe",
+      "code": "EC-H-10792444",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-H",
+      "latitude": -1.56228,
+      "longitude": -78.44812
+    },
+    {
+      "id": 3652349,
+      "name": "Riobamba",
+      "nativeName": "Riobamba",
+      "code": "EC-H-3652349",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-H",
+      "latitude": -1.71893,
+      "longitude": -78.66661
+    }
+  ]
+}

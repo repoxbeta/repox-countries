@@ -1,0 +1,128 @@
+{
+  "stateId": 1337200,
+  "stateCode": "BD-B",
+  "countryCode": "BD",
+  "cities": [
+    {
+      "id": 1337201,
+      "name": "Bandarban",
+      "nativeName": "Bandarban",
+      "code": "BD-B-1337201",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-B",
+      "latitude": 22,
+      "longitude": 92.33333
+    },
+    {
+      "id": 1337192,
+      "name": "Brahmanbaria",
+      "nativeName": "Brahmanbaria",
+      "code": "BD-B-1337192",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-B",
+      "latitude": 23.98333,
+      "longitude": 91.16667
+    },
+    {
+      "id": 1337194,
+      "name": "Chandpur",
+      "nativeName": "Chandpur",
+      "code": "BD-B-1337194",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-B",
+      "latitude": 23.25,
+      "longitude": 90.83333
+    },
+    {
+      "id": 1337199,
+      "name": "Chittagong",
+      "nativeName": "Chittagong",
+      "code": "BD-B-1337199",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-B",
+      "latitude": 22.4875,
+      "longitude": 91.96333
+    },
+    {
+      "id": 1337193,
+      "name": "Comilla",
+      "nativeName": "Cumilla",
+      "code": "BD-B-1337193",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-B",
+      "latitude": 23.4417,
+      "longitude": 91.00987
+    },
+    {
+      "id": 1337202,
+      "name": "Cox's Bazar",
+      "nativeName": "Cox's Bazar",
+      "code": "BD-B-1337202",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-B",
+      "latitude": 21.58389,
+      "longitude": 92.01528
+    },
+    {
+      "id": 1337197,
+      "name": "Feni",
+      "nativeName": "Feni",
+      "code": "BD-B-1337197",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-B",
+      "latitude": 22.96667,
+      "longitude": 91.31667
+    },
+    {
+      "id": 1337198,
+      "name": "Khagrachhari",
+      "nativeName": "Khagrachhari",
+      "code": "BD-B-1337198",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-B",
+      "latitude": 23.16667,
+      "longitude": 91.9
+    },
+    {
+      "id": 1337195,
+      "name": "Lakshmipur",
+      "nativeName": "Lakshmipur",
+      "code": "BD-B-1337195",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-B",
+      "latitude": 22.91667,
+      "longitude": 90.83333
+    },
+    {
+      "id": 1337196,
+      "name": "Noakhali",
+      "nativeName": "Noakhali",
+      "code": "BD-B-1337196",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-B",
+      "latitude": 22.75,
+      "longitude": 91.16667
+    },
+    {
+      "id": 7873929,
+      "name": "Rangamati",
+      "nativeName": "Rangamati",
+      "code": "BD-B-7873929",
+      "countryId": 1210997,
+      "countryCode": "BD",
+      "stateCode": "BD-B",
+      "latitude": 22.63333,
+      "longitude": 92.2
+    }
+  ]
+}

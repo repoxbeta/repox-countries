@@ -1,0 +1,62 @@
+{
+  "stateId": 3595259,
+  "stateCode": "GT-IZ",
+  "countryCode": "GT",
+  "cities": [
+    {
+      "id": 3597077,
+      "name": "Municipio de El Estor",
+      "nativeName": "Municipio de El Estor",
+      "code": "GT-IZ-3597077",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-IZ",
+      "latitude": 15.42821,
+      "longitude": -89.44877
+    },
+    {
+      "id": 3593233,
+      "name": "Municipio de Los Amates",
+      "nativeName": "Municipio de Los Amates",
+      "code": "GT-IZ-3593233",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-IZ",
+      "latitude": 15.25744,
+      "longitude": -89.10092
+    },
+    {
+      "id": 3593375,
+      "name": "Municipio de Lívingston",
+      "nativeName": "Municipio de Lívingston",
+      "code": "GT-IZ-3593375",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-IZ",
+      "latitude": 15.82783,
+      "longitude": -88.75352
+    },
+    {
+      "id": 3592361,
+      "name": "Municipio de Morales",
+      "nativeName": "Municipio de Morales",
+      "code": "GT-IZ-3592361",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-IZ",
+      "latitude": 15.44494,
+      "longitude": -88.76646
+    },
+    {
+      "id": 3591061,
+      "name": "Municipio de Puerto Barrios",
+      "nativeName": "Municipio de Puerto Barrios",
+      "code": "GT-IZ-3591061",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-IZ",
+      "latitude": 15.71754,
+      "longitude": -88.58517
+    }
+  ]
+}

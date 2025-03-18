@@ -1,0 +1,51 @@
+{
+  "stateId": 3691099,
+  "stateCode": "PE-UCA",
+  "countryCode": "PE",
+  "cities": [
+    {
+      "id": 8349580,
+      "name": "Atalaya",
+      "nativeName": "Atalaya",
+      "code": "PE-UCA-8349580",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-UCA",
+      "latitude": -10.3898,
+      "longitude": -73.21977
+    },
+    {
+      "id": 8349581,
+      "name": "Padre Abad",
+      "nativeName": "Padre Abad",
+      "code": "PE-UCA-8349581",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-UCA",
+      "latitude": -8.7968,
+      "longitude": -75.4285
+    },
+    {
+      "id": 3697795,
+      "name": "Provincia de Coronel Portillo",
+      "nativeName": "Provincia de Coronel Portillo",
+      "code": "PE-UCA-3697795",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-UCA",
+      "latitude": -8.70238,
+      "longitude": -73.9459
+    },
+    {
+      "id": 8349582,
+      "name": "Purús District",
+      "nativeName": "Purus",
+      "code": "PE-UCA-8349582",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-UCA",
+      "latitude": -10.37331,
+      "longitude": -71.58231
+    }
+  ]
+}

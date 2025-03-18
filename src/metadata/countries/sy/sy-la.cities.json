@@ -1,0 +1,51 @@
+{
+  "stateId": 173578,
+  "stateCode": "SY-LA",
+  "countryCode": "SY",
+  "cities": [
+    {
+      "id": 173857,
+      "name": "Al-Haffah District",
+      "nativeName": "Al-Haffah District",
+      "code": "SY-LA-173857",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-LA",
+      "latitude": 35.59687,
+      "longitude": 36.11198
+    },
+    {
+      "id": 169303,
+      "name": "Jableh District",
+      "nativeName": "Jableh District",
+      "code": "SY-LA-169303",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-LA",
+      "latitude": 35.29048,
+      "longitude": 36.0449
+    },
+    {
+      "id": 173577,
+      "name": "Latakia District",
+      "nativeName": "Latakia District",
+      "code": "SY-LA-173577",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-LA",
+      "latitude": 35.72426,
+      "longitude": 35.9415
+    },
+    {
+      "id": 173365,
+      "name": "Qardaha District",
+      "nativeName": "Qardaha District",
+      "code": "SY-LA-173365",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-LA",
+      "latitude": 35.41713,
+      "longitude": 36.10613
+    }
+  ]
+}

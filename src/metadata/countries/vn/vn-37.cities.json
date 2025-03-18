@@ -1,0 +1,106 @@
+{
+  "stateId": 1566557,
+  "stateCode": "VN-37",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 1904865,
+      "name": "Bến Cầu District",
+      "nativeName": "Huyện Bến Cầu",
+      "code": "VN-37-1904865",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-37",
+      "latitude": 11.12889,
+      "longitude": 106.14296
+    },
+    {
+      "id": 1904864,
+      "name": "Châu Thành District",
+      "nativeName": "Huyện Châu Thành",
+      "code": "VN-37-1904864",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-37",
+      "latitude": 11.31569,
+      "longitude": 105.9813
+    },
+    {
+      "id": 1904868,
+      "name": "Dương Minh Châu District",
+      "nativeName": "Huyện Dương Minh Châu",
+      "code": "VN-37-1904868",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-37",
+      "latitude": 11.35963,
+      "longitude": 106.25973
+    },
+    {
+      "id": 1904866,
+      "name": "Gò Dầu District",
+      "nativeName": "Huyện Gò Dầu",
+      "code": "VN-37-1904866",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-37",
+      "latitude": 11.15737,
+      "longitude": 106.27307
+    },
+    {
+      "id": 1904863,
+      "name": "Hòa Thành District",
+      "nativeName": "Huyện Hòa Thành",
+      "code": "VN-37-1904863",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-37",
+      "latitude": 11.26706,
+      "longitude": 106.14486
+    },
+    {
+      "id": 1904862,
+      "name": "Thành Phố Tây Ninh",
+      "nativeName": "Thành Phố Tây Ninh",
+      "code": "VN-37-1904862",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-37",
+      "latitude": 11.36136,
+      "longitude": 106.12321
+    },
+    {
+      "id": 1904867,
+      "name": "Trảng Bàng District",
+      "nativeName": "Huyện Trảng Bàng",
+      "code": "VN-37-1904867",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-37",
+      "latitude": 11.06176,
+      "longitude": 106.34801
+    },
+    {
+      "id": 1904870,
+      "name": "Tân Biên District",
+      "nativeName": "Huyện Tân Biên",
+      "code": "VN-37-1904870",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-37",
+      "latitude": 11.55794,
+      "longitude": 105.99847
+    },
+    {
+      "id": 1904869,
+      "name": "Tân Châu District",
+      "nativeName": "Huyện Tân Châu",
+      "code": "VN-37-1904869",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-37",
+      "latitude": 11.56125,
+      "longitude": 106.24468
+    }
+  ]
+}

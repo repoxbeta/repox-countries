@@ -1,0 +1,161 @@
+{
+  "stateId": 3344924,
+  "stateCode": "SI-172",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3192986,
+      "name": "Podlehnik",
+      "nativeName": "Podlehnik",
+      "code": "SI-172-3192986",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-172",
+      "latitude": 46.33528,
+      "longitude": 15.88
+    },
+    {
+      "id": 3202042,
+      "name": "Dežno pri Podlehniku",
+      "nativeName": "Dežno pri Podlehniku",
+      "code": "SI-172-3202042",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-172",
+      "latitude": 46.33333,
+      "longitude": 15.83333
+    },
+    {
+      "id": 8987384,
+      "name": "Gorca",
+      "nativeName": "Gorca",
+      "code": "SI-172-8987384",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-172",
+      "latitude": 46.342,
+      "longitude": 15.85203
+    },
+    {
+      "id": 8987681,
+      "name": "Jablovec",
+      "nativeName": "Jablovec",
+      "code": "SI-172-8987681",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-172",
+      "latitude": 46.32121,
+      "longitude": 15.8542
+    },
+    {
+      "id": 3197431,
+      "name": "Kozminci",
+      "nativeName": "Kozminci",
+      "code": "SI-172-3197431",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-172",
+      "latitude": 46.3,
+      "longitude": 15.85
+    },
+    {
+      "id": 8988416,
+      "name": "Ložina",
+      "nativeName": "Ložina",
+      "code": "SI-172-8988416",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-172",
+      "latitude": 46.29222,
+      "longitude": 15.89933
+    },
+    {
+      "id": 3191590,
+      "name": "Rodni Vrh",
+      "nativeName": "Rodni Vrh",
+      "code": "SI-172-3191590",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-172",
+      "latitude": 46.33333,
+      "longitude": 15.83333
+    },
+    {
+      "id": 8987152,
+      "name": "Sedlašek",
+      "nativeName": "Sedlašek",
+      "code": "SI-172-8987152",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-172",
+      "latitude": 46.31004,
+      "longitude": 15.87965
+    },
+    {
+      "id": 8988444,
+      "name": "Spodnje Gruškovje",
+      "nativeName": "Spodnje Gruškovje",
+      "code": "SI-172-8988444",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-172",
+      "latitude": 46.33091,
+      "longitude": 15.90075
+    },
+    {
+      "id": 8987314,
+      "name": "Stanošina",
+      "nativeName": "Stanošina",
+      "code": "SI-172-8987314",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-172",
+      "latitude": 46.30357,
+      "longitude": 15.86195
+    },
+    {
+      "id": 8987765,
+      "name": "Strajna",
+      "nativeName": "Strajna",
+      "code": "SI-172-8987765",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-172",
+      "latitude": 46.30738,
+      "longitude": 15.83598
+    },
+    {
+      "id": 3189706,
+      "name": "Strmec pri Leskovcu",
+      "nativeName": "Strmec pri Leskovcu",
+      "code": "SI-172-3189706",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-172",
+      "latitude": 46.33857,
+      "longitude": 15.92166
+    },
+    {
+      "id": 3186858,
+      "name": "Zakl",
+      "nativeName": "Zakl",
+      "code": "SI-172-3186858",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-172",
+      "latitude": 46.3225,
+      "longitude": 15.87556
+    },
+    {
+      "id": 3339109,
+      "name": "Zgornje Gruškovje",
+      "nativeName": "Zgornje Gruškovje",
+      "code": "SI-172-3339109",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-172",
+      "latitude": 46.28583,
+      "longitude": 15.86083
+    }
+  ]
+}

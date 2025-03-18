@@ -1,0 +1,51 @@
+{
+  "stateId": 7521311,
+  "stateCode": "PH-00",
+  "countryCode": "PH",
+  "cities": [
+    {
+      "id": 11395835,
+      "name": "Capital District",
+      "nativeName": "Capital District",
+      "code": "PH-00-11395835",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-00",
+      "latitude": 14.5982,
+      "longitude": 120.98986
+    },
+    {
+      "id": 11395836,
+      "name": "Eastern Manila District",
+      "nativeName": "Eastern Manila District",
+      "code": "PH-00-11395836",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-00",
+      "latitude": 14.58043,
+      "longitude": 121.08376
+    },
+    {
+      "id": 11395837,
+      "name": "Northern Manila District",
+      "nativeName": "Northern Manila District",
+      "code": "PH-00-11395837",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-00",
+      "latitude": 14.73421,
+      "longitude": 121.01337
+    },
+    {
+      "id": 11395838,
+      "name": "Southern Manila District",
+      "nativeName": "Southern Manila District",
+      "code": "PH-00-11395838",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-00",
+      "latitude": 14.51845,
+      "longitude": 121.02882
+    }
+  ]
+}

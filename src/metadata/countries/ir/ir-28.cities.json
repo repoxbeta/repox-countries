@@ -1,0 +1,95 @@
+{
+  "stateId": 6201376,
+  "stateCode": "IR-28",
+  "countryCode": "IR",
+  "cities": [
+    {
+      "id": 9532886,
+      "name": "Garmeh",
+      "nativeName": "Garmeh",
+      "code": "IR-28-9532886",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-28",
+      "latitude": 37.15222,
+      "longitude": 56.24667
+    },
+    {
+      "id": 11963428,
+      "name": "Raz and Jargalan County",
+      "nativeName": "Raz and Jargalan",
+      "code": "IR-28-11963428",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-28",
+      "latitude": 37.9306,
+      "longitude": 57.1194
+    },
+    {
+      "id": 449541,
+      "name": "Shahrestān-e Bojnūrd",
+      "nativeName": "Shahrestān-e Bojnūrd",
+      "code": "IR-28-449541",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-28",
+      "latitude": 37.56667,
+      "longitude": 57.35667
+    },
+    {
+      "id": 449540,
+      "name": "Shahrestān-e Esfarāyen",
+      "nativeName": "Shahrestān-e Esfarāyen",
+      "code": "IR-28-449540",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-28",
+      "latitude": 36.96222,
+      "longitude": 57.54778
+    },
+    {
+      "id": 8620942,
+      "name": "Shahrestān-e Fārūj",
+      "nativeName": "Shahrestān-e Fārūj",
+      "code": "IR-28-8620942",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-28",
+      "latitude": 37.185,
+      "longitude": 58.17778
+    },
+    {
+      "id": 449542,
+      "name": "Shahrestān-e Jājarm",
+      "nativeName": "Shahrestān-e Jājarm",
+      "code": "IR-28-449542",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-28",
+      "latitude": 37.03778,
+      "longitude": 56.68
+    },
+    {
+      "id": 8620941,
+      "name": "Shahrestān-e Māneh va Samalqān",
+      "nativeName": "Shahrestān-e Māneh va Samalqān",
+      "code": "IR-28-8620941",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-28",
+      "latitude": 37.665,
+      "longitude": 56.60111
+    },
+    {
+      "id": 449543,
+      "name": "Shahrestān-e Shīrvān",
+      "nativeName": "Shahrestān-e Shīrvān",
+      "code": "IR-28-449543",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-28",
+      "latitude": 37.54889,
+      "longitude": 57.89111
+    }
+  ]
+}

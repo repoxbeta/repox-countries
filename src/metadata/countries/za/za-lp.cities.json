@@ -1,0 +1,62 @@
+{
+  "stateId": 1085597,
+  "stateCode": "ZA-LP",
+  "countryCode": "ZA",
+  "cities": [
+    {
+      "id": 8347346,
+      "name": "Capricorn District Municipality",
+      "nativeName": "Capricorn District Municipality",
+      "code": "ZA-LP-8347346",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "stateCode": "ZA-LP",
+      "latitude": -23.48163,
+      "longitude": 29.1835
+    },
+    {
+      "id": 8347373,
+      "name": "Mopani District Municipality",
+      "nativeName": "Mopani District Municipality",
+      "code": "ZA-LP-8347373",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "stateCode": "ZA-LP",
+      "latitude": -23.76661,
+      "longitude": 30.836
+    },
+    {
+      "id": 8347380,
+      "name": "Sekhukhune District Municipality",
+      "nativeName": "Sekhukhune District Municipality",
+      "code": "ZA-LP-8347380",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "stateCode": "ZA-LP",
+      "latitude": -24.82806,
+      "longitude": 29.83803
+    },
+    {
+      "id": 8347374,
+      "name": "Vhembe District Municipality",
+      "nativeName": "Vhembe District Municipality",
+      "code": "ZA-LP-8347374",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "stateCode": "ZA-LP",
+      "latitude": -22.75467,
+      "longitude": 30.1936
+    },
+    {
+      "id": 8347375,
+      "name": "Waterberg District Municipality",
+      "nativeName": "Waterberg District Municipality",
+      "code": "ZA-LP-8347375",
+      "countryId": 953987,
+      "countryCode": "ZA",
+      "stateCode": "ZA-LP",
+      "latitude": -24.20514,
+      "longitude": 27.9787
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "stateId": 3056506,
+  "stateCode": "SK-ZI",
+  "countryCode": "SK",
+  "cities": [
+    {
+      "id": 8986284,
+      "name": "Bytča District",
+      "nativeName": "Okres Bytča",
+      "code": "SK-ZI-8986284",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-ZI",
+      "latitude": 49.22267,
+      "longitude": 18.55844
+    },
+    {
+      "id": 3060404,
+      "name": "Dolný Kubín District",
+      "nativeName": "Okres Dolný Kubín",
+      "code": "SK-ZI-3060404",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-ZI",
+      "latitude": 49.2,
+      "longitude": 19.3
+    },
+    {
+      "id": 8986290,
+      "name": "Kysucké Nové Mesto District",
+      "nativeName": "Okres Kysucké Nové Mesto",
+      "code": "SK-ZI-8986290",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-ZI",
+      "latitude": 49.30206,
+      "longitude": 18.78603
+    },
+    {
+      "id": 3058779,
+      "name": "Martin District",
+      "nativeName": "Okres Martin",
+      "code": "SK-ZI-3058779",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-ZI",
+      "latitude": 49.06667,
+      "longitude": 18.93333
+    },
+    {
+      "id": 6692651,
+      "name": "Námestovo District",
+      "nativeName": "Okres Namestovo",
+      "code": "SK-ZI-6692651",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-ZI",
+      "latitude": 49.40651,
+      "longitude": 19.4767
+    },
+    {
+      "id": 3059049,
+      "name": "Okres Liptovský Mikuláš",
+      "nativeName": "Okres Liptovský Mikuláš",
+      "code": "SK-ZI-3059049",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-ZI",
+      "latitude": 49.08333,
+      "longitude": 19.61667
+    },
+    {
+      "id": 3060834,
+      "name": "Okres Čadca",
+      "nativeName": "Okres Čadca",
+      "code": "SK-ZI-3060834",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-ZI",
+      "latitude": 49.43333,
+      "longitude": 18.78333
+    },
+    {
+      "id": 8986300,
+      "name": "Ružomberok District",
+      "nativeName": "Okres Ružomberok",
+      "code": "SK-ZI-8986300",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-ZI",
+      "latitude": 49.07494,
+      "longitude": 19.30083
+    },
+    {
+      "id": 8986331,
+      "name": "Turčianske Teplice District",
+      "nativeName": "Okres Turčianske Teplice",
+      "code": "SK-ZI-8986331",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-ZI",
+      "latitude": 48.86283,
+      "longitude": 18.85759
+    },
+    {
+      "id": 8986332,
+      "name": "Tvrdošín District",
+      "nativeName": "Okres Tvrdošín",
+      "code": "SK-ZI-8986332",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-ZI",
+      "latitude": 49.33421,
+      "longitude": 19.55461
+    },
+    {
+      "id": 3056507,
+      "name": "Žilina District",
+      "nativeName": "Okres Žilina",
+      "code": "SK-ZI-3056507",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-ZI",
+      "latitude": 49.22303,
+      "longitude": 18.74044
+    }
+  ]
+}

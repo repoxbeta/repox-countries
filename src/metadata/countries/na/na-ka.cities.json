@@ -1,0 +1,40 @@
+{
+  "stateId": 3371201,
+  "stateCode": "NA-KA",
+  "countryCode": "NA",
+  "cities": [
+    {
+      "id": 11257293,
+      "name": "Karasburg Constituency",
+      "nativeName": "Karasburg Constituency",
+      "code": "NA-KA-11257293",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "stateCode": "NA-KA",
+      "latitude": -28.01667,
+      "longitude": 18.75
+    },
+    {
+      "id": 7931911,
+      "name": "Luderitz Constituency",
+      "nativeName": "Luderitz Constituency",
+      "code": "NA-KA-7931911",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "stateCode": "NA-KA",
+      "latitude": -26.70436,
+      "longitude": 15.76106
+    },
+    {
+      "id": 7931912,
+      "name": "Oranjemund Constituency",
+      "nativeName": "Oranjemund Constituency",
+      "code": "NA-KA-7931912",
+      "countryId": 3355338,
+      "countryCode": "NA",
+      "stateCode": "NA-KA",
+      "latitude": -28.04077,
+      "longitude": 16.83229
+    }
+  ]
+}

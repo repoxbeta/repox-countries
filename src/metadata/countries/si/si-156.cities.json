@@ -1,0 +1,40 @@
+{
+  "stateId": 3344936,
+  "stateCode": "SI-156",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3201897,
+      "name": "Dobrovnik",
+      "nativeName": "Dobrovnik",
+      "code": "SI-156-3201897",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-156",
+      "latitude": 46.65139,
+      "longitude": 16.3525
+    },
+    {
+      "id": 3189738,
+      "name": "Strehovci",
+      "nativeName": "Strehovci",
+      "code": "SI-156-3189738",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-156",
+      "latitude": 46.65944,
+      "longitude": 16.32556
+    },
+    {
+      "id": 3216045,
+      "name": "Žitkovci",
+      "nativeName": "Žitkovci",
+      "code": "SI-156-3216045",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-156",
+      "latitude": 46.64139,
+      "longitude": 16.37639
+    }
+  ]
+}

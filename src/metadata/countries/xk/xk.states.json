@@ -1,0 +1,83 @@
+{
+  "countryId": 831053,
+  "countryCode": "XK",
+  "states": [
+    {
+      "id": 10096138,
+      "name": "Ferizaj",
+      "nativeName": "Ferizaj District",
+      "code": "XK-10096138",
+      "internalCode": "",
+      "countryId": 831053,
+      "countryCode": "XK",
+      "latitude": 42.36931,
+      "longitude": 21.14735
+    },
+    {
+      "id": 10096859,
+      "name": "Gjakova",
+      "nativeName": "Gjakova District",
+      "code": "XK-10096859",
+      "internalCode": "",
+      "countryId": 831053,
+      "countryCode": "XK",
+      "latitude": 42.38775,
+      "longitude": 20.4235
+    },
+    {
+      "id": 10097357,
+      "name": "Gjilan",
+      "nativeName": "Gjilan District",
+      "code": "XK-10097357",
+      "internalCode": "",
+      "countryId": 831053,
+      "countryCode": "XK",
+      "latitude": 42.46078,
+      "longitude": 21.46716
+    },
+    {
+      "id": 10097358,
+      "name": "Mitrovica",
+      "nativeName": "Mitrovica District",
+      "code": "XK-10097358",
+      "internalCode": "",
+      "countryId": 831053,
+      "countryCode": "XK",
+      "latitude": 42.89574,
+      "longitude": 20.876
+    },
+    {
+      "id": 10097359,
+      "name": "Pec",
+      "nativeName": "Pec District",
+      "code": "XK-10097359",
+      "internalCode": "",
+      "countryId": 831053,
+      "countryCode": "XK",
+      "latitude": 42.6632,
+      "longitude": 20.30072
+    },
+    {
+      "id": 10097360,
+      "name": "Pristina",
+      "nativeName": "Pristina District",
+      "code": "XK-10097360",
+      "internalCode": "",
+      "countryId": 831053,
+      "countryCode": "XK",
+      "latitude": 42.66308,
+      "longitude": 21.16486
+    },
+    {
+      "id": 10097361,
+      "name": "Prizren",
+      "nativeName": "Prizren District",
+      "code": "XK-10097361",
+      "internalCode": "",
+      "countryId": 831053,
+      "countryCode": "XK",
+      "latitude": 42.21566,
+      "longitude": 20.74232
+    }
+  ]
+}

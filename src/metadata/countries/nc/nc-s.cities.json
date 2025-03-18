@@ -1,0 +1,150 @@
+{
+  "stateId": 2140464,
+  "stateCode": "NC-S",
+  "countryCode": "NC",
+  "cities": [
+    {
+      "id": 2141721,
+      "name": "Bouloupari",
+      "nativeName": "Bouloupari",
+      "code": "NC-S-2141721",
+      "countryId": 2139685,
+      "countryCode": "NC",
+      "stateCode": "NC-S",
+      "latitude": -21.8607,
+      "longitude": 166.05131
+    },
+    {
+      "id": 2141713,
+      "name": "Bourail",
+      "nativeName": "Bourail",
+      "code": "NC-S-2141713",
+      "countryId": 2139685,
+      "countryCode": "NC",
+      "stateCode": "NC-S",
+      "latitude": -21.56667,
+      "longitude": 165.46667
+    },
+    {
+      "id": 2141390,
+      "name": "Dumbéa",
+      "nativeName": "Dumbéa",
+      "code": "NC-S-2141390",
+      "countryId": 2139685,
+      "countryCode": "NC",
+      "stateCode": "NC-S",
+      "latitude": -22.14957,
+      "longitude": 166.44733
+    },
+    {
+      "id": 2141314,
+      "name": "Farino",
+      "nativeName": "Farino",
+      "code": "NC-S-2141314",
+      "countryId": 2139685,
+      "countryCode": "NC",
+      "stateCode": "NC-S",
+      "latitude": -21.66509,
+      "longitude": 165.77597
+    },
+    {
+      "id": 7521418,
+      "name": "La Foa",
+      "nativeName": "La Foa",
+      "code": "NC-S-7521418",
+      "countryId": 2139685,
+      "countryCode": "NC",
+      "stateCode": "NC-S",
+      "latitude": -21.70791,
+      "longitude": 165.82523
+    },
+    {
+      "id": 2140065,
+      "name": "Le Mont-Dore",
+      "nativeName": "Le Mont-Dore",
+      "code": "NC-S-2140065",
+      "countryId": 2139685,
+      "countryCode": "NC",
+      "stateCode": "NC-S",
+      "latitude": -22.27988,
+      "longitude": 166.58054
+    },
+    {
+      "id": 2140960,
+      "name": "L’Île des Pins",
+      "nativeName": "L’Île des Pins",
+      "code": "NC-S-2140960",
+      "countryId": 2139685,
+      "countryCode": "NC",
+      "stateCode": "NC-S",
+      "latitude": -22.61667,
+      "longitude": 167.48333
+    },
+    {
+      "id": 2140108,
+      "name": "Moindou",
+      "nativeName": "Moindou",
+      "code": "NC-S-2140108",
+      "countryId": 2139685,
+      "countryCode": "NC",
+      "stateCode": "NC-S",
+      "latitude": -21.69858,
+      "longitude": 165.68035
+    },
+    {
+      "id": 2139520,
+      "name": "Nouméa",
+      "nativeName": "Nouméa",
+      "code": "NC-S-2139520",
+      "countryId": 2139685,
+      "countryCode": "NC",
+      "stateCode": "NC-S",
+      "latitude": -22.26667,
+      "longitude": 166.46667
+    },
+    {
+      "id": 2138980,
+      "name": "Païta",
+      "nativeName": "Païta",
+      "code": "NC-S-2138980",
+      "countryId": 2139685,
+      "countryCode": "NC",
+      "stateCode": "NC-S",
+      "latitude": -22.12985,
+      "longitude": 166.36391
+    },
+    {
+      "id": 2138354,
+      "name": "Sarraméa",
+      "nativeName": "Sarraméa",
+      "code": "NC-S-2138354",
+      "countryId": 2139685,
+      "countryCode": "NC",
+      "stateCode": "NC-S",
+      "latitude": -21.64211,
+      "longitude": 165.84515
+    },
+    {
+      "id": 2138101,
+      "name": "Thio",
+      "nativeName": "Thio",
+      "code": "NC-S-2138101",
+      "countryId": 2139685,
+      "countryCode": "NC",
+      "stateCode": "NC-S",
+      "latitude": -21.60573,
+      "longitude": 166.21456
+    },
+    {
+      "id": 2137647,
+      "name": "Yaté",
+      "nativeName": "Yaté",
+      "code": "NC-S-2137647",
+      "countryId": 2139685,
+      "countryCode": "NC",
+      "stateCode": "NC-S",
+      "latitude": -22.08333,
+      "longitude": 166.75
+    }
+  ]
+}

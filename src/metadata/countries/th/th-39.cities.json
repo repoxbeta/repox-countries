@@ -1,0 +1,73 @@
+{
+  "stateId": 1906690,
+  "stateCode": "TH-39",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 1608268,
+      "name": "Mueang Nong Bua Lam Phu",
+      "nativeName": "Amphoe Mueang Nong Bua Lamphu",
+      "code": "TH-39-1608268",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-39",
+      "latitude": 17.15818,
+      "longitude": 102.3986
+    },
+    {
+      "id": 1608520,
+      "name": "Na Klang",
+      "nativeName": "Amphoe Na Klang",
+      "code": "TH-39-1608520",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-39",
+      "latitude": 17.32466,
+      "longitude": 102.21456
+    },
+    {
+      "id": 7510751,
+      "name": "Na Wang",
+      "nativeName": "Amphoe Na Wang",
+      "code": "TH-39-7510751",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-39",
+      "latitude": 17.3429,
+      "longitude": 102.07157
+    },
+    {
+      "id": 1608138,
+      "name": "Non Sang",
+      "nativeName": "Amphoe Non Sang",
+      "code": "TH-39-1608138",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-39",
+      "latitude": 16.9022,
+      "longitude": 102.53084
+    },
+    {
+      "id": 1606322,
+      "name": "Si Bun Rueang",
+      "nativeName": "Amphoe Si Bun Rueang",
+      "code": "TH-39-1606322",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-39",
+      "latitude": 16.99775,
+      "longitude": 102.22528
+    },
+    {
+      "id": 7510753,
+      "name": "Suwannakhuha",
+      "nativeName": "Amphoe Suwannakhuha",
+      "code": "TH-39-7510753",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-39",
+      "latitude": 17.54605,
+      "longitude": 102.24852
+    }
+  ]
+}

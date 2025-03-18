@@ -1,0 +1,282 @@
+{
+  "stateId": 1516012,
+  "stateCode": "MN-057",
+  "countryCode": "MN",
+  "cities": [
+    {
+      "id": 6619228,
+      "name": "Aldarkhaan District",
+      "nativeName": "Aldarhaan",
+      "code": "MN-057-6619228",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-057",
+      "latitude": 47.63266,
+      "longitude": 96.53154
+    },
+    {
+      "id": 6619216,
+      "name": "Asgat District",
+      "nativeName": "Asgat",
+      "code": "MN-057-6619216",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-057",
+      "latitude": 49.54704,
+      "longitude": 96.84002
+    },
+    {
+      "id": 6619217,
+      "name": "Bayankhairkhan District",
+      "nativeName": "Bayanhayrhan",
+      "code": "MN-057-6619217",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-057",
+      "latitude": 49.30364,
+      "longitude": 96.34237
+    },
+    {
+      "id": 6619214,
+      "name": "Bayantes District",
+      "nativeName": "Bayantes",
+      "code": "MN-057-6619214",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-057",
+      "latitude": 49.69762,
+      "longitude": 96.35954
+    },
+    {
+      "id": 6987797,
+      "name": "Dörvöljin District",
+      "nativeName": "Dorvoljin Sum",
+      "code": "MN-057-6987797",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-057",
+      "latitude": 47.8588,
+      "longitude": 94.33717
+    },
+    {
+      "id": 6619226,
+      "name": "Erdenekhairkhan District",
+      "nativeName": "Erdenehayrhan",
+      "code": "MN-057-6619226",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-057",
+      "latitude": 48.11408,
+      "longitude": 95.71306
+    },
+    {
+      "id": 6619234,
+      "name": "Ider District",
+      "nativeName": "Ider",
+      "code": "MN-057-6619234",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-057",
+      "latitude": 48.20546,
+      "longitude": 97.37286
+    },
+    {
+      "id": 6619238,
+      "name": "Ih-Uul",
+      "nativeName": "Ih-Uul",
+      "code": "MN-057-6619238",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-057",
+      "latitude": 48.71435,
+      "longitude": 98.79378
+    },
+    {
+      "id": 6619221,
+      "name": "Nömrög District",
+      "nativeName": "Nömrög",
+      "code": "MN-057-6619221",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-057",
+      "latitude": 48.86844,
+      "longitude": 96.96293
+    },
+    {
+      "id": 6619233,
+      "name": "Otgon District",
+      "nativeName": "Otgon",
+      "code": "MN-057-6619233",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-057",
+      "latitude": 47.20324,
+      "longitude": 97.60632
+    },
+    {
+      "id": 6619222,
+      "name": "Santmargats District",
+      "nativeName": "Santmargats",
+      "code": "MN-057-6619222",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-057",
+      "latitude": 48.58331,
+      "longitude": 95.43291
+    },
+    {
+      "id": 6619232,
+      "name": "Shilüüstei District",
+      "nativeName": "Shilüüstey",
+      "code": "MN-057-6619232",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-057",
+      "latitude": 46.88108,
+      "longitude": 97.20085
+    },
+    {
+      "id": 1515279,
+      "name": "Songino District",
+      "nativeName": "Songino",
+      "code": "MN-057-1515279",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-057",
+      "latitude": 48.88333,
+      "longitude": 95.88333
+    },
+    {
+      "id": 6619235,
+      "name": "Telmen District",
+      "nativeName": "Telmen",
+      "code": "MN-057-6619235",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-057",
+      "latitude": 48.63801,
+      "longitude": 97.61284
+    },
+    {
+      "id": 6619215,
+      "name": "Tes",
+      "nativeName": "Tes",
+      "code": "MN-057-6619215",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-057",
+      "latitude": 49.65485,
+      "longitude": 95.79357
+    },
+    {
+      "id": 6987802,
+      "name": "Tes District",
+      "nativeName": "Tes Sum",
+      "code": "MN-057-6987802",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-057",
+      "latitude": 49.62763,
+      "longitude": 95.62636
+    },
+    {
+      "id": 6619236,
+      "name": "Tosontsengel District",
+      "nativeName": "Tosontsengel",
+      "code": "MN-057-6619236",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-057",
+      "latitude": 48.74951,
+      "longitude": 98.27356
+    },
+    {
+      "id": 6619231,
+      "name": "Tsagaanchuluut District",
+      "nativeName": "Tsagaanchuluut",
+      "code": "MN-057-6619231",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-057",
+      "latitude": 47.10378,
+      "longitude": 96.67128
+    },
+    {
+      "id": 6619230,
+      "name": "Tsagaanhayrhan Sum",
+      "nativeName": "Tsagaanhayrhan",
+      "code": "MN-057-6619230",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-057",
+      "latitude": 47.49267,
+      "longitude": 96.80311
+    },
+    {
+      "id": 6619220,
+      "name": "Tsetsen-Uul District",
+      "nativeName": "Tsetsen-Uul",
+      "code": "MN-057-6619220",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-057",
+      "latitude": 48.7451,
+      "longitude": 96.00042
+    },
+    {
+      "id": 6619218,
+      "name": "Tüdevtei District",
+      "nativeName": "Tüdevtey",
+      "code": "MN-057-6619218",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-057",
+      "latitude": 48.97774,
+      "longitude": 96.5427
+    },
+    {
+      "id": 6619227,
+      "name": "Uliastai District",
+      "nativeName": "Uliastay",
+      "code": "MN-057-6619227",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-057",
+      "latitude": 47.7339,
+      "longitude": 96.84912
+    },
+    {
+      "id": 6619223,
+      "name": "Urgamal District",
+      "nativeName": "Urgamal",
+      "code": "MN-057-6619223",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-057",
+      "latitude": 48.51416,
+      "longitude": 94.29428
+    },
+    {
+      "id": 6619229,
+      "name": "Yaruu",
+      "nativeName": "Yaruu",
+      "code": "MN-057-6619229",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-057",
+      "latitude": 48.10651,
+      "longitude": 96.759
+    },
+    {
+      "id": 6619224,
+      "name": "Zavkhanmandal District",
+      "nativeName": "Dzavhanmandal",
+      "code": "MN-057-6619224",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-057",
+      "latitude": 48.31106,
+      "longitude": 95.1071
+    }
+  ]
+}

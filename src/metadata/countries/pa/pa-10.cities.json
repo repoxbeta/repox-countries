@@ -1,0 +1,62 @@
+{
+  "stateId": 11353126,
+  "stateCode": "PA-10",
+  "countryCode": "PA",
+  "cities": [
+    {
+      "id": 3714635,
+      "name": "Arraiján District",
+      "nativeName": "Distrito de Arraiján",
+      "code": "PA-10-3714635",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-10",
+      "latitude": 8.99861,
+      "longitude": -79.6908
+    },
+    {
+      "id": 3713045,
+      "name": "Capira District",
+      "nativeName": "Distrito de Capira",
+      "code": "PA-10-3713045",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-10",
+      "latitude": 8.78986,
+      "longitude": -80.01806
+    },
+    {
+      "id": 3712575,
+      "name": "Chame District",
+      "nativeName": "Distrito de Chame",
+      "code": "PA-10-3712575",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-10",
+      "latitude": 8.61708,
+      "longitude": -79.91798
+    },
+    {
+      "id": 3707960,
+      "name": "La Chorrera District",
+      "nativeName": "Distrito de La Chorrera",
+      "code": "PA-10-3707960",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-10",
+      "latitude": 8.96182,
+      "longitude": -79.86971
+    },
+    {
+      "id": 3701523,
+      "name": "San Carlos District",
+      "nativeName": "Distrito de San Carlos",
+      "code": "PA-10-3701523",
+      "countryId": 3703430,
+      "countryCode": "PA",
+      "stateCode": "PA-10",
+      "latitude": 8.54641,
+      "longitude": -80.03885
+    }
+  ]
+}

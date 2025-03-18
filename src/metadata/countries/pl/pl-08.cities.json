@@ -1,0 +1,161 @@
+{
+  "stateId": 3337494,
+  "stateCode": "PL-08",
+  "countryCode": "PL",
+  "cities": [
+    {
+      "id": 7530744,
+      "name": "Gorzów",
+      "nativeName": "Gorzów Wielkopolski",
+      "code": "PL-08-7530744",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-08",
+      "latitude": 52.73056,
+      "longitude": 15.21711
+    },
+    {
+      "id": 7530978,
+      "name": "Gorzów County",
+      "nativeName": "Powiat gorzowski",
+      "code": "PL-08-7530978",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-08",
+      "latitude": 52.73863,
+      "longitude": 15.08508
+    },
+    {
+      "id": 7531030,
+      "name": "Krosno County",
+      "nativeName": "Powiat krośnieński",
+      "code": "PL-08-7531030",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-08",
+      "latitude": 52.00988,
+      "longitude": 14.95209
+    },
+    {
+      "id": 7530979,
+      "name": "Międzyrzecz County",
+      "nativeName": "Powiat międzyrzecki",
+      "code": "PL-08-7530979",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-08",
+      "latitude": 52.49891,
+      "longitude": 15.58284
+    },
+    {
+      "id": 7530855,
+      "name": "Nowa Sól County",
+      "nativeName": "Powiat nowosolski",
+      "code": "PL-08-7530855",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-08",
+      "latitude": 51.84218,
+      "longitude": 15.72698
+    },
+    {
+      "id": 7530981,
+      "name": "Powiat strzelecko-drezdenecki)",
+      "nativeName": "Powiat strzelecko-drezdenecki",
+      "code": "PL-08-7530981",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-08",
+      "latitude": 52.9122,
+      "longitude": 15.64061
+    },
+    {
+      "id": 7531003,
+      "name": "Powiat zielonogórski",
+      "nativeName": "Powiat zielonogórski",
+      "code": "PL-08-7531003",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-08",
+      "latitude": 51.93326,
+      "longitude": 15.44403
+    },
+    {
+      "id": 7530987,
+      "name": "Sulęcin County",
+      "nativeName": "Powiat sulęciński",
+      "code": "PL-08-7530987",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-08",
+      "latitude": 52.4285,
+      "longitude": 15.04896
+    },
+    {
+      "id": 7530980,
+      "name": "Słubice County",
+      "nativeName": "Powiat słubicki",
+      "code": "PL-08-7530980",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-08",
+      "latitude": 52.32267,
+      "longitude": 14.78921
+    },
+    {
+      "id": 7530812,
+      "name": "Wschowa County",
+      "nativeName": "Powiat wschowski",
+      "code": "PL-08-7530812",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-08",
+      "latitude": 51.83019,
+      "longitude": 16.12096
+    },
+    {
+      "id": 7530991,
+      "name": "Zielona Góra",
+      "nativeName": "Zielona Góra",
+      "code": "PL-08-7530991",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-08",
+      "latitude": 51.93768,
+      "longitude": 15.51216
+    },
+    {
+      "id": 7530988,
+      "name": "Świebodzin County",
+      "nativeName": "Powiat świebodziński",
+      "code": "PL-08-7530988",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-08",
+      "latitude": 52.23799,
+      "longitude": 15.48522
+    },
+    {
+      "id": 7530856,
+      "name": "Żagań County",
+      "nativeName": "Powiat żagański",
+      "code": "PL-08-7530856",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-08",
+      "latitude": 51.59471,
+      "longitude": 15.42253
+    },
+    {
+      "id": 7530731,
+      "name": "Żary County",
+      "nativeName": "Powiat żarski",
+      "code": "PL-08-7530731",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-08",
+      "latitude": 51.62858,
+      "longitude": 14.9617
+    }
+  ]
+}

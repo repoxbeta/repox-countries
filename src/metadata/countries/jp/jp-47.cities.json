@@ -1,0 +1,183 @@
+{
+  "stateId": 1854345,
+  "stateCode": "JP-47",
+  "countryCode": "JP",
+  "cities": [
+    {
+      "id": 1863626,
+      "name": "Ginowan Shi",
+      "nativeName": "Ginowan Shi",
+      "code": "JP-47-1863626",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-47",
+      "latitude": 26.2762,
+      "longitude": 127.75742
+    },
+    {
+      "id": 1861412,
+      "name": "Ishigaki-shi",
+      "nativeName": "Ishigaki-shi",
+      "code": "JP-47-1861412",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-47",
+      "latitude": 24.39401,
+      "longitude": 124.20113
+    },
+    {
+      "id": 1861279,
+      "name": "Itoman Shi",
+      "nativeName": "Itoman Shi",
+      "code": "JP-47-1861279",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-47",
+      "latitude": 26.11795,
+      "longitude": 127.6871
+    },
+    {
+      "id": 1858371,
+      "name": "Kunigami-gun",
+      "nativeName": "Kunigami-gun",
+      "code": "JP-47-1858371",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-47",
+      "latitude": 26.7325,
+      "longitude": 128.23298
+    },
+    {
+      "id": 7415817,
+      "name": "Miyako-gun",
+      "nativeName": "Miyako-gun",
+      "code": "JP-47-7415817",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-47",
+      "latitude": 24.66661,
+      "longitude": 124.69875
+    },
+    {
+      "id": 7415819,
+      "name": "Miyakojima Shi",
+      "nativeName": "Miyakojima Shi",
+      "code": "JP-47-7415819",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-47",
+      "latitude": 24.78574,
+      "longitude": 125.30132
+    },
+    {
+      "id": 1856061,
+      "name": "Nago Shi",
+      "nativeName": "Nago Shi",
+      "code": "JP-47-1856061",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-47",
+      "latitude": 26.58507,
+      "longitude": 128.02466
+    },
+    {
+      "id": 1856030,
+      "name": "Naha Shi",
+      "nativeName": "Naha Shi",
+      "code": "JP-47-1856030",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-47",
+      "latitude": 26.21077,
+      "longitude": 127.68645
+    },
+    {
+      "id": 1855990,
+      "name": "Nakagami",
+      "nativeName": "Nakagami-gun",
+      "code": "JP-47-1855990",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-47",
+      "latitude": 26.30917,
+      "longitude": 127.77722
+    },
+    {
+      "id": 7415820,
+      "name": "Nanjō Shi",
+      "nativeName": "Nanjō Shi",
+      "code": "JP-47-7415820",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-47",
+      "latitude": 26.16371,
+      "longitude": 127.77874
+    },
+    {
+      "id": 1854344,
+      "name": "Okinawa Shi",
+      "nativeName": "Okinawa Shi",
+      "code": "JP-47-1854344",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-47",
+      "latitude": 26.35313,
+      "longitude": 127.80754
+    },
+    {
+      "id": 1852456,
+      "name": "Shimajiri-gun",
+      "nativeName": "Shimajiri-gun",
+      "code": "JP-47-1852456",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-47",
+      "latitude": 25.83818,
+      "longitude": 131.24208
+    },
+    {
+      "id": 1850107,
+      "name": "Tomigusuku-shi",
+      "nativeName": "Tomigusuku-shi",
+      "code": "JP-47-1850107",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-47",
+      "latitude": 26.16667,
+      "longitude": 127.66667
+    },
+    {
+      "id": 1849184,
+      "name": "Urasoe Shi",
+      "nativeName": "Urasoe Shi",
+      "code": "JP-47-1849184",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-47",
+      "latitude": 26.25106,
+      "longitude": 127.71512
+    },
+    {
+      "id": 7415821,
+      "name": "Uruma Shi",
+      "nativeName": "Uruma Shi",
+      "code": "JP-47-7415821",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-47",
+      "latitude": 26.36777,
+      "longitude": 127.87373
+    },
+    {
+      "id": 1848816,
+      "name": "Yaeyama-gun",
+      "nativeName": "Yaeyama-gun",
+      "code": "JP-47-1848816",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-47",
+      "latitude": 24.33504,
+      "longitude": 123.76062
+    }
+  ]
+}

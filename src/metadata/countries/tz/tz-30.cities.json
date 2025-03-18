@@ -1,0 +1,62 @@
+{
+  "stateId": 8469238,
+  "stateCode": "TZ-30",
+  "countryCode": "TZ",
+  "cities": [
+    {
+      "id": 161217,
+      "name": "Bariadi District Council",
+      "nativeName": "Bariadi",
+      "code": "TZ-30-161217",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-30",
+      "latitude": -2.57538,
+      "longitude": 34.26083
+    },
+    {
+      "id": 9998185,
+      "name": "Busega District Council",
+      "nativeName": "Busega",
+      "code": "TZ-30-9998185",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-30",
+      "latitude": -2.39125,
+      "longitude": 33.76995
+    },
+    {
+      "id": 9998187,
+      "name": "Itilima District Council",
+      "nativeName": "Itilima",
+      "code": "TZ-30-9998187",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-30",
+      "latitude": -2.82147,
+      "longitude": 34.39529
+    },
+    {
+      "id": 154646,
+      "name": "Maswa District",
+      "nativeName": "Maswa District",
+      "code": "TZ-30-154646",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-30",
+      "latitude": -3.2,
+      "longitude": 33.786
+    },
+    {
+      "id": 7646376,
+      "name": "Meatu",
+      "nativeName": "Meatu",
+      "code": "TZ-30-7646376",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-30",
+      "latitude": -3.425,
+      "longitude": 34.52
+    }
+  ]
+}

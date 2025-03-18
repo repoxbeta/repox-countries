@@ -1,0 +1,29 @@
+{
+  "stateId": 7628320,
+  "stateCode": "LV-068",
+  "countryCode": "LV",
+  "cities": [
+    {
+      "id": 11352669,
+      "name": "Olaine",
+      "nativeName": "Olaine",
+      "code": "LV-068-11352669",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-068",
+      "latitude": 56.79041,
+      "longitude": 23.92568
+    },
+    {
+      "id": 11352801,
+      "name": "Olaines pagasts",
+      "nativeName": "Olaines pagasts",
+      "code": "LV-068-11352801",
+      "countryId": 458258,
+      "countryCode": "LV",
+      "stateCode": "LV-068",
+      "latitude": 56.77673,
+      "longitude": 23.9864
+    }
+  ]
+}

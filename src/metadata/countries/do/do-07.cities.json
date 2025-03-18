@@ -1,0 +1,73 @@
+{
+  "stateId": 3507269,
+  "stateCode": "DO-07",
+  "countryCode": "DO",
+  "cities": [
+    {
+      "id": 3512065,
+      "name": "Bánica",
+      "nativeName": "Bánica",
+      "code": "DO-07-3512065",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-07",
+      "latitude": 19.03333,
+      "longitude": -71.61667
+    },
+    {
+      "id": 3509387,
+      "name": "Comendador",
+      "nativeName": "Comendador",
+      "code": "DO-07-3509387",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-07",
+      "latitude": 18.88333,
+      "longitude": -71.66667
+    },
+    {
+      "id": 3507124,
+      "name": "El Llano",
+      "nativeName": "El Llano",
+      "code": "DO-07-3507124",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-07",
+      "latitude": 18.76667,
+      "longitude": -71.66667
+    },
+    {
+      "id": 3504468,
+      "name": "Hondo Valle",
+      "nativeName": "Hondo Valle",
+      "code": "DO-07-3504468",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-07",
+      "latitude": 18.70765,
+      "longitude": -71.69745
+    },
+    {
+      "id": 11154574,
+      "name": "Juan Santiago",
+      "nativeName": "Juan Santiago",
+      "code": "DO-07-11154574",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-07",
+      "latitude": 18.73283,
+      "longitude": -71.6071
+    },
+    {
+      "id": 3495099,
+      "name": "Pedro Santana",
+      "nativeName": "Pedro Santana",
+      "code": "DO-07-3495099",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-07",
+      "latitude": 19.16667,
+      "longitude": -71.55
+    }
+  ]
+}

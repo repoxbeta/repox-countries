@@ -1,0 +1,51 @@
+{
+  "stateId": 7303503,
+  "stateCode": "MH-LAE",
+  "countryCode": "MH",
+  "cities": [
+    {
+      "id": 7306517,
+      "name": "Lae",
+      "nativeName": "Lae",
+      "code": "MH-LAE-7306517",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-LAE",
+      "latitude": 8.92217,
+      "longitude": 166.26344
+    },
+    {
+      "id": 2080767,
+      "name": "Boklulu",
+      "nativeName": "Boklulu",
+      "code": "MH-LAE-2080767",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-LAE",
+      "latitude": 8.92148,
+      "longitude": 166.21966
+    },
+    {
+      "id": 2080556,
+      "name": "Enerein",
+      "nativeName": "Enerein",
+      "code": "MH-LAE-2080556",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-LAE",
+      "latitude": 8.92128,
+      "longitude": 166.25698
+    },
+    {
+      "id": 4040607,
+      "name": "Lae",
+      "nativeName": "Lae",
+      "code": "MH-LAE-4040607",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-LAE",
+      "latitude": 8.92488,
+      "longitude": 166.2655
+    }
+  ]
+}

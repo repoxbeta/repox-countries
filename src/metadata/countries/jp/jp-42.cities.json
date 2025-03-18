@@ -1,0 +1,194 @@
+{
+  "stateId": 1856156,
+  "stateCode": "JP-42",
+  "countryCode": "JP",
+  "cities": [
+    {
+      "id": 7418804,
+      "name": "Gotō Shi",
+      "nativeName": "Gotō Shi",
+      "code": "JP-42-7418804",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-42",
+      "latitude": 32.69892,
+      "longitude": 128.76871
+    },
+    {
+      "id": 1862734,
+      "name": "Higashisonigi-gun",
+      "nativeName": "Higashisonigi-gun",
+      "code": "JP-42-1862734",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-42",
+      "latitude": 33.07939,
+      "longitude": 129.91894
+    },
+    {
+      "id": 7418805,
+      "name": "Hirado Shi",
+      "nativeName": "Hirado Shi",
+      "code": "JP-42-7418805",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-42",
+      "latitude": 33.31596,
+      "longitude": 129.48688
+    },
+    {
+      "id": 1861758,
+      "name": "Iki Shi",
+      "nativeName": "Iki Shi",
+      "code": "JP-42-1861758",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-42",
+      "latitude": 33.78554,
+      "longitude": 129.7167
+    },
+    {
+      "id": 8301120,
+      "name": "Isahaya Shi",
+      "nativeName": "Isahaya Shi",
+      "code": "JP-42-8301120",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-42",
+      "latitude": 32.86912,
+      "longitude": 130.06369
+    },
+    {
+      "id": 1859301,
+      "name": "Kitamatsuura-gun",
+      "nativeName": "Kitamatsuura-gun",
+      "code": "JP-42-1859301",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-42",
+      "latitude": 33.23871,
+      "longitude": 129.65786
+    },
+    {
+      "id": 1857466,
+      "name": "Matsuura Shi",
+      "nativeName": "Matsuura Shi",
+      "code": "JP-42-1857466",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-42",
+      "latitude": 33.35334,
+      "longitude": 129.73504
+    },
+    {
+      "id": 1857159,
+      "name": "Minamimatsuura Gun",
+      "nativeName": "Minamimatsuura Gun",
+      "code": "JP-42-1857159",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-42",
+      "latitude": 32.953,
+      "longitude": 129.06855
+    },
+    {
+      "id": 7418806,
+      "name": "Minamishimabara Shi",
+      "nativeName": "Minamishimabara Shi",
+      "code": "JP-42-7418806",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-42",
+      "latitude": 32.67565,
+      "longitude": 130.25695
+    },
+    {
+      "id": 1856152,
+      "name": "Nagasaki Shi",
+      "nativeName": "Nagasaki Shi",
+      "code": "JP-42-1856152",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-42",
+      "latitude": 32.78206,
+      "longitude": 129.82715
+    },
+    {
+      "id": 1855163,
+      "name": "Nishisonogi-gun",
+      "nativeName": "Nishisonogi-gun",
+      "code": "JP-42-1855163",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-42",
+      "latitude": 32.83438,
+      "longitude": 129.86019
+    },
+    {
+      "id": 7418808,
+      "name": "Saikai Shi",
+      "nativeName": "Saikai Shi",
+      "code": "JP-42-7418808",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-42",
+      "latitude": 32.99259,
+      "longitude": 129.682
+    },
+    {
+      "id": 1852895,
+      "name": "Sasebo Shi",
+      "nativeName": "Sasebo Shi",
+      "code": "JP-42-1852895",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-42",
+      "latitude": 33.18992,
+      "longitude": 129.6896
+    },
+    {
+      "id": 7418809,
+      "name": "Shimabara Shi",
+      "nativeName": "Shimabara Shi",
+      "code": "JP-42-7418809",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-42",
+      "latitude": 32.79429,
+      "longitude": 130.32925
+    },
+    {
+      "id": 7418810,
+      "name": "Tsushima Shi",
+      "nativeName": "Tsushima Shi",
+      "code": "JP-42-7418810",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-42",
+      "latitude": 34.40845,
+      "longitude": 129.32599
+    },
+    {
+      "id": 7418811,
+      "name": "Unzen Shi",
+      "nativeName": "Unzen Shi",
+      "code": "JP-42-7418811",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-42",
+      "latitude": 32.7839,
+      "longitude": 130.22828
+    },
+    {
+      "id": 7418807,
+      "name": "Ōmura-shi",
+      "nativeName": "Ōmura Shi",
+      "code": "JP-42-7418807",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-42",
+      "latitude": 32.93978,
+      "longitude": 129.99297
+    }
+  ]
+}

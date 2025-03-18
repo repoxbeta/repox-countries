@@ -1,0 +1,29 @@
+{
+  "stateId": 6693563,
+  "stateCode": "CL-LR",
+  "countryCode": "CL",
+  "cities": [
+    {
+      "id": 3868703,
+      "name": "Provincia de Valdivia",
+      "nativeName": "Provincia de Valdivia",
+      "code": "CL-LR-3868703",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-LR",
+      "latitude": -39.80273,
+      "longitude": -72.5469
+    },
+    {
+      "id": 6693564,
+      "name": "Provincia del Ranco",
+      "nativeName": "Provincia del Ranco",
+      "code": "CL-LR-6693564",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-LR",
+      "latitude": -40.13689,
+      "longitude": -72.37793
+    }
+  ]
+}

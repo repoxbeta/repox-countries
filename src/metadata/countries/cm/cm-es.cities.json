@@ -1,0 +1,51 @@
+{
+  "stateId": 2231835,
+  "stateCode": "CM-ES",
+  "countryCode": "CM",
+  "cities": [
+    {
+      "id": 2233500,
+      "name": "Boumba-Et-Ngoko",
+      "nativeName": "Boumba-Ngoko",
+      "code": "CM-ES-2233500",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-ES",
+      "latitude": 3,
+      "longitude": 15
+    },
+    {
+      "id": 2230815,
+      "name": "Haut-Nyong",
+      "nativeName": "Departement du Haut-Nyong",
+      "code": "CM-ES-2230815",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-ES",
+      "latitude": 3.5,
+      "longitude": 13.75
+    },
+    {
+      "id": 2230606,
+      "name": "Kadei",
+      "nativeName": "Département de la Kadeï",
+      "code": "CM-ES-2230606",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-ES",
+      "latitude": 4.24,
+      "longitude": 14.42
+    },
+    {
+      "id": 2229251,
+      "name": "Lom-Et-Djerem",
+      "nativeName": "Département du Lom-et-Djérem",
+      "code": "CM-ES-2229251",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-ES",
+      "latitude": 5.16667,
+      "longitude": 13.83333
+    }
+  ]
+}

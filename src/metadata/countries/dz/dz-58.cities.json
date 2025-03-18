@@ -1,0 +1,29 @@
+{
+  "stateId": 12226389,
+  "stateCode": "DZ-58",
+  "countryCode": "DZ",
+  "cities": [
+    {
+      "id": 11203916,
+      "name": "El Ménia District",
+      "nativeName": "El Ménia District",
+      "code": "DZ-58-11203916",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-58",
+      "latitude": 30.58333,
+      "longitude": 2.88333
+    },
+    {
+      "id": 12952489,
+      "name": "Mansourah",
+      "nativeName": "Mansourah",
+      "code": "DZ-58-12952489",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-58",
+      "latitude": 31.69133,
+      "longitude": 3.46282
+    }
+  ]
+}

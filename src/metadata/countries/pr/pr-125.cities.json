@@ -1,0 +1,216 @@
+{
+  "stateId": 4568105,
+  "stateCode": "PR-125",
+  "countryCode": "PR",
+  "cities": [
+    {
+      "id": 7268198,
+      "name": "Ancones Barrio",
+      "nativeName": "Ancones Barrio",
+      "code": "PR-125-7268198",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-125",
+      "latitude": 18.07059,
+      "longitude": -67.04691
+    },
+    {
+      "id": 7268295,
+      "name": "Caín Alto Barrio",
+      "nativeName": "Caín Alto Barrio",
+      "code": "PR-125-7268295",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-125",
+      "latitude": 18.11814,
+      "longitude": -67.01244
+    },
+    {
+      "id": 7268296,
+      "name": "Caín Bajo Barrio",
+      "nativeName": "Caín Bajo Barrio",
+      "code": "PR-125-7268296",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-125",
+      "latitude": 18.10871,
+      "longitude": -67.04628
+    },
+    {
+      "id": 7268118,
+      "name": "Cotuí Barrio",
+      "nativeName": "Cotuí Barrio",
+      "code": "PR-125-7268118",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-125",
+      "latitude": 18.0688,
+      "longitude": -67.0802
+    },
+    {
+      "id": 7268157,
+      "name": "Duey Alto Barrio",
+      "nativeName": "Duey Alto Barrio",
+      "code": "PR-125-7268157",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-125",
+      "latitude": 18.13283,
+      "longitude": -67.06408
+    },
+    {
+      "id": 7268158,
+      "name": "Duey Bajo Barrio",
+      "nativeName": "Duey Bajo Barrio",
+      "code": "PR-125-7268158",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-125",
+      "latitude": 18.13211,
+      "longitude": -67.08277
+    },
+    {
+      "id": 7268416,
+      "name": "Guamá Barrio",
+      "nativeName": "Guamá Barrio",
+      "code": "PR-125-7268416",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-125",
+      "latitude": 18.10244,
+      "longitude": -67.00324
+    },
+    {
+      "id": 7268477,
+      "name": "Hoconuco Alto Barrio",
+      "nativeName": "Hoconuco Alto Barrio",
+      "code": "PR-125-7268477",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-125",
+      "latitude": 18.13821,
+      "longitude": -67.02072
+    },
+    {
+      "id": 7268478,
+      "name": "Hoconuco Bajo Barrio",
+      "nativeName": "Hoconuco Bajo Barrio",
+      "code": "PR-125-7268478",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-125",
+      "latitude": 18.11911,
+      "longitude": -67.0609
+    },
+    {
+      "id": 7268616,
+      "name": "Maresúa Barrio",
+      "nativeName": "Maresúa Barrio",
+      "code": "PR-125-7268616",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-125",
+      "latitude": 18.07954,
+      "longitude": -67.06683
+    },
+    {
+      "id": 7268654,
+      "name": "Minillas Barrio",
+      "nativeName": "Minillas Barrio",
+      "code": "PR-125-7268654",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-125",
+      "latitude": 18.08581,
+      "longitude": -66.99018
+    },
+    {
+      "id": 7268878,
+      "name": "Retiro Barrio",
+      "nativeName": "Retiro Barrio",
+      "code": "PR-125-7268878",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-125",
+      "latitude": 18.06946,
+      "longitude": -67.02249
+    },
+    {
+      "id": 7268924,
+      "name": "Rosario Alto Barrio",
+      "nativeName": "Rosario Alto Barrio",
+      "code": "PR-125-7268924",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-125",
+      "latitude": 18.15322,
+      "longitude": -67.03221
+    },
+    {
+      "id": 7268925,
+      "name": "Rosario Bajo Barrio",
+      "nativeName": "Rosario Bajo Barrio",
+      "code": "PR-125-7268925",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-125",
+      "latitude": 18.16016,
+      "longitude": -67.072
+    },
+    {
+      "id": 7268927,
+      "name": "Rosario Peñón Barrio",
+      "nativeName": "Rosario Peñón Barrio",
+      "code": "PR-125-7268927",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-125",
+      "latitude": 18.15498,
+      "longitude": -67.0554
+    },
+    {
+      "id": 7268938,
+      "name": "Sabana Eneas Barrio",
+      "nativeName": "Sabana Eneas Barrio",
+      "code": "PR-125-7268938",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-125",
+      "latitude": 18.08744,
+      "longitude": -67.09233
+    },
+    {
+      "id": 7268939,
+      "name": "Sabana Grande Abajo Barrio",
+      "nativeName": "Sabana Grande Abajo Barrio",
+      "code": "PR-125-7268939",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-125",
+      "latitude": 18.09674,
+      "longitude": -67.0648
+    },
+    {
+      "id": 7268970,
+      "name": "San Germán Barrio-Pueblo",
+      "nativeName": "San Germán Barrio-Pueblo",
+      "code": "PR-125-7268970",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-125",
+      "latitude": 18.08102,
+      "longitude": -67.04329
+    },
+    {
+      "id": 7269054,
+      "name": "Tuna Barrio",
+      "nativeName": "Tuna Barrio",
+      "code": "PR-125-7269054",
+      "countryId": 4566966,
+      "countryCode": "PR",
+      "stateCode": "PR-125",
+      "latitude": 18.06542,
+      "longitude": -67.09653
+    }
+  ]
+}

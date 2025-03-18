@@ -1,0 +1,73 @@
+{
+  "stateId": 3239177,
+  "stateCode": "SI-074",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3195202,
+      "name": "Mežica",
+      "nativeName": "Mežica",
+      "code": "SI-074-3195202",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-074",
+      "latitude": 46.52139,
+      "longitude": 14.85444
+    },
+    {
+      "id": 8989842,
+      "name": "Breg",
+      "nativeName": "Breg",
+      "code": "SI-074-8989842",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-074",
+      "latitude": 46.50319,
+      "longitude": 14.85192
+    },
+    {
+      "id": 3196240,
+      "name": "Lom",
+      "nativeName": "Lom",
+      "code": "SI-074-3196240",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-074",
+      "latitude": 46.53333,
+      "longitude": 14.85
+    },
+    {
+      "id": 3194105,
+      "name": "Onkraj Meže",
+      "nativeName": "Onkraj Meže",
+      "code": "SI-074-3194105",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-074",
+      "latitude": 46.52643,
+      "longitude": 14.86833
+    },
+    {
+      "id": 3193233,
+      "name": "Plat",
+      "nativeName": "Plat",
+      "code": "SI-074-3193233",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-074",
+      "latitude": 46.5,
+      "longitude": 14.86667
+    },
+    {
+      "id": 8987692,
+      "name": "Podkraj pri Mežici",
+      "nativeName": "Podkraj pri Mežici",
+      "code": "SI-074-8987692",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-074",
+      "latitude": 46.52231,
+      "longitude": 14.83637
+    }
+  ]
+}

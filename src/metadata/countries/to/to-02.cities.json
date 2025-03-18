@@ -1,0 +1,73 @@
+{
+  "stateId": 4032637,
+  "stateCode": "TO-02",
+  "countryCode": "TO",
+  "cities": [
+    {
+      "id": 12041944,
+      "name": "'Uiha",
+      "nativeName": "'Uiha",
+      "code": "TO-02-12041944",
+      "countryId": 4032283,
+      "countryCode": "TO",
+      "stateCode": "TO-02",
+      "latitude": -19.8259,
+      "longitude": -174.55114
+    },
+    {
+      "id": 12041927,
+      "name": "Foa",
+      "nativeName": "Foa",
+      "code": "TO-02-12041927",
+      "countryId": 4032283,
+      "countryCode": "TO",
+      "stateCode": "TO-02",
+      "latitude": -19.73847,
+      "longitude": -174.29858
+    },
+    {
+      "id": 12041928,
+      "name": "Ha`ano",
+      "nativeName": "Ha`ano",
+      "code": "TO-02-12041928",
+      "countryId": 4032283,
+      "countryCode": "TO",
+      "stateCode": "TO-02",
+      "latitude": -19.6726,
+      "longitude": -174.28378
+    },
+    {
+      "id": 12041936,
+      "name": "Lulunga",
+      "nativeName": "Lulunga",
+      "code": "TO-02-12041936",
+      "countryId": 4032283,
+      "countryCode": "TO",
+      "stateCode": "TO-02",
+      "latitude": -19.81092,
+      "longitude": -174.72185
+    },
+    {
+      "id": 12041938,
+      "name": "Mu'omu'a",
+      "nativeName": "Mu'omu'a",
+      "code": "TO-02-12041938",
+      "countryId": 4032283,
+      "countryCode": "TO",
+      "stateCode": "TO-02",
+      "latitude": -20.27862,
+      "longitude": -174.62931
+    },
+    {
+      "id": 12041941,
+      "name": "Pangai",
+      "nativeName": "Pangai",
+      "code": "TO-02-12041941",
+      "countryId": 4032283,
+      "countryCode": "TO",
+      "stateCode": "TO-02",
+      "latitude": -19.75691,
+      "longitude": -174.33037
+    }
+  ]
+}

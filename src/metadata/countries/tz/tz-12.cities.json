@@ -1,0 +1,73 @@
+{
+  "stateId": 155946,
+  "stateCode": "TZ-12",
+  "countryCode": "TZ",
+  "cities": [
+    {
+      "id": 157383,
+      "name": "Kilwa District",
+      "nativeName": "Kilwa",
+      "code": "TZ-12-157383",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-12",
+      "latitude": -9.03945,
+      "longitude": 39.04456
+    },
+    {
+      "id": 7647665,
+      "name": "Lindi Rural",
+      "nativeName": "Lindi Rural",
+      "code": "TZ-12-7647665",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-12",
+      "latitude": -9.68333,
+      "longitude": 39.55
+    },
+    {
+      "id": 878280,
+      "name": "Lindi Urban",
+      "nativeName": "Lindi Urban",
+      "code": "TZ-12-878280",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-12",
+      "latitude": -9.97832,
+      "longitude": 39.67163
+    },
+    {
+      "id": 155918,
+      "name": "Liwale District Council",
+      "nativeName": "Liwale",
+      "code": "TZ-12-155918",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-12",
+      "latitude": -9.32739,
+      "longitude": 37.91843
+    },
+    {
+      "id": 877701,
+      "name": "Nachingwea District",
+      "nativeName": "Nachingwea",
+      "code": "TZ-12-877701",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-12",
+      "latitude": -10.40399,
+      "longitude": 38.34422
+    },
+    {
+      "id": 7647667,
+      "name": "Ruangwa",
+      "nativeName": "Ruangwa",
+      "code": "TZ-12-7647667",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-12",
+      "latitude": -10.06667,
+      "longitude": 38.93333
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "stateId": 7521943,
+  "stateCode": "TT-PTF",
+  "countryCode": "TT",
+  "cities": [
+    {
+      "id": 3573899,
+      "name": "Point Fortin",
+      "nativeName": "Point Fortin",
+      "code": "TT-PTF-3573899",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-PTF",
+      "latitude": 10.17411,
+      "longitude": -61.68407
+    },
+    {
+      "id": 3574874,
+      "name": "Cap-de-Ville",
+      "nativeName": "Cap-de-Ville",
+      "code": "TT-PTF-3574874",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-PTF",
+      "latitude": 10.15264,
+      "longitude": -61.70753
+    },
+    {
+      "id": 3574767,
+      "name": "Cochrane",
+      "nativeName": "Cochrane",
+      "code": "TT-PTF-3574767",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-PTF",
+      "latitude": 10.18604,
+      "longitude": -61.64521
+    },
+    {
+      "id": 3574450,
+      "name": "Guapo",
+      "nativeName": "Guapo",
+      "code": "TT-PTF-3574450",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-PTF",
+      "latitude": 10.19505,
+      "longitude": -61.65664
+    },
+    {
+      "id": 8710035,
+      "name": "Hubert’s Town",
+      "nativeName": "Hubert’s Town",
+      "code": "TT-PTF-8710035",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-PTF",
+      "latitude": 10.17933,
+      "longitude": -61.63799
+    },
+    {
+      "id": 3573898,
+      "name": "Point Ligoure",
+      "nativeName": "Point Ligoure",
+      "code": "TT-PTF-3573898",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-PTF",
+      "latitude": 10.16667,
+      "longitude": -61.66667
+    }
+  ]
+}

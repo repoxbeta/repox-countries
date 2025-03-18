@@ -1,0 +1,51 @@
+{
+  "stateId": 8604858,
+  "stateCode": "TD-EE",
+  "countryCode": "TD",
+  "cities": [
+    {
+      "id": 12186851,
+      "name": "Amdjarass",
+      "nativeName": "Amdjarass",
+      "code": "TD-EE-12186851",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-EE",
+      "latitude": 16.05282,
+      "longitude": 22.73362
+    },
+    {
+      "id": 12186854,
+      "name": "Bao",
+      "nativeName": "Bao",
+      "code": "TD-EE-12186854",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-EE",
+      "latitude": 16.50826,
+      "longitude": 23.02653
+    },
+    {
+      "id": 12186853,
+      "name": "Itou",
+      "nativeName": "Itou",
+      "code": "TD-EE-12186853",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-EE",
+      "latitude": 16.54055,
+      "longitude": 22.38657
+    },
+    {
+      "id": 12186855,
+      "name": "Mourdi",
+      "nativeName": "Mourdi",
+      "code": "TD-EE-12186855",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-EE",
+      "latitude": 17.82948,
+      "longitude": 22.56873
+    }
+  ]
+}

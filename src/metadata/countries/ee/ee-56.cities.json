@@ -1,0 +1,40 @@
+{
+  "stateId": 590856,
+  "stateCode": "EE-56",
+  "countryCode": "EE",
+  "cities": [
+    {
+      "id": 7522269,
+      "name": "Haapsalu linn",
+      "nativeName": "Haapsalu linn",
+      "code": "EE-56-7522269",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-56",
+      "latitude": 58.9358,
+      "longitude": 23.53005
+    },
+    {
+      "id": 11054712,
+      "name": "Lääne-Nigula vald",
+      "nativeName": "Lääne-Nigula vald",
+      "code": "EE-56-11054712",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-56",
+      "latitude": 58.96045,
+      "longitude": 23.74489
+    },
+    {
+      "id": 7522480,
+      "name": "Vormsi vald",
+      "nativeName": "Vormsi vald",
+      "code": "EE-56-7522480",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-56",
+      "latitude": 58.99986,
+      "longitude": 23.23408
+    }
+  ]
+}

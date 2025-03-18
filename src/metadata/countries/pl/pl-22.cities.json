@@ -1,0 +1,227 @@
+{
+  "stateId": 3337496,
+  "stateCode": "PL-22",
+  "countryCode": "PL",
+  "cities": [
+    {
+      "id": 7531015,
+      "name": "Bytów County",
+      "nativeName": "Powiat bytowski",
+      "code": "PL-22-7531015",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-22",
+      "latitude": 54.15691,
+      "longitude": 17.29147
+    },
+    {
+      "id": 7530931,
+      "name": "Chojnice County",
+      "nativeName": "Powiat chojnicki",
+      "code": "PL-22-7530931",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-22",
+      "latitude": 53.80099,
+      "longitude": 17.71882
+    },
+    {
+      "id": 7530932,
+      "name": "Człuchów County",
+      "nativeName": "Powiat człuchowski",
+      "code": "PL-22-7530932",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-22",
+      "latitude": 53.75112,
+      "longitude": 17.18936
+    },
+    {
+      "id": 7531002,
+      "name": "Gdańsk",
+      "nativeName": "Gdańsk",
+      "code": "PL-22-7531002",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-22",
+      "latitude": 54.36112,
+      "longitude": 18.68976
+    },
+    {
+      "id": 7530971,
+      "name": "Gdańsk County",
+      "nativeName": "Powiat gdański",
+      "code": "PL-22-7530971",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-22",
+      "latitude": 54.22493,
+      "longitude": 18.58157
+    },
+    {
+      "id": 7530943,
+      "name": "Gdynia",
+      "nativeName": "Gdynia",
+      "code": "PL-22-7530943",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-22",
+      "latitude": 54.50361,
+      "longitude": 18.46374
+    },
+    {
+      "id": 7530789,
+      "name": "Kartuzy Country",
+      "nativeName": "Powiat kartuski",
+      "code": "PL-22-7530789",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-22",
+      "latitude": 54.32687,
+      "longitude": 18.08632
+    },
+    {
+      "id": 7530785,
+      "name": "Kościerzyna County",
+      "nativeName": "Powiat kościerski",
+      "code": "PL-22-7530785",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-22",
+      "latitude": 54.01939,
+      "longitude": 18.004
+    },
+    {
+      "id": 7530933,
+      "name": "Kwidzyn County",
+      "nativeName": "Powiat kwidzyński",
+      "code": "PL-22-7530933",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-22",
+      "latitude": 53.7469,
+      "longitude": 19.03111
+    },
+    {
+      "id": 7530786,
+      "name": "Lębork County",
+      "nativeName": "Powiat lęborski",
+      "code": "PL-22-7530786",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-22",
+      "latitude": 54.5683,
+      "longitude": 17.65178
+    },
+    {
+      "id": 7530787,
+      "name": "Malbork County",
+      "nativeName": "Powiat malborski",
+      "code": "PL-22-7530787",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-22",
+      "latitude": 54.06329,
+      "longitude": 19.04421
+    },
+    {
+      "id": 7531068,
+      "name": "Powiat nowodworski",
+      "nativeName": "Powiat nowodworski",
+      "code": "PL-22-7531068",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-22",
+      "latitude": 54.2873,
+      "longitude": 19.24266
+    },
+    {
+      "id": 7531071,
+      "name": "Powiat sztumski",
+      "nativeName": "Powiat sztumski",
+      "code": "PL-22-7531071",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-22",
+      "latitude": 53.90149,
+      "longitude": 19.22
+    },
+    {
+      "id": 7530788,
+      "name": "Puck County",
+      "nativeName": "Powiat pucki",
+      "code": "PL-22-7530788",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-22",
+      "latitude": 54.69659,
+      "longitude": 18.36979
+    },
+    {
+      "id": 7530820,
+      "name": "Sopot",
+      "nativeName": "Sopot",
+      "code": "PL-22-7530820",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-22",
+      "latitude": 54.44185,
+      "longitude": 18.54782
+    },
+    {
+      "id": 7530934,
+      "name": "Starogard County",
+      "nativeName": "Powiat starogardzki",
+      "code": "PL-22-7530934",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-22",
+      "latitude": 53.89912,
+      "longitude": 18.39912
+    },
+    {
+      "id": 7530942,
+      "name": "Słupsk",
+      "nativeName": "Słupsk",
+      "code": "PL-22-7530942",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-22",
+      "latitude": 54.4606,
+      "longitude": 17.02787
+    },
+    {
+      "id": 7531069,
+      "name": "Słupsk County",
+      "nativeName": "Powiat słupski",
+      "code": "PL-22-7531069",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-22",
+      "latitude": 54.42211,
+      "longitude": 17.15917
+    },
+    {
+      "id": 7530935,
+      "name": "Tczew County",
+      "nativeName": "Powiat tczewski",
+      "code": "PL-22-7530935",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-22",
+      "latitude": 53.91895,
+      "longitude": 18.71916
+    },
+    {
+      "id": 7531070,
+      "name": "Wejherowo County",
+      "nativeName": "Powiat wejherowski",
+      "code": "PL-22-7531070",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-22",
+      "latitude": 54.61707,
+      "longitude": 18.04881
+    }
+  ]
+}

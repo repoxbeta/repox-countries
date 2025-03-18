@@ -1,0 +1,62 @@
+{
+  "stateId": 11395958,
+  "stateCode": "LA-XS",
+  "countryCode": "LA",
+  "cities": [
+    {
+      "id": 11550446,
+      "name": "Anouvong district",
+      "nativeName": "Anouvong district",
+      "code": "LA-XS-11550446",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-XS",
+      "latitude": 18.89731,
+      "longitude": 103.09274
+    },
+    {
+      "id": 11550496,
+      "name": "Longchaeng",
+      "nativeName": "Longchaeng",
+      "code": "LA-XS-11550496",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-XS",
+      "latitude": 18.89394,
+      "longitude": 103.14274
+    },
+    {
+      "id": 1904798,
+      "name": "Muang Hôm",
+      "nativeName": "Muang Hôm",
+      "code": "LA-XS-1904798",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-XS",
+      "latitude": 18.69246,
+      "longitude": 103.29486
+    },
+    {
+      "id": 1904796,
+      "name": "Muang Longxan",
+      "nativeName": "Muang Longxan",
+      "code": "LA-XS-1904796",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-XS",
+      "latitude": 18.61782,
+      "longitude": 102.88079
+    },
+    {
+      "id": 1652593,
+      "name": "Muang Thathôm",
+      "nativeName": "Muang Thathôm",
+      "code": "LA-XS-1652593",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-XS",
+      "latitude": 19.0013,
+      "longitude": 103.61572
+    }
+  ]
+}

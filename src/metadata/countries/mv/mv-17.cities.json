@@ -1,0 +1,51 @@
+{
+  "stateId": 1282447,
+  "stateCode": "MV-17",
+  "countryCode": "MV",
+  "cities": [
+    {
+      "id": 1337607,
+      "name": "Kudahuvadhoo",
+      "nativeName": "Kudahuvadhoo",
+      "code": "MV-17-1337607",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-17",
+      "latitude": 2.67075,
+      "longitude": 72.89437
+    },
+    {
+      "id": 7910627,
+      "name": "Buruni",
+      "nativeName": "Buruni",
+      "code": "MV-17-7910627",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-17",
+      "latitude": 2.55905,
+      "longitude": 73.10749
+    },
+    {
+      "id": 12547301,
+      "name": "Maagau Island Town",
+      "nativeName": "Maagau Island Town",
+      "code": "MV-17-12547301",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-17",
+      "latitude": 2.94769,
+      "longitude": 72.91473
+    },
+    {
+      "id": 10860991,
+      "name": "Meedhoo",
+      "nativeName": "Meedhoo",
+      "code": "MV-17-10860991",
+      "countryId": 1282028,
+      "countryCode": "MV",
+      "stateCode": "MV-17",
+      "latitude": 2.99816,
+      "longitude": 73.0065
+    }
+  ]
+}

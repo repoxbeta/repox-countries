@@ -1,0 +1,95 @@
+{
+  "stateId": 886119,
+  "stateCode": "ZW-MI",
+  "countryCode": "ZW",
+  "cities": [
+    {
+      "id": 893405,
+      "name": "Chirumanzu District",
+      "nativeName": "Chirumanzu District",
+      "code": "ZW-MI-893405",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MI",
+      "latitude": -19.29944,
+      "longitude": 30.52133
+    },
+    {
+      "id": 890981,
+      "name": "Gokwe North District",
+      "nativeName": "Gokwe North District",
+      "code": "ZW-MI-890981",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MI",
+      "latitude": -17.53,
+      "longitude": 28.91
+    },
+    {
+      "id": 8260609,
+      "name": "Gokwe South District",
+      "nativeName": "Gokwe South District",
+      "code": "ZW-MI-8260609",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MI",
+      "latitude": -18.24,
+      "longitude": 28.65
+    },
+    {
+      "id": 890420,
+      "name": "Gweru District",
+      "nativeName": "Gweru District",
+      "code": "ZW-MI-890420",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MI",
+      "latitude": -19.45665,
+      "longitude": 29.64495
+    },
+    {
+      "id": 888708,
+      "name": "Kwekwe District",
+      "nativeName": "Kwekwe District",
+      "code": "ZW-MI-888708",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MI",
+      "latitude": -18.75,
+      "longitude": 29.5
+    },
+    {
+      "id": 886328,
+      "name": "Mberengwa District",
+      "nativeName": "Mberengwa District",
+      "code": "ZW-MI-886328",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MI",
+      "latitude": -20.72579,
+      "longitude": 30.00962
+    },
+    {
+      "id": 881163,
+      "name": "Shurugwi District",
+      "nativeName": "Shurugwi District",
+      "code": "ZW-MI-881163",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MI",
+      "latitude": -19.75,
+      "longitude": 30.16667
+    },
+    {
+      "id": 878548,
+      "name": "Zvishavane District",
+      "nativeName": "Zvishavane District",
+      "code": "ZW-MI-878548",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MI",
+      "latitude": -20.30345,
+      "longitude": 30.07514
+    }
+  ]
+}

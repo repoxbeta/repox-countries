@@ -1,0 +1,40 @@
+{
+  "stateId": 3443756,
+  "stateCode": "UY-AR",
+  "countryCode": "UY",
+  "cities": [
+    {
+      "id": 11820878,
+      "name": "Baltasar Brum",
+      "nativeName": "Baltasar Brum",
+      "code": "UY-AR-11820878",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-AR",
+      "latitude": -30.76028,
+      "longitude": -57.39963
+    },
+    {
+      "id": 11820820,
+      "name": "Bella Union",
+      "nativeName": "Bella Union",
+      "code": "UY-AR-11820820",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-AR",
+      "latitude": -30.37613,
+      "longitude": -57.57803
+    },
+    {
+      "id": 11820819,
+      "name": "Tomas Gomensoro",
+      "nativeName": "Tomas Gomensoro",
+      "code": "UY-AR-11820819",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-AR",
+      "latitude": -30.50686,
+      "longitude": -57.37916
+    }
+  ]
+}

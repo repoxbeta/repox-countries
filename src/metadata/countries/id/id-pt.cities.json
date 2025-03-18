@@ -1,0 +1,95 @@
+{
+  "stateId": 12503511,
+  "stateCode": "ID-PT",
+  "countryCode": "ID",
+  "cities": [
+    {
+      "id": 9821956,
+      "name": "Deiyai Regency",
+      "nativeName": "Kabupaten Deiyai",
+      "code": "ID-PT-9821956",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-PT",
+      "latitude": -4.15287,
+      "longitude": 136.40567
+    },
+    {
+      "id": 9821957,
+      "name": "Dogiyai Regency",
+      "nativeName": "Kabupaten Dogiyai",
+      "code": "ID-PT-9821957",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-PT",
+      "latitude": -4.03186,
+      "longitude": 135.43945
+    },
+    {
+      "id": 9846664,
+      "name": "Intan Jaya Regency",
+      "nativeName": "Kabupaten Intan Jaya",
+      "code": "ID-PT-9846664",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-PT",
+      "latitude": -3.41016,
+      "longitude": 136.70837
+    },
+    {
+      "id": 9172049,
+      "name": "Mimika Regency",
+      "nativeName": "Kabupaten Mimika",
+      "code": "ID-PT-9172049",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-PT",
+      "latitude": -4.54357,
+      "longitude": 136.56555
+    },
+    {
+      "id": 7910937,
+      "name": "Nabire Regency",
+      "nativeName": "Kabupaten Nabire",
+      "code": "ID-PT-7910937",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-PT",
+      "latitude": -3.54016,
+      "longitude": 135.55511
+    },
+    {
+      "id": 1632622,
+      "name": "Paniai Regency",
+      "nativeName": "Kabupaten Paniai",
+      "code": "ID-PT-1632622",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-PT",
+      "latitude": -3.83333,
+      "longitude": 136.41667
+    },
+    {
+      "id": 9172050,
+      "name": "Puncak Jaya Regency",
+      "nativeName": "Kabupaten Puncak Jaya",
+      "code": "ID-PT-9172050",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-PT",
+      "latitude": -3.48821,
+      "longitude": 137.77029
+    },
+    {
+      "id": 9846669,
+      "name": "Puncak Regency",
+      "nativeName": "Kabupaten Puncak",
+      "code": "ID-PT-9846669",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-PT",
+      "latitude": -3.56104,
+      "longitude": 137.31934
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "stateId": 2473245,
+  "stateCode": "TN-12",
+  "countryCode": "TN",
+  "cities": [
+    {
+      "id": 11109022,
+      "name": "Cité Ettadhamen",
+      "nativeName": "Délégation de Cité Ettadhamen",
+      "code": "TN-12-11109022",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-12",
+      "latitude": 36.83642,
+      "longitude": 10.10387
+    },
+    {
+      "id": 11109023,
+      "name": "El Mnihla",
+      "nativeName": "El Mnihla",
+      "code": "TN-12-11109023",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-12",
+      "latitude": 36.86618,
+      "longitude": 10.11215
+    },
+    {
+      "id": 11109078,
+      "name": "Kalaât El Andalous",
+      "nativeName": "Kalaat El Andalous",
+      "code": "TN-12-11109078",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-12",
+      "latitude": 37.02664,
+      "longitude": 10.12948
+    },
+    {
+      "id": 11109020,
+      "name": "L’Ariana Ville",
+      "nativeName": "Ariana Ville",
+      "code": "TN-12-11109020",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-12",
+      "latitude": 36.86542,
+      "longitude": 10.16846
+    },
+    {
+      "id": 7870645,
+      "name": "Raoued",
+      "nativeName": "Raoued",
+      "code": "TN-12-7870645",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-12",
+      "latitude": 36.93106,
+      "longitude": 10.18013
+    },
+    {
+      "id": 11109024,
+      "name": "Sidi Thabet",
+      "nativeName": "Sidi Thabet",
+      "code": "TN-12-11109024",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-12",
+      "latitude": 36.91439,
+      "longitude": 10.04925
+    },
+    {
+      "id": 11109021,
+      "name": "Soukra",
+      "nativeName": "Soukra",
+      "code": "TN-12-11109021",
+      "countryId": 2464461,
+      "countryCode": "TN",
+      "stateCode": "TN-12",
+      "latitude": 36.87898,
+      "longitude": 10.23024
+    }
+  ]
+}

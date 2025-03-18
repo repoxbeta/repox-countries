@@ -1,0 +1,84 @@
+{
+  "stateId": 2486512,
+  "stateCode": "DZ-45",
+  "countryCode": "DZ",
+  "cities": [
+    {
+      "id": 12952637,
+      "name": "Asla",
+      "nativeName": "Asla",
+      "code": "DZ-45-12952637",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-45",
+      "latitude": 32.7176,
+      "longitude": -0.18354
+    },
+    {
+      "id": 2489863,
+      "name": "Daïra de Mecheria",
+      "nativeName": "Daïra de Mecheria",
+      "code": "DZ-45-2489863",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-45",
+      "latitude": 33.52956,
+      "longitude": -0.20121
+    },
+    {
+      "id": 2507940,
+      "name": "Daïra d’‘Aïn Sefra",
+      "nativeName": "Daïra d’‘Aïn Sefra",
+      "code": "DZ-45-2507940",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-45",
+      "latitude": 32.78877,
+      "longitude": -0.56848
+    },
+    {
+      "id": 12952761,
+      "name": "Mekmen Ben Amar",
+      "nativeName": "Mekmen Ben Amar",
+      "code": "DZ-45-12952761",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-45",
+      "latitude": 33.75141,
+      "longitude": -1.18477
+    },
+    {
+      "id": 12952762,
+      "name": "Moghrar",
+      "nativeName": "Moghrar",
+      "code": "DZ-45-12952762",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-45",
+      "latitude": 32.39821,
+      "longitude": -0.67254
+    },
+    {
+      "id": 12952749,
+      "name": "Naama",
+      "nativeName": "Naama",
+      "code": "DZ-45-12952749",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-45",
+      "latitude": 33.2592,
+      "longitude": -0.33359
+    },
+    {
+      "id": 12952751,
+      "name": "Sfissifa",
+      "nativeName": "Sfissifa",
+      "code": "DZ-45-12952751",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-45",
+      "latitude": 32.77753,
+      "longitude": -0.97504
+    }
+  ]
+}

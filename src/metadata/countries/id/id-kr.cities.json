@@ -1,0 +1,84 @@
+{
+  "stateId": 1996551,
+  "stateCode": "ID-KR",
+  "countryCode": "ID",
+  "cities": [
+    {
+      "id": 8740095,
+      "name": "Anambas Islands Regency",
+      "nativeName": "Kabupaten Kepulauan Anambas",
+      "code": "ID-KR-8740095",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KR",
+      "latitude": 2.93966,
+      "longitude": 105.76071
+    },
+    {
+      "id": 9034776,
+      "name": "Bintan Regency",
+      "nativeName": "Kabupaten Bintan",
+      "code": "ID-KR-9034776",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KR",
+      "latitude": 0.95,
+      "longitude": 104.61944
+    },
+    {
+      "id": 9821909,
+      "name": "Karimun Regency",
+      "nativeName": "Kabupaten Karimun",
+      "code": "ID-KR-9821909",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KR",
+      "latitude": 0.80764,
+      "longitude": 103.41911
+    },
+    {
+      "id": 9849917,
+      "name": "Kota Batam",
+      "nativeName": "Kota Batam",
+      "code": "ID-KR-9849917",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KR",
+      "latitude": 1.05211,
+      "longitude": 104.02851
+    },
+    {
+      "id": 8739779,
+      "name": "Lingga Regency",
+      "nativeName": "Kabupaten Lingga",
+      "code": "ID-KR-8739779",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KR",
+      "latitude": -0.5091,
+      "longitude": 104.41448
+    },
+    {
+      "id": 8740093,
+      "name": "Natuna Regency",
+      "nativeName": "Kabupaten Natuna",
+      "code": "ID-KR-8740093",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KR",
+      "latitude": 4.71417,
+      "longitude": 107.97639
+    },
+    {
+      "id": 9849940,
+      "name": "Tanjung Pinang",
+      "nativeName": "Kota Tanjung Pinang",
+      "code": "ID-KR-9849940",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-KR",
+      "latitude": 0.91683,
+      "longitude": 104.44329
+    }
+  ]
+}

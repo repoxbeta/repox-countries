@@ -1,0 +1,40 @@
+{
+  "stateId": 7303936,
+  "stateCode": "SN-KE",
+  "countryCode": "SN",
+  "cities": [
+    {
+      "id": 2250648,
+      "name": "Kedougou",
+      "nativeName": "Kédougou Department",
+      "code": "SN-KE-2250648",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "stateCode": "SN-KE",
+      "latitude": 12.81716,
+      "longitude": -12.17834
+    },
+    {
+      "id": 10778875,
+      "name": "Salemata",
+      "nativeName": "Département de Salémata",
+      "code": "SN-KE-10778875",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "stateCode": "SN-KE",
+      "latitude": 12.59971,
+      "longitude": -12.77619
+    },
+    {
+      "id": 10779432,
+      "name": "Saraya",
+      "nativeName": "Saraya",
+      "code": "SN-KE-10779432",
+      "countryId": 2245662,
+      "countryCode": "SN",
+      "stateCode": "SN-KE",
+      "latitude": 13.0015,
+      "longitude": -11.79627
+    }
+  ]
+}

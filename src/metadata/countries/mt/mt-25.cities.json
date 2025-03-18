@@ -1,0 +1,29 @@
+{
+  "stateId": 8299729,
+  "stateCode": "MT-25",
+  "countryCode": "MT",
+  "cities": [
+    {
+      "id": 2562788,
+      "name": "Luqa",
+      "nativeName": "Luqa",
+      "code": "MT-25-2562788",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-25",
+      "latitude": 35.85889,
+      "longitude": 14.48861
+    },
+    {
+      "id": 2562486,
+      "name": "Ta’ Bir Miftuħ",
+      "nativeName": "Ta’ Bir Miftuħ",
+      "code": "MT-25-2562486",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-25",
+      "latitude": 35.85278,
+      "longitude": 14.49056
+    }
+  ]
+}

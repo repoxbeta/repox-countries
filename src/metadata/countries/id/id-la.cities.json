@@ -1,0 +1,172 @@
+{
+  "stateId": 1638535,
+  "stateCode": "ID-LA",
+  "countryCode": "ID",
+  "cities": [
+    {
+      "id": 1638532,
+      "name": "Central Lampung Regency",
+      "nativeName": "Kabupaten Lampung Tengah",
+      "code": "ID-LA-1638532",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-LA",
+      "latitude": -4.86667,
+      "longitude": 105.26667
+    },
+    {
+      "id": 9165778,
+      "name": "East Lampung Regency",
+      "nativeName": "Kabupaten Lampung Timur",
+      "code": "ID-LA-9165778",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-LA",
+      "latitude": -5.10273,
+      "longitude": 105.68003
+    },
+    {
+      "id": 1624916,
+      "name": "Kota Bandar Lampung",
+      "nativeName": "Kota Bandar Lampung",
+      "code": "ID-LA-1624916",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-LA",
+      "latitude": -5.41667,
+      "longitude": 105.26667
+    },
+    {
+      "id": 9828960,
+      "name": "Kota Metro",
+      "nativeName": "Kota Metro",
+      "code": "ID-LA-9828960",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-LA",
+      "latitude": -5.11856,
+      "longitude": 105.29949
+    },
+    {
+      "id": 8552411,
+      "name": "Mesuji Regency",
+      "nativeName": "Kabupaten Mesuji",
+      "code": "ID-LA-8552411",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-LA",
+      "latitude": -4.0439,
+      "longitude": 105.4013
+    },
+    {
+      "id": 1638531,
+      "name": "North Lampung Regency",
+      "nativeName": "Kabupaten Lampung Utara",
+      "code": "ID-LA-1638531",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-LA",
+      "latitude": -4.81667,
+      "longitude": 104.8
+    },
+    {
+      "id": 9843606,
+      "name": "Pesawaran Regency",
+      "nativeName": "Kabupaten Pesawaran",
+      "code": "ID-LA-9843606",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-LA",
+      "latitude": -5.4298,
+      "longitude": 105.17899
+    },
+    {
+      "id": 9844898,
+      "name": "Pringsewu Regency",
+      "nativeName": "Kabupaten Pringsewu",
+      "code": "ID-LA-9844898",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-LA",
+      "latitude": -5.42211,
+      "longitude": 104.93454
+    },
+    {
+      "id": 7862296,
+      "name": "South Lampung Regency",
+      "nativeName": "Kabupaten Lampung Selatan",
+      "code": "ID-LA-7862296",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-LA",
+      "latitude": -5.53965,
+      "longitude": 105.49741
+    },
+    {
+      "id": 9845482,
+      "name": "Tanggamus Regency",
+      "nativeName": "Kabupaten Tanggamus",
+      "code": "ID-LA-9845482",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-LA",
+      "latitude": -5.38508,
+      "longitude": 104.62349
+    },
+    {
+      "id": 9164018,
+      "name": "Tulang Bawang Regency",
+      "nativeName": "Kabupaten Tulangbawang",
+      "code": "ID-LA-9164018",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-LA",
+      "latitude": -4.20604,
+      "longitude": 105.57999
+    },
+    {
+      "id": 9163828,
+      "name": "Way Kanan Regency",
+      "nativeName": "Kabupaten Way Kanan",
+      "code": "ID-LA-9163828",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-LA",
+      "latitude": -4.44705,
+      "longitude": 104.52753
+    },
+    {
+      "id": 9166059,
+      "name": "West Lampung Regency",
+      "nativeName": "Kabupaten Lampung Barat",
+      "code": "ID-LA-9166059",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-LA",
+      "latitude": -5.14904,
+      "longitude": 104.19309
+    },
+    {
+      "id": 9828028,
+      "name": "West Pesisir Regency",
+      "nativeName": "West Pesisir Regency",
+      "code": "ID-LA-9828028",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-LA",
+      "latitude": -5.19323,
+      "longitude": 103.93976
+    },
+    {
+      "id": 9846658,
+      "name": "West Tulang Bawang Regency",
+      "nativeName": "Kabupaten Tulang Bawang Barat",
+      "code": "ID-LA-9846658",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-LA",
+      "latitude": -4.43356,
+      "longitude": 105.16004
+    }
+  ]
+}

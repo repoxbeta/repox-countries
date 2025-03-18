@@ -1,0 +1,62 @@
+{
+  "stateId": 237556,
+  "stateCode": "CF-MB",
+  "countryCode": "CF",
+  "cities": [
+    {
+      "id": 7732690,
+      "name": "Bakouma",
+      "nativeName": "Bakouma",
+      "code": "CF-MB-7732690",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-MB",
+      "latitude": 5.5267,
+      "longitude": 22.58557
+    },
+    {
+      "id": 7732064,
+      "name": "Bangassou",
+      "nativeName": "Bangassou",
+      "code": "CF-MB-7732064",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-MB",
+      "latitude": 5.01352,
+      "longitude": 23.15326
+    },
+    {
+      "id": 7731889,
+      "name": "Gambo",
+      "nativeName": "Gambo",
+      "code": "CF-MB-7731889",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-MB",
+      "latitude": 4.65305,
+      "longitude": 22.15741
+    },
+    {
+      "id": 7731888,
+      "name": "Ouango",
+      "nativeName": "Ouango",
+      "code": "CF-MB-7731888",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-MB",
+      "latitude": 4.41345,
+      "longitude": 22.53471
+    },
+    {
+      "id": 9143468,
+      "name": "Rafai",
+      "nativeName": "Rafai",
+      "code": "CF-MB-9143468",
+      "countryId": 239880,
+      "countryCode": "CF",
+      "stateCode": "CF-MB",
+      "latitude": 5.81012,
+      "longitude": 24.20305
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "stateId": 50360,
+  "stateCode": "SO-WO",
+  "countryCode": "SO",
+  "cities": [
+    {
+      "id": 9179669,
+      "name": "Berbera District",
+      "nativeName": "Berbera",
+      "code": "SO-WO-9179669",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-WO",
+      "latitude": 10.35936,
+      "longitude": 45.28539
+    },
+    {
+      "id": 9179672,
+      "name": "Gabiley District",
+      "nativeName": "Gebiley",
+      "code": "SO-WO-9179672",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-WO",
+      "latitude": 9.85957,
+      "longitude": 43.68093
+    },
+    {
+      "id": 9179675,
+      "name": "Hargeisa District",
+      "nativeName": "Hargeysa",
+      "code": "SO-WO-9179675",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-WO",
+      "latitude": 9.52163,
+      "longitude": 44.28073
+    }
+  ]
+}

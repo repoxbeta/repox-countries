@@ -1,0 +1,40 @@
+{
+  "stateId": 11153060,
+  "stateCode": "CI-SV",
+  "countryCode": "CI",
+  "cities": [
+    {
+      "id": 11153168,
+      "name": "Bagoué",
+      "nativeName": "Bagoué",
+      "code": "CI-SV-11153168",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "stateCode": "CI-SV",
+      "latitude": 9.93594,
+      "longitude": -6.40778
+    },
+    {
+      "id": 11153169,
+      "name": "Poro",
+      "nativeName": "Poro",
+      "code": "CI-SV-11153169",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "stateCode": "CI-SV",
+      "latitude": 9.30499,
+      "longitude": -5.71838
+    },
+    {
+      "id": 11153177,
+      "name": "Tchologo",
+      "nativeName": "Tchologo",
+      "code": "CI-SV-11153177",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "stateCode": "CI-SV",
+      "latitude": 9.52717,
+      "longitude": -4.89716
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "stateId": 8299758,
+  "stateCode": "MT-59",
+  "countryCode": "MT",
+  "cities": [
+    {
+      "id": 2562349,
+      "name": "Tarxien",
+      "nativeName": "Tarxien",
+      "code": "MT-59-2562349",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-59",
+      "latitude": 35.86583,
+      "longitude": 14.515
+    },
+    {
+      "id": 2562947,
+      "name": "Il-Gżira",
+      "nativeName": "Il-Gżira",
+      "code": "MT-59-2562947",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-59",
+      "latitude": 35.9,
+      "longitude": 14.5
+    },
+    {
+      "id": 2562420,
+      "name": "Tal-Borġ",
+      "nativeName": "Tal-Borġ",
+      "code": "MT-59-2562420",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-59",
+      "latitude": 35.87111,
+      "longitude": 14.51472
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "stateId": 3343957,
+  "stateCode": "SK-TC",
+  "countryCode": "SK",
+  "cities": [
+    {
+      "id": 8986282,
+      "name": "Bánovce nad Bebravou District",
+      "nativeName": "Okres Bánovce nad Bebravou",
+      "code": "SK-TC-8986282",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-TC",
+      "latitude": 48.71908,
+      "longitude": 18.25773
+    },
+    {
+      "id": 8986287,
+      "name": "Ilava District",
+      "nativeName": "Okres Ilava",
+      "code": "SK-TC-8986287",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-TC",
+      "latitude": 48.99641,
+      "longitude": 18.23374
+    },
+    {
+      "id": 3058476,
+      "name": "Nové Mesto nad Váhom District",
+      "nativeName": "Okres Nové Mesto nad Váhom",
+      "code": "SK-TC-3058476",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-TC",
+      "latitude": 48.75466,
+      "longitude": 17.83506
+    },
+    {
+      "id": 3058609,
+      "name": "Okres Myjava",
+      "nativeName": "Okres Myjava",
+      "code": "SK-TC-3058609",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-TC",
+      "latitude": 48.75,
+      "longitude": 17.58333
+    },
+    {
+      "id": 8986293,
+      "name": "Partizánske District",
+      "nativeName": "Okres Partizánske",
+      "code": "SK-TC-8986293",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-TC",
+      "latitude": 48.62613,
+      "longitude": 18.37957
+    },
+    {
+      "id": 3058059,
+      "name": "Považská Bystrica District",
+      "nativeName": "Okres Považská Bystrica",
+      "code": "SK-TC-3058059",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-TC",
+      "latitude": 49.11667,
+      "longitude": 18.45
+    },
+    {
+      "id": 3057999,
+      "name": "Prievidza District",
+      "nativeName": "Okres Prievidza",
+      "code": "SK-TC-3057999",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-TC",
+      "latitude": 48.76667,
+      "longitude": 18.63333
+    },
+    {
+      "id": 8986298,
+      "name": "Púchov District",
+      "nativeName": "Okres Púchov",
+      "code": "SK-TC-8986298",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-TC",
+      "latitude": 49.12406,
+      "longitude": 18.32477
+    },
+    {
+      "id": 3057139,
+      "name": "Trenčín District",
+      "nativeName": "Okres Trenčín",
+      "code": "SK-TC-3057139",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-TC",
+      "latitude": 48.8952,
+      "longitude": 18.04264
+    }
+  ]
+}

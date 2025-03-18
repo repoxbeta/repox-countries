@@ -1,0 +1,51 @@
+{
+  "stateId": 3493192,
+  "stateCode": "DO-24",
+  "countryCode": "DO",
+  "cities": [
+    {
+      "id": 3509824,
+      "name": "Cevicos",
+      "nativeName": "Cevicos",
+      "code": "DO-24-3509824",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-24",
+      "latitude": 19,
+      "longitude": -69.96667
+    },
+    {
+      "id": 3509208,
+      "name": "Cotuí",
+      "nativeName": "Cotuí",
+      "code": "DO-24-3509208",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-24",
+      "latitude": 19,
+      "longitude": -70.16667
+    },
+    {
+      "id": 3505779,
+      "name": "Fantino",
+      "nativeName": "Fantino",
+      "code": "DO-24-3505779",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-24",
+      "latitude": 19.11667,
+      "longitude": -70.3
+    },
+    {
+      "id": 11154563,
+      "name": "La Mata",
+      "nativeName": "La Mata",
+      "code": "DO-24-11154563",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "stateCode": "DO-24",
+      "latitude": 19.08981,
+      "longitude": -70.20859
+    }
+  ]
+}

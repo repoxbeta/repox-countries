@@ -1,0 +1,84 @@
+{
+  "stateId": 219402,
+  "stateCode": "CD-BU",
+  "countryCode": "CD",
+  "cities": [
+    {
+      "id": 12278125,
+      "name": "Aketi",
+      "nativeName": "Aketi",
+      "code": "CD-BU-12278125",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-BU",
+      "latitude": 2.98007,
+      "longitude": 23.75461
+    },
+    {
+      "id": 220287,
+      "name": "Ango",
+      "nativeName": "Ango",
+      "code": "CD-BU-220287",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-BU",
+      "latitude": 4.03333,
+      "longitude": 25.86667
+    },
+    {
+      "id": 12278032,
+      "name": "Bambesa",
+      "nativeName": "Bambesa",
+      "code": "CD-BU-12278032",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-BU",
+      "latitude": 3.09211,
+      "longitude": 25.9727
+    },
+    {
+      "id": 12278042,
+      "name": "Bondo",
+      "nativeName": "Bondo",
+      "code": "CD-BU-12278042",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-BU",
+      "latitude": 4.1946,
+      "longitude": 24.09862
+    },
+    {
+      "id": 12278120,
+      "name": "Buta",
+      "nativeName": "Buta",
+      "code": "CD-BU-12278120",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-BU",
+      "latitude": 2.81775,
+      "longitude": 25.17205
+    },
+    {
+      "id": 12278085,
+      "name": "Dingila",
+      "nativeName": "Dingila",
+      "code": "CD-BU-12278085",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-BU",
+      "latitude": 3.65052,
+      "longitude": 26.0742
+    },
+    {
+      "id": 12278092,
+      "name": "Poko",
+      "nativeName": "Poko",
+      "code": "CD-BU-12278092",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-BU",
+      "latitude": 3.0169,
+      "longitude": 26.82253
+    }
+  ]
+}

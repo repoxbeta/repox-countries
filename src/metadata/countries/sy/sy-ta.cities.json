@@ -1,0 +1,62 @@
+{
+  "stateId": 163342,
+  "stateCode": "SY-TA",
+  "countryCode": "SY",
+  "cities": [
+    {
+      "id": 8276859,
+      "name": "Al-Shaykh Badr District",
+      "nativeName": "Al-Shaykh Badr District",
+      "code": "SY-TA-8276859",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-TA",
+      "latitude": 35.04492,
+      "longitude": 36.09807
+    },
+    {
+      "id": 171829,
+      "name": "Baniyas District",
+      "nativeName": "Baniyas District",
+      "code": "SY-TA-171829",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-TA",
+      "latitude": 35.13698,
+      "longitude": 36.07864
+    },
+    {
+      "id": 8276858,
+      "name": "Duraykish District",
+      "nativeName": "Duraykish District",
+      "code": "SY-TA-8276858",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-TA",
+      "latitude": 34.93205,
+      "longitude": 36.12682
+    },
+    {
+      "id": 165059,
+      "name": "Safita District",
+      "nativeName": "Safita District",
+      "code": "SY-TA-165059",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-TA",
+      "latitude": 34.80419,
+      "longitude": 36.12293
+    },
+    {
+      "id": 163343,
+      "name": "Tartus District",
+      "nativeName": "Tartus District",
+      "code": "SY-TA-163343",
+      "countryId": 163843,
+      "countryCode": "SY",
+      "stateCode": "SY-TA",
+      "latitude": 34.83904,
+      "longitude": 35.9716
+    }
+  ]
+}

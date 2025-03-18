@@ -1,0 +1,62 @@
+{
+  "stateId": 8299711,
+  "stateCode": "MT-14",
+  "countryCode": "MT",
+  "cities": [
+    {
+      "id": 2563063,
+      "name": "Għarb",
+      "nativeName": "Għarb",
+      "code": "MT-14-2563063",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-14",
+      "latitude": 36.06,
+      "longitude": 14.20889
+    },
+    {
+      "id": 2563193,
+      "name": "Birbuba",
+      "nativeName": "Birbuba",
+      "code": "MT-14-2563193",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-14",
+      "latitude": 36.06417,
+      "longitude": 14.19861
+    },
+    {
+      "id": 2562881,
+      "name": "Il-Wilġa",
+      "nativeName": "Il-Wilġa",
+      "code": "MT-14-2562881",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-14",
+      "latitude": 36.0575,
+      "longitude": 14.20944
+    },
+    {
+      "id": 2562553,
+      "name": "San Katald",
+      "nativeName": "San Katald",
+      "code": "MT-14-2562553",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-14",
+      "latitude": 36.06556,
+      "longitude": 14.20583
+    },
+    {
+      "id": 2562515,
+      "name": "Santu Pietru",
+      "nativeName": "Santu Pietru",
+      "code": "MT-14-2562515",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-14",
+      "latitude": 36.06083,
+      "longitude": 14.20111
+    }
+  ]
+}

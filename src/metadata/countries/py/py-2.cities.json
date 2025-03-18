@@ -1,0 +1,227 @@
+{
+  "stateId": 3437027,
+  "stateCode": "PY-2",
+  "countryCode": "PY",
+  "cities": [
+    {
+      "id": 11840025,
+      "name": "25 De Diciembre",
+      "nativeName": "25 De Diciembre",
+      "code": "PY-2-11840025",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-2",
+      "latitude": -24.77256,
+      "longitude": -56.80126
+    },
+    {
+      "id": 11840158,
+      "name": "Antequera",
+      "nativeName": "Antequera",
+      "code": "PY-2-11840158",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-2",
+      "latitude": -24.09076,
+      "longitude": -57.16917
+    },
+    {
+      "id": 11839969,
+      "name": "Capiibary",
+      "nativeName": "Capiibary",
+      "code": "PY-2-11839969",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-2",
+      "latitude": -24.74588,
+      "longitude": -55.9916
+    },
+    {
+      "id": 11840090,
+      "name": "Chore",
+      "nativeName": "Chore",
+      "code": "PY-2-11840090",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-2",
+      "latitude": -24.18431,
+      "longitude": -56.63288
+    },
+    {
+      "id": 11840127,
+      "name": "General Elizardo Aquino",
+      "nativeName": "General Elizardo Aquino",
+      "code": "PY-2-11840127",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-2",
+      "latitude": -24.38336,
+      "longitude": -56.79333
+    },
+    {
+      "id": 11840082,
+      "name": "General Resquin",
+      "nativeName": "General Resquin",
+      "code": "PY-2-11840082",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-2",
+      "latitude": -24.00518,
+      "longitude": -56.20818
+    },
+    {
+      "id": 11840023,
+      "name": "Guajayvi",
+      "nativeName": "Guajayvi",
+      "code": "PY-2-11840023",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-2",
+      "latitude": -24.40787,
+      "longitude": -56.34811
+    },
+    {
+      "id": 11840116,
+      "name": "Itacurubi Del Rosario",
+      "nativeName": "Itacurubi Del Rosario",
+      "code": "PY-2-11840116",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-2",
+      "latitude": -24.58239,
+      "longitude": -56.81959
+    },
+    {
+      "id": 11840003,
+      "name": "Liberacion",
+      "nativeName": "Liberacion",
+      "code": "PY-2-11840003",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-2",
+      "latitude": -24.1964,
+      "longitude": -56.37838
+    },
+    {
+      "id": 11840047,
+      "name": "Lima",
+      "nativeName": "Lima",
+      "code": "PY-2-11840047",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-2",
+      "latitude": -23.97833,
+      "longitude": -56.56935
+    },
+    {
+      "id": 11839970,
+      "name": "Nueva Germania District",
+      "nativeName": "Nueva Germania",
+      "code": "PY-2-11839970",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-2",
+      "latitude": -23.85997,
+      "longitude": -56.67184
+    },
+    {
+      "id": 11839928,
+      "name": "San Estanislao District",
+      "nativeName": "San Estanislao",
+      "code": "PY-2-11839928",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-2",
+      "latitude": -24.64582,
+      "longitude": -56.39245
+    },
+    {
+      "id": 11840107,
+      "name": "San Pablo",
+      "nativeName": "San Pablo",
+      "code": "PY-2-11840107",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-2",
+      "latitude": -24.13809,
+      "longitude": -56.91929
+    },
+    {
+      "id": 11840133,
+      "name": "San Pedro Del Ykuamandiyu",
+      "nativeName": "San Pedro Del Ykuamandiyu",
+      "code": "PY-2-11840133",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-2",
+      "latitude": -23.77219,
+      "longitude": -57.05951
+    },
+    {
+      "id": 11840170,
+      "name": "Santa Rosa Del Aguaray",
+      "nativeName": "Santa Rosa Del Aguaray",
+      "code": "PY-2-11840170",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-2",
+      "latitude": -23.75906,
+      "longitude": -56.27188
+    },
+    {
+      "id": 11840118,
+      "name": "Tacuati",
+      "nativeName": "Tacuati",
+      "code": "PY-2-11840118",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-2",
+      "latitude": -23.5425,
+      "longitude": -56.59278
+    },
+    {
+      "id": 11839946,
+      "name": "Unión District",
+      "nativeName": "Union",
+      "code": "PY-2-11839946",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-2",
+      "latitude": -24.8699,
+      "longitude": -56.5309
+    },
+    {
+      "id": 11839940,
+      "name": "Villa Del Rosario",
+      "nativeName": "Villa Del Rosario",
+      "code": "PY-2-11839940",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-2",
+      "latitude": -24.56109,
+      "longitude": -57.07704
+    },
+    {
+      "id": 11840008,
+      "name": "Yataity Del Norte",
+      "nativeName": "Yataity Del Norte",
+      "code": "PY-2-11840008",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-2",
+      "latitude": -24.83738,
+      "longitude": -56.32904
+    },
+    {
+      "id": 11840143,
+      "name": "Yryvu Cua",
+      "nativeName": "Yryvu Cua",
+      "code": "PY-2-11840143",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "stateCode": "PY-2",
+      "latitude": -24.50473,
+      "longitude": -56.13708
+    }
+  ]
+}

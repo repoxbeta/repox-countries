@@ -1,0 +1,73 @@
+{
+  "stateId": 2658664,
+  "stateCode": "CH-SZ",
+  "countryCode": "CH",
+  "cities": [
+    {
+      "id": 6458878,
+      "name": "Bezirk Einsiedeln",
+      "nativeName": "Bezirk Einsiedeln",
+      "code": "CH-SZ-6458878",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-SZ",
+      "latitude": 47.10792,
+      "longitude": 8.7601
+    },
+    {
+      "id": 6458810,
+      "name": "Bezirk Gersau",
+      "nativeName": "Bezirk Gersau",
+      "code": "CH-SZ-6458810",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-SZ",
+      "latitude": 47.008,
+      "longitude": 8.51678
+    },
+    {
+      "id": 6458848,
+      "name": "Bezirk Höfe",
+      "nativeName": "Bezirk Höfe",
+      "code": "CH-SZ-6458848",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-SZ",
+      "latitude": 47.19043,
+      "longitude": 8.7396
+    },
+    {
+      "id": 6458839,
+      "name": "Bezirk Küssnacht",
+      "nativeName": "Bezirk Küssnacht",
+      "code": "CH-SZ-6458839",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-SZ",
+      "latitude": 47.08611,
+      "longitude": 8.44444
+    },
+    {
+      "id": 6458781,
+      "name": "March District",
+      "nativeName": "Bezirk March",
+      "code": "CH-SZ-6458781",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-SZ",
+      "latitude": 47.16128,
+      "longitude": 8.91103
+    },
+    {
+      "id": 6458775,
+      "name": "Schwyz District",
+      "nativeName": "Bezirk Schwyz",
+      "code": "CH-SZ-6458775",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-SZ",
+      "latitude": 47.02814,
+      "longitude": 8.63619
+    }
+  ]
+}

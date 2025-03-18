@@ -1,0 +1,29 @@
+{
+  "stateId": 186824,
+  "stateCode": "KE-26",
+  "countryCode": "KE",
+  "cities": [
+    {
+      "id": 8693009,
+      "name": "Meru County",
+      "nativeName": "Meru County",
+      "code": "KE-26-8693009",
+      "countryId": 192950,
+      "countryCode": "KE",
+      "stateCode": "KE-26",
+      "latitude": 0.05,
+      "longitude": 37.63333
+    },
+    {
+      "id": 11258464,
+      "name": "South Imenti",
+      "nativeName": "South Imenti",
+      "code": "KE-26-11258464",
+      "countryId": 192950,
+      "countryCode": "KE",
+      "stateCode": "KE-26",
+      "latitude": -0.131,
+      "longitude": 37.61
+    }
+  ]
+}

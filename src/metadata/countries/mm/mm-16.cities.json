@@ -1,0 +1,62 @@
+{
+  "stateId": 1298852,
+  "stateCode": "MM-16",
+  "countryCode": "MM",
+  "cities": [
+    {
+      "id": 1316745,
+      "name": "Kyaunkpyu District",
+      "nativeName": "Kyaunkpyu District",
+      "code": "MM-16-1316745",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-16",
+      "latitude": 19.91773,
+      "longitude": 94.03112
+    },
+    {
+      "id": 8238605,
+      "name": "Maungdaw District",
+      "nativeName": "Maungdaw District",
+      "code": "MM-16-8238605",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-16",
+      "latitude": 21.00382,
+      "longitude": 92.37624
+    },
+    {
+      "id": 11154019,
+      "name": "Mrauk-U",
+      "nativeName": "Mrauk-U",
+      "code": "MM-16-11154019",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-16",
+      "latitude": 20.47661,
+      "longitude": 93.35497
+    },
+    {
+      "id": 1329415,
+      "name": "Sittwe District",
+      "nativeName": "Sittwe District",
+      "code": "MM-16-1329415",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-16",
+      "latitude": 20.20035,
+      "longitude": 92.86743
+    },
+    {
+      "id": 1298070,
+      "name": "Thandwe District",
+      "nativeName": "Thandwe District",
+      "code": "MM-16-1298070",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-16",
+      "latitude": 18.51281,
+      "longitude": 94.51979
+    }
+  ]
+}

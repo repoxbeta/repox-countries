@@ -1,0 +1,106 @@
+{
+  "stateId": 917388,
+  "stateCode": "ZM-03",
+  "countryCode": "ZM",
+  "cities": [
+    {
+      "id": 921026,
+      "name": "Chadiza District",
+      "nativeName": "Chadiza District",
+      "code": "ZM-03-921026",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-03",
+      "latitude": -14.09739,
+      "longitude": 32.48708
+    },
+    {
+      "id": 918699,
+      "name": "Chipata District",
+      "nativeName": "Chipata District",
+      "code": "ZM-03-918699",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-03",
+      "latitude": -13.603,
+      "longitude": 32.4971
+    },
+    {
+      "id": 912053,
+      "name": "Katete District",
+      "nativeName": "Katete District",
+      "code": "ZM-03-912053",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-03",
+      "latitude": -14.04074,
+      "longitude": 32.04329
+    },
+    {
+      "id": 909296,
+      "name": "Lundazi District",
+      "nativeName": "Lundazi District",
+      "code": "ZM-03-909296",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-03",
+      "latitude": -12.50109,
+      "longitude": 32.72074
+    },
+    {
+      "id": 10800895,
+      "name": "Mambwe",
+      "nativeName": "Mambwe",
+      "code": "ZM-03-10800895",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-03",
+      "latitude": -13.34208,
+      "longitude": 31.92867
+    },
+    {
+      "id": 7732619,
+      "name": "Nyimba District",
+      "nativeName": "Nyimba District",
+      "code": "ZM-03-7732619",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-03",
+      "latitude": -14.34628,
+      "longitude": 30.59705
+    },
+    {
+      "id": 899821,
+      "name": "Petauke District",
+      "nativeName": "Petauke District",
+      "code": "ZM-03-899821",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-03",
+      "latitude": -14.12637,
+      "longitude": 31.40504
+    },
+    {
+      "id": 10815860,
+      "name": "Sinda District",
+      "nativeName": "Sinda District",
+      "code": "ZM-03-10815860",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-03",
+      "latitude": -14.22958,
+      "longitude": 31.70967
+    },
+    {
+      "id": 10815861,
+      "name": "Vubwi District",
+      "nativeName": "Vubwi District",
+      "code": "ZM-03-10815861",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-03",
+      "latitude": -14.00612,
+      "longitude": 32.90254
+    }
+  ]
+}

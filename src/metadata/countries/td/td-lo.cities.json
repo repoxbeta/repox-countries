@@ -1,0 +1,51 @@
+{
+  "stateId": 2429060,
+  "stateCode": "TD-LO",
+  "countryCode": "TD",
+  "cities": [
+    {
+      "id": 8250831,
+      "name": "Dodje",
+      "nativeName": "Dodje",
+      "code": "TD-LO-8250831",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-LO",
+      "latitude": 8.7,
+      "longitude": 15.53
+    },
+    {
+      "id": 12186528,
+      "name": "Guéni",
+      "nativeName": "Guéni",
+      "code": "TD-LO-12186528",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-LO",
+      "latitude": 8.99229,
+      "longitude": 15.87424
+    },
+    {
+      "id": 7871202,
+      "name": "Lac Wey",
+      "nativeName": "Lac Wey",
+      "code": "TD-LO-7871202",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-LO",
+      "latitude": 8.70502,
+      "longitude": 15.98303
+    },
+    {
+      "id": 8250832,
+      "name": "Ngourkosso",
+      "nativeName": "Ngourkosso",
+      "code": "TD-LO-8250832",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-LO",
+      "latitude": 8.97,
+      "longitude": 16.38
+    }
+  ]
+}

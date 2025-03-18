@@ -1,0 +1,83 @@
+{
+  "countryId": 3624060,
+  "countryCode": "CR",
+  "states": [
+    {
+      "id": 3624953,
+      "name": "Alajuela Province",
+      "nativeName": "Provincia de Alajuela",
+      "code": "CR-A",
+      "internalCode": "A",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "latitude": 10.5,
+      "longitude": -84.5
+    },
+    {
+      "id": 3624368,
+      "name": "Cartago Province",
+      "nativeName": "Provincia de Cartago",
+      "code": "CR-C",
+      "internalCode": "C",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "latitude": 9.83333,
+      "longitude": -83.75
+    },
+    {
+      "id": 3623582,
+      "name": "Guanacaste Province",
+      "nativeName": "Provincia de Guanacaste",
+      "code": "CR-G",
+      "internalCode": "G",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "latitude": 10.5,
+      "longitude": -85.25
+    },
+    {
+      "id": 3623484,
+      "name": "Heredia Province",
+      "nativeName": "Provincia de Heredia",
+      "code": "CR-H",
+      "internalCode": "H",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "latitude": 10.33333,
+      "longitude": -84
+    },
+    {
+      "id": 3623064,
+      "name": "Limón Province",
+      "nativeName": "Provincia de Limón",
+      "code": "CR-L",
+      "internalCode": "L",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "latitude": 10,
+      "longitude": -83.21667
+    },
+    {
+      "id": 3621837,
+      "name": "Provincia de San José",
+      "nativeName": "Provincia de San José",
+      "code": "CR-SJ",
+      "internalCode": "SJ",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "latitude": 9.66667,
+      "longitude": -84
+    },
+    {
+      "id": 3622226,
+      "name": "Puntarenas Province",
+      "nativeName": "Provincia de Puntarenas",
+      "code": "CR-P",
+      "internalCode": "P",
+      "countryId": 3624060,
+      "countryCode": "CR",
+      "latitude": 9.97794,
+      "longitude": -84.83068
+    }
+  ]
+}

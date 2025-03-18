@@ -1,0 +1,51 @@
+{
+  "stateId": 3830306,
+  "stateCode": "EC-D",
+  "countryCode": "EC",
+  "cities": [
+    {
+      "id": 3660839,
+      "name": "Cantón Aguarico",
+      "nativeName": "Cantón Aguarico",
+      "code": "EC-D-3660839",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-D",
+      "latitude": -0.90097,
+      "longitude": -75.39282
+    },
+    {
+      "id": 3650339,
+      "name": "Francisco de Orellana Canton",
+      "nativeName": "Francisco de Orellana Canton",
+      "code": "EC-D-3650339",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-D",
+      "latitude": -0.46667,
+      "longitude": -76.96667
+    },
+    {
+      "id": 10792474,
+      "name": "La Joya De Los Sachas",
+      "nativeName": "La Joya De Los Sachas",
+      "code": "EC-D-10792474",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-D",
+      "latitude": -0.27894,
+      "longitude": -76.89039
+    },
+    {
+      "id": 10743580,
+      "name": "Loreto Canton",
+      "nativeName": "Loreto Canton",
+      "code": "EC-D-10743580",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-D",
+      "latitude": -0.69487,
+      "longitude": -77.30255
+    }
+  ]
+}

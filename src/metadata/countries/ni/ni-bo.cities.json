@@ -1,0 +1,73 @@
+{
+  "stateId": 3620673,
+  "stateCode": "NI-BO",
+  "countryCode": "NI",
+  "cities": [
+    {
+      "id": 3620672,
+      "name": "Municipio de Boaco",
+      "nativeName": "Municipio de Boaco",
+      "code": "NI-BO-3620672",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-BO",
+      "latitude": 12.59377,
+      "longitude": -85.48695
+    },
+    {
+      "id": 3620543,
+      "name": "Municipio de Camoapa",
+      "nativeName": "Municipio de Camoapa",
+      "code": "NI-BO-3620543",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-BO",
+      "latitude": 12.51152,
+      "longitude": -85.20982
+    },
+    {
+      "id": 3616752,
+      "name": "Municipio de San José de los Remates",
+      "nativeName": "Municipio de San José de los Remates",
+      "code": "NI-BO-3616752",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-BO",
+      "latitude": 12.595,
+      "longitude": -85.77977
+    },
+    {
+      "id": 3616705,
+      "name": "Municipio de San Lorenzo",
+      "nativeName": "Municipio de San Lorenzo",
+      "code": "NI-BO-3616705",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-BO",
+      "latitude": 12.26339,
+      "longitude": -85.70696
+    },
+    {
+      "id": 3616455,
+      "name": "Municipio de Santa Lucía",
+      "nativeName": "Municipio de Santa Lucía",
+      "code": "NI-BO-3616455",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-BO",
+      "latitude": 12.53333,
+      "longitude": -85.7
+    },
+    {
+      "id": 3616069,
+      "name": "Municipio de Teustepe",
+      "nativeName": "Municipio de Teustepe",
+      "code": "NI-BO-3616069",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-BO",
+      "latitude": 12.42803,
+      "longitude": -85.82107
+    }
+  ]
+}

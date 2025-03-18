@@ -1,0 +1,117 @@
+{
+  "stateId": 2260668,
+  "stateCode": "CG-11",
+  "countryCode": "CG",
+  "cities": [
+    {
+      "id": 11996207,
+      "name": "Boko-Songho",
+      "nativeName": "Boko-Songho",
+      "code": "CG-11-11996207",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-11",
+      "latitude": -4.54089,
+      "longitude": 13.57477
+    },
+    {
+      "id": 11996225,
+      "name": "Kingoue",
+      "nativeName": "Kingoue",
+      "code": "CG-11-11996225",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-11",
+      "latitude": -3.77609,
+      "longitude": 14.17801
+    },
+    {
+      "id": 8051168,
+      "name": "Loudima",
+      "nativeName": "Loudima",
+      "code": "CG-11-8051168",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-11",
+      "latitude": -3.988,
+      "longitude": 12.943
+    },
+    {
+      "id": 11996229,
+      "name": "Mabombo",
+      "nativeName": "Mabombo",
+      "code": "CG-11-11996229",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-11",
+      "latitude": -4.02847,
+      "longitude": 13.67379
+    },
+    {
+      "id": 8051166,
+      "name": "Madingou",
+      "nativeName": "Madingou",
+      "code": "CG-11-8051166",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-11",
+      "latitude": -4.198,
+      "longitude": 13.603
+    },
+    {
+      "id": 11996192,
+      "name": "Mfouati",
+      "nativeName": "Mfouati",
+      "code": "CG-11-11996192",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-11",
+      "latitude": -4.36183,
+      "longitude": 13.81884
+    },
+    {
+      "id": 8051158,
+      "name": "Mouyondzi",
+      "nativeName": "Mouyondzi",
+      "code": "CG-11-8051158",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-11",
+      "latitude": -3.919,
+      "longitude": 13.955
+    },
+    {
+      "id": 8051167,
+      "name": "Nkayi",
+      "nativeName": "Nkayi",
+      "code": "CG-11-8051167",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-11",
+      "latitude": -4.18122,
+      "longitude": 13.28419
+    },
+    {
+      "id": 11996223,
+      "name": "Tsiaki",
+      "nativeName": "Tsiaki",
+      "code": "CG-11-11996223",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-11",
+      "latitude": -3.73499,
+      "longitude": 13.86372
+    },
+    {
+      "id": 11996227,
+      "name": "Yamba",
+      "nativeName": "Yamba",
+      "code": "CG-11-11996227",
+      "countryId": 2260494,
+      "countryCode": "CG",
+      "stateCode": "CG-11",
+      "latitude": -4.15012,
+      "longitude": 14.00748
+    }
+  ]
+}

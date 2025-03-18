@@ -1,0 +1,29 @@
+{
+  "stateId": 12226392,
+  "stateCode": "DZ-51",
+  "countryCode": "DZ",
+  "cities": [
+    {
+      "id": 12952766,
+      "name": "Ouled Djellal",
+      "nativeName": "Ouled Djellal",
+      "code": "DZ-51-12952766",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-51",
+      "latitude": 34.61546,
+      "longitude": 4.93028
+    },
+    {
+      "id": 12952768,
+      "name": "Sidi Khaled",
+      "nativeName": "Sidi Khaled",
+      "code": "DZ-51-12952768",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-51",
+      "latitude": 34.09343,
+      "longitude": 4.77253
+    }
+  ]
+}

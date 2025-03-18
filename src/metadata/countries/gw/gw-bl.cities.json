@@ -1,0 +1,51 @@
+{
+  "stateId": 2374689,
+  "stateCode": "GW-BL",
+  "countryCode": "GW",
+  "cities": [
+    {
+      "id": 11995995,
+      "name": "Bolama",
+      "nativeName": "Bolama",
+      "code": "GW-BL-11995995",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "stateCode": "GW-BL",
+      "latitude": 11.57769,
+      "longitude": -15.50891
+    },
+    {
+      "id": 7909710,
+      "name": "Bubaque",
+      "nativeName": "Bubaque",
+      "code": "GW-BL-7909710",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "stateCode": "GW-BL",
+      "latitude": 11.28333,
+      "longitude": -15.83333
+    },
+    {
+      "id": 7911005,
+      "name": "Caravela",
+      "nativeName": "Caravela",
+      "code": "GW-BL-7911005",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "stateCode": "GW-BL",
+      "latitude": 11.56667,
+      "longitude": -16.26667
+    },
+    {
+      "id": 11996000,
+      "name": "Uno",
+      "nativeName": "Uno",
+      "code": "GW-BL-11996000",
+      "countryId": 2372248,
+      "countryCode": "GW",
+      "stateCode": "GW-BL",
+      "latitude": 11.26881,
+      "longitude": -16.19086
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "stateId": 2451477,
+  "stateCode": "ML-4",
+  "countryCode": "ML",
+  "cities": [
+    {
+      "id": 7701201,
+      "name": "Barouéli Cercle",
+      "nativeName": "Baroueli",
+      "code": "ML-4-7701201",
+      "countryId": 2453866,
+      "countryCode": "ML",
+      "stateCode": "ML-4",
+      "latitude": 13.07489,
+      "longitude": -6.57171
+    },
+    {
+      "id": 7701496,
+      "name": "Bla Cercle",
+      "nativeName": "Bla",
+      "code": "ML-4-7701496",
+      "countryId": 2453866,
+      "countryCode": "ML",
+      "stateCode": "ML-4",
+      "latitude": 12.92374,
+      "longitude": -5.76784
+    },
+    {
+      "id": 8631515,
+      "name": "Macina Cercle",
+      "nativeName": "Cercle de Macina",
+      "code": "ML-4-8631515",
+      "countryId": 2453866,
+      "countryCode": "ML",
+      "stateCode": "ML-4",
+      "latitude": 13.99142,
+      "longitude": -5.42901
+    },
+    {
+      "id": 8631514,
+      "name": "Niono Cercle",
+      "nativeName": "Cercle de Niono",
+      "code": "ML-4-8631514",
+      "countryId": 2453866,
+      "countryCode": "ML",
+      "stateCode": "ML-4",
+      "latitude": 14.86664,
+      "longitude": -6.0268
+    },
+    {
+      "id": 8631516,
+      "name": "San Cercle",
+      "nativeName": "Cercle de San",
+      "code": "ML-4-8631516",
+      "countryId": 2453866,
+      "countryCode": "ML",
+      "stateCode": "ML-4",
+      "latitude": 13.17895,
+      "longitude": -5.01617
+    },
+    {
+      "id": 7701202,
+      "name": "Ségou Cercle",
+      "nativeName": "Segou",
+      "code": "ML-4-7701202",
+      "countryId": 2453866,
+      "countryCode": "ML",
+      "stateCode": "ML-4",
+      "latitude": 13.65956,
+      "longitude": -6.15029
+    },
+    {
+      "id": 7701500,
+      "name": "Tominian Cercle",
+      "nativeName": "Tominian",
+      "code": "ML-4-7701500",
+      "countryId": 2453866,
+      "countryCode": "ML",
+      "stateCode": "ML-4",
+      "latitude": 13.28175,
+      "longitude": -4.37718
+    }
+  ]
+}

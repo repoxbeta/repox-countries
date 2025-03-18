@@ -1,0 +1,73 @@
+{
+  "stateId": 2597273,
+  "stateCode": "BJ-KO",
+  "countryCode": "BJ",
+  "cities": [
+    {
+      "id": 10344472,
+      "name": "Aplahoue",
+      "nativeName": "Aplahoué",
+      "code": "BJ-KO-10344472",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-KO",
+      "latitude": 6.93333,
+      "longitude": 1.68333
+    },
+    {
+      "id": 10344473,
+      "name": "Djakotomey",
+      "nativeName": "Djakotomey",
+      "code": "BJ-KO-10344473",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-KO",
+      "latitude": 6.9,
+      "longitude": 1.71667
+    },
+    {
+      "id": 2391090,
+      "name": "Dogbo",
+      "nativeName": "Dogbo Tota",
+      "code": "BJ-KO-2391090",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-KO",
+      "latitude": 6.79925,
+      "longitude": 1.78413
+    },
+    {
+      "id": 10344474,
+      "name": "Klouekanme",
+      "nativeName": "Klouékanmè",
+      "code": "BJ-KO-10344474",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-KO",
+      "latitude": 6.98028,
+      "longitude": 1.84222
+    },
+    {
+      "id": 10344475,
+      "name": "Lalo",
+      "nativeName": "Lalo",
+      "code": "BJ-KO-10344475",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-KO",
+      "latitude": 6.91667,
+      "longitude": 1.88333
+    },
+    {
+      "id": 10344476,
+      "name": "Toviklin",
+      "nativeName": "Toviklin",
+      "code": "BJ-KO-10344476",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-KO",
+      "latitude": 6.88796,
+      "longitude": 1.80739
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "stateId": 8030547,
+  "stateCode": "BS-GC",
+  "countryCode": "BS",
+  "cities": [
+    {
+      "id": 11694815,
+      "name": "Grand Cay",
+      "nativeName": "Grand Cay",
+      "code": "BS-GC-11694815",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-GC",
+      "latitude": 27.21983,
+      "longitude": -78.32771
+    },
+    {
+      "id": 11694817,
+      "name": "Walker Cay",
+      "nativeName": "Walker Cay",
+      "code": "BS-GC-11694817",
+      "countryId": 3572887,
+      "countryCode": "BS",
+      "stateCode": "BS-GC",
+      "latitude": 27.25993,
+      "longitude": -78.40243
+    }
+  ]
+}

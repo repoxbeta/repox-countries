@@ -1,0 +1,150 @@
+{
+  "stateId": 2595348,
+  "stateCode": "NG-NA",
+  "countryCode": "NG",
+  "cities": [
+    {
+      "id": 7932036,
+      "name": "Akwanga",
+      "nativeName": "Akwanga",
+      "code": "NG-NA-7932036",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-NA",
+      "latitude": 8.99386,
+      "longitude": 8.32701
+    },
+    {
+      "id": 8635062,
+      "name": "Awe",
+      "nativeName": "Awe",
+      "code": "NG-NA-8635062",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-NA",
+      "latitude": 8.27456,
+      "longitude": 9.1849
+    },
+    {
+      "id": 8635061,
+      "name": "Doma",
+      "nativeName": "Doma",
+      "code": "NG-NA-8635061",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-NA",
+      "latitude": 8.20323,
+      "longitude": 8.30466
+    },
+    {
+      "id": 8635057,
+      "name": "Karu",
+      "nativeName": "Karu",
+      "code": "NG-NA-8635057",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-NA",
+      "latitude": 9.04694,
+      "longitude": 7.76364
+    },
+    {
+      "id": 7932058,
+      "name": "Keana",
+      "nativeName": "Keana",
+      "code": "NG-NA-7932058",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-NA",
+      "latitude": 8.16746,
+      "longitude": 8.76829
+    },
+    {
+      "id": 8635056,
+      "name": "Keffi",
+      "nativeName": "Keffi",
+      "code": "NG-NA-8635056",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-NA",
+      "latitude": 8.83795,
+      "longitude": 7.82725
+    },
+    {
+      "id": 8635058,
+      "name": "Kokona",
+      "nativeName": "Kokona",
+      "code": "NG-NA-8635058",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-NA",
+      "latitude": 8.85559,
+      "longitude": 8.06111
+    },
+    {
+      "id": 7932056,
+      "name": "Lafia",
+      "nativeName": "Lafia",
+      "code": "NG-NA-7932056",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-NA",
+      "latitude": 8.64007,
+      "longitude": 8.69959
+    },
+    {
+      "id": 7871272,
+      "name": "Nasarawa",
+      "nativeName": "Nasarawa",
+      "code": "NG-NA-7871272",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-NA",
+      "latitude": 8.26937,
+      "longitude": 7.59744
+    },
+    {
+      "id": 8635059,
+      "name": "Nasarawa Egon",
+      "nativeName": "Nasarawa Egon",
+      "code": "NG-NA-8635059",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-NA",
+      "latitude": 8.74947,
+      "longitude": 8.44035
+    },
+    {
+      "id": 7932057,
+      "name": "Obi",
+      "nativeName": "Obi",
+      "code": "NG-NA-7932057",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-NA",
+      "latitude": 8.34738,
+      "longitude": 8.72769
+    },
+    {
+      "id": 8635055,
+      "name": "Toto",
+      "nativeName": "Toto",
+      "code": "NG-NA-8635055",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-NA",
+      "latitude": 8.2502,
+      "longitude": 7.19827
+    },
+    {
+      "id": 8635060,
+      "name": "Wamba",
+      "nativeName": "Wamba",
+      "code": "NG-NA-8635060",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-NA",
+      "latitude": 8.98214,
+      "longitude": 8.69459
+    }
+  ]
+}

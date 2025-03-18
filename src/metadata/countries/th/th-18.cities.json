@@ -1,0 +1,95 @@
+{
+  "stateId": 1611415,
+  "stateCode": "TH-18",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 1153379,
+      "name": "Hankha",
+      "nativeName": "Amphoe Hankha",
+      "code": "TH-18-1153379",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-18",
+      "latitude": 15.05048,
+      "longitude": 99.9609
+    },
+    {
+      "id": 1608761,
+      "name": "Manorom",
+      "nativeName": "Amphoe Manorom",
+      "code": "TH-18-1608761",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-18",
+      "latitude": 15.31894,
+      "longitude": 100.15677
+    },
+    {
+      "id": 1608662,
+      "name": "Mueang Chai Nat",
+      "nativeName": "Amphoe Mueang Chainat",
+      "code": "TH-18-1608662",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-18",
+      "latitude": 15.19104,
+      "longitude": 100.1354
+    },
+    {
+      "id": 7510656,
+      "name": "Noen Kham",
+      "nativeName": "Amphoe Noen Kham",
+      "code": "TH-18-7510656",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-18",
+      "latitude": 14.98254,
+      "longitude": 99.8459
+    },
+    {
+      "id": 7510659,
+      "name": "Nong Mamong",
+      "nativeName": "Amphoe Nong Mamong",
+      "code": "TH-18-7510659",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-18",
+      "latitude": 15.23372,
+      "longitude": 99.81087
+    },
+    {
+      "id": 1606529,
+      "name": "Sankhaburi",
+      "nativeName": "Amphoe Sankhaburi",
+      "code": "TH-18-1606529",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-18",
+      "latitude": 15.02105,
+      "longitude": 100.17038
+    },
+    {
+      "id": 1606511,
+      "name": "Sapphaya",
+      "nativeName": "Amphoe Sapphaya",
+      "code": "TH-18-1606511",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-18",
+      "latitude": 15.14873,
+      "longitude": 100.25506
+    },
+    {
+      "id": 1605047,
+      "name": "Wat Sing",
+      "nativeName": "Amphoe Wat Sing",
+      "code": "TH-18-1605047",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-18",
+      "latitude": 15.21574,
+      "longitude": 99.9668
+    }
+  ]
+}

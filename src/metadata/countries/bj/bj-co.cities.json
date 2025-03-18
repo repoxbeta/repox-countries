@@ -1,0 +1,73 @@
+{
+  "stateId": 2597272,
+  "stateCode": "BJ-CO",
+  "countryCode": "BJ",
+  "cities": [
+    {
+      "id": 8260647,
+      "name": "Bante",
+      "nativeName": "Commune of Bante",
+      "code": "BJ-CO-8260647",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-CO",
+      "latitude": 8.34,
+      "longitude": 1.872
+    },
+    {
+      "id": 8260648,
+      "name": "Dassa-Zoume",
+      "nativeName": "Commune of Dassa-Zoume",
+      "code": "BJ-CO-8260648",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-CO",
+      "latitude": 7.696,
+      "longitude": 2.278
+    },
+    {
+      "id": 7874167,
+      "name": "Glazoue",
+      "nativeName": "Commune of Glazoue",
+      "code": "BJ-CO-7874167",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-CO",
+      "latitude": 8.174,
+      "longitude": 2.233
+    },
+    {
+      "id": 8260649,
+      "name": "Ouesse",
+      "nativeName": "Commune of Ouesse",
+      "code": "BJ-CO-8260649",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-CO",
+      "latitude": 8.561,
+      "longitude": 2.523
+    },
+    {
+      "id": 8260650,
+      "name": "Savalou",
+      "nativeName": "Commune of Savalou",
+      "code": "BJ-CO-8260650",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-CO",
+      "latitude": 7.862,
+      "longitude": 1.849
+    },
+    {
+      "id": 8260651,
+      "name": "Save",
+      "nativeName": "Commune of Save",
+      "code": "BJ-CO-8260651",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-CO",
+      "latitude": 7.959,
+      "longitude": 2.567
+    }
+  ]
+}

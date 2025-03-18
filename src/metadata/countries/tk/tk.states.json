@@ -1,0 +1,39 @@
+{
+  "countryId": 4031074,
+  "countryCode": "TK",
+  "states": [
+    {
+      "id": 4031116,
+      "name": "Atafu",
+      "nativeName": "Atafu",
+      "code": "TK-A",
+      "internalCode": "A",
+      "countryId": 4031074,
+      "countryCode": "TK",
+      "latitude": -8.558,
+      "longitude": -172.497
+    },
+    {
+      "id": 4031112,
+      "name": "Fakaofo",
+      "nativeName": "Fakaofo",
+      "code": "TK-F",
+      "internalCode": "F",
+      "countryId": 4031074,
+      "countryCode": "TK",
+      "latitude": -9.376,
+      "longitude": -171.233
+    },
+    {
+      "id": 4031091,
+      "name": "Nukunonu",
+      "nativeName": "Nukunonu",
+      "code": "TK-N",
+      "internalCode": "N",
+      "countryId": 4031074,
+      "countryCode": "TK",
+      "latitude": -9.169,
+      "longitude": -171.83
+    }
+  ]
+}

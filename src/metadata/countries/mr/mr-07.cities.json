@@ -1,0 +1,51 @@
+{
+  "stateId": 2381972,
+  "stateCode": "MR-07",
+  "countryCode": "MR",
+  "cities": [
+    {
+      "id": 9212615,
+      "name": "Aoujeft",
+      "nativeName": "Aoujeft",
+      "code": "MR-07-9212615",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-07",
+      "latitude": 19.45559,
+      "longitude": -13.07394
+    },
+    {
+      "id": 9212641,
+      "name": "Atar",
+      "nativeName": "Atar",
+      "code": "MR-07-9212641",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-07",
+      "latitude": 20.69046,
+      "longitude": -13.38239
+    },
+    {
+      "id": 9212628,
+      "name": "Chinguity",
+      "nativeName": "Chinguetti",
+      "code": "MR-07-9212628",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-07",
+      "latitude": 20.59485,
+      "longitude": -12.39276
+    },
+    {
+      "id": 9212644,
+      "name": "Ouadane",
+      "nativeName": "Ouadane",
+      "code": "MR-07-9212644",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-07",
+      "latitude": 21.45958,
+      "longitude": -10.94913
+    }
+  ]
+}

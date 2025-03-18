@@ -1,0 +1,62 @@
+{
+  "stateId": 2622387,
+  "stateCode": "FO-OS",
+  "countryCode": "FO",
+  "cities": [
+    {
+      "id": 2622677,
+      "name": "Eiði",
+      "nativeName": "Eiði",
+      "code": "FO-OS-2622677",
+      "countryId": 2622320,
+      "countryCode": "FO",
+      "stateCode": "FO-OS",
+      "latitude": 62.30086,
+      "longitude": -7.08541
+    },
+    {
+      "id": 7798679,
+      "name": "Eystur",
+      "nativeName": "Eystur",
+      "code": "FO-OS-7798679",
+      "countryId": 2622320,
+      "countryCode": "FO",
+      "stateCode": "FO-OS",
+      "latitude": 62.20747,
+      "longitude": -6.79367
+    },
+    {
+      "id": 2616501,
+      "name": "Nes",
+      "nativeName": "Nes",
+      "code": "FO-OS-2616501",
+      "countryId": 2622320,
+      "countryCode": "FO",
+      "stateCode": "FO-OS",
+      "latitude": 62.09553,
+      "longitude": -6.72089
+    },
+    {
+      "id": 2614403,
+      "name": "Runavík",
+      "nativeName": "Runavík",
+      "code": "FO-OS-2614403",
+      "countryId": 2622320,
+      "countryCode": "FO",
+      "stateCode": "FO-OS",
+      "latitude": 62.10677,
+      "longitude": -6.7202
+    },
+    {
+      "id": 7798686,
+      "name": "Sjóvar",
+      "nativeName": "Sjóvar",
+      "code": "FO-OS-7798686",
+      "countryId": 2622320,
+      "countryCode": "FO",
+      "stateCode": "FO-OS",
+      "latitude": 62.13471,
+      "longitude": -6.79916
+    }
+  ]
+}

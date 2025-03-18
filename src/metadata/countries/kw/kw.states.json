@@ -1,0 +1,72 @@
+{
+  "countryId": 285570,
+  "countryCode": "KW",
+  "states": [
+    {
+      "id": 285788,
+      "name": "Al Asimah",
+      "nativeName": "Al Asimah Governorate",
+      "code": "KW-KU",
+      "internalCode": "KU",
+      "countryId": 285570,
+      "countryCode": "KW",
+      "latitude": 29.33333,
+      "longitude": 47.91667
+    },
+    {
+      "id": 285841,
+      "name": "Al Aḩmadī",
+      "nativeName": "Muḩāfaz̧at al Aḩmadī",
+      "code": "KW-AH",
+      "internalCode": "AH",
+      "countryId": 285570,
+      "countryCode": "KW",
+      "latitude": 28.91667,
+      "longitude": 48
+    },
+    {
+      "id": 285816,
+      "name": "Al Farwaniyah",
+      "nativeName": "Muḩāfaz̧at al Farwānīyah",
+      "code": "KW-FA",
+      "internalCode": "FA",
+      "countryId": 285570,
+      "countryCode": "KW",
+      "latitude": 29.25,
+      "longitude": 47.91667
+    },
+    {
+      "id": 285798,
+      "name": "Al Jahra Governorate",
+      "nativeName": "Muḩāfaz̧at al Jahrā’",
+      "code": "KW-JA",
+      "internalCode": "JA",
+      "countryId": 285570,
+      "countryCode": "KW",
+      "latitude": 29.5,
+      "longitude": 47.5
+    },
+    {
+      "id": 285628,
+      "name": "Hawalli",
+      "nativeName": "Muḩāfaz̧at Ḩawallī",
+      "code": "KW-HA",
+      "internalCode": "HA",
+      "countryId": 285570,
+      "countryCode": "KW",
+      "latitude": 29.3,
+      "longitude": 48.05
+    },
+    {
+      "id": 7733358,
+      "name": "Mubārak al Kabīr",
+      "nativeName": "Muḩāfaz̧at Mubārak al Kabīr",
+      "code": "KW-MU",
+      "internalCode": "MU",
+      "countryId": 285570,
+      "countryCode": "KW",
+      "latitude": 29.225,
+      "longitude": 48.05
+    }
+  ]
+}

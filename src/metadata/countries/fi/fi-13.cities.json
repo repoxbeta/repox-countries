@@ -1,0 +1,40 @@
+{
+  "stateId": 830686,
+  "stateCode": "FI-13",
+  "countryCode": "FI",
+  "cities": [
+    {
+      "id": 9610651,
+      "name": "Joensuu",
+      "nativeName": "Joensuu",
+      "code": "FI-13-9610651",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-13",
+      "latitude": 62.79157,
+      "longitude": 29.92371
+    },
+    {
+      "id": 9610652,
+      "name": "Keski-Karjala",
+      "nativeName": "Keski-Karjala",
+      "code": "FI-13-9610652",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-13",
+      "latitude": 62.1264,
+      "longitude": 29.99785
+    },
+    {
+      "id": 9610653,
+      "name": "Pielisen Karjala",
+      "nativeName": "Pielisen Karjala",
+      "code": "FI-13-9610653",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-13",
+      "latitude": 63.45654,
+      "longitude": 29.6681
+    }
+  ]
+}

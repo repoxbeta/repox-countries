@@ -1,0 +1,183 @@
+{
+  "stateId": 3907580,
+  "stateCode": "BO-P",
+  "countryCode": "BO",
+  "cities": [
+    {
+      "id": 3924205,
+      "name": "Alonso de Ibañez",
+      "nativeName": "Alonso de Ibáñez",
+      "code": "BO-P-3924205",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-P",
+      "latitude": -18.14203,
+      "longitude": -66.41893
+    },
+    {
+      "id": 3906809,
+      "name": "Antonio Quijarro",
+      "nativeName": "Provincia Antonio Quijarro",
+      "code": "BO-P-3906809",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-P",
+      "latitude": -20.02624,
+      "longitude": -66.44952
+    },
+    {
+      "id": 3915603,
+      "name": "Bernardino Bilbao Rioja",
+      "nativeName": "Provincia General Bilbao",
+      "code": "BO-P-3915603",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-P",
+      "latitude": -17.99806,
+      "longitude": -66.05716
+    },
+    {
+      "id": 3921114,
+      "name": "Charcas",
+      "nativeName": "Provincia Charcas",
+      "code": "BO-P-3921114",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-P",
+      "latitude": -18.30522,
+      "longitude": -65.88018
+    },
+    {
+      "id": 3921027,
+      "name": "Chayanta",
+      "nativeName": "Provincia Chayanta",
+      "code": "BO-P-3921027",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-P",
+      "latitude": -18.79485,
+      "longitude": -65.89131
+    },
+    {
+      "id": 3906205,
+      "name": "Cornelio Saavedra",
+      "nativeName": "Provincia Cornelio Saavedra",
+      "code": "BO-P-3906205",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-P",
+      "latitude": -19.45052,
+      "longitude": -65.36694
+    },
+    {
+      "id": 3918497,
+      "name": "Daniel Campos",
+      "nativeName": "Provincia Daniel Campos",
+      "code": "BO-P-3918497",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-P",
+      "latitude": -20.24625,
+      "longitude": -68.46364
+    },
+    {
+      "id": 11184251,
+      "name": "Enrique Baldivieso",
+      "nativeName": "Enrique Baldivieso",
+      "code": "BO-P-11184251",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-P",
+      "latitude": -21.38323,
+      "longitude": -67.60368
+    },
+    {
+      "id": 3911502,
+      "name": "José Maria Linares",
+      "nativeName": "José María Linares",
+      "code": "BO-P-3911502",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-P",
+      "latitude": -19.82618,
+      "longitude": -65.34606
+    },
+    {
+      "id": 3910260,
+      "name": "Modesto Omiste",
+      "nativeName": "Provincia Modesto Omiste",
+      "code": "BO-P-3910260",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-P",
+      "latitude": -21.93541,
+      "longitude": -65.6508
+    },
+    {
+      "id": 3909496,
+      "name": "Nor Chichas",
+      "nativeName": "Provincia Nor Chichas",
+      "code": "BO-P-3909496",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-P",
+      "latitude": -20.60365,
+      "longitude": -65.67181
+    },
+    {
+      "id": 3909491,
+      "name": "Nor Lípez",
+      "nativeName": "Provincia Nor Lípez",
+      "code": "BO-P-3909491",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-P",
+      "latitude": -20.96851,
+      "longitude": -67.42854
+    },
+    {
+      "id": 3906628,
+      "name": "Rafael Bustillo",
+      "nativeName": "Provincia Rafael Bustillo",
+      "code": "BO-P-3906628",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-P",
+      "latitude": -18.33333,
+      "longitude": -66.5
+    },
+    {
+      "id": 3903978,
+      "name": "Sur Chichas",
+      "nativeName": "Sur Chichas",
+      "code": "BO-P-3903978",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-P",
+      "latitude": -21.43285,
+      "longitude": -65.87766
+    },
+    {
+      "id": 3903976,
+      "name": "Sur Lípez",
+      "nativeName": "Sur Lípez",
+      "code": "BO-P-3903976",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-P",
+      "latitude": -22.16117,
+      "longitude": -66.91155
+    },
+    {
+      "id": 3902683,
+      "name": "Tomas Frias",
+      "nativeName": "Provincia Tomás Frías",
+      "code": "BO-P-3902683",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-P",
+      "latitude": -19.42262,
+      "longitude": -65.88784
+    }
+  ]
+}

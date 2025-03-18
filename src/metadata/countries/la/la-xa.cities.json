@@ -1,0 +1,128 @@
+{
+  "stateId": 1652210,
+  "stateCode": "LA-XA",
+  "countryCode": "LA",
+  "cities": [
+    {
+      "id": 8739950,
+      "name": "Botene",
+      "nativeName": "Botene",
+      "code": "LA-XA-8739950",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-XA",
+      "latitude": 17.59298,
+      "longitude": 101.1858
+    },
+    {
+      "id": 1657146,
+      "name": "Muang Hôngsa",
+      "nativeName": "Muang Hôngsa",
+      "code": "LA-XA-1657146",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-XA",
+      "latitude": 19.69815,
+      "longitude": 101.49796
+    },
+    {
+      "id": 1904806,
+      "name": "Muang Khop",
+      "nativeName": "Muang Khop",
+      "code": "LA-XA-1904806",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-XA",
+      "latitude": 19.66457,
+      "longitude": 100.56103
+    },
+    {
+      "id": 1656626,
+      "name": "Muang Kènthao",
+      "nativeName": "Muang Kènthao",
+      "code": "LA-XA-1656626",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-XA",
+      "latitude": 17.85156,
+      "longitude": 101.3167
+    },
+    {
+      "id": 1652070,
+      "name": "Muang Ngeun",
+      "nativeName": "Muang Ngeun",
+      "code": "LA-XA-1652070",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-XA",
+      "latitude": 19.72046,
+      "longitude": 101.13548
+    },
+    {
+      "id": 1654398,
+      "name": "Muang Paklay",
+      "nativeName": "Muang Paklay",
+      "code": "LA-XA-1654398",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-XA",
+      "latitude": 18.39471,
+      "longitude": 101.50389
+    },
+    {
+      "id": 1904805,
+      "name": "Muang Phiang",
+      "nativeName": "Muang Phiang",
+      "code": "LA-XA-1904805",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-XA",
+      "latitude": 18.87675,
+      "longitude": 101.47001
+    },
+    {
+      "id": 1652209,
+      "name": "Muang Xaignabouli",
+      "nativeName": "Muang Xaignabouli",
+      "code": "LA-XA-1652209",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-XA",
+      "latitude": 19.3229,
+      "longitude": 101.59536
+    },
+    {
+      "id": 1652081,
+      "name": "Muang Xianghon",
+      "nativeName": "Muang Xianghon",
+      "code": "LA-XA-1652081",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-XA",
+      "latitude": 19.70479,
+      "longitude": 100.83458
+    },
+    {
+      "id": 11550488,
+      "name": "Thongmyxay",
+      "nativeName": "Thongmyxay",
+      "code": "LA-XA-11550488",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-XA",
+      "latitude": 17.67543,
+      "longitude": 101.02478
+    },
+    {
+      "id": 11550489,
+      "name": "Xaysathan",
+      "nativeName": "Xaysathan",
+      "code": "LA-XA-11550489",
+      "countryId": 1655842,
+      "countryCode": "LA",
+      "stateCode": "LA-XA",
+      "latitude": 17.59052,
+      "longitude": 101.021
+    }
+  ]
+}

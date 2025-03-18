@@ -1,0 +1,271 @@
+{
+  "stateId": 1626232,
+  "stateCode": "ID-SN",
+  "countryCode": "ID",
+  "cities": [
+    {
+      "id": 1650183,
+      "name": "Bantaeng Regency",
+      "nativeName": "Kabupaten Bantaeng",
+      "code": "ID-SN-1650183",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SN",
+      "latitude": -5.48333,
+      "longitude": 119.98333
+    },
+    {
+      "id": 1649975,
+      "name": "Barru Regency",
+      "nativeName": "Kabupaten Barru",
+      "code": "ID-SN-1649975",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SN",
+      "latitude": -4.45,
+      "longitude": 119.695
+    },
+    {
+      "id": 1648256,
+      "name": "Bone Regency",
+      "nativeName": "Kabupaten Bone",
+      "code": "ID-SN-1648256",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SN",
+      "latitude": -4.7,
+      "longitude": 120.13333
+    },
+    {
+      "id": 1647738,
+      "name": "Bulukumba Regency",
+      "nativeName": "Kabupaten Bulukumba",
+      "code": "ID-SN-1647738",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SN",
+      "latitude": -5.43333,
+      "longitude": 120.23333
+    },
+    {
+      "id": 9165704,
+      "name": "East Luwu Regency",
+      "nativeName": "Kabupaten Luwu Timur",
+      "code": "ID-SN-9165704",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SN",
+      "latitude": -2.5321,
+      "longitude": 121.12305
+    },
+    {
+      "id": 1644905,
+      "name": "Enrekang Regency",
+      "nativeName": "Kabupaten Enrekang",
+      "code": "ID-SN-1644905",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SN",
+      "latitude": -3.5,
+      "longitude": 119.86667
+    },
+    {
+      "id": 1643807,
+      "name": "Gowa Regency",
+      "nativeName": "Kabupaten Gowa",
+      "code": "ID-SN-1643807",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SN",
+      "latitude": -5.31667,
+      "longitude": 119.71667
+    },
+    {
+      "id": 1642569,
+      "name": "Kabupaten Jeneponto",
+      "nativeName": "Kabupaten Jeneponto",
+      "code": "ID-SN-1642569",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SN",
+      "latitude": -5.63333,
+      "longitude": 119.71667
+    },
+    {
+      "id": 1626894,
+      "name": "Kabupaten Sinjai",
+      "nativeName": "Kabupaten Sinjai",
+      "code": "ID-SN-1626894",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SN",
+      "latitude": -5.2,
+      "longitude": 120.13333
+    },
+    {
+      "id": 1622785,
+      "name": "Kota Makassar",
+      "nativeName": "Kota Makassar",
+      "code": "ID-SN-1622785",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SN",
+      "latitude": -5.13333,
+      "longitude": 119.46667
+    },
+    {
+      "id": 9843582,
+      "name": "Kota Palopo",
+      "nativeName": "Kota Palopo",
+      "code": "ID-SN-9843582",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SN",
+      "latitude": -2.97841,
+      "longitude": 120.11078
+    },
+    {
+      "id": 1632352,
+      "name": "Kota Parepare",
+      "nativeName": "Kota Parepare",
+      "code": "ID-SN-1632352",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SN",
+      "latitude": -4.03333,
+      "longitude": 119.66667
+    },
+    {
+      "id": 6965895,
+      "name": "Luwu Regency",
+      "nativeName": "Kabupaten Luwu",
+      "code": "ID-SN-6965895",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SN",
+      "latitude": -3.34836,
+      "longitude": 120.22127
+    },
+    {
+      "id": 1636028,
+      "name": "Maros Regency",
+      "nativeName": "Kabupaten Maros",
+      "code": "ID-SN-1636028",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SN",
+      "latitude": -5.05,
+      "longitude": 119.68333
+    },
+    {
+      "id": 9165788,
+      "name": "North Luwu Regency",
+      "nativeName": "Kabupaten Luwu Utara",
+      "code": "ID-SN-9165788",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SN",
+      "latitude": -2.6,
+      "longitude": 120.25
+    },
+    {
+      "id": 9846656,
+      "name": "North Toraja Regency",
+      "nativeName": "Kabupaten Toraja Utara",
+      "code": "ID-SN-9846656",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SN",
+      "latitude": -2.92738,
+      "longitude": 119.79218
+    },
+    {
+      "id": 1632723,
+      "name": "Pangkajene Islands Regency",
+      "nativeName": "Kabupaten Pangkajene Dan Kepulauan",
+      "code": "ID-SN-1632723",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SN",
+      "latitude": -4.7827,
+      "longitude": 119.5506
+    },
+    {
+      "id": 1631102,
+      "name": "Pinrang Regency",
+      "nativeName": "Kabupaten Pinrang",
+      "code": "ID-SN-1631102",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SN",
+      "latitude": -3.61667,
+      "longitude": 119.6
+    },
+    {
+      "id": 1628015,
+      "name": "Selayar Islands Regency",
+      "nativeName": "Selayar Islands Regency",
+      "code": "ID-SN-1628015",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SN",
+      "latitude": -6.81667,
+      "longitude": 120.8
+    },
+    {
+      "id": 1627258,
+      "name": "Sidenreng Rappang Regency",
+      "nativeName": "Kabupaten Sidenreng Rappang",
+      "code": "ID-SN-1627258",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SN",
+      "latitude": -3.86667,
+      "longitude": 119.96667
+    },
+    {
+      "id": 7063566,
+      "name": "Soppeng Regency",
+      "nativeName": "Kabupaten Soppeng",
+      "code": "ID-SN-7063566",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SN",
+      "latitude": -4.3842,
+      "longitude": 119.89
+    },
+    {
+      "id": 1625545,
+      "name": "Takalar Regency",
+      "nativeName": "Kabupaten Takalar",
+      "code": "ID-SN-1625545",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SN",
+      "latitude": -5.41667,
+      "longitude": 119.5
+    },
+    {
+      "id": 1625123,
+      "name": "Tana Toraja Regency",
+      "nativeName": "Kabupaten Tana Toraja",
+      "code": "ID-SN-1625123",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SN",
+      "latitude": -3.05671,
+      "longitude": 119.7617
+    },
+    {
+      "id": 1622267,
+      "name": "Wajo Regency",
+      "nativeName": "Kabupaten Wajo",
+      "code": "ID-SN-1622267",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-SN",
+      "latitude": -4,
+      "longitude": 120.16667
+    }
+  ]
+}

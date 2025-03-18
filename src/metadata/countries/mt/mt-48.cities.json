@@ -1,0 +1,29 @@
+{
+  "stateId": 8299748,
+  "stateCode": "MT-48",
+  "countryCode": "MT",
+  "cities": [
+    {
+      "id": 2562557,
+      "name": "St. Julian's",
+      "nativeName": "San Ġiljan",
+      "code": "MT-48-2562557",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-48",
+      "latitude": 35.91839,
+      "longitude": 14.48977
+    },
+    {
+      "id": 7302254,
+      "name": "Paceville",
+      "nativeName": "Paceville",
+      "code": "MT-48-7302254",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-48",
+      "latitude": 35.92378,
+      "longitude": 14.48949
+    }
+  ]
+}

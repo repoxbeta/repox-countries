@@ -1,0 +1,39 @@
+{
+  "countryId": 661882,
+  "countryCode": "AX",
+  "states": [
+    {
+      "id": 9611689,
+      "name": "Mariehamns stad",
+      "nativeName": "Mariehamns stad",
+      "code": "AX-211",
+      "internalCode": "",
+      "countryId": 661882,
+      "countryCode": "AX",
+      "latitude": 60.08348,
+      "longitude": 19.94307
+    },
+    {
+      "id": 9611692,
+      "name": "Ålands landsbygd",
+      "nativeName": "Ålands landsbygd",
+      "code": "AX-212",
+      "internalCode": "",
+      "countryId": 661882,
+      "countryCode": "AX",
+      "latitude": 60.22496,
+      "longitude": 19.93363
+    },
+    {
+      "id": 9611694,
+      "name": "Ålands skärgård",
+      "nativeName": "Ålands skärgård",
+      "code": "AX-213",
+      "internalCode": "",
+      "countryId": 661882,
+      "countryCode": "AX",
+      "latitude": 60.17575,
+      "longitude": 20.71799
+    }
+  ]
+}

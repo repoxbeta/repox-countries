@@ -1,0 +1,29 @@
+{
+  "stateId": 933044,
+  "stateCode": "BW-SE",
+  "countryCode": "BW",
+  "cities": [
+    {
+      "id": 7670702,
+      "name": "Gaborone",
+      "nativeName": "Gaborone",
+      "code": "BW-SE-7670702",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "stateCode": "BW-SE",
+      "latitude": -24.76234,
+      "longitude": 25.7995
+    },
+    {
+      "id": 11819287,
+      "name": "South East",
+      "nativeName": "South East",
+      "code": "BW-SE-11819287",
+      "countryId": 933860,
+      "countryCode": "BW",
+      "stateCode": "BW-SE",
+      "latitude": -25.22518,
+      "longitude": 25.67222
+    }
+  ]
+}

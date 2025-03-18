@@ -1,0 +1,95 @@
+{
+  "stateId": 2666218,
+  "stateCode": "SE-C",
+  "countryCode": "SE",
+  "cities": [
+    {
+      "id": 2716165,
+      "name": "Enköping Municipality",
+      "nativeName": "Enköpings Kommun",
+      "code": "SE-C-2716165",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-C",
+      "latitude": 59.68575,
+      "longitude": 17.11668
+    },
+    {
+      "id": 2707055,
+      "name": "Heby Municipality",
+      "nativeName": "Heby kommun",
+      "code": "SE-C-2707055",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-C",
+      "latitude": 60.1,
+      "longitude": 17
+    },
+    {
+      "id": 2709491,
+      "name": "Håbo Municipality",
+      "nativeName": "Håbo kommun",
+      "code": "SE-C-2709491",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-C",
+      "latitude": 59.64953,
+      "longitude": 17.50701
+    },
+    {
+      "id": 3337384,
+      "name": "Knivsta muncipality",
+      "nativeName": "Knivsta muncipality",
+      "code": "SE-C-3337384",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-C",
+      "latitude": 59.73702,
+      "longitude": 17.78137
+    },
+    {
+      "id": 2669097,
+      "name": "Tierp Municipality",
+      "nativeName": "Tierps kommun",
+      "code": "SE-C-2669097",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-C",
+      "latitude": 60.37206,
+      "longitude": 17.63629
+    },
+    {
+      "id": 2666219,
+      "name": "Uppsala Municipality",
+      "nativeName": "Uppsala Kommun",
+      "code": "SE-C-2666219",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-C",
+      "latitude": 59.96425,
+      "longitude": 17.77395
+    },
+    {
+      "id": 2726284,
+      "name": "Älvkarleby Municipality",
+      "nativeName": "Älvkarleby Kommun",
+      "code": "SE-C-2726284",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-C",
+      "latitude": 60.58212,
+      "longitude": 17.44532
+    },
+    {
+      "id": 2685697,
+      "name": "Östhammar Municipality",
+      "nativeName": "Östhammars Kommun",
+      "code": "SE-C-2685697",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "stateCode": "SE-C",
+      "latitude": 60.24156,
+      "longitude": 18.26968
+    }
+  ]
+}

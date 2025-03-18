@@ -1,0 +1,51 @@
+{
+  "stateId": 3237221,
+  "stateCode": "JE-3237221",
+  "countryCode": "JE",
+  "cities": [
+    {
+      "id": 9538862,
+      "name": "La Presse",
+      "nativeName": "La Presse",
+      "code": "JE-3237221-9538862",
+      "countryId": 3042142,
+      "countryCode": "JE",
+      "stateCode": "JE-3237221",
+      "latitude": 49.21423,
+      "longitude": -2.19422
+    },
+    {
+      "id": 9538861,
+      "name": "St Peters Village",
+      "nativeName": "St Peters Village",
+      "code": "JE-3237221-9538861",
+      "countryId": 3042142,
+      "countryCode": "JE",
+      "stateCode": "JE-3237221",
+      "latitude": 49.21294,
+      "longitude": -2.18353
+    },
+    {
+      "id": 9538866,
+      "name": "St. Peters Arsenal",
+      "nativeName": "St. Peters Arsenal",
+      "code": "JE-3237221-9538866",
+      "countryId": 3042142,
+      "countryCode": "JE",
+      "stateCode": "JE-3237221",
+      "latitude": 49.20204,
+      "longitude": -2.1822
+    },
+    {
+      "id": 9538860,
+      "name": "St Peter",
+      "nativeName": "St Peter",
+      "code": "JE-3237221-9538860",
+      "countryId": 3042142,
+      "countryCode": "JE",
+      "stateCode": "JE-3237221",
+      "latitude": 49.21479,
+      "longitude": -2.18263
+    }
+  ]
+}

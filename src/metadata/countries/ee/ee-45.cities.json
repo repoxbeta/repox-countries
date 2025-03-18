@@ -1,0 +1,95 @@
+{
+  "stateId": 592075,
+  "stateCode": "EE-45",
+  "countryCode": "EE",
+  "cities": [
+    {
+      "id": 11776879,
+      "name": "Alutaguse vald",
+      "nativeName": "Alutaguse vald",
+      "code": "EE-45-11776879",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-45",
+      "latitude": 59.13787,
+      "longitude": 27.3839
+    },
+    {
+      "id": 7522286,
+      "name": "Jõhvi vald",
+      "nativeName": "Jõhvi vald",
+      "code": "EE-45-7522286",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-45",
+      "latitude": 59.35653,
+      "longitude": 27.39304
+    },
+    {
+      "id": 862989,
+      "name": "Kohtla-Järve linn",
+      "nativeName": "Kohtla-Järve linn",
+      "code": "EE-45-862989",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-45",
+      "latitude": 59.39535,
+      "longitude": 27.28111
+    },
+    {
+      "id": 7522335,
+      "name": "Lüganuse vald",
+      "nativeName": "Lüganuse vald",
+      "code": "EE-45-7522335",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-45",
+      "latitude": 59.39262,
+      "longitude": 27.07641
+    },
+    {
+      "id": 862990,
+      "name": "Narva linn",
+      "nativeName": "Narva linn",
+      "code": "EE-45-862990",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-45",
+      "latitude": 59.36955,
+      "longitude": 28.11022
+    },
+    {
+      "id": 7522358,
+      "name": "Narva-Jõesuu linn",
+      "nativeName": "Narva-Jõesuu linn",
+      "code": "EE-45-7522358",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-45",
+      "latitude": 59.44127,
+      "longitude": 28.02142
+    },
+    {
+      "id": 862994,
+      "name": "Sillamäe linn",
+      "nativeName": "Sillamäe linn",
+      "code": "EE-45-862994",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-45",
+      "latitude": 59.39562,
+      "longitude": 27.76417
+    },
+    {
+      "id": 7522469,
+      "name": "Toila vald",
+      "nativeName": "Toila vald",
+      "code": "EE-45-7522469",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-45",
+      "latitude": 59.34821,
+      "longitude": 27.56263
+    }
+  ]
+}

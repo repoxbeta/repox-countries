@@ -1,0 +1,260 @@
+{
+  "stateId": 1514967,
+  "stateCode": "MN-046",
+  "countryCode": "MN",
+  "cities": [
+    {
+      "id": 6619170,
+      "name": "Baruunturuun District",
+      "nativeName": "Baruunturuun",
+      "code": "MN-046-6619170",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-046",
+      "latitude": 49.6524,
+      "longitude": 94.40363
+    },
+    {
+      "id": 6619163,
+      "name": "Bo'hmoron District",
+      "nativeName": "Böhmörön",
+      "code": "MN-046-6619163",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-046",
+      "latitude": 49.66118,
+      "longitude": 90.29165
+    },
+    {
+      "id": 6619154,
+      "name": "Davst District",
+      "nativeName": "Davst",
+      "code": "MN-046-6619154",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-046",
+      "latitude": 50.60634,
+      "longitude": 92.40292
+    },
+    {
+      "id": 6619165,
+      "name": "Dzüüngovĭ",
+      "nativeName": "Dzüüngovĭ",
+      "code": "MN-046-6619165",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-046",
+      "latitude": 49.90149,
+      "longitude": 93.78565
+    },
+    {
+      "id": 6987792,
+      "name": "Dzüüngovĭ Sum",
+      "nativeName": "Dzüüngovĭ Sum",
+      "code": "MN-046-6987792",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-046",
+      "latitude": 50.12362,
+      "longitude": 93.97698
+    },
+    {
+      "id": 6619162,
+      "name": "Khovd District",
+      "nativeName": "Hovd",
+      "code": "MN-046-6619162",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-046",
+      "latitude": 49.2743,
+      "longitude": 90.91375
+    },
+    {
+      "id": 6619168,
+      "name": "Khyargas District",
+      "nativeName": "Hyargas",
+      "code": "MN-046-6619168",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-046",
+      "latitude": 49.53524,
+      "longitude": 93.82324
+    },
+    {
+      "id": 6619166,
+      "name": "Malchin District",
+      "nativeName": "Malchin",
+      "code": "MN-046-6619166",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-046",
+      "latitude": 49.71005,
+      "longitude": 93.26723
+    },
+    {
+      "id": 6619159,
+      "name": "Naranbulag District",
+      "nativeName": "Naranbulag",
+      "code": "MN-046-6619159",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-046",
+      "latitude": 49.35286,
+      "longitude": 92.56737
+    },
+    {
+      "id": 6619160,
+      "name": "O'lgii District",
+      "nativeName": "Ölgiy",
+      "code": "MN-046-6619160",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-046",
+      "latitude": 49.02571,
+      "longitude": 92.03659
+    },
+    {
+      "id": 6619171,
+      "name": "O'ndorhangai District",
+      "nativeName": "Öndörhangay",
+      "code": "MN-046-6619171",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-046",
+      "latitude": 49.26523,
+      "longitude": 94.85939
+    },
+    {
+      "id": 6619155,
+      "name": "Sagil",
+      "nativeName": "Sagil",
+      "code": "MN-046-6619155",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-046",
+      "latitude": 50.33056,
+      "longitude": 91.60641
+    },
+    {
+      "id": 6619157,
+      "name": "Tarialan District",
+      "nativeName": "Tarialan",
+      "code": "MN-046-6619157",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-046",
+      "latitude": 49.77439,
+      "longitude": 91.90381
+    },
+    {
+      "id": 6619164,
+      "name": "Tes District",
+      "nativeName": "Tes",
+      "code": "MN-046-6619164",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-046",
+      "latitude": 50.46346,
+      "longitude": 93.59073
+    },
+    {
+      "id": 6619169,
+      "name": "Tsagaanhairhan District",
+      "nativeName": "Tsagaanhayrhan",
+      "code": "MN-046-6619169",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-046",
+      "latitude": 49.39897,
+      "longitude": 94.24416
+    },
+    {
+      "id": 6619156,
+      "name": "Türgen District",
+      "nativeName": "Türgen",
+      "code": "MN-046-6619156",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-046",
+      "latitude": 50.09713,
+      "longitude": 91.66649
+    },
+    {
+      "id": 6619158,
+      "name": "Ulaangom District",
+      "nativeName": "Ulaangom",
+      "code": "MN-046-6619158",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-046",
+      "latitude": 49.9754,
+      "longitude": 92.06612
+    },
+    {
+      "id": 6619167,
+      "name": "Zavhan District",
+      "nativeName": "Dzavhan",
+      "code": "MN-046-6619167",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-046",
+      "latitude": 48.80551,
+      "longitude": 93.10913
+    },
+    {
+      "id": 6619172,
+      "name": "Zu'unhangai District",
+      "nativeName": "Dzüünhangay",
+      "code": "MN-046-6619172",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-046",
+      "latitude": 49.29737,
+      "longitude": 95.44922
+    },
+    {
+      "id": 10375934,
+      "name": "Züüngovi District",
+      "nativeName": "Züüngovi",
+      "code": "MN-046-10375934",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-046",
+      "latitude": 49.90528,
+      "longitude": 93.79277
+    },
+    {
+      "id": 10375935,
+      "name": "Züünkhangai",
+      "nativeName": "Züünkhangai",
+      "code": "MN-046-10375935",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-046",
+      "latitude": 49.30736,
+      "longitude": 95.45287
+    },
+    {
+      "id": 6619161,
+      "name": "Ömnögovi District",
+      "nativeName": "Ömnögovĭ",
+      "code": "MN-046-6619161",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-046",
+      "latitude": 49.10208,
+      "longitude": 91.7179
+    },
+    {
+      "id": 10375933,
+      "name": "Öndörkhangai",
+      "nativeName": "Öndörkhangai",
+      "code": "MN-046-10375933",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-046",
+      "latitude": 49.22902,
+      "longitude": 94.87003
+    }
+  ]
+}

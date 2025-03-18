@@ -1,0 +1,51 @@
+{
+  "stateId": 3574155,
+  "stateCode": "TT-MRC",
+  "countryCode": "TT",
+  "cities": [
+    {
+      "id": 3574796,
+      "name": "Ward of Charuma",
+      "nativeName": "Ward of Charuma",
+      "code": "TT-MRC-3574796",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-MRC",
+      "latitude": 10.38333,
+      "longitude": -61.2
+    },
+    {
+      "id": 3574768,
+      "name": "Ward of Cocal",
+      "nativeName": "Ward of Cocal",
+      "code": "TT-MRC-3574768",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-MRC",
+      "latitude": 10.36667,
+      "longitude": -61.08333
+    },
+    {
+      "id": 3574434,
+      "name": "Ward of Guayaguayare",
+      "nativeName": "Ward of Guayaguayare",
+      "code": "TT-MRC-3574434",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-MRC",
+      "latitude": 10.2,
+      "longitude": -61.05
+    },
+    {
+      "id": 3573589,
+      "name": "Ward of Trinity",
+      "nativeName": "Ward of Trinity",
+      "code": "TT-MRC-3573589",
+      "countryId": 3573591,
+      "countryCode": "TT",
+      "stateCode": "TT-MRC",
+      "latitude": 10.19185,
+      "longitude": -61.15494
+    }
+  ]
+}

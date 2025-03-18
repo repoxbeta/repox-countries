@@ -1,0 +1,95 @@
+{
+  "stateId": 1577954,
+  "stateCode": "VN-01",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 10816510,
+      "name": "Huyện Nậm Nhùn",
+      "nativeName": "Huyện Nậm Nhùn",
+      "code": "VN-01-10816510",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-01",
+      "latitude": 22.2045,
+      "longitude": 103.01127
+    },
+    {
+      "id": 1905106,
+      "name": "Huyện Phong Thổ",
+      "nativeName": "Huyện Phong Thổ",
+      "code": "VN-01-1905106",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-01",
+      "latitude": 22.58533,
+      "longitude": 103.34564
+    },
+    {
+      "id": 1905104,
+      "name": "Huyện Sìn Hồ",
+      "nativeName": "Huyện Sìn Hồ",
+      "code": "VN-01-1905104",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-01",
+      "latitude": 22.28687,
+      "longitude": 103.34608
+    },
+    {
+      "id": 1905014,
+      "name": "Huyện Than Uyên",
+      "nativeName": "Huyện Than Uyên",
+      "code": "VN-01-1905014",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-01",
+      "latitude": 21.91424,
+      "longitude": 103.82857
+    },
+    {
+      "id": 10862502,
+      "name": "Huyện Tân Uyên",
+      "nativeName": "Huyện Tân Uyên",
+      "code": "VN-01-10862502",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-01",
+      "latitude": 22.12837,
+      "longitude": 103.73576
+    },
+    {
+      "id": 1905107,
+      "name": "Mường Tè District",
+      "nativeName": "Huyện Mưòng Tè",
+      "code": "VN-01-1905107",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-01",
+      "latitude": 22.37443,
+      "longitude": 102.73835
+    },
+    {
+      "id": 8456760,
+      "name": "Tam Đường District",
+      "nativeName": "Huyện Tam Đường",
+      "code": "VN-01-8456760",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-01",
+      "latitude": 22.31131,
+      "longitude": 103.60054
+    },
+    {
+      "id": 11497338,
+      "name": "Thành phố Lai Châu",
+      "nativeName": "Thành phố Lai Châu",
+      "code": "VN-01-11497338",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-01",
+      "latitude": 22.39937,
+      "longitude": 103.40821
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "stateId": 2425287,
+  "stateCode": "TD-TA",
+  "countryCode": "TD",
+  "cities": [
+    {
+      "id": 12186534,
+      "name": "Manbagué",
+      "nativeName": "Manbagué",
+      "code": "TD-TA-12186534",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-TA",
+      "latitude": 9.16808,
+      "longitude": 15.5311
+    },
+    {
+      "id": 12186533,
+      "name": "Manga",
+      "nativeName": "Manga",
+      "code": "TD-TA-12186533",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-TA",
+      "latitude": 9.46984,
+      "longitude": 17.03106
+    },
+    {
+      "id": 8250838,
+      "name": "Tandjile Ouest",
+      "nativeName": "Tandjile Ouest",
+      "code": "TD-TA-8250838",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-TA",
+      "latitude": 9.36,
+      "longitude": 15.79
+    },
+    {
+      "id": 7670586,
+      "name": "Tandjilé Est",
+      "nativeName": "Tandjilé Est",
+      "code": "TD-TA-7670586",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-TA",
+      "latitude": 9.66257,
+      "longitude": 16.72346
+    },
+    {
+      "id": 12186532,
+      "name": "Tandjilé-Centre",
+      "nativeName": "Tandjilé-Centre",
+      "code": "TD-TA-12186532",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "stateCode": "TD-TA",
+      "latitude": 9.26066,
+      "longitude": 16.14053
+    }
+  ]
+}

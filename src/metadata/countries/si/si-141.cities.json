@@ -1,0 +1,51 @@
+{
+  "stateId": 3239180,
+  "stateCode": "SI-141",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3187020,
+      "name": "Vuzenica",
+      "nativeName": "Vuzenica",
+      "code": "SI-141-3187020",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-141",
+      "latitude": 46.59639,
+      "longitude": 15.16722
+    },
+    {
+      "id": 3201256,
+      "name": "Dravče",
+      "nativeName": "Dravče",
+      "code": "SI-141-3201256",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-141",
+      "latitude": 46.58333,
+      "longitude": 15.13333
+    },
+    {
+      "id": 8986971,
+      "name": "Sv. Vid",
+      "nativeName": "Sv. Vid",
+      "code": "SI-141-8986971",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-141",
+      "latitude": 46.59271,
+      "longitude": 15.19281
+    },
+    {
+      "id": 3191035,
+      "name": "Šentjanž nad Dravčami",
+      "nativeName": "Šentjanž nad Dravčami",
+      "code": "SI-141-3191035",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-141",
+      "latitude": 46.56341,
+      "longitude": 15.14203
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "stateId": 7303522,
+  "stateCode": "MH-LIB",
+  "countryCode": "MH",
+  "cities": [
+    {
+      "id": 7306524,
+      "name": "Lib",
+      "nativeName": "Lib",
+      "code": "MH-LIB-7306524",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-LIB",
+      "latitude": 8.31221,
+      "longitude": 167.37662
+    },
+    {
+      "id": 7304040,
+      "name": "Lib",
+      "nativeName": "Lib",
+      "code": "MH-LIB-7304040",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-LIB",
+      "latitude": 8.31461,
+      "longitude": 167.37499
+    }
+  ]
+}

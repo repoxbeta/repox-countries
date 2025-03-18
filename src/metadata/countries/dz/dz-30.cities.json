@@ -1,0 +1,62 @@
+{
+  "stateId": 2485794,
+  "stateCode": "DZ-30",
+  "countryCode": "DZ",
+  "cities": [
+    {
+      "id": 12952501,
+      "name": "El Borma",
+      "nativeName": "El Borma",
+      "code": "DZ-30-12952501",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-30",
+      "latitude": 31.20612,
+      "longitude": 7.9404
+    },
+    {
+      "id": 12952764,
+      "name": "Hassi Messaoud",
+      "nativeName": "Hassi Messaoud",
+      "code": "DZ-30-12952764",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-30",
+      "latitude": 30.36095,
+      "longitude": 5.16212
+    },
+    {
+      "id": 12952765,
+      "name": "N'goussa",
+      "nativeName": "N'goussa",
+      "code": "DZ-30-12952765",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-30",
+      "latitude": 32.35755,
+      "longitude": 5.30843
+    },
+    {
+      "id": 2485797,
+      "name": "Ouargla District",
+      "nativeName": "Daïra d’Ouargla",
+      "code": "DZ-30-2485797",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-30",
+      "latitude": 32.0288,
+      "longitude": 5.0482
+    },
+    {
+      "id": 12952759,
+      "name": "Sidi Khouiled",
+      "nativeName": "Sidi Khouiled",
+      "code": "DZ-30-12952759",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-30",
+      "latitude": 31.99398,
+      "longitude": 5.69548
+    }
+  ]
+}

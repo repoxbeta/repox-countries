@@ -1,0 +1,84 @@
+{
+  "stateId": 3426182,
+  "stateCode": "IS-1",
+  "countryCode": "IS",
+  "cities": [
+    {
+      "id": 3417190,
+      "name": "Garðabær",
+      "nativeName": "Garðabær",
+      "code": "IS-1-3417190",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-1",
+      "latitude": 64.05365,
+      "longitude": -21.8569
+    },
+    {
+      "id": 3416708,
+      "name": "Hafnarfjarðarkaupstaður",
+      "nativeName": "Hafnarfjarðarkaupstaður",
+      "code": "IS-1-3416708",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-1",
+      "latitude": 64.02235,
+      "longitude": -21.9606
+    },
+    {
+      "id": 3415359,
+      "name": "Kjósarhreppur",
+      "nativeName": "Kjósarhreppur",
+      "code": "IS-1-3415359",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-1",
+      "latitude": 64.30644,
+      "longitude": -21.49919
+    },
+    {
+      "id": 3415215,
+      "name": "Kópavogsbær",
+      "nativeName": "Kópavogsbær",
+      "code": "IS-1-3415215",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-1",
+      "latitude": 64.09844,
+      "longitude": -21.86795
+    },
+    {
+      "id": 3414383,
+      "name": "Mosfellsbaer",
+      "nativeName": "Mosfellsbaer",
+      "code": "IS-1-3414383",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-1",
+      "latitude": 64.15,
+      "longitude": -21.65
+    },
+    {
+      "id": 3413831,
+      "name": "Reykjavíkurborg",
+      "nativeName": "Reykjavíkurborg",
+      "code": "IS-1-3413831",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-1",
+      "latitude": 64.12109,
+      "longitude": -21.8264
+    },
+    {
+      "id": 3413544,
+      "name": "Seltjarnarneskaupstaður",
+      "nativeName": "Seltjarnarneskaupstaður",
+      "code": "IS-1-3413544",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-1",
+      "latitude": 64.15541,
+      "longitude": -22.00294
+    }
+  ]
+}

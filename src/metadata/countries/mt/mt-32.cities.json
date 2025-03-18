@@ -1,0 +1,73 @@
+{
+  "stateId": 8299734,
+  "stateCode": "MT-32",
+  "countryCode": "MT",
+  "cities": [
+    {
+      "id": 2562704,
+      "name": "Mosta",
+      "nativeName": "Mosta",
+      "code": "MT-32-2562704",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-32",
+      "latitude": 35.90917,
+      "longitude": 14.42556
+    },
+    {
+      "id": 2563205,
+      "name": "Beżbeżija",
+      "nativeName": "Beżbeżija",
+      "code": "MT-32-2563205",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-32",
+      "latitude": 35.91222,
+      "longitude": 14.40861
+    },
+    {
+      "id": 2562892,
+      "name": "Il-Qattara",
+      "nativeName": "Il-Qattara",
+      "code": "MT-32-2562892",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-32",
+      "latitude": 35.9025,
+      "longitude": 14.40889
+    },
+    {
+      "id": 2562380,
+      "name": "Tal-Milord",
+      "nativeName": "Tal-Milord",
+      "code": "MT-32-2562380",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-32",
+      "latitude": 35.92694,
+      "longitude": 14.39833
+    },
+    {
+      "id": 2562483,
+      "name": "Ta’ Brared",
+      "nativeName": "Ta’ Brared",
+      "code": "MT-32-2562483",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-32",
+      "latitude": 35.92889,
+      "longitude": 14.40222
+    },
+    {
+      "id": 2562284,
+      "name": "Wied l-Arkata",
+      "nativeName": "Wied l-Arkata",
+      "code": "MT-32-2562284",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "stateCode": "MT-32",
+      "latitude": 35.92472,
+      "longitude": 14.41444
+    }
+  ]
+}

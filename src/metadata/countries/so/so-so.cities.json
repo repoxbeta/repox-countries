@@ -1,0 +1,51 @@
+{
+  "stateId": 6268947,
+  "stateCode": "SO-SO",
+  "countryCode": "SO",
+  "cities": [
+    {
+      "id": 9179639,
+      "name": "Caynabo",
+      "nativeName": "Caynabo",
+      "code": "SO-SO-9179639",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-SO",
+      "latitude": 9.28238,
+      "longitude": 46.49009
+    },
+    {
+      "id": 9179643,
+      "name": "Laas Caanood",
+      "nativeName": "Laas Caanood",
+      "code": "SO-SO-9179643",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-SO",
+      "latitude": 8.43801,
+      "longitude": 47.63642
+    },
+    {
+      "id": 9179647,
+      "name": "Taleh District",
+      "nativeName": "Taleh District",
+      "code": "SO-SO-9179647",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-SO",
+      "latitude": 9.17946,
+      "longitude": 48.54122
+    },
+    {
+      "id": 9179652,
+      "name": "Xudun District",
+      "nativeName": "Xudun District",
+      "code": "SO-SO-9179652",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-SO",
+      "latitude": 9.14164,
+      "longitude": 47.50747
+    }
+  ]
+}

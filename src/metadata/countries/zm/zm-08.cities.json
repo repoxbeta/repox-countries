@@ -1,0 +1,128 @@
+{
+  "stateId": 917524,
+  "stateCode": "ZM-08",
+  "countryCode": "ZM",
+  "cities": [
+    {
+      "id": 919540,
+      "name": "Chililabombwe District",
+      "nativeName": "Chililabombwe District",
+      "code": "ZM-08-919540",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-08",
+      "latitude": -12.34267,
+      "longitude": 27.77844
+    },
+    {
+      "id": 919006,
+      "name": "Chingola District",
+      "nativeName": "Chingola District",
+      "code": "ZM-08-919006",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-08",
+      "latitude": -12.48478,
+      "longitude": 27.66313
+    },
+    {
+      "id": 914956,
+      "name": "Kalulushi District",
+      "nativeName": "Kalulushi District",
+      "code": "ZM-08-914956",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-08",
+      "latitude": -12.76201,
+      "longitude": 27.952
+    },
+    {
+      "id": 911144,
+      "name": "Kitwe District",
+      "nativeName": "Kitwe District",
+      "code": "ZM-08-911144",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-08",
+      "latitude": -12.85,
+      "longitude": 28.25
+    },
+    {
+      "id": 909857,
+      "name": "Luanshya District",
+      "nativeName": "Luanshya District",
+      "code": "ZM-08-909857",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-08",
+      "latitude": -13.05915,
+      "longitude": 28.36081
+    },
+    {
+      "id": 10801768,
+      "name": "Lufwanyama",
+      "nativeName": "Lufwanyama",
+      "code": "ZM-08-10801768",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-08",
+      "latitude": -12.952,
+      "longitude": 27.41743
+    },
+    {
+      "id": 8285557,
+      "name": "Masaiti District",
+      "nativeName": "Masaiti District",
+      "code": "ZM-08-8285557",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-08",
+      "latitude": -13.409,
+      "longitude": 28.719
+    },
+    {
+      "id": 9072524,
+      "name": "Mpongwe District",
+      "nativeName": "Mpongwe District",
+      "code": "ZM-08-9072524",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-08",
+      "latitude": -13.50833,
+      "longitude": 28.16667
+    },
+    {
+      "id": 905389,
+      "name": "Mufulira District",
+      "nativeName": "Mufulira District",
+      "code": "ZM-08-905389",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-08",
+      "latitude": -12.52438,
+      "longitude": 28.23854
+    },
+    {
+      "id": 901342,
+      "name": "Ndola District",
+      "nativeName": "Ndola District",
+      "code": "ZM-08-901342",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-08",
+      "latitude": -12.94155,
+      "longitude": 28.54896
+    },
+    {
+      "id": 901339,
+      "name": "Ndola Rural District",
+      "nativeName": "Ndola Rural District",
+      "code": "ZM-08-901339",
+      "countryId": 895949,
+      "countryCode": "ZM",
+      "stateCode": "ZM-08",
+      "latitude": -13.26792,
+      "longitude": 27.72519
+    }
+  ]
+}

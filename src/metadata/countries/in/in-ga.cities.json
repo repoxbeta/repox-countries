@@ -1,0 +1,29 @@
+{
+  "stateId": 1271157,
+  "stateCode": "IN-GA",
+  "countryCode": "IN",
+  "cities": [
+    {
+      "id": 9255562,
+      "name": "North Goa",
+      "nativeName": "North Goa",
+      "code": "IN-GA-9255562",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-GA",
+      "latitude": 15.62849,
+      "longitude": 73.8903
+    },
+    {
+      "id": 9255567,
+      "name": "South Goa",
+      "nativeName": "South Goa",
+      "code": "IN-GA-9255567",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-GA",
+      "latitude": 15.20425,
+      "longitude": 74.16733
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "stateId": 864481,
+  "stateCode": "LT-SA",
+  "countryCode": "LT",
+  "cities": [
+    {
+      "id": 601179,
+      "name": "Akmenė District Municipality",
+      "nativeName": "Akmenės Rajonas",
+      "code": "LT-SA-601179",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-SA",
+      "latitude": 56.31667,
+      "longitude": 22.9
+    },
+    {
+      "id": 864504,
+      "name": "Joniškis District Municipality",
+      "nativeName": "Joniškis",
+      "code": "LT-SA-864504",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-SA",
+      "latitude": 56.23333,
+      "longitude": 23.61667
+    },
+    {
+      "id": 864505,
+      "name": "Kelmė District Municipality",
+      "nativeName": "Kelmė",
+      "code": "LT-SA-864505",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-SA",
+      "latitude": 55.63333,
+      "longitude": 22.93333
+    },
+    {
+      "id": 864506,
+      "name": "Pakruojis District Municipality",
+      "nativeName": "Pakruojis",
+      "code": "LT-SA-864506",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-SA",
+      "latitude": 55.96667,
+      "longitude": 23.86667
+    },
+    {
+      "id": 864507,
+      "name": "Radviliškis District Municipality",
+      "nativeName": "Radviliškis",
+      "code": "LT-SA-864507",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-SA",
+      "latitude": 55.81667,
+      "longitude": 23.53333
+    },
+    {
+      "id": 594743,
+      "name": "Šiauliai City Municipality",
+      "nativeName": "Šiauliai",
+      "code": "LT-SA-594743",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-SA",
+      "latitude": 55.93333,
+      "longitude": 23.31667
+    },
+    {
+      "id": 594736,
+      "name": "Šiauliai District Municipality",
+      "nativeName": "Šiaulių rajonas",
+      "code": "LT-SA-594736",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-SA",
+      "latitude": 55.93647,
+      "longitude": 23.23709
+    }
+  ]
+}

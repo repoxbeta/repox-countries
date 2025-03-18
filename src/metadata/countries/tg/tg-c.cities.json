@@ -1,0 +1,51 @@
+{
+  "stateId": 2367237,
+  "stateCode": "TG-C",
+  "countryCode": "TG",
+  "cities": [
+    {
+      "id": 2597445,
+      "name": "Blitta",
+      "nativeName": "Blitta",
+      "code": "TG-C-2597445",
+      "countryId": 2363686,
+      "countryCode": "TG",
+      "stateCode": "TG-C",
+      "latitude": 8.16667,
+      "longitude": 0.91667
+    },
+    {
+      "id": 2364078,
+      "name": "Sotouboua",
+      "nativeName": "Sotouboua",
+      "code": "TG-C-2364078",
+      "countryId": 2363686,
+      "countryCode": "TG",
+      "stateCode": "TG-C",
+      "latitude": 8.75,
+      "longitude": 0.83333
+    },
+    {
+      "id": 2363907,
+      "name": "Tchamba",
+      "nativeName": "Tchamba",
+      "code": "TG-C-2363907",
+      "countryId": 2363686,
+      "countryCode": "TG",
+      "stateCode": "TG-C",
+      "latitude": 8.83333,
+      "longitude": 1.41667
+    },
+    {
+      "id": 2363892,
+      "name": "Tchaoudjo",
+      "nativeName": "Tchaoudjo",
+      "code": "TG-C-2363892",
+      "countryId": 2363686,
+      "countryCode": "TG",
+      "stateCode": "TG-C",
+      "latitude": 9,
+      "longitude": 1.16667
+    }
+  ]
+}

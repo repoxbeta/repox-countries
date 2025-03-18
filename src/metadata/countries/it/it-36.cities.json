@@ -1,0 +1,51 @@
+{
+  "stateId": 3176525,
+  "stateCode": "IT-36",
+  "countryCode": "IT",
+  "cities": [
+    {
+      "id": 3175985,
+      "name": "Gorizia",
+      "nativeName": "Gorizia",
+      "code": "IT-36-3175985",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-36",
+      "latitude": 45.86548,
+      "longitude": 13.50195
+    },
+    {
+      "id": 3170146,
+      "name": "Province of Pordenone",
+      "nativeName": "Pordenone",
+      "code": "IT-36-3170146",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-36",
+      "latitude": 46.10182,
+      "longitude": 12.69002
+    },
+    {
+      "id": 3165184,
+      "name": "Trieste",
+      "nativeName": "Trieste",
+      "code": "IT-36-3165184",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-36",
+      "latitude": 45.713,
+      "longitude": 13.76116
+    },
+    {
+      "id": 3165071,
+      "name": "Udine",
+      "nativeName": "Udine",
+      "code": "IT-36-3165071",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-36",
+      "latitude": 46.16408,
+      "longitude": 13.17794
+    }
+  ]
+}

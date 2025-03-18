@@ -1,0 +1,227 @@
+{
+  "stateId": 468898,
+  "stateCode": "RU-YAR",
+  "countryCode": "RU",
+  "cities": [
+    {
+      "id": 574363,
+      "name": "Bolsheselsky District",
+      "nativeName": "Bol’shesel’skiy Rayon",
+      "code": "RU-YAR-574363",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-YAR",
+      "latitude": 57.72533,
+      "longitude": 38.99542
+    },
+    {
+      "id": 572518,
+      "name": "Borisoglebsky District",
+      "nativeName": "Borisoglebskiy Rayon",
+      "code": "RU-YAR-572518",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-YAR",
+      "latitude": 57.33333,
+      "longitude": 39
+    },
+    {
+      "id": 571633,
+      "name": "Breytovsky District",
+      "nativeName": "Breytovskiy Rayon",
+      "code": "RU-YAR-571633",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-YAR",
+      "latitude": 58.32347,
+      "longitude": 37.87586
+    },
+    {
+      "id": 567118,
+      "name": "Danilovsky District",
+      "nativeName": "Danilovskiy Rayon",
+      "code": "RU-YAR-567118",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-YAR",
+      "latitude": 58.11602,
+      "longitude": 40.13378
+    },
+    {
+      "id": 561761,
+      "name": "Gavrilov-Yamsky District",
+      "nativeName": "Gavrilov-Yamskiy Rayon",
+      "code": "RU-YAR-561761",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-YAR",
+      "latitude": 57.33333,
+      "longitude": 39.75
+    },
+    {
+      "id": 12575052,
+      "name": "Gorodskoy Okrug Pereslavl'-Zalesskiy",
+      "nativeName": "Gorodskoy Okrug Pereslavl'-Zalesskiy",
+      "code": "RU-YAR-12575052",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-YAR",
+      "latitude": 56.74509,
+      "longitude": 38.85745
+    },
+    {
+      "id": 12575053,
+      "name": "Gorodskoy Okrug Rybinsk",
+      "nativeName": "Gorodskoy Okrug Rybinsk",
+      "code": "RU-YAR-12575053",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-YAR",
+      "latitude": 58.04008,
+      "longitude": 38.83896
+    },
+    {
+      "id": 12575051,
+      "name": "Gorodskoy Okrug Yaroslavl'",
+      "nativeName": "Gorodskoy Okrug Yaroslavl'",
+      "code": "RU-YAR-12575051",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-YAR",
+      "latitude": 57.6437,
+      "longitude": 39.85354
+    },
+    {
+      "id": 532570,
+      "name": "Lyubimsky District",
+      "nativeName": "Lyubimskiy Rayon",
+      "code": "RU-YAR-532570",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-YAR",
+      "latitude": 58.28931,
+      "longitude": 40.73447
+    },
+    {
+      "id": 523852,
+      "name": "Myshkinsky District",
+      "nativeName": "Myshkinskiy Rayon",
+      "code": "RU-YAR-523852",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-YAR",
+      "latitude": 57.76906,
+      "longitude": 38.16508
+    },
+    {
+      "id": 522861,
+      "name": "Nekouzsky District",
+      "nativeName": "Nekouzskiy Rayon",
+      "code": "RU-YAR-522861",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-YAR",
+      "latitude": 57.9534,
+      "longitude": 37.85715
+    },
+    {
+      "id": 522800,
+      "name": "Nekrasovsky District",
+      "nativeName": "Nekrasovskiy Rayon",
+      "code": "RU-YAR-522800",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-YAR",
+      "latitude": 57.66667,
+      "longitude": 40.41667
+    },
+    {
+      "id": 511358,
+      "name": "Pereslavsky District",
+      "nativeName": "Pereslavskiy Rayon",
+      "code": "RU-YAR-511358",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-YAR",
+      "latitude": 56.81525,
+      "longitude": 38.67411
+    },
+    {
+      "id": 510851,
+      "name": "Pervomaysky District",
+      "nativeName": "Pervomayskiy Rayon",
+      "code": "RU-YAR-510851",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-YAR",
+      "latitude": 58.50497,
+      "longitude": 39.94796
+    },
+    {
+      "id": 506030,
+      "name": "Poshekhonsky District",
+      "nativeName": "Poshekhonskiy Rayon",
+      "code": "RU-YAR-506030",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-YAR",
+      "latitude": 58.66667,
+      "longitude": 39.08333
+    },
+    {
+      "id": 501161,
+      "name": "Rostovsky District",
+      "nativeName": "Rostovskiy Rayon",
+      "code": "RU-YAR-501161",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-YAR",
+      "latitude": 57.11509,
+      "longitude": 39.34303
+    },
+    {
+      "id": 500001,
+      "name": "Rybinsky District",
+      "nativeName": "Rybinskiy Rayon",
+      "code": "RU-YAR-500001",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-YAR",
+      "latitude": 58,
+      "longitude": 39
+    },
+    {
+      "id": 480119,
+      "name": "Tutayevsky District",
+      "nativeName": "Tutayevskiy Rayon",
+      "code": "RU-YAR-480119",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-YAR",
+      "latitude": 57.94673,
+      "longitude": 39.58038
+    },
+    {
+      "id": 479529,
+      "name": "Uglichsky District",
+      "nativeName": "Uglichskiy Rayon",
+      "code": "RU-YAR-479529",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-YAR",
+      "latitude": 57.4303,
+      "longitude": 38.41727
+    },
+    {
+      "id": 468895,
+      "name": "Yaroslavsky District",
+      "nativeName": "Yaroslavskiy Rayon",
+      "code": "RU-YAR-468895",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-YAR",
+      "latitude": 57.59682,
+      "longitude": 39.96359
+    }
+  ]
+}

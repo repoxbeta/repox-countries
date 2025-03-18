@@ -1,0 +1,183 @@
+{
+  "stateId": 2236566,
+  "stateCode": "AO-UIG",
+  "countryCode": "AO",
+  "cities": [
+    {
+      "id": 2243908,
+      "name": "Ambuila Municipality",
+      "nativeName": "Ambuila Municipality",
+      "code": "AO-UIG-2243908",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-UIG",
+      "latitude": -7.66667,
+      "longitude": 14.5
+    },
+    {
+      "id": 2243441,
+      "name": "Buengas",
+      "nativeName": "Buengas",
+      "code": "AO-UIG-2243441",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-UIG",
+      "latitude": -6.66026,
+      "longitude": 15.85669
+    },
+    {
+      "id": 2243355,
+      "name": "Bungo",
+      "nativeName": "Bungo",
+      "code": "AO-UIG-2243355",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-UIG",
+      "latitude": -7.4266,
+      "longitude": 15.44283
+    },
+    {
+      "id": 2243921,
+      "name": "Cangola",
+      "nativeName": "Cangola",
+      "code": "AO-UIG-2243921",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-UIG",
+      "latitude": -7.83333,
+      "longitude": 15.91667
+    },
+    {
+      "id": 2241498,
+      "name": "Damba",
+      "nativeName": "Damba",
+      "code": "AO-UIG-2241498",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-UIG",
+      "latitude": -6.74145,
+      "longitude": 15.25669
+    },
+    {
+      "id": 2239731,
+      "name": "Maquela do Zombo",
+      "nativeName": "Maquela do Zombo",
+      "code": "AO-UIG-2239731",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-UIG",
+      "latitude": -6.12363,
+      "longitude": 15.5458
+    },
+    {
+      "id": 2239352,
+      "name": "Mucaba",
+      "nativeName": "Mucaba",
+      "code": "AO-UIG-2239352",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-UIG",
+      "latitude": -7.16521,
+      "longitude": 15.08838
+    },
+    {
+      "id": 2243631,
+      "name": "Município Bembe",
+      "nativeName": "Município Bembe",
+      "code": "AO-UIG-2243631",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-UIG",
+      "latitude": -7.16667,
+      "longitude": 14.33333
+    },
+    {
+      "id": 2239067,
+      "name": "Negage Municipality",
+      "nativeName": "Negage Municipality",
+      "code": "AO-UIG-2239067",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-UIG",
+      "latitude": -7.83333,
+      "longitude": 15.33333
+    },
+    {
+      "id": 2238826,
+      "name": "Puri",
+      "nativeName": "Puri",
+      "code": "AO-UIG-2238826",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-UIG",
+      "latitude": -7.65234,
+      "longitude": 15.68838
+    },
+    {
+      "id": 2238174,
+      "name": "Quimbele",
+      "nativeName": "Quimbele",
+      "code": "AO-UIG-2238174",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-UIG",
+      "latitude": -6.34145,
+      "longitude": 16.38145
+    },
+    {
+      "id": 2237499,
+      "name": "Quitexe Municipality",
+      "nativeName": "Quitexe Municipality",
+      "code": "AO-UIG-2237499",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-UIG",
+      "latitude": -8,
+      "longitude": 15
+    },
+    {
+      "id": 2237144,
+      "name": "Santa Cruz",
+      "nativeName": "Santa Cruz",
+      "code": "AO-UIG-2237144",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-UIG",
+      "latitude": -7.03848,
+      "longitude": 16.67847
+    },
+    {
+      "id": 2237127,
+      "name": "Sanza Pombo",
+      "nativeName": "Sanza Pombo",
+      "code": "AO-UIG-2237127",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-UIG",
+      "latitude": -7.26026,
+      "longitude": 16.04877
+    },
+    {
+      "id": 2236985,
+      "name": "Songo",
+      "nativeName": "Songo",
+      "code": "AO-UIG-2236985",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-UIG",
+      "latitude": -7.13353,
+      "longitude": 14.78937
+    },
+    {
+      "id": 2236567,
+      "name": "Uige Municipality",
+      "nativeName": "Uige Municipality",
+      "code": "AO-UIG-2236567",
+      "countryId": 3351879,
+      "countryCode": "AO",
+      "stateCode": "AO-UIG",
+      "latitude": -7.57488,
+      "longitude": 15.06775
+    }
+  ]
+}

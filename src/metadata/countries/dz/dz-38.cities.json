@@ -1,0 +1,95 @@
+{
+  "stateId": 2475858,
+  "stateCode": "DZ-38",
+  "countryCode": "DZ",
+  "cities": [
+    {
+      "id": 12952862,
+      "name": "Ammari",
+      "nativeName": "Ammari",
+      "code": "DZ-38-12952862",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-38",
+      "latitude": 35.66368,
+      "longitude": 1.64863
+    },
+    {
+      "id": 12952853,
+      "name": "Bordj Bounaama",
+      "nativeName": "Bordj Bounaama",
+      "code": "DZ-38-12952853",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-38",
+      "latitude": 35.82852,
+      "longitude": 1.72952
+    },
+    {
+      "id": 12952822,
+      "name": "Bordj Emir Abdelkader",
+      "nativeName": "Bordj Emir Abdelkader",
+      "code": "DZ-38-12952822",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-38",
+      "latitude": 35.85117,
+      "longitude": 2.1938
+    },
+    {
+      "id": 2476913,
+      "name": "Daïra de Theniet el Had",
+      "nativeName": "Daïra de Theniet el Had",
+      "code": "DZ-38-2476913",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-38",
+      "latitude": 35.83333,
+      "longitude": 2
+    },
+    {
+      "id": 12952863,
+      "name": "Khemisti",
+      "nativeName": "Khemisti",
+      "code": "DZ-38-12952863",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-38",
+      "latitude": 35.66952,
+      "longitude": 2.04965
+    },
+    {
+      "id": 12952864,
+      "name": "Lardjem",
+      "nativeName": "Lardjem",
+      "code": "DZ-38-12952864",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-38",
+      "latitude": 35.76385,
+      "longitude": 1.45573
+    },
+    {
+      "id": 12952866,
+      "name": "Lazharia",
+      "nativeName": "Lazharia",
+      "code": "DZ-38-12952866",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-38",
+      "latitude": 35.92899,
+      "longitude": 1.56946
+    },
+    {
+      "id": 12952540,
+      "name": "Tissemsilt",
+      "nativeName": "Tissemsilt",
+      "code": "DZ-38-12952540",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-38",
+      "latitude": 35.63477,
+      "longitude": 1.82416
+    }
+  ]
+}

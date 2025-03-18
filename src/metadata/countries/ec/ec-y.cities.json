@@ -1,0 +1,51 @@
+{
+  "stateId": 3653392,
+  "stateCode": "EC-Y",
+  "countryCode": "EC",
+  "cities": [
+    {
+      "id": 10792484,
+      "name": "Arajuno",
+      "nativeName": "Arajuno",
+      "code": "EC-Y-10792484",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-Y",
+      "latitude": -1.34578,
+      "longitude": -76.77553
+    },
+    {
+      "id": 3654246,
+      "name": "Cantón Mera",
+      "nativeName": "Cantón Mera",
+      "code": "EC-Y-3654246",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-Y",
+      "latitude": -1.43494,
+      "longitude": -78.08327
+    },
+    {
+      "id": 3653394,
+      "name": "Pastaza",
+      "nativeName": "Pastaza",
+      "code": "EC-Y-3653394",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-Y",
+      "latitude": -1.90568,
+      "longitude": -76.97273
+    },
+    {
+      "id": 10792547,
+      "name": "Santa Clara",
+      "nativeName": "Santa Clara",
+      "code": "EC-Y-10792547",
+      "countryId": 3658394,
+      "countryCode": "EC",
+      "stateCode": "EC-Y",
+      "latitude": -1.26699,
+      "longitude": -77.8965
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "stateId": 6087430,
+  "stateCode": "CA-NB",
+  "countryCode": "CA",
+  "cities": [
+    {
+      "id": 5883098,
+      "name": "Albert County",
+      "nativeName": "Albert County",
+      "code": "CA-NB-5883098",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NB",
+      "latitude": 45.83346,
+      "longitude": -64.91548
+    },
+    {
+      "id": 5917147,
+      "name": "Carleton County",
+      "nativeName": "Carleton County",
+      "code": "CA-NB-5917147",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NB",
+      "latitude": 46.33339,
+      "longitude": -67.4156
+    },
+    {
+      "id": 5920264,
+      "name": "Charlotte County",
+      "nativeName": "Charlotte County",
+      "code": "CA-NB-5920264",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NB",
+      "latitude": 45.16684,
+      "longitude": -66.83218
+    },
+    {
+      "id": 8593708,
+      "name": "Gloucester County",
+      "nativeName": "Gloucester County",
+      "code": "CA-NB-8593708",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NB",
+      "latitude": 47.64966,
+      "longitude": -65.2533
+    },
+    {
+      "id": 5991094,
+      "name": "Kent County",
+      "nativeName": "Kent County",
+      "code": "CA-NB-5991094",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NB",
+      "latitude": 46.58343,
+      "longitude": -65.24875
+    },
+    {
+      "id": 5992378,
+      "name": "Kings County",
+      "nativeName": "Kings County",
+      "code": "CA-NB-5992378",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NB",
+      "latitude": 45.66685,
+      "longitude": -65.74884
+    },
+    {
+      "id": 8593709,
+      "name": "Madawaska County",
+      "nativeName": "Madawaska County",
+      "code": "CA-NB-8593709",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NB",
+      "latitude": 47.4253,
+      "longitude": -68.20587
+    },
+    {
+      "id": 6090771,
+      "name": "Northumberland County",
+      "nativeName": "Northumberland County",
+      "code": "CA-NB-6090771",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NB",
+      "latitude": 46.9168,
+      "longitude": -65.99877
+    },
+    {
+      "id": 6115101,
+      "name": "Queens County",
+      "nativeName": "Queens County",
+      "code": "CA-NB-6115101",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NB",
+      "latitude": 45.83344,
+      "longitude": -65.99886
+    },
+    {
+      "id": 6944116,
+      "name": "Restigouche",
+      "nativeName": "Restigouche",
+      "code": "CA-NB-6944116",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NB",
+      "latitude": 47.74137,
+      "longitude": -67.04073
+    },
+    {
+      "id": 6138518,
+      "name": "Saint John County",
+      "nativeName": "Saint John County",
+      "code": "CA-NB-6138518",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NB",
+      "latitude": 45.33347,
+      "longitude": -65.83213
+    },
+    {
+      "id": 6159368,
+      "name": "Sunbury County",
+      "nativeName": "Sunbury County",
+      "code": "CA-NB-6159368",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NB",
+      "latitude": 45.91683,
+      "longitude": -66.33217
+    },
+    {
+      "id": 8593710,
+      "name": "Victoria County",
+      "nativeName": "Victoria County",
+      "code": "CA-NB-8593710",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NB",
+      "latitude": 47.07293,
+      "longitude": -67.41417
+    },
+    {
+      "id": 6179219,
+      "name": "Westmorland County",
+      "nativeName": "Westmorland County",
+      "code": "CA-NB-6179219",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NB",
+      "latitude": 46.00015,
+      "longitude": -64.66546
+    },
+    {
+      "id": 6185557,
+      "name": "York County",
+      "nativeName": "York County",
+      "code": "CA-NB-6185557",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NB",
+      "latitude": 46.1668,
+      "longitude": -66.99888
+    }
+  ]
+}

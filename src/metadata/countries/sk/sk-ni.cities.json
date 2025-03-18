@@ -1,0 +1,84 @@
+{
+  "stateId": 3343956,
+  "stateCode": "SK-NI",
+  "countryCode": "SK",
+  "cities": [
+    {
+      "id": 3059432,
+      "name": "Komárno District",
+      "nativeName": "Okres Komárno",
+      "code": "SK-NI-3059432",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-NI",
+      "latitude": 47.76667,
+      "longitude": 18.13333
+    },
+    {
+      "id": 3059100,
+      "name": "Levice District",
+      "nativeName": "Okres Levice",
+      "code": "SK-NI-3059100",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-NI",
+      "latitude": 48.21667,
+      "longitude": 18.6
+    },
+    {
+      "id": 3058529,
+      "name": "Nitra District",
+      "nativeName": "Okres Nitra",
+      "code": "SK-NI-3058529",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-NI",
+      "latitude": 48.31667,
+      "longitude": 18.08333
+    },
+    {
+      "id": 3058471,
+      "name": "Nové Zámky District",
+      "nativeName": "Okres Nové Zámky",
+      "code": "SK-NI-3058471",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-NI",
+      "latitude": 47.98333,
+      "longitude": 18.16667
+    },
+    {
+      "id": 3057173,
+      "name": "Topoľčany District",
+      "nativeName": "Okres Topoľčany",
+      "code": "SK-NI-3057173",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-NI",
+      "latitude": 48.56667,
+      "longitude": 18.18333
+    },
+    {
+      "id": 8986333,
+      "name": "Zlaté Moravce District",
+      "nativeName": "Okres Zlaté Moravce",
+      "code": "SK-NI-8986333",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-NI",
+      "latitude": 48.38294,
+      "longitude": 18.39842
+    },
+    {
+      "id": 8986306,
+      "name": "Šaľa District",
+      "nativeName": "Okres Šaľa",
+      "code": "SK-NI-8986306",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-NI",
+      "latitude": 48.1477,
+      "longitude": 17.87306
+    }
+  ]
+}

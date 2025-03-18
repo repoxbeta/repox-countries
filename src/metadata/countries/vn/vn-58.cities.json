@@ -1,0 +1,128 @@
+{
+  "stateId": 1905480,
+  "stateCode": "VN-58",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 9078132,
+      "name": "Bù Gia Mập District",
+      "nativeName": "Huyện Bù Gia Mập",
+      "code": "VN-58-9078132",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-58",
+      "latitude": 12.00802,
+      "longitude": 107.07072
+    },
+    {
+      "id": 9078133,
+      "name": "Bù Đốp District",
+      "nativeName": "Huyện Bù Đốp",
+      "code": "VN-58-9078133",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-58",
+      "latitude": 11.98954,
+      "longitude": 106.80362
+    },
+    {
+      "id": 9078134,
+      "name": "Chơn Thành District",
+      "nativeName": "Huyện Chơn Thành",
+      "code": "VN-58-9078134",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-58",
+      "latitude": 11.47526,
+      "longitude": 106.66182
+    },
+    {
+      "id": 1905485,
+      "name": "Huyện Bù Đăng",
+      "nativeName": "Huyện Bù Đăng",
+      "code": "VN-58-1905485",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-58",
+      "latitude": 11.77561,
+      "longitude": 107.21278
+    },
+    {
+      "id": 1905483,
+      "name": "Huyện Lộc Ninh",
+      "nativeName": "Huyện Lộc Ninh",
+      "code": "VN-58-1905483",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-58",
+      "latitude": 11.84834,
+      "longitude": 106.5924
+    },
+    {
+      "id": 9078138,
+      "name": "Huyện Phú Riềng",
+      "nativeName": "Huyện Phú Riềng",
+      "code": "VN-58-9078138",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-58",
+      "latitude": 11.73474,
+      "longitude": 106.89721
+    },
+    {
+      "id": 9078131,
+      "name": "Hớn Quản District",
+      "nativeName": "Huyện Hớn Quản",
+      "code": "VN-58-9078131",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-58",
+      "latitude": 11.59718,
+      "longitude": 106.62739
+    },
+    {
+      "id": 1905482,
+      "name": "Thị Xã Bình Long",
+      "nativeName": "Thị Xã Bình Long",
+      "code": "VN-58-1905482",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-58",
+      "latitude": 11.68257,
+      "longitude": 106.58968
+    },
+    {
+      "id": 1905484,
+      "name": "Thị Xã Phước Long",
+      "nativeName": "Thị Xã Phước Long",
+      "code": "VN-58-1905484",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-58",
+      "latitude": 11.81942,
+      "longitude": 106.98943
+    },
+    {
+      "id": 9078135,
+      "name": "Thị Xã Đồng Xoài",
+      "nativeName": "Thị Xã Đồng Xoài",
+      "code": "VN-58-9078135",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-58",
+      "latitude": 11.52117,
+      "longitude": 106.85084
+    },
+    {
+      "id": 1905481,
+      "name": "Đồng Phú District",
+      "nativeName": "Huyện Đồng Phú",
+      "code": "VN-58-1905481",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-58",
+      "latitude": 11.50071,
+      "longitude": 107.01192
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "stateId": 865084,
+  "stateCode": "SK-KI",
+  "countryCode": "SK",
+  "cities": [
+    {
+      "id": 8986286,
+      "name": "Gelnica District",
+      "nativeName": "Okres Gelnica",
+      "code": "SK-KI-8986286",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-KI",
+      "latitude": 48.85207,
+      "longitude": 20.93385
+    },
+    {
+      "id": 8986335,
+      "name": "Košice I",
+      "nativeName": "Košice I",
+      "code": "SK-KI-8986335",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-KI",
+      "latitude": 48.72914,
+      "longitude": 21.25004
+    },
+    {
+      "id": 8986336,
+      "name": "Košice II",
+      "nativeName": "Košice II",
+      "code": "SK-KI-8986336",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-KI",
+      "latitude": 48.69753,
+      "longitude": 21.22273
+    },
+    {
+      "id": 8986337,
+      "name": "Košice III",
+      "nativeName": "Košice III",
+      "code": "SK-KI-8986337",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-KI",
+      "latitude": 48.73242,
+      "longitude": 21.29047
+    },
+    {
+      "id": 8986338,
+      "name": "Košice IV",
+      "nativeName": "Košice IV",
+      "code": "SK-KI-8986338",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-KI",
+      "latitude": 48.68691,
+      "longitude": 21.2657
+    },
+    {
+      "id": 8986343,
+      "name": "Košice-okolie District",
+      "nativeName": "Okres Kosice-okolie",
+      "code": "SK-KI-8986343",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-KI",
+      "latitude": 48.77897,
+      "longitude": 21.41373
+    },
+    {
+      "id": 724143,
+      "name": "Michalovce District",
+      "nativeName": "Okres Michalovce",
+      "code": "SK-KI-724143",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-KI",
+      "latitude": 48.75,
+      "longitude": 21.93333
+    },
+    {
+      "id": 723525,
+      "name": "Okres Spišská Nová Ves",
+      "nativeName": "Okres Spišská Nová Ves",
+      "code": "SK-KI-723525",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-KI",
+      "latitude": 48.95,
+      "longitude": 20.56667
+    },
+    {
+      "id": 723712,
+      "name": "Rožňava District",
+      "nativeName": "Okres Rožňava",
+      "code": "SK-KI-723712",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-KI",
+      "latitude": 48.66667,
+      "longitude": 20.53333
+    },
+    {
+      "id": 8986304,
+      "name": "Sobrance District",
+      "nativeName": "Okres Sobrance",
+      "code": "SK-KI-8986304",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-KI",
+      "latitude": 48.74247,
+      "longitude": 22.18197
+    },
+    {
+      "id": 723357,
+      "name": "Trebišov District",
+      "nativeName": "Okres Trebišov",
+      "code": "SK-KI-723357",
+      "countryId": 3057568,
+      "countryCode": "SK",
+      "stateCode": "SK-KI",
+      "latitude": 48.63333,
+      "longitude": 21.71667
+    }
+  ]
+}

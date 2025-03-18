@@ -1,0 +1,116 @@
+{
+  "countryId": 878675,
+  "countryCode": "ZW",
+  "states": [
+    {
+      "id": 1105843,
+      "name": "Bulawayo",
+      "nativeName": "Bulawayo Province",
+      "code": "ZW-BU",
+      "internalCode": "BU",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "latitude": -20.14167,
+      "longitude": 28.55
+    },
+    {
+      "id": 1105844,
+      "name": "Harare",
+      "nativeName": "Harare Province",
+      "code": "ZW-HA",
+      "internalCode": "HA",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "latitude": -17.85417,
+      "longitude": 31.05833
+    },
+    {
+      "id": 887358,
+      "name": "Manicaland",
+      "nativeName": "Manicaland Province",
+      "code": "ZW-MA",
+      "internalCode": "MA",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "latitude": -19,
+      "longitude": 32.41667
+    },
+    {
+      "id": 886843,
+      "name": "Mashonaland Central",
+      "nativeName": "Mashonaland Central Province",
+      "code": "ZW-MC",
+      "internalCode": "MC",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "latitude": -16.7,
+      "longitude": 31.2
+    },
+    {
+      "id": 886842,
+      "name": "Mashonaland East Province",
+      "nativeName": "Mashonaland East Province",
+      "code": "ZW-ME",
+      "internalCode": "ME",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "latitude": -17.96667,
+      "longitude": 31.66667
+    },
+    {
+      "id": 886841,
+      "name": "Mashonaland West",
+      "nativeName": "Mashonaland West Province",
+      "code": "ZW-MW",
+      "internalCode": "MW",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "latitude": -17.16667,
+      "longitude": 29.75
+    },
+    {
+      "id": 886761,
+      "name": "Masvingo Province",
+      "nativeName": "Masvingo Province",
+      "code": "ZW-MV",
+      "internalCode": "MV",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "latitude": -20.6,
+      "longitude": 31.4
+    },
+    {
+      "id": 886748,
+      "name": "Matabeleland North",
+      "nativeName": "Matabeleland North Province",
+      "code": "ZW-MN",
+      "internalCode": "MN",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "latitude": -18.83333,
+      "longitude": 27.41667
+    },
+    {
+      "id": 886747,
+      "name": "Matabeleland South Province",
+      "nativeName": "Matabeleland South Province",
+      "code": "ZW-MS",
+      "internalCode": "MS",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "latitude": -20.9,
+      "longitude": 28.8
+    },
+    {
+      "id": 886119,
+      "name": "Midlands Province",
+      "nativeName": "Midlands Province",
+      "code": "ZW-MI",
+      "internalCode": "MI",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "latitude": -19.2,
+      "longitude": 29.8
+    }
+  ]
+}

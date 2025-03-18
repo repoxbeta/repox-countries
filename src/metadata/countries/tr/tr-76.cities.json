@@ -1,0 +1,29 @@
+{
+  "stateId": 443184,
+  "stateCode": "TR-76",
+  "countryCode": "TR",
+  "cities": [
+    {
+      "id": 8630874,
+      "name": "Karakoyunlu İlçesi",
+      "nativeName": "Karakoyunlu İlçesi",
+      "code": "TR-76-8630874",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-76",
+      "latitude": 39.8804,
+      "longitude": 43.63302
+    },
+    {
+      "id": 8630873,
+      "name": "Tuzluca İlçesi",
+      "nativeName": "Tuzluca İlçesi",
+      "code": "TR-76-8630873",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-76",
+      "latitude": 40.03863,
+      "longitude": 43.65212
+    }
+  ]
+}

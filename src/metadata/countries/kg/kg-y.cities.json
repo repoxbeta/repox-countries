@@ -1,0 +1,62 @@
+{
+  "stateId": 1528260,
+  "stateCode": "KG-Y",
+  "countryCode": "KG",
+  "cities": [
+    {
+      "id": 8537999,
+      "name": "Ak-Suu",
+      "nativeName": "Ak-Suu",
+      "code": "KG-Y-8537999",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-Y",
+      "latitude": 42.19937,
+      "longitude": 78.99135
+    },
+    {
+      "id": 10237012,
+      "name": "Jeti-Oguz District",
+      "nativeName": "Jeti-Oguz District",
+      "code": "KG-Y-10237012",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-Y",
+      "latitude": 42.3396,
+      "longitude": 78.0017
+    },
+    {
+      "id": 8308862,
+      "name": "Tong",
+      "nativeName": "Tong",
+      "code": "KG-Y-8308862",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-Y",
+      "latitude": 42.09757,
+      "longitude": 76.57973
+    },
+    {
+      "id": 8046904,
+      "name": "Tüp",
+      "nativeName": "Tüp",
+      "code": "KG-Y-8046904",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-Y",
+      "latitude": 42.79274,
+      "longitude": 78.5313
+    },
+    {
+      "id": 8357767,
+      "name": "Ysyk-Köl",
+      "nativeName": "Ysyk-Köl",
+      "code": "KG-Y-8357767",
+      "countryId": 1527747,
+      "countryCode": "KG",
+      "stateCode": "KG-Y",
+      "latitude": 42.70959,
+      "longitude": 77.18344
+    }
+  ]
+}

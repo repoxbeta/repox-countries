@@ -1,0 +1,84 @@
+{
+  "stateId": 1608595,
+  "stateCode": "TH-49",
+  "countryCode": "TH",
+  "cities": [
+    {
+      "id": 1610875,
+      "name": "Don Tan",
+      "nativeName": "Amphoe Don Tan",
+      "code": "TH-49-1610875",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-49",
+      "latitude": 16.28796,
+      "longitude": 104.82231
+    },
+    {
+      "id": 7510859,
+      "name": "Dong Luang",
+      "nativeName": "Amphoe Dong Luang",
+      "code": "TH-49-7510859",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-49",
+      "latitude": 16.79649,
+      "longitude": 104.35562
+    },
+    {
+      "id": 1610092,
+      "name": "Khamcha-i",
+      "nativeName": "Amphoe Khamcha-i",
+      "code": "TH-49-1610092",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-49",
+      "latitude": 16.61452,
+      "longitude": 104.35929
+    },
+    {
+      "id": 1608596,
+      "name": "Mueang Mukdahan",
+      "nativeName": "Amphoe Mueang Mukdahan",
+      "code": "TH-49-1608596",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-49",
+      "latitude": 16.5511,
+      "longitude": 104.64605
+    },
+    {
+      "id": 7510858,
+      "name": "Nikhom Kham Soi",
+      "nativeName": "Amphoe Nikhom Kham Soi",
+      "code": "TH-49-7510858",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-49",
+      "latitude": 16.35375,
+      "longitude": 104.55864
+    },
+    {
+      "id": 7510835,
+      "name": "Nong Sung",
+      "nativeName": "Amphoe Nong Sung",
+      "code": "TH-49-7510835",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-49",
+      "latitude": 16.44759,
+      "longitude": 104.33649
+    },
+    {
+      "id": 7603497,
+      "name": "Wan Yai",
+      "nativeName": "Amphoe Wan Yai",
+      "code": "TH-49-7603497",
+      "countryId": 1605651,
+      "countryCode": "TH",
+      "stateCode": "TH-49",
+      "latitude": 16.7203,
+      "longitude": 104.72865
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "stateId": 3027939,
+  "stateCode": "FR-CVL",
+  "countryCode": "FR",
+  "cities": [
+    {
+      "id": 3025480,
+      "name": "Cher",
+      "nativeName": "Cher",
+      "code": "FR-CVL-3025480",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-CVL",
+      "latitude": 47.11304,
+      "longitude": 2.50983
+    },
+    {
+      "id": 3019316,
+      "name": "Eure-et-Loir",
+      "nativeName": "Eure-et-Loir",
+      "code": "FR-CVL-3019316",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-CVL",
+      "latitude": 48.5,
+      "longitude": 1.5
+    },
+    {
+      "id": 3012805,
+      "name": "Indre",
+      "nativeName": "Indre",
+      "code": "FR-CVL-3012805",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-CVL",
+      "latitude": 46.83333,
+      "longitude": 1.66667
+    },
+    {
+      "id": 3012804,
+      "name": "Indre-et-Loire",
+      "nativeName": "Indre-et-Loire",
+      "code": "FR-CVL-3012804",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-CVL",
+      "latitude": 47.25,
+      "longitude": 0.75
+    },
+    {
+      "id": 2997856,
+      "name": "Loir-et-Cher",
+      "nativeName": "Loire-et-Cher",
+      "code": "FR-CVL-2997856",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-CVL",
+      "latitude": 47.5,
+      "longitude": 1.5
+    },
+    {
+      "id": 2997857,
+      "name": "Loiret",
+      "nativeName": "Loiret",
+      "code": "FR-CVL-2997857",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-CVL",
+      "latitude": 47.93598,
+      "longitude": 2.30173
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "stateId": 862469,
+  "stateCode": "TR-77",
+  "countryCode": "TR",
+  "cities": [
+    {
+      "id": 8632542,
+      "name": "Altınova İlçesi",
+      "nativeName": "Altınova İlçesi",
+      "code": "TR-77-8632542",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-77",
+      "latitude": 40.70478,
+      "longitude": 29.51606
+    },
+    {
+      "id": 8632545,
+      "name": "Armutlu İlçesi",
+      "nativeName": "Armutlu İlçesi",
+      "code": "TR-77-8632545",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-77",
+      "latitude": 40.52919,
+      "longitude": 28.83871
+    },
+    {
+      "id": 7732689,
+      "name": "Merkez",
+      "nativeName": "Merkez",
+      "code": "TR-77-7732689",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-77",
+      "latitude": 40.60665,
+      "longitude": 29.26346
+    },
+    {
+      "id": 8632543,
+      "name": "Termal İlçesi",
+      "nativeName": "Termal İlçesi",
+      "code": "TR-77-8632543",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-77",
+      "latitude": 40.61381,
+      "longitude": 29.18049
+    },
+    {
+      "id": 8632544,
+      "name": "Çiftlikköy İlçesi",
+      "nativeName": "Çiftlikköy İlçesi",
+      "code": "TR-77-8632544",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-77",
+      "latitude": 40.65302,
+      "longitude": 29.33946
+    },
+    {
+      "id": 8632546,
+      "name": "Çınarcık İlçesi",
+      "nativeName": "Çınarcık İlçesi",
+      "code": "TR-77-8632546",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-77",
+      "latitude": 40.63669,
+      "longitude": 29.13881
+    }
+  ]
+}

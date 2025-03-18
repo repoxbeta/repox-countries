@@ -1,0 +1,62 @@
+{
+  "stateId": 2566980,
+  "stateCode": "GQ-CS",
+  "countryCode": "GQ",
+  "cities": [
+    {
+      "id": 2310534,
+      "name": "Acurenam",
+      "nativeName": "Acurenam",
+      "code": "GQ-CS-2310534",
+      "countryId": 2309096,
+      "countryCode": "GQ",
+      "stateCode": "GQ-CS",
+      "latitude": 1.0928,
+      "longitude": 10.546
+    },
+    {
+      "id": 11237870,
+      "name": "Bicurga",
+      "nativeName": "Bicurga",
+      "code": "GQ-CS-11237870",
+      "countryId": 2309096,
+      "countryCode": "GQ",
+      "stateCode": "GQ-CS",
+      "latitude": 1.58161,
+      "longitude": 10.46834
+    },
+    {
+      "id": 2308997,
+      "name": "Evinayong",
+      "nativeName": "Evinayong",
+      "code": "GQ-CS-2308997",
+      "countryId": 2309096,
+      "countryCode": "GQ",
+      "stateCode": "GQ-CS",
+      "latitude": 1.4349,
+      "longitude": 10.4189
+    },
+    {
+      "id": 2306702,
+      "name": "Niefang",
+      "nativeName": "Niefang",
+      "code": "GQ-CS-2306702",
+      "countryId": 2309096,
+      "countryCode": "GQ",
+      "stateCode": "GQ-CS",
+      "latitude": 1.84996,
+      "longitude": 10.24875
+    },
+    {
+      "id": 11237880,
+      "name": "Nkimi",
+      "nativeName": "Nkimi",
+      "code": "GQ-CS-11237880",
+      "countryId": 2309096,
+      "countryCode": "GQ",
+      "stateCode": "GQ-CS",
+      "latitude": 1.93167,
+      "longitude": 10.34522
+    }
+  ]
+}

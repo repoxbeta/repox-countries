@@ -1,0 +1,117 @@
+{
+  "stateId": 7280293,
+  "stateCode": "SB-RB",
+  "countryCode": "SB",
+  "cities": [
+    {
+      "id": 12041844,
+      "name": "East Ghongau",
+      "nativeName": "East Ghongau",
+      "code": "SB-RB-12041844",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-RB",
+      "latitude": -11.30054,
+      "longitude": 159.79501
+    },
+    {
+      "id": 12041779,
+      "name": "East Te Nggano",
+      "nativeName": "East Te Nggano",
+      "code": "SB-RB-12041779",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-RB",
+      "latitude": -11.78913,
+      "longitude": 160.51477
+    },
+    {
+      "id": 12041799,
+      "name": "Kangava",
+      "nativeName": "Kangava",
+      "code": "SB-RB-12041799",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-RB",
+      "latitude": -11.59823,
+      "longitude": 160.15579
+    },
+    {
+      "id": 12041798,
+      "name": "Lughu",
+      "nativeName": "Lughu",
+      "code": "SB-RB-12041798",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-RB",
+      "latitude": -11.66063,
+      "longitude": 160.23242
+    },
+    {
+      "id": 12041843,
+      "name": "Matangi",
+      "nativeName": "Matangi",
+      "code": "SB-RB-12041843",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-RB",
+      "latitude": -11.30502,
+      "longitude": 159.81727
+    },
+    {
+      "id": 12041899,
+      "name": "Mugihenua",
+      "nativeName": "Mugihenua",
+      "code": "SB-RB-12041899",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-RB",
+      "latitude": -11.52777,
+      "longitude": 160.01529
+    },
+    {
+      "id": 12041866,
+      "name": "Sa'Aiho",
+      "nativeName": "Sa'Aiho",
+      "code": "SB-RB-12041866",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-RB",
+      "latitude": -11.28491,
+      "longitude": 159.7667
+    },
+    {
+      "id": 12041864,
+      "name": "Tetau Nangoto",
+      "nativeName": "Tetau Nangoto",
+      "code": "SB-RB-12041864",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-RB",
+      "latitude": -11.55733,
+      "longitude": 160.06801
+    },
+    {
+      "id": 12041800,
+      "name": "West Ghongau",
+      "nativeName": "West Ghongau",
+      "code": "SB-RB-12041800",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-RB",
+      "latitude": -11.2938,
+      "longitude": 159.77921
+    },
+    {
+      "id": 12041889,
+      "name": "West Te Nggano",
+      "nativeName": "West Te Nggano",
+      "code": "SB-RB-12041889",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-RB",
+      "latitude": -11.70814,
+      "longitude": 160.38869
+    }
+  ]
+}

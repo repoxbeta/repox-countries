@@ -1,0 +1,194 @@
+{
+  "stateId": 5509151,
+  "stateCode": "US-NV",
+  "countryCode": "US",
+  "cities": [
+    {
+      "id": 5501350,
+      "name": "Carson City",
+      "nativeName": "Carson City",
+      "code": "US-NV-5501350",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NV",
+      "latitude": 39.16462,
+      "longitude": -119.7763
+    },
+    {
+      "id": 5501785,
+      "name": "Churchill",
+      "nativeName": "Churchill County",
+      "code": "US-NV-5501785",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NV",
+      "latitude": 39.58088,
+      "longitude": -118.33578
+    },
+    {
+      "id": 5501879,
+      "name": "Clark",
+      "nativeName": "Clark County",
+      "code": "US-NV-5501879",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NV",
+      "latitude": 36.2152,
+      "longitude": -115.01356
+    },
+    {
+      "id": 5503178,
+      "name": "Douglas",
+      "nativeName": "Douglas County",
+      "code": "US-NV-5503178",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NV",
+      "latitude": 38.91224,
+      "longitude": -119.61637
+    },
+    {
+      "id": 5703673,
+      "name": "Elko",
+      "nativeName": "Elko County",
+      "code": "US-NV-5703673",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NV",
+      "latitude": 41.14583,
+      "longitude": -115.35776
+    },
+    {
+      "id": 5503780,
+      "name": "Esmeralda",
+      "nativeName": "Esmeralda County",
+      "code": "US-NV-5503780",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NV",
+      "latitude": 37.7847,
+      "longitude": -117.63237
+    },
+    {
+      "id": 5703766,
+      "name": "Eureka",
+      "nativeName": "Eureka County",
+      "code": "US-NV-5703766",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NV",
+      "latitude": 39.98389,
+      "longitude": -116.26856
+    },
+    {
+      "id": 5704974,
+      "name": "Humboldt",
+      "nativeName": "Humboldt County",
+      "code": "US-NV-5704974",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NV",
+      "latitude": 41.40684,
+      "longitude": -118.11197
+    },
+    {
+      "id": 5506935,
+      "name": "Lander",
+      "nativeName": "Lander County",
+      "code": "US-NV-5506935",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NV",
+      "latitude": 39.93381,
+      "longitude": -117.03791
+    },
+    {
+      "id": 5507189,
+      "name": "Lincoln",
+      "nativeName": "Lincoln County",
+      "code": "US-NV-5507189",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NV",
+      "latitude": 37.64335,
+      "longitude": -114.87755
+    },
+    {
+      "id": 5507669,
+      "name": "Lyon",
+      "nativeName": "Lyon County",
+      "code": "US-NV-5507669",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NV",
+      "latitude": 39.0204,
+      "longitude": -119.1892
+    },
+    {
+      "id": 5508393,
+      "name": "Mineral",
+      "nativeName": "Mineral County",
+      "code": "US-NV-5508393",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NV",
+      "latitude": 38.53881,
+      "longitude": -118.43521
+    },
+    {
+      "id": 5509519,
+      "name": "Nye",
+      "nativeName": "Nye County",
+      "code": "US-NV-5509519",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NV",
+      "latitude": 38.04238,
+      "longitude": -116.47193
+    },
+    {
+      "id": 5707263,
+      "name": "Pershing",
+      "nativeName": "Pershing County",
+      "code": "US-NV-5707263",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NV",
+      "latitude": 40.44036,
+      "longitude": -118.40444
+    },
+    {
+      "id": 5513171,
+      "name": "Storey",
+      "nativeName": "Storey County",
+      "code": "US-NV-5513171",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NV",
+      "latitude": 39.44653,
+      "longitude": -119.52917
+    },
+    {
+      "id": 5709906,
+      "name": "Washoe",
+      "nativeName": "Washoe County",
+      "code": "US-NV-5709906",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NV",
+      "latitude": 40.66542,
+      "longitude": -119.6643
+    },
+    {
+      "id": 5514990,
+      "name": "White Pine",
+      "nativeName": "White Pine County",
+      "code": "US-NV-5514990",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-NV",
+      "latitude": 39.44216,
+      "longitude": -114.90159
+    }
+  ]
+}

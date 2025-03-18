@@ -1,0 +1,84 @@
+{
+  "stateId": 12902749,
+  "stateCode": "ET-55",
+  "countryCode": "ET",
+  "cities": [
+    {
+      "id": 7667869,
+      "name": "Alaba Special Wereda",
+      "nativeName": "Alaba Special Wereda",
+      "code": "ET-55-7667869",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-55",
+      "latitude": 7.45347,
+      "longitude": 38.21189
+    },
+    {
+      "id": 341021,
+      "name": "Guraghe Zone",
+      "nativeName": "Guraghe Zone",
+      "code": "ET-55-341021",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-55",
+      "latitude": 8.25,
+      "longitude": 38
+    },
+    {
+      "id": 333384,
+      "name": "Hadiya Zone",
+      "nativeName": "Hadiya Zone",
+      "code": "ET-55-333384",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-55",
+      "latitude": 7.5,
+      "longitude": 37.75
+    },
+    {
+      "id": 7667870,
+      "name": "Kembata Alaba Tembaro Zone",
+      "nativeName": "Kembata Alaba Tembaro Zone",
+      "code": "ET-55-7667870",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-55",
+      "latitude": 7.27039,
+      "longitude": 37.77887
+    },
+    {
+      "id": 11750826,
+      "name": "Selti",
+      "nativeName": "Selti",
+      "code": "ET-55-11750826",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-55",
+      "latitude": 7.79199,
+      "longitude": 38.23291
+    },
+    {
+      "id": 7670728,
+      "name": "Siltie Zone",
+      "nativeName": "Siltie Zone",
+      "code": "ET-55-7670728",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-55",
+      "latitude": 7.83219,
+      "longitude": 38.26872
+    },
+    {
+      "id": 7670680,
+      "name": "Yem",
+      "nativeName": "Yem",
+      "code": "ET-55-7670680",
+      "countryId": 337996,
+      "countryCode": "ET",
+      "stateCode": "ET-55",
+      "latitude": 7.83333,
+      "longitude": 37.5
+    }
+  ]
+}

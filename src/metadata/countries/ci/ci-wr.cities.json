@@ -1,0 +1,40 @@
+{
+  "stateId": 11153062,
+  "stateCode": "CI-WR",
+  "countryCode": "CI",
+  "cities": [
+    {
+      "id": 2597334,
+      "name": "Bafing Region",
+      "nativeName": "Bafing",
+      "code": "CI-WR-2597334",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "stateCode": "CI-WR",
+      "latitude": 8.40611,
+      "longitude": -7.58048
+    },
+    {
+      "id": 11153172,
+      "name": "Béré",
+      "nativeName": "Béré",
+      "code": "CI-WR-11153172",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "stateCode": "CI-WR",
+      "latitude": 8.18952,
+      "longitude": -6.17157
+    },
+    {
+      "id": 11153174,
+      "name": "Worodougou",
+      "nativeName": "Worodougou",
+      "code": "CI-WR-11153174",
+      "countryId": 2287781,
+      "countryCode": "CI",
+      "stateCode": "CI-WR",
+      "latitude": 8.16482,
+      "longitude": -6.66595
+    }
+  ]
+}

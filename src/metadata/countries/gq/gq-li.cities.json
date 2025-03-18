@@ -1,0 +1,84 @@
+{
+  "stateId": 2566982,
+  "stateCode": "GQ-LI",
+  "countryCode": "GQ",
+  "cities": [
+    {
+      "id": 2310047,
+      "name": "Bata",
+      "nativeName": "Bata",
+      "code": "GQ-LI-2310047",
+      "countryId": 2309096,
+      "countryCode": "GQ",
+      "stateCode": "GQ-LI",
+      "latitude": 1.84804,
+      "longitude": 9.80646
+    },
+    {
+      "id": 11237866,
+      "name": "Bitica",
+      "nativeName": "Bitica",
+      "code": "GQ-LI-11237866",
+      "countryId": 2309096,
+      "countryCode": "GQ",
+      "stateCode": "GQ-LI",
+      "latitude": 1.42187,
+      "longitude": 9.62351
+    },
+    {
+      "id": 2306841,
+      "name": "Cogo",
+      "nativeName": "Cogo",
+      "code": "GQ-LI-2306841",
+      "countryId": 2309096,
+      "countryCode": "GQ",
+      "stateCode": "GQ-LI",
+      "latitude": 1.2231,
+      "longitude": 9.8452
+    },
+    {
+      "id": 11237865,
+      "name": "Corisco",
+      "nativeName": "Corisco",
+      "code": "GQ-LI-11237865",
+      "countryId": 2309096,
+      "countryCode": "GQ",
+      "stateCode": "GQ-LI",
+      "latitude": 0.91718,
+      "longitude": 9.32186
+    },
+    {
+      "id": 2308276,
+      "name": "Distrito de Mbini",
+      "nativeName": "Distrito de Mbini",
+      "code": "GQ-LI-2308276",
+      "countryId": 2309096,
+      "countryCode": "GQ",
+      "stateCode": "GQ-LI",
+      "latitude": 1.5327,
+      "longitude": 9.7491
+    },
+    {
+      "id": 11237867,
+      "name": "Machinda",
+      "nativeName": "Machinda",
+      "code": "GQ-LI-11237867",
+      "countryId": 2309096,
+      "countryCode": "GQ",
+      "stateCode": "GQ-LI",
+      "latitude": 1.88068,
+      "longitude": 9.95391
+    },
+    {
+      "id": 11237864,
+      "name": "Río Campo",
+      "nativeName": "Río Campo",
+      "code": "GQ-LI-11237864",
+      "countryId": 2309096,
+      "countryCode": "GQ",
+      "stateCode": "GQ-LI",
+      "latitude": 2.33816,
+      "longitude": 9.82205
+    }
+  ]
+}

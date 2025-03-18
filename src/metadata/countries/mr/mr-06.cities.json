@@ -1,0 +1,73 @@
+{
+  "stateId": 2375742,
+  "stateCode": "MR-06",
+  "countryCode": "MR",
+  "cities": [
+    {
+      "id": 8051341,
+      "name": "Boutilimit",
+      "nativeName": "Boutilimit",
+      "code": "MR-06-8051341",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-06",
+      "latitude": 18.17,
+      "longitude": -14.125
+    },
+    {
+      "id": 9212614,
+      "name": "Keur-Macene",
+      "nativeName": "Keur-Macene",
+      "code": "MR-06-9212614",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-06",
+      "latitude": 16.64184,
+      "longitude": -16.27726
+    },
+    {
+      "id": 8051340,
+      "name": "Mederdra",
+      "nativeName": "Mederdra",
+      "code": "MR-06-8051340",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-06",
+      "latitude": 17.141,
+      "longitude": -15.659
+    },
+    {
+      "id": 8051339,
+      "name": "Ouad Naga",
+      "nativeName": "Ouad Naga",
+      "code": "MR-06-8051339",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-06",
+      "latitude": 18.352,
+      "longitude": -15.474
+    },
+    {
+      "id": 9212604,
+      "name": "R'kiz",
+      "nativeName": "R'Kiz",
+      "code": "MR-06-9212604",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-06",
+      "latitude": 16.92986,
+      "longitude": -15.08271
+    },
+    {
+      "id": 7910309,
+      "name": "Rosso",
+      "nativeName": "Rosso Department",
+      "code": "MR-06-7910309",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-06",
+      "latitude": 16.585,
+      "longitude": -15.72
+    }
+  ]
+}

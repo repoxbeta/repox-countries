@@ -1,0 +1,249 @@
+{
+  "stateId": 1633791,
+  "stateCode": "ID-NT",
+  "countryCode": "ID",
+  "cities": [
+    {
+      "id": 1651608,
+      "name": "Alor Regency",
+      "nativeName": "Kabupaten Alor",
+      "code": "ID-NT-1651608",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-NT",
+      "latitude": -8.28333,
+      "longitude": 124.73333
+    },
+    {
+      "id": 1649264,
+      "name": "Belu Regency",
+      "nativeName": "Kabupaten Belu",
+      "code": "ID-NT-1649264",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-NT",
+      "latitude": -9.17581,
+      "longitude": 124.91628
+    },
+    {
+      "id": 9845473,
+      "name": "Central Sumba Regency",
+      "nativeName": "Kabupaten Sumba Tengah",
+      "code": "ID-NT-9845473",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-NT",
+      "latitude": -9.62941,
+      "longitude": 119.61914
+    },
+    {
+      "id": 1644743,
+      "name": "East Flores Regency",
+      "nativeName": "Kabupaten Flores Timur",
+      "code": "ID-NT-1644743",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-NT",
+      "latitude": -8.24224,
+      "longitude": 122.96817
+    },
+    {
+      "id": 9828927,
+      "name": "East Manggarai Regency",
+      "nativeName": "Kabupaten Manggarai Timur",
+      "code": "ID-NT-9828927",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-NT",
+      "latitude": -8.55533,
+      "longitude": 120.59761
+    },
+    {
+      "id": 9165840,
+      "name": "Ende Regency",
+      "nativeName": "Kabupaten Ende",
+      "code": "ID-NT-9165840",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-NT",
+      "latitude": -8.84056,
+      "longitude": 121.66389
+    },
+    {
+      "id": 1626190,
+      "name": "Kabupaten Sumba Timur",
+      "nativeName": "Kabupaten Sumba Timur",
+      "code": "ID-NT-1626190",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-NT",
+      "latitude": -9.88167,
+      "longitude": 120.215
+    },
+    {
+      "id": 2057084,
+      "name": "Kota Kupang",
+      "nativeName": "Kota Kupang",
+      "code": "ID-NT-2057084",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-NT",
+      "latitude": -10.19694,
+      "longitude": 123.59806
+    },
+    {
+      "id": 2057086,
+      "name": "Kupang Regency",
+      "nativeName": "Kabupaten Kupang",
+      "code": "ID-NT-2057086",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-NT",
+      "latitude": -9.91667,
+      "longitude": 123.83333
+    },
+    {
+      "id": 9165593,
+      "name": "Lembata Regency",
+      "nativeName": "Kabupaten Lembata",
+      "code": "ID-NT-9165593",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-NT",
+      "latitude": -8.41396,
+      "longitude": 123.55225
+    },
+    {
+      "id": 9846667,
+      "name": "Malaka Regency",
+      "nativeName": "Kabupaten Malaka",
+      "code": "ID-NT-9846667",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-NT",
+      "latitude": -9.5632,
+      "longitude": 124.89481
+    },
+    {
+      "id": 1636422,
+      "name": "Manggarai Regency",
+      "nativeName": "Kabupaten Manggarai",
+      "code": "ID-NT-1636422",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-NT",
+      "latitude": -8.56667,
+      "longitude": 120.43333
+    },
+    {
+      "id": 9828965,
+      "name": "Nagekeo Regency",
+      "nativeName": "Kabupaten Nagekeo",
+      "code": "ID-NT-9828965",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-NT",
+      "latitude": -8.8721,
+      "longitude": 121.20963
+    },
+    {
+      "id": 1634193,
+      "name": "Ngada Regency",
+      "nativeName": "Kabupaten Ngada",
+      "code": "ID-NT-1634193",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-NT",
+      "latitude": -8.66667,
+      "longitude": 121
+    },
+    {
+      "id": 1623839,
+      "name": "North Central Timor Regency",
+      "nativeName": "Kabupaten Timor Tengah Utara",
+      "code": "ID-NT-1623839",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-NT",
+      "latitude": -9.33136,
+      "longitude": 124.51904
+    },
+    {
+      "id": 9165782,
+      "name": "Rote Ndao Regency",
+      "nativeName": "Kabupaten Rote Ndao",
+      "code": "ID-NT-9165782",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-NT",
+      "latitude": -10.73617,
+      "longitude": 123.12054
+    },
+    {
+      "id": 9844902,
+      "name": "Sabu Raijua Regency",
+      "nativeName": "Kabupaten Sabu Raijua",
+      "code": "ID-NT-9844902",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-NT",
+      "latitude": -10.56286,
+      "longitude": 121.78894
+    },
+    {
+      "id": 1627182,
+      "name": "Sikka Regency",
+      "nativeName": "Kabupaten Sikka",
+      "code": "ID-NT-1627182",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-NT",
+      "latitude": -8.68333,
+      "longitude": 122.33333
+    },
+    {
+      "id": 1623840,
+      "name": "South Central Timor Regency",
+      "nativeName": "Kabupaten Timor Tengah Selatan",
+      "code": "ID-NT-1623840",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-NT",
+      "latitude": -9.83333,
+      "longitude": 124.4
+    },
+    {
+      "id": 9845472,
+      "name": "Southwest Sumba Regency",
+      "nativeName": "Kabupaten Sumba Barat Daya",
+      "code": "ID-NT-9845472",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-NT",
+      "latitude": -9.56216,
+      "longitude": 119.08905
+    },
+    {
+      "id": 9165681,
+      "name": "West Manggarai Regency",
+      "nativeName": "Kabupaten Manggarai Barat",
+      "code": "ID-NT-9165681",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-NT",
+      "latitude": -8.64484,
+      "longitude": 119.88281
+    },
+    {
+      "id": 1626193,
+      "name": "West Sumba Regency",
+      "nativeName": "Kabupaten Sumba Barat",
+      "code": "ID-NT-1626193",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-NT",
+      "latitude": -9.63333,
+      "longitude": 119.41667
+    }
+  ]
+}

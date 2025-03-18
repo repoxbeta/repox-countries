@@ -1,0 +1,40 @@
+{
+  "stateId": 2110384,
+  "stateCode": "TV-FUN",
+  "countryCode": "TV",
+  "cities": [
+    {
+      "id": 2110394,
+      "name": "Funafuti",
+      "nativeName": "Funafuti",
+      "code": "TV-FUN-2110394",
+      "countryId": 2110297,
+      "countryCode": "TV",
+      "stateCode": "TV-FUN",
+      "latitude": -8.52425,
+      "longitude": 179.19417
+    },
+    {
+      "id": 2110380,
+      "name": "Amatuku Village",
+      "nativeName": "Amatuku Village",
+      "code": "TV-FUN-2110380",
+      "countryId": 2110297,
+      "countryCode": "TV",
+      "stateCode": "TV-FUN",
+      "latitude": -8.4379,
+      "longitude": 179.17031
+    },
+    {
+      "id": 2110368,
+      "name": "Funafala Village",
+      "nativeName": "Funafala Village",
+      "code": "TV-FUN-2110368",
+      "countryId": 2110297,
+      "countryCode": "TV",
+      "stateCode": "TV-FUN",
+      "latitude": -8.62975,
+      "longitude": 179.10066
+    }
+  ]
+}

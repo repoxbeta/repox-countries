@@ -1,0 +1,62 @@
+{
+  "stateId": 2593111,
+  "stateCode": "ES-CM",
+  "countryCode": "ES",
+  "cities": [
+    {
+      "id": 2522257,
+      "name": "Albacete",
+      "nativeName": "Provincia de Albacete",
+      "code": "ES-CM-2522257",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "stateCode": "ES-CM",
+      "latitude": 38.83333,
+      "longitude": -2
+    },
+    {
+      "id": 2519401,
+      "name": "Ciudad Real",
+      "nativeName": "Provincia de Ciudad Real",
+      "code": "ES-CM-2519401",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "stateCode": "ES-CM",
+      "latitude": 39,
+      "longitude": -4
+    },
+    {
+      "id": 2519034,
+      "name": "Cuenca",
+      "nativeName": "Provincia de Cuenca",
+      "code": "ES-CM-2519034",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "stateCode": "ES-CM",
+      "latitude": 40,
+      "longitude": -2
+    },
+    {
+      "id": 3121069,
+      "name": "Guadalajara",
+      "nativeName": "Provincia de Guadalajara",
+      "code": "ES-CM-3121069",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "stateCode": "ES-CM",
+      "latitude": 40.83333,
+      "longitude": -2.5
+    },
+    {
+      "id": 2510407,
+      "name": "Toledo",
+      "nativeName": "Province of Toledo",
+      "code": "ES-CM-2510407",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "stateCode": "ES-CM",
+      "latitude": 39.83333,
+      "longitude": -4
+    }
+  ]
+}

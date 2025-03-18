@@ -1,0 +1,205 @@
+{
+  "stateId": 3983035,
+  "stateCode": "MX-SIN",
+  "countryCode": "MX",
+  "cities": [
+    {
+      "id": 8583348,
+      "name": "Ahome Municipality",
+      "nativeName": "Ahome",
+      "code": "MX-SIN-8583348",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-SIN",
+      "latitude": 25.89893,
+      "longitude": -109.08106
+    },
+    {
+      "id": 8583349,
+      "name": "Angostura Municipality",
+      "nativeName": "Angostura",
+      "code": "MX-SIN-8583349",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-SIN",
+      "latitude": 25.29136,
+      "longitude": -108.12742
+    },
+    {
+      "id": 8583350,
+      "name": "Badiraguato Municipality",
+      "nativeName": "Badiraguato",
+      "code": "MX-SIN-8583350",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-SIN",
+      "latitude": 25.6392,
+      "longitude": -107.39599
+    },
+    {
+      "id": 8583354,
+      "name": "Choix Municipality",
+      "nativeName": "Choix",
+      "code": "MX-SIN-8583354",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-SIN",
+      "latitude": 26.63568,
+      "longitude": -108.22314
+    },
+    {
+      "id": 8583351,
+      "name": "Concordia Municipality",
+      "nativeName": "Concordia",
+      "code": "MX-SIN-8583351",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-SIN",
+      "latitude": 23.36259,
+      "longitude": -106.00161
+    },
+    {
+      "id": 8583352,
+      "name": "Cosalá Municipality",
+      "nativeName": "Cosalá",
+      "code": "MX-SIN-8583352",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-SIN",
+      "latitude": 24.47551,
+      "longitude": -106.78037
+    },
+    {
+      "id": 8583353,
+      "name": "Culiacán",
+      "nativeName": "Culiacán",
+      "code": "MX-SIN-8583353",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-SIN",
+      "latitude": 24.70309,
+      "longitude": -107.35265
+    },
+    {
+      "id": 8583357,
+      "name": "El Fuerte Municipality",
+      "nativeName": "El Fuerte",
+      "code": "MX-SIN-8583357",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-SIN",
+      "latitude": 26.19174,
+      "longitude": -108.74931
+    },
+    {
+      "id": 8583355,
+      "name": "Elota",
+      "nativeName": "Elota",
+      "code": "MX-SIN-8583355",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-SIN",
+      "latitude": 24.03463,
+      "longitude": -106.84491
+    },
+    {
+      "id": 8583356,
+      "name": "Escuinapa Municipality",
+      "nativeName": "Escuinapa",
+      "code": "MX-SIN-8583356",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-SIN",
+      "latitude": 22.7388,
+      "longitude": -105.72987
+    },
+    {
+      "id": 8582651,
+      "name": "Guasave Municipality",
+      "nativeName": "Guasave",
+      "code": "MX-SIN-8582651",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-SIN",
+      "latitude": 25.58081,
+      "longitude": -108.5135
+    },
+    {
+      "id": 8583358,
+      "name": "Mazatlán Municipality",
+      "nativeName": "Mazatlán",
+      "code": "MX-SIN-8583358",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-SIN",
+      "latitude": 23.22,
+      "longitude": -106.42
+    },
+    {
+      "id": 8583359,
+      "name": "Mocorito Municipality",
+      "nativeName": "Mocorito",
+      "code": "MX-SIN-8583359",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-SIN",
+      "latitude": 25.32192,
+      "longitude": -107.77442
+    },
+    {
+      "id": 8583364,
+      "name": "Navolato Municipality",
+      "nativeName": "Navolato",
+      "code": "MX-SIN-8583364",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-SIN",
+      "latitude": 24.73457,
+      "longitude": -107.68282
+    },
+    {
+      "id": 8583360,
+      "name": "Rosario Municipality",
+      "nativeName": "Rosario",
+      "code": "MX-SIN-8583360",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-SIN",
+      "latitude": 23.01761,
+      "longitude": -105.85768
+    },
+    {
+      "id": 8583361,
+      "name": "Salvador Alvarado Municipality",
+      "nativeName": "Salvador Alvarado",
+      "code": "MX-SIN-8583361",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-SIN",
+      "latitude": 25.4306,
+      "longitude": -108.0765
+    },
+    {
+      "id": 8583362,
+      "name": "San Ignacio Municipality",
+      "nativeName": "San Ignacio",
+      "code": "MX-SIN-8583362",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-SIN",
+      "latitude": 23.96168,
+      "longitude": -106.41048
+    },
+    {
+      "id": 8583363,
+      "name": "Sinaloa Municipality",
+      "nativeName": "Sinaloa",
+      "code": "MX-SIN-8583363",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-SIN",
+      "latitude": 25.94103,
+      "longitude": -108.09076
+    }
+  ]
+}

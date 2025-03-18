@@ -1,0 +1,237 @@
+{
+  "countryId": 2661886,
+  "countryCode": "SE",
+  "states": [
+    {
+      "id": 2721357,
+      "name": "Blekinge",
+      "nativeName": "Blekinge County",
+      "code": "SE-K",
+      "internalCode": "K",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "latitude": 56.33333,
+      "longitude": 15.33333
+    },
+    {
+      "id": 2699767,
+      "name": "Dalarna",
+      "nativeName": "Dalarna County",
+      "code": "SE-W",
+      "internalCode": "W",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "latitude": 61,
+      "longitude": 14.5
+    },
+    {
+      "id": 2711508,
+      "name": "Gotland",
+      "nativeName": "Gotland County",
+      "code": "SE-I",
+      "internalCode": "I",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "latitude": 57.5,
+      "longitude": 18.5
+    },
+    {
+      "id": 2712411,
+      "name": "Gävleborg",
+      "nativeName": "Gävleborg County",
+      "code": "SE-X",
+      "internalCode": "X",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "latitude": 61.5,
+      "longitude": 16.25
+    },
+    {
+      "id": 2708794,
+      "name": "Halland",
+      "nativeName": "Halland County",
+      "code": "SE-N",
+      "internalCode": "N",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "latitude": 56.75,
+      "longitude": 13
+    },
+    {
+      "id": 2703330,
+      "name": "Jämtland",
+      "nativeName": "Jämtland County",
+      "code": "SE-Z",
+      "internalCode": "Z",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "latitude": 63,
+      "longitude": 14.66667
+    },
+    {
+      "id": 2702976,
+      "name": "Jönköping",
+      "nativeName": "Jönköping County",
+      "code": "SE-F",
+      "internalCode": "F",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "latitude": 57.5,
+      "longitude": 14.5
+    },
+    {
+      "id": 2702259,
+      "name": "Kalmar",
+      "nativeName": "Kalmar County",
+      "code": "SE-H",
+      "internalCode": "H",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "latitude": 57.33333,
+      "longitude": 16
+    },
+    {
+      "id": 2699050,
+      "name": "Kronoberg",
+      "nativeName": "Kronoberg County",
+      "code": "SE-G",
+      "internalCode": "G",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "latitude": 56.66667,
+      "longitude": 14.66667
+    },
+    {
+      "id": 604010,
+      "name": "Norrbotten",
+      "nativeName": "Norrbotten County",
+      "code": "SE-BD",
+      "internalCode": "BD",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "latitude": 67,
+      "longitude": 20
+    },
+    {
+      "id": 3337385,
+      "name": "Skåne",
+      "nativeName": "Skåne County",
+      "code": "SE-M",
+      "internalCode": "M",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "latitude": 55.98333,
+      "longitude": 13.5
+    },
+    {
+      "id": 2673722,
+      "name": "Stockholm",
+      "nativeName": "Stockholm County",
+      "code": "SE-AB",
+      "internalCode": "AB",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "latitude": 59.5,
+      "longitude": 18
+    },
+    {
+      "id": 2676207,
+      "name": "Södermanland",
+      "nativeName": "Södermanland County",
+      "code": "SE-D",
+      "internalCode": "D",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "latitude": 59.25,
+      "longitude": 16.66667
+    },
+    {
+      "id": 2666218,
+      "name": "Uppsala",
+      "nativeName": "Uppsala County",
+      "code": "SE-C",
+      "internalCode": "C",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "latitude": 60,
+      "longitude": 17.75
+    },
+    {
+      "id": 2664870,
+      "name": "Värmland",
+      "nativeName": "Värmland County",
+      "code": "SE-S",
+      "internalCode": "S",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "latitude": 59.75,
+      "longitude": 13.25
+    },
+    {
+      "id": 2664415,
+      "name": "Västerbotten",
+      "nativeName": "Västerbotten County",
+      "code": "SE-AC",
+      "internalCode": "AC",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "latitude": 65,
+      "longitude": 17.5
+    },
+    {
+      "id": 2664292,
+      "name": "Västernorrland",
+      "nativeName": "Västernorrland County",
+      "code": "SE-Y",
+      "internalCode": "Y",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "latitude": 63,
+      "longitude": 17.5
+    },
+    {
+      "id": 2664179,
+      "name": "Västmanland",
+      "nativeName": "Västmanland County",
+      "code": "SE-U",
+      "internalCode": "U",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "latitude": 59.75,
+      "longitude": 16.33333
+    },
+    {
+      "id": 3337386,
+      "name": "Västra Götaland",
+      "nativeName": "Västra Götaland County",
+      "code": "SE-O",
+      "internalCode": "O",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "latitude": 58,
+      "longitude": 13
+    },
+    {
+      "id": 2686655,
+      "name": "Örebro",
+      "nativeName": "Örebro County",
+      "code": "SE-T",
+      "internalCode": "T",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "latitude": 59.5,
+      "longitude": 15
+    },
+    {
+      "id": 2685867,
+      "name": "Östergötland",
+      "nativeName": "Östergötland County",
+      "code": "SE-E",
+      "internalCode": "E",
+      "countryId": 2661886,
+      "countryCode": "SE",
+      "latitude": 58.41667,
+      "longitude": 15.75
+    }
+  ]
+}

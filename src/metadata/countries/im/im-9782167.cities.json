@@ -1,0 +1,40 @@
+{
+  "stateId": 9782167,
+  "stateCode": "IM-9782167",
+  "countryCode": "IM",
+  "cities": [
+    {
+      "id": 3042221,
+      "name": "Kirk Braddan",
+      "nativeName": "Kirk Braddan",
+      "code": "IM-9782167-3042221",
+      "countryId": 3042225,
+      "countryCode": "IM",
+      "stateCode": "IM-9782167",
+      "latitude": 54.16667,
+      "longitude": -4.51667
+    },
+    {
+      "id": 3042193,
+      "name": "Port Soderick",
+      "nativeName": "Port Soderick",
+      "code": "IM-9782167-3042193",
+      "countryId": 3042225,
+      "countryCode": "IM",
+      "stateCode": "IM-9782167",
+      "latitude": 54.12865,
+      "longitude": -4.54113
+    },
+    {
+      "id": 3042170,
+      "name": "Union Mills",
+      "nativeName": "Union Mills",
+      "code": "IM-9782167-3042170",
+      "countryId": 3042225,
+      "countryCode": "IM",
+      "stateCode": "IM-9782167",
+      "latitude": 54.16957,
+      "longitude": -4.52019
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "stateId": 3374855,
+  "stateCode": "CV-BV",
+  "countryCode": "CV",
+  "cities": [
+    {
+      "id": 11996041,
+      "name": "Santa Isabel",
+      "nativeName": "Santa Isabel",
+      "code": "CV-BV-11996041",
+      "countryId": 3374766,
+      "countryCode": "CV",
+      "stateCode": "CV-BV",
+      "latitude": 16.08661,
+      "longitude": -22.85858
+    },
+    {
+      "id": 11996049,
+      "name": "Sao Joao Baptista",
+      "nativeName": "Sao Joao Baptista",
+      "code": "CV-BV-11996049",
+      "countryId": 3374766,
+      "countryCode": "CV",
+      "stateCode": "CV-BV",
+      "latitude": 16.11525,
+      "longitude": -22.741
+    }
+  ]
+}

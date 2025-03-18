@@ -1,0 +1,282 @@
+{
+  "stateId": 620134,
+  "stateCode": "BY-VI",
+  "countryCode": "BY",
+  "cities": [
+    {
+      "id": 630135,
+      "name": "Beshankovichy District",
+      "nativeName": "Beshenkovichskiy Rayon",
+      "code": "BY-VI-630135",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-VI",
+      "latitude": 55,
+      "longitude": 29.5
+    },
+    {
+      "id": 629639,
+      "name": "Braslaŭski Rajon",
+      "nativeName": "Braslaŭski rajon",
+      "code": "BY-VI-629639",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-VI",
+      "latitude": 55.55972,
+      "longitude": 27
+    },
+    {
+      "id": 629398,
+      "name": "Chashniki District",
+      "nativeName": "Chashnikskiy Rayon",
+      "code": "BY-VI-629398",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-VI",
+      "latitude": 54.74016,
+      "longitude": 29.15501
+    },
+    {
+      "id": 629003,
+      "name": "Dokshytsy District",
+      "nativeName": "Dokshitskiy Rayon",
+      "code": "BY-VI-629003",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-VI",
+      "latitude": 54.8479,
+      "longitude": 27.89193
+    },
+    {
+      "id": 628789,
+      "name": "Dubroŭna District",
+      "nativeName": "Dubrovenskiy Rayon",
+      "code": "BY-VI-628789",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-VI",
+      "latitude": 54.60024,
+      "longitude": 30.85787
+    },
+    {
+      "id": 628152,
+      "name": "Haradok District",
+      "nativeName": "Gorodokskiy Rayon",
+      "code": "BY-VI-628152",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-VI",
+      "latitude": 55.61781,
+      "longitude": 30.09793
+    },
+    {
+      "id": 628404,
+      "name": "Hlybocki Rajon",
+      "nativeName": "Hlybocki Rajon",
+      "code": "BY-VI-628404",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-VI",
+      "latitude": 55.16667,
+      "longitude": 27.83333
+    },
+    {
+      "id": 828888,
+      "name": "Horad Lyepyel’",
+      "nativeName": "Horad Lyepyel’",
+      "code": "BY-VI-828888",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-VI",
+      "latitude": 54.88333,
+      "longitude": 28.7
+    },
+    {
+      "id": 828889,
+      "name": "Horad Navapolatsk",
+      "nativeName": "Horad Navapolatsk",
+      "code": "BY-VI-828889",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-VI",
+      "latitude": 55.52917,
+      "longitude": 28.64306
+    },
+    {
+      "id": 828891,
+      "name": "Horad Polatsk",
+      "nativeName": "Horad Polatsk",
+      "code": "BY-VI-828891",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-VI",
+      "latitude": 55.48556,
+      "longitude": 28.80417
+    },
+    {
+      "id": 828887,
+      "name": "Horad Vitsyebsk",
+      "nativeName": "Horad Vitsyebsk",
+      "code": "BY-VI-828887",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-VI",
+      "latitude": 55.1925,
+      "longitude": 30.19444
+    },
+    {
+      "id": 626141,
+      "name": "Lepiel_District",
+      "nativeName": "Lepel’skiy Rayon",
+      "code": "BY-VI-626141",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-VI",
+      "latitude": 54.8361,
+      "longitude": 28.67028
+    },
+    {
+      "id": 626065,
+      "name": "Liozna District",
+      "nativeName": "Lioznenskiy Rayon",
+      "code": "BY-VI-626065",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-VI",
+      "latitude": 55.01623,
+      "longitude": 30.68596
+    },
+    {
+      "id": 625131,
+      "name": "Myory District",
+      "nativeName": "Miorskiy Rayon",
+      "code": "BY-VI-625131",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-VI",
+      "latitude": 55.5884,
+      "longitude": 27.80494
+    },
+    {
+      "id": 624077,
+      "name": "Orsha District",
+      "nativeName": "Orshanskiy Rayon",
+      "code": "BY-VI-624077",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-VI",
+      "latitude": 54.54166,
+      "longitude": 30.3654
+    },
+    {
+      "id": 623176,
+      "name": "Pastavy District",
+      "nativeName": "Postavskiy Rayon",
+      "code": "BY-VI-623176",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-VI",
+      "latitude": 55.10387,
+      "longitude": 26.9107
+    },
+    {
+      "id": 623283,
+      "name": "Polotsk District",
+      "nativeName": "Polotskiy Rayon",
+      "code": "BY-VI-623283",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-VI",
+      "latitude": 55.52127,
+      "longitude": 28.84515
+    },
+    {
+      "id": 622691,
+      "name": "Rasony District",
+      "nativeName": "Rossonskiy Rayon",
+      "code": "BY-VI-622691",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-VI",
+      "latitude": 55.88906,
+      "longitude": 28.8653
+    },
+    {
+      "id": 622178,
+      "name": "Sharkawshchyna District",
+      "nativeName": "Sharkovshchinskiy Rayon",
+      "code": "BY-VI-622178",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-VI",
+      "latitude": 55.38341,
+      "longitude": 27.53922
+    },
+    {
+      "id": 621985,
+      "name": "Shumilina District",
+      "nativeName": "Shumilinskiy Rayon",
+      "code": "BY-VI-621985",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-VI",
+      "latitude": 55.31918,
+      "longitude": 29.46737
+    },
+    {
+      "id": 622261,
+      "name": "Syanno District",
+      "nativeName": "Sennenskiy Rayon",
+      "code": "BY-VI-622261",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-VI",
+      "latitude": 54.80914,
+      "longitude": 29.9005
+    },
+    {
+      "id": 620831,
+      "name": "Talachyn District",
+      "nativeName": "Tolochinskiy Rayon",
+      "code": "BY-VI-620831",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-VI",
+      "latitude": 54.44572,
+      "longitude": 29.74611
+    },
+    {
+      "id": 620539,
+      "name": "Ushachy District",
+      "nativeName": "Ushachskiy Rayon",
+      "code": "BY-VI-620539",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-VI",
+      "latitude": 55.13432,
+      "longitude": 28.6591
+    },
+    {
+      "id": 620254,
+      "name": "Verkhnyadzvinsk District",
+      "nativeName": "Verkhnedvinskiy Rayon",
+      "code": "BY-VI-620254",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-VI",
+      "latitude": 55.87246,
+      "longitude": 28.12037
+    },
+    {
+      "id": 620133,
+      "name": "Vitebsk District",
+      "nativeName": "Vitebskiy Rayon",
+      "code": "BY-VI-620133",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-VI",
+      "latitude": 55.26857,
+      "longitude": 30.3811
+    }
+  ]
+}

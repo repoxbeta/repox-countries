@@ -1,0 +1,62 @@
+{
+  "stateId": 3337405,
+  "stateCode": "IS-7",
+  "countryCode": "IS",
+  "cities": [
+    {
+      "id": 3345270,
+      "name": "Fjarðabyggð",
+      "nativeName": "Fjarðabyggð",
+      "code": "IS-7-3345270",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-7",
+      "latitude": 65.08333,
+      "longitude": -14
+    },
+    {
+      "id": 2631712,
+      "name": "Fljótsdalshreppur",
+      "nativeName": "Fljótsdalshreppur",
+      "code": "IS-7-2631712",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-7",
+      "latitude": 64.85275,
+      "longitude": -15.2568
+    },
+    {
+      "id": 12504084,
+      "name": "Múlaþing",
+      "nativeName": "Múlaþing",
+      "code": "IS-7-12504084",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-7",
+      "latitude": 65.28664,
+      "longitude": -14.52352
+    },
+    {
+      "id": 3345272,
+      "name": "Sveitarfélagið Hornafjörður",
+      "nativeName": "Sveitarfélagið Hornafjörður",
+      "code": "IS-7-3345272",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-7",
+      "latitude": 64.26772,
+      "longitude": -16.0204
+    },
+    {
+      "id": 2625192,
+      "name": "Vopnafjarðarhreppur",
+      "nativeName": "Vopnafjarðarhreppur",
+      "code": "IS-7-2625192",
+      "countryId": 2629691,
+      "countryCode": "IS",
+      "stateCode": "IS-7",
+      "latitude": 65.67733,
+      "longitude": -15.01619
+    }
+  ]
+}

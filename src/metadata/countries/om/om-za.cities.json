@@ -1,0 +1,40 @@
+{
+  "stateId": 411739,
+  "stateCode": "OM-ZA",
+  "countryCode": "OM",
+  "cities": [
+    {
+      "id": 12215977,
+      "name": "Yanqul",
+      "nativeName": "Yanqul",
+      "code": "OM-ZA-12215977",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-ZA",
+      "latitude": 23.753,
+      "longitude": 56.399
+    },
+    {
+      "id": 12215978,
+      "name": "Ḑanak",
+      "nativeName": "Ḑanak",
+      "code": "OM-ZA-12215978",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-ZA",
+      "latitude": 23.711,
+      "longitude": 56.155
+    },
+    {
+      "id": 12215976,
+      "name": "‘Ibrī",
+      "nativeName": "‘Ibrī",
+      "code": "OM-ZA-12215976",
+      "countryId": 286963,
+      "countryCode": "OM",
+      "stateCode": "OM-ZA",
+      "latitude": 22.75,
+      "longitude": 56.174
+    }
+  ]
+}

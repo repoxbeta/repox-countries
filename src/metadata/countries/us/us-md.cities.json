@@ -1,0 +1,271 @@
+{
+  "stateId": 4361885,
+  "stateCode": "US-MD",
+  "countryCode": "US",
+  "cities": [
+    {
+      "id": 4347094,
+      "name": "Allegany",
+      "nativeName": "Allegany County",
+      "code": "US-MD-4347094",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-MD",
+      "latitude": 39.62148,
+      "longitude": -78.6989
+    },
+    {
+      "id": 4347283,
+      "name": "Anne Arundel",
+      "nativeName": "Anne Arundel County",
+      "code": "US-MD-4347283",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-MD",
+      "latitude": 38.99416,
+      "longitude": -76.5676
+    },
+    {
+      "id": 4347820,
+      "name": "Baltimore",
+      "nativeName": "City of Baltimore",
+      "code": "US-MD-4347820",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-MD",
+      "latitude": 39.29038,
+      "longitude": -76.61219
+    },
+    {
+      "id": 4347790,
+      "name": "Baltimore County",
+      "nativeName": "Baltimore County",
+      "code": "US-MD-4347790",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-MD",
+      "latitude": 39.44307,
+      "longitude": -76.61632
+    },
+    {
+      "id": 4350123,
+      "name": "Calvert",
+      "nativeName": "Calvert County",
+      "code": "US-MD-4350123",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-MD",
+      "latitude": 38.53471,
+      "longitude": -76.53056
+    },
+    {
+      "id": 4350425,
+      "name": "Caroline",
+      "nativeName": "Caroline County",
+      "code": "US-MD-4350425",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-MD",
+      "latitude": 38.87173,
+      "longitude": -75.8316
+    },
+    {
+      "id": 4350461,
+      "name": "Carroll",
+      "nativeName": "Carroll County",
+      "code": "US-MD-4350461",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-MD",
+      "latitude": 39.56286,
+      "longitude": -77.02252
+    },
+    {
+      "id": 4350685,
+      "name": "Cecil",
+      "nativeName": "Cecil County",
+      "code": "US-MD-4350685",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-MD",
+      "latitude": 39.56242,
+      "longitude": -75.94811
+    },
+    {
+      "id": 4351021,
+      "name": "Charles",
+      "nativeName": "Charles County",
+      "code": "US-MD-4351021",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-MD",
+      "latitude": 38.47368,
+      "longitude": -77.01348
+    },
+    {
+      "id": 4353543,
+      "name": "Dorchester",
+      "nativeName": "Dorchester County",
+      "code": "US-MD-4353543",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-MD",
+      "latitude": 38.42261,
+      "longitude": -76.08332
+    },
+    {
+      "id": 4355594,
+      "name": "Frederick County",
+      "nativeName": "Frederick County",
+      "code": "US-MD-4355594",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-MD",
+      "latitude": 39.47222,
+      "longitude": -77.39799
+    },
+    {
+      "id": 4355939,
+      "name": "Garrett",
+      "nativeName": "Garrett County",
+      "code": "US-MD-4355939",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-MD",
+      "latitude": 39.5286,
+      "longitude": -79.27388
+    },
+    {
+      "id": 4357407,
+      "name": "Harford",
+      "nativeName": "Harford County",
+      "code": "US-MD-4357407",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-MD",
+      "latitude": 39.53644,
+      "longitude": -76.29887
+    },
+    {
+      "id": 4358598,
+      "name": "Howard",
+      "nativeName": "Howard County",
+      "code": "US-MD-4358598",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-MD",
+      "latitude": 39.25072,
+      "longitude": -76.93119
+    },
+    {
+      "id": 4359780,
+      "name": "Kent",
+      "nativeName": "Kent County",
+      "code": "US-MD-4359780",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-MD",
+      "latitude": 39.2356,
+      "longitude": -76.09582
+    },
+    {
+      "id": 4362716,
+      "name": "Montgomery",
+      "nativeName": "Montgomery County",
+      "code": "US-MD-4362716",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-MD",
+      "latitude": 39.13638,
+      "longitude": -77.20424
+    },
+    {
+      "id": 4366164,
+      "name": "Prince George's",
+      "nativeName": "Prince George's County",
+      "code": "US-MD-4366164",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-MD",
+      "latitude": 38.82952,
+      "longitude": -76.84729
+    },
+    {
+      "id": 4366351,
+      "name": "Queen Anne's",
+      "nativeName": "Queen Anne's County",
+      "code": "US-MD-4366351",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-MD",
+      "latitude": 39.03763,
+      "longitude": -76.08504
+    },
+    {
+      "id": 4368320,
+      "name": "Saint Mary's",
+      "nativeName": "Saint Mary's County",
+      "code": "US-MD-4368320",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-MD",
+      "latitude": 38.21586,
+      "longitude": -76.52906
+    },
+    {
+      "id": 4369894,
+      "name": "Somerset",
+      "nativeName": "Somerset County",
+      "code": "US-MD-4369894",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-MD",
+      "latitude": 38.08007,
+      "longitude": -75.85347
+    },
+    {
+      "id": 4370904,
+      "name": "Talbot",
+      "nativeName": "Talbot County",
+      "code": "US-MD-4370904",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-MD",
+      "latitude": 38.7491,
+      "longitude": -76.17862
+    },
+    {
+      "id": 4372777,
+      "name": "Washington",
+      "nativeName": "Washington County",
+      "code": "US-MD-4372777",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-MD",
+      "latitude": 39.60367,
+      "longitude": -77.81398
+    },
+    {
+      "id": 4373554,
+      "name": "Wicomico",
+      "nativeName": "Wicomico County",
+      "code": "US-MD-4373554",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-MD",
+      "latitude": 38.36942,
+      "longitude": -75.63151
+    },
+    {
+      "id": 4374180,
+      "name": "Worcester",
+      "nativeName": "Worcester County",
+      "code": "US-MD-4374180",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-MD",
+      "latitude": 38.2165,
+      "longitude": -75.29667
+    }
+  ]
+}

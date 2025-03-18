@@ -1,0 +1,216 @@
+{
+  "stateId": 738647,
+  "stateCode": "TR-61",
+  "countryCode": "TR",
+  "cities": [
+    {
+      "id": 9550057,
+      "name": "Akçaabat",
+      "nativeName": "Akçaabat",
+      "code": "TR-61-9550057",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-61",
+      "latitude": 41.0197,
+      "longitude": 39.56293
+    },
+    {
+      "id": 7910998,
+      "name": "Araklı",
+      "nativeName": "Araklı",
+      "code": "TR-61-7910998",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-61",
+      "latitude": 40.74,
+      "longitude": 39.96
+    },
+    {
+      "id": 7732993,
+      "name": "Arsin",
+      "nativeName": "Arsin",
+      "code": "TR-61-7732993",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-61",
+      "latitude": 40.86743,
+      "longitude": 39.92938
+    },
+    {
+      "id": 9549892,
+      "name": "Beşikdüzü",
+      "nativeName": "Beşikdüzü",
+      "code": "TR-61-9549892",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-61",
+      "latitude": 41.0511,
+      "longitude": 39.229
+    },
+    {
+      "id": 8631459,
+      "name": "Dernekpazarı İlçesi",
+      "nativeName": "Dernekpazarı İlçesi",
+      "code": "TR-61-8631459",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-61",
+      "latitude": 40.79913,
+      "longitude": 40.24725
+    },
+    {
+      "id": 8631465,
+      "name": "Düzköy İlçesi",
+      "nativeName": "Düzköy İlçesi",
+      "code": "TR-61-8631465",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-61",
+      "latitude": 40.87241,
+      "longitude": 39.42587
+    },
+    {
+      "id": 8631457,
+      "name": "Hayrat İlçesi",
+      "nativeName": "Hayrat İlçesi",
+      "code": "TR-61-8631457",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-61",
+      "latitude": 40.89137,
+      "longitude": 40.3676
+    },
+    {
+      "id": 8631460,
+      "name": "Köprübaşı İlçesi",
+      "nativeName": "Köprübaşı İlçesi",
+      "code": "TR-61-8631460",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-61",
+      "latitude": 40.80845,
+      "longitude": 40.1228
+    },
+    {
+      "id": 7911030,
+      "name": "Maçka",
+      "nativeName": "Maçka",
+      "code": "TR-61-7911030",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-61",
+      "latitude": 40.72127,
+      "longitude": 39.59786
+    },
+    {
+      "id": 7732996,
+      "name": "Merkez",
+      "nativeName": "Merkez",
+      "code": "TR-61-7732996",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-61",
+      "latitude": 40.93874,
+      "longitude": 39.73554
+    },
+    {
+      "id": 8631458,
+      "name": "Of İlçesi",
+      "nativeName": "Of İlçesi",
+      "code": "TR-61-8631458",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-61",
+      "latitude": 40.94694,
+      "longitude": 40.26938
+    },
+    {
+      "id": 9549891,
+      "name": "Ortahisar",
+      "nativeName": "Ortahisar",
+      "code": "TR-61-9549891",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-61",
+      "latitude": 40.988,
+      "longitude": 39.713
+    },
+    {
+      "id": 8631461,
+      "name": "Sürmene İlçesi",
+      "nativeName": "Sürmene İlçesi",
+      "code": "TR-61-8631461",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-61",
+      "latitude": 40.91102,
+      "longitude": 40.12009
+    },
+    {
+      "id": 8631464,
+      "name": "Tonya İlçesi",
+      "nativeName": "Tonya İlçesi",
+      "code": "TR-61-8631464",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-61",
+      "latitude": 40.88523,
+      "longitude": 39.28992
+    },
+    {
+      "id": 7732997,
+      "name": "Vakfıkebir",
+      "nativeName": "Vakfıkebir",
+      "code": "TR-61-7732997",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-61",
+      "latitude": 40.99562,
+      "longitude": 39.32627
+    },
+    {
+      "id": 8631466,
+      "name": "Yomra İlçesi",
+      "nativeName": "Yomra İlçesi",
+      "code": "TR-61-8631466",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-61",
+      "latitude": 40.9549,
+      "longitude": 39.86567
+    },
+    {
+      "id": 7732995,
+      "name": "Çarşıbaşı",
+      "nativeName": "Çarşıbaşı",
+      "code": "TR-61-7732995",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-61",
+      "latitude": 41.04203,
+      "longitude": 39.40035
+    },
+    {
+      "id": 8631456,
+      "name": "Çaykara İlçesi",
+      "nativeName": "Çaykara İlçesi",
+      "code": "TR-61-8631456",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-61",
+      "latitude": 40.74564,
+      "longitude": 40.24191
+    },
+    {
+      "id": 8631463,
+      "name": "Şalpazarı İlçesi",
+      "nativeName": "Şalpazarı İlçesi",
+      "code": "TR-61-8631463",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-61",
+      "latitude": 40.94614,
+      "longitude": 39.17804
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "stateId": 4038068,
+  "stateCode": "PW-227",
+  "countryCode": "PW",
+  "cities": [
+    {
+      "id": 1559864,
+      "name": "Imeong Hamlet",
+      "nativeName": "Imeong Hamlet",
+      "code": "PW-227-1559864",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-227",
+      "latitude": 7.53134,
+      "longitude": 134.52713
+    },
+    {
+      "id": 1559673,
+      "name": "Ngermetengel Hamlet",
+      "nativeName": "Ngermetengel Hamlet",
+      "code": "PW-227-1559673",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-227",
+      "latitude": 7.52253,
+      "longitude": 134.50268
+    }
+  ]
+}

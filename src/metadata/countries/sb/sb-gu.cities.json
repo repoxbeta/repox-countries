@@ -1,0 +1,249 @@
+{
+  "stateId": 2108831,
+  "stateCode": "SB-GU",
+  "countryCode": "SB",
+  "cities": [
+    {
+      "id": 12041907,
+      "name": "Aola",
+      "nativeName": "Aola",
+      "code": "SB-GU-12041907",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-GU",
+      "latitude": -9.52456,
+      "longitude": 160.43522
+    },
+    {
+      "id": 12041910,
+      "name": "Avuavu",
+      "nativeName": "Avuavu",
+      "code": "SB-GU-12041910",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-GU",
+      "latitude": -9.79364,
+      "longitude": 160.39881
+    },
+    {
+      "id": 12041888,
+      "name": "Birao",
+      "nativeName": "Birao",
+      "code": "SB-GU-12041888",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-GU",
+      "latitude": -9.81168,
+      "longitude": 160.74191
+    },
+    {
+      "id": 12041905,
+      "name": "Duidui",
+      "nativeName": "Duidui",
+      "code": "SB-GU-12041905",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-GU",
+      "latitude": -9.73564,
+      "longitude": 159.95367
+    },
+    {
+      "id": 12041809,
+      "name": "East Ghaobata",
+      "nativeName": "East Ghaobata",
+      "code": "SB-GU-12041809",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-GU",
+      "latitude": -9.47692,
+      "longitude": 160.20208
+    },
+    {
+      "id": 12041914,
+      "name": "East Tasimboko",
+      "nativeName": "East Tasimboko",
+      "code": "SB-GU-12041914",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-GU",
+      "latitude": -9.48823,
+      "longitude": 160.28597
+    },
+    {
+      "id": 12041904,
+      "name": "Kolokarako",
+      "nativeName": "Kolokarako",
+      "code": "SB-GU-12041904",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-GU",
+      "latitude": -9.64119,
+      "longitude": 160.40581
+    },
+    {
+      "id": 12041913,
+      "name": "Longgu",
+      "nativeName": "Longgu",
+      "code": "SB-GU-12041913",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-GU",
+      "latitude": -9.6364,
+      "longitude": 160.6214
+    },
+    {
+      "id": 12041766,
+      "name": "Malango",
+      "nativeName": "Malango",
+      "code": "SB-GU-12041766",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-GU",
+      "latitude": -9.55598,
+      "longitude": 159.9985
+    },
+    {
+      "id": 12041911,
+      "name": "Moli",
+      "nativeName": "Moli",
+      "code": "SB-GU-12041911",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-GU",
+      "latitude": -9.8703,
+      "longitude": 160.49516
+    },
+    {
+      "id": 12041806,
+      "name": "Paripao",
+      "nativeName": "Paripao",
+      "code": "SB-GU-12041806",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-GU",
+      "latitude": -9.57256,
+      "longitude": 160.32545
+    },
+    {
+      "id": 12041900,
+      "name": "Saghalu",
+      "nativeName": "Saghalu",
+      "code": "SB-GU-12041900",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-GU",
+      "latitude": -9.3276,
+      "longitude": 159.72899
+    },
+    {
+      "id": 12041901,
+      "name": "Savulei",
+      "nativeName": "Savulei",
+      "code": "SB-GU-12041901",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-GU",
+      "latitude": -9.37747,
+      "longitude": 159.6426
+    },
+    {
+      "id": 12041909,
+      "name": "Talise",
+      "nativeName": "Talise",
+      "code": "SB-GU-12041909",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-GU",
+      "latitude": -9.76406,
+      "longitude": 160.21997
+    },
+    {
+      "id": 12041801,
+      "name": "Tandai",
+      "nativeName": "Tandai",
+      "code": "SB-GU-12041801",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-GU",
+      "latitude": -9.45238,
+      "longitude": 159.82692
+    },
+    {
+      "id": 12041804,
+      "name": "Tangarare",
+      "nativeName": "Tangarare",
+      "code": "SB-GU-12041804",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-GU",
+      "latitude": -9.56939,
+      "longitude": 159.72981
+    },
+    {
+      "id": 12041912,
+      "name": "Tetekanji",
+      "nativeName": "Tetekanji",
+      "code": "SB-GU-12041912",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-GU",
+      "latitude": -9.82895,
+      "longitude": 160.60166
+    },
+    {
+      "id": 12041903,
+      "name": "Valasi",
+      "nativeName": "Valasi",
+      "code": "SB-GU-12041903",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-GU",
+      "latitude": -9.67687,
+      "longitude": 160.54929
+    },
+    {
+      "id": 12041886,
+      "name": "Vatukulau",
+      "nativeName": "Vatukulau",
+      "code": "SB-GU-12041886",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-GU",
+      "latitude": -9.76498,
+      "longitude": 160.10188
+    },
+    {
+      "id": 12041876,
+      "name": "Vulolo",
+      "nativeName": "Vulolo",
+      "code": "SB-GU-12041876",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-GU",
+      "latitude": -9.61781,
+      "longitude": 160.18297
+    },
+    {
+      "id": 12041902,
+      "name": "Wanderer Bay",
+      "nativeName": "Wanderer Bay",
+      "code": "SB-GU-12041902",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-GU",
+      "latitude": -9.70761,
+      "longitude": 159.78715
+    },
+    {
+      "id": 12041915,
+      "name": "West Ghaobata",
+      "nativeName": "West Ghaobata",
+      "code": "SB-GU-12041915",
+      "countryId": 2103350,
+      "countryCode": "SB",
+      "stateCode": "SB-GU",
+      "latitude": -9.46018,
+      "longitude": 160.14425
+    }
+  ]
+}

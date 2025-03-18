@@ -1,0 +1,117 @@
+{
+  "stateId": 2491188,
+  "stateCode": "DZ-03",
+  "countryCode": "DZ",
+  "cities": [
+    {
+      "id": 12952706,
+      "name": "Ain Madhi",
+      "nativeName": "Ain Madhi",
+      "code": "DZ-03-12952706",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-03",
+      "latitude": 33.44566,
+      "longitude": 2.45748
+    },
+    {
+      "id": 12952664,
+      "name": "Brida",
+      "nativeName": "Brida",
+      "code": "DZ-03-12952664",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-03",
+      "latitude": 33.9802,
+      "longitude": 1.65275
+    },
+    {
+      "id": 2491189,
+      "name": "Daïra de Laghouat",
+      "nativeName": "Daïra de Laghouat",
+      "code": "DZ-03-2491189",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-03",
+      "latitude": 33.83758,
+      "longitude": 2.8768
+    },
+    {
+      "id": 2508735,
+      "name": "Daïra d’Aflou",
+      "nativeName": "Daïra d’Aflou",
+      "code": "DZ-03-2508735",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-03",
+      "latitude": 34,
+      "longitude": 2
+    },
+    {
+      "id": 12952447,
+      "name": "El Ghicha",
+      "nativeName": "El Ghicha",
+      "code": "DZ-03-12952447",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-03",
+      "latitude": 33.87365,
+      "longitude": 2.10409
+    },
+    {
+      "id": 12952707,
+      "name": "Gueltat Sidi Saad",
+      "nativeName": "Gueltat Sidi Saad",
+      "code": "DZ-03-12952707",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-03",
+      "latitude": 34.34038,
+      "longitude": 1.89682
+    },
+    {
+      "id": 12952708,
+      "name": "Hassi R'mel",
+      "nativeName": "Hassi R'mel",
+      "code": "DZ-03-12952708",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-03",
+      "latitude": 33.25155,
+      "longitude": 3.53641
+    },
+    {
+      "id": 12952622,
+      "name": "Ksar El Hirane",
+      "nativeName": "Ksar El Hirane",
+      "code": "DZ-03-12952622",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-03",
+      "latitude": 33.59017,
+      "longitude": 3.12567
+    },
+    {
+      "id": 12952698,
+      "name": "Oued Morra",
+      "nativeName": "Oued Morra",
+      "code": "DZ-03-12952698",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-03",
+      "latitude": 34.09777,
+      "longitude": 2.3333
+    },
+    {
+      "id": 12952709,
+      "name": "Sidi Makhlouf",
+      "nativeName": "Sidi Makhlouf",
+      "code": "DZ-03-12952709",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-03",
+      "latitude": 34.04289,
+      "longitude": 2.89917
+    }
+  ]
+}

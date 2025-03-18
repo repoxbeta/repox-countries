@@ -1,0 +1,51 @@
+{
+  "stateId": 2597449,
+  "stateCode": "ML-8",
+  "countryCode": "ML",
+  "cities": [
+    {
+      "id": 8631541,
+      "name": "Abeïbara Cercle",
+      "nativeName": "Cercle d’ Abeïbara",
+      "code": "ML-8-8631541",
+      "countryId": 2453866,
+      "countryCode": "ML",
+      "stateCode": "ML-8",
+      "latitude": 19.48878,
+      "longitude": 2.20025
+    },
+    {
+      "id": 7701465,
+      "name": "Kidal Cercle",
+      "nativeName": "Kidal",
+      "code": "ML-8-7701465",
+      "countryId": 2453866,
+      "countryCode": "ML",
+      "stateCode": "ML-8",
+      "latitude": 18.44389,
+      "longitude": 1.3354
+    },
+    {
+      "id": 8631542,
+      "name": "Tessalit Cercle",
+      "nativeName": "Cercle de Tessalit",
+      "code": "ML-8-8631542",
+      "countryId": 2453866,
+      "countryCode": "ML",
+      "stateCode": "ML-8",
+      "latitude": 20.09648,
+      "longitude": 0.0667
+    },
+    {
+      "id": 8631540,
+      "name": "Tin-Essako Cercle",
+      "nativeName": "Ti-n-Essako",
+      "code": "ML-8-8631540",
+      "countryId": 2453866,
+      "countryCode": "ML",
+      "stateCode": "ML-8",
+      "latitude": 18.45834,
+      "longitude": 3.10519
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "countryId": 2410758,
+  "countryCode": "ST",
+  "states": [
+    {
+      "id": 2410878,
+      "name": "Príncipe",
+      "nativeName": "Príncipe",
+      "code": "ST-P",
+      "internalCode": "P",
+      "countryId": 2410758,
+      "countryCode": "ST",
+      "latitude": 1.62198,
+      "longitude": 7.39886
+    },
+    {
+      "id": 2410764,
+      "name": "São Tomé Island",
+      "nativeName": "São Tomé",
+      "code": "ST-02",
+      "internalCode": "",
+      "countryId": 2410758,
+      "countryCode": "ST",
+      "latitude": 0.25,
+      "longitude": 6.6
+    }
+  ]
+}

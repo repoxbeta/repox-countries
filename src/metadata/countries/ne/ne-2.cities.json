@@ -1,0 +1,73 @@
+{
+  "stateId": 2445702,
+  "stateCode": "NE-2",
+  "countryCode": "NE",
+  "cities": [
+    {
+      "id": 11996019,
+      "name": "Bosso",
+      "nativeName": "Bosso",
+      "code": "NE-2-11996019",
+      "countryId": 2440476,
+      "countryCode": "NE",
+      "stateCode": "NE-2",
+      "latitude": 13.73711,
+      "longitude": 13.28375
+    },
+    {
+      "id": 2445703,
+      "name": "Diffa",
+      "nativeName": "Département de Diffa",
+      "code": "NE-2-2445703",
+      "countryId": 2440476,
+      "countryCode": "NE",
+      "stateCode": "NE-2",
+      "latitude": 13.66667,
+      "longitude": 12.5
+    },
+    {
+      "id": 11996010,
+      "name": "Goudoumaria",
+      "nativeName": "Goudoumaria",
+      "code": "NE-2-11996010",
+      "countryId": 2440476,
+      "countryCode": "NE",
+      "stateCode": "NE-2",
+      "latitude": 13.74631,
+      "longitude": 11.24735
+    },
+    {
+      "id": 2441446,
+      "name": "Maïné Soroa",
+      "nativeName": "Département de Maïné-Soroa",
+      "code": "NE-2-2441446",
+      "countryId": 2440476,
+      "countryCode": "NE",
+      "stateCode": "NE-2",
+      "latitude": 13.31206,
+      "longitude": 12.08321
+    },
+    {
+      "id": 11996024,
+      "name": "N'Gourti",
+      "nativeName": "N'Gourti",
+      "code": "NE-2-11996024",
+      "countryId": 2440476,
+      "countryCode": "NE",
+      "stateCode": "NE-2",
+      "latitude": 16.43998,
+      "longitude": 13.49918
+    },
+    {
+      "id": 2440494,
+      "name": "N'Guigmi",
+      "nativeName": "Département de Nguigmi",
+      "code": "NE-2-2440494",
+      "countryId": 2440476,
+      "countryCode": "NE",
+      "stateCode": "NE-2",
+      "latitude": 14.20753,
+      "longitude": 13.12177
+    }
+  ]
+}

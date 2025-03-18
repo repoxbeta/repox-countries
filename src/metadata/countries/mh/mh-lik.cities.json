@@ -1,0 +1,40 @@
+{
+  "stateId": 7303504,
+  "stateCode": "MH-LIK",
+  "countryCode": "MH",
+  "cities": [
+    {
+      "id": 2080115,
+      "name": "Likiep",
+      "nativeName": "Likiep",
+      "code": "MH-LIK-2080115",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-LIK",
+      "latitude": 9.82511,
+      "longitude": 169.31065
+    },
+    {
+      "id": 4040079,
+      "name": "Jebal",
+      "nativeName": "Jebal",
+      "code": "MH-LIK-4040079",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-LIK",
+      "latitude": 9.88997,
+      "longitude": 169.27241
+    },
+    {
+      "id": 4040199,
+      "name": "Melang",
+      "nativeName": "Melang",
+      "code": "MH-LIK-4040199",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-LIK",
+      "latitude": 9.89631,
+      "longitude": 169.26009
+    }
+  ]
+}

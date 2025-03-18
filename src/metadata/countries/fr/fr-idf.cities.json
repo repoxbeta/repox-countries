@@ -1,0 +1,95 @@
+{
+  "stateId": 3012874,
+  "stateCode": "FR-IDF",
+  "countryCode": "FR",
+  "cities": [
+    {
+      "id": 3019599,
+      "name": "Essonne",
+      "nativeName": "Essonne",
+      "code": "FR-IDF-3019599",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-IDF",
+      "latitude": 48.5,
+      "longitude": 2.25
+    },
+    {
+      "id": 3013657,
+      "name": "Hauts-de-Seine",
+      "nativeName": "Hauts-de-Seine",
+      "code": "FR-IDF-3013657",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-IDF",
+      "latitude": 48.85,
+      "longitude": 2.19293
+    },
+    {
+      "id": 2968815,
+      "name": "Paris",
+      "nativeName": "Paris",
+      "code": "FR-IDF-2968815",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-IDF",
+      "latitude": 48.8534,
+      "longitude": 2.3486
+    },
+    {
+      "id": 2975246,
+      "name": "Seine-Saint-Denis",
+      "nativeName": "Seine-Saint-Denis",
+      "code": "FR-IDF-2975246",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-IDF",
+      "latitude": 48.91421,
+      "longitude": 2.47604
+    },
+    {
+      "id": 2975249,
+      "name": "Seine-et-Marne",
+      "nativeName": "Seine-et-Marne",
+      "code": "FR-IDF-2975249",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-IDF",
+      "latitude": 48.64599,
+      "longitude": 2.95905
+    },
+    {
+      "id": 2971071,
+      "name": "Val d'Oise",
+      "nativeName": "Val d'Oise",
+      "code": "FR-IDF-2971071",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-IDF",
+      "latitude": 49.07891,
+      "longitude": 2.17673
+    },
+    {
+      "id": 2971090,
+      "name": "Val-de-Marne",
+      "nativeName": "Val-de-Marne",
+      "code": "FR-IDF-2971090",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-IDF",
+      "latitude": 48.78149,
+      "longitude": 2.49331
+    },
+    {
+      "id": 2967196,
+      "name": "Yvelines",
+      "nativeName": "Yvelines",
+      "code": "FR-IDF-2967196",
+      "countryId": 3017382,
+      "countryCode": "FR",
+      "stateCode": "FR-IDF",
+      "latitude": 48.80546,
+      "longitude": 1.85696
+    }
+  ]
+}

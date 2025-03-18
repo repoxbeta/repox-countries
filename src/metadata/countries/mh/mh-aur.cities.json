@@ -1,0 +1,51 @@
+{
+  "stateId": 7303495,
+  "stateCode": "MH-AUR",
+  "countryCode": "MH",
+  "cities": [
+    {
+      "id": 7306513,
+      "name": "Aur",
+      "nativeName": "Aur",
+      "code": "MH-AUR-7306513",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-AUR",
+      "latitude": 8.1499,
+      "longitude": 171.16869
+    },
+    {
+      "id": 7303892,
+      "name": "Aur",
+      "nativeName": "Aur",
+      "code": "MH-AUR-7303892",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-AUR",
+      "latitude": 8.14897,
+      "longitude": 171.1699
+    },
+    {
+      "id": 2080871,
+      "name": "Bigen",
+      "nativeName": "Bigen",
+      "code": "MH-AUR-2080871",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-AUR",
+      "latitude": 8.35894,
+      "longitude": 171.04465
+    },
+    {
+      "id": 2080879,
+      "name": "Tabal",
+      "nativeName": "Tabal",
+      "code": "MH-AUR-2080879",
+      "countryId": 2080185,
+      "countryCode": "MH",
+      "stateCode": "MH-AUR",
+      "latitude": 8.3062,
+      "longitude": 171.15811
+    }
+  ]
+}

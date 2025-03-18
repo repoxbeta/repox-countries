@@ -1,0 +1,106 @@
+{
+  "stateId": 2395524,
+  "stateCode": "BJ-AK",
+  "countryCode": "BJ",
+  "cities": [
+    {
+      "id": 10344467,
+      "name": "Boukombe",
+      "nativeName": "Boukoumbé",
+      "code": "BJ-AK-10344467",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-AK",
+      "latitude": 10.18333,
+      "longitude": 1.1
+    },
+    {
+      "id": 7668918,
+      "name": "Kerou",
+      "nativeName": "Kerou",
+      "code": "BJ-AK-7668918",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-AK",
+      "latitude": 10.91433,
+      "longitude": 1.99153
+    },
+    {
+      "id": 10344466,
+      "name": "Kobli",
+      "nativeName": "Cobly",
+      "code": "BJ-AK-10344466",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-AK",
+      "latitude": 10.49222,
+      "longitude": 0.99972
+    },
+    {
+      "id": 7668910,
+      "name": "Kouande",
+      "nativeName": "Kouande",
+      "code": "BJ-AK-7668910",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-AK",
+      "latitude": 10.42486,
+      "longitude": 1.71466
+    },
+    {
+      "id": 7874158,
+      "name": "Materi",
+      "nativeName": "Materi",
+      "code": "BJ-AK-7874158",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-AK",
+      "latitude": 10.7986,
+      "longitude": 1.02756
+    },
+    {
+      "id": 7669273,
+      "name": "Natitingou",
+      "nativeName": "Natitingou",
+      "code": "BJ-AK-7669273",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-AK",
+      "latitude": 10.25746,
+      "longitude": 1.41397
+    },
+    {
+      "id": 7668916,
+      "name": "Pehunco",
+      "nativeName": "Pehonko",
+      "code": "BJ-AK-7668916",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-AK",
+      "latitude": 10.27069,
+      "longitude": 2.03744
+    },
+    {
+      "id": 7874156,
+      "name": "Tanguieta",
+      "nativeName": "Tanguieta",
+      "code": "BJ-AK-7874156",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-AK",
+      "latitude": 11.03621,
+      "longitude": 1.41757
+    },
+    {
+      "id": 7874157,
+      "name": "Toucountouna",
+      "nativeName": "Toucountouna",
+      "code": "BJ-AK-7874157",
+      "countryId": 2395170,
+      "countryCode": "BJ",
+      "stateCode": "BJ-AK",
+      "latitude": 10.51424,
+      "longitude": 1.45527
+    }
+  ]
+}

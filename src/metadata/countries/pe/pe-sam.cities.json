@@ -1,0 +1,117 @@
+{
+  "stateId": 3692385,
+  "stateCode": "PE-SAM",
+  "countryCode": "PE",
+  "cities": [
+    {
+      "id": 8349574,
+      "name": "Bellavista",
+      "nativeName": "Bellavista",
+      "code": "PE-SAM-8349574",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-SAM",
+      "latitude": -7.63825,
+      "longitude": -76.31932
+    },
+    {
+      "id": 8349575,
+      "name": "El Dorado Province",
+      "nativeName": "El Dorado",
+      "code": "PE-SAM-8349575",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-SAM",
+      "latitude": -6.56298,
+      "longitude": -76.7413
+    },
+    {
+      "id": 3696534,
+      "name": "Huallaga Province",
+      "nativeName": "Provincia de Huallaga",
+      "code": "PE-SAM-3696534",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-SAM",
+      "latitude": -6.75664,
+      "longitude": -76.90143
+    },
+    {
+      "id": 3695756,
+      "name": "Lamas Province",
+      "nativeName": "Provincia de Lamas",
+      "code": "PE-SAM-3695756",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-SAM",
+      "latitude": -6.2206,
+      "longitude": -76.45822
+    },
+    {
+      "id": 3694924,
+      "name": "Mariscal Cáceres Province",
+      "nativeName": "Provincia de Mariscal Cáceres",
+      "code": "PE-SAM-3694924",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-SAM",
+      "latitude": -7.2739,
+      "longitude": -77.18216
+    },
+    {
+      "id": 3694563,
+      "name": "Moyobamba Province",
+      "nativeName": "Provincia de Moyobamba",
+      "code": "PE-SAM-3694563",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-SAM",
+      "latitude": -5.90527,
+      "longitude": -76.99051
+    },
+    {
+      "id": 8349576,
+      "name": "Picota",
+      "nativeName": "Picota",
+      "code": "PE-SAM-8349576",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-SAM",
+      "latitude": -6.90221,
+      "longitude": -76.25573
+    },
+    {
+      "id": 3692862,
+      "name": "Rioja Province",
+      "nativeName": "Provincia de Rioja",
+      "code": "PE-SAM-3692862",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-SAM",
+      "latitude": -5.87344,
+      "longitude": -77.46771
+    },
+    {
+      "id": 3692383,
+      "name": "San Martín Province",
+      "nativeName": "Provincia de San Martín",
+      "code": "PE-SAM-3692383",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-SAM",
+      "latitude": -6.59184,
+      "longitude": -75.77956
+    },
+    {
+      "id": 8349577,
+      "name": "Tocache",
+      "nativeName": "Tocache",
+      "code": "PE-SAM-8349577",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "stateCode": "PE-SAM",
+      "latitude": -8.2493,
+      "longitude": -76.63451
+    }
+  ]
+}

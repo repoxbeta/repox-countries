@@ -1,0 +1,51 @@
+{
+  "stateId": 3345302,
+  "stateCode": "SM-07",
+  "countryCode": "SM",
+  "cities": [
+    {
+      "id": 3168070,
+      "name": "San Marino",
+      "nativeName": "San Marino",
+      "code": "SM-07-3168070",
+      "countryId": 3168068,
+      "countryCode": "SM",
+      "stateCode": "SM-07",
+      "latitude": 43.93667,
+      "longitude": 12.44639
+    },
+    {
+      "id": 8199072,
+      "name": "Casole",
+      "nativeName": "Casole",
+      "code": "SM-07-8199072",
+      "countryId": 3168068,
+      "countryCode": "SM",
+      "stateCode": "SM-07",
+      "latitude": 43.91697,
+      "longitude": 12.44442
+    },
+    {
+      "id": 7302190,
+      "name": "Murata",
+      "nativeName": "Murata",
+      "code": "SM-07-7302190",
+      "countryId": 3168068,
+      "countryCode": "SM",
+      "stateCode": "SM-07",
+      "latitude": 43.92015,
+      "longitude": 12.45146
+    },
+    {
+      "id": 8199069,
+      "name": "Santa Mustiola",
+      "nativeName": "Santa Mustiola",
+      "code": "SM-07-8199069",
+      "countryId": 3168068,
+      "countryCode": "SM",
+      "stateCode": "SM-07",
+      "latitude": 43.93388,
+      "longitude": 12.43858
+    }
+  ]
+}

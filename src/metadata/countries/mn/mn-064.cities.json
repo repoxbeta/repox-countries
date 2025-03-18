@@ -1,0 +1,40 @@
+{
+  "stateId": 2055112,
+  "stateCode": "MN-064",
+  "countryCode": "MN",
+  "cities": [
+    {
+      "id": 6988010,
+      "name": "Bayantal District",
+      "nativeName": "Bayantal Sum",
+      "code": "MN-064-6988010",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-064",
+      "latitude": 46.68018,
+      "longitude": 108.30909
+    },
+    {
+      "id": 6988011,
+      "name": "Shiveegovi District",
+      "nativeName": "Shiveegovi Sum",
+      "code": "MN-064-6988011",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-064",
+      "latitude": 46.06025,
+      "longitude": 108.51316
+    },
+    {
+      "id": 6988012,
+      "name": "Sümber Sum",
+      "nativeName": "Sümber Sum",
+      "code": "MN-064-6988012",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-064",
+      "latitude": 46.50918,
+      "longitude": 108.61952
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "stateId": 3575164,
+  "stateCode": "KN-13",
+  "countryCode": "KN",
+  "cities": [
+    {
+      "id": 3575292,
+      "name": "Middle Island",
+      "nativeName": "Middle Island",
+      "code": "KN-13-3575292",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-13",
+      "latitude": 17.3259,
+      "longitude": -62.81055
+    },
+    {
+      "id": 3575384,
+      "name": "Half Way Tree",
+      "nativeName": "Half Way Tree",
+      "code": "KN-13-3575384",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-13",
+      "latitude": 17.33294,
+      "longitude": -62.82472
+    },
+    {
+      "id": 3575240,
+      "name": "Old Road Town",
+      "nativeName": "Old Road Town",
+      "code": "KN-13-3575240",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-13",
+      "latitude": 17.32215,
+      "longitude": -62.80337
+    },
+    {
+      "id": 3575191,
+      "name": "Romneys",
+      "nativeName": "Romneys",
+      "code": "KN-13-3575191",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-13",
+      "latitude": 17.33333,
+      "longitude": -62.78333
+    },
+    {
+      "id": 3575081,
+      "name": "Wingfield Manor",
+      "nativeName": "Wingfield Manor",
+      "code": "KN-13-3575081",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-13",
+      "latitude": 17.33333,
+      "longitude": -62.78333
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "stateId": 1733048,
+  "stateCode": "MY-02",
+  "countryCode": "MY",
+  "cities": [
+    {
+      "id": 1734449,
+      "name": "Baling",
+      "nativeName": "Baling",
+      "code": "MY-02-1734449",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-02",
+      "latitude": 5.56578,
+      "longitude": 100.72918
+    },
+    {
+      "id": 1734406,
+      "name": "Bandar Baharu",
+      "nativeName": "Bandar Baharu",
+      "code": "MY-02-1734406",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-02",
+      "latitude": 5.23007,
+      "longitude": 100.6068
+    },
+    {
+      "id": 1736342,
+      "name": "Daerah Kota Setar",
+      "nativeName": "Daerah Kota Setar",
+      "code": "MY-02-1736342",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-02",
+      "latitude": 6.09761,
+      "longitude": 100.36321
+    },
+    {
+      "id": 6805171,
+      "name": "Kuala Muda",
+      "nativeName": "Kuala Muda",
+      "code": "MY-02-6805171",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-02",
+      "latitude": 5.71037,
+      "longitude": 100.37928
+    },
+    {
+      "id": 1736296,
+      "name": "Kubang Pasu",
+      "nativeName": "Kubang Pasu",
+      "code": "MY-02-1736296",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-02",
+      "latitude": 6.40508,
+      "longitude": 100.43982
+    },
+    {
+      "id": 1734392,
+      "name": "Kulim",
+      "nativeName": "Kulim",
+      "code": "MY-02-1734392",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-02",
+      "latitude": 5.32403,
+      "longitude": 100.60851
+    },
+    {
+      "id": 1222381,
+      "name": "Langkawi",
+      "nativeName": "Langkawi",
+      "code": "MY-02-1222381",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-02",
+      "latitude": 6.35608,
+      "longitude": 99.78375
+    },
+    {
+      "id": 1736333,
+      "name": "Padang Terap",
+      "nativeName": "Padang Terap",
+      "code": "MY-02-1736333",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-02",
+      "latitude": 6.24734,
+      "longitude": 100.77145
+    },
+    {
+      "id": 1736341,
+      "name": "Pendang",
+      "nativeName": "Pendang",
+      "code": "MY-02-1736341",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-02",
+      "latitude": 5.98458,
+      "longitude": 100.60732
+    },
+    {
+      "id": 12231272,
+      "name": "Pokok Sena",
+      "nativeName": "Pokok Sena",
+      "code": "MY-02-12231272",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-02",
+      "latitude": 6.15986,
+      "longitude": 100.50837
+    },
+    {
+      "id": 6805123,
+      "name": "Sik",
+      "nativeName": "Sik",
+      "code": "MY-02-6805123",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-02",
+      "latitude": 5.83887,
+      "longitude": 100.79781
+    },
+    {
+      "id": 1735487,
+      "name": "Yan",
+      "nativeName": "Yan",
+      "code": "MY-02-1735487",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-02",
+      "latitude": 5.7905,
+      "longitude": 100.39426
+    }
+  ]
+}

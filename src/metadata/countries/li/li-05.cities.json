@@ -1,0 +1,40 @@
+{
+  "stateId": 3042050,
+  "stateCode": "LI-05",
+  "countryCode": "LI",
+  "cities": [
+    {
+      "id": 3042049,
+      "name": "Planken",
+      "nativeName": "Planken",
+      "code": "LI-05-3042049",
+      "countryId": 3042058,
+      "countryCode": "LI",
+      "stateCode": "LI-05",
+      "latitude": 47.18516,
+      "longitude": 9.54437
+    },
+    {
+      "id": 10352414,
+      "name": "Ober Ställ",
+      "nativeName": "Ober Ställ",
+      "code": "LI-05-10352414",
+      "countryId": 3042058,
+      "countryCode": "LI",
+      "stateCode": "LI-05",
+      "latitude": 47.177,
+      "longitude": 9.54612
+    },
+    {
+      "id": 10352413,
+      "name": "Oberplanken",
+      "nativeName": "Oberplanken",
+      "code": "LI-05-10352413",
+      "countryId": 3042058,
+      "countryCode": "LI",
+      "stateCode": "LI-05",
+      "latitude": 47.17811,
+      "longitude": 9.54585
+    }
+  ]
+}

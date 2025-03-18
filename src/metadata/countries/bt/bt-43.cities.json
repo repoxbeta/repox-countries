@@ -1,0 +1,40 @@
+{
+  "stateId": 1337287,
+  "stateCode": "BT-43",
+  "countryCode": "BT",
+  "cities": [
+    {
+      "id": 7646635,
+      "name": "Chongshing",
+      "nativeName": "Chongshing",
+      "code": "BT-43-7646635",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-43",
+      "latitude": 27.00063,
+      "longitude": 91.35817
+    },
+    {
+      "id": 7646634,
+      "name": "Khar",
+      "nativeName": "Khar",
+      "code": "BT-43-7646634",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-43",
+      "latitude": 26.94093,
+      "longitude": 91.39005
+    },
+    {
+      "id": 7646636,
+      "name": "Yurung",
+      "nativeName": "Yurung",
+      "code": "BT-43-7646636",
+      "countryId": 1252634,
+      "countryCode": "BT",
+      "stateCode": "BT-43",
+      "latitude": 27.0437,
+      "longitude": 91.34465
+    }
+  ]
+}

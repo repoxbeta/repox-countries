@@ -1,0 +1,73 @@
+{
+  "stateId": 443793,
+  "stateCode": "IR-26",
+  "countryCode": "IR",
+  "cities": [
+    {
+      "id": 11963561,
+      "name": "Alborz",
+      "nativeName": "Alborz",
+      "code": "IR-26-11963561",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-26",
+      "latitude": 36.18861,
+      "longitude": 50.07829
+    },
+    {
+      "id": 11963519,
+      "name": "Avaj County",
+      "nativeName": "Avaj",
+      "code": "IR-26-11963519",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-26",
+      "latitude": 35.57685,
+      "longitude": 49.22241
+    },
+    {
+      "id": 449596,
+      "name": "Shahrestān-e Bū’īn Zahrā",
+      "nativeName": "Shahrestān-e Bū’īn Zahrā",
+      "code": "IR-26-449596",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-26",
+      "latitude": 35.79222,
+      "longitude": 49.95889
+    },
+    {
+      "id": 449598,
+      "name": "Shahrestān-e Qazvīn",
+      "nativeName": "Shahrestān-e Qazvīn",
+      "code": "IR-26-449598",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-26",
+      "latitude": 36.35,
+      "longitude": 49.92333
+    },
+    {
+      "id": 449597,
+      "name": "Shahrestān-e Tākestān",
+      "nativeName": "Shahrestān-e Tākestān",
+      "code": "IR-26-449597",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-26",
+      "latitude": 36.01111,
+      "longitude": 49.54
+    },
+    {
+      "id": 449595,
+      "name": "Ābyek",
+      "nativeName": "Ābyek",
+      "code": "IR-26-449595",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-26",
+      "latitude": 36.11778,
+      "longitude": 50.34133
+    }
+  ]
+}

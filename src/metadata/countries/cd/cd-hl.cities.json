@@ -1,0 +1,62 @@
+{
+  "stateId": 216141,
+  "stateCode": "CD-HL",
+  "countryCode": "CD",
+  "cities": [
+    {
+      "id": 12278046,
+      "name": "Bukama",
+      "nativeName": "Bukama",
+      "code": "CD-HL-12278046",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-HL",
+      "latitude": -8.84885,
+      "longitude": 26.12786
+    },
+    {
+      "id": 12278138,
+      "name": "Kabongo",
+      "nativeName": "Kabongo",
+      "code": "CD-HL-12278138",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-HL",
+      "latitude": -7.0815,
+      "longitude": 25.58964
+    },
+    {
+      "id": 12278061,
+      "name": "Kamina",
+      "nativeName": "Kamina",
+      "code": "CD-HL-12278061",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-HL",
+      "latitude": -8.77022,
+      "longitude": 24.92189
+    },
+    {
+      "id": 12278064,
+      "name": "Kaniama",
+      "nativeName": "Kaniama",
+      "code": "CD-HL-12278064",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-HL",
+      "latitude": -7.8675,
+      "longitude": 24.1546
+    },
+    {
+      "id": 12278015,
+      "name": "Malemba-Nkulu",
+      "nativeName": "Malemba-Nkulu",
+      "code": "CD-HL-12278015",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "stateCode": "CD-HL",
+      "latitude": -7.92047,
+      "longitude": 26.86826
+    }
+  ]
+}

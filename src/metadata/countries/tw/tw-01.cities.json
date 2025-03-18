@@ -1,0 +1,29 @@
+{
+  "stateId": 7280288,
+  "stateCode": "TW-01",
+  "countryCode": "TW",
+  "cities": [
+    {
+      "id": 1676511,
+      "name": "Kinmen County",
+      "nativeName": "Kinmen County",
+      "code": "TW-01-1676511",
+      "countryId": 1668284,
+      "countryCode": "TW",
+      "stateCode": "TW-01",
+      "latitude": 24.45333,
+      "longitude": 118.38861
+    },
+    {
+      "id": 6724655,
+      "name": "Lienchiang County",
+      "nativeName": "Lienchiang",
+      "code": "TW-01-6724655",
+      "countryId": 1668284,
+      "countryCode": "TW",
+      "stateCode": "TW-01",
+      "latitude": 26.37004,
+      "longitude": 120.49545
+    }
+  ]
+}

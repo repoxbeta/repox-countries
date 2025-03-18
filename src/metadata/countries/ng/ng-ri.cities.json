@@ -1,0 +1,271 @@
+{
+  "stateId": 2324433,
+  "stateCode": "NG-RI",
+  "countryCode": "NG",
+  "cities": [
+    {
+      "id": 8638118,
+      "name": "Abua/Odual",
+      "nativeName": "Abua/Odual",
+      "code": "NG-RI-8638118",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-RI",
+      "latitude": 4.82977,
+      "longitude": 6.56739
+    },
+    {
+      "id": 8638107,
+      "name": "Ahoada East",
+      "nativeName": "Ahoada East",
+      "code": "NG-RI-8638107",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-RI",
+      "latitude": 5.07027,
+      "longitude": 6.64302
+    },
+    {
+      "id": 7701495,
+      "name": "Ahoada West",
+      "nativeName": "Ahoada West",
+      "code": "NG-RI-7701495",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-RI",
+      "latitude": 5.0858,
+      "longitude": 6.47089
+    },
+    {
+      "id": 7701497,
+      "name": "Akuku Toru",
+      "nativeName": "Akuku Toru",
+      "code": "NG-RI-7701497",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-RI",
+      "latitude": 4.56152,
+      "longitude": 6.752
+    },
+    {
+      "id": 7701499,
+      "name": "Andoni",
+      "nativeName": "Andoni",
+      "code": "NG-RI-7701499",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-RI",
+      "latitude": 4.47272,
+      "longitude": 7.38264
+    },
+    {
+      "id": 8638159,
+      "name": "Asari-Toru",
+      "nativeName": "Asari-Toru",
+      "code": "NG-RI-8638159",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-RI",
+      "latitude": 4.74808,
+      "longitude": 6.83966
+    },
+    {
+      "id": 8638157,
+      "name": "Bonny",
+      "nativeName": "Bonny",
+      "code": "NG-RI-8638157",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-RI",
+      "latitude": 4.43963,
+      "longitude": 7.23287
+    },
+    {
+      "id": 8638156,
+      "name": "Degema",
+      "nativeName": "Degema",
+      "code": "NG-RI-8638156",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-RI",
+      "latitude": 4.57414,
+      "longitude": 6.93798
+    },
+    {
+      "id": 8638158,
+      "name": "Eleme",
+      "nativeName": "Eleme",
+      "code": "NG-RI-8638158",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-RI",
+      "latitude": 4.78741,
+      "longitude": 7.14369
+    },
+    {
+      "id": 8638120,
+      "name": "Emuoha",
+      "nativeName": "Emuoha",
+      "code": "NG-RI-8638120",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-RI",
+      "latitude": 5.00674,
+      "longitude": 6.74739
+    },
+    {
+      "id": 7701519,
+      "name": "Etche",
+      "nativeName": "Etche",
+      "code": "NG-RI-7701519",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-RI",
+      "latitude": 4.99083,
+      "longitude": 7.05444
+    },
+    {
+      "id": 7730086,
+      "name": "Gokana",
+      "nativeName": "Gokana",
+      "code": "NG-RI-7730086",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-RI",
+      "latitude": 4.66049,
+      "longitude": 7.28347
+    },
+    {
+      "id": 7730104,
+      "name": "Ikwerre",
+      "nativeName": "Ikwerre",
+      "code": "NG-RI-7730104",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-RI",
+      "latitude": 5.02676,
+      "longitude": 6.88406
+    },
+    {
+      "id": 7874704,
+      "name": "Khana",
+      "nativeName": "Khana",
+      "code": "NG-RI-7874704",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-RI",
+      "latitude": 4.69962,
+      "longitude": 7.42264
+    },
+    {
+      "id": 7873930,
+      "name": "Obio/Akpor",
+      "nativeName": "Obio/Akpor",
+      "code": "NG-RI-7873930",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-RI",
+      "latitude": 4.83153,
+      "longitude": 6.98906
+    },
+    {
+      "id": 7701521,
+      "name": "Ogba/Egbema/Ndoni",
+      "nativeName": "Ogba/Egbema/Ndoni",
+      "code": "NG-RI-7701521",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-RI",
+      "latitude": 5.34167,
+      "longitude": 6.65556
+    },
+    {
+      "id": 7730136,
+      "name": "Ogu Bolo",
+      "nativeName": "Ogu Bolo",
+      "code": "NG-RI-7730136",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-RI",
+      "latitude": 4.64774,
+      "longitude": 7.18648
+    },
+    {
+      "id": 9485477,
+      "name": "Ogu/Bolo Local Government Area",
+      "nativeName": "Ogu/Bolo Local Government Area",
+      "code": "NG-RI-9485477",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-RI",
+      "latitude": 4.66943,
+      "longitude": 7.20268
+    },
+    {
+      "id": 8638160,
+      "name": "Okrika",
+      "nativeName": "Okrika",
+      "code": "NG-RI-8638160",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-RI",
+      "latitude": 4.63826,
+      "longitude": 7.08162
+    },
+    {
+      "id": 7701522,
+      "name": "Omumma",
+      "nativeName": "Omumma",
+      "code": "NG-RI-7701522",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-RI",
+      "latitude": 5.09072,
+      "longitude": 7.23485
+    },
+    {
+      "id": 8638161,
+      "name": "Opobo/Nkoro",
+      "nativeName": "Opobo/Nkoro",
+      "code": "NG-RI-8638161",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-RI",
+      "latitude": 4.56141,
+      "longitude": 7.44396
+    },
+    {
+      "id": 7701523,
+      "name": "Oyigbo",
+      "nativeName": "Oyigbo",
+      "code": "NG-RI-7701523",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-RI",
+      "latitude": 4.87806,
+      "longitude": 7.12833
+    },
+    {
+      "id": 7873928,
+      "name": "Port-Harcourt",
+      "nativeName": "Port-Harcourt",
+      "code": "NG-RI-7873928",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-RI",
+      "latitude": 4.77763,
+      "longitude": 7.02165
+    },
+    {
+      "id": 7701524,
+      "name": "Tai",
+      "nativeName": "Tai",
+      "code": "NG-RI-7701524",
+      "countryId": 2328926,
+      "countryCode": "NG",
+      "stateCode": "NG-RI",
+      "latitude": 4.71667,
+      "longitude": 7.3
+    }
+  ]
+}

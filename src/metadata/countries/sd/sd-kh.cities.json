@@ -1,0 +1,62 @@
+{
+  "stateId": 379253,
+  "stateCode": "SD-KH",
+  "countryCode": "SD",
+  "cities": [
+    {
+      "id": 372533,
+      "name": "Karary",
+      "nativeName": "Karary",
+      "code": "SD-KH-372533",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-KH",
+      "latitude": 16.14345,
+      "longitude": 32.12128
+    },
+    {
+      "id": 372535,
+      "name": "Khartoum",
+      "nativeName": "Khartoum",
+      "code": "SD-KH-372535",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-KH",
+      "latitude": 15.51026,
+      "longitude": 32.54253
+    },
+    {
+      "id": 8050944,
+      "name": "Khartoum North",
+      "nativeName": "Khartoum North",
+      "code": "SD-KH-8050944",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-KH",
+      "latitude": 15.874,
+      "longitude": 32.824
+    },
+    {
+      "id": 368767,
+      "name": "Omdurman",
+      "nativeName": "Omdurman",
+      "code": "SD-KH-368767",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-KH",
+      "latitude": 15.75525,
+      "longitude": 32.29431
+    },
+    {
+      "id": 8051156,
+      "name": "Sharg En Nile",
+      "nativeName": "Sharg En Nile",
+      "code": "SD-KH-8051156",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-KH",
+      "latitude": 15.77,
+      "longitude": 33.56
+    }
+  ]
+}

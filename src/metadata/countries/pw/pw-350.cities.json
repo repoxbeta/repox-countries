@@ -1,0 +1,40 @@
+{
+  "stateId": 4038261,
+  "stateCode": "PW-350",
+  "countryCode": "PW",
+  "cities": [
+    {
+      "id": 7671223,
+      "name": "Kloulklubed",
+      "nativeName": "Kloulklubed",
+      "code": "PW-350-7671223",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-350",
+      "latitude": 7.04192,
+      "longitude": 134.25561
+    },
+    {
+      "id": 4037823,
+      "name": "Imelechol Hamlet",
+      "nativeName": "Imelechol Hamlet",
+      "code": "PW-350-4037823",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-350",
+      "latitude": 7.03966,
+      "longitude": 134.2656
+    },
+    {
+      "id": 1559351,
+      "name": "Kloulklubed Hamlet",
+      "nativeName": "Kloulklubed Hamlet",
+      "code": "PW-350-1559351",
+      "countryId": 1559582,
+      "countryCode": "PW",
+      "stateCode": "PW-350",
+      "latitude": 7.04193,
+      "longitude": 134.25549
+    }
+  ]
+}

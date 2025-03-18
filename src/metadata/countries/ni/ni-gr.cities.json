@@ -1,0 +1,51 @@
+{
+  "stateId": 3619135,
+  "stateCode": "NI-GR",
+  "countryCode": "NI",
+  "cities": [
+    {
+      "id": 3620167,
+      "name": "Municipio de Diriomo",
+      "nativeName": "Municipio de Diriomo",
+      "code": "NI-GR-3620167",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-GR",
+      "latitude": 11.85745,
+      "longitude": -86.04211
+    },
+    {
+      "id": 3620171,
+      "name": "Municipio de Diriá",
+      "nativeName": "Municipio de Diriá",
+      "code": "NI-GR-3620171",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-GR",
+      "latitude": 11.8702,
+      "longitude": -86.07357
+    },
+    {
+      "id": 3619133,
+      "name": "Municipio de Granada",
+      "nativeName": "Municipio de Granada",
+      "code": "NI-GR-3619133",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-GR",
+      "latitude": 11.94845,
+      "longitude": -85.97429
+    },
+    {
+      "id": 3617512,
+      "name": "Municipio de Nandaime",
+      "nativeName": "Municipio de Nandaime",
+      "code": "NI-GR-3617512",
+      "countryId": 3617476,
+      "countryCode": "NI",
+      "stateCode": "NI-GR",
+      "latitude": 11.71446,
+      "longitude": -86.01932
+    }
+  ]
+}

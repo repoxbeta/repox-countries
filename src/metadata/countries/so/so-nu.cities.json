@@ -1,0 +1,40 @@
+{
+  "stateId": 53477,
+  "stateCode": "SO-NU",
+  "countryCode": "SO",
+  "cities": [
+    {
+      "id": 9179617,
+      "name": "Burtinle",
+      "nativeName": "Burtinle",
+      "code": "SO-NU-9179617",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-NU",
+      "latitude": 7.8022,
+      "longitude": 48.39912
+    },
+    {
+      "id": 9179620,
+      "name": "Eyl District",
+      "nativeName": "Eyl",
+      "code": "SO-NU-9179620",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-NU",
+      "latitude": 8.09189,
+      "longitude": 49.56549
+    },
+    {
+      "id": 9179624,
+      "name": "Garowe District",
+      "nativeName": "Garoowe",
+      "code": "SO-NU-9179624",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "stateCode": "SO-NU",
+      "latitude": 8.4704,
+      "longitude": 48.78639
+    }
+  ]
+}

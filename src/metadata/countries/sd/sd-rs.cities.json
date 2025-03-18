@@ -1,0 +1,29 @@
+{
+  "stateId": 408646,
+  "stateCode": "SD-RS",
+  "countryCode": "SD",
+  "cities": [
+    {
+      "id": 8050949,
+      "name": "Port Sudan",
+      "nativeName": "Port Sudan",
+      "code": "SD-RS-8050949",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-RS",
+      "latitude": 20.023,
+      "longitude": 35.393
+    },
+    {
+      "id": 8050948,
+      "name": "Sinkat",
+      "nativeName": "Sinkat",
+      "code": "SD-RS-8050948",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-RS",
+      "latitude": 18.392,
+      "longitude": 35.976
+    }
+  ]
+}

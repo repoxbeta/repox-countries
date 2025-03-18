@@ -1,0 +1,95 @@
+{
+  "stateId": 3575173,
+  "stateCode": "KN-08",
+  "countryCode": "KN",
+  "cities": [
+    {
+      "id": 3575487,
+      "name": "Cayon",
+      "nativeName": "Cayon",
+      "code": "KN-08-3575487",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-08",
+      "latitude": 17.35,
+      "longitude": -62.73333
+    },
+    {
+      "id": 3575446,
+      "name": "Dalzells",
+      "nativeName": "Dalzells",
+      "code": "KN-08-3575446",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-08",
+      "latitude": 17.35,
+      "longitude": -62.7
+    },
+    {
+      "id": 3575367,
+      "name": "Hermitage",
+      "nativeName": "Hermitage",
+      "code": "KN-08-3575367",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-08",
+      "latitude": 17.36667,
+      "longitude": -62.71667
+    },
+    {
+      "id": 12440228,
+      "name": "Hermitage Estate",
+      "nativeName": "Hermitage Estate",
+      "code": "KN-08-12440228",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-08",
+      "latitude": 17.35258,
+      "longitude": -62.7333
+    },
+    {
+      "id": 3575346,
+      "name": "Jack in the Box",
+      "nativeName": "Jack in the Box",
+      "code": "KN-08-3575346",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-08",
+      "latitude": 17.35,
+      "longitude": -62.73333
+    },
+    {
+      "id": 3575336,
+      "name": "Key",
+      "nativeName": "Key",
+      "code": "KN-08-3575336",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-08",
+      "latitude": 17.34213,
+      "longitude": -62.71416
+    },
+    {
+      "id": 3575316,
+      "name": "Lodge",
+      "nativeName": "Lodge",
+      "code": "KN-08-3575316",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-08",
+      "latitude": 17.36397,
+      "longitude": -62.74747
+    },
+    {
+      "id": 3575233,
+      "name": "Ottley’s",
+      "nativeName": "Ottley’s",
+      "code": "KN-08-3575233",
+      "countryId": 3575174,
+      "countryCode": "KN",
+      "stateCode": "KN-08",
+      "latitude": 17.36259,
+      "longitude": -62.7433
+    }
+  ]
+}

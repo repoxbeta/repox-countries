@@ -1,0 +1,84 @@
+{
+  "stateId": 3595236,
+  "stateCode": "GT-JA",
+  "countryCode": "GT",
+  "cities": [
+    {
+      "id": 3595235,
+      "name": "Municipio de Jalapa",
+      "nativeName": "Municipio de Jalapa",
+      "code": "GT-JA-3595235",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-JA",
+      "latitude": 14.63275,
+      "longitude": -90.03301
+    },
+    {
+      "id": 3592634,
+      "name": "Municipio de Mataquescuintla",
+      "nativeName": "Municipio de Mataquescuintla",
+      "code": "GT-JA-3592634",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-JA",
+      "latitude": 14.54777,
+      "longitude": -90.20008
+    },
+    {
+      "id": 3592476,
+      "name": "Municipio de Monjas",
+      "nativeName": "Municipio de Monjas",
+      "code": "GT-JA-3592476",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-JA",
+      "latitude": 14.51271,
+      "longitude": -89.89555
+    },
+    {
+      "id": 3590354,
+      "name": "Municipio de San Carlos Alzatate",
+      "nativeName": "Municipio de San Carlos Alzatate",
+      "code": "GT-JA-3590354",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-JA",
+      "latitude": 14.48014,
+      "longitude": -90.07702
+    },
+    {
+      "id": 3589821,
+      "name": "Municipio de San Luis Jilotepeque",
+      "nativeName": "Municipio de San Luis Jilotepeque",
+      "code": "GT-JA-3589821",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-JA",
+      "latitude": 14.65034,
+      "longitude": -89.71319
+    },
+    {
+      "id": 3589811,
+      "name": "Municipio de San Manuel Chaparrón",
+      "nativeName": "Municipio de San Manuel Chaparrón",
+      "code": "GT-JA-3589811",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-JA",
+      "latitude": 14.5226,
+      "longitude": -89.76339
+    },
+    {
+      "id": 3589628,
+      "name": "Municipio de San Pedro Pinula",
+      "nativeName": "Municipio de San Pedro Pinula",
+      "code": "GT-JA-3589628",
+      "countryId": 3595528,
+      "countryCode": "GT",
+      "stateCode": "GT-JA",
+      "latitude": 14.70629,
+      "longitude": -89.84878
+    }
+  ]
+}

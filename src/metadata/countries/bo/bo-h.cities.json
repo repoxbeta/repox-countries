@@ -1,0 +1,117 @@
+{
+  "stateId": 3920177,
+  "stateCode": "BO-H",
+  "countryCode": "BO",
+  "cities": [
+    {
+      "id": 3923437,
+      "name": "Azurduy",
+      "nativeName": "Provincia Azurduy",
+      "code": "BO-H-3923437",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-H",
+      "latitude": -20.00017,
+      "longitude": -64.45925
+    },
+    {
+      "id": 3923228,
+      "name": "Belisario Boeto",
+      "nativeName": "Provincia Belisario Boeto",
+      "code": "BO-H-3923228",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-H",
+      "latitude": -18.93166,
+      "longitude": -64.32022
+    },
+    {
+      "id": 3915235,
+      "name": "Hernando Siles",
+      "nativeName": "Provincia Hernando Siles",
+      "code": "BO-H-3915235",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-H",
+      "latitude": -20.22368,
+      "longitude": -64.03918
+    },
+    {
+      "id": 3911048,
+      "name": "Luis Calvo",
+      "nativeName": "Provincia Luis Calvo",
+      "code": "BO-H-3911048",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-H",
+      "latitude": -20.66667,
+      "longitude": -63.5
+    },
+    {
+      "id": 3909495,
+      "name": "Nor Cinti",
+      "nativeName": "Provincia Nor Cinti",
+      "code": "BO-H-3909495",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-H",
+      "latitude": -20.34832,
+      "longitude": -65.00562
+    },
+    {
+      "id": 3909247,
+      "name": "Oropeza",
+      "nativeName": "Provincia Oropeza",
+      "code": "BO-H-3909247",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-H",
+      "latitude": -18.89155,
+      "longitude": -65.24725
+    },
+    {
+      "id": 3903977,
+      "name": "Sud Cinti",
+      "nativeName": "Sur Cinti",
+      "code": "BO-H-3903977",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-H",
+      "latitude": -20.89743,
+      "longitude": -64.95453
+    },
+    {
+      "id": 3902667,
+      "name": "Tomina",
+      "nativeName": "Provincia Tomina",
+      "code": "BO-H-3902667",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-H",
+      "latitude": -19.44565,
+      "longitude": -64.3016
+    },
+    {
+      "id": 3901146,
+      "name": "Yamparaez",
+      "nativeName": "Provincia Yamparáez",
+      "code": "BO-H-3901146",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-H",
+      "latitude": -19.17229,
+      "longitude": -64.96352
+    },
+    {
+      "id": 3900772,
+      "name": "Zudañez",
+      "nativeName": "Provincia Zudáñez",
+      "code": "BO-H-3900772",
+      "countryId": 3923057,
+      "countryCode": "BO",
+      "stateCode": "BO-H",
+      "latitude": -19.08533,
+      "longitude": -64.68903
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "stateId": 12226391,
+  "stateCode": "DZ-57",
+  "countryCode": "DZ",
+  "cities": [
+    {
+      "id": 12952434,
+      "name": "Djamaa",
+      "nativeName": "Djamaa",
+      "code": "DZ-57-12952434",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-57",
+      "latitude": 33.60591,
+      "longitude": 5.64944
+    },
+    {
+      "id": 11204522,
+      "name": "El M'Ghair District",
+      "nativeName": "El M'Ghair District",
+      "code": "DZ-57-11204522",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "stateCode": "DZ-57",
+      "latitude": 33.95,
+      "longitude": 5.91667
+    }
+  ]
+}

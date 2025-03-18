@@ -1,0 +1,73 @@
+{
+  "stateId": 830603,
+  "stateCode": "FI-10",
+  "countryCode": "FI",
+  "cities": [
+    {
+      "id": 9610708,
+      "name": "Itä-Lappi",
+      "nativeName": "Itä-Lappi",
+      "code": "FI-10-9610708",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-10",
+      "latitude": 66.66866,
+      "longitude": 28.07252
+    },
+    {
+      "id": 9610706,
+      "name": "Kemi-Tornio",
+      "nativeName": "Kemi-Tornio",
+      "code": "FI-10-9610706",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-10",
+      "latitude": 65.94914,
+      "longitude": 24.75035
+    },
+    {
+      "id": 9610712,
+      "name": "Pohjois-Lappi",
+      "nativeName": "Pohjois-Lappi",
+      "code": "FI-10-9610712",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-10",
+      "latitude": 68.71316,
+      "longitude": 27.17596
+    },
+    {
+      "id": 9610705,
+      "name": "Rovaniemi",
+      "nativeName": "Rovaniemi",
+      "code": "FI-10-9610705",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-10",
+      "latitude": 66.39165,
+      "longitude": 26.15868
+    },
+    {
+      "id": 9610707,
+      "name": "Torniolaakso",
+      "nativeName": "Torniolaakso",
+      "code": "FI-10-9610707",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-10",
+      "latitude": 66.60337,
+      "longitude": 24.2883
+    },
+    {
+      "id": 9610709,
+      "name": "Tunturi-Lappi",
+      "nativeName": "Tunturi-Lappi",
+      "code": "FI-10-9610709",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "stateCode": "FI-10",
+      "latitude": 67.98617,
+      "longitude": 24.00038
+    }
+  ]
+}

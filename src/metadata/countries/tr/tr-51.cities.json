@@ -1,0 +1,73 @@
+{
+  "stateId": 303826,
+  "stateCode": "TR-51",
+  "countryCode": "TR",
+  "cities": [
+    {
+      "id": 8631911,
+      "name": "Altunhisar District",
+      "nativeName": "Altunhisar İlçesi",
+      "code": "TR-51-8631911",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-51",
+      "latitude": 38.00044,
+      "longitude": 34.36067
+    },
+    {
+      "id": 7910467,
+      "name": "Bor",
+      "nativeName": "Bor",
+      "code": "TR-51-7910467",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-51",
+      "latitude": 37.8354,
+      "longitude": 34.50313
+    },
+    {
+      "id": 7732948,
+      "name": "Merkez",
+      "nativeName": "Merkez",
+      "code": "TR-51-7732948",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-51",
+      "latitude": 38.10332,
+      "longitude": 34.80184
+    },
+    {
+      "id": 7910465,
+      "name": "Ulukisla",
+      "nativeName": "Ulukisla",
+      "code": "TR-51-7910465",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-51",
+      "latitude": 37.54592,
+      "longitude": 34.58737
+    },
+    {
+      "id": 8631912,
+      "name": "Çamardı District",
+      "nativeName": "Çamardı İlçesi",
+      "code": "TR-51-8631912",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-51",
+      "latitude": 37.84157,
+      "longitude": 34.99005
+    },
+    {
+      "id": 8631913,
+      "name": "Çiftlik District",
+      "nativeName": "Çiftlik İlçesi",
+      "code": "TR-51-8631913",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-51",
+      "latitude": 38.18584,
+      "longitude": 34.47465
+    }
+  ]
+}

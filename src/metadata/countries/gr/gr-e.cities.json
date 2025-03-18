@@ -1,0 +1,51 @@
+{
+  "stateId": 6697809,
+  "stateCode": "GR-E",
+  "countryCode": "GR",
+  "cities": [
+    {
+      "id": 258013,
+      "name": "Magnesia",
+      "nativeName": "Nomós Magnisías",
+      "code": "GR-E-258013",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-E",
+      "latitude": 39.25,
+      "longitude": 22.75
+    },
+    {
+      "id": 260988,
+      "name": "Nomós Kardhítsas",
+      "nativeName": "Nomós Kardhítsas",
+      "code": "GR-E-260988",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-E",
+      "latitude": 39.33333,
+      "longitude": 21.75
+    },
+    {
+      "id": 258575,
+      "name": "Nomós Larísis",
+      "nativeName": "Nomós Larísis",
+      "code": "GR-E-258575",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-E",
+      "latitude": 39.5,
+      "longitude": 22.5
+    },
+    {
+      "id": 252661,
+      "name": "Trikala",
+      "nativeName": "Trikala",
+      "code": "GR-E-252661",
+      "countryId": 390903,
+      "countryCode": "GR",
+      "stateCode": "GR-E",
+      "latitude": 39.66667,
+      "longitude": 21.5
+    }
+  ]
+}

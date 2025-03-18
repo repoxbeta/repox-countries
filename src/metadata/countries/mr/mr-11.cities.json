@@ -1,0 +1,40 @@
+{
+  "stateId": 2375989,
+  "stateCode": "MR-11",
+  "countryCode": "MR",
+  "cities": [
+    {
+      "id": 9212618,
+      "name": "Bir Mogrein",
+      "nativeName": "Bir Moghreïn",
+      "code": "MR-11-9212618",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-11",
+      "latitude": 25.61661,
+      "longitude": -8.1054
+    },
+    {
+      "id": 9212610,
+      "name": "F'Derik",
+      "nativeName": "F'Derik",
+      "code": "MR-11-9212610",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-11",
+      "latitude": 23.56956,
+      "longitude": -9.84096
+    },
+    {
+      "id": 9212643,
+      "name": "Zoueratt",
+      "nativeName": "Zouerate",
+      "code": "MR-11-9212643",
+      "countryId": 2378080,
+      "countryCode": "MR",
+      "stateCode": "MR-11",
+      "latitude": 22.74576,
+      "longitude": -12.43554
+    }
+  ]
+}

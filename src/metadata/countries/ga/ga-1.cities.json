@@ -1,0 +1,51 @@
+{
+  "stateId": 2400682,
+  "stateCode": "GA-1",
+  "countryCode": "GA",
+  "cities": [
+    {
+      "id": 8260630,
+      "name": "Commune of Libreville",
+      "nativeName": "Commune of Libreville",
+      "code": "GA-1-8260630",
+      "countryId": 2400553,
+      "countryCode": "GA",
+      "stateCode": "GA-1",
+      "latitude": 0.385,
+      "longitude": 9.51
+    },
+    {
+      "id": 8260632,
+      "name": "Komo Department",
+      "nativeName": "Komo Department",
+      "code": "GA-1-8260632",
+      "countryId": 2400553,
+      "countryCode": "GA",
+      "stateCode": "GA-1",
+      "latitude": 0.246,
+      "longitude": 10.351
+    },
+    {
+      "id": 8260631,
+      "name": "Komo-Mondah Department",
+      "nativeName": "Komo-Mondah Department",
+      "code": "GA-1-8260631",
+      "countryId": 2400553,
+      "countryCode": "GA",
+      "stateCode": "GA-1",
+      "latitude": 0.124,
+      "longitude": 9.634
+    },
+    {
+      "id": 11996079,
+      "name": "Noya",
+      "nativeName": "Noya",
+      "code": "GA-1-11996079",
+      "countryId": 2400553,
+      "countryCode": "GA",
+      "stateCode": "GA-1",
+      "latitude": 0.78015,
+      "longitude": 10.00416
+    }
+  ]
+}

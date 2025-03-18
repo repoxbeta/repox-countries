@@ -1,0 +1,84 @@
+{
+  "stateId": 589576,
+  "stateCode": "EE-68",
+  "countryCode": "EE",
+  "cities": [
+    {
+      "id": 7522278,
+      "name": "Häädemeeste vald",
+      "nativeName": "Häädemeeste vald",
+      "code": "EE-68-7522278",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-68",
+      "latitude": 58.05004,
+      "longitude": 24.53832
+    },
+    {
+      "id": 7522303,
+      "name": "Kihnu Parish",
+      "nativeName": "Kihnu vald",
+      "code": "EE-68-7522303",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-68",
+      "latitude": 58.13,
+      "longitude": 23.99002
+    },
+    {
+      "id": 11776880,
+      "name": "Lääneranna vald",
+      "nativeName": "Lääneranna vald",
+      "code": "EE-68-11776880",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-68",
+      "latitude": 58.58909,
+      "longitude": 23.89627
+    },
+    {
+      "id": 862993,
+      "name": "Pärnu linn",
+      "nativeName": "Pärnu linn",
+      "code": "EE-68-862993",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-68",
+      "latitude": 58.37901,
+      "longitude": 24.52784
+    },
+    {
+      "id": 11776883,
+      "name": "Põhja-Pärnumaa vald",
+      "nativeName": "Põhja-Pärnumaa vald",
+      "code": "EE-68-11776883",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-68",
+      "latitude": 58.6346,
+      "longitude": 24.79186
+    },
+    {
+      "id": 7522410,
+      "name": "Saarde vald",
+      "nativeName": "Saarde vald",
+      "code": "EE-68-7522410",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-68",
+      "latitude": 58.13802,
+      "longitude": 24.95564
+    },
+    {
+      "id": 7522394,
+      "name": "Tori vald",
+      "nativeName": "Tori vald",
+      "code": "EE-68-7522394",
+      "countryId": 453733,
+      "countryCode": "EE",
+      "stateCode": "EE-68",
+      "latitude": 58.48663,
+      "longitude": 24.88961
+    }
+  ]
+}

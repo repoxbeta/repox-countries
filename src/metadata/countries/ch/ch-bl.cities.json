@@ -1,0 +1,62 @@
+{
+  "stateId": 2661603,
+  "stateCode": "CH-BL",
+  "countryCode": "CH",
+  "cities": [
+    {
+      "id": 6458823,
+      "name": "Bezirk Sissach",
+      "nativeName": "Bezirk Sissach",
+      "code": "CH-BL-6458823",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-BL",
+      "latitude": 47.44237,
+      "longitude": 7.84871
+    },
+    {
+      "id": 6458843,
+      "name": "District of Arlesheim",
+      "nativeName": "Bezirk Arlesheim",
+      "code": "CH-BL-6458843",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-BL",
+      "latitude": 47.51668,
+      "longitude": 7.58733
+    },
+    {
+      "id": 6458833,
+      "name": "Laufen District",
+      "nativeName": "Bezirk Laufen",
+      "code": "CH-BL-6458833",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-BL",
+      "latitude": 47.42324,
+      "longitude": 7.4875
+    },
+    {
+      "id": 6458854,
+      "name": "Liestal District",
+      "nativeName": "Bezirk Liestal",
+      "code": "CH-BL-6458854",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-BL",
+      "latitude": 47.48124,
+      "longitude": 7.72714
+    },
+    {
+      "id": 6458748,
+      "name": "Waldenburg",
+      "nativeName": "Bezirk Waldenburg",
+      "code": "CH-BL-6458748",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "stateCode": "CH-BL",
+      "latitude": 47.39367,
+      "longitude": 7.74137
+    }
+  ]
+}

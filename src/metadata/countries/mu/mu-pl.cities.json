@@ -1,0 +1,51 @@
+{
+  "stateId": 934153,
+  "stateCode": "MU-PL",
+  "countryCode": "MU",
+  "cities": [
+    {
+      "id": 934154,
+      "name": "Port Louis",
+      "nativeName": "Port Louis",
+      "code": "MU-PL-934154",
+      "countryId": 934292,
+      "countryCode": "MU",
+      "stateCode": "MU-PL",
+      "latitude": -20.16194,
+      "longitude": 57.49889
+    },
+    {
+      "id": 1106803,
+      "name": "Bain des Dames",
+      "nativeName": "Bain des Dames",
+      "code": "MU-PL-1106803",
+      "countryId": 934292,
+      "countryCode": "MU",
+      "stateCode": "MU-PL",
+      "latitude": -20.16318,
+      "longitude": 57.47974
+    },
+    {
+      "id": 934463,
+      "name": "Grand River North West",
+      "nativeName": "Grand River North West",
+      "code": "MU-PL-934463",
+      "countryId": 934292,
+      "countryCode": "MU",
+      "stateCode": "MU-PL",
+      "latitude": -20.17794,
+      "longitude": 57.47652
+    },
+    {
+      "id": 934268,
+      "name": "Mon Loisir",
+      "nativeName": "Mon Loisir",
+      "code": "MU-PL-934268",
+      "countryId": 934292,
+      "countryCode": "MU",
+      "stateCode": "MU-PL",
+      "latitude": -20.03278,
+      "longitude": 57.61917
+    }
+  ]
+}

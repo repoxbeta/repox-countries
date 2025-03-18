@@ -1,0 +1,73 @@
+{
+  "stateId": 101627,
+  "stateCode": "SA-07",
+  "countryCode": "SA",
+  "cities": [
+    {
+      "id": 10972379,
+      "name": "Al Wajh",
+      "nativeName": "Al Wajh",
+      "code": "SA-07-10972379",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-07",
+      "latitude": 26.41667,
+      "longitude": 36.75
+    },
+    {
+      "id": 10972382,
+      "name": "Tabūk",
+      "nativeName": "Tabūk",
+      "code": "SA-07-10972382",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-07",
+      "latitude": 28.66667,
+      "longitude": 36.75
+    },
+    {
+      "id": 10972383,
+      "name": "Taymā’",
+      "nativeName": "Taymā’",
+      "code": "SA-07-10972383",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-07",
+      "latitude": 27.75,
+      "longitude": 38.58333
+    },
+    {
+      "id": 10972384,
+      "name": "Umluj",
+      "nativeName": "Umluj",
+      "code": "SA-07-10972384",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-07",
+      "latitude": 25.33333,
+      "longitude": 37.41667
+    },
+    {
+      "id": 10972380,
+      "name": "Ḑubā’",
+      "nativeName": "Ḑubā’",
+      "code": "SA-07-10972380",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-07",
+      "latitude": 27.5,
+      "longitude": 36
+    },
+    {
+      "id": 10972381,
+      "name": "Ḩaql",
+      "nativeName": "Ḩaql",
+      "code": "SA-07-10972381",
+      "countryId": 102358,
+      "countryCode": "SA",
+      "stateCode": "SA-07",
+      "latitude": 29.06667,
+      "longitude": 35.36667
+    }
+  ]
+}

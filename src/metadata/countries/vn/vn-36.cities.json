@@ -1,0 +1,84 @@
+{
+  "stateId": 1559971,
+  "stateCode": "VN-36",
+  "countryCode": "VN",
+  "cities": [
+    {
+      "id": 8727590,
+      "name": "Bác Ái District",
+      "nativeName": "Huyen Bac Ai",
+      "code": "VN-36-8727590",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-36",
+      "latitude": 11.83342,
+      "longitude": 108.85515
+    },
+    {
+      "id": 11497324,
+      "name": "Huyện Thuận Bắc",
+      "nativeName": "Huyện Thuận Bắc",
+      "code": "VN-36-11497324",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-36",
+      "latitude": 11.71937,
+      "longitude": 109.05836
+    },
+    {
+      "id": 1904965,
+      "name": "Ninh Hải District",
+      "nativeName": "Huyện Ninh Hải",
+      "code": "VN-36-1904965",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-36",
+      "latitude": 11.61062,
+      "longitude": 109.1271
+    },
+    {
+      "id": 1904966,
+      "name": "Ninh Phước District",
+      "nativeName": "Huyện Ninh Phước",
+      "code": "VN-36-1904966",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-36",
+      "latitude": 11.56118,
+      "longitude": 108.88037
+    },
+    {
+      "id": 1904967,
+      "name": "Ninh Sơn District",
+      "nativeName": "Huyện Ninh Sơn",
+      "code": "VN-36-1904967",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-36",
+      "latitude": 11.70827,
+      "longitude": 108.7708
+    },
+    {
+      "id": 8993902,
+      "name": "Thuận Nam District",
+      "nativeName": "Huyện Thuận Nam",
+      "code": "VN-36-8993902",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-36",
+      "latitude": 11.43575,
+      "longitude": 108.85043
+    },
+    {
+      "id": 1904963,
+      "name": "Thành Phố Phan Rang-Tháp Chàm",
+      "nativeName": "Thành Phố Phan Rang-Tháp Chàm",
+      "code": "VN-36-1904963",
+      "countryId": 1562822,
+      "countryCode": "VN",
+      "stateCode": "VN-36",
+      "latitude": 11.59577,
+      "longitude": 108.97457
+    }
+  ]
+}

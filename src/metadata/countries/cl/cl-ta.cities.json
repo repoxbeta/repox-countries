@@ -1,0 +1,29 @@
+{
+  "stateId": 3870116,
+  "stateCode": "CL-TA",
+  "countryCode": "CL",
+  "cities": [
+    {
+      "id": 3887125,
+      "name": "Provincia de Iquique",
+      "nativeName": "Provincia de Iquique",
+      "code": "CL-TA-3887125",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-TA",
+      "latitude": -20.24158,
+      "longitude": -70.08728
+    },
+    {
+      "id": 8181710,
+      "name": "Provincia del Tamarugal",
+      "nativeName": "Provincia del Tamarugal",
+      "code": "CL-TA-8181710",
+      "countryId": 3895114,
+      "countryCode": "CL",
+      "stateCode": "CL-TA",
+      "latitude": -20.26445,
+      "longitude": -69.81606
+    }
+  ]
+}

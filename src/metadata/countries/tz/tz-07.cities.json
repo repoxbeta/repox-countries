@@ -1,0 +1,29 @@
+{
+  "stateId": 148725,
+  "stateCode": "TZ-07",
+  "countryCode": "TZ",
+  "cities": [
+    {
+      "id": 11204826,
+      "name": "Kaskazini A",
+      "nativeName": "Kaskazini A",
+      "code": "TZ-07-11204826",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-07",
+      "latitude": -5.86604,
+      "longitude": 39.31595
+    },
+    {
+      "id": 11204828,
+      "name": "Kaskazini B",
+      "nativeName": "Kaskazini B",
+      "code": "TZ-07-11204828",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-07",
+      "latitude": -5.95483,
+      "longitude": 39.24316
+    }
+  ]
+}

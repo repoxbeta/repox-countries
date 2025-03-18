@@ -1,0 +1,62 @@
+{
+  "stateId": 2525468,
+  "stateCode": "IT-78",
+  "countryCode": "IT",
+  "cities": [
+    {
+      "id": 2525058,
+      "name": "Province of Catanzaro",
+      "nativeName": "Provincia di Catanzaro",
+      "code": "IT-78-2525058",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-78",
+      "latitude": 38.91667,
+      "longitude": 16.43333
+    },
+    {
+      "id": 2524906,
+      "name": "Province of Cosenza",
+      "nativeName": "Provincia di Cosenza",
+      "code": "IT-78-2524906",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-78",
+      "latitude": 39.55697,
+      "longitude": 16.35491
+    },
+    {
+      "id": 6458615,
+      "name": "Province of Crotone",
+      "nativeName": "Provincia di Crotone",
+      "code": "IT-78-6458615",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-78",
+      "latitude": 39.12007,
+      "longitude": 17.08134
+    },
+    {
+      "id": 2523629,
+      "name": "Province of Reggio Calabria",
+      "nativeName": "Provincia di Reggio Calabria",
+      "code": "IT-78-2523629",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-78",
+      "latitude": 38.31667,
+      "longitude": 16.08333
+    },
+    {
+      "id": 6457405,
+      "name": "Province of Vibo Valentia",
+      "nativeName": "Provincia di Vibo-Valentia",
+      "code": "IT-78-6457405",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-78",
+      "latitude": 38.69958,
+      "longitude": 16.12741
+    }
+  ]
+}

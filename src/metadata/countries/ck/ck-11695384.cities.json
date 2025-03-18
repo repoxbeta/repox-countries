@@ -1,0 +1,29 @@
+{
+  "stateId": 11695384,
+  "stateCode": "CK-11695384",
+  "countryCode": "CK",
+  "cities": [
+    {
+      "id": 4035523,
+      "name": "Tauhunu",
+      "nativeName": "Tauhunu",
+      "code": "CK-11695384-4035523",
+      "countryId": 1899402,
+      "countryCode": "CK",
+      "stateCode": "CK-11695384",
+      "latitude": -10.42361,
+      "longitude": -161.03398
+    },
+    {
+      "id": 4035463,
+      "name": "Tukao",
+      "nativeName": "Tukao",
+      "code": "CK-11695384-4035463",
+      "countryId": 1899402,
+      "countryCode": "CK",
+      "stateCode": "CK-11695384",
+      "latitude": -10.37518,
+      "longitude": -161.01018
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "stateId": 1923046,
+  "stateCode": "ID-GO",
+  "countryCode": "ID",
+  "cities": [
+    {
+      "id": 9165686,
+      "name": "Boalemo Regency",
+      "nativeName": "Kabupaten Boalemo",
+      "code": "ID-GO-9165686",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-GO",
+      "latitude": 0.62689,
+      "longitude": 122.3568
+    },
+    {
+      "id": 9165685,
+      "name": "Bone Bolango Regency",
+      "nativeName": "Kabupaten Bone Bolango",
+      "code": "ID-GO-9165685",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-GO",
+      "latitude": 0.50296,
+      "longitude": 123.27501
+    },
+    {
+      "id": 6960133,
+      "name": "Gorontalo Regency",
+      "nativeName": "Kabupaten Gorontalo",
+      "code": "ID-GO-6960133",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-GO",
+      "latitude": 0.70212,
+      "longitude": 122.71591
+    },
+    {
+      "id": 1643836,
+      "name": "Kota Gorontalo",
+      "nativeName": "Kota Gorontalo",
+      "code": "ID-GO-1643836",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-GO",
+      "latitude": 0.5345,
+      "longitude": 123.04312
+    },
+    {
+      "id": 9165866,
+      "name": "North Gorontalo Regency",
+      "nativeName": "Kabupaten Gorontalo Utara",
+      "code": "ID-GO-9165866",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-GO",
+      "latitude": 0.86508,
+      "longitude": 123.04891
+    },
+    {
+      "id": 9165687,
+      "name": "Pohuwato Regency",
+      "nativeName": "Kabupaten Pohuwato",
+      "code": "ID-GO-9165687",
+      "countryId": 1643084,
+      "countryCode": "ID",
+      "stateCode": "ID-GO",
+      "latitude": 0.7098,
+      "longitude": 121.59582
+    }
+  ]
+}

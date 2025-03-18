@@ -1,0 +1,40 @@
+{
+  "stateId": 932700,
+  "stateCode": "LS-C",
+  "countryCode": "LS",
+  "cities": [
+    {
+      "id": 7670807,
+      "name": "Hleoheng",
+      "nativeName": "Hleoheng",
+      "code": "LS-C-7670807",
+      "countryId": 932692,
+      "countryCode": "LS",
+      "stateCode": "LS-C",
+      "latitude": -28.96004,
+      "longitude": 27.90243
+    },
+    {
+      "id": 7303922,
+      "name": "Khomokhoana Community",
+      "nativeName": "Khomokhoana Community",
+      "code": "LS-C-7303922",
+      "countryId": 932692,
+      "countryCode": "LS",
+      "stateCode": "LS-C",
+      "latitude": -28.88185,
+      "longitude": 27.9317
+    },
+    {
+      "id": 7670780,
+      "name": "Urban",
+      "nativeName": "Urban",
+      "code": "LS-C-7670780",
+      "countryId": 932692,
+      "countryCode": "LS",
+      "stateCode": "LS-C",
+      "latitude": -28.89535,
+      "longitude": 27.93001
+    }
+  ]
+}

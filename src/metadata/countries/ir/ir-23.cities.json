@@ -1,0 +1,183 @@
+{
+  "stateId": 110791,
+  "stateCode": "IR-23",
+  "countryCode": "IR",
+  "cities": [
+    {
+      "id": 11963423,
+      "name": "Pardis County",
+      "nativeName": "Pardis",
+      "code": "IR-23-11963423",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-23",
+      "latitude": 35.74169,
+      "longitude": 51.77705
+    },
+    {
+      "id": 11963424,
+      "name": "Qarchak County",
+      "nativeName": "Qarchak",
+      "code": "IR-23-11963424",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-23",
+      "latitude": 35.43289,
+      "longitude": 51.56597
+    },
+    {
+      "id": 9533737,
+      "name": "Qods",
+      "nativeName": "Qods",
+      "code": "IR-23-9533737",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-23",
+      "latitude": 35.705,
+      "longitude": 51.09067
+    },
+    {
+      "id": 449509,
+      "name": "Rey",
+      "nativeName": "Rey",
+      "code": "IR-23-449509",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-23",
+      "latitude": 35.34967,
+      "longitude": 51.295
+    },
+    {
+      "id": 9533739,
+      "name": "Shahrestān-e Bahārestān",
+      "nativeName": "Shahrestān-e Bahārestān",
+      "code": "IR-23-9533739",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-23",
+      "latitude": 35.52537,
+      "longitude": 51.16278
+    },
+    {
+      "id": 449507,
+      "name": "Shahrestān-e Damāvand",
+      "nativeName": "Shahrestān-e Damāvand",
+      "code": "IR-23-449507",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-23",
+      "latitude": 35.615,
+      "longitude": 52.18333
+    },
+    {
+      "id": 9533740,
+      "name": "Shahrestān-e Eslāmshahr",
+      "nativeName": "Shahrestān-e Eslāmshahr",
+      "code": "IR-23-9533740",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-23",
+      "latitude": 35.58333,
+      "longitude": 51.25
+    },
+    {
+      "id": 449513,
+      "name": "Shahrestān-e Fīrūzkūh",
+      "nativeName": "Shahrestān-e Fīrūzkūh",
+      "code": "IR-23-449513",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-23",
+      "latitude": 35.75,
+      "longitude": 52.69756
+    },
+    {
+      "id": 9533736,
+      "name": "Shahrestān-e Malārd",
+      "nativeName": "Shahrestān-e Malārd",
+      "code": "IR-23-9533736",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-23",
+      "latitude": 35.61,
+      "longitude": 50.69667
+    },
+    {
+      "id": 449505,
+      "name": "Shahrestān-e Pākdasht",
+      "nativeName": "Shahrestān-e Pākdasht",
+      "code": "IR-23-449505",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-23",
+      "latitude": 35.475,
+      "longitude": 51.77778
+    },
+    {
+      "id": 9533741,
+      "name": "Shahrestān-e Pīshvā",
+      "nativeName": "Shahrestān-e Pīshvā",
+      "code": "IR-23-9533741",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-23",
+      "latitude": 35.33,
+      "longitude": 51.75111
+    },
+    {
+      "id": 449508,
+      "name": "Shahrestān-e Robāţ Karīm",
+      "nativeName": "Shahrestān-e Robāţ Karīm",
+      "code": "IR-23-449508",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-23",
+      "latitude": 35.48933,
+      "longitude": 51.04978
+    },
+    {
+      "id": 449512,
+      "name": "Shahrestān-e Shahrīār",
+      "nativeName": "Shahrestān-e Shahrīār",
+      "code": "IR-23-449512",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-23",
+      "latitude": 35.62828,
+      "longitude": 51.06632
+    },
+    {
+      "id": 449511,
+      "name": "Shahrestān-e Shemīrānāt",
+      "nativeName": "Shahrestān-e Shemīrānāt",
+      "code": "IR-23-449511",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-23",
+      "latitude": 35.91333,
+      "longitude": 51.615
+    },
+    {
+      "id": 449506,
+      "name": "Shahrestān-e Tehrān",
+      "nativeName": "Shahrestān-e Tehrān",
+      "code": "IR-23-449506",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-23",
+      "latitude": 35.71758,
+      "longitude": 51.40545
+    },
+    {
+      "id": 449516,
+      "name": "Shahrestān-e Varāmīn",
+      "nativeName": "Shahrestān-e Varāmīn",
+      "code": "IR-23-449516",
+      "countryId": 130758,
+      "countryCode": "IR",
+      "stateCode": "IR-23",
+      "latitude": 35.33081,
+      "longitude": 51.64124
+    }
+  ]
+}

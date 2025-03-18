@@ -1,0 +1,73 @@
+{
+  "stateId": 3344895,
+  "stateCode": "SI-180",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3190360,
+      "name": "Solčava",
+      "nativeName": "Solčava",
+      "code": "SI-180-3190360",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-180",
+      "latitude": 46.41944,
+      "longitude": 14.69361
+    },
+    {
+      "id": 3217501,
+      "name": "Haudi",
+      "nativeName": "Haudi",
+      "code": "SI-180-3217501",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-180",
+      "latitude": 46.4025,
+      "longitude": 14.68444
+    },
+    {
+      "id": 8987786,
+      "name": "Logarska Dolina",
+      "nativeName": "Logarska Dolina",
+      "code": "SI-180-8987786",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-180",
+      "latitude": 46.39495,
+      "longitude": 14.62983
+    },
+    {
+      "id": 8988277,
+      "name": "Podolševa",
+      "nativeName": "Podolševa",
+      "code": "SI-180-8988277",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-180",
+      "latitude": 46.43464,
+      "longitude": 14.70056
+    },
+    {
+      "id": 8987514,
+      "name": "Robanov Kot",
+      "nativeName": "Robanov Kot",
+      "code": "SI-180-8987514",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-180",
+      "latitude": 46.39058,
+      "longitude": 14.69048
+    },
+    {
+      "id": 3217500,
+      "name": "Sveti Duh",
+      "nativeName": "Sveti Duh",
+      "code": "SI-180-3217500",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-180",
+      "latitude": 46.435,
+      "longitude": 14.70333
+    }
+  ]
+}

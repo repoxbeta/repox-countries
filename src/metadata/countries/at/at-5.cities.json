@@ -1,0 +1,73 @@
+{
+  "stateId": 2766823,
+  "stateCode": "AT-5",
+  "countryCode": "AT",
+  "cities": [
+    {
+      "id": 2776950,
+      "name": "Hallein District",
+      "nativeName": "Politischer Bezirk Hallein",
+      "code": "AT-5-2776950",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-5",
+      "latitude": 47.6,
+      "longitude": 13.3
+    },
+    {
+      "id": 2766817,
+      "name": "Politischer Bezirk Salzburg-Umgebung",
+      "nativeName": "Politischer Bezirk Salzburg-Umgebung",
+      "code": "AT-5-2766817",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-5",
+      "latitude": 47.84019,
+      "longitude": 13.18799
+    },
+    {
+      "id": 2766642,
+      "name": "Saint Johann im Pongau District",
+      "nativeName": "Politischer Bezirk Sankt Johann im Pongau",
+      "code": "AT-5-2766642",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-5",
+      "latitude": 47.3,
+      "longitude": 13.3
+    },
+    {
+      "id": 2766818,
+      "name": "Salzburg Stadt",
+      "nativeName": "Salzburg Stadt",
+      "code": "AT-5-2766818",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-5",
+      "latitude": 47.80067,
+      "longitude": 13.04532
+    },
+    {
+      "id": 2763928,
+      "name": "Tamsweg District",
+      "nativeName": "Politischer Bezirk Tamsweg",
+      "code": "AT-5-2763928",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-5",
+      "latitude": 47.15,
+      "longitude": 13.7
+    },
+    {
+      "id": 2760633,
+      "name": "Zell am See District",
+      "nativeName": "Politischer Bezirk Zell am See",
+      "code": "AT-5-2760633",
+      "countryId": 2782113,
+      "countryCode": "AT",
+      "stateCode": "AT-5",
+      "latitude": 47.28333,
+      "longitude": 12.7
+    }
+  ]
+}

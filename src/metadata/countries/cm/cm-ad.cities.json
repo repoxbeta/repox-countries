@@ -1,0 +1,62 @@
+{
+  "stateId": 2236015,
+  "stateCode": "CM-AD",
+  "countryCode": "CM",
+  "cities": [
+    {
+      "id": 7670946,
+      "name": "Djerem",
+      "nativeName": "Djerem",
+      "code": "CM-AD-7670946",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-AD",
+      "latitude": 6.48112,
+      "longitude": 12.69703
+    },
+    {
+      "id": 7670947,
+      "name": "Faro-et-Deo",
+      "nativeName": "Faro-et-Deo",
+      "code": "CM-AD-7670947",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-AD",
+      "latitude": 7.46684,
+      "longitude": 12.49612
+    },
+    {
+      "id": 9224946,
+      "name": "Mayo-Banyo",
+      "nativeName": "Mayo-Banyo",
+      "code": "CM-AD-9224946",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-AD",
+      "latitude": 6.58138,
+      "longitude": 11.73522
+    },
+    {
+      "id": 8299279,
+      "name": "Mbere",
+      "nativeName": "Mbere Department",
+      "code": "CM-AD-8299279",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-AD",
+      "latitude": 6.434,
+      "longitude": 14.243
+    },
+    {
+      "id": 7670948,
+      "name": "Vina",
+      "nativeName": "Vina",
+      "code": "CM-AD-7670948",
+      "countryId": 2233387,
+      "countryCode": "CM",
+      "stateCode": "CM-AD",
+      "latitude": 7.16365,
+      "longitude": 13.72711
+    }
+  ]
+}

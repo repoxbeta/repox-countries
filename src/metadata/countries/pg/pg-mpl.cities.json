@@ -1,0 +1,106 @@
+{
+  "stateId": 2090468,
+  "stateCode": "PG-MPL",
+  "countryCode": "PG",
+  "cities": [
+    {
+      "id": 8657188,
+      "name": "Bulolo District",
+      "nativeName": "Bulolo",
+      "code": "PG-MPL-8657188",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-MPL",
+      "latitude": -7.41667,
+      "longitude": 146.75
+    },
+    {
+      "id": 2097417,
+      "name": "Finschhafen District",
+      "nativeName": "Finschhafen",
+      "code": "PG-MPL-2097417",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-MPL",
+      "latitude": -6.41667,
+      "longitude": 147.5
+    },
+    {
+      "id": 8657211,
+      "name": "Huon District",
+      "nativeName": "Huon Gulf",
+      "code": "PG-MPL-8657211",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-MPL",
+      "latitude": -7.18333,
+      "longitude": 146.95
+    },
+    {
+      "id": 2095129,
+      "name": "Kabwum District",
+      "nativeName": "Kabwum",
+      "code": "PG-MPL-2095129",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-MPL",
+      "latitude": -6.08333,
+      "longitude": 147
+    },
+    {
+      "id": 2092738,
+      "name": "Lae District",
+      "nativeName": "Lae",
+      "code": "PG-MPL-2092738",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-MPL",
+      "latitude": -6.5,
+      "longitude": 146.83333
+    },
+    {
+      "id": 9855507,
+      "name": "Markham District",
+      "nativeName": "Markham",
+      "code": "PG-MPL-9855507",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-MPL",
+      "latitude": -6.64153,
+      "longitude": 146.86043
+    },
+    {
+      "id": 2090950,
+      "name": "Menyamya District",
+      "nativeName": "Menyamya",
+      "code": "PG-MPL-2090950",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-MPL",
+      "latitude": -7.25,
+      "longitude": 146.16667
+    },
+    {
+      "id": 8657212,
+      "name": "Nawae District",
+      "nativeName": "Nawae",
+      "code": "PG-MPL-8657212",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-MPL",
+      "latitude": -6.46667,
+      "longitude": 146.96667
+    },
+    {
+      "id": 8657213,
+      "name": "Tewae-Siassi District",
+      "nativeName": "Tewai Siassi",
+      "code": "PG-MPL-8657213",
+      "countryId": 2088628,
+      "countryCode": "PG",
+      "stateCode": "PG-MPL",
+      "latitude": -6.15,
+      "longitude": 147.53333
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "stateId": 1320233,
+  "stateCode": "MM-13",
+  "countryCode": "MM",
+  "cities": [
+    {
+      "id": 8238709,
+      "name": "Hpa-an District",
+      "nativeName": "Hpa-an District",
+      "code": "MM-13-8238709",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-13",
+      "latitude": 16.87289,
+      "longitude": 97.7179
+    },
+    {
+      "id": 11154017,
+      "name": "Hpapun",
+      "nativeName": "Hpapun",
+      "code": "MM-13-11154017",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-13",
+      "latitude": 18.07659,
+      "longitude": 97.36866
+    },
+    {
+      "id": 8238711,
+      "name": "Kawkareik District",
+      "nativeName": "Kawkareik District",
+      "code": "MM-13-8238711",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-13",
+      "latitude": 16.41501,
+      "longitude": 98.23975
+    },
+    {
+      "id": 8238710,
+      "name": "Myawaddy District",
+      "nativeName": "Myawaddy District",
+      "code": "MM-13-8238710",
+      "countryId": 1327865,
+      "countryCode": "MM",
+      "stateCode": "MM-13",
+      "latitude": 16.54108,
+      "longitude": 98.52983
+    }
+  ]
+}

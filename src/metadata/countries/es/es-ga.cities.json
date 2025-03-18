@@ -1,0 +1,51 @@
+{
+  "stateId": 3336902,
+  "stateCode": "ES-GA",
+  "countryCode": "ES",
+  "cities": [
+    {
+      "id": 3119840,
+      "name": "A Coruña",
+      "nativeName": "Provincia da Coruña",
+      "code": "ES-GA-3119840",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "stateCode": "ES-GA",
+      "latitude": 43.16667,
+      "longitude": -8.41667
+    },
+    {
+      "id": 3117813,
+      "name": "Lugo",
+      "nativeName": "Provincia de Lugo",
+      "code": "ES-GA-3117813",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "stateCode": "ES-GA",
+      "latitude": 43,
+      "longitude": -7.5
+    },
+    {
+      "id": 3114964,
+      "name": "Ourense",
+      "nativeName": "Provincia de Ourense",
+      "code": "ES-GA-3114964",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "stateCode": "ES-GA",
+      "latitude": 42.16667,
+      "longitude": -7.5
+    },
+    {
+      "id": 3113208,
+      "name": "Pontevedra",
+      "nativeName": "Provincia de Pontevedra",
+      "code": "ES-GA-3113208",
+      "countryId": 2510769,
+      "countryCode": "ES",
+      "stateCode": "ES-GA",
+      "latitude": 42.5,
+      "longitude": -8.5
+    }
+  ]
+}

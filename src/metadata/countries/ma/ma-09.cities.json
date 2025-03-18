@@ -1,0 +1,73 @@
+{
+  "stateId": 11281882,
+  "stateCode": "MA-09",
+  "countryCode": "MA",
+  "cities": [
+    {
+      "id": 2561655,
+      "name": "Agadir-Ida-ou-Tnan",
+      "nativeName": "Agadir-Ida-ou-Tnan",
+      "code": "MA-09-2561655",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-09",
+      "latitude": 30.58333,
+      "longitude": -9.5
+    },
+    {
+      "id": 6547291,
+      "name": "Chtouka-Ait-Baha",
+      "nativeName": "Chtouka-Ait-Baha",
+      "code": "MA-09-6547291",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-09",
+      "latitude": 30.02948,
+      "longitude": -9.30909
+    },
+    {
+      "id": 2545956,
+      "name": "Inezgane-Ait Melloul",
+      "nativeName": "Inezgane-Ait Melloul",
+      "code": "MA-09-2545956",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-09",
+      "latitude": 30.33717,
+      "longitude": -9.54507
+    },
+    {
+      "id": 2529647,
+      "name": "Taroudant Province",
+      "nativeName": "Taroudannt",
+      "code": "MA-09-2529647",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-09",
+      "latitude": 30.5,
+      "longitude": -8.41667
+    },
+    {
+      "id": 2529360,
+      "name": "Tata Province",
+      "nativeName": "Tata",
+      "code": "MA-09-2529360",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-09",
+      "latitude": 29.66667,
+      "longitude": -7.83333
+    },
+    {
+      "id": 2527087,
+      "name": "Tiznit Province",
+      "nativeName": "Tiznit",
+      "code": "MA-09-2527087",
+      "countryId": 2542007,
+      "countryCode": "MA",
+      "stateCode": "MA-09",
+      "latitude": 29.58333,
+      "longitude": -9.5
+    }
+  ]
+}

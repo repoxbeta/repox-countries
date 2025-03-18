@@ -1,0 +1,62 @@
+{
+  "stateId": 444191,
+  "stateCode": "LB-NA",
+  "countryCode": "LB",
+  "cities": [
+    {
+      "id": 276591,
+      "name": "Caza de Bent Jbaïl",
+      "nativeName": "Caza de Bent Jbaïl",
+      "code": "LB-NA-276591",
+      "countryId": 272103,
+      "countryCode": "LB",
+      "stateCode": "LB-NA",
+      "latitude": 33.15964,
+      "longitude": 35.41137
+    },
+    {
+      "id": 274311,
+      "name": "Caza de Hâsbaïya",
+      "nativeName": "Caza de Hâsbaïya",
+      "code": "LB-NA-274311",
+      "countryId": 272103,
+      "countryCode": "LB",
+      "stateCode": "LB-NA",
+      "latitude": 33.38612,
+      "longitude": 35.7228
+    },
+    {
+      "id": 278915,
+      "name": "El Nabatieh",
+      "nativeName": "Caza de Nabatîyé",
+      "code": "LB-NA-278915",
+      "countryId": 272103,
+      "countryCode": "LB",
+      "stateCode": "LB-NA",
+      "latitude": 33.39435,
+      "longitude": 35.44483
+    },
+    {
+      "id": 271225,
+      "name": "Marjaayoun",
+      "nativeName": "Caza de Marjayoûn",
+      "code": "LB-NA-271225",
+      "countryId": 272103,
+      "countryCode": "LB",
+      "stateCode": "LB-NA",
+      "latitude": 33.27511,
+      "longitude": 35.53822
+    },
+    {
+      "id": 7646521,
+      "name": "Marjayoun",
+      "nativeName": "Marjayoun",
+      "code": "LB-NA-7646521",
+      "countryId": 272103,
+      "countryCode": "LB",
+      "stateCode": "LB-NA",
+      "latitude": 33.34578,
+      "longitude": 35.53181
+    }
+  ]
+}

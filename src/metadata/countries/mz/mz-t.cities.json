@@ -1,0 +1,183 @@
+{
+  "stateId": 1026010,
+  "stateCode": "MZ-T",
+  "countryCode": "MZ",
+  "cities": [
+    {
+      "id": 11204389,
+      "name": "Angónia District",
+      "nativeName": "Angónia District",
+      "code": "MZ-T-11204389",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-T",
+      "latitude": -14.717,
+      "longitude": 34.367
+    },
+    {
+      "id": 7909828,
+      "name": "Cahora Bassa District",
+      "nativeName": "Cahora Bassa District",
+      "code": "MZ-T-7909828",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-T",
+      "latitude": -15.70766,
+      "longitude": 32.67334
+    },
+    {
+      "id": 7905000,
+      "name": "Changara District",
+      "nativeName": "Changara District",
+      "code": "MZ-T-7905000",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-T",
+      "latitude": -16.21651,
+      "longitude": 33.17113
+    },
+    {
+      "id": 7905199,
+      "name": "Chifunde District",
+      "nativeName": "Chifunde District",
+      "code": "MZ-T-7905199",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-T",
+      "latitude": -14.81794,
+      "longitude": 32.83331
+    },
+    {
+      "id": 7905529,
+      "name": "Chiuta District",
+      "nativeName": "Chiuta District",
+      "code": "MZ-T-7905529",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-T",
+      "latitude": -15.564,
+      "longitude": 33.302
+    },
+    {
+      "id": 9252731,
+      "name": "Cidade de Tete",
+      "nativeName": "Cidade de Tete",
+      "code": "MZ-T-9252731",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-T",
+      "latitude": -16.13858,
+      "longitude": 33.56715
+    },
+    {
+      "id": 1035304,
+      "name": "Circunscrição da Mutarara",
+      "nativeName": "Circunscrição da Mutarara",
+      "code": "MZ-T-1035304",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-T",
+      "latitude": -16.86781,
+      "longitude": 34.77309
+    },
+    {
+      "id": 1041912,
+      "name": "Circunscrição de Màgoé",
+      "nativeName": "Circunscrição de Màgoé",
+      "code": "MZ-T-1041912",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-T",
+      "latitude": -15.90349,
+      "longitude": 31.36636
+    },
+    {
+      "id": 10703925,
+      "name": "Dôa District",
+      "nativeName": "Distrito de Dôa",
+      "code": "MZ-T-10703925",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-T",
+      "latitude": -16.58312,
+      "longitude": 34.53282
+    },
+    {
+      "id": 9252732,
+      "name": "Luenha",
+      "nativeName": "Luenha",
+      "code": "MZ-T-9252732",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-T",
+      "latitude": -16.86756,
+      "longitude": 33.11862
+    },
+    {
+      "id": 1042871,
+      "name": "Macanga District",
+      "nativeName": "Circunscrição da Macanga",
+      "code": "MZ-T-1042871",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-T",
+      "latitude": -14.80209,
+      "longitude": 33.53494
+    },
+    {
+      "id": 10704473,
+      "name": "Marara District",
+      "nativeName": "Distrito de Marara",
+      "code": "MZ-T-10704473",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-T",
+      "latitude": -16.03804,
+      "longitude": 33.18387
+    },
+    {
+      "id": 1040587,
+      "name": "Marávia District",
+      "nativeName": "Circunscrição de Marávia",
+      "code": "MZ-T-1040587",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-T",
+      "latitude": -15.0931,
+      "longitude": 32.06545
+    },
+    {
+      "id": 1037394,
+      "name": "Moatize",
+      "nativeName": "Moatize",
+      "code": "MZ-T-1037394",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-T",
+      "latitude": -15.97317,
+      "longitude": 34.00248
+    },
+    {
+      "id": 7874106,
+      "name": "Tsangano District",
+      "nativeName": "Tsangano District",
+      "code": "MZ-T-7874106",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-T",
+      "latitude": -15.20012,
+      "longitude": 34.32685
+    },
+    {
+      "id": 9252739,
+      "name": "Zumbu",
+      "nativeName": "Zumbu",
+      "code": "MZ-T-9252739",
+      "countryId": 1036973,
+      "countryCode": "MZ",
+      "stateCode": "MZ-T",
+      "latitude": -15.22929,
+      "longitude": 30.93412
+    }
+  ]
+}

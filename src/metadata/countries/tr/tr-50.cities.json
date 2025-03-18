@@ -1,0 +1,95 @@
+{
+  "stateId": 303830,
+  "stateCode": "TR-50",
+  "countryCode": "TR",
+  "cities": [
+    {
+      "id": 8631927,
+      "name": "Acıgöl District",
+      "nativeName": "Acıgöl İlçesi",
+      "code": "TR-50-8631927",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-50",
+      "latitude": 38.56101,
+      "longitude": 34.5173
+    },
+    {
+      "id": 8631930,
+      "name": "Avanos District",
+      "nativeName": "Avanos İlçesi",
+      "code": "TR-50-8631930",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-50",
+      "latitude": 38.72396,
+      "longitude": 34.85313
+    },
+    {
+      "id": 8631932,
+      "name": "Derinkuyu District",
+      "nativeName": "Derinkuyu İlçesi",
+      "code": "TR-50-8631932",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-50",
+      "latitude": 38.34622,
+      "longitude": 34.7384
+    },
+    {
+      "id": 8631929,
+      "name": "Gülşehir İlçesi",
+      "nativeName": "Gülşehir İlçesi",
+      "code": "TR-50-8631929",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-50",
+      "latitude": 38.75561,
+      "longitude": 34.62993
+    },
+    {
+      "id": 8631934,
+      "name": "Hacıbektaş District",
+      "nativeName": "Hacıbektaş İlçesi",
+      "code": "TR-50-8631934",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-50",
+      "latitude": 38.95079,
+      "longitude": 34.56283
+    },
+    {
+      "id": 8631933,
+      "name": "Kozaklı İlçesi",
+      "nativeName": "Kozaklı İlçesi",
+      "code": "TR-50-8631933",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-50",
+      "latitude": 39.23204,
+      "longitude": 34.85585
+    },
+    {
+      "id": 7732945,
+      "name": "Merkez",
+      "nativeName": "Merkez",
+      "code": "TR-50-7732945",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-50",
+      "latitude": 38.60039,
+      "longitude": 34.68537
+    },
+    {
+      "id": 7732946,
+      "name": "Ürgüp",
+      "nativeName": "Ürgüp",
+      "code": "TR-50-7732946",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-50",
+      "latitude": 38.57342,
+      "longitude": 34.9402
+    }
+  ]
+}

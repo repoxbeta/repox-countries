@@ -1,0 +1,62 @@
+{
+  "stateId": 5224323,
+  "stateCode": "US-RI",
+  "countryCode": "US",
+  "cities": [
+    {
+      "id": 5221078,
+      "name": "Bristol",
+      "nativeName": "Bristol County",
+      "code": "US-RI-5221078",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-RI",
+      "latitude": 41.70554,
+      "longitude": -71.28612
+    },
+    {
+      "id": 5222961,
+      "name": "Kent",
+      "nativeName": "Kent County",
+      "code": "US-RI-5222961",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-RI",
+      "latitude": 41.67334,
+      "longitude": -71.57895
+    },
+    {
+      "id": 5223601,
+      "name": "Newport",
+      "nativeName": "Newport County",
+      "code": "US-RI-5223601",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-RI",
+      "latitude": 41.4998,
+      "longitude": -71.281
+    },
+    {
+      "id": 5224162,
+      "name": "Providence",
+      "nativeName": "Providence County",
+      "code": "US-RI-5224162",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-RI",
+      "latitude": 41.87136,
+      "longitude": -71.5786
+    },
+    {
+      "id": 5225535,
+      "name": "Washington",
+      "nativeName": "Washington County",
+      "code": "US-RI-5225535",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-RI",
+      "latitude": 41.39649,
+      "longitude": -71.61966
+    }
+  ]
+}

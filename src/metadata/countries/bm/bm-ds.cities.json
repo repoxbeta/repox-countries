@@ -1,0 +1,29 @@
+{
+  "stateId": 3573251,
+  "stateCode": "BM-DS",
+  "countryCode": "BM",
+  "cities": [
+    {
+      "id": 3573339,
+      "name": "Bethaven",
+      "nativeName": "Bethaven",
+      "code": "BM-DS-3573339",
+      "countryId": 3573345,
+      "countryCode": "BM",
+      "stateCode": "BM-DS",
+      "latitude": 32.28333,
+      "longitude": -64.75
+    },
+    {
+      "id": 3573110,
+      "name": "North Shore Village",
+      "nativeName": "North Shore Village",
+      "code": "BM-DS-3573110",
+      "countryId": 3573345,
+      "countryCode": "BM",
+      "stateCode": "BM-DS",
+      "latitude": 32.30639,
+      "longitude": -64.77361
+    }
+  ]
+}

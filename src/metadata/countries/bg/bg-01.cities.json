@@ -1,0 +1,161 @@
+{
+  "stateId": 733192,
+  "stateCode": "BG-01",
+  "countryCode": "BG",
+  "cities": [
+    {
+      "id": 733461,
+      "name": "Bansko",
+      "nativeName": "Obshtina Bansko",
+      "code": "BG-01-733461",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-01",
+      "latitude": 41.8,
+      "longitude": 23.6
+    },
+    {
+      "id": 733315,
+      "name": "Belitsa",
+      "nativeName": "Obshtina Belitsa",
+      "code": "BG-01-733315",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-01",
+      "latitude": 42.01667,
+      "longitude": 23.58333
+    },
+    {
+      "id": 733190,
+      "name": "Blagoevgrad",
+      "nativeName": "Obshtina Blagoevgrad",
+      "code": "BG-01-733190",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-01",
+      "latitude": 42.01667,
+      "longitude": 23.16667
+    },
+    {
+      "id": 730959,
+      "name": "Garmen",
+      "nativeName": "Obshtina Garmen",
+      "code": "BG-01-730959",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-01",
+      "latitude": 41.7,
+      "longitude": 23.85
+    },
+    {
+      "id": 731107,
+      "name": "Gotse Delchev",
+      "nativeName": "Obshtina Gotse Delchev",
+      "code": "BG-01-731107",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-01",
+      "latitude": 41.63333,
+      "longitude": 23.68333
+    },
+    {
+      "id": 730463,
+      "name": "Hadzhidimovo",
+      "nativeName": "Hadzhidimovo",
+      "code": "BG-01-730463",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-01",
+      "latitude": 41.5,
+      "longitude": 23.83333
+    },
+    {
+      "id": 729941,
+      "name": "Kresna",
+      "nativeName": "Obshtina Kresna",
+      "code": "BG-01-729941",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-01",
+      "latitude": 41.76667,
+      "longitude": 23.23333
+    },
+    {
+      "id": 728286,
+      "name": "Petrich",
+      "nativeName": "Obshtina Petrich",
+      "code": "BG-01-728286",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-01",
+      "latitude": 41.45,
+      "longitude": 23.16667
+    },
+    {
+      "id": 727688,
+      "name": "Razlog",
+      "nativeName": "Obshtina Razlog",
+      "code": "BG-01-727688",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-01",
+      "latitude": 41.95,
+      "longitude": 23.46667
+    },
+    {
+      "id": 727446,
+      "name": "Sandanski",
+      "nativeName": "Obshtina Sandanski",
+      "code": "BG-01-727446",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-01",
+      "latitude": 41.56667,
+      "longitude": 23.45
+    },
+    {
+      "id": 727422,
+      "name": "Satovcha",
+      "nativeName": "Obshtina Satovcha",
+      "code": "BG-01-727422",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-01",
+      "latitude": 41.59848,
+      "longitude": 24.00781
+    },
+    {
+      "id": 727211,
+      "name": "Simitli",
+      "nativeName": "Obshtina Simitli",
+      "code": "BG-01-727211",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-01",
+      "latitude": 41.88333,
+      "longitude": 23.16667
+    },
+    {
+      "id": 726692,
+      "name": "Strumyani",
+      "nativeName": "Obshtina Strumyani",
+      "code": "BG-01-726692",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-01",
+      "latitude": 41.63333,
+      "longitude": 23.2
+    },
+    {
+      "id": 725585,
+      "name": "Yakoruda",
+      "nativeName": "Obshtina Yakoruda",
+      "code": "BG-01-725585",
+      "countryId": 732800,
+      "countryCode": "BG",
+      "stateCode": "BG-01",
+      "latitude": 42.08333,
+      "longitude": 23.7
+    }
+  ]
+}

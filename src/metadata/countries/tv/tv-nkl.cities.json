@@ -1,0 +1,29 @@
+{
+  "stateId": 7601983,
+  "stateCode": "TV-NKL",
+  "countryCode": "TV",
+  "cities": [
+    {
+      "id": 7602153,
+      "name": "Nukualofa Village",
+      "nativeName": "Nukualofa Village",
+      "code": "TV-NKL-7602153",
+      "countryId": 2110297,
+      "countryCode": "TV",
+      "stateCode": "TV-NKL",
+      "latitude": -9.37058,
+      "longitude": 179.80785
+    },
+    {
+      "id": 7602154,
+      "name": "Pepesala Village",
+      "nativeName": "Pepesala Village",
+      "code": "TV-NKL-7602154",
+      "countryId": 2110297,
+      "countryCode": "TV",
+      "stateCode": "TV-NKL",
+      "latitude": -9.37322,
+      "longitude": 179.80917
+    }
+  ]
+}

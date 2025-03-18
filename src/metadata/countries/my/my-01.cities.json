@@ -1,0 +1,117 @@
+{
+  "stateId": 1733049,
+  "stateCode": "MY-01",
+  "countryCode": "MY",
+  "cities": [
+    {
+      "id": 1732686,
+      "name": "Daerah Batu Pahat",
+      "nativeName": "Daerah Batu Pahat",
+      "code": "MY-01-1732686",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-01",
+      "latitude": 1.93333,
+      "longitude": 103
+    },
+    {
+      "id": 1732751,
+      "name": "Daerah Johor Baharu",
+      "nativeName": "Daerah Johor Baharu",
+      "code": "MY-01-1732751",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-01",
+      "latitude": 1.5141,
+      "longitude": 103.75252
+    },
+    {
+      "id": 1732810,
+      "name": "Daerah Keluang",
+      "nativeName": "Daerah Keluang",
+      "code": "MY-01-1732810",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-01",
+      "latitude": 2.2,
+      "longitude": 103.33333
+    },
+    {
+      "id": 1732737,
+      "name": "Daerah Kota Tinggi",
+      "nativeName": "Daerah Kota Tinggi",
+      "code": "MY-01-1732737",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-01",
+      "latitude": 1.81667,
+      "longitude": 103.96667
+    },
+    {
+      "id": 1732827,
+      "name": "Daerah Mersing",
+      "nativeName": "Daerah Mersing",
+      "code": "MY-01-1732827",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-01",
+      "latitude": 2.31667,
+      "longitude": 103.71667
+    },
+    {
+      "id": 1732868,
+      "name": "Daerah Muar",
+      "nativeName": "Daerah Muar",
+      "code": "MY-01-1732868",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-01",
+      "latitude": 2.05101,
+      "longitude": 102.62068
+    },
+    {
+      "id": 1732707,
+      "name": "Daerah Pontian",
+      "nativeName": "Daerah Pontian",
+      "code": "MY-01-1732707",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-01",
+      "latitude": 1.5,
+      "longitude": 103.5
+    },
+    {
+      "id": 1732847,
+      "name": "Daerah Segamat",
+      "nativeName": "Daerah Segamat",
+      "code": "MY-01-1732847",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-01",
+      "latitude": 2.6,
+      "longitude": 102.81667
+    },
+    {
+      "id": 12231200,
+      "name": "Kulaijaya",
+      "nativeName": "Kulaijaya",
+      "code": "MY-01-12231200",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-01",
+      "latitude": 1.67815,
+      "longitude": 103.55799
+    },
+    {
+      "id": 12231253,
+      "name": "Ledang",
+      "nativeName": "Ledang",
+      "code": "MY-01-12231253",
+      "countryId": 1733045,
+      "countryCode": "MY",
+      "stateCode": "MY-01",
+      "latitude": 2.2729,
+      "longitude": 102.63885
+    }
+  ]
+}

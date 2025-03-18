@@ -1,0 +1,62 @@
+{
+  "stateId": 2616145,
+  "stateCode": "FO-NO",
+  "countryCode": "FO",
+  "cities": [
+    {
+      "id": 2621795,
+      "name": "Fugloy",
+      "nativeName": "Fugloy",
+      "code": "FO-NO-2621795",
+      "countryId": 2622320,
+      "countryCode": "FO",
+      "stateCode": "FO-NO",
+      "latitude": 62.33686,
+      "longitude": -6.29791
+    },
+    {
+      "id": 2619569,
+      "name": "Hvannasund",
+      "nativeName": "Hvannasund",
+      "code": "FO-NO-2619569",
+      "countryId": 2622320,
+      "countryCode": "FO",
+      "stateCode": "FO-NO",
+      "latitude": 62.29667,
+      "longitude": -6.55334
+    },
+    {
+      "id": 2618796,
+      "name": "Klaksvik",
+      "nativeName": "Klaksvik",
+      "code": "FO-NO-2618796",
+      "countryId": 2622320,
+      "countryCode": "FO",
+      "stateCode": "FO-NO",
+      "latitude": 62.22636,
+      "longitude": -6.54922
+    },
+    {
+      "id": 2618121,
+      "name": "Kunoy",
+      "nativeName": "Kunoy",
+      "code": "FO-NO-2618121",
+      "countryId": 2622320,
+      "countryCode": "FO",
+      "stateCode": "FO-NO",
+      "latitude": 62.31964,
+      "longitude": -6.67419
+    },
+    {
+      "id": 2610303,
+      "name": "Viðareiði",
+      "nativeName": "Viðareiði",
+      "code": "FO-NO-2610303",
+      "countryId": 2622320,
+      "countryCode": "FO",
+      "stateCode": "FO-NO",
+      "latitude": 62.36299,
+      "longitude": -6.53
+    }
+  ]
+}

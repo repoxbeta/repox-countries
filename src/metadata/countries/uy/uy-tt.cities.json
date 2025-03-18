@@ -1,0 +1,73 @@
+{
+  "stateId": 3439780,
+  "stateCode": "UY-TT",
+  "countryCode": "UY",
+  "cities": [
+    {
+      "id": 13107359,
+      "name": "Municipio de Cerro Chato",
+      "nativeName": "Municipio de Cerro Chato",
+      "code": "UY-TT-13107359",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-TT",
+      "latitude": -33.14302,
+      "longitude": -55.0779
+    },
+    {
+      "id": 13107357,
+      "name": "Municipio de General Enrique Martínez",
+      "nativeName": "Municipio de General Enrique Martínez",
+      "code": "UY-TT-13107357",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-TT",
+      "latitude": -33.1574,
+      "longitude": -53.94336
+    },
+    {
+      "id": 13107360,
+      "name": "Municipio de Rincón",
+      "nativeName": "Municipio de Rincón",
+      "code": "UY-TT-13107360",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-TT",
+      "latitude": -32.8611,
+      "longitude": -53.51878
+    },
+    {
+      "id": 11820799,
+      "name": "Municipio de Vergara",
+      "nativeName": "Municipio de Vergara",
+      "code": "UY-TT-11820799",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-TT",
+      "latitude": -32.94131,
+      "longitude": -54.06854
+    },
+    {
+      "id": 11820798,
+      "name": "Santa Clara De Olimar",
+      "nativeName": "Santa Clara De Olimar",
+      "code": "UY-TT-11820798",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-TT",
+      "latitude": -33.00147,
+      "longitude": -54.89286
+    },
+    {
+      "id": 13107356,
+      "name": "Villa Sara",
+      "nativeName": "Villa Sara",
+      "code": "UY-TT-13107356",
+      "countryId": 3439705,
+      "countryCode": "UY",
+      "stateCode": "UY-TT",
+      "latitude": -33.3273,
+      "longitude": -54.43579
+    }
+  ]
+}

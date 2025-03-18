@@ -1,0 +1,51 @@
+{
+  "stateId": 3374274,
+  "stateCode": "CV-RG",
+  "countryCode": "CV",
+  "cities": [
+    {
+      "id": 11996038,
+      "name": "Nossa Senhora do Livramento",
+      "nativeName": "Nossa Senhora do Livramento",
+      "code": "CV-RG-11996038",
+      "countryId": 3374766,
+      "countryCode": "CV",
+      "stateCode": "CV-RG",
+      "latitude": 17.18228,
+      "longitude": -25.11019
+    },
+    {
+      "id": 11468013,
+      "name": "Nossa Senhora do Rosário",
+      "nativeName": "Nossa Senhora do Rosário",
+      "code": "CV-RG-11468013",
+      "countryId": 3374766,
+      "countryCode": "CV",
+      "stateCode": "CV-RG",
+      "latitude": 17.16,
+      "longitude": -25.06
+    },
+    {
+      "id": 11468615,
+      "name": "Santo Crucifixo",
+      "nativeName": "Santo Crucifixo",
+      "code": "CV-RG-11468615",
+      "countryId": 3374766,
+      "countryCode": "CV",
+      "stateCode": "CV-RG",
+      "latitude": 17.12931,
+      "longitude": -25.12075
+    },
+    {
+      "id": 11996045,
+      "name": "Sao Pedro Apostolo",
+      "nativeName": "Sao Pedro Apostolo",
+      "code": "CV-RG-11996045",
+      "countryId": 3374766,
+      "countryCode": "CV",
+      "stateCode": "CV-RG",
+      "latitude": 17.12925,
+      "longitude": -25.1769
+    }
+  ]
+}

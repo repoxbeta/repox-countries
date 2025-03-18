@@ -1,0 +1,61 @@
+{
+  "countryId": 4030656,
+  "countryCode": "PF",
+  "states": [
+    {
+      "id": 4034364,
+      "name": "Leeward Islands",
+      "nativeName": "Îles Sous-le-Vent",
+      "code": "PF-S",
+      "internalCode": "S",
+      "countryId": 4030656,
+      "countryCode": "PF",
+      "latitude": -16.66667,
+      "longitude": -151.5
+    },
+    {
+      "id": 4034366,
+      "name": "Îles Australes",
+      "nativeName": "Îles Australes",
+      "code": "PF-I",
+      "internalCode": "I",
+      "countryId": 4030656,
+      "countryCode": "PF",
+      "latitude": -23.37156,
+      "longitude": -149.46617
+    },
+    {
+      "id": 4019991,
+      "name": "Îles Marquises",
+      "nativeName": "Îles Marquises",
+      "code": "PF-M",
+      "internalCode": "M",
+      "countryId": 4030656,
+      "countryCode": "PF",
+      "latitude": -9.75,
+      "longitude": -139
+    },
+    {
+      "id": 4030621,
+      "name": "Îles Tuamotu-Gambier",
+      "nativeName": "Îles Tuamotu-Gambier",
+      "code": "PF-T",
+      "internalCode": "T",
+      "countryId": 4030656,
+      "countryCode": "PF",
+      "latitude": -18.14006,
+      "longitude": -140.88632
+    },
+    {
+      "id": 4034365,
+      "name": "Îles du Vent",
+      "nativeName": "Îles du Vent",
+      "code": "PF-V",
+      "internalCode": "V",
+      "countryId": 4030656,
+      "countryCode": "PF",
+      "latitude": -17.63739,
+      "longitude": -149.51715
+    }
+  ]
+}
