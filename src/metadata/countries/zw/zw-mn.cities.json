@@ -4,17 +4,6 @@
   "countryCode": "ZW",
   "cities": [
     {
-      "id": 895055,
-      "name": "Binga District",
-      "nativeName": "Binga District",
-      "code": "ZW-MN-895055",
-      "countryId": 878675,
-      "countryCode": "ZW",
-      "stateCode": "ZW-MN",
-      "latitude": -17.8046,
-      "longitude": 27.70088
-    },
-    {
       "id": 894741,
       "name": "Bubi District",
       "nativeName": "Bubi District",
@@ -38,7 +27,7 @@
     },
     {
       "id": 888223,
-      "name": "Lupani District",
+      "name": "Lupane District",
       "nativeName": "Lupane District",
       "code": "ZW-MN-888223",
       "countryId": 878675,
@@ -79,6 +68,17 @@
       "stateCode": "ZW-MN",
       "latitude": -19.85324,
       "longitude": 28.31408
+    },
+    {
+      "id": 895055,
+      "name": "Vinga",
+      "nativeName": "Binga District",
+      "code": "ZW-MN-895055",
+      "countryId": 878675,
+      "countryCode": "ZW",
+      "stateCode": "ZW-MN",
+      "latitude": -17.8046,
+      "longitude": 27.70088
     }
   ]
 }

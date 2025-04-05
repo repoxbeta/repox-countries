@@ -91,6 +91,17 @@
       "longitude": 45.5
     },
     {
+      "id": 56084,
+      "name": "Jubbada Dhexe Region",
+      "nativeName": "Gobolka Jubbada Dhexe",
+      "code": "SO-JD",
+      "internalCode": "JD",
+      "countryId": 51537,
+      "countryCode": "SO",
+      "latitude": 1.33333,
+      "longitude": 42.66667
+    },
+    {
       "id": 56083,
       "name": "Lower Juba",
       "nativeName": "Gobolka Jubbada Hoose",
@@ -113,19 +124,8 @@
       "longitude": 44.41667
     },
     {
-      "id": 56084,
-      "name": "Middle Juba",
-      "nativeName": "Gobolka Jubbada Dhexe",
-      "code": "SO-JD",
-      "internalCode": "JD",
-      "countryId": 51537,
-      "countryCode": "SO",
-      "latitude": 1.33333,
-      "longitude": 42.66667
-    },
-    {
       "id": 51967,
-      "name": "Middle Shabele",
+      "name": "Middle Shabeelle",
       "nativeName": "Gobolka Shabeellaha Dhexe",
       "code": "SO-SD",
       "internalCode": "SD",

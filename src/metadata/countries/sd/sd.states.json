@@ -91,6 +91,17 @@
       "longitude": 29.93333
     },
     {
+      "id": 378389,
+      "name": "Northern",
+      "nativeName": "Northern",
+      "code": "SD-NO",
+      "internalCode": "NO",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "latitude": 19.3,
+      "longitude": 29.5
+    },
+    {
       "id": 408666,
       "name": "Northern Darfur",
       "nativeName": "North Darfur",
@@ -157,28 +168,6 @@
       "longitude": 30.83333
     },
     {
-      "id": 378389,
-      "name": "The Northern State",
-      "nativeName": "Northern",
-      "code": "SD-NO",
-      "internalCode": "NO",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "latitude": 19.3,
-      "longitude": 29.5
-    },
-    {
-      "id": 408659,
-      "name": "West Kordofan",
-      "nativeName": "West Kordofan State",
-      "code": "SD-GK",
-      "internalCode": "GK",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "latitude": 11.83333,
-      "longitude": 28.31667
-    },
-    {
       "id": 408658,
       "name": "Western Darfur",
       "nativeName": "Sultanate Dar Massalit",
@@ -188,6 +177,17 @@
       "countryCode": "SD",
       "latitude": 13.41667,
       "longitude": 22.66667
+    },
+    {
+      "id": 408659,
+      "name": "Western Kordofan",
+      "nativeName": "West Kordofan State",
+      "code": "SD-GK",
+      "internalCode": "GK",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "latitude": 11.83333,
+      "longitude": 28.31667
     },
     {
       "id": 408653,

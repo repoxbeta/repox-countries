@@ -48,17 +48,6 @@
       "longitude": 34.39827
     },
     {
-      "id": 699442,
-      "name": "Novomoskovsk Raion",
-      "nativeName": "Novomoskovsk Raion",
-      "code": "UA-12-699442",
-      "countryId": 690791,
-      "countryCode": "UA",
-      "stateCode": "UA-12",
-      "latitude": 48.62727,
-      "longitude": 35.25853
-    },
-    {
       "id": 697888,
       "name": "Pavlohrad Raion",
       "nativeName": "Pavlohrad Raion",
@@ -68,6 +57,17 @@
       "stateCode": "UA-12",
       "latitude": 48.52635,
       "longitude": 35.87008
+    },
+    {
+      "id": 699442,
+      "name": "Samar Raion",
+      "nativeName": "Samar Raion",
+      "code": "UA-12-699442",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "stateCode": "UA-12",
+      "latitude": 48.62727,
+      "longitude": 35.25853
     },
     {
       "id": 693793,

@@ -334,17 +334,6 @@
       "longitude": 47.04138
     },
     {
-      "id": 586766,
-      "name": "Daşüz",
-      "nativeName": "Daşüz",
-      "code": "AZ-SAK-586766",
-      "countryId": 587116,
-      "countryCode": "AZ",
-      "stateCode": "AZ-SAK",
-      "latitude": 41.10025,
-      "longitude": 47.08072
-    },
-    {
       "id": 824002,
       "name": "Daşüz",
       "nativeName": "Daşüz",
@@ -354,6 +343,17 @@
       "stateCode": "AZ-SAK",
       "latitude": 41.09712,
       "longitude": 47.08369
+    },
+    {
+      "id": 586766,
+      "name": "Daşüz",
+      "nativeName": "Daşüz",
+      "code": "AZ-SAK-586766",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-SAK",
+      "latitude": 41.10025,
+      "longitude": 47.08072
     },
     {
       "id": 586745,

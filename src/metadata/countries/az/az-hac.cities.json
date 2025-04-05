@@ -279,17 +279,6 @@
       "longitude": 48.87482
     },
     {
-      "id": 825073,
-      "name": "Pirsaat",
-      "nativeName": "Pirsaat",
-      "code": "AZ-HAC-825073",
-      "countryId": 587116,
-      "countryCode": "AZ",
-      "stateCode": "AZ-HAC",
-      "latitude": 40.04719,
-      "longitude": 49.04684
-    },
-    {
       "id": 400072,
       "name": "Pirsaat",
       "nativeName": "Pirsaat",
@@ -299,6 +288,17 @@
       "stateCode": "AZ-HAC",
       "latitude": 39.84697,
       "longitude": 49.32697
+    },
+    {
+      "id": 825073,
+      "name": "Pirsaat",
+      "nativeName": "Pirsaat",
+      "code": "AZ-HAC-825073",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-HAC",
+      "latitude": 40.04719,
+      "longitude": 49.04684
     },
     {
       "id": 825075,

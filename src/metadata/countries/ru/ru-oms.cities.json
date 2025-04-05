@@ -4,6 +4,17 @@
   "countryCode": "RU",
   "cities": [
     {
+      "id": 13263943,
+      "name": "Azovskiy Nemetskiy Natsional'nyy Rayon",
+      "nativeName": "Azovskiy Nemetskiy Natsional'nyy Rayon",
+      "code": "RU-OMS-13263943",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-OMS",
+      "latitude": 54.64855,
+      "longitude": 72.90447
+    },
+    {
       "id": 12640029,
       "name": "Azovsky Nemetsky National District",
       "nativeName": "Azovsky Nemetsky National District",
@@ -22,8 +33,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-OMS",
-      "latitude": 56.08333,
-      "longitude": 74.5
+      "latitude": 56.1608,
+      "longitude": 74.34055
     },
     {
       "id": 1509486,
@@ -33,8 +44,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-OMS",
-      "latitude": 56.83333,
-      "longitude": 72.5
+      "latitude": 56.92914,
+      "longitude": 72.42197
     },
     {
       "id": 1508135,
@@ -44,8 +55,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-OMS",
-      "latitude": 54.25,
-      "longitude": 75.25
+      "latitude": 54.28934,
+      "longitude": 75.07696
     },
     {
       "id": 1506349,
@@ -55,8 +66,30 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-OMS",
-      "latitude": 55.5,
-      "longitude": 74.08333
+      "latitude": 55.49999,
+      "longitude": 74.08324
+    },
+    {
+      "id": 13263937,
+      "name": "Gorodskoy Okrug Omsk",
+      "nativeName": "Gorodskoy Okrug Omsk",
+      "code": "RU-OMS-13263937",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-OMS",
+      "latitude": 54.96645,
+      "longitude": 73.33641
+    },
+    {
+      "id": 13263938,
+      "name": "Isil'kul'skoye Gorodskoye Poseleniye",
+      "nativeName": "Isil'kul'skoye Gorodskoye Poseleniye",
+      "code": "RU-OMS-13263938",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-OMS",
+      "latitude": 54.92128,
+      "longitude": 71.26287
     },
     {
       "id": 1505437,
@@ -66,8 +99,19 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-OMS",
-      "latitude": 55,
-      "longitude": 71.25
+      "latitude": 54.89616,
+      "longitude": 71.36748
+    },
+    {
+      "id": 13263942,
+      "name": "Kalachinskoye Gorodskoye Poseleniye",
+      "nativeName": "Kalachinskoye Gorodskoye Poseleniye",
+      "code": "RU-OMS-13263942",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-OMS",
+      "latitude": 55.05125,
+      "longitude": 74.57084
     },
     {
       "id": 1505070,
@@ -77,8 +121,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-OMS",
-      "latitude": 55.08333,
-      "longitude": 74.75
+      "latitude": 55.08328,
+      "longitude": 74.75005
     },
     {
       "id": 1502877,
@@ -88,8 +132,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-OMS",
-      "latitude": 54.58333,
-      "longitude": 73.58333
+      "latitude": 56.39247,
+      "longitude": 73.5131
     },
     {
       "id": 1502525,
@@ -99,8 +143,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-OMS",
-      "latitude": 55,
-      "longitude": 74.08333
+      "latitude": 54.9521,
+      "longitude": 74.16056
     },
     {
       "id": 1501688,
@@ -110,8 +154,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-OMS",
-      "latitude": 56.25,
-      "longitude": 71.5
+      "latitude": 56.25018,
+      "longitude": 71.49949
     },
     {
       "id": 1500124,
@@ -121,8 +165,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-OMS",
-      "latitude": 55.25,
-      "longitude": 72.5
+      "latitude": 55.29519,
+      "longitude": 72.5488
     },
     {
       "id": 1499276,
@@ -154,8 +198,19 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-OMS",
-      "latitude": 56.41667,
-      "longitude": 75.5
+      "latitude": 56.30573,
+      "longitude": 75.34785
+    },
+    {
+      "id": 13263939,
+      "name": "Nazyvayevskoye Gorodskoye Poseleniye",
+      "nativeName": "Nazyvayevskoye Gorodskoye Poseleniye",
+      "code": "RU-OMS-13263939",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-OMS",
+      "latitude": 55.56618,
+      "longitude": 71.34864
     },
     {
       "id": 1497930,
@@ -176,8 +231,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-OMS",
-      "latitude": 55.5,
-      "longitude": 74.91667
+      "latitude": 55.5927,
+      "longitude": 74.85864
     },
     {
       "id": 1496632,
@@ -209,8 +264,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-OMS",
-      "latitude": 54.75,
-      "longitude": 75.25
+      "latitude": 54.75024,
+      "longitude": 75.24998
     },
     {
       "id": 12625495,
@@ -275,8 +330,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-OMS",
-      "latitude": 55.75,
-      "longitude": 73.41667
+      "latitude": 55.78523,
+      "longitude": 73.38169
     },
     {
       "id": 1492853,
@@ -286,8 +341,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-OMS",
-      "latitude": 57,
-      "longitude": 75.5
+      "latitude": 57.0235,
+      "longitude": 75.57296
     },
     {
       "id": 12625497,
@@ -301,6 +356,17 @@
       "longitude": 72.39452
     },
     {
+      "id": 13263941,
+      "name": "Tarskoye Gorodskoye Poseleniye",
+      "nativeName": "Tarskoye Gorodskoye Poseleniye",
+      "code": "RU-OMS-13263941",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-OMS",
+      "latitude": 56.89866,
+      "longitude": 74.3596
+    },
+    {
       "id": 1490074,
       "name": "Tarsky District",
       "nativeName": "Tarskiy Rayon",
@@ -308,8 +374,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-OMS",
-      "latitude": 56.75,
-      "longitude": 74.5
+      "latitude": 57.54715,
+      "longitude": 74.59643
     },
     {
       "id": 1489939,
@@ -319,8 +385,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-OMS",
-      "latitude": 54.58333,
-      "longitude": 73.58333
+      "latitude": 54.49899,
+      "longitude": 73.67423
     },
     {
       "id": 1489657,
@@ -330,8 +396,19 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-OMS",
-      "latitude": 57.75,
-      "longitude": 72.75
+      "latitude": 57.75001,
+      "longitude": 72.75004
+    },
+    {
+      "id": 13263940,
+      "name": "Tyukalinskoye Gorodskoye Poseleniye",
+      "nativeName": "Tyukalinskoye Gorodskoye Poseleniye",
+      "code": "RU-OMS-13263940",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-OMS",
+      "latitude": 55.86757,
+      "longitude": 72.19656
     },
     {
       "id": 1488778,
@@ -341,8 +418,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-OMS",
-      "latitude": 56,
-      "longitude": 72.5
+      "latitude": 56.00006,
+      "longitude": 72.49988
     },
     {
       "id": 1488205,
@@ -363,8 +440,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-OMS",
-      "latitude": 57.25,
-      "longitude": 73.75
+      "latitude": 57.22265,
+      "longitude": 73.59945
     }
   ]
 }

@@ -642,17 +642,6 @@
       "longitude": 25.42823
     },
     {
-      "id": 8334992,
-      "name": "Municipiul  Topliţa",
-      "nativeName": "Municipiul  Topliţa",
-      "code": "RO-HR-8334992",
-      "countryId": 798549,
-      "countryCode": "RO",
-      "stateCode": "RO-HR",
-      "latitude": 46.93701,
-      "longitude": 25.36052
-    },
-    {
       "id": 8334611,
       "name": "Municipiul Gheorgheni",
       "nativeName": "Municipiul Gheorgheni",
@@ -684,6 +673,17 @@
       "stateCode": "RO-HR",
       "latitude": 46.30646,
       "longitude": 25.29551
+    },
+    {
+      "id": 8334992,
+      "name": "Municipiul Topliţa",
+      "nativeName": "Municipiul Topliţa",
+      "code": "RO-HR-8334992",
+      "countryId": 798549,
+      "countryCode": "RO",
+      "stateCode": "RO-HR",
+      "latitude": 46.93701,
+      "longitude": 25.36052
     },
     {
       "id": 8334764,

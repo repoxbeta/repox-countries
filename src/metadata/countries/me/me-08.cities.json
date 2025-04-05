@@ -334,17 +334,6 @@
       "longitude": 18.50647
     },
     {
-      "id": 3208012,
-      "name": "Ivovići",
-      "nativeName": "Ivovići",
-      "code": "ME-08-3208012",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-08",
-      "latitude": 42.51333,
-      "longitude": 18.61778
-    },
-    {
       "id": 3318220,
       "name": "Ivovići",
       "nativeName": "Ivovići",
@@ -354,6 +343,17 @@
       "stateCode": "ME-08",
       "latitude": 42.45028,
       "longitude": 18.62306
+    },
+    {
+      "id": 3208012,
+      "name": "Ivovići",
+      "nativeName": "Ivovići",
+      "code": "ME-08-3208012",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-08",
+      "latitude": 42.51333,
+      "longitude": 18.61778
     },
     {
       "id": 3208016,

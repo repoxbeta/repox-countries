@@ -36,17 +36,6 @@
       "longitude": -2.59194
     },
     {
-      "id": 6417215,
-      "name": "Saint Saviour",
-      "nativeName": "Saint Saviour",
-      "code": "GG-6417215",
-      "internalCode": "",
-      "countryId": 3042362,
-      "countryCode": "GG",
-      "latitude": 49.44972,
-      "longitude": -2.62389
-    },
-    {
       "id": 6417226,
       "name": "St Andrew",
       "nativeName": "Saint Andrew",
@@ -100,6 +89,17 @@
       "countryCode": "GG",
       "latitude": 49.48194,
       "longitude": -2.53722
+    },
+    {
+      "id": 6417215,
+      "name": "St. Saviour",
+      "nativeName": "Saint Saviour",
+      "code": "GG-6417215",
+      "internalCode": "",
+      "countryId": 3042362,
+      "countryCode": "GG",
+      "latitude": 49.44972,
+      "longitude": -2.62389
     },
     {
       "id": 6417214,

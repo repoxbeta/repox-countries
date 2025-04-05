@@ -37,19 +37,8 @@
       "longitude": 34.76578
     },
     {
-      "id": 877400,
-      "name": "Songea District Council",
-      "nativeName": "Songea",
-      "code": "TZ-21-877400",
-      "countryId": 149590,
-      "countryCode": "TZ",
-      "stateCode": "TZ-21",
-      "latitude": -10.39061,
-      "longitude": 35.40004
-    },
-    {
       "id": 9998183,
-      "name": "Songea Municipal Council",
+      "name": "Songea Municipal",
       "nativeName": "Songea Municipal",
       "code": "TZ-21-9998183",
       "countryId": 149590,
@@ -57,6 +46,17 @@
       "stateCode": "TZ-21",
       "latitude": -10.65701,
       "longitude": 35.62045
+    },
+    {
+      "id": 877400,
+      "name": "Songea Rural",
+      "nativeName": "Songea",
+      "code": "TZ-21-877400",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-21",
+      "latitude": -10.39061,
+      "longitude": 35.40004
     },
     {
       "id": 877377,

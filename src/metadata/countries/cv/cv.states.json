@@ -157,26 +157,15 @@
       "longitude": -23.56667
     },
     {
-      "id": 3411926,
-      "name": "Sao Domingos",
-      "nativeName": "Concelho de São Domingos",
-      "code": "CV-SD",
-      "internalCode": "SD",
+      "id": 7602873,
+      "name": "Sao Lourenco dos Orgaos",
+      "nativeName": "São Lourenço dos Órgãos",
+      "code": "CV-SO",
+      "internalCode": "SO",
       "countryId": 3374766,
       "countryCode": "CV",
-      "latitude": 15.01667,
-      "longitude": -23.53333
-    },
-    {
-      "id": 3411927,
-      "name": "Sao Filipe",
-      "nativeName": "Concelho do São Filipe",
-      "code": "CV-SF",
-      "internalCode": "SF",
-      "countryId": 3374766,
-      "countryCode": "CV",
-      "latitude": 14.93333,
-      "longitude": -24.43333
+      "latitude": 15.06667,
+      "longitude": -23.6
     },
     {
       "id": 7602871,
@@ -201,15 +190,26 @@
       "longitude": -25
     },
     {
-      "id": 7602873,
-      "name": "São Lourenço dos Órgãos",
-      "nativeName": "São Lourenço dos Órgãos",
-      "code": "CV-SO",
-      "internalCode": "SO",
+      "id": 3411926,
+      "name": "São Domingos",
+      "nativeName": "Concelho de São Domingos",
+      "code": "CV-SD",
+      "internalCode": "SD",
       "countryId": 3374766,
       "countryCode": "CV",
-      "latitude": 15.06667,
-      "longitude": -23.6
+      "latitude": 15.01667,
+      "longitude": -23.53333
+    },
+    {
+      "id": 3411927,
+      "name": "São Filipe",
+      "nativeName": "Concelho do São Filipe",
+      "code": "CV-SF",
+      "internalCode": "SF",
+      "countryId": 3374766,
+      "countryCode": "CV",
+      "latitude": 14.93333,
+      "longitude": -24.43333
     },
     {
       "id": 3411928,
@@ -235,7 +235,7 @@
     },
     {
       "id": 7602872,
-      "name": "Tarrafal de São Nicolau",
+      "name": "Tarrafal de Sao Nicolau",
       "nativeName": "Concelho do Tarrafal de São Nicolau",
       "code": "CV-TS",
       "internalCode": "TS",

@@ -15,19 +15,8 @@
       "longitude": 89.52796
     },
     {
-      "id": 1275525,
-      "name": "Birbhum",
-      "nativeName": "Bīrbhūm",
-      "code": "IN-WB-1275525",
-      "countryId": 1269750,
-      "countryCode": "IN",
-      "stateCode": "IN-WB",
-      "latitude": 24,
-      "longitude": 87.58333
-    },
-    {
       "id": 1277265,
-      "name": "Bānkura District",
+      "name": "Bankura",
       "nativeName": "Bānkurā",
       "code": "IN-WB-1277265",
       "countryId": 1269750,
@@ -35,6 +24,17 @@
       "stateCode": "IN-WB",
       "latitude": 23.25,
       "longitude": 87.25
+    },
+    {
+      "id": 1275525,
+      "name": "Bīrbhūm District",
+      "nativeName": "Bīrbhūm",
+      "code": "IN-WB-1275525",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-WB",
+      "latitude": 24,
+      "longitude": 87.58333
     },
     {
       "id": 1266437,
@@ -70,17 +70,6 @@
       "longitude": 88.25
     },
     {
-      "id": 8335142,
-      "name": "Dinajpur Uttar",
-      "nativeName": "Uttar Dinajpur",
-      "code": "IN-WB-8335142",
-      "countryId": 1269750,
-      "countryCode": "IN",
-      "stateCode": "IN-WB",
-      "latitude": 25.614,
-      "longitude": 88.126
-    },
-    {
       "id": 1269911,
       "name": "Hooghly",
       "nativeName": "Hugli",
@@ -104,7 +93,7 @@
     },
     {
       "id": 1269389,
-      "name": "Jalpaiguri",
+      "name": "Jalpaiguri District",
       "nativeName": "Jalpāiguri",
       "code": "IN-WB-1269389",
       "countryId": 1269750,
@@ -203,7 +192,7 @@
     },
     {
       "id": 8335144,
-      "name": "North 24 Parganas District",
+      "name": "North 24 Parganas",
       "nativeName": "North 24 Parganas",
       "code": "IN-WB-8335144",
       "countryId": 1269750,
@@ -247,7 +236,7 @@
     },
     {
       "id": 8335041,
-      "name": "South Twenty Four Parganas",
+      "name": "South 24 Paraganas",
       "nativeName": "South 24 Parganas",
       "code": "IN-WB-8335041",
       "countryId": 1269750,
@@ -255,6 +244,17 @@
       "stateCode": "IN-WB",
       "latitude": 22.16197,
       "longitude": 88.4317
+    },
+    {
+      "id": 8335142,
+      "name": "Uttar Dinajpur District",
+      "nativeName": "Uttar Dinajpur",
+      "code": "IN-WB-8335142",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-WB",
+      "latitude": 25.614,
+      "longitude": 88.126
     }
   ]
 }

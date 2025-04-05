@@ -14,6 +14,17 @@
       "longitude": 65.64355
     },
     {
+      "id": 1168878,
+      "name": "Gilgit-Baltistan",
+      "nativeName": "Gilgit-Baltistan",
+      "code": "PK-GB",
+      "internalCode": "GB",
+      "countryId": 1168579,
+      "countryCode": "PK",
+      "latitude": 36,
+      "longitude": 75
+    },
+    {
       "id": 1162015,
       "name": "Islamabad",
       "nativeName": "Islamabad",
@@ -45,17 +56,6 @@
       "countryCode": "PK",
       "latitude": 33.94718,
       "longitude": 73.9104
-    },
-    {
-      "id": 1168878,
-      "name": "Pakistan Occupied Kashmir",
-      "nativeName": "Gilgit-Baltistan",
-      "code": "PK-GB",
-      "internalCode": "GB",
-      "countryId": 1168579,
-      "countryCode": "PK",
-      "latitude": 36,
-      "longitude": 75
     },
     {
       "id": 1167710,

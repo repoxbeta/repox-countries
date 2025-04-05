@@ -14,6 +14,17 @@
       "longitude": -59.16667
     },
     {
+      "id": 3439440,
+      "name": "Alto Paraná Department",
+      "nativeName": "Departamento del Alto Paraná",
+      "code": "PY-10",
+      "internalCode": "10",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "latitude": -25.5,
+      "longitude": -54.83333
+    },
+    {
       "id": 3439433,
       "name": "Amambay Department",
       "nativeName": "Departamento del Amambay",
@@ -34,6 +45,28 @@
       "countryCode": "PY",
       "latitude": -25.28207,
       "longitude": -57.63539
+    },
+    {
+      "id": 3867442,
+      "name": "Boquerón Department",
+      "nativeName": "Departamento de Boquerón",
+      "code": "PY-19",
+      "internalCode": "19",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "latitude": -22.64105,
+      "longitude": -61.07381
+    },
+    {
+      "id": 3439312,
+      "name": "Caaguazú Department",
+      "nativeName": "Departamento de Caaguazú",
+      "code": "PY-5",
+      "internalCode": "5",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "latitude": -25.2,
+      "longitude": -55.83333
     },
     {
       "id": 3439296,
@@ -80,28 +113,6 @@
       "longitude": -57
     },
     {
-      "id": 3867442,
-      "name": "Departamento de Boquerón",
-      "nativeName": "Departamento de Boquerón",
-      "code": "PY-19",
-      "internalCode": "19",
-      "countryId": 3437598,
-      "countryCode": "PY",
-      "latitude": -22.64105,
-      "longitude": -61.07381
-    },
-    {
-      "id": 3439312,
-      "name": "Departamento de Caaguazú",
-      "nativeName": "Departamento de Caaguazú",
-      "code": "PY-5",
-      "internalCode": "5",
-      "countryId": 3437598,
-      "countryCode": "PY",
-      "latitude": -25.2,
-      "longitude": -55.83333
-    },
-    {
       "id": 3438833,
       "name": "Departamento de Concepción",
       "nativeName": "Departamento de Concepción",
@@ -122,28 +133,6 @@
       "countryCode": "PY",
       "latitude": -26,
       "longitude": -57.16667
-    },
-    {
-      "id": 3437677,
-      "name": "Departamento de Ñeembucú",
-      "nativeName": "Departamento de Ñeembucú",
-      "code": "PY-12",
-      "internalCode": "12",
-      "countryId": 3437598,
-      "countryCode": "PY",
-      "latitude": -26.66667,
-      "longitude": -57.91667
-    },
-    {
-      "id": 3439440,
-      "name": "Departamento del Alto Paraná",
-      "nativeName": "Departamento del Alto Paraná",
-      "code": "PY-10",
-      "internalCode": "10",
-      "countryId": 3437598,
-      "countryCode": "PY",
-      "latitude": -25.5,
-      "longitude": -54.83333
     },
     {
       "id": 3438049,
@@ -180,7 +169,7 @@
     },
     {
       "id": 3437443,
-      "name": "Presidente Hayes",
+      "name": "Presidente Hayes Department",
       "nativeName": "Departamento de Presidente Hayes",
       "code": "PY-15",
       "internalCode": "15",
@@ -199,6 +188,17 @@
       "countryCode": "PY",
       "latitude": -24.13333,
       "longitude": -56.66667
+    },
+    {
+      "id": 3437677,
+      "name": "Ñeembucú Department",
+      "nativeName": "Departamento de Ñeembucú",
+      "code": "PY-12",
+      "internalCode": "12",
+      "countryId": 3437598,
+      "countryCode": "PY",
+      "latitude": -26.66667,
+      "longitude": -57.91667
     }
   ]
 }

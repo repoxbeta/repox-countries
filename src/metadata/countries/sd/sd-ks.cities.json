@@ -290,28 +290,6 @@
       "longitude": 30.03333
     },
     {
-      "id": 7031426,
-      "name": "Al Murra",
-      "nativeName": "Al Murra",
-      "code": "SD-KS-7031426",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-KS",
-      "latitude": 11.4701,
-      "longitude": 30.248
-    },
-    {
-      "id": 7031428,
-      "name": "Al Murra",
-      "nativeName": "Al Murra",
-      "code": "SD-KS-7031428",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-KS",
-      "latitude": 11.4478,
-      "longitude": 30.2533
-    },
-    {
       "id": 379073,
       "name": "Al Oddaiya",
       "nativeName": "Al Oddaiya",
@@ -356,17 +334,6 @@
       "longitude": 31.33333
     },
     {
-      "id": 7031433,
-      "name": "Al ’Aradeiba",
-      "nativeName": "Al ’Aradeiba",
-      "code": "SD-KS-7031433",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-KS",
-      "latitude": 11.3766,
-      "longitude": 30.2817
-    },
-    {
       "id": 12492703,
       "name": "Alfarshaya",
       "nativeName": "Alfarshaya",
@@ -398,6 +365,17 @@
       "stateCode": "SD-KS",
       "latitude": 11.38333,
       "longitude": 30.5
+    },
+    {
+      "id": 367617,
+      "name": "Alsiragiya",
+      "nativeName": "Saragia",
+      "code": "SD-KS-367617",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-KS",
+      "latitude": 11.28333,
+      "longitude": 31.65
     },
     {
       "id": 12492710,
@@ -455,17 +433,6 @@
       "longitude": 31.11667
     },
     {
-      "id": 7031423,
-      "name": "Az Zanqour",
-      "nativeName": "Az Zanqour",
-      "code": "SD-KS-7031423",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-KS",
-      "latitude": 11.4891,
-      "longitude": 30.2927
-    },
-    {
       "id": 378302,
       "name": "Aş Şarrārah",
       "nativeName": "Aş Şarrārah",
@@ -497,17 +464,6 @@
       "stateCode": "SD-KS",
       "latitude": 12.51667,
       "longitude": 30.3
-    },
-    {
-      "id": 7031432,
-      "name": "Bernij",
-      "nativeName": "Bernij",
-      "code": "SD-KS-7031432",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-KS",
-      "latitude": 11.3618,
-      "longitude": 30.2476
     },
     {
       "id": 377379,
@@ -1060,6 +1016,17 @@
       "longitude": 30.02929
     },
     {
+      "id": 373002,
+      "name": "Kallo Ghubsh",
+      "nativeName": "Kallo Ghubsh",
+      "code": "SD-KS-373002",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-KS",
+      "latitude": 11.31667,
+      "longitude": 30.6
+    },
+    {
       "id": 372991,
       "name": "Kalogi",
       "nativeName": "Kaloqi",
@@ -1071,6 +1038,17 @@
       "longitude": 30.98409
     },
     {
+      "id": 372939,
+      "name": "Kamrogia",
+      "nativeName": "Kamrogia",
+      "code": "SD-KS-372939",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-KS",
+      "latitude": 12.05,
+      "longitude": 31.26667
+    },
+    {
       "id": 372936,
       "name": "Kamsōr",
       "nativeName": "Kamsōr",
@@ -1080,6 +1058,17 @@
       "stateCode": "SD-KS",
       "latitude": 12.352,
       "longitude": 31.1822
+    },
+    {
+      "id": 372891,
+      "name": "Kanyuro",
+      "nativeName": "Kanyuro",
+      "code": "SD-KS-372891",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-KS",
+      "latitude": 11.1,
+      "longitude": 30.65
     },
     {
       "id": 371739,
@@ -1126,6 +1115,39 @@
       "longitude": 31.53333
     },
     {
+      "id": 372715,
+      "name": "Katla",
+      "nativeName": "Katla",
+      "code": "SD-KS-372715",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-KS",
+      "latitude": 11.75,
+      "longitude": 29.31667
+    },
+    {
+      "id": 372713,
+      "name": "Kato",
+      "nativeName": "Kato",
+      "code": "SD-KS-372713",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-KS",
+      "latitude": 11.31667,
+      "longitude": 30.5
+    },
+    {
+      "id": 372707,
+      "name": "Kau",
+      "nativeName": "Kau",
+      "code": "SD-KS-372707",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-KS",
+      "latitude": 10.61619,
+      "longitude": 31.47089
+    },
+    {
       "id": 372698,
       "name": "Kauda",
       "nativeName": "Kauda",
@@ -1146,6 +1168,17 @@
       "stateCode": "SD-KS",
       "latitude": 11.93333,
       "longitude": 31.68333
+    },
+    {
+      "id": 372529,
+      "name": "Khash Khashaia",
+      "nativeName": "Khash Khashaia",
+      "code": "SD-KS-372529",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-KS",
+      "latitude": 10.32338,
+      "longitude": 30.62092
     },
     {
       "id": 372501,
@@ -1170,6 +1203,17 @@
       "longitude": 30.7436
     },
     {
+      "id": 372435,
+      "name": "Kiddu",
+      "nativeName": "Kiddu",
+      "code": "SD-KS-372435",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-KS",
+      "latitude": 11.78333,
+      "longitude": 29.33333
+    },
+    {
       "id": 372335,
       "name": "Kitrah",
       "nativeName": "Kitrah",
@@ -1190,6 +1234,61 @@
       "stateCode": "SD-KS",
       "latitude": 11.46667,
       "longitude": 31.43333
+    },
+    {
+      "id": 372277,
+      "name": "Kokai",
+      "nativeName": "Kokai",
+      "code": "SD-KS-372277",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-KS",
+      "latitude": 10.34858,
+      "longitude": 30.63961
+    },
+    {
+      "id": 372239,
+      "name": "Kolobo",
+      "nativeName": "Kolobo",
+      "code": "SD-KS-372239",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-KS",
+      "latitude": 11.78333,
+      "longitude": 30.95
+    },
+    {
+      "id": 372116,
+      "name": "Kortala",
+      "nativeName": "Kortala",
+      "code": "SD-KS-372116",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-KS",
+      "latitude": 12.08333,
+      "longitude": 30.3
+    },
+    {
+      "id": 372060,
+      "name": "Kuarday",
+      "nativeName": "Kuarday",
+      "code": "SD-KS-372060",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-KS",
+      "latitude": 11.03333,
+      "longitude": 30.48333
+    },
+    {
+      "id": 372059,
+      "name": "Kuartal",
+      "nativeName": "Kuartal",
+      "code": "SD-KS-372059",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-KS",
+      "latitude": 11.1,
+      "longitude": 30.5
     },
     {
       "id": 372030,
@@ -1214,15 +1313,26 @@
       "longitude": 30.3754
     },
     {
-      "id": 7031435,
-      "name": "Kulubry",
-      "nativeName": "Kulubry",
-      "code": "SD-KS-7031435",
+      "id": 371965,
+      "name": "Kuli",
+      "nativeName": "Kuli",
+      "code": "SD-KS-371965",
       "countryId": 366755,
       "countryCode": "SD",
       "stateCode": "SD-KS",
-      "latitude": 11.3443,
-      "longitude": 30.4117
+      "latitude": 11.6,
+      "longitude": 29.71667
+    },
+    {
+      "id": 371942,
+      "name": "Kulonong",
+      "nativeName": "Kulonong",
+      "code": "SD-KS-371942",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-KS",
+      "latitude": 11.08333,
+      "longitude": 30.48333
     },
     {
       "id": 371915,
@@ -1236,26 +1346,15 @@
       "longitude": 30.26667
     },
     {
-      "id": 7031434,
-      "name": "Kurtugula",
-      "nativeName": "Kurtugula",
-      "code": "SD-KS-7031434",
+      "id": 371743,
+      "name": "Kuturi",
+      "nativeName": "Kuturi",
+      "code": "SD-KS-371743",
       "countryId": 366755,
       "countryCode": "SD",
       "stateCode": "SD-KS",
-      "latitude": 11.3684,
-      "longitude": 30.4319
-    },
-    {
-      "id": 7031430,
-      "name": "Kurundul",
-      "nativeName": "Kurundul",
-      "code": "SD-KS-7031430",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-KS",
-      "latitude": 11.4166,
-      "longitude": 30.2358
+      "latitude": 12.16667,
+      "longitude": 31.33333
     },
     {
       "id": 366423,
@@ -1267,28 +1366,6 @@
       "stateCode": "SD-KS",
       "latitude": 11.678,
       "longitude": 31.0345
-    },
-    {
-      "id": 7031424,
-      "name": "Laqur",
-      "nativeName": "Laqur",
-      "code": "SD-KS-7031424",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-KS",
-      "latitude": 11.4988,
-      "longitude": 30.411
-    },
-    {
-      "id": 7031436,
-      "name": "Lidqu",
-      "nativeName": "Lidqu",
-      "code": "SD-KS-7031436",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-KS",
-      "latitude": 11.3227,
-      "longitude": 30.4269
     },
     {
       "id": 371263,
@@ -1346,17 +1423,6 @@
       "longitude": 31.75
     },
     {
-      "id": 7031431,
-      "name": "Mandi",
-      "nativeName": "Mandi",
-      "code": "SD-KS-7031431",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-KS",
-      "latitude": 11.3761,
-      "longitude": 30.1568
-    },
-    {
       "id": 369598,
       "name": "Masheifat",
       "nativeName": "Masheifat",
@@ -1380,7 +1446,7 @@
     },
     {
       "id": 8066902,
-      "name": "Maya ed Dubeyba",
+      "name": "May‘a ed Dubeiba",
       "nativeName": "Maya ed Dubeyba",
       "code": "SD-KS-8066902",
       "countryId": 366755,
@@ -1432,17 +1498,6 @@
       "stateCode": "SD-KS",
       "latitude": 11.7,
       "longitude": 31.16667
-    },
-    {
-      "id": 7031427,
-      "name": "Oma",
-      "nativeName": "Oma",
-      "code": "SD-KS-7031427",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-KS",
-      "latitude": 11.4348,
-      "longitude": 30.2327
     },
     {
       "id": 368493,
@@ -1599,17 +1654,6 @@
       "longitude": 29.6
     },
     {
-      "id": 367617,
-      "name": "Saragia",
-      "nativeName": "Saragia",
-      "code": "SD-KS-367617",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-KS",
-      "latitude": 11.28333,
-      "longitude": 31.65
-    },
-    {
       "id": 367294,
       "name": "Shaqq",
       "nativeName": "Shaqq",
@@ -1652,17 +1696,6 @@
       "stateCode": "SD-KS",
       "latitude": 12.33333,
       "longitude": 29.76667
-    },
-    {
-      "id": 7031437,
-      "name": "Suq Tiya",
-      "nativeName": "Suq Tiya",
-      "code": "SD-KS-7031437",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-KS",
-      "latitude": 11.3324,
-      "longitude": 30.279
     },
     {
       "id": 367517,
@@ -1918,17 +1951,6 @@
       "longitude": 31.63333
     },
     {
-      "id": 8068888,
-      "name": "Umm Khameira",
-      "nativeName": "Umm Khameira",
-      "code": "SD-KS-8068888",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-KS",
-      "latitude": 10.50486,
-      "longitude": 31.11554
-    },
-    {
       "id": 364783,
       "name": "Umm Quḩayfāt",
       "nativeName": "Umm Quḩayfāt",
@@ -1938,17 +1960,6 @@
       "stateCode": "SD-KS",
       "latitude": 12.23333,
       "longitude": 30.61667
-    },
-    {
-      "id": 8066906,
-      "name": "Umm Salman",
-      "nativeName": "Umm Salman",
-      "code": "SD-KS-8066906",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-KS",
-      "latitude": 10.83273,
-      "longitude": 31.58498
     },
     {
       "id": 364647,
@@ -2059,17 +2070,6 @@
       "stateCode": "SD-KS",
       "latitude": 11.08333,
       "longitude": 31.6
-    },
-    {
-      "id": 7031422,
-      "name": "Wad al Bayen",
-      "nativeName": "Wad al Bayen",
-      "code": "SD-KS-7031422",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-KS",
-      "latitude": 11.4904,
-      "longitude": 30.2694
     },
     {
       "id": 364268,

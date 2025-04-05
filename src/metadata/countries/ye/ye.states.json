@@ -113,17 +113,6 @@
       "longitude": 44.27294
     },
     {
-      "id": 75411,
-      "name": "Hadramaout",
-      "nativeName": "Hadhramaut Governorate",
-      "code": "YE-HD",
-      "internalCode": "HD",
-      "countryId": 69543,
-      "countryCode": "YE",
-      "latitude": 16,
-      "longitude": 49
-    },
-    {
       "id": 6201196,
       "name": "Ibb Governorate",
       "nativeName": "Ibb",
@@ -155,6 +144,17 @@
       "countryCode": "YE",
       "latitude": 15.4591,
       "longitude": 45.32534
+    },
+    {
+      "id": 75411,
+      "name": "Muhafazat Hadramaout",
+      "nativeName": "Hadhramaut Governorate",
+      "code": "YE-HD",
+      "internalCode": "HD",
+      "countryId": 69543,
+      "countryCode": "YE",
+      "latitude": 16,
+      "longitude": 49
     },
     {
       "id": 6201194,

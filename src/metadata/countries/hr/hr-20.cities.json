@@ -4,17 +4,6 @@
   "countryCode": "HR",
   "cities": [
     {
-      "id": 3202887,
-      "name": "City of Čakovec",
-      "nativeName": "Grad Čakovec",
-      "code": "HR-20-3202887",
-      "countryId": 3202326,
-      "countryCode": "HR",
-      "stateCode": "HR-20",
-      "latitude": 46.38583,
-      "longitude": 16.43333
-    },
-    {
       "id": 11054830,
       "name": "Municipality of Belica",
       "nativeName": "Općina Belica",
@@ -277,6 +266,17 @@
       "stateCode": "HR-20",
       "latitude": 46.33387,
       "longitude": 16.61785
+    },
+    {
+      "id": 3202887,
+      "name": "Town of Čakovec",
+      "nativeName": "Grad Čakovec",
+      "code": "HR-20-3202887",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-20",
+      "latitude": 46.38583,
+      "longitude": 16.43333
     }
   ]
 }

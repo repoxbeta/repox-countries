@@ -1,0 +1,95 @@
+{
+  "stateId": 8133587,
+  "stateCode": "SI-201",
+  "countryCode": "SI",
+  "cities": [
+    {
+      "id": 3203057,
+      "name": "Bukovica",
+      "nativeName": "Bukovica",
+      "code": "SI-201-3203057",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-201",
+      "latitude": 45.90083,
+      "longitude": 13.66722
+    },
+    {
+      "id": 8988228,
+      "name": "Dombrava",
+      "nativeName": "Dombrava",
+      "code": "SI-201-8988228",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-201",
+      "latitude": 45.89451,
+      "longitude": 13.68819
+    },
+    {
+      "id": 3216566,
+      "name": "Mohorini",
+      "nativeName": "Mohorini",
+      "code": "SI-201-3216566",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-201",
+      "latitude": 45.87889,
+      "longitude": 13.68389
+    },
+    {
+      "id": 8987259,
+      "name": "Oševljek",
+      "nativeName": "Oševljek",
+      "code": "SI-201-8987259",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-201",
+      "latitude": 45.87428,
+      "longitude": 13.70027
+    },
+    {
+      "id": 3191737,
+      "name": "Renče",
+      "nativeName": "Renče",
+      "code": "SI-201-3191737",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-201",
+      "latitude": 45.89,
+      "longitude": 13.66861
+    },
+    {
+      "id": 3187461,
+      "name": "Vogrsko",
+      "nativeName": "Vogrsko",
+      "code": "SI-201-3187461",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-201",
+      "latitude": 45.90611,
+      "longitude": 13.70056
+    },
+    {
+      "id": 3187428,
+      "name": "Volčja Draga",
+      "nativeName": "Volčja Draga",
+      "code": "SI-201-3187428",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-201",
+      "latitude": 45.90694,
+      "longitude": 13.6775
+    },
+    {
+      "id": 3216562,
+      "name": "Žigoni",
+      "nativeName": "Žigoni",
+      "code": "SI-201-3216562",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "stateCode": "SI-201",
+      "latitude": 45.87972,
+      "longitude": 13.66778
+    }
+  ]
+}

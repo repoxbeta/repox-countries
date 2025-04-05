@@ -70,7 +70,7 @@
     },
     {
       "id": 830686,
-      "name": "North Karelia Region",
+      "name": "North Karelia",
       "nativeName": "Pohjois-Karjala",
       "code": "FI-13",
       "internalCode": "13",
@@ -103,7 +103,7 @@
     },
     {
       "id": 830676,
-      "name": "Ostrobothnia Region",
+      "name": "Ostrobothnia",
       "nativeName": "Pohjanmaa",
       "code": "FI-12",
       "internalCode": "12",
@@ -113,19 +113,8 @@
       "longitude": 22.16667
     },
     {
-      "id": 830704,
-      "name": "Pirkanmaa",
-      "nativeName": "Pirkanmaa",
-      "code": "FI-11",
-      "internalCode": "11",
-      "countryId": 660013,
-      "countryCode": "FI",
-      "latitude": 61.7,
-      "longitude": 23.71667
-    },
-    {
       "id": 831040,
-      "name": "Päijänne Tavastia",
+      "name": "Paijat-Hame",
       "nativeName": "Paijat-Hame Region",
       "code": "FI-16",
       "internalCode": "16",
@@ -188,6 +177,17 @@
       "countryCode": "FI",
       "latitude": 60.5,
       "longitude": 22.25
+    },
+    {
+      "id": 830704,
+      "name": "Tampere",
+      "nativeName": "Pirkanmaa",
+      "code": "FI-11",
+      "internalCode": "11",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "latitude": 61.7,
+      "longitude": 23.71667
     },
     {
       "id": 830709,

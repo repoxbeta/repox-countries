@@ -5,7 +5,7 @@
   "cities": [
     {
       "id": 160321,
-      "name": "Chunya District",
+      "name": "Chunya District Council",
       "nativeName": "Chunya",
       "code": "TZ-14-160321",
       "countryId": 149590,
@@ -37,19 +37,8 @@
       "longitude": 34.13452
     },
     {
-      "id": 9998150,
-      "name": "Mbeya City Council",
-      "nativeName": "Mbeya City",
-      "code": "TZ-14-9998150",
-      "countryId": 149590,
-      "countryCode": "TZ",
-      "stateCode": "TZ-14",
-      "latitude": -8.89359,
-      "longitude": 33.47617
-    },
-    {
       "id": 154379,
-      "name": "Mbeya Rural",
+      "name": "Mbeya District Council",
       "nativeName": "Mbeya",
       "code": "TZ-14-154379",
       "countryId": 149590,
@@ -57,6 +46,17 @@
       "stateCode": "TZ-14",
       "latitude": -8.96167,
       "longitude": 33.35659
+    },
+    {
+      "id": 9998150,
+      "name": "Mbeya Urban",
+      "nativeName": "Mbeya City",
+      "code": "TZ-14-9998150",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-14",
+      "latitude": -8.89359,
+      "longitude": 33.47617
     },
     {
       "id": 150412,

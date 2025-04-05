@@ -367,15 +367,15 @@
       "longitude": 34.3264
     },
     {
-      "id": 11946208,
-      "name": "Gombe",
-      "nativeName": "Gombe",
-      "code": "KE-38-11946208",
+      "id": 11784496,
+      "name": "Gor Abiero",
+      "nativeName": "Gor Abiero",
+      "code": "KE-38-11784496",
       "countryId": 192950,
       "countryCode": "KE",
       "stateCode": "KE-38",
-      "latitude": 0.08486,
-      "longitude": 34.30567
+      "latitude": -0.19404,
+      "longitude": 34.25963
     },
     {
       "id": 11784422,
@@ -664,6 +664,17 @@
       "longitude": 34.3998
     },
     {
+      "id": 11784501,
+      "name": "Lusi",
+      "nativeName": "Lusi",
+      "code": "KE-38-11784501",
+      "countryId": 192950,
+      "countryCode": "KE",
+      "stateCode": "KE-38",
+      "latitude": -0.2173,
+      "longitude": 34.31667
+    },
+    {
       "id": 188551,
       "name": "Lwak",
       "nativeName": "Lwak",
@@ -827,6 +838,17 @@
       "stateCode": "KE-38",
       "latitude": -0.08809,
       "longitude": 34.22714
+    },
+    {
+      "id": 11784502,
+      "name": "Marsala",
+      "nativeName": "Marsala",
+      "code": "KE-38-11784502",
+      "countryId": 192950,
+      "countryCode": "KE",
+      "stateCode": "KE-38",
+      "latitude": -0.21107,
+      "longitude": 34.29332
     },
     {
       "id": 11784481,
@@ -1170,17 +1192,6 @@
       "longitude": 34.41502
     },
     {
-      "id": 11871531,
-      "name": "Nyagondo",
-      "nativeName": "Nyagondo",
-      "code": "KE-38-11871531",
-      "countryId": 192950,
-      "countryCode": "KE",
-      "stateCode": "KE-38",
-      "latitude": 0.00457,
-      "longitude": 34.51025
-    },
-    {
       "id": 11784493,
       "name": "Nyagunda",
       "nativeName": "Nyagunda",
@@ -1434,17 +1445,6 @@
       "longitude": 34.4126
     },
     {
-      "id": 11946210,
-      "name": "Odiado",
-      "nativeName": "Odiado",
-      "code": "KE-38-11946210",
-      "countryId": 192950,
-      "countryCode": "KE",
-      "stateCode": "KE-38",
-      "latitude": 0.28399,
-      "longitude": 34.16855
-    },
-    {
       "id": 11784432,
       "name": "Ogare",
       "nativeName": "Ogare",
@@ -1533,6 +1533,17 @@
       "longitude": 34.32375
     },
     {
+      "id": 11784497,
+      "name": "Pith Dero",
+      "nativeName": "Pith Dero",
+      "code": "KE-38-11784497",
+      "countryId": 192950,
+      "countryCode": "KE",
+      "stateCode": "KE-38",
+      "latitude": -0.22262,
+      "longitude": 34.25452
+    },
+    {
       "id": 181530,
       "name": "Port Southby",
       "nativeName": "Port Southby",
@@ -1553,6 +1564,17 @@
       "stateCode": "KE-38",
       "latitude": 0.0178,
       "longitude": 34.39534
+    },
+    {
+      "id": 11784500,
+      "name": "Rakombe",
+      "nativeName": "Rakombe",
+      "code": "KE-38-11784500",
+      "countryId": 192950,
+      "countryCode": "KE",
+      "stateCode": "KE-38",
+      "latitude": -0.20707,
+      "longitude": 34.32161
     },
     {
       "id": 181408,
@@ -1729,17 +1751,6 @@
       "stateCode": "KE-38",
       "latitude": -0.22106,
       "longitude": 34.33541
-    },
-    {
-      "id": 10339401,
-      "name": "Rwambwa",
-      "nativeName": "Rwambwa",
-      "code": "KE-38-10339401",
-      "countryId": 192950,
-      "countryCode": "KE",
-      "stateCode": "KE-38",
-      "latitude": 0.11486,
-      "longitude": 34.09343
     },
     {
       "id": 180697,
@@ -2059,17 +2070,6 @@
       "stateCode": "KE-38",
       "latitude": 0.03095,
       "longitude": 34.29554
-    },
-    {
-      "id": 11428878,
-      "name": "Usire",
-      "nativeName": "Usire",
-      "code": "KE-38-11428878",
-      "countryId": 192950,
-      "countryCode": "KE",
-      "stateCode": "KE-38",
-      "latitude": -0.05771,
-      "longitude": 34.22289
     },
     {
       "id": 178593,

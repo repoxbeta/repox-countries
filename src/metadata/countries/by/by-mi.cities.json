@@ -125,17 +125,6 @@
       "longitude": 26.68628
     },
     {
-      "id": 626463,
-      "name": "Krupki District",
-      "nativeName": "Krupskiy Rayon",
-      "code": "BY-MI-626463",
-      "countryId": 630336,
-      "countryCode": "BY",
-      "stateCode": "BY-MI",
-      "latitude": 54.33127,
-      "longitude": 29.16298
-    },
-    {
       "id": 625971,
       "name": "Lahoysk District",
       "nativeName": "Logoyskiy Rayon",
@@ -202,6 +191,17 @@
       "longitude": 27.51189
     },
     {
+      "id": 626463,
+      "name": "Minsk District",
+      "nativeName": "Krupskiy Rayon",
+      "code": "BY-MI-626463",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-MI",
+      "latitude": 54.33127,
+      "longitude": 29.16298
+    },
+    {
       "id": 624858,
       "name": "Myadzyel District",
       "nativeName": "Myadel’skiy Rayon",
@@ -225,7 +225,7 @@
     },
     {
       "id": 622968,
-      "name": "Puhovichi",
+      "name": "Puchavičy District",
       "nativeName": "Pukhavichy Raion",
       "code": "BY-MI-622968",
       "countryId": 630336,

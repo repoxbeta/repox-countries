@@ -4,7 +4,7 @@
   "states": [
     {
       "id": 7603255,
-      "name": "Barh-El-Gazel",
+      "name": "Barh el Gazel",
       "nativeName": "Province du Barh-El-Gazel",
       "code": "TD-BG",
       "internalCode": "BG",
@@ -47,17 +47,6 @@
       "longitude": 16.25
     },
     {
-      "id": 8604857,
-      "name": "Ennedi Ouest",
-      "nativeName": "Ennedi-Ouest",
-      "code": "TD-EO",
-      "internalCode": "EO",
-      "countryId": 2434508,
-      "countryCode": "TD",
-      "latitude": 18.4,
-      "longitude": 21.4
-    },
-    {
       "id": 8604858,
       "name": "Ennedi-Est",
       "nativeName": "Ennedi-Est",
@@ -67,6 +56,17 @@
       "countryCode": "TD",
       "latitude": 17.75,
       "longitude": 23.16667
+    },
+    {
+      "id": 8604857,
+      "name": "Ennedi-Ouest",
+      "nativeName": "Ennedi-Ouest",
+      "code": "TD-EO",
+      "internalCode": "EO",
+      "countryId": 2434508,
+      "countryCode": "TD",
+      "latitude": 18.4,
+      "longitude": 21.4
     },
     {
       "id": 2431555,

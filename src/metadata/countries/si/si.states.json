@@ -289,17 +289,6 @@
       "longitude": 15.77
     },
     {
-      "id": 8986279,
-      "name": "Gorje",
-      "nativeName": "Gorje",
-      "code": "SI-207",
-      "internalCode": "207",
-      "countryId": 3190538,
-      "countryCode": "SI",
-      "latitude": 46.37924,
-      "longitude": 14.06795
-    },
-    {
       "id": 3200196,
       "name": "Gornja Radgona",
       "nativeName": "Gornja Radgona",
@@ -1257,6 +1246,28 @@
       "longitude": 15.63285
     },
     {
+      "id": 8133587,
+      "name": "Občina Renče-Vogrsko",
+      "nativeName": "Občina Renče-Vogrsko",
+      "code": "SI-201",
+      "internalCode": "201",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "latitude": 45.8936,
+      "longitude": 13.67564
+    },
+    {
+      "id": 8133586,
+      "name": "Občina Rečica ob Savinji",
+      "nativeName": "Občina Rečica ob Savinji",
+      "code": "SI-209",
+      "internalCode": "209",
+      "countryId": 3190538,
+      "countryCode": "SI",
+      "latitude": 46.32745,
+      "longitude": 14.90523
+    },
+    {
       "id": 3239234,
       "name": "Občina Rogaška Slatina",
       "nativeName": "Občina Rogaška Slatina",
@@ -1970,17 +1981,6 @@
       "countryCode": "SI",
       "latitude": 46.64752,
       "longitude": 15.83903
-    },
-    {
-      "id": 8469236,
-      "name": "Sveti Jurij v Slovenskih Goricah",
-      "nativeName": "Sveti Jurij v Slovenskih Goricah",
-      "code": "SI-210",
-      "internalCode": "210",
-      "countryId": 3190538,
-      "countryCode": "SI",
-      "latitude": 46.61313,
-      "longitude": 15.79251
     },
     {
       "id": 3344904,

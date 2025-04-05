@@ -5,7 +5,7 @@
   "cities": [
     {
       "id": 363533,
-      "name": "Zalinjay",
+      "name": "Zalinguei",
       "nativeName": "Zalinguei",
       "code": "SD-DC-363533",
       "countryId": 366755,
@@ -13,6 +13,17 @@
       "stateCode": "SD-DC",
       "latitude": 12.90918,
       "longitude": 23.47058
+    },
+    {
+      "id": 379970,
+      "name": "Agra",
+      "nativeName": "Agra",
+      "code": "SD-DC-379970",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-DC",
+      "latitude": 12.06667,
+      "longitude": 23.2
     },
     {
       "id": 378915,
@@ -37,6 +48,17 @@
       "longitude": 23.38333
     },
     {
+      "id": 378743,
+      "name": "Anjikoti",
+      "nativeName": "Anjikoti",
+      "code": "SD-DC-378743",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-DC",
+      "latitude": 12.10181,
+      "longitude": 22.6386
+    },
+    {
       "id": 378426,
       "name": "Arawala",
       "nativeName": "Arwala",
@@ -57,6 +79,17 @@
       "stateCode": "SD-DC",
       "latitude": 12.72169,
       "longitude": 23.02362
+    },
+    {
+      "id": 378452,
+      "name": "Artala",
+      "nativeName": "Artala",
+      "code": "SD-DC-378452",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-DC",
+      "latitude": 11.85,
+      "longitude": 23.73333
     },
     {
       "id": 378416,
@@ -136,15 +169,15 @@
       "longitude": 22.72736
     },
     {
-      "id": 7750461,
-      "name": "Basi",
-      "nativeName": "Basi",
-      "code": "SD-DC-7750461",
+      "id": 377580,
+      "name": "Bata",
+      "nativeName": "Bata",
+      "code": "SD-DC-377580",
       "countryId": 366755,
       "countryCode": "SD",
       "stateCode": "SD-DC",
-      "latitude": 13.10247,
-      "longitude": 24.08942
+      "latitude": 12.11667,
+      "longitude": 23.03333
     },
     {
       "id": 377552,
@@ -191,6 +224,17 @@
       "longitude": 23.34569
     },
     {
+      "id": 377354,
+      "name": "Birganga",
+      "nativeName": "Birganga",
+      "code": "SD-DC-377354",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-DC",
+      "latitude": 12.81655,
+      "longitude": 23.14114
+    },
+    {
       "id": 377197,
       "name": "Bubi",
       "nativeName": "Bubi",
@@ -200,17 +244,6 @@
       "stateCode": "SD-DC",
       "latitude": 12.63503,
       "longitude": 23.34129
-    },
-    {
-      "id": 7750173,
-      "name": "Bugr",
-      "nativeName": "Bugr",
-      "code": "SD-DC-7750173",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-DC",
-      "latitude": 13.07308,
-      "longitude": 24.29403
     },
     {
       "id": 377147,
@@ -224,6 +257,17 @@
       "longitude": 23.63232
     },
     {
+      "id": 377135,
+      "name": "Bumbil",
+      "nativeName": "Bumbil",
+      "code": "SD-DC-377135",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-DC",
+      "latitude": 11.78333,
+      "longitude": 23.08333
+    },
+    {
       "id": 377085,
       "name": "Burbūr",
       "nativeName": "Burbūr",
@@ -233,17 +277,6 @@
       "stateCode": "SD-DC",
       "latitude": 12.50939,
       "longitude": 23.4477
-    },
-    {
-      "id": 7755234,
-      "name": "Burei",
-      "nativeName": "Burei",
-      "code": "SD-DC-7755234",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-DC",
-      "latitude": 12.93439,
-      "longitude": 23.49011
     },
     {
       "id": 377060,
@@ -345,17 +378,6 @@
       "longitude": 23.75
     },
     {
-      "id": 7746273,
-      "name": "Darlo",
-      "nativeName": "Darlo",
-      "code": "SD-DC-7746273",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-DC",
-      "latitude": 13.19326,
-      "longitude": 23.65239
-    },
-    {
       "id": 376602,
       "name": "Deimbo",
       "nativeName": "Deimbo",
@@ -389,17 +411,6 @@
       "longitude": 23.30328
     },
     {
-      "id": 7755297,
-      "name": "Dodo",
-      "nativeName": "Dodo",
-      "code": "SD-DC-7755297",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-DC",
-      "latitude": 12.90367,
-      "longitude": 23.41958
-    },
-    {
       "id": 7754693,
       "name": "Dudeiri",
       "nativeName": "Dudeiri",
@@ -409,17 +420,6 @@
       "stateCode": "SD-DC",
       "latitude": 12.53619,
       "longitude": 23.30814
-    },
-    {
-      "id": 7750354,
-      "name": "Duga",
-      "nativeName": "Duga",
-      "code": "SD-DC-7750354",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-DC",
-      "latitude": 13.10739,
-      "longitude": 24.19978
     },
     {
       "id": 376192,
@@ -576,28 +576,6 @@
       "longitude": 23.56667
     },
     {
-      "id": 7750174,
-      "name": "Dursa",
-      "nativeName": "Dursa",
-      "code": "SD-DC-7750174",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-DC",
-      "latitude": 13.07974,
-      "longitude": 24.29755
-    },
-    {
-      "id": 7750182,
-      "name": "Dwo",
-      "nativeName": "Dwo",
-      "code": "SD-DC-7750182",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-DC",
-      "latitude": 13.09022,
-      "longitude": 24.26116
-    },
-    {
       "id": 376821,
       "name": "Dāliyah",
       "nativeName": "Dāliyah",
@@ -620,17 +598,6 @@
       "longitude": 23.66667
     },
     {
-      "id": 7746262,
-      "name": "Elga",
-      "nativeName": "Elga",
-      "code": "SD-DC-7746262",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-DC",
-      "latitude": 13.49071,
-      "longitude": 23.60963
-    },
-    {
       "id": 375691,
       "name": "Fado",
       "nativeName": "Fado",
@@ -642,17 +609,6 @@
       "longitude": 23.65
     },
     {
-      "id": 7746993,
-      "name": "Fatara",
-      "nativeName": "Fatara",
-      "code": "SD-DC-7746993",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-DC",
-      "latitude": 13.14029,
-      "longitude": 24.42612
-    },
-    {
       "id": 375337,
       "name": "Fongfong",
       "nativeName": "Fongfong",
@@ -662,17 +618,6 @@
       "stateCode": "SD-DC",
       "latitude": 12.91734,
       "longitude": 23.26062
-    },
-    {
-      "id": 7746450,
-      "name": "Fundu",
-      "nativeName": "Fundu",
-      "code": "SD-DC-7746450",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-DC",
-      "latitude": 13.13315,
-      "longitude": 23.96361
     },
     {
       "id": 7754553,
@@ -741,17 +686,6 @@
       "longitude": 23.07576
     },
     {
-      "id": 7746694,
-      "name": "Gendi",
-      "nativeName": "Gendi",
-      "code": "SD-DC-7746694",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-DC",
-      "latitude": 13.36822,
-      "longitude": 23.89407
-    },
-    {
       "id": 374801,
       "name": "Ginyo",
       "nativeName": "Ginyo",
@@ -794,28 +728,6 @@
       "stateCode": "SD-DC",
       "latitude": 12.53233,
       "longitude": 23.29376
-    },
-    {
-      "id": 7746432,
-      "name": "Gorgor",
-      "nativeName": "Gorgor",
-      "code": "SD-DC-7746432",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-DC",
-      "latitude": 13.09821,
-      "longitude": 23.86395
-    },
-    {
-      "id": 7746431,
-      "name": "Gudai",
-      "nativeName": "Gudai",
-      "code": "SD-DC-7746431",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-DC",
-      "latitude": 13.08532,
-      "longitude": 23.83254
     },
     {
       "id": 374646,
@@ -895,17 +807,6 @@
       "longitude": 23.49154
     },
     {
-      "id": 7755235,
-      "name": "Ir Kwa",
-      "nativeName": "Ir Kwa",
-      "code": "SD-DC-7755235",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-DC",
-      "latitude": 12.94189,
-      "longitude": 23.49446
-    },
-    {
       "id": 373426,
       "name": "Jaja",
       "nativeName": "Jaja",
@@ -937,17 +838,6 @@
       "stateCode": "SD-DC",
       "latitude": 12.74493,
       "longitude": 23.02487
-    },
-    {
-      "id": 7746447,
-      "name": "Jamia",
-      "nativeName": "Jamia",
-      "code": "SD-DC-7746447",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-DC",
-      "latitude": 13.08934,
-      "longitude": 23.91136
     },
     {
       "id": 373284,
@@ -1005,17 +895,6 @@
       "longitude": 23.38333
     },
     {
-      "id": 7750365,
-      "name": "Kairi",
-      "nativeName": "Kairi",
-      "code": "SD-DC-7750365",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-DC",
-      "latitude": 13.00678,
-      "longitude": 24.20452
-    },
-    {
       "id": 7754574,
       "name": "Kaita",
       "nativeName": "Kaita",
@@ -1058,17 +937,6 @@
       "stateCode": "SD-DC",
       "latitude": 12.05,
       "longitude": 23.25
-    },
-    {
-      "id": 7750362,
-      "name": "Karonga",
-      "nativeName": "Karonga",
-      "code": "SD-DC-7750362",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-DC",
-      "latitude": 13.0124,
-      "longitude": 24.1977
     },
     {
       "id": 372786,
@@ -1137,28 +1005,6 @@
       "longitude": 24.31019
     },
     {
-      "id": 7750465,
-      "name": "Kerefeina",
-      "nativeName": "Kerefeina",
-      "code": "SD-DC-7750465",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-DC",
-      "latitude": 13.15904,
-      "longitude": 24.08406
-    },
-    {
-      "id": 7750366,
-      "name": "Kewa",
-      "nativeName": "Kewa",
-      "code": "SD-DC-7750366",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-DC",
-      "latitude": 13.01364,
-      "longitude": 24.16831
-    },
-    {
       "id": 372370,
       "name": "Kirbi",
       "nativeName": "Kirbi",
@@ -1179,17 +1025,6 @@
       "stateCode": "SD-DC",
       "latitude": 12.72343,
       "longitude": 23.21073
-    },
-    {
-      "id": 7750567,
-      "name": "Komong",
-      "nativeName": "Komong",
-      "code": "SD-DC-7750567",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-DC",
-      "latitude": 13.01075,
-      "longitude": 24.03228
     },
     {
       "id": 372192,
@@ -1258,17 +1093,6 @@
       "longitude": 22.90223
     },
     {
-      "id": 7750181,
-      "name": "Koron",
-      "nativeName": "Koron",
-      "code": "SD-DC-7750181",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-DC",
-      "latitude": 13.09561,
-      "longitude": 24.26048
-    },
-    {
       "id": 372109,
       "name": "Kortolonga",
       "nativeName": "Kortolonga",
@@ -1302,17 +1126,6 @@
       "longitude": 23.46931
     },
     {
-      "id": 7750363,
-      "name": "Kubbia",
-      "nativeName": "Kubbia",
-      "code": "SD-DC-7750363",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-DC",
-      "latitude": 13.01143,
-      "longitude": 24.24249
-    },
-    {
       "id": 372047,
       "name": "Kubda",
       "nativeName": "Kubda",
@@ -1333,17 +1146,6 @@
       "stateCode": "SD-DC",
       "latitude": 12.59958,
       "longitude": 23.28067
-    },
-    {
-      "id": 7750369,
-      "name": "Kubr Dusa",
-      "nativeName": "Kubr Dusa",
-      "code": "SD-DC-7750369",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-DC",
-      "latitude": 13.01451,
-      "longitude": 24.0625
     },
     {
       "id": 372026,
@@ -1399,17 +1201,6 @@
       "stateCode": "SD-DC",
       "latitude": 12.60247,
       "longitude": 23.31181
-    },
-    {
-      "id": 7746433,
-      "name": "Kunyara",
-      "nativeName": "Kunyara",
-      "code": "SD-DC-7746433",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-DC",
-      "latitude": 13.08449,
-      "longitude": 23.87255
     },
     {
       "id": 371858,
@@ -1489,17 +1280,6 @@
       "longitude": 23.48333
     },
     {
-      "id": 7746260,
-      "name": "Kursi",
-      "nativeName": "Kursi",
-      "code": "SD-DC-7746260",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-DC",
-      "latitude": 13.41334,
-      "longitude": 23.56448
-    },
-    {
       "id": 371793,
       "name": "Kurto",
       "nativeName": "Kurto",
@@ -1522,17 +1302,6 @@
       "longitude": 23.61667
     },
     {
-      "id": 7750966,
-      "name": "Kusi",
-      "nativeName": "Kusi",
-      "code": "SD-DC-7750966",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-DC",
-      "latitude": 13.24441,
-      "longitude": 24.59857
-    },
-    {
       "id": 371763,
       "name": "Kusokuro",
       "nativeName": "Kusokuro",
@@ -1542,17 +1311,6 @@
       "stateCode": "SD-DC",
       "latitude": 12.0555,
       "longitude": 22.93394
-    },
-    {
-      "id": 7746986,
-      "name": "Kusuru",
-      "nativeName": "Kusuru",
-      "code": "SD-DC-7746986",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-DC",
-      "latitude": 13.17934,
-      "longitude": 24.36817
     },
     {
       "id": 371732,
@@ -1577,6 +1335,17 @@
       "longitude": 24.0772
     },
     {
+      "id": 371556,
+      "name": "Langya",
+      "nativeName": "Langya",
+      "code": "SD-DC-371556",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-DC",
+      "latitude": 13.15,
+      "longitude": 24.01667
+    },
+    {
       "id": 371503,
       "name": "Leili",
       "nativeName": "Leili",
@@ -1586,6 +1355,83 @@
       "stateCode": "SD-DC",
       "latitude": 12.88356,
       "longitude": 23.36995
+    },
+    {
+      "id": 371459,
+      "name": "Lerwa",
+      "nativeName": "Lerwa",
+      "code": "SD-DC-371459",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-DC",
+      "latitude": 12.13333,
+      "longitude": 23.51667
+    },
+    {
+      "id": 371079,
+      "name": "Lujugo",
+      "nativeName": "Lujugo",
+      "code": "SD-DC-371079",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-DC",
+      "latitude": 11.45572,
+      "longitude": 22.82499
+    },
+    {
+      "id": 371063,
+      "name": "Lula",
+      "nativeName": "Lula",
+      "code": "SD-DC-371063",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-DC",
+      "latitude": 11.73333,
+      "longitude": 23.63333
+    },
+    {
+      "id": 371056,
+      "name": "Luma",
+      "nativeName": "Luma",
+      "code": "SD-DC-371056",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-DC",
+      "latitude": 11.67441,
+      "longitude": 23.30539
+    },
+    {
+      "id": 370963,
+      "name": "Madi",
+      "nativeName": "Madi",
+      "code": "SD-DC-370963",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-DC",
+      "latitude": 13.36142,
+      "longitude": 23.9632
+    },
+    {
+      "id": 370914,
+      "name": "Magarsa",
+      "nativeName": "Magarsa",
+      "code": "SD-DC-370914",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-DC",
+      "latitude": 12.40164,
+      "longitude": 22.67887
+    },
+    {
+      "id": 370640,
+      "name": "Mana",
+      "nativeName": "Mana",
+      "code": "SD-DC-370640",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-DC",
+      "latitude": 11.88874,
+      "longitude": 23.07117
     },
     {
       "id": 370440,
@@ -1621,15 +1467,59 @@
       "longitude": 23.14558
     },
     {
-      "id": 7746441,
-      "name": "Mitti",
-      "nativeName": "Mitti",
-      "code": "SD-DC-7746441",
+      "id": 370218,
+      "name": "Meiram",
+      "nativeName": "Meiram",
+      "code": "SD-DC-370218",
       "countryId": 366755,
       "countryCode": "SD",
       "stateCode": "SD-DC",
-      "latitude": 13.01202,
-      "longitude": 23.99088
+      "latitude": 12.94743,
+      "longitude": 23.49754
+    },
+    {
+      "id": 370061,
+      "name": "Milmeidi",
+      "nativeName": "Milmeidi",
+      "code": "SD-DC-370061",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-DC",
+      "latitude": 11.48081,
+      "longitude": 22.99598
+    },
+    {
+      "id": 370051,
+      "name": "Mindo",
+      "nativeName": "Mindo",
+      "code": "SD-DC-370051",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-DC",
+      "latitude": 12.46667,
+      "longitude": 23.08333
+    },
+    {
+      "id": 370046,
+      "name": "Mingyeir",
+      "nativeName": "Mingyeir",
+      "code": "SD-DC-370046",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-DC",
+      "latitude": 12.85,
+      "longitude": 22.81667
+    },
+    {
+      "id": 369899,
+      "name": "Momona",
+      "nativeName": "Momona",
+      "code": "SD-DC-369899",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-DC",
+      "latitude": 11.7336,
+      "longitude": 22.65764
     },
     {
       "id": 8390869,
@@ -1643,15 +1533,15 @@
       "longitude": 22.62978
     },
     {
-      "id": 7750466,
-      "name": "Mudu",
-      "nativeName": "Mudu",
-      "code": "SD-DC-7750466",
+      "id": 369866,
+      "name": "Mororo",
+      "nativeName": "Mororo",
+      "code": "SD-DC-369866",
       "countryId": 366755,
       "countryCode": "SD",
       "stateCode": "SD-DC",
-      "latitude": 13.16572,
-      "longitude": 24.0709
+      "latitude": 12.58333,
+      "longitude": 22.66667
     },
     {
       "id": 369799,
@@ -1687,6 +1577,17 @@
       "longitude": 23.7
     },
     {
+      "id": 369707,
+      "name": "Muni",
+      "nativeName": "Muni",
+      "code": "SD-DC-369707",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-DC",
+      "latitude": 13,
+      "longitude": 23.7
+    },
+    {
       "id": 7754684,
       "name": "Mura",
       "nativeName": "Mura",
@@ -1709,6 +1610,17 @@
       "longitude": 23.39009
     },
     {
+      "id": 369626,
+      "name": "Murundu",
+      "nativeName": "Murundu",
+      "code": "SD-DC-369626",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-DC",
+      "latitude": 12.8375,
+      "longitude": 23.14274
+    },
+    {
       "id": 369565,
       "name": "Mutur",
       "nativeName": "Mutur",
@@ -1718,6 +1630,39 @@
       "stateCode": "SD-DC",
       "latitude": 11.36869,
       "longitude": 22.98916
+    },
+    {
+      "id": 370701,
+      "name": "Mālī",
+      "nativeName": "Mālī",
+      "code": "SD-DC-370701",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-DC",
+      "latitude": 13.28958,
+      "longitude": 23.91733
+    },
+    {
+      "id": 370702,
+      "name": "Mālī",
+      "nativeName": "Mālī",
+      "code": "SD-DC-370702",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-DC",
+      "latitude": 12.85446,
+      "longitude": 23.29881
+    },
+    {
+      "id": 370024,
+      "name": "Mīrī",
+      "nativeName": "Mīrī",
+      "code": "SD-DC-370024",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-DC",
+      "latitude": 13.00522,
+      "longitude": 23.97278
     },
     {
       "id": 369230,
@@ -1742,6 +1687,50 @@
       "longitude": 22.87799
     },
     {
+      "id": 369132,
+      "name": "Njumbeil",
+      "nativeName": "Njumbeil",
+      "code": "SD-DC-369132",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-DC",
+      "latitude": 11.65813,
+      "longitude": 22.96336
+    },
+    {
+      "id": 368995,
+      "name": "Nyama",
+      "nativeName": "Nyama",
+      "code": "SD-DC-368995",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-DC",
+      "latitude": 12.78333,
+      "longitude": 23.55
+    },
+    {
+      "id": 368979,
+      "name": "Nyangadulo",
+      "nativeName": "Nyangadulo",
+      "code": "SD-DC-368979",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-DC",
+      "latitude": 13.06667,
+      "longitude": 23.38333
+    },
+    {
+      "id": 368942,
+      "name": "Nyerli",
+      "nativeName": "Nyerli",
+      "code": "SD-DC-368942",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-DC",
+      "latitude": 12.06667,
+      "longitude": 23.25
+    },
+    {
       "id": 368418,
       "name": "Qawz Fīl",
       "nativeName": "Qawz Fīl",
@@ -1751,6 +1740,17 @@
       "stateCode": "SD-DC",
       "latitude": 13.11667,
       "longitude": 23.18333
+    },
+    {
+      "id": 368196,
+      "name": "Ramalia",
+      "nativeName": "Ramalia",
+      "code": "SD-DC-368196",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-DC",
+      "latitude": 11.96765,
+      "longitude": 23.31563
     },
     {
       "id": 367943,
@@ -1764,26 +1764,26 @@
       "longitude": 22.71353
     },
     {
-      "id": 7746258,
-      "name": "Rumni",
-      "nativeName": "Rumni",
-      "code": "SD-DC-7746258",
+      "id": 367815,
+      "name": "Sagai",
+      "nativeName": "Sagai",
+      "code": "SD-DC-367815",
       "countryId": 366755,
       "countryCode": "SD",
       "stateCode": "SD-DC",
-      "latitude": 13.40974,
-      "longitude": 23.52511
+      "latitude": 12.28333,
+      "longitude": 23.18333
     },
     {
-      "id": 7746261,
-      "name": "Sadei",
-      "nativeName": "Sadei",
-      "code": "SD-DC-7746261",
+      "id": 367730,
+      "name": "Sali",
+      "nativeName": "Sali",
+      "code": "SD-DC-367730",
       "countryId": 366755,
       "countryCode": "SD",
       "stateCode": "SD-DC",
-      "latitude": 13.46026,
-      "longitude": 23.55888
+      "latitude": 11.36216,
+      "longitude": 23.3393
     },
     {
       "id": 7754554,
@@ -1808,15 +1808,48 @@
       "longitude": 23.27282
     },
     {
-      "id": 7746449,
-      "name": "Sawala Magella",
-      "nativeName": "Sawala Magella",
-      "code": "SD-DC-7746449",
+      "id": 367547,
+      "name": "Sauria",
+      "nativeName": "Sauria",
+      "code": "SD-DC-367547",
       "countryId": 366755,
       "countryCode": "SD",
       "stateCode": "SD-DC",
-      "latitude": 13.12155,
-      "longitude": 23.95574
+      "latitude": 12.7431,
+      "longitude": 23.0304
+    },
+    {
+      "id": 367474,
+      "name": "Seinye",
+      "nativeName": "Seinye",
+      "code": "SD-DC-367474",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-DC",
+      "latitude": 11.81398,
+      "longitude": 23.47662
+    },
+    {
+      "id": 367464,
+      "name": "Selenyi",
+      "nativeName": "Selenyi",
+      "code": "SD-DC-367464",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-DC",
+      "latitude": 12.6,
+      "longitude": 23.53333
+    },
+    {
+      "id": 367416,
+      "name": "Seyeh",
+      "nativeName": "Seyeh",
+      "code": "SD-DC-367416",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-DC",
+      "latitude": 13.46773,
+      "longitude": 23.50989
     },
     {
       "id": 367132,
@@ -1830,17 +1863,6 @@
       "longitude": 24.1004
     },
     {
-      "id": 7750178,
-      "name": "Siga",
-      "nativeName": "Siga",
-      "code": "SD-DC-7750178",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-DC",
-      "latitude": 13.07946,
-      "longitude": 24.33456
-    },
-    {
       "id": 366829,
       "name": "Sirrī",
       "nativeName": "Sirrī",
@@ -1850,17 +1872,6 @@
       "stateCode": "SD-DC",
       "latitude": 12.53333,
       "longitude": 22.9
-    },
-    {
-      "id": 7755321,
-      "name": "Solongei",
-      "nativeName": "Solongei",
-      "code": "SD-DC-7755321",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-DC",
-      "latitude": 12.59637,
-      "longitude": 23.46198
     },
     {
       "id": 7754695,
@@ -1874,15 +1885,37 @@
       "longitude": 23.37752
     },
     {
-      "id": 7746843,
-      "name": "Sundu Ferdi",
-      "nativeName": "Sundu Ferdi",
-      "code": "SD-DC-7746843",
+      "id": 366713,
+      "name": "Sukabaranga",
+      "nativeName": "Sukabaranga",
+      "code": "SD-DC-366713",
       "countryId": 366755,
       "countryCode": "SD",
       "stateCode": "SD-DC",
-      "latitude": 13.12611,
-      "longitude": 24.44261
+      "latitude": 11.75045,
+      "longitude": 22.84613
+    },
+    {
+      "id": 366684,
+      "name": "Sullu",
+      "nativeName": "Sullu",
+      "code": "SD-DC-366684",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-DC",
+      "latitude": 12.86586,
+      "longitude": 23.10243
+    },
+    {
+      "id": 366390,
+      "name": "Tarabo",
+      "nativeName": "Tarabo",
+      "code": "SD-DC-366390",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-DC",
+      "latitude": 12.30902,
+      "longitude": 22.74591
     },
     {
       "id": 7753559,
@@ -1918,15 +1951,15 @@
       "longitude": 24.05766
     },
     {
-      "id": 7750364,
-      "name": "Taudi",
-      "nativeName": "Taudi",
-      "code": "SD-DC-7750364",
+      "id": 366206,
+      "name": "Tella",
+      "nativeName": "Tella",
+      "code": "SD-DC-366206",
       "countryId": 366755,
       "countryCode": "SD",
       "stateCode": "SD-DC",
-      "latitude": 13.01221,
-      "longitude": 24.21833
+      "latitude": 13.08333,
+      "longitude": 23.35
     },
     {
       "id": 366027,
@@ -1940,26 +1973,37 @@
       "longitude": 23.39361
     },
     {
-      "id": 7750468,
-      "name": "Tiringa",
-      "nativeName": "Tiringa",
-      "code": "SD-DC-7750468",
+      "id": 365997,
+      "name": "Timassi",
+      "nativeName": "Timassi",
+      "code": "SD-DC-365997",
       "countryId": 366755,
       "countryCode": "SD",
       "stateCode": "SD-DC",
-      "latitude": 13.1871,
-      "longitude": 24.08594
+      "latitude": 11.503,
+      "longitude": 22.75783
     },
     {
-      "id": 7750346,
-      "name": "Tuldowa",
-      "nativeName": "Tuldowa",
-      "code": "SD-DC-7750346",
+      "id": 365947,
+      "name": "Tirkeldi",
+      "nativeName": "Tirkeldi",
+      "code": "SD-DC-365947",
       "countryId": 366755,
       "countryCode": "SD",
       "stateCode": "SD-DC",
-      "latitude": 13.1929,
-      "longitude": 24.24676
+      "latitude": 12.88855,
+      "longitude": 23.09059
+    },
+    {
+      "id": 365769,
+      "name": "Tongo",
+      "nativeName": "Tongo",
+      "code": "SD-DC-365769",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-DC",
+      "latitude": 12.53631,
+      "longitude": 22.73709
     },
     {
       "id": 365635,
@@ -1971,6 +2015,17 @@
       "stateCode": "SD-DC",
       "latitude": 12.78333,
       "longitude": 23.16667
+    },
+    {
+      "id": 365602,
+      "name": "Tungarsa",
+      "nativeName": "Tungarsa",
+      "code": "SD-DC-365602",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-DC",
+      "latitude": 13.21667,
+      "longitude": 23.43333
     },
     {
       "id": 7753557,
@@ -2017,28 +2072,6 @@
       "longitude": 24.14663
     },
     {
-      "id": 7750474,
-      "name": "Turru",
-      "nativeName": "Turru",
-      "code": "SD-DC-7750474",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-DC",
-      "latitude": 13.28982,
-      "longitude": 24.03905
-    },
-    {
-      "id": 7746413,
-      "name": "Turunga",
-      "nativeName": "Turunga",
-      "code": "SD-DC-7746413",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-DC",
-      "latitude": 13.44022,
-      "longitude": 23.75853
-    },
-    {
       "id": 365495,
       "name": "Ubbe",
       "nativeName": "Ubbe",
@@ -2061,6 +2094,17 @@
       "longitude": 23.23179
     },
     {
+      "id": 365026,
+      "name": "Umm Ḩarāz",
+      "nativeName": "Umm Ḩarāz",
+      "code": "SD-DC-365026",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-DC",
+      "latitude": 13.15,
+      "longitude": 24
+    },
+    {
       "id": 7754697,
       "name": "Urdi",
       "nativeName": "Urdi",
@@ -2072,37 +2116,15 @@
       "longitude": 23.36636
     },
     {
-      "id": 7750347,
-      "name": "Usega",
-      "nativeName": "Usega",
-      "code": "SD-DC-7750347",
+      "id": 364011,
+      "name": "Wajage",
+      "nativeName": "Wajage",
+      "code": "SD-DC-364011",
       "countryId": 366755,
       "countryCode": "SD",
       "stateCode": "SD-DC",
-      "latitude": 13.17946,
-      "longitude": 24.22721
-    },
-    {
-      "id": 7750565,
-      "name": "Uyur",
-      "nativeName": "Uyur",
-      "code": "SD-DC-7750565",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-DC",
-      "latitude": 13.1643,
-      "longitude": 24.01409
-    },
-    {
-      "id": 7750967,
-      "name": "Wara",
-      "nativeName": "Wara",
-      "code": "SD-DC-7750967",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-DC",
-      "latitude": 13.23195,
-      "longitude": 24.55791
+      "latitude": 11.56667,
+      "longitude": 23.7
     },
     {
       "id": 363929,
@@ -2127,17 +2149,6 @@
       "longitude": 24.1643
     },
     {
-      "id": 7755314,
-      "name": "Wirim Bau",
-      "nativeName": "Wirim Bau",
-      "code": "SD-DC-7755314",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-DC",
-      "latitude": 12.73688,
-      "longitude": 23.43116
-    },
-    {
       "id": 363796,
       "name": "Wirwer",
       "nativeName": "Wirwer",
@@ -2147,17 +2158,6 @@
       "stateCode": "SD-DC",
       "latitude": 12.36667,
       "longitude": 23.23333
-    },
-    {
-      "id": 7750177,
-      "name": "Wona",
-      "nativeName": "Wona",
-      "code": "SD-DC-7750177",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-DC",
-      "latitude": 13.06746,
-      "longitude": 24.33454
     },
     {
       "id": 363575,
@@ -2171,6 +2171,17 @@
       "longitude": 22.82953
     },
     {
+      "id": 363550,
+      "name": "Zaghawa",
+      "nativeName": "Zaghawa",
+      "code": "SD-DC-363550",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-DC",
+      "latitude": 13.3,
+      "longitude": 23.43333
+    },
+    {
       "id": 7753904,
       "name": "Zubera",
       "nativeName": "Zubera",
@@ -2182,26 +2193,15 @@
       "longitude": 23.0627
     },
     {
-      "id": 7755315,
-      "name": "Zuli",
-      "nativeName": "Zuli",
-      "code": "SD-DC-7755315",
+      "id": 381189,
+      "name": "‘Abata",
+      "nativeName": "‘Abata",
+      "code": "SD-DC-381189",
       "countryId": 366755,
       "countryCode": "SD",
       "stateCode": "SD-DC",
-      "latitude": 12.72804,
-      "longitude": 23.41656
-    },
-    {
-      "id": 7746446,
-      "name": "’Amar Gedid",
-      "nativeName": "’Amar Gedid",
-      "code": "SD-DC-7746446",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-DC",
-      "latitude": 13.09703,
-      "longitude": 23.93511
+      "latitude": 13.15991,
+      "longitude": 23.63526
     }
   ]
 }
