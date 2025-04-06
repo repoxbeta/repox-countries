@@ -14,17 +14,6 @@
       "longitude": -68.28333
     },
     {
-      "id": 7610359,
-      "name": "Public Entity Sint Eustatius",
-      "nativeName": "Sint Eustatius",
-      "code": "BQ-SE",
-      "internalCode": "SE",
-      "countryId": 7626844,
-      "countryCode": "BQ",
-      "latitude": 17.49167,
-      "longitude": -62.97917
-    },
-    {
       "id": 7610358,
       "name": "Saba",
       "nativeName": "Saba",
@@ -34,6 +23,17 @@
       "countryCode": "BQ",
       "latitude": 17.63333,
       "longitude": -63.23333
+    },
+    {
+      "id": 7610359,
+      "name": "Statia",
+      "nativeName": "Sint Eustatius",
+      "code": "BQ-SE",
+      "internalCode": "SE",
+      "countryId": 7626844,
+      "countryCode": "BQ",
+      "latitude": 17.49167,
+      "longitude": -62.97917
     }
   ]
 }

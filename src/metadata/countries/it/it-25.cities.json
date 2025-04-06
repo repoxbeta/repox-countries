@@ -4,17 +4,6 @@
   "countryCode": "IT",
   "cities": [
     {
-      "id": 3173434,
-      "name": "Milan",
-      "nativeName": "Città metropolitana di Milano",
-      "code": "IT-25-3173434",
-      "countryId": 3175395,
-      "countryCode": "IT",
-      "stateCode": "IT-25",
-      "latitude": 45.45186,
-      "longitude": 9.14586
-    },
-    {
       "id": 6955700,
       "name": "Monza Brianza",
       "nativeName": "Provincia di Monza e della Brianza",
@@ -101,6 +90,17 @@
       "stateCode": "IT-25",
       "latitude": 45.16667,
       "longitude": 10.78333
+    },
+    {
+      "id": 3173434,
+      "name": "Province of Milan",
+      "nativeName": "Città metropolitana di Milano",
+      "code": "IT-25-3173434",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-25",
+      "latitude": 45.45186,
+      "longitude": 9.14586
     },
     {
       "id": 3171364,

@@ -59,17 +59,6 @@
       "longitude": 86.25
     },
     {
-      "id": 1276301,
-      "name": "Bhagalpur",
-      "nativeName": "Bhāgalpur",
-      "code": "IN-BR-1276301",
-      "countryId": 1269750,
-      "countryCode": "IN",
-      "stateCode": "IN-BR",
-      "latitude": 25.29023,
-      "longitude": 87.06665
-    },
-    {
       "id": 1275871,
       "name": "Bhojpur",
       "nativeName": "Bhojpur",
@@ -79,6 +68,17 @@
       "stateCode": "IN-BR",
       "latitude": 25.30886,
       "longitude": 84.44504
+    },
+    {
+      "id": 1276301,
+      "name": "Bhāgalpur District",
+      "nativeName": "Bhāgalpur",
+      "code": "IN-BR-1276301",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-BR",
+      "latitude": 25.29023,
+      "longitude": 87.06665
     },
     {
       "id": 7627223,
@@ -104,7 +104,7 @@
     },
     {
       "id": 1271440,
-      "name": "Gaya District",
+      "name": "Gaya",
       "nativeName": "Gayā",
       "code": "IN-BR-1271440",
       "countryId": 1269750,
@@ -258,7 +258,7 @@
     },
     {
       "id": 1261632,
-      "name": "Nawada",
+      "name": "Nawada District",
       "nativeName": "Nawāda",
       "code": "IN-BR-1261632",
       "countryId": 1269750,
@@ -280,7 +280,7 @@
     },
     {
       "id": 1260091,
-      "name": "Patna district",
+      "name": "Patna",
       "nativeName": "Patna",
       "code": "IN-BR-1260091",
       "countryId": 1269750,
@@ -291,7 +291,7 @@
     },
     {
       "id": 1259186,
-      "name": "Purba Champaran District",
+      "name": "Purbi Champaran",
       "nativeName": "Pūrba Champāran",
       "code": "IN-BR-1259186",
       "countryId": 1269750,
@@ -313,7 +313,7 @@
     },
     {
       "id": 1258074,
-      "name": "Rohtas",
+      "name": "Rohtas District",
       "nativeName": "Rohtās",
       "code": "IN-BR-1258074",
       "countryId": 1269750,
@@ -345,19 +345,8 @@
       "longitude": 85.91667
     },
     {
-      "id": 1257248,
-      "name": "Saran",
-      "nativeName": "Sāran",
-      "code": "IN-BR-1257248",
-      "countryId": 1269750,
-      "countryCode": "IN",
-      "stateCode": "IN-BR",
-      "latitude": 25.91667,
-      "longitude": 84.75
-    },
-    {
       "id": 7701609,
-      "name": "Sheikhpura District",
+      "name": "Sheikhpura",
       "nativeName": "Sheikhpura",
       "code": "IN-BR-7701609",
       "countryId": 1269750,
@@ -376,6 +365,17 @@
       "stateCode": "IN-BR",
       "latitude": 26.5,
       "longitude": 85.3
+    },
+    {
+      "id": 1255984,
+      "name": "Sitamarhi",
+      "nativeName": "Sītāmarhi",
+      "code": "IN-BR-1255984",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-BR",
+      "latitude": 26.66667,
+      "longitude": 85.5
     },
     {
       "id": 1255930,
@@ -400,15 +400,15 @@
       "longitude": 86.8
     },
     {
-      "id": 1255984,
-      "name": "Sītāmarhi District",
-      "nativeName": "Sītāmarhi",
-      "code": "IN-BR-1255984",
+      "id": 1257248,
+      "name": "Sáran District",
+      "nativeName": "Sāran",
+      "code": "IN-BR-1257248",
       "countryId": 1269750,
       "countryCode": "IN",
       "stateCode": "IN-BR",
-      "latitude": 26.66667,
-      "longitude": 85.5
+      "latitude": 25.91667,
+      "longitude": 84.75
     },
     {
       "id": 1253533,

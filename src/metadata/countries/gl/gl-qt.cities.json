@@ -26,6 +26,17 @@
       "longitude": -52.83333
     },
     {
+      "id": 3424408,
+      "name": "Agto",
+      "nativeName": "Attu",
+      "code": "GL-QT-3424408",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QT",
+      "latitude": 67.94097,
+      "longitude": -53.62365
+    },
+    {
       "id": 3424725,
       "name": "Akulliit",
       "nativeName": "Akulliit",
@@ -57,17 +68,6 @@
       "stateCode": "GL-QT",
       "latitude": 67.86667,
       "longitude": -53.6
-    },
-    {
-      "id": 3424408,
-      "name": "Attu",
-      "nativeName": "Attu",
-      "code": "GL-QT-3424408",
-      "countryId": 3425505,
-      "countryCode": "GL",
-      "stateCode": "GL-QT",
-      "latitude": 67.94097,
-      "longitude": -53.62365
     },
     {
       "id": 3424030,
@@ -200,6 +200,17 @@
       "stateCode": "GL-QT",
       "latitude": 68.81926,
       "longitude": -51.19221
+    },
+    {
+      "id": 3420635,
+      "name": "Qeqertarsuaq",
+      "nativeName": "Qeqertarsuaq",
+      "code": "GL-QT-3420635",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QT",
+      "latitude": 69.24721,
+      "longitude": -53.53682
     },
     {
       "id": 3420629,

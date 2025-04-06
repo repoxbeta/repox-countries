@@ -301,17 +301,6 @@
       "longitude": 48.21076
     },
     {
-      "id": 800614,
-      "name": "Mamedli",
-      "nativeName": "Mamedli",
-      "code": "AZ-IMI-800614",
-      "countryId": 587116,
-      "countryCode": "AZ",
-      "stateCode": "AZ-IMI",
-      "latitude": 40.08979,
-      "longitude": 47.99476
-    },
-    {
       "id": 147565,
       "name": "Mamedli",
       "nativeName": "Mamedli",
@@ -321,6 +310,17 @@
       "stateCode": "AZ-IMI",
       "latitude": 39.82627,
       "longitude": 48.01953
+    },
+    {
+      "id": 800614,
+      "name": "Mamedli",
+      "nativeName": "Mamedli",
+      "code": "AZ-IMI-800614",
+      "countryId": 587116,
+      "countryCode": "AZ",
+      "stateCode": "AZ-IMI",
+      "latitude": 40.08979,
+      "longitude": 47.99476
     },
     {
       "id": 147537,

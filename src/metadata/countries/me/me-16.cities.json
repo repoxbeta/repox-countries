@@ -15,15 +15,26 @@
       "longitude": 19.26361
     },
     {
-      "id": 3338458,
-      "name": "Baj Do",
-      "nativeName": "Baj Do",
-      "code": "ME-16-3338458",
+      "id": 3341778,
+      "name": "Babljače",
+      "nativeName": "Babljače",
+      "code": "ME-16-3341778",
       "countryId": 3194884,
       "countryCode": "ME",
       "stateCode": "ME-16",
-      "latitude": 42.65861,
-      "longitude": 19.44444
+      "latitude": 42.63306,
+      "longitude": 19.47083
+    },
+    {
+      "id": 3204592,
+      "name": "Balabani",
+      "nativeName": "Balabani",
+      "code": "ME-16-3204592",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-16",
+      "latitude": 42.325,
+      "longitude": 19.23389
     },
     {
       "id": 3317318,
@@ -81,6 +92,39 @@
       "longitude": 19.32444
     },
     {
+      "id": 3341772,
+      "name": "Begovići",
+      "nativeName": "Begovići",
+      "code": "ME-16-3341772",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-16",
+      "latitude": 42.61694,
+      "longitude": 19.49333
+    },
+    {
+      "id": 3204273,
+      "name": "Berislavci",
+      "nativeName": "Berislavci",
+      "code": "ME-16-3204273",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-16",
+      "latitude": 42.3025,
+      "longitude": 19.2175
+    },
+    {
+      "id": 3204268,
+      "name": "Berova",
+      "nativeName": "Berova",
+      "code": "ME-16-3204268",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-16",
+      "latitude": 42.49111,
+      "longitude": 19.44528
+    },
+    {
       "id": 3204245,
       "name": "Bezjovo",
       "nativeName": "Bezjovo",
@@ -90,6 +134,28 @@
       "stateCode": "ME-16",
       "latitude": 42.49417,
       "longitude": 19.42222
+    },
+    {
+      "id": 3204224,
+      "name": "Bigor",
+      "nativeName": "Bigor",
+      "code": "ME-16-3204224",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-16",
+      "latitude": 42.39944,
+      "longitude": 19.13222
+    },
+    {
+      "id": 3204177,
+      "name": "Bijelo Polje",
+      "nativeName": "Bijelo Polje",
+      "code": "ME-16-3204177",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-16",
+      "latitude": 42.30306,
+      "longitude": 19.19806
     },
     {
       "id": 3204128,
@@ -114,15 +180,15 @@
       "longitude": 19.185
     },
     {
-      "id": 3343040,
-      "name": "Bjeljoskja",
-      "nativeName": "Bjeljoskja",
-      "code": "ME-16-3343040",
+      "id": 3203907,
+      "name": "Blizna",
+      "nativeName": "Blizna",
+      "code": "ME-16-3203907",
       "countryId": 3194884,
       "countryCode": "ME",
       "stateCode": "ME-16",
-      "latitude": 42.38861,
-      "longitude": 19.40444
+      "latitude": 42.5375,
+      "longitude": 19.30694
     },
     {
       "id": 3203761,
@@ -136,6 +202,28 @@
       "longitude": 19.42083
     },
     {
+      "id": 3342800,
+      "name": "Boljev Do",
+      "nativeName": "Boljev Do",
+      "code": "ME-16-3342800",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-16",
+      "latitude": 42.49778,
+      "longitude": 19.34361
+    },
+    {
+      "id": 3203616,
+      "name": "Botun",
+      "nativeName": "Botun",
+      "code": "ME-16-3203616",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-16",
+      "latitude": 42.385,
+      "longitude": 19.2
+    },
+    {
       "id": 3335739,
       "name": "Božaj",
       "nativeName": "Božaj",
@@ -145,6 +233,17 @@
       "stateCode": "ME-16",
       "latitude": 42.31167,
       "longitude": 19.39111
+    },
+    {
+      "id": 3341773,
+      "name": "Bradašica",
+      "nativeName": "Bradašica",
+      "code": "ME-16-3341773",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-16",
+      "latitude": 42.61417,
+      "longitude": 19.48472
     },
     {
       "id": 3341619,
@@ -158,17 +257,6 @@
       "longitude": 19.36417
     },
     {
-      "id": 3338398,
-      "name": "Bregovi",
-      "nativeName": "Bregovi",
-      "code": "ME-16-3338398",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-16",
-      "latitude": 42.52056,
-      "longitude": 19.22611
-    },
-    {
       "id": 3220537,
       "name": "Brezevice",
       "nativeName": "Brezevice",
@@ -178,6 +266,17 @@
       "stateCode": "ME-16",
       "latitude": 42.55111,
       "longitude": 19.46444
+    },
+    {
+      "id": 3203401,
+      "name": "Brežine",
+      "nativeName": "Brežine",
+      "code": "ME-16-3203401",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-16",
+      "latitude": 42.3925,
+      "longitude": 19.11389
     },
     {
       "id": 3341573,
@@ -202,15 +301,15 @@
       "longitude": 19.34111
     },
     {
-      "id": 3338405,
+      "id": 3341840,
       "name": "Bunca",
       "nativeName": "Bunca",
-      "code": "ME-16-3338405",
+      "code": "ME-16-3341840",
       "countryId": 3194884,
       "countryCode": "ME",
       "stateCode": "ME-16",
-      "latitude": 42.53778,
-      "longitude": 19.38083
+      "latitude": 42.53056,
+      "longitude": 19.36472
     },
     {
       "id": 3202972,
@@ -224,15 +323,15 @@
       "longitude": 19.10194
     },
     {
-      "id": 3338401,
-      "name": "Crkvice",
-      "nativeName": "Crkvice",
-      "code": "ME-16-3338401",
+      "id": 3342803,
+      "name": "Cerje",
+      "nativeName": "Cerje",
+      "code": "ME-16-3342803",
       "countryId": 3194884,
       "countryCode": "ME",
       "stateCode": "ME-16",
-      "latitude": 42.52417,
-      "longitude": 19.34417
+      "latitude": 42.49833,
+      "longitude": 19.36889
     },
     {
       "id": 3341188,
@@ -257,26 +356,59 @@
       "longitude": 19.11361
     },
     {
-      "id": 3337952,
-      "name": "Cucevica",
-      "nativeName": "Cucevica",
-      "code": "ME-16-3337952",
+      "id": 3342837,
+      "name": "Cvarin",
+      "nativeName": "Cvarin",
+      "code": "ME-16-3342837",
       "countryId": 3194884,
       "countryCode": "ME",
       "stateCode": "ME-16",
-      "latitude": 42.67028,
-      "longitude": 19.52111
+      "latitude": 42.48556,
+      "longitude": 19.32361
     },
     {
-      "id": 3338474,
-      "name": "Dijonice",
-      "nativeName": "Dijonice",
-      "code": "ME-16-3338474",
+      "id": 3202255,
+      "name": "Cvilin",
+      "nativeName": "Cvilin",
+      "code": "ME-16-3202255",
       "countryId": 3194884,
       "countryCode": "ME",
       "stateCode": "ME-16",
-      "latitude": 42.68667,
-      "longitude": 19.4925
+      "latitude": 42.50722,
+      "longitude": 19.42056
+    },
+    {
+      "id": 3342738,
+      "name": "Dahna",
+      "nativeName": "Dahna",
+      "code": "ME-16-3342738",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-16",
+      "latitude": 42.42306,
+      "longitude": 19.22861
+    },
+    {
+      "id": 3202229,
+      "name": "Dajbabe",
+      "nativeName": "Dajbabe",
+      "code": "ME-16-3202229",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-16",
+      "latitude": 42.40944,
+      "longitude": 19.22361
+    },
+    {
+      "id": 3341780,
+      "name": "Dedinice",
+      "nativeName": "Dedinice",
+      "code": "ME-16-3341780",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-16",
+      "latitude": 42.6375,
+      "longitude": 19.44639
     },
     {
       "id": 3202023,
@@ -290,17 +422,6 @@
       "longitude": 19.33889
     },
     {
-      "id": 3343026,
-      "name": "Dobrčin",
-      "nativeName": "Dobrčin",
-      "code": "ME-16-3343026",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-16",
-      "latitude": 42.40944,
-      "longitude": 19.43861
-    },
-    {
       "id": 3317295,
       "name": "Dolovi",
       "nativeName": "Dolovi",
@@ -312,26 +433,37 @@
       "longitude": 19.09194
     },
     {
-      "id": 3338394,
-      "name": "Dolovi",
-      "nativeName": "Dolovi",
-      "code": "ME-16-3338394",
+      "id": 3197046,
+      "name": "Donja Kržanja",
+      "nativeName": "Donja Kržanja",
+      "code": "ME-16-3197046",
       "countryId": 3194884,
       "countryCode": "ME",
       "stateCode": "ME-16",
-      "latitude": 42.50639,
-      "longitude": 19.31444
+      "latitude": 42.52611,
+      "longitude": 19.43917
     },
     {
-      "id": 3342944,
-      "name": "Donja Vrbica",
-      "nativeName": "Donja Vrbica",
-      "code": "ME-16-3342944",
+      "id": 3342167,
+      "name": "Donja Plavnica",
+      "nativeName": "Donja Plavnica",
+      "code": "ME-16-3342167",
       "countryId": 3194884,
       "countryCode": "ME",
       "stateCode": "ME-16",
-      "latitude": 42.45306,
-      "longitude": 19.33444
+      "latitude": 42.27222,
+      "longitude": 19.20139
+    },
+    {
+      "id": 3342740,
+      "name": "Donje Dajbabe",
+      "nativeName": "Donje Dajbabe",
+      "code": "ME-16-3342740",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-16",
+      "latitude": 42.40556,
+      "longitude": 19.22861
     },
     {
       "id": 3341646,
@@ -365,28 +497,6 @@
       "stateCode": "ME-16",
       "latitude": 42.58139,
       "longitude": 19.35778
-    },
-    {
-      "id": 3338435,
-      "name": "Donje Selo",
-      "nativeName": "Donje Selo",
-      "code": "ME-16-3338435",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-16",
-      "latitude": 42.61417,
-      "longitude": 19.39694
-    },
-    {
-      "id": 3338389,
-      "name": "Donje Stravče",
-      "nativeName": "Donje Stravče",
-      "code": "ME-16-3338389",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-16",
-      "latitude": 42.58083,
-      "longitude": 19.465
     },
     {
       "id": 3189510,
@@ -466,28 +576,6 @@
       "longitude": 19.47389
     },
     {
-      "id": 3338423,
-      "name": "Dubočica",
-      "nativeName": "Dubočica",
-      "code": "ME-16-3338423",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-16",
-      "latitude": 42.60694,
-      "longitude": 19.38028
-    },
-    {
-      "id": 3343057,
-      "name": "Dubrava",
-      "nativeName": "Dubrava",
-      "code": "ME-16-3343057",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-16",
-      "latitude": 42.33944,
-      "longitude": 19.26472
-    },
-    {
       "id": 3341216,
       "name": "Dubravice",
       "nativeName": "Dubravice",
@@ -497,6 +585,28 @@
       "stateCode": "ME-16",
       "latitude": 42.53472,
       "longitude": 19.31444
+    },
+    {
+      "id": 3201039,
+      "name": "Duga",
+      "nativeName": "Duga",
+      "code": "ME-16-3201039",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-16",
+      "latitude": 42.54556,
+      "longitude": 19.34056
+    },
+    {
+      "id": 3201043,
+      "name": "Dučići",
+      "nativeName": "Dučići",
+      "code": "ME-16-3201043",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-16",
+      "latitude": 42.47806,
+      "longitude": 19.38889
     },
     {
       "id": 3200935,
@@ -510,15 +620,15 @@
       "longitude": 19.44333
     },
     {
-      "id": 3342945,
-      "name": "Fuša e Nenes",
-      "nativeName": "Fuša e Nenes",
-      "code": "ME-16-3342945",
+      "id": 3200867,
+      "name": "Farmaci",
+      "nativeName": "Farmaci",
+      "code": "ME-16-3200867",
       "countryId": 3194884,
       "countryCode": "ME",
       "stateCode": "ME-16",
-      "latitude": 42.43833,
-      "longitude": 19.33194
+      "latitude": 42.41417,
+      "longitude": 19.19194
     },
     {
       "id": 3341684,
@@ -530,17 +640,6 @@
       "stateCode": "ME-16",
       "latitude": 42.57278,
       "longitude": 19.38417
-    },
-    {
-      "id": 3338399,
-      "name": "Gola Strana",
-      "nativeName": "Gola Strana",
-      "code": "ME-16-3338399",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-16",
-      "latitude": 42.51583,
-      "longitude": 19.23917
     },
     {
       "id": 3200452,
@@ -587,28 +686,6 @@
       "longitude": 19.135
     },
     {
-      "id": 3338388,
-      "name": "Gornja Kržanja",
-      "nativeName": "Gornja Kržanja",
-      "code": "ME-16-3338388",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-16",
-      "latitude": 42.53861,
-      "longitude": 19.43889
-    },
-    {
-      "id": 3343184,
-      "name": "Gornja Plavnica",
-      "nativeName": "Gornja Plavnica",
-      "code": "ME-16-3343184",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-16",
-      "latitude": 42.28472,
-      "longitude": 19.20861
-    },
-    {
       "id": 3187291,
       "name": "Gornja Vrbica",
       "nativeName": "Gornja Vrbica",
@@ -618,6 +695,17 @@
       "stateCode": "ME-16",
       "latitude": 42.45944,
       "longitude": 19.34944
+    },
+    {
+      "id": 3342739,
+      "name": "Gornje Dajbabe",
+      "nativeName": "Gornje Dajbabe",
+      "code": "ME-16-3342739",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-16",
+      "latitude": 42.41333,
+      "longitude": 19.22528
     },
     {
       "id": 3194887,
@@ -686,6 +774,17 @@
       "longitude": 19.26528
     },
     {
+      "id": 3342824,
+      "name": "Gornji Medun",
+      "nativeName": "Gornji Medun",
+      "code": "ME-16-3342824",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-16",
+      "latitude": 42.47361,
+      "longitude": 19.36861
+    },
+    {
       "id": 3191581,
       "name": "Gornji Rogami",
       "nativeName": "Gornji Rogami",
@@ -719,6 +818,17 @@
       "longitude": 19.23917
     },
     {
+      "id": 3199757,
+      "name": "Gradac",
+      "nativeName": "Gradac",
+      "code": "ME-16-3199757",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-16",
+      "latitude": 42.41333,
+      "longitude": 19.09278
+    },
+    {
       "id": 3317243,
       "name": "Granica",
       "nativeName": "Granica",
@@ -730,26 +840,26 @@
       "longitude": 19.08
     },
     {
-      "id": 3338454,
-      "name": "Grbi Do",
-      "nativeName": "Grbi Do",
-      "code": "ME-16-3338454",
+      "id": 3199638,
+      "name": "Grbavci",
+      "nativeName": "Grbavci",
+      "code": "ME-16-3199638",
       "countryId": 3194884,
       "countryCode": "ME",
       "stateCode": "ME-16",
-      "latitude": 42.63361,
-      "longitude": 19.47917
+      "latitude": 42.36722,
+      "longitude": 19.18889
     },
     {
-      "id": 3343010,
-      "name": "Gropa e Morišit",
-      "nativeName": "Gropa e Morišit",
-      "code": "ME-16-3343010",
+      "id": 3342801,
+      "name": "Greča",
+      "nativeName": "Greča",
+      "code": "ME-16-3342801",
       "countryId": 3194884,
       "countryCode": "ME",
       "stateCode": "ME-16",
-      "latitude": 42.43167,
-      "longitude": 19.33361
+      "latitude": 42.49194,
+      "longitude": 19.35667
     },
     {
       "id": 3317449,
@@ -763,39 +873,6 @@
       "longitude": 19.12361
     },
     {
-      "id": 3338456,
-      "name": "Guberinići",
-      "nativeName": "Guberinići",
-      "code": "ME-16-3338456",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-16",
-      "latitude": 42.63667,
-      "longitude": 19.48556
-    },
-    {
-      "id": 3338436,
-      "name": "Gusići",
-      "nativeName": "Gusići",
-      "code": "ME-16-3338436",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-16",
-      "latitude": 42.62,
-      "longitude": 19.41139
-    },
-    {
-      "id": 3343036,
-      "name": "Hadžaj",
-      "nativeName": "Hadžaj",
-      "code": "ME-16-3343036",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-16",
-      "latitude": 42.39778,
-      "longitude": 19.35167
-    },
-    {
       "id": 3343079,
       "name": "Hasanoj",
       "nativeName": "Hasanoj",
@@ -807,37 +884,15 @@
       "longitude": 19.35972
     },
     {
-      "id": 3338439,
-      "name": "Jablan",
-      "nativeName": "Jablan",
-      "code": "ME-16-3338439",
+      "id": 3341839,
+      "name": "Jelin Dub",
+      "nativeName": "Jelin Dub",
+      "code": "ME-16-3341839",
       "countryId": 3194884,
       "countryCode": "ME",
       "stateCode": "ME-16",
-      "latitude": 42.61944,
-      "longitude": 19.44778
-    },
-    {
-      "id": 3343030,
-      "name": "Kajoš",
-      "nativeName": "Kajoš",
-      "code": "ME-16-3343030",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-16",
-      "latitude": 42.41278,
-      "longitude": 19.34972
-    },
-    {
-      "id": 3338455,
-      "name": "Kami",
-      "nativeName": "Kami",
-      "code": "ME-16-3338455",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-16",
-      "latitude": 42.64167,
-      "longitude": 19.46583
+      "latitude": 42.52806,
+      "longitude": 19.35556
     },
     {
       "id": 3341731,
@@ -851,15 +906,26 @@
       "longitude": 19.42528
     },
     {
-      "id": 3338416,
-      "name": "Kisjelica",
-      "nativeName": "Kisjelica",
-      "code": "ME-16-3338416",
+      "id": 3198021,
+      "name": "Klopot",
+      "nativeName": "Klopot",
+      "code": "ME-16-3198021",
       "countryId": 3194884,
       "countryCode": "ME",
       "stateCode": "ME-16",
-      "latitude": 42.58556,
-      "longitude": 19.3925
+      "latitude": 42.55944,
+      "longitude": 19.37833
+    },
+    {
+      "id": 3341777,
+      "name": "Kolevići",
+      "nativeName": "Kolevići",
+      "code": "ME-16-3341777",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-16",
+      "latitude": 42.635,
+      "longitude": 19.48083
     },
     {
       "id": 3342954,
@@ -873,6 +939,17 @@
       "longitude": 19.28333
     },
     {
+      "id": 3341770,
+      "name": "Koraj-Do",
+      "nativeName": "Koraj-Do",
+      "code": "ME-16-3341770",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-16",
+      "latitude": 42.60583,
+      "longitude": 19.4775
+    },
+    {
       "id": 3341765,
       "name": "Korijen",
       "nativeName": "Korijen",
@@ -884,26 +961,26 @@
       "longitude": 19.47583
     },
     {
-      "id": 3343617,
-      "name": "Korita",
-      "nativeName": "Korita",
-      "code": "ME-16-3343617",
+      "id": 3197659,
+      "name": "Kornet",
+      "nativeName": "Kornet",
+      "code": "ME-16-3197659",
       "countryId": 3194884,
       "countryCode": "ME",
       "stateCode": "ME-16",
-      "latitude": 42.48972,
-      "longitude": 19.53389
+      "latitude": 42.41167,
+      "longitude": 19.14167
     },
     {
-      "id": 3338409,
-      "name": "Kostrikovica",
-      "nativeName": "Kostrikovica",
-      "code": "ME-16-3338409",
+      "id": 3197604,
+      "name": "Kosor",
+      "nativeName": "Kosor",
+      "code": "ME-16-3197604",
       "countryId": 3194884,
       "countryCode": "ME",
       "stateCode": "ME-16",
-      "latitude": 42.5575,
-      "longitude": 19.29306
+      "latitude": 42.49389,
+      "longitude": 19.37472
     },
     {
       "id": 3341481,
@@ -917,15 +994,15 @@
       "longitude": 19.48583
     },
     {
-      "id": 3338442,
-      "name": "Kraljevac",
-      "nativeName": "Kraljevac",
-      "code": "ME-16-3338442",
+      "id": 3342818,
+      "name": "Koštrovići",
+      "nativeName": "Koštrovići",
+      "code": "ME-16-3342818",
       "countryId": 3194884,
       "countryCode": "ME",
       "stateCode": "ME-16",
-      "latitude": 42.62333,
-      "longitude": 19.48611
+      "latitude": 42.48778,
+      "longitude": 19.40667
     },
     {
       "id": 3341191,
@@ -939,15 +1016,15 @@
       "longitude": 19.25472
     },
     {
-      "id": 3338452,
-      "name": "Krkor",
-      "nativeName": "Krkor",
-      "code": "ME-16-3338452",
+      "id": 3341796,
+      "name": "Krivi Do",
+      "nativeName": "Krivi Do",
+      "code": "ME-16-3341796",
       "countryId": 3194884,
       "countryCode": "ME",
       "stateCode": "ME-16",
-      "latitude": 42.64361,
-      "longitude": 19.45028
+      "latitude": 42.65028,
+      "longitude": 19.44806
     },
     {
       "id": 3338419,
@@ -972,17 +1049,6 @@
       "longitude": 19.1525
     },
     {
-      "id": 3343009,
-      "name": "Kucišta",
-      "nativeName": "Kucišta",
-      "code": "ME-16-3343009",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-16",
-      "latitude": 42.43583,
-      "longitude": 19.31889
-    },
-    {
       "id": 3341240,
       "name": "Kupina",
       "nativeName": "Kupina",
@@ -1005,6 +1071,17 @@
       "longitude": 19.33306
     },
     {
+      "id": 3196902,
+      "name": "Kurilo",
+      "nativeName": "Kurilo",
+      "code": "ME-16-3196902",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-16",
+      "latitude": 42.29778,
+      "longitude": 19.18194
+    },
+    {
       "id": 3317583,
       "name": "Kurioci",
       "nativeName": "Kurioci",
@@ -1014,6 +1091,50 @@
       "stateCode": "ME-16",
       "latitude": 42.31222,
       "longitude": 19.19167
+    },
+    {
+      "id": 3342808,
+      "name": "Kuti",
+      "nativeName": "Kuti",
+      "code": "ME-16-3342808",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-16",
+      "latitude": 42.48972,
+      "longitude": 19.43917
+    },
+    {
+      "id": 3342185,
+      "name": "Lajkovići",
+      "nativeName": "Lajkovići",
+      "code": "ME-16-3342185",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-16",
+      "latitude": 42.36556,
+      "longitude": 19.21389
+    },
+    {
+      "id": 3341771,
+      "name": "Lazi",
+      "nativeName": "Lazi",
+      "code": "ME-16-3341771",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-16",
+      "latitude": 42.61194,
+      "longitude": 19.47167
+    },
+    {
+      "id": 3196694,
+      "name": "Lekići",
+      "nativeName": "Lekići",
+      "code": "ME-16-3196694",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-16",
+      "latitude": 42.38944,
+      "longitude": 19.18944
     },
     {
       "id": 3338453,
@@ -1038,6 +1159,17 @@
       "longitude": 19.47667
     },
     {
+      "id": 3196580,
+      "name": "Liješta",
+      "nativeName": "Liješta",
+      "code": "ME-16-3196580",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-16",
+      "latitude": 42.48722,
+      "longitude": 19.38528
+    },
+    {
       "id": 3317100,
       "name": "Lipe",
       "nativeName": "Lipe",
@@ -1049,15 +1181,15 @@
       "longitude": 19.03528
     },
     {
-      "id": 3343016,
-      "name": "Lopari",
-      "nativeName": "Lopari",
-      "code": "ME-16-3343016",
+      "id": 3196204,
+      "name": "Lopate",
+      "nativeName": "Lopate",
+      "code": "ME-16-3196204",
       "countryId": 3194884,
       "countryCode": "ME",
       "stateCode": "ME-16",
-      "latitude": 42.42778,
-      "longitude": 19.3875
+      "latitude": 42.65472,
+      "longitude": 19.48556
     },
     {
       "id": 3341569,
@@ -1069,6 +1201,17 @@
       "stateCode": "ME-16",
       "latitude": 42.505,
       "longitude": 19.33444
+    },
+    {
+      "id": 3342468,
+      "name": "Lužani",
+      "nativeName": "Lužani",
+      "code": "ME-16-3342468",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-16",
+      "latitude": 42.45806,
+      "longitude": 19.22889
     },
     {
       "id": 3195931,
@@ -1126,17 +1269,6 @@
       "longitude": 19.27278
     },
     {
-      "id": 3343070,
-      "name": "Mačaj",
-      "nativeName": "Mačaj",
-      "code": "ME-16-3343070",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-16",
-      "latitude": 42.36083,
-      "longitude": 19.40861
-    },
-    {
       "id": 3341218,
       "name": "Mijeli",
       "nativeName": "Mijeli",
@@ -1170,17 +1302,6 @@
       "longitude": 19.04278
     },
     {
-      "id": 3338440,
-      "name": "Mirin Do",
-      "nativeName": "Mirin Do",
-      "code": "ME-16-3338440",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-16",
-      "latitude": 42.61611,
-      "longitude": 19.46333
-    },
-    {
       "id": 3341690,
       "name": "Miročevići",
       "nativeName": "Miročevići",
@@ -1203,6 +1324,17 @@
       "longitude": 18.99361
     },
     {
+      "id": 3342186,
+      "name": "Mitrovići",
+      "nativeName": "Mitrovići",
+      "code": "ME-16-3342186",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-16",
+      "latitude": 42.3675,
+      "longitude": 19.22611
+    },
+    {
       "id": 3341185,
       "name": "Mišoka",
       "nativeName": "Mišoka",
@@ -1212,17 +1344,6 @@
       "stateCode": "ME-16",
       "latitude": 42.525,
       "longitude": 19.29028
-    },
-    {
-      "id": 3343014,
-      "name": "Mjegotin",
-      "nativeName": "Mjegotin",
-      "code": "ME-16-3343014",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-16",
-      "latitude": 42.42806,
-      "longitude": 19.3725
     },
     {
       "id": 3194928,
@@ -1258,17 +1379,6 @@
       "longitude": 19.26417
     },
     {
-      "id": 3338260,
-      "name": "Mokro",
-      "nativeName": "Mokro",
-      "code": "ME-16-3338260",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-16",
-      "latitude": 42.605,
-      "longitude": 19.57083
-    },
-    {
       "id": 3341628,
       "name": "Moračica",
       "nativeName": "Moračica",
@@ -1280,48 +1390,15 @@
       "longitude": 19.35167
     },
     {
-      "id": 3338407,
-      "name": "Mravinje",
-      "nativeName": "Mravinje",
-      "code": "ME-16-3338407",
+      "id": 3341782,
+      "name": "Močila",
+      "nativeName": "Močila",
+      "code": "ME-16-3341782",
       "countryId": 3194884,
       "countryCode": "ME",
       "stateCode": "ME-16",
-      "latitude": 42.55389,
-      "longitude": 19.33167
-    },
-    {
-      "id": 3343042,
-      "name": "Nabom",
-      "nativeName": "Nabom",
-      "code": "ME-16-3343042",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-16",
-      "latitude": 42.38667,
-      "longitude": 19.43139
-    },
-    {
-      "id": 3343074,
-      "name": "Nik Ðokaj",
-      "nativeName": "Nik Ðokaj",
-      "code": "ME-16-3343074",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-16",
-      "latitude": 42.33944,
-      "longitude": 19.38417
-    },
-    {
-      "id": 3343008,
-      "name": "Novo Selo",
-      "nativeName": "Novo Selo",
-      "code": "ME-16-3343008",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-16",
-      "latitude": 42.42528,
-      "longitude": 19.30833
+      "latitude": 42.63972,
+      "longitude": 19.43806
     },
     {
       "id": 3341734,
@@ -1368,6 +1445,17 @@
       "longitude": 19.12333
     },
     {
+      "id": 3193744,
+      "name": "Ožezi",
+      "nativeName": "Ožezi",
+      "code": "ME-16-3193744",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-16",
+      "latitude": 42.53833,
+      "longitude": 19.26917
+    },
+    {
       "id": 3340463,
       "name": "Palić",
       "nativeName": "Palić",
@@ -1379,15 +1467,26 @@
       "longitude": 19.14556
     },
     {
-      "id": 3338404,
-      "name": "Pavličići",
-      "nativeName": "Pavličići",
-      "code": "ME-16-3338404",
+      "id": 3193513,
+      "name": "Pelev Brijeg",
+      "nativeName": "Pelev Brijeg",
+      "code": "ME-16-3193513",
       "countryId": 3194884,
       "countryCode": "ME",
       "stateCode": "ME-16",
-      "latitude": 42.53694,
-      "longitude": 19.35833
+      "latitude": 42.58222,
+      "longitude": 19.39611
+    },
+    {
+      "id": 3193395,
+      "name": "Petrovići",
+      "nativeName": "Petrovići",
+      "code": "ME-16-3193395",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-16",
+      "latitude": 42.52806,
+      "longitude": 19.29917
     },
     {
       "id": 3193364,
@@ -1401,26 +1500,26 @@
       "longitude": 19.37861
     },
     {
-      "id": 3343093,
-      "name": "Ploča",
-      "nativeName": "Ploča",
-      "code": "ME-16-3343093",
+      "id": 3341838,
+      "name": "Piskav Do",
+      "nativeName": "Piskav Do",
+      "code": "ME-16-3341838",
       "countryId": 3194884,
       "countryCode": "ME",
       "stateCode": "ME-16",
-      "latitude": 42.32583,
-      "longitude": 19.3525
+      "latitude": 42.56417,
+      "longitude": 19.28056
     },
     {
-      "id": 3338392,
-      "name": "Pocić",
-      "nativeName": "Pocić",
-      "code": "ME-16-3338392",
+      "id": 3342814,
+      "name": "Podgrad",
+      "nativeName": "Podgrad",
+      "code": "ME-16-3342814",
       "countryId": 3194884,
       "countryCode": "ME",
       "stateCode": "ME-16",
-      "latitude": 42.505,
-      "longitude": 19.3275
+      "latitude": 42.48167,
+      "longitude": 19.44611
     },
     {
       "id": 3317441,
@@ -1443,6 +1542,17 @@
       "stateCode": "ME-16",
       "latitude": 42.40611,
       "longitude": 19.15583
+    },
+    {
+      "id": 3341786,
+      "name": "Poljana",
+      "nativeName": "Poljana",
+      "code": "ME-16-3341786",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-16",
+      "latitude": 42.63889,
+      "longitude": 19.37583
     },
     {
       "id": 3192787,
@@ -1489,28 +1599,6 @@
       "longitude": 19.30361
     },
     {
-      "id": 3338406,
-      "name": "Potkrš",
-      "nativeName": "Potkrš",
-      "code": "ME-16-3338406",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-16",
-      "latitude": 42.54556,
-      "longitude": 19.37222
-    },
-    {
-      "id": 3338403,
-      "name": "Potoci",
-      "nativeName": "Potoci",
-      "code": "ME-16-3338403",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-16",
-      "latitude": 42.535,
-      "longitude": 19.33444
-    },
-    {
       "id": 3341175,
       "name": "Potpeće",
       "nativeName": "Potpeće",
@@ -1533,26 +1621,15 @@
       "longitude": 19.43333
     },
     {
-      "id": 3342928,
-      "name": "Premići",
-      "nativeName": "Premići",
-      "code": "ME-16-3342928",
+      "id": 3342819,
+      "name": "Prelevići",
+      "nativeName": "Prelevići",
+      "code": "ME-16-3342819",
       "countryId": 3194884,
       "countryCode": "ME",
       "stateCode": "ME-16",
-      "latitude": 42.44139,
-      "longitude": 19.36389
-    },
-    {
-      "id": 3343075,
-      "name": "Prenkaj",
-      "nativeName": "Prenkaj",
-      "code": "ME-16-3343075",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-16",
-      "latitude": 42.34167,
-      "longitude": 19.37361
+      "latitude": 42.48861,
+      "longitude": 19.39833
     },
     {
       "id": 3317451,
@@ -1577,26 +1654,15 @@
       "longitude": 19.39056
     },
     {
-      "id": 3338396,
-      "name": "Pričelje",
-      "nativeName": "Pričelje",
-      "code": "ME-16-3338396",
+      "id": 3192366,
+      "name": "Prisoja",
+      "nativeName": "Prisoja",
+      "code": "ME-16-3192366",
       "countryId": 3194884,
       "countryCode": "ME",
       "stateCode": "ME-16",
-      "latitude": 42.505,
-      "longitude": 19.22278
-    },
-    {
-      "id": 3338400,
-      "name": "Ptikalj",
-      "nativeName": "Ptikalj",
-      "code": "ME-16-3338400",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-16",
-      "latitude": 42.52,
-      "longitude": 19.45611
+      "latitude": 42.61972,
+      "longitude": 19.52194
     },
     {
       "id": 3220549,
@@ -1610,15 +1676,26 @@
       "longitude": 19.43694
     },
     {
-      "id": 3343013,
-      "name": "Rabri",
-      "nativeName": "Rabri",
-      "code": "ME-16-3343013",
+      "id": 3192145,
+      "name": "Radeća",
+      "nativeName": "Radeća",
+      "code": "ME-16-3192145",
       "countryId": 3194884,
       "countryCode": "ME",
       "stateCode": "ME-16",
-      "latitude": 42.42222,
-      "longitude": 19.3675
+      "latitude": 42.51778,
+      "longitude": 19.28028
+    },
+    {
+      "id": 3342806,
+      "name": "Rajovići",
+      "nativeName": "Rajovići",
+      "code": "ME-16-3342806",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-16",
+      "latitude": 42.4925,
+      "longitude": 19.40333
     },
     {
       "id": 3317245,
@@ -1630,6 +1707,17 @@
       "stateCode": "ME-16",
       "latitude": 42.43472,
       "longitude": 19.07972
+    },
+    {
+      "id": 3341837,
+      "name": "Raslvići",
+      "nativeName": "Raslvići",
+      "code": "ME-16-3341837",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-16",
+      "latitude": 42.59611,
+      "longitude": 19.36833
     },
     {
       "id": 3341176,
@@ -1665,39 +1753,6 @@
       "longitude": 19.37778
     },
     {
-      "id": 3338249,
-      "name": "Raškovo Guvno",
-      "nativeName": "Raškovo Guvno",
-      "code": "ME-16-3338249",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-16",
-      "latitude": 42.6525,
-      "longitude": 19.50778
-    },
-    {
-      "id": 3343034,
-      "name": "Rogami",
-      "nativeName": "Rogami",
-      "code": "ME-16-3343034",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-16",
-      "latitude": 42.39278,
-      "longitude": 19.31194
-    },
-    {
-      "id": 3343069,
-      "name": "Role",
-      "nativeName": "Role",
-      "code": "ME-16-3343069",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-16",
-      "latitude": 42.34806,
-      "longitude": 19.405
-    },
-    {
       "id": 3338437,
       "name": "Rovanj",
       "nativeName": "Rovanj",
@@ -1731,6 +1786,17 @@
       "longitude": 19.10444
     },
     {
+      "id": 3190995,
+      "name": "Seoštica",
+      "nativeName": "Seoštica",
+      "code": "ME-16-3190995",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-16",
+      "latitude": 42.57528,
+      "longitude": 19.42389
+    },
+    {
       "id": 3317461,
       "name": "Sinjac",
       "nativeName": "Sinjac",
@@ -1742,15 +1808,15 @@
       "longitude": 19.15028
     },
     {
-      "id": 3343068,
-      "name": "Skorafci",
-      "nativeName": "Skorafci",
-      "code": "ME-16-3343068",
+      "id": 3190774,
+      "name": "Sjenice",
+      "nativeName": "Sjenice",
+      "code": "ME-16-3190774",
       "countryId": 3194884,
       "countryCode": "ME",
       "stateCode": "ME-16",
-      "latitude": 42.35472,
-      "longitude": 19.39944
+      "latitude": 42.46556,
+      "longitude": 19.33139
     },
     {
       "id": 3317383,
@@ -1762,6 +1828,17 @@
       "stateCode": "ME-16",
       "latitude": 42.45944,
       "longitude": 19.17444
+    },
+    {
+      "id": 3190078,
+      "name": "Srpska",
+      "nativeName": "Srpska",
+      "code": "ME-16-3190078",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-16",
+      "latitude": 42.37444,
+      "longitude": 19.21889
     },
     {
       "id": 3190044,
@@ -1786,17 +1863,6 @@
       "longitude": 19.24944
     },
     {
-      "id": 3338408,
-      "name": "Sviba",
-      "nativeName": "Sviba",
-      "code": "ME-16-3338408",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-16",
-      "latitude": 42.5475,
-      "longitude": 19.32472
-    },
-    {
       "id": 3317397,
       "name": "Tijesak",
       "nativeName": "Tijesak",
@@ -1808,6 +1874,17 @@
       "longitude": 19.18556
     },
     {
+      "id": 3189033,
+      "name": "Tološi",
+      "nativeName": "Tološi",
+      "code": "ME-16-3189033",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-16",
+      "latitude": 42.45472,
+      "longitude": 19.22417
+    },
+    {
       "id": 3341190,
       "name": "Trebinci",
       "nativeName": "Trebinci",
@@ -1817,17 +1894,6 @@
       "stateCode": "ME-16",
       "latitude": 42.56389,
       "longitude": 19.26583
-    },
-    {
-      "id": 3338415,
-      "name": "Trimojevići",
-      "nativeName": "Trimojevići",
-      "code": "ME-16-3338415",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-16",
-      "latitude": 42.56444,
-      "longitude": 19.36611
     },
     {
       "id": 3188583,
@@ -1874,15 +1940,15 @@
       "longitude": 19.39583
     },
     {
-      "id": 3343073,
-      "name": "Vatnikaj",
-      "nativeName": "Vatnikaj",
-      "code": "ME-16-3343073",
+      "id": 3342796,
+      "name": "Vela Luka",
+      "nativeName": "Vela Luka",
+      "code": "ME-16-3342796",
       "countryId": 3194884,
       "countryCode": "ME",
       "stateCode": "ME-16",
-      "latitude": 42.34278,
-      "longitude": 19.39472
+      "latitude": 42.49833,
+      "longitude": 19.31333
     },
     {
       "id": 3317387,
@@ -1918,37 +1984,15 @@
       "longitude": 19.21194
     },
     {
-      "id": 3338393,
-      "name": "Vežišta",
-      "nativeName": "Vežišta",
-      "code": "ME-16-3338393",
+      "id": 3342798,
+      "name": "Vidijenje",
+      "nativeName": "Vidijenje",
+      "code": "ME-16-3342798",
       "countryId": 3194884,
       "countryCode": "ME",
       "stateCode": "ME-16",
-      "latitude": 42.50194,
-      "longitude": 19.31667
-    },
-    {
-      "id": 3338418,
-      "name": "Vidačica",
-      "nativeName": "Vidačica",
-      "code": "ME-16-3338418",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-16",
-      "latitude": 42.59222,
-      "longitude": 19.41694
-    },
-    {
-      "id": 3338402,
-      "name": "Vinogradišta",
-      "nativeName": "Vinogradišta",
-      "code": "ME-16-3338402",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-16",
-      "latitude": 42.53111,
-      "longitude": 19.32333
+      "latitude": 42.49528,
+      "longitude": 19.32472
     },
     {
       "id": 3338438,
@@ -1973,6 +2017,17 @@
       "longitude": 19.36528
     },
     {
+      "id": 3342725,
+      "name": "Vranići",
+      "nativeName": "Vranići",
+      "code": "ME-16-3342725",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-16",
+      "latitude": 42.46056,
+      "longitude": 19.23694
+    },
+    {
       "id": 3316492,
       "name": "Vukovići",
       "nativeName": "Vukovići",
@@ -1984,37 +2039,15 @@
       "longitude": 19.27611
     },
     {
-      "id": 3343037,
-      "name": "Vulevići",
-      "nativeName": "Vulevići",
-      "code": "ME-16-3343037",
+      "id": 3342732,
+      "name": "Zabjelo",
+      "nativeName": "Zabjelo",
+      "code": "ME-16-3342732",
       "countryId": 3194884,
       "countryCode": "ME",
       "stateCode": "ME-16",
-      "latitude": 42.38889,
-      "longitude": 19.35139
-    },
-    {
-      "id": 3343015,
-      "name": "Vuljan",
-      "nativeName": "Vuljan",
-      "code": "ME-16-3343015",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-16",
-      "latitude": 42.42056,
-      "longitude": 19.38083
-    },
-    {
-      "id": 3343052,
-      "name": "Vuljevići",
-      "nativeName": "Vuljevići",
-      "code": "ME-16-3343052",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-16",
-      "latitude": 42.37417,
-      "longitude": 19.33417
+      "latitude": 42.4275,
+      "longitude": 19.22889
     },
     {
       "id": 3341217,
@@ -2026,17 +2059,6 @@
       "stateCode": "ME-16",
       "latitude": 42.51944,
       "longitude": 19.34167
-    },
-    {
-      "id": 3338292,
-      "name": "Zaugao",
-      "nativeName": "Zaugao",
-      "code": "ME-16-3338292",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-16",
-      "latitude": 42.60861,
-      "longitude": 19.50111
     },
     {
       "id": 3317298,
@@ -2083,17 +2105,6 @@
       "longitude": 19.34944
     },
     {
-      "id": 3338410,
-      "name": "Šibionica",
-      "nativeName": "Šibionica",
-      "code": "ME-16-3338410",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-16",
-      "latitude": 42.55028,
-      "longitude": 19.26361
-    },
-    {
       "id": 3317391,
       "name": "Šteci",
       "nativeName": "Šteci",
@@ -2103,28 +2114,6 @@
       "stateCode": "ME-16",
       "latitude": 42.41472,
       "longitude": 19.17583
-    },
-    {
-      "id": 3338422,
-      "name": "Šujaci",
-      "nativeName": "Šujaci",
-      "code": "ME-16-3338422",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-16",
-      "latitude": 42.5875,
-      "longitude": 19.35778
-    },
-    {
-      "id": 3343019,
-      "name": "Šumica",
-      "nativeName": "Šumica",
-      "code": "ME-16-3343019",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-16",
-      "latitude": 42.42278,
-      "longitude": 19.455
     },
     {
       "id": 3189445,
@@ -2147,6 +2136,17 @@
       "stateCode": "ME-16",
       "latitude": 42.50139,
       "longitude": 19.39278
+    },
+    {
+      "id": 3342805,
+      "name": "Živkovići",
+      "nativeName": "Živkovići",
+      "code": "ME-16-3342805",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-16",
+      "latitude": 42.49806,
+      "longitude": 19.39
     },
     {
       "id": 3201791,

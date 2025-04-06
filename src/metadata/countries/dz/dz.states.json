@@ -14,15 +14,15 @@
       "longitude": -0.91667
     },
     {
-      "id": 2508226,
-      "name": "Ain Defla",
-      "nativeName": "Wilaya de Aïn Defla",
-      "code": "DZ-44",
-      "internalCode": "44",
+      "id": 2507899,
+      "name": "Ain Temouchent",
+      "nativeName": "Wilaya de Aïn Temouchent",
+      "code": "DZ-46",
+      "internalCode": "46",
       "countryId": 2589581,
       "countryCode": "DZ",
-      "latitude": 36.16667,
-      "longitude": 2.16667
+      "latitude": 35.33333,
+      "longitude": -1.08333
     },
     {
       "id": 2507475,
@@ -47,15 +47,15 @@
       "longitude": 7.58333
     },
     {
-      "id": 2507899,
-      "name": "Aïn Témouchent",
-      "nativeName": "Wilaya de Aïn Temouchent",
-      "code": "DZ-46",
-      "internalCode": "46",
+      "id": 2508226,
+      "name": "Aïn Defla",
+      "nativeName": "Wilaya de Aïn Defla",
+      "code": "DZ-44",
+      "internalCode": "44",
       "countryId": 2589581,
       "countryCode": "DZ",
-      "latitude": 35.33333,
-      "longitude": -1.08333
+      "latitude": 36.16667,
+      "longitude": 2.16667
     },
     {
       "id": 2505569,
@@ -69,15 +69,15 @@
       "longitude": 5.91667
     },
     {
-      "id": 2505325,
-      "name": "Bejaia",
-      "nativeName": "Wilaya de Bejaïa",
-      "code": "DZ-06",
-      "internalCode": "06",
+      "id": 2505525,
+      "name": "Bechar",
+      "nativeName": "Wilaya de Béchar",
+      "code": "DZ-08",
+      "internalCode": "08",
       "countryId": 2589581,
       "countryCode": "DZ",
-      "latitude": 36.66667,
-      "longitude": 4.91667
+      "latitude": 31.65632,
+      "longitude": -2.36701
     },
     {
       "id": 12226385,
@@ -125,7 +125,7 @@
     },
     {
       "id": 2503699,
-      "name": "Bordj Bou Arreridj",
+      "name": "Bordj Bou Arréridj",
       "nativeName": "Wilaya de Bordj Bou Arréridj",
       "code": "DZ-34",
       "internalCode": "34",
@@ -157,15 +157,15 @@
       "longitude": 3.66667
     },
     {
-      "id": 2505525,
-      "name": "Béchar",
-      "nativeName": "Wilaya de Béchar",
-      "code": "DZ-08",
-      "internalCode": "08",
+      "id": 2505325,
+      "name": "Béjaïa",
+      "nativeName": "Wilaya de Bejaïa",
+      "code": "DZ-06",
+      "internalCode": "06",
       "countryId": 2589581,
       "countryCode": "DZ",
-      "latitude": 31.65632,
-      "longitude": -2.36701
+      "latitude": 36.66667,
+      "longitude": 4.91667
     },
     {
       "id": 2501296,
@@ -499,7 +499,7 @@
     },
     {
       "id": 2481001,
-      "name": "Sidi Bel Abbès",
+      "name": "Sidi Bel Abbes",
       "nativeName": "Wilaya de Sidi Bel Abbès",
       "code": "DZ-22",
       "internalCode": "22",
@@ -540,6 +540,17 @@
       "countryCode": "DZ",
       "latitude": 23.55,
       "longitude": 5.18333
+    },
+    {
+      "id": 2477457,
+      "name": "Tebessa",
+      "nativeName": "Wilaya de Tébessa",
+      "code": "DZ-12",
+      "internalCode": "12",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "latitude": 35,
+      "longitude": 7.83333
     },
     {
       "id": 2476893,
@@ -628,17 +639,6 @@
       "countryCode": "DZ",
       "latitude": 32.93315,
       "longitude": 6.34115
-    },
-    {
-      "id": 2477457,
-      "name": "Tébessa",
-      "nativeName": "Wilaya de Tébessa",
-      "code": "DZ-12",
-      "internalCode": "12",
-      "countryId": 2589581,
-      "countryCode": "DZ",
-      "latitude": 35,
-      "longitude": 7.83333
     }
   ]
 }

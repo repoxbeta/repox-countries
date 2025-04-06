@@ -5,7 +5,7 @@
   "cities": [
     {
       "id": 6619126,
-      "name": "Altay Sum",
+      "name": "Altai District",
       "nativeName": "Altay",
       "code": "MN-043-6619126",
       "countryId": 2029969,
@@ -60,7 +60,7 @@
     },
     {
       "id": 6619116,
-      "name": "Duut",
+      "name": "Duut District",
       "nativeName": "Duut",
       "code": "MN-043-6619116",
       "countryId": 2029969,
@@ -68,17 +68,6 @@
       "stateCode": "MN-043",
       "latitude": 47.51314,
       "longitude": 91.63267
-    },
-    {
-      "id": 6619118,
-      "name": "Dzereg Sum",
-      "nativeName": "Dzereg",
-      "code": "MN-043-6619118",
-      "countryId": 2029969,
-      "countryCode": "MN",
-      "stateCode": "MN-043",
-      "latitude": 47.10612,
-      "longitude": 92.84357
     },
     {
       "id": 1516065,
@@ -126,7 +115,7 @@
     },
     {
       "id": 6619117,
-      "name": "Manhan",
+      "name": "Mankhan District",
       "nativeName": "Manhan",
       "code": "MN-043-6619117",
       "countryId": 2029969,
@@ -189,6 +178,17 @@
       "stateCode": "MN-043",
       "latitude": 46.58883,
       "longitude": 93.26723
+    },
+    {
+      "id": 6619118,
+      "name": "Zereg District",
+      "nativeName": "Dzereg",
+      "code": "MN-043-6619118",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "stateCode": "MN-043",
+      "latitude": 47.10612,
+      "longitude": 92.84357
     },
     {
       "id": 6619124,

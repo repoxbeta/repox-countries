@@ -290,17 +290,6 @@
       "longitude": 22.26422
     },
     {
-      "id": 862015,
-      "name": "Dolna Maala",
-      "nativeName": "Dolna Maala",
-      "code": "MK-702-862015",
-      "countryId": 718075,
-      "countryCode": "MK",
-      "stateCode": "MK-702",
-      "latitude": 42.285,
-      "longitude": 22.35972
-    },
-    {
       "id": 9114178,
       "name": "Dolna Maala",
       "nativeName": "Dolna Maala",
@@ -310,6 +299,17 @@
       "stateCode": "MK-702",
       "latitude": 42.21801,
       "longitude": 22.26064
+    },
+    {
+      "id": 862015,
+      "name": "Dolna Maala",
+      "nativeName": "Dolna Maala",
+      "code": "MK-702-862015",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-702",
+      "latitude": 42.285,
+      "longitude": 22.35972
     },
     {
       "id": 10410152,
@@ -1544,17 +1544,6 @@
       "longitude": 22.28749
     },
     {
-      "id": 862007,
-      "name": "Čiflik",
-      "nativeName": "Čiflik",
-      "code": "MK-702-862007",
-      "countryId": 718075,
-      "countryCode": "MK",
-      "stateCode": "MK-702",
-      "latitude": 42.29392,
-      "longitude": 22.33683
-    },
-    {
       "id": 9114119,
       "name": "Čiflik",
       "nativeName": "Čiflik",
@@ -1564,6 +1553,17 @@
       "stateCode": "MK-702",
       "latitude": 42.1829,
       "longitude": 22.29311
+    },
+    {
+      "id": 862007,
+      "name": "Čiflik",
+      "nativeName": "Čiflik",
+      "code": "MK-702-862007",
+      "countryId": 718075,
+      "countryCode": "MK",
+      "stateCode": "MK-702",
+      "latitude": 42.29392,
+      "longitude": 22.33683
     },
     {
       "id": 862087,

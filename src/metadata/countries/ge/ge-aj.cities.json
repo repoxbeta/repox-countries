@@ -15,6 +15,17 @@
       "longitude": 41.64462
     },
     {
+      "id": 13216140,
+      "name": "Batumis Munitsip'alit'et'i",
+      "nativeName": "Batumis Munitsip'alit'et'i",
+      "code": "GE-AJ-13216140",
+      "countryId": 614540,
+      "countryCode": "GE",
+      "stateCode": "GE-AJ",
+      "latitude": 41.62414,
+      "longitude": 41.63026
+    },
+    {
       "id": 9093838,
       "name": "Kedis Munitsip’alit’et’i",
       "nativeName": "Kedis Munitsip’alit’et’i",
@@ -50,13 +61,13 @@
     {
       "id": 613761,
       "name": "Kobuletis Raioni",
-      "nativeName": "K’obulet’is Raioni",
+      "nativeName": "Kobuletis Munitsip’alit’et’i",
       "code": "GE-AJ-613761",
       "countryId": 614540,
       "countryCode": "GE",
       "stateCode": "GE-AJ",
-      "latitude": 41.75,
-      "longitude": 41.83333
+      "latitude": 41.76911,
+      "longitude": 41.89889
     }
   ]
 }

@@ -11,8 +11,8 @@
       "countryId": 614540,
       "countryCode": "GE",
       "stateCode": "GE-KK",
-      "latitude": 41.36667,
-      "longitude": 44.51667
+      "latitude": 41.39125,
+      "longitude": 44.52634
     },
     {
       "id": 7729903,
@@ -33,8 +33,8 @@
       "countryId": 614540,
       "countryCode": "GE",
       "stateCode": "GE-KK",
-      "latitude": 41.35,
-      "longitude": 44.13333
+      "latitude": 41.35693,
+      "longitude": 44.12955
     },
     {
       "id": 7667577,
@@ -55,19 +55,8 @@
       "countryId": 614540,
       "countryCode": "GE",
       "stateCode": "GE-KK",
-      "latitude": 41.61667,
-      "longitude": 45
-    },
-    {
-      "id": 828312,
-      "name": "Kalaki Rustavi",
-      "nativeName": "Kalaki Rustavi",
-      "code": "GE-KK-828312",
-      "countryId": 614540,
-      "countryCode": "GE",
-      "stateCode": "GE-KK",
-      "latitude": 41.53333,
-      "longitude": 45
+      "latitude": 41.62828,
+      "longitude": 45.05671
     },
     {
       "id": 7667578,
@@ -88,8 +77,19 @@
       "countryId": 614540,
       "countryCode": "GE",
       "stateCode": "GE-KK",
-      "latitude": 41.38333,
-      "longitude": 44.85
+      "latitude": 41.38118,
+      "longitude": 44.88869
+    },
+    {
+      "id": 828312,
+      "name": "Rustavis Munitsip'alit'et'i",
+      "nativeName": "Rustavis Munitsip'alit'et'i",
+      "code": "GE-KK-828312",
+      "countryId": 614540,
+      "countryCode": "GE",
+      "stateCode": "GE-KK",
+      "latitude": 41.54444,
+      "longitude": 45.02016
     },
     {
       "id": 7667683,
@@ -110,8 +110,8 @@
       "countryId": 614540,
       "countryCode": "GE",
       "stateCode": "GE-KK",
-      "latitude": 41.6,
-      "longitude": 44.5
+      "latitude": 41.61574,
+      "longitude": 44.46474
     },
     {
       "id": 7667714,
@@ -132,8 +132,8 @@
       "countryId": 614540,
       "countryCode": "GE",
       "stateCode": "GE-KK",
-      "latitude": 41.63333,
-      "longitude": 43.96667
+      "latitude": 41.62578,
+      "longitude": 43.97045
     }
   ]
 }

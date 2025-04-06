@@ -16,7 +16,7 @@
     },
     {
       "id": 1276510,
-      "name": "Ballari",
+      "name": "Ballari district",
       "nativeName": "Ballari",
       "code": "IN-KA-1276510",
       "countryId": 1269750,
@@ -27,7 +27,7 @@
     },
     {
       "id": 1276534,
-      "name": "Belgaum district",
+      "name": "Belagavi",
       "nativeName": "Belgaum",
       "code": "IN-KA-1276534",
       "countryId": 1269750,
@@ -59,8 +59,19 @@
       "longitude": 77.58333
     },
     {
+      "id": 1275702,
+      "name": "Bijāpur District",
+      "nativeName": "Bijāpur",
+      "code": "IN-KA-1275702",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-KA",
+      "latitude": 16.66667,
+      "longitude": 75.91667
+    },
+    {
       "id": 1275739,
-      "name": "Bidar",
+      "name": "Bīdar District",
       "nativeName": "Bīdar",
       "code": "IN-KA-1275739",
       "countryId": 1269750,
@@ -93,7 +104,7 @@
     },
     {
       "id": 1274221,
-      "name": "Chikkamagaluru",
+      "name": "Chikmagalur district",
       "nativeName": "Chikmagalur",
       "code": "IN-KA-1274221",
       "countryId": 1269750,
@@ -104,7 +115,7 @@
     },
     {
       "id": 1274057,
-      "name": "Chitradurga",
+      "name": "Chitradurga district",
       "nativeName": "Chitradurga",
       "code": "IN-KA-1274057",
       "countryId": 1269750,
@@ -114,8 +125,19 @@
       "longitude": 76.5
     },
     {
+      "id": 1266426,
+      "name": "Coorg",
+      "nativeName": "Kodagu",
+      "code": "IN-KA-1266426",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-KA",
+      "latitude": 12.41667,
+      "longitude": 75.75
+    },
+    {
       "id": 1273664,
-      "name": "Dakshina Kannada District",
+      "name": "Dakshin Kannad",
       "nativeName": "Dakshina Kannada",
       "code": "IN-KA-1273664",
       "countryId": 1269750,
@@ -126,7 +148,7 @@
     },
     {
       "id": 7646984,
-      "name": "Davangere",
+      "name": "Davanagere District",
       "nativeName": "Davanagere",
       "code": "IN-KA-7646984",
       "countryId": 1269750,
@@ -191,17 +213,6 @@
       "longitude": 77.08333
     },
     {
-      "id": 1266426,
-      "name": "Kodagu District",
-      "nativeName": "Kodagu",
-      "code": "IN-KA-1266426",
-      "countryId": 1269750,
-      "countryCode": "IN",
-      "stateCode": "IN-KA",
-      "latitude": 12.41667,
-      "longitude": 75.75
-    },
-    {
       "id": 1266306,
       "name": "Kolar district",
       "nativeName": "Kolar",
@@ -214,7 +225,7 @@
     },
     {
       "id": 7627234,
-      "name": "Koppal",
+      "name": "Koppal district",
       "nativeName": "Koppal",
       "code": "IN-KA-7627234",
       "countryId": 1269750,
@@ -323,19 +334,8 @@
       "longitude": 76.04406
     },
     {
-      "id": 1275702,
-      "name": "Vijayapura",
-      "nativeName": "Bijāpur",
-      "code": "IN-KA-1275702",
-      "countryId": 1269750,
-      "countryCode": "IN",
-      "stateCode": "IN-KA",
-      "latitude": 16.66667,
-      "longitude": 75.91667
-    },
-    {
       "id": 8224605,
-      "name": "Yadgir district",
+      "name": "Yadgir",
       "nativeName": "Yadgir",
       "code": "IN-KA-8224605",
       "countryId": 1269750,

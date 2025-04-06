@@ -70,17 +70,6 @@
       "longitude": 37.44965
     },
     {
-      "id": 490025,
-      "name": "Southern Administrative Okrug",
-      "nativeName": "Yuzhnyy Administrativnyy Okrug",
-      "code": "RU-MOW-490025",
-      "countryId": 2017370,
-      "countryCode": "RU",
-      "stateCode": "RU-MOW",
-      "latitude": 55.61667,
-      "longitude": 37.6
-    },
-    {
       "id": 8520893,
       "name": "Troitsky Administrative Okrug",
       "nativeName": "Troitsky Administrative Okrug",
@@ -123,6 +112,17 @@
       "stateCode": "RU-MOW",
       "latitude": 55.66667,
       "longitude": 37.5
+    },
+    {
+      "id": 490025,
+      "name": "Yuzhny Administrative Okrug",
+      "nativeName": "Yuzhnyy Administrativnyy Okrug",
+      "code": "RU-MOW-490025",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-MOW",
+      "latitude": 55.61667,
+      "longitude": 37.6
     },
     {
       "id": 8520888,

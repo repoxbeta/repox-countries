@@ -59,6 +59,17 @@
       "longitude": 18.67496
     },
     {
+      "id": 3256140,
+      "name": "Bajići",
+      "nativeName": "Bajići",
+      "code": "BA-BRC-3256140",
+      "countryId": 3277605,
+      "countryCode": "BA",
+      "stateCode": "BA-BRC",
+      "latitude": 44.86315,
+      "longitude": 18.70041
+    },
+    {
       "id": 3255441,
       "name": "Baltići",
       "nativeName": "Baltići",
@@ -79,17 +90,6 @@
       "stateCode": "BA-BRC",
       "latitude": 44.89243,
       "longitude": 18.68082
-    },
-    {
-      "id": 3211076,
-      "name": "Bašče",
-      "nativeName": "Bašče",
-      "code": "BA-BRC-3211076",
-      "countryId": 3277605,
-      "countryCode": "BA",
-      "stateCode": "BA-BRC",
-      "latitude": 44.87964,
-      "longitude": 18.63609
     },
     {
       "id": 3211091,
@@ -125,6 +125,17 @@
       "longitude": 18.78605
     },
     {
+      "id": 3256319,
+      "name": "Bojići",
+      "nativeName": "Bojići",
+      "code": "BA-BRC-3256319",
+      "countryId": 3277605,
+      "countryCode": "BA",
+      "stateCode": "BA-BRC",
+      "latitude": 44.7924,
+      "longitude": 18.74759
+    },
+    {
       "id": 3255291,
       "name": "Bosutka",
       "nativeName": "Bosutka",
@@ -156,6 +167,17 @@
       "stateCode": "BA-BRC",
       "latitude": 44.85348,
       "longitude": 18.83022
+    },
+    {
+      "id": 3256317,
+      "name": "Brdo",
+      "nativeName": "Brdo",
+      "code": "BA-BRC-3256317",
+      "countryId": 3277605,
+      "countryCode": "BA",
+      "stateCode": "BA-BRC",
+      "latitude": 44.78666,
+      "longitude": 18.75719
     },
     {
       "id": 3256128,
@@ -224,17 +246,6 @@
       "longitude": 18.76729
     },
     {
-      "id": 3211500,
-      "name": "Brđani",
-      "nativeName": "Brđani",
-      "code": "BA-BRC-3211500",
-      "countryId": 3277605,
-      "countryCode": "BA",
-      "stateCode": "BA-BRC",
-      "latitude": 44.79083,
-      "longitude": 18.8691
-    },
-    {
       "id": 3252848,
       "name": "Brđani",
       "nativeName": "Brđani",
@@ -244,17 +255,6 @@
       "stateCode": "BA-BRC",
       "latitude": 44.78593,
       "longitude": 18.55192
-    },
-    {
-      "id": 3211093,
-      "name": "Bubanj",
-      "nativeName": "Bubanj",
-      "code": "BA-BRC-3211093",
-      "countryId": 3277605,
-      "countryCode": "BA",
-      "stateCode": "BA-BRC",
-      "latitude": 44.83688,
-      "longitude": 18.58531
     },
     {
       "id": 3255042,
@@ -268,15 +268,15 @@
       "longitude": 18.90747
     },
     {
-      "id": 3211135,
+      "id": 3256141,
       "name": "Bunarić",
       "nativeName": "Bunarić",
-      "code": "BA-BRC-3211135",
+      "code": "BA-BRC-3256141",
       "countryId": 3277605,
       "countryCode": "BA",
       "stateCode": "BA-BRC",
-      "latitude": 44.74753,
-      "longitude": 18.69684
+      "latitude": 44.84753,
+      "longitude": 18.70064
     },
     {
       "id": 3252859,
@@ -354,17 +354,6 @@
       "stateCode": "BA-BRC",
       "latitude": 44.89654,
       "longitude": 18.76783
-    },
-    {
-      "id": 3211069,
-      "name": "Donja Laništa",
-      "nativeName": "Donja Laništa",
-      "code": "BA-BRC-3211069",
-      "countryId": 3277605,
-      "countryCode": "BA",
-      "stateCode": "BA-BRC",
-      "latitude": 44.90476,
-      "longitude": 18.67776
     },
     {
       "id": 3254484,
@@ -565,6 +554,17 @@
       "longitude": 18.73875
     },
     {
+      "id": 3256349,
+      "name": "Goričkići",
+      "nativeName": "Goričkići",
+      "code": "BA-BRC-3256349",
+      "countryId": 3277605,
+      "countryCode": "BA",
+      "stateCode": "BA-BRC",
+      "latitude": 44.82723,
+      "longitude": 18.78062
+    },
+    {
       "id": 3256024,
       "name": "Gornja Grbavica",
       "nativeName": "Gornja Grbavica",
@@ -609,6 +609,17 @@
       "longitude": 18.92627
     },
     {
+      "id": 3256320,
+      "name": "Gornje Boće",
+      "nativeName": "Gornje Boće",
+      "code": "BA-BRC-3256320",
+      "countryId": 3277605,
+      "countryCode": "BA",
+      "stateCode": "BA-BRC",
+      "latitude": 44.79509,
+      "longitude": 18.75694
+    },
+    {
       "id": 3211137,
       "name": "Gornji Islamovac",
       "nativeName": "Gornji Islamovac",
@@ -642,6 +653,17 @@
       "longitude": 18.71848
     },
     {
+      "id": 3256133,
+      "name": "Grgići",
+      "nativeName": "Grgići",
+      "code": "BA-BRC-3256133",
+      "countryId": 3277605,
+      "countryCode": "BA",
+      "stateCode": "BA-BRC",
+      "latitude": 44.8501,
+      "longitude": 18.68452
+    },
+    {
       "id": 3255407,
       "name": "Grujići",
       "nativeName": "Grujići",
@@ -651,17 +673,6 @@
       "stateCode": "BA-BRC",
       "latitude": 44.82856,
       "longitude": 18.8952
-    },
-    {
-      "id": 3211491,
-      "name": "Grčica",
-      "nativeName": "Grčica",
-      "code": "BA-BRC-3211491",
-      "countryId": 3277605,
-      "countryCode": "BA",
-      "stateCode": "BA-BRC",
-      "latitude": 44.85819,
-      "longitude": 18.81529
     },
     {
       "id": 3253044,
@@ -697,17 +708,6 @@
       "longitude": 18.52022
     },
     {
-      "id": 3211078,
-      "name": "Jagodnjak",
-      "nativeName": "Jagodnjak",
-      "code": "BA-BRC-3211078",
-      "countryId": 3277605,
-      "countryCode": "BA",
-      "stateCode": "BA-BRC",
-      "latitude": 44.86704,
-      "longitude": 18.63394
-    },
-    {
       "id": 3255541,
       "name": "Janjići",
       "nativeName": "Janjići",
@@ -717,28 +717,6 @@
       "stateCode": "BA-BRC",
       "latitude": 44.7822,
       "longitude": 18.8512
-    },
-    {
-      "id": 3211073,
-      "name": "Jasenovac",
-      "nativeName": "Jasenovac",
-      "code": "BA-BRC-3211073",
-      "countryId": 3277605,
-      "countryCode": "BA",
-      "stateCode": "BA-BRC",
-      "latitude": 44.88941,
-      "longitude": 18.701
-    },
-    {
-      "id": 3211082,
-      "name": "Jokići",
-      "nativeName": "Jokići",
-      "code": "BA-BRC-3211082",
-      "countryId": 3277605,
-      "countryCode": "BA",
-      "stateCode": "BA-BRC",
-      "latitude": 44.81744,
-      "longitude": 18.58376
     },
     {
       "id": 3255416,
@@ -807,17 +785,6 @@
       "longitude": 18.76317
     },
     {
-      "id": 3211503,
-      "name": "Kozjača",
-      "nativeName": "Kozjača",
-      "code": "BA-BRC-3211503",
-      "countryId": 3277605,
-      "countryCode": "BA",
-      "stateCode": "BA-BRC",
-      "latitude": 44.79683,
-      "longitude": 18.91431
-    },
-    {
       "id": 3255036,
       "name": "Kraljevići",
       "nativeName": "Kraljevići",
@@ -851,17 +818,6 @@
       "longitude": 18.84056
     },
     {
-      "id": 3211504,
-      "name": "Krušik",
-      "nativeName": "Krušik",
-      "code": "BA-BRC-3211504",
-      "countryId": 3277605,
-      "countryCode": "BA",
-      "stateCode": "BA-BRC",
-      "latitude": 44.82086,
-      "longitude": 18.88365
-    },
-    {
       "id": 3254338,
       "name": "Kurjakovići",
       "nativeName": "Kurjakovići",
@@ -882,17 +838,6 @@
       "stateCode": "BA-BRC",
       "latitude": 44.90339,
       "longitude": 18.65734
-    },
-    {
-      "id": 3211075,
-      "name": "Lipovac",
-      "nativeName": "Lipovac",
-      "code": "BA-BRC-3211075",
-      "countryId": 3277605,
-      "countryCode": "BA",
-      "stateCode": "BA-BRC",
-      "latitude": 44.86211,
-      "longitude": 18.74995
     },
     {
       "id": 3252710,
@@ -950,6 +895,17 @@
       "longitude": 18.74298
     },
     {
+      "id": 3256328,
+      "name": "Maholjaši",
+      "nativeName": "Maholjaši",
+      "code": "BA-BRC-3256328",
+      "countryId": 3277605,
+      "countryCode": "BA",
+      "stateCode": "BA-BRC",
+      "latitude": 44.76782,
+      "longitude": 18.7668
+    },
+    {
       "id": 3255456,
       "name": "Maksimovići",
       "nativeName": "Maksimovići",
@@ -1005,6 +961,17 @@
       "longitude": 18.62879
     },
     {
+      "id": 3256146,
+      "name": "Markanovići",
+      "nativeName": "Markanovići",
+      "code": "BA-BRC-3256146",
+      "countryId": 3277605,
+      "countryCode": "BA",
+      "stateCode": "BA-BRC",
+      "latitude": 44.84529,
+      "longitude": 18.71701
+    },
+    {
       "id": 3211068,
       "name": "Marković Polje",
       "nativeName": "Marković Polje",
@@ -1036,6 +1003,17 @@
       "stateCode": "BA-BRC",
       "latitude": 44.88486,
       "longitude": 18.66688
+    },
+    {
+      "id": 3256169,
+      "name": "Mateljići",
+      "nativeName": "Mateljići",
+      "code": "BA-BRC-3256169",
+      "countryId": 3277605,
+      "countryCode": "BA",
+      "stateCode": "BA-BRC",
+      "latitude": 44.78149,
+      "longitude": 18.81242
     },
     {
       "id": 3255371,
@@ -1137,6 +1115,28 @@
       "longitude": 18.82796
     },
     {
+      "id": 3256324,
+      "name": "Ninići",
+      "nativeName": "Ninići",
+      "code": "BA-BRC-3256324",
+      "countryId": 3277605,
+      "countryCode": "BA",
+      "stateCode": "BA-BRC",
+      "latitude": 44.80795,
+      "longitude": 18.77276
+    },
+    {
+      "id": 3256342,
+      "name": "Njiverice",
+      "nativeName": "Njiverice",
+      "code": "BA-BRC-3256342",
+      "countryId": 3277605,
+      "countryCode": "BA",
+      "stateCode": "BA-BRC",
+      "latitude": 44.8126,
+      "longitude": 18.77421
+    },
+    {
       "id": 3256083,
       "name": "Njivice",
       "nativeName": "Njivice",
@@ -1170,15 +1170,15 @@
       "longitude": 18.79074
     },
     {
-      "id": 3193694,
-      "name": "Palanka",
-      "nativeName": "Palanka",
-      "code": "BA-BRC-3193694",
+      "id": 3256488,
+      "name": "Pajići",
+      "nativeName": "Pajići",
+      "code": "BA-BRC-3256488",
       "countryId": 3277605,
       "countryCode": "BA",
       "stateCode": "BA-BRC",
-      "latitude": 44.79938,
-      "longitude": 18.73305
+      "latitude": 44.83367,
+      "longitude": 18.65482
     },
     {
       "id": 3255405,
@@ -1223,6 +1223,17 @@
       "stateCode": "BA-BRC",
       "latitude": 44.83116,
       "longitude": 18.62446
+    },
+    {
+      "id": 3256139,
+      "name": "Pejini",
+      "nativeName": "Pejini",
+      "code": "BA-BRC-3256139",
+      "countryId": 3277605,
+      "countryCode": "BA",
+      "stateCode": "BA-BRC",
+      "latitude": 44.86589,
+      "longitude": 18.69184
     },
     {
       "id": 3256123,
@@ -1280,17 +1291,6 @@
       "longitude": 18.75398
     },
     {
-      "id": 3211079,
-      "name": "Poljaci",
-      "nativeName": "Poljaci",
-      "code": "BA-BRC-3211079",
-      "countryId": 3277605,
-      "countryCode": "BA",
-      "stateCode": "BA-BRC",
-      "latitude": 44.86163,
-      "longitude": 18.61996
-    },
-    {
       "id": 3256120,
       "name": "Poljani",
       "nativeName": "Poljani",
@@ -1324,39 +1324,6 @@
       "longitude": 18.92907
     },
     {
-      "id": 3211501,
-      "name": "Posavci",
-      "nativeName": "Posavci",
-      "code": "BA-BRC-3211501",
-      "countryId": 3277605,
-      "countryCode": "BA",
-      "stateCode": "BA-BRC",
-      "latitude": 44.77501,
-      "longitude": 18.91425
-    },
-    {
-      "id": 3211084,
-      "name": "Prijedor",
-      "nativeName": "Prijedor",
-      "code": "BA-BRC-3211084",
-      "countryId": 3277605,
-      "countryCode": "BA",
-      "stateCode": "BA-BRC",
-      "latitude": 44.80929,
-      "longitude": 18.61429
-    },
-    {
-      "id": 3211499,
-      "name": "Puraševina",
-      "nativeName": "Puraševina",
-      "code": "BA-BRC-3211499",
-      "countryId": 3277605,
-      "countryCode": "BA",
-      "stateCode": "BA-BRC",
-      "latitude": 44.78768,
-      "longitude": 18.84088
-    },
-    {
       "id": 3256101,
       "name": "Purići",
       "nativeName": "Purići",
@@ -1366,6 +1333,17 @@
       "stateCode": "BA-BRC",
       "latitude": 44.87067,
       "longitude": 18.67299
+    },
+    {
+      "id": 3256136,
+      "name": "Purići",
+      "nativeName": "Purići",
+      "code": "BA-BRC-3256136",
+      "countryId": 3277605,
+      "countryCode": "BA",
+      "stateCode": "BA-BRC",
+      "latitude": 44.85734,
+      "longitude": 18.69002
     },
     {
       "id": 3255459,
@@ -1379,6 +1357,17 @@
       "longitude": 18.85927
     },
     {
+      "id": 3256142,
+      "name": "Radoševići",
+      "nativeName": "Radoševići",
+      "code": "BA-BRC-3256142",
+      "countryId": 3277605,
+      "countryCode": "BA",
+      "stateCode": "BA-BRC",
+      "latitude": 44.85318,
+      "longitude": 18.7104
+    },
+    {
       "id": 3211502,
       "name": "Ražljevo",
       "nativeName": "Ražljevo",
@@ -1390,6 +1379,17 @@
       "longitude": 18.91065
     },
     {
+      "id": 3256318,
+      "name": "Redak",
+      "nativeName": "Redak",
+      "code": "BA-BRC-3256318",
+      "countryId": 3277605,
+      "countryCode": "BA",
+      "stateCode": "BA-BRC",
+      "latitude": 44.79819,
+      "longitude": 18.76399
+    },
+    {
       "id": 3211498,
       "name": "Repino Brdo",
       "nativeName": "Repino Brdo",
@@ -1399,6 +1399,17 @@
       "stateCode": "BA-BRC",
       "latitude": 44.78196,
       "longitude": 18.77545
+    },
+    {
+      "id": 3256326,
+      "name": "Ribić",
+      "nativeName": "Ribić",
+      "code": "BA-BRC-3256326",
+      "countryId": 3277605,
+      "countryCode": "BA",
+      "stateCode": "BA-BRC",
+      "latitude": 44.77372,
+      "longitude": 18.75866
     },
     {
       "id": 3255463,
@@ -1434,15 +1445,26 @@
       "longitude": 18.87291
     },
     {
-      "id": 3211074,
-      "name": "Rogozan",
-      "nativeName": "Rogozan",
-      "code": "BA-BRC-3211074",
+      "id": 3256384,
+      "name": "Sarcevići",
+      "nativeName": "Sarcevići",
+      "code": "BA-BRC-3256384",
       "countryId": 3277605,
       "countryCode": "BA",
       "stateCode": "BA-BRC",
-      "latitude": 44.87405,
-      "longitude": 18.66132
+      "latitude": 44.83192,
+      "longitude": 18.7075
+    },
+    {
+      "id": 3256438,
+      "name": "Savići",
+      "nativeName": "Savići",
+      "code": "BA-BRC-3256438",
+      "countryId": 3277605,
+      "countryCode": "BA",
+      "stateCode": "BA-BRC",
+      "latitude": 44.84914,
+      "longitude": 18.65461
     },
     {
       "id": 3256055,
@@ -1454,17 +1476,6 @@
       "stateCode": "BA-BRC",
       "latitude": 44.87662,
       "longitude": 18.73654
-    },
-    {
-      "id": 3211083,
-      "name": "Seljani",
-      "nativeName": "Seljani",
-      "code": "BA-BRC-3211083",
-      "countryId": 3277605,
-      "countryCode": "BA",
-      "stateCode": "BA-BRC",
-      "latitude": 44.81295,
-      "longitude": 18.57211
     },
     {
       "id": 3255089,
@@ -1511,6 +1522,17 @@
       "longitude": 18.57037
     },
     {
+      "id": 3318880,
+      "name": "Sluganović i",
+      "nativeName": "Sluganović i",
+      "code": "BA-BRC-3318880",
+      "countryId": 3277605,
+      "countryCode": "BA",
+      "stateCode": "BA-BRC",
+      "latitude": 44.83741,
+      "longitude": 18.70106
+    },
+    {
       "id": 3255372,
       "name": "Sombići",
       "nativeName": "Sombići",
@@ -1553,17 +1575,6 @@
       "stateCode": "BA-BRC",
       "latitude": 44.84732,
       "longitude": 18.95042
-    },
-    {
-      "id": 3211085,
-      "name": "Stjepkovica",
-      "nativeName": "Stjepkovica",
-      "code": "BA-BRC-3211085",
-      "countryId": 3277605,
-      "countryCode": "BA",
-      "stateCode": "BA-BRC",
-      "latitude": 44.79627,
-      "longitude": 18.61731
     },
     {
       "id": 3255294,
@@ -1665,6 +1676,17 @@
       "longitude": 18.68493
     },
     {
+      "id": 3256132,
+      "name": "Tufekdžići",
+      "nativeName": "Tufekdžići",
+      "code": "BA-BRC-3256132",
+      "countryId": 3277605,
+      "countryCode": "BA",
+      "stateCode": "BA-BRC",
+      "latitude": 44.84035,
+      "longitude": 18.70162
+    },
+    {
       "id": 3256098,
       "name": "Ugara",
       "nativeName": "Ugara",
@@ -1696,17 +1718,6 @@
       "stateCode": "BA-BRC",
       "latitude": 44.88116,
       "longitude": 18.68062
-    },
-    {
-      "id": 3211067,
-      "name": "Umka",
-      "nativeName": "Umka",
-      "code": "BA-BRC-3211067",
-      "countryId": 3277605,
-      "countryCode": "BA",
-      "stateCode": "BA-BRC",
-      "latitude": 44.93264,
-      "longitude": 18.71752
     },
     {
       "id": 3256130,
@@ -1764,26 +1775,26 @@
       "longitude": 18.73173
     },
     {
-      "id": 3211136,
-      "name": "Zečevići",
-      "nativeName": "Zečevići",
-      "code": "BA-BRC-3211136",
+      "id": 3318861,
+      "name": "Zlatići",
+      "nativeName": "Zlatići",
+      "code": "BA-BRC-3318861",
       "countryId": 3277605,
       "countryCode": "BA",
       "stateCode": "BA-BRC",
-      "latitude": 44.7417,
-      "longitude": 18.70538
+      "latitude": 44.7591,
+      "longitude": 18.6139
     },
     {
-      "id": 3211090,
-      "name": "Zovik Kalajdžije",
-      "nativeName": "Zovik Kalajdžije",
-      "code": "BA-BRC-3211090",
+      "id": 3256143,
+      "name": "Ðukići",
+      "nativeName": "Ðukići",
+      "code": "BA-BRC-3256143",
       "countryId": 3277605,
       "countryCode": "BA",
       "stateCode": "BA-BRC",
-      "latitude": 44.75971,
-      "longitude": 18.70405
+      "latitude": 44.85921,
+      "longitude": 18.72699
     },
     {
       "id": 3255107,
@@ -1828,6 +1839,17 @@
       "stateCode": "BA-BRC",
       "latitude": 44.78757,
       "longitude": 18.68132
+    },
+    {
+      "id": 3256144,
+      "name": "Čerkezovići",
+      "nativeName": "Čerkezovići",
+      "code": "BA-BRC-3256144",
+      "countryId": 3277605,
+      "countryCode": "BA",
+      "stateCode": "BA-BRC",
+      "latitude": 44.84804,
+      "longitude": 18.72041
     },
     {
       "id": 3211088,
@@ -1885,17 +1907,6 @@
       "longitude": 18.68588
     },
     {
-      "id": 3211494,
-      "name": "Šumari",
-      "nativeName": "Šumari",
-      "code": "BA-BRC-3211494",
-      "countryId": 3277605,
-      "countryCode": "BA",
-      "stateCode": "BA-BRC",
-      "latitude": 44.82022,
-      "longitude": 18.79943
-    },
-    {
       "id": 3255323,
       "name": "Šumari",
       "nativeName": "Šumari",
@@ -1916,17 +1927,6 @@
       "stateCode": "BA-BRC",
       "latitude": 44.84622,
       "longitude": 18.88672
-    },
-    {
-      "id": 3211072,
-      "name": "Žepce",
-      "nativeName": "Žepce",
-      "code": "BA-BRC-3211072",
-      "countryId": 3277605,
-      "countryCode": "BA",
-      "stateCode": "BA-BRC",
-      "latitude": 44.88013,
-      "longitude": 18.65786
     },
     {
       "id": 3204212,

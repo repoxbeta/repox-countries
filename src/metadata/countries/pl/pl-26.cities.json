@@ -103,17 +103,6 @@
       "longitude": 20.47253
     },
     {
-      "id": 7530999,
-      "name": "Powiat starachowicki",
-      "nativeName": "Powiat starachowicki",
-      "code": "PL-26-7530999",
-      "countryId": 798544,
-      "countryCode": "PL",
-      "stateCode": "PL-26",
-      "latitude": 51.05365,
-      "longitude": 21.14295
-    },
-    {
       "id": 7530977,
       "name": "Sandomierz County",
       "nativeName": "Powiat sandomierski",
@@ -134,6 +123,17 @@
       "stateCode": "PL-26",
       "latitude": 51.06496,
       "longitude": 20.79228
+    },
+    {
+      "id": 7530999,
+      "name": "Starachowice County",
+      "nativeName": "Powiat starachowicki",
+      "code": "PL-26-7530999",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-26",
+      "latitude": 51.05365,
+      "longitude": 21.14295
     },
     {
       "id": 7531041,

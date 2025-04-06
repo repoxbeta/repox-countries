@@ -4,6 +4,17 @@
   "countryCode": "HR",
   "cities": [
     {
+      "id": 3188382,
+      "name": "City of Varaždin",
+      "nativeName": "Grad Varaždin",
+      "code": "HR-05-3188382",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-05",
+      "latitude": 46.30354,
+      "longitude": 16.33444
+    },
+    {
       "id": 11049307,
       "name": "Ljubešćica",
       "nativeName": "Općina Ljubešćica",
@@ -288,17 +299,6 @@
       "stateCode": "HR-05",
       "latitude": 46.16667,
       "longitude": 16.33333
-    },
-    {
-      "id": 3188382,
-      "name": "Town of Varaždin",
-      "nativeName": "Grad Varaždin",
-      "code": "HR-05-3188382",
-      "countryId": 3202326,
-      "countryCode": "HR",
-      "stateCode": "HR-05",
-      "latitude": 46.30354,
-      "longitude": 16.33444
     },
     {
       "id": 11049316,

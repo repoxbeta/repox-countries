@@ -268,6 +268,17 @@
       "longitude": 73.1299
     },
     {
+      "id": 7082362,
+      "name": "Chak Kamdar",
+      "nativeName": "Chak Kamdar",
+      "code": "PK-IS-7082362",
+      "countryId": 1168579,
+      "countryCode": "PK",
+      "stateCode": "PK-IS",
+      "latitude": 33.56922,
+      "longitude": 73.27286
+    },
+    {
       "id": 7075875,
       "name": "Chak Ogāh",
       "nativeName": "Chak Ugha",
@@ -477,19 +488,8 @@
       "longitude": 73.00968
     },
     {
-      "id": 7038231,
-      "name": "Dheri Shah Sikandar",
-      "nativeName": "Dheri Shah Sikandar",
-      "code": "PK-IS-7038231",
-      "countryId": 1168579,
-      "countryCode": "PK",
-      "stateCode": "PK-IS",
-      "latitude": 33.6958,
-      "longitude": 72.962
-    },
-    {
       "id": 1338909,
-      "name": "Dhok Abdullah Chānān",
+      "name": "Dhok Abdullah",
       "nativeName": "Dhok Abdullah",
       "code": "PK-IS-1338909",
       "countryId": 1168579,
@@ -497,17 +497,6 @@
       "stateCode": "PK-IS",
       "latitude": 33.65259,
       "longitude": 72.98074
-    },
-    {
-      "id": 7038341,
-      "name": "Dhok Ashraf",
-      "nativeName": "Dhok Ashraf",
-      "code": "PK-IS-7038341",
-      "countryId": 1168579,
-      "countryCode": "PK",
-      "stateCode": "PK-IS",
-      "latitude": 33.6698,
-      "longitude": 73.1329
     },
     {
       "id": 1339943,
@@ -607,17 +596,6 @@
       "stateCode": "PK-IS",
       "latitude": 33.60089,
       "longitude": 72.91791
-    },
-    {
-      "id": 1339938,
-      "name": "Dhok Mira",
-      "nativeName": "Dhok Dadan Khan",
-      "code": "PK-IS-1339938",
-      "countryId": 1168579,
-      "countryCode": "PK",
-      "stateCode": "PK-IS",
-      "latitude": 33.64927,
-      "longitude": 72.95841
     },
     {
       "id": 1339179,
@@ -808,7 +786,7 @@
     },
     {
       "id": 1178191,
-      "name": "Golra Sharif",
+      "name": "Golra",
       "nativeName": "Golra",
       "code": "PK-IS-1178191",
       "countryId": 1168579,
@@ -1357,6 +1335,28 @@
       "longitude": 73.29535
     },
     {
+      "id": 7082280,
+      "name": "Miana Thob",
+      "nativeName": "Miana Thob",
+      "code": "PK-IS-7082280",
+      "countryId": 1168579,
+      "countryCode": "PK",
+      "stateCode": "PK-IS",
+      "latitude": 33.55985,
+      "longitude": 73.26
+    },
+    {
+      "id": 1339938,
+      "name": "Mira Dhok",
+      "nativeName": "Dhok Dadan Khan",
+      "code": "PK-IS-1339938",
+      "countryId": 1168579,
+      "countryCode": "PK",
+      "stateCode": "PK-IS",
+      "latitude": 33.64927,
+      "longitude": 72.95841
+    },
+    {
       "id": 7084763,
       "name": "Mohra",
       "nativeName": "Mohra",
@@ -1732,7 +1732,7 @@
     },
     {
       "id": 1166901,
-      "name": "Reharra",
+      "name": "Rehra",
       "nativeName": "Rehra",
       "code": "PK-IS-1166901",
       "countryId": 1168579,
@@ -1828,17 +1828,6 @@
       "stateCode": "PK-IS",
       "latitude": 33.647,
       "longitude": 73.20959
-    },
-    {
-      "id": 1164863,
-      "name": "Salah",
-      "nativeName": "Salah",
-      "code": "PK-IS-1164863",
-      "countryId": 1168579,
-      "countryCode": "PK",
-      "stateCode": "PK-IS",
-      "latitude": 33.70215,
-      "longitude": 72.99312
     },
     {
       "id": 1166270,
@@ -1982,6 +1971,17 @@
       "stateCode": "PK-IS",
       "latitude": 33.54617,
       "longitude": 73.20851
+    },
+    {
+      "id": 1164863,
+      "name": "Sihāla",
+      "nativeName": "Salah",
+      "code": "PK-IS-1164863",
+      "countryId": 1168579,
+      "countryCode": "PK",
+      "stateCode": "PK-IS",
+      "latitude": 33.70215,
+      "longitude": 72.99312
     },
     {
       "id": 1164828,

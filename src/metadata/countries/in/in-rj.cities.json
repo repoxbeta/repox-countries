@@ -48,17 +48,6 @@
       "longitude": 76.66
     },
     {
-      "id": 1276902,
-      "name": "Barmer",
-      "nativeName": "Bārmer",
-      "code": "IN-RJ-1276902",
-      "countryId": 1269750,
-      "countryCode": "IN",
-      "stateCode": "IN-RJ",
-      "latitude": 25.75,
-      "longitude": 71.5
-    },
-    {
       "id": 1276130,
       "name": "Bharatpur",
       "nativeName": "Bharatpur",
@@ -71,7 +60,7 @@
     },
     {
       "id": 1275961,
-      "name": "Bhīlwāra District",
+      "name": "Bhilwara",
       "nativeName": "Bhīlwāra",
       "code": "IN-RJ-1275961",
       "countryId": 1269750,
@@ -93,7 +82,7 @@
     },
     {
       "id": 1275104,
-      "name": "Bundi District",
+      "name": "Bundi",
       "nativeName": "Būndi",
       "code": "IN-RJ-1275104",
       "countryId": 1269750,
@@ -101,6 +90,17 @@
       "stateCode": "IN-RJ",
       "latitude": 25.5,
       "longitude": 75.83333
+    },
+    {
+      "id": 1276902,
+      "name": "Bārmer District",
+      "nativeName": "Bārmer",
+      "code": "IN-RJ-1276902",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-RJ",
+      "latitude": 25.75,
+      "longitude": 71.5
     },
     {
       "id": 1274041,
@@ -181,7 +181,7 @@
     },
     {
       "id": 1269519,
-      "name": "Jaipur",
+      "name": "Jaipur district",
       "nativeName": "Jaipur",
       "code": "IN-RJ-1269519",
       "countryId": 1269750,
@@ -225,7 +225,7 @@
     },
     {
       "id": 1268937,
-      "name": "Jhunjhunu",
+      "name": "Jhunjhunu district",
       "nativeName": "Jhunjhunūn",
       "code": "IN-RJ-1268937",
       "countryId": 1269750,
@@ -258,7 +258,7 @@
     },
     {
       "id": 1266054,
-      "name": "Kota District",
+      "name": "Kota",
       "nativeName": "Kota",
       "code": "IN-RJ-1266054",
       "countryId": 1269750,
@@ -302,7 +302,7 @@
     },
     {
       "id": 7701213,
-      "name": "Rajsamand",
+      "name": "Rajasmand District",
       "nativeName": "Rajsamand",
       "code": "IN-RJ-7701213",
       "countryId": 1269750,
@@ -357,7 +357,7 @@
     },
     {
       "id": 1253989,
-      "name": "Udaipur",
+      "name": "Udaipur District",
       "nativeName": "Udaipur",
       "code": "IN-RJ-1253989",
       "countryId": 1269750,

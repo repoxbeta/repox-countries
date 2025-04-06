@@ -4,17 +4,6 @@
   "countryCode": "CA",
   "cities": [
     {
-      "id": 12874109,
-      "name": "Admirals Beach",
-      "nativeName": "Admirals Beach",
-      "code": "CA-NL-12874109",
-      "countryId": 6251999,
-      "countryCode": "CA",
-      "stateCode": "CA-NL",
-      "latitude": 47.01664,
-      "longitude": -53.59986
-    },
-    {
       "id": 12874435,
       "name": "Anchor Point",
       "nativeName": "Anchor Point",
@@ -35,50 +24,6 @@
       "stateCode": "CA-NL",
       "latitude": 48.98178,
       "longitude": -54.85706
-    },
-    {
-      "id": 12874099,
-      "name": "Aquaforte",
-      "nativeName": "Aquaforte",
-      "code": "CA-NL-12874099",
-      "countryId": 6251999,
-      "countryCode": "CA",
-      "stateCode": "CA-NL",
-      "latitude": 47.01446,
-      "longitude": -52.94594
-    },
-    {
-      "id": 12874133,
-      "name": "Arnold's Cove",
-      "nativeName": "Arnold's Cove",
-      "code": "CA-NL-12874133",
-      "countryId": 6251999,
-      "countryCode": "CA",
-      "stateCode": "CA-NL",
-      "latitude": 47.77033,
-      "longitude": -53.9858
-    },
-    {
-      "id": 12874216,
-      "name": "Avondale",
-      "nativeName": "Avondale",
-      "code": "CA-NL-12874216",
-      "countryId": 6251999,
-      "countryCode": "CA",
-      "stateCode": "CA-NL",
-      "latitude": 47.39883,
-      "longitude": -53.22646
-    },
-    {
-      "id": 12874069,
-      "name": "Badger",
-      "nativeName": "Badger",
-      "code": "CA-NL-12874069",
-      "countryId": 6251999,
-      "countryCode": "CA",
-      "stateCode": "CA-NL",
-      "latitude": 48.97839,
-      "longitude": -56.04243
     },
     {
       "id": 12873973,
@@ -103,15 +48,15 @@
       "longitude": -54.89711
     },
     {
-      "id": 12874220,
-      "name": "Bauline",
-      "nativeName": "Bauline",
-      "code": "CA-NL-12874220",
+      "id": 12873727,
+      "name": "Bay Bulls",
+      "nativeName": "Bay Bulls",
+      "code": "CA-NL-12873727",
       "countryId": 6251999,
       "countryCode": "CA",
       "stateCode": "CA-NL",
-      "latitude": 47.70116,
-      "longitude": -52.81955
+      "latitude": 47.3249,
+      "longitude": -52.79375
     },
     {
       "id": 12874262,
@@ -125,15 +70,15 @@
       "longitude": -54.89165
     },
     {
-      "id": 12874179,
-      "name": "Bay de Verde",
-      "nativeName": "Bay de Verde",
-      "code": "CA-NL-12874179",
+      "id": 12873709,
+      "name": "Bay Roberts",
+      "nativeName": "Bay Roberts",
+      "code": "CA-NL-12873709",
       "countryId": 6251999,
       "countryCode": "CA",
       "stateCode": "CA-NL",
-      "latitude": 48.10065,
-      "longitude": -52.89076
+      "latitude": 47.58222,
+      "longitude": -53.29287
     },
     {
       "id": 12874468,
@@ -145,6 +90,28 @@
       "stateCode": "CA-NL",
       "latitude": 49.32958,
       "longitude": -54.78346
+    },
+    {
+      "id": 12874480,
+      "name": "Beachside",
+      "nativeName": "Beachside",
+      "code": "CA-NL-12874480",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NL",
+      "latitude": 49.64257,
+      "longitude": -55.90003
+    },
+    {
+      "id": 12874514,
+      "name": "Bellburns",
+      "nativeName": "Bellburns",
+      "code": "CA-NL-12874514",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NL",
+      "latitude": 50.32631,
+      "longitude": -57.52891
     },
     {
       "id": 12874298,
@@ -180,17 +147,6 @@
       "longitude": -56.93317
     },
     {
-      "id": 12874029,
-      "name": "Bishop's Cove",
-      "nativeName": "Bishop's Cove",
-      "code": "CA-NL-12874029",
-      "countryId": 6251999,
-      "countryCode": "CA",
-      "stateCode": "CA-NL",
-      "latitude": 47.63701,
-      "longitude": -53.23249
-    },
-    {
       "id": 12874399,
       "name": "Bishop's Falls",
       "nativeName": "Bishop's Falls",
@@ -224,15 +180,15 @@
       "longitude": -55.37218
     },
     {
-      "id": 12874118,
-      "name": "Branch",
-      "nativeName": "Branch",
-      "code": "CA-NL-12874118",
+      "id": 12874494,
+      "name": "Brent's Cove",
+      "nativeName": "Brent's Cove",
+      "code": "CA-NL-12874494",
       "countryId": 6251999,
       "countryCode": "CA",
       "stateCode": "CA-NL",
-      "latitude": 46.88526,
-      "longitude": -53.95903
+      "latitude": 49.9385,
+      "longitude": -55.71677
     },
     {
       "id": 12873935,
@@ -246,26 +202,26 @@
       "longitude": -55.64347
     },
     {
-      "id": 12874188,
-      "name": "Bryant's Cove",
-      "nativeName": "Bryant's Cove",
-      "code": "CA-NL-12874188",
+      "id": 12873801,
+      "name": "Burgeo",
+      "nativeName": "Burgeo",
+      "code": "CA-NL-12873801",
       "countryId": 6251999,
       "countryCode": "CA",
       "stateCode": "CA-NL",
-      "latitude": 47.67608,
-      "longitude": -53.1927
+      "latitude": 47.63048,
+      "longitude": -57.62507
     },
     {
-      "id": 12874223,
-      "name": "Buchans",
-      "nativeName": "Buchans",
-      "code": "CA-NL-12874223",
+      "id": 12873734,
+      "name": "Burin",
+      "nativeName": "Burin",
+      "code": "CA-NL-12873734",
       "countryId": 6251999,
       "countryCode": "CA",
       "stateCode": "CA-NL",
-      "latitude": 48.82142,
-      "longitude": -56.851
+      "latitude": 47.07332,
+      "longitude": -55.16848
     },
     {
       "id": 12873955,
@@ -279,6 +235,17 @@
       "longitude": -56.01689
     },
     {
+      "id": 12873810,
+      "name": "Burnt Islands",
+      "nativeName": "Burnt Islands",
+      "code": "CA-NL-12873810",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NL",
+      "latitude": 47.61351,
+      "longitude": -58.86999
+    },
+    {
       "id": 12874461,
       "name": "Campbellton",
       "nativeName": "Campbellton",
@@ -288,28 +255,6 @@
       "stateCode": "CA-NL",
       "latitude": 49.26977,
       "longitude": -54.93134
-    },
-    {
-      "id": 12874085,
-      "name": "Cape Broyle",
-      "nativeName": "Cape Broyle",
-      "code": "CA-NL-12874085",
-      "countryId": 6251999,
-      "countryCode": "CA",
-      "stateCode": "CA-NL",
-      "latitude": 47.096,
-      "longitude": -52.946
-    },
-    {
-      "id": 12874185,
-      "name": "Carbonear",
-      "nativeName": "Carbonear",
-      "code": "CA-NL-12874185",
-      "countryId": 6251999,
-      "countryCode": "CA",
-      "stateCode": "CA-NL",
-      "latitude": 47.73101,
-      "longitude": -53.23298
     },
     {
       "id": 12874458,
@@ -323,6 +268,17 @@
       "longitude": -54.29132
     },
     {
+      "id": 12874568,
+      "name": "Cartwright, Labrador",
+      "nativeName": "Cartwright, Labrador",
+      "code": "CA-NL-12874568",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NL",
+      "latitude": 53.7047,
+      "longitude": -57.0017
+    },
+    {
       "id": 12873886,
       "name": "Centreville-Wareham-Trinity",
       "nativeName": "Centreville-Wareham-Trinity",
@@ -332,17 +288,6 @@
       "stateCode": "CA-NL",
       "latitude": 48.99842,
       "longitude": -53.92128
-    },
-    {
-      "id": 12874143,
-      "name": "Chance Cove",
-      "nativeName": "Chance Cove",
-      "code": "CA-NL-12874143",
-      "countryId": 6251999,
-      "countryCode": "CA",
-      "stateCode": "CA-NL",
-      "latitude": 47.66617,
-      "longitude": -53.8308
     },
     {
       "id": 12873896,
@@ -356,15 +301,26 @@
       "longitude": -54.40329
     },
     {
-      "id": 12874151,
-      "name": "Chapel Arm",
-      "nativeName": "Chapel Arm",
-      "code": "CA-NL-12874151",
+      "id": 12873814,
+      "name": "Channel-Port aux Basques",
+      "nativeName": "Channel-Port aux Basques",
+      "code": "CA-NL-12873814",
       "countryId": 6251999,
       "countryCode": "CA",
       "stateCode": "CA-NL",
-      "latitude": 47.50388,
-      "longitude": -53.6659
+      "latitude": 47.59904,
+      "longitude": -59.13129
+    },
+    {
+      "id": 12874572,
+      "name": "Charlottetown (Labrador)",
+      "nativeName": "Charlottetown (Labrador)",
+      "code": "CA-NL-12874572",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NL",
+      "latitude": 52.76734,
+      "longitude": -56.13888
     },
     {
       "id": 12874411,
@@ -378,17 +334,6 @@
       "longitude": -54.05527
     },
     {
-      "id": 12874208,
-      "name": "Clarke's Beach",
-      "nativeName": "Clarke's Beach",
-      "code": "CA-NL-12874208",
-      "countryId": 6251999,
-      "countryCode": "CA",
-      "stateCode": "CA-NL",
-      "latitude": 47.53129,
-      "longitude": -53.30299
-    },
-    {
       "id": 12873976,
       "name": "Coachman's Cove",
       "nativeName": "Coachman's Cove",
@@ -400,15 +345,26 @@
       "longitude": -56.12391
     },
     {
-      "id": 12874088,
-      "name": "Colinet",
-      "nativeName": "Colinet",
-      "code": "CA-NL-12874088",
+      "id": 12873715,
+      "name": "Colliers",
+      "nativeName": "Colliers",
+      "code": "CA-NL-12873715",
       "countryId": 6251999,
       "countryCode": "CA",
       "stateCode": "CA-NL",
-      "latitude": 47.21938,
-      "longitude": -53.54831
+      "latitude": 47.44961,
+      "longitude": -53.24811
+    },
+    {
+      "id": 12873725,
+      "name": "Come By Chance",
+      "nativeName": "Come By Chance",
+      "code": "CA-NL-12873725",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NL",
+      "latitude": 47.83933,
+      "longitude": -53.98473
     },
     {
       "id": 12873909,
@@ -422,6 +378,28 @@
       "longitude": -54.87555
     },
     {
+      "id": 12873764,
+      "name": "Conception Bay South",
+      "nativeName": "Conception Bay South",
+      "code": "CA-NL-12873764",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NL",
+      "latitude": 47.49007,
+      "longitude": -52.99593
+    },
+    {
+      "id": 12873755,
+      "name": "Conception Harbour",
+      "nativeName": "Conception Harbour",
+      "code": "CA-NL-12873755",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NL",
+      "latitude": 47.44015,
+      "longitude": -53.22279
+    },
+    {
       "id": 12873853,
       "name": "Conche",
       "nativeName": "Conche",
@@ -431,6 +409,17 @@
       "stateCode": "CA-NL",
       "latitude": 50.89468,
       "longitude": -55.88627
+    },
+    {
+      "id": 12874524,
+      "name": "Cook's Harbour",
+      "nativeName": "Cook's Harbour",
+      "code": "CA-NL-12874524",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NL",
+      "latitude": 51.60769,
+      "longitude": -55.86333
     },
     {
       "id": 12873837,
@@ -477,17 +466,6 @@
       "longitude": -57.77095
     },
     {
-      "id": 12874065,
-      "name": "Cox's Cove",
-      "nativeName": "Cox's Cove",
-      "code": "CA-NL-12874065",
-      "countryId": 6251999,
-      "countryCode": "CA",
-      "stateCode": "CA-NL",
-      "latitude": 49.11175,
-      "longitude": -58.08086
-    },
-    {
       "id": 12873899,
       "name": "Crow Head",
       "nativeName": "Crow Head",
@@ -497,6 +475,17 @@
       "stateCode": "CA-NL",
       "latitude": 49.67975,
       "longitude": -54.8
+    },
+    {
+      "id": 12873712,
+      "name": "Cupids",
+      "nativeName": "Cupids",
+      "code": "CA-NL-12873712",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NL",
+      "latitude": 47.54708,
+      "longitude": -53.22608
     },
     {
       "id": 12873980,
@@ -598,28 +587,6 @@
       "longitude": -54.88238
     },
     {
-      "id": 12874105,
-      "name": "Ferryland",
-      "nativeName": "Ferryland",
-      "code": "CA-NL-12874105",
-      "countryId": 6251999,
-      "countryCode": "CA",
-      "stateCode": "CA-NL",
-      "latitude": 47.03012,
-      "longitude": -52.90603
-    },
-    {
-      "id": 12874048,
-      "name": "Flatrock",
-      "nativeName": "Flatrock",
-      "code": "CA-NL-12874048",
-      "countryId": 6251999,
-      "countryCode": "CA",
-      "stateCode": "CA-NL",
-      "latitude": 47.70531,
-      "longitude": -52.73129
-    },
-    {
       "id": 12873963,
       "name": "Fleur de Lys",
       "nativeName": "Fleur de Lys",
@@ -631,26 +598,48 @@
       "longitude": -56.15736
     },
     {
-      "id": 12874062,
-      "name": "Fogo Island",
-      "nativeName": "Fogo Island",
-      "code": "CA-NL-12874062",
+      "id": 12874521,
+      "name": "Flower's Cove",
+      "nativeName": "Flower's Cove",
+      "code": "CA-NL-12874521",
       "countryId": 6251999,
       "countryCode": "CA",
       "stateCode": "CA-NL",
-      "latitude": 49.6627,
-      "longitude": -54.18387
+      "latitude": 51.29593,
+      "longitude": -56.71961
     },
     {
-      "id": 12874124,
-      "name": "Fox Harbour",
-      "nativeName": "Fox Harbour",
-      "code": "CA-NL-12874124",
+      "id": 12874552,
+      "name": "Forteau",
+      "nativeName": "Forteau",
+      "code": "CA-NL-12874552",
       "countryId": 6251999,
       "countryCode": "CA",
       "stateCode": "CA-NL",
-      "latitude": 47.32105,
-      "longitude": -53.88222
+      "latitude": 51.48537,
+      "longitude": -56.95767
+    },
+    {
+      "id": 12873770,
+      "name": "Fortune",
+      "nativeName": "Fortune",
+      "code": "CA-NL-12873770",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NL",
+      "latitude": 47.04009,
+      "longitude": -55.86061
+    },
+    {
+      "id": 12873698,
+      "name": "Fox Cove-Mortier",
+      "nativeName": "Fox Cove-Mortier",
+      "code": "CA-NL-12873698",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NL",
+      "latitude": 47.1021,
+      "longitude": -55.11088
     },
     {
       "id": 12874243,
@@ -708,28 +697,6 @@
       "longitude": -55.33116
     },
     {
-      "id": 12874035,
-      "name": "Gaskiers-Point La Haye",
-      "nativeName": "Gaskiers-Point La Haye",
-      "code": "CA-NL-12874035",
-      "countryId": 6251999,
-      "countryCode": "CA",
-      "stateCode": "CA-NL",
-      "latitude": 46.86646,
-      "longitude": -53.60228
-    },
-    {
-      "id": 12874137,
-      "name": "Gaultois",
-      "nativeName": "Gaultois",
-      "code": "CA-NL-12874137",
-      "countryId": 6251999,
-      "countryCode": "CA",
-      "stateCode": "CA-NL",
-      "latitude": 47.61313,
-      "longitude": -55.91355
-    },
-    {
       "id": 12874356,
       "name": "Gillams",
       "nativeName": "Gillams",
@@ -774,6 +741,17 @@
       "longitude": -54.03499
     },
     {
+      "id": 12874532,
+      "name": "Goose Cove East",
+      "nativeName": "Goose Cove East",
+      "code": "CA-NL-12874532",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NL",
+      "latitude": 51.30437,
+      "longitude": -55.61796
+    },
+    {
       "id": 12874248,
       "name": "Grand Bank",
       "nativeName": "Grand Bank",
@@ -794,6 +772,17 @@
       "stateCode": "CA-NL",
       "latitude": 48.95769,
       "longitude": -55.66317
+    },
+    {
+      "id": 12873777,
+      "name": "Grand Le Pierre",
+      "nativeName": "Grand Le Pierre",
+      "code": "CA-NL-12873777",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NL",
+      "latitude": 47.77182,
+      "longitude": -54.80484
     },
     {
       "id": 12874456,
@@ -818,17 +807,6 @@
       "longitude": -56.8814
     },
     {
-      "id": 12874176,
-      "name": "Hant's Harbour",
-      "nativeName": "Hant's Harbour",
-      "code": "CA-NL-12874176",
-      "countryId": 6251999,
-      "countryCode": "CA",
-      "stateCode": "CA-NL",
-      "latitude": 47.99005,
-      "longitude": -53.27604
-    },
-    {
       "id": 12874446,
       "name": "Happy Adventure",
       "nativeName": "Happy Adventure",
@@ -840,15 +818,37 @@
       "longitude": -53.78243
     },
     {
-      "id": 12874023,
-      "name": "Happy Valley-Goose Bay",
-      "nativeName": "Happy Valley-Goose Bay",
-      "code": "CA-NL-12874023",
+      "id": 12873789,
+      "name": "Harbour Breton",
+      "nativeName": "Harbour Breton",
+      "code": "CA-NL-12873789",
       "countryId": 6251999,
       "countryCode": "CA",
       "stateCode": "CA-NL",
-      "latitude": 53.33933,
-      "longitude": -60.44752
+      "latitude": 47.47719,
+      "longitude": -55.8238
+    },
+    {
+      "id": 12873751,
+      "name": "Harbour Grace",
+      "nativeName": "Harbour Grace",
+      "code": "CA-NL-12873751",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NL",
+      "latitude": 47.67952,
+      "longitude": -53.25494
+    },
+    {
+      "id": 12873758,
+      "name": "Harbour Main-Chapel's Cove-Lakeview",
+      "nativeName": "Harbour Main-Chapel's Cove-Lakeview",
+      "code": "CA-NL-12873758",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NL",
+      "latitude": 47.41166,
+      "longitude": -53.17445
     },
     {
       "id": 12873883,
@@ -873,37 +873,37 @@
       "longitude": -57.15166
     },
     {
-      "id": 12874167,
-      "name": "Heart's Content",
-      "nativeName": "Heart's Content",
-      "code": "CA-NL-12874167",
+      "id": 12873706,
+      "name": "Hermitage-Sandyville",
+      "nativeName": "Hermitage-Sandyville",
+      "code": "CA-NL-12873706",
       "countryId": 6251999,
       "countryCode": "CA",
       "stateCode": "CA-NL",
-      "latitude": 47.84977,
-      "longitude": -53.35455
+      "latitude": 47.54637,
+      "longitude": -55.92413
     },
     {
-      "id": 12874157,
-      "name": "Heart's Delight-Islington",
-      "nativeName": "Heart's Delight-Islington",
-      "code": "CA-NL-12874157",
+      "id": 12873761,
+      "name": "Holyrood",
+      "nativeName": "Holyrood",
+      "code": "CA-NL-12873761",
       "countryId": 6251999,
       "countryCode": "CA",
       "stateCode": "CA-NL",
-      "latitude": 47.77157,
-      "longitude": -53.44298
+      "latitude": 47.34463,
+      "longitude": -53.15262
     },
     {
-      "id": 12874160,
-      "name": "Heart's Desire",
-      "nativeName": "Heart's Desire",
-      "code": "CA-NL-12874160",
+      "id": 12874586,
+      "name": "Hopedale",
+      "nativeName": "Hopedale",
+      "code": "CA-NL-12874586",
       "countryId": 6251999,
       "countryCode": "CA",
       "stateCode": "CA-NL",
-      "latitude": 47.81558,
-      "longitude": -53.42633
+      "latitude": 55.44849,
+      "longitude": -60.21437
     },
     {
       "id": 12873834,
@@ -928,17 +928,6 @@
       "longitude": -57.87959
     },
     {
-      "id": 12874060,
-      "name": "Humber Arm South",
-      "nativeName": "Humber Arm South",
-      "code": "CA-NL-12874060",
-      "countryId": 6251999,
-      "countryCode": "CA",
-      "stateCode": "CA-NL",
-      "latitude": 49.01595,
-      "longitude": -58.16832
-    },
-    {
       "id": 12874258,
       "name": "Indian Bay",
       "nativeName": "Indian Bay",
@@ -959,6 +948,17 @@
       "stateCode": "CA-NL",
       "latitude": 48.98784,
       "longitude": -57.95413
+    },
+    {
+      "id": 12873805,
+      "name": "Isle aux Morts",
+      "nativeName": "Isle aux Morts",
+      "code": "CA-NL-12873805",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NL",
+      "latitude": 47.59713,
+      "longitude": -58.96654
     },
     {
       "id": 12873830,
@@ -994,6 +994,17 @@
       "longitude": -53.37337
     },
     {
+      "id": 12874483,
+      "name": "King's Point",
+      "nativeName": "King's Point",
+      "code": "CA-NL-12874483",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NL",
+      "latitude": 49.58035,
+      "longitude": -56.20804
+    },
+    {
       "id": 12874323,
       "name": "Kippens",
       "nativeName": "Kippens",
@@ -1016,6 +1027,17 @@
       "longitude": -56.8334
     },
     {
+      "id": 12874541,
+      "name": "L'Anse-au-Clair",
+      "nativeName": "L'Anse-au-Clair",
+      "code": "CA-NL-12874541",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NL",
+      "latitude": 51.46366,
+      "longitude": -57.06698
+    },
+    {
       "id": 12873966,
       "name": "LaScie",
       "nativeName": "LaScie",
@@ -1027,26 +1049,26 @@
       "longitude": -55.61065
     },
     {
-      "id": 12874058,
-      "name": "Lark Harbour",
-      "nativeName": "Lark Harbour",
-      "code": "CA-NL-12874058",
+      "id": 12874547,
+      "name": "Labrador City",
+      "nativeName": "Labrador City",
+      "code": "CA-NL-12874547",
       "countryId": 6251999,
       "countryCode": "CA",
       "stateCode": "CA-NL",
-      "latitude": 49.10555,
-      "longitude": -58.39229
+      "latitude": 52.95912,
+      "longitude": -66.93686
     },
     {
-      "id": 12874228,
-      "name": "Lawn",
-      "nativeName": "Lawn",
-      "code": "CA-NL-12874228",
+      "id": 12873690,
+      "name": "Lamaline",
+      "nativeName": "Lamaline",
+      "code": "CA-NL-12873690",
       "countryId": 6251999,
       "countryCode": "CA",
       "stateCode": "CA-NL",
-      "latitude": 46.93563,
-      "longitude": -55.53389
+      "latitude": 46.9077,
+      "longitude": -55.76802
     },
     {
       "id": 12873923,
@@ -1060,15 +1082,15 @@
       "longitude": -55.42702
     },
     {
-      "id": 12874164,
-      "name": "Lewin's Cove",
-      "nativeName": "Lewin's Cove",
-      "code": "CA-NL-12874164",
+      "id": 12873785,
+      "name": "Lewisporte",
+      "nativeName": "Lewisporte",
+      "code": "CA-NL-12873785",
       "countryId": 6251999,
       "countryCode": "CA",
       "stateCode": "CA-NL",
-      "latitude": 47.08738,
-      "longitude": -55.21943
+      "latitude": 49.24225,
+      "longitude": -55.07635
     },
     {
       "id": 12874284,
@@ -1093,6 +1115,17 @@
       "longitude": -54.85987
     },
     {
+      "id": 12873793,
+      "name": "Little Bay Islands",
+      "nativeName": "Little Bay Islands",
+      "code": "CA-NL-12873793",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NL",
+      "latitude": 49.64423,
+      "longitude": -55.79659
+    },
+    {
       "id": 12874470,
       "name": "Little Burnt Bay",
       "nativeName": "Little Burnt Bay",
@@ -1104,15 +1137,26 @@
       "longitude": -55.08166
     },
     {
-      "id": 12874238,
-      "name": "Lord's Cove",
-      "nativeName": "Lord's Cove",
-      "code": "CA-NL-12874238",
+      "id": 12873747,
+      "name": "Logy Bay-Middle Cove-Outer Cove",
+      "nativeName": "Logy Bay-Middle Cove-Outer Cove",
+      "code": "CA-NL-12873747",
       "countryId": 6251999,
       "countryCode": "CA",
       "stateCode": "CA-NL",
-      "latitude": 46.89863,
-      "longitude": -55.65902
+      "latitude": 47.63679,
+      "longitude": -52.68711
+    },
+    {
+      "id": 12873722,
+      "name": "Long Harbour-Mount Arlington Heights",
+      "nativeName": "Long Harbour-Mount Arlington Heights",
+      "code": "CA-NL-12873722",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NL",
+      "latitude": 47.44312,
+      "longitude": -53.78317
     },
     {
       "id": 12874312,
@@ -1124,17 +1168,6 @@
       "stateCode": "CA-NL",
       "latitude": 48.64965,
       "longitude": -58.99802
-    },
-    {
-      "id": 12874050,
-      "name": "Lumsden",
-      "nativeName": "Lumsden",
-      "code": "CA-NL-12874050",
-      "countryId": 6251999,
-      "countryCode": "CA",
-      "stateCode": "CA-NL",
-      "latitude": 49.28745,
-      "longitude": -53.59459
     },
     {
       "id": 12873939,
@@ -1179,6 +1212,17 @@
       "stateCode": "CA-NL",
       "latitude": 52.28055,
       "longitude": -55.84901
+    },
+    {
+      "id": 12873694,
+      "name": "Marystown",
+      "nativeName": "Marystown",
+      "code": "CA-NL-12873694",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NL",
+      "latitude": 47.15585,
+      "longitude": -55.16218
     },
     {
       "id": 12874360,
@@ -1258,6 +1302,17 @@
       "longitude": -55.74435
     },
     {
+      "id": 12874506,
+      "name": "Ming's Bight",
+      "nativeName": "Ming's Bight",
+      "code": "CA-NL-12874506",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NL",
+      "latitude": 49.97483,
+      "longitude": -56.04155
+    },
+    {
       "id": 12874301,
       "name": "Morrisville",
       "nativeName": "Morrisville",
@@ -1269,26 +1324,26 @@
       "longitude": -55.76347
     },
     {
-      "id": 12874204,
-      "name": "Mount Moriah",
-      "nativeName": "Mount Moriah",
-      "code": "CA-NL-12874204",
+      "id": 12873717,
+      "name": "Mount Carmel-Mitchells Brook-St. Catherine's",
+      "nativeName": "Mount Carmel-Mitchells Brook-St. Catherine's",
+      "code": "CA-NL-12873717",
       "countryId": 6251999,
       "countryCode": "CA",
       "stateCode": "CA-NL",
-      "latitude": 48.95872,
-      "longitude": -58.07167
+      "latitude": 47.1862,
+      "longitude": -53.42361
     },
     {
-      "id": 12874214,
-      "name": "Mount Pearl",
-      "nativeName": "Mount Pearl",
-      "code": "CA-NL-12874214",
+      "id": 12873781,
+      "name": "Musgrave Harbour",
+      "nativeName": "Musgrave Harbour",
+      "code": "CA-NL-12873781",
       "countryId": 6251999,
       "countryCode": "CA",
       "stateCode": "CA-NL",
-      "latitude": 47.51951,
-      "longitude": -52.81234
+      "latitude": 49.41671,
+      "longitude": -53.96478
     },
     {
       "id": 12874433,
@@ -1302,15 +1357,15 @@
       "longitude": -53.89236
     },
     {
-      "id": 12874032,
-      "name": "Nain",
-      "nativeName": "Nain",
-      "code": "CA-NL-12874032",
+      "id": 12873740,
+      "name": "New Perlican",
+      "nativeName": "New Perlican",
+      "code": "CA-NL-12873740",
       "countryId": 6251999,
       "countryCode": "CA",
       "stateCode": "CA-NL",
-      "latitude": 56.52577,
-      "longitude": -61.76228
+      "latitude": 47.90674,
+      "longitude": -53.3266
     },
     {
       "id": 12873892,
@@ -1324,15 +1379,15 @@
       "longitude": -53.62634
     },
     {
-      "id": 12874149,
-      "name": "Norman's Cove-Long Cove",
-      "nativeName": "Norman's Cove-Long Cove",
-      "code": "CA-NL-12874149",
+      "id": 12874487,
+      "name": "Nippers Harbour",
+      "nativeName": "Nippers Harbour",
+      "code": "CA-NL-12874487",
       "countryId": 6251999,
       "countryCode": "CA",
       "stateCode": "CA-NL",
-      "latitude": 47.56262,
-      "longitude": -53.69003
+      "latitude": 49.79267,
+      "longitude": -55.86478
     },
     {
       "id": 12874379,
@@ -1346,15 +1401,26 @@
       "longitude": -55.23841
     },
     {
-      "id": 12874201,
-      "name": "North River",
-      "nativeName": "North River",
-      "code": "CA-NL-12874201",
+      "id": 12874511,
+      "name": "Norris Point",
+      "nativeName": "Norris Point",
+      "code": "CA-NL-12874511",
       "countryId": 6251999,
       "countryCode": "CA",
       "stateCode": "CA-NL",
-      "latitude": 47.54304,
-      "longitude": -53.31346
+      "latitude": 49.53169,
+      "longitude": -57.87543
+    },
+    {
+      "id": 12874577,
+      "name": "North West River",
+      "nativeName": "North West River",
+      "code": "CA-NL-12874577",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NL",
+      "latitude": 53.53841,
+      "longitude": -60.14136
     },
     {
       "id": 12874391,
@@ -1368,17 +1434,6 @@
       "longitude": -55.38457
     },
     {
-      "id": 12874170,
-      "name": "Old Perlican",
-      "nativeName": "Old Perlican",
-      "code": "CA-NL-12874170",
-      "countryId": 6251999,
-      "countryCode": "CA",
-      "stateCode": "CA-NL",
-      "latitude": 48.0872,
-      "longitude": -52.99458
-    },
-    {
       "id": 12873970,
       "name": "Pacquet",
       "nativeName": "Pacquet",
@@ -1390,15 +1445,26 @@
       "longitude": -55.89729
     },
     {
-      "id": 12874225,
-      "name": "Paradise",
-      "nativeName": "Paradise",
-      "code": "CA-NL-12874225",
+      "id": 12873774,
+      "name": "Parkers Cove",
+      "nativeName": "Parkers Cove",
+      "code": "CA-NL-12873774",
       "countryId": 6251999,
       "countryCode": "CA",
       "stateCode": "CA-NL",
-      "latitude": 47.53418,
-      "longitude": -52.88383
+      "latitude": 47.39868,
+      "longitude": -54.86049
+    },
+    {
+      "id": 12874517,
+      "name": "Parson's Pond",
+      "nativeName": "Parson's Pond",
+      "code": "CA-NL-12874517",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NL",
+      "latitude": 50.03679,
+      "longitude": -57.69735
     },
     {
       "id": 12874349,
@@ -1423,17 +1489,6 @@
       "longitude": -55.33843
     },
     {
-      "id": 12874146,
-      "name": "Petty Harbour-Maddox Cove",
-      "nativeName": "Petty Harbour-Maddox Cove",
-      "code": "CA-NL-12874146",
-      "countryId": 6251999,
-      "countryCode": "CA",
-      "stateCode": "CA-NL",
-      "latitude": 47.47315,
-      "longitude": -52.70684
-    },
-    {
       "id": 12873927,
       "name": "Pilley's Island",
       "nativeName": "Pilley's Island",
@@ -1445,15 +1500,26 @@
       "longitude": -55.71582
     },
     {
-      "id": 12874121,
-      "name": "Point Lance",
-      "nativeName": "Point Lance",
-      "code": "CA-NL-12874121",
+      "id": 12874559,
+      "name": "Pinware",
+      "nativeName": "Pinware",
+      "code": "CA-NL-12874559",
       "countryId": 6251999,
       "countryCode": "CA",
       "stateCode": "CA-NL",
-      "latitude": 46.82637,
-      "longitude": -54.08556
+      "latitude": 51.63359,
+      "longitude": -56.70728
+    },
+    {
+      "id": 12873720,
+      "name": "Placentia",
+      "nativeName": "Placentia",
+      "code": "CA-NL-12873720",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NL",
+      "latitude": 47.26995,
+      "longitude": -53.90507
     },
     {
       "id": 12874473,
@@ -1467,15 +1533,15 @@
       "longitude": -55.41558
     },
     {
-      "id": 12874198,
-      "name": "Point au Gaul",
-      "nativeName": "Point au Gaul",
-      "code": "CA-NL-12874198",
+      "id": 12873702,
+      "name": "Point May",
+      "nativeName": "Point May",
+      "code": "CA-NL-12873702",
       "countryId": 6251999,
       "countryCode": "CA",
       "stateCode": "CA-NL",
-      "latitude": 46.86741,
-      "longitude": -55.74815
+      "latitude": 46.94727,
+      "longitude": -55.93674
     },
     {
       "id": 12873920,
@@ -1522,15 +1588,15 @@
       "longitude": -54.18048
     },
     {
-      "id": 12874091,
-      "name": "Port Kirwan",
-      "nativeName": "Port Kirwan",
-      "code": "CA-NL-12874091",
+      "id": 12874563,
+      "name": "Port Hope Simpson",
+      "nativeName": "Port Hope Simpson",
+      "code": "CA-NL-12874563",
       "countryId": 6251999,
       "countryCode": "CA",
       "stateCode": "CA-NL",
-      "latitude": 46.98188,
-      "longitude": -52.9178
+      "latitude": 52.54336,
+      "longitude": -56.33541
     },
     {
       "id": 12874418,
@@ -1566,6 +1632,17 @@
       "longitude": -57.32553
     },
     {
+      "id": 12873822,
+      "name": "Port au Port East",
+      "nativeName": "Port au Port East",
+      "code": "CA-NL-12873822",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NL",
+      "latitude": 48.58046,
+      "longitude": -58.67087
+    },
+    {
       "id": 12874335,
       "name": "Port au Port West-Aguathuna-Felix Cove",
       "nativeName": "Port au Port West-Aguathuna-Felix Cove",
@@ -1577,37 +1654,15 @@
       "longitude": -58.77421
     },
     {
-      "id": 12874044,
-      "name": "Portugal Cove-St. Philip's",
-      "nativeName": "Portugal Cove-St. Philip's",
-      "code": "CA-NL-12874044",
+      "id": 12873677,
+      "name": "Portugal Cove South",
+      "nativeName": "Portugal Cove South",
+      "code": "CA-NL-12873677",
       "countryId": 6251999,
       "countryCode": "CA",
       "stateCode": "CA-NL",
-      "latitude": 47.62538,
-      "longitude": -52.83772
-    },
-    {
-      "id": 12874020,
-      "name": "Postville",
-      "nativeName": "Postville",
-      "code": "CA-NL-12874020",
-      "countryId": 6251999,
-      "countryCode": "CA",
-      "stateCode": "CA-NL",
-      "latitude": 54.91126,
-      "longitude": -59.78092
-    },
-    {
-      "id": 12874046,
-      "name": "Pouch Cove",
-      "nativeName": "Pouch Cove",
-      "code": "CA-NL-12874046",
-      "countryId": 6251999,
-      "countryCode": "CA",
-      "stateCode": "CA-NL",
-      "latitude": 47.74676,
-      "longitude": -52.77759
+      "latitude": 46.70984,
+      "longitude": -53.25488
     },
     {
       "id": 12874007,
@@ -1630,17 +1685,6 @@
       "stateCode": "CA-NL",
       "latitude": 47.52065,
       "longitude": -57.3947
-    },
-    {
-      "id": 12874082,
-      "name": "Red Bay",
-      "nativeName": "Red Bay",
-      "code": "CA-NL-12874082",
-      "countryId": 6251999,
-      "countryCode": "CA",
-      "stateCode": "CA-NL",
-      "latitude": 51.73755,
-      "longitude": -56.41987
     },
     {
       "id": 12874271,
@@ -1676,26 +1720,26 @@
       "longitude": -55.2186
     },
     {
-      "id": 12874078,
-      "name": "Rigolet",
-      "nativeName": "Rigolet",
-      "code": "CA-NL-12874078",
+      "id": 12873683,
+      "name": "Renews-Cappahayden",
+      "nativeName": "Renews-Cappahayden",
+      "code": "CA-NL-12873683",
       "countryId": 6251999,
       "countryCode": "CA",
       "stateCode": "CA-NL",
-      "latitude": 54.17957,
-      "longitude": -58.44961
+      "latitude": 46.89013,
+      "longitude": -52.98773
     },
     {
-      "id": 12874037,
-      "name": "Riverhead",
-      "nativeName": "Riverhead",
-      "code": "CA-NL-12874037",
+      "id": 12874536,
+      "name": "River of Ponds",
+      "nativeName": "River of Ponds",
+      "code": "CA-NL-12874536",
       "countryId": 6251999,
       "countryCode": "CA",
       "stateCode": "CA-NL",
-      "latitude": 46.99327,
-      "longitude": -53.48371
+      "latitude": 50.52982,
+      "longitude": -57.3837
     },
     {
       "id": 12874476,
@@ -1742,15 +1786,15 @@
       "longitude": -54.92022
     },
     {
-      "id": 12874173,
-      "name": "Salmon Cove",
-      "nativeName": "Salmon Cove",
-      "code": "CA-NL-12874173",
+      "id": 12874528,
+      "name": "Sally's Cove",
+      "nativeName": "Sally's Cove",
+      "code": "CA-NL-12874528",
       "countryId": 6251999,
       "countryCode": "CA",
       "stateCode": "CA-NL",
-      "latitude": 47.78054,
-      "longitude": -53.17434
+      "latitude": 49.72393,
+      "longitude": -57.93106
     },
     {
       "id": 12873875,
@@ -1786,26 +1830,15 @@
       "longitude": -53.7085
     },
     {
-      "id": 12874096,
-      "name": "Seal Cove (Fortune Bay)",
-      "nativeName": "Seal Cove (Fortune Bay)",
-      "code": "CA-NL-12874096",
+      "id": 12874497,
+      "name": "Seal Cove (White Bay)",
+      "nativeName": "Seal Cove (White Bay)",
+      "code": "CA-NL-12874497",
       "countryId": 6251999,
       "countryCode": "CA",
       "stateCode": "CA-NL",
-      "latitude": 47.484,
-      "longitude": -56.07443
-    },
-    {
-      "id": 12874182,
-      "name": "Small Point-Adam's Cove-Blackhead-Broad Cove",
-      "nativeName": "Small Point-Adam's Cove-Blackhead-Broad Cove",
-      "code": "CA-NL-12874182",
-      "countryId": 6251999,
-      "countryCode": "CA",
-      "stateCode": "CA-NL",
-      "latitude": 47.84774,
-      "longitude": -53.12896
+      "latitude": 49.93202,
+      "longitude": -56.37423
     },
     {
       "id": 12873943,
@@ -1817,39 +1850,6 @@
       "stateCode": "CA-NL",
       "latitude": 49.4019,
       "longitude": -56.09165
-    },
-    {
-      "id": 12874211,
-      "name": "South River",
-      "nativeName": "South River",
-      "code": "CA-NL-12874211",
-      "countryId": 6251999,
-      "countryCode": "CA",
-      "stateCode": "CA-NL",
-      "latitude": 47.53145,
-      "longitude": -53.2705
-    },
-    {
-      "id": 12874115,
-      "name": "Southern Harbour",
-      "nativeName": "Southern Harbour",
-      "code": "CA-NL-12874115",
-      "countryId": 6251999,
-      "countryCode": "CA",
-      "stateCode": "CA-NL",
-      "latitude": 47.7225,
-      "longitude": -53.95334
-    },
-    {
-      "id": 12874194,
-      "name": "Spaniard's Bay",
-      "nativeName": "Spaniard's Bay",
-      "code": "CA-NL-12874194",
-      "countryId": 6251999,
-      "countryCode": "CA",
-      "stateCode": "CA-NL",
-      "latitude": 47.6178,
-      "longitude": -53.33756
     },
     {
       "id": 12873947,
@@ -1907,26 +1907,48 @@
       "longitude": -53.66768
     },
     {
-      "id": 12874112,
-      "name": "St. Bride's",
-      "nativeName": "St. Bride's",
-      "code": "CA-NL-12874112",
+      "id": 12873818,
+      "name": "St. George's",
+      "nativeName": "St. George's",
+      "code": "CA-NL-12873818",
       "countryId": 6251999,
       "countryCode": "CA",
       "stateCode": "CA-NL",
-      "latitude": 46.9253,
-      "longitude": -54.17239
+      "latitude": 48.41511,
+      "longitude": -58.4937
     },
     {
-      "id": 12874102,
-      "name": "St. Joseph's",
-      "nativeName": "St. Joseph's",
-      "code": "CA-NL-12874102",
+      "id": 12873797,
+      "name": "St. Jacques-Coomb's Cove",
+      "nativeName": "St. Jacques-Coomb's Cove",
+      "code": "CA-NL-12873797",
       "countryId": 6251999,
       "countryCode": "CA",
       "stateCode": "CA-NL",
-      "latitude": 47.09162,
-      "longitude": -53.51362
+      "latitude": 47.47133,
+      "longitude": -55.54198
+    },
+    {
+      "id": 12873767,
+      "name": "St. John's",
+      "nativeName": "St. John's",
+      "code": "CA-NL-12873767",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NL",
+      "latitude": 47.48177,
+      "longitude": -52.79716
+    },
+    {
+      "id": 12873737,
+      "name": "St. Lawrence",
+      "nativeName": "St. Lawrence",
+      "code": "CA-NL-12873737",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NL",
+      "latitude": 46.90748,
+      "longitude": -55.40455
     },
     {
       "id": 12874014,
@@ -1951,37 +1973,15 @@
       "longitude": -55.47663
     },
     {
-      "id": 12874073,
-      "name": "St. Pauls",
-      "nativeName": "St. Pauls",
-      "code": "CA-NL-12874073",
+      "id": 12873686,
+      "name": "St. Mary's",
+      "nativeName": "St. Mary's",
+      "code": "CA-NL-12873686",
       "countryId": 6251999,
       "countryCode": "CA",
       "stateCode": "CA-NL",
-      "latitude": 49.8535,
-      "longitude": -57.8137
-    },
-    {
-      "id": 12874026,
-      "name": "St. Shott's",
-      "nativeName": "St. Shott's",
-      "code": "CA-NL-12874026",
-      "countryId": 6251999,
-      "countryCode": "CA",
-      "stateCode": "CA-NL",
-      "latitude": 46.63373,
-      "longitude": -53.58465
-    },
-    {
-      "id": 12874039,
-      "name": "St. Vincent's-St. Stephen's-Peter's River",
-      "nativeName": "St. Vincent's-St. Stephen's-Peter's River",
-      "code": "CA-NL-12874039",
-      "countryId": 6251999,
-      "countryCode": "CA",
-      "stateCode": "CA-NL",
-      "latitude": 46.78005,
-      "longitude": -53.58424
+      "latitude": 46.9129,
+      "longitude": -53.53424
     },
     {
       "id": 12874346,
@@ -1995,28 +1995,6 @@
       "longitude": -57.81077
     },
     {
-      "id": 12874055,
-      "name": "Stephenville",
-      "nativeName": "Stephenville",
-      "code": "CA-NL-12874055",
-      "countryId": 6251999,
-      "countryCode": "CA",
-      "stateCode": "CA-NL",
-      "latitude": 48.54839,
-      "longitude": -58.54857
-    },
-    {
-      "id": 12874052,
-      "name": "Stephenville Crossing",
-      "nativeName": "Stephenville Crossing",
-      "code": "CA-NL-12874052",
-      "countryId": 6251999,
-      "countryCode": "CA",
-      "stateCode": "CA-NL",
-      "latitude": 48.52917,
-      "longitude": -58.45642
-    },
-    {
       "id": 12873906,
       "name": "Summerford",
       "nativeName": "Summerford",
@@ -2026,17 +2004,6 @@
       "stateCode": "CA-NL",
       "latitude": 49.49703,
       "longitude": -54.78289
-    },
-    {
-      "id": 12874140,
-      "name": "Sunnyside",
-      "nativeName": "Sunnyside",
-      "code": "CA-NL-12874140",
-      "countryId": 6251999,
-      "countryCode": "CA",
-      "stateCode": "CA-NL",
-      "latitude": 47.87116,
-      "longitude": -53.91254
     },
     {
       "id": 12874442,
@@ -2061,15 +2028,15 @@
       "longitude": -54.70516
     },
     {
-      "id": 12874218,
-      "name": "Torbay",
-      "nativeName": "Torbay",
-      "code": "CA-NL-12874218",
+      "id": 12874491,
+      "name": "Tilt Cove",
+      "nativeName": "Tilt Cove",
+      "code": "CA-NL-12874491",
       "countryId": 6251999,
       "countryCode": "CA",
       "stateCode": "CA-NL",
-      "latitude": 47.65957,
-      "longitude": -52.75311
+      "latitude": 49.88762,
+      "longitude": -55.62146
     },
     {
       "id": 12874423,
@@ -2081,6 +2048,17 @@
       "stateCode": "CA-NL",
       "latitude": 48.6607,
       "longitude": -53.97985
+    },
+    {
+      "id": 12873680,
+      "name": "Trepassey",
+      "nativeName": "Trepassey",
+      "code": "CA-NL-12873680",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NL",
+      "latitude": 46.7466,
+      "longitude": -53.36462
     },
     {
       "id": 12874414,
@@ -2116,70 +2094,92 @@
       "longitude": -55.62053
     },
     {
-      "id": 12874191,
-      "name": "Upper Island Cove",
-      "nativeName": "Upper Island Cove",
-      "code": "CA-NL-12874191",
+      "id": 12874500,
+      "name": "Trout River",
+      "nativeName": "Trout River",
+      "code": "CA-NL-12874500",
       "countryId": 6251999,
       "countryCode": "CA",
       "stateCode": "CA-NL",
-      "latitude": 47.64985,
-      "longitude": -53.22326
+      "latitude": 49.4726,
+      "longitude": -58.12701
     },
     {
-      "id": 12874041,
-      "name": "Wabana",
-      "nativeName": "Wabana",
-      "code": "CA-NL-12874041",
+      "id": 6170931,
+      "name": "Twillingate",
+      "nativeName": "Twillingate",
+      "code": "CA-NL-6170931",
       "countryId": 6251999,
       "countryCode": "CA",
       "stateCode": "CA-NL",
-      "latitude": 47.63931,
-      "longitude": -52.94791
+      "latitude": 49.64992,
+      "longitude": -54.76486
     },
     {
-      "id": 12874154,
-      "name": "Whitbourne",
-      "nativeName": "Whitbourne",
-      "code": "CA-NL-12874154",
+      "id": 12873744,
+      "name": "Victoria",
+      "nativeName": "Victoria",
+      "code": "CA-NL-12873744",
       "countryId": 6251999,
       "countryCode": "CA",
       "stateCode": "CA-NL",
-      "latitude": 47.42512,
-      "longitude": -53.54195
+      "latitude": 47.77133,
+      "longitude": -53.23799
     },
     {
-      "id": 12874127,
-      "name": "Whiteway",
-      "nativeName": "Whiteway",
-      "code": "CA-NL-12874127",
+      "id": 12874581,
+      "name": "Wabush",
+      "nativeName": "Wabush",
+      "code": "CA-NL-12874581",
       "countryId": 6251999,
       "countryCode": "CA",
       "stateCode": "CA-NL",
-      "latitude": 47.6828,
-      "longitude": -53.4506
+      "latitude": 52.8755,
+      "longitude": -66.88911
     },
     {
-      "id": 12874233,
-      "name": "Winterland",
-      "nativeName": "Winterland",
-      "code": "CA-NL-12874233",
+      "id": 12874556,
+      "name": "West St. Modeste",
+      "nativeName": "West St. Modeste",
+      "code": "CA-NL-12874556",
       "countryId": 6251999,
       "countryCode": "CA",
       "stateCode": "CA-NL",
-      "latitude": 47.15259,
-      "longitude": -55.31487
+      "latitude": 51.59691,
+      "longitude": -56.72158
     },
     {
-      "id": 12874130,
-      "name": "Winterton",
-      "nativeName": "Winterton",
-      "code": "CA-NL-12874130",
+      "id": 12874503,
+      "name": "Westport",
+      "nativeName": "Westport",
+      "code": "CA-NL-12874503",
       "countryId": 6251999,
       "countryCode": "CA",
       "stateCode": "CA-NL",
-      "latitude": 47.95282,
-      "longitude": -53.31384
+      "latitude": 49.78736,
+      "longitude": -56.61426
+    },
+    {
+      "id": 12873730,
+      "name": "Witless Bay",
+      "nativeName": "Witless Bay",
+      "code": "CA-NL-12873730",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NL",
+      "latitude": 47.28103,
+      "longitude": -52.82016
+    },
+    {
+      "id": 12874509,
+      "name": "Woodstock",
+      "nativeName": "Woodstock",
+      "code": "CA-NL-12874509",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NL",
+      "latitude": 49.96609,
+      "longitude": -55.89309
     },
     {
       "id": 12874403,

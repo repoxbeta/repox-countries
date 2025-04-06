@@ -389,17 +389,6 @@
       "longitude": 36.66667
     },
     {
-      "id": 11670715,
-      "name": "Nachola",
-      "nativeName": "Nachola",
-      "code": "KE-37-11670715",
-      "countryId": 192950,
-      "countryCode": "KE",
-      "stateCode": "KE-37",
-      "latitude": 1.80344,
-      "longitude": 36.70097
-    },
-    {
       "id": 11427353,
       "name": "Nachola",
       "nativeName": "Nachola",
@@ -409,6 +398,17 @@
       "stateCode": "KE-37",
       "latitude": 1.77191,
       "longitude": 36.60218
+    },
+    {
+      "id": 11670715,
+      "name": "Nachola",
+      "nativeName": "Nachola",
+      "code": "KE-37-11670715",
+      "countryId": 192950,
+      "countryCode": "KE",
+      "stateCode": "KE-37",
+      "latitude": 1.80344,
+      "longitude": 36.70097
     },
     {
       "id": 11671054,

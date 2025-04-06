@@ -26,17 +26,6 @@
       "longitude": 42.12917
     },
     {
-      "id": 828311,
-      "name": "Kalaki Poti",
-      "nativeName": "Kalaki Poti",
-      "code": "GE-SZ-828311",
-      "countryId": 614540,
-      "countryCode": "GE",
-      "stateCode": "GE-SZ",
-      "latitude": 42.15,
-      "longitude": 41.68333
-    },
-    {
       "id": 613915,
       "name": "Khobis Munitsip’alit’et’i",
       "nativeName": "Khobis Munitsip’alit’et’i",
@@ -44,8 +33,8 @@
       "countryId": 614540,
       "countryCode": "GE",
       "stateCode": "GE-SZ",
-      "latitude": 42.25,
-      "longitude": 41.8
+      "latitude": 42.27866,
+      "longitude": 41.83781
     },
     {
       "id": 7667572,
@@ -66,8 +55,8 @@
       "countryId": 614540,
       "countryCode": "GE",
       "stateCode": "GE-SZ",
-      "latitude": 42.53333,
-      "longitude": 42.36667
+      "latitude": 42.53851,
+      "longitude": 42.37999
     },
     {
       "id": 7667559,
@@ -88,8 +77,8 @@
       "countryId": 614540,
       "countryCode": "GE",
       "stateCode": "GE-SZ",
-      "latitude": 43.05,
-      "longitude": 42.55
+      "latitude": 43.06058,
+      "longitude": 42.48126
     },
     {
       "id": 7667584,
@@ -101,6 +90,17 @@
       "stateCode": "GE-SZ",
       "latitude": 42.14194,
       "longitude": 41.67639
+    },
+    {
+      "id": 828311,
+      "name": "Potis Munitsip'alit'et'i",
+      "nativeName": "Potis Munitsip'alit'et'i",
+      "code": "GE-SZ-828311",
+      "countryId": 614540,
+      "countryCode": "GE",
+      "stateCode": "GE-SZ",
+      "latitude": 42.1365,
+      "longitude": 41.68554
     },
     {
       "id": 612051,
@@ -121,8 +121,8 @@
       "countryId": 614540,
       "countryCode": "GE",
       "stateCode": "GE-SZ",
-      "latitude": 42.56667,
-      "longitude": 42.2
+      "latitude": 42.61235,
+      "longitude": 42.21553
     },
     {
       "id": 7668970,
@@ -143,8 +143,8 @@
       "countryId": 614540,
       "countryCode": "GE",
       "stateCode": "GE-SZ",
-      "latitude": 42.66667,
-      "longitude": 42.06667
+      "latitude": 42.72393,
+      "longitude": 42.06058
     },
     {
       "id": 610823,
@@ -154,8 +154,8 @@
       "countryId": 614540,
       "countryCode": "GE",
       "stateCode": "GE-SZ",
-      "latitude": 42.46743,
-      "longitude": 41.7983
+      "latitude": 42.46518,
+      "longitude": 41.80254
     }
   ]
 }

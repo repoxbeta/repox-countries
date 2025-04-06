@@ -620,17 +620,6 @@
       "longitude": 23.22162
     },
     {
-      "id": 8334839,
-      "name": "Municipiul  Vulcan",
-      "nativeName": "Municipiul  Vulcan",
-      "code": "RO-HD-8334839",
-      "countryId": 798549,
-      "countryCode": "RO",
-      "stateCode": "RO-HD",
-      "latitude": 45.37985,
-      "longitude": 23.2748
-    },
-    {
       "id": 8334713,
       "name": "Municipiul Brad",
       "nativeName": "Municipiul Brad",
@@ -684,6 +673,17 @@
       "stateCode": "RO-HD",
       "latitude": 45.41963,
       "longitude": 23.35692
+    },
+    {
+      "id": 8334839,
+      "name": "Municipiul Vulcan",
+      "nativeName": "Municipiul Vulcan",
+      "code": "RO-HD-8334839",
+      "countryId": 798549,
+      "countryCode": "RO",
+      "stateCode": "RO-HD",
+      "latitude": 45.37985,
+      "longitude": 23.2748
     },
     {
       "id": 686306,

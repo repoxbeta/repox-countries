@@ -114,17 +114,6 @@
       "longitude": 57.69861
     },
     {
-      "id": 1106674,
-      "name": "Belvédère",
-      "nativeName": "Belvédère",
-      "code": "MU-FL-1106674",
-      "countryId": 934292,
-      "countryCode": "MU",
-      "stateCode": "MU-FL",
-      "latitude": -20.17847,
-      "longitude": 57.6596
-    },
-    {
       "id": 934729,
       "name": "Belvédère",
       "nativeName": "Belvédère",
@@ -134,6 +123,17 @@
       "stateCode": "MU-FL",
       "latitude": -20.19611,
       "longitude": 57.66389
+    },
+    {
+      "id": 1106674,
+      "name": "Belvédère",
+      "nativeName": "Belvédère",
+      "code": "MU-FL-1106674",
+      "countryId": 934292,
+      "countryCode": "MU",
+      "stateCode": "MU-FL",
+      "latitude": -20.17847,
+      "longitude": 57.6596
     },
     {
       "id": 934703,

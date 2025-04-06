@@ -1071,17 +1071,6 @@
       "longitude": 167.53699
     },
     {
-      "id": 11125915,
-      "name": "Sisiol",
-      "nativeName": "Sisiol",
-      "code": "VU-TOB-11125915",
-      "countryId": 2134431,
-      "countryCode": "VU",
-      "stateCode": "VU-TOB",
-      "latitude": -14.29267,
-      "longitude": 167.42615
-    },
-    {
       "id": 12002394,
       "name": "Sisiol",
       "nativeName": "Sisiol",
@@ -1091,6 +1080,17 @@
       "stateCode": "VU-TOB",
       "latitude": -13.89163,
       "longitude": 167.54597
+    },
+    {
+      "id": 11125915,
+      "name": "Sisiol",
+      "nativeName": "Sisiol",
+      "code": "VU-TOB-11125915",
+      "countryId": 2134431,
+      "countryCode": "VU",
+      "stateCode": "VU-TOB",
+      "latitude": -14.29267,
+      "longitude": 167.42615
     },
     {
       "id": 12097696,

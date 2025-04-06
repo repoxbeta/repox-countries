@@ -542,37 +542,26 @@
       "longitude": 14.49167
     },
     {
-      "id": 8299747,
-      "name": "Saint John",
-      "nativeName": "Saint John",
-      "code": "MT-49",
-      "internalCode": "49",
+      "id": 8299749,
+      "name": "Saint Lawrence",
+      "nativeName": "Saint Lawrence",
+      "code": "MT-50",
+      "internalCode": "50",
       "countryId": 2562770,
       "countryCode": "MT",
-      "latitude": 35.90889,
-      "longitude": 14.475
+      "latitude": 36.04861,
+      "longitude": 14.19778
     },
     {
-      "id": 8299748,
-      "name": "Saint Julian",
-      "nativeName": "Saint Julian's",
-      "code": "MT-48",
-      "internalCode": "48",
+      "id": 8299752,
+      "name": "Saint Venera",
+      "nativeName": "Saint Venera",
+      "code": "MT-54",
+      "internalCode": "54",
       "countryId": 2562770,
       "countryCode": "MT",
-      "latitude": 35.91722,
-      "longitude": 14.48944
-    },
-    {
-      "id": 8299751,
-      "name": "Saint Paul’s Bay",
-      "nativeName": "Saint Paul’s Bay",
-      "code": "MT-51",
-      "internalCode": "51",
-      "countryId": 2562770,
-      "countryCode": "MT",
-      "latitude": 35.9375,
-      "longitude": 14.39861
+      "latitude": 35.89028,
+      "longitude": 14.47778
     },
     {
       "id": 8299753,
@@ -597,15 +586,26 @@
       "longitude": 14.5196
     },
     {
-      "id": 8299749,
-      "name": "St Lawrence",
-      "nativeName": "Saint Lawrence",
-      "code": "MT-50",
-      "internalCode": "50",
+      "id": 8299747,
+      "name": "St. John",
+      "nativeName": "Saint John",
+      "code": "MT-49",
+      "internalCode": "49",
       "countryId": 2562770,
       "countryCode": "MT",
-      "latitude": 36.04861,
-      "longitude": 14.19778
+      "latitude": 35.90889,
+      "longitude": 14.475
+    },
+    {
+      "id": 8299748,
+      "name": "St. Julian",
+      "nativeName": "Saint Julian's",
+      "code": "MT-48",
+      "internalCode": "48",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "latitude": 35.91722,
+      "longitude": 14.48944
     },
     {
       "id": 8299750,
@@ -619,15 +619,15 @@
       "longitude": 14.50639
     },
     {
-      "id": 8299752,
-      "name": "St. Venera",
-      "nativeName": "Saint Venera",
-      "code": "MT-54",
-      "internalCode": "54",
+      "id": 8299751,
+      "name": "St. Paul’s Bay",
+      "nativeName": "Saint Paul’s Bay",
+      "code": "MT-51",
+      "internalCode": "51",
       "countryId": 2562770,
       "countryCode": "MT",
-      "latitude": 35.89028,
-      "longitude": 14.47778
+      "latitude": 35.9375,
+      "longitude": 14.39861
     },
     {
       "id": 8299740,

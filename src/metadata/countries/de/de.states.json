@@ -37,7 +37,7 @@
     },
     {
       "id": 2944387,
-      "name": "City state Bremen",
+      "name": "Bremen",
       "nativeName": "Bremen",
       "code": "DE-HB",
       "internalCode": "HB",
@@ -67,6 +67,17 @@
       "countryCode": "DE",
       "latitude": 50.55,
       "longitude": 9
+    },
+    {
+      "id": 2950157,
+      "name": "Land Berlin",
+      "nativeName": "Land Berlin",
+      "code": "DE-BE",
+      "internalCode": "BE",
+      "countryId": 2921044,
+      "countryCode": "DE",
+      "latitude": 52.5,
+      "longitude": 13.41667
     },
     {
       "id": 2862926,
@@ -155,17 +166,6 @@
       "countryCode": "DE",
       "latitude": 54.2,
       "longitude": 9.75
-    },
-    {
-      "id": 2950157,
-      "name": "State of Berlin",
-      "nativeName": "Land Berlin",
-      "code": "DE-BE",
-      "internalCode": "BE",
-      "countryId": 2921044,
-      "countryCode": "DE",
-      "latitude": 52.5,
-      "longitude": 13.41667
     },
     {
       "id": 2822542,

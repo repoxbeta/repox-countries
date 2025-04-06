@@ -5,7 +5,7 @@
   "cities": [
     {
       "id": 11875535,
-      "name": "Agar Malwa District",
+      "name": "Agar Malwa",
       "nativeName": "Agar Malwa",
       "code": "IN-MP-11875535",
       "countryId": 1269750,
@@ -38,7 +38,7 @@
     },
     {
       "id": 8740785,
-      "name": "Ashoknagar",
+      "name": "Ashoknagar District",
       "nativeName": "Ashoknagar",
       "code": "IN-MP-8740785",
       "countryId": 1269750,
@@ -46,17 +46,6 @@
       "stateCode": "IN-MP",
       "latitude": 24.58,
       "longitude": 77.73
-    },
-    {
-      "id": 1277662,
-      "name": "Balaghat",
-      "nativeName": "Bālāghāt",
-      "code": "IN-MP-1277662",
-      "countryId": 1269750,
-      "countryCode": "IN",
-      "stateCode": "IN-MP",
-      "latitude": 21.96667,
-      "longitude": 80.33333
     },
     {
       "id": 8740088,
@@ -71,7 +60,7 @@
     },
     {
       "id": 1276391,
-      "name": "Betul",
+      "name": "Betūl District",
       "nativeName": "Betūl",
       "code": "IN-MP-1276391",
       "countryId": 1269750,
@@ -93,7 +82,7 @@
     },
     {
       "id": 1275842,
-      "name": "Bhopal District",
+      "name": "Bhopal",
       "nativeName": "Bhopāl",
       "code": "IN-MP-1275842",
       "countryId": 1269750,
@@ -112,6 +101,17 @@
       "stateCode": "IN-MP",
       "latitude": 21.31,
       "longitude": 76.23
+    },
+    {
+      "id": 1277662,
+      "name": "Bālāghāt District",
+      "nativeName": "Bālāghāt",
+      "code": "IN-MP-1277662",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-MP",
+      "latitude": 21.96667,
+      "longitude": 80.33333
     },
     {
       "id": 1274339,
@@ -236,7 +236,7 @@
     },
     {
       "id": 1269744,
-      "name": "Indore",
+      "name": "Indore district",
       "nativeName": "Indore",
       "code": "IN-MP-1269744",
       "countryId": 1269750,
@@ -247,7 +247,7 @@
     },
     {
       "id": 1269634,
-      "name": "Jabalpur district",
+      "name": "Jabalpur",
       "nativeName": "Jabalpur",
       "code": "IN-MP-1269634",
       "countryId": 1269750,
@@ -313,7 +313,7 @@
     },
     {
       "id": 1263853,
-      "name": "Mandla district",
+      "name": "Mandla",
       "nativeName": "Mandla",
       "code": "IN-MP-1263853",
       "countryId": 1269750,
@@ -346,7 +346,7 @@
     },
     {
       "id": 8739995,
-      "name": "Neemuch",
+      "name": "Neemuch District",
       "nativeName": "Neemuch",
       "code": "IN-MP-8739995",
       "countryId": 1269750,
@@ -477,6 +477,17 @@
       "longitude": 81.5
     },
     {
+      "id": 1256694,
+      "name": "Shajapur",
+      "nativeName": "Shājāpur",
+      "code": "IN-MP-1256694",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-MP",
+      "latitude": 23.5,
+      "longitude": 76.25
+    },
+    {
       "id": 7627240,
       "name": "Sheopur",
       "nativeName": "Sheopur",
@@ -489,7 +500,7 @@
     },
     {
       "id": 1256452,
-      "name": "Shivpuri",
+      "name": "Shivpuri District",
       "nativeName": "Shivpurī",
       "code": "IN-MP-1256452",
       "countryId": 1269750,
@@ -497,17 +508,6 @@
       "stateCode": "IN-MP",
       "latitude": 25.5,
       "longitude": 78
-    },
-    {
-      "id": 1256694,
-      "name": "Shājāpur District",
-      "nativeName": "Shājāpur",
-      "code": "IN-MP-1256694",
-      "countryId": 1269750,
-      "countryCode": "IN",
-      "stateCode": "IN-MP",
-      "latitude": 23.5,
-      "longitude": 76.25
     },
     {
       "id": 1256370,
@@ -544,7 +544,7 @@
     },
     {
       "id": 1253915,
-      "name": "Ujjain",
+      "name": "Ujjain district",
       "nativeName": "Ujjain",
       "code": "IN-MP-1253915",
       "countryId": 1269750,
@@ -555,7 +555,7 @@
     },
     {
       "id": 9072769,
-      "name": "Umaria",
+      "name": "Umaria District",
       "nativeName": "Umaria District",
       "code": "IN-MP-9072769",
       "countryId": 1269750,

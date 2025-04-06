@@ -37,6 +37,17 @@
       "longitude": 24.75
     },
     {
+      "id": 593120,
+      "name": "Vilnius",
+      "nativeName": "Vilnius District Municipality",
+      "code": "LT-VL-593120",
+      "countryId": 597427,
+      "countryCode": "LT",
+      "stateCode": "LT-VL",
+      "latitude": 54.7476,
+      "longitude": 25.5025
+    },
+    {
       "id": 593118,
       "name": "Vilnius City Municipality",
       "nativeName": "Vilnius",
@@ -46,17 +57,6 @@
       "stateCode": "LT-VL",
       "latitude": 54.68333,
       "longitude": 25.31667
-    },
-    {
-      "id": 593120,
-      "name": "Vilnius District Municipality",
-      "nativeName": "Vilnius District Municipality",
-      "code": "LT-VL-593120",
-      "countryId": 597427,
-      "countryCode": "LT",
-      "stateCode": "LT-VL",
-      "latitude": 54.7476,
-      "longitude": 25.5025
     },
     {
       "id": 864520,
