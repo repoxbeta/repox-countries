@@ -11,8 +11,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-CHE",
-      "latitude": 53.33333,
-      "longitude": 59.33333
+      "latitude": 53.27263,
+      "longitude": 59.31083
     },
     {
       "id": 1511424,
@@ -33,8 +33,19 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-CHE",
-      "latitude": 55,
-      "longitude": 57.5
+      "latitude": 55.02306,
+      "longitude": 57.56186
+    },
+    {
+      "id": 13197482,
+      "name": "Ashinskoye Gorodskoye Poseleniye",
+      "nativeName": "Ashinskoye Gorodskoye Poseleniye",
+      "code": "RU-CHE-13197482",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CHE",
+      "latitude": 54.98814,
+      "longitude": 57.26211
     },
     {
       "id": 1508812,
@@ -46,6 +57,17 @@
       "stateCode": "RU-CHE",
       "latitude": 52.5,
       "longitude": 60.41667
+    },
+    {
+      "id": 13197486,
+      "name": "Chebarkul'skiy Gorodskoy Okrug",
+      "nativeName": "Chebarkul'skiy Gorodskoy Okrug",
+      "code": "RU-CHE-13197486",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CHE",
+      "latitude": 54.96966,
+      "longitude": 60.40379
     },
     {
       "id": 1508346,
@@ -70,6 +92,17 @@
       "longitude": 60.34977
     },
     {
+      "id": 1535932,
+      "name": "Chelyabinskiy Gorodskoy Okrug",
+      "nativeName": "Chelyabinskiy Gorodskoy Okrug",
+      "code": "RU-CHE-1535932",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CHE",
+      "latitude": 55.16816,
+      "longitude": 61.42824
+    },
+    {
       "id": 1507924,
       "name": "Chesmensky District",
       "nativeName": "Chesmenskiy Rayon",
@@ -77,118 +110,19 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-CHE",
-      "latitude": 53.66667,
-      "longitude": 60.5
-    },
-    {
-      "id": 1535932,
-      "name": "Gorod Chelyabinsk",
-      "nativeName": "Gorod Chelyabinsk",
-      "code": "RU-CHE-1535932",
-      "countryId": 2017370,
-      "countryCode": "RU",
-      "stateCode": "RU-CHE",
-      "latitude": 55.16553,
-      "longitude": 61.41673
+      "latitude": 53.7661,
+      "longitude": 60.5965
     },
     {
       "id": 1535935,
-      "name": "Gorod Karabash",
-      "nativeName": "Gorod Karabash",
+      "name": "Karabashskiy Gorodskoy Okrug",
+      "nativeName": "Karabashskiy Gorodskoy Okrug",
       "code": "RU-CHE-1535935",
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-CHE",
-      "latitude": 55.5,
-      "longitude": 60.16667
-    },
-    {
-      "id": 1535936,
-      "name": "Gorod Kopeysk",
-      "nativeName": "Gorod Kopeysk",
-      "code": "RU-CHE-1535936",
-      "countryId": 2017370,
-      "countryCode": "RU",
-      "stateCode": "RU-CHE",
-      "latitude": 55.08333,
-      "longitude": 61.58333
-    },
-    {
-      "id": 1535938,
-      "name": "Gorod Kyshtym",
-      "nativeName": "Gorod Kyshtym",
-      "code": "RU-CHE-1535938",
-      "countryId": 2017370,
-      "countryCode": "RU",
-      "stateCode": "RU-CHE",
-      "latitude": 55.66667,
-      "longitude": 60.5
-    },
-    {
-      "id": 825030,
-      "name": "Gorod Magnitogorsk",
-      "nativeName": "Gorod Magnitogorsk",
-      "code": "RU-CHE-825030",
-      "countryId": 2017370,
-      "countryCode": "RU",
-      "stateCode": "RU-CHE",
-      "latitude": 53.41667,
-      "longitude": 59.08333
-    },
-    {
-      "id": 1535939,
-      "name": "Gorod Miass",
-      "nativeName": "Gorod Miass",
-      "code": "RU-CHE-1535939",
-      "countryId": 2017370,
-      "countryCode": "RU",
-      "stateCode": "RU-CHE",
-      "latitude": 55.08333,
-      "longitude": 60
-    },
-    {
-      "id": 825031,
-      "name": "Gorod Ust’-Katav",
-      "nativeName": "Gorod Ust’-Katav",
-      "code": "RU-CHE-825031",
-      "countryId": 2017370,
-      "countryCode": "RU",
-      "stateCode": "RU-CHE",
-      "latitude": 55,
-      "longitude": 58.25
-    },
-    {
-      "id": 1535933,
-      "name": "Gorod Verkhniy Ufaley",
-      "nativeName": "Gorod Verkhniy Ufaley",
-      "code": "RU-CHE-1535933",
-      "countryId": 2017370,
-      "countryCode": "RU",
-      "stateCode": "RU-CHE",
-      "latitude": 56,
-      "longitude": 60.16667
-    },
-    {
-      "id": 1535941,
-      "name": "Gorod Yuzhnoural’sk",
-      "nativeName": "Gorod Yuzhnoural’sk",
-      "code": "RU-CHE-1535941",
-      "countryId": 2017370,
-      "countryCode": "RU",
-      "stateCode": "RU-CHE",
-      "latitude": 54.46667,
-      "longitude": 61.25
-    },
-    {
-      "id": 825029,
-      "name": "Gorod Zlatoust",
-      "nativeName": "Gorod Zlatoust",
-      "code": "RU-CHE-825029",
-      "countryId": 2017370,
-      "countryCode": "RU",
-      "stateCode": "RU-CHE",
-      "latitude": 55,
-      "longitude": 59.5
+      "latitude": 55.54252,
+      "longitude": 60.18313
     },
     {
       "id": 1504318,
@@ -198,8 +132,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-CHE",
-      "latitude": 53,
-      "longitude": 60.5
+      "latitude": 53.07282,
+      "longitude": 60.38953
     },
     {
       "id": 1504250,
@@ -209,8 +143,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-CHE",
-      "latitude": 56.08333,
-      "longitude": 61
+      "latitude": 56.0233,
+      "longitude": 60.98108
     },
     {
       "id": 551793,
@@ -220,8 +154,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-CHE",
-      "latitude": 54.75,
-      "longitude": 58.25
+      "latitude": 54.67463,
+      "longitude": 58.17715
     },
     {
       "id": 547854,
@@ -231,8 +165,19 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-CHE",
-      "latitude": 52.75,
-      "longitude": 59.41667
+      "latitude": 52.7271,
+      "longitude": 59.24904
+    },
+    {
+      "id": 1535936,
+      "name": "Kopeyskiy Gorodskoy Okrug",
+      "nativeName": "Kopeyskiy Gorodskoy Okrug",
+      "code": "RU-CHE-1535936",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CHE",
+      "latitude": 55.06833,
+      "longitude": 61.58101
     },
     {
       "id": 1535937,
@@ -253,8 +198,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-CHE",
-      "latitude": 55.41667,
-      "longitude": 62
+      "latitude": 55.41258,
+      "longitude": 61.99455
     },
     {
       "id": 1501399,
@@ -264,8 +209,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-CHE",
-      "latitude": 55.83333,
-      "longitude": 61.66667
+      "latitude": 55.82801,
+      "longitude": 61.67625
     },
     {
       "id": 538327,
@@ -275,8 +220,52 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-CHE",
-      "latitude": 55.41667,
-      "longitude": 59.58333
+      "latitude": 55.40501,
+      "longitude": 59.5761
+    },
+    {
+      "id": 1535938,
+      "name": "Kyshtymskiy Gorodskoy Okrug",
+      "nativeName": "Kyshtymskiy Gorodskoy Okrug",
+      "code": "RU-CHE-1535938",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CHE",
+      "latitude": 55.72243,
+      "longitude": 60.42598
+    },
+    {
+      "id": 13197481,
+      "name": "Lokomotivnyy Gorodskoy Okrug",
+      "nativeName": "Lokomotivnyy Gorodskoy Okrug",
+      "code": "RU-CHE-13197481",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CHE",
+      "latitude": 53.04095,
+      "longitude": 60.60293
+    },
+    {
+      "id": 825030,
+      "name": "Magnitogorskiy Gorodskoy Okrug",
+      "nativeName": "Magnitogorskiy Gorodskoy Okrug",
+      "code": "RU-CHE-825030",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CHE",
+      "latitude": 53.40619,
+      "longitude": 59.05798
+    },
+    {
+      "id": 1535939,
+      "name": "Miasskiy Gorodskoy Okrug",
+      "nativeName": "Miasskiy Gorodskoy Okrug",
+      "code": "RU-CHE-1535939",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CHE",
+      "latitude": 55.06781,
+      "longitude": 60.05713
     },
     {
       "id": 523633,
@@ -286,8 +275,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-CHE",
-      "latitude": 53.58333,
-      "longitude": 59.75
+      "latitude": 53.57602,
+      "longitude": 59.80361
     },
     {
       "id": 516613,
@@ -297,8 +286,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-CHE",
-      "latitude": 56,
-      "longitude": 59.58333
+      "latitude": 55.95316,
+      "longitude": 59.55779
     },
     {
       "id": 1496266,
@@ -308,8 +297,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-CHE",
-      "latitude": 54.41667,
-      "longitude": 62.75
+      "latitude": 54.3776,
+      "longitude": 62.66423
     },
     {
       "id": 12625360,
@@ -341,8 +330,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-CHE",
-      "latitude": 55,
-      "longitude": 59
+      "latitude": 54.9735,
+      "longitude": 59.02318
     },
     {
       "id": 12625361,
@@ -356,6 +345,17 @@
       "longitude": 60.73537
     },
     {
+      "id": 13197483,
+      "name": "Snezhinskiy Gorodskoy Okrug",
+      "nativeName": "Snezhinskiy Gorodskoy Okrug",
+      "code": "RU-CHE-13197483",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CHE",
+      "latitude": 56.10327,
+      "longitude": 60.68127
+    },
+    {
       "id": 1491282,
       "name": "Sosnovsky District",
       "nativeName": "Sosnovskiy Rayon",
@@ -363,8 +363,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-CHE",
-      "latitude": 55.25,
-      "longitude": 61.16667
+      "latitude": 55.25349,
+      "longitude": 61.17844
     },
     {
       "id": 12625111,
@@ -378,6 +378,17 @@
       "longitude": 58.44691
     },
     {
+      "id": 13197487,
+      "name": "Troitskiy Gorodskoy Okrug",
+      "nativeName": "Troitskiy Gorodskoy Okrug",
+      "code": "RU-CHE-13197487",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CHE",
+      "latitude": 54.07926,
+      "longitude": 61.57183
+    },
+    {
       "id": 1489213,
       "name": "Troitsky District",
       "nativeName": "Troitskiy Rayon",
@@ -385,8 +396,30 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-CHE",
-      "latitude": 54.16667,
-      "longitude": 61.5
+      "latitude": 54.19669,
+      "longitude": 61.33838
+    },
+    {
+      "id": 13197485,
+      "name": "Trëkhgornyy Gorodskoy Okrug",
+      "nativeName": "Trëkhgornyy Gorodskoy Okrug",
+      "code": "RU-CHE-13197485",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CHE",
+      "latitude": 54.80395,
+      "longitude": 58.53955
+    },
+    {
+      "id": 825031,
+      "name": "Ust'-Katavskiy Gorodskoy Okrug",
+      "nativeName": "Ust'-Katavskiy Gorodskoy Okrug",
+      "code": "RU-CHE-825031",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CHE",
+      "latitude": 54.99921,
+      "longitude": 58.28312
     },
     {
       "id": 1487930,
@@ -396,8 +429,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-CHE",
-      "latitude": 54.5,
-      "longitude": 61.5
+      "latitude": 54.49394,
+      "longitude": 61.52418
     },
     {
       "id": 1487907,
@@ -407,7 +440,7 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-CHE",
-      "latitude": 54.33333,
+      "latitude": 54.36128,
       "longitude": 60.08333
     },
     {
@@ -418,8 +451,19 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-CHE",
-      "latitude": 53.25,
-      "longitude": 61.08333
+      "latitude": 53.20251,
+      "longitude": 61.17586
+    },
+    {
+      "id": 1535933,
+      "name": "Verkhneufaleyskiy Gorodskoy Okrug",
+      "nativeName": "Verkhneufaleyskiy Gorodskoy Okrug",
+      "code": "RU-CHE-1535933",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CHE",
+      "latitude": 55.99681,
+      "longitude": 60.16134
     },
     {
       "id": 475462,
@@ -429,8 +473,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-CHE",
-      "latitude": 53.91667,
-      "longitude": 59.33333
+      "latitude": 53.99767,
+      "longitude": 59.45233
     },
     {
       "id": 12625362,
@@ -462,8 +506,19 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-CHE",
-      "latitude": 54.75,
-      "longitude": 61.75
+      "latitude": 54.80861,
+      "longitude": 61.51346
+    },
+    {
+      "id": 1535941,
+      "name": "Yuzhnoural'skiy Gorodskoy Okrug",
+      "nativeName": "Yuzhnoural'skiy Gorodskoy Okrug",
+      "code": "RU-CHE-1535941",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CHE",
+      "latitude": 54.46155,
+      "longitude": 61.25384
     },
     {
       "id": 12625112,
@@ -475,6 +530,17 @@
       "stateCode": "RU-CHE",
       "latitude": 54.43254,
       "longitude": 61.25552
+    },
+    {
+      "id": 825029,
+      "name": "Zlatoustovskiy Gorodskoy Okrug",
+      "nativeName": "Zlatoustovskiy Gorodskoy Okrug",
+      "code": "RU-CHE-825029",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "stateCode": "RU-CHE",
+      "latitude": 54.99835,
+      "longitude": 59.50662
     }
   ]
 }

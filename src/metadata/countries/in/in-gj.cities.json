@@ -60,7 +60,7 @@
     },
     {
       "id": 1276101,
-      "name": "Bharūch District",
+      "name": "Bharuch",
       "nativeName": "Bharūch",
       "code": "IN-GJ-1276101",
       "countryId": 1269750,
@@ -136,17 +136,6 @@
       "longitude": 74
     },
     {
-      "id": 1271716,
-      "name": "Gandhinagar",
-      "nativeName": "Gāndhīnagar",
-      "code": "IN-GJ-1271716",
-      "countryId": 1269750,
-      "countryCode": "IN",
-      "stateCode": "IN-GJ",
-      "latitude": 23.21484,
-      "longitude": 72.64984
-    },
-    {
       "id": 11875531,
       "name": "Gir Somnath",
       "nativeName": "Gir Somnath",
@@ -156,6 +145,17 @@
       "stateCode": "IN-GJ",
       "latitude": 20.91287,
       "longitude": 70.3671
+    },
+    {
+      "id": 1271716,
+      "name": "Gāndhīnagar District",
+      "nativeName": "Gāndhīnagar",
+      "code": "IN-GJ-1271716",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-GJ",
+      "latitude": 23.21484,
+      "longitude": 72.64984
     },
     {
       "id": 1269318,
@@ -170,7 +170,7 @@
     },
     {
       "id": 1268774,
-      "name": "Jūnāgadh District",
+      "name": "Junagadh",
       "nativeName": "Jūnāgadh",
       "code": "IN-GJ-1268774",
       "countryId": 1269750,
@@ -181,7 +181,7 @@
     },
     {
       "id": 1266810,
-      "name": "Kheda",
+      "name": "Kheda district",
       "nativeName": "Kheda",
       "code": "IN-GJ-1266810",
       "countryId": 1269750,
@@ -202,17 +202,6 @@
       "longitude": 70
     },
     {
-      "id": 1264390,
-      "name": "Mahesana",
-      "nativeName": "Mahesāna",
-      "code": "IN-GJ-1264390",
-      "countryId": 1269750,
-      "countryCode": "IN",
-      "stateCode": "IN-GJ",
-      "latitude": 23.66667,
-      "longitude": 72.5
-    },
-    {
       "id": 11875528,
       "name": "Mahisagar",
       "nativeName": "Mahisagar",
@@ -222,6 +211,17 @@
       "stateCode": "IN-GJ",
       "latitude": 23.13057,
       "longitude": 73.60848
+    },
+    {
+      "id": 1264390,
+      "name": "Mehsāna District",
+      "nativeName": "Mahesāna",
+      "code": "IN-GJ-1264390",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-GJ",
+      "latitude": 23.66667,
+      "longitude": 72.5
     },
     {
       "id": 11875530,
@@ -313,7 +313,7 @@
     },
     {
       "id": 1255365,
-      "name": "Surat",
+      "name": "Surat District",
       "nativeName": "Sūrat",
       "code": "IN-GJ-1255365",
       "countryId": 1269750,
@@ -324,7 +324,7 @@
     },
     {
       "id": 1255350,
-      "name": "Surendranagar",
+      "name": "Surendranagar District",
       "nativeName": "Surendranagar",
       "code": "IN-GJ-1255350",
       "countryId": 1269750,

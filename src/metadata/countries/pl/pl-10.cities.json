@@ -81,6 +81,17 @@
       "longitude": 19.02749
     },
     {
+      "id": 7531006,
+      "name": "Piotrków County",
+      "nativeName": "Powiat piotrkowski",
+      "code": "PL-10-7531006",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-10",
+      "latitude": 51.37816,
+      "longitude": 19.7396
+    },
+    {
       "id": 7530745,
       "name": "Piotrków Trybunalski",
       "nativeName": "Piotrków Trybunalski",
@@ -103,19 +114,8 @@
       "longitude": 18.92132
     },
     {
-      "id": 7531006,
-      "name": "Powiat piotrkowski",
-      "nativeName": "Powiat piotrkowski",
-      "code": "PL-10-7531006",
-      "countryId": 798544,
-      "countryCode": "PL",
-      "stateCode": "PL-10",
-      "latitude": 51.37816,
-      "longitude": 19.7396
-    },
-    {
       "id": 7531008,
-      "name": "Radomsko County",
+      "name": "Powiat radomszczański",
       "nativeName": "Powiat radomszczański",
       "code": "PL-10-7531008",
       "countryId": 798544,

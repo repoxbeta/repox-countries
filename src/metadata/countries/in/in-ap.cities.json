@@ -71,7 +71,7 @@
     },
     {
       "id": 1272123,
-      "name": "East Godavari District",
+      "name": "East Godavari",
       "nativeName": "East Godāvari",
       "code": "IN-AP-1272123",
       "countryId": 1269750,
@@ -114,17 +114,6 @@
       "longitude": 82.19004
     },
     {
-      "id": 1265869,
-      "name": "Kistna District",
-      "nativeName": "Krishna",
-      "code": "IN-AP-1265869",
-      "countryId": 1269750,
-      "countryCode": "IN",
-      "stateCode": "IN-AP",
-      "latitude": 16.30312,
-      "longitude": 80.99566
-    },
-    {
       "id": 12680249,
       "name": "Konaseema",
       "nativeName": "Konaseema",
@@ -134,6 +123,17 @@
       "stateCode": "IN-AP",
       "latitude": 16.6422,
       "longitude": 82.08271
+    },
+    {
+      "id": 1265869,
+      "name": "Krishna",
+      "nativeName": "Krishna",
+      "code": "IN-AP-1265869",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-AP",
+      "latitude": 16.30312,
+      "longitude": 80.99566
     },
     {
       "id": 1265492,
@@ -169,17 +169,6 @@
       "longitude": 78.41334
     },
     {
-      "id": 1261530,
-      "name": "Nellore District",
-      "nativeName": "Nellore",
-      "code": "IN-AP-1261530",
-      "countryId": 1269750,
-      "countryCode": "IN",
-      "stateCode": "IN-AP",
-      "latitude": 14.74552,
-      "longitude": 79.70529
-    },
-    {
       "id": 12680257,
       "name": "Palnadu",
       "nativeName": "Palnadu",
@@ -203,7 +192,7 @@
     },
     {
       "id": 1259346,
-      "name": "Prakasam district",
+      "name": "Prakasam",
       "nativeName": "Prakasam",
       "code": "IN-AP-1259346",
       "countryId": 1269750,
@@ -211,6 +200,17 @@
       "stateCode": "IN-AP",
       "latitude": 15.5,
       "longitude": 79.5
+    },
+    {
+      "id": 1261530,
+      "name": "Spsr Nellore",
+      "nativeName": "Nellore",
+      "code": "IN-AP-1261530",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-AP",
+      "latitude": 14.74552,
+      "longitude": 79.70529
     },
     {
       "id": 12680263,
@@ -225,7 +225,7 @@
     },
     {
       "id": 1255649,
-      "name": "Srikakulam",
+      "name": "Srikakulam district",
       "nativeName": "Srīkākulam",
       "code": "IN-AP-1255649",
       "countryId": 1269750,
@@ -258,7 +258,7 @@
     },
     {
       "id": 7626859,
-      "name": "Vizianagaram District",
+      "name": "Vizianagaram",
       "nativeName": "Vizianagaram District",
       "code": "IN-AP-7626859",
       "countryId": 1269750,

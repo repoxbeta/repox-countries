@@ -16,7 +16,7 @@
     },
     {
       "id": 1180802,
-      "name": "Dadu District",
+      "name": "Dadu",
       "nativeName": "Dadu",
       "code": "PK-SD-1180802",
       "countryId": 1168579,
@@ -49,7 +49,7 @@
     },
     {
       "id": 1176733,
-      "name": "Hyderabad District",
+      "name": "Hyderabad",
       "nativeName": "Hyderabad District",
       "code": "PK-SD-1176733",
       "countryId": 1168579,
@@ -59,8 +59,19 @@
       "longitude": 68.48421
     },
     {
+      "id": 1176514,
+      "name": "Jacobabad",
+      "nativeName": "Jacobabad District",
+      "code": "PK-SD-1176514",
+      "countryId": 1168579,
+      "countryCode": "PK",
+      "stateCode": "PK-SD",
+      "latitude": 28.2221,
+      "longitude": 68.4902
+    },
+    {
       "id": 7419156,
-      "name": "Jamshoro",
+      "name": "Jamshoro District",
       "nativeName": "Jāmshoro District",
       "code": "PK-SD-7419156",
       "countryId": 1168579,
@@ -115,7 +126,7 @@
     },
     {
       "id": 1174349,
-      "name": "Khairpur District",
+      "name": "Khairpur",
       "nativeName": "Khairpur District",
       "code": "PK-SD-1174349",
       "countryId": 1168579,
@@ -181,7 +192,7 @@
     },
     {
       "id": 7352189,
-      "name": "Naushahro Feroze District",
+      "name": "Naushahro Firoz District",
       "nativeName": "Naushahro Firoz",
       "code": "PK-SD-7352189",
       "countryId": 1168579,
@@ -214,7 +225,7 @@
     },
     {
       "id": 1166162,
-      "name": "Sanghar",
+      "name": "Sanghar District",
       "nativeName": "Sanghar",
       "code": "PK-SD-1166162",
       "countryId": 1168579,
@@ -225,7 +236,7 @@
     },
     {
       "id": 1165106,
-      "name": "Shikarpur",
+      "name": "Shikarpur District",
       "nativeName": "Shikarpur District",
       "code": "PK-SD-1165106",
       "countryId": 1168579,
@@ -247,7 +258,7 @@
     },
     {
       "id": 1164407,
-      "name": "Sukkur District",
+      "name": "Sukkur",
       "nativeName": "Sukkur District",
       "code": "PK-SD-1164407",
       "countryId": 1168579,
@@ -291,7 +302,7 @@
     },
     {
       "id": 1163570,
-      "name": "Thatta",
+      "name": "Thatta District",
       "nativeName": "Thatta District",
       "code": "PK-SD-1163570",
       "countryId": 1168579,
@@ -310,17 +321,6 @@
       "stateCode": "PK-SD",
       "latitude": 25.37,
       "longitude": 69.73
-    },
-    {
-      "id": 1176514,
-      "name": "Upper Sind Frontier District",
-      "nativeName": "Jacobabad District",
-      "code": "PK-SD-1176514",
-      "countryId": 1168579,
-      "countryCode": "PK",
-      "stateCode": "PK-SD",
-      "latitude": 28.2221,
-      "longitude": 68.4902
     }
   ]
 }

@@ -444,17 +444,6 @@
       "longitude": 28.38308
     },
     {
-      "id": 617760,
-      "name": "Nicolaevca",
-      "nativeName": "Nicolaevca",
-      "code": "MD-FL-617760",
-      "countryId": 617790,
-      "countryCode": "MD",
-      "stateCode": "MD-FL",
-      "latitude": 47.76129,
-      "longitude": 28.29279
-    },
-    {
       "id": 831067,
       "name": "Nicolaevca",
       "nativeName": "Nicolaevca",
@@ -464,6 +453,17 @@
       "stateCode": "MD-FL",
       "latitude": 47.91859,
       "longitude": 28.52855
+    },
+    {
+      "id": 617760,
+      "name": "Nicolaevca",
+      "nativeName": "Nicolaevca",
+      "code": "MD-FL-617760",
+      "countryId": 617790,
+      "countryCode": "MD",
+      "stateCode": "MD-FL",
+      "latitude": 47.76129,
+      "longitude": 28.29279
     },
     {
       "id": 617765,

@@ -258,7 +258,7 @@
     },
     {
       "id": 2137030,
-      "name": "Farealapa",
+      "name": "Faréalapa",
       "nativeName": "Farealapa",
       "code": "VU-SEE-2137030",
       "countryId": 2134431,
@@ -412,7 +412,7 @@
     },
     {
       "id": 2136620,
-      "name": "Laosaké",
+      "name": "Laosake",
       "nativeName": "Laosake",
       "code": "VU-SEE-2136620",
       "countryId": 2134431,
@@ -576,17 +576,6 @@
       "longitude": 168.43045
     },
     {
-      "id": 2136120,
-      "name": "Malaliou",
-      "nativeName": "Malaliu",
-      "code": "VU-SEE-2136120",
-      "countryId": 2134431,
-      "countryCode": "VU",
-      "stateCode": "VU-SEE",
-      "latitude": -17.46898,
-      "longitude": 168.37275
-    },
-    {
       "id": 2136119,
       "name": "Malaliou",
       "nativeName": "Malaliou",
@@ -596,6 +585,17 @@
       "stateCode": "VU-SEE",
       "latitude": -17.63333,
       "longitude": 168.2
+    },
+    {
+      "id": 2136120,
+      "name": "Malaliu",
+      "nativeName": "Malaliu",
+      "code": "VU-SEE-2136120",
+      "countryId": 2134431,
+      "countryCode": "VU",
+      "stateCode": "VU-SEE",
+      "latitude": -17.46898,
+      "longitude": 168.37275
     },
     {
       "id": 2136115,
@@ -1192,17 +1192,6 @@
       "longitude": 168.36667
     },
     {
-      "id": 2135290,
-      "name": "Péléworéarou",
-      "nativeName": "Worearu",
-      "code": "VU-SEE-2135290",
-      "countryId": 2134431,
-      "countryCode": "VU",
-      "stateCode": "VU-SEE",
-      "latitude": -17.48629,
-      "longitude": 168.39332
-    },
-    {
       "id": 2135346,
       "name": "P̄ang-P̄ang",
       "nativeName": "P̄ang-P̄ang",
@@ -1630,6 +1619,17 @@
       "stateCode": "VU-SEE",
       "latitude": -17.48333,
       "longitude": 168.36667
+    },
+    {
+      "id": 2135290,
+      "name": "Worearu",
+      "nativeName": "Worearu",
+      "code": "VU-SEE-2135290",
+      "countryId": 2134431,
+      "countryCode": "VU",
+      "stateCode": "VU-SEE",
+      "latitude": -17.48629,
+      "longitude": 168.39332
     },
     {
       "id": 2206441,

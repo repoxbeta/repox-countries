@@ -81,6 +81,17 @@
       "longitude": 77.8
     },
     {
+      "id": 6640313,
+      "name": "District of Namakkal",
+      "nativeName": "Namakkal",
+      "code": "IN-TN-6640313",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-TN",
+      "latitude": 11.3,
+      "longitude": 78.13
+    },
+    {
       "id": 8223995,
       "name": "Erode",
       "nativeName": "Erode",
@@ -180,15 +191,15 @@
       "longitude": 79.74
     },
     {
-      "id": 6640313,
-      "name": "Namakkal district",
-      "nativeName": "Namakkal",
-      "code": "IN-TN-6640313",
+      "id": 1261391,
+      "name": "Nilgiris District",
+      "nativeName": "Nilgiris",
+      "code": "IN-TN-1261391",
       "countryId": 1269750,
       "countryCode": "IN",
       "stateCode": "IN-TN",
-      "latitude": 11.3,
-      "longitude": 78.13
+      "latitude": 11.46,
+      "longitude": 76.64
     },
     {
       "id": 7627071,
@@ -214,7 +225,7 @@
     },
     {
       "id": 1258741,
-      "name": "Ramanathapuram district",
+      "name": "Ramnad District",
       "nativeName": "Rāmanāthapuram",
       "code": "IN-TN-1258741",
       "countryId": 1269750,
@@ -277,17 +288,6 @@
       "stateCode": "IN-TN",
       "latitude": 10.64,
       "longitude": 79.22
-    },
-    {
-      "id": 1261391,
-      "name": "The Nilgiris",
-      "nativeName": "Nilgiris",
-      "code": "IN-TN-1261391",
-      "countryId": 1269750,
-      "countryCode": "IN",
-      "stateCode": "IN-TN",
-      "latitude": 11.46,
-      "longitude": 76.64
     },
     {
       "id": 7646155,
@@ -401,7 +401,7 @@
     },
     {
       "id": 7646150,
-      "name": "Viluppuram District",
+      "name": "Villupuram",
       "nativeName": "Villupuram",
       "code": "IN-TN-7646150",
       "countryId": 1269750,

@@ -5,7 +5,7 @@
   "cities": [
     {
       "id": 1185055,
-      "name": "Abbottabad",
+      "name": "Abbottabad District",
       "nativeName": "Abbottābād District",
       "code": "PK-KP-1185055",
       "countryId": 1168579,
@@ -60,7 +60,7 @@
     },
     {
       "id": 1182146,
-      "name": "Buner District",
+      "name": "Buner",
       "nativeName": "Buner District",
       "code": "PK-KP-1182146",
       "countryId": 1168579,
@@ -71,7 +71,7 @@
     },
     {
       "id": 7419051,
-      "name": "Charsadda District",
+      "name": "Charsadda",
       "nativeName": "Chārsadda District",
       "code": "PK-KP-7419051",
       "countryId": 1168579,
@@ -93,7 +93,7 @@
     },
     {
       "id": 1180282,
-      "name": "Dera Ismail Khan",
+      "name": "D. I. Khan District",
       "nativeName": "Dera Ismail Khan",
       "code": "PK-KP-1180282",
       "countryId": 1168579,
@@ -114,6 +114,17 @@
       "longitude": 70.16485
     },
     {
+      "id": 1179754,
+      "name": "Dir District",
+      "nativeName": "Upper Dir District",
+      "code": "PK-KP-1179754",
+      "countryId": 1168579,
+      "countryCode": "PK",
+      "stateCode": "PK-KP",
+      "latitude": 35.30879,
+      "longitude": 72.04692
+    },
+    {
       "id": 7419048,
       "name": "Hangu District",
       "nativeName": "Hangu District",
@@ -126,7 +137,7 @@
     },
     {
       "id": 7419054,
-      "name": "Haripur District",
+      "name": "Haripur",
       "nativeName": "Harīpur District",
       "code": "PK-KP-7419054",
       "countryId": 1168579,
@@ -137,7 +148,7 @@
     },
     {
       "id": 7419047,
-      "name": "Karak District",
+      "name": "Karak",
       "nativeName": "Karak District",
       "code": "PK-KP-7419047",
       "countryId": 1168579,
@@ -169,17 +180,6 @@
       "longitude": 71.54394
     },
     {
-      "id": 7419050,
-      "name": "Kohat Tribal Area",
-      "nativeName": "Tribal Area Adjoining Kohat District",
-      "code": "PK-KP-7419050",
-      "countryId": 1168579,
-      "countryCode": "PK",
-      "stateCode": "PK-KP",
-      "latitude": 33.66399,
-      "longitude": 71.59205
-    },
-    {
       "id": 1172574,
       "name": "Kurram District",
       "nativeName": "Kurram District",
@@ -202,8 +202,19 @@
       "longitude": 70.85119
     },
     {
+      "id": 7419044,
+      "name": "Lakki Marwat Frontier Region",
+      "nativeName": "Lakki Marwat Tribal Area",
+      "code": "PK-KP-7419044",
+      "countryId": 1168579,
+      "countryCode": "PK",
+      "stateCode": "PK-KP",
+      "latitude": 32.64131,
+      "longitude": 70.37694
+    },
+    {
       "id": 7419056,
-      "name": "Lower Dir District",
+      "name": "Lower Dir",
       "nativeName": "Lower Dīr District",
       "code": "PK-KP-7419056",
       "countryId": 1168579,
@@ -225,7 +236,7 @@
     },
     {
       "id": 1171388,
-      "name": "Malakand Agency",
+      "name": "Malakand Protected Area",
       "nativeName": "Malakand Protected Area",
       "code": "PK-KP-1171388",
       "countryId": 1168579,
@@ -291,7 +302,7 @@
     },
     {
       "id": 1168705,
-      "name": "Orakzai Agency",
+      "name": "Orakzai",
       "nativeName": "Orakzai Agency",
       "code": "PK-KP-1168705",
       "countryId": 1168579,
@@ -312,8 +323,19 @@
       "longitude": 71.55784
     },
     {
+      "id": 7419049,
+      "name": "Peshawar Tribal Area",
+      "nativeName": "Peshawar Frontier Region",
+      "code": "PK-KP-7419049",
+      "countryId": 1168579,
+      "countryCode": "PK",
+      "stateCode": "PK-KP",
+      "latitude": 33.74097,
+      "longitude": 71.74599
+    },
+    {
       "id": 7419053,
-      "name": "Shangla District",
+      "name": "Shangla",
       "nativeName": "Shāngla District",
       "code": "PK-KP-7419053",
       "countryId": 1168579,
@@ -335,7 +357,7 @@
     },
     {
       "id": 7419055,
-      "name": "Swabi",
+      "name": "Swabi District",
       "nativeName": "Swābi District",
       "code": "PK-KP-7419055",
       "countryId": 1168579,
@@ -357,7 +379,7 @@
     },
     {
       "id": 7419040,
-      "name": "Tank",
+      "name": "Tank District",
       "nativeName": "Tank",
       "code": "PK-KP-7419040",
       "countryId": 1168579,
@@ -378,26 +400,15 @@
       "longitude": 72.85207
     },
     {
-      "id": 7419044,
-      "name": "Tribal Area Adjoining Lakki Marwat District",
-      "nativeName": "Lakki Marwat Tribal Area",
-      "code": "PK-KP-7419044",
+      "id": 7419050,
+      "name": "Tribal Area Adjoining Kohat District",
+      "nativeName": "Tribal Area Adjoining Kohat District",
+      "code": "PK-KP-7419050",
       "countryId": 1168579,
       "countryCode": "PK",
       "stateCode": "PK-KP",
-      "latitude": 32.64131,
-      "longitude": 70.37694
-    },
-    {
-      "id": 7419049,
-      "name": "Tribal Area Adjoining Peshawar District",
-      "nativeName": "Peshawar Frontier Region",
-      "code": "PK-KP-7419049",
-      "countryId": 1168579,
-      "countryCode": "PK",
-      "stateCode": "PK-KP",
-      "latitude": 33.74097,
-      "longitude": 71.74599
+      "latitude": 33.66399,
+      "longitude": 71.59205
     },
     {
       "id": 7419041,
@@ -409,17 +420,6 @@
       "stateCode": "PK-KP",
       "latitude": 32.46451,
       "longitude": 70.30597
-    },
-    {
-      "id": 1179754,
-      "name": "Upper Dir District",
-      "nativeName": "Upper Dir District",
-      "code": "PK-KP-1179754",
-      "countryId": 1168579,
-      "countryCode": "PK",
-      "stateCode": "PK-KP",
-      "latitude": 35.30879,
-      "longitude": 72.04692
     },
     {
       "id": 12105031,

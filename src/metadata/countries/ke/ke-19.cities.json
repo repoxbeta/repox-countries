@@ -48,6 +48,17 @@
       "longitude": 39.33914
     },
     {
+      "id": 200643,
+      "name": "Banga",
+      "nativeName": "Banga",
+      "code": "KE-19-200643",
+      "countryId": 192950,
+      "countryCode": "KE",
+      "stateCode": "KE-19",
+      "latitude": -4.09679,
+      "longitude": 39.2392
+    },
+    {
       "id": 200510,
       "name": "Bazo",
       "nativeName": "Bazo",
@@ -57,6 +68,28 @@
       "stateCode": "KE-19",
       "latitude": -4.66667,
       "longitude": 39.21667
+    },
+    {
+      "id": 200372,
+      "name": "Bofu",
+      "nativeName": "Bofu",
+      "code": "KE-19-200372",
+      "countryId": 192950,
+      "countryCode": "KE",
+      "stateCode": "KE-19",
+      "latitude": -3.97874,
+      "longitude": 39.43846
+    },
+    {
+      "id": 200321,
+      "name": "Bomani",
+      "nativeName": "Bomani",
+      "code": "KE-19-200321",
+      "countryId": 192950,
+      "countryCode": "KE",
+      "stateCode": "KE-19",
+      "latitude": -4.46361,
+      "longitude": 39.47727
     },
     {
       "id": 7779702,
@@ -70,15 +103,15 @@
       "longitude": 39.14781
     },
     {
-      "id": 7868145,
-      "name": "Boyami",
-      "nativeName": "Boyami",
-      "code": "KE-19-7868145",
+      "id": 200000,
+      "name": "Busa",
+      "nativeName": "Busa",
+      "code": "KE-19-200000",
       "countryId": 192950,
       "countryCode": "KE",
       "stateCode": "KE-19",
-      "latitude": -4.29638,
-      "longitude": 39.48516
+      "latitude": -4.1329,
+      "longitude": 39.07051
     },
     {
       "id": 199993,
@@ -103,6 +136,17 @@
       "longitude": 39.13865
     },
     {
+      "id": 199355,
+      "name": "Chingwede",
+      "nativeName": "Chingwede",
+      "code": "KE-19-199355",
+      "countryId": 192950,
+      "countryCode": "KE",
+      "stateCode": "KE-19",
+      "latitude": -4.49573,
+      "longitude": 39.4395
+    },
+    {
       "id": 7868133,
       "name": "Copra",
       "nativeName": "Copra",
@@ -125,15 +169,26 @@
       "longitude": 39.26926
     },
     {
-      "id": 8199180,
-      "name": "Diani Beach",
-      "nativeName": "Diani Beach",
-      "code": "KE-19-8199180",
+      "id": 199034,
+      "name": "Denge",
+      "nativeName": "Denge",
+      "code": "KE-19-199034",
       "countryId": 192950,
       "countryCode": "KE",
       "stateCode": "KE-19",
-      "latitude": -4.27774,
-      "longitude": 39.59413
+      "latitude": -4.06667,
+      "longitude": 39.15
+    },
+    {
+      "id": 198958,
+      "name": "Digo",
+      "nativeName": "Digo",
+      "code": "KE-19-198958",
+      "countryId": 192950,
+      "countryCode": "KE",
+      "stateCode": "KE-19",
+      "latitude": -4.23333,
+      "longitude": 39.18333
     },
     {
       "id": 198892,
@@ -178,6 +233,17 @@
       "stateCode": "KE-19",
       "latitude": -4.55,
       "longitude": 39.08333
+    },
+    {
+      "id": 198789,
+      "name": "Dzirive",
+      "nativeName": "Dzirive",
+      "code": "KE-19-198789",
+      "countryId": 192950,
+      "countryCode": "KE",
+      "stateCode": "KE-19",
+      "latitude": -4.59306,
+      "longitude": 39.16659
     },
     {
       "id": 7867822,
@@ -244,17 +310,6 @@
       "stateCode": "KE-19",
       "latitude": -4.20245,
       "longitude": 39.25037
-    },
-    {
-      "id": 7844620,
-      "name": "Godo",
-      "nativeName": "Godo",
-      "code": "KE-19-7844620",
-      "countryId": 192950,
-      "countryCode": "KE",
-      "stateCode": "KE-19",
-      "latitude": -4.53288,
-      "longitude": 39.03835
     },
     {
       "id": 197133,
@@ -345,28 +400,6 @@
       "longitude": 39.1935
     },
     {
-      "id": 7868144,
-      "name": "Jorore",
-      "nativeName": "Jorore",
-      "code": "KE-19-7868144",
-      "countryId": 192950,
-      "countryCode": "KE",
-      "stateCode": "KE-19",
-      "latitude": -4.28125,
-      "longitude": 39.45977
-    },
-    {
-      "id": 7868146,
-      "name": "Jorore",
-      "nativeName": "Jorore",
-      "code": "KE-19-7868146",
-      "countryId": 192950,
-      "countryCode": "KE",
-      "stateCode": "KE-19",
-      "latitude": -4.31077,
-      "longitude": 39.46121
-    },
-    {
       "id": 7867059,
       "name": "Kachini",
       "nativeName": "Kachini",
@@ -433,15 +466,26 @@
       "longitude": 39.39743
     },
     {
-      "id": 7844654,
-      "name": "Kibauni",
-      "nativeName": "Kibauni",
-      "code": "KE-19-7844654",
+      "id": 192500,
+      "name": "Kibaya",
+      "nativeName": "Kibaya",
+      "code": "KE-19-192500",
       "countryId": 192950,
       "countryCode": "KE",
       "stateCode": "KE-19",
-      "latitude": -4.53418,
-      "longitude": 39.14527
+      "latitude": -4.47344,
+      "longitude": 39.12313
+    },
+    {
+      "id": 192397,
+      "name": "Kibuguni",
+      "nativeName": "Kibuguni",
+      "code": "KE-19-192397",
+      "countryId": 192950,
+      "countryCode": "KE",
+      "stateCode": "KE-19",
+      "latitude": -4.50117,
+      "longitude": 39.35863
     },
     {
       "id": 7867820,
@@ -453,6 +497,28 @@
       "stateCode": "KE-19",
       "latitude": -4.34908,
       "longitude": 39.35914
+    },
+    {
+      "id": 192356,
+      "name": "Kidimu",
+      "nativeName": "Kidimu",
+      "code": "KE-19-192356",
+      "countryId": 192950,
+      "countryCode": "KE",
+      "stateCode": "KE-19",
+      "latitude": -4.54869,
+      "longitude": 39.36772
+    },
+    {
+      "id": 192348,
+      "name": "Kidomaya",
+      "nativeName": "Kidomaya",
+      "code": "KE-19-192348",
+      "countryId": 192950,
+      "countryCode": "KE",
+      "stateCode": "KE-19",
+      "latitude": -4.56888,
+      "longitude": 39.1719
     },
     {
       "id": 7867831,
@@ -477,6 +543,17 @@
       "longitude": 39.58052
     },
     {
+      "id": 192286,
+      "name": "Kigato",
+      "nativeName": "Kigato",
+      "code": "KE-19-192286",
+      "countryId": 192950,
+      "countryCode": "KE",
+      "stateCode": "KE-19",
+      "latitude": -4.18853,
+      "longitude": 39.55268
+    },
+    {
       "id": 192277,
       "name": "Kigomberu",
       "nativeName": "Kigomberu",
@@ -486,6 +563,28 @@
       "stateCode": "KE-19",
       "latitude": -4.49394,
       "longitude": 39.34686
+    },
+    {
+      "id": 192158,
+      "name": "Kikoneni",
+      "nativeName": "Kikoneni",
+      "code": "KE-19-192158",
+      "countryId": 192950,
+      "countryCode": "KE",
+      "stateCode": "KE-19",
+      "latitude": -4.44766,
+      "longitude": 39.30998
+    },
+    {
+      "id": 192115,
+      "name": "Kikwezani",
+      "nativeName": "Kikwezani",
+      "code": "KE-19-192115",
+      "countryId": 192950,
+      "countryCode": "KE",
+      "stateCode": "KE-19",
+      "latitude": -4.66667,
+      "longitude": 39.2
     },
     {
       "id": 192075,
@@ -510,6 +609,17 @@
       "longitude": 39.07575
     },
     {
+      "id": 192015,
+      "name": "Kilole",
+      "nativeName": "Kilole",
+      "code": "KE-19-192015",
+      "countryId": 192950,
+      "countryCode": "KE",
+      "stateCode": "KE-19",
+      "latitude": -4.36103,
+      "longitude": 39.49948
+    },
+    {
       "id": 191833,
       "name": "Kinango",
       "nativeName": "Kinango",
@@ -532,15 +642,26 @@
       "longitude": 39.23177
     },
     {
-      "id": 7844671,
-      "name": "Kipandeni",
-      "nativeName": "Kipandeni",
-      "code": "KE-19-7844671",
+      "id": 191794,
+      "name": "Kinondo",
+      "nativeName": "Kinondo",
+      "code": "KE-19-191794",
       "countryId": 192950,
       "countryCode": "KE",
       "stateCode": "KE-19",
-      "latitude": -4.63401,
-      "longitude": 39.22971
+      "latitude": -4.39236,
+      "longitude": 39.5483
+    },
+    {
+      "id": 191488,
+      "name": "Kirewe",
+      "nativeName": "Kirewe",
+      "code": "KE-19-191488",
+      "countryId": 192950,
+      "countryCode": "KE",
+      "stateCode": "KE-19",
+      "latitude": -4.26796,
+      "longitude": 39.30313
     },
     {
       "id": 191292,
@@ -563,6 +684,17 @@
       "stateCode": "KE-19",
       "latitude": -4.63823,
       "longitude": 39.35274
+    },
+    {
+      "id": 191049,
+      "name": "Kitsantse",
+      "nativeName": "Kitsantse",
+      "code": "KE-19-191049",
+      "countryId": 192950,
+      "countryCode": "KE",
+      "stateCode": "KE-19",
+      "latitude": -4.14198,
+      "longitude": 39.46021
     },
     {
       "id": 190985,
@@ -629,17 +761,6 @@
       "stateCode": "KE-19",
       "latitude": -3.95973,
       "longitude": 39.49823
-    },
-    {
-      "id": 7844672,
-      "name": "Kuzini",
-      "nativeName": "Kuzini",
-      "code": "KE-19-7844672",
-      "countryId": 192950,
-      "countryCode": "KE",
-      "stateCode": "KE-19",
-      "latitude": -4.62898,
-      "longitude": 39.23842
     },
     {
       "id": 190077,
@@ -741,17 +862,6 @@
       "longitude": 39.38345
     },
     {
-      "id": 7844649,
-      "name": "Magagani",
-      "nativeName": "Magagani",
-      "code": "KE-19-7844649",
-      "countryId": 192950,
-      "countryCode": "KE",
-      "stateCode": "KE-19",
-      "latitude": -4.60212,
-      "longitude": 39.16958
-    },
-    {
       "id": 188369,
       "name": "Magodi",
       "nativeName": "Magodi",
@@ -851,17 +961,6 @@
       "longitude": 39.28394
     },
     {
-      "id": 7844653,
-      "name": "Makaani",
-      "nativeName": "Makaani",
-      "code": "KE-19-7844653",
-      "countryId": 192950,
-      "countryCode": "KE",
-      "stateCode": "KE-19",
-      "latitude": -4.57594,
-      "longitude": 39.15061
-    },
-    {
       "id": 188170,
       "name": "Makamini",
       "nativeName": "Makamini",
@@ -926,28 +1025,6 @@
       "stateCode": "KE-19",
       "latitude": -4.43792,
       "longitude": 39.26659
-    },
-    {
-      "id": 7844660,
-      "name": "Manda",
-      "nativeName": "Manda",
-      "code": "KE-19-7844660",
-      "countryId": 192950,
-      "countryCode": "KE",
-      "stateCode": "KE-19",
-      "latitude": -4.50823,
-      "longitude": 39.18394
-    },
-    {
-      "id": 7844676,
-      "name": "Mangawani",
-      "nativeName": "Mangawani",
-      "code": "KE-19-7844676",
-      "countryId": 192950,
-      "countryCode": "KE",
-      "stateCode": "KE-19",
-      "latitude": -4.55906,
-      "longitude": 39.24547
     },
     {
       "id": 187868,
@@ -1126,17 +1203,6 @@
       "longitude": 39.53333
     },
     {
-      "id": 7844644,
-      "name": "Mgombezi",
-      "nativeName": "Mgombezi",
-      "code": "KE-19-7844644",
-      "countryId": 192950,
-      "countryCode": "KE",
-      "stateCode": "KE-19",
-      "latitude": -4.51902,
-      "longitude": 39.13619
-    },
-    {
       "id": 186780,
       "name": "Mguya",
       "nativeName": "Mguya",
@@ -1223,17 +1289,6 @@
       "stateCode": "KE-19",
       "latitude": -4.54508,
       "longitude": 39.10347
-    },
-    {
-      "id": 7868142,
-      "name": "Mkingani",
-      "nativeName": "Mkingani",
-      "code": "KE-19-7868142",
-      "countryId": 192950,
-      "countryCode": "KE",
-      "stateCode": "KE-19",
-      "latitude": -4.29584,
-      "longitude": 39.4418
     },
     {
       "id": 186459,
@@ -1333,17 +1388,6 @@
       "stateCode": "KE-19",
       "latitude": -3.91838,
       "longitude": 39.47381
-    },
-    {
-      "id": 7868143,
-      "name": "Msurwa",
-      "nativeName": "Msurwa",
-      "code": "KE-19-7868143",
-      "countryId": 192950,
-      "countryCode": "KE",
-      "stateCode": "KE-19",
-      "latitude": -4.26278,
-      "longitude": 39.46248
     },
     {
       "id": 186124,
@@ -1599,17 +1643,6 @@
       "longitude": 39.25993
     },
     {
-      "id": 7868140,
-      "name": "Mwandeo",
-      "nativeName": "Mwandeo",
-      "code": "KE-19-7868140",
-      "countryId": 192950,
-      "countryCode": "KE",
-      "stateCode": "KE-19",
-      "latitude": -4.40961,
-      "longitude": 39.32058
-    },
-    {
       "id": 185074,
       "name": "Mwandimu",
       "nativeName": "Mwandimu",
@@ -1707,17 +1740,6 @@
       "stateCode": "KE-19",
       "latitude": -4.25612,
       "longitude": 39.16789
-    },
-    {
-      "id": 7868147,
-      "name": "Ndugu Mbeni",
-      "nativeName": "Ndugu Mbeni",
-      "code": "KE-19-7868147",
-      "countryId": 192950,
-      "countryCode": "KE",
-      "stateCode": "KE-19",
-      "latitude": -4.36876,
-      "longitude": 39.48889
     },
     {
       "id": 183830,
@@ -1852,17 +1874,6 @@
       "longitude": 39.36261
     },
     {
-      "id": 7844131,
-      "name": "Pangu",
-      "nativeName": "Pangu",
-      "code": "KE-19-7844131",
-      "countryId": 192950,
-      "countryCode": "KE",
-      "stateCode": "KE-19",
-      "latitude": -4.12315,
-      "longitude": 39.61659
-    },
-    {
       "id": 181621,
       "name": "Pemba",
       "nativeName": "Pemba",
@@ -1883,17 +1894,6 @@
       "stateCode": "KE-19",
       "latitude": -4.24607,
       "longitude": 39.37228
-    },
-    {
-      "id": 7844656,
-      "name": "Perani",
-      "nativeName": "Perani",
-      "code": "KE-19-7844656",
-      "countryId": 192950,
-      "countryCode": "KE",
-      "stateCode": "KE-19",
-      "latitude": -4.52471,
-      "longitude": 39.17932
     },
     {
       "id": 181548,

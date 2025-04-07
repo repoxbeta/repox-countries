@@ -16,7 +16,7 @@
     },
     {
       "id": 1279020,
-      "name": "Aligarh",
+      "name": "Alīgarh District",
       "nativeName": "Alīgarh",
       "code": "IN-UP-1279020",
       "countryId": 1269750,
@@ -38,7 +38,7 @@
     },
     {
       "id": 11875567,
-      "name": "Amethi District",
+      "name": "Amethi",
       "nativeName": "Amethi",
       "code": "IN-UP-11875567",
       "countryId": 1269750,
@@ -148,7 +148,7 @@
     },
     {
       "id": 1277014,
-      "name": "Bareilly",
+      "name": "Bareilly district",
       "nativeName": "Bareilly",
       "code": "IN-UP-1277014",
       "countryId": 1269750,
@@ -258,7 +258,7 @@
     },
     {
       "id": 1271993,
-      "name": "Etah",
+      "name": "Etah district",
       "nativeName": "Etah",
       "code": "IN-UP-1271993",
       "countryId": 1269750,
@@ -346,7 +346,7 @@
     },
     {
       "id": 1270997,
-      "name": "Gonda district",
+      "name": "Gonda",
       "nativeName": "Gonda",
       "code": "IN-UP-1270997",
       "countryId": 1269750,
@@ -357,7 +357,7 @@
     },
     {
       "id": 1270930,
-      "name": "Gorakhpur District",
+      "name": "Gorakhpur",
       "nativeName": "Gorakhpur",
       "code": "IN-UP-1270930",
       "countryId": 1269750,
@@ -379,7 +379,7 @@
     },
     {
       "id": 11875568,
-      "name": "Hapur",
+      "name": "Hapur District",
       "nativeName": "Hapur",
       "code": "IN-UP-11875568",
       "countryId": 1269750,
@@ -423,7 +423,7 @@
     },
     {
       "id": 1269136,
-      "name": "Jaunpur",
+      "name": "Jaunpur district",
       "nativeName": "Jaunpur",
       "code": "IN-UP-1269136",
       "countryId": 1269750,
@@ -434,7 +434,7 @@
     },
     {
       "id": 1269007,
-      "name": "Jhansi",
+      "name": "Jhānsi District",
       "nativeName": "Jhānsi",
       "code": "IN-UP-1269007",
       "countryId": 1269750,
@@ -456,7 +456,7 @@
     },
     {
       "id": 7729747,
-      "name": "Kanpur Dehat",
+      "name": "Kanpur Dehat district",
       "nativeName": "Kanpur Dehat",
       "code": "IN-UP-7729747",
       "countryId": 1269750,
@@ -478,7 +478,7 @@
     },
     {
       "id": 9747992,
-      "name": "Kasganj",
+      "name": "Kasganj District",
       "nativeName": "Kasganj",
       "code": "IN-UP-9747992",
       "countryId": 1269750,
@@ -489,7 +489,7 @@
     },
     {
       "id": 9072745,
-      "name": "Kaushambi District",
+      "name": "Kaushambi",
       "nativeName": "Kaushambi District",
       "code": "IN-UP-9072745",
       "countryId": 1269750,
@@ -555,7 +555,7 @@
     },
     {
       "id": 9072787,
-      "name": "Mahoba Quarter",
+      "name": "Mahoba",
       "nativeName": "Mahoba",
       "code": "IN-UP-9072787",
       "countryId": 1269750,
@@ -566,7 +566,7 @@
     },
     {
       "id": 1264293,
-      "name": "Mainpuri district",
+      "name": "Mainpuri",
       "nativeName": "Mainpuri",
       "code": "IN-UP-1264293",
       "countryId": 1269750,
@@ -577,7 +577,7 @@
     },
     {
       "id": 1263366,
-      "name": "Mathura",
+      "name": "Mathura district",
       "nativeName": "Mathura",
       "code": "IN-UP-1263366",
       "countryId": 1269750,
@@ -654,7 +654,7 @@
     },
     {
       "id": 1259687,
-      "name": "Pilibhit",
+      "name": "Pilibhit District",
       "nativeName": "Pīlībhīt",
       "code": "IN-UP-1259687",
       "countryId": 1269750,
@@ -698,7 +698,7 @@
     },
     {
       "id": 1257807,
-      "name": "Sahāranpur District",
+      "name": "Saharanpur",
       "nativeName": "Sahāranpur",
       "code": "IN-UP-1257807",
       "countryId": 1269750,
@@ -709,7 +709,7 @@
     },
     {
       "id": 11875569,
-      "name": "Sambhal",
+      "name": "Sambhal District",
       "nativeName": "Sambhal",
       "code": "IN-UP-11875569",
       "countryId": 1269750,
@@ -728,17 +728,6 @@
       "stateCode": "IN-UP",
       "latitude": 26.79016,
       "longitude": 83.03481
-    },
-    {
-      "id": 1256729,
-      "name": "Shahjahanpur",
-      "nativeName": "Shāhjahānpur",
-      "code": "IN-UP-1256729",
-      "countryId": 1269750,
-      "countryCode": "IN",
-      "stateCode": "IN-UP",
-      "latitude": 28,
-      "longitude": 79.83333
     },
     {
       "id": 11875566,
@@ -763,6 +752,17 @@
       "longitude": 82.0047
     },
     {
+      "id": 1256729,
+      "name": "Shāhjahānpur District",
+      "nativeName": "Shāhjahānpur",
+      "code": "IN-UP-1256729",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-UP",
+      "latitude": 28,
+      "longitude": 79.83333
+    },
+    {
       "id": 7626228,
       "name": "Siddharth Nagar",
       "nativeName": "Siddharthnagar",
@@ -772,17 +772,6 @@
       "stateCode": "IN-UP",
       "latitude": 27.25797,
       "longitude": 83.01465
-    },
-    {
-      "id": 1255971,
-      "name": "Sitapur",
-      "nativeName": "Sītāpur",
-      "code": "IN-UP-1255971",
-      "countryId": 1269750,
-      "countryCode": "IN",
-      "stateCode": "IN-UP",
-      "latitude": 27.5,
-      "longitude": 80.91667
     },
     {
       "id": 9748013,
@@ -805,6 +794,17 @@
       "stateCode": "IN-UP",
       "latitude": 26.25,
       "longitude": 82
+    },
+    {
+      "id": 1255971,
+      "name": "Sītāpur District",
+      "nativeName": "Sītāpur",
+      "code": "IN-UP-1255971",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-UP",
+      "latitude": 27.5,
+      "longitude": 80.91667
     },
     {
       "id": 1253748,

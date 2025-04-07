@@ -224,17 +224,6 @@
       "longitude": 36.42752
     },
     {
-      "id": 11830722,
-      "name": "Kaheho",
-      "nativeName": "Kaheho",
-      "code": "KE-35-11830722",
-      "countryId": 192950,
-      "countryCode": "KE",
-      "stateCode": "KE-35",
-      "latitude": -0.19134,
-      "longitude": 36.50182
-    },
-    {
       "id": 11829979,
       "name": "Kaheho",
       "nativeName": "Kaheho",
@@ -244,6 +233,17 @@
       "stateCode": "KE-35",
       "latitude": -0.17784,
       "longitude": 36.49221
+    },
+    {
+      "id": 11830722,
+      "name": "Kaheho",
+      "nativeName": "Kaheho",
+      "code": "KE-35-11830722",
+      "countryId": 192950,
+      "countryCode": "KE",
+      "stateCode": "KE-35",
+      "latitude": -0.19134,
+      "longitude": 36.50182
     },
     {
       "id": 11834204,
@@ -389,17 +389,6 @@
       "longitude": 36.49826
     },
     {
-      "id": 11830717,
-      "name": "Kipipiri Settlement",
-      "nativeName": "Kipipiri Settlement",
-      "code": "KE-35-11830717",
-      "countryId": 192950,
-      "countryCode": "KE",
-      "stateCode": "KE-35",
-      "latitude": -0.38228,
-      "longitude": 36.51249
-    },
-    {
       "id": 11829975,
       "name": "Kipipiri Settlement",
       "nativeName": "Kipipiri Settlement",
@@ -409,6 +398,17 @@
       "stateCode": "KE-35",
       "latitude": -0.43434,
       "longitude": 36.43573
+    },
+    {
+      "id": 11830717,
+      "name": "Kipipiri Settlement",
+      "nativeName": "Kipipiri Settlement",
+      "code": "KE-35-11830717",
+      "countryId": 192950,
+      "countryCode": "KE",
+      "stateCode": "KE-35",
+      "latitude": -0.38228,
+      "longitude": 36.51249
     },
     {
       "id": 11829976,

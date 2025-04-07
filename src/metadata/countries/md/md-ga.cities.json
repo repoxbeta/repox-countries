@@ -70,17 +70,6 @@
       "longitude": 28.67635
     },
     {
-      "id": 618572,
-      "name": "Beşalma",
-      "nativeName": "Beşalma",
-      "code": "MD-GA-618572",
-      "countryId": 617790,
-      "countryCode": "MD",
-      "stateCode": "MD-GA",
-      "latitude": 46.16913,
-      "longitude": 28.64695
-    },
-    {
       "id": 618571,
       "name": "Beşghioz",
       "nativeName": "Beşghioz",
@@ -90,6 +79,17 @@
       "stateCode": "MD-GA",
       "latitude": 46.11916,
       "longitude": 28.87439
+    },
+    {
+      "id": 618572,
+      "name": "Beșalma",
+      "nativeName": "Beșalma",
+      "code": "MD-GA-618572",
+      "countryId": 617790,
+      "countryCode": "MD",
+      "stateCode": "MD-GA",
+      "latitude": 46.16913,
+      "longitude": 28.64695
     },
     {
       "id": 618491,
@@ -126,8 +126,8 @@
     },
     {
       "id": 617489,
-      "name": "Chioşelia Rusă",
-      "nativeName": "Chioşelia Rusă",
+      "name": "Chioselia Rusă",
+      "nativeName": "Chioselia Rusă",
       "code": "MD-GA-617489",
       "countryId": 617790,
       "countryCode": "MD",

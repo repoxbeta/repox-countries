@@ -5,7 +5,7 @@
   "cities": [
     {
       "id": 196752,
-      "name": "Hola",
+      "name": "Galole",
       "nativeName": "Hola",
       "code": "KE-40-196752",
       "countryId": 192950,
@@ -598,17 +598,6 @@
       "longitude": 40.17808
     },
     {
-      "id": 11886096,
-      "name": "Hidilathi",
-      "nativeName": "Hidilathi",
-      "code": "KE-40-11886096",
-      "countryId": 192950,
-      "countryCode": "KE",
-      "stateCode": "KE-40",
-      "latitude": -2.4284,
-      "longitude": 38.63726
-    },
-    {
       "id": 11429222,
       "name": "Hola",
       "nativeName": "Hola",
@@ -1091,6 +1080,17 @@
       "stateCode": "KE-40",
       "latitude": -2.64629,
       "longitude": 40.19556
+    },
+    {
+      "id": 11525518,
+      "name": "Kurla",
+      "nativeName": "Kurla",
+      "code": "KE-40-11525518",
+      "countryId": 192950,
+      "countryCode": "KE",
+      "stateCode": "KE-40",
+      "latitude": -2.07527,
+      "longitude": 39.4928
     },
     {
       "id": 8308137,

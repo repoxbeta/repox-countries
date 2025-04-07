@@ -5,7 +5,7 @@
   "cities": [
     {
       "id": 12196619,
-      "name": "Abu Hugar",
+      "name": "Abu Hujar Locality",
       "nativeName": "Abu Hujar Locality",
       "code": "SD-SI-12196619",
       "countryId": 366755,
@@ -27,7 +27,7 @@
     },
     {
       "id": 12196616,
-      "name": "East Sennar",
+      "name": "East Sennar Locality",
       "nativeName": "East Sennar Locality",
       "code": "SD-SI-12196616",
       "countryId": 366755,
@@ -37,8 +37,19 @@
       "longitude": 33.83655
     },
     {
+      "id": 12196617,
+      "name": "Ed Dinder",
+      "nativeName": "Ed Dinder Locality",
+      "code": "SD-SI-12196617",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-SI",
+      "latitude": 12.88172,
+      "longitude": 34.72831
+    },
+    {
       "id": 12196620,
-      "name": "El Dali Locality",
+      "name": "Eldali",
       "nativeName": "El Dali Locality",
       "code": "SD-SI-12196620",
       "countryId": 366755,
@@ -49,7 +60,7 @@
     },
     {
       "id": 12196618,
-      "name": "El Souki",
+      "name": "Es Suki Locality",
       "nativeName": "Es Suki Locality",
       "code": "SD-SI-12196618",
       "countryId": 366755,
@@ -59,30 +70,8 @@
       "longitude": 34.10142
     },
     {
-      "id": 12196617,
-      "name": "Eldindir",
-      "nativeName": "Ed Dinder Locality",
-      "code": "SD-SI-12196617",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-SI",
-      "latitude": 12.88172,
-      "longitude": 34.72831
-    },
-    {
-      "id": 12196615,
-      "name": "Sennar Locality",
-      "nativeName": "Sennar Locality",
-      "code": "SD-SI-12196615",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "stateCode": "SD-SI",
-      "latitude": 13.58537,
-      "longitude": 33.23343
-    },
-    {
       "id": 12196614,
-      "name": "Singa",
+      "name": "Sinja",
       "nativeName": "Singa Locality",
       "code": "SD-SI-12196614",
       "countryId": 366755,
@@ -90,6 +79,17 @@
       "stateCode": "SD-SI",
       "latitude": 13.15183,
       "longitude": 33.74941
+    },
+    {
+      "id": 12196615,
+      "name": "Sinnar",
+      "nativeName": "Sennar Locality",
+      "code": "SD-SI-12196615",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "stateCode": "SD-SI",
+      "latitude": 13.58537,
+      "longitude": 33.23343
     }
   ]
 }

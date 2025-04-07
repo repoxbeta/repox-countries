@@ -5,7 +5,7 @@
   "cities": [
     {
       "id": 161288,
-      "name": "Bagamoyo District",
+      "name": "Bagamoyo District Council",
       "nativeName": "Bagamoyo",
       "code": "TZ-19-161288",
       "countryId": 149590,
@@ -27,7 +27,7 @@
     },
     {
       "id": 9998177,
-      "name": "Kibaha Town Council",
+      "name": "Kibaha Town",
       "nativeName": "Kibaha Town",
       "code": "TZ-19-9998177",
       "countryId": 149590,
@@ -37,19 +37,8 @@
       "longitude": 38.90605
     },
     {
-      "id": 156995,
-      "name": "Kisarawe District",
-      "nativeName": "Kisarawe",
-      "code": "TZ-19-156995",
-      "countryId": 149590,
-      "countryCode": "TZ",
-      "stateCode": "TZ-19",
-      "latitude": -7.14586,
-      "longitude": 38.6952
-    },
-    {
       "id": 155411,
-      "name": "Mafia District Council",
+      "name": "Mafia District",
       "nativeName": "Mafia",
       "code": "TZ-19-155411",
       "countryId": 149590,
@@ -71,7 +60,7 @@
     },
     {
       "id": 150487,
-      "name": "Rufiji District Council",
+      "name": "Rufiji District",
       "nativeName": "Rufiji",
       "code": "TZ-19-150487",
       "countryId": 149590,
@@ -79,6 +68,17 @@
       "stateCode": "TZ-19",
       "latitude": -7.95743,
       "longitude": 38.72662
+    },
+    {
+      "id": 156995,
+      "name": "Uzaramo District",
+      "nativeName": "Kisarawe",
+      "code": "TZ-19-156995",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-19",
+      "latitude": -7.14586,
+      "longitude": 38.6952
     }
   ]
 }

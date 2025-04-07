@@ -5,7 +5,7 @@
   "cities": [
     {
       "id": 2965479,
-      "name": "Co Clare",
+      "name": "Clare",
       "nativeName": "Clare",
       "code": "IE-M-2965479",
       "countryId": 2963597,
@@ -48,17 +48,6 @@
       "longitude": -8.46773
     },
     {
-      "id": 2961191,
-      "name": "County Tipperary",
-      "nativeName": "County Tipperary",
-      "code": "IE-M-2961191",
-      "countryId": 2963597,
-      "countryCode": "IE",
-      "stateCode": "IE-M",
-      "latitude": 52.66667,
-      "longitude": -7.83333
-    },
-    {
       "id": 11611445,
       "name": "Limerick",
       "nativeName": "Limerick City and County Council",
@@ -68,6 +57,17 @@
       "stateCode": "IE-M",
       "latitude": 52.6464,
       "longitude": -8.63663
+    },
+    {
+      "id": 2961191,
+      "name": "Tipperary",
+      "nativeName": "County Tipperary",
+      "code": "IE-M-2961191",
+      "countryId": 2963597,
+      "countryCode": "IE",
+      "stateCode": "IE-M",
+      "latitude": 52.66667,
+      "longitude": -7.83333
     },
     {
       "id": 11611446,

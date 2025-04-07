@@ -279,17 +279,6 @@
       "longitude": 19.2775
     },
     {
-      "id": 3303684,
-      "name": "Merulja",
-      "nativeName": "Merulja",
-      "code": "ME-21-3303684",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-21",
-      "latitude": 43.0625,
-      "longitude": 19.14306
-    },
-    {
       "id": 3342079,
       "name": "Merulja",
       "nativeName": "Merulja",
@@ -299,6 +288,17 @@
       "stateCode": "ME-21",
       "latitude": 43.05167,
       "longitude": 19.16917
+    },
+    {
+      "id": 3303684,
+      "name": "Merulja",
+      "nativeName": "Merulja",
+      "code": "ME-21-3303684",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-21",
+      "latitude": 43.0625,
+      "longitude": 19.14306
     },
     {
       "id": 3304066,

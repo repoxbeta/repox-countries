@@ -884,6 +884,17 @@
       "longitude": -35.40792
     },
     {
+      "id": 6324196,
+      "name": "Gurjão",
+      "nativeName": "Gurjão",
+      "code": "BR-PB-6324196",
+      "countryId": 3469034,
+      "countryCode": "BR",
+      "stateCode": "BR-PB",
+      "latitude": -7.261,
+      "longitude": -36.50008
+    },
+    {
       "id": 6319054,
       "name": "Ibiara",
       "nativeName": "Ibiara",
@@ -1610,6 +1621,17 @@
       "longitude": -38.50574
     },
     {
+      "id": 6324225,
+      "name": "Prata",
+      "nativeName": "Prata",
+      "code": "BR-PB-6324225",
+      "countryId": 3469034,
+      "countryCode": "BR",
+      "stateCode": "BR-PB",
+      "latitude": -7.7125,
+      "longitude": -37.09411
+    },
+    {
       "id": 6320386,
       "name": "Princesa Isabel",
       "nativeName": "Princesa Isabel",
@@ -1874,50 +1896,6 @@
       "longitude": -35.21734
     },
     {
-      "id": 6320430,
-      "name": "Serra Branca",
-      "nativeName": "Serra Branca",
-      "code": "BR-PB-6320430",
-      "countryId": 3469034,
-      "countryCode": "BR",
-      "stateCode": "BR-PB",
-      "latitude": -7.58019,
-      "longitude": -36.73326
-    },
-    {
-      "id": 6320432,
-      "name": "Serra Grande",
-      "nativeName": "Serra Grande",
-      "code": "BR-PB-6320432",
-      "countryId": 3469034,
-      "countryCode": "BR",
-      "stateCode": "BR-PB",
-      "latitude": -7.2509,
-      "longitude": -38.39588
-    },
-    {
-      "id": 6320433,
-      "name": "Serra Redonda",
-      "nativeName": "Serra Redonda",
-      "code": "BR-PB-6320433",
-      "countryId": 3469034,
-      "countryCode": "BR",
-      "stateCode": "BR-PB",
-      "latitude": -7.15665,
-      "longitude": -35.67628
-    },
-    {
-      "id": 6320431,
-      "name": "Serra da Raiz",
-      "nativeName": "Serra da Raiz",
-      "code": "BR-PB-6320431",
-      "countryId": 3469034,
-      "countryCode": "BR",
-      "stateCode": "BR-PB",
-      "latitude": -6.69703,
-      "longitude": -35.43579
-    },
-    {
       "id": 6319064,
       "name": "Sousa",
       "nativeName": "Sousa",
@@ -1971,6 +1949,17 @@
       "stateCode": "BR-PB",
       "latitude": -7.56749,
       "longitude": -36.36393
+    },
+    {
+      "id": 6324226,
+      "name": "São Francisco",
+      "nativeName": "São Francisco",
+      "code": "BR-PB-6324226",
+      "countryId": 3469034,
+      "countryCode": "BR",
+      "stateCode": "BR-PB",
+      "latitude": -6.63302,
+      "longitude": -38.0378
     },
     {
       "id": 6320415,
@@ -2202,6 +2191,17 @@
       "stateCode": "BR-PB",
       "latitude": -8.07634,
       "longitude": -37.05635
+    },
+    {
+      "id": 6324244,
+      "name": "Água Branca",
+      "nativeName": "Água Branca",
+      "code": "BR-PB-6324244",
+      "countryId": 3469034,
+      "countryCode": "BR",
+      "stateCode": "BR-PB",
+      "latitude": -7.46957,
+      "longitude": -37.661
     }
   ]
 }

@@ -4,6 +4,17 @@
   "countryCode": "BY",
   "cities": [
     {
+      "id": 630420,
+      "name": "Baranavichy",
+      "nativeName": "Baranovichskiy Rayon",
+      "code": "BY-BR-630420",
+      "countryId": 630336,
+      "countryCode": "BY",
+      "stateCode": "BY-BR",
+      "latitude": 53.16692,
+      "longitude": 25.90962
+    },
+    {
       "id": 828883,
       "name": "Baranovichy District",
       "nativeName": "Horad Baranavichy",
@@ -15,19 +26,8 @@
       "longitude": 25.97059
     },
     {
-      "id": 630420,
-      "name": "Baranovichy District",
-      "nativeName": "Baranovichskiy Rayon",
-      "code": "BY-BR-630420",
-      "countryId": 630336,
-      "countryCode": "BY",
-      "stateCode": "BY-BR",
-      "latitude": 53.16692,
-      "longitude": 25.90962
-    },
-    {
       "id": 629630,
-      "name": "Brest District",
+      "name": "Brest",
       "nativeName": "Brestskiy Rayon",
       "code": "BY-BR-629630",
       "countryId": 630336,
@@ -93,7 +93,7 @@
     },
     {
       "id": 627807,
-      "name": "Ivanava",
+      "name": "Ivanava District",
       "nativeName": "Ivanovskiy Rayon",
       "code": "BY-BR-627807",
       "countryId": 630336,
@@ -115,7 +115,7 @@
     },
     {
       "id": 627146,
-      "name": "Kobryn District",
+      "name": "Kobryn",
       "nativeName": "Kobrinskiy Rayon",
       "code": "BY-BR-627146",
       "countryId": 630336,
@@ -148,7 +148,7 @@
     },
     {
       "id": 625538,
-      "name": "Malaryta",
+      "name": "Malaryta District",
       "nativeName": "Maloritskiy Rayon",
       "code": "BY-BR-625538",
       "countryId": 630336,

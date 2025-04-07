@@ -620,17 +620,6 @@
       "longitude": -58.67242
     },
     {
-      "id": 12539821,
-      "name": "Kuruwatikuru",
-      "nativeName": "Kuruwatikuru",
-      "code": "GY-PM-12539821",
-      "countryId": 3378535,
-      "countryCode": "GY",
-      "stateCode": "GY-PM",
-      "latitude": 6.96276,
-      "longitude": -58.55483
-    },
-    {
       "id": 3377523,
       "name": "La Belle Alliance",
       "nativeName": "La Belle Alliance",
@@ -838,6 +827,17 @@
       "stateCode": "GY-PM",
       "latitude": 7.33474,
       "longitude": -58.48451
+    },
+    {
+      "id": 12539821,
+      "name": "Patientia",
+      "nativeName": "Kuruwatikuru",
+      "code": "GY-PM-12539821",
+      "countryId": 3378535,
+      "countryCode": "GY",
+      "stateCode": "GY-PM",
+      "latitude": 6.96276,
+      "longitude": -58.55483
     },
     {
       "id": 3376475,

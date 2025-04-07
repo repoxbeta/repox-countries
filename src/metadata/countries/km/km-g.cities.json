@@ -81,6 +81,17 @@
       "longitude": 43.38222
     },
     {
+      "id": 1092582,
+      "name": "Bandamadji",
+      "nativeName": "Bandamadji",
+      "code": "KM-G-1092582",
+      "countryId": 921929,
+      "countryCode": "KM",
+      "stateCode": "KM-G",
+      "latitude": -11.8925,
+      "longitude": 43.46111
+    },
+    {
       "id": 1092153,
       "name": "Bandamadji",
       "nativeName": "Bandamadji",
@@ -235,17 +246,6 @@
       "longitude": 43.26694
     },
     {
-      "id": 1092161,
-      "name": "Chamro",
-      "nativeName": "Chamro",
-      "code": "KM-G-1092161",
-      "countryId": 921929,
-      "countryCode": "KM",
-      "stateCode": "KM-G",
-      "latitude": -11.65444,
-      "longitude": 43.39139
-    },
-    {
       "id": 921944,
       "name": "Chezani",
       "nativeName": "Chezani",
@@ -334,6 +334,28 @@
       "longitude": 43.31444
     },
     {
+      "id": 1092588,
+      "name": "Didjoni",
+      "nativeName": "Didjoni",
+      "code": "KM-G-1092588",
+      "countryId": 921929,
+      "countryCode": "KM",
+      "stateCode": "KM-G",
+      "latitude": -11.88083,
+      "longitude": 43.48111
+    },
+    {
+      "id": 1092577,
+      "name": "Dima",
+      "nativeName": "Dima",
+      "code": "KM-G-1092577",
+      "countryId": 921929,
+      "countryCode": "KM",
+      "stateCode": "KM-G",
+      "latitude": -11.88639,
+      "longitude": 43.41083
+    },
+    {
       "id": 1091863,
       "name": "Dimadjou",
       "nativeName": "Dimadjou",
@@ -409,17 +431,6 @@
       "stateCode": "KM-G",
       "latitude": -11.80979,
       "longitude": 43.2951
-    },
-    {
-      "id": 921908,
-      "name": "Domoni",
-      "nativeName": "Domoni",
-      "code": "KM-G-921908",
-      "countryId": 921929,
-      "countryCode": "KM",
-      "stateCode": "KM-G",
-      "latitude": -11.48694,
-      "longitude": 43.26917
     },
     {
       "id": 1092550,
@@ -543,15 +554,15 @@
       "longitude": 43.42222
     },
     {
-      "id": 1092177,
-      "name": "Foumboudzivouni",
-      "nativeName": "Foumboudzivouni",
-      "code": "KM-G-1092177",
+      "id": 1092553,
+      "name": "Famaré",
+      "nativeName": "Famaré",
+      "code": "KM-G-1092553",
       "countryId": 921929,
       "countryCode": "KM",
       "stateCode": "KM-G",
-      "latitude": -11.70583,
-      "longitude": 43.42417
+      "latitude": -11.85861,
+      "longitude": 43.42333
     },
     {
       "id": 921884,
@@ -609,8 +620,19 @@
       "longitude": 43.25667
     },
     {
+      "id": 1092606,
+      "name": "Hada-Haïa",
+      "nativeName": "Hada-Haïa",
+      "code": "KM-G-1092606",
+      "countryId": 921929,
+      "countryCode": "KM",
+      "stateCode": "KM-G",
+      "latitude": -11.90972,
+      "longitude": 43.45278
+    },
+    {
       "id": 921876,
-      "name": "Hahaya-Aeroport",
+      "name": "Hahaya",
       "nativeName": "Hahaya",
       "code": "KM-G-921876",
       "countryId": 921929,
@@ -763,6 +785,17 @@
       "longitude": 43.2371
     },
     {
+      "id": 1092585,
+      "name": "Inané",
+      "nativeName": "Inané",
+      "code": "KM-G-1092585",
+      "countryId": 921929,
+      "countryCode": "KM",
+      "stateCode": "KM-G",
+      "latitude": -11.88778,
+      "longitude": 43.46611
+    },
+    {
       "id": 1092059,
       "name": "Irouhé",
       "nativeName": "Irouhé",
@@ -772,17 +805,6 @@
       "stateCode": "KM-G",
       "latitude": -11.63306,
       "longitude": 43.35222
-    },
-    {
-      "id": 1092167,
-      "name": "Itsambouni",
-      "nativeName": "Itsambouni",
-      "code": "KM-G-1092167",
-      "countryId": 921929,
-      "countryCode": "KM",
-      "stateCode": "KM-G",
-      "latitude": -11.67861,
-      "longitude": 43.26361
     },
     {
       "id": 1092344,
@@ -838,17 +860,6 @@
       "stateCode": "KM-G",
       "latitude": -11.58361,
       "longitude": 43.37583
-    },
-    {
-      "id": 921853,
-      "name": "Ivembeni",
-      "nativeName": "Ivembeni",
-      "code": "KM-G-921853",
-      "countryId": 921929,
-      "countryCode": "KM",
-      "stateCode": "KM-G",
-      "latitude": -11.47778,
-      "longitude": 43.31806
     },
     {
       "id": 921852,
@@ -950,6 +961,17 @@
       "longitude": 43.38722
     },
     {
+      "id": 1092530,
+      "name": "Kourani",
+      "nativeName": "Kourani",
+      "code": "KM-G-1092530",
+      "countryId": 921929,
+      "countryCode": "KM",
+      "stateCode": "KM-G",
+      "latitude": -11.85068,
+      "longitude": 43.42624
+    },
+    {
       "id": 1091991,
       "name": "Kourani",
       "nativeName": "Kourani",
@@ -961,15 +983,26 @@
       "longitude": 43.36833
     },
     {
-      "id": 1092530,
-      "name": "Kourani",
-      "nativeName": "Kourani",
-      "code": "KM-G-1092530",
+      "id": 1092579,
+      "name": "Kourani-Mkanga",
+      "nativeName": "Kourani-Mkanga",
+      "code": "KM-G-1092579",
       "countryId": 921929,
       "countryCode": "KM",
       "stateCode": "KM-G",
-      "latitude": -11.85068,
-      "longitude": 43.42624
+      "latitude": -11.88667,
+      "longitude": 43.44417
+    },
+    {
+      "id": 1092567,
+      "name": "Kové",
+      "nativeName": "Kové",
+      "code": "KM-G-1092567",
+      "countryId": 921929,
+      "countryCode": "KM",
+      "stateCode": "KM-G",
+      "latitude": -11.87583,
+      "longitude": 43.47222
     },
     {
       "id": 921926,
@@ -992,17 +1025,6 @@
       "stateCode": "KM-G",
       "latitude": -11.82167,
       "longitude": 43.27806
-    },
-    {
-      "id": 921820,
-      "name": "Madjoumadjou",
-      "nativeName": "Madjoumadjou",
-      "code": "KM-G-921820",
-      "countryId": 921929,
-      "countryCode": "KM",
-      "stateCode": "KM-G",
-      "latitude": -11.72833,
-      "longitude": 43.42278
     },
     {
       "id": 1092413,
@@ -1170,17 +1192,6 @@
       "longitude": 43.39167
     },
     {
-      "id": 921805,
-      "name": "Mboudé",
-      "nativeName": "Mboudé",
-      "code": "KM-G-921805",
-      "countryId": 921929,
-      "countryCode": "KM",
-      "stateCode": "KM-G",
-      "latitude": -11.69417,
-      "longitude": 43.41972
-    },
-    {
       "id": 921806,
       "name": "Mbéni",
       "nativeName": "Mbéni",
@@ -1247,28 +1258,6 @@
       "longitude": 43.31388
     },
     {
-      "id": 921803,
-      "name": "Mdé",
-      "nativeName": "Mdé",
-      "code": "KM-G-921803",
-      "countryId": 921929,
-      "countryCode": "KM",
-      "stateCode": "KM-G",
-      "latitude": -11.73611,
-      "longitude": 43.24056
-    },
-    {
-      "id": 1092164,
-      "name": "Mdé",
-      "nativeName": "Mdé",
-      "code": "KM-G-1092164",
-      "countryId": 921929,
-      "countryCode": "KM",
-      "stateCode": "KM-G",
-      "latitude": -11.67167,
-      "longitude": 43.27389
-    },
-    {
       "id": 1091668,
       "name": "Memboua Bouani",
       "nativeName": "Memboua Bouani",
@@ -1291,15 +1280,15 @@
       "longitude": 43.31361
     },
     {
-      "id": 921800,
-      "name": "Membéni",
-      "nativeName": "Membéni",
-      "code": "KM-G-921800",
+      "id": 1092600,
+      "name": "Midjendjéni",
+      "nativeName": "Midjendjéni",
+      "code": "KM-G-1092600",
       "countryId": 921929,
       "countryCode": "KM",
       "stateCode": "KM-G",
-      "latitude": -11.77389,
-      "longitude": 43.43306
+      "latitude": -11.91249,
+      "longitude": 43.48495
     },
     {
       "id": 1092152,
@@ -1313,26 +1302,15 @@
       "longitude": 43.26639
     },
     {
-      "id": 921793,
-      "name": "Milévani",
-      "nativeName": "Milévani",
-      "code": "KM-G-921793",
+      "id": 1092572,
+      "name": "Mindralou",
+      "nativeName": "Mindralou",
+      "code": "KM-G-1092572",
       "countryId": 921929,
       "countryCode": "KM",
       "stateCode": "KM-G",
-      "latitude": -11.5549,
-      "longitude": 43.29762
-    },
-    {
-      "id": 1092155,
-      "name": "Minassini",
-      "nativeName": "Minassini",
-      "code": "KM-G-1092155",
-      "countryId": 921929,
-      "countryCode": "KM",
-      "stateCode": "KM-G",
-      "latitude": -11.66278,
-      "longitude": 43.27333
+      "latitude": -11.88,
+      "longitude": 43.38917
     },
     {
       "id": 1091841,
@@ -1346,17 +1324,6 @@
       "longitude": 43.30167
     },
     {
-      "id": 921792,
-      "name": "Miréréni",
-      "nativeName": "Miréréni",
-      "code": "KM-G-921792",
-      "countryId": 921929,
-      "countryCode": "KM",
-      "stateCode": "KM-G",
-      "latitude": -11.69028,
-      "longitude": 43.40806
-    },
-    {
       "id": 1091844,
       "name": "Miréréni",
       "nativeName": "Miréréni",
@@ -1366,6 +1333,17 @@
       "stateCode": "KM-G",
       "latitude": -11.4475,
       "longitude": 43.27694
+    },
+    {
+      "id": 1092561,
+      "name": "Missouiri",
+      "nativeName": "Missouiri",
+      "code": "KM-G-1092561",
+      "countryId": 921929,
+      "countryCode": "KM",
+      "stateCode": "KM-G",
+      "latitude": -11.8525,
+      "longitude": 43.47028
     },
     {
       "id": 921786,
@@ -1399,6 +1377,28 @@
       "stateCode": "KM-G",
       "latitude": -11.73415,
       "longitude": 43.26622
+    },
+    {
+      "id": 1092559,
+      "name": "Mlalouankoudjou",
+      "nativeName": "Mlalouankoudjou",
+      "code": "KM-G-1092559",
+      "countryId": 921929,
+      "countryCode": "KM",
+      "stateCode": "KM-G",
+      "latitude": -11.86528,
+      "longitude": 43.45889
+    },
+    {
+      "id": 1092575,
+      "name": "Mlimani",
+      "nativeName": "Mlimani",
+      "code": "KM-G-1092575",
+      "countryId": 921929,
+      "countryCode": "KM",
+      "stateCode": "KM-G",
+      "latitude": -11.88528,
+      "longitude": 43.39889
     },
     {
       "id": 1091996,
@@ -1553,6 +1553,17 @@
       "stateCode": "KM-G",
       "latitude": -11.90139,
       "longitude": 43.47722
+    },
+    {
+      "id": 1092587,
+      "name": "Ngnambéni",
+      "nativeName": "Ngnambéni",
+      "code": "KM-G-1092587",
+      "countryId": 921929,
+      "countryCode": "KM",
+      "stateCode": "KM-G",
+      "latitude": -11.89444,
+      "longitude": 43.47056
     },
     {
       "id": 1091866,
@@ -1720,6 +1731,17 @@
       "longitude": 43.43611
     },
     {
+      "id": 1092573,
+      "name": "Ourondroni",
+      "nativeName": "Ourondroni",
+      "code": "KM-G-1092573",
+      "countryId": 921929,
+      "countryCode": "KM",
+      "stateCode": "KM-G",
+      "latitude": -11.88111,
+      "longitude": 43.3925
+    },
+    {
       "id": 921714,
       "name": "Ourovéni",
       "nativeName": "Ourovéni",
@@ -1874,17 +1896,6 @@
       "longitude": 43.38306
     },
     {
-      "id": 1092168,
-      "name": "Salimani",
-      "nativeName": "Salimani",
-      "code": "KM-G-1092168",
-      "countryId": 921929,
-      "countryCode": "KM",
-      "stateCode": "KM-G",
-      "latitude": -11.68415,
-      "longitude": 43.27504
-    },
-    {
       "id": 1091994,
       "name": "Salémani",
       "nativeName": "Salémani",
@@ -1894,17 +1905,6 @@
       "stateCode": "KM-G",
       "latitude": -11.50861,
       "longitude": 43.37778
-    },
-    {
-      "id": 1092154,
-      "name": "Samba",
-      "nativeName": "Samba",
-      "code": "KM-G-1092154",
-      "countryId": 921929,
-      "countryCode": "KM",
-      "stateCode": "KM-G",
-      "latitude": -11.66833,
-      "longitude": 43.26889
     },
     {
       "id": 1092543,
@@ -1973,6 +1973,17 @@
       "longitude": 43.28361
     },
     {
+      "id": 1092605,
+      "name": "Sima Ambouani",
+      "nativeName": "Sima Ambouani",
+      "code": "KM-G-1092605",
+      "countryId": 921929,
+      "countryCode": "KM",
+      "stateCode": "KM-G",
+      "latitude": -11.91556,
+      "longitude": 43.46167
+    },
+    {
       "id": 1091850,
       "name": "Simboussa",
       "nativeName": "Simboussa",
@@ -1982,6 +1993,17 @@
       "stateCode": "KM-G",
       "latitude": -11.46806,
       "longitude": 43.27778
+    },
+    {
+      "id": 1092569,
+      "name": "Simboussa",
+      "nativeName": "Simboussa",
+      "code": "KM-G-1092569",
+      "countryId": 921929,
+      "countryCode": "KM",
+      "stateCode": "KM-G",
+      "latitude": -11.87944,
+      "longitude": 43.45222
     },
     {
       "id": 921674,
@@ -2059,17 +2081,6 @@
       "stateCode": "KM-G",
       "latitude": -11.37722,
       "longitude": 43.305
-    },
-    {
-      "id": 1092178,
-      "name": "Tsangadjou",
-      "nativeName": "Tsangadjou",
-      "code": "KM-G-1092178",
-      "countryId": 921929,
-      "countryCode": "KM",
-      "stateCode": "KM-G",
-      "latitude": -11.715,
-      "longitude": 43.425
     },
     {
       "id": 1092169,
@@ -2158,17 +2169,6 @@
       "stateCode": "KM-G",
       "latitude": -11.75,
       "longitude": 43.24333
-    },
-    {
-      "id": 1092157,
-      "name": "Wela",
-      "nativeName": "Wela",
-      "code": "KM-G-1092157",
-      "countryId": 921929,
-      "countryCode": "KM",
-      "stateCode": "KM-G",
-      "latitude": -11.65361,
-      "longitude": 43.28056
     },
     {
       "id": 1092414,

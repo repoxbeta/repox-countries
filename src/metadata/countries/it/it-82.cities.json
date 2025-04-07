@@ -4,17 +4,6 @@
   "countryCode": "IT",
   "cities": [
     {
-      "id": 2525065,
-      "name": "Catania",
-      "nativeName": "Catania",
-      "code": "IT-82-2525065",
-      "countryId": 3175395,
-      "countryCode": "IT",
-      "stateCode": "IT-82",
-      "latitude": 37.47169,
-      "longitude": 14.84731
-    },
-    {
       "id": 2525763,
       "name": "Province of Agrigento",
       "nativeName": "Agrigento",
@@ -35,6 +24,17 @@
       "stateCode": "IT-82",
       "latitude": 37.37448,
       "longitude": 14.06421
+    },
+    {
+      "id": 2525065,
+      "name": "Province of Catania",
+      "nativeName": "Catania",
+      "code": "IT-82-2525065",
+      "countryId": 3175395,
+      "countryCode": "IT",
+      "stateCode": "IT-82",
+      "latitude": 37.47169,
+      "longitude": 14.84731
     },
     {
       "id": 2524818,

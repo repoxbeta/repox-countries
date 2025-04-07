@@ -686,6 +686,17 @@
       "longitude": -0.5
     },
     {
+      "id": 13192429,
+      "name": "North Northamptonshire",
+      "nativeName": "North Northamptonshire",
+      "code": "GB-ENG-13192429",
+      "countryId": 2635167,
+      "countryCode": "GB",
+      "stateCode": "GB-ENG",
+      "latitude": 52.42881,
+      "longitude": -0.62417
+    },
+    {
       "id": 3333177,
       "name": "North Somerset",
       "nativeName": "North Somerset",
@@ -717,17 +728,6 @@
       "stateCode": "GB-ENG",
       "latitude": 54.16667,
       "longitude": -1.5
-    },
-    {
-      "id": 2641429,
-      "name": "Northamptonshire",
-      "nativeName": "Northamptonshire",
-      "code": "GB-ENG-2641429",
-      "countryId": 2635167,
-      "countryCode": "GB",
-      "stateCode": "GB-ENG",
-      "latitude": 52.25,
-      "longitude": -0.83333
     },
     {
       "id": 2641235,
@@ -1212,6 +1212,17 @@
       "stateCode": "GB-ENG",
       "latitude": 51.41667,
       "longitude": -1.25
+    },
+    {
+      "id": 13192427,
+      "name": "West Northamptonshire",
+      "nativeName": "West Northamptonshire",
+      "code": "GB-ENG-13192427",
+      "countryId": 2635167,
+      "countryCode": "GB",
+      "stateCode": "GB-ENG",
+      "latitude": 52.22316,
+      "longitude": -1.03382
     },
     {
       "id": 2634258,

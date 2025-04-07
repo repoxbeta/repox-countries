@@ -4,17 +4,6 @@
   "countryCode": "HR",
   "cities": [
     {
-      "id": 3197726,
-      "name": "City of Koprivnica",
-      "nativeName": "Grad Koprivnica",
-      "code": "HR-06-3197726",
-      "countryId": 3202326,
-      "countryCode": "HR",
-      "stateCode": "HR-06",
-      "latitude": 46.16667,
-      "longitude": 16.83333
-    },
-    {
       "id": 11049322,
       "name": "Municipality of Drnje",
       "nativeName": "Drnje",
@@ -255,6 +244,17 @@
       "stateCode": "HR-06",
       "latitude": 46.24989,
       "longitude": 16.87011
+    },
+    {
+      "id": 3197726,
+      "name": "Town of Koprivnica",
+      "nativeName": "Grad Koprivnica",
+      "code": "HR-06-3197726",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-06",
+      "latitude": 46.16667,
+      "longitude": 16.83333
     },
     {
       "id": 3197228,

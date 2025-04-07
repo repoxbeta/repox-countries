@@ -26,17 +26,6 @@
       "longitude": 19.35639
     },
     {
-      "id": 3270986,
-      "name": "Avlija",
-      "nativeName": "Avlija",
-      "code": "ME-14-3270986",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-14",
-      "latitude": 43.52333,
-      "longitude": 19.15722
-    },
-    {
       "id": 3297530,
       "name": "Bajovina",
       "nativeName": "Bajovina",
@@ -224,6 +213,17 @@
       "longitude": 19.09833
     },
     {
+      "id": 3318571,
+      "name": "Donji Gradac",
+      "nativeName": "Donji Gradac",
+      "code": "ME-14-3318571",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-14",
+      "latitude": 43.39417,
+      "longitude": 19.15278
+    },
+    {
       "id": 3303997,
       "name": "Dovolja",
       "nativeName": "Dovolja",
@@ -312,17 +312,6 @@
       "longitude": 19.30722
     },
     {
-      "id": 3199709,
-      "name": "Gradina",
-      "nativeName": "Gradina",
-      "code": "ME-14-3199709",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-14",
-      "latitude": 43.10028,
-      "longitude": 19.34444
-    },
-    {
       "id": 3342657,
       "name": "Gradina",
       "nativeName": "Gradina",
@@ -334,15 +323,15 @@
       "longitude": 19.27889
     },
     {
-      "id": 3295592,
-      "name": "Hajlovina",
-      "nativeName": "Hajlovina",
-      "code": "ME-14-3295592",
+      "id": 3199709,
+      "name": "Gradina",
+      "nativeName": "Gradina",
+      "code": "ME-14-3199709",
       "countryId": 3194884,
       "countryCode": "ME",
       "stateCode": "ME-14",
-      "latitude": 43.46667,
-      "longitude": 18.97389
+      "latitude": 43.10028,
+      "longitude": 19.34444
     },
     {
       "id": 3298442,
@@ -400,6 +389,17 @@
       "longitude": 19.27861
     },
     {
+      "id": 3317749,
+      "name": "Kalipolje",
+      "nativeName": "Kalipolje",
+      "code": "ME-14-3317749",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-14",
+      "latitude": 43.21667,
+      "longitude": 19.45111
+    },
+    {
       "id": 3299031,
       "name": "Karačići",
       "nativeName": "Karačići",
@@ -420,17 +420,6 @@
       "stateCode": "ME-14",
       "latitude": 43.27556,
       "longitude": 19.345
-    },
-    {
-      "id": 3272891,
-      "name": "Kave",
-      "nativeName": "Kave",
-      "code": "ME-14-3272891",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-14",
-      "latitude": 43.52139,
-      "longitude": 19.0175
     },
     {
       "id": 3298737,
@@ -686,17 +675,6 @@
       "longitude": 19.245
     },
     {
-      "id": 3195489,
-      "name": "Marinac",
-      "nativeName": "Marinac",
-      "code": "ME-14-3195489",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-14",
-      "latitude": 43.4925,
-      "longitude": 19.00722
-    },
-    {
       "id": 3304453,
       "name": "Meljak",
       "nativeName": "Meljak",
@@ -752,17 +730,6 @@
       "longitude": 18.99361
     },
     {
-      "id": 3194205,
-      "name": "Odžak",
-      "nativeName": "Odžak",
-      "code": "ME-14-3194205",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-14",
-      "latitude": 43.27222,
-      "longitude": 19.35194
-    },
-    {
       "id": 3342600,
       "name": "Odžak",
       "nativeName": "Odžak",
@@ -772,6 +739,17 @@
       "stateCode": "ME-14",
       "latitude": 43.36694,
       "longitude": 19.24083
+    },
+    {
+      "id": 3194205,
+      "name": "Odžak",
+      "nativeName": "Odžak",
+      "code": "ME-14-3194205",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-14",
+      "latitude": 43.27222,
+      "longitude": 19.35194
     },
     {
       "id": 3193591,
@@ -827,6 +805,17 @@
       "stateCode": "ME-14",
       "latitude": 43.15611,
       "longitude": 19.30611
+    },
+    {
+      "id": 3318547,
+      "name": "Podgradina",
+      "nativeName": "Podgradina",
+      "code": "ME-14-3318547",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-14",
+      "latitude": 43.49694,
+      "longitude": 19.15972
     },
     {
       "id": 3304552,
@@ -1027,6 +1016,17 @@
       "longitude": 19.11056
     },
     {
+      "id": 3317660,
+      "name": "Ranče",
+      "nativeName": "Ranče",
+      "code": "ME-14-3317660",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-14",
+      "latitude": 43.3375,
+      "longitude": 19.46722
+    },
+    {
       "id": 3304686,
       "name": "Raovići",
       "nativeName": "Raovići",
@@ -1047,17 +1047,6 @@
       "stateCode": "ME-14",
       "latitude": 43.255,
       "longitude": 19.38722
-    },
-    {
-      "id": 3273299,
-      "name": "Ravni",
-      "nativeName": "Ravni",
-      "code": "ME-14-3273299",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-14",
-      "latitude": 43.53389,
-      "longitude": 19.02806
     },
     {
       "id": 3298827,
@@ -1115,6 +1104,17 @@
       "longitude": 19.37833
     },
     {
+      "id": 3318565,
+      "name": "Selo",
+      "nativeName": "Selo",
+      "code": "ME-14-3318565",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-14",
+      "latitude": 43.42333,
+      "longitude": 19.02639
+    },
+    {
       "id": 3298742,
       "name": "Sirčići",
       "nativeName": "Sirčići",
@@ -1135,6 +1135,17 @@
       "stateCode": "ME-14",
       "latitude": 43.35889,
       "longitude": 19.44444
+    },
+    {
+      "id": 3317788,
+      "name": "Slatka",
+      "nativeName": "Slatka",
+      "code": "ME-14-3317788",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-14",
+      "latitude": 43.17444,
+      "longitude": 19.52472
     },
     {
       "id": 3304117,
@@ -1247,17 +1258,6 @@
       "longitude": 19.51056
     },
     {
-      "id": 3295568,
-      "name": "Vojnići",
-      "nativeName": "Vojnići",
-      "code": "ME-14-3295568",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-14",
-      "latitude": 43.48139,
-      "longitude": 18.98833
-    },
-    {
       "id": 3187440,
       "name": "Vojtina",
       "nativeName": "Vojtina",
@@ -1278,17 +1278,6 @@
       "stateCode": "ME-14",
       "latitude": 43.345,
       "longitude": 19.13306
-    },
-    {
-      "id": 3295682,
-      "name": "Vukasovići",
-      "nativeName": "Vukasovići",
-      "code": "ME-14-3295682",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-14",
-      "latitude": 43.47,
-      "longitude": 18.98833
     },
     {
       "id": 3299175,
@@ -1432,6 +1421,17 @@
       "stateCode": "ME-14",
       "latitude": 43.35444,
       "longitude": 19.31722
+    },
+    {
+      "id": 3318560,
+      "name": "Živkov Do",
+      "nativeName": "Živkov Do",
+      "code": "ME-14-3318560",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-14",
+      "latitude": 43.44639,
+      "longitude": 19.16917
     },
     {
       "id": 3203641,
