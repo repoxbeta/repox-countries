@@ -5,7 +5,7 @@
   "cities": [
     {
       "id": 161288,
-      "name": "Bagamoyo District Council",
+      "name": "Bagamoyo District",
       "nativeName": "Bagamoyo",
       "code": "TZ-19-161288",
       "countryId": 149590,
@@ -27,7 +27,7 @@
     },
     {
       "id": 9998177,
-      "name": "Kibaha Town",
+      "name": "Kibaha Urban",
       "nativeName": "Kibaha Town",
       "code": "TZ-19-9998177",
       "countryId": 149590,
@@ -35,6 +35,17 @@
       "stateCode": "TZ-19",
       "latitude": -6.69111,
       "longitude": 38.90605
+    },
+    {
+      "id": 156995,
+      "name": "Kisarawe District Council",
+      "nativeName": "Kisarawe",
+      "code": "TZ-19-156995",
+      "countryId": 149590,
+      "countryCode": "TZ",
+      "stateCode": "TZ-19",
+      "latitude": -7.14586,
+      "longitude": 38.6952
     },
     {
       "id": 155411,
@@ -68,17 +79,6 @@
       "stateCode": "TZ-19",
       "latitude": -7.95743,
       "longitude": 38.72662
-    },
-    {
-      "id": 156995,
-      "name": "Uzaramo District",
-      "nativeName": "Kisarawe",
-      "code": "TZ-19-156995",
-      "countryId": 149590,
-      "countryCode": "TZ",
-      "stateCode": "TZ-19",
-      "latitude": -7.14586,
-      "longitude": 38.6952
     }
   ]
 }

@@ -356,6 +356,17 @@
       "longitude": -76.5305
     },
     {
+      "id": 11495659,
+      "name": "Saint Margaret's Bay",
+      "nativeName": "St. Margaret's Bay",
+      "code": "JM-04-11495659",
+      "countryId": 3489940,
+      "countryCode": "JM",
+      "stateCode": "JM-04",
+      "latitude": 18.19084,
+      "longitude": -76.52888
+    },
+    {
       "id": 11495170,
       "name": "Sherwood Forest",
       "nativeName": "Sherwood Forest",
@@ -409,17 +420,6 @@
       "stateCode": "JM-04",
       "latitude": 18.12591,
       "longitude": -76.72909
-    },
-    {
-      "id": 11495659,
-      "name": "St Margarets Bay",
-      "nativeName": "St. Margaret's Bay",
-      "code": "JM-04-11495659",
-      "countryId": 3489940,
-      "countryCode": "JM",
-      "stateCode": "JM-04",
-      "latitude": 18.19084,
-      "longitude": -76.52888
     },
     {
       "id": 11495024,

@@ -4,6 +4,17 @@
   "countryCode": "HR",
   "cities": [
     {
+      "id": 7577034,
+      "name": "City of Dubrovnik",
+      "nativeName": "Grad Dubrovnik",
+      "code": "HR-19-7577034",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-19",
+      "latitude": 42.64861,
+      "longitude": 18.09397
+    },
+    {
       "id": 11054489,
       "name": "Municipality of Blato",
       "nativeName": "Blato",
@@ -189,17 +200,6 @@
       "stateCode": "HR-19",
       "latitude": 42.62683,
       "longitude": 18.19475
-    },
-    {
-      "id": 7577034,
-      "name": "Town of Dubrovnik",
-      "nativeName": "Grad Dubrovnik",
-      "code": "HR-19-7577034",
-      "countryId": 3202326,
-      "countryCode": "HR",
-      "stateCode": "HR-19",
-      "latitude": 42.64861,
-      "longitude": 18.09397
     },
     {
       "id": 3197709,

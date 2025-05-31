@@ -312,17 +312,6 @@
       "longitude": -61.13001
     },
     {
-      "id": 12535713,
-      "name": "Lowmans",
-      "nativeName": "Lowmans",
-      "code": "VC-01-12535713",
-      "countryId": 3577815,
-      "countryCode": "VC",
-      "stateCode": "VC-01",
-      "latitude": 13.2855,
-      "longitude": -61.14127
-    },
-    {
       "id": 12535716,
       "name": "Mangrove",
       "nativeName": "Mangrove",
@@ -332,6 +321,17 @@
       "stateCode": "VC-01",
       "latitude": 13.25263,
       "longitude": -61.11865
+    },
+    {
+      "id": 12535713,
+      "name": "McIntyre Village",
+      "nativeName": "Lowmans",
+      "code": "VC-01-12535713",
+      "countryId": 3577815,
+      "countryCode": "VC",
+      "stateCode": "VC-01",
+      "latitude": 13.2855,
+      "longitude": -61.14127
     },
     {
       "id": 3577873,

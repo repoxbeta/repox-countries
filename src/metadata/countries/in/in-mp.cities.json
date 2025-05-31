@@ -49,7 +49,7 @@
     },
     {
       "id": 8740088,
-      "name": "Barwani District",
+      "name": "Barwani",
       "nativeName": "Barwani",
       "code": "IN-MP-8740088",
       "countryId": 1269750,
@@ -225,7 +225,7 @@
     },
     {
       "id": 1269940,
-      "name": "Hoshangabad",
+      "name": "Hoshangābād District",
       "nativeName": "Narmadapuram district",
       "code": "IN-MP-1269940",
       "countryId": 1269750,
@@ -236,7 +236,7 @@
     },
     {
       "id": 1269744,
-      "name": "Indore district",
+      "name": "Indore",
       "nativeName": "Indore",
       "code": "IN-MP-1269744",
       "countryId": 1269750,
@@ -247,7 +247,7 @@
     },
     {
       "id": 1269634,
-      "name": "Jabalpur",
+      "name": "Jabalpur district",
       "nativeName": "Jabalpur",
       "code": "IN-MP-1269634",
       "countryId": 1269750,
@@ -477,17 +477,6 @@
       "longitude": 81.5
     },
     {
-      "id": 1256694,
-      "name": "Shajapur",
-      "nativeName": "Shājāpur",
-      "code": "IN-MP-1256694",
-      "countryId": 1269750,
-      "countryCode": "IN",
-      "stateCode": "IN-MP",
-      "latitude": 23.5,
-      "longitude": 76.25
-    },
-    {
       "id": 7627240,
       "name": "Sheopur",
       "nativeName": "Sheopur",
@@ -508,6 +497,17 @@
       "stateCode": "IN-MP",
       "latitude": 25.5,
       "longitude": 78
+    },
+    {
+      "id": 1256694,
+      "name": "Shājāpur District",
+      "nativeName": "Shājāpur",
+      "code": "IN-MP-1256694",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-MP",
+      "latitude": 23.5,
+      "longitude": 76.25
     },
     {
       "id": 1256370,
@@ -544,7 +544,7 @@
     },
     {
       "id": 1253915,
-      "name": "Ujjain district",
+      "name": "Ujjain",
       "nativeName": "Ujjain",
       "code": "IN-MP-1253915",
       "countryId": 1269750,
@@ -555,7 +555,7 @@
     },
     {
       "id": 9072769,
-      "name": "Umaria District",
+      "name": "Umaria",
       "nativeName": "Umaria District",
       "code": "IN-MP-9072769",
       "countryId": 1269750,

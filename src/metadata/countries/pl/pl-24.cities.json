@@ -4,17 +4,6 @@
   "countryCode": "PL",
   "cities": [
     {
-      "id": 7531032,
-      "name": "Bielsko County",
-      "nativeName": "Powiat Bielski",
-      "code": "PL-24-7531032",
-      "countryId": 798544,
-      "countryCode": "PL",
-      "stateCode": "PL-24",
-      "latitude": 49.76175,
-      "longitude": 19.1066
-    },
-    {
       "id": 7530791,
       "name": "Bielsko-Biała",
       "nativeName": "Bielsko-Biała",
@@ -24,6 +13,17 @@
       "stateCode": "PL-24",
       "latitude": 49.81204,
       "longitude": 19.03899
+    },
+    {
+      "id": 7531032,
+      "name": "Bielsko-Biała County",
+      "nativeName": "Powiat Bielski",
+      "code": "PL-24-7531032",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-24",
+      "latitude": 49.76175,
+      "longitude": 19.1066
     },
     {
       "id": 7531034,

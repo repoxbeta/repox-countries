@@ -4,6 +4,17 @@
   "countryCode": "TR",
   "cities": [
     {
+      "id": 7732202,
+      "name": "Batman",
+      "nativeName": "Batman",
+      "code": "TR-72-7732202",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-72",
+      "latitude": 37.84362,
+      "longitude": 41.18341
+    },
+    {
       "id": 440476,
       "name": "Beşiri İlçesi",
       "nativeName": "Beşiri İlçesi",
@@ -46,17 +57,6 @@
       "stateCode": "TR-72",
       "latitude": 38.19249,
       "longitude": 41.48705
-    },
-    {
-      "id": 7732202,
-      "name": "Merkez",
-      "nativeName": "Merkez",
-      "code": "TR-72-7732202",
-      "countryId": 298795,
-      "countryCode": "TR",
-      "stateCode": "TR-72",
-      "latitude": 37.84362,
-      "longitude": 41.18341
     },
     {
       "id": 8630819,

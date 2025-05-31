@@ -368,7 +368,7 @@
     },
     {
       "id": 3378924,
-      "name": "De Willem",
+      "name": "De William",
       "nativeName": "De William",
       "code": "GY-ES-3378924",
       "countryId": 3378535,
@@ -741,6 +741,17 @@
       "longitude": -58.18722
     },
     {
+      "id": 12539788,
+      "name": "Kumaka",
+      "nativeName": "Sarepapa",
+      "code": "GY-ES-12539788",
+      "countryId": 3378535,
+      "countryCode": "GY",
+      "stateCode": "GY-ES",
+      "latitude": 6.80188,
+      "longitude": -58.59637
+    },
+    {
       "id": 3377535,
       "name": "La Bagatelle",
       "nativeName": "La Bagatelle",
@@ -840,17 +851,6 @@
       "longitude": -58.28903
     },
     {
-      "id": 3377341,
-      "name": "Look Out",
-      "nativeName": "Look Out",
-      "code": "GY-ES-3377341",
-      "countryId": 3378535,
-      "countryCode": "GY",
-      "stateCode": "GY-ES",
-      "latitude": 6.8446,
-      "longitude": -58.44043
-    },
-    {
       "id": 3377343,
       "name": "Lookabu",
       "nativeName": "Lookabu",
@@ -860,6 +860,17 @@
       "stateCode": "GY-ES",
       "latitude": 6.80457,
       "longitude": -58.48088
+    },
+    {
+      "id": 3377341,
+      "name": "Lookout",
+      "nativeName": "Look Out",
+      "code": "GY-ES-3377341",
+      "countryId": 3378535,
+      "countryCode": "GY",
+      "stateCode": "GY-ES",
+      "latitude": 6.8446,
+      "longitude": -58.44043
     },
     {
       "id": 3377336,
@@ -1410,17 +1421,6 @@
       "stateCode": "GY-ES",
       "latitude": 6.96562,
       "longitude": -58.46381
-    },
-    {
-      "id": 12539788,
-      "name": "Sarepapa",
-      "nativeName": "Sarepapa",
-      "code": "GY-ES-12539788",
-      "countryId": 3378535,
-      "countryCode": "GY",
-      "stateCode": "GY-ES",
-      "latitude": 6.80188,
-      "longitude": -58.59637
     },
     {
       "id": 3376077,

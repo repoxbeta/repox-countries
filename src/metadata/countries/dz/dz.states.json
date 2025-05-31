@@ -14,17 +14,6 @@
       "longitude": -0.91667
     },
     {
-      "id": 2508226,
-      "name": "Ain Defla",
-      "nativeName": "Wilaya de Aïn Defla",
-      "code": "DZ-44",
-      "internalCode": "44",
-      "countryId": 2589581,
-      "countryCode": "DZ",
-      "latitude": 36.16667,
-      "longitude": 2.16667
-    },
-    {
       "id": 2507475,
       "name": "Algiers",
       "nativeName": "Wilaya d’ Alger",
@@ -45,6 +34,17 @@
       "countryCode": "DZ",
       "latitude": 36.83333,
       "longitude": 7.58333
+    },
+    {
+      "id": 2508226,
+      "name": "Aïn Defla",
+      "nativeName": "Wilaya de Aïn Defla",
+      "code": "DZ-44",
+      "internalCode": "44",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "latitude": 36.16667,
+      "longitude": 2.16667
     },
     {
       "id": 2507899,
@@ -69,15 +69,15 @@
       "longitude": 5.91667
     },
     {
-      "id": 2505325,
-      "name": "Bejaia",
-      "nativeName": "Wilaya de Bejaïa",
-      "code": "DZ-06",
-      "internalCode": "06",
+      "id": 2505525,
+      "name": "Bechar",
+      "nativeName": "Wilaya de Béchar",
+      "code": "DZ-08",
+      "internalCode": "08",
       "countryId": 2589581,
       "countryCode": "DZ",
-      "latitude": 36.66667,
-      "longitude": 4.91667
+      "latitude": 31.65632,
+      "longitude": -2.36701
     },
     {
       "id": 12226385,
@@ -157,15 +157,15 @@
       "longitude": 3.66667
     },
     {
-      "id": 2505525,
-      "name": "Béchar",
-      "nativeName": "Wilaya de Béchar",
-      "code": "DZ-08",
-      "internalCode": "08",
+      "id": 2505325,
+      "name": "Béjaïa",
+      "nativeName": "Wilaya de Bejaïa",
+      "code": "DZ-06",
+      "internalCode": "06",
       "countryId": 2589581,
       "countryCode": "DZ",
-      "latitude": 31.65632,
-      "longitude": -2.36701
+      "latitude": 36.66667,
+      "longitude": 4.91667
     },
     {
       "id": 2501296,
@@ -355,17 +355,6 @@
       "longitude": 2.66667
     },
     {
-      "id": 2486682,
-      "name": "M'Sila",
-      "nativeName": "M’sila",
-      "code": "DZ-28",
-      "internalCode": "28",
-      "countryId": 2589581,
-      "countryCode": "DZ",
-      "latitude": 35.28333,
-      "longitude": 4.25
-    },
-    {
       "id": 2490095,
       "name": "Mascara",
       "nativeName": "Wilaya de Mascara",
@@ -408,6 +397,17 @@
       "countryCode": "DZ",
       "latitude": 36,
       "longitude": 0.33333
+    },
+    {
+      "id": 2486682,
+      "name": "Msila",
+      "nativeName": "M’sila",
+      "code": "DZ-28",
+      "internalCode": "28",
+      "countryId": 2589581,
+      "countryCode": "DZ",
+      "latitude": 35.28333,
+      "longitude": 4.25
     },
     {
       "id": 2486512,

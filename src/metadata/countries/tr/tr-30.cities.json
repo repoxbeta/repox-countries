@@ -4,6 +4,28 @@
   "countryCode": "TR",
   "cities": [
     {
+      "id": 13308781,
+      "name": "Derecik",
+      "nativeName": "Derecik",
+      "code": "TR-30-13308781",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-30",
+      "latitude": 37.10426,
+      "longitude": 44.34891
+    },
+    {
+      "id": 13308785,
+      "name": "Hakkari",
+      "nativeName": "Hakkari",
+      "code": "TR-30-13308785",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-30",
+      "latitude": 37.56726,
+      "longitude": 43.68949
+    },
+    {
       "id": 7733232,
       "name": "Yüksekova",
       "nativeName": "Yüksekova",

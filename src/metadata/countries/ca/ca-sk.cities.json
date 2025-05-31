@@ -587,17 +587,6 @@
       "longitude": -102.98585
     },
     {
-      "id": 12824271,
-      "name": "Fairlight",
-      "nativeName": "Fairlight",
-      "code": "CA-SK-12824271",
-      "countryId": 6251999,
-      "countryCode": "CA",
-      "stateCode": "CA-SK",
-      "latitude": 49.87719,
-      "longitude": -101.67969
-    },
-    {
       "id": 12824242,
       "name": "Fenwood",
       "nativeName": "Fenwood",
@@ -750,6 +739,17 @@
       "stateCode": "CA-SK",
       "latitude": 49.39485,
       "longitude": -103.70465
+    },
+    {
+      "id": 12823013,
+      "name": "Govan",
+      "nativeName": "Govan",
+      "code": "CA-SK-12823013",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-SK",
+      "latitude": 51.31084,
+      "longitude": -104.99498
     },
     {
       "id": 12823903,
@@ -1214,17 +1214,6 @@
       "longitude": -107.07118
     },
     {
-      "id": 12824266,
-      "name": "Manor",
-      "nativeName": "Manor",
-      "code": "CA-SK-12824266",
-      "countryId": 6251999,
-      "countryCode": "CA",
-      "stateCode": "CA-SK",
-      "latitude": 49.60256,
-      "longitude": -102.08548
-    },
-    {
       "id": 12824107,
       "name": "Markinch",
       "nativeName": "Markinch",
@@ -1245,17 +1234,6 @@
       "stateCode": "CA-SK",
       "latitude": 52.29169,
       "longitude": -106.65921
-    },
-    {
-      "id": 12824269,
-      "name": "Maryfield",
-      "nativeName": "Maryfield",
-      "code": "CA-SK-12824269",
-      "countryId": 6251999,
-      "countryCode": "CA",
-      "stateCode": "CA-SK",
-      "latitude": 49.83523,
-      "longitude": -101.52695
     },
     {
       "id": 12824260,
@@ -1443,6 +1421,17 @@
       "stateCode": "CA-SK",
       "latitude": 49.96398,
       "longitude": -107.62869
+    },
+    {
+      "id": 12823009,
+      "name": "Norquay",
+      "nativeName": "Norquay",
+      "code": "CA-SK-12823009",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-SK",
+      "latitude": 51.88451,
+      "longitude": -102.08646
     },
     {
       "id": 12823378,
@@ -2092,6 +2081,17 @@
       "stateCode": "CA-SK",
       "latitude": 51.68359,
       "longitude": -105.46586
+    },
+    {
+      "id": 12823006,
+      "name": "Watson",
+      "nativeName": "Watson",
+      "code": "CA-SK-12823006",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-SK",
+      "latitude": 52.12904,
+      "longitude": -104.51982
     },
     {
       "id": 12824124,

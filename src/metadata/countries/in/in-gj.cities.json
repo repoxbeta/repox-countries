@@ -5,7 +5,7 @@
   "cities": [
     {
       "id": 1279234,
-      "name": "Ahmadābād District",
+      "name": "Ahmadabad",
       "nativeName": "Ahmadābād",
       "code": "IN-GJ-1279234",
       "countryId": 1269750,
@@ -16,7 +16,7 @@
     },
     {
       "id": 1278716,
-      "name": "Amreli district",
+      "name": "Amreli",
       "nativeName": "Amreli",
       "code": "IN-GJ-1278716",
       "countryId": 1269750,
@@ -27,7 +27,7 @@
     },
     {
       "id": 7627221,
-      "name": "Anand",
+      "name": "Anand DIstrict",
       "nativeName": "Anand",
       "code": "IN-GJ-7627221",
       "countryId": 1269750,
@@ -49,7 +49,7 @@
     },
     {
       "id": 1277417,
-      "name": "Banas Kantha",
+      "name": "Banaskantha district",
       "nativeName": "Banās Kāntha",
       "code": "IN-GJ-1277417",
       "countryId": 1269750,
@@ -60,7 +60,7 @@
     },
     {
       "id": 1276101,
-      "name": "Bharuch",
+      "name": "Bharūch District",
       "nativeName": "Bharūch",
       "code": "IN-GJ-1276101",
       "countryId": 1269750,
@@ -136,6 +136,17 @@
       "longitude": 74
     },
     {
+      "id": 1271716,
+      "name": "Gandhinagar",
+      "nativeName": "Gāndhīnagar",
+      "code": "IN-GJ-1271716",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-GJ",
+      "latitude": 23.21484,
+      "longitude": 72.64984
+    },
+    {
       "id": 11875531,
       "name": "Gir Somnath",
       "nativeName": "Gir Somnath",
@@ -147,19 +158,8 @@
       "longitude": 70.3671
     },
     {
-      "id": 1271716,
-      "name": "Gāndhīnagar District",
-      "nativeName": "Gāndhīnagar",
-      "code": "IN-GJ-1271716",
-      "countryId": 1269750,
-      "countryCode": "IN",
-      "stateCode": "IN-GJ",
-      "latitude": 23.21484,
-      "longitude": 72.64984
-    },
-    {
       "id": 1269318,
-      "name": "Jamnagar district",
+      "name": "Jamnagar",
       "nativeName": "Jāmnagar",
       "code": "IN-GJ-1269318",
       "countryId": 1269750,
@@ -181,7 +181,7 @@
     },
     {
       "id": 1266810,
-      "name": "Kheda district",
+      "name": "Kheda",
       "nativeName": "Kheda",
       "code": "IN-GJ-1266810",
       "countryId": 1269750,
@@ -313,7 +313,7 @@
     },
     {
       "id": 1255365,
-      "name": "Surat District",
+      "name": "Surat",
       "nativeName": "Sūrat",
       "code": "IN-GJ-1255365",
       "countryId": 1269750,

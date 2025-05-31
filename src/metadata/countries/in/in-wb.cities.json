@@ -26,8 +26,19 @@
       "longitude": 87.25
     },
     {
+      "id": 1277030,
+      "name": "Bardhaman District",
+      "nativeName": "Barddhamān",
+      "code": "IN-WB-1277030",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-WB",
+      "latitude": 23.25,
+      "longitude": 87.75
+    },
+    {
       "id": 1275525,
-      "name": "Bīrbhūm District",
+      "name": "Birbhum",
       "nativeName": "Bīrbhūm",
       "code": "IN-WB-1275525",
       "countryId": 1269750,
@@ -48,17 +59,6 @@
       "longitude": 89.5
     },
     {
-      "id": 8299687,
-      "name": "Dakshin Dinajpur district",
-      "nativeName": "Dakshin Dinajpur",
-      "code": "IN-WB-8299687",
-      "countryId": 1269750,
-      "countryCode": "IN",
-      "stateCode": "IN-WB",
-      "latitude": 25.22,
-      "longitude": 88.76
-    },
-    {
       "id": 1273468,
       "name": "Darjeeling",
       "nativeName": "Darjiling",
@@ -68,6 +68,28 @@
       "stateCode": "IN-WB",
       "latitude": 26.75,
       "longitude": 88.25
+    },
+    {
+      "id": 8299687,
+      "name": "Dinajpur Dakshin",
+      "nativeName": "Dakshin Dinajpur",
+      "code": "IN-WB-8299687",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-WB",
+      "latitude": 25.22,
+      "longitude": 88.76
+    },
+    {
+      "id": 8335142,
+      "name": "Dinajpur Uttar",
+      "nativeName": "Uttar Dinajpur",
+      "code": "IN-WB-8335142",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-WB",
+      "latitude": 25.614,
+      "longitude": 88.126
     },
     {
       "id": 1269911,
@@ -170,7 +192,7 @@
     },
     {
       "id": 7627237,
-      "name": "Murshidabad",
+      "name": "Murshidabad District",
       "nativeName": "Murshidabad",
       "code": "IN-WB-7627237",
       "countryId": 1269750,
@@ -192,7 +214,7 @@
     },
     {
       "id": 8335144,
-      "name": "North 24 Parganas",
+      "name": "North 24 Parganas District",
       "nativeName": "North 24 Parganas",
       "code": "IN-WB-8335144",
       "countryId": 1269750,
@@ -211,17 +233,6 @@
       "stateCode": "IN-WB",
       "latitude": 23.68127,
       "longitude": 86.97852
-    },
-    {
-      "id": 1277030,
-      "name": "Purba Bardhaman",
-      "nativeName": "Barddhamān",
-      "code": "IN-WB-1277030",
-      "countryId": 1269750,
-      "countryCode": "IN",
-      "stateCode": "IN-WB",
-      "latitude": 23.25,
-      "longitude": 87.75
     },
     {
       "id": 1259164,
@@ -244,17 +255,6 @@
       "stateCode": "IN-WB",
       "latitude": 22.16197,
       "longitude": 88.4317
-    },
-    {
-      "id": 8335142,
-      "name": "Uttar Dinajpur District",
-      "nativeName": "Uttar Dinajpur",
-      "code": "IN-WB-8335142",
-      "countryId": 1269750,
-      "countryCode": "IN",
-      "stateCode": "IN-WB",
-      "latitude": 25.614,
-      "longitude": 88.126
     }
   ]
 }

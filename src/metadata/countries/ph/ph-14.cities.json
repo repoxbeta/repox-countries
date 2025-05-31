@@ -4,6 +4,28 @@
   "countryCode": "PH",
   "cities": [
     {
+      "id": 13308209,
+      "name": "Maguindanao del Norte",
+      "nativeName": "Maguindanao del Norte",
+      "code": "PH-14-13308209",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-14",
+      "latitude": 7.34477,
+      "longitude": 124.31359
+    },
+    {
+      "id": 13308207,
+      "name": "Maguindanao del Sur",
+      "nativeName": "Maguindanao del Sur",
+      "code": "PH-14-13308207",
+      "countryId": 1694008,
+      "countryCode": "PH",
+      "stateCode": "PH-14",
+      "latitude": 6.93597,
+      "longitude": 124.49211
+    },
+    {
       "id": 1726404,
       "name": "Province of Basilan",
       "nativeName": "Province of Basilan",
@@ -24,17 +46,6 @@
       "stateCode": "PH-14",
       "latitude": 7.8525,
       "longitude": 124.45862
-    },
-    {
-      "id": 1703701,
-      "name": "Province of Maguindanao",
-      "nativeName": "Province of Maguindanao",
-      "code": "PH-14-1703701",
-      "countryId": 1694008,
-      "countryCode": "PH",
-      "stateCode": "PH-14",
-      "latitude": 7.13333,
-      "longitude": 124.3
     },
     {
       "id": 1685370,

@@ -16,7 +16,7 @@
     },
     {
       "id": 7369798,
-      "name": "Aisai",
+      "name": "Aisai-shi",
       "nativeName": "Aisai Shi",
       "code": "JP-23-7369798",
       "countryId": 1861060,
@@ -49,7 +49,7 @@
     },
     {
       "id": 1865293,
-      "name": "Anjō-shi",
+      "name": "Anjo",
       "nativeName": "Anjō Shi",
       "code": "JP-23-1865293",
       "countryId": 1861060,
@@ -70,17 +70,6 @@
       "longitude": 137.05
     },
     {
-      "id": 1864539,
-      "name": "Chita",
-      "nativeName": "Chita Shi",
-      "code": "JP-23-1864539",
-      "countryId": 1861060,
-      "countryCode": "JP",
-      "stateCode": "JP-23",
-      "latitude": 34.97048,
-      "longitude": 136.8649
-    },
-    {
       "id": 1864542,
       "name": "Chita-gun",
       "nativeName": "Chita-gun",
@@ -90,6 +79,17 @@
       "stateCode": "JP-23",
       "latitude": 34.83625,
       "longitude": 136.91577
+    },
+    {
+      "id": 1864539,
+      "name": "Chita-shi",
+      "nativeName": "Chita Shi",
+      "code": "JP-23-1864539",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-23",
+      "latitude": 34.97048,
+      "longitude": 136.8649
     },
     {
       "id": 1863692,
@@ -104,7 +104,7 @@
     },
     {
       "id": 1863204,
-      "name": "Handa City",
+      "name": "Handa",
       "nativeName": "Handa Shi",
       "code": "JP-23-1863204",
       "countryId": 1861060,
@@ -214,7 +214,7 @@
     },
     {
       "id": 7369797,
-      "name": "Kiyosu",
+      "name": "Kiyosu-shi",
       "nativeName": "Kiyosu Shi",
       "code": "JP-23-7369797",
       "countryId": 1861060,
@@ -236,7 +236,7 @@
     },
     {
       "id": 1858832,
-      "name": "Konan-shi",
+      "name": "Kōnan-shi",
       "nativeName": "Kōnan-shi",
       "code": "JP-23-1858832",
       "countryId": 1861060,
@@ -334,17 +334,6 @@
       "longitude": 137.16582
     },
     {
-      "id": 1854797,
-      "name": "Obu",
-      "nativeName": "Ōbu Shi",
-      "code": "JP-23-1854797",
-      "countryId": 1861060,
-      "countryCode": "JP",
-      "stateCode": "JP-23",
-      "latitude": 35.0192,
-      "longitude": 136.95424
-    },
-    {
       "id": 1854373,
       "name": "Okazaki-shi",
       "nativeName": "Okazaki Shi",
@@ -368,7 +357,7 @@
     },
     {
       "id": 1852647,
-      "name": "Seto-shi",
+      "name": "Seto",
       "nativeName": "Seto-shi",
       "code": "JP-23-1852647",
       "countryId": 1861060,
@@ -379,7 +368,7 @@
     },
     {
       "id": 1852044,
-      "name": "Shinshiro-shi",
+      "name": "Shinshiro",
       "nativeName": "Shinshiro Shi",
       "code": "JP-23-1852044",
       "countryId": 1861060,
@@ -411,6 +400,17 @@
       "longitude": 136.9949
     },
     {
+      "id": 1850219,
+      "name": "Tokai",
+      "nativeName": "Tōkai Shi",
+      "code": "JP-23-1850219",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-23",
+      "latitude": 35.02676,
+      "longitude": 136.89846
+    },
+    {
       "id": 1850183,
       "name": "Tokoname-shi",
       "nativeName": "Tokoname Shi",
@@ -423,7 +423,7 @@
     },
     {
       "id": 1849862,
-      "name": "Toyoake-shi",
+      "name": "Toyoake",
       "nativeName": "Toyoake Shi",
       "code": "JP-23-1849862",
       "countryId": 1861060,
@@ -456,7 +456,7 @@
     },
     {
       "id": 1849809,
-      "name": "Toyota",
+      "name": "Toyota-shi",
       "nativeName": "Toyota-shi",
       "code": "JP-23-1849809",
       "countryId": 1861060,
@@ -477,17 +477,6 @@
       "longitude": 136.74168
     },
     {
-      "id": 1850219,
-      "name": "Tōkai-shi",
-      "nativeName": "Tōkai Shi",
-      "code": "JP-23-1850219",
-      "countryId": 1861060,
-      "countryCode": "JP",
-      "stateCode": "JP-23",
-      "latitude": 35.02676,
-      "longitude": 136.89846
-    },
-    {
       "id": 1848455,
       "name": "Yatomi-shi",
       "nativeName": "Yatomi-shi",
@@ -497,6 +486,17 @@
       "stateCode": "JP-23",
       "latitude": 35.10938,
       "longitude": 136.72451
+    },
+    {
+      "id": 1854797,
+      "name": "Ōbu-shi",
+      "nativeName": "Ōbu Shi",
+      "code": "JP-23-1854797",
+      "countryId": 1861060,
+      "countryCode": "JP",
+      "stateCode": "JP-23",
+      "latitude": 35.0192,
+      "longitude": 136.95424
     }
   ]
 }

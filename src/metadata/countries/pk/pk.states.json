@@ -3,6 +3,17 @@
   "countryCode": "PK",
   "states": [
     {
+      "id": 1184196,
+      "name": "Azad Kashmir",
+      "nativeName": "Azad Jammu and Kashmir",
+      "code": "PK-JK",
+      "internalCode": "JK",
+      "countryId": 1168579,
+      "countryCode": "PK",
+      "latitude": 33.94718,
+      "longitude": 73.9104
+    },
+    {
       "id": 1183606,
       "name": "Balochistan",
       "nativeName": "Balochistan",
@@ -45,17 +56,6 @@
       "countryCode": "PK",
       "latitude": 33.98306,
       "longitude": 71.68611
-    },
-    {
-      "id": 1184196,
-      "name": "Pakistan Occupied Kashmir",
-      "nativeName": "Azad Jammu and Kashmir",
-      "code": "PK-JK",
-      "internalCode": "JK",
-      "countryId": 1168579,
-      "countryCode": "PK",
-      "latitude": 33.94718,
-      "longitude": 73.9104
     },
     {
       "id": 1167710,

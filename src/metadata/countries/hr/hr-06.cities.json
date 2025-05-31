@@ -246,6 +246,17 @@
       "longitude": 16.87011
     },
     {
+      "id": 3200960,
+      "name": "Town of Djurdjevac",
+      "nativeName": "Grad Đurđevac",
+      "code": "HR-06-3200960",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-06",
+      "latitude": 46.03333,
+      "longitude": 17.06667
+    },
+    {
       "id": 3197726,
       "name": "Town of Koprivnica",
       "nativeName": "Grad Koprivnica",
@@ -266,17 +277,6 @@
       "stateCode": "HR-06",
       "latitude": 46.03333,
       "longitude": 16.56667
-    },
-    {
-      "id": 3200960,
-      "name": "Town of Đurđevac",
-      "nativeName": "Grad Đurđevac",
-      "code": "HR-06-3200960",
-      "countryId": 3202326,
-      "countryCode": "HR",
-      "stateCode": "HR-06",
-      "latitude": 46.03333,
-      "longitude": 17.06667
     }
   ]
 }

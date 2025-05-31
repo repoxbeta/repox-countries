@@ -59,17 +59,6 @@
       "longitude": 15.72698
     },
     {
-      "id": 7530981,
-      "name": "Powiat strzelecko-drezdenecki)",
-      "nativeName": "Powiat strzelecko-drezdenecki",
-      "code": "PL-08-7530981",
-      "countryId": 798544,
-      "countryCode": "PL",
-      "stateCode": "PL-08",
-      "latitude": 52.9122,
-      "longitude": 15.64061
-    },
-    {
       "id": 7531003,
       "name": "Powiat zielonogórski",
       "nativeName": "Powiat zielonogórski",
@@ -79,6 +68,17 @@
       "stateCode": "PL-08",
       "latitude": 51.93326,
       "longitude": 15.44403
+    },
+    {
+      "id": 7530981,
+      "name": "Strzelce-Drezdenko County",
+      "nativeName": "Powiat strzelecko-drezdenecki",
+      "code": "PL-08-7530981",
+      "countryId": 798544,
+      "countryCode": "PL",
+      "stateCode": "PL-08",
+      "latitude": 52.9122,
+      "longitude": 15.64061
     },
     {
       "id": 7530987,
