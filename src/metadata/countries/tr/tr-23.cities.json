@@ -4,17 +4,6 @@
   "countryCode": "TR",
   "cities": [
     {
-      "id": 8631566,
-      "name": "Alacakaya District",
-      "nativeName": "Alacakaya İlçesi",
-      "code": "TR-23-8631566",
-      "countryId": 298795,
-      "countryCode": "TR",
-      "stateCode": "TR-23",
-      "latitude": 38.46326,
-      "longitude": 39.85514
-    },
-    {
       "id": 8631565,
       "name": "Arıcak İlçesi",
       "nativeName": "Arıcak İlçesi",
@@ -48,20 +37,9 @@
       "longitude": 38.82357
     },
     {
-      "id": 7732370,
-      "name": "Elazig",
-      "nativeName": "Elazig",
-      "code": "TR-23-7732370",
-      "countryId": 298795,
-      "countryCode": "TR",
-      "stateCode": "TR-23",
-      "latitude": 38.6679,
-      "longitude": 39.21567
-    },
-    {
       "id": 6544214,
-      "name": "Karakoçan",
-      "nativeName": "Karakoçan",
+      "name": "Karakoçan / Elazığ",
+      "nativeName": "Karakoçan / Elazığ",
       "code": "TR-23-6544214",
       "countryId": 298795,
       "countryCode": "TR",
@@ -101,6 +79,17 @@
       "stateCode": "TR-23",
       "latitude": 38.39354,
       "longitude": 39.67252
+    },
+    {
+      "id": 7732370,
+      "name": "Merkez",
+      "nativeName": "Merkez",
+      "code": "TR-23-7732370",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-23",
+      "latitude": 38.6679,
+      "longitude": 39.21567
     },
     {
       "id": 8631570,

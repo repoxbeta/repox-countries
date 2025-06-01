@@ -202,17 +202,6 @@
       "longitude": -55.64347
     },
     {
-      "id": 5908880,
-      "name": "Brigus",
-      "nativeName": "Brigus",
-      "code": "CA-NL-5908880",
-      "countryId": 6251999,
-      "countryCode": "CA",
-      "stateCode": "CA-NL",
-      "latitude": 47.53319,
-      "longitude": -53.21478
-    },
-    {
       "id": 12873801,
       "name": "Burgeo",
       "nativeName": "Burgeo",
@@ -266,17 +255,6 @@
       "stateCode": "CA-NL",
       "latitude": 49.26977,
       "longitude": -54.93134
-    },
-    {
-      "id": 5916294,
-      "name": "Cape St. George",
-      "nativeName": "Cape St. George",
-      "code": "CA-NL-5916294",
-      "countryId": 6251999,
-      "countryCode": "CA",
-      "stateCode": "CA-NL",
-      "latitude": 48.46673,
-      "longitude": -59.24855
     },
     {
       "id": 12874458,
@@ -1225,6 +1203,17 @@
       "longitude": -59.18314
     },
     {
+      "id": 12874017,
+      "name": "Mary's Harbour",
+      "nativeName": "Mary's Harbour",
+      "code": "CA-NL-12874017",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NL",
+      "latitude": 52.28055,
+      "longitude": -55.84901
+    },
+    {
       "id": 12873694,
       "name": "Marystown",
       "nativeName": "Marystown",
@@ -1960,6 +1949,17 @@
       "stateCode": "CA-NL",
       "latitude": 46.90748,
       "longitude": -55.40455
+    },
+    {
+      "id": 12874014,
+      "name": "St. Lewis",
+      "nativeName": "St. Lewis",
+      "code": "CA-NL-12874014",
+      "countryId": 6251999,
+      "countryCode": "CA",
+      "stateCode": "CA-NL",
+      "latitude": 52.36941,
+      "longitude": -55.69161
     },
     {
       "id": 12873913,

@@ -70,17 +70,6 @@
       "longitude": -97.27708
     },
     {
-      "id": 8583850,
-      "name": "Agua Dulce",
-      "nativeName": "Agua Dulce",
-      "code": "MX-VER-8583850",
-      "countryId": 3996063,
-      "countryCode": "MX",
-      "stateCode": "MX-VER",
-      "latitude": 18.08945,
-      "longitude": -94.16563
-    },
-    {
       "id": 8583556,
       "name": "Alpatláhuac",
       "nativeName": "Alpatláhuac",
@@ -312,17 +301,6 @@
       "longitude": -97.16016
     },
     {
-      "id": 8583854,
-      "name": "Carlos A. Carrillo",
-      "nativeName": "Carlos A. Carrillo",
-      "code": "MX-VER-8583854",
-      "countryId": 3996063,
-      "countryCode": "MX",
-      "stateCode": "MX-VER",
-      "latitude": 18.33236,
-      "longitude": -95.71803
-    },
-    {
       "id": 8583579,
       "name": "Carrillo Puerto",
       "nativeName": "Carrillo Puerto",
@@ -488,6 +466,127 @@
       "longitude": -97.58667
     },
     {
+      "id": 8583583,
+      "name": "Citlaltépetl",
+      "nativeName": "Citlaltépetl",
+      "code": "MX-VER-8583583",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-VER",
+      "latitude": 21.34351,
+      "longitude": -97.89201
+    },
+    {
+      "id": 8583584,
+      "name": "Coacoatzintla",
+      "nativeName": "Coacoatzintla",
+      "code": "MX-VER-8583584",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-VER",
+      "latitude": 19.67402,
+      "longitude": -96.94873
+    },
+    {
+      "id": 8583585,
+      "name": "Coahuitlán",
+      "nativeName": "Coahuitlán",
+      "code": "MX-VER-8583585",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-VER",
+      "latitude": 20.27543,
+      "longitude": -97.70022
+    },
+    {
+      "id": 8583586,
+      "name": "Coatepec",
+      "nativeName": "Coatepec",
+      "code": "MX-VER-8583586",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-VER",
+      "latitude": 19.45126,
+      "longitude": -96.9394
+    },
+    {
+      "id": 8583587,
+      "name": "Coatzacoalcos",
+      "nativeName": "Coatzacoalcos",
+      "code": "MX-VER-8583587",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-VER",
+      "latitude": 18.12501,
+      "longitude": -94.38917
+    },
+    {
+      "id": 8583588,
+      "name": "Coatzintla",
+      "nativeName": "Coatzintla",
+      "code": "MX-VER-8583588",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-VER",
+      "latitude": 20.45011,
+      "longitude": -97.51106
+    },
+    {
+      "id": 8583589,
+      "name": "Coetzala",
+      "nativeName": "Coetzala",
+      "code": "MX-VER-8583589",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-VER",
+      "latitude": 18.77378,
+      "longitude": -96.92378
+    },
+    {
+      "id": 8583590,
+      "name": "Colipa",
+      "nativeName": "Colipa",
+      "code": "MX-VER-8583590",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-VER",
+      "latitude": 19.93314,
+      "longitude": -96.70074
+    },
+    {
+      "id": 8583591,
+      "name": "Comapa",
+      "nativeName": "Comapa",
+      "code": "MX-VER-8583591",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-VER",
+      "latitude": 19.13889,
+      "longitude": -96.71374
+    },
+    {
+      "id": 8583593,
+      "name": "Cosamaloapan de Carpio",
+      "nativeName": "Cosamaloapan de Carpio",
+      "code": "MX-VER-8583593",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-VER",
+      "latitude": 18.30163,
+      "longitude": -95.95967
+    },
+    {
+      "id": 8583594,
+      "name": "Cosautlán de Carvajal",
+      "nativeName": "Cosautlán de Carvajal",
+      "code": "MX-VER-8583594",
+      "countryId": 3996063,
+      "countryCode": "MX",
+      "stateCode": "MX-VER",
+      "latitude": 19.32878,
+      "longitude": -96.97719
+    },
+    {
       "id": 8583693,
       "name": "Coscomatepec",
       "nativeName": "Coscomatepec",
@@ -565,15 +664,15 @@
       "longitude": -96.73179
     },
     {
-      "id": 8583851,
-      "name": "El Higo",
-      "nativeName": "El Higo",
-      "code": "MX-VER-8583851",
+      "id": 8583592,
+      "name": "Córdoba",
+      "nativeName": "Córdoba",
+      "code": "MX-VER-8583592",
       "countryId": 3996063,
       "countryCode": "MX",
       "stateCode": "MX-VER",
-      "latitude": 21.74304,
-      "longitude": -98.40807
+      "latitude": 18.92036,
+      "longitude": -96.94444
     },
     {
       "id": 8583711,
@@ -1137,17 +1236,6 @@
       "longitude": -94.27843
     },
     {
-      "id": 8583852,
-      "name": "Nanchital de Lázaro Cárdenas del Río",
-      "nativeName": "Nanchital de Lázaro Cárdenas del Río",
-      "code": "MX-VER-8583852",
-      "countryId": 3996063,
-      "countryCode": "MX",
-      "stateCode": "MX-VER",
-      "latitude": 18.05875,
-      "longitude": -94.38953
-    },
-    {
       "id": 8583757,
       "name": "Naolinco",
       "nativeName": "Naolinco",
@@ -1467,28 +1555,6 @@
       "longitude": -95.15015
     },
     {
-      "id": 8583857,
-      "name": "San Rafael",
-      "nativeName": "San Rafael",
-      "code": "MX-VER-8583857",
-      "countryId": 3996063,
-      "countryCode": "MX",
-      "stateCode": "MX-VER",
-      "latitude": 20.20874,
-      "longitude": -96.91563
-    },
-    {
-      "id": 8583858,
-      "name": "Santiago Sochiapan",
-      "nativeName": "Santiago Sochiapan",
-      "code": "MX-VER-8583858",
-      "countryId": 3996063,
-      "countryCode": "MX",
-      "stateCode": "MX-VER",
-      "latitude": 17.61585,
-      "longitude": -95.65276
-    },
-    {
       "id": 8583789,
       "name": "Santiago Tuxtla",
       "nativeName": "Santiago Tuxtla",
@@ -1630,17 +1696,6 @@
       "stateCode": "MX-VER",
       "latitude": 21.39307,
       "longitude": -98.18453
-    },
-    {
-      "id": 8583855,
-      "name": "Tatahuicapan de Juárez",
-      "nativeName": "Tatahuicapan de Juárez",
-      "code": "MX-VER-8583855",
-      "countryId": 3996063,
-      "countryCode": "MX",
-      "stateCode": "MX-VER",
-      "latitude": 18.36007,
-      "longitude": -94.77981
     },
     {
       "id": 8583802,
@@ -1984,17 +2039,6 @@
       "longitude": -96.93926
     },
     {
-      "id": 8583853,
-      "name": "Tres Valles",
-      "nativeName": "Tres Valles",
-      "code": "MX-VER-8583853",
-      "countryId": 3996063,
-      "countryCode": "MX",
-      "stateCode": "MX-VER",
-      "latitude": 18.30507,
-      "longitude": -96.17088
-    },
-    {
       "id": 8583835,
       "name": "Tuxpan",
       "nativeName": "Tuxpan",
@@ -2026,17 +2070,6 @@
       "stateCode": "MX-VER",
       "latitude": 19.43929,
       "longitude": -96.38764
-    },
-    {
-      "id": 8583856,
-      "name": "Uxpanapa",
-      "nativeName": "Uxpanapa",
-      "code": "MX-VER-8583856",
-      "countryId": 3996063,
-      "countryCode": "MX",
-      "stateCode": "MX-VER",
-      "latitude": 17.27501,
-      "longitude": -94.42594
     },
     {
       "id": 8583838,
@@ -2158,39 +2191,6 @@
       "stateCode": "MX-VER",
       "latitude": 19.07237,
       "longitude": -96.75442
-    },
-    {
-      "id": 8583847,
-      "name": "Zongolica",
-      "nativeName": "Zongolica",
-      "code": "MX-VER-8583847",
-      "countryId": 3996063,
-      "countryCode": "MX",
-      "stateCode": "MX-VER",
-      "latitude": 18.65122,
-      "longitude": -96.93326
-    },
-    {
-      "id": 8583848,
-      "name": "Zontecomatlán de López y Fuentes",
-      "nativeName": "Zontecomatlán de López y Fuentes",
-      "code": "MX-VER-8583848",
-      "countryId": 3996063,
-      "countryCode": "MX",
-      "stateCode": "MX-VER",
-      "latitude": 20.74173,
-      "longitude": -98.29972
-    },
-    {
-      "id": 8583849,
-      "name": "Zozocolco de Hidalgo",
-      "nativeName": "Zozocolco de Hidalgo",
-      "code": "MX-VER-8583849",
-      "countryId": 3996063,
-      "countryCode": "MX",
-      "stateCode": "MX-VER",
-      "latitude": 20.14035,
-      "longitude": -97.56125
     },
     {
       "id": 8583806,

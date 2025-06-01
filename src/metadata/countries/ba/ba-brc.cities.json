@@ -1368,17 +1368,6 @@
       "longitude": 18.7104
     },
     {
-      "id": 3256983,
-      "name": "Rakovčani",
-      "nativeName": "Rakovčani",
-      "code": "BA-BRC-3256983",
-      "countryId": 3277605,
-      "countryCode": "BA",
-      "stateCode": "BA-BRC",
-      "latitude": 44.72484,
-      "longitude": 18.64767
-    },
-    {
       "id": 3211502,
       "name": "Ražljevo",
       "nativeName": "Ražljevo",
@@ -1533,6 +1522,17 @@
       "longitude": 18.57037
     },
     {
+      "id": 3318880,
+      "name": "Sluganović i",
+      "nativeName": "Sluganović i",
+      "code": "BA-BRC-3318880",
+      "countryId": 3277605,
+      "countryCode": "BA",
+      "stateCode": "BA-BRC",
+      "latitude": 44.83741,
+      "longitude": 18.70106
+    },
+    {
       "id": 3255372,
       "name": "Sombići",
       "nativeName": "Sombići",
@@ -1654,17 +1654,6 @@
       "longitude": 18.69163
     },
     {
-      "id": 3257333,
-      "name": "Tokići",
-      "nativeName": "Tokići",
-      "code": "BA-BRC-3257333",
-      "countryId": 3277605,
-      "countryCode": "BA",
-      "stateCode": "BA-BRC",
-      "latitude": 44.74318,
-      "longitude": 18.58658
-    },
-    {
       "id": 3255443,
       "name": "Tomići",
       "nativeName": "Tomići",
@@ -1784,6 +1773,17 @@
       "stateCode": "BA-BRC",
       "latitude": 44.92753,
       "longitude": 18.73173
+    },
+    {
+      "id": 3318861,
+      "name": "Zlatići",
+      "nativeName": "Zlatići",
+      "code": "BA-BRC-3318861",
+      "countryId": 3277605,
+      "countryCode": "BA",
+      "stateCode": "BA-BRC",
+      "latitude": 44.7591,
+      "longitude": 18.6139
     },
     {
       "id": 3256143,

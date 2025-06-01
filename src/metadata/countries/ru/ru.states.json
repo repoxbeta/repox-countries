@@ -114,7 +114,7 @@
     },
     {
       "id": 569665,
-      "name": "Chechnya",
+      "name": "Chechnya Republic",
       "nativeName": "Chechenskaya Respublika",
       "code": "RU-CE",
       "internalCode": "CE",
@@ -147,7 +147,7 @@
     },
     {
       "id": 567395,
-      "name": "Chuvashiya Republic",
+      "name": "Chuvash Republic",
       "nativeName": "Chuvashskaya Respublika",
       "code": "RU-CU",
       "internalCode": "CU",
@@ -158,7 +158,7 @@
     },
     {
       "id": 567293,
-      "name": "Dagestan Republic",
+      "name": "Dagestan",
       "nativeName": "Dagestan",
       "code": "RU-DA",
       "internalCode": "DA",
@@ -199,6 +199,17 @@
       "countryCode": "RU",
       "latitude": 57,
       "longitude": 41.75
+    },
+    {
+      "id": 2026639,
+      "name": "Jewish Autonomous Oblast",
+      "nativeName": "Yevrey (Jewish) Autonomous Oblast",
+      "code": "RU-YEV",
+      "internalCode": "YEV",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "latitude": 48.5,
+      "longitude": 132
     },
     {
       "id": 554667,
@@ -509,6 +520,17 @@
       "longitude": 45
     },
     {
+      "id": 519969,
+      "name": "North Ossetia–Alania",
+      "nativeName": "North Ossetia-Alania",
+      "code": "RU-SE",
+      "internalCode": "SE",
+      "countryId": 2017370,
+      "countryCode": "RU",
+      "latitude": 43,
+      "longitude": 44.25
+    },
+    {
       "id": 519324,
       "name": "Novgorod Oblast",
       "nativeName": "Novgorod Oblast",
@@ -606,17 +628,6 @@
       "countryCode": "RU",
       "latitude": 57.5,
       "longitude": 29
-    },
-    {
-      "id": 519969,
-      "name": "Republic of North Ossetia–Alania",
-      "nativeName": "North Ossetia-Alania",
-      "code": "RU-SE",
-      "internalCode": "SE",
-      "countryId": 2017370,
-      "countryCode": "RU",
-      "latitude": 43,
-      "longitude": 44.25
     },
     {
       "id": 1488873,
@@ -892,17 +903,6 @@
       "countryCode": "RU",
       "latitude": 58,
       "longitude": 39.5
-    },
-    {
-      "id": 2026639,
-      "name": "Yevrey (Jewish) Autonomous Oblast",
-      "nativeName": "Yevrey (Jewish) Autonomous Oblast",
-      "code": "RU-YEV",
-      "internalCode": "YEV",
-      "countryId": 2017370,
-      "countryCode": "RU",
-      "latitude": 48.5,
-      "longitude": 132
     },
     {
       "id": 7779061,

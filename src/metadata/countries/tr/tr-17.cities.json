@@ -48,17 +48,6 @@
       "longitude": 26.04069
     },
     {
-      "id": 7732344,
-      "name": "Canakkale",
-      "nativeName": "Canakkale",
-      "code": "TR-17-7732344",
-      "countryId": 298795,
-      "countryCode": "TR",
-      "stateCode": "TR-17",
-      "latitude": 40.05093,
-      "longitude": 26.49489
-    },
-    {
       "id": 9538547,
       "name": "Eceabat",
       "nativeName": "Eceabat",
@@ -112,6 +101,17 @@
       "stateCode": "TR-17",
       "latitude": 40.3528,
       "longitude": 26.70657
+    },
+    {
+      "id": 7732344,
+      "name": "Merkez",
+      "nativeName": "Merkez",
+      "code": "TR-17-7732344",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-17",
+      "latitude": 40.05093,
+      "longitude": 26.49489
     },
     {
       "id": 8632576,

@@ -157,15 +157,26 @@
       "longitude": -23.56667
     },
     {
-      "id": 7602873,
-      "name": "Sao Lourenco dos Orgaos",
-      "nativeName": "São Lourenço dos Órgãos",
-      "code": "CV-SO",
-      "internalCode": "SO",
+      "id": 3411926,
+      "name": "Sao Domingos",
+      "nativeName": "Concelho de São Domingos",
+      "code": "CV-SD",
+      "internalCode": "SD",
       "countryId": 3374766,
       "countryCode": "CV",
-      "latitude": 15.06667,
-      "longitude": -23.6
+      "latitude": 15.01667,
+      "longitude": -23.53333
+    },
+    {
+      "id": 3411928,
+      "name": "Sao Miguel",
+      "nativeName": "Concelho de São Miguel",
+      "code": "CV-SM",
+      "internalCode": "SM",
+      "countryId": 3374766,
+      "countryCode": "CV",
+      "latitude": 15.2,
+      "longitude": -23.65
     },
     {
       "id": 7602871,
@@ -190,17 +201,6 @@
       "longitude": -25
     },
     {
-      "id": 3411926,
-      "name": "São Domingos",
-      "nativeName": "Concelho de São Domingos",
-      "code": "CV-SD",
-      "internalCode": "SD",
-      "countryId": 3374766,
-      "countryCode": "CV",
-      "latitude": 15.01667,
-      "longitude": -23.53333
-    },
-    {
       "id": 3411927,
       "name": "São Filipe",
       "nativeName": "Concelho do São Filipe",
@@ -212,15 +212,15 @@
       "longitude": -24.43333
     },
     {
-      "id": 3411928,
-      "name": "São Miguel",
-      "nativeName": "Concelho de São Miguel",
-      "code": "CV-SM",
-      "internalCode": "SM",
+      "id": 7602873,
+      "name": "São Lourenço dos Órgãos",
+      "nativeName": "São Lourenço dos Órgãos",
+      "code": "CV-SO",
+      "internalCode": "SO",
       "countryId": 3374766,
       "countryCode": "CV",
-      "latitude": 15.2,
-      "longitude": -23.65
+      "latitude": 15.06667,
+      "longitude": -23.6
     },
     {
       "id": 3374161,
@@ -235,7 +235,7 @@
     },
     {
       "id": 7602872,
-      "name": "Tarrafal de Sao Nicolau",
+      "name": "Tarrafal de São Nicolau",
       "nativeName": "Concelho do Tarrafal de São Nicolau",
       "code": "CV-TS",
       "internalCode": "TS",

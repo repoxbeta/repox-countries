@@ -4,17 +4,6 @@
   "countryCode": "HR",
   "cities": [
     {
-      "id": 3190812,
-      "name": "City of Sisak",
-      "nativeName": "Grad Sisak",
-      "code": "HR-03-3190812",
-      "countryId": 3202326,
-      "countryCode": "HR",
-      "stateCode": "HR-03",
-      "latitude": 45.5,
-      "longitude": 16.36667
-    },
-    {
       "id": 11049225,
       "name": "Municipality of Donji Kukuruzari",
       "nativeName": "Općina Donji Kukuruzari",
@@ -211,6 +200,17 @@
       "stateCode": "HR-03",
       "latitude": 45.57093,
       "longitude": 16.62781
+    },
+    {
+      "id": 3190812,
+      "name": "Town of Sisak",
+      "nativeName": "Grad Sisak",
+      "code": "HR-03-3190812",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-03",
+      "latitude": 45.5,
+      "longitude": 16.36667
     }
   ]
 }

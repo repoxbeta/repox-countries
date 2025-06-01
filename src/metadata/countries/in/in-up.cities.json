@@ -16,7 +16,7 @@
     },
     {
       "id": 1279020,
-      "name": "Aligarh",
+      "name": "Alīgarh District",
       "nativeName": "Alīgarh",
       "code": "IN-UP-1279020",
       "countryId": 1269750,
@@ -38,7 +38,7 @@
     },
     {
       "id": 11875567,
-      "name": "Amethi District",
+      "name": "Amethi",
       "nativeName": "Amethi",
       "code": "IN-UP-11875567",
       "countryId": 1269750,
@@ -93,7 +93,7 @@
     },
     {
       "id": 9072781,
-      "name": "Baghpat District",
+      "name": "Baghpat",
       "nativeName": "Baghpat",
       "code": "IN-UP-9072781",
       "countryId": 1269750,
@@ -136,17 +136,6 @@
       "longitude": 82.40281
     },
     {
-      "id": 1277400,
-      "name": "Banda",
-      "nativeName": "Bānda",
-      "code": "IN-UP-1277400",
-      "countryId": 1269750,
-      "countryCode": "IN",
-      "stateCode": "IN-UP",
-      "latitude": 25.5,
-      "longitude": 80.5
-    },
-    {
       "id": 1277159,
       "name": "Barabanki",
       "nativeName": "Bāra Banki",
@@ -159,7 +148,7 @@
     },
     {
       "id": 1277014,
-      "name": "Bareilly",
+      "name": "Bareilly district",
       "nativeName": "Bareilly",
       "code": "IN-UP-1277014",
       "countryId": 1269750,
@@ -170,7 +159,7 @@
     },
     {
       "id": 1276737,
-      "name": "Basti district",
+      "name": "Basti",
       "nativeName": "Basti",
       "code": "IN-UP-1276737",
       "countryId": 1269750,
@@ -192,7 +181,7 @@
     },
     {
       "id": 1275680,
-      "name": "Bijnor district",
+      "name": "Bijnor",
       "nativeName": "Bijnor",
       "code": "IN-UP-1275680",
       "countryId": 1269750,
@@ -222,6 +211,17 @@
       "stateCode": "IN-UP",
       "latitude": 28.41667,
       "longitude": 77.83333
+    },
+    {
+      "id": 1277400,
+      "name": "Bānda District",
+      "nativeName": "Bānda",
+      "code": "IN-UP-1277400",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-UP",
+      "latitude": 25.5,
+      "longitude": 80.5
     },
     {
       "id": 9072811,
@@ -258,7 +258,7 @@
     },
     {
       "id": 1271993,
-      "name": "Etah",
+      "name": "Etah district",
       "nativeName": "Etah",
       "code": "IN-UP-1271993",
       "countryId": 1269750,
@@ -269,7 +269,7 @@
     },
     {
       "id": 1271989,
-      "name": "Etāwah District",
+      "name": "Etawah",
       "nativeName": "Etāwah",
       "code": "IN-UP-1271989",
       "countryId": 1269750,
@@ -357,7 +357,7 @@
     },
     {
       "id": 1270930,
-      "name": "Gorakhpur District",
+      "name": "Gorakhpur",
       "nativeName": "Gorakhpur",
       "code": "IN-UP-1270930",
       "countryId": 1269750,
@@ -379,7 +379,7 @@
     },
     {
       "id": 11875568,
-      "name": "Hapur",
+      "name": "Hapur District",
       "nativeName": "Hapur",
       "code": "IN-UP-11875568",
       "countryId": 1269750,
@@ -423,7 +423,7 @@
     },
     {
       "id": 1269136,
-      "name": "Jaunpur",
+      "name": "Jaunpur district",
       "nativeName": "Jaunpur",
       "code": "IN-UP-1269136",
       "countryId": 1269750,
@@ -555,7 +555,7 @@
     },
     {
       "id": 9072787,
-      "name": "Mahoba Quarter",
+      "name": "Mahoba",
       "nativeName": "Mahoba",
       "code": "IN-UP-9072787",
       "countryId": 1269750,
@@ -632,7 +632,7 @@
     },
     {
       "id": 1262333,
-      "name": "Muzaffarnagar",
+      "name": "Muzaffarnagar district",
       "nativeName": "Muzaffarnagar",
       "code": "IN-UP-1262333",
       "countryId": 1269750,
@@ -698,7 +698,7 @@
     },
     {
       "id": 1257807,
-      "name": "Sahāranpur District",
+      "name": "Saharanpur",
       "nativeName": "Sahāranpur",
       "code": "IN-UP-1257807",
       "countryId": 1269750,
@@ -709,7 +709,7 @@
     },
     {
       "id": 11875569,
-      "name": "Sambhal",
+      "name": "Sambhal District",
       "nativeName": "Sambhal",
       "code": "IN-UP-11875569",
       "countryId": 1269750,
@@ -720,7 +720,7 @@
     },
     {
       "id": 9748030,
-      "name": "Sant Kabir Nagar district",
+      "name": "Sant Kabeer Nagar",
       "nativeName": "Sant Kabir Nagar",
       "code": "IN-UP-9748030",
       "countryId": 1269750,
@@ -730,19 +730,8 @@
       "longitude": 83.03481
     },
     {
-      "id": 1256729,
-      "name": "Shahjahanpur",
-      "nativeName": "Shāhjahānpur",
-      "code": "IN-UP-1256729",
-      "countryId": 1269750,
-      "countryCode": "IN",
-      "stateCode": "IN-UP",
-      "latitude": 28,
-      "longitude": 79.83333
-    },
-    {
       "id": 11875566,
-      "name": "Shamli District",
+      "name": "Shamli",
       "nativeName": "Shamli",
       "code": "IN-UP-11875566",
       "countryId": 1269750,
@@ -763,6 +752,17 @@
       "longitude": 82.0047
     },
     {
+      "id": 1256729,
+      "name": "Shāhjahānpur District",
+      "nativeName": "Shāhjahānpur",
+      "code": "IN-UP-1256729",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-UP",
+      "latitude": 28,
+      "longitude": 79.83333
+    },
+    {
       "id": 7626228,
       "name": "Siddharth Nagar",
       "nativeName": "Siddharthnagar",
@@ -772,17 +772,6 @@
       "stateCode": "IN-UP",
       "latitude": 27.25797,
       "longitude": 83.01465
-    },
-    {
-      "id": 1255971,
-      "name": "Sitapur",
-      "nativeName": "Sītāpur",
-      "code": "IN-UP-1255971",
-      "countryId": 1269750,
-      "countryCode": "IN",
-      "stateCode": "IN-UP",
-      "latitude": 27.5,
-      "longitude": 80.91667
     },
     {
       "id": 9748013,
@@ -797,7 +786,7 @@
     },
     {
       "id": 1255497,
-      "name": "Sultanpur",
+      "name": "Sultānpur District",
       "nativeName": "Sultānpur",
       "code": "IN-UP-1255497",
       "countryId": 1269750,
@@ -807,8 +796,19 @@
       "longitude": 82
     },
     {
+      "id": 1255971,
+      "name": "Sītāpur District",
+      "nativeName": "Sītāpur",
+      "code": "IN-UP-1255971",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-UP",
+      "latitude": 27.5,
+      "longitude": 80.91667
+    },
+    {
       "id": 1253748,
-      "name": "Unnao",
+      "name": "Unao District",
       "nativeName": "Unnāo",
       "code": "IN-UP-1253748",
       "countryId": 1269750,

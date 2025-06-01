@@ -69,6 +69,17 @@
       "longitude": 7.59563
     },
     {
+      "id": 2660522,
+      "name": "Canton Grisons",
+      "nativeName": "Kanton Graubünden",
+      "code": "CH-GR",
+      "internalCode": "GR",
+      "countryId": 2658434,
+      "countryCode": "CH",
+      "latitude": 46.6587,
+      "longitude": 9.62296
+    },
+    {
       "id": 2660717,
       "name": "Fribourg",
       "nativeName": "Canton de Fribourg",
@@ -100,17 +111,6 @@
       "countryCode": "CH",
       "latitude": 46.97559,
       "longitude": 9.07318
-    },
-    {
-      "id": 2660522,
-      "name": "Grisons",
-      "nativeName": "Kanton Graubünden",
-      "code": "CH-GR",
-      "internalCode": "GR",
-      "countryId": 2658434,
-      "countryCode": "CH",
-      "latitude": 46.6587,
-      "longitude": 9.62296
     },
     {
       "id": 2660207,
@@ -169,7 +169,7 @@
     },
     {
       "id": 2658821,
-      "name": "Saint Gall",
+      "name": "Saint Gallen",
       "nativeName": "Kanton St. Gallen",
       "code": "CH-SG",
       "internalCode": "SG",

@@ -124,6 +124,17 @@
       "longitude": 25.83333
     },
     {
+      "id": 830704,
+      "name": "Pirkanmaa",
+      "nativeName": "Pirkanmaa",
+      "code": "FI-11",
+      "internalCode": "11",
+      "countryId": 660013,
+      "countryCode": "FI",
+      "latitude": 61.7,
+      "longitude": 23.71667
+    },
+    {
       "id": 831041,
       "name": "Satakunta",
       "nativeName": "Satakunta",
@@ -177,17 +188,6 @@
       "countryCode": "FI",
       "latitude": 60.5,
       "longitude": 22.25
-    },
-    {
-      "id": 830704,
-      "name": "Tampere",
-      "nativeName": "Pirkanmaa",
-      "code": "FI-11",
-      "internalCode": "11",
-      "countryId": 660013,
-      "countryCode": "FI",
-      "latitude": 61.7,
-      "longitude": 23.71667
     },
     {
       "id": 830709,
