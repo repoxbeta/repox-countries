@@ -125,6 +125,17 @@
       "longitude": 37.2761
     },
     {
+      "id": 7732951,
+      "name": "Merkez",
+      "nativeName": "Merkez",
+      "code": "TR-52-7732951",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-52",
+      "latitude": 40.92181,
+      "longitude": 37.88574
+    },
+    {
       "id": 8631642,
       "name": "Mesudiye İlçesi",
       "nativeName": "Mesudiye İlçesi",
@@ -145,6 +156,17 @@
       "stateCode": "TR-52",
       "latitude": 41.06068,
       "longitude": 37.76384
+    },
+    {
+      "id": 8631629,
+      "name": "Piraziz İlçesi",
+      "nativeName": "Piraziz İlçesi",
+      "code": "TR-52-8631629",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-52",
+      "latitude": 40.95643,
+      "longitude": 38.11667
     },
     {
       "id": 8631635,

@@ -5,7 +5,7 @@
   "cities": [
     {
       "id": 8224037,
-      "name": "Bagalkot District",
+      "name": "Bagalkot",
       "nativeName": "Bagalkot",
       "code": "IN-KA-8224037",
       "countryId": 1269750,
@@ -16,7 +16,7 @@
     },
     {
       "id": 1276510,
-      "name": "Ballari",
+      "name": "Ballari district",
       "nativeName": "Ballari",
       "code": "IN-KA-1276510",
       "countryId": 1269750,
@@ -27,7 +27,7 @@
     },
     {
       "id": 1276534,
-      "name": "Belgaum district",
+      "name": "Belagavi",
       "nativeName": "Belgaum",
       "code": "IN-KA-1276534",
       "countryId": 1269750,
@@ -115,7 +115,7 @@
     },
     {
       "id": 1274057,
-      "name": "Chitradurga",
+      "name": "Chitradurga district",
       "nativeName": "Chitradurga",
       "code": "IN-KA-1274057",
       "countryId": 1269750,
@@ -159,7 +159,7 @@
     },
     {
       "id": 1272797,
-      "name": "Dharwad district",
+      "name": "Dharwad",
       "nativeName": "Dharwad",
       "code": "IN-KA-1272797",
       "countryId": 1269750,
@@ -213,17 +213,6 @@
       "longitude": 77.08333
     },
     {
-      "id": 1253630,
-      "name": "Kanara North District",
-      "nativeName": "Uttar Kannada",
-      "code": "IN-KA-1253630",
-      "countryId": 1269750,
-      "countryCode": "IN",
-      "stateCode": "IN-KA",
-      "latitude": 14.88333,
-      "longitude": 74.58333
-    },
-    {
       "id": 1266306,
       "name": "Kolar district",
       "nativeName": "Kolar",
@@ -236,7 +225,7 @@
     },
     {
       "id": 7627234,
-      "name": "Koppal",
+      "name": "Koppal district",
       "nativeName": "Koppal",
       "code": "IN-KA-7627234",
       "countryId": 1269750,
@@ -269,7 +258,7 @@
     },
     {
       "id": 1259013,
-      "name": "Raichur",
+      "name": "Raichur district",
       "nativeName": "Raichur",
       "code": "IN-KA-1259013",
       "countryId": 1269750,
@@ -291,7 +280,7 @@
     },
     {
       "id": 1256516,
-      "name": "Shimoga District",
+      "name": "Shivamogga",
       "nativeName": "Shimoga",
       "code": "IN-KA-1256516",
       "countryId": 1269750,
@@ -302,7 +291,7 @@
     },
     {
       "id": 1254090,
-      "name": "Tumakuru",
+      "name": "Tumkūr",
       "nativeName": "Tumkur",
       "code": "IN-KA-1254090",
       "countryId": 1269750,
@@ -321,6 +310,17 @@
       "stateCode": "IN-KA",
       "latitude": 13.5,
       "longitude": 74.87
+    },
+    {
+      "id": 1253630,
+      "name": "Uttar Kannad",
+      "nativeName": "Uttar Kannada",
+      "code": "IN-KA-1253630",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-KA",
+      "latitude": 14.88333,
+      "longitude": 74.58333
     },
     {
       "id": 12680266,

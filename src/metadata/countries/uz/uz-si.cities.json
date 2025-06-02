@@ -136,17 +136,6 @@
       "longitude": 69.12
     },
     {
-      "id": 1512717,
-      "name": "Sirdaryo District",
-      "nativeName": "Sirdaryo Tumani",
-      "code": "UZ-SI-1512717",
-      "countryId": 1512440,
-      "countryCode": "UZ",
-      "stateCode": "UZ-SI",
-      "latitude": 40.83333,
-      "longitude": 68.66667
-    },
-    {
       "id": 1538250,
       "name": "Sirdaryo Shahri",
       "nativeName": "Sirdaryo Shahri",
@@ -156,6 +145,17 @@
       "stateCode": "UZ-SI",
       "latitude": 40.83948,
       "longitude": 68.66191
+    },
+    {
+      "id": 1512717,
+      "name": "Sirdaryo Tumani",
+      "nativeName": "Sirdaryo Tumani",
+      "code": "UZ-SI-1512717",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-SI",
+      "latitude": 40.83333,
+      "longitude": 68.66667
     },
     {
       "id": 1538252,

@@ -16,7 +16,7 @@
     },
     {
       "id": 1279109,
-      "name": "Akola",
+      "name": "Akola district",
       "nativeName": "Akola",
       "code": "IN-MH-1279109",
       "countryId": 1269750,
@@ -38,7 +38,7 @@
     },
     {
       "id": 8131498,
-      "name": "Aurangabad District",
+      "name": "Aurangabad",
       "nativeName": "Aurangabad",
       "code": "IN-MH-8131498",
       "countryId": 1269750,
@@ -49,7 +49,7 @@
     },
     {
       "id": 1275540,
-      "name": "Beed",
+      "name": "Beed District",
       "nativeName": "Bid",
       "code": "IN-MH-1275540",
       "countryId": 1269750,
@@ -60,7 +60,7 @@
     },
     {
       "id": 1276192,
-      "name": "Bhandara district",
+      "name": "Bhandara",
       "nativeName": "Bhandara",
       "code": "IN-MH-1276192",
       "countryId": 1269750,
@@ -93,7 +93,7 @@
     },
     {
       "id": 1272692,
-      "name": "Dhule",
+      "name": "Dhule district",
       "nativeName": "Dhule",
       "code": "IN-MH-1272692",
       "countryId": 1269750,
@@ -126,7 +126,7 @@
     },
     {
       "id": 7626533,
-      "name": "Hingoli",
+      "name": "Hingoli District",
       "nativeName": "Hingoli",
       "code": "IN-MH-7626533",
       "countryId": 1269750,
@@ -148,7 +148,7 @@
     },
     {
       "id": 7626532,
-      "name": "Jalna District",
+      "name": "Jalna",
       "nativeName": "Jalna",
       "code": "IN-MH-7626532",
       "countryId": 1269750,
@@ -170,7 +170,7 @@
     },
     {
       "id": 7626537,
-      "name": "Latur",
+      "name": "Latur District",
       "nativeName": "Latur",
       "code": "IN-MH-7626537",
       "countryId": 1269750,
@@ -178,6 +178,17 @@
       "stateCode": "IN-MH",
       "latitude": 18.4,
       "longitude": 76.8
+    },
+    {
+      "id": 9747998,
+      "name": "Mumbai",
+      "nativeName": "Mumbai",
+      "code": "IN-MH-9747998",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-MH",
+      "latitude": 18.95963,
+      "longitude": 72.84962
     },
     {
       "id": 1270836,
@@ -189,17 +200,6 @@
       "stateCode": "IN-MH",
       "latitude": 19.12636,
       "longitude": 72.84897
-    },
-    {
-      "id": 9747998,
-      "name": "Mumbai District",
-      "nativeName": "Mumbai",
-      "code": "IN-MH-9747998",
-      "countryId": 1269750,
-      "countryCode": "IN",
-      "stateCode": "IN-MH",
-      "latitude": 18.95963,
-      "longitude": 72.84962
     },
     {
       "id": 8131500,
@@ -214,7 +214,7 @@
     },
     {
       "id": 1261978,
-      "name": "Nanded",
+      "name": "Nanded District",
       "nativeName": "Nanded",
       "code": "IN-MH-1261978",
       "countryId": 1269750,
@@ -269,7 +269,7 @@
     },
     {
       "id": 1260342,
-      "name": "Parbhani District",
+      "name": "Parbhani",
       "nativeName": "Parbhani",
       "code": "IN-MH-1260342",
       "countryId": 1269750,
@@ -302,7 +302,7 @@
     },
     {
       "id": 1258340,
-      "name": "Ratnagiri",
+      "name": "Ratnagiri District",
       "nativeName": "Ratnagiri",
       "code": "IN-MH-1258340",
       "countryId": 1269750,
@@ -334,6 +334,17 @@
       "longitude": 74.06433
     },
     {
+      "id": 1255847,
+      "name": "Sholāpur District",
+      "nativeName": "Solapur",
+      "code": "IN-MH-1255847",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-MH",
+      "latitude": 17.75,
+      "longitude": 75.5
+    },
+    {
       "id": 7626539,
       "name": "Sindhudurg",
       "nativeName": "Sindhudurg",
@@ -343,17 +354,6 @@
       "stateCode": "IN-MH",
       "latitude": 16.17,
       "longitude": 73.7
-    },
-    {
-      "id": 1255847,
-      "name": "Solapur district",
-      "nativeName": "Solapur",
-      "code": "IN-MH-1255847",
-      "countryId": 1269750,
-      "countryCode": "IN",
-      "stateCode": "IN-MH",
-      "latitude": 17.75,
-      "longitude": 75.5
     },
     {
       "id": 1254662,

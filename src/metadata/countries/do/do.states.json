@@ -5,7 +5,7 @@
     {
       "id": 3512209,
       "name": "Azua Province",
-      "nativeName": "Azua",
+      "nativeName": "Provincia de Azua",
       "code": "DO-02",
       "internalCode": "02",
       "countryId": 3508796,
@@ -16,7 +16,7 @@
     {
       "id": 3512050,
       "name": "Baoruco Province",
-      "nativeName": "Baoruco",
+      "nativeName": "Provincia de Baoruco",
       "code": "DO-03",
       "internalCode": "03",
       "countryId": 3508796,
@@ -27,24 +27,13 @@
     {
       "id": 3512042,
       "name": "Barahona Province",
-      "nativeName": "Barahona",
+      "nativeName": "Provincia de Barahona",
       "code": "DO-04",
       "internalCode": "04",
       "countryId": 3508796,
       "countryCode": "DO",
       "latitude": 18.16667,
       "longitude": -71.25
-    },
-    {
-      "id": 3508951,
-      "name": "Dajabón",
-      "nativeName": "Dajabón",
-      "code": "DO-05",
-      "internalCode": "05",
-      "countryId": 3508796,
-      "countryCode": "DO",
-      "latitude": 19.43333,
-      "longitude": -71.58333
     },
     {
       "id": 3508718,
@@ -56,28 +45,6 @@
       "countryCode": "DO",
       "latitude": 19.25,
       "longitude": -70.08333
-    },
-    {
-      "id": 3506189,
-      "name": "El Seibo",
-      "nativeName": "El Seibo",
-      "code": "DO-08",
-      "internalCode": "08",
-      "countryId": 3508796,
-      "countryCode": "DO",
-      "latitude": 18.8,
-      "longitude": -69.05
-    },
-    {
-      "id": 3507269,
-      "name": "Elías Piña",
-      "nativeName": "Elías Piña",
-      "code": "DO-07",
-      "internalCode": "07",
-      "countryId": 3508796,
-      "countryCode": "DO",
-      "latitude": 19,
-      "longitude": -71.63333
     },
     {
       "id": 3505867,
@@ -93,7 +60,7 @@
     {
       "id": 3504766,
       "name": "Hato Mayor Province",
-      "nativeName": "Hato Mayor",
+      "nativeName": "Provincia de Hato Mayor",
       "code": "DO-30",
       "internalCode": "30",
       "countryId": 3508796,
@@ -104,7 +71,7 @@
     {
       "id": 3504326,
       "name": "Independencia",
-      "nativeName": "Independencia",
+      "nativeName": "Provincia de Independencia",
       "code": "DO-10",
       "internalCode": "10",
       "countryId": 3508796,
@@ -126,7 +93,7 @@
     {
       "id": 3500955,
       "name": "La Romana",
-      "nativeName": "La Romana",
+      "nativeName": "Provincia de La Romana",
       "code": "DO-12",
       "internalCode": "12",
       "countryId": 3508796,
@@ -135,31 +102,9 @@
       "longitude": -68.96667
     },
     {
-      "id": 3499977,
-      "name": "La Vega",
-      "nativeName": "La Vega",
-      "code": "DO-13",
-      "internalCode": "13",
-      "countryId": 3508796,
-      "countryCode": "DO",
-      "latitude": 19.05,
-      "longitude": -70.65
-    },
-    {
-      "id": 3496274,
-      "name": "Monseñor Nouel",
-      "nativeName": "Monseñor Nouel",
-      "code": "DO-28",
-      "internalCode": "28",
-      "countryId": 3508796,
-      "countryCode": "DO",
-      "latitude": 18.91667,
-      "longitude": -70.41667
-    },
-    {
       "id": 3496200,
       "name": "Monte Cristi Province",
-      "nativeName": "Monte Cristi",
+      "nativeName": "Provincia de Monte Cristi",
       "code": "DO-15",
       "internalCode": "15",
       "countryId": 3508796,
@@ -170,7 +115,7 @@
     {
       "id": 3496132,
       "name": "Monte Plata Province",
-      "nativeName": "Monte Plata",
+      "nativeName": "Provincia de Monte Plata",
       "code": "DO-29",
       "internalCode": "29",
       "countryId": 3508796,
@@ -192,24 +137,13 @@
     {
       "id": 3495136,
       "name": "Pedernales Province",
-      "nativeName": "Pedernales",
+      "nativeName": "Provincia de Pedernales",
       "code": "DO-16",
       "internalCode": "16",
       "countryId": 3508796,
       "countryCode": "DO",
       "latitude": 18,
       "longitude": -71.56667
-    },
-    {
-      "id": 3495015,
-      "name": "Peravia",
-      "nativeName": "Peravia",
-      "code": "DO-17",
-      "internalCode": "17",
-      "countryId": 3508796,
-      "countryCode": "DO",
-      "latitude": 18.33333,
-      "longitude": -70.36667
     },
     {
       "id": 3496772,
@@ -234,6 +168,39 @@
       "longitude": -70.16667
     },
     {
+      "id": 3508951,
+      "name": "Provincia de Dajabón",
+      "nativeName": "Provincia de Dajabón",
+      "code": "DO-05",
+      "internalCode": "05",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "latitude": 19.43333,
+      "longitude": -71.58333
+    },
+    {
+      "id": 3506189,
+      "name": "Provincia de El Seibo",
+      "nativeName": "Provincia de El Seibo",
+      "code": "DO-08",
+      "internalCode": "08",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "latitude": 18.8,
+      "longitude": -69.05
+    },
+    {
+      "id": 3507269,
+      "name": "Provincia de Elías Piña",
+      "nativeName": "Provincia de Elías Piña",
+      "code": "DO-07",
+      "internalCode": "07",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "latitude": 19,
+      "longitude": -71.63333
+    },
+    {
       "id": 3493282,
       "name": "Provincia de Hermanas Mirabal",
       "nativeName": "Provincia de Hermanas Mirabal",
@@ -243,6 +210,50 @@
       "countryCode": "DO",
       "latitude": 19.41667,
       "longitude": -70.33333
+    },
+    {
+      "id": 3499977,
+      "name": "Provincia de La Vega",
+      "nativeName": "Provincia de La Vega",
+      "code": "DO-13",
+      "internalCode": "13",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "latitude": 19.05,
+      "longitude": -70.65
+    },
+    {
+      "id": 3496274,
+      "name": "Provincia de Monseñor Nouel",
+      "nativeName": "Provincia de Monseñor Nouel",
+      "code": "DO-28",
+      "internalCode": "28",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "latitude": 18.91667,
+      "longitude": -70.41667
+    },
+    {
+      "id": 3495015,
+      "name": "Provincia de Peravia",
+      "nativeName": "Provincia de Peravia",
+      "code": "DO-17",
+      "internalCode": "17",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "latitude": 18.33333,
+      "longitude": -70.36667
+    },
+    {
+      "id": 3493186,
+      "name": "Provincia de San Cristóbal",
+      "nativeName": "Provincia de San Cristóbal",
+      "code": "DO-21",
+      "internalCode": "21",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "latitude": 18.55,
+      "longitude": -70.2
     },
     {
       "id": 6201372,
@@ -256,9 +267,20 @@
       "longitude": -70.50877
     },
     {
+      "id": 3492912,
+      "name": "Provincia de Santiago Rodríguez",
+      "nativeName": "Provincia de Santiago Rodríguez",
+      "code": "DO-26",
+      "internalCode": "26",
+      "countryId": 3508796,
+      "countryCode": "DO",
+      "latitude": 19.41667,
+      "longitude": -71.33333
+    },
+    {
       "id": 3494267,
       "name": "Puerto Plata",
-      "nativeName": "Puerto Plata",
+      "nativeName": "Provincia de Puerto Plata",
       "code": "DO-18",
       "internalCode": "18",
       "countryId": 3508796,
@@ -278,20 +300,9 @@
       "longitude": -69.45
     },
     {
-      "id": 3493186,
-      "name": "San Cristóbal",
-      "nativeName": "San Cristóbal",
-      "code": "DO-21",
-      "internalCode": "21",
-      "countryId": 3508796,
-      "countryCode": "DO",
-      "latitude": 18.55,
-      "longitude": -70.2
-    },
-    {
       "id": 3493091,
       "name": "San Juan Province",
-      "nativeName": "San Juan",
+      "nativeName": "Provincia de San Juan",
       "code": "DO-22",
       "internalCode": "22",
       "countryId": 3508796,
@@ -302,7 +313,7 @@
     {
       "id": 3493031,
       "name": "San Pedro de Macorís",
-      "nativeName": "San Pedro de Macorís",
+      "nativeName": "Provincia de San Pedro de Macorís",
       "code": "DO-23",
       "internalCode": "23",
       "countryId": 3508796,
@@ -313,24 +324,13 @@
     {
       "id": 3492918,
       "name": "Santiago Province",
-      "nativeName": "Santiago",
+      "nativeName": "Provincia de Santiago",
       "code": "DO-25",
       "internalCode": "25",
       "countryId": 3508796,
       "countryCode": "DO",
       "latitude": 19.31667,
       "longitude": -70.88333
-    },
-    {
-      "id": 3492912,
-      "name": "Santiago Rodríguez",
-      "nativeName": "Santiago Rodríguez",
-      "code": "DO-26",
-      "internalCode": "26",
-      "countryId": 3508796,
-      "countryCode": "DO",
-      "latitude": 19.41667,
-      "longitude": -71.33333
     },
     {
       "id": 6201373,
@@ -346,7 +346,7 @@
     {
       "id": 3492112,
       "name": "Valverde Province",
-      "nativeName": "Valverde",
+      "nativeName": "Provincia de Valverde",
       "code": "DO-27",
       "internalCode": "27",
       "countryId": 3508796,

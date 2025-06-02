@@ -16,7 +16,7 @@
     },
     {
       "id": 1514386,
-      "name": "Beruniy District",
+      "name": "Beruniy Tumani",
       "nativeName": "Beruniy Tumani",
       "code": "UZ-QR-1514386",
       "countryId": 1512440,
@@ -37,8 +37,19 @@
       "longitude": 59.32998
     },
     {
+      "id": 601394,
+      "name": "Chimboy Tumani",
+      "nativeName": "Chimboy Tumani",
+      "code": "UZ-QR-601394",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-QR",
+      "latitude": 43.00964,
+      "longitude": 59.67437
+    },
+    {
       "id": 1514037,
-      "name": "Ellikqala District",
+      "name": "Ellikqala Tumani",
       "nativeName": "Ellikqala Tumani",
       "code": "UZ-QR-1514037",
       "countryId": 1512440,
@@ -82,7 +93,7 @@
     },
     {
       "id": 601309,
-      "name": "Qanlikól district",
+      "name": "Qanliko‘l Tumani",
       "nativeName": "Qanliko‘l Tumani",
       "code": "UZ-QR-601309",
       "countryId": 1512440,
@@ -93,7 +104,7 @@
     },
     {
       "id": 1513732,
-      "name": "Qaraózek district",
+      "name": "Qorao‘zak Tumani",
       "nativeName": "Qorao‘zak Tumani",
       "code": "UZ-QR-1513732",
       "countryId": 1512440,
@@ -114,19 +125,8 @@
       "longitude": 57.5
     },
     {
-      "id": 601394,
-      "name": "Shimbay district",
-      "nativeName": "Chimboy Tumani",
-      "code": "UZ-QR-601394",
-      "countryId": 1512440,
-      "countryCode": "UZ",
-      "stateCode": "UZ-QR",
-      "latitude": 43.00964,
-      "longitude": 59.67437
-    },
-    {
       "id": 601276,
-      "name": "Shomanay district",
+      "name": "Shumanay Tumani",
       "nativeName": "Shumanay Tumani",
       "code": "UZ-QR-601276",
       "countryId": 1512440,
@@ -137,7 +137,7 @@
     },
     {
       "id": 1512698,
-      "name": "Taxtakópir District",
+      "name": "Taxtako‘pir Tumani",
       "nativeName": "Taxtako‘pir Tumani",
       "code": "UZ-QR-1512698",
       "countryId": 1512440,
@@ -159,7 +159,7 @@
     },
     {
       "id": 601340,
-      "name": "Xojeli district",
+      "name": "Xo‘jayli Tumani",
       "nativeName": "Xo‘jayli Tumani",
       "code": "UZ-QR-601340",
       "countryId": 1512440,

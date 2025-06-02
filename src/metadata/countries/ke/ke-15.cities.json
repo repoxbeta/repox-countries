@@ -488,17 +488,6 @@
       "longitude": 37.16566
     },
     {
-      "id": 11835352,
-      "name": "Kanyokora",
-      "nativeName": "Kanyokora",
-      "code": "KE-15-11835352",
-      "countryId": 192950,
-      "countryCode": "KE",
-      "stateCode": "KE-15",
-      "latitude": -0.54399,
-      "longitude": 37.21241
-    },
-    {
       "id": 11830884,
       "name": "Kanyokora",
       "nativeName": "Kanyokora",
@@ -508,6 +497,17 @@
       "stateCode": "KE-15",
       "latitude": -0.48978,
       "longitude": 37.18879
+    },
+    {
+      "id": 11835352,
+      "name": "Kanyokora",
+      "nativeName": "Kanyokora",
+      "code": "KE-15-11835352",
+      "countryId": 192950,
+      "countryCode": "KE",
+      "stateCode": "KE-15",
+      "latitude": -0.54399,
+      "longitude": 37.21241
     },
     {
       "id": 193896,

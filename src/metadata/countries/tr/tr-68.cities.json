@@ -4,17 +4,6 @@
   "countryCode": "TR",
   "cities": [
     {
-      "id": 7732073,
-      "name": "Aksaray",
-      "nativeName": "Aksaray",
-      "code": "TR-68-7732073",
-      "countryId": 298795,
-      "countryCode": "TR",
-      "stateCode": "TR-68",
-      "latitude": 38.3706,
-      "longitude": 34.02843
-    },
-    {
       "id": 8631920,
       "name": "Ağaçören İlçesi",
       "nativeName": "Ağaçören İlçesi",
@@ -57,6 +46,17 @@
       "stateCode": "TR-68",
       "latitude": 38.28628,
       "longitude": 34.3619
+    },
+    {
+      "id": 7732073,
+      "name": "Merkez",
+      "nativeName": "Merkez",
+      "code": "TR-68-7732073",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-68",
+      "latitude": 38.3706,
+      "longitude": 34.02843
     },
     {
       "id": 8631922,

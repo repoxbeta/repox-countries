@@ -16,8 +16,8 @@
     },
     {
       "id": 618570,
-      "name": "Beştemac",
-      "nativeName": "Beştemac",
+      "name": "Beștemac",
+      "nativeName": "Beștemac",
       "code": "MD-LE-618570",
       "countryId": 617790,
       "countryCode": "MD",
@@ -247,8 +247,8 @@
     },
     {
       "id": 864962,
-      "name": "Piteşti",
-      "nativeName": "Piteşti",
+      "name": "Pitești",
+      "nativeName": "Pitești",
       "code": "MD-LE-864962",
       "countryId": 617790,
       "countryCode": "MD",
@@ -269,8 +269,8 @@
     },
     {
       "id": 617447,
-      "name": "Selişte",
-      "nativeName": "Selişte",
+      "name": "Seliște",
+      "nativeName": "Seliște",
       "code": "MD-LE-617447",
       "countryId": 617790,
       "countryCode": "MD",
@@ -411,6 +411,17 @@
       "longitude": 28.46362
     },
     {
+      "id": 864960,
+      "name": "Troian 2",
+      "nativeName": "Troian 2",
+      "code": "MD-LE-864960",
+      "countryId": 617790,
+      "countryCode": "MD",
+      "stateCode": "MD-LE",
+      "latitude": 46.53889,
+      "longitude": 28.47806
+    },
+    {
       "id": 617706,
       "name": "Troiţa",
       "nativeName": "Troiţa",
@@ -431,17 +442,6 @@
       "stateCode": "MD-LE",
       "latitude": 46.61139,
       "longitude": 28.54778
-    },
-    {
-      "id": 864960,
-      "name": "Troyan Vtoroy",
-      "nativeName": "Troyan Vtoroy",
-      "code": "MD-LE-864960",
-      "countryId": 617790,
-      "countryCode": "MD",
-      "stateCode": "MD-LE",
-      "latitude": 46.53889,
-      "longitude": 28.47806
     },
     {
       "id": 864963,

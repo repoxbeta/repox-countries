@@ -4,6 +4,171 @@
   "countryCode": "US",
   "cities": [
     {
+      "id": 4670756,
+      "name": "Anderson",
+      "nativeName": "Anderson County",
+      "code": "US-TX-4670756",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 31.81333,
+      "longitude": -95.65255
+    },
+    {
+      "id": 5516292,
+      "name": "Andrews",
+      "nativeName": "Andrews County",
+      "code": "US-TX-5516292",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 32.30503,
+      "longitude": -102.63781
+    },
+    {
+      "id": 4670841,
+      "name": "Angelina",
+      "nativeName": "Angelina County",
+      "code": "US-TX-4670841",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 31.25476,
+      "longitude": -94.61185
+    },
+    {
+      "id": 4671133,
+      "name": "Aransas",
+      "nativeName": "Aransas County",
+      "code": "US-TX-4671133",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 28.01501,
+      "longitude": -97.07382
+    },
+    {
+      "id": 4671180,
+      "name": "Archer",
+      "nativeName": "Archer County",
+      "code": "US-TX-4671180",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 33.61525,
+      "longitude": -98.68765
+    },
+    {
+      "id": 5516441,
+      "name": "Armstrong",
+      "nativeName": "Armstrong County",
+      "code": "US-TX-5516441",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 34.96493,
+      "longitude": -101.3574
+    },
+    {
+      "id": 4671531,
+      "name": "Atascosa",
+      "nativeName": "Atascosa County",
+      "code": "US-TX-4671531",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 28.89352,
+      "longitude": -98.52713
+    },
+    {
+      "id": 4671673,
+      "name": "Austin",
+      "nativeName": "Austin County",
+      "code": "US-TX-4671673",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 29.88702,
+      "longitude": -96.27791
+    },
+    {
+      "id": 5516581,
+      "name": "Bailey",
+      "nativeName": "Bailey County",
+      "code": "US-TX-5516581",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 34.06852,
+      "longitude": -102.82987
+    },
+    {
+      "id": 4672172,
+      "name": "Bandera",
+      "nativeName": "Bandera County",
+      "code": "US-TX-4672172",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 29.74721,
+      "longitude": -99.24624
+    },
+    {
+      "id": 4672581,
+      "name": "Bastrop",
+      "nativeName": "Bastrop County",
+      "code": "US-TX-4672581",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 30.10361,
+      "longitude": -97.31201
+    },
+    {
+      "id": 4672691,
+      "name": "Baylor",
+      "nativeName": "Baylor County",
+      "code": "US-TX-4672691",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 33.61649,
+      "longitude": -99.21351
+    },
+    {
+      "id": 4673147,
+      "name": "Bee",
+      "nativeName": "Bee County",
+      "code": "US-TX-4673147",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 28.41739,
+      "longitude": -97.74119
+    },
+    {
+      "id": 4673310,
+      "name": "Bell",
+      "nativeName": "Bell County",
+      "code": "US-TX-4673310",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 31.03767,
+      "longitude": -97.4782
+    },
+    {
+      "id": 4674023,
+      "name": "Bexar",
+      "nativeName": "Bexar County",
+      "code": "US-TX-4674023",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 29.44896,
+      "longitude": -98.52002
+    },
+    {
       "id": 4674915,
       "name": "Blanco",
       "nativeName": "Blanco County",
@@ -13,6 +178,17 @@
       "stateCode": "US-TX",
       "latitude": 30.26638,
       "longitude": -98.39987
+    },
+    {
+      "id": 5517459,
+      "name": "Borden",
+      "nativeName": "Borden County",
+      "code": "US-TX-5517459",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 32.74369,
+      "longitude": -101.43175
     },
     {
       "id": 4675728,
@@ -57,6 +233,28 @@
       "stateCode": "US-TX",
       "latitude": 30.6608,
       "longitude": -96.30239
+    },
+    {
+      "id": 5517580,
+      "name": "Brewster",
+      "nativeName": "Brewster County",
+      "code": "US-TX-5517580",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 29.81195,
+      "longitude": -103.25176
+    },
+    {
+      "id": 5517598,
+      "name": "Briscoe",
+      "nativeName": "Briscoe County",
+      "code": "US-TX-5517598",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 34.53026,
+      "longitude": -101.20859
     },
     {
       "id": 4676547,
@@ -334,6 +532,28 @@
       "longitude": -99.86396
     },
     {
+      "id": 4683066,
+      "name": "Cooke",
+      "nativeName": "Cooke County",
+      "code": "US-TX-4683066",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 33.63919,
+      "longitude": -97.21262
+    },
+    {
+      "id": 4683477,
+      "name": "Coryell",
+      "nativeName": "Coryell County",
+      "code": "US-TX-4683477",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 31.39091,
+      "longitude": -97.7992
+    },
+    {
       "id": 5519440,
       "name": "Cottle",
       "nativeName": "Cottle County",
@@ -345,103 +565,59 @@
       "longitude": -100.27874
     },
     {
-      "id": 5519649,
-      "name": "Crane",
-      "nativeName": "Crane County",
-      "code": "US-TX-5519649",
+      "id": 4684904,
+      "name": "Dallas",
+      "nativeName": "Dallas County",
+      "code": "US-TX-4684904",
       "countryId": 6252001,
       "countryCode": "US",
       "stateCode": "US-TX",
-      "latitude": 31.4285,
-      "longitude": -102.51557
+      "latitude": 32.76663,
+      "longitude": -96.77787
     },
     {
-      "id": 5519699,
-      "name": "Crockett",
-      "nativeName": "Crockett County",
-      "code": "US-TX-5519699",
+      "id": 4685527,
+      "name": "DeWitt",
+      "nativeName": "DeWitt County",
+      "code": "US-TX-4685527",
       "countryId": 6252001,
       "countryCode": "US",
       "stateCode": "US-TX",
-      "latitude": 30.72298,
-      "longitude": -101.41215
+      "latitude": 29.08208,
+      "longitude": -97.35678
     },
     {
-      "id": 5519715,
-      "name": "Crosby",
-      "nativeName": "Crosby County",
-      "code": "US-TX-5519715",
+      "id": 4685841,
+      "name": "Delta",
+      "nativeName": "Delta County",
+      "code": "US-TX-4685841",
       "countryId": 6252001,
       "countryCode": "US",
       "stateCode": "US-TX",
-      "latitude": 33.61462,
-      "longitude": -101.29996
+      "latitude": 33.38629,
+      "longitude": -95.67227
     },
     {
-      "id": 5519788,
-      "name": "Culberson",
-      "nativeName": "Culberson County",
-      "code": "US-TX-5519788",
+      "id": 4685912,
+      "name": "Denton",
+      "nativeName": "Denton County",
+      "code": "US-TX-4685912",
       "countryId": 6252001,
       "countryCode": "US",
       "stateCode": "US-TX",
-      "latitude": 31.44716,
-      "longitude": -104.51742
+      "latitude": 33.20526,
+      "longitude": -97.11697
     },
     {
-      "id": 5519868,
-      "name": "Dallam",
-      "nativeName": "Dallam County",
-      "code": "US-TX-5519868",
+      "id": 4686231,
+      "name": "Dimmit",
+      "nativeName": "Dimmit County",
+      "code": "US-TX-4686231",
       "countryId": 6252001,
       "countryCode": "US",
       "stateCode": "US-TX",
-      "latitude": 36.27789,
-      "longitude": -102.60222
-    },
-    {
-      "id": 5519946,
-      "name": "Dawson",
-      "nativeName": "Dawson County",
-      "code": "US-TX-5519946",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 32.74253,
-      "longitude": -101.94768
-    },
-    {
-      "id": 5520004,
-      "name": "Deaf Smith",
-      "nativeName": "Deaf Smith County",
-      "code": "US-TX-5520004",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 34.96602,
-      "longitude": -102.60494
-    },
-    {
-      "id": 5520187,
-      "name": "Dickens",
-      "nativeName": "Dickens County",
-      "code": "US-TX-5520187",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 33.61661,
-      "longitude": -100.77886
-    },
-    {
-      "id": 5520330,
-      "name": "Donley",
-      "nativeName": "Donley County",
-      "code": "US-TX-5520330",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 34.96542,
-      "longitude": -100.81399
+      "latitude": 28.42254,
+      "longitude": -99.75673
     },
     {
       "id": 4687437,
@@ -464,39 +640,6 @@
       "stateCode": "US-TX",
       "latitude": 32.32707,
       "longitude": -98.83232
-    },
-    {
-      "id": 5520910,
-      "name": "Ector",
-      "nativeName": "Ector County",
-      "code": "US-TX-5520910",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 31.86916,
-      "longitude": -102.54276
-    },
-    {
-      "id": 5520940,
-      "name": "Edwards",
-      "nativeName": "Edwards County",
-      "code": "US-TX-5520940",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 29.98263,
-      "longitude": -100.30474
-    },
-    {
-      "id": 5521001,
-      "name": "El Paso",
-      "nativeName": "El Paso County",
-      "code": "US-TX-5521001",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 31.76855,
-      "longitude": -106.23483
     },
     {
       "id": 4688864,
@@ -576,6 +719,61 @@
       "longitude": -101.30323
     },
     {
+      "id": 4691668,
+      "name": "Foard",
+      "nativeName": "Foard County",
+      "code": "US-TX-4691668",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 33.97462,
+      "longitude": -99.77798
+    },
+    {
+      "id": 4691851,
+      "name": "Fort Bend",
+      "nativeName": "Fort Bend County",
+      "code": "US-TX-4691851",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 29.52749,
+      "longitude": -95.77089
+    },
+    {
+      "id": 4692203,
+      "name": "Franklin",
+      "nativeName": "Franklin County",
+      "code": "US-TX-4692203",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 33.17555,
+      "longitude": -95.21842
+    },
+    {
+      "id": 4692377,
+      "name": "Freestone",
+      "nativeName": "Freestone County",
+      "code": "US-TX-4692377",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 31.70489,
+      "longitude": -96.14909
+    },
+    {
+      "id": 4692545,
+      "name": "Frio",
+      "nativeName": "Frio County",
+      "code": "US-TX-4692545",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 28.86782,
+      "longitude": -99.10827
+    },
+    {
       "id": 5521974,
       "name": "Gaines",
       "nativeName": "Gaines County",
@@ -585,6 +783,17 @@
       "stateCode": "US-TX",
       "latitude": 32.74073,
       "longitude": -102.63518
+    },
+    {
+      "id": 4692856,
+      "name": "Galveston",
+      "nativeName": "Galveston County",
+      "code": "US-TX-4692856",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 29.29767,
+      "longitude": -94.81087
     },
     {
       "id": 5522043,
@@ -598,6 +807,17 @@
       "longitude": -101.29842
     },
     {
+      "id": 4693544,
+      "name": "Gillespie",
+      "nativeName": "Gillespie County",
+      "code": "US-TX-4693544",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 30.31806,
+      "longitude": -98.94648
+    },
+    {
       "id": 5522162,
       "name": "Glasscock",
       "nativeName": "Glasscock County",
@@ -609,6 +829,28 @@
       "longitude": -101.5208
     },
     {
+      "id": 4693922,
+      "name": "Goliad",
+      "nativeName": "Goliad County",
+      "code": "US-TX-4693922",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 28.6571,
+      "longitude": -97.42649
+    },
+    {
+      "id": 4693951,
+      "name": "Gonzales",
+      "nativeName": "Gonzales County",
+      "code": "US-TX-4693951",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 29.45673,
+      "longitude": -97.49252
+    },
+    {
       "id": 5522430,
       "name": "Gray",
       "nativeName": "Gray County",
@@ -618,6 +860,50 @@
       "stateCode": "US-TX",
       "latitude": 35.40116,
       "longitude": -100.81256
+    },
+    {
+      "id": 4694710,
+      "name": "Grayson",
+      "nativeName": "Grayson County",
+      "code": "US-TX-4694710",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 33.62681,
+      "longitude": -96.67772
+    },
+    {
+      "id": 4695143,
+      "name": "Gregg",
+      "nativeName": "Gregg County",
+      "code": "US-TX-4695143",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 32.48047,
+      "longitude": -94.81695
+    },
+    {
+      "id": 4695236,
+      "name": "Grimes",
+      "nativeName": "Grimes County",
+      "code": "US-TX-4695236",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 30.54347,
+      "longitude": -95.9855
+    },
+    {
+      "id": 4695361,
+      "name": "Guadalupe",
+      "nativeName": "Guadalupe County",
+      "code": "US-TX-4695361",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 29.58305,
+      "longitude": -97.94858
     },
     {
       "id": 5522717,
@@ -642,6 +928,17 @@
       "longitude": -100.68113
     },
     {
+      "id": 4695945,
+      "name": "Hamilton",
+      "nativeName": "Hamilton County",
+      "code": "US-TX-4695945",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 31.7048,
+      "longitude": -98.11073
+    },
+    {
       "id": 5522806,
       "name": "Hansford",
       "nativeName": "Hansford County",
@@ -651,6 +948,50 @@
       "stateCode": "US-TX",
       "latitude": 36.27745,
       "longitude": -101.35454
+    },
+    {
+      "id": 4696131,
+      "name": "Hardeman",
+      "nativeName": "Hardeman County",
+      "code": "US-TX-4696131",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 34.29029,
+      "longitude": -99.74572
+    },
+    {
+      "id": 4696143,
+      "name": "Hardin",
+      "nativeName": "Hardin County",
+      "code": "US-TX-4696143",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 30.33237,
+      "longitude": -94.39022
+    },
+    {
+      "id": 4696376,
+      "name": "Harris",
+      "nativeName": "Harris County",
+      "code": "US-TX-4696376",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 29.85728,
+      "longitude": -95.39234
+    },
+    {
+      "id": 4696450,
+      "name": "Harrison",
+      "nativeName": "Harrison County",
+      "code": "US-TX-4696450",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 32.54813,
+      "longitude": -94.37149
     },
     {
       "id": 5522887,
@@ -664,6 +1005,28 @@
       "longitude": -102.60289
     },
     {
+      "id": 4696596,
+      "name": "Haskell",
+      "nativeName": "Haskell County",
+      "code": "US-TX-4696596",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 33.17823,
+      "longitude": -99.7303
+    },
+    {
+      "id": 4696788,
+      "name": "Hays",
+      "nativeName": "Hays County",
+      "code": "US-TX-4696788",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 30.05815,
+      "longitude": -98.03106
+    },
+    {
       "id": 5523019,
       "name": "Hemphill",
       "nativeName": "Hemphill County",
@@ -675,6 +1038,39 @@
       "longitude": -100.27047
     },
     {
+      "id": 4697070,
+      "name": "Henderson",
+      "nativeName": "Henderson County",
+      "code": "US-TX-4697070",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 32.21189,
+      "longitude": -95.85356
+    },
+    {
+      "id": 4697444,
+      "name": "Hidalgo",
+      "nativeName": "Hidalgo County",
+      "code": "US-TX-4697444",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 26.39672,
+      "longitude": -98.18107
+    },
+    {
+      "id": 4697746,
+      "name": "Hill",
+      "nativeName": "Hill County",
+      "code": "US-TX-4697746",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 31.99068,
+      "longitude": -97.13243
+    },
+    {
       "id": 5523240,
       "name": "Hockley",
       "nativeName": "Hockley County",
@@ -684,6 +1080,28 @@
       "stateCode": "US-TX",
       "latitude": 33.60764,
       "longitude": -102.3432
+    },
+    {
+      "id": 4698632,
+      "name": "Hood",
+      "nativeName": "Hood County",
+      "code": "US-TX-4698632",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 32.42993,
+      "longitude": -97.83227
+    },
+    {
+      "id": 4698747,
+      "name": "Hopkins",
+      "nativeName": "Hopkins County",
+      "code": "US-TX-4698747",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 33.14956,
+      "longitude": -95.56395
     },
     {
       "id": 5523520,
@@ -730,39 +1148,6 @@
       "longitude": -100.98242
     },
     {
-      "id": 4700414,
-      "name": "Jack",
-      "nativeName": "Jack County",
-      "code": "US-TX-4700414",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 33.23346,
-      "longitude": -98.17246
-    },
-    {
-      "id": 4700488,
-      "name": "Jackson",
-      "nativeName": "Jackson County",
-      "code": "US-TX-4700488",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 28.95424,
-      "longitude": -96.57768
-    },
-    {
-      "id": 4700729,
-      "name": "Jasper",
-      "nativeName": "Jasper County",
-      "code": "US-TX-4700729",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 30.74396,
-      "longitude": -94.02509
-    },
-    {
       "id": 5523967,
       "name": "Jeff Davis",
       "nativeName": "Jeff Davis County",
@@ -772,83 +1157,6 @@
       "stateCode": "US-TX",
       "latitude": 30.71548,
       "longitude": -104.14002
-    },
-    {
-      "id": 4700821,
-      "name": "Jefferson",
-      "nativeName": "Jefferson County",
-      "code": "US-TX-4700821",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 29.85373,
-      "longitude": -94.15344
-    },
-    {
-      "id": 4701059,
-      "name": "Jim Hogg",
-      "nativeName": "Jim Hogg County",
-      "code": "US-TX-4701059",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 27.0434,
-      "longitude": -98.69731
-    },
-    {
-      "id": 4701084,
-      "name": "Jim Wells",
-      "nativeName": "Jim Wells County",
-      "code": "US-TX-4701084",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 27.7313,
-      "longitude": -98.08994
-    },
-    {
-      "id": 4701348,
-      "name": "Johnson",
-      "nativeName": "Johnson County",
-      "code": "US-TX-4701348",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 32.37901,
-      "longitude": -97.36633
-    },
-    {
-      "id": 4701505,
-      "name": "Jones",
-      "nativeName": "Jones County",
-      "code": "US-TX-4701505",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 32.7399,
-      "longitude": -99.87874
-    },
-    {
-      "id": 4702669,
-      "name": "Karnes",
-      "nativeName": "Karnes County",
-      "code": "US-TX-4702669",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 28.90574,
-      "longitude": -97.8594
-    },
-    {
-      "id": 4702735,
-      "name": "Kaufman",
-      "nativeName": "Kaufman County",
-      "code": "US-TX-4702735",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 32.5993,
-      "longitude": -96.2878
     },
     {
       "id": 4702947,
@@ -1058,6 +1366,28 @@
       "stateCode": "US-TX",
       "latitude": 36.27771,
       "longitude": -100.27312
+    },
+    {
+      "id": 4707076,
+      "name": "Live Oak",
+      "nativeName": "Live Oak County",
+      "code": "US-TX-4707076",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 28.35137,
+      "longitude": -98.12479
+    },
+    {
+      "id": 4707196,
+      "name": "Llano",
+      "nativeName": "Llano County",
+      "code": "US-TX-4707196",
+      "countryId": 6252001,
+      "countryCode": "US",
+      "stateCode": "US-TX",
+      "latitude": 30.70574,
+      "longitude": -98.6841
     },
     {
       "id": 5525514,
@@ -1731,50 +2061,6 @@
       "longitude": -101.89348
     },
     {
-      "id": 4729130,
-      "name": "Smith",
-      "nativeName": "Smith County",
-      "code": "US-TX-4729130",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 32.37504,
-      "longitude": -95.26918
-    },
-    {
-      "id": 4732807,
-      "name": "Somervell",
-      "nativeName": "Somervell County",
-      "code": "US-TX-4732807",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 32.22229,
-      "longitude": -97.77434
-    },
-    {
-      "id": 4734150,
-      "name": "Starr",
-      "nativeName": "Starr County",
-      "code": "US-TX-4734150",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 26.56215,
-      "longitude": -98.7384
-    },
-    {
-      "id": 4734326,
-      "name": "Stephens",
-      "nativeName": "Stephens County",
-      "code": "US-TX-4734326",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 32.73586,
-      "longitude": -98.83617
-    },
-    {
       "id": 5531748,
       "name": "Sterling",
       "nativeName": "Sterling County",
@@ -1819,28 +2105,6 @@
       "longitude": -101.73503
     },
     {
-      "id": 4735638,
-      "name": "Tarrant",
-      "nativeName": "Tarrant County",
-      "code": "US-TX-4735638",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 32.77156,
-      "longitude": -97.29124
-    },
-    {
-      "id": 4735729,
-      "name": "Taylor",
-      "nativeName": "Taylor County",
-      "code": "US-TX-4735729",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 32.30147,
-      "longitude": -99.89012
-    },
-    {
       "id": 5532186,
       "name": "Terrell",
       "nativeName": "Terrell County",
@@ -1863,28 +2127,6 @@
       "longitude": -102.3352
     },
     {
-      "id": 4736742,
-      "name": "Throckmorton",
-      "nativeName": "Throckmorton County",
-      "code": "US-TX-4736742",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 33.17749,
-      "longitude": -99.21237
-    },
-    {
-      "id": 4736982,
-      "name": "Titus",
-      "nativeName": "Titus County",
-      "code": "US-TX-4736982",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 33.2166,
-      "longitude": -94.96567
-    },
-    {
       "id": 5532405,
       "name": "Tom Green",
       "nativeName": "Tom Green County",
@@ -1894,50 +2136,6 @@
       "stateCode": "US-TX",
       "latitude": 31.4044,
       "longitude": -100.46207
-    },
-    {
-      "id": 4737316,
-      "name": "Travis",
-      "nativeName": "Travis County",
-      "code": "US-TX-4737316",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 30.33469,
-      "longitude": -97.78195
-    },
-    {
-      "id": 4737562,
-      "name": "Trinity",
-      "nativeName": "Trinity County",
-      "code": "US-TX-4737562",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 31.08882,
-      "longitude": -95.13551
-    },
-    {
-      "id": 4738216,
-      "name": "Tyler",
-      "nativeName": "Tyler County",
-      "code": "US-TX-4738216",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 30.77123,
-      "longitude": -94.37659
-    },
-    {
-      "id": 4738689,
-      "name": "Upshur",
-      "nativeName": "Upshur County",
-      "code": "US-TX-4738689",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 32.73628,
-      "longitude": -94.94148
     },
     {
       "id": 5532876,
@@ -1951,17 +2149,6 @@
       "longitude": -102.04304
     },
     {
-      "id": 4738723,
-      "name": "Uvalde",
-      "nativeName": "Uvalde County",
-      "code": "US-TX-4738723",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 29.35734,
-      "longitude": -99.76221
-    },
-    {
       "id": 5532889,
       "name": "Val Verde",
       "nativeName": "Val Verde County",
@@ -1971,50 +2158,6 @@
       "stateCode": "US-TX",
       "latitude": 29.89296,
       "longitude": -101.15172
-    },
-    {
-      "id": 4738915,
-      "name": "Van Zandt",
-      "nativeName": "Van Zandt County",
-      "code": "US-TX-4738915",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 32.56372,
-      "longitude": -95.83651
-    },
-    {
-      "id": 4739167,
-      "name": "Victoria",
-      "nativeName": "Victoria County",
-      "code": "US-TX-4739167",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 28.79635,
-      "longitude": -96.97153
-    },
-    {
-      "id": 4739690,
-      "name": "Walker",
-      "nativeName": "Walker County",
-      "code": "US-TX-4739690",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 30.73905,
-      "longitude": -95.57228
-    },
-    {
-      "id": 4739804,
-      "name": "Waller",
-      "nativeName": "Waller County",
-      "code": "US-TX-4739804",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 30.01081,
-      "longitude": -95.98765
     },
     {
       "id": 5533109,
@@ -2028,39 +2171,6 @@
       "longitude": -103.10243
     },
     {
-      "id": 4740157,
-      "name": "Washington",
-      "nativeName": "Washington County",
-      "code": "US-TX-4740157",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 30.21453,
-      "longitude": -96.40344
-    },
-    {
-      "id": 4740399,
-      "name": "Webb",
-      "nativeName": "Webb County",
-      "code": "US-TX-4740399",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 27.76106,
-      "longitude": -99.33157
-    },
-    {
-      "id": 4741328,
-      "name": "Wharton",
-      "nativeName": "Wharton County",
-      "code": "US-TX-4741328",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 29.27786,
-      "longitude": -96.2221
-    },
-    {
       "id": 5533544,
       "name": "Wheeler",
       "nativeName": "Wheeler County",
@@ -2070,61 +2180,6 @@
       "stateCode": "US-TX",
       "latitude": 35.40128,
       "longitude": -100.26965
-    },
-    {
-      "id": 4741751,
-      "name": "Wichita",
-      "nativeName": "Wichita County",
-      "code": "US-TX-4741751",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 33.98798,
-      "longitude": -98.70361
-    },
-    {
-      "id": 4741797,
-      "name": "Wilbarger",
-      "nativeName": "Wilbarger County",
-      "code": "US-TX-4741797",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 34.08072,
-      "longitude": -99.24108
-    },
-    {
-      "id": 4741939,
-      "name": "Willacy",
-      "nativeName": "Willacy County",
-      "code": "US-TX-4741939",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 26.47701,
-      "longitude": -97.59182
-    },
-    {
-      "id": 4742143,
-      "name": "Williamson",
-      "nativeName": "Williamson County",
-      "code": "US-TX-4742143",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 30.64804,
-      "longitude": -97.60076
-    },
-    {
-      "id": 4742425,
-      "name": "Wilson",
-      "nativeName": "Wilson County",
-      "code": "US-TX-4742425",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 29.17401,
-      "longitude": -98.08657
     },
     {
       "id": 5534055,
@@ -2138,28 +2193,6 @@
       "longitude": -103.04817
     },
     {
-      "id": 4742676,
-      "name": "Wise",
-      "nativeName": "Wise County",
-      "code": "US-TX-4742676",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 33.2159,
-      "longitude": -97.65445
-    },
-    {
-      "id": 4742850,
-      "name": "Wood",
-      "nativeName": "Wood County",
-      "code": "US-TX-4742850",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 32.78641,
-      "longitude": -95.38206
-    },
-    {
       "id": 5534225,
       "name": "Yoakum",
       "nativeName": "Yoakum County",
@@ -2169,39 +2202,6 @@
       "stateCode": "US-TX",
       "latitude": 33.17297,
       "longitude": -102.8278
-    },
-    {
-      "id": 4743474,
-      "name": "Young",
-      "nativeName": "Young County",
-      "code": "US-TX-4743474",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 33.1767,
-      "longitude": -98.68777
-    },
-    {
-      "id": 4743577,
-      "name": "Zapata",
-      "nativeName": "Zapata County",
-      "code": "US-TX-4743577",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 27.00078,
-      "longitude": -99.16861
-    },
-    {
-      "id": 4743595,
-      "name": "Zavala",
-      "nativeName": "Zavala County",
-      "code": "US-TX-4743595",
-      "countryId": 6252001,
-      "countryCode": "US",
-      "stateCode": "US-TX",
-      "latitude": 28.86621,
-      "longitude": -99.7606
     }
   ]
 }
