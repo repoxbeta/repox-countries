@@ -345,17 +345,6 @@
       "longitude": -76.8672
     },
     {
-      "id": 11494897,
-      "name": "Forest Hills",
-      "nativeName": "Forest Hills - Plantation Heights",
-      "code": "JM-02-11494897",
-      "countryId": 3489940,
-      "countryCode": "JM",
-      "stateCode": "JM-02",
-      "latitude": 18.043,
-      "longitude": -76.8514
-    },
-    {
       "id": 11495200,
       "name": "Forest Hills Gardens",
       "nativeName": "Forest Hills Gardens",
@@ -827,6 +816,17 @@
       "stateCode": "JM-02",
       "latitude": 18.01952,
       "longitude": -76.83094
+    },
+    {
+      "id": 11494897,
+      "name": "Plantation Heights",
+      "nativeName": "Forest Hills - Plantation Heights",
+      "code": "JM-02-11494897",
+      "countryId": 3489940,
+      "countryCode": "JM",
+      "stateCode": "JM-02",
+      "latitude": 18.043,
+      "longitude": -76.8514
     },
     {
       "id": 11495199,

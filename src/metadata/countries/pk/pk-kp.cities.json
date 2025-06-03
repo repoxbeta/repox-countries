@@ -5,7 +5,7 @@
   "cities": [
     {
       "id": 1185055,
-      "name": "Abbottabad District",
+      "name": "Abbottabad",
       "nativeName": "Abbottābād District",
       "code": "PK-KP-1185055",
       "countryId": 1168579,
@@ -27,7 +27,7 @@
     },
     {
       "id": 1183459,
-      "name": "Bannu",
+      "name": "Bannu District",
       "nativeName": "Bannu District",
       "code": "PK-KP-1183459",
       "countryId": 1168579,
@@ -60,7 +60,7 @@
     },
     {
       "id": 1182146,
-      "name": "Buner",
+      "name": "Buner District",
       "nativeName": "Buner District",
       "code": "PK-KP-1182146",
       "countryId": 1168579,
@@ -71,7 +71,7 @@
     },
     {
       "id": 7419051,
-      "name": "Charsadda",
+      "name": "Charsadda District",
       "nativeName": "Chārsadda District",
       "code": "PK-KP-7419051",
       "countryId": 1168579,
@@ -82,7 +82,7 @@
     },
     {
       "id": 1181064,
-      "name": "Chitral",
+      "name": "Chitral District",
       "nativeName": "Chitrāl District",
       "code": "PK-KP-1181064",
       "countryId": 1168579,
@@ -93,7 +93,7 @@
     },
     {
       "id": 1180282,
-      "name": "D. I. Khan District",
+      "name": "Dera Ismail Khan District",
       "nativeName": "Dera Ismail Khan",
       "code": "PK-KP-1180282",
       "countryId": 1168579,
@@ -148,7 +148,7 @@
     },
     {
       "id": 7419047,
-      "name": "Karak",
+      "name": "Karak District",
       "nativeName": "Karak District",
       "code": "PK-KP-7419047",
       "countryId": 1168579,
@@ -178,6 +178,17 @@
       "stateCode": "PK-KP",
       "latitude": 33.44911,
       "longitude": 71.54394
+    },
+    {
+      "id": 7419050,
+      "name": "Kohat Tribal Area",
+      "nativeName": "Tribal Area Adjoining Kohat District",
+      "code": "PK-KP-7419050",
+      "countryId": 1168579,
+      "countryCode": "PK",
+      "stateCode": "PK-KP",
+      "latitude": 33.66399,
+      "longitude": 71.59205
     },
     {
       "id": 1172574,
@@ -236,7 +247,7 @@
     },
     {
       "id": 1171388,
-      "name": "Malakand Protected Area",
+      "name": "Malakand Agency",
       "nativeName": "Malakand Protected Area",
       "code": "PK-KP-1171388",
       "countryId": 1168579,
@@ -269,7 +280,7 @@
     },
     {
       "id": 1170122,
-      "name": "Mohmand",
+      "name": "Mohmand Agency",
       "nativeName": "Mohmand Agency",
       "code": "PK-KP-1170122",
       "countryId": 1168579,
@@ -335,7 +346,7 @@
     },
     {
       "id": 7419053,
-      "name": "Shangla",
+      "name": "Shangla District",
       "nativeName": "Shāngla District",
       "code": "PK-KP-7419053",
       "countryId": 1168579,
@@ -368,7 +379,7 @@
     },
     {
       "id": 1164211,
-      "name": "Swat District",
+      "name": "Swat",
       "nativeName": "Swat",
       "code": "PK-KP-1164211",
       "countryId": 1168579,
@@ -389,6 +400,17 @@
       "longitude": 70.39256
     },
     {
+      "id": 7419041,
+      "name": "Tank Frontier Region",
+      "nativeName": "Tank Frontier Region",
+      "code": "PK-KP-7419041",
+      "countryId": 1168579,
+      "countryCode": "PK",
+      "stateCode": "PK-KP",
+      "latitude": 32.46451,
+      "longitude": 70.30597
+    },
+    {
       "id": 8061265,
       "name": "Tor Ghar",
       "nativeName": "Tor Ghar",
@@ -398,28 +420,6 @@
       "stateCode": "PK-KP",
       "latitude": 34.55872,
       "longitude": 72.85207
-    },
-    {
-      "id": 7419050,
-      "name": "Tribal Area Adjoining Kohat District",
-      "nativeName": "Tribal Area Adjoining Kohat District",
-      "code": "PK-KP-7419050",
-      "countryId": 1168579,
-      "countryCode": "PK",
-      "stateCode": "PK-KP",
-      "latitude": 33.66399,
-      "longitude": 71.59205
-    },
-    {
-      "id": 7419041,
-      "name": "Tribal Area Adjoining Tank District",
-      "nativeName": "Tank Frontier Region",
-      "code": "PK-KP-7419041",
-      "countryId": 1168579,
-      "countryCode": "PK",
-      "stateCode": "PK-KP",
-      "latitude": 32.46451,
-      "longitude": 70.30597
     },
     {
       "id": 12105031,

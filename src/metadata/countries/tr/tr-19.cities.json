@@ -37,17 +37,6 @@
       "longitude": 34.61745
     },
     {
-      "id": 7732348,
-      "name": "Corum",
-      "nativeName": "Corum",
-      "code": "TR-19-7732348",
-      "countryId": 298795,
-      "countryCode": "TR",
-      "stateCode": "TR-19",
-      "latitude": 40.50905,
-      "longitude": 34.85791
-    },
-    {
       "id": 8631998,
       "name": "Dodurga İlçesi",
       "nativeName": "Dodurga İlçesi",
@@ -90,6 +79,17 @@
       "stateCode": "TR-19",
       "latitude": 40.52774,
       "longitude": 35.2877
+    },
+    {
+      "id": 7732348,
+      "name": "Merkez",
+      "nativeName": "Merkez",
+      "code": "TR-19-7732348",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-19",
+      "latitude": 40.50905,
+      "longitude": 34.85791
     },
     {
       "id": 8631999,

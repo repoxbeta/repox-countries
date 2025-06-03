@@ -4,15 +4,15 @@
   "countryCode": "TR",
   "cities": [
     {
-      "id": 8630872,
-      "name": "Aralık İlçesi",
-      "nativeName": "Aralık İlçesi",
-      "code": "TR-02-8630872",
+      "id": 7732069,
+      "name": "Adiyaman",
+      "nativeName": "Adiyaman",
+      "code": "TR-02-7732069",
       "countryId": 298795,
       "countryCode": "TR",
       "stateCode": "TR-02",
-      "latitude": 39.88314,
-      "longitude": 44.5233
+      "latitude": 37.74454,
+      "longitude": 38.26801
     },
     {
       "id": 8631681,
@@ -57,17 +57,6 @@
       "stateCode": "TR-02",
       "latitude": 37.79477,
       "longitude": 38.63119
-    },
-    {
-      "id": 7732069,
-      "name": "Merkez",
-      "nativeName": "Merkez",
-      "code": "TR-02-7732069",
-      "countryId": 298795,
-      "countryCode": "TR",
-      "stateCode": "TR-02",
-      "latitude": 37.74454,
-      "longitude": 38.26801
     },
     {
       "id": 8631678,

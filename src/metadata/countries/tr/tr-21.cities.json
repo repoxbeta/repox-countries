@@ -4,6 +4,17 @@
   "countryCode": "TR",
   "cities": [
     {
+      "id": 8631566,
+      "name": "Alacakaya District",
+      "nativeName": "Alacakaya İlçesi",
+      "code": "TR-21-8631566",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-21",
+      "latitude": 38.46326,
+      "longitude": 39.85514
+    },
+    {
       "id": 9565135,
       "name": "Bağlar",
       "nativeName": "Bağlar",
@@ -123,6 +134,17 @@
       "stateCode": "TR-21",
       "latitude": 38.46131,
       "longitude": 40.64714
+    },
+    {
+      "id": 7732368,
+      "name": "Merkez",
+      "nativeName": "Merkez",
+      "code": "TR-21-7732368",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-21",
+      "latitude": 37.99518,
+      "longitude": 40.1938
     },
     {
       "id": 8630831,

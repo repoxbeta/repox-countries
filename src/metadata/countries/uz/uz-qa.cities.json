@@ -82,7 +82,7 @@
     },
     {
       "id": 1217005,
-      "name": "Koson District",
+      "name": "Koson Tumani",
       "nativeName": "Koson Tumani",
       "code": "UZ-QA-1217005",
       "countryId": 1512440,
@@ -90,17 +90,6 @@
       "stateCode": "UZ-QA",
       "latitude": 39.13079,
       "longitude": 65.74414
-    },
-    {
-      "id": 7668833,
-      "name": "Mirishkor District",
-      "nativeName": "Mirishkar",
-      "code": "UZ-QA-7668833",
-      "countryId": 1512440,
-      "countryCode": "UZ",
-      "stateCode": "UZ-QA",
-      "latitude": 38.81801,
-      "longitude": 65.02318
     },
     {
       "id": 1346479,
@@ -115,7 +104,7 @@
     },
     {
       "id": 1216474,
-      "name": "Muborak District",
+      "name": "Muborak Tumani",
       "nativeName": "Muborak Tumani",
       "code": "UZ-QA-1216474",
       "countryId": 1512440,
@@ -123,6 +112,17 @@
       "stateCode": "UZ-QA",
       "latitude": 39.31717,
       "longitude": 65.27045
+    },
+    {
+      "id": 7668833,
+      "name": "Myrishkor Shahri",
+      "nativeName": "Mirishkar",
+      "code": "UZ-QA-7668833",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-QA",
+      "latitude": 38.81801,
+      "longitude": 65.02318
     },
     {
       "id": 1216399,
@@ -192,7 +192,7 @@
     },
     {
       "id": 1215766,
-      "name": "Yakkabogʻ District",
+      "name": "Yakkabog‘ Tumani",
       "nativeName": "Yakkabog‘ Tumani",
       "code": "UZ-QA-1215766",
       "countryId": 1512440,

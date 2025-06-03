@@ -14,17 +14,6 @@
       "longitude": -176.47944
     },
     {
-      "id": 5854926,
-      "name": "Bunker's Shoal",
-      "nativeName": "Jarvis Island",
-      "code": "UM-86",
-      "internalCode": "86",
-      "countryId": 5854968,
-      "countryCode": "UM",
-      "latitude": -0.37215,
-      "longitude": -159.99702
-    },
-    {
       "id": 5854922,
       "name": "Howland Island",
       "nativeName": "Howland Island",
@@ -34,6 +23,17 @@
       "countryCode": "UM",
       "latitude": 0.81021,
       "longitude": -176.61733
+    },
+    {
+      "id": 5854926,
+      "name": "Jarvis Island",
+      "nativeName": "Jarvis Island",
+      "code": "UM-86",
+      "internalCode": "86",
+      "countryId": 5854968,
+      "countryCode": "UM",
+      "latitude": -0.37215,
+      "longitude": -159.99702
     },
     {
       "id": 5854929,

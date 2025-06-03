@@ -4,17 +4,6 @@
   "countryCode": "RU",
   "cities": [
     {
-      "id": 13304398,
-      "name": "Anzhero-Sudzhenskiy Gorodskoy Okrug",
-      "nativeName": "Anzhero-Sudzhenskiy Gorodskoy Okrug",
-      "code": "RU-KEM-13304398",
-      "countryId": 2017370,
-      "countryCode": "RU",
-      "stateCode": "RU-KEM",
-      "latitude": 56.08705,
-      "longitude": 86.03645
-    },
-    {
       "id": 12626067,
       "name": "Anzhero-Sudzhensky City",
       "nativeName": "Anzhero-Sudzhensky City",
@@ -26,17 +15,6 @@
       "longitude": 86.00927
     },
     {
-      "id": 13304393,
-      "name": "Belovskiy Gorodskoy Okrug",
-      "nativeName": "Belovskiy Gorodskoy Okrug",
-      "code": "RU-KEM-13304393",
-      "countryId": 2017370,
-      "countryCode": "RU",
-      "stateCode": "RU-KEM",
-      "latitude": 54.35665,
-      "longitude": 86.32967
-    },
-    {
       "id": 1510461,
       "name": "Belovsky District",
       "nativeName": "Belovskiy Rayon",
@@ -44,8 +22,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-KEM",
-      "latitude": 54.46404,
-      "longitude": 86.60909
+      "latitude": 54.41667,
+      "longitude": 86.75
     },
     {
       "id": 12626068,
@@ -59,17 +37,6 @@
       "longitude": 86.19622
     },
     {
-      "id": 13304395,
-      "name": "Berëzovskiy Gorodskoy Okrug",
-      "nativeName": "Berëzovskiy Gorodskoy Okrug",
-      "code": "RU-KEM-13304395",
-      "countryId": 2017370,
-      "countryCode": "RU",
-      "stateCode": "RU-KEM",
-      "latitude": 55.63047,
-      "longitude": 86.25554
-    },
-    {
       "id": 1508338,
       "name": "Chebulinsky District",
       "nativeName": "Chebulinskiy Rayon",
@@ -77,19 +44,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-KEM",
-      "latitude": 55.77322,
-      "longitude": 87.50207
-    },
-    {
-      "id": 13304397,
-      "name": "Gur'yevskiy Gorodskoy Okrug",
-      "nativeName": "Gur'yevskiy Gorodskoy Okrug",
-      "code": "RU-KEM-13304397",
-      "countryId": 2017370,
-      "countryCode": "RU",
-      "stateCode": "RU-KEM",
-      "latitude": 54.24273,
-      "longitude": 85.88398
+      "latitude": 55.75,
+      "longitude": 87.5
     },
     {
       "id": 11237590,
@@ -110,8 +66,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-KEM",
-      "latitude": 56.16136,
-      "longitude": 86.82341
+      "latitude": 56.16667,
+      "longitude": 86.83333
     },
     {
       "id": 12626053,
@@ -125,28 +81,6 @@
       "longitude": 87.25978
     },
     {
-      "id": 13304396,
-      "name": "Kaltanskiy Gorodskoy Okrug",
-      "nativeName": "Kaltanskiy Gorodskoy Okrug",
-      "code": "RU-KEM-13304396",
-      "countryId": 2017370,
-      "countryCode": "RU",
-      "stateCode": "RU-KEM",
-      "latitude": 53.53354,
-      "longitude": 87.2658
-    },
-    {
-      "id": 13304387,
-      "name": "Kemerovskiy Gorodskoy Okrug",
-      "nativeName": "Kemerovskiy Gorodskoy Okrug",
-      "code": "RU-KEM-13304387",
-      "countryId": 2017370,
-      "countryCode": "RU",
-      "stateCode": "RU-KEM",
-      "latitude": 55.37378,
-      "longitude": 86.06485
-    },
-    {
       "id": 1503899,
       "name": "Kemerovskiy Rayon",
       "nativeName": "Kemerovskiy Rayon",
@@ -154,8 +88,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-KEM",
-      "latitude": 55.48659,
-      "longitude": 86.28353
+      "latitude": 55.5,
+      "longitude": 86.33333
     },
     {
       "id": 12626066,
@@ -169,17 +103,6 @@
       "longitude": 86.62639
     },
     {
-      "id": 13304385,
-      "name": "Kiselëvskiy Gorodskoy Okrug",
-      "nativeName": "Kiselëvskiy Gorodskoy Okrug",
-      "code": "RU-KEM-13304385",
-      "countryId": 2017370,
-      "countryCode": "RU",
-      "stateCode": "RU-KEM",
-      "latitude": 54.0043,
-      "longitude": 86.6795
-    },
-    {
       "id": 1502191,
       "name": "Krapivinsky District",
       "nativeName": "Krapivinskiy Rayon",
@@ -187,8 +110,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-KEM",
-      "latitude": 54.98823,
-      "longitude": 87.05134
+      "latitude": 54.75,
+      "longitude": 87.25
     },
     {
       "id": 12626057,
@@ -202,17 +125,6 @@
       "longitude": 86.44311
     },
     {
-      "id": 13304399,
-      "name": "Leninsk-Kuznetskiy Gorodskoy Okrug",
-      "nativeName": "Leninsk-Kuznetskiy Gorodskoy Okrug",
-      "code": "RU-KEM-13304399",
-      "countryId": 2017370,
-      "countryCode": "RU",
-      "stateCode": "RU-KEM",
-      "latitude": 54.668,
-      "longitude": 86.17764
-    },
-    {
       "id": 1500664,
       "name": "Leninsk-Kuznetskiy Rayon",
       "nativeName": "Leninsk-Kuznetskiy Rayon",
@@ -220,8 +132,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-KEM",
-      "latitude": 54.66798,
-      "longitude": 85.9658
+      "latitude": 54.66667,
+      "longitude": 86
     },
     {
       "id": 12626051,
@@ -242,30 +154,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-KEM",
-      "latitude": 56.38558,
-      "longitude": 87.77831
-    },
-    {
-      "id": 13304392,
-      "name": "Mezhdurechenskiy Gorodskoy Okrug",
-      "nativeName": "Mezhdurechenskiy Gorodskoy Okrug",
-      "code": "RU-KEM-13304392",
-      "countryId": 2017370,
-      "countryCode": "RU",
-      "stateCode": "RU-KEM",
-      "latitude": 53.70559,
-      "longitude": 88.06561
-    },
-    {
-      "id": 13304384,
-      "name": "Mezhdurechenskiy Rayon",
-      "nativeName": "Mezhdurechenskiy Rayon",
-      "code": "RU-KEM-13304384",
-      "countryId": 2017370,
-      "countryCode": "RU",
-      "stateCode": "RU-KEM",
-      "latitude": 53.78766,
-      "longitude": 88.59808
+      "latitude": 56.33333,
+      "longitude": 87.58333
     },
     {
       "id": 12626056,
@@ -301,17 +191,6 @@
       "longitude": 87.13634
     },
     {
-      "id": 13304391,
-      "name": "Novokuznetskiy Gorodskoy Okrug",
-      "nativeName": "Novokuznetskiy Gorodskoy Okrug",
-      "code": "RU-KEM-13304391",
-      "countryId": 2017370,
-      "countryCode": "RU",
-      "stateCode": "RU-KEM",
-      "latitude": 53.78235,
-      "longitude": 87.14141
-    },
-    {
       "id": 1496989,
       "name": "Novokuznetsky District",
       "nativeName": "Novokuznetskiy Rayon",
@@ -319,19 +198,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-KEM",
-      "latitude": 53.98383,
-      "longitude": 87.55099
-    },
-    {
-      "id": 13304400,
-      "name": "Osinnikovskiy Gorodskoy Okrug",
-      "nativeName": "Osinnikovskiy Gorodskoy Okrug",
-      "code": "RU-KEM-13304400",
-      "countryId": 2017370,
-      "countryCode": "RU",
-      "stateCode": "RU-KEM",
-      "latitude": 53.62151,
-      "longitude": 87.34342
+      "latitude": 53.75,
+      "longitude": 87.08333
     },
     {
       "id": 12639988,
@@ -356,28 +224,6 @@
       "longitude": 86.27199
     },
     {
-      "id": 13304390,
-      "name": "Polysayevskiy Gorodskoy Okrug",
-      "nativeName": "Polysayevskiy Gorodskoy Okrug",
-      "code": "RU-KEM-13304390",
-      "countryId": 2017370,
-      "countryCode": "RU",
-      "stateCode": "RU-KEM",
-      "latitude": 54.57185,
-      "longitude": 86.28511
-    },
-    {
-      "id": 13304383,
-      "name": "Prokop'yevskiy Gorodskoy Okrug",
-      "nativeName": "Prokop'yevskiy Gorodskoy Okrug",
-      "code": "RU-KEM-13304383",
-      "countryId": 2017370,
-      "countryCode": "RU",
-      "stateCode": "RU-KEM",
-      "latitude": 53.89749,
-      "longitude": 86.74134
-    },
-    {
       "id": 12626065,
       "name": "Prokopyevsk",
       "nativeName": "Prokopyevsk",
@@ -396,8 +242,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-KEM",
-      "latitude": 54.00209,
-      "longitude": 86.75795
+      "latitude": 54,
+      "longitude": 86.66667
     },
     {
       "id": 1494089,
@@ -407,19 +253,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-KEM",
-      "latitude": 54.90613,
-      "longitude": 85.49234
-    },
-    {
-      "id": 13304394,
-      "name": "Tashtagol'skoye Gorodskoye Poseleniye",
-      "nativeName": "Tashtagol'skoye Gorodskoye Poseleniye",
-      "code": "RU-KEM-13304394",
-      "countryId": 2017370,
-      "countryCode": "RU",
-      "stateCode": "RU-KEM",
-      "latitude": 52.77196,
-      "longitude": 87.86363
+      "latitude": 54.91667,
+      "longitude": 85.5
     },
     {
       "id": 1490041,
@@ -429,19 +264,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-KEM",
-      "latitude": 52.86931,
-      "longitude": 88.08696
-    },
-    {
-      "id": 13304389,
-      "name": "Tayginskiy Gorodskoy Okrug",
-      "nativeName": "Tayginskiy Gorodskoy Okrug",
-      "code": "RU-KEM-13304389",
-      "countryId": 2017370,
-      "countryCode": "RU",
-      "stateCode": "RU-KEM",
-      "latitude": 56.06253,
-      "longitude": 85.62116
+      "latitude": 52.78333,
+      "longitude": 87.88333
     },
     {
       "id": 1489552,
@@ -451,8 +275,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-KEM",
-      "latitude": 55.44483,
-      "longitude": 88.12819
+      "latitude": 55.25,
+      "longitude": 88
     },
     {
       "id": 1489389,
@@ -462,8 +286,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-KEM",
-      "latitude": 55.32407,
-      "longitude": 85.37271
+      "latitude": 55.25,
+      "longitude": 85.5
     },
     {
       "id": 1488837,
@@ -473,8 +297,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-KEM",
-      "latitude": 56.07894,
-      "longitude": 88.7707
+      "latitude": 56.25,
+      "longitude": 88.5
     },
     {
       "id": 1486297,
@@ -484,8 +308,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-KEM",
-      "latitude": 55.92497,
-      "longitude": 85.45358
+      "latitude": 56,
+      "longitude": 85.5
     },
     {
       "id": 1486255,
@@ -495,8 +319,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-KEM",
-      "latitude": 56.24168,
-      "longitude": 86.18155
+      "latitude": 56.16667,
+      "longitude": 86.41667
     },
     {
       "id": 12626055,
@@ -510,17 +334,6 @@
       "longitude": 84.9098
     },
     {
-      "id": 13304388,
-      "name": "Yurginskiy Gorodskoy Okrug",
-      "nativeName": "Yurginskiy Gorodskoy Okrug",
-      "code": "RU-KEM-13304388",
-      "countryId": 2017370,
-      "countryCode": "RU",
-      "stateCode": "RU-KEM",
-      "latitude": 55.72266,
-      "longitude": 84.90299
-    },
-    {
       "id": 1485714,
       "name": "Yurginsky District",
       "nativeName": "Yurginskiy Rayon",
@@ -528,8 +341,8 @@
       "countryId": 2017370,
       "countryCode": "RU",
       "stateCode": "RU-KEM",
-      "latitude": 55.66521,
-      "longitude": 84.85036
+      "latitude": 55.75,
+      "longitude": 84.75
     }
   ]
 }

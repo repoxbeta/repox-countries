@@ -1016,17 +1016,6 @@
       "longitude": 19.06667
     },
     {
-      "id": 3317844,
-      "name": "Orašje",
-      "nativeName": "Orašje",
-      "code": "ME-07-3317844",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-07",
-      "latitude": 42.53389,
-      "longitude": 19.08917
-    },
-    {
       "id": 3326578,
       "name": "Orašje",
       "nativeName": "Orašje",
@@ -1036,6 +1025,17 @@
       "stateCode": "ME-07",
       "latitude": 42.65556,
       "longitude": 19.03139
+    },
+    {
+      "id": 3317844,
+      "name": "Orašje",
+      "nativeName": "Orašje",
+      "code": "ME-07-3317844",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-07",
+      "latitude": 42.53389,
+      "longitude": 19.08917
     },
     {
       "id": 3194008,

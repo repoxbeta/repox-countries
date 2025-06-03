@@ -213,7 +213,7 @@
     },
     {
       "id": 694422,
-      "name": "Sebastopol City",
+      "name": "Sevastopol City",
       "nativeName": "Sebastopol City",
       "code": "UA-40",
       "internalCode": "40",
@@ -245,6 +245,17 @@
       "longitude": 25.59154
     },
     {
+      "id": 687869,
+      "name": "Transcarpathia",
+      "nativeName": "Zakarpattia Oblast",
+      "code": "UA-21",
+      "internalCode": "21",
+      "countryId": 690791,
+      "countryCode": "UA",
+      "latitude": 48.62645,
+      "longitude": 22.28871
+    },
+    {
       "id": 689559,
       "name": "Vinnytsia",
       "nativeName": "Vinnytsya Oblast",
@@ -265,17 +276,6 @@
       "countryCode": "UA",
       "latitude": 51.16667,
       "longitude": 24.86667
-    },
-    {
-      "id": 687869,
-      "name": "Zakarpattia",
-      "nativeName": "Zakarpattia Oblast",
-      "code": "UA-21",
-      "internalCode": "21",
-      "countryId": 690791,
-      "countryCode": "UA",
-      "latitude": 48.62645,
-      "longitude": 22.28871
     },
     {
       "id": 687699,

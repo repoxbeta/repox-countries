@@ -553,17 +553,6 @@
       "longitude": 14.19778
     },
     {
-      "id": 8299750,
-      "name": "Saint Lucia",
-      "nativeName": "Saint Lucia",
-      "code": "MT-53",
-      "internalCode": "53",
-      "countryId": 2562770,
-      "countryCode": "MT",
-      "latitude": 35.86167,
-      "longitude": 14.50639
-    },
-    {
       "id": 8299752,
       "name": "Saint Venera",
       "nativeName": "Saint Venera",
@@ -617,6 +606,17 @@
       "countryCode": "MT",
       "latitude": 35.91722,
       "longitude": 14.48944
+    },
+    {
+      "id": 8299750,
+      "name": "St. Lucia",
+      "nativeName": "Saint Lucia",
+      "code": "MT-53",
+      "internalCode": "53",
+      "countryId": 2562770,
+      "countryCode": "MT",
+      "latitude": 35.86167,
+      "longitude": 14.50639
     },
     {
       "id": 8299751,

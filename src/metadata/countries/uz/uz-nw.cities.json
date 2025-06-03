@@ -15,17 +15,6 @@
       "longitude": 64.98
     },
     {
-      "id": 8714365,
-      "name": "Navbahor District",
-      "nativeName": "Navbakhor Tumani",
-      "code": "UZ-NW-8714365",
-      "countryId": 1512440,
-      "countryCode": "UZ",
-      "stateCode": "UZ-NW",
-      "latitude": 40.22,
-      "longitude": 65.30306
-    },
-    {
       "id": 1513135,
       "name": "Navbahor Tumani",
       "nativeName": "Navbahor Tumani",
@@ -35,6 +24,17 @@
       "stateCode": "UZ-NW",
       "latitude": 40.24924,
       "longitude": 65.30487
+    },
+    {
+      "id": 8714365,
+      "name": "Navbakhor Tumani",
+      "nativeName": "Navbakhor Tumani",
+      "code": "UZ-NW-8714365",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-NW",
+      "latitude": 40.22,
+      "longitude": 65.30306
     },
     {
       "id": 1513133,

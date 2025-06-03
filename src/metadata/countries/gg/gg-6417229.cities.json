@@ -26,6 +26,17 @@
       "longitude": -2.58917
     },
     {
+      "id": 6421930,
+      "name": "Saint Germain",
+      "nativeName": "Saint Germain",
+      "code": "GG-6417229-6421930",
+      "countryId": 3042362,
+      "countryCode": "GG",
+      "stateCode": "GG-6417229",
+      "latitude": 49.4675,
+      "longitude": -2.59583
+    },
+    {
       "id": 3042281,
       "name": "Saumarez",
       "nativeName": "Saumarez",
@@ -35,17 +46,6 @@
       "stateCode": "GG-6417229",
       "latitude": 49.46667,
       "longitude": -2.6
-    },
-    {
-      "id": 6421930,
-      "name": "St. Germain",
-      "nativeName": "Saint Germain",
-      "code": "GG-6417229-6421930",
-      "countryId": 3042362,
-      "countryCode": "GG",
-      "stateCode": "GG-6417229",
-      "latitude": 49.4675,
-      "longitude": -2.59583
     }
   ]
 }
