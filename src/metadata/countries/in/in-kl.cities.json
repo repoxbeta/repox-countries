@@ -5,7 +5,7 @@
   "cities": [
     {
       "id": 1278986,
-      "name": "Alappuzha",
+      "name": "Alleppey District",
       "nativeName": "Alappuzha",
       "code": "IN-KL-1278986",
       "countryId": 1269750,
@@ -49,7 +49,7 @@
     },
     {
       "id": 8347665,
-      "name": "Kasaragod",
+      "name": "Kasargod District",
       "nativeName": "Kāsaragod District",
       "code": "IN-KL-8347665",
       "countryId": 1269750,
@@ -125,6 +125,17 @@
       "longitude": 76.86967
     },
     {
+      "id": 7909823,
+      "name": "Thiruvananthapuram",
+      "nativeName": "Thiruvananthapuram",
+      "code": "IN-KL-7909823",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-KL",
+      "latitude": 8.60399,
+      "longitude": 76.98574
+    },
+    {
       "id": 8133543,
       "name": "Thrissur",
       "nativeName": "Thrissur District",
@@ -134,17 +145,6 @@
       "stateCode": "IN-KL",
       "latitude": 10.52022,
       "longitude": 76.2204
-    },
-    {
-      "id": 7909823,
-      "name": "Trivandrum",
-      "nativeName": "Thiruvananthapuram",
-      "code": "IN-KL-7909823",
-      "countryId": 1269750,
-      "countryCode": "IN",
-      "stateCode": "IN-KL",
-      "latitude": 8.60399,
-      "longitude": 76.98574
     },
     {
       "id": 6951502,

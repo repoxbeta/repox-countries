@@ -14,6 +14,17 @@
       "longitude": 24.73333
     },
     {
+      "id": 214138,
+      "name": "East Kasai",
+      "nativeName": "East Kasai",
+      "code": "CD-KE",
+      "internalCode": "KE",
+      "countryId": 203312,
+      "countryCode": "CD",
+      "latitude": -6.18333,
+      "longitude": 23.51667
+    },
+    {
       "id": 11288213,
       "name": "Haut-Katanga",
       "nativeName": "Province du Haut-Katanga",
@@ -78,17 +89,6 @@
       "countryCode": "CD",
       "latitude": -6.292,
       "longitude": 22.483
-    },
-    {
-      "id": 214138,
-      "name": "Kasaï-Oriental",
-      "nativeName": "East Kasai",
-      "code": "CD-KE",
-      "internalCode": "KE",
-      "countryId": 203312,
-      "countryCode": "CD",
-      "latitude": -6.18333,
-      "longitude": 23.51667
     },
     {
       "id": 2314300,
@@ -191,7 +191,7 @@
     },
     {
       "id": 206938,
-      "name": "Nord-Kivu",
+      "name": "Nord Kivu",
       "nativeName": "Province du Nord-Kivu",
       "code": "CD-NK",
       "internalCode": "NK",
@@ -224,7 +224,7 @@
     },
     {
       "id": 205413,
-      "name": "Sud-Kivu",
+      "name": "South Kivu",
       "nativeName": "South Kivu Province",
       "code": "CD-SK",
       "internalCode": "SK",

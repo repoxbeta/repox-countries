@@ -4,17 +4,6 @@
   "countryCode": "HR",
   "cities": [
     {
-      "id": 3188243,
-      "name": "City of Velika Gorica",
-      "nativeName": "Grad Velika Gorica",
-      "code": "HR-01-3188243",
-      "countryId": 3202326,
-      "countryCode": "HR",
-      "stateCode": "HR-01",
-      "latitude": 45.7,
-      "longitude": 16.08333
-    },
-    {
       "id": 11048980,
       "name": "Municipality of Bedenica",
       "nativeName": "Bedenica",
@@ -354,6 +343,17 @@
       "stateCode": "HR-01",
       "latitude": 45.96667,
       "longitude": 16.25
+    },
+    {
+      "id": 3188243,
+      "name": "Town of Velika Gorica",
+      "nativeName": "Grad Velika Gorica",
+      "code": "HR-01-3188243",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-01",
+      "latitude": 45.7,
+      "longitude": 16.08333
     },
     {
       "id": 3187264,

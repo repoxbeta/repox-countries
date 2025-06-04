@@ -4,17 +4,6 @@
   "countryCode": "TR",
   "cities": [
     {
-      "id": 7732375,
-      "name": "Gumushane",
-      "nativeName": "Gumushane",
-      "code": "TR-29-7732375",
-      "countryId": 298795,
-      "countryCode": "TR",
-      "stateCode": "TR-29",
-      "latitude": 40.46843,
-      "longitude": 39.67441
-    },
-    {
       "id": 8631619,
       "name": "Kelkit İlçesi",
       "nativeName": "Kelkit İlçesi",
@@ -46,6 +35,17 @@
       "stateCode": "TR-29",
       "latitude": 40.69966,
       "longitude": 39.09801
+    },
+    {
+      "id": 7732375,
+      "name": "Merkez",
+      "nativeName": "Merkez",
+      "code": "TR-29-7732375",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-29",
+      "latitude": 40.46843,
+      "longitude": 39.67441
     },
     {
       "id": 8631616,

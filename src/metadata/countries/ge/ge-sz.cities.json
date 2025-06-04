@@ -26,17 +26,6 @@
       "longitude": 42.12917
     },
     {
-      "id": 828311,
-      "name": "Kalaki Poti",
-      "nativeName": "Kalaki Poti",
-      "code": "GE-SZ-828311",
-      "countryId": 614540,
-      "countryCode": "GE",
-      "stateCode": "GE-SZ",
-      "latitude": 42.1365,
-      "longitude": 41.68554
-    },
-    {
       "id": 613915,
       "name": "Khobis Munitsip’alit’et’i",
       "nativeName": "Khobis Munitsip’alit’et’i",
@@ -101,6 +90,17 @@
       "stateCode": "GE-SZ",
       "latitude": 42.14194,
       "longitude": 41.67639
+    },
+    {
+      "id": 828311,
+      "name": "Potis Munitsip'alit'et'i",
+      "nativeName": "Potis Munitsip'alit'et'i",
+      "code": "GE-SZ-828311",
+      "countryId": 614540,
+      "countryCode": "GE",
+      "stateCode": "GE-SZ",
+      "latitude": 42.1365,
+      "longitude": 41.68554
     },
     {
       "id": 612051,

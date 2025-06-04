@@ -26,17 +26,6 @@
       "longitude": 28.83871
     },
     {
-      "id": 7732689,
-      "name": "Merkez",
-      "nativeName": "Merkez",
-      "code": "TR-77-7732689",
-      "countryId": 298795,
-      "countryCode": "TR",
-      "stateCode": "TR-77",
-      "latitude": 40.60665,
-      "longitude": 29.26346
-    },
-    {
       "id": 8632543,
       "name": "Termal İlçesi",
       "nativeName": "Termal İlçesi",
@@ -46,6 +35,17 @@
       "stateCode": "TR-77",
       "latitude": 40.61381,
       "longitude": 29.18049
+    },
+    {
+      "id": 7732689,
+      "name": "Yalova",
+      "nativeName": "Yalova",
+      "code": "TR-77-7732689",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-77",
+      "latitude": 40.60665,
+      "longitude": 29.26346
     },
     {
       "id": 8632544,

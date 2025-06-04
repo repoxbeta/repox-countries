@@ -69,6 +69,17 @@
       "longitude": 106.11867
     },
     {
+      "id": 2031798,
+      "name": "Dornogovi Province",
+      "nativeName": "East Gobi Aymag",
+      "code": "MN-063",
+      "internalCode": "063",
+      "countryId": 2029969,
+      "countryCode": "MN",
+      "latitude": 44.5,
+      "longitude": 110
+    },
+    {
       "id": 1516012,
       "name": "Dzavhan Aymag",
       "nativeName": "Dzavhan Aymag",
@@ -81,7 +92,7 @@
     },
     {
       "id": 2031799,
-      "name": "East Aimak",
+      "name": "Eastern",
       "nativeName": "Dornod Aymag",
       "code": "MN-061",
       "internalCode": "061",
@@ -89,17 +100,6 @@
       "countryCode": "MN",
       "latitude": 48,
       "longitude": 115
-    },
-    {
-      "id": 2031798,
-      "name": "East Govĭ",
-      "nativeName": "East Gobi Aymag",
-      "code": "MN-063",
-      "internalCode": "063",
-      "countryId": 2029969,
-      "countryCode": "MN",
-      "latitude": 44.5,
-      "longitude": 110
     },
     {
       "id": 1515917,
