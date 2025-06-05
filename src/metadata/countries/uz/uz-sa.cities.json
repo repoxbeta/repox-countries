@@ -49,7 +49,7 @@
     },
     {
       "id": 1217412,
-      "name": "Jomboy Tumani",
+      "name": "Jomboy District",
       "nativeName": "Jomboy Tumani",
       "code": "UZ-SA-1217412",
       "countryId": 1512440,
@@ -68,6 +68,17 @@
       "stateCode": "UZ-SA",
       "latitude": 39.95,
       "longitude": 66.3
+    },
+    {
+      "id": 1216429,
+      "name": "Narpay District",
+      "nativeName": "Narpay Tumani",
+      "code": "UZ-SA-1216429",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-SA",
+      "latitude": 39.91667,
+      "longitude": 66
     },
     {
       "id": 1216079,
@@ -125,19 +136,8 @@
       "longitude": 66.66667
     },
     {
-      "id": 1216429,
-      "name": "Paxtachi District",
-      "nativeName": "Narpay Tumani",
-      "code": "UZ-SA-1216429",
-      "countryId": 1512440,
-      "countryCode": "UZ",
-      "stateCode": "UZ-SA",
-      "latitude": 39.91667,
-      "longitude": 66
-    },
-    {
       "id": 1216354,
-      "name": "Paxtachi Tumani",
+      "name": "Paxtachi District",
       "nativeName": "Paxtachi Tumani",
       "code": "UZ-SA-1216354",
       "countryId": 1512440,
@@ -213,6 +213,17 @@
       "longitude": 67.11667
     },
     {
+      "id": 1215838,
+      "name": "Urgut District",
+      "nativeName": "Urgut Tumani",
+      "code": "UZ-SA-1215838",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-SA",
+      "latitude": 39.41667,
+      "longitude": 67.16667
+    },
+    {
       "id": 1346467,
       "name": "Urgut Shahri",
       "nativeName": "Urgut Shahri",
@@ -222,17 +233,6 @@
       "stateCode": "UZ-SA",
       "latitude": 39.40694,
       "longitude": 67.24167
-    },
-    {
-      "id": 1215838,
-      "name": "Urgut Tumani",
-      "nativeName": "Urgut Tumani",
-      "code": "UZ-SA-1215838",
-      "countryId": 1512440,
-      "countryCode": "UZ",
-      "stateCode": "UZ-SA",
-      "latitude": 39.41667,
-      "longitude": 67.16667
     }
   ]
 }

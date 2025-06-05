@@ -16,7 +16,7 @@
     },
     {
       "id": 1217778,
-      "name": "Baxmal Tumani",
+      "name": "Baxmal District",
       "nativeName": "Baxmal Tumani",
       "code": "UZ-JI-1217778",
       "countryId": 1512440,
@@ -27,7 +27,7 @@
     },
     {
       "id": 1514124,
-      "name": "Dŭstlik Tumani",
+      "name": "Doʻstlik District",
       "nativeName": "Dŭstlik Tumani",
       "code": "UZ-JI-1514124",
       "countryId": 1512440,
@@ -38,7 +38,7 @@
     },
     {
       "id": 1514024,
-      "name": "Forish Tumani",
+      "name": "Forish District",
       "nativeName": "Forish Tumani",
       "code": "UZ-JI-1514024",
       "countryId": 1512440,
@@ -70,17 +70,6 @@
       "longitude": 67.84222
     },
     {
-      "id": 1514068,
-      "name": "Jizzax Tumani",
-      "nativeName": "Jizzax Tumani",
-      "code": "UZ-JI-1514068",
-      "countryId": 1512440,
-      "countryCode": "UZ",
-      "stateCode": "UZ-JI",
-      "latitude": 40.08333,
-      "longitude": 67.83333
-    },
-    {
       "id": 1513202,
       "name": "Mirzachoʻl District",
       "nativeName": "Mirzachŭl Tumani",
@@ -103,8 +92,19 @@
       "longitude": 68
     },
     {
+      "id": 1514068,
+      "name": "Sharof Rashidov District",
+      "nativeName": "Jizzax Tumani",
+      "code": "UZ-JI-1514068",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-JI",
+      "latitude": 40.08333,
+      "longitude": 67.83333
+    },
+    {
       "id": 1513067,
-      "name": "Zafarobod Tumani",
+      "name": "Zafarobod District",
       "nativeName": "Zafarobod Tumani",
       "code": "UZ-JI-1513067",
       "countryId": 1512440,

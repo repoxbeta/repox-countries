@@ -246,6 +246,17 @@
       "longitude": -51.28333
     },
     {
+      "id": 3419378,
+      "name": "Majestic Bay Settlement",
+      "nativeName": "Tasiusaq",
+      "code": "GL-QA-3419378",
+      "countryId": 3425505,
+      "countryCode": "GL",
+      "stateCode": "GL-QA",
+      "latitude": 73.36902,
+      "longitude": -56.05755
+    },
+    {
       "id": 3831310,
       "name": "Moriusaq",
       "nativeName": "Moriusaq",
@@ -530,17 +541,6 @@
       "stateCode": "GL-QA",
       "latitude": 70.03333,
       "longitude": -52.21667
-    },
-    {
-      "id": 3419378,
-      "name": "Tasiusaq",
-      "nativeName": "Tasiusaq",
-      "code": "GL-QA-3419378",
-      "countryId": 3425505,
-      "countryCode": "GL",
-      "stateCode": "GL-QA",
-      "latitude": 73.36902,
-      "longitude": -56.05755
     },
     {
       "id": 3831102,

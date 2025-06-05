@@ -257,17 +257,6 @@
       "longitude": -39.07003
     },
     {
-      "id": 6324321,
-      "name": "Aramari",
-      "nativeName": "Aramari",
-      "code": "BR-BA-6324321",
-      "countryId": 3469034,
-      "countryCode": "BR",
-      "stateCode": "BR-BA",
-      "latitude": -12.04618,
-      "longitude": -38.55762
-    },
-    {
       "id": 6320746,
       "name": "Arataca Municipality",
       "nativeName": "Arataca",
@@ -376,17 +365,6 @@
       "stateCode": "BR-BA",
       "latitude": -15.01024,
       "longitude": -40.66731
-    },
-    {
-      "id": 6324198,
-      "name": "Barra do Mendes",
-      "nativeName": "Barra do Mendes",
-      "code": "BR-BA-6324198",
-      "countryId": 3469034,
-      "countryCode": "BR",
-      "stateCode": "BR-BA",
-      "latitude": -12.16094,
-      "longitude": -42.03542
     },
     {
       "id": 6320755,
@@ -1016,17 +994,6 @@
       "longitude": -42.08146
     },
     {
-      "id": 6324322,
-      "name": "Chorrochó",
-      "nativeName": "Chorrochó",
-      "code": "BR-BA-6324322",
-      "countryId": 3469034,
-      "countryCode": "BR",
-      "stateCode": "BR-BA",
-      "latitude": -9.3055,
-      "longitude": -39.15652
-    },
-    {
       "id": 6320809,
       "name": "Cipó Municipality",
       "nativeName": "Cipó",
@@ -1500,17 +1467,6 @@
       "longitude": -42.54827
     },
     {
-      "id": 6324224,
-      "name": "Glória",
-      "nativeName": "Glória",
-      "code": "BR-BA-6324224",
-      "countryId": 3469034,
-      "countryCode": "BR",
-      "stateCode": "BR-BA",
-      "latitude": -9.11097,
-      "longitude": -38.40655
-    },
-    {
       "id": 6320848,
       "name": "Gongogi Municipality",
       "nativeName": "Gongogi",
@@ -1918,15 +1874,147 @@
       "longitude": -40.20305
     },
     {
-      "id": 6324323,
-      "name": "Itapicuru",
-      "nativeName": "Itapicuru",
-      "code": "BR-BA-6324323",
+      "id": 6320884,
+      "name": "Itabuna Municipality",
+      "nativeName": "Itabuna",
+      "code": "BR-BA-6320884",
       "countryId": 3469034,
       "countryCode": "BR",
       "stateCode": "BR-BA",
-      "latitude": -11.18105,
-      "longitude": -38.14995
+      "latitude": -14.84966,
+      "longitude": -39.32572
+    },
+    {
+      "id": 6320885,
+      "name": "Itacaré Municipality",
+      "nativeName": "Itacaré",
+      "code": "BR-BA-6320885",
+      "countryId": 3469034,
+      "countryCode": "BR",
+      "stateCode": "BR-BA",
+      "latitude": -14.36948,
+      "longitude": -39.12515
+    },
+    {
+      "id": 6320886,
+      "name": "Itaeté Municipality",
+      "nativeName": "Itaeté",
+      "code": "BR-BA-6320886",
+      "countryId": 3469034,
+      "countryCode": "BR",
+      "stateCode": "BR-BA",
+      "latitude": -13.08598,
+      "longitude": -41.02566
+    },
+    {
+      "id": 6320887,
+      "name": "Itagi Municipality",
+      "nativeName": "Itagi",
+      "code": "BR-BA-6320887",
+      "countryId": 3469034,
+      "countryCode": "BR",
+      "stateCode": "BR-BA",
+      "latitude": -14.19701,
+      "longitude": -40.033
+    },
+    {
+      "id": 6320888,
+      "name": "Itagibá Municipality",
+      "nativeName": "Itagibá",
+      "code": "BR-BA-6320888",
+      "countryId": 3469034,
+      "countryCode": "BR",
+      "stateCode": "BR-BA",
+      "latitude": -14.2464,
+      "longitude": -39.84969
+    },
+    {
+      "id": 6320889,
+      "name": "Itagimirim Municipality",
+      "nativeName": "Itagimirim",
+      "code": "BR-BA-6320889",
+      "countryId": 3469034,
+      "countryCode": "BR",
+      "stateCode": "BR-BA",
+      "latitude": -16.13473,
+      "longitude": -39.81646
+    },
+    {
+      "id": 6320890,
+      "name": "Itaguaçu da Bahia",
+      "nativeName": "Itaguaçu da Bahia",
+      "code": "BR-BA-6320890",
+      "countryId": 3469034,
+      "countryCode": "BR",
+      "stateCode": "BR-BA",
+      "latitude": -10.64259,
+      "longitude": -42.21083
+    },
+    {
+      "id": 6320891,
+      "name": "Itaju do Colônia",
+      "nativeName": "Itaju do Colônia",
+      "code": "BR-BA-6320891",
+      "countryId": 3469034,
+      "countryCode": "BR",
+      "stateCode": "BR-BA",
+      "latitude": -15.15505,
+      "longitude": -39.71598
+    },
+    {
+      "id": 6320892,
+      "name": "Itajuípe Municipality",
+      "nativeName": "Itajuípe",
+      "code": "BR-BA-6320892",
+      "countryId": 3469034,
+      "countryCode": "BR",
+      "stateCode": "BR-BA",
+      "latitude": -14.69194,
+      "longitude": -39.42921
+    },
+    {
+      "id": 6320893,
+      "name": "Itamaraju",
+      "nativeName": "Itamaraju",
+      "code": "BR-BA-6320893",
+      "countryId": 3469034,
+      "countryCode": "BR",
+      "stateCode": "BR-BA",
+      "latitude": -16.94519,
+      "longitude": -39.81271
+    },
+    {
+      "id": 6320894,
+      "name": "Itamari Municipality",
+      "nativeName": "Itamari",
+      "code": "BR-BA-6320894",
+      "countryId": 3469034,
+      "countryCode": "BR",
+      "stateCode": "BR-BA",
+      "latitude": -13.7859,
+      "longitude": -39.68416
+    },
+    {
+      "id": 6320895,
+      "name": "Itambé Municipality",
+      "nativeName": "Itambé",
+      "code": "BR-BA-6320895",
+      "countryId": 3469034,
+      "countryCode": "BR",
+      "stateCode": "BR-BA",
+      "latitude": -15.22477,
+      "longitude": -40.49507
+    },
+    {
+      "id": 6320896,
+      "name": "Itanagra Municipality",
+      "nativeName": "Itanagra",
+      "code": "BR-BA-6320896",
+      "countryId": 3469034,
+      "countryCode": "BR",
+      "stateCode": "BR-BA",
+      "latitude": -12.30982,
+      "longitude": -38.11328
     },
     {
       "id": 6319078,
@@ -1949,39 +2037,6 @@
       "stateCode": "BR-BA",
       "latitude": -14.10985,
       "longitude": -42.21697
-    },
-    {
-      "id": 6324151,
-      "name": "Luís Eduardo Magalhães",
-      "nativeName": "Luís Eduardo Magalhães",
-      "code": "BR-BA-6324151",
-      "countryId": 3469034,
-      "countryCode": "BR",
-      "stateCode": "BR-BA",
-      "latitude": -12.23208,
-      "longitude": -46.1146
-    },
-    {
-      "id": 6324324,
-      "name": "Macururé",
-      "nativeName": "Macururé",
-      "code": "BR-BA-6324324",
-      "countryId": 3469034,
-      "countryCode": "BR",
-      "stateCode": "BR-BA",
-      "latitude": -9.28091,
-      "longitude": -38.91463
-    },
-    {
-      "id": 6324259,
-      "name": "Milagres",
-      "nativeName": "Milagres",
-      "code": "BR-BA-6324259",
-      "countryId": 3469034,
-      "countryCode": "BR",
-      "stateCode": "BR-BA",
-      "latitude": -12.95591,
-      "longitude": -39.81783
     },
     {
       "id": 6319080,
@@ -2039,17 +2094,6 @@
       "longitude": -42.69628
     },
     {
-      "id": 6324325,
-      "name": "Paulo Afonso",
-      "nativeName": "Paulo Afonso",
-      "code": "BR-BA-6324325",
-      "countryId": 3469034,
-      "countryCode": "BR",
-      "stateCode": "BR-BA",
-      "latitude": -9.55234,
-      "longitude": -38.16905
-    },
-    {
       "id": 6319085,
       "name": "Poções Municipality",
       "nativeName": "Poções",
@@ -2061,17 +2105,6 @@
       "longitude": -40.27619
     },
     {
-      "id": 6324230,
-      "name": "Prado",
-      "nativeName": "Prado",
-      "code": "BR-BA-6324230",
-      "countryId": 3469034,
-      "countryCode": "BR",
-      "stateCode": "BR-BA",
-      "latitude": -17.31655,
-      "longitude": -39.23355
-    },
-    {
       "id": 6319086,
       "name": "Presidente Tancredo Neves Municipality",
       "nativeName": "Presidente Tancredo Neves",
@@ -2081,28 +2114,6 @@
       "stateCode": "BR-BA",
       "latitude": -13.46145,
       "longitude": -39.42126
-    },
-    {
-      "id": 6324326,
-      "name": "Rio Real",
-      "nativeName": "Rio Real",
-      "code": "BR-BA-6324326",
-      "countryId": 3469034,
-      "countryCode": "BR",
-      "stateCode": "BR-BA",
-      "latitude": -11.52997,
-      "longitude": -37.90394
-    },
-    {
-      "id": 6324327,
-      "name": "Rodelas",
-      "nativeName": "Rodelas",
-      "code": "BR-BA-6324327",
-      "countryId": 3469034,
-      "countryCode": "BR",
-      "stateCode": "BR-BA",
-      "latitude": -9.21767,
-      "longitude": -38.64607
     },
     {
       "id": 6319087,
@@ -2136,17 +2147,6 @@
       "stateCode": "BR-BA",
       "latitude": -11.59947,
       "longitude": -39.03871
-    },
-    {
-      "id": 6324199,
-      "name": "Souto Soares",
-      "nativeName": "Souto Soares",
-      "code": "BR-BA-6324199",
-      "countryId": 3469034,
-      "countryCode": "BR",
-      "stateCode": "BR-BA",
-      "latitude": -11.94603,
-      "longitude": -41.94815
     },
     {
       "id": 6319089,

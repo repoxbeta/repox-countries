@@ -334,17 +334,6 @@
       "longitude": 32.82041
     },
     {
-      "id": 10346944,
-      "name": "Germasogeia",
-      "nativeName": "Germasógeia",
-      "code": "CY-02-10346944",
-      "countryId": 146669,
-      "countryCode": "CY",
-      "stateCode": "CY-02",
-      "latitude": 34.72207,
-      "longitude": 33.08254
-    },
-    {
       "id": 10347012,
       "name": "Gerovása",
       "nativeName": "Gerovása",
@@ -1091,6 +1080,17 @@
       "stateCode": "CY-02",
       "latitude": 34.82796,
       "longitude": 33.20102
+    },
+    {
+      "id": 10346944,
+      "name": "Yermasoyia Municipality",
+      "nativeName": "Germasógeia",
+      "code": "CY-02-10346944",
+      "countryId": 146669,
+      "countryCode": "CY",
+      "stateCode": "CY-02",
+      "latitude": 34.72207,
+      "longitude": 33.08254
     },
     {
       "id": 10346981,

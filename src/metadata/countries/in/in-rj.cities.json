@@ -71,7 +71,7 @@
     },
     {
       "id": 1275961,
-      "name": "Bhīlwāra District",
+      "name": "Bhilwara",
       "nativeName": "Bhīlwāra",
       "code": "IN-RJ-1275961",
       "countryId": 1269750,
@@ -79,17 +79,6 @@
       "stateCode": "IN-RJ",
       "latitude": 25.5,
       "longitude": 74.75
-    },
-    {
-      "id": 1275666,
-      "name": "Bikaner",
-      "nativeName": "Bīkāner",
-      "code": "IN-RJ-1275666",
-      "countryId": 1269750,
-      "countryCode": "IN",
-      "stateCode": "IN-RJ",
-      "latitude": 28.16667,
-      "longitude": 73.16667
     },
     {
       "id": 1275104,
@@ -101,6 +90,17 @@
       "stateCode": "IN-RJ",
       "latitude": 25.5,
       "longitude": 75.83333
+    },
+    {
+      "id": 1275666,
+      "name": "Bīkāner District",
+      "nativeName": "Bīkāner",
+      "code": "IN-RJ-1275666",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-RJ",
+      "latitude": 28.16667,
+      "longitude": 73.16667
     },
     {
       "id": 1274041,
@@ -181,7 +181,7 @@
     },
     {
       "id": 1269519,
-      "name": "Jaipur",
+      "name": "Jaipur district",
       "nativeName": "Jaipur",
       "code": "IN-RJ-1269519",
       "countryId": 1269750,
@@ -225,7 +225,7 @@
     },
     {
       "id": 1268937,
-      "name": "Jhunjhunu",
+      "name": "Jhunjhunu district",
       "nativeName": "Jhunjhunūn",
       "code": "IN-RJ-1268937",
       "countryId": 1269750,

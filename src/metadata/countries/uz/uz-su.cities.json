@@ -37,6 +37,17 @@
       "longitude": 67.25
     },
     {
+      "id": 1217476,
+      "name": "Denov District",
+      "nativeName": "Denov Tumani",
+      "code": "UZ-SU-1217476",
+      "countryId": 1512440,
+      "countryCode": "UZ",
+      "stateCode": "UZ-SU",
+      "latitude": 38.32684,
+      "longitude": 67.83372
+    },
+    {
       "id": 1346537,
       "name": "Denov Shahri",
       "nativeName": "Denov Shahri",
@@ -46,17 +57,6 @@
       "stateCode": "UZ-SU",
       "latitude": 38.26667,
       "longitude": 67.9
-    },
-    {
-      "id": 1217476,
-      "name": "Denov Tumani",
-      "nativeName": "Denov Tumani",
-      "code": "UZ-SU-1217476",
-      "countryId": 1512440,
-      "countryCode": "UZ",
-      "stateCode": "UZ-SU",
-      "latitude": 38.32684,
-      "longitude": 67.83372
     },
     {
       "id": 1217391,
@@ -115,7 +115,7 @@
     },
     {
       "id": 1216243,
-      "name": "Sariosiyo Tumani",
+      "name": "Sariosiyo District",
       "nativeName": "Sariosiyo Tumani",
       "code": "UZ-SU-1216243",
       "countryId": 1512440,
@@ -137,7 +137,7 @@
     },
     {
       "id": 1216113,
-      "name": "Sho‘rchi Tumani",
+      "name": "Shoʻrchi District",
       "nativeName": "Sho‘rchi Tumani",
       "code": "UZ-SU-1216113",
       "countryId": 1512440,

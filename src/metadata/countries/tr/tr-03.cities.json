@@ -4,6 +4,17 @@
   "countryCode": "TR",
   "cities": [
     {
+      "id": 7732070,
+      "name": "Afyonkarahisar",
+      "nativeName": "Afyonkarahisar",
+      "code": "TR-03-7732070",
+      "countryId": 298795,
+      "countryCode": "TR",
+      "stateCode": "TR-03",
+      "latitude": 38.79698,
+      "longitude": 30.51951
+    },
+    {
       "id": 8632476,
       "name": "Bayat İlçesi",
       "nativeName": "Bayat İlçesi",
@@ -101,17 +112,6 @@
       "stateCode": "TR-03",
       "latitude": 38.26794,
       "longitude": 30.1575
-    },
-    {
-      "id": 7732070,
-      "name": "Merkez",
-      "nativeName": "Merkez",
-      "code": "TR-03-7732070",
-      "countryId": 298795,
-      "countryCode": "TR",
-      "stateCode": "TR-03",
-      "latitude": 38.79698,
-      "longitude": 30.51951
     },
     {
       "id": 8632468,

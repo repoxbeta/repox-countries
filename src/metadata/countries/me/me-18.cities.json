@@ -5,7 +5,7 @@
   "cities": [
     {
       "id": 3191222,
-      "name": "Savnik",
+      "name": "Šavnik",
       "nativeName": "Šavnik",
       "code": "ME-18-3191222",
       "countryId": 3194884,
@@ -598,17 +598,6 @@
       "longitude": 19.30639
     },
     {
-      "id": 3342415,
-      "name": "Suvo Polje",
-      "nativeName": "Suvo Polje",
-      "code": "ME-18-3342415",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-18",
-      "latitude": 43.00528,
-      "longitude": 19.01667
-    },
-    {
       "id": 3303708,
       "name": "Suvo Polje",
       "nativeName": "Suvo Polje",
@@ -618,6 +607,17 @@
       "stateCode": "ME-18",
       "latitude": 43.01083,
       "longitude": 19.02361
+    },
+    {
+      "id": 3342415,
+      "name": "Suvo Polje",
+      "nativeName": "Suvo Polje",
+      "code": "ME-18-3342415",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-18",
+      "latitude": 43.00528,
+      "longitude": 19.01667
     },
     {
       "id": 3188596,

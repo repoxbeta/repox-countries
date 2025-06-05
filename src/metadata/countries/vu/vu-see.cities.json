@@ -411,6 +411,17 @@
       "longitude": 168.51667
     },
     {
+      "id": 2136621,
+      "name": "Laonomoa",
+      "nativeName": "Launamoa",
+      "code": "VU-SEE-2136621",
+      "countryId": 2134431,
+      "countryCode": "VU",
+      "stateCode": "VU-SEE",
+      "latitude": -17.49796,
+      "longitude": 168.41793
+    },
+    {
       "id": 2136620,
       "name": "Laosake",
       "nativeName": "Laosake",
@@ -420,17 +431,6 @@
       "stateCode": "VU-SEE",
       "latitude": -17.49253,
       "longitude": 168.48885
-    },
-    {
-      "id": 2136621,
-      "name": "Launamoa",
-      "nativeName": "Launamoa",
-      "code": "VU-SEE-2136621",
-      "countryId": 2134431,
-      "countryCode": "VU",
-      "stateCode": "VU-SEE",
-      "latitude": -17.49796,
-      "longitude": 168.41793
     },
     {
       "id": 2136526,
@@ -576,6 +576,17 @@
       "longitude": 168.43045
     },
     {
+      "id": 2136120,
+      "name": "Malaliou",
+      "nativeName": "Malaliu",
+      "code": "VU-SEE-2136120",
+      "countryId": 2134431,
+      "countryCode": "VU",
+      "stateCode": "VU-SEE",
+      "latitude": -17.46898,
+      "longitude": 168.37275
+    },
+    {
       "id": 2136119,
       "name": "Malaliou",
       "nativeName": "Malaliou",
@@ -585,17 +596,6 @@
       "stateCode": "VU-SEE",
       "latitude": -17.63333,
       "longitude": 168.2
-    },
-    {
-      "id": 2136120,
-      "name": "Malaliu",
-      "nativeName": "Malaliu",
-      "code": "VU-SEE-2136120",
-      "countryId": 2134431,
-      "countryCode": "VU",
-      "stateCode": "VU-SEE",
-      "latitude": -17.46898,
-      "longitude": 168.37275
     },
     {
       "id": 2136115,
@@ -697,17 +697,6 @@
       "longitude": 168.6
     },
     {
-      "id": 2136043,
-      "name": "Mapoua",
-      "nativeName": "Mapua",
-      "code": "VU-SEE-2136043",
-      "countryId": 2134431,
-      "countryCode": "VU",
-      "stateCode": "VU-SEE",
-      "latitude": -17.47628,
-      "longitude": 168.49555
-    },
-    {
       "id": 2136042,
       "name": "Mapouna",
       "nativeName": "Mapouna",
@@ -717,6 +706,17 @@
       "stateCode": "VU-SEE",
       "latitude": -16.6,
       "longitude": 168.2
+    },
+    {
+      "id": 2136043,
+      "name": "Mapua",
+      "nativeName": "Mapua",
+      "code": "VU-SEE-2136043",
+      "countryId": 2134431,
+      "countryCode": "VU",
+      "stateCode": "VU-SEE",
+      "latitude": -17.47628,
+      "longitude": 168.49555
     },
     {
       "id": 2136038,
@@ -939,17 +939,6 @@
       "longitude": 168.21814
     },
     {
-      "id": 2135568,
-      "name": "Ne Kapa",
-      "nativeName": "Ne Kapa",
-      "code": "VU-SEE-2135568",
-      "countryId": 2134431,
-      "countryCode": "VU",
-      "stateCode": "VU-SEE",
-      "latitude": -17.48052,
-      "longitude": 168.36567
-    },
-    {
       "id": 2135592,
       "name": "Ngalavasorou",
       "nativeName": "Ngalavasorou",
@@ -973,7 +962,7 @@
     },
     {
       "id": 2135582,
-      "name": "Ngouroua",
+      "name": "Ngurua",
       "nativeName": "Ngurua",
       "code": "VU-SEE-2135582",
       "countryId": 2134431,
@@ -992,6 +981,17 @@
       "stateCode": "VU-SEE",
       "latitude": -16.65,
       "longitude": 168.21667
+    },
+    {
+      "id": 2135568,
+      "name": "Nikapa",
+      "nativeName": "Ne Kapa",
+      "code": "VU-SEE-2135568",
+      "countryId": 2134431,
+      "countryCode": "VU",
+      "stateCode": "VU-SEE",
+      "latitude": -17.48052,
+      "longitude": 168.36567
     },
     {
       "id": 2135551,
@@ -1192,6 +1192,17 @@
       "longitude": 168.36667
     },
     {
+      "id": 2135290,
+      "name": "Péléworéarou",
+      "nativeName": "Worearu",
+      "code": "VU-SEE-2135290",
+      "countryId": 2134431,
+      "countryCode": "VU",
+      "stateCode": "VU-SEE",
+      "latitude": -17.48629,
+      "longitude": 168.39332
+    },
+    {
       "id": 2135346,
       "name": "P̄ang-P̄ang",
       "nativeName": "P̄ang-P̄ang",
@@ -1214,6 +1225,17 @@
       "longitude": 168.53333
     },
     {
+      "id": 2135010,
+      "name": "Rewoka Naboa",
+      "nativeName": "Rewoka Napua",
+      "code": "VU-SEE-2135010",
+      "countryId": 2134431,
+      "countryCode": "VU",
+      "stateCode": "VU-SEE",
+      "latitude": -17.44907,
+      "longitude": 168.36246
+    },
+    {
       "id": 2135009,
       "name": "Rewoka Namalachi",
       "nativeName": "Rewoka Namalasi",
@@ -1223,17 +1245,6 @@
       "stateCode": "VU-SEE",
       "latitude": -17.45261,
       "longitude": 168.3667
-    },
-    {
-      "id": 2135010,
-      "name": "Rewoka Napua",
-      "nativeName": "Rewoka Napua",
-      "code": "VU-SEE-2135010",
-      "countryId": 2134431,
-      "countryCode": "VU",
-      "stateCode": "VU-SEE",
-      "latitude": -17.44907,
-      "longitude": 168.36246
     },
     {
       "id": 2134994,
@@ -1619,17 +1630,6 @@
       "stateCode": "VU-SEE",
       "latitude": -17.48333,
       "longitude": 168.36667
-    },
-    {
-      "id": 2135290,
-      "name": "Worearu",
-      "nativeName": "Worearu",
-      "code": "VU-SEE-2135290",
-      "countryId": 2134431,
-      "countryCode": "VU",
-      "stateCode": "VU-SEE",
-      "latitude": -17.48629,
-      "longitude": 168.39332
     },
     {
       "id": 2206441,

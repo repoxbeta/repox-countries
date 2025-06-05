@@ -11,8 +11,30 @@
       "countryId": 2453866,
       "countryCode": "ML",
       "stateCode": "ML-10",
-      "latitude": 22.67443,
-      "longitude": -3.97891
+      "latitude": 22.67691,
+      "longitude": -3.97922
+    },
+    {
+      "id": 6773828,
+      "name": "Agorgot",
+      "nativeName": "Agorgot",
+      "code": "ML-10-6773828",
+      "countryId": 2453866,
+      "countryCode": "ML",
+      "stateCode": "ML-10",
+      "latitude": 22.64519,
+      "longitude": -4.00933
+    },
+    {
+      "id": 2460954,
+      "name": "Araouane",
+      "nativeName": "Araouane",
+      "code": "ML-10-2460954",
+      "countryId": 2453866,
+      "countryCode": "ML",
+      "stateCode": "ML-10",
+      "latitude": 18.90476,
+      "longitude": -3.52649
     }
   ]
 }

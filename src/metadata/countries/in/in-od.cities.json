@@ -27,7 +27,7 @@
     },
     {
       "id": 1277600,
-      "name": "Balasore District",
+      "name": "Baleshwar",
       "nativeName": "Bāleshwar",
       "code": "IN-OD-1277600",
       "countryId": 1269750,
@@ -48,17 +48,6 @@
       "longitude": 83.61667
     },
     {
-      "id": 8996923,
-      "name": "Bauda District",
-      "nativeName": "Baudh",
-      "code": "IN-OD-8996923",
-      "countryId": 1269750,
-      "countryCode": "IN",
-      "stateCode": "IN-OD",
-      "latitude": 20.833,
-      "longitude": 84.333
-    },
-    {
       "id": 7644924,
       "name": "Bhadrak",
       "nativeName": "Bhadrak",
@@ -68,6 +57,17 @@
       "stateCode": "IN-OD",
       "latitude": 21,
       "longitude": 86.6
+    },
+    {
+      "id": 8996923,
+      "name": "Boudh",
+      "nativeName": "Baudh",
+      "code": "IN-OD-8996923",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-OD",
+      "latitude": 20.833,
+      "longitude": 84.333
     },
     {
       "id": 1273781,
@@ -93,7 +93,7 @@
     },
     {
       "id": 1272781,
-      "name": "Dhenkanal",
+      "name": "Dhenkānāl District",
       "nativeName": "Dhenkānāl",
       "code": "IN-OD-1272781",
       "countryId": 1269750,
@@ -104,7 +104,7 @@
     },
     {
       "id": 8533699,
-      "name": "Gajapati",
+      "name": "Gajapati District",
       "nativeName": "Gajapati",
       "code": "IN-OD-8533699",
       "countryId": 1269750,
@@ -137,7 +137,7 @@
     },
     {
       "id": 9645384,
-      "name": "Jajapur",
+      "name": "Jajpur District",
       "nativeName": "Jajpur",
       "code": "IN-OD-9645384",
       "countryId": 1269750,
@@ -258,7 +258,7 @@
     },
     {
       "id": 8986741,
-      "name": "Nayagarh",
+      "name": "Nayagarh District",
       "nativeName": "Nayagarh District",
       "code": "IN-OD-8986741",
       "countryId": 1269750,
@@ -324,7 +324,7 @@
     },
     {
       "id": 1255438,
-      "name": "Sundargarh",
+      "name": "Sundergarh district",
       "nativeName": "Sundargarh",
       "code": "IN-OD-1255438",
       "countryId": 1269750,

@@ -5,7 +5,7 @@
     {
       "id": 3699699,
       "name": "Amazonas",
-      "nativeName": "Amazonas",
+      "nativeName": "Departamento de Amazonas",
       "code": "PE-AMA",
       "internalCode": "AMA",
       "countryId": 3932488,
@@ -16,7 +16,7 @@
     {
       "id": 3699674,
       "name": "Ancash",
-      "nativeName": "Ancash",
+      "nativeName": "Departamento de Ancash",
       "code": "PE-ANC",
       "internalCode": "ANC",
       "countryId": 3932488,
@@ -27,7 +27,7 @@
     {
       "id": 3947421,
       "name": "Apurímac Department",
-      "nativeName": "Región de Apurímac",
+      "nativeName": "Departamento de Apurímac",
       "code": "PE-APU",
       "internalCode": "APU",
       "countryId": 3932488,
@@ -38,7 +38,7 @@
     {
       "id": 3947319,
       "name": "Arequipa",
-      "nativeName": "Arequipa",
+      "nativeName": "Departamento de Arequipa",
       "code": "PE-ARE",
       "internalCode": "ARE",
       "countryId": 3932488,
@@ -49,7 +49,7 @@
     {
       "id": 3947018,
       "name": "Ayacucho",
-      "nativeName": "Ayacucho",
+      "nativeName": "Departamento de Ayacucho",
       "code": "PE-AYA",
       "internalCode": "AYA",
       "countryId": 3932488,
@@ -60,7 +60,7 @@
     {
       "id": 3699087,
       "name": "Cajamarca Department",
-      "nativeName": "Cajamarca",
+      "nativeName": "Departamento de Cajamarca",
       "code": "PE-CAJ",
       "internalCode": "CAJ",
       "countryId": 3932488,
@@ -69,20 +69,9 @@
       "longitude": -78.83333
     },
     {
-      "id": 3946080,
-      "name": "Callao",
-      "nativeName": "Callao",
-      "code": "PE-CAL",
-      "internalCode": "CAL",
-      "countryId": 3932488,
-      "countryCode": "PE",
-      "latitude": -12.05139,
-      "longitude": -77.125
-    },
-    {
       "id": 3941583,
       "name": "Cuzco Department",
-      "nativeName": "Cusco",
+      "nativeName": "Departamento de Cusco",
       "code": "PE-CUS",
       "internalCode": "CUS",
       "countryId": 3932488,
@@ -93,7 +82,7 @@
     {
       "id": 3939467,
       "name": "Huancavelica",
-      "nativeName": "Huancavelica",
+      "nativeName": "Departamento de Huancavelica",
       "code": "PE-HUV",
       "internalCode": "HUV",
       "countryId": 3932488,
@@ -104,7 +93,7 @@
     {
       "id": 3696416,
       "name": "Huánuco Department",
-      "nativeName": "Región de Huánuco",
+      "nativeName": "Departamento de Huánuco",
       "code": "PE-HUC",
       "internalCode": "HUC",
       "countryId": 3932488,
@@ -115,18 +104,18 @@
     {
       "id": 3938526,
       "name": "Ica",
-      "nativeName": "Ica",
+      "nativeName": "Departamento de Ica",
       "code": "PE-ICA",
       "internalCode": "ICA",
       "countryId": 3932488,
       "countryCode": "PE",
-      "latitude": -14.3325,
-      "longitude": -75.49972
+      "latitude": -14.23333,
+      "longitude": -75.56667
     },
     {
       "id": 3937485,
       "name": "Junin",
-      "nativeName": "Junín",
+      "nativeName": "Departamento de Junín",
       "code": "PE-JUN",
       "internalCode": "JUN",
       "countryId": 3932488,
@@ -137,7 +126,7 @@
     {
       "id": 3695781,
       "name": "La Libertad",
-      "nativeName": "La Libertad",
+      "nativeName": "Departamento de La Libertad",
       "code": "PE-LAL",
       "internalCode": "LAL",
       "countryId": 3932488,
@@ -148,7 +137,7 @@
     {
       "id": 3695753,
       "name": "Lambayeque",
-      "nativeName": "Lambayeque",
+      "nativeName": "Departamento de Lambayeque",
       "code": "PE-LAM",
       "internalCode": "LAM",
       "countryId": 3932488,
@@ -170,7 +159,7 @@
     {
       "id": 3936452,
       "name": "Lima region",
-      "nativeName": "Lima",
+      "nativeName": "Departamento de Lima",
       "code": "PE-LIM",
       "internalCode": "LIM",
       "countryId": 3932488,
@@ -181,7 +170,7 @@
     {
       "id": 3695238,
       "name": "Loreto",
-      "nativeName": "Loreto",
+      "nativeName": "Departamento de Loreto",
       "code": "PE-LOR",
       "internalCode": "LOR",
       "countryId": 3932488,
@@ -192,7 +181,7 @@
     {
       "id": 3935619,
       "name": "Madre de Dios",
-      "nativeName": "Madre de Dios",
+      "nativeName": "Departamento de Madre de Dios",
       "code": "PE-MDD",
       "internalCode": "MDD",
       "countryId": 3932488,
@@ -214,7 +203,7 @@
     {
       "id": 3932834,
       "name": "Pasco",
-      "nativeName": "Pasco",
+      "nativeName": "Departamento de Pasco",
       "code": "PE-PAS",
       "internalCode": "PAS",
       "countryId": 3932488,
@@ -225,7 +214,7 @@
     {
       "id": 3693525,
       "name": "Piura",
-      "nativeName": "Piura",
+      "nativeName": "Departamento de Piura",
       "code": "PE-PIU",
       "internalCode": "PIU",
       "countryId": 3932488,
@@ -234,9 +223,20 @@
       "longitude": -80.33333
     },
     {
+      "id": 3946080,
+      "name": "Provincia Constitucional del Callao",
+      "nativeName": "Provincia Constitucional del Callao",
+      "code": "PE-CAL",
+      "internalCode": "CAL",
+      "countryId": 3932488,
+      "countryCode": "PE",
+      "latitude": -11.91667,
+      "longitude": -77.11667
+    },
+    {
       "id": 3931275,
       "name": "Puno",
-      "nativeName": "Puno",
+      "nativeName": "Departamento de Puno",
       "code": "PE-PUN",
       "internalCode": "PUN",
       "countryId": 3932488,
@@ -247,7 +247,7 @@
     {
       "id": 3692385,
       "name": "San Martín Department",
-      "nativeName": "Región de San Martín",
+      "nativeName": "Departamento de San Martín",
       "code": "PE-SAM",
       "internalCode": "SAM",
       "countryId": 3932488,
@@ -258,7 +258,7 @@
     {
       "id": 3928127,
       "name": "Tacna",
-      "nativeName": "Tacna",
+      "nativeName": "Departamento de Tacna",
       "code": "PE-TAC",
       "internalCode": "TAC",
       "countryId": 3932488,
@@ -269,7 +269,7 @@
     {
       "id": 3691146,
       "name": "Tumbes",
-      "nativeName": "Tumbes",
+      "nativeName": "Departamento de Tumbes",
       "code": "PE-TUM",
       "internalCode": "TUM",
       "countryId": 3932488,
@@ -280,7 +280,7 @@
     {
       "id": 3691099,
       "name": "Ucayali",
-      "nativeName": "Ucayali",
+      "nativeName": "Departamento de Ucayali",
       "code": "PE-UCA",
       "internalCode": "UCA",
       "countryId": 3932488,

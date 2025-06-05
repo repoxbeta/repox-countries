@@ -27,7 +27,7 @@
     },
     {
       "id": 7646145,
-      "name": "Chennai district",
+      "name": "Chennai",
       "nativeName": "Chennai",
       "code": "IN-TN-7646145",
       "countryId": 1269750,
@@ -79,17 +79,6 @@
       "stateCode": "IN-TN",
       "latitude": 10.4,
       "longitude": 77.8
-    },
-    {
-      "id": 6640313,
-      "name": "District of Namakkal",
-      "nativeName": "Namakkal",
-      "code": "IN-TN-6640313",
-      "countryId": 1269750,
-      "countryCode": "IN",
-      "stateCode": "IN-TN",
-      "latitude": 11.3,
-      "longitude": 78.13
     },
     {
       "id": 8223995,
@@ -191,6 +180,17 @@
       "longitude": 79.74
     },
     {
+      "id": 6640313,
+      "name": "Namakkal district",
+      "nativeName": "Namakkal",
+      "code": "IN-TN-6640313",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-TN",
+      "latitude": 11.3,
+      "longitude": 78.13
+    },
+    {
       "id": 1261391,
       "name": "Nilgiris District",
       "nativeName": "Nilgiris",
@@ -247,7 +247,7 @@
     },
     {
       "id": 1257630,
-      "name": "Salem",
+      "name": "Salem district",
       "nativeName": "Salem",
       "code": "IN-TN-1257630",
       "countryId": 1269750,
@@ -291,7 +291,7 @@
     },
     {
       "id": 7646155,
-      "name": "Theni District",
+      "name": "Theni",
       "nativeName": "Theni",
       "code": "IN-TN-7646155",
       "countryId": 1269750,
@@ -302,7 +302,7 @@
     },
     {
       "id": 7627241,
-      "name": "Thiruvallur",
+      "name": "Thiruvallur District",
       "nativeName": "Thiruvallur",
       "code": "IN-TN-7627241",
       "countryId": 1269750,
@@ -321,6 +321,17 @@
       "stateCode": "IN-TN",
       "latitude": 10.66,
       "longitude": 79.55
+    },
+    {
+      "id": 1254389,
+      "name": "Tiruchirappalli",
+      "nativeName": "Tiruchirappalli",
+      "code": "IN-TN-1254389",
+      "countryId": 1269750,
+      "countryCode": "IN",
+      "stateCode": "IN-TN",
+      "latitude": 10.97,
+      "longitude": 78.65
     },
     {
       "id": 7874380,
@@ -346,7 +357,7 @@
     },
     {
       "id": 9748021,
-      "name": "Tiruppur district",
+      "name": "Tiruppur",
       "nativeName": "Tiruppur",
       "code": "IN-TN-9748021",
       "countryId": 1269750,
@@ -357,7 +368,7 @@
     },
     {
       "id": 7646147,
-      "name": "Tiruvannamalai District",
+      "name": "Tiruvannamalai",
       "nativeName": "Tiruvannamalai",
       "code": "IN-TN-7646147",
       "countryId": 1269750,
@@ -365,17 +376,6 @@
       "stateCode": "IN-TN",
       "latitude": 12.51,
       "longitude": 79.09
-    },
-    {
-      "id": 1254389,
-      "name": "Trichinopoly District",
-      "nativeName": "Tiruchirappalli",
-      "code": "IN-TN-1254389",
-      "countryId": 1269750,
-      "countryCode": "IN",
-      "stateCode": "IN-TN",
-      "latitude": 10.97,
-      "longitude": 78.65
     },
     {
       "id": 7627069,

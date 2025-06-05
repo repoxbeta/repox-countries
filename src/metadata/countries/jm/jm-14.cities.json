@@ -466,6 +466,17 @@
       "longitude": -76.88804
     },
     {
+      "id": 11495041,
+      "name": "Saint John's West",
+      "nativeName": "St. John's West",
+      "code": "JM-14-11495041",
+      "countryId": 3489940,
+      "countryCode": "JM",
+      "stateCode": "JM-14",
+      "latitude": 18.00539,
+      "longitude": -77.00755
+    },
+    {
       "id": 11495162,
       "name": "Saint Johns East",
       "nativeName": "St. John's East",
@@ -475,17 +486,6 @@
       "stateCode": "JM-14",
       "latitude": 18.0009,
       "longitude": -76.97466
-    },
-    {
-      "id": 11495041,
-      "name": "Saint Johns West",
-      "nativeName": "St. John's West",
-      "code": "JM-14-11495041",
-      "countryId": 3489940,
-      "countryCode": "JM",
-      "stateCode": "JM-14",
-      "latitude": 18.00539,
-      "longitude": -77.00755
     },
     {
       "id": 11495050,

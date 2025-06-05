@@ -345,17 +345,6 @@
       "longitude": 13.90822
     },
     {
-      "id": 3192696,
-      "name": "Poreč",
-      "nativeName": "Grad Poreč",
-      "code": "HR-18-3192696",
-      "countryId": 3202326,
-      "countryCode": "HR",
-      "stateCode": "HR-18",
-      "latitude": 45.25,
-      "longitude": 13.66667
-    },
-    {
       "id": 3192222,
       "name": "Pula",
       "nativeName": "Grad Pula",
@@ -420,6 +409,17 @@
       "stateCode": "HR-18",
       "latitude": 45.23333,
       "longitude": 13.93333
+    },
+    {
+      "id": 3192696,
+      "name": "Town of Poreč - Parenzo",
+      "nativeName": "Grad Poreč",
+      "code": "HR-18-3192696",
+      "countryId": 3202326,
+      "countryCode": "HR",
+      "stateCode": "HR-18",
+      "latitude": 45.25,
+      "longitude": 13.66667
     },
     {
       "id": 3191516,

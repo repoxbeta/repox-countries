@@ -26,7 +26,7 @@
     },
     {
       "id": 408654,
-      "name": "Blue Nile State",
+      "name": "Blue Nile",
       "nativeName": "Blue Nile",
       "code": "SD-NB",
       "internalCode": "NB",
@@ -91,17 +91,6 @@
       "longitude": 29.93333
     },
     {
-      "id": 378389,
-      "name": "Northern",
-      "nativeName": "Northern",
-      "code": "SD-NO",
-      "internalCode": "NO",
-      "countryId": 366755,
-      "countryCode": "SD",
-      "latitude": 19.3,
-      "longitude": 29.5
-    },
-    {
       "id": 408666,
       "name": "Northern Darfur",
       "nativeName": "North Darfur",
@@ -113,8 +102,19 @@
       "longitude": 25.5
     },
     {
+      "id": 378389,
+      "name": "Northern State",
+      "nativeName": "Northern",
+      "code": "SD-NO",
+      "internalCode": "NO",
+      "countryId": 366755,
+      "countryCode": "SD",
+      "latitude": 19.3,
+      "longitude": 29.5
+    },
+    {
       "id": 408646,
-      "name": "Red Sea State",
+      "name": "Red Sea",
       "nativeName": "Red Sea",
       "code": "SD-RS",
       "internalCode": "RS",
@@ -180,7 +180,7 @@
     },
     {
       "id": 408659,
-      "name": "Western Kordofan",
+      "name": "Western Kordofan State",
       "nativeName": "West Kordofan State",
       "code": "SD-GK",
       "internalCode": "GK",

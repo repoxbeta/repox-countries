@@ -796,17 +796,6 @@
       "longitude": 18.93722
     },
     {
-      "id": 3317899,
-      "name": "Zabrđe",
-      "nativeName": "Zabrđe",
-      "code": "ME-15-3317899",
-      "countryId": 3194884,
-      "countryCode": "ME",
-      "stateCode": "ME-15",
-      "latitude": 43.04361,
-      "longitude": 18.90833
-    },
-    {
       "id": 3296647,
       "name": "Zabrđe",
       "nativeName": "Zabrđe",
@@ -816,6 +805,17 @@
       "stateCode": "ME-15",
       "latitude": 43.02806,
       "longitude": 18.86528
+    },
+    {
+      "id": 3317899,
+      "name": "Zabrđe",
+      "nativeName": "Zabrđe",
+      "code": "ME-15-3317899",
+      "countryId": 3194884,
+      "countryCode": "ME",
+      "stateCode": "ME-15",
+      "latitude": 43.04361,
+      "longitude": 18.90833
     },
     {
       "id": 3186972,

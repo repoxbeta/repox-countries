@@ -15,50 +15,6 @@
       "longitude": 169.28167
     },
     {
-      "id": 12200756,
-      "name": "Amplithei",
-      "nativeName": "Amplithei",
-      "code": "VU-TAE-12200756",
-      "countryId": 2134431,
-      "countryCode": "VU",
-      "stateCode": "VU-TAE",
-      "latitude": -20.2361,
-      "longitude": 169.81597
-    },
-    {
-      "id": 12200753,
-      "name": "Anadwei",
-      "nativeName": "Anadwei",
-      "code": "VU-TAE-12200753",
-      "countryId": 2134431,
-      "countryCode": "VU",
-      "stateCode": "VU-TAE",
-      "latitude": -20.23697,
-      "longitude": 169.8025
-    },
-    {
-      "id": 12200746,
-      "name": "Anahajeninkajae",
-      "nativeName": "Anahajeninkajae",
-      "code": "VU-TAE-12200746",
-      "countryId": 2134431,
-      "countryCode": "VU",
-      "stateCode": "VU-TAE",
-      "latitude": -20.23549,
-      "longitude": 169.78805
-    },
-    {
-      "id": 12200751,
-      "name": "Analvingyec",
-      "nativeName": "Analvingyec",
-      "code": "VU-TAE-12200751",
-      "countryId": 2134431,
-      "countryCode": "VU",
-      "stateCode": "VU-TAE",
-      "latitude": -20.23483,
-      "longitude": 169.79446
-    },
-    {
       "id": 2137556,
       "name": "Anawamet",
       "nativeName": "Anawamet",
@@ -68,17 +24,6 @@
       "stateCode": "VU-TAE",
       "latitude": -20.13814,
       "longitude": 169.82975
-    },
-    {
-      "id": 12200760,
-      "name": "Anecdae",
-      "nativeName": "Anecdae",
-      "code": "VU-TAE-12200760",
-      "countryId": 2134431,
-      "countryCode": "VU",
-      "stateCode": "VU-TAE",
-      "latitude": -20.24242,
-      "longitude": 169.84637
     },
     {
       "id": 2137550,
@@ -103,17 +48,6 @@
       "longitude": 169.78289
     },
     {
-      "id": 12200740,
-      "name": "Anelluhu",
-      "nativeName": "Anelluhu",
-      "code": "VU-TAE-12200740",
-      "countryId": 2134431,
-      "countryCode": "VU",
-      "stateCode": "VU-TAE",
-      "latitude": -20.23215,
-      "longitude": 169.77496
-    },
-    {
       "id": 2137547,
       "name": "Anemtanhi",
       "nativeName": "Anemtanhi",
@@ -123,50 +57,6 @@
       "stateCode": "VU-TAE",
       "latitude": -20.14832,
       "longitude": 169.85389
-    },
-    {
-      "id": 12200764,
-      "name": "Aneuthan Nomo",
-      "nativeName": "Aneuthan Nomo",
-      "code": "VU-TAE-12200764",
-      "countryId": 2134431,
-      "countryCode": "VU",
-      "stateCode": "VU-TAE",
-      "latitude": -20.24239,
-      "longitude": 169.85387
-    },
-    {
-      "id": 12200761,
-      "name": "Animi",
-      "nativeName": "Animi",
-      "code": "VU-TAE-12200761",
-      "countryId": 2134431,
-      "countryCode": "VU",
-      "stateCode": "VU-TAE",
-      "latitude": -20.24042,
-      "longitude": 169.84751
-    },
-    {
-      "id": 12200742,
-      "name": "Anirinbakel",
-      "nativeName": "Anirinbakel",
-      "code": "VU-TAE-12200742",
-      "countryId": 2134431,
-      "countryCode": "VU",
-      "stateCode": "VU-TAE",
-      "latitude": -20.23524,
-      "longitude": 169.78552
-    },
-    {
-      "id": 12200744,
-      "name": "Anisinecen",
-      "nativeName": "Anisinecen",
-      "code": "VU-TAE-12200744",
-      "countryId": 2134431,
-      "countryCode": "VU",
-      "stateCode": "VU-TAE",
-      "latitude": -20.24211,
-      "longitude": 169.78238
     },
     {
       "id": 2137537,
@@ -211,39 +101,6 @@
       "stateCode": "VU-TAE",
       "latitude": -20.24185,
       "longitude": 169.82754
-    },
-    {
-      "id": 12200741,
-      "name": "Antap",
-      "nativeName": "Antap",
-      "code": "VU-TAE-12200741",
-      "countryId": 2134431,
-      "countryCode": "VU",
-      "stateCode": "VU-TAE",
-      "latitude": -20.23132,
-      "longitude": 169.77813
-    },
-    {
-      "id": 12200732,
-      "name": "Anwaitch",
-      "nativeName": "Anwaitch",
-      "code": "VU-TAE-12200732",
-      "countryId": 2134431,
-      "countryCode": "VU",
-      "stateCode": "VU-TAE",
-      "latitude": -20.20147,
-      "longitude": 169.74997
-    },
-    {
-      "id": 12200765,
-      "name": "Anwanhao",
-      "nativeName": "Anwanhao",
-      "code": "VU-TAE-12200765",
-      "countryId": 2134431,
-      "countryCode": "VU",
-      "stateCode": "VU-TAE",
-      "latitude": -20.2491,
-      "longitude": 169.85293
     },
     {
       "id": 2137520,
@@ -332,6 +189,17 @@
       "stateCode": "VU-TAE",
       "latitude": -19.36276,
       "longitude": 169.30141
+    },
+    {
+      "id": 12201418,
+      "name": "Enamel",
+      "nativeName": "Enamel",
+      "code": "VU-TAE-12201418",
+      "countryId": 2134431,
+      "countryCode": "VU",
+      "stateCode": "VU-TAE",
+      "latitude": -19.3647,
+      "longitude": 169.2575
     },
     {
       "id": 2137103,
@@ -431,6 +299,17 @@
       "stateCode": "VU-TAE",
       "latitude": -19.62792,
       "longitude": 169.35618
+    },
+    {
+      "id": 12201433,
+      "name": "Hebron",
+      "nativeName": "Hebron",
+      "code": "VU-TAE-12201433",
+      "countryId": 2134431,
+      "countryCode": "VU",
+      "stateCode": "VU-TAE",
+      "latitude": -19.33633,
+      "longitude": 169.26902
     },
     {
       "id": 2136896,
@@ -574,6 +453,17 @@
       "stateCode": "VU-TAE",
       "latitude": -19.56106,
       "longitude": 169.42775
+    },
+    {
+      "id": 12201442,
+      "name": "Ilanga",
+      "nativeName": "Ilanga",
+      "code": "VU-TAE-12201442",
+      "countryId": 2134431,
+      "countryCode": "VU",
+      "stateCode": "VU-TAE",
+      "latitude": -19.35382,
+      "longitude": 169.3051
     },
     {
       "id": 2136871,
@@ -730,17 +620,6 @@
       "longitude": 169.80556
     },
     {
-      "id": 12200733,
-      "name": "Ingowei",
-      "nativeName": "Ingowei",
-      "code": "VU-TAE-12200733",
-      "countryId": 2134431,
-      "countryCode": "VU",
-      "stateCode": "VU-TAE",
-      "latitude": -20.20558,
-      "longitude": 169.75502
-    },
-    {
       "id": 2136834,
       "name": "Ipenyen",
       "nativeName": "Ipenyen",
@@ -862,15 +741,15 @@
       "longitude": 169.77699
     },
     {
-      "id": 12200743,
-      "name": "Ithvarei",
-      "nativeName": "Ithvarei",
-      "code": "VU-TAE-12200743",
+      "id": 12201446,
+      "name": "Itonga",
+      "nativeName": "Itonga",
+      "code": "VU-TAE-12201446",
       "countryId": 2134431,
       "countryCode": "VU",
       "stateCode": "VU-TAE",
-      "latitude": -20.23979,
-      "longitude": 169.78248
+      "latitude": -19.36451,
+      "longitude": 169.29648
     },
     {
       "id": 2136807,
@@ -882,17 +761,6 @@
       "stateCode": "VU-TAE",
       "latitude": -19.5121,
       "longitude": 169.25345
-    },
-    {
-      "id": 12200739,
-      "name": "Ivanelhat",
-      "nativeName": "Ivanelhat",
-      "code": "VU-TAE-12200739",
-      "countryId": 2134431,
-      "countryCode": "VU",
-      "stateCode": "VU-TAE",
-      "latitude": -20.23309,
-      "longitude": 169.77262
     },
     {
       "id": 2136806,
@@ -928,6 +796,17 @@
       "longitude": 169.3
     },
     {
+      "id": 12201428,
+      "name": "Kontehei-ikin",
+      "nativeName": "Kontehei-ikin",
+      "code": "VU-TAE-12201428",
+      "countryId": 2134431,
+      "countryCode": "VU",
+      "stateCode": "VU-TAE",
+      "latitude": -19.34928,
+      "longitude": 169.25512
+    },
+    {
       "id": 2136700,
       "name": "Lahonui",
       "nativeName": "Lahonui",
@@ -950,6 +829,17 @@
       "longitude": 169.35312
     },
     {
+      "id": 12201419,
+      "name": "Lakaskasik",
+      "nativeName": "Lakaskasik",
+      "code": "VU-TAE-12201419",
+      "countryId": 2134431,
+      "countryCode": "VU",
+      "stateCode": "VU-TAE",
+      "latitude": -19.36251,
+      "longitude": 169.25511
+    },
+    {
       "id": 2136692,
       "name": "Laketam",
       "nativeName": "Laketam",
@@ -959,6 +849,17 @@
       "stateCode": "VU-TAE",
       "latitude": -19.36673,
       "longitude": 169.30612
+    },
+    {
+      "id": 12201421,
+      "name": "Lakhalu",
+      "nativeName": "Lakhalu",
+      "code": "VU-TAE-12201421",
+      "countryId": 2134431,
+      "countryCode": "VU",
+      "stateCode": "VU-TAE",
+      "latitude": -19.36153,
+      "longitude": 169.26071
     },
     {
       "id": 2136691,
@@ -981,6 +882,17 @@
       "stateCode": "VU-TAE",
       "latitude": -19.35817,
       "longitude": 169.26069
+    },
+    {
+      "id": 12201427,
+      "name": "Lamaling",
+      "nativeName": "Lamaling",
+      "code": "VU-TAE-12201427",
+      "countryId": 2134431,
+      "countryCode": "VU",
+      "stateCode": "VU-TAE",
+      "latitude": -19.35055,
+      "longitude": 169.25837
     },
     {
       "id": 2136305,
@@ -1016,6 +928,17 @@
       "longitude": 169.3
     },
     {
+      "id": 12201441,
+      "name": "Lampkaril",
+      "nativeName": "Lampkaril",
+      "code": "VU-TAE-12201441",
+      "countryId": 2134431,
+      "countryCode": "VU",
+      "stateCode": "VU-TAE",
+      "latitude": -19.34641,
+      "longitude": 169.29531
+    },
+    {
       "id": 2136596,
       "name": "Laroup",
       "nativeName": "Laroup",
@@ -1038,6 +961,17 @@
       "longitude": 169.31201
     },
     {
+      "id": 12201416,
+      "name": "Latatua",
+      "nativeName": "Latatua",
+      "code": "VU-TAE-12201416",
+      "countryId": 2134431,
+      "countryCode": "VU",
+      "stateCode": "VU-TAE",
+      "latitude": -19.36629,
+      "longitude": 169.25119
+    },
+    {
       "id": 2136619,
       "name": "Launaleng",
       "nativeName": "Launaleng",
@@ -1047,6 +981,17 @@
       "stateCode": "VU-TAE",
       "latitude": -19.37999,
       "longitude": 169.30978
+    },
+    {
+      "id": 12201426,
+      "name": "Lavis",
+      "nativeName": "Lavis",
+      "code": "VU-TAE-12201426",
+      "countryId": 2134431,
+      "countryCode": "VU",
+      "stateCode": "VU-TAE",
+      "latitude": -19.35244,
+      "longitude": 169.2602
     },
     {
       "id": 2136561,
@@ -1137,6 +1082,17 @@
       "longitude": 169.2775
     },
     {
+      "id": 12201430,
+      "name": "Lewiar",
+      "nativeName": "Lewiar",
+      "code": "VU-TAE-12201430",
+      "countryId": 2134431,
+      "countryCode": "VU",
+      "stateCode": "VU-TAE",
+      "latitude": -19.3423,
+      "longitude": 169.26233
+    },
+    {
       "id": 2136382,
       "name": "Loanengou",
       "nativeName": "Loanengou",
@@ -1157,6 +1113,17 @@
       "stateCode": "VU-TAE",
       "latitude": -19.47835,
       "longitude": 169.3806
+    },
+    {
+      "id": 12201440,
+      "name": "Lokarua",
+      "nativeName": "Lokarua",
+      "code": "VU-TAE-12201440",
+      "countryId": 2134431,
+      "countryCode": "VU",
+      "stateCode": "VU-TAE",
+      "latitude": -19.34333,
+      "longitude": 169.31
     },
     {
       "id": 2136447,
@@ -1324,6 +1291,28 @@
       "longitude": 169.31162
     },
     {
+      "id": 12201448,
+      "name": "Loukaolis",
+      "nativeName": "Loukaolis",
+      "code": "VU-TAE-12201448",
+      "countryId": 2134431,
+      "countryCode": "VU",
+      "stateCode": "VU-TAE",
+      "latitude": -19.37012,
+      "longitude": 169.30306
+    },
+    {
+      "id": 12201447,
+      "name": "Loukaramagen",
+      "nativeName": "Loukaramagen",
+      "code": "VU-TAE-12201447",
+      "countryId": 2134431,
+      "countryCode": "VU",
+      "stateCode": "VU-TAE",
+      "latitude": -19.36874,
+      "longitude": 169.30663
+    },
+    {
       "id": 2136369,
       "name": "Loukaru",
       "nativeName": "Loukaru",
@@ -1379,6 +1368,39 @@
       "longitude": 169.34798
     },
     {
+      "id": 12201417,
+      "name": "Lounapaiu",
+      "nativeName": "Lounapaiu",
+      "code": "VU-TAE-12201417",
+      "countryId": 2134431,
+      "countryCode": "VU",
+      "stateCode": "VU-TAE",
+      "latitude": -19.3653,
+      "longitude": 169.2496
+    },
+    {
+      "id": 12201436,
+      "name": "Lounapikruan",
+      "nativeName": "Lounapikruan",
+      "code": "VU-TAE-12201436",
+      "countryId": 2134431,
+      "countryCode": "VU",
+      "stateCode": "VU-TAE",
+      "latitude": -19.32903,
+      "longitude": 169.28331
+    },
+    {
+      "id": 12201429,
+      "name": "Lounapil",
+      "nativeName": "Lounapil",
+      "code": "VU-TAE-12201429",
+      "countryId": 2134431,
+      "countryCode": "VU",
+      "stateCode": "VU-TAE",
+      "latitude": -19.34665,
+      "longitude": 169.25537
+    },
+    {
       "id": 2136252,
       "name": "Lounapkamei",
       "nativeName": "Lounapkamei",
@@ -1410,6 +1432,17 @@
       "stateCode": "VU-TAE",
       "latitude": -19.50342,
       "longitude": 169.28787
+    },
+    {
+      "id": 12201435,
+      "name": "Lounatanu",
+      "nativeName": "Lounatanu",
+      "code": "VU-TAE-12201435",
+      "countryId": 2134431,
+      "countryCode": "VU",
+      "stateCode": "VU-TAE",
+      "latitude": -19.32948,
+      "longitude": 169.2792
     },
     {
       "id": 2136248,
@@ -1456,6 +1489,17 @@
       "longitude": 169.29946
     },
     {
+      "id": 12201425,
+      "name": "Lounoah",
+      "nativeName": "Lounoah",
+      "code": "VU-TAE-12201425",
+      "countryId": 2134431,
+      "countryCode": "VU",
+      "stateCode": "VU-TAE",
+      "latitude": -19.35541,
+      "longitude": 169.26161
+    },
+    {
       "id": 2136259,
       "name": "Lounou",
       "nativeName": "Lounou",
@@ -1476,6 +1520,17 @@
       "stateCode": "VU-TAE",
       "latitude": -19.43844,
       "longitude": 169.30306
+    },
+    {
+      "id": 12201439,
+      "name": "Lounuantop",
+      "nativeName": "Lounuantop",
+      "code": "VU-TAE-12201439",
+      "countryId": 2134431,
+      "countryCode": "VU",
+      "stateCode": "VU-TAE",
+      "latitude": -19.34334,
+      "longitude": 169.31537
     },
     {
       "id": 2136243,
@@ -1874,17 +1929,6 @@
       "longitude": 169.08388
     },
     {
-      "id": 12200745,
-      "name": "Unepelitap",
-      "nativeName": "Unepelitap",
-      "code": "VU-TAE-12200745",
-      "countryId": 2134431,
-      "countryCode": "VU",
-      "stateCode": "VU-TAE",
-      "latitude": -20.23882,
-      "longitude": 169.78644
-    },
-    {
       "id": 2134456,
       "name": "Unpongkor",
       "nativeName": "Unpongkor",
@@ -1894,28 +1938,6 @@
       "stateCode": "VU-TAE",
       "latitude": -18.81836,
       "longitude": 169.01947
-    },
-    {
-      "id": 12200736,
-      "name": "Utche",
-      "nativeName": "Utche",
-      "code": "VU-TAE-12200736",
-      "countryId": 2134431,
-      "countryCode": "VU",
-      "stateCode": "VU-TAE",
-      "latitude": -20.22308,
-      "longitude": 169.76574
-    },
-    {
-      "id": 12200750,
-      "name": "Uwonmohoc",
-      "nativeName": "Uwonmohoc",
-      "code": "VU-TAE-12200750",
-      "countryId": 2134431,
-      "countryCode": "VU",
-      "stateCode": "VU-TAE",
-      "latitude": -20.23265,
-      "longitude": 169.79427
     },
     {
       "id": 2134279,
@@ -1995,17 +2017,6 @@
       "longitude": 169.45632
     },
     {
-      "id": 12200730,
-      "name": "Yalela",
-      "nativeName": "Yalela",
-      "code": "VU-TAE-12200730",
-      "countryId": 2134431,
-      "countryCode": "VU",
-      "stateCode": "VU-TAE",
-      "latitude": -20.19387,
-      "longitude": 169.74724
-    },
-    {
       "id": 2134049,
       "name": "Yanemilen",
       "nativeName": "Yanemilen",
@@ -2048,17 +2059,6 @@
       "stateCode": "VU-TAE",
       "latitude": -19.56667,
       "longitude": 169.31667
-    },
-    {
-      "id": 12200749,
-      "name": "Yatalotu",
-      "nativeName": "Yatalotu",
-      "code": "VU-TAE-12200749",
-      "countryId": 2134431,
-      "countryCode": "VU",
-      "stateCode": "VU-TAE",
-      "latitude": -20.22682,
-      "longitude": 169.79168
     },
     {
       "id": 2134038,
